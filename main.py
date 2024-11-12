@@ -38,9 +38,13 @@ async def create_rss():
 @app.route('/rss')
 def rss_feed():
     try:
+        # Create a new event loop for handling the async function properly
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
         rss_content = loop.run_until_complete(create_rss())
+    except Exception as e:
+        # Return a response with the error message for easier debugging
+        return Response(f"Error: {str(e)}", status=500)
     finally:
         loop.close()
     return Response(rss_content, mimetype='application/rss+xml')
