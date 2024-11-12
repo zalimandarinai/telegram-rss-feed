@@ -15,7 +15,10 @@ string_session = '1BJWap1wBuxvIEZuYKdqntabibZ6egpHUNqvj025vuzmZLfaplPB258r_aect3
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 async def create_rss():
-    await client.start()  # No need for a phone number, using StringSession
+    # Ensure the client is connected before proceeding
+    if not client.is_connected():
+        await client.connect()
+    
     messages = await client.get_messages('Tsaplienko', limit=10)  # Replace 'Tsaplienko' with your channel username
 
     fg = FeedGenerator()
@@ -34,7 +37,12 @@ async def create_rss():
 
 @app.route('/rss')
 def rss_feed():
-    rss_content = asyncio.run(create_rss())
+    try:
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        rss_content = loop.run_until_complete(create_rss())
+    finally:
+        loop.close()
     return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
