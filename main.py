@@ -3,18 +3,19 @@ from telethon import TelegramClient
 from feedgen.feed import FeedGenerator
 import os
 import asyncio
+from telethon.sessions import StringSession
 
 app = Flask(__name__)
 
-# Telegram API credentials from environment variables
+# Telegram API credentials
 api_id = 29183291  # Provided API ID
 api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Provided API Hash
-phone_number = '+37065662110'  # Provided Telegram phone number
+string_session = '1BJWap1wBuxvIEZuYKdqntabibZ6egpHUNqvj025vuzmZLfaplPB258r_aect3-CvCjXY82fEkSuMH6XMvVM4nIgYalxIbSv8VptQNHxdfOYmP7-9dMZX99Hah961cggDWsnjEqWBKwlPZKRv1jD_92AFHMacKwZ2TrONeQoOAzSa7yny8tWfsp6hbAY-Ula4miRa_Of3UhStkXXNbdXo1zNLSQqjd_zwJQBCRSqwT0AldJVJUPuzY9KzyfbsyXaXkwHI6cQZX2Q0J1POSNGWh8geLB0mlfJ0qXxDaDykv-hNJDYZiuX0AQQoDZWohpRUcm7oeDP0-bLy3W4mM7tFHkYdOUY8QRo='  # Your generated String Session
 
-client = TelegramClient('session_name', api_id, api_hash)
+client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 async def create_rss():
-    await client.start(phone=phone_number)  # Start the client with the phone number
+    await client.start()  # No need for a phone number, using StringSession
     messages = await client.get_messages('Tsaplienko', limit=10)  # Replace 'Tsaplienko' with your channel username
 
     fg = FeedGenerator()
