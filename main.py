@@ -5,6 +5,7 @@ import os
 import asyncio
 from telethon.sessions import StringSession
 import logging
+from waitress import serve
 
 # Set up logging to help diagnose issues
 logging.basicConfig(level=logging.INFO)
@@ -60,7 +61,4 @@ def rss_feed():
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
-    from waitress import serve
-    import subprocess
-    subprocess.run(["pip", "install", "waitress"])
     serve(app, host="0.0.0.0", port=port)
