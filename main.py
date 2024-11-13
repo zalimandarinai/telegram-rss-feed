@@ -62,15 +62,19 @@ async def create_rss():
             try:
                 # Download media to a temporary file
                 media_path = await msg.download_media()
+                logger.info(f"Downloaded media to {media_path}")
 
                 # Upload media to Google Cloud Storage
                 blob_name = os.path.basename(media_path)
                 blob = bucket.blob(blob_name)
                 blob.upload_from_filename(media_path)
+                blob.content_type = 'image/jpeg' if hasattr(msg, 'photo') else 'video/mp4'
+                logger.info(f"Uploaded media to Google Cloud Storage: {blob_name}")
 
                 # Get the public URL of the uploaded media
                 blob.make_public()
                 media_url = blob.public_url
+                logger.info(f"Media URL: {media_url}")
 
                 # Add media as an enclosure
                 if hasattr(msg, 'photo') and msg.photo:
@@ -80,6 +84,7 @@ async def create_rss():
 
                 # Optionally delete the local file to save space
                 os.remove(media_path)
+                logger.info(f"Deleted local media file: {media_path}")
 
             except Exception as e:
                 logger.error(f"Error handling media: {e}")
