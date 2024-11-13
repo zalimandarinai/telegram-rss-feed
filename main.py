@@ -31,7 +31,7 @@ storage_client = storage.Client()
 loop = asyncio.get_event_loop()
 
 # Specify your bucket name here
-bucket_name = "makecom-projektas-bucket"  # Replace with your bucket name
+bucket_name = "telegram-media-storage"  # Updated bucket name to match the screenshot
 bucket = storage_client.bucket(bucket_name)
 
 async def create_rss():
@@ -72,8 +72,7 @@ async def create_rss():
                 logger.info(f"Uploaded media to Google Cloud Storage: {blob_name}")
 
                 # Get the public URL of the uploaded media
-                blob.make_public()
-                media_url = blob.public_url
+                media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
                 logger.info(f"Media URL: {media_url}")
 
                 # Add media as an enclosure
