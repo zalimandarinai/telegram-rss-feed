@@ -61,4 +61,6 @@ def rss_feed():
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
     from waitress import serve
+    import subprocess
+    subprocess.run(["pip", "install", "waitress"])
     serve(app, host="0.0.0.0", port=port)
