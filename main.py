@@ -23,7 +23,7 @@ string_session = '1BJWap1wBu7NUCDPv4i2I2ClI_ilTvfiNJXz2uEIFG1qdDiRM6rsoXjsaSzrqL
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # Load Google Cloud credentials
-credentials_path = "makecom-projektas-8a72ca1be499.json"  # Path to your JSON credentials file
+credentials_path = "/etc/secrets/makecom-projektas-8a72ca1be499.json"  # Path to your JSON credentials file
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
 storage_client = storage.Client()
 
@@ -31,7 +31,7 @@ storage_client = storage.Client()
 loop = asyncio.get_event_loop()
 
 # Specify your bucket name here
-bucket_name = "your-bucket-name"  # Replace with your bucket name
+bucket_name = "makecom-projektas-bucket"  # Replace with your bucket name
 bucket = storage_client.bucket(bucket_name)
 
 async def create_rss():
