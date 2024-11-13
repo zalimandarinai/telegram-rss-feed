@@ -6,6 +6,8 @@ import asyncio
 from telethon.sessions import StringSession
 import logging
 from waitress import serve
+from google.cloud import storage  # New Import for Google Cloud Storage
+import json
 
 # Set up logging to help diagnose issues
 logging.basicConfig(level=logging.INFO)
@@ -20,8 +22,17 @@ string_session = '1BJWap1wBu7NUCDPv4i2I2ClI_ilTvfiNJXz2uEIFG1qdDiRM6rsoXjsaSzrqL
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
+# Load Google Cloud credentials
+credentials_path = "makecom-projektas-8a72ca1be499.json"  # Path to your JSON credentials file
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
+storage_client = storage.Client()
+
 # Create a global event loop
 loop = asyncio.get_event_loop()
+
+# Specify your bucket name here
+bucket_name = "your-bucket-name"  # Replace with your bucket name
+bucket = storage_client.bucket(bucket_name)
 
 async def create_rss():
     # Ensure the client is connected before proceeding
@@ -48,14 +59,30 @@ async def create_rss():
 
         # Check if the message has media (photo or video)
         if msg.media:
-            if msg.photo:
-                # Get the direct link to the photo
-                photo_path = await msg.download_media()
-                fe.enclosure(url=photo_path, type='image/jpeg')
-            elif msg.video:
-                # Get the direct link to the video
-                video_path = await msg.download_media()
-                fe.enclosure(url=video_path, type='video/mp4')
+            try:
+                # Download media to a temporary file
+                media_path = await msg.download_media()
+
+                # Upload media to Google Cloud Storage
+                blob_name = os.path.basename(media_path)
+                blob = bucket.blob(blob_name)
+                blob.upload_from_filename(media_path)
+
+                # Get the public URL of the uploaded media
+                blob.make_public()
+                media_url = blob.public_url
+
+                # Add media as an enclosure
+                if msg.photo:
+                    fe.enclosure(url=media_url, type='image/jpeg')
+                elif msg.video:
+                    fe.enclosure(url=media_url, type='video/mp4')
+
+                # Optionally delete the local file to save space
+                os.remove(media_path)
+
+            except Exception as e:
+                logger.error(f"Error handling media: {e}")
 
     return fg.rss_str(pretty=True)
 
