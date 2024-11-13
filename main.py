@@ -20,6 +20,9 @@ string_session = '1BJWap1wBu7NUCDPv4i2I2ClI_ilTvfiNJXz2uEIFG1qdDiRM6rsoXjsaSzrqL
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
+# Create a global event loop
+loop = asyncio.get_event_loop()
+
 async def create_rss():
     # Ensure the client is connected before proceeding
     if not client.is_connected():
@@ -48,15 +51,11 @@ async def create_rss():
 @app.route('/rss')
 def rss_feed():
     try:
-        # Create a new event loop for handling the async function properly
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
+        # Use the global event loop to handle the async function properly
         rss_content = loop.run_until_complete(create_rss())
     except Exception as e:
         logger.error(f"Error generating RSS feed: {e}")
         return Response(f"Error: {str(e)}", status=500)
-    finally:
-        loop.close()
     return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
