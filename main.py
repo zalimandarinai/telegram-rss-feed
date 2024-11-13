@@ -16,7 +16,7 @@ app = Flask(__name__)
 # Telegram API credentials
 api_id = 29183291  # Provided API ID
 api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Provided API Hash
-string_session = '1BJWap1wBuxvIEZuYKdqntabibZ6egpHUNqvj025vuzmZLfaplPB258r_aect3-CvCjXY82fEkSuMH6XMvVM4nIgYalxIbSv8VptQNHxdfOYmP7-9dMZX99Hah961cggDWsnjEqWBKwlPZKRv1jD_92AFHMacKwZ2TrONeQoOAzSa7yny8tWfsp6hbAY-Ula4miRa_Of3UhStkXXNbdXo1zNLSQqjd_zwJQBCRSqwT0AldJVJUPuzY9KzyfbsyXaXkwHI6cQZX2Q0J1POSNGWh8geLB0mlfJ0qXxDaDykv-hNJDYZiuX0AQQoDZWohpRUcm7oeDP0-bLy3W4mM7tFHkYdOUY8QRo='  # Your generated String Session
+string_session = '1BJWap1wBu7NUCDPv4i2I2ClI_ilTvfiNJXz2uEIFG1qdDiRM6rsoXjsaSzrqLiHotj3T898WUvh0CZBwkSqlrnXz9IjlULk_6sUaFOFkZXd3Kb_LL-SfI6V_cSL-YC0mlzDoeXx9BaT8dVKWL4WmadnlFKvb_I4Cvlrrm_TiZgdZEXTrS84X-3H_rXb0wZBRRz6mO2swgz7eI6YNL0KsOqy9VdtZv2HbTlxwNoSji19VrjTY3RNnmq1nyR9wQ-zO5ICZPq3uZCcJ-JF7dSvvbAjWyIVsEWvK8OAFj4EQu1pqlrXRqyeWMfF2lMxz7GREdItGMF7EIChleFC4iNXKEfX8F3dPf-I='  # Your generated String Session
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
@@ -60,5 +60,5 @@ def rss_feed():
     return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
-    port = int(os.getenv("PORT", 5000))
+    port = int(os.getenv("PORT", 10000))
     serve(app, host="0.0.0.0", port=port)
