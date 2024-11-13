@@ -4,6 +4,12 @@ from feedgen.feed import FeedGenerator
 import os
 import asyncio
 from telethon.sessions import StringSession
+import logging
+import gunicorn
+
+# Set up logging to help diagnose issues
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
@@ -19,7 +25,11 @@ async def create_rss():
     if not client.is_connected():
         await client.connect()
     
-    messages = await client.get_messages('Tsaplienko', limit=10)  # Replace 'Tsaplienko' with your channel username
+    try:
+        messages = await client.get_messages('Tsaplienko', limit=10)  # Replace 'Tsaplienko' with your channel username
+    except Exception as e:
+        logger.error(f"Error fetching messages: {e}")
+        raise
 
     fg = FeedGenerator()
     fg.title('Tsaplienko Telegram Channel RSS Feed')
@@ -43,7 +53,7 @@ def rss_feed():
         asyncio.set_event_loop(loop)
         rss_content = loop.run_until_complete(create_rss())
     except Exception as e:
-        # Return a response with the error message for easier debugging
+        logger.error(f"Error generating RSS feed: {e}")
         return Response(f"Error: {str(e)}", status=500)
     finally:
         loop.close()
