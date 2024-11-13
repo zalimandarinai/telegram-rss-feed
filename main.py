@@ -73,9 +73,9 @@ async def create_rss():
                 media_url = blob.public_url
 
                 # Add media as an enclosure
-                if msg.photo:
+                if hasattr(msg, 'photo') and msg.photo:
                     fe.enclosure(url=media_url, type='image/jpeg')
-                elif msg.video:
+                elif hasattr(msg, 'video') and msg.video:
                     fe.enclosure(url=media_url, type='video/mp4')
 
                 # Optionally delete the local file to save space
