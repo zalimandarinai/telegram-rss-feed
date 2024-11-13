@@ -46,6 +46,17 @@ async def create_rss():
         fe.description(msg.message or "No Content")
         fe.pubDate(msg.date)
 
+        # Check if the message has media (photo or video)
+        if msg.media:
+            if msg.photo:
+                # Get the direct link to the photo
+                photo_path = await msg.download_media()
+                fe.enclosure(url=photo_path, type='image/jpeg')
+            elif msg.video:
+                # Get the direct link to the video
+                video_path = await msg.download_media()
+                fe.enclosure(url=video_path, type='video/mp4')
+
     return fg.rss_str(pretty=True)
 
 @app.route('/rss')
