@@ -46,15 +46,11 @@ async def create_rss():
         raise
 
     fg = FeedGenerator()
-    fg.title('Tsaplienko Telegram Channel RSS Feed')
-    fg.link(href=f'https://t.me/Tsaplienko')  # Update to your channel link
-    fg.description('RSS feed from Tsaplienko Telegram Channel')
 
     if message:
         msg = message[0]
         fe = fg.add_entry()
         fe.title(msg.message[:30] if msg.message else "No Title")
-        fe.link(href=f'https://t.me/Tsaplienko/{msg.id}')  # Update to your channel link
         fe.description(msg.message or "No Content")
         fe.pubDate(msg.date)
 
