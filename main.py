@@ -40,7 +40,7 @@ async def create_rss():
         await client.connect()
     
     try:
-        messages = await client.get_messages('Tsaplienko', limit=10)  # Replace 'Tsaplienko' with your channel username
+        message = await client.get_messages('Tsaplienko', limit=1)  # Fetch only the latest message
     except Exception as e:
         logger.error(f"Error fetching messages: {e}")
         raise
@@ -50,7 +50,8 @@ async def create_rss():
     fg.link(href=f'https://t.me/Tsaplienko')  # Update to your channel link
     fg.description('RSS feed from Tsaplienko Telegram Channel')
 
-    for msg in messages:
+    if message:
+        msg = message[0]
         fe = fg.add_entry()
         fe.title(msg.message[:30] if msg.message else "No Title")
         fe.link(href=f'https://t.me/Tsaplienko/{msg.id}')  # Update to your channel link
