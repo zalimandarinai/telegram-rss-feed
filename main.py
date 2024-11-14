@@ -46,9 +46,9 @@ async def create_rss():
         raise
 
     fg = FeedGenerator()
-    fg.title('')  # Leave title blank
-    fg.link(href='')  # Leave link blank
-    fg.description('')  # Leave description blank
+    fg.title('Latest news')  # Minimal title to avoid RSS validation errors
+    fg.link(href='https://www.mandarinai.lt/')  # Required link to the channel
+    fg.description('Naujienų kanalą pristato www.mandarinai.lt')  # Minimal description
 
     if message:
         msg = message[0]
