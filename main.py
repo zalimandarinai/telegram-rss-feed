@@ -60,31 +60,32 @@ async def create_rss():
 
         # Check if the message has media (photo or video)
         if msg.media:
+            media_urls = []
             try:
-                # Download media to a temporary file
-                media_path = await msg.download_media()
-                logger.info(f"Downloaded media to {media_path}")
+                # Download all media to temporary files
+                media_files = await msg.download_media(file="./", thumb=-1) if isinstance(msg.media, list) else [await msg.download_media()]
+                for media_path in media_files:
+                    logger.info(f"Downloaded media to {media_path}")
 
-                # Upload media to Google Cloud Storage
-                blob_name = os.path.basename(media_path)
-                blob = bucket.blob(blob_name)
-                blob.upload_from_filename(media_path)
-                blob.content_type = 'image/jpeg' if hasattr(msg, 'photo') else 'video/mp4'
-                logger.info(f"Uploaded media to Google Cloud Storage: {blob_name}")
+                    # Upload media to Google Cloud Storage
+                    blob_name = os.path.basename(media_path)
+                    blob = bucket.blob(blob_name)
+                    blob.upload_from_filename(media_path)
+                    blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+                    logger.info(f"Uploaded media to Google Cloud Storage: {blob_name}")
 
-                # Get the public URL of the uploaded media
-                media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
-                logger.info(f"Media URL: {media_url}")
+                    # Get the public URL of the uploaded media
+                    media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
+                    media_urls.append(media_url)
+                    logger.info(f"Media URL: {media_url}")
 
-                # Add media as an enclosure
-                if hasattr(msg, 'photo') and msg.photo:
-                    fe.enclosure(url=media_url, type='image/jpeg')
-                elif hasattr(msg, 'video') and msg.video:
-                    fe.enclosure(url=media_url, type='video/mp4')
+                    # Optionally delete the local file to save space
+                    os.remove(media_path)
+                    logger.info(f"Deleted local media file: {media_path}")
 
-                # Optionally delete the local file to save space
-                os.remove(media_path)
-                logger.info(f"Deleted local media file: {media_path}")
+                # Add all media as enclosures
+                for media_url in media_urls:
+                    fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
 
             except Exception as e:
                 logger.error(f"Error handling media: {e}")
