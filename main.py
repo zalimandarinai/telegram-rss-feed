@@ -1,54 +1,35 @@
-from flask import Flask, Response
-from telethon import TelegramClient
-from feedgen.feed import FeedGenerator
 import os
 import asyncio
+import time
+from telethon import TelegramClient
+from feedgen.feed import FeedGenerator
 from telethon.sessions import StringSession
-import logging
-from waitress import serve
-from google.cloud import storage
-import json
-
-# Set up logging to help diagnose issues
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-
-app = Flask(__name__)
 
 # Telegram API credentials
-api_id = 29183291  # Provided API ID
-api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Provided API Hash
-string_session = '1BJWap1wBu7NUCDPv4i2I2ClI_ilTvfiNJXz2uEIFG1qdDiRM6rsoXjsaSzrqLiHotj3T898WUvh0CZBwkSqlrnXz9IjlULk_6sUaFOFkZXd3Kb_LL-SfI6V_cSL-YC0mlzDoeXx9BaT8dVKWL4WmadnlFKvb_I4Cvlrrm_TiZgdZEXTrS84X-3H_rXb0wZBRRz6mO2swgz7eI6YNL0KsOqy9VdtZv2HbTlxwNoSji19VrjTY3RNnmq1nyR9wQ-zO5ICZPq3uZCcJ-JF7dSvvbAjWyIVsEWvK8OAFj4EQu1pqlrXRqyeWMfF2lMxz7GREdItGMF7EIChleFC4iNXKEfX8F3dPf-I='  # Your generated String Session
+api_id = 29183291
+api_hash = '8a7bceeb297d0d36307326a9305b6cd1'
+string_session = 'YOUR_STRING_SESSION'
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Load Google Cloud credentials
-credentials_path = "/etc/secrets/makecom-projektas-8a72ca1be499.json"  # Path to your JSON credentials file
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
-storage_client = storage.Client()
-
-# Create a global event loop
-loop = asyncio.get_event_loop()
-
-# Specify your bucket name here
-bucket_name = "telegram-media-storage"  # Updated bucket name to match the screenshot
-bucket = storage_client.bucket(bucket_name)
-
 async def create_rss():
-    # Ensure the client is connected before proceeding
+    cache_file = "rss.xml"
+    cache_lifetime = 3600  # 1 hour
+
+    # Check if RSS feed exists and is recent (avoid too many Telegram API calls)
+    if os.path.exists(cache_file) and time.time() - os.path.getmtime(cache_file) < cache_lifetime:
+        print("Using cached RSS feed.")
+        return
+
     if not client.is_connected():
         await client.connect()
-    
-    try:
-        message = await client.get_messages('Tsaplienko', limit=1)  # Fetch only the latest message
-    except Exception as e:
-        logger.error(f"Error fetching messages: {e}")
-        raise
+
+    message = await client.get_messages('Tsaplienko', limit=1)
 
     fg = FeedGenerator()
-    fg.title('Latest news')  # Minimal title to avoid RSS validation errors
-    fg.link(href='https://www.mandarinai.lt/')  # Required link to the channel
-    fg.description('Naujienų kanalą pristato www.mandarinai.lt')  # Minimal description
+    fg.title('Latest news')
+    fg.link(href='https://www.mandarinai.lt/')
+    fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
     if message:
         msg = message[0]
@@ -57,47 +38,15 @@ async def create_rss():
         fe.description(msg.message or "No Content")
         fe.pubDate(msg.date)
 
-        # Check if the message has media (photo or video)
         if msg.media:
-            try:
-                # Download the media
-                media_path = await msg.download_media(file="./")
-                if media_path:
-                    logger.info(f"Downloaded media to {media_path}")
+            media_url = await client.download_media(msg, file=bytes)  # Use Telegram Direct URL
+            fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
 
-                    # Upload media to Google Cloud Storage
-                    blob_name = os.path.basename(media_path)
-                    blob = bucket.blob(blob_name)
-                    blob.upload_from_filename(media_path)
-                    blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
-                    logger.info(f"Uploaded media to Google Cloud Storage: {blob_name}")
+    rss_content = fg.rss_str(pretty=True)
+    with open("rss.xml", "w") as f:
+        f.write(rss_content)
 
-                    # Get the public URL of the uploaded media
-                    media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
-                    logger.info(f"Media URL: {media_url}")
-
-                    # Add media URL to the RSS entry
-                    fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
-
-                    # Optionally delete the local file to save space
-                    os.remove(media_path)
-                    logger.info(f"Deleted local media file: {media_path}")
-
-            except Exception as e:
-                logger.error(f"Error handling media: {e}")
-
-    return fg.rss_str(pretty=True)
-
-@app.route('/rss')
-def rss_feed():
-    try:
-        # Use the global event loop to handle the async function properly
-        rss_content = loop.run_until_complete(create_rss())
-    except Exception as e:
-        logger.error(f"Error generating RSS feed: {e}")
-        return Response(f"Error: {str(e)}", status=500)
-    return Response(rss_content, mimetype='application/rss+xml')
+    print("Updated RSS feed.")
 
 if __name__ == "__main__":
-    port = int(os.getenv("PORT", 10000))
-    serve(app, host="0.0.0.0", port=port)
+    asyncio.run(create_rss())
