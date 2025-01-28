@@ -9,20 +9,25 @@ from google.cloud import storage
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Telegram API credentials
-api_id = 29183291  # Replace with your Telegram API ID
-api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Replace with your Telegram API Hash
-string_session = '1BJWap1wBu2IkVJST3delXpcMTToK14EVXqWRTikMhzzd00RVBv_DHeV9iixc42aRtm2bZEneOEZjNbRulywh5UQ1DZJXb9aDAdGdL5-t_JXe1kWGOJptdBfGpJEkyFoVLndvP0iiBIMfgeg84ALPK4hL-EhFvEzswF6ECfVWv1lbdsPzTWDkb9dx67JMGiC-ryqO93GmQZQnlEx6UzCZ1M5r9oYPDGEPyvfjRvlzSBDRVw9DfJ1L-hVIcQIVIhMnldOK3Rq4XhtRsa3O1GHUD4u_dogAPQppyWvvN0IIYSLqTTseygrFwxjnZceIamCLW3C5BULIYIeOa9gHoyrYiRC0eZd2D1I='  # Replace with your session string
+# 1) Load Telegram API credentials from environment variables
+#    Fall back to default/testing values if desired, or raise an error if missing.
+try:
+    api_id = int(os.environ["TELEGRAM_API_ID"])
+    api_hash = os.environ["TELEGRAM_API_HASH"]
+    string_session = os.environ["TELEGRAM_STRING_SESSION"]
+except KeyError as e:
+    raise RuntimeError(f"Missing required environment variable: {e}")
 
+# 2) Initialize Telethon client
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Load Google Cloud credentials
-credentials_path = r"C:\Users\ernbog\Desktop\makecom-projektas-af582cb15eab.json"  # Path to your JSON credentials
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
+# 3) Load Google Cloud credentials
+#    The google.cloud SDK automatically picks up the file set in GOOGLE_APPLICATION_CREDENTIALS.
+#    Example: GOOGLE_APPLICATION_CREDENTIALS=/home/runner/work/repo/gcp_credentials.json
 storage_client = storage.Client()
 
-# Specify your Google Cloud bucket name
-bucket_name = "telegram-media-storage"
+# 4) Specify your Google Cloud bucket name (or use a default if not set)
+bucket_name = os.environ.get("GCS_BUCKET_NAME", "telegram-media-storage")
 bucket = storage_client.bucket(bucket_name)
 
 # Function to generate RSS feed
@@ -44,10 +49,21 @@ async def generate_rss(message):
             blob_name = os.path.basename(media_path)
             blob = bucket.blob(blob_name)
             blob.upload_from_filename(media_path)
-            blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+
+            # Rudimentary MIME determination
+            if media_path.endswith(('.jpg', '.jpeg')):
+                blob.content_type = 'image/jpeg'
+                enclosure_type = 'image/jpeg'
+            elif media_path.endswith('.mp4'):
+                blob.content_type = 'video/mp4'
+                enclosure_type = 'video/mp4'
+            else:
+                # Fallback if more file types are involved
+                blob.content_type = 'application/octet-stream'
+                enclosure_type = 'application/octet-stream'
 
             media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
-            fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
+            fe.enclosure(url=media_url, type=enclosure_type)
 
             # Clean up local media file
             os.remove(media_path)
@@ -60,7 +76,7 @@ async def generate_rss(message):
     logger.info("RSS feed updated successfully!")
 
 # Event listener for new messages
-@client.on(events.NewMessage(chats="Tsaplienko"))  # Replace with your channel's username
+@client.on(events.NewMessage(chats="Tsaplienko"))  # Replace with your channel's username (or channel ID)
 async def new_message_handler(event):
     logger.info(f"New message detected: {event.message.message}")
     await generate_rss(event.message)
