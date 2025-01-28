@@ -1,3 +1,6 @@
+flask
 telethon
 feedgen
+waitress
+google-cloud-storage
 
