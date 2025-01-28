@@ -1,3 +1,4 @@
+# Updated main.py
 from flask import Flask, Response
 from telethon import TelegramClient
 from feedgen.feed import FeedGenerator
@@ -22,7 +23,7 @@ string_session = '1BJWap1wBu2IkVJST3delXpcMTToK14EVXqWRTikMhzzd00RVBv_DHeV9iixc4
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # Load Google Cloud credentials
-credentials_path = "/etc/secrets/makecom-projektas-8a72ca1be499.json"  # Your Google Cloud JSON credentials path
+credentials_path = r"C:\Users\ernbog\Desktop\makecom-projektas-af582cb15eab.json"  # Update this path to your credentials file
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
 storage_client = storage.Client()
 
@@ -101,3 +102,33 @@ def rss_feed():
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 10000))
     serve(app, host="0.0.0.0", port=port)
+
+# .github/workflows/rss.yml
+name: Telegram RSS Feed Automation
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual runs from GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        pip install flask telethon feedgen waitress google-cloud-storage
+
+    - name: Run Telegram RSS Feed Script
+      env:
+        GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+      run: python main.py
