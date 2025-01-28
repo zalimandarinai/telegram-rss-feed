@@ -18,7 +18,7 @@ app = Flask(__name__)
 # Telegram API credentials
 api_id = 29183291  # Your Telegram API ID
 api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Your Telegram API Hash
-string_session = 'PASTE_YOUR_NEW_SESSION_STRING_HERE'  # Replace with the new valid session string
+string_session = '1BJWap1wBuxkXG6GdvO3XxDAYnJXExG88btWa8PiAyCPQK5YfWj8xrnPqer9Te0cRJDIV-O06ZOTpCqSp6q7cV2fgin52J-GlXazhw-EuSpLkMp6_9P9p0DjpcMi21md9jQUDsiN0O_cXmExIKG-d-iWGesG-Sjy_rFpI1R-UaDiymDHbTINpHFtfnoN0KjuW7X0Hm3LiL0lV3zJk6wd5w_HO4un_CFI6c2FwYU6P66kDdK4n1LowUyuQh5_9f-uerGCGH7mzwWhGdobREcZY_fvIIBI7wcR0NvUpMG6KUSmTKnklNTm3EAs-MKmAvQRx3N5Kzn4xIp3FDWrYWLkfHeZ_Yqy2QyE='  # Replace with the new valid session string
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
