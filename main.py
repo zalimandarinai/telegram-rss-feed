@@ -1,8 +1,12 @@
-from telethon import TelegramClient, events
-from feedgen.feed import FeedGenerator
 import os
-from telethon.sessions import StringSession
+import asyncio
 import logging
+import mimetypes
+import tempfile
+
+from telethon import TelegramClient
+from telethon.sessions import StringSession
+from feedgen.feed import FeedGenerator
 from google.cloud import storage
 
 # Set up logging
@@ -10,7 +14,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # 1) Load Telegram API credentials from environment variables
-#    Fall back to default/testing values if desired, or raise an error if missing.
 try:
     api_id = int(os.environ["TELEGRAM_API_ID"])
     api_hash = os.environ["TELEGRAM_API_HASH"]
@@ -22,72 +25,83 @@ except KeyError as e:
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # 3) Load Google Cloud credentials
-#    The google.cloud SDK automatically picks up the file set in GOOGLE_APPLICATION_CREDENTIALS.
-#    Example: GOOGLE_APPLICATION_CREDENTIALS=/home/runner/work/repo/gcp_credentials.json
+#    The google.cloud SDK will pick up the JSON file specified by GOOGLE_APPLICATION_CREDENTIALS.
 storage_client = storage.Client()
 
-# 4) Specify your Google Cloud bucket name (or use a default if not set)
+# 4) Specify your Google Cloud bucket name (from env or default to "telegram-media-storage")
 bucket_name = os.environ.get("GCS_BUCKET_NAME", "telegram-media-storage")
 bucket = storage_client.bucket(bucket_name)
 
-# Function to generate RSS feed
-async def generate_rss(message):
+# 5) Which Telegram channel to fetch from. Replace or set via env var if needed.
+channel_username = os.environ.get("TELEGRAM_CHANNEL", "Tsaplienko")
+
+async def fetch_and_generate_feed():
+    """Connect to Telegram, fetch latest messages, and generate an RSS feed."""
+    # Ensure the client is connected
+    await client.start()
+
+    # Fetch the latest N messages (adjust limit as desired)
+    messages = await client.get_messages(channel_username, limit=10)
+    logger.info(f"Fetched {len(messages)} messages from {channel_username}.")
+
+    # Build a new RSS feed
     fg = FeedGenerator()
     fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
-    fe = fg.add_entry()
-    fe.title(message.message[:30] if message.message else "No Title")
-    fe.description(message.message or "No Content")
-    fe.pubDate(message.date)
+    # Iterate through messages (oldest to newest if you want them in that order)
+    for msg in reversed(messages):
+        fe = fg.add_entry()
+        fe.title(msg.message[:30] if msg.message else "No Title")
+        fe.description(msg.message or "No Content")
+        fe.pubDate(msg.date)
 
-    # Handle media
-    if message.media:
-        media_path = await message.download_media(file="./")
-        if media_path:
-            blob_name = os.path.basename(media_path)
-            blob = bucket.blob(blob_name)
-            blob.upload_from_filename(media_path)
+        # Handle media (photos, videos, etc.)
+        if msg.media:
+            try:
+                with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
+                    media_path = await msg.download_media(file=tmp_file.name)
+                if media_path:
+                    # Upload media to Google Cloud Storage
+                    blob_name = os.path.basename(media_path)
+                    blob = bucket.blob(blob_name)
+                    blob.upload_from_filename(media_path)
 
-            # Rudimentary MIME determination
-            if media_path.endswith(('.jpg', '.jpeg')):
-                blob.content_type = 'image/jpeg'
-                enclosure_type = 'image/jpeg'
-            elif media_path.endswith('.mp4'):
-                blob.content_type = 'video/mp4'
-                enclosure_type = 'video/mp4'
-            else:
-                # Fallback if more file types are involved
-                blob.content_type = 'application/octet-stream'
-                enclosure_type = 'application/octet-stream'
+                    # Detect MIME type
+                    mime_type, _ = mimetypes.guess_type(media_path)
+                    if not mime_type:
+                        mime_type = 'application/octet-stream'
+                    blob.content_type = mime_type
 
-            media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
-            fe.enclosure(url=media_url, type=enclosure_type)
+                    media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
+                    logger.info(f"Uploaded media to GCS: {media_url}")
 
-            # Clean up local media file
-            os.remove(media_path)
+                    # Add enclosure to feed
+                    fe.enclosure(url=media_url, type=mime_type)
 
+                    # Clean up local file
+                    os.remove(media_path)
+            except Exception as e:
+                logger.error(f"Error handling media: {e}")
+
+    # Generate RSS string
     rss_feed = fg.rss_str(pretty=True)
 
-    # Upload RSS feed to Google Cloud
+    # 6) Write the RSS to a local file (this file can be committed or published)
+    with open("rss.xml", "wb") as f:
+        f.write(rss_feed)
+    logger.info("Saved local rss.xml")
+
+    # 7) (Optional) Also store rss.xml in Google Cloud Storage
     rss_blob = bucket.blob("rss.xml")
     rss_blob.upload_from_string(rss_feed, content_type="application/rss+xml")
-    logger.info("RSS feed updated successfully!")
+    logger.info("RSS feed uploaded to GCS successfully!")
 
-# Event listener for new messages
-@client.on(events.NewMessage(chats="Tsaplienko"))  # Replace with your channel's username (or channel ID)
-async def new_message_handler(event):
-    logger.info(f"New message detected: {event.message.message}")
-    await generate_rss(event.message)
-
-# Start the client
 async def main():
-    await client.start()
-    logger.info("Listening for new Telegram messages...")
-    await client.run_until_disconnected()
+    await fetch_and_generate_feed()
+    # Disconnect after finishing
+    await client.disconnect()
 
-# Run the event loop
 if __name__ == "__main__":
-    import asyncio
     asyncio.run(main())
