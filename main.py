@@ -1,4 +1,3 @@
-# Updated main.py
 from flask import Flask, Response
 from telethon import TelegramClient
 from feedgen.feed import FeedGenerator
@@ -16,14 +15,14 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 # Telegram API credentials
-api_id = 29183291  # Replace with your Telegram API ID
-api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Replace with your Telegram API Hash
-string_session = '1BJWap1wBu2IkVJST3delXpcMTToK14EVXqWRTikMhzzd00RVBv_DHeV9iixc42aRtm2bZEneOEZjNbRulywh5UQ1DZJXb9aDAdGdL5-t_JXe1kWGOJptdBfGpJEkyFoVLndvP0iiBIMfgeg84ALPK4hL-EhFvEzswF6ECfVWv1lbdsPzTWDkb9dx67JMGiC-ryqO93GmQZQnlEx6UzCZ1M5r9oYPDGEPyvfjRvlzSBDRVw9DfJ1L-hVIcQIVIhMnldOK3Rq4XhtRsa3O1GHUD4u_dogAPQppyWvvN0IIYSLqTTseygrFwxjnZceIamCLW3C5BULIYIeOa9gHoyrYiRC0eZd2D1I='  # Replace with the valid session string
+api_id = 29183291  # Your Telegram API ID
+api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Your Telegram API Hash
+string_session = '1BJWap1wBu2IkVJST3delXpcMTToK14EVXqWRTikMhzzd00RVBv_DHeV9iixc42aRtm2bZEneOEZjNbRulywh5UQ1DZJXb9aDAdGdL5-t_JXe1kWGOJptdBfGpJEkyFoVLndvP0iiBIMfgeg84ALPK4hL-EhFvEzswF6ECfVWv1lbdsPzTWDkb9dx67JMGiC-ryqO93GmQZQnlEx6UzCZ1M5r9oYPDGEPyvfjRvlzSBDRVw9DfJ1L-hVIcQIVIhMnldOK3Rq4XhtRsa3O1GHUD4u_dogAPQppyWvvN0IIYSLqTTseygrFwxjnZceIamCLW3C5BULIYIeOa9gHoyrYiRC0eZd2D1I='  # Your Telegram session string
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # Load Google Cloud credentials
-credentials_path = r"C:\Users\ernbog\Desktop\makecom-projektas-af582cb15eab.json"  # Update this path to your credentials file
+credentials_path = r"C:\Users\ernbog\Desktop\makecom-projektas-af582cb15eab.json"  # Path to your Google Cloud JSON credentials
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
 storage_client = storage.Client()
 
@@ -31,7 +30,7 @@ storage_client = storage.Client()
 loop = asyncio.get_event_loop()
 
 # Specify your Google Cloud bucket name
-bucket_name = "telegram-media-storage"
+bucket_name = "telegram-media-storage"  # Your Google Cloud Storage bucket name
 bucket = storage_client.bucket(bucket_name)
 
 async def create_rss():
@@ -102,33 +101,3 @@ def rss_feed():
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 10000))
     serve(app, host="0.0.0.0", port=port)
-
-# .github/workflows/rss.yml
-name: Telegram RSS Feed Automation
-
-on:
-  schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual runs from GitHub
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.12"
-
-    - name: Install dependencies
-      run: |
-        pip install flask telethon feedgen waitress google-cloud-storage
-
-    - name: Run Telegram RSS Feed Script
-      env:
-        GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
-      run: python main.py
