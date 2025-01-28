@@ -5,18 +5,18 @@ from telethon import TelegramClient
 from feedgen.feed import FeedGenerator
 from telethon.sessions import StringSession
 
-# Telegram API credentials (Use your own values)
-api_id = 29183291
-api_hash = '8a7bceeb297d0d36307326a9305b6cd1'
-string_session = 'YOUR_STRING_SESSION'  # Replace with your actual session string
+# Telegram API credentials
+api_id = 29183291  # Replace with your actual API ID
+api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Replace with your actual API Hash
+string_session = '1BJWap1wBuz3ak_NtApiKl74VO_Ta8yRY_iCLmZCHOB0MpeScP...'  # Replace with your new session string
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 async def create_rss():
-    cache_file = "docs/rss.xml"  # Save inside the "docs" folder
-    cache_lifetime = 3600  # Update every 1 hour
+    cache_file = "docs/rss.xml"  # Save RSS file inside the "docs" folder for GitHub Pages
+    cache_lifetime = 3600  # Update every hour
 
-    # Check if RSS file exists and is fresh
+    # Check if RSS file exists and is recent
     if os.path.exists(cache_file) and time.time() - os.path.getmtime(cache_file) < cache_lifetime:
         print("Using cached RSS feed.")
         return
@@ -26,7 +26,13 @@ async def create_rss():
         await client.connect()
 
     # Fetch the latest messages from the Telegram channel
-    messages = await client.get_messages('Tsaplienko', limit=5)  # Get last 5 messages
+    messages = await client.get_messages('Tsaplienko', limit=5)  # Replace 'Tsaplienko' with your channel name
+
+    if not messages:
+        print("❌ ERROR: No messages retrieved. Check your channel name.")
+        return
+
+    print(f"✅ Fetched {len(messages)} messages.")
 
     # Create RSS feed
     fg = FeedGenerator()
@@ -40,11 +46,17 @@ async def create_rss():
         fe.description(msg.message or "No Content")
         fe.pubDate(msg.date)
 
-        # If media is present, add it to the feed
+        # If the message has media, include it in the RSS feed
         if msg.media:
             media_url = await client.download_media(msg, file=bytes)  # Use Telegram's direct URL
             fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
 
-    # Save RSS feed to the "docs" folder
+    # Save the RSS feed to the "docs" folder
     rss_content = fg.rss_str(pretty=True)
-    w
+    with open(cache_file, "w", encoding="utf-8") as f:
+        f.write(rss_content)
+
+    print("✅ RSS feed updated successfully!")
+
+if __name__ == "__main__":
+    asyncio.run(create_rss())
