@@ -1,8 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-    <channel>
-        <title>Telegram RSS Feed</title>
-        <link>https://www.mandarinai.lt/</link>
-        <description>Naujienų kanalą pristato www.mandarinai.lt</description>
-    </channel>
-</rss>
+name: Telegram RSS Feed Automation
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes; adjust to "*/5" for 5-minute intervals if needed
+  workflow_dispatch:  # Allows manual runs from GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        pip install flask telethon feedgen waitress google-cloud-storage
+
+    - name: Run Telegram RSS Feed Script
+      env:
+        GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+      run: python main.py
