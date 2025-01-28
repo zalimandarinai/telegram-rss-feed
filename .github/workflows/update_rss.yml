@@ -1,19 +1,18 @@
-name: Update Telegram RSS
+name: Update RSS
 
 on:
   schedule:
-    - cron: "*/15 * * * *"  # run every 15 minutes
-  workflow_dispatch:        # allow manual triggers
+    - cron: "*/15 * * * *"   # Run every 15 minutes
+  workflow_dispatch:         # Allow manual run if needed
 
 jobs:
-  build-and-publish:
+  generate-and-publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
+      - name: Check out code
         uses: actions/checkout@v3
         with:
-          # If you plan to commit back to the same repository/branch:
-          persist-credentials: false
+          persist-credentials: false  # We'll handle commit manually below
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,11 +20,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
-      - name: Create GCP credentials file
-        # (assuming you have a secret named GCP_SERVICE_ACCOUNT_JSON containing raw or base64-encoded JSON)
+      - name: Write GCP credentials file
+        # "GCP_SERVICE_ACCOUNT_JSON" is a GitHub secret containing your raw or base64 JSON
         run: echo "${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}" > gcp_credentials.json
 
       - name: Run script
@@ -34,24 +32,19 @@ jobs:
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_STRING_SESSION: ${{ secrets.TELEGRAM_STRING_SESSION }}
           GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/gcp_credentials.json
-          GCS_BUCKET_NAME: "telegram-media-storage"
-        run: |
-          python main.py
+          GCS_BUCKET_NAME: ${{ secrets.GCS_BUCKET_NAME }}
+        run: python main.py
 
-      # (Optional) If you want to commit the updated 'rss.xml' to gh-pages:
-      - name: Configure Git
+      - name: Configure git
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
       - name: Commit rss.xml
+        # This commits the new/updated rss.xml to gh-pages so GitHub Pages can serve it
         run: |
           git add rss.xml
-          git commit -m "Update RSS feed"
-        continue-on-error: true  # won't fail if there's no change
-
-      - name: Push to gh-pages
-        run: git push origin HEAD:gh-pages
+          git commit -m "Auto-update RSS" || echo "No changes to commit"
+          git push origin HEAD:gh-pages
         env:
-          # Use a PAT or configure GITHUB_TOKEN with write permission
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
