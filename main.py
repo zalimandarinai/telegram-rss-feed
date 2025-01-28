@@ -7,7 +7,6 @@ from telethon.sessions import StringSession
 import logging
 from waitress import serve
 from google.cloud import storage
-import json
 
 # Set up logging to help diagnose issues
 logging.basicConfig(level=logging.INFO)
@@ -16,39 +15,39 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 # Telegram API credentials
-api_id = 29183291  # Your Telegram API ID
-api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Your Telegram API Hash
-string_session = '1BJWap1wBuxkXG6GdvO3XxDAYnJXExG88btWa8PiAyCPQK5YfWj8xrnPqer9Te0cRJDIV-O06ZOTpCqSp6q7cV2fgin52J-GlXazhw-EuSpLkMp6_9P9p0DjpcMi21md9jQUDsiN0O_cXmExIKG-d-iWGesG-Sjy_rFpI1R-UaDiymDHbTINpHFtfnoN0KjuW7X0Hm3LiL0lV3zJk6wd5w_HO4un_CFI6c2FwYU6P66kDdK4n1LowUyuQh5_9f-uerGCGH7mzwWhGdobREcZY_fvIIBI7wcR0NvUpMG6KUSmTKnklNTm3EAs-MKmAvQRx3N5Kzn4xIp3FDWrYWLkfHeZ_Yqy2QyE='  # Replace with the new valid session string
+api_id = 29183291  # Replace with your Telegram API ID
+api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Replace with your Telegram API Hash
+string_session = '1BJWap1wBu4OMUn0rmXj8rIgX31eZKc1AUgx0NKN9kIHzHg8RAzvLjcx8TnR18ORikTOtqwC2oc1wMCsORasoEsjtF5KunmZaeRDrJjJDIA47CpOOihYZCzUC50yj9bXP5t7Sqxate4VTCR7oAz_SkftL7GvndjYfxbz9emGTbwTjM-4OpicD0GfpoyKi9IFjg9l4wA0L2OoXjIdwFlVPeh6b3ZgUjzpaev8QLk26b6FpuJeyX2XDMAUnmyu9wK55HO0mdvQBR9DAR9OTDhKw9hQ-kexoZVGuELLVTFETw8gyF64AhcgNHBP_l7OUEqU_7G38FTsI7QElTeBIGCWEwzpAPSTkMqQ='  # Replace with the valid session string
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # Load Google Cloud credentials
-credentials_path = "/etc/secrets/makecom-projektas-8a72ca1be499.json"  # Your JSON credentials path
+credentials_path = "/etc/secrets/makecom-projektas-8a72ca1be499.json"  # Your Google Cloud JSON credentials path
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
 storage_client = storage.Client()
 
 # Create a global event loop
 loop = asyncio.get_event_loop()
 
-# Specify your bucket name here
-bucket_name = "telegram-media-storage"  # Google Cloud Storage Bucket
+# Specify your Google Cloud bucket name
+bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
 async def create_rss():
     # Ensure the client is connected before proceeding
     if not client.is_connected():
         await client.connect()
-    
+
     try:
         message = await client.get_messages('Tsaplienko', limit=1)  # Fetch only the latest message
     except Exception as e:
         logger.error(f"Error fetching messages: {e}")
-        raise
+        return None
 
     fg = FeedGenerator()
-    fg.title('Latest news')  
-    fg.link(href='https://www.mandarinai.lt/')  
-    fg.description('Naujienų kanalą pristato www.mandarinai.lt')  
+    fg.title('Latest news')
+    fg.link(href='https://www.mandarinai.lt/')
+    fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
     if message:
         msg = message[0]
@@ -57,10 +56,9 @@ async def create_rss():
         fe.description(msg.message or "No Content")
         fe.pubDate(msg.date)
 
-        # Check if the message has media (photo or video)
+        # Handle media (photo or video)
         if msg.media:
             try:
-                # Download the media
                 media_path = await msg.download_media(file="./")
                 if media_path:
                     logger.info(f"Downloaded media to {media_path}")
@@ -76,7 +74,7 @@ async def create_rss():
                     media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
                     logger.info(f"Media URL: {media_url}")
 
-                    # Add media URL to the RSS entry
+                    # Add media URL to RSS feed
                     fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
 
                     # Optionally delete the local file to save space
@@ -91,11 +89,13 @@ async def create_rss():
 @app.route('/rss')
 def rss_feed():
     try:
-        # Use the global event loop to handle the async function properly
         rss_content = loop.run_until_complete(create_rss())
+        if not rss_content:
+            return Response("No messages found", status=500)
     except Exception as e:
         logger.error(f"Error generating RSS feed: {e}")
         return Response(f"Error: {str(e)}", status=500)
+
     return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
