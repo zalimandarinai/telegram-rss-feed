@@ -1,44 +1,48 @@
-import os
-import asyncio
-import time
+from flask import Flask, Response
 from telethon import TelegramClient
 from feedgen.feed import FeedGenerator
+import os
+import asyncio
 from telethon.sessions import StringSession
+import logging
+from waitress import serve
+from google.cloud import storage
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+app = Flask(__name__)
 
 # Telegram API credentials
-api_id = 29183291  # Replace with your actual API ID
-api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Replace with your actual API Hash
-string_session = '1BJWap1wBuz3ak_NtApiKl74VO_Ta8yRY_iCLmZCHOB0MpeScP...'  # Replace with your new session string
+api_id = 29183291  # Replace with your API ID
+api_hash = '8a7bceeb297d0d36307326a9305b6cd1'  # Replace with your API Hash
+string_session = '1BJWap1wBuxkXG6GdvO3XxDAYnJXExG88btWa8PiAyCPQK5YfWj8xrnPqer9Te0cRJDIV-O06ZOTpCqSp6q7cV2fgin52J-GlXazhw-EuSpLkMp6_9P9p0DjpcMi21md9jQUDsiN0O_cXmExIKG-d-iWGesG-Sjy_rFpI1R-UaDiymDHbTINpHFtfnoN0KjuW7X0Hm3LiL0lV3zJk6wd5w_HO4un_CFI6c2FwYU6P66kDdK4n1LowUyuQh5_9f-uerGCGH7mzwWhGdobREcZY_fvIIBI7wcR0NvUpMG6KUSmTKnklNTm3EAs-MKmAvQRx3N5Kzn4xIp3FDWrYWLkfHeZ_Yqy2QyE='  # Replace with your updated session string
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
+# Google Cloud credentials
+credentials_path = "/etc/secrets/makecom-projektas-8a72ca1be499.json"  # Ensure this file exists
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
+storage_client = storage.Client()
+bucket_name = "telegram-media-storage"
+bucket = storage_client.bucket(bucket_name)
+
+# Async function to fetch Telegram messages and create RSS feed
 async def create_rss():
-    cache_file = "docs/rss.xml"  # Save RSS file inside the "docs" folder for GitHub Pages
-    cache_lifetime = 3600  # Update every hour
-
-    # Check if RSS file exists and is recent
-    if os.path.exists(cache_file) and time.time() - os.path.getmtime(cache_file) < cache_lifetime:
-        print("Using cached RSS feed.")
-        return
-
-    # Connect to Telegram
     if not client.is_connected():
         await client.connect()
+    
+    try:
+        messages = await client.get_messages('Tsaplienko', limit=5)
+    except Exception as e:
+        logger.error(f"Error fetching messages: {e}")
+        return None
 
-    # Fetch the latest messages from the Telegram channel
-    messages = await client.get_messages('Tsaplienko', limit=5)  # Replace 'Tsaplienko' with your channel name
-
-    if not messages:
-        print("❌ ERROR: No messages retrieved. Check your channel name.")
-        return
-
-    print(f"✅ Fetched {len(messages)} messages.")
-
-    # Create RSS feed
     fg = FeedGenerator()
-    fg.title('Telegram News')
+    fg.title('Latest Telegram News')
     fg.link(href='https://www.mandarinai.lt/')
-    fg.description('Latest updates from Telegram')
+    fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
     for msg in messages:
         fe = fg.add_entry()
@@ -46,17 +50,22 @@ async def create_rss():
         fe.description(msg.message or "No Content")
         fe.pubDate(msg.date)
 
-        # If the message has media, include it in the RSS feed
-        if msg.media:
-            media_url = await client.download_media(msg, file=bytes)  # Use Telegram's direct URL
-            fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
-
-    # Save the RSS feed to the "docs" folder
     rss_content = fg.rss_str(pretty=True)
-    with open(cache_file, "w", encoding="utf-8") as f:
+
+    with open("docs/rss.xml", "wb") as f:
         f.write(rss_content)
 
-    print("✅ RSS feed updated successfully!")
+    return rss_content
+
+@app.route('/rss')
+def rss_feed():
+    try:
+        rss_content = asyncio.run(create_rss())
+    except Exception as e:
+        logger.error(f"Error generating RSS feed: {e}")
+        return Response(f"Error: {str(e)}", status=500)
+    return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
-    asyncio.run(create_rss())
+    port = int(os.getenv("PORT", 10000))
+    serve(app, host="0.0.0.0", port=port)
