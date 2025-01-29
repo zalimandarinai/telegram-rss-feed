@@ -1,57 +1,29 @@
-from flask import Flask, Response
-from telethon import TelegramClient
-from feedgen.feed import FeedGenerator
-import os
 import asyncio
-from telethon.sessions import StringSession
-import logging
-from google.cloud import storage
+from telethon import TelegramClient
+import os
 import json
+from feedgen.feed import FeedGenerator
+import logging
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-app = Flask(__name__)
-
-# Load Telegram credentials from GitHub Secrets
+# Telegram API Credentials
 api_id = int(os.getenv("TELEGRAM_API_ID"))
-api_hash = os.getenv("TELEGRAM_API_HASH")
+api_hash = os.getenv("TELEGRAM_API_HASH"))
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
-client = TelegramClient(StringSession(string_session), api_id, api_hash)
+client = TelegramClient("session_name", api_id, api_hash)
 
-# Load Google Cloud credentials
-credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
-credentials_path = "gcp_credentials.json"
-
-if credentials_json:
-    with open(credentials_path, "w") as f:
-        f.write(credentials_json)
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
-else:
-    raise Exception("❌ Google Cloud credentials are missing!")
-
-storage_client = storage.Client()
-bucket_name = "telegram-media-storage"
-bucket = storage_client.bucket(bucket_name)
-
-# File to track the last processed post
 LAST_POST_FILE = "docs/last_post.json"
-
-# Ensure event loop is available
-loop = asyncio.new_event_loop()
-asyncio.set_event_loop(loop)
 
 def load_last_post():
     """Load the last processed post ID from a file."""
     if os.path.exists(LAST_POST_FILE):
         with open(LAST_POST_FILE, "r") as f:
-            try:
-                return json.load(f)
-            except json.JSONDecodeError:
-                return {}
-    return {}
+            return json.load(f)
+    return {"id": 0}
 
 def save_last_post(post_data):
     """Save the last processed post ID to a file."""
@@ -60,73 +32,53 @@ def save_last_post(post_data):
         json.dump(post_data, f)
 
 async def create_rss():
-    if not client.is_connected():
-        await client.connect()
-
-    try:
-        messages = await client.get_messages('Tsaplienko', limit=1)  # Fetch latest message
-    except Exception as e:
-        logger.error(f"Error fetching messages: {e}")
-        return None
-
-    if not messages:
-        logger.info("No new messages found.")
-        return None
-
-    msg = messages[0]
+    await client.connect()
     last_post = load_last_post()
 
-    # If the latest post is the same as the last processed one, exit
-    if last_post.get("id") == msg.id:
-        logger.info("No new Telegram posts. Skipping update.")
-        return None
+    # Fetch the latest 5 messages
+    messages = await client.get_messages('Tsaplienko', limit=5)
+
+    # Filter only new messages with media
+    new_messages = [msg for msg in messages if msg.id > last_post.get("id", 0) and msg.media]
+    
+    if not new_messages:
+        logger.info("No new Telegram posts with media. Exiting early.")
+        exit(1)  # Stop script to save GitHub minutes
 
     fg = FeedGenerator()
     fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
-    fe = fg.add_entry()
-    fe.title(msg.message[:30] if msg.message else "No Title")
-    fe.description(msg.message or "No Content")
-    fe.pubDate(msg.date)
+    for msg in reversed(new_messages):  # Process older messages first
+        fe = fg.add_entry()
+        fe.title("Media Post")  # Generic title since text is ignored
+        fe.pubDate(msg.date)
 
-    if msg.media:
-        try:
-            media_path = await msg.download_media(file="./")
-            if media_path:
-                blob_name = os.path.basename(media_path)
-                blob = bucket.blob(blob_name)
-                blob.upload_from_filename(media_path)
-                blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+        if msg.media:
+            try:
+                # Download media
+                media_path = await msg.download_media(file="./")
+                if media_path and os.path.getsize(media_path) <= 15 * 1024 * 1024:  # ≤15MB
+                    blob_name = os.path.basename(media_path)
+                    fe.enclosure(url=f"https://storage.googleapis.com/telegram-media-storage/{blob_name}", 
+                                 type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
 
-                media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
-                fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
+                    os.remove(media_path)  # Cleanup
+                else:
+                    logger.info(f"Skipping large media file: {media_path}")
+                    os.remove(media_path)
+            except Exception as e:
+                logger.error(f"Error handling media: {e}")
 
-                os.remove(media_path)  # Cleanup local file
-        except Exception as e:
-            logger.error(f"Error handling media: {e}")
+    # Save the latest processed message ID
+    save_last_post({"id": new_messages[0].id})
 
-    rss_feed = fg.rss_str(pretty=True)
-
-    # Save new post ID and RSS feed
-    save_last_post({"id": msg.id})
     with open("docs/rss.xml", "wb") as f:
-        f.write(rss_feed)
+        f.write(fg.rss_str(pretty=True))
 
-    return rss_feed
-
-@app.route('/rss')
-def rss_feed():
-    try:
-        rss_content = loop.run_until_complete(create_rss())
-        if not rss_content:
-            return Response("No new messages found", status=204)
-    except Exception as e:
-        logger.error(f"Error generating RSS feed: {e}")
-        return Response(f"Error: {str(e)}", status=500)
-
-    return Response(rss_content, mimetype='application/rss+xml')
+    return "RSS Updated"
 
 if __name__ == "__main__":
-    loop.run_until_complete(create_rss())  # Run RSS feed update only if needed
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(create_rss())
