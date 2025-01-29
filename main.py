@@ -123,5 +123,6 @@ def rss_feed():
     return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
-    port = int(os.getenv("PORT", 10000))
-    serve(app, host="0.0.0.0", port=port)
+    print("Generating RSS feed and exiting...")
+    loop.run_until_complete(create_rss())  # ✅ Runs once and exits
+
