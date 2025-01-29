@@ -19,7 +19,7 @@ string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Google Cloud Storage Setup
+# ✅ Restore the last successful Google Cloud Storage authentication method
 storage_client = storage.Client()
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
