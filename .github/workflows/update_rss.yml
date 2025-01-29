@@ -1,9 +1,8 @@
 name: Telegram RSS Feed Automation
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
   workflow_dispatch:  # Allows manual runs from GitHub
 
 jobs:
@@ -30,3 +29,16 @@ jobs:
         TELEGRAM_STRING_SESSION: ${{ secrets.TELEGRAM_STRING_SESSION }}
         GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
       run: python main.py
+
+    - name: Move RSS Feed to docs/
+      run: |
+        mkdir -p docs
+        mv docs/rss.xml docs/rss.xml  # Ensure correct path
+
+    - name: Deploy to GitHub Pages
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: docs
+
+    - name: Deploy GitHub Pages
+      uses: actions/deploy-pages@v4
