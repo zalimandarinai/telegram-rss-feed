@@ -5,7 +5,6 @@ import os
 import asyncio
 from telethon.sessions import StringSession
 import logging
-from waitress import serve
 from google.cloud import storage
 import json
 
@@ -22,18 +21,8 @@ string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Ensure Google credentials are properly written to a file
-GCP_CREDENTIALS_PATH = "google_credentials.json"
-gcp_credentials = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
-
-if gcp_credentials:
-    with open(GCP_CREDENTIALS_PATH, "w") as f:
-        f.write(gcp_credentials)
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = GCP_CREDENTIALS_PATH
-else:
-    raise RuntimeError("Google Cloud credentials not found!")
-
-# Initialize Google Cloud Storage client
+# Google Cloud Storage setup
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
 storage_client = storage.Client()
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
@@ -113,6 +102,7 @@ async def create_rss():
 
     # Save new post ID and RSS feed
     save_last_post({"id": msg.id})
+    os.makedirs("docs", exist_ok=True)
     with open("docs/rss.xml", "wb") as f:
         f.write(rss_feed)
 
