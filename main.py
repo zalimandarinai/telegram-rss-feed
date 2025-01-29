@@ -10,8 +10,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Telegram API Credentials
-api_id = int(os.getenv("TELEGRAM_API_ID")
-api_hash = os.getenv("TELEGRAM_API_HASH")
+api_id = int(os.getenv("TELEGRAM_API_ID"))  # ✅ FIXED: No extra closing parenthesis
+api_hash = os.getenv("TELEGRAM_API_HASH")   # ✅ FIXED: No extra closing parenthesis
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient("session_name", api_id, api_hash)
