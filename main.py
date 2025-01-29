@@ -3,11 +3,10 @@ from telethon import TelegramClient
 from feedgen.feed import FeedGenerator
 import os
 import asyncio
-import json
-import logging
 from telethon.sessions import StringSession
-from waitress import serve
+import logging
 from google.cloud import storage
+import json
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -15,33 +14,20 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
-# Retrieve credentials from GitHub Secrets
-api_id = int(os.getenv("TELEGRAM_API_ID", 0))  # Default to 0 if missing
+# Load credentials from GitHub Secrets
+api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
-gcp_credentials = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
 
-# Ensure required secrets exist
-if not all([api_id, api_hash, string_session, gcp_credentials]):
-    raise ValueError("❌ Missing one or more required environment variables!")
+client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Write GCP credentials to a JSON file for Google Cloud SDK
-gcp_credentials_path = "gcp_credentials.json"
-with open(gcp_credentials_path, "w") as f:
-    f.write(gcp_credentials)
-
-# Set Google Cloud authentication
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = gcp_credentials_path
+# Google Cloud Storage setup
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
 storage_client = storage.Client()
-
-# Google Cloud Storage configuration
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
-# Telegram client
-client = TelegramClient(StringSession(string_session), api_id, api_hash)
-
-# File to track last processed post
+# File to track the last processed post
 LAST_POST_FILE = "docs/last_post.json"
 
 # Ensure event loop is available
@@ -49,7 +35,7 @@ loop = asyncio.new_event_loop()
 asyncio.set_event_loop(loop)
 
 def load_last_post():
-    """Load last processed Telegram post ID."""
+    """Load the last processed post ID from a file."""
     if os.path.exists(LAST_POST_FILE):
         with open(LAST_POST_FILE, "r") as f:
             try:
@@ -59,32 +45,31 @@ def load_last_post():
     return {}
 
 def save_last_post(post_data):
-    """Save last processed Telegram post ID."""
+    """Save the last processed post ID to a file."""
     os.makedirs("docs", exist_ok=True)
     with open(LAST_POST_FILE, "w") as f:
         json.dump(post_data, f)
 
 async def create_rss():
-    """Fetch latest Telegram message and generate an RSS feed if there's new content."""
     if not client.is_connected():
         await client.connect()
 
     try:
-        messages = await client.get_messages('Tsaplienko', limit=1)  # Fetch latest post
+        messages = await client.get_messages('Tsaplienko', limit=1)  # Fetch latest message
     except Exception as e:
-        logger.error(f"❌ Error fetching messages: {e}")
+        logger.error(f"Error fetching messages: {e}")
         return None
 
     if not messages:
-        logger.info("✅ No new messages found.")
+        logger.info("No new messages found.")
         return None
 
     msg = messages[0]
     last_post = load_last_post()
 
-    # Skip processing if the latest post has already been handled
+    # If the latest post is the same as the last processed one, exit
     if last_post.get("id") == msg.id:
-        logger.info("🔄 No new Telegram posts. Skipping update.")
+        logger.info("No new Telegram posts. Skipping update.")
         return None
 
     fg = FeedGenerator()
@@ -97,7 +82,6 @@ async def create_rss():
     fe.description(msg.message or "No Content")
     fe.pubDate(msg.date)
 
-    # Handle media attachments
     if msg.media:
         try:
             media_path = await msg.download_media(file="./")
@@ -112,7 +96,7 @@ async def create_rss():
 
                 os.remove(media_path)  # Cleanup local file
         except Exception as e:
-            logger.error(f"❌ Error handling media: {e}")
+            logger.error(f"Error handling media: {e}")
 
     rss_feed = fg.rss_str(pretty=True)
 
@@ -125,16 +109,15 @@ async def create_rss():
 
 @app.route('/rss')
 def rss_feed():
-    """Serve the RSS feed via HTTP."""
     try:
         rss_content = loop.run_until_complete(create_rss())
         if not rss_content:
             return Response("No new messages found", status=204)
     except Exception as e:
-        logger.error(f"❌ Error generating RSS feed: {e}")
+        logger.error(f"Error generating RSS feed: {e}")
         return Response(f"Error: {str(e)}", status=500)
 
     return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
-    loop.run_until_complete(create_rss())  # Run RSS feed update only when needed
+    loop.run_until_complete(create_rss())  # Run RSS feed update only if needed
