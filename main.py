@@ -14,15 +14,24 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
-# Load credentials from GitHub Secrets
+# Load Telegram credentials from GitHub Secrets
 api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Google Cloud Storage setup
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
+# Load Google Cloud credentials
+credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
+credentials_path = "gcp_credentials.json"
+
+if credentials_json:
+    with open(credentials_path, "w") as f:
+        f.write(credentials_json)
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
+else:
+    raise Exception("❌ Google Cloud credentials are missing!")
+
 storage_client = storage.Client()
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
