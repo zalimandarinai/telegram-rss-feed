@@ -14,24 +14,20 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
-# Load Telegram API credentials from GitHub Secrets
+# Load credentials from GitHub Secrets
 api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Load Google Cloud credentials from GitHub Secrets
-credentials_path = "/home/runner/work/telegram-rss-feed/telegram-rss-feed/gcp_credentials.json"
-with open(credentials_path, "w") as f:
-    f.write(os.getenv("GCP_SERVICE_ACCOUNT_JSON"))
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
-
+# Google Cloud Storage setup
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
 storage_client = storage.Client()
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
-# ✅ Properly set up the event loop
+# Global asyncio event loop
 loop = asyncio.new_event_loop()
 asyncio.set_event_loop(loop)
 
@@ -40,18 +36,18 @@ async def create_rss():
         await client.connect()
 
     try:
-        message = await client.get_messages('Tsaplienko', limit=1)
+        messages = await client.get_messages('Tsaplienko', limit=1)  # Fetch latest message
     except Exception as e:
         logger.error(f"Error fetching messages: {e}")
         return None
 
     fg = FeedGenerator()
-    fg.title('Latest News')
+    fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
-    fg.description('Telegram news updates')
+    fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
-    if message:
-        msg = message[0]
+    if messages:
+        msg = messages[0]
         fe = fg.add_entry()
         fe.title(msg.message[:30] if msg.message else "No Title")
         fe.description(msg.message or "No Content")
@@ -65,13 +61,22 @@ async def create_rss():
                     blob = bucket.blob(blob_name)
                     blob.upload_from_filename(media_path)
                     blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+
                     media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
                     fe.enclosure(url=media_url, type='image/jpeg' if media_url.endswith('.jpg') else 'video/mp4')
-                    os.remove(media_path)
+
+                    os.remove(media_path)  # Cleanup local file
             except Exception as e:
                 logger.error(f"Error handling media: {e}")
 
-    return fg.rss_str(pretty=True)
+    rss_feed = fg.rss_str(pretty=True)
+
+    # Ensure docs/ folder exists
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/rss.xml", "wb") as f:
+        f.write(rss_feed)
+
+    return rss_feed
 
 @app.route('/rss')
 def rss_feed():
@@ -86,6 +91,4 @@ def rss_feed():
     return Response(rss_content, mimetype='application/rss+xml')
 
 if __name__ == "__main__":
-    print("Generating RSS feed and exiting...")
-    loop.run_until_complete(create_rss())  # ✅ Runs once and exits
-    print("RSS feed update completed.")
+    loop.run_until_complete(create_rss())  # Run RSS feed update once
