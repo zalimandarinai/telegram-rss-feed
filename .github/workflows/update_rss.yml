@@ -1,12 +1,12 @@
-name: Telegram RSS Feed Automation
+name: Update Telegram RSS Feed
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
+    - cron: "*/5 * * * *"  # Runs every 5 minutes
   workflow_dispatch:  # Allows manual runs from GitHub
 
 jobs:
-  build:
+  update_feed:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install flask telethon feedgen waitress google-cloud-storage
+        pip install flask telethon feedgen google-cloud-storage
 
     - name: Run Telegram RSS Feed Script
       env:
@@ -30,15 +30,10 @@ jobs:
         GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
       run: python main.py
 
-    - name: Move RSS Feed to docs/
-      run: |
-        mkdir -p docs
-        mv docs/rss.xml docs/rss.xml  # Ensure correct path
+    - name: Upload RSS feed to GitHub Pages
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: docs/rss.xml
 
     - name: Deploy to GitHub Pages
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: docs
-
-    - name: Deploy GitHub Pages
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v3
