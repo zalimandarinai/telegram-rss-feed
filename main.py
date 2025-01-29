@@ -7,7 +7,6 @@ from feedgen.feed import FeedGenerator
 import logging
 import xml.etree.ElementTree as ET
 from google.cloud import storage
-from google.oauth2 import service_account
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -20,15 +19,8 @@ string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# ✅ Load Google Cloud credentials explicitly from GitHub Secrets
-credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
-if not credentials_json:
-    raise Exception("❌ Google Cloud credentials are missing!")
-
-credentials_dict = json.loads(credentials_json)
-credentials = service_account.Credentials.from_service_account_info(credentials_dict)
-
-storage_client = storage.Client(credentials=credentials)
+# Google Cloud Storage Setup
+storage_client = storage.Client()
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
@@ -77,7 +69,7 @@ async def create_rss():
 
     if not new_messages:
         logger.info("No new Telegram posts with media. Exiting early.")
-        exit(1)  # ✅ Prevents unnecessary GitHub Actions minutes usage
+        exit(0)  # ✅ Prevents unnecessary GitHub Actions minutes usage
 
     # Load existing RSS entries
     existing_items = load_existing_rss()
@@ -90,9 +82,17 @@ async def create_rss():
     # Keep only the latest 5 posts (new + existing)
     all_posts = new_messages + existing_items[:MAX_POSTS - len(new_messages)]
 
+    seen_media = set()  # ✅ Track processed media to avoid duplicates
+
     for msg in reversed(new_messages):  # Process older messages first
         fe = fg.add_entry()
-        fe.title("Media Post")
+
+        # ✅ Use the first 30 characters of the message as the title, or a fallback
+        title_text = msg.message[:30] if msg.message else "No Title"
+        description_text = msg.message if msg.message else "No Content"
+
+        fe.title(title_text)  # ✅ Correct title from Telegram message
+        fe.description(description_text)  # ✅ Correct description from Telegram message
         fe.pubDate(msg.date)
 
         if msg.media:
@@ -111,8 +111,11 @@ async def create_rss():
                     else:
                         logger.info(f"Skipping upload, {blob_name} already exists")
 
-                    fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
-                                 type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
+                    # ✅ Avoid duplicate media in RSS
+                    if blob_name not in seen_media:
+                        seen_media.add(blob_name)
+                        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                                     type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
 
                     os.remove(media_path)  # ✅ Cleanup local media after processing
                 else:
