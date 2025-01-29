@@ -6,12 +6,11 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 09:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 09:37:01 +0000</lastBuildDate>
     <item>
-      <title>В районі українсько-російськог</title>
-      <description>В районі українсько-російського кордону північніше міста Суми дрон бригади ДПСУ «Сталевий Кордон» полює на російських військових.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2399.MP4" length="None" type="video/mp4"/>
-      <pubDate>Wed, 29 Jan 2025 08:53:55 +0000</pubDate>
+      <title>Media Post</title>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-29_09-34-13.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jan 2025 09:34:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
