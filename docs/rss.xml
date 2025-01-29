@@ -1,44 +1,23 @@
-name: Telegram RSS Feed Automation
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest news</title>
+    <link>https://www.mandarinai.lt/</link>
+    <description>Naujienų kanalą pristato www.mandarinai.lt</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 29 Jan 2025 07:52:54 +0000</lastBuildDate>
+    <item>
+      <title>🇺🇦🇸🇰 В МЗС України різко відпо</title>
+      <description>🇺🇦🇸🇰 В МЗС України різко відповіли Фіцо на заяви про "ворогів"
 
-on:
-  schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual runs from GitHub
+Міністерство закордонних справ України відреагувало на резонансні заяви словацького прем'єр-міністра Роберта Фіцо щодо "ворогів".
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+В коментарі МЗС зазначається, що Фіцо на тлі падіння довіри серед суспільства і протестів проти його проросійського курсу у Словаччини "вдався до пошуку ворогів та знайшов їх в Україні".
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.12"
-
-    - name: Install dependencies
-      run: |
-        pip install flask telethon feedgen waitress google-cloud-storage
-
-    - name: Run Telegram RSS Feed Script
-      env:
-        TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-        TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
-        TELEGRAM_STRING_SESSION: ${{ secrets.TELEGRAM_STRING_SESSION }}
-        GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
-      run: python main.py
-
-    - name: Move RSS Feed to docs/
-      run: |
-        mkdir -p docs
-        mv docs/rss.xml docs/rss.xml  # Ensure correct path
-
-    - name: Deploy to GitHub Pages
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: docs
-
-    - name: Deploy GitHub Pages
-      uses: actions/deploy-pages@v4
+"Розцінюємо ці чергові абсурдні заяви як спробу перекинути відповідальність за власні провали у внутрішній політиці на іноземні держави та лідерів. Радимо подивитися не за кордон, а в дзеркало", - йдеться у заяві українського зовнішньополітичного відомства.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-29_07-48-52.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jan 2025 07:48:52 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
