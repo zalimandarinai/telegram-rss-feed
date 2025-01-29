@@ -1,5 +1,6 @@
 import asyncio
 from telethon import TelegramClient
+from telethon.sessions import StringSession  # ✅ Fix: Import StringSession
 import os
 import json
 from feedgen.feed import FeedGenerator
@@ -10,11 +11,12 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Telegram API Credentials
-api_id = int(os.getenv("TELEGRAM_API_ID"))  # ✅ FIXED: No extra closing parenthesis
-api_hash = os.getenv("TELEGRAM_API_HASH")   # ✅ FIXED: No extra closing parenthesis
+api_id = int(os.getenv("TELEGRAM_API_ID"))
+api_hash = os.getenv("TELEGRAM_API_HASH")
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
-client = TelegramClient("session_name", api_id, api_hash)
+# ✅ Fix: Use stored session instead of creating a new one
+client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 LAST_POST_FILE = "docs/last_post.json"
 
