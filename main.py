@@ -7,6 +7,7 @@ from feedgen.feed import FeedGenerator
 import logging
 import xml.etree.ElementTree as ET
 from google.cloud import storage
+from google.oauth2 import service_account
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -19,8 +20,15 @@ string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# ✅ Restore the last working Google Cloud Storage authentication method
-storage_client = storage.Client()
+# ✅ Fix: Explicitly load Google Cloud credentials
+credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
+if not credentials_json:
+    raise Exception("❌ Google Cloud credentials are missing!")
+
+credentials_dict = json.loads(credentials_json)
+credentials = service_account.Credentials.from_service_account_info(credentials_dict)
+
+storage_client = storage.Client(credentials=credentials)
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
