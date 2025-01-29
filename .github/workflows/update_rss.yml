@@ -2,7 +2,7 @@ name: Telegram RSS Feed Automation
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
+    - cron: "0 * * * *"  # Runs every hour (at minute 0)
   workflow_dispatch:  # Allows manual runs from GitHub Actions
 
 jobs:
