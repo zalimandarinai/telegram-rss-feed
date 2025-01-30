@@ -6,18 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 12:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 13:25:02 +0000</lastBuildDate>
     <item>
-      <title>No Title</title>
-      <description>No Content</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-30_11-47-17.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jan 2025 11:47:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Момент удару російських вбивц</title>
-      <description>🤬Момент удару російських вбивць по житловому будинку в Сумах, де загинуло 4 людей, двоє людей знаходяться у лікарні в критичному стані</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-01-30_11-47-17.mp4" length="None" type="video/mp4"/>
-      <pubDate>Thu, 30 Jan 2025 11:47:17 +0000</pubDate>
+      <title>Україна — вигадана держава, її</title>
+      <description>Україна — вигадана держава, її поділ між сусідніми державами — неминучий, — проросійський ультраправий кандидат у президенти Румунії Джорджеску
+
+Світ змінюється. Кордони будуть змінюватися. Більше того — якщо кордони зміняться, то де будемо ми? У нас є Північна Буковина — інтерес. У нас є Буджак, у нас є Північний Марамуреш — правильно? Від колишнього... як воно називалося... Закарпаття! Є ще угорці... Львів, який залишиться з поляками, і Малоросія..
+
+І це каже популярний політик з Євросоюзу...</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-30_12-46-03.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jan 2025 12:46:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
