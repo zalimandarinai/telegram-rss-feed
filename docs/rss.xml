@@ -6,35 +6,38 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 05:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 06:28:54 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <description>No Content</description>
-      <pubDate>Thu, 30 Jan 2025 05:20:40 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2025 06:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>По приказу «Пекаря», «Психа», </title>
+      <description>По приказу «Пекаря», «Психа», «Фалангера» были расстреляны раненые «Султан», «Харлей», «Лаки», «Иса», «Пища», - військові російської 132-ої бригади вирішили звернутися до російської прокуратури зі зверненням про злочини їхніх командирів в Торецьку.
+
+Та російська прокуратура, як і вся російська система, зараз працює не до встановлення правосуддя, а для того, щоб змусити таких, як вони, корисних ідіотів, воювати за путіна.
+
+Але ці солдати не захотіли бути корисними ідіотами і прийняли єдине можливе правильне рішення - здатися в український полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2423.MP4" length="None" type="video/mp4"/>
+      <pubDate>Thu, 30 Jan 2025 06:24:33 +0000</pubDate>
     </item>
     <item>
       <title>No Title</title>
       <description>No Content</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-01-30_05-20-40.mp4" length="None" type="video/mp4"/>
-      <pubDate>Thu, 30 Jan 2025 05:20:40 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2025 05:50:32 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Повідомляють про 9 постражда</title>
-      <description>⚡️Повідомляють про 9 постраждалих внаслідок влучання у багатоповерхівку в Сумах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-30_05-20-40.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jan 2025 05:20:40 +0000</pubDate>
+      <title>No Title</title>
+      <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-30_05-50-32.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jan 2025 05:50:32 +0000</pubDate>
     </item>
     <item>
-      <title>Пасажирський літак зіткнувся з</title>
-      <description>Пасажирський літак зіткнувся з військовим вертольотом під час посадки в аеропорту Вашингтона, — CNN
-
-Літак після зіткнення впав у річку Потомак. Уламки вертольота досі не знайдені.
-
-На борту літака перебували 64 пасажири та члени екіпажу. На борту вертольота — екіпаж з трьох осіб.
-
-Пошуково-рятувальні роботи тривають.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-01-30_05-12-43.mp4" length="None" type="video/mp4"/>
-      <pubDate>Thu, 30 Jan 2025 05:12:43 +0000</pubDate>
+      <title>У Сумах є загиблі. З-під завал</title>
+      <description>У Сумах є загиблі. З-під завалів у багатоповерхівці рятувальники дістали тіла чоловіка і жінки. Також внаслідок влучання шахеду постраждали 9 людей, серед них дитина.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-01-30_05-50-32.mp4" length="None" type="video/mp4"/>
+      <pubDate>Thu, 30 Jan 2025 05:50:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
