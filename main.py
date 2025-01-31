@@ -103,6 +103,10 @@ async def create_rss():
         else:
             text = msg.message or getattr(msg, "caption", None) or "No Content"
 
+        # **Jei albumo dalis neturi teksto, bet yra grouped_id, priskiriame tekstą iš pirmo įrašo**
+        if text == "No Content" and hasattr(msg.media, "grouped_id") and msg.grouped_id in grouped_texts:
+            text = grouped_texts[msg.grouped_id]
+
         # Praleidžiame postus be teksto
         if text == "No Content":
             logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi teksto")
