@@ -32,8 +32,8 @@ bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
 # ✅ NUOLATINIAI KONSTANTAI
-LAST_POST_FILE = "docs/last_post.json"  # Failas, kuriame saugomas paskutinis apdorotas postas
-RSS_FILE = "docs/rss.xml"  # RSS failo vieta
+LAST_POST_FILE = "docs/last_post.json"
+RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 5  # ✅ RSS faile visada bus bent 5 paskutiniai postai su media ir tekstu
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Maksimalus medijos dydis - 15MB
 
@@ -54,11 +54,12 @@ def save_last_post(post_data):
 def load_existing_rss():
     if not os.path.exists(RSS_FILE):
         return []
+
     try:
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
         channel = root.find("channel")
-        return channel.findall("item") if channel is not None else []
+        return channel.findall("item") if channel else []
     except Exception as e:
         logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
         return []
@@ -67,39 +68,42 @@ def load_existing_rss():
 async def create_rss():
     await client.connect()
     last_post = load_last_post()
-
-    # ✅ Gauname 20 paskutinių žinučių
+    
+    # ✅ Gauname 20 paskutinių žinučių (didesnis skaičius, kad turėtume atsargą)
     messages = await client.get_messages('Tsaplienko', limit=20)
 
-    grouped_posts = {}  # Saugo albumus su `grouped_id`
-    valid_posts = []  # Saugo tik į RSS įtraukiamus postus
+    # ✅ Albumų tekstų sekimas (kad visi albumo įrašai turėtų tą patį tekstą)
+    grouped_texts = {}
 
-    for msg in reversed(messages):  # ✅ Apdorojame nuo seniausio iki naujausio
+    valid_posts = []  # ✅ Saugojami tik postai su media ir tekstu
+
+    for msg in reversed(messages):  # ✅ Apdorojame postus nuo seniausio iki naujausio
         text = msg.message or getattr(msg, "caption", None) or "No Content"
 
-        # ✅ Jei tai albumas, grupuojame visus jo įrašus
+        # ✅ Jei postas yra albumo dalis, tekstą imame iš pirmo įrašo
         if hasattr(msg.media, "grouped_id") and msg.grouped_id:
-            if msg.grouped_id not in grouped_posts:
-                grouped_posts[msg.grouped_id] = {"text": text, "media": []}
-            grouped_posts[msg.grouped_id]["media"].append(msg)
+            if msg.grouped_id not in grouped_texts:
+                grouped_texts[msg.grouped_id] = text
+            else:
+                text = grouped_texts[msg.grouped_id]
 
-        else:
-            valid_posts.append({"msg": msg, "text": text, "media": [msg]})
+        # ✅ Jei nėra nei teksto, nei media – praleidžiame
+        if text == "No Content" and not msg.media:
+            logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi nei teksto, nei media")
+            continue
 
-        if len(valid_posts) >= MAX_POSTS:
-            break
+        # ✅ Išsaugome validžius postus
+        valid_posts.append((msg, text))
 
-    # ✅ Pridedame albumų pranešimus
-    for album in grouped_posts.values():
-        valid_posts.append({"msg": album["media"][0], "text": album["text"], "media": album["media"]})
+        # ✅ Sustojame, kai surenkame 5 postus
         if len(valid_posts) >= MAX_POSTS:
             break
 
     # ✅ Užtikriname, kad RSS faile visada būtų 5 įrašai
     existing_items = load_existing_rss()
-    needed_posts = MAX_POSTS - len(valid_posts)
-    if needed_posts > 0:
-        valid_posts.extend(existing_items[:needed_posts])
+    if len(valid_posts) < MAX_POSTS:
+        remaining_posts = [msg for msg in existing_items if msg not in valid_posts]
+        valid_posts.extend(remaining_posts[:MAX_POSTS - len(valid_posts)])
 
     # ✅ Generuojame naują RSS
     fg = FeedGenerator()
@@ -107,42 +111,45 @@ async def create_rss():
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
-    seen_posts = set()
+    seen_media = set()  # ✅ Saugome jau naudotus media failus, kad nebūtų dublikatų
 
-    for post in valid_posts:
-        msg = post["msg"]
-        text = post["text"]
-        media_files = post["media"]
-
-        if msg.id in seen_posts:
-            continue
-        seen_posts.add(msg.id)
-
+    for msg, text in valid_posts:
         fe = fg.add_entry()
         fe.title(text[:30] if text else "No Title")
         fe.description(text if text else "No Content")
         fe.pubDate(msg.date)
 
-        # ✅ Apdorojame visus albumo media failus
-        for media_msg in media_files:
+        # ✅ Apdorojame media failą
+        if msg.media:
             try:
-                media_path = await media_msg.download_media(file="./")
+                media_path = await msg.download_media(file="./")
                 if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
                     blob_name = os.path.basename(media_path)
                     blob = bucket.blob(blob_name)
 
+                    # ✅ Jei failas dar neįkeltas – įkeliame
                     if not blob.exists():
                         blob.upload_from_filename(media_path)
                         blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+                        logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
+                    else:
+                        logger.info(f"🔄 {blob_name} jau egzistuoja Google Cloud Storage")
 
-                    fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
-                                 type="image/jpeg" if media_path.endswith(".jpg") else "video/mp4")
+                    # ✅ Pridėti prie RSS tik jei nėra dublikato
+                    if blob_name not in seen_media:
+                        seen_media.add(blob_name)
+                        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                                     type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
 
+                    os.remove(media_path)  # ✅ Ištriname failą iš vietinės atminties
+                else:
+                    logger.info(f"❌ Didelis failas – {media_path}, praleidžiamas")
                     os.remove(media_path)
             except Exception as e:
                 logger.error(f"❌ Klaida apdorojant media: {e}")
 
-    save_last_post({"id": valid_posts[0]["msg"].id})
+    # ✅ Išsaugome paskutinio posto ID
+    save_last_post({"id": valid_posts[0][0].id})
 
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
