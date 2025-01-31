@@ -159,4 +159,4 @@ async def create_rss():
 # ✅ PAGRINDINIS PROCESO PALEIDIMAS
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
-    loop.run_until_complete(create_rss())
+    loop.run_until_complete(create_rs
