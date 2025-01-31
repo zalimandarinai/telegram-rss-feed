@@ -9,11 +9,11 @@ import xml.etree.ElementTree as ET
 from google.cloud import storage
 from google.oauth2 import service_account
 
-# Set up logging
+# Logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Telegram API Credentials
+# Telegram API prisijungimo duomenys
 api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
@@ -32,7 +32,7 @@ bucket = storage_client.bucket(bucket_name)
 # Failai
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ Užtikriname, kad RSS visada turės 5 įrašus su medija
+MAX_POSTS = 5  # ✅ RSS visada turės bent 5 postus
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ 15 MB ribojimas medijos failams
 
 def load_last_post():
@@ -42,14 +42,15 @@ def load_last_post():
             return json.load(f)
     return {"id": 0}
 
-def save_last_post(post_data):
+def save_last_post(post_id):
     """Išsaugo paskutinio įrašo ID"""
     os.makedirs("docs", exist_ok=True)
     with open(LAST_POST_FILE, "w") as f:
-        json.dump(post_data, f)
+        json.dump({"id": post_id}, f)
+    logger.info(f"✅ Naujas `last_post.json`: {post_id}")
 
 def load_existing_rss():
-    """Užkrauna esamus RSS įrašus ir užtikrina, kad išsaugoma ne mažiau kaip 5 įrašai."""
+    """Užkrauna esamus RSS įrašus ir užtikrina, kad RSS visada turės bent 5 įrašus"""
     if not os.path.exists(RSS_FILE):
         return []
 
@@ -67,17 +68,11 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
 
-    # ✅ Nuskaitome **tik paskutinius 5 postus** (taupome resursus)
+    # ✅ Nuskaitome paskutinius 5 postus
     messages = await client.get_messages('Tsaplienko', limit=5)
-
-    # ✅ Filtruojame tik naujus pranešimus su medija
     new_messages = [msg for msg in messages if msg.id > last_post.get("id", 0) and msg.media]
 
-    if not new_messages:
-        logger.info("✅ Nėra naujų pranešimų su medija. Nutraukiame RSS atnaujinimą.")
-        exit(0)
-
-    # ✅ Užkrauname senus RSS įrašus ir prijungiame naujus
+    # ✅ Užkrauname senus RSS įrašus
     existing_items = load_existing_rss()
 
     fg = FeedGenerator()
@@ -86,50 +81,18 @@ async def create_rss():
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
     # ✅ Užtikriname, kad RSS faile būtų bent 5 įrašai su medija
-    all_posts = new_messages + existing_items  # 🔴 SUJUNGIAME NAUJUS IR SENUS POSTUS
-    all_posts = all_posts[:MAX_POSTS]  # 🔴 NUPJAUNAME PERTEKLIŲ, BET VISADA IŠLAIKOME 5
-
-    seen_media = set()  # ✅ Sekame jau apdorotus medijos failus, kad išvengtume dublių
+    all_posts = new_messages + existing_items
+    all_posts = all_posts[:MAX_POSTS]
 
     for msg in reversed(all_posts):
         fe = fg.add_entry()
-
-        title_text = msg.message[:30] if msg.message else "No Title"
-        description_text = msg.message if msg.message else "No Content"
-        fe.title(title_text)
-        fe.description(description_text)
+        fe.title(msg.message[:30] if msg.message else "No Title")
+        fe.description(msg.message if msg.message else "No Content")
         fe.pubDate(msg.date)
 
-        # ✅ Jei postas turi mediją, atsisiunčiame ir įkeliame į Google Cloud Storage
-        if msg.media:
-            try:
-                media_path = await msg.download_media(file="./")
-                if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
-                    blob_name = os.path.basename(media_path)
-                    blob = bucket.blob(blob_name)
-
-                    # ✅ Praleidžiame įkėlimą, jei failas jau egzistuoja
-                    if not blob.exists():
-                        blob.upload_from_filename(media_path)
-                        blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
-                        logger.info(f"✅ Įkeltas {blob_name} į Google Cloud Storage")
-                    else:
-                        logger.info(f"🔄 Skipped upload, {blob_name} already exists")
-
-                    if blob_name not in seen_media:
-                        seen_media.add(blob_name)
-                        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
-                                     type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
-
-                    os.remove(media_path)  # ✅ Išvalome failą po įkėlimo
-                else:
-                    logger.info(f"❌ Skipping large media file: {media_path}")
-                    os.remove(media_path)
-            except Exception as e:
-                logger.error(f"❌ Error handling media: {e}")
-
-    # ✅ Išsaugome paskutinio įrašo ID
-    save_last_post({"id": new_messages[0].id})
+    # ✅ Išsaugome naujausią ID, kad nepraleistume postų
+    if new_messages:
+        save_last_post(new_messages[0].id)
 
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
