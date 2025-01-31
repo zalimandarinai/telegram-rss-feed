@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 21:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 21:18:37 +0000</lastBuildDate>
     <item>
       <title>🤬Від російських ударів постраждав історичний центр Одеси, - ОВА
 
@@ -17,6 +17,7 @@
 
 Під час ракетного удару поруч з «Бристолем» бачили автомобіль з дипломатичними номерами.</description>
       <guid isPermaLink="false">68090</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-01-31_18-42-52.mp4" length="None" type="video/mp4"/>
       <pubDate>Fri, 31 Jan 2025 18:42:52 +0000</pubDate>
     </item>
     <item>
@@ -29,12 +30,14 @@
 
 Під час ракетного удару поруч з «Бристолем» бачили автомобіль з дипломатичними номерами.</description>
       <guid isPermaLink="false">68089</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_18-42-52.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 18:42:52 +0000</pubDate>
     </item>
     <item>
       <title>Ворог тричі за вечір атакував Одесу балістикою</title>
       <description>Ворог тричі за вечір атакував Одесу балістикою</description>
       <guid isPermaLink="false">68088</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-01-31_18-39-49.mp4" length="None" type="video/mp4"/>
       <pubDate>Fri, 31 Jan 2025 18:39:49 +0000</pubDate>
     </item>
     <item>
