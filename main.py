@@ -58,7 +58,7 @@ def load_existing_rss():
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
         channel = root.find("channel")
-        items = channel.findall("item") if channel else []
+        items = channel.findall("item") if channel is not None else []
         return items[:MAX_POSTS]  # ✅ VISADA PALIEKAME BENT 5 ĮRAŠUS
     except Exception as e:
         logger.error(f"❌ Klaida skaitant RSS failą: {e}")
@@ -68,9 +68,15 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
 
-    # ✅ Nuskaitome paskutinius 5 postus
+    # ✅ Tikriname paskutinius 5 postus
     messages = await client.get_messages('Tsaplienko', limit=5)
     new_messages = [msg for msg in messages if msg.id > last_post.get("id", 0) and msg.media]
+
+    if not new_messages:
+        logger.info("✅ Nėra naujų postų su medija – nutraukiame procesą.")
+        exit(0)  # ✅ Taupome „GitHub Actions“ resursus
+
+    logger.info(f"🆕 Rasti {len(new_messages)} nauji postai su medija!")
 
     # ✅ Užkrauname senus RSS įrašus
     existing_items = load_existing_rss()
@@ -86,13 +92,19 @@ async def create_rss():
 
     for msg in reversed(all_posts):
         fe = fg.add_entry()
-        fe.title(msg.message[:30] if msg.message else "No Title")
-        fe.description(msg.message if msg.message else "No Content")
-        fe.pubDate(msg.date)
+
+        # ✅ Patikriname, ar tai `Telethon` objektas ar `XML Element`
+        if isinstance(msg, ET.Element):
+            fe.title(msg.find("title").text if msg.find("title") is not None else "No Title")
+            fe.description(msg.find("description").text if msg.find("description") is not None else "No Content")
+            fe.pubDate(msg.find("pubDate").text if msg.find("pubDate") is not None else "")
+        else:
+            fe.title(msg.message[:30] if msg.message else "No Title")
+            fe.description(msg.message if msg.message else "No Content")
+            fe.pubDate(msg.date)
 
     # ✅ Išsaugome naujausią ID, kad nepraleistume postų
-    if new_messages:
-        save_last_post(new_messages[0].id)
+    save_last_post(new_messages[0].id)
 
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
