@@ -99,8 +99,12 @@ async def create_rss():
             fe.description(msg.find("description").text if msg.find("description") is not None else "No Content")
             fe.pubDate(msg.find("pubDate").text if msg.find("pubDate") is not None else "")
         else:
-            fe.title(msg.message[:30] if msg.message else "No Title")
-            fe.description(msg.message if msg.message else "No Content")
+            # ✅ Jei `msg.message` yra tuščias, naudojame `msg.caption`
+            title_text = msg.message[:30] if msg.message else (msg.caption[:30] if msg.caption else "No Title")
+            description_text = msg.message if msg.message else (msg.caption if msg.caption else "No Content")
+
+            fe.title(title_text)
+            fe.description(description_text)
             fe.pubDate(msg.date)
 
     # ✅ Išsaugome naujausią ID, kad nepraleistume postų
