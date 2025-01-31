@@ -50,7 +50,7 @@ def save_last_post(post_id):
     logger.info(f"✅ Naujas `last_post.json`: {post_id}")
 
 def load_existing_rss():
-    """Užkrauna esamus RSS įrašus ir užtikrina, kad RSS visada turės bent 5 įrašus"""
+    """Užkrauna esamus RSS įrašus"""
     if not os.path.exists(RSS_FILE):
         return []
 
@@ -59,7 +59,7 @@ def load_existing_rss():
         root = tree.getroot()
         channel = root.find("channel")
         items = channel.findall("item") if channel else []
-        return items[:MAX_POSTS]  
+        return items[:MAX_POSTS]
     except Exception as e:
         logger.error(f"❌ Klaida skaitant RSS failą: {e}")
         return []
@@ -92,9 +92,9 @@ async def create_rss():
     processed_media = set()
     grouped_texts = {}
 
-    for msg in reversed(all_posts):
-        fe = fg.add_entry()
+    valid_posts = []  # Laikinas sąrašas, kuriame filtruosime postus su tekstu ir medija
 
+    for msg in reversed(all_posts):
         # Tikriname, ar tai albumas
         if hasattr(msg.media, "grouped_id") and msg.grouped_id:
             if msg.grouped_id not in grouped_texts:
@@ -102,6 +102,17 @@ async def create_rss():
             text = grouped_texts[msg.grouped_id]
         else:
             text = msg.message or getattr(msg, "caption", None) or "No Content"
+
+        # Praleidžiame postus be teksto
+        if text == "No Content":
+            logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi teksto")
+            continue
+
+        # Pridedame tik tuos, kurie turi tiek tekstą, tiek mediją
+        valid_posts.append((msg, text))
+
+    for msg, text in valid_posts:
+        fe = fg.add_entry()
 
         title_text = text[:30] if text != "No Content" else "No Title"
         fe.title(title_text)
