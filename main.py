@@ -6,7 +6,7 @@ import datetime
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.errors import FloodWaitError
-from feedgen.feed import FeedGenerator  # ✅ Ensure feedgen is correctly used
+from feedgen.feed import FeedGenerator
 
 # ✅ Logging Setup
 logging.basicConfig(level=logging.INFO)
@@ -21,10 +21,10 @@ client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # ✅ Constants
 LAST_POST_FILE = "docs/last_post.json"
-RSS_FILE = "docs/rss.xml"  # ✅ Ensure this file is correctly written
+RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 5  # The RSS feed must contain exactly 5 valid posts
 CHANNEL = "Tsaplienko"  # Replace with your Telegram channel username
-FETCH_LIMIT = 10  # ✅ Only fetch 10 messages per API request
+FETCH_LIMIT = 10  # ✅ Fetch only 10 messages per API request
 
 # ✅ Load Last Processed Post ID
 def load_last_post():
@@ -94,8 +94,8 @@ async def fetch_latest_posts():
     logger.info(f"✅ Checked {fetched_messages} messages, found {len(valid_posts)} valid posts.")
     return valid_posts
 
-# ✅ Generate and Save RSS File
-def generate_rss(posts):
+# ✅ Generate RSS in an Async Function
+async def generate_rss(posts):
     if not posts:
         logger.error("❌ No valid posts available to generate RSS!")
         return
@@ -106,6 +106,8 @@ def generate_rss(posts):
     fg.description("Naujienų kanalą pristato www.mandarinai.lt")
     fg.lastBuildDate(datetime.datetime.utcnow())
 
+    seen_media = set()  # ✅ Prevents duplicate media links
+
     for msg in posts:
         fe = fg.add_entry()
         text = msg.message or getattr(msg, "caption", "No Content")
@@ -113,12 +115,17 @@ def generate_rss(posts):
         fe.description(text)
         fe.pubDate(msg.date)
 
+        # ✅ Process media correctly
         if msg.media:
-            media_path = await msg.download_media(file="./")  # ✅ Download media
+            media_path = await msg.download_media(file="./")  # ✅ Must be inside async function
             if media_path and os.path.exists(media_path):
-                fe.enclosure(url=f"https://storage.googleapis.com/telegram-media-storage/{os.path.basename(media_path)}",
-                             type="image/jpeg" if media_path.endswith(".jpg") else "video/mp4")
-                os.remove(media_path)  # ✅ Clean up local files
+                media_url = f"https://storage.googleapis.com/telegram-media-storage/{os.path.basename(media_path)}"
+
+                if media_url not in seen_media:  # ✅ Prevent duplicate links
+                    fe.enclosure(url=media_url, type="image/jpeg" if media_path.endswith(".jpg") else "video/mp4")
+                    seen_media.add(media_url)
+
+                os.remove(media_path)  # ✅ Clean up local files after processing
 
     # ✅ Save RSS to File
     os.makedirs("docs", exist_ok=True)
@@ -127,11 +134,14 @@ def generate_rss(posts):
 
     logger.info(f"✅ RSS feed successfully updated with {len(posts)} posts.")
 
-if __name__ == "__main__":
-    loop = asyncio.get_event_loop()
-    latest_posts = loop.run_until_complete(fetch_latest_posts())
+# ✅ Main Execution Flow
+async def main():
+    latest_posts = await fetch_latest_posts()
 
     if latest_posts:
-        generate_rss(latest_posts)
+        await generate_rss(latest_posts)
     else:
         logger.warning("❌ No valid posts found—RSS will not be updated.")
+
+if __name__ == "__main__":
+    asyncio.run(main())  # ✅ Properly executes async functions
