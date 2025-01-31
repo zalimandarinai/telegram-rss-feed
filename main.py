@@ -9,18 +9,19 @@ import xml.etree.ElementTree as ET
 from google.cloud import storage
 from google.oauth2 import service_account
 
-# Logging
+# ✅ Nustatome logging'ą, kad būtų galima sekti kodo vykdymo eigą
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Telegram API prisijungimo duomenys
+# ✅ Prisijungimo prie Telegram API duomenys (gaunami iš aplinkos kintamųjų)
 api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
+# ✅ Sukuriame Telegram klientą su sesija
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# Google Cloud nustatymai
+# ✅ Prisijungimas prie Google Cloud Storage, naudojant API raktą
 credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
 credentials_dict = json.loads(credentials_json)
 credentials = service_account.Credentials.from_service_account_info(credentials_dict)
@@ -29,28 +30,28 @@ storage_client = storage.Client(credentials=credentials)
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
-# Failai
-LAST_POST_FILE = "docs/last_post.json"
-RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5
-MAX_MEDIA_SIZE = 15 * 1024 * 1024  # 15MB limit per failą
+# ✅ Pastovūs failų pavadinimai
+LAST_POST_FILE = "docs/last_post.json"  # Failas, kuriame saugomas paskutinio apdoroto Telegram įrašo ID
+RSS_FILE = "docs/rss.xml"  # RSS failas, į kurį eksportuojami naujausi įrašai
+MAX_POSTS = 5  # Kiek naujausių įrašų visada turės būti RSS
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Maksimalus leidžiamas medijos dydis (15 MB)
 
 def load_last_post():
-    """Užkrauna paskutinio įrašo ID"""
+    """✅ Užkrauna paskutinio apdoroto Telegram įrašo ID iš failo"""
     if os.path.exists(LAST_POST_FILE):
         with open(LAST_POST_FILE, "r") as f:
             return json.load(f)
     return {"id": 0}
 
 def save_last_post(post_id):
-    """Išsaugo paskutinio įrašo ID"""
+    """✅ Išsaugo naujausią apdorotą Telegram įrašo ID į failą"""
     os.makedirs("docs", exist_ok=True)
     with open(LAST_POST_FILE, "w") as f:
         json.dump({"id": post_id}, f)
     logger.info(f"✅ Naujas `last_post.json`: {post_id}")
 
 def load_existing_rss():
-    """Užkrauna esamus RSS įrašus ir užtikrina, kad RSS visada turės bent 5 įrašus"""
+    """✅ Užkrauna esamus RSS įrašus ir užtikrina, kad RSS visada turės bent 5 įrašus"""
     if not os.path.exists(RSS_FILE):
         return []
 
@@ -59,16 +60,17 @@ def load_existing_rss():
         root = tree.getroot()
         channel = root.find("channel")
         items = channel.findall("item") if channel else []
-        return items[:MAX_POSTS]  # Tiksliai paimame 5 paskutinius įrašus
+        return items[:MAX_POSTS]  # ✅ Tiksliai paimame 5 paskutinius įrašus
     except Exception as e:
         logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
         return []
 
 async def create_rss():
+    """✅ Pagrindinė funkcija: gauna naujus Telegram įrašus, apdoroja mediją ir generuoja RSS failą"""
     await client.connect()
     last_post = load_last_post()
 
-    # Tikriname paskutinius 20 įrašų, kad visada rastume 5 gerus
+    # ✅ Gauname 20 paskutinių įrašų (kad rastume 5 su medija)
     messages = await client.get_messages('Tsaplienko', limit=20)
     new_messages = [msg for msg in messages if msg.id > last_post.get("id", 0) and msg.media]
 
@@ -78,30 +80,33 @@ async def create_rss():
 
     logger.info(f"🆕 Rasti {len(new_messages)} nauji postai su medija!")
 
-    # Užkrauname senus RSS įrašus
+    # ✅ Užkrauname senus RSS įrašus, kad neprarastume ankstesnių duomenų
     existing_items = load_existing_rss()
 
+    # ✅ Sukuriame naują RSS generatorių
     fg = FeedGenerator()
     fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
+    # ✅ Sujungiame naujus ir senus įrašus ir paimame tik 5 paskutinius
     all_posts = new_messages + existing_items
-    all_posts = all_posts[:MAX_POSTS]  # VISADA išlaikome bent 5 postus
+    all_posts = all_posts[:MAX_POSTS]
 
     processed_media = set()
     grouped_texts = {}
 
-    valid_posts = []  # Laikinas sąrašas, kuriame filtruosime postus su tekstu ir medija
+    valid_posts = []  # ✅ Saugojame tik įrašus su tekstu ir medija
 
     for msg in reversed(all_posts):
         text = msg.message or getattr(msg, "caption", None) or "No Content"
 
+        # ✅ Albumų (grouped_id) atveju, priskiriame pirmo įrašo tekstą visiems albumo įrašams
         if hasattr(msg.media, "grouped_id") and msg.grouped_id:
             if msg.grouped_id not in grouped_texts:
                 grouped_texts[msg.grouped_id] = text
             else:
-                text = grouped_texts[msg.grouped_id]  # Albumo postui priskiriame pirmo įrašo tekstą
+                text = grouped_texts[msg.grouped_id]
 
         if text == "No Content":
             logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi teksto")
@@ -112,6 +117,7 @@ async def create_rss():
         if len(valid_posts) >= MAX_POSTS:
             break
 
+    # ✅ Generuojame RSS įrašus
     for msg, text in valid_posts:
         fe = fg.add_entry()
         title_text = text[:30] if text != "No Content" else "No Title"
@@ -119,19 +125,14 @@ async def create_rss():
         fe.description(text)
         fe.pubDate(msg.date)
 
-        # **Nauja dalis: tikriname, ar poste yra kelios medijos**
         media_files = []
         if msg.media:
             try:
-                # Jei yra albumas, peržiūrime visas nuotraukas
-                if hasattr(msg.media, "webpage") and msg.media.webpage:
-                    media_files.append(msg.media.webpage.photo)
-                elif hasattr(msg.media, "photo"):
+                # ✅ Jei yra albumas, peržiūrime visas nuotraukas ar video
+                if hasattr(msg.media, "photo"):
                     media_files.append(msg.media.photo)
                 elif hasattr(msg.media, "document"):
                     media_files.append(msg.media.document)
-                else:
-                    media_files.append(msg.media)
 
                 for media in media_files:
                     media_path = await client.download_media(media, file="./")
