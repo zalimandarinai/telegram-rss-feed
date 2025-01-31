@@ -99,15 +99,50 @@ async def create_rss():
             fe.description(msg.find("description").text if msg.find("description") is not None else "No Content")
             fe.pubDate(msg.find("pubDate").text if msg.find("pubDate") is not None else "")
         else:
-            # ✅ Jei `msg.message` yra tuščias, naudojame `msg.caption`
-            title_text = msg.message[:30] if msg.message else (msg.caption[:30] if msg.caption else "No Title")
-            description_text = msg.message if msg.message else (msg.caption if msg.caption else "No Content")
+            # ✅ Dabar naudojame `msg.caption`, jei `msg.message` neegzistuoja
+            title_text = (msg.message or msg.caption or "No Title")[:30]
+            description_text = msg.message or msg.caption or "No Content"
 
             fe.title(title_text)
             fe.description(description_text)
             fe.pubDate(msg.date)
 
-    # ✅ Išsaugome naujausią ID, kad nepraleistume postų
+            # ✅ Jei yra keli paveikslėliai, pridedame visus
+            if msg.media:
+                if hasattr(msg.media, "grouped_id"):
+                    media_messages = await client.get_messages('Tsaplienko', min_id=msg.id - 5, max_id=msg.id + 5)
+                    for media_msg in media_messages:
+                        if media_msg.media and media_msg.grouped_id == msg.grouped_id:
+                            media_path = await media_msg.download_media(file="./")
+                            if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
+                                blob_name = os.path.basename(media_path)
+                                blob = bucket.blob(blob_name)
+
+                                if not blob.exists():
+                                    blob.upload_from_filename(media_path)
+                                    blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+                                    logger.info(f"✅ Įkeltas {blob_name} į Google Cloud Storage")
+
+                                fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                                             type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
+
+                                os.remove(media_path)
+                else:
+                    media_path = await msg.download_media(file="./")
+                    if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
+                        blob_name = os.path.basename(media_path)
+                        blob = bucket.blob(blob_name)
+
+                        if not blob.exists():
+                            blob.upload_from_filename(media_path)
+                            blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+                            logger.info(f"✅ Įkeltas {blob_name} į Google Cloud Storage")
+
+                        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                                     type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
+
+                        os.remove(media_path)
+
     save_last_post(new_messages[0].id)
 
     with open(RSS_FILE, "wb") as f:
