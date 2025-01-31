@@ -6,12 +6,13 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 13:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 13:12:27 +0000</lastBuildDate>
     <item>
       <title>🤬Трамп не хоче надавати Україн</title>
       <description>🤬Трамп не хоче надавати Україні більше допомоги і не хоче, щоб Україну прийняли в НАТО, - The Washington Post.
 
 Що стосується контролю за можливим припиненням вогню і забезпеченням безпеки України - без чого перемир'я було б безглуздим, враховуючи неоімперські амбіції Москви - він вважає, що це проблема Європи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_12-34-12.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 12:34:12 +0000</pubDate>
     </item>
     <item>
@@ -19,21 +20,25 @@
       <description>🔥ЗСУ знищили командний пункт угруповання військ рф в Курській області
 
 За інформацією Генштабу ЗСУ, сьогодні підрозділи ракетних військ і артилерії  завдали вогневого ураження по командному пункту угруповання військ "Курськ" збройних сил рф у місті Рильськ Курської області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_12-15-04.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 12:15:04 +0000</pubDate>
     </item>
     <item>
       <title>No Title</title>
       <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_11-46-26.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 11:46:26 +0000</pubDate>
     </item>
     <item>
       <title>No Title</title>
       <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_11-46-26.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 11:46:26 +0000</pubDate>
     </item>
     <item>
       <title>No Title</title>
       <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_11-46-26.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 11:46:26 +0000</pubDate>
     </item>
   </channel>
