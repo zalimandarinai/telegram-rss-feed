@@ -6,7 +6,21 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 14:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 14:36:14 +0000</lastBuildDate>
+    <item>
+      <title>💥🔥Офіційно підтверджено уражен</title>
+      <description>💥🔥Офіційно підтверджено ураження НПЗ «ЛУКОЙЛ-Волгограднафтопереробка» у Волгоградській області рф
+
+Цей НПЗ за проєктною потужністю входить у десятку найбільших нафтопереробних заводів росії та задіяний у забезпеченні окупаційної армії рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_09-57-58.jpg" length="None" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jan 2025 09:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Content</title>
+      <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-01-31_08-41-29 (1).mp4" length="None" type="video/mp4"/>
+      <pubDate>Fri, 31 Jan 2025 08:41:29 +0000</pubDate>
+    </item>
     <item>
       <title>💥В окупованій Горлівці прильот</title>
       <description>💥В окупованій Горлівці прильоти по розташування військових рф</description>
@@ -25,23 +39,8 @@
     <item>
       <title>No Content</title>
       <description>No Content</description>
-      <pubDate>Fri, 31 Jan 2025 08:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬рф вдарила дронами по Чорномо</title>
-      <description>🤬рф вдарила дронами по Чорноморську на Одещині: постраждало четверо людей, зокрема, лікар, який під час ворожих ударів проводив операцію. 
-
-Внаслідок атаки пошкоджені міська лікарня, приватний житловий будинок, адмінбудівля, зерновий склад та вантажні автомобілі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_08-34-12.jpg" length="None" type="image/jpeg"/>
       <pubDate>Fri, 31 Jan 2025 08:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️В Україні 20% нових кандидат</title>
-      <description>❗️В Україні 20% нових кандидатів до Сил оборони — жінки 🔫
-
-З початку роботи центрів рекрутингу української армії 36 760 громадян отримали консультації щодо вступу на військову службу. 8 053 з них вже стали кандидатами до Сил оборони, 20% з яких — жінки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-01-31_07-39-34.jpg" length="None" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jan 2025 07:39:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
