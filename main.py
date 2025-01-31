@@ -32,8 +32,8 @@ bucket = storage_client.bucket(bucket_name)
 # Failai
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ RSS visada turės bent 5 postus
-MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ 15 MB ribojimas medijos failams
+MAX_POSTS = 5
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  # 15MB limit per failą
 
 def load_last_post():
     """Užkrauna paskutinio įrašo ID"""
@@ -58,8 +58,8 @@ def load_existing_rss():
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
         channel = root.find("channel")
-        items = channel.findall("item") if channel is not None else []
-        return items[:MAX_POSTS]  # ✅ VISADA PALIEKAME BENT 5 ĮRAŠUS
+        items = channel.findall("item") if channel else []
+        return items[:MAX_POSTS]  
     except Exception as e:
         logger.error(f"❌ Klaida skaitant RSS failą: {e}")
         return []
@@ -68,17 +68,17 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
 
-    # ✅ Tikriname paskutinius 5 postus
+    # Tikriname paskutinius 5 postus
     messages = await client.get_messages('Tsaplienko', limit=5)
     new_messages = [msg for msg in messages if msg.id > last_post.get("id", 0) and msg.media]
 
     if not new_messages:
         logger.info("✅ Nėra naujų postų su medija – nutraukiame procesą.")
-        exit(0)  # ✅ Taupome „GitHub Actions“ resursus
+        exit(0)
 
     logger.info(f"🆕 Rasti {len(new_messages)} nauji postai su medija!")
 
-    # ✅ Užkrauname senus RSS įrašus
+    # Užkrauname senus RSS įrašus
     existing_items = load_existing_rss()
 
     fg = FeedGenerator()
@@ -86,48 +86,48 @@ async def create_rss():
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
-    # ✅ Užtikriname, kad RSS faile būtų bent 5 įrašai su medija
     all_posts = new_messages + existing_items
     all_posts = all_posts[:MAX_POSTS]
+
+    processed_media = set()
+    grouped_texts = {}
 
     for msg in reversed(all_posts):
         fe = fg.add_entry()
 
-        # ✅ Naudojame `getattr()`, kad išvengtume `AttributeError`
-        title_text = (msg.message or getattr(msg, "caption", None) or "No Title")[:30]
-        description_text = msg.message or getattr(msg, "caption", None) or "No Content"
+        # Tikriname, ar tai albumas
+        if hasattr(msg.media, "grouped_id") and msg.grouped_id:
+            if msg.grouped_id not in grouped_texts:
+                grouped_texts[msg.grouped_id] = msg.message or getattr(msg, "caption", None) or "No Content"
+            text = grouped_texts[msg.grouped_id]
+        else:
+            text = msg.message or getattr(msg, "caption", None) or "No Content"
 
+        title_text = text[:30] if text != "No Content" else "No Title"
         fe.title(title_text)
-        fe.description(description_text)
+        fe.description(text)
         fe.pubDate(msg.date)
 
-        # ✅ Tikriname, ar žinutėje yra medija
+        # Tikriname, ar žinutėje yra medija
         if msg.media:
-            logger.info(f"📸 Postas {msg.id} turi mediją. Bandome ją atsisiųsti...")
-
             try:
                 media_path = await msg.download_media(file="./")
-                if media_path:
-                    logger.info(f"✅ Sėkmingai atsisiųsta medija: {media_path}")
+                if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
+                    blob_name = os.path.basename(media_path)
+                    blob = bucket.blob(blob_name)
 
-                    if os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
-                        blob_name = os.path.basename(media_path)
-                        blob = bucket.blob(blob_name)
-
+                    if blob_name not in processed_media:
                         if not blob.exists():
                             blob.upload_from_filename(media_path)
                             blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
                             logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
-                        else:
-                            logger.info(f"🔄 {blob_name} jau egzistuoja Google Cloud Storage")
 
                         fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
                                      type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
 
-                        os.remove(media_path)  # ✅ Ištriname lokaliai
-                    else:
-                        logger.info(f"❌ Medijos failas per didelis ({os.path.getsize(media_path)} B): {media_path}")
-                        os.remove(media_path)
+                        processed_media.add(blob_name)
+
+                    os.remove(media_path)
 
             except Exception as e:
                 logger.error(f"❌ Klaida apdorojant mediją: {e}")
