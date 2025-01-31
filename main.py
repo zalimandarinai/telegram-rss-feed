@@ -34,7 +34,7 @@ bucket = storage_client.bucket(bucket_name)
 # ✅ NUOLATINIAI KONSTANTAI
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ RSS faile visada bus 5 paskutiniai postai su media
+MAX_POSTS = 5  # ✅ RSS faile visada bus bent 5 paskutiniai postai su media ir tekstu
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Maksimalus medijos dydis - 15MB
 
 # ✅ FUNKCIJA: Paskutinio posto ID įkėlimas
