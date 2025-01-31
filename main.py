@@ -1,8 +1,8 @@
+import os
+import json
 import asyncio
 from telethon import TelegramClient
 from telethon.sessions import StringSession
-import os
-import json
 from feedgen.feed import FeedGenerator
 import logging
 import xml.etree.ElementTree as ET
@@ -20,11 +20,8 @@ string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# ✅ Load Google Cloud credentials
+# Google Cloud nustatymai
 credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
-if not credentials_json:
-    raise Exception("❌ Google Cloud credentials are missing!")
-
 credentials_dict = json.loads(credentials_json)
 credentials = service_account.Credentials.from_service_account_info(credentials_dict)
 
@@ -32,27 +29,27 @@ storage_client = storage.Client(credentials=credentials)
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
-# Constants
+# Failai
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ Keeps only the last 5 media posts
-MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ 15MB limit per file
+MAX_POSTS = 5  # ✅ Užtikriname, kad RSS visada turės 5 įrašus su medija
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ 15 MB ribojimas medijos failams
 
 def load_last_post():
-    """Load the last processed post ID from a file."""
+    """Užkrauna paskutinio įrašo ID"""
     if os.path.exists(LAST_POST_FILE):
         with open(LAST_POST_FILE, "r") as f:
             return json.load(f)
     return {"id": 0}
 
 def save_last_post(post_data):
-    """Save the last processed post ID to a file."""
+    """Išsaugo paskutinio įrašo ID"""
     os.makedirs("docs", exist_ok=True)
     with open(LAST_POST_FILE, "w") as f:
         json.dump(post_data, f)
 
 def load_existing_rss():
-    """Load existing RSS feed and return as a list of entries."""
+    """Užkrauna esamus RSS įrašus ir užtikrina, kad išsaugoma ne mažiau kaip 5 įrašai."""
     if not os.path.exists(RSS_FILE):
         return []
 
@@ -60,26 +57,27 @@ def load_existing_rss():
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
         channel = root.find("channel")
-        return channel.findall("item") if channel else []
+        items = channel.findall("item") if channel else []
+        return items[:MAX_POSTS]  # ✅ VISADA PALIEKAME BENT 5 ĮRAŠUS
     except Exception as e:
-        logger.error(f"Error reading RSS file: {e}")
+        logger.error(f"❌ Klaida skaitant RSS failą: {e}")
         return []
 
 async def create_rss():
     await client.connect()
     last_post = load_last_post()
 
-    # ✅ Fetch only the last 5 messages
+    # ✅ Nuskaitome **tik paskutinius 5 postus** (taupome resursus)
     messages = await client.get_messages('Tsaplienko', limit=5)
 
-    # ✅ Filter new messages with media only
+    # ✅ Filtruojame tik naujus pranešimus su medija
     new_messages = [msg for msg in messages if msg.id > last_post.get("id", 0) and msg.media]
 
     if not new_messages:
-        logger.info("✅ No new Telegram posts with media. Exiting early to save resources.")
-        exit(0)  # ✅ Prevents unnecessary GitHub Actions minutes usage
+        logger.info("✅ Nėra naujų pranešimų su medija. Nutraukiame RSS atnaujinimą.")
+        exit(0)
 
-    # Load existing RSS entries
+    # ✅ Užkrauname senus RSS įrašus ir prijungiame naujus
     existing_items = load_existing_rss()
 
     fg = FeedGenerator()
@@ -87,58 +85,56 @@ async def create_rss():
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
-    # ✅ Keep only the latest 5 posts (new + existing)
-    all_posts = new_messages + existing_items[:MAX_POSTS - len(new_messages)]
+    # ✅ Užtikriname, kad RSS faile būtų bent 5 įrašai su medija
+    all_posts = new_messages + existing_items  # 🔴 SUJUNGIAME NAUJUS IR SENUS POSTUS
+    all_posts = all_posts[:MAX_POSTS]  # 🔴 NUPJAUNAME PERTEKLIŲ, BET VISADA IŠLAIKOME 5
 
-    seen_media = set()  # ✅ Track processed media to avoid duplicates
+    seen_media = set()  # ✅ Sekame jau apdorotus medijos failus, kad išvengtume dublių
 
-    for msg in reversed(new_messages):  # ✅ Process older messages first
+    for msg in reversed(all_posts):
         fe = fg.add_entry()
 
-        # ✅ Use first 30 characters of the message as title
         title_text = msg.message[:30] if msg.message else "No Title"
         description_text = msg.message if msg.message else "No Content"
-
         fe.title(title_text)
         fe.description(description_text)
         fe.pubDate(msg.date)
 
+        # ✅ Jei postas turi mediją, atsisiunčiame ir įkeliame į Google Cloud Storage
         if msg.media:
             try:
-                # ✅ Download media
                 media_path = await msg.download_media(file="./")
-                if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:  # ✅ Ensures media is ≤15MB
+                if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
                     blob_name = os.path.basename(media_path)
                     blob = bucket.blob(blob_name)
 
-                    # ✅ Skip upload if media already exists in Google Cloud Storage
+                    # ✅ Praleidžiame įkėlimą, jei failas jau egzistuoja
                     if not blob.exists():
                         blob.upload_from_filename(media_path)
                         blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
-                        logger.info(f"✅ Uploaded {blob_name} to Google Cloud Storage")
+                        logger.info(f"✅ Įkeltas {blob_name} į Google Cloud Storage")
                     else:
-                        logger.info(f"🔄 Skipping upload, {blob_name} already exists")
+                        logger.info(f"🔄 Skipped upload, {blob_name} already exists")
 
-                    # ✅ Prevent duplicate media in RSS
                     if blob_name not in seen_media:
                         seen_media.add(blob_name)
                         fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
                                      type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
 
-                    os.remove(media_path)  # ✅ Cleanup local file after upload
+                    os.remove(media_path)  # ✅ Išvalome failą po įkėlimo
                 else:
                     logger.info(f"❌ Skipping large media file: {media_path}")
                     os.remove(media_path)
             except Exception as e:
-                logger.error(f"Error handling media: {e}")
+                logger.error(f"❌ Error handling media: {e}")
 
-    # ✅ Save last processed post ID
+    # ✅ Išsaugome paskutinio įrašo ID
     save_last_post({"id": new_messages[0].id})
 
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
 
-    return "✅ RSS Updated Successfully"
+    logger.info("✅ RSS atnaujintas sėkmingai!")
 
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
