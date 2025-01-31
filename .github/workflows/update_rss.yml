@@ -12,8 +12,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        persist-credentials: false
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -32,12 +30,21 @@ jobs:
         GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
       run: python main.py
 
+    - name: Debug Git Changes
+      run: |
+        ls -lah docs/
+        git status
+
+    - name: Ensure RSS file has changes
+      run: |
+        echo " " >> docs/rss.xml  # Ensure git detects changes
+
     - name: Commit and Push Changes
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        git add docs/rss.xml docs/last_post.json || exit 0  # Ignore if no changes
-        git commit -m "🔄 Auto-update RSS feed" || exit 0  # Ignore empty commits
-        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/zalimandarinai/telegram-rss-feed.git main || exit 0
+        git add docs/rss.xml docs/last_post.json
+        git commit -m "🔄 Auto-update RSS feed" || echo "No changes to commit"
+        git push origin main || echo "❌ Git push failed!"
       env:
-        GH_PAT: ${{ secrets.GH_PAT }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
