@@ -93,21 +93,45 @@ async def create_rss():
     for msg in reversed(all_posts):
         fe = fg.add_entry()
 
-        # ✅ Patikriname, ar tai `Telethon` objektas ar `XML Element`
-        if isinstance(msg, ET.Element):
-            fe.title(msg.find("title").text if msg.find("title") is not None else "No Title")
-            fe.description(msg.find("description").text if msg.find("description") is not None else "No Content")
-            fe.pubDate(msg.find("pubDate").text if msg.find("pubDate") is not None else "")
-        else:
-            # ✅ Naudojame `getattr()` su `None`, kad išvengtume `AttributeError`
-            title_text = (msg.message or getattr(msg, "caption", None) or "No Title")[:30]
-            description_text = msg.message or getattr(msg, "caption", None) or "No Content"
+        # ✅ Naudojame `getattr()`, kad išvengtume `AttributeError`
+        title_text = (msg.message or getattr(msg, "caption", None) or "No Title")[:30]
+        description_text = msg.message or getattr(msg, "caption", None) or "No Content"
 
-            fe.title(title_text)
-            fe.description(description_text)
-            fe.pubDate(msg.date)
+        fe.title(title_text)
+        fe.description(description_text)
+        fe.pubDate(msg.date)
 
-    # ✅ Išsaugome naujausią ID, kad nepraleistume postų
+        # ✅ Tikriname, ar žinutėje yra medija
+        if msg.media:
+            logger.info(f"📸 Postas {msg.id} turi mediją. Bandome ją atsisiųsti...")
+
+            try:
+                media_path = await msg.download_media(file="./")
+                if media_path:
+                    logger.info(f"✅ Sėkmingai atsisiųsta medija: {media_path}")
+
+                    if os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
+                        blob_name = os.path.basename(media_path)
+                        blob = bucket.blob(blob_name)
+
+                        if not blob.exists():
+                            blob.upload_from_filename(media_path)
+                            blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+                            logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
+                        else:
+                            logger.info(f"🔄 {blob_name} jau egzistuoja Google Cloud Storage")
+
+                        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                                     type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
+
+                        os.remove(media_path)  # ✅ Ištriname lokaliai
+                    else:
+                        logger.info(f"❌ Medijos failas per didelis ({os.path.getsize(media_path)} B): {media_path}")
+                        os.remove(media_path)
+
+            except Exception as e:
+                logger.error(f"❌ Klaida apdorojant mediją: {e}")
+
     save_last_post(new_messages[0].id)
 
     with open(RSS_FILE, "wb") as f:
