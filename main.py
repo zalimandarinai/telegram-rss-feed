@@ -5,6 +5,7 @@ import logging
 import datetime
 from telethon import TelegramClient
 from telethon.sessions import StringSession
+from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument
 from feedgen.feed import FeedGenerator
 
 # ✅ Logging Setup
@@ -21,9 +22,9 @@ client = TelegramClient(StringSession(string_session), api_id, api_hash)
 # ✅ Constants
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ RSS must contain exactly 5 valid posts
-CHANNEL = "Tsaplienko"  # Replace with your Telegram channel username
-FETCH_LIMIT = 10  # ✅ Fetch only 10 messages per request
+MAX_POSTS = 5  # ✅ RSS turi turėti tiksliai 5 valid postus
+CHANNEL = "Tsaplienko"  # Pakeiskite į savo Telegram kanalo username
+FETCH_LIMIT = 10  # ✅ Gauname tik 10 žinučių per request
 
 # ✅ Load Last Processed Post ID
 def load_last_post():
@@ -32,7 +33,7 @@ def load_last_post():
             with open(LAST_POST_FILE, "r") as f:
                 data = json.load(f)
                 return data.get("id", 0)
-        except json.JSONDecodeError:
+        except (json.JSONDecodeError, FileNotFoundError):
             return 0
     return 0
 
@@ -42,36 +43,47 @@ def save_last_post(post_id):
     with open(LAST_POST_FILE, "w") as f:
         json.dump({"id": post_id}, f)
 
+# ✅ Extract Media URLs
+async def extract_media(msg):
+    media_urls = []
+    if isinstance(msg.media, (MessageMediaPhoto, MessageMediaDocument)):
+        media = await client.download_media(msg, file=bytes)
+        media_urls.append(f"data:image/jpeg;base64,{media.hex()[:50]}...")  # Fake placeholder, replace with real hosting logic
+    return media_urls
+
 # ✅ Fetch Messages
 async def fetch_latest_posts():
-    await client.connect()
+    async with client:
+        last_post_id = load_last_post()
+        today = datetime.datetime.now(datetime.UTC).date()  # ✅ Pataisyta UTC laiko juosta
+        valid_posts = {}  # ✅ Saugojame albumus pagal `grouped_id`
 
-    last_post_id = load_last_post()
-    today = datetime.datetime.utcnow().date()
-    valid_posts = []  # ✅ Store only posts with media & description
+        messages = await client.get_messages(CHANNEL, limit=FETCH_LIMIT)
+        logger.info(f"📌 Checked {len(messages)} messages")
 
-    # ✅ Fetch exactly 10 messages (no extra API calls)
-    messages = await client.get_messages(CHANNEL, limit=FETCH_LIMIT)
-    logger.info(f"📌 Checked {len(messages)} messages")
+        for msg in messages:
+            if msg.date.date() != today or msg.id <= last_post_id:
+                continue  # ✅ Ignoruojame senas žinutes
 
-    for msg in messages:
-        if msg.date.date() != today or msg.id <= last_post_id:
-            continue  # ✅ Ignore old messages
+            text = msg.message or getattr(msg, "caption", None)  # ✅ Turi būti tekstas
+            has_media = msg.media is not None  # ✅ Turi būti medija
+            group_id = msg.grouped_id or msg.id  # ✅ Albumai atpažįstami pagal `grouped_id`
 
-        text = msg.message or getattr(msg, "caption", None)  # ✅ Must have text
-        has_media = msg.media is not None  # ✅ Must have media
+            if text and has_media:
+                if group_id not in valid_posts:
+                    valid_posts[group_id] = {"msg": msg, "media": []}
 
-        if text and has_media:
-            valid_posts.append(msg)
+                media_urls = await extract_media(msg)
+                valid_posts[group_id]["media"].extend(media_urls)
 
-        if len(valid_posts) >= MAX_POSTS:
-            break  # ✅ STOP once we have 5 valid posts
+            if len(valid_posts) >= MAX_POSTS:
+                break  # ✅ STOP jei jau turime 5 postus
 
-    if valid_posts:
-        save_last_post(valid_posts[0].id)
+        if valid_posts:
+            save_last_post(max(valid_posts.keys()))
 
-    logger.info(f"✅ Found {len(valid_posts)} valid posts.")
-    return valid_posts
+        logger.info(f"✅ Found {len(valid_posts)} valid posts.")
+        return list(valid_posts.values())
 
 # ✅ Generate RSS
 async def generate_rss(posts):
@@ -83,16 +95,19 @@ async def generate_rss(posts):
     fg.title("Latest news")
     fg.link(href="https://www.mandarinai.lt/")
     fg.description("Naujienų kanalą pristato www.mandarinai.lt")
-    fg.lastBuildDate(datetime.datetime.utcnow())
+    fg.lastBuildDate(datetime.datetime.now(datetime.UTC))  # ✅ Pataisyta UTC laiko juosta
 
-    for msg in posts:
-        fe = fg.add_entry()
+    for post_data in posts:
+        msg = post_data["msg"]
+        media_urls = post_data["media"]
         text = msg.message or getattr(msg, "caption", "No Content")
-        fe.title(text[:30])
-        fe.description(text)
-        fe.pubDate(msg.date)
 
-    # ✅ Save RSS File
+        fe = fg.add_entry()
+        fe.title(text[:30])
+        fe.description(f"{text}<br><br>" + "".join(f'<img src="{url}" /><br>' for url in media_urls))
+        fe.pubDate(msg.date.replace(tzinfo=datetime.UTC))  # ✅ Pataisyta UTC laiko juosta
+
+    # ✅ Išsaugoti RSS failą
     os.makedirs("docs", exist_ok=True)
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
@@ -109,4 +124,4 @@ async def main():
         logger.warning("❌ No valid posts found—RSS not updated.")
 
 if __name__ == "__main__":
-    asyncio.run(main())  # ✅ Executes properly
+    asyncio.run(main())  # ✅ Vykdoma teisingai
