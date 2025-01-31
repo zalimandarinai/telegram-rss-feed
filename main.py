@@ -61,7 +61,7 @@ def load_existing_rss():
         items = channel.findall("item") if channel else []
         return items[:MAX_POSTS]  # Tiksliai paimame 5 paskutinius įrašus
     except Exception as e:
-        logger.error(f"❌ Klaida skaitant RSS failą: {e}")
+        logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
         return []
 
 async def create_rss():
@@ -95,58 +95,62 @@ async def create_rss():
     valid_posts = []  # Laikinas sąrašas, kuriame filtruosime postus su tekstu ir medija
 
     for msg in reversed(all_posts):
-        # Tikriname, ar tai albumas
+        text = msg.message or getattr(msg, "caption", None) or "No Content"
+
         if hasattr(msg.media, "grouped_id") and msg.grouped_id:
             if msg.grouped_id not in grouped_texts:
-                grouped_texts[msg.grouped_id] = msg.message or getattr(msg, "caption", None) or "No Content"
-            text = grouped_texts[msg.grouped_id]
-        else:
-            text = msg.message or getattr(msg, "caption", None) or "No Content"
+                grouped_texts[msg.grouped_id] = text
+            else:
+                text = grouped_texts[msg.grouped_id]  # Albumo postui priskiriame pirmo įrašo tekstą
 
-        # **Jei albumo dalis neturi teksto, bet yra grouped_id, priskiriame tekstą iš pirmo įrašo**
-        if text == "No Content" and hasattr(msg.media, "grouped_id") and msg.grouped_id in grouped_texts:
-            text = grouped_texts[msg.grouped_id]
-
-        # Praleidžiame postus be teksto
         if text == "No Content":
             logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi teksto")
             continue
 
-        # Pridedame tik tuos, kurie turi tiek tekstą, tiek mediją
         valid_posts.append((msg, text))
 
-        # Stabdome, jei pasiekėme 5 įrašus
         if len(valid_posts) >= MAX_POSTS:
             break
 
     for msg, text in valid_posts:
         fe = fg.add_entry()
-
         title_text = text[:30] if text != "No Content" else "No Title"
         fe.title(title_text)
         fe.description(text)
         fe.pubDate(msg.date)
 
-        # Tikriname, ar žinutėje yra medija
+        # **Nauja dalis: tikriname, ar poste yra kelios medijos**
+        media_files = []
         if msg.media:
             try:
-                media_path = await msg.download_media(file="./")
-                if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
-                    blob_name = os.path.basename(media_path)
-                    blob = bucket.blob(blob_name)
+                # Jei yra albumas, peržiūrime visas nuotraukas
+                if hasattr(msg.media, "webpage") and msg.media.webpage:
+                    media_files.append(msg.media.webpage.photo)
+                elif hasattr(msg.media, "photo"):
+                    media_files.append(msg.media.photo)
+                elif hasattr(msg.media, "document"):
+                    media_files.append(msg.media.document)
+                else:
+                    media_files.append(msg.media)
 
-                    if blob_name not in processed_media:
-                        if not blob.exists():
-                            blob.upload_from_filename(media_path)
-                            blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
-                            logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
+                for media in media_files:
+                    media_path = await client.download_media(media, file="./")
+                    if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
+                        blob_name = os.path.basename(media_path)
+                        blob = bucket.blob(blob_name)
 
-                        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
-                                     type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
+                        if blob_name not in processed_media:
+                            if not blob.exists():
+                                blob.upload_from_filename(media_path)
+                                blob.content_type = 'image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4'
+                                logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
 
-                        processed_media.add(blob_name)
+                            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                                         type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
 
-                    os.remove(media_path)
+                            processed_media.add(blob_name)
+
+                        os.remove(media_path)
 
             except Exception as e:
                 logger.error(f"❌ Klaida apdorojant mediją: {e}")
