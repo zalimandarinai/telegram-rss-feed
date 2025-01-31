@@ -50,7 +50,7 @@ def save_last_post(post_id):
     logger.info(f"✅ Naujas `last_post.json`: {post_id}")
 
 def load_existing_rss():
-    """Užkrauna esamus RSS įrašus"""
+    """Užkrauna esamus RSS įrašus ir užtikrina, kad RSS visada turės bent 5 įrašus"""
     if not os.path.exists(RSS_FILE):
         return []
 
@@ -59,7 +59,7 @@ def load_existing_rss():
         root = tree.getroot()
         channel = root.find("channel")
         items = channel.findall("item") if channel else []
-        return items[:MAX_POSTS]
+        return items[:MAX_POSTS]  # Tiksliai paimame 5 paskutinius įrašus
     except Exception as e:
         logger.error(f"❌ Klaida skaitant RSS failą: {e}")
         return []
@@ -68,8 +68,8 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
 
-    # Tikriname paskutinius 5 postus
-    messages = await client.get_messages('Tsaplienko', limit=5)
+    # Tikriname paskutinius 20 įrašų, kad visada rastume 5 gerus
+    messages = await client.get_messages('Tsaplienko', limit=20)
     new_messages = [msg for msg in messages if msg.id > last_post.get("id", 0) and msg.media]
 
     if not new_messages:
@@ -87,7 +87,7 @@ async def create_rss():
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
     all_posts = new_messages + existing_items
-    all_posts = all_posts[:MAX_POSTS]
+    all_posts = all_posts[:MAX_POSTS]  # VISADA išlaikome bent 5 postus
 
     processed_media = set()
     grouped_texts = {}
@@ -110,6 +110,10 @@ async def create_rss():
 
         # Pridedame tik tuos, kurie turi tiek tekstą, tiek mediją
         valid_posts.append((msg, text))
+
+        # Stabdome, jei pasiekėme 5 įrašus
+        if len(valid_posts) >= MAX_POSTS:
+            break
 
     for msg, text in valid_posts:
         fe = fg.add_entry()
