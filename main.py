@@ -55,15 +55,16 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
 
-    now = datetime.datetime.utcnow()
+    now = datetime.datetime.now(datetime.UTC)  # ✅ Užtikrinta, kad `now` yra offset-aware
     min_time = now - TIME_WINDOW
-    messages = await client.get_messages('Tsaplienko', limit=20)  # ✅ Didesnis limitas, bet filtruosim pagal laiką
+    messages = await client.get_messages('Tsaplienko', limit=20)
 
     valid_posts = []
     grouped_posts = {}
 
     for msg in reversed(messages):
-        msg_time = msg.date.replace(tzinfo=datetime.UTC)
+        msg_time = msg.date  # ✅ `msg.date` jau yra offset-aware
+
         if msg_time < min_time:
             continue
 
@@ -89,7 +90,7 @@ async def create_rss():
     fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
-    fg.lastBuildDate(now.replace(tzinfo=datetime.UTC))
+    fg.lastBuildDate(now)  # ✅ Užtikrinta, kad RSS turi offset-aware laiką
 
     seen_guids = set()
 
@@ -101,7 +102,7 @@ async def create_rss():
         fe = fg.add_entry()
         fe.title(text[:80])  # ✅ Užtikriname, kad pavadinimas yra
         fe.description(text)  # ✅ Užtikriname, kad aprašymas yra
-        fe.pubDate(first_msg.date.replace(tzinfo=datetime.UTC))
+        fe.pubDate(first_msg.date)  # ✅ Užtikrinta, kad data yra offset-aware
         fe.guid(str(first_msg.id), permalink=False)
 
         if first_msg.id in seen_guids:
@@ -122,7 +123,7 @@ async def create_rss():
                     blob.make_public()
 
                 fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
-                             length=str(os.path.getsize(media_path)),
+                             length=str(os.path.getsize(media_path)),  # ✅ Užtikrinta, kad enclosure turi `length`
                              type='image/jpeg' if media_path.endswith(('.jpg', '.jpeg')) else 'video/mp4')
                 os.remove(media_path)
             except Exception as e:
