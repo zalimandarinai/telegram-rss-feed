@@ -57,7 +57,7 @@ async def create_rss():
 
     now = datetime.datetime.now(datetime.UTC)  # ✅ Užtikrinta, kad `now` yra offset-aware
     min_time = now - TIME_WINDOW
-    messages = await client.get_messages('Tsaplienko', limit=20)
+    messages = await client.get_messages('Tsaplienko', limit=20)  # ✅ Limit nebuvo pakeistas
 
     valid_posts = []
     grouped_posts = {}
@@ -82,8 +82,9 @@ async def create_rss():
 
     valid_posts = list(grouped_posts.values())[:MAX_POSTS]
 
+    # ✅ Jei nėra naujų postų, RSS NEBUS atnaujintas!
     if not valid_posts:
-        logger.info("🚨 Nėra naujų postų per pastarąsias 2 valandas – RSS neatsinaujins.")
+        logger.info("🚨 Nėra naujų postų – RSS nebus atnaujintas, kad nebūtų klaidinama Make.com.")
         return
 
     fg = FeedGenerator()
