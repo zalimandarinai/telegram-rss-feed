@@ -1,3 +1,50 @@
-1 
- 
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest news</title>
+    <link>https://www.mandarinai.lt/</link>
+    <description>Naujienų kanalą pristato www.mandarinai.lt</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 01 Feb 2025 07:19:32 +0000</lastBuildDate>
+    <item>
+      <title>В Полтаві на цей момент відомо про двох загиблих.
+
+Ще 7 постраждали, серед них д</title>
+      <description>В Полтаві на цей момент відомо про двох загиблих.
+
+Ще 7 постраждали, серед них дитина.
+
+Надзвичайники врятували 21 людину.
+
+Зруйновано під’їзд із 1 по 5 поверх.</description>
+      <guid isPermaLink="false">68109</guid>
+      <pubDate>Sat, 01 Feb 2025 07:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Запоріжжя вночі було під масованим ударом «шахедів», на місто летіло 18 дронів, </title>
+      <description>Запоріжжя вночі було під масованим ударом «шахедів», на місто летіло 18 дронів, є зруйновані будинки після влучань.</description>
+      <guid isPermaLink="false">68106</guid>
+      <pubDate>Sat, 01 Feb 2025 07:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Страшні кадри з Полтави. Повністю зруйнований під’їзд в будинку. Там були люди.</title>
+      <description>Страшні кадри з Полтави. Повністю зруйнований під’їзд в будинку. Там були люди.</description>
+      <guid isPermaLink="false">68105</guid>
+      <pubDate>Sat, 01 Feb 2025 06:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Полтаві зруйновано цілий підʼїзд в багатоповерхівці, кажуть про жертви, але оф</title>
+      <description>В Полтаві зруйновано цілий підʼїзд в багатоповерхівці, кажуть про жертви, але офіційно поки що не підтверджено.</description>
+      <guid isPermaLink="false">68104</guid>
+      <pubDate>Sat, 01 Feb 2025 06:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перші хвилини після «прильоту» в житловий будинок у Полтаві</title>
+      <description>Перші хвилини після «прильоту» в житловий будинок у Полтаві</description>
+      <guid isPermaLink="false">68103</guid>
+      <pubDate>Sat, 01 Feb 2025 06:39:18 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
  
