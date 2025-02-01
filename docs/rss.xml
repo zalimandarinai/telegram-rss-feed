@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Feb 2025 07:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 08:24:02 +0000</lastBuildDate>
     <item>
       <title>В Полтаві на цей момент відомо про двох загиблих.
 
@@ -19,30 +19,35 @@
 
 Зруйновано під’їзд із 1 по 5 поверх.</description>
       <guid isPermaLink="false">68109</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-01_07-09-57.jpg" length="233185" type="image/jpeg"/>
       <pubDate>Sat, 01 Feb 2025 07:09:57 +0000</pubDate>
     </item>
     <item>
       <title>Запоріжжя вночі було під масованим ударом «шахедів», на місто летіло 18 дронів, </title>
       <description>Запоріжжя вночі було під масованим ударом «шахедів», на місто летіло 18 дронів, є зруйновані будинки після влучань.</description>
       <guid isPermaLink="false">68106</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2532.MP4" length="10277432" type="video/mp4"/>
       <pubDate>Sat, 01 Feb 2025 07:01:19 +0000</pubDate>
     </item>
     <item>
       <title>Страшні кадри з Полтави. Повністю зруйнований під’їзд в будинку. Там були люди.</title>
       <description>Страшні кадри з Полтави. Повністю зруйнований під’їзд в будинку. Там були люди.</description>
       <guid isPermaLink="false">68105</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2528.MP4" length="1039115" type="video/mp4"/>
       <pubDate>Sat, 01 Feb 2025 06:52:13 +0000</pubDate>
     </item>
     <item>
       <title>В Полтаві зруйновано цілий підʼїзд в багатоповерхівці, кажуть про жертви, але оф</title>
       <description>В Полтаві зруйновано цілий підʼїзд в багатоповерхівці, кажуть про жертви, але офіційно поки що не підтверджено.</description>
       <guid isPermaLink="false">68104</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2527.MP4" length="738089" type="video/mp4"/>
       <pubDate>Sat, 01 Feb 2025 06:43:55 +0000</pubDate>
     </item>
     <item>
       <title>Перші хвилини після «прильоту» в житловий будинок у Полтаві</title>
       <description>Перші хвилини після «прильоту» в житловий будинок у Полтаві</description>
       <guid isPermaLink="false">68103</guid>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2525.MP4" length="1147737" type="video/mp4"/>
       <pubDate>Sat, 01 Feb 2025 06:39:18 +0000</pubDate>
     </item>
   </channel>
