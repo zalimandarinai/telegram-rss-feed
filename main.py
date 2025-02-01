@@ -1,78 +1,83 @@
 import os
 import json
-import asyncio
 import datetime
-from telethon import TelegramClient
+from telethon.sync import TelegramClient
 from google.cloud import storage
 from feedgen.feed import FeedGenerator
 
-# Configurations
-API_ID = 'YOUR_API_ID'
-API_HASH = 'YOUR_API_HASH'
-CHANNEL = 'YOUR_CHANNEL'  # Example: 't.me/channel_name'
-BUCKET_NAME = 'telegram-media-storage'
-RSS_FILE = 'docs/rss.xml'
-LAST_POST_FILE = 'docs/last_post.json'
+# Load API credentials securely
+API_ID = int(os.getenv("API_ID"))
+API_HASH = os.getenv("API_HASH")
+SESSION_NAME = "session"
+
+# Configure Google Cloud Storage
+BUCKET_NAME = "telegram-media-storage"
+
+# Define constants
+RSS_FILE = "docs/rss.xml"
+LAST_POST_FILE = "docs/last_post.json"
 LOOKBACK_TIME = 7200  # 2 hours in seconds
 
-# Initialize Telegram Client
-client = TelegramClient('session', API_ID, API_HASH)
+# Initialize Telegram client
+client = TelegramClient(SESSION_NAME, API_ID, API_HASH)
 
-# Initialize Google Cloud Storage
-storage_client = storage.Client()
-bucket = storage_client.bucket(BUCKET_NAME)
+def load_last_post_id():
+    """Load the last processed post ID from file."""
+    if os.path.exists(LAST_POST_FILE):
+        with open(LAST_POST_FILE, "r") as file:
+            data = json.load(file)
+            return data.get("id", 0)
+    return 0
 
+def save_last_post_id(post_id):
+    """Save the last processed post ID to file."""
+    with open(LAST_POST_FILE, "w") as file:
+        json.dump({"id": post_id}, file)
 
-async def fetch_latest_posts():
-    """Fetches the latest Telegram posts within the last LOOKBACK_TIME"""
-    async with client:
-        now = datetime.datetime.now(datetime.UTC)
-        min_time = now - datetime.timedelta(seconds=LOOKBACK_TIME)
-        
-        # Get last processed post ID
-        try:
-            with open(LAST_POST_FILE, 'r') as f:
-                last_post_data = json.load(f)
-                last_post_id = last_post_data.get("id", 0)
-        except (FileNotFoundError, json.JSONDecodeError):
-            last_post_id = 0
+def upload_to_gcs(local_path, gcs_path):
+    """Upload file to Google Cloud Storage."""
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(BUCKET_NAME)
+    blob = bucket.blob(gcs_path)
+    blob.upload_from_filename(local_path)
+    return f"https://storage.googleapis.com/{BUCKET_NAME}/{gcs_path}"
 
-        # Fetch posts
-        posts = []
-        async for message in client.iter_messages(CHANNEL, min_id=last_post_id):
-            if message.date < min_time:
-                break  # Ignore very old messages
+def fetch_latest_posts():
+    """Fetch the latest posts from Telegram."""
+    last_post_id = load_last_post_id()
+    new_posts = []
 
-            if message.text and message.media:
-                posts.append(message)
+    with client:
+        for message in client.iter_messages("your_telegram_channel", limit=20):
+            if message.id <= last_post_id:
+                break  # Stop processing old posts
 
-        return posts
+            if message.date.timestamp() < datetime.datetime.utcnow().timestamp() - LOOKBACK_TIME:
+                continue  # Ignore posts older than 2 hours
 
+            if message.text and (message.photo or message.video or message.document):
+                new_posts.append(message)
 
-async def upload_media_to_gcs(message):
-    """Uploads media from a Telegram message to Google Cloud Storage"""
-    if not message.media:
-        return None
+    return new_posts
 
-    media_path = await message.download_media()
-    if not media_path:
-        return None
+def process_media(message):
+    """Download and upload media files."""
+    if message.photo:
+        file_path = client.download_media(message.photo)
+        return upload_to_gcs(file_path, os.path.basename(file_path))
 
-    file_name = os.path.basename(media_path)
-    blob = bucket.blob(file_name)
+    if message.video:
+        file_path = client.download_media(message.video)
+        return upload_to_gcs(file_path, os.path.basename(file_path))
 
-    # Upload file
-    try:
-        blob.upload_from_filename(media_path)
-        os.remove(media_path)  # Cleanup local file after upload
-        return f"https://storage.googleapis.com/{BUCKET_NAME}/{file_name}"
-    except Exception as e:
-        print(f"ERROR: Failed to upload {file_name} - {str(e)}")
-        return None
+    if message.document:
+        file_path = client.download_media(message.document)
+        return upload_to_gcs(file_path, os.path.basename(file_path))
 
+    return None  # No media found
 
-async def generate_rss(posts):
-    """Generates an RSS feed with the latest posts that include media"""
+def generate_rss(posts):
+    """Generate the RSS feed."""
     fg = FeedGenerator()
     fg.title("Latest news")
     fg.link(href="https://www.mandarinai.lt/")
@@ -80,47 +85,35 @@ async def generate_rss(posts):
     fg.generator("python-feedgen")
     fg.lastBuildDate(datetime.datetime.utcnow())
 
-    latest_post_id = 0
-
-    for message in posts:
-        media_url = await upload_media_to_gcs(message)
-
-        if not media_url:
-            continue  # Skip post if media is missing
-
+    for post in posts:
         fe = fg.add_entry()
-        fe.title(message.text.split('\n')[0])  # First line as title
-        fe.description(message.text)
-        fe.guid(str(message.id), isPermaLink=False)
-        fe.pubDate(message.date)
+        fe.title(post.text[:75] + "..." if len(post.text) > 75 else post.text)
+        fe.description(post.text)
+        fe.guid(str(post.id), permalink=False)
+        fe.pubDate(post.date)
 
+        media_url = process_media(post)
         if media_url:
-            if media_url.endswith(".mp4"):
-                fe.enclosure(media_url, length="None", type="video/mp4")
-            elif media_url.endswith(".jpg") or media_url.endswith(".jpeg"):
-                fe.enclosure(media_url, length="None", type="image/jpeg")
+            media_type = "image/jpeg" if media_url.endswith(".jpg") else "video/mp4"
+            fe.enclosure(media_url, length="None", type=media_type)
 
-        latest_post_id = max(latest_post_id, message.id)
+    fg.rss_file(RSS_FILE)
 
-    # Write RSS file only if there are valid posts
-    if latest_post_id > 0:
-        fg.rss_file(RSS_FILE)
+def main():
+    """Main execution function."""
+    print("Fetching latest posts...")
+    posts = fetch_latest_posts()
 
-        # Update last post ID
-        with open(LAST_POST_FILE, 'w') as f:
-            json.dump({"id": latest_post_id}, f)
+    if not posts:
+        print("No new posts found, RSS will not be updated.")
+        return
 
-        print("✅ RSS successfully updated!")
-    else:
-        print("❌ No valid posts with media found. RSS not updated.")
+    print("Generating RSS feed...")
+    generate_rss(posts)
 
-
-async def main():
-    posts = await fetch_latest_posts()
-    if posts:
-        await generate_rss(posts)
-    else:
-        print("❌ No new posts found.")
+    latest_post_id = max(post.id for post in posts)
+    save_last_post_id(latest_post_id)
+    print("RSS successfully updated!")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
