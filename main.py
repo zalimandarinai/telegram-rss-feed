@@ -35,17 +35,16 @@ bucket = storage_client.bucket(bucket_name)
 # ✅ NUOLATINIAI KONSTANTAI
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-LAST_UPDATE_FILE = "docs/last_update.json"
-MAX_POSTS = 20  
-TIME_THRESHOLD = 30  # ✅ Tikriname tik paskutinių 30 minučių postus
-MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Maksimalus medijos dydis - 15MB
+MAX_POSTS = 5  # ✅ RSS faile visada bus tik 5 naujausi įrašai
+TIME_THRESHOLD = 65  # ✅ Tikriname paskutines 65 minutes
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  
 
 # ✅ FUNKCIJA: Paskutinio posto ID įkėlimas
 def load_last_post():
     if os.path.exists(LAST_POST_FILE):
         with open(LAST_POST_FILE, "r") as f:
             return json.load(f)
-    return {"id": 0}
+    return {"id": 0, "media": []}  # ✅ Išsaugome ir media failų sąrašą
 
 # ✅ FUNKCIJA: Paskutinio posto ID įrašymas
 def save_last_post(post_data):
@@ -59,6 +58,7 @@ async def create_rss():
 
     last_post = load_last_post()
     last_post_id = last_post.get("id", 0)
+    last_media_files = set(last_post.get("media", []))  # ✅ Išsaugoti jau naudoti media failai
 
     # ✅ Užtikriname, kad `utc_now` yra offset-aware
     utc_now = datetime.now(timezone.utc)
@@ -69,11 +69,20 @@ async def create_rss():
     valid_messages = []
     for msg in messages:
         msg_date = msg.date.replace(tzinfo=timezone.utc)  # ✅ Užtikriname, kad `msg.date` yra offset-aware
-        if msg.id > last_post_id and msg_date >= utc_now - timedelta(minutes=TIME_THRESHOLD) and msg.media:
-            valid_messages.append(msg)
+        if msg.id <= last_post_id:
+            logger.info(f"🚫 Praleidžiamas postas {msg.id}, nes jis jau buvo apdorotas.")
+            continue
+        if msg_date < utc_now - timedelta(minutes=TIME_THRESHOLD):
+            logger.info(f"🕒 Praleidžiamas postas {msg.id}, nes jis senesnis nei {TIME_THRESHOLD} min.")
+            continue
+        if not msg.media:
+            logger.info(f"🖼 Praleidžiamas postas {msg.id}, nes jame nėra medijos.")
+            continue
+
+        valid_messages.append(msg)
 
     if not valid_messages:
-        logger.warning("⚠️ Nėra naujų Telegram postų su medija per paskutines 30 min.")
+        logger.warning("⚠️ Nėra naujų Telegram postų su medija per paskutines 65 min.")
         exit(0)
 
     logger.info(f"✅ Rasta {len(valid_messages)} naujų postų su medija.")
@@ -103,6 +112,13 @@ async def create_rss():
                 blob_name = os.path.basename(media_path)
                 blob = bucket.blob(blob_name)
 
+                # ✅ Jei failas jau buvo RSS, praleidžiame
+                if blob_name in last_media_files:
+                    logger.info(f"🔄 Praleidžiamas {blob_name}, nes jis jau buvo RSS.")
+                    os.remove(media_path)
+                    continue  # ❌ NEĮTRAUKTI Į RSS
+
+                # ✅ Jei failas dar nėra Google Cloud Storage, įkeliame
                 if not blob.exists():
                     blob.upload_from_filename(media_path)
                     logger.info(f"✅ Įkeltas {blob_name} į Google Cloud Storage")
@@ -135,7 +151,7 @@ async def create_rss():
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
 
-    save_last_post({"id": valid_messages[0].id})
+    save_last_post({"id": valid_messages[0].id, "media": list(seen_media)})
     logger.info("✅ RSS failas sėkmingai atnaujintas!")
 
 # ✅ PAGRINDINIS PROCESO PALEIDIMAS
