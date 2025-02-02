@@ -3,7 +3,7 @@ import os
 import json
 import logging
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from feedgen.feed import FeedGenerator
 from google.cloud import storage
 from google.oauth2 import service_account
@@ -37,8 +37,8 @@ LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
 LAST_UPDATE_FILE = "docs/last_update.json"
 MAX_POSTS = 20  
-TIME_THRESHOLD = 30  
-MAX_MEDIA_SIZE = 15 * 1024 * 1024  
+TIME_THRESHOLD = 30  # ✅ Tikriname tik paskutinių 30 minučių postus
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Maksimalus medijos dydis - 15MB
 
 # ✅ FUNKCIJA: Paskutinio posto ID įkėlimas
 def load_last_post():
@@ -60,12 +60,16 @@ async def create_rss():
     last_post = load_last_post()
     last_post_id = last_post.get("id", 0)
 
+    # ✅ Užtikriname, kad `utc_now` yra offset-aware
+    utc_now = datetime.now(timezone.utc)
+
     # ✅ Gauname naujausius Telegram postus
     messages = await client.get_messages('Tsaplienko', limit=50)
 
     valid_messages = []
     for msg in messages:
-        if msg.id > last_post_id and msg.date >= datetime.utcnow() - timedelta(minutes=TIME_THRESHOLD) and msg.media:
+        msg_date = msg.date.replace(tzinfo=timezone.utc)  # ✅ Užtikriname, kad `msg.date` yra offset-aware
+        if msg.id > last_post_id and msg_date >= utc_now - timedelta(minutes=TIME_THRESHOLD) and msg.media:
             valid_messages.append(msg)
 
     if not valid_messages:
@@ -109,7 +113,7 @@ async def create_rss():
                 fe = fg.add_entry()
                 fe.title(msg.message[:30] if msg.message else "No Title")
                 fe.description(msg.message if msg.message else "No Content")
-                fe.pubDate(msg.date)
+                fe.pubDate(msg.date.replace(tzinfo=timezone.utc))  # ✅ Užtikriname, kad `pubDate` yra UTC
                 fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", type='image/jpeg')
 
                 added_entries += 1
