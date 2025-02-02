@@ -78,10 +78,15 @@ async def create_rss():
 
     for msg in messages:
         msg_date = msg.date.replace(tzinfo=timezone.utc)
+        text = msg.message or getattr(msg, "caption", None)
+
+        # ✅ Ignore messages that are too old, already processed, or have no media/text
         if msg.id <= last_post_id or msg_date < utc_now - timedelta(minutes=TIME_THRESHOLD):
             continue
-        if not msg.media:
+        if not msg.media or not text.strip():
+            logger.warning(f"⚠️ Skipping message {msg.id} (No text or media)")
             continue
+
         valid_messages.append(msg)
 
     existing_items = load_existing_rss()
@@ -141,7 +146,7 @@ async def create_rss():
                 logger.warning(f"⚠️ Unsupported file format {blob_name}, skipping.")
                 continue
 
-            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", type=media_type)
+            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", length=str(file_size), type=media_type)
 
             added_entries += 1
 
