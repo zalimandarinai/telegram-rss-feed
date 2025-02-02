@@ -52,6 +52,20 @@ def save_last_post(post_data):
     with open(LAST_POST_FILE, "w") as f:
         json.dump(post_data, f)
 
+# ✅ FUNKCIJA: Esamo RSS duomenų įkėlimas
+def load_existing_rss():
+    if not os.path.exists(RSS_FILE):
+        return []
+    
+    try:
+        tree = ET.parse(RSS_FILE)
+        root = tree.getroot()
+        channel = root.find("channel")
+        return channel.findall("item") if channel else []
+    except Exception as e:
+        logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
+        return []
+
 # ✅ FUNKCIJA: Pagrindinis RSS generavimas
 async def create_rss():
     await client.connect()
@@ -70,22 +84,30 @@ async def create_rss():
     for msg in messages:
         msg_date = msg.date.replace(tzinfo=timezone.utc)  # ✅ Užtikriname, kad `msg.date` yra offset-aware
         if msg.id <= last_post_id:
-            logger.info(f"🚫 Praleidžiamas postas {msg.id}, nes jis jau buvo apdorotas.")
             continue
         if msg_date < utc_now - timedelta(minutes=TIME_THRESHOLD):
-            logger.info(f"🕒 Praleidžiamas postas {msg.id}, nes jis senesnis nei {TIME_THRESHOLD} min.")
             continue
         if not msg.media:
-            logger.info(f"🖼 Praleidžiamas postas {msg.id}, nes jame nėra medijos.")
             continue
 
         valid_messages.append(msg)
 
-    if not valid_messages:
-        logger.warning("⚠️ Nėra naujų Telegram postų su medija per paskutines 65 min.")
-        exit(0)
+    # ✅ Įkeliame esamus RSS įrašus
+    existing_items = load_existing_rss()
 
-    logger.info(f"✅ Rasta {len(valid_messages)} naujų postų su medija.")
+    # ✅ Tik pridedame naujus įrašus
+    for item in existing_items:
+        if len(valid_messages) >= MAX_POSTS:
+            break
+        valid_messages.append(item)
+
+    # ✅ Užtikriname, kad RSS faile būtų tik 5 naujausi įrašai
+    valid_messages = valid_messages[:MAX_POSTS]
+
+    # ✅ Jei nėra naujų įrašų su medija, neišsaugome naujo RSS failo
+    if not valid_messages:
+        logger.warning("⚠️ Nėra naujų įrašų – RSS failas nebus atnaujintas.")
+        exit(0)
 
     # ✅ RSS generavimas
     fg = FeedGenerator()
@@ -105,54 +127,42 @@ async def create_rss():
             if media_path:
                 file_size = os.path.getsize(media_path)
                 if file_size > MAX_MEDIA_SIZE:
-                    logger.warning(f"⚠️ Failas {media_path} per didelis ({file_size} B), praleidžiamas.")
                     os.remove(media_path)
-                    continue  # ❌ NEĮTRAUKTI Į RSS
+                    continue
 
                 blob_name = os.path.basename(media_path)
                 blob = bucket.blob(blob_name)
 
-                # ✅ Jei failas jau buvo RSS, praleidžiame
                 if blob_name in last_media_files:
-                    logger.info(f"🔄 Praleidžiamas {blob_name}, nes jis jau buvo RSS.")
                     os.remove(media_path)
-                    continue  # ❌ NEĮTRAUKTI Į RSS
+                    continue
 
-                # ✅ Jei failas dar nėra Google Cloud Storage, įkeliame
                 if not blob.exists():
                     blob.upload_from_filename(media_path)
-                    logger.info(f"✅ Įkeltas {blob_name} į Google Cloud Storage")
 
                 seen_media.add(blob_name)
 
-                # ✅ Tik dabar pridedame įrašą į RSS
                 fe = fg.add_entry()
                 fe.title(msg.message[:30] if msg.message else "No Title")
                 fe.description(msg.message if msg.message else "No Content")
-                fe.pubDate(msg.date.replace(tzinfo=timezone.utc))  # ✅ Užtikriname, kad `pubDate` yra UTC
+                fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
                 fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", type='image/jpeg')
 
                 added_entries += 1
-                logger.info(f"📌 Į RSS įtrauktas postas su media: {blob_name}")
 
             if media_path:
-                os.remove(media_path)  # ✅ Ištriname laikiną failą
+                os.remove(media_path)
         except Exception as e:
-            logger.error(f"❌ Klaida apdorojant media: {e}")
             if media_path:
-                os.remove(media_path)  # ✅ Ištriname failą, jei nepavyko apdoroti
+                os.remove(media_path)
 
-    # ✅ Jei nebuvo nė vieno sėkmingo įrašo su medija, nestatome RSS failo
     if added_entries == 0:
-        logger.warning("⚠️ Visi postai buvo atmesti – RSS nebus atnaujintas.")
         exit(0)
 
-    # ✅ Išsaugome naują RSS failą
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
 
     save_last_post({"id": valid_messages[0].id, "media": list(seen_media)})
-    logger.info("✅ RSS failas sėkmingai atnaujintas!")
 
 # ✅ PAGRINDINIS PROCESO PALEIDIMAS
 if __name__ == "__main__":
