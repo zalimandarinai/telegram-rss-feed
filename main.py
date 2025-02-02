@@ -32,8 +32,8 @@ bucket = storage_client.bucket(bucket_name)
 # ✅ CONSTANTS
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ RSS will always contain 5 latest posts
-TIME_THRESHOLD = 65  # ✅ Check messages from the last 65 minutes
+MAX_POSTS = 5  
+TIME_THRESHOLD = 65  
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  
 
 # ✅ FUNCTION: Load last saved post data
@@ -78,13 +78,15 @@ async def create_rss():
 
     for msg in messages:
         msg_date = msg.date.replace(tzinfo=timezone.utc)
-        text = msg.message or getattr(msg, "caption", None)
+        text = msg.message or getattr(msg, "caption", "").strip()  # ✅ Always a valid string
 
-        # ✅ Ignore messages that are too old, already processed, or have no media/text
+        # ✅ Ignore messages that are too old or already processed
         if msg.id <= last_post_id or msg_date < utc_now - timedelta(minutes=TIME_THRESHOLD):
             continue
-        if not msg.media or not text.strip():
-            logger.warning(f"⚠️ Skipping message {msg.id} (No text or media)")
+        
+        # ✅ Skip messages that don’t have BOTH media and valid text
+        if not msg.media or not text:
+            logger.warning(f"⚠️ Skipping message {msg.id} (No valid text or media)")
             continue
 
         valid_messages.append(msg)
@@ -133,8 +135,8 @@ async def create_rss():
             seen_media.add(blob_name)
 
             fe = fg.add_entry()
-            fe.title(msg.message[:30] if msg.message else "No Title")
-            fe.description(msg.message if msg.message else "No Content")
+            fe.title(text[:30])  # ✅ Always valid text
+            fe.description(text)
             fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
 
             # ✅ Correct media format
