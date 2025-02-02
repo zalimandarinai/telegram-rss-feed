@@ -60,6 +60,10 @@ async def create_rss():
     # ✅ Fetch only the last 5 messages
     messages = await client.get_messages('Tsaplienko', limit=FETCH_LIMIT)
 
+    if not messages:
+        logger.warning("⚠️ No messages retrieved from Telegram.")
+        return
+
     logger.info("🔍 Checking fetched messages:")
     for msg in messages:
         logger.info(f"ID: {msg.id}, Date: {msg.date}, Has Media: {bool(msg.media)}, Grouped ID: {msg.grouped_id}")
@@ -112,4 +116,52 @@ async def create_rss():
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('News channel by https://www.mandarinai.lt')
 
-    latest_post_id = last_post_id  # ✅ Track
+    latest_post_id = last_post_id  # ✅ Track latest processed post ID
+    seen_media = set()
+
+    for msg, text in valid_posts:
+        latest_post_id = max(latest_post_id, msg.id)
+
+        media_path = await msg.download_media(file="./")
+
+        file_size = os.path.getsize(media_path)
+        if file_size > MAX_MEDIA_SIZE:
+            logger.warning(f"⏩ Skipping media {media_path} (too large)")
+            os.remove(media_path)
+            continue
+
+        blob_name = os.path.basename(media_path)
+        blob = bucket.blob(blob_name)
+
+        # ✅ Avoid duplicate media
+        if blob_name in seen_media:
+            os.remove(media_path)
+            continue
+        seen_media.add(blob_name)
+
+        # ✅ Upload if it doesn't exist
+        if not blob.exists():
+            blob.upload_from_filename(media_path)
+            logger.info(f"✅ Uploaded {blob_name} to Google Cloud Storage")
+
+        # ✅ Create RSS entry
+        fe = fg.add_entry()
+        fe.title(text[:30] if text else "No Title")
+        fe.description(text if text else "No Content")
+        fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
+
+        # ✅ Determine media type for enclosure
+        media_type = "image/jpeg" if blob_name.endswith((".jpg", ".jpeg")) else "video/mp4"
+        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                     length=str(file_size), type=media_type)
+
+    save_last_post({"id": latest_post_id, "media": list(seen_media)})
+
+    with open(RSS_FILE, "wb") as f:
+        f.write(fg.rss_str(pretty=True))
+
+    logger.info("✅ RSS updated successfully!")
+
+if __name__ == "__main__":
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(create_rss())
