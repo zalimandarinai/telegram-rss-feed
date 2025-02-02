@@ -33,52 +33,132 @@ bucket = storage_client.bucket(bucket_name)
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 5  # ✅ Always keep exactly 5 latest posts in RSS
-FETCH_LIMIT = 5  # ✅ Fetch only the last 5 Telegram messages
+FETCH_LIMIT = 15  # ✅ Fetch more to ensure latest media is included
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Max media file size 15MB
 
-# ✅ FUNCTION: Fetch Last 5 Telegram Messages
-async def fetch_last_5_messages():
+# ✅ FUNCTION: Load last saved post data
+def load_last_post():
+    if os.path.exists(LAST_POST_FILE):
+        with open(LAST_POST_FILE, "r") as f:
+            return json.load(f)
+    return {"id": 0, "media": []}
+
+# ✅ FUNCTION: Save last processed post ID and media files
+def save_last_post(post_data):
+    os.makedirs("docs", exist_ok=True)
+    with open(LAST_POST_FILE, "w") as f:
+        json.dump(post_data, f)
+
+# ✅ FUNCTION: Generate RSS
+async def create_rss():
     await client.connect()
 
-    # ✅ Fetch the last 5 messages from the Telegram channel
+    last_post = load_last_post()
+    last_post_id = last_post.get("id", 0)
+
+    # ✅ Fetch latest 15 messages to avoid missing new media posts
     messages = await client.get_messages('Tsaplienko', limit=FETCH_LIMIT)
 
-    collected_posts = []
-    grouped_texts = {}  # ✅ Store text for album posts
+    valid_posts = []
+    grouped_posts = {}
 
-    for msg in reversed(messages):  # ✅ Process from oldest to newest
+    # ✅ Process from NEWEST to OLDEST (Fix for delay issue)
+    for msg in sorted(messages, key=lambda x: x.date, reverse=True):
         text = msg.message or getattr(msg, "caption", "").strip()
 
-        # ✅ Assign album text from the first grouped post
-        if hasattr(msg.media, "grouped_id") and msg.grouped_id:
-            if msg.grouped_id not in grouped_texts:
-                grouped_texts[msg.grouped_id] = text
-            else:
-                text = grouped_texts[msg.grouped_id]
+        # ✅ Handle grouped media posts correctly
+        if msg.grouped_id:
+            if msg.grouped_id not in grouped_posts:
+                grouped_posts[msg.grouped_id] = {"text": text, "media": []}
+            grouped_posts[msg.grouped_id]["media"].append(msg)
+            continue  # ✅ Process the entire album later
 
-        # ✅ Collect only messages with media
-        if msg.media:
-            collected_posts.append({
-                "id": msg.id,
-                "date": msg.date.replace(tzinfo=timezone.utc),
-                "text": text if text else "📷 Media Post",
-                "media": "Yes" if msg.media else "No"
-            })
+        # ✅ Skip old posts
+        if msg.id <= last_post_id:
+            continue
 
-    # ✅ Sort messages by date (newest first)
-    collected_posts = sorted(collected_posts, key=lambda x: x["date"], reverse=True)
+        # ✅ Skip non-media messages
+        if not msg.media:
+            continue
 
-    return collected_posts
+        valid_posts.append((msg, text))
+
+        # ✅ Stop at exactly 5 latest media posts
+        if len(valid_posts) >= MAX_POSTS:
+            break
+
+    # ✅ Process grouped media albums (assign text from first in album)
+    for group in grouped_posts.values():
+        text = group["text"]
+        for msg in group["media"]:
+            valid_posts.append((msg, text))
+        if len(valid_posts) >= MAX_POSTS:
+            break
+
+    # ✅ Only keep the 5 newest posts
+    valid_posts = valid_posts[:MAX_POSTS]
+
+    if not valid_posts:
+        logger.warning("⚠️ No valid media posts – RSS will not be updated.")
+        return
+
+    fg = FeedGenerator()
+    fg.title('Latest news')
+    fg.link(href='https://www.mandarinai.lt/')
+    fg.description('News channel by https://www.mandarinai.lt')
+
+    latest_post_id = last_post_id  # ✅ Track latest processed post ID
+    seen_media = set()
+
+    for msg, text in valid_posts:
+        latest_post_id = max(latest_post_id, msg.id)
+
+        media_path = await msg.download_media(file="./")
+        if media_path:
+            file_size = os.path.getsize(media_path)
+            if file_size > MAX_MEDIA_SIZE:
+                os.remove(media_path)
+                continue
+
+            blob_name = os.path.basename(media_path)
+            blob = bucket.blob(blob_name)
+
+            # ✅ Avoid duplicate media
+            if blob_name in seen_media:
+                os.remove(media_path)
+                continue
+            seen_media.add(blob_name)
+
+            # ✅ Upload if it doesn't exist
+            if not blob.exists():
+                blob.upload_from_filename(media_path)
+                logger.info(f"✅ Uploaded {blob_name} to Google Cloud Storage")
+
+            # ✅ Create RSS entry
+            fe = fg.add_entry()
+            fe.title(text[:30] if text else "No Title")
+            fe.description(text if text else "No Content")
+            fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
+
+            # ✅ Determine media type for enclosure
+            media_type = "image/jpeg" if blob_name.endswith((".jpg", ".jpeg")) else "video/mp4"
+            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                         length=str(file_size), type=media_type)
+
+        # ✅ Remove downloaded media file
+        if media_path:
+            os.remove(media_path)
+
+    # ✅ Save last processed post ID & media
+    save_last_post({"id": latest_post_id, "media": list(seen_media)})
+
+    # ✅ Write updated RSS file
+    with open(RSS_FILE, "wb") as f:
+        f.write(fg.rss_str(pretty=True))
+
+    logger.info("✅ RSS updated successfully!")
 
 # ✅ MAIN PROCESS EXECUTION
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
-    fetched_data = loop.run_until_complete(fetch_last_5_messages())
-
-    # ✅ Display collected data
-    for post in fetched_data:
-        print(f"🆕 Post ID: {post['id']}")
-        print(f"📅 Date: {post['date']}")
-        print(f"📝 Text: {post['text']}")
-        print(f"🖼️ Media: {post['media']}")
-        print("-" * 40)
+    loop.run_until_complete(create_rss())
