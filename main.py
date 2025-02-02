@@ -3,7 +3,7 @@ import os
 import json
 import logging
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
 from google.cloud import storage
 from google.oauth2 import service_account
@@ -32,9 +32,8 @@ bucket = storage_client.bucket(bucket_name)
 # ✅ CONSTANTS
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  
-TIME_THRESHOLD = 65  
-MAX_MEDIA_SIZE = 15 * 1024 * 1024  
+MAX_POSTS = 5  # ✅ RSS must contain exactly 5 posts
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Max media file size 15MB
 
 # ✅ FUNCTION: Load last saved post data
 def load_last_post():
@@ -43,17 +42,17 @@ def load_last_post():
             return json.load(f)
     return {"id": 0, "media": []}
 
-# ✅ FUNCTION: Save last post data
+# ✅ FUNCTION: Save last processed post ID and media files
 def save_last_post(post_data):
     os.makedirs("docs", exist_ok=True)
     with open(LAST_POST_FILE, "w") as f:
         json.dump(post_data, f)
 
-# ✅ FUNCTION: Load existing RSS data
+# ✅ FUNCTION: Load existing RSS items
 def load_existing_rss():
     if not os.path.exists(RSS_FILE):
         return []
-    
+
     try:
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
@@ -63,7 +62,7 @@ def load_existing_rss():
         logger.error(f"❌ RSS file is corrupted. Creating a new one: {e}")
         return []
 
-# ✅ FUNCTION: Main RSS Generation Process
+# ✅ FUNCTION: Generate RSS
 async def create_rss():
     await client.connect()
 
@@ -71,38 +70,45 @@ async def create_rss():
     last_post_id = last_post.get("id", 0)
     last_media_files = set(last_post.get("media", []))
 
-    utc_now = datetime.now(timezone.utc)
+    # ✅ Fetch latest messages (more than 5 for safety margin)
+    messages = await client.get_messages('Tsaplienko', limit=20)
 
-    messages = await client.get_messages('Tsaplienko', limit=50)
-    valid_messages = []
+    valid_posts = []
+    grouped_texts = {}  # ✅ Stores text for album posts
 
-    for msg in messages:
-        msg_date = msg.date.replace(tzinfo=timezone.utc)
-        text = msg.message or getattr(msg, "caption", "").strip()  # ✅ Always a valid string
+    for msg in reversed(messages):  # ✅ Process from oldest to newest
+        text = msg.message or getattr(msg, "caption", "").strip()
 
-        # ✅ Ignore messages that are too old or already processed
-        if msg.id <= last_post_id or msg_date < utc_now - timedelta(minutes=TIME_THRESHOLD):
+        # ✅ Assign album text from first grouped post
+        if hasattr(msg.media, "grouped_id") and msg.grouped_id:
+            if msg.grouped_id not in grouped_texts:
+                grouped_texts[msg.grouped_id] = text
+            else:
+                text = grouped_texts[msg.grouped_id]
+
+        # ✅ Skip messages that are already processed
+        if msg.id <= last_post_id:
             continue
-        
-        # ✅ Skip messages that don’t have BOTH media and valid text
-        if not msg.media or not text:
-            logger.warning(f"⚠️ Skipping message {msg.id} (No valid text or media)")
+
+        # ✅ Skip posts without media
+        if not msg.media:
+            logger.warning(f"⚠️ Skipping message {msg.id} (No media)")
             continue
 
-        valid_messages.append(msg)
+        valid_posts.append((msg, text))
 
-    existing_items = load_existing_rss()
-
-    # ✅ Ensure 5 latest posts are saved
-    for item in existing_items:
-        if len(valid_messages) >= MAX_POSTS:
+        # ✅ Stop after collecting 5 valid posts
+        if len(valid_posts) >= MAX_POSTS:
             break
-        valid_messages.append(item)
 
-    valid_messages = valid_messages[:MAX_POSTS]
+    # ✅ Ensure exactly 5 posts in RSS
+    existing_items = load_existing_rss()
+    if len(valid_posts) < MAX_POSTS:
+        remaining_posts = [msg for msg in existing_items if msg not in valid_posts]
+        valid_posts.extend(remaining_posts[:MAX_POSTS - len(valid_posts)])
 
-    if not valid_messages:
-        logger.warning("⚠️ No new entries – RSS file will not be updated.")
+    if not valid_posts:
+        logger.warning("⚠️ No valid media posts – RSS will not be updated.")
         return
 
     fg = FeedGenerator()
@@ -111,9 +117,11 @@ async def create_rss():
     fg.description('News channel by www.mandarinai.lt')
 
     seen_media = set()
-    added_entries = 0
+    latest_post_id = 0  # ✅ Track latest processed post ID
 
-    for msg in valid_messages:
+    for msg, text in valid_posts:
+        latest_post_id = max(latest_post_id, msg.id)
+
         media_path = await msg.download_media(file="./")
         if media_path:
             file_size = os.path.getsize(media_path)
@@ -124,22 +132,25 @@ async def create_rss():
             blob_name = os.path.basename(media_path)
             blob = bucket.blob(blob_name)
 
+            # ✅ Skip already uploaded media
             if blob_name in last_media_files:
                 os.remove(media_path)
                 continue
 
+            # ✅ Upload to Google Cloud if not exists
             if not blob.exists():
                 blob.upload_from_filename(media_path)
-                logger.info(f"✅ Uploaded {blob_name} to {bucket_name}")
+                logger.info(f"✅ Uploaded {blob_name} to Google Cloud Storage")
 
             seen_media.add(blob_name)
 
+            # ✅ Create RSS entry
             fe = fg.add_entry()
-            fe.title(text[:30])  # ✅ Always valid text
-            fe.description(text)
+            fe.title(text[:30] if text else "No Title")
+            fe.description(text if text else "No Content")
             fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
 
-            # ✅ Correct media format
+            # ✅ Determine media type for enclosure
             if blob_name.endswith(".jpg") or blob_name.endswith(".jpeg"):
                 media_type = "image/jpeg"
             elif blob_name.endswith(".mp4"):
@@ -148,21 +159,21 @@ async def create_rss():
                 logger.warning(f"⚠️ Unsupported file format {blob_name}, skipping.")
                 continue
 
-            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", length=str(file_size), type=media_type)
+            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                         length=str(file_size), type=media_type)
 
-            added_entries += 1
-
+        # ✅ Remove downloaded media file
         if media_path:
             os.remove(media_path)
 
-    if added_entries == 0:
-        logger.warning("⚠️ No valid media found – RSS will not be updated.")
-        return
+    # ✅ Save last processed post ID & media
+    save_last_post({"id": latest_post_id, "media": list(seen_media)})
 
+    # ✅ Write updated RSS file
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
 
-    save_last_post({"id": valid_messages[0].id, "media": list(seen_media)})
+    logger.info("✅ RSS updated successfully!")
 
 # ✅ MAIN PROCESS EXECUTION
 if __name__ == "__main__":
