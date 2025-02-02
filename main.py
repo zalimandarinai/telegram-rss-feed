@@ -23,9 +23,6 @@ client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # ✅ GOOGLE CLOUD STORAGE PRISIJUNGIMO DUOMENYS
 credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
-if not credentials_json:
-    raise Exception("❌ Google Cloud kredencialai nerasti!")
-
 credentials_dict = json.loads(credentials_json)
 credentials = service_account.Credentials.from_service_account_info(credentials_dict)
 storage_client = storage.Client(credentials=credentials)
@@ -35,7 +32,7 @@ bucket = storage_client.bucket(bucket_name)
 # ✅ NUOLATINIAI KONSTANTAI
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ RSS faile visada bus tik 5 naujausi įrašai
+MAX_POSTS = 5  # ✅ RSS faile visada bus 5 naujausi įrašai
 TIME_THRESHOLD = 65  # ✅ Tikriname paskutines 65 minutes
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  
 
@@ -44,13 +41,7 @@ def load_last_post():
     if os.path.exists(LAST_POST_FILE):
         with open(LAST_POST_FILE, "r") as f:
             return json.load(f)
-    return {"id": 0, "media": []}  # ✅ Išsaugome ir media failų sąrašą
-
-# ✅ FUNKCIJA: Paskutinio posto ID įrašymas
-def save_last_post(post_data):
-    os.makedirs("docs", exist_ok=True)
-    with open(LAST_POST_FILE, "w") as f:
-        json.dump(post_data, f)
+    return {"id": 0, "media": []}
 
 # ✅ FUNKCIJA: Esamo RSS duomenų įkėlimas
 def load_existing_rss():
@@ -72,44 +63,35 @@ async def create_rss():
 
     last_post = load_last_post()
     last_post_id = last_post.get("id", 0)
-    last_media_files = set(last_post.get("media", []))  # ✅ Išsaugoti jau naudoti media failai
+    last_media_files = set(last_post.get("media", []))
 
-    # ✅ Užtikriname, kad `utc_now` yra offset-aware
     utc_now = datetime.now(timezone.utc)
 
-    # ✅ Gauname naujausius Telegram postus
     messages = await client.get_messages('Tsaplienko', limit=50)
-
     valid_messages = []
+
     for msg in messages:
-        msg_date = msg.date.replace(tzinfo=timezone.utc)  # ✅ Užtikriname, kad `msg.date` yra offset-aware
-        if msg.id <= last_post_id:
-            continue
-        if msg_date < utc_now - timedelta(minutes=TIME_THRESHOLD):
+        msg_date = msg.date.replace(tzinfo=timezone.utc)
+        if msg.id <= last_post_id or msg_date < utc_now - timedelta(minutes=TIME_THRESHOLD):
             continue
         if not msg.media:
             continue
-
         valid_messages.append(msg)
 
-    # ✅ Įkeliame esamus RSS įrašus
     existing_items = load_existing_rss()
 
-    # ✅ Tik pridedame naujus įrašus
+    # ✅ Išsaugome 5 naujausius postus
     for item in existing_items:
         if len(valid_messages) >= MAX_POSTS:
             break
         valid_messages.append(item)
 
-    # ✅ Užtikriname, kad RSS faile būtų tik 5 naujausi įrašai
     valid_messages = valid_messages[:MAX_POSTS]
 
-    # ✅ Jei nėra naujų įrašų su medija, neišsaugome naujo RSS failo
     if not valid_messages:
         logger.warning("⚠️ Nėra naujų įrašų – RSS failas nebus atnaujintas.")
         exit(0)
 
-    # ✅ RSS generavimas
     fg = FeedGenerator()
     fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
@@ -119,42 +101,45 @@ async def create_rss():
     added_entries = 0
 
     for msg in valid_messages:
-        media_path = None
-        blob_name = None
-
-        try:
-            media_path = await msg.download_media(file="./")
-            if media_path:
-                file_size = os.path.getsize(media_path)
-                if file_size > MAX_MEDIA_SIZE:
-                    os.remove(media_path)
-                    continue
-
-                blob_name = os.path.basename(media_path)
-                blob = bucket.blob(blob_name)
-
-                if blob_name in last_media_files:
-                    os.remove(media_path)
-                    continue
-
-                if not blob.exists():
-                    blob.upload_from_filename(media_path)
-
-                seen_media.add(blob_name)
-
-                fe = fg.add_entry()
-                fe.title(msg.message[:30] if msg.message else "No Title")
-                fe.description(msg.message if msg.message else "No Content")
-                fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
-                fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", type='image/jpeg')
-
-                added_entries += 1
-
-            if media_path:
+        media_path = await msg.download_media(file="./")
+        if media_path:
+            file_size = os.path.getsize(media_path)
+            if file_size > MAX_MEDIA_SIZE:
                 os.remove(media_path)
-        except Exception as e:
-            if media_path:
+                continue
+
+            blob_name = os.path.basename(media_path)
+            blob = bucket.blob(blob_name)
+
+            if blob_name in last_media_files:
                 os.remove(media_path)
+                continue
+
+            if not blob.exists():
+                blob.upload_from_filename(media_path)
+
+            seen_media.add(blob_name)
+
+            fe = fg.add_entry()
+            fe.title(msg.message[:30] if msg.message else "No Title")
+            fe.description(msg.message if msg.message else "No Content")
+            fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
+
+            # ✅ Tinkamas media formatas
+            if blob_name.endswith(".jpg") or blob_name.endswith(".jpeg"):
+                media_type = "image/jpeg"
+            elif blob_name.endswith(".mp4"):
+                media_type = "video/mp4"
+            else:
+                logger.warning(f"⚠️ Nepalaikomas failo formatas {blob_name}, praleidžiama.")
+                continue
+
+            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", type=media_type)
+
+            added_entries += 1
+
+        if media_path:
+            os.remove(media_path)
 
     if added_entries == 0:
         exit(0)
