@@ -32,7 +32,8 @@ bucket = storage_client.bucket(bucket_name)
 # ✅ CONSTANTS
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ RSS must contain exactly 5 posts
+MAX_POSTS = 5  # ✅ Always keep exactly 5 latest posts in RSS
+FETCH_LIMIT = 10  # ✅ Fetch only the last 10 Telegram posts to ensure freshness
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Max media file size 15MB
 
 # ✅ FUNCTION: Load last saved post data
@@ -70,8 +71,8 @@ async def create_rss():
     last_post_id = last_post.get("id", 0)
     last_media_files = set(last_post.get("media", []))
 
-    # ✅ Fetch latest messages (more than 5 for safety margin)
-    messages = await client.get_messages('Tsaplienko', limit=20)
+    # ✅ Fetch only the last 10 messages to ensure freshness
+    messages = await client.get_messages('Tsaplienko', limit=FETCH_LIMIT)
 
     valid_posts = []
     grouped_texts = {}  # ✅ Stores text for album posts
@@ -86,10 +87,6 @@ async def create_rss():
             else:
                 text = grouped_texts[msg.grouped_id]
 
-        # ✅ Skip messages that are already processed
-        if msg.id <= last_post_id:
-            continue
-
         # ✅ Skip posts without media
         if not msg.media:
             logger.warning(f"⚠️ Skipping message {msg.id} (No media)")
@@ -101,11 +98,8 @@ async def create_rss():
         if len(valid_posts) >= MAX_POSTS:
             break
 
-    # ✅ Ensure exactly 5 posts in RSS
-    existing_items = load_existing_rss()
-    if len(valid_posts) < MAX_POSTS:
-        remaining_posts = [msg for msg in existing_items if msg not in valid_posts]
-        valid_posts.extend(remaining_posts[:MAX_POSTS - len(valid_posts)])
+    # ✅ Ensure exactly 5 posts in RSS (sorted by post date, latest first)
+    valid_posts = sorted(valid_posts, key=lambda x: x[0].date, reverse=True)[:MAX_POSTS]
 
     if not valid_posts:
         logger.warning("⚠️ No valid media posts – RSS will not be updated.")
