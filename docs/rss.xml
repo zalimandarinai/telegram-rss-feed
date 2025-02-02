@@ -1,53 +1,175 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Latest news</title>
-    <link>https://www.mandarinai.lt/</link>
-    <description>News channel by www.mandarinai.lt</description>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Feb 2025 11:16:03 +0000</lastBuildDate>
-    <item>
-      <title>💔 Це 9-річна Софія Яворська з </title>
-      <description>💔 Це 9-річна Софія Яворська з Полтави. Вчора ракета рф вбила її разом із батьками. 
+import asyncio
+import os
+import json
+import logging
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from feedgen.feed import FeedGenerator
+from google.cloud import storage
+from google.oauth2 import service_account
+from telethon import TelegramClient
+from telethon.sessions import StringSession
 
-Через удар по 5-поверхівці вже 12 загиблих, серед них 2 дітей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_07-43-56.jpg" length="151748" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 07:43:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Переговори США і росії про вій</title>
-      <description>Переговори США і росії про війну без присутності України є вкрай небезпечними, - Зеленський.
+# ✅ LOG CONFIGURATION
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-Він також заявив, що рф насправді не хоче брати участь у преговорах про припинення вогню, адже її війська мають перевагу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_06-12-03.jpg" length="101906" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 06:12:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️До 12 людей збільшилася кіль</title>
-      <description>❗️До 12 людей збільшилася кількість загиблих від удару російських вбивць по будинку в Полтаві. Серед них є 2 дитини — ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_05-29-13.jpg" length="240133" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 05:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISW: ЗС рф готові розпочати на</title>
-      <description>ISW: ЗС рф готові розпочати на Харківщині багатомісячну наступальну кампанію
+# ✅ TELEGRAM LOGIN DETAILS
+api_id = int(os.getenv("TELEGRAM_API_ID"))
+api_hash = os.getenv("TELEGRAM_API_HASH")
+string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
-“Російські війська розширюють свій виступ на північ від Куп’янська в рамках довгострокових оперативних зусиль щодо витіснення українських військ зі східного (лівого) берега річки Оскіл”, – поінформували в актуальному зведенні Інституту вивчення війни.
-У зведенні ISW зазначили, що окупанти використовують на Куп’янському напрямку механізовані атаки,  це вказує, що напрямок стає пріоритетним</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-01_20-09-30.jpg" length="68797" type="image/jpeg"/>
-      <pubDate>Sat, 01 Feb 2025 20:09:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нажаль, внаслідок удару по жит</title>
-      <description>Нажаль, внаслідок удару по житловому будинку загинула ще одна людина, — ОВА
+client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-До дев'ятьох людей збільшилася кількість загиблих у Полтаві.
+# ✅ GOOGLE CLOUD STORAGE LOGIN DETAILS
+credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
+credentials_dict = json.loads(credentials_json)
+credentials = service_account.Credentials.from_service_account_info(credentials_dict)
+storage_client = storage.Client(credentials=credentials)
+bucket_name = "telegram-media-storage"
+bucket = storage_client.bucket(bucket_name)
 
-Аварійно-рятувальні роботи продовжуються.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-01_19-50-57.jpg" length="256770" type="image/jpeg"/>
-      <pubDate>Sat, 01 Feb 2025 19:50:57 +0000</pubDate>
-    </item>
-  </channel>
-</rss>
- 
+# ✅ CONSTANTS
+LAST_POST_FILE = "docs/last_post.json"
+RSS_FILE = "docs/rss.xml"
+MAX_POSTS = 5  # ✅ Always keep exactly 5 latest posts in RSS
+FETCH_LIMIT = 10  # ✅ Fetch only the last 10 Telegram posts to ensure freshness
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Max media file size 15MB
+
+# ✅ FUNCTION: Load last saved post data
+def load_last_post():
+    if os.path.exists(LAST_POST_FILE):
+        with open(LAST_POST_FILE, "r") as f:
+            return json.load(f)
+    return {"id": 0, "media": []}
+
+# ✅ FUNCTION: Save last processed post ID and media files
+def save_last_post(post_data):
+    os.makedirs("docs", exist_ok=True)
+    with open(LAST_POST_FILE, "w") as f:
+        json.dump(post_data, f)
+
+# ✅ FUNCTION: Load existing RSS items
+def load_existing_rss():
+    if not os.path.exists(RSS_FILE):
+        return []
+
+    try:
+        tree = ET.parse(RSS_FILE)
+        root = tree.getroot()
+        channel = root.find("channel")
+        return channel.findall("item") if channel else []
+    except Exception as e:
+        logger.error(f"❌ RSS file is corrupted. Creating a new one: {e}")
+        return []
+
+# ✅ FUNCTION: Generate RSS
+async def create_rss():
+    await client.connect()
+
+    last_post = load_last_post()
+    last_post_id = last_post.get("id", 0)
+    last_media_files = set(last_post.get("media", []))
+
+    # ✅ Fetch only the last 10 messages to ensure freshness
+    messages = await client.get_messages('Tsaplienko', limit=FETCH_LIMIT)
+
+    valid_posts = []
+    grouped_texts = {}  # ✅ Stores text for album posts
+
+    for msg in reversed(messages):  # ✅ Process from oldest to newest
+        text = msg.message or getattr(msg, "caption", "").strip()
+
+        # ✅ Assign album text from first grouped post
+        if hasattr(msg.media, "grouped_id") and msg.grouped_id:
+            if msg.grouped_id not in grouped_texts:
+                grouped_texts[msg.grouped_id] = text
+            else:
+                text = grouped_texts[msg.grouped_id]
+
+        # ✅ Skip posts without media
+        if not msg.media:
+            logger.warning(f"⚠️ Skipping message {msg.id} (No media)")
+            continue
+
+        valid_posts.append((msg, text))
+
+        # ✅ Stop after collecting 5 valid posts
+        if len(valid_posts) >= MAX_POSTS:
+            break
+
+    # ✅ Ensure exactly 5 posts in RSS (sorted by post date, latest first)
+    valid_posts = sorted(valid_posts, key=lambda x: x[0].date, reverse=True)[:MAX_POSTS]
+
+    if not valid_posts:
+        logger.warning("⚠️ No valid media posts – RSS will not be updated.")
+        return
+
+    fg = FeedGenerator()
+    fg.title('Latest news')
+    fg.link(href='https://www.mandarinai.lt/')
+    fg.description('News channel by www.mandarinai.lt')
+
+    seen_media = set()
+    latest_post_id = 0  # ✅ Track latest processed post ID
+
+    for msg, text in valid_posts:
+        latest_post_id = max(latest_post_id, msg.id)
+
+        media_path = await msg.download_media(file="./")
+        if media_path:
+            file_size = os.path.getsize(media_path)
+            if file_size > MAX_MEDIA_SIZE:
+                os.remove(media_path)
+                continue
+
+            blob_name = os.path.basename(media_path)
+            blob = bucket.blob(blob_name)
+
+            # ✅ Skip already uploaded media
+            if blob_name in last_media_files:
+                os.remove(media_path)
+                continue
+
+            # ✅ Upload to Google Cloud if not exists
+            if not blob.exists():
+                blob.upload_from_filename(media_path)
+                logger.info(f"✅ Uploaded {blob_name} to Google Cloud Storage")
+
+            seen_media.add(blob_name)
+
+            # ✅ Create RSS entry
+            fe = fg.add_entry()
+            fe.title(text[:30] if text else "No Title")
+            fe.description(text if text else "No Content")
+            fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
+
+            # ✅ Determine media type for enclosure
+            if blob_name.endswith(".jpg") or blob_name.endswith(".jpeg"):
+                media_type = "image/jpeg"
+            elif blob_name.endswith(".mp4"):
+                media_type = "video/mp4"
+            else:
+                logger.warning(f"⚠️ Unsupported file format {blob_name}, skipping.")
+                continue
+
+            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                         length=str(file_size), type=media_type)
+
+        # ✅ Remove downloaded media file
+        if media_path:
+            os.remove(media_path)
+
+    # ✅ Save last processed post ID & media
+    save_last_post({"id": latest_post_id, "media": list(seen_media)})
+
+    # ✅ Write updated RSS file
+    with open(RSS_FILE, "wb") as f:
+        f.write(fg.rss_str(pretty=True))
+
+    logger.info("✅ RSS updated successfully!")
+
+# ✅ MAIN PROCESS EXECUTION
+if __name__ == "__main__":
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(create_rss())
