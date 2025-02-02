@@ -10,18 +10,18 @@ from google.oauth2 import service_account
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
-# ✅ LOGŲ KONFIGŪRACIJA
+# ✅ LOG CONFIGURATION
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# ✅ TELEGRAM PRISIJUNGIMO DUOMENYS
+# ✅ TELEGRAM LOGIN DETAILS
 api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
 string_session = os.getenv("TELEGRAM_STRING_SESSION")
 
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
-# ✅ GOOGLE CLOUD STORAGE PRISIJUNGIMO DUOMENYS
+# ✅ GOOGLE CLOUD STORAGE LOGIN DETAILS
 credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
 credentials_dict = json.loads(credentials_json)
 credentials = service_account.Credentials.from_service_account_info(credentials_dict)
@@ -29,21 +29,27 @@ storage_client = storage.Client(credentials=credentials)
 bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
-# ✅ NUOLATINIAI KONSTANTAI
+# ✅ CONSTANTS
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # ✅ RSS faile visada bus 5 naujausi įrašai
-TIME_THRESHOLD = 65  # ✅ Tikriname paskutines 65 minutes
+MAX_POSTS = 5  # ✅ RSS will always contain 5 latest posts
+TIME_THRESHOLD = 65  # ✅ Check messages from the last 65 minutes
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  
 
-# ✅ FUNKCIJA: Paskutinio posto ID įkėlimas
+# ✅ FUNCTION: Load last saved post data
 def load_last_post():
     if os.path.exists(LAST_POST_FILE):
         with open(LAST_POST_FILE, "r") as f:
             return json.load(f)
     return {"id": 0, "media": []}
 
-# ✅ FUNKCIJA: Esamo RSS duomenų įkėlimas
+# ✅ FUNCTION: Save last post data
+def save_last_post(post_data):
+    os.makedirs("docs", exist_ok=True)
+    with open(LAST_POST_FILE, "w") as f:
+        json.dump(post_data, f)
+
+# ✅ FUNCTION: Load existing RSS data
 def load_existing_rss():
     if not os.path.exists(RSS_FILE):
         return []
@@ -54,10 +60,10 @@ def load_existing_rss():
         channel = root.find("channel")
         return channel.findall("item") if channel else []
     except Exception as e:
-        logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
+        logger.error(f"❌ RSS file is corrupted. Creating a new one: {e}")
         return []
 
-# ✅ FUNKCIJA: Pagrindinis RSS generavimas
+# ✅ FUNCTION: Main RSS Generation Process
 async def create_rss():
     await client.connect()
 
@@ -80,7 +86,7 @@ async def create_rss():
 
     existing_items = load_existing_rss()
 
-    # ✅ Išsaugome 5 naujausius postus
+    # ✅ Ensure 5 latest posts are saved
     for item in existing_items:
         if len(valid_messages) >= MAX_POSTS:
             break
@@ -89,13 +95,13 @@ async def create_rss():
     valid_messages = valid_messages[:MAX_POSTS]
 
     if not valid_messages:
-        logger.warning("⚠️ Nėra naujų įrašų – RSS failas nebus atnaujintas.")
-        exit(0)
+        logger.warning("⚠️ No new entries – RSS file will not be updated.")
+        return
 
     fg = FeedGenerator()
     fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
-    fg.description('Naujienų kanalą pristato www.mandarinai.lt')
+    fg.description('News channel by www.mandarinai.lt')
 
     seen_media = set()
     added_entries = 0
@@ -117,6 +123,7 @@ async def create_rss():
 
             if not blob.exists():
                 blob.upload_from_filename(media_path)
+                logger.info(f"✅ Uploaded {blob_name} to {bucket_name}")
 
             seen_media.add(blob_name)
 
@@ -125,13 +132,13 @@ async def create_rss():
             fe.description(msg.message if msg.message else "No Content")
             fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
 
-            # ✅ Tinkamas media formatas
+            # ✅ Correct media format
             if blob_name.endswith(".jpg") or blob_name.endswith(".jpeg"):
                 media_type = "image/jpeg"
             elif blob_name.endswith(".mp4"):
                 media_type = "video/mp4"
             else:
-                logger.warning(f"⚠️ Nepalaikomas failo formatas {blob_name}, praleidžiama.")
+                logger.warning(f"⚠️ Unsupported file format {blob_name}, skipping.")
                 continue
 
             fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}", type=media_type)
@@ -142,14 +149,15 @@ async def create_rss():
             os.remove(media_path)
 
     if added_entries == 0:
-        exit(0)
+        logger.warning("⚠️ No valid media found – RSS will not be updated.")
+        return
 
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
 
     save_last_post({"id": valid_messages[0].id, "media": list(seen_media)})
 
-# ✅ PAGRINDINIS PROCESO PALEIDIMAS
+# ✅ MAIN PROCESS EXECUTION
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(create_rss())
