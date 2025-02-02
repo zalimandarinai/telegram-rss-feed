@@ -6,15 +6,7 @@
     <description>News channel by https://www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Feb 2025 17:17:19 +0000</lastBuildDate>
-    <item>
-      <title>🤬Місце сьогоднішнього прильоту</title>
-      <description>🤬Місце сьогоднішнього прильоту КАБ по центру Херсона
-
-Зруйновано будинок, постраждали дві жінки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-02_16-26-42.mp4" length="12719847" type="video/mp4"/>
-      <pubDate>Sun, 02 Feb 2025 16:26:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Feb 2025 18:27:32 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <description>No Content</description>
@@ -32,6 +24,20 @@
       <description>No Content</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_17-05-48.jpg" length="233800" type="image/jpeg"/>
       <pubDate>Sun, 02 Feb 2025 17:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Вибух пролунав біля будівлі</title>
+      <description>⚡️ Вибух пролунав біля будівлі ТЦК у Павлограді Дніпропетровської області, — поліція
+
+Тварі конкретно качають ситуацію.
+
+Необхідне жорстке покарання.
+
+Вбивства військових у тилу — це червона лінія, яку не можна перетинати. Ми не маємо права мовчки спостерігати за наростаючою хвилею зневаги до захисників України — це за межею того, що можна толерувати.
+
+Нагадую, так сьогодні сказав командувач Драпатий.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_17-53-43.jpg" length="77538" type="image/jpeg"/>
+      <pubDate>Sun, 02 Feb 2025 17:53:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
