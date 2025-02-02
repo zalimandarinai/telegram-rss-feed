@@ -76,6 +76,7 @@ async def create_rss():
 
     valid_posts = []
     grouped_texts = {}  # ✅ Stores text for album posts
+    seen_media = set()  # ✅ Track already added media to avoid duplicates
 
     for msg in reversed(messages):  # ✅ Process from oldest to newest
         text = msg.message or getattr(msg, "caption", "").strip()
@@ -91,6 +92,10 @@ async def create_rss():
         if not msg.media:
             logger.warning(f"⚠️ Skipping message {msg.id} (No media)")
             continue
+
+        # ✅ Prevent "No Title" / "No Content" posts
+        if not text:
+            text = "📷 Media Post"
 
         valid_posts.append((msg, text))
 
@@ -110,7 +115,6 @@ async def create_rss():
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('News channel by www.mandarinai.lt')
 
-    seen_media = set()
     latest_post_id = 0  # ✅ Track latest processed post ID
 
     for msg, text in valid_posts:
@@ -126,17 +130,16 @@ async def create_rss():
             blob_name = os.path.basename(media_path)
             blob = bucket.blob(blob_name)
 
-            # ✅ Skip already uploaded media
-            if blob_name in last_media_files:
+            # ✅ Avoid duplicate media
+            if blob_name in seen_media:
                 os.remove(media_path)
                 continue
+            seen_media.add(blob_name)
 
             # ✅ Upload to Google Cloud if not exists
             if not blob.exists():
                 blob.upload_from_filename(media_path)
                 logger.info(f"✅ Uploaded {blob_name} to Google Cloud Storage")
-
-            seen_media.add(blob_name)
 
             # ✅ Create RSS entry
             fe = fg.add_entry()
@@ -145,14 +148,7 @@ async def create_rss():
             fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
 
             # ✅ Determine media type for enclosure
-            if blob_name.endswith(".jpg") or blob_name.endswith(".jpeg"):
-                media_type = "image/jpeg"
-            elif blob_name.endswith(".mp4"):
-                media_type = "video/mp4"
-            else:
-                logger.warning(f"⚠️ Unsupported file format {blob_name}, skipping.")
-                continue
-
+            media_type = "image/jpeg" if blob_name.endswith((".jpg", ".jpeg")) else "video/mp4"
             fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
                          length=str(file_size), type=media_type)
 
