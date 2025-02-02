@@ -33,7 +33,7 @@ bucket = storage_client.bucket(bucket_name)
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 5  # ✅ Always keep exactly 5 latest posts in RSS
-FETCH_LIMIT = 15  # ✅ Fetch more to ensure latest media is included
+FETCH_LIMIT = 5  # ✅ Only fetch the last 5 messages
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Max media file size 15MB
 
 # ✅ FUNCTION: Load last saved post data
@@ -55,14 +55,19 @@ async def create_rss():
 
     last_post = load_last_post()
     last_post_id = last_post.get("id", 0)
+    logger.info(f"📌 Last processed post ID (from JSON): {last_post_id}")
 
-    # ✅ Fetch latest 15 messages to avoid missing new media posts
+    # ✅ Fetch only the last 5 messages
     messages = await client.get_messages('Tsaplienko', limit=FETCH_LIMIT)
+
+    logger.info("🔍 Checking fetched messages:")
+    for msg in messages:
+        logger.info(f"ID: {msg.id}, Date: {msg.date}, Has Media: {bool(msg.media)}, Grouped ID: {msg.grouped_id}")
 
     valid_posts = []
     grouped_posts = {}
 
-    # ✅ Process from NEWEST to OLDEST (Fix for delay issue)
+    # ✅ Process messages from NEWEST to OLDEST
     for msg in sorted(messages, key=lambda x: x.date, reverse=True):
         text = msg.message or getattr(msg, "caption", "").strip()
 
@@ -71,32 +76,32 @@ async def create_rss():
             if msg.grouped_id not in grouped_posts:
                 grouped_posts[msg.grouped_id] = {"text": text, "media": []}
             grouped_posts[msg.grouped_id]["media"].append(msg)
+            logger.info(f"📸 Album detected: Grouped ID {msg.grouped_id}, Message ID: {msg.id}")
             continue  # ✅ Process the entire album later
 
         # ✅ Skip old posts
         if msg.id <= last_post_id:
+            logger.info(f"⏩ Skipping old message {msg.id}")
             continue
 
         # ✅ Skip non-media messages
         if not msg.media:
+            logger.info(f"⏩ Skipping text-only message {msg.id}")
             continue
 
+        logger.info(f"✅ Adding to RSS: Message {msg.id} - Date: {msg.date}, Media: {bool(msg.media)}")
         valid_posts.append((msg, text))
-
-        # ✅ Stop at exactly 5 latest media posts
-        if len(valid_posts) >= MAX_POSTS:
-            break
 
     # ✅ Process grouped media albums (assign text from first in album)
     for group in grouped_posts.values():
         text = group["text"]
         for msg in group["media"]:
+            logger.info(f"✅ Adding album message {msg.id} to RSS")
             valid_posts.append((msg, text))
-        if len(valid_posts) >= MAX_POSTS:
-            break
 
-    # ✅ Only keep the 5 newest posts
+    # ✅ Keep only the 5 newest media posts
     valid_posts = valid_posts[:MAX_POSTS]
+    logger.info(f"📝 Total posts selected for RSS: {len(valid_posts)}")
 
     if not valid_posts:
         logger.warning("⚠️ No valid media posts – RSS will not be updated.")
@@ -117,6 +122,7 @@ async def create_rss():
         if media_path:
             file_size = os.path.getsize(media_path)
             if file_size > MAX_MEDIA_SIZE:
+                logger.warning(f"⏩ Skipping media {media_path} (too large)")
                 os.remove(media_path)
                 continue
 
@@ -125,6 +131,7 @@ async def create_rss():
 
             # ✅ Avoid duplicate media
             if blob_name in seen_media:
+                logger.info(f"⏩ Skipping duplicate media {blob_name}")
                 os.remove(media_path)
                 continue
             seen_media.add(blob_name)
