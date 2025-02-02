@@ -6,19 +6,7 @@
     <description>News channel by https://www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Feb 2025 19:15:56 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <description>No Content</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2595.MP4" length="13225405" type="video/mp4"/>
-      <pubDate>Sun, 02 Feb 2025 18:46:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Title</title>
-      <description>No Content</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_18-46-22 (1).jpg" length="49138" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 18:46:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Feb 2025 20:20:14 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <description>No Content</description>
@@ -26,18 +14,22 @@
       <pubDate>Sun, 02 Feb 2025 18:46:22 +0000</pubDate>
     </item>
     <item>
-      <title>Чехія припинить постачання Укр</title>
-      <description>Чехія припинить постачання Україні артилерійських снарядів з "чеської ініціативи" у разі перемоги опозиційної партії ANO у жовтні, - Financial Times
+      <title>🇩🇪 В Берліні масова демонстрац</title>
+      <description>🇩🇪 В Берліні масова демонстрація проти співпраці з ультраправою проросійсткою партією «Альтернатива для Німеччини». За даними поліції, близько 80 тисяч людей взяли участь у протесті.
 
-Партію ANO очолює колишній прем'єр країни Андрій Бабіш, і вона, згідно з результатами соцопитувань, зараз лідирує</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_18-47-54.jpg" length="75863" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 18:47:54 +0000</pubDate>
+Зараз, згідно опитувань напередодні виборів, AfD за рейтингом на другому місті, втім її популярність зростає, після того, як партію декілька разів публічно підтримав Ілон Маск</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_19-34-51.jpg" length="352770" type="image/jpeg"/>
+      <pubDate>Sun, 02 Feb 2025 19:34:51 +0000</pubDate>
     </item>
     <item>
-      <title>Підривами ТЦК займаються струк</title>
-      <description>Підривами ТЦК займаються структури ГРУ та ФСБ, – голова ЦПД Коваленко.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_19-03-01.jpg" length="70183" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 19:03:01 +0000</pubDate>
+      <title>🔥Війна без прикрас : бійці 155</title>
+      <description>🔥Війна без прикрас : бійці 155-ї ОМБр показують зачищену лісосмугу.
+
+Внаслідок тривалого стрілецького бою знищено чималу групу окупантів.
+
+Сьогодні «ТСН Тиждень» розповів, як 155-а бригада «Анна Київська» відновлює свою боєготовність.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-02_19-40-58.mp4" length="7066644" type="video/mp4"/>
+      <pubDate>Sun, 02 Feb 2025 19:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
