@@ -1,18 +1,171 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Latest news</title>
-    <link>https://www.mandarinai.lt/</link>
-    <description>News channel by https://www.mandarinai.lt</description>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Feb 2025 15:20:47 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <description>No Content</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-02_11-58-26.jpg" length="40243" type="image/jpeg"/>
-      <pubDate>Sun, 02 Feb 2025 11:58:26 +0000</pubDate>
-    </item>
-  </channel>
-</rss>
- 
+import asyncio
+import os
+import json
+import logging
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from feedgen.feed import FeedGenerator
+from google.cloud import storage
+from google.oauth2 import service_account
+from telethon import TelegramClient
+from telethon.sessions import StringSession
+
+# ✅ LOG CONFIGURATION
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# ✅ TELEGRAM LOGIN DETAILS
+api_id = int(os.getenv("TELEGRAM_API_ID"))
+api_hash = os.getenv("TELEGRAM_API_HASH")
+string_session = os.getenv("TELEGRAM_STRING_SESSION")
+
+client = TelegramClient(StringSession(string_session), api_id, api_hash)
+
+# ✅ GOOGLE CLOUD STORAGE LOGIN DETAILS
+credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
+credentials_dict = json.loads(credentials_json)
+credentials = service_account.Credentials.from_service_account_info(credentials_dict)
+storage_client = storage.Client(credentials=credentials)
+bucket_name = "telegram-media-storage"
+bucket = storage_client.bucket(bucket_name)
+
+# ✅ CONSTANTS
+LAST_POST_FILE = "docs/last_post.json"
+RSS_FILE = "docs/rss.xml"
+MAX_POSTS = 5  # ✅ Always keep exactly 5 latest posts in RSS
+FETCH_LIMIT = 5  # ✅ Only fetch the last 5 messages
+MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Max media file size 15MB
+
+# ✅ FUNCTION: Load last saved post data
+def load_last_post():
+    if os.path.exists(LAST_POST_FILE):
+        with open(LAST_POST_FILE, "r") as f:
+            return json.load(f)
+    return {"id": 0, "media": []}
+
+# ✅ FUNCTION: Save last processed post ID and media files
+def save_last_post(post_data):
+    os.makedirs("docs", exist_ok=True)
+    with open(LAST_POST_FILE, "w") as f:
+        json.dump(post_data, f)
+
+# ✅ FUNCTION: Generate RSS
+async def create_rss():
+    await client.connect()
+
+    last_post = load_last_post()
+    last_post_id = last_post.get("id", 0)
+    logger.info(f"📌 Last processed post ID (from JSON): {last_post_id}")
+
+    # ✅ Fetch only the last 5 messages
+    messages = await client.get_messages('Tsaplienko', limit=FETCH_LIMIT)
+
+    logger.info("🔍 Checking fetched messages:")
+    for msg in messages:
+        logger.info(f"ID: {msg.id}, Date: {msg.date}, Has Media: {bool(msg.media)}, Grouped ID: {msg.grouped_id}")
+
+    valid_posts = []
+    grouped_posts = {}
+
+    # ✅ Process messages from NEWEST to OLDEST
+    for msg in sorted(messages, key=lambda x: x.date, reverse=True):
+        text = msg.message or getattr(msg, "caption", "").strip()
+
+        # ✅ Handle grouped media posts correctly
+        if msg.grouped_id:
+            if msg.grouped_id not in grouped_posts:
+                grouped_posts[msg.grouped_id] = {"text": text, "media": []}
+            grouped_posts[msg.grouped_id]["media"].append(msg)
+            logger.info(f"📸 Album detected: Grouped ID {msg.grouped_id}, Message ID: {msg.id}")
+            continue  # ✅ Process the entire album later
+
+        # ✅ Skip old posts
+        if msg.id <= last_post_id:
+            logger.info(f"⏩ Skipping old message {msg.id}")
+            continue
+
+        # ✅ Skip non-media messages
+        if not msg.media:
+            logger.info(f"⏩ Skipping text-only message {msg.id}")
+            continue
+
+        logger.info(f"✅ Adding to RSS: Message {msg.id} - Date: {msg.date}, Media: {bool(msg.media)}")
+        valid_posts.append((msg, text))
+
+    # ✅ Process grouped media albums (assign text from first in album)
+    for group in grouped_posts.values():
+        text = group["text"]
+        for msg in group["media"]:
+            logger.info(f"✅ Adding album message {msg.id} to RSS")
+            valid_posts.append((msg, text))
+
+    # ✅ Keep only the 5 newest media posts
+    valid_posts = valid_posts[:MAX_POSTS]
+    logger.info(f"📝 Total posts selected for RSS: {len(valid_posts)}")
+
+    if not valid_posts:
+        logger.warning("⚠️ No valid media posts – RSS will not be updated.")
+        return
+
+    fg = FeedGenerator()
+    fg.title('Latest news')
+    fg.link(href='https://www.mandarinai.lt/')
+    fg.description('News channel by https://www.mandarinai.lt')
+
+    latest_post_id = last_post_id  # ✅ Track latest processed post ID
+    seen_media = set()
+
+    for msg, text in valid_posts:
+        latest_post_id = max(latest_post_id, msg.id)
+
+        media_path = await msg.download_media(file="./")
+        if media_path:
+            file_size = os.path.getsize(media_path)
+            if file_size > MAX_MEDIA_SIZE:
+                logger.warning(f"⏩ Skipping media {media_path} (too large)")
+                os.remove(media_path)
+                continue
+
+            blob_name = os.path.basename(media_path)
+            blob = bucket.blob(blob_name)
+
+            # ✅ Avoid duplicate media
+            if blob_name in seen_media:
+                logger.info(f"⏩ Skipping duplicate media {blob_name}")
+                os.remove(media_path)
+                continue
+            seen_media.add(blob_name)
+
+            # ✅ Upload if it doesn't exist
+            if not blob.exists():
+                blob.upload_from_filename(media_path)
+                logger.info(f"✅ Uploaded {blob_name} to Google Cloud Storage")
+
+            # ✅ Create RSS entry
+            fe = fg.add_entry()
+            fe.title(text[:30] if text else "No Title")
+            fe.description(text if text else "No Content")
+            fe.pubDate(msg.date.replace(tzinfo=timezone.utc))
+
+            # ✅ Determine media type for enclosure
+            media_type = "image/jpeg" if blob_name.endswith((".jpg", ".jpeg")) else "video/mp4"
+            fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                         length=str(file_size), type=media_type)
+
+        # ✅ Remove downloaded media file
+        if media_path:
+            os.remove(media_path)
+
+    # ✅ Save last processed post ID & media
+    save_last_post({"id": latest_post_id, "media": list(seen_media)})
+
+    # ✅ Write updated RSS file
+    with open(RSS_FILE, "wb") as f:
+        f.write(fg.rss_str(pretty=True))
+
+    logger.info("✅ RSS updated successfully!")
+
+# ✅ MAIN PROCESS EXECUTION
+if __name__ == "__main__":
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(create_rss())
