@@ -6,7 +6,7 @@
     <description>News channel by https://www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Feb 2025 08:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 09:23:28 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <description>No Content</description>
@@ -18,14 +18,6 @@
       <description>No Content</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_04-47-07.mp4" length="4324788" type="video/mp4"/>
       <pubDate>Mon, 03 Feb 2025 04:47:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В Москві в елітному ЖК "Алые </title>
-      <description>💥В Москві в елітному ЖК "Алые паруса" один труп і троє важкопоранених, внаслідок вибуху в холі чогось невідомого.
-
-Консьєрж будинку розповів, що потужний вибух стався, коли в хол зайшов мешканець будинку з охоронцями. Він бачив загиблого раніше, зокрема по телевізору.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_07-28-54.mp4" length="1936304" type="video/mp4"/>
-      <pubDate>Mon, 03 Feb 2025 07:28:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
