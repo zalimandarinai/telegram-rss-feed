@@ -8,6 +8,7 @@ from google.cloud import storage
 from google.oauth2 import service_account
 from telethon import TelegramClient
 from telethon.sessions import StringSession
+from email.utils import formatdate, parsedate_to_datetime
 
 # ✅ LOGŲ KONFIGŪRACIJA
 logging.basicConfig(level=logging.INFO)
@@ -55,9 +56,17 @@ def load_existing_rss():
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
         channel = root.find("channel")
-        return channel.findall("item") if channel else []
-    except Exception as e:
-        logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
+        items = channel.findall("item") if channel else []
+        existing_posts = []
+        for item in items:
+            title = item.find("title").text if item.find("title") is not None else ""
+            description = item.find("description").text if item.find("description") is not None else ""
+            media_url = item.find("enclosure").attrib["url"] if item.find("enclosure") is not None else ""
+            pub_date = parsedate_to_datetime(item.find("pubDate").text) if item.find("pubDate") is not None else None
+            existing_posts.append((title, description, media_url, pub_date))
+        return existing_posts
+    except (ET.ParseError, FileNotFoundError) as e:
+        logger.error(f"❌ RSS failas sugadintas arba nerastas, kuriamas naujas: {e}")
         return []
 
 async def create_rss():
@@ -69,72 +78,70 @@ async def create_rss():
     valid_posts = []
 
     for msg in reversed(messages):
-        text = msg.message or getattr(msg, "caption", None) or "No Content"
+        title = (msg.message or "").strip()
+        description = (getattr(msg, "caption", None) or "").strip()
         media_files = {"mp4": None, "jpeg": None}
         
         if hasattr(msg.media, "grouped_id") and msg.grouped_id:
             if msg.grouped_id not in grouped_texts:
-                grouped_texts[msg.grouped_id] = text
+                grouped_texts[msg.grouped_id] = title or description
             else:
-                text = grouped_texts[msg.grouped_id]
+                title = grouped_texts[msg.grouped_id]
         
-        if not msg.media and text == "No Content":
-            logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi nei teksto, nei media")
+        if not msg.media or not (title or description):
+            logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi reikiamo turinio")
             continue
 
         try:
             if msg.media:
                 media_path = await msg.download_media(file="./")
                 if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
-                    if media_path.endswith(".mp4"):
-                        media_files["mp4"] = media_path
-                    elif media_path.endswith(('.jpg', '.jpeg')):
-                        media_files["jpeg"] = media_path
+                    blob_name = os.path.basename(media_path)
+                    blob = bucket.blob(blob_name)
+                    try:
+                        blob.reload()
+                        exists = blob.exists()
+                    except:
+                        exists = False
+                    if not exists:
+                        if media_path.endswith(".mp4"):
+                            media_files["mp4"] = media_path
+                        elif media_path.endswith(('.jpg', '.jpeg')):
+                            media_files["jpeg"] = media_path
         except Exception as e:
             logger.error(f"❌ Klaida apdorojant media: {e}")
             continue
 
         if not media_files["mp4"] and not media_files["jpeg"]:
-            continue  # ✅ Jei nėra media failų, ignoruojame įrašą
+            continue
 
-        # ✅ Prioritetizuojame MP4, bet tekstą imame iš JPEG, jei MP4 jo neturi
         selected_media = media_files["mp4"] or media_files["jpeg"]
-        if media_files["mp4"] and media_files["jpeg"] and text == "No Content":
-            text = msg.message or getattr(msg, "caption", None) or grouped_texts.get(msg.grouped_id, "No Content")
-        
-        if text == "No Content":
-            continue  # ✅ Jei nėra teksto, praleidžiame įrašą
-
-        valid_posts.append((msg, text, selected_media))
+        pub_date = formatdate(timeval=msg.date.timestamp(), usegmt=True) if msg.date else ""
+        valid_posts.append((title, description, selected_media, pub_date))
 
         if len(valid_posts) >= MAX_POSTS:
             break
 
     existing_items = load_existing_rss()
-    if len(valid_posts) < MAX_POSTS:
-        remaining_posts = [msg for msg in existing_items if msg not in valid_posts]
-        valid_posts.extend(remaining_posts[:MAX_POSTS - len(valid_posts)])
+    valid_posts.extend([item for item in existing_items if item[2] not in [post[2] for post in valid_posts]])
+    valid_posts = sorted(valid_posts, key=lambda x: parsedate_to_datetime(x[3]) if x[3] else None, reverse=True)[:MAX_POSTS]
     
     fg = FeedGenerator()
     fg.title('Latest news')
     fg.link(href='https://www.mandarinai.lt/')
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
     
-    seen_media = set()
-
-    for msg, text, media_path in valid_posts:
+    for title, description, media_url, pub_date in valid_posts:
         fe = fg.add_entry()
-        fe.title(text[:30] if text else "No Title")
-        fe.description(text if text else "No Content")
-        fe.pubDate(msg.date if msg else "")
-        
-        blob_name = os.path.basename(media_path)
-        blob = bucket.blob(blob_name)
-        
-        fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
-                     type='video/mp4' if media_path.endswith('.mp4') else 'image/jpeg')
+        fe.title(title[:30] if title else "No Title")
+        fe.description(description if description else title)
+        fe.pubDate(pub_date)
+        fe.enclosure(url=media_url, type='video/mp4' if media_url.endswith('.mp4') else 'image/jpeg')
     
-    save_last_post({"id": valid_posts[0][0].id if valid_posts[0][0] else last_post["id"]})
+    if valid_posts:
+        save_last_post({"id": last_post["id"]})
+    else:
+        logger.info("⚠️ Nebuvo naujų įrašų, paliekamas paskutinis post ID")
     
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
