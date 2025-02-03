@@ -33,7 +33,7 @@ bucket = storage_client.bucket(bucket_name)
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 5  # ✅ Always keep exactly 5 latest posts in RSS
-FETCH_LIMIT = 10  # ✅ Fetch last 10 messages for better selection
+FETCH_LIMIT = 5  # ✅ Fetch last 10 messages for better selection
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # ✅ Max media file size 15MB
 
 # ✅ FUNCTION: Load last saved post data
