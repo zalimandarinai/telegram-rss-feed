@@ -79,33 +79,28 @@ async def create_rss():
 
     for msg in reversed(messages):
         title = msg.message.strip() if msg.message else ""
-        description = msg.caption.strip() if hasattr(msg, "caption") and msg.caption else ""
+        description = msg.text.strip() if hasattr(msg, "text") and msg.text else ""
         media_files = {"mp4": None, "jpeg": None}
         
         if not (title or description):
-            logger.warning(f"⚠️ PRALAIDŽIAMAS POSTAS {msg.id}: msg.message={msg.message}, msg.caption={msg.caption}")
+            logger.warning(f"⚠️ PRALAIDŽIAMAS POSTAS {msg.id}: msg.message={msg.message}, msg.text={msg.text}")
             continue
 
-        if not msg.photo and not msg.video and not msg.document:
-            logger.warning(f"⚠️ PRALAIDŽIAMAS POSTAS {msg.id}: nėra media. msg.media={msg.media}")
+        if not msg.media:
+            logger.warning(f"⚠️ PRALAIDŽIAMAS POSTAS {msg.id}: nėra media")
             continue
 
         try:
-            if msg.photo or msg.video or msg.document:
-                media_path = await msg.download_media(file="./")
-                if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
-                    blob_name = os.path.basename(media_path)
-                    blob = bucket.blob(blob_name)
-                    try:
-                        blob.reload()
-                        exists = blob.exists()
-                    except:
-                        exists = False
-                    if not exists:
-                        if media_path.endswith(".mp4"):
-                            media_files["mp4"] = media_path
-                        elif media_path.endswith(('.jpg', '.jpeg')):
-                            media_files["jpeg"] = media_path
+            media_path = await msg.download_media(file="./")
+            if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
+                blob_name = os.path.basename(media_path)
+                blob = bucket.blob(blob_name)
+                exists = blob.exists()
+                if not exists:
+                    if media_path.endswith(".mp4"):
+                        media_files["mp4"] = media_path
+                    elif media_path.endswith(('.jpg', '.jpeg')):
+                        media_files["jpeg"] = media_path
         except Exception as e:
             logger.error(f"❌ Klaida apdorojant media: {e}")
             continue
