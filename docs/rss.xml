@@ -6,16 +6,25 @@
     <description>News channel by https://www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Feb 2025 23:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 04:25:02 +0000</lastBuildDate>
     <item>
-      <title>Волгоград зараз під атакою нев</title>
-      <description>Волгоград зараз під атакою невідомих дронів, але їхня ціль відома, Волгоградський НПЗ, який належить «Лукойл».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2599.MP4" length="1706139" type="video/mp4"/>
-      <pubDate>Sun, 02 Feb 2025 22:32:04 +0000</pubDate>
+      <title>No Title</title>
+      <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_04-11-44 (2).mp4" length="1535162" type="video/mp4"/>
+      <pubDate>Mon, 03 Feb 2025 04:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_04-11-44 (1).mp4" length="570245" type="video/mp4"/>
+      <pubDate>Mon, 03 Feb 2025 04:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <description>No Content</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_04-11-44.mp4" length="963667" type="video/mp4"/>
+      <pubDate>Mon, 03 Feb 2025 04:11:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
- 
- 
- 
  
