@@ -69,8 +69,8 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
     
-    # ✅ Gauname 20 paskutinių žinučių (didesnis skaičius, kad turėtume atsargą)
-    messages = await client.get_messages('Tsaplienko', limit=20)
+    # ✅ Gauname 5 paskutinių žinučių 
+    messages = await client.get_messages('Tsaplienko', limit=5)
 
     # ✅ Albumų tekstų sekimas (kad visi albumo įrašai turėtų tą patį tekstą)
     grouped_texts = {}
