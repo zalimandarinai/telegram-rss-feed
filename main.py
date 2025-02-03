@@ -34,7 +34,7 @@ bucket = storage_client.bucket(bucket_name)
 # ✅ NUOLATINIAI KONSTANTAI
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5  # RSS faile visada turi būti 5 paskutiniai postai
+MAX_POSTS = 5  # RSS faile visada bus bent 5 paskutiniai postai
 MAX_MEDIA_SIZE = 15 * 1024 * 1024  # Maksimalus medijos dydis – 15MB
 
 # ✅ FUNKCIJA: Paskutinio posto ID įkėlimas
@@ -54,7 +54,6 @@ def save_last_post(post_data):
 def load_existing_rss():
     if not os.path.exists(RSS_FILE):
         return []
-
     try:
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
@@ -74,7 +73,6 @@ async def create_rss():
 
     # Albumų tekstų sekimas – jei postai priklauso vienam albumui, visi naudoja tą patį tekstą
     grouped_texts = {}
-
     valid_posts = []  # Saugosime tik postus, kurie turi tiek tekstą, tiek medijos failą
 
     for msg in messages:
@@ -117,6 +115,9 @@ async def create_rss():
             if len(valid_posts) >= MAX_POSTS:
                 break
 
+    # Rūšiuojame valid_posts, kad naujausi postai būtų viršuje (pagal data mažėjimo tvarka)
+    valid_posts.sort(key=lambda x: x[0].date, reverse=True)
+
     # Generuojame naują RSS
     fg = FeedGenerator()
     fg.title('Latest news')
@@ -128,6 +129,8 @@ async def create_rss():
     for msg, text in valid_posts:
         fe = fg.add_entry()
         fe.title(text[:30] if text else "No Title")
+        # Pridedame nuorodą į individualų įrašą – tai rekomenduojama praktika
+        fe.link(href=f"https://www.mandarinai.lt/post/{msg.id}")
         fe.description(text if text else "No Content")
         fe.pubDate(msg.date)
 
@@ -140,7 +143,7 @@ async def create_rss():
 
             # Jei medijos failų yra daugiau (albumas), pasirinkite mp4, jei yra
             if isinstance(media_path, list):
-                mp4_files = [p for p in media_path if p.endswith('.mp4')]
+                mp4_files = [p for p in media_path if p.lower().endswith('.mp4')]
                 if mp4_files:
                     media_path = mp4_files[0]
                 else:
@@ -158,7 +161,7 @@ async def create_rss():
             # Jei failas dar neįkeltas – įkeliame į Google Cloud Storage
             if not blob.exists():
                 blob.upload_from_filename(media_path)
-                content_type = 'video/mp4' if media_path.endswith('.mp4') else 'image/jpeg'
+                content_type = 'video/mp4' if media_path.lower().endswith('.mp4') else 'image/jpeg'
                 blob.content_type = content_type
                 logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
             else:
@@ -167,9 +170,12 @@ async def create_rss():
             # Pridedame į RSS, jei dar nebuvo panaudotas
             if blob_name not in seen_media:
                 seen_media.add(blob_name)
-                content_type = 'video/mp4' if media_path.endswith('.mp4') else 'image/jpeg'
-                fe.enclosure(url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
-                             type=content_type)
+                content_type = 'video/mp4' if media_path.lower().endswith('.mp4') else 'image/jpeg'
+                fe.enclosure(
+                    url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                    type=content_type,
+                    length=str(os.path.getsize(media_path))
+                )
 
             os.remove(media_path)  # Ištriname failą iš vietinės sistemos po įkėlimo
         except Exception as e:
@@ -183,7 +189,7 @@ async def create_rss():
 
     logger.info("✅ RSS atnaujintas sėkmingai!")
 
-# Pagrindinis proceso paleidimas
+# ✅ PAGRINDINIS PROCESO PALEIDIMAS
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(create_rss())
