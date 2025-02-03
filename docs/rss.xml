@@ -6,19 +6,7 @@
     <description>News channel by https://www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Feb 2025 06:30:11 +0000</lastBuildDate>
-    <item>
-      <title>No Title</title>
-      <description>No Content</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_04-11-44 (2).mp4" length="1535162" type="video/mp4"/>
-      <pubDate>Mon, 03 Feb 2025 04:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Title</title>
-      <description>No Content</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_04-11-44 (1).mp4" length="570245" type="video/mp4"/>
-      <pubDate>Mon, 03 Feb 2025 04:11:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Feb 2025 07:21:28 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <description>No Content</description>
@@ -36,6 +24,24 @@
       <description>No Content</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_04-47-07.mp4" length="4324788" type="video/mp4"/>
       <pubDate>Mon, 03 Feb 2025 04:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔 Трамп заявив, що його адміні</title>
+      <description>🤔 Трамп заявив, що його адміністрація запланувала "зустрічі та переговори" з Україною, Росією та "різними сторонами"
+
+"Ми маємо справу з Україною і Росією, у нас заплановані зустрічі і переговори з різними сторонами, включно з Україною і Росією", - сказав він журналістам у неділю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-03_06-47-01.mp4" length="1343639" type="video/mp4"/>
+      <pubDate>Mon, 03 Feb 2025 06:47:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️ Ворог все більше зосереджує</title>
+      <description>⚔️ Ворог все більше зосереджується на с. Андріївка в Донецькій області, — DeepState
+
+Північніше від Андріївки окупанти тиснуть на позиції ЗСУ зі Слов'янки та Петропавлівки, рухаючись по балках до дороги Ясенове-Андріївка. Піхота армії РФ намагалася лізти через с. Шевченко по фортифікаціях, які пролягають між Андріївкою та Шевченком. 
+
+🪖 Силам Оборони наразі нелегко дається оборона Андріївки. Разом з цим, ворог зосереджує свої зусилля між Улаклами та Дачним, які на південь від Андріївки, що може відкрити додаткові можливості для штурму села</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-03_07-18-18.jpg" length="209471" type="image/jpeg"/>
+      <pubDate>Mon, 03 Feb 2025 07:18:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
