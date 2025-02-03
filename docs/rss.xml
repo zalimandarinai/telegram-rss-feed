@@ -6,33 +6,45 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Feb 2025 14:42:25 +0000</lastBuildDate>
-    <item>
-      <title>Обладнання для дронів, на яке </title>
-      <description>Обладнання для дронів, на яке ми збирали в четвер, швидко дійшло до 110-ої бригади.
-
-Хлопці зі 110-ої бригади дякують вам, друзі, за це обладнання і за небайдужість.
-
-Це ті самі хлопці, які вийшли з Великої Новосілки і продовжують стримувати наступ ворога на Донеччині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2609.MP4" length="None" type="image/jpeg"/>
-      <pubDate>Mon, 03 Feb 2025 12:13:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Від підриву будинків до збиття</title>
-      <description>Від підриву будинків до збиття розвідувальних дронів, - 46-а ОАМБР показала, як творчо використовує FPV та «скиди».</description>
-      <pubDate>Mon, 03 Feb 2025 12:31:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Feb 2025 15:11:27 +0000</lastBuildDate>
     <item>
       <title>Робота бійців Одеської 126-ої </title>
+      <link>https://www.mandarinai.lt/post/68250</link>
       <description>Робота бійців Одеської 126-ої бригади ТРО по російських окупантах на островах навпроти Херсона.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2623.MP4" length="None" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2623.MP4" length="15440290" type="video/mp4"/>
       <pubDate>Mon, 03 Feb 2025 13:23:37 +0000</pubDate>
     </item>
     <item>
       <title>👀В України вже є лазерна зброя</title>
-      <description>👀В України вже є лазерна зброя. Лазерні технології зараз вже вражають на певній висоті певні об’єкти, — командувач Сил безпілотних систем Вадим Сухаревський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-03_14-04-57.jpg" length="None" type="image/jpeg"/>
+      <link>https://www.mandarinai.lt/post/68251</link>
+      <description>👀В України вже є лазерна зброя. Лазерні технології зараз вже уражають на певній висоті певні об’єкти, — командувач Сил безпілотних систем Вадим Сухаревський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-03_14-04-57.jpg" length="94384" type="image/jpeg"/>
       <pubDate>Mon, 03 Feb 2025 14:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Україні вважаються зниклими </title>
+      <link>https://www.mandarinai.lt/post/68252</link>
+      <description>В Україні вважаються зниклими безвісті 62948 людей, військових і цивільних, встановлено місце знаходження та ідентифіковано 10291 особу, - уповноважений з питань зниклих безвісти Артур Добросердов
+
+.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-03_14-55-24.jpg" length="10865" type="image/jpeg"/>
+      <pubDate>Mon, 03 Feb 2025 14:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Вашингтоні закрили головний </title>
+      <link>https://www.mandarinai.lt/post/68253</link>
+      <description>У Вашингтоні закрили головний офіс USAID, співробітників попросили не виходити на роботу .
+
+Про закриття працівники дізналися через повідомлення на електронну пошту із проханням "не виходити на роботу". В офісі прибрали вивіски та ілюстрації USAID, а також фото з проектів агентства.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-03_14-56-43.jpg" length="41373" type="image/jpeg"/>
+      <pubDate>Mon, 03 Feb 2025 14:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ударом безпілотника Сил оборон</title>
+      <link>https://www.mandarinai.lt/post/68254</link>
+      <description>Ударом безпілотника Сил оборони ліквідовано групу російських військових на автомобілі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2626.MP4" length="5741889" type="video/mp4"/>
+      <pubDate>Mon, 03 Feb 2025 14:59:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
