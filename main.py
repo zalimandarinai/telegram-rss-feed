@@ -70,7 +70,7 @@ async def create_rss():
 
     for msg in reversed(messages):
         text = msg.message or getattr(msg, "caption", None) or "No Content"
-        media_files = []
+        media_files = {"mp4": None, "jpeg": None}
         
         if hasattr(msg.media, "grouped_id") and msg.grouped_id:
             if msg.grouped_id not in grouped_texts:
@@ -82,36 +82,38 @@ async def create_rss():
             logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi nei teksto, nei media")
             continue
 
-        media_info = {"mp4": None, "jpeg": None, "text": text}
-        
-        if msg.media:
-            try:
+        try:
+            if msg.media:
                 media_path = await msg.download_media(file="./")
                 if media_path and os.path.getsize(media_path) <= MAX_MEDIA_SIZE:
                     if media_path.endswith(".mp4"):
-                        media_info["mp4"] = media_path
+                        media_files["mp4"] = media_path
                     elif media_path.endswith(('.jpg', '.jpeg')):
-                        media_info["jpeg"] = media_path
-            except Exception as e:
-                logger.error(f"❌ Klaida apdorojant media: {e}")
-                continue
+                        media_files["jpeg"] = media_path
+        except Exception as e:
+            logger.error(f"❌ Klaida apdorojant media: {e}")
+            continue
 
-        if not media_info["mp4"] and not media_info["jpeg"]:
+        if not media_files["mp4"] and not media_files["jpeg"]:
             continue  # ✅ Jei nėra media failų, ignoruojame įrašą
 
-        # ✅ Jei yra MP4 ir JPEG, naudojame MP4, bet pridedame title/description iš JPEG
-        if media_info["mp4"] and media_info["jpeg"] and text == "No Content":
-            text = media_info["text"]
+        # ✅ Prioritetizuojame MP4, bet tekstą imame iš JPEG, jei MP4 jo neturi
+        selected_media = media_files["mp4"] or media_files["jpeg"]
+        if media_files["mp4"] and media_files["jpeg"] and text == "No Content":
+            text = msg.message or getattr(msg, "caption", None) or grouped_texts.get(msg.grouped_id, "No Content")
+        
+        if text == "No Content":
+            continue  # ✅ Jei nėra teksto, praleidžiame įrašą
 
-        valid_posts.append((msg, text, media_info["mp4"] or media_info["jpeg"]))
+        valid_posts.append((msg, text, selected_media))
 
         if len(valid_posts) >= MAX_POSTS:
             break
 
     existing_items = load_existing_rss()
-    for item in existing_items:
-        if len(valid_posts) < MAX_POSTS and all(item.find("enclosure").attrib["url"] != f"https://storage.googleapis.com/{bucket_name}/{os.path.basename(post[2])}" for post in valid_posts):
-            valid_posts.append((None, item.find("title").text, item.find("enclosure").attrib["url"]))
+    if len(valid_posts) < MAX_POSTS:
+        remaining_posts = [msg for msg in existing_items if msg not in valid_posts]
+        valid_posts.extend(remaining_posts[:MAX_POSTS - len(valid_posts)])
     
     fg = FeedGenerator()
     fg.title('Latest news')
@@ -142,4 +144,3 @@ async def create_rss():
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(create_rss())
-
