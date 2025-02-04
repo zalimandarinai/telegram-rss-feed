@@ -3,6 +3,8 @@ import os
 import json
 import logging
 import xml.etree.ElementTree as ET
+import datetime
+import email.utils
 from feedgen.feed import FeedGenerator
 from google.cloud import storage
 from google.oauth2 import service_account
@@ -81,10 +83,23 @@ def load_existing_rss():
         tree = ET.parse(RSS_FILE)
         root = tree.getroot()
         channel = root.find("channel")
-        return channel.findall("item") if channel else []
+        return channel.findall("item") if channel is not None else []
     except Exception as e:
         logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
         return []
+
+# ====================================================================
+# FUNKCIJA: Konvertuoti datą į datetime objektą.
+# Jei data jau yra datetime, grąžiname ją, o jei tai string – konvertuojame.
+# ====================================================================
+def get_datetime(date_val):
+    if isinstance(date_val, datetime.datetime):
+        return date_val
+    try:
+        # Konvertuojame RFC 822 formato datą į datetime objektą.
+        return email.utils.parsedate_to_datetime(date_val)
+    except Exception:
+        return datetime.datetime.min
 
 # ====================================================================
 # FUNKCIJA: Generuoti naują RSS srautą.
@@ -144,7 +159,8 @@ async def create_rss():
                 break
 
     # Rūšiuojame įrašus pagal datą mažėjimo tvarka – naujausi postai bus viršuje.
-    valid_posts.sort(key=lambda x: x[0].date, reverse=True)
+    # Konvertuojame datas į datetime objektus, kad būtų galima atlikti teisingą rūšiavimą.
+    valid_posts.sort(key=lambda x: get_datetime(x[0].date), reverse=True)
 
     # Pradedame generuoti naują RSS srautą su FeedGenerator.
     fg = FeedGenerator()
