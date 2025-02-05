@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 04:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 05:21:48 +0000</lastBuildDate>
     <item>
       <title>Фортифікації - наш біль і наші</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -50,16 +50,6 @@
       <pubDate>Tue, 04 Feb 2025 19:40:33 +0000</pubDate>
     </item>
     <item>
-      <title>Російські FPV-дрони вже атакую</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Російські FPV-дрони вже атакують транспорт в Дніпропетровській області.
-
-Сьогодні ввечері безпілотник вдарив по вантажівці в Синельниковському районі на Дніпропетровщині, – ДСНС. 
-
-Відомо про одного загиблого, ще одного чоловіка ушпиталили.</description>
-      <pubDate>Tue, 04 Feb 2025 19:44:18 +0000</pubDate>
-    </item>
-    <item>
       <title>«Сегодня еb@ная Баба Яга нас р</title>
       <link>https://www.mandarinai.lt/post/68326</link>
       <description>«Сегодня еb@ная Баба Яга нас разъеb@ла. В 7 утра, мразь, в гости к нам прилетела. Три 200. Как-то вот так».
@@ -69,6 +59,13 @@
 Схоже, 429-ий мотострілецький полк не дуже любить бігати по посадках в Україні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2687.MP4" length="11103169" type="video/mp4"/>
       <pubDate>Tue, 04 Feb 2025 20:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Дрони вдарили по нафтобазі «</title>
+      <link>https://www.mandarinai.lt/post/68329</link>
+      <description>🔥 Дрони вдарили по нафтобазі «Албашнафта» у Краснодарському краї.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-05_05-17-51.mp4" length="2558684" type="video/mp4"/>
+      <pubDate>Wed, 05 Feb 2025 05:17:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
