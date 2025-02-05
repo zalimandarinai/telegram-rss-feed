@@ -6,38 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 16:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 17:18:23 +0000</lastBuildDate>
     <item>
       <title>❗️«Зеленський не є легітимним </title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️«Зеленський не є легітимним президентом України, попри це росія готова вести з ним переговори», — пєсков</description>
       <pubDate>Wed, 05 Feb 2025 09:46:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент нічного прильоту по іст</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Момент нічного прильоту по історичній будівлі в Харкові.
-
-Тварі
-ㅤ</description>
-      <pubDate>Wed, 05 Feb 2025 11:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наші білоруси з полку Калиновс</title>
-      <link>https://www.mandarinai.lt/post/68365</link>
-      <description>Наші білоруси з полку Калиновського збили російський дрон «Молнія-2», який можна назвати «шахедом» на мінімалках.
-
-Це одна з новітніх розробок окупантів, а саме двомоторний дрон, здатний нести до 6 кг вибухівки та долати до 40 км. 
-
-Незвично, що його «приземлили» мінометники, які зазвичай працюють по цілях, які не літають в повітрі, а бігають та їздять по землі.
-
-Завдяки майстерності мінометника з групи «Волат» ворожий безпілотник було знищено звичайним автоматом. 
-
-Смертоносний вантаж не досяг своєї мети.
-
-І це не єдиний ворожий дрон, збитий «мінометкою» білорусів на Сході.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-05_15-41-25.jpg" length="287762" type="image/jpeg"/>
-      <pubDate>Wed, 05 Feb 2025 15:41:25 +0000</pubDate>
     </item>
     <item>
       <title>Скільки болю, сліз і терпіння </title>
@@ -54,6 +28,26 @@
       <description>Росіяни вже на ішаках возять свої боєприпаси, - прекрасна ілюстрація потенціалу «другої армії».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2715.MP4" length="11654103" type="video/mp4"/>
       <pubDate>Wed, 05 Feb 2025 15:58:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>США мають намір представити со</title>
+      <link>https://www.mandarinai.lt/post/68369</link>
+      <description>США мають намір представити союзникам план Трампа щодо миру в Україні вже наступного тижня, на Мюнхенській конференції з безпеки в Німеччині, пише Bloomberg.
+
+Елементи включають потенційне заморожування війни, але окупована порогом українська територія залишається в невизначеному стані.
+
+Одночасно Україні планується надати гарантій безпеки, щоб Москва не змогла знову напасти, але які саме, поки що незрозуміло.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-05_16-55-26.jpg" length="86687" type="image/jpeg"/>
+      <pubDate>Wed, 05 Feb 2025 16:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ворог атакував Одещину ракет</title>
+      <link>https://www.mandarinai.lt/post/68371</link>
+      <description>❗️Ворог атакував Одещину ракетою, - ОВА 
+
+В Одеському районі внаслідок російської ракетної атаки по житловому недобудованому будинку загинув чоловік, ще один - у тяжкому стані в лікарні.  Обидва випадково проходили поруч із будинком</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-05_17-14-49.jpg" length="74524" type="image/jpeg"/>
+      <pubDate>Wed, 05 Feb 2025 17:14:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
