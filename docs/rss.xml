@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 21:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 22:21:34 +0000</lastBuildDate>
     <item>
       <title>❗️«Зеленський не є легітимним </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -36,18 +36,18 @@ https://m.youtube.com/watch?v=RxDfnsR5yFE&amp;t=35s</description>
       <pubDate>Wed, 05 Feb 2025 18:20:09 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Південні губернії країни-лай</title>
-      <link>https://www.mandarinai.lt/post/68380</link>
-      <description>⚡️Південні губернії країни-лайна, на прийомі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-05_19-29-57.mp4" length="650154" type="video/mp4"/>
-      <pubDate>Wed, 05 Feb 2025 19:29:57 +0000</pubDate>
-    </item>
-    <item>
       <title>💥🔥Приморсько-Ахтарськ - приліт</title>
       <link>https://www.mandarinai.lt/post/68384</link>
       <description>💥🔥Приморсько-Ахтарськ - приліт в районі аеропорту, звідки запускають шахеди по Україні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-05_19-36-12.mp4" length="112316" type="video/mp4"/>
       <pubDate>Wed, 05 Feb 2025 19:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Свіже поповнення обмінного фо</title>
+      <link>https://www.mandarinai.lt/post/68386</link>
+      <description>👌Свіже поповнення обмінного фонду зібране бійцями 3-го мехбату 157-ї ОМБр в районі Воздвиженки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-05_22-14-41.mp4" length="4584446" type="video/mp4"/>
+      <pubDate>Wed, 05 Feb 2025 22:14:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
