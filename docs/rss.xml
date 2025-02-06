@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Feb 2025 05:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 06:30:54 +0000</lastBuildDate>
     <item>
       <title>❗️«Зеленський не є легітимним </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -30,24 +30,29 @@ https://m.youtube.com/watch?v=RxDfnsR5yFE&amp;t=35s</description>
       <pubDate>Wed, 05 Feb 2025 18:16:13 +0000</pubDate>
     </item>
     <item>
-      <title>🤔В Україну пішли серйозні ешел</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤔В Україну пішли серйозні ешелони поставок зі США: снаряди, техніка. Трамп в усю торгується з рф, — командир 413 ОББС «РЕЙД» Євген Карась.</description>
-      <pubDate>Wed, 05 Feb 2025 18:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Приморсько-Ахтарськ - приліт</title>
-      <link>https://www.mandarinai.lt/post/68384</link>
-      <description>💥🔥Приморсько-Ахтарськ - приліт в районі аеропорту, звідки запускають шахеди по Україні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-05_19-36-12.mp4" length="112316" type="video/mp4"/>
-      <pubDate>Wed, 05 Feb 2025 19:36:12 +0000</pubDate>
-    </item>
-    <item>
       <title>👌Свіже поповнення обмінного фо</title>
       <link>https://www.mandarinai.lt/post/68386</link>
       <description>👌Свіже поповнення обмінного фонду зібране бійцями 3-го мехбату 157-ї ОМБр в районі Воздвиженки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-05_22-14-41.mp4" length="4584446" type="video/mp4"/>
       <pubDate>Wed, 05 Feb 2025 22:14:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗСУ офіційно підтвердили влуча</title>
+      <link>https://www.mandarinai.lt/post/68388</link>
+      <description>ЗСУ офіційно підтвердили влучання по аеродрому «Приморсько-Ахтарський» у Краснодарському краї рф, — Генштаб
+
+Це летовище використовують для зберігання, підготовки та пусків «Шахедів» по Україні.
+
+Після нічної роботи українських безпілотних систем на місці влучання виникла пожежа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2727.MP4" length="68416" type="video/mp4"/>
+      <pubDate>Thu, 06 Feb 2025 06:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі Харків зазнав кілька уда</title>
+      <link>https://www.mandarinai.lt/post/68390</link>
+      <description>Вночі Харків зазнав кілька ударів «шахедами», які спалили найбільший в Східній Європі промисловий ринок біля станції метро ім.Барабашова.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2728.MP4" length="1133728" type="video/mp4"/>
+      <pubDate>Thu, 06 Feb 2025 06:29:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
