@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 10:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 11:17:10 +0000</lastBuildDate>
     <item>
       <title>Росія, можливо, сьогодні запус</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -22,25 +22,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Мобільні групи протиповітряної оборони полюють на «шахед» в Києві.</description>
       <pubDate>Thu, 06 Feb 2025 20:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️⚡️ПоВідлмляють, що вперше ук</title>
-      <link>https://www.mandarinai.lt/post/68444</link>
-      <description>⚡️⚡️ПоВідлмляють, що вперше українським силам вдалося цілеспрямовано збити КАБ, - джерела
-
-У передмісті Запоріжжя «вперше» збили керовану авіаційну бомбу (КАБ), — джерела в Силах оборони
-
-Ймовірно, в повідомленні йдеться про експериментальне озброєння, призначене саме для збиття КАБів.
-
-До цього Сили оборони принаймні один раз збили КАБ зенітною установкою, і на місці збиття працювала наша знімальна група.
-
-https://m.youtube.com/watch?v=lcL7kGW7qGk
-
-Але цей випадок все ж таки вважається випадковістю, бо системно захиститися від КАБів «зенітками» та відомими засобами ППО неможливо.
-
-Єдиний спосіб це збивати носії КАБів або уражати місця їхнього базування.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-07_08-45-55.jpg" length="75208" type="image/jpeg"/>
-      <pubDate>Fri, 07 Feb 2025 08:45:55 +0000</pubDate>
     </item>
     <item>
       <title>❗️Кількість жертв авіаудару ро</title>
@@ -59,6 +40,13 @@ https://m.youtube.com/watch?v=lcL7kGW7qGk
 З приблизно 8 млрд землян 5,4 млрд осіб, тобто 67,5% - під владою чоловіків похилого віку, зокрема в США, Росії, Китаї, Індії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-07_09-57-17.jpg" length="96306" type="image/jpeg"/>
       <pubDate>Fri, 07 Feb 2025 09:57:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Група окупантів на Куп’янськом</title>
+      <link>https://www.mandarinai.lt/post/68449</link>
+      <description>Група окупантів на Куп’янському напрямку спробувала здійснити прорив, але взвод STRIX-SQUAD операторів 114-ї бригади вчасно зреагував і зупинив ворожий штурм.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2797.MP4" length="10310670" type="video/mp4"/>
+      <pubDate>Fri, 07 Feb 2025 10:31:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
