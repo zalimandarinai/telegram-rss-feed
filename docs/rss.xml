@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Feb 2025 07:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 08:25:45 +0000</lastBuildDate>
     <item>
       <title>⚡️Україна не пропонує «віддати</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -26,13 +26,6 @@
       <pubDate>Fri, 07 Feb 2025 21:12:26 +0000</pubDate>
     </item>
     <item>
-      <title>Центр міста Торецьк практично </title>
-      <link>https://www.mandarinai.lt/post/68501</link>
-      <description>Центр міста Торецьк практично весь під окупантами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-08_06-23-05.mp4" length="3280566" type="video/mp4"/>
-      <pubDate>Sat, 08 Feb 2025 06:23:05 +0000</pubDate>
-    </item>
-    <item>
       <title>💥В Ростовській і Волгоградські</title>
       <link>https://www.mandarinai.lt/post/68502</link>
       <description>💥В Ростовській і Волгоградській областях вночі зустрічали добрі дрони. Наслідки уточнюються</description>
@@ -45,6 +38,15 @@
       <description>❗️Пентагон підтвердив, що глава відомства Піт Хегсет візьме участь у засіданні "Рамштайн", де підтвердить наміри президента США Дональда Трампа закінчити війну дипломатично🤷‍♂</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-08_06-36-15.jpg" length="86135" type="image/jpeg"/>
       <pubDate>Sat, 08 Feb 2025 06:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Українські пілоти літають н</title>
+      <link>https://www.mandarinai.lt/post/68506</link>
+      <description>❗️ Українські пілоти літають на «Міражах», - кадри навчань оприлюднила французька армія.
+
+Повідомляють, що літаки вже в Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2846.MP4" length="1894047" type="video/mp4"/>
+      <pubDate>Sat, 08 Feb 2025 08:10:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
