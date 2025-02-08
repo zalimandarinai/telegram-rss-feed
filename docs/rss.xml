@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Feb 2025 18:26:08 +0000</lastBuildDate>
-    <item>
-      <title>Допомога Києву — це розграбува</title>
-      <link>https://www.mandarinai.lt/post/68534</link>
-      <description>Допомога Києву — це розграбування Європи: Угорщина виступає проти продовження фінансування війни в Україні, — Орбан
-
-Він заявив, що їхні гроші йдуть на безнадійну війну в Україні, а саму Європу захопили мігранти</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-08_16-52-59.jpg" length="26253" type="image/jpeg"/>
-      <pubDate>Sat, 08 Feb 2025 16:52:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Feb 2025 19:16:22 +0000</lastBuildDate>
     <item>
       <title>Бойова робота 40-ї бригади так</title>
       <link>https://www.mandarinai.lt/post/68535</link>
@@ -59,6 +50,17 @@
 
 По ворогу відпрацювали всі підрозділи 47-ої бригади. Потужно погасили ворога БМП «Bradley» та артилерія касетними снарядами під коригуванням розвідроти.</description>
       <pubDate>Sat, 08 Feb 2025 18:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>А ось так російські атаки вигл</title>
+      <link>https://www.mandarinai.lt/post/68539</link>
+      <description>А ось так російські атаки виглядають з боку російських окопів.
+
+На Курщині боєць 810-ої бригади морської піхоти скаржиться, що його так звані «побратими» встановили поруч з його норою ПТКР і, таким чином, перетворили окоп на мішень для українських дронів.
+
+Він місяць провів на позиції і, в кращому випадку, ще стільки ж на ній просидить.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2875.MP4" length="9296473" type="video/mp4"/>
+      <pubDate>Sat, 08 Feb 2025 18:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
