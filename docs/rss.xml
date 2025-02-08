@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Feb 2025 08:25:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 09:19:29 +0000</lastBuildDate>
     <item>
       <title>⚡️Україна не пропонує «віддати</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -18,19 +18,6 @@
 ▪️Трамп може сказати Путіну: «Слухай, ти щойно взяв трильйони, це так не працює. Ти маєш віддати те, що належить іншій країні»;
 ▪️ Американці допомогли найбільше, і тому американці повинні заробляти найбільше. І вони повинні мати цей пріоритет, і він буде.</description>
       <pubDate>Fri, 07 Feb 2025 19:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Знищення з феєрверком РСЗВ 336</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Знищення з феєрверком РСЗВ 336-ої бригади морської піхоти противника в Запорізькій області</description>
-      <pubDate>Fri, 07 Feb 2025 21:12:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В Ростовській і Волгоградські</title>
-      <link>https://www.mandarinai.lt/post/68502</link>
-      <description>💥В Ростовській і Волгоградській областях вночі зустрічали добрі дрони. Наслідки уточнюються</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-08_06-29-43.mp4" length="1261329" type="video/mp4"/>
-      <pubDate>Sat, 08 Feb 2025 06:29:43 +0000</pubDate>
     </item>
     <item>
       <title>❗️Пентагон підтвердив, що глав</title>
@@ -47,6 +34,25 @@
 Повідомляють, що літаки вже в Україні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2846.MP4" length="1894047" type="video/mp4"/>
       <pubDate>Sat, 08 Feb 2025 08:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Воїни БСП «Донбас» 18-ї Словʼя</title>
+      <link>https://www.mandarinai.lt/post/68507</link>
+      <description>Воїни БСП «Донбас» 18-ї Словʼянської бригади вступили в ближній стрілецький бій з окупантами в місті Часів Яр.</description>
+      <pubDate>Sat, 08 Feb 2025 09:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Замість БПЛА.
+
+Двоє працівникі</title>
+      <link>https://www.mandarinai.lt/post/68508</link>
+      <description>Замість БПЛА.
+
+Двоє працівників російського НПЗ підірвали автоцистерну, необережно поводячись з вогнем в стилі «Йобне чи не йобне?»
+
+Як результат, зекономили дрон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2848.MP4" length="9387584" type="video/mp4"/>
+      <pubDate>Sat, 08 Feb 2025 09:19:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
