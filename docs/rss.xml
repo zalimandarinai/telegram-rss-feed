@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Feb 2025 13:21:04 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥В результаті удару по команд</title>
-      <link>https://www.mandarinai.lt/post/68519</link>
-      <description>💥🔥В результаті удару по командному пункту в Курській області ліквідовано щонайменше 20 офіцерів армії путіна, – Reuters 
-
-«Було знищено пункт управління. Перед тим, як подолати 2,5 км, наші завдали удару по цьому об’єкту на Курщині. Серед загиблих – старші офіцери з Росії та Північної Кореї»,
-– повідомив в інтерв'ю президент</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-08_11-16-12.mp4" length="493844" type="video/mp4"/>
-      <pubDate>Sat, 08 Feb 2025 11:16:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Feb 2025 14:17:57 +0000</lastBuildDate>
     <item>
       <title>💬 «Коли нас вивели за Волновах</title>
       <link>https://www.mandarinai.lt/post/68521</link>
@@ -57,6 +47,13 @@
 Розвідка вивчає потенціальні «схованки» ще до того, як в них заповзуть ворожі піхотинці, і полегшує виконання задачі операторам дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2853.MP4" length="8134300" type="video/mp4"/>
       <pubDate>Sat, 08 Feb 2025 13:19:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збито ворожий Су-25 на Торецьк</title>
+      <link>https://www.mandarinai.lt/post/68525</link>
+      <description>Збито ворожий Су-25 на Торецькому напрямку, - 28-а бригада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-08_13-54-39.jpg" length="35963" type="image/jpeg"/>
+      <pubDate>Sat, 08 Feb 2025 13:54:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
