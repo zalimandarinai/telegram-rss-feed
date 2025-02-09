@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Feb 2025 06:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 07:18:02 +0000</lastBuildDate>
     <item>
       <title>❗️ Війська росії разом із КНДР</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -34,17 +34,6 @@
       <pubDate>Sat, 08 Feb 2025 20:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>Розвідники зафільмували наслід</title>
-      <link>https://www.mandarinai.lt/post/68542</link>
-      <description>Розвідники зафільмували наслідки вдалої роботи воїнів зенітно-ракетного підрозділу 28-ї ОМБр та 57-го ОБ ТрО, в результаті якої був знищений російський Су-25.
-
- «зетка» на відірваному крилі та розкидані шматки заліза. 
-
-До речі, українські зенітники попереджали російських авіаторів перед вторгненням, щоб ті краще перевірили свої катапульти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2882.MP4" length="13379329" type="video/mp4"/>
-      <pubDate>Sat, 08 Feb 2025 23:47:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Ворог просунувся біля Запоріжж</title>
       <link>https://www.mandarinai.lt/post/68543</link>
       <description>Ворог просунувся біля Запоріжжя, Зеленівки та в Андріївці, - DeepState</description>
@@ -70,6 +59,13 @@
 "Це означає, що путін, швидше за все, буде радий будь-якій зустрічі з Трампом, оскільки вона просуває росію як глобальну силу і добре грає на внутрішньому ринку, але він мало що запропонує натомість", – такий підсумок робить видання щодо очікувань від майбутньої зустрічі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-09_03-04-38.jpg" length="28784" type="image/jpeg"/>
       <pubDate>Sun, 09 Feb 2025 03:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збито 70 з 151 ворожих БПЛА, 7</title>
+      <link>https://www.mandarinai.lt/post/68547</link>
+      <description>Збито 70 з 151 ворожих БПЛА, 74 локаційно втрачено, 7 БПЛА збити ще не вдалось</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-09_07-05-13.jpg" length="88320" type="image/jpeg"/>
+      <pubDate>Sun, 09 Feb 2025 07:05:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
