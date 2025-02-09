@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Feb 2025 08:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 09:19:29 +0000</lastBuildDate>
     <item>
       <title>❗️ Війська росії разом із КНДР</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -27,17 +27,9 @@
     </item>
     <item>
       <title>За ніч збито 70 з 151 ворожих </title>
-      <link>https://www.mandarinai.lt/post/68547</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>За ніч збито 70 з 151 ворожих БПЛА, 74 локаційно втрачено, 7 БПЛА збити ще не вдалось</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-09_07-05-13.jpg" length="88320" type="image/jpeg"/>
       <pubDate>Sun, 09 Feb 2025 07:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Прикордонники-артилеристи бриг</title>
-      <link>https://www.mandarinai.lt/post/68548</link>
-      <description>Прикордонники-артилеристи бригади «Сталевий кордон» підтримали вогнем угруповання Сил оборони України північніше міста Суми: ліквідовано 11 російських військових, ще 5 – поранено.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2886.MP4" length="9850790" type="video/mp4"/>
-      <pubDate>Sun, 09 Feb 2025 07:40:20 +0000</pubDate>
     </item>
     <item>
       <title>⚡️ Момент від'єднання енергоси</title>
@@ -70,6 +62,17 @@
 Якщо замовити прямо зараз, якраз встигнемо до свята</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-09_08-02-17.jpg" length="42527" type="image/jpeg"/>
       <pubDate>Sun, 09 Feb 2025 08:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪖 окупанти намагались переправ</title>
+      <link>https://www.mandarinai.lt/post/68555</link>
+      <description>🪖 окупанти намагались переправитися через Оскіл на Куп'янському напрямку, щоб розширити плацдарм. ЗСУ знищили ворожий десант
+
+"Неподалік Дворічної було завчасно виявлено спроби противника переправити особовий склад через річку Оскіл", - йдеться у повідомленні ОСУВ "Хортиця".
+
+Сили оборони завдали вогневого ураження по противнику, окупантів було знищено.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-09_08-33-20.jpg" length="57756" type="image/jpeg"/>
+      <pubDate>Sun, 09 Feb 2025 08:33:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
