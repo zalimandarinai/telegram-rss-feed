@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Feb 2025 14:17:16 +0000</lastBuildDate>
-    <item>
-      <title>1-ий штурмовий батальйон 92-ої</title>
-      <link>https://www.mandarinai.lt/post/68565</link>
-      <description>1-ий штурмовий батальйон 92-ої бригади, як порадив Веслі Кларк, намагається затриматись на  Курщині якомога довше.</description>
-      <pubDate>Sun, 09 Feb 2025 11:53:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Feb 2025 15:21:10 +0000</lastBuildDate>
     <item>
       <title>🔥В результаті атаки на НПЗ «Ал</title>
       <link>https://www.mandarinai.lt/post/68566</link>
@@ -54,6 +48,12 @@
 
 «Блонді» – приклад того, що офіцер психологічного супроводу може керувати навіть танком.</description>
       <pubDate>Sun, 09 Feb 2025 14:05:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪🔥Штурмовий підрозділ "Скала",</title>
+      <link>https://www.mandarinai.lt/post/68570</link>
+      <description>💪🔥Штурмовий підрозділ "Скала", який нещодавно розширили до полку, повністю зачистив село Котлине під Покровськом. До слова, це не перші зміни на нашу користь на цій ділянці.</description>
+      <pubDate>Sun, 09 Feb 2025 14:31:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
