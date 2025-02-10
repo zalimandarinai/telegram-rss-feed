@@ -51,7 +51,7 @@ bucket = storage_client.bucket(bucket_name)
 # ====================================================================
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
-MAX_POSTS = 5
+MAX_POSTS = 7
 MAX_MEDIA_SIZE = 15 * 1024 * 1024
 
 # ====================================================================
@@ -109,8 +109,8 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
     
-    # Gauname paskutines 5 žinutes iš kanalo "Tsaplienko".
-    messages = await client.get_messages('Tsaplienko', limit=5)
+    # Gauname paskutines 7 žinutes iš kanalo "Tsaplienko".
+    messages = await client.get_messages('Tsaplienko', limit=7)
 
     # Kintamasis albumo pranešimų tekstams:
     # Jei žinutės priklauso vienam albumui, visoms bus naudojamas tas pats tekstas.
