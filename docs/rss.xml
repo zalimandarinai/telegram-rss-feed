@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 06:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 07:20:24 +0000</lastBuildDate>
     <item>
       <title>💪🔥Штурмовий підрозділ "Скала",</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -30,18 +30,18 @@
       <pubDate>Sun, 09 Feb 2025 19:35:10 +0000</pubDate>
     </item>
     <item>
-      <title>В Сумах російський БпЛА влучив</title>
-      <link>https://www.mandarinai.lt/post/68585</link>
-      <description>В Сумах російський БпЛА влучив у автостоянку в житловому кварталі, після чого згоріли автівки, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2912.MP4" length="1061421" type="video/mp4"/>
-      <pubDate>Sun, 09 Feb 2025 21:30:55 +0000</pubDate>
+      <title>Збито 61 ворожий БПЛА, 22 лока</title>
+      <link>https://www.mandarinai.lt/post/68591</link>
+      <description>Збито 61 ворожий БПЛА, 22 локаційно втрачені, - Повітряні Сили</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-10_07-12-13.jpg" length="83216" type="image/jpeg"/>
+      <pubDate>Mon, 10 Feb 2025 07:12:13 +0000</pubDate>
     </item>
     <item>
-      <title>В Будапешті на марші неонацист</title>
-      <link>https://www.mandarinai.lt/post/68586</link>
-      <description>В Будапешті на марші неонацистів, який проходив з 8-го на 9-е лютого, бачили молодиків в російському однострої з символікою підрозділів фсб «Альфа» та ПВК «Вагнер», що, напевно, абсолютно логічно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-09_22-40-48.jpg" length="128005" type="image/jpeg"/>
-      <pubDate>Sun, 09 Feb 2025 22:40:48 +0000</pubDate>
+      <title>Відео моменту нічного прильоту</title>
+      <link>https://www.mandarinai.lt/post/68592</link>
+      <description>Відео моменту нічного прильоту в Сумах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-10_07-14-41.mp4" length="3321756" type="video/mp4"/>
+      <pubDate>Mon, 10 Feb 2025 07:14:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
