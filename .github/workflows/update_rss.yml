@@ -2,8 +2,8 @@ name: Telegram RSS Feed Automation
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour (at minute 0)
-  workflow_dispatch:  # Allows manual runs from GitHub Actions
+    - cron: "0 */3 * * *"  # Vykdyti kas 3 valandas
+  workflow_dispatch:  # Leidžia rankinį paleidimą
 
 jobs:
   build:
@@ -37,7 +37,7 @@ jobs:
 
     - name: Ensure RSS file has changes
       run: |
-        echo " " >> docs/rss.xml  # Ensure git detects changes
+        echo " " >> docs/rss.xml  # Užtikrina, kad `git` aptiktų pakeitimus
 
     - name: Commit and Push Changes
       run: |
