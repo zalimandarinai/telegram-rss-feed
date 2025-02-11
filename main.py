@@ -109,8 +109,8 @@ async def create_rss():
     await client.connect()
     last_post = load_last_post()
     
-    # Gauname paskutines 7 žinutes iš kanalo "Tsaplienko".
-    messages = await client.get_messages('Tsaplienko', limit=7)
+    # Gauname paskutines 14 žinutes iš kanalo "Tsaplienko".
+    messages = await client.get_messages('Tsaplienko', limit=14)
 
     # Kintamasis albumo pranešimų tekstams:
     # Jei žinutės priklauso vienam albumui, visoms bus naudojamas tas pats tekstas.
