@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Feb 2025 03:19:30 +0000</lastBuildDate>
-    <item>
-      <title>Примус України до поступок ста</title>
-      <link>https://www.mandarinai.lt/post/68809</link>
-      <description>Примус України до поступок стане найбільшою зрадою з часів поділу Польщі, заявив британський політик Дейві на тлі відмови США надати Україні гарантії безпеки.
-
-Лідер ліберальних демократів Ед Дейві заявив у британському парламенті, що примус України до передачі територій Росії стане найбільшою зрадою з 1945 року. Він наголосив, що зараз критично важливо зміцнити позиції України.</description>
-      <pubDate>Thu, 13 Feb 2025 18:59:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Feb 2025 06:22:01 +0000</lastBuildDate>
     <item>
       <title>⚡️Шольц закликав Бундестаг зап</title>
       <link>https://www.mandarinai.lt/post/68811</link>
@@ -70,6 +62,23 @@
       <description>❗️В Києві вибухи, працює протиповітряна оборона</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-13_22-59-01.mp4" length="123177" type="video/mp4"/>
       <pubDate>Thu, 13 Feb 2025 22:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Добрі дрони атакували росію.
+
+</title>
+      <link>https://www.mandarinai.lt/post/68823</link>
+      <description>Добрі дрони атакували росію.
+
+Вночі БПЛА завітали до Краснодарського краю. 
+
+У Слов'янську-на-Кубані прилетіло в районі НПЗ «Слов'янськ ЕКО». 
+
+Завод, який переробляє 9% російської нафти, вже двічі атакували у 2024 році. 
+
+В крайовому оперштабі підтвердили атаку, але уточнювати, чи били по НПЗ, уточнювати не стали.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3060.MP4" length="392981" type="video/mp4"/>
+      <pubDate>Fri, 14 Feb 2025 06:11:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
