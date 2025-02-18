@@ -11,11 +11,6 @@ from google.oauth2 import service_account
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
-# Nauji importai, reikalingi MIME tipams tvarkyti
-import mimetypes
-mimetypes.add_type('video/quicktime', '.mov')
-mimetypes.add_type('video/mp4', '.mp4')
-
 # ====================================================================
 # LOGŲ KONFIGŪRACIJA:
 # Nustatome pranešimų lygį ir sukuriame logger'į, kuris fiksuos vykdymo informaciją.
@@ -164,7 +159,6 @@ async def create_rss():
                 break
 
     # Rūšiuojame įrašus pagal datą mažėjimo tvarka – naujausi postai bus viršuje.
-    # Konvertuojame datas į datetime objektus, kad būtų galima atlikti teisingą rūšiavimą.
     valid_posts.sort(key=lambda x: get_datetime(x[0].date), reverse=True)
 
     # Pradedame generuoti naują RSS srautą su FeedGenerator.
@@ -207,12 +201,14 @@ async def create_rss():
                 os.remove(media_path)
                 continue
 
-            # Nustatome medijos failo MIME tipą naudojant mimetypes.
-            content_type, _ = mimetypes.guess_type(media_path)
-            if content_type is None:
-                logger.warning(f"⚠️ Nepavyko nustatyti MIME tipo failui {media_path}, praleidžiamas")
-                os.remove(media_path)
-                continue
+            # Nustatome medijos failo MIME tipą pagal reikalavimą:
+            # Jei failo plėtinys yra vienas iš nurodytų vaizdo įrašų plėtinių – laikome jį vaizdo įrašu,
+            # kitu atveju – nuotrauka.
+            video_extensions = ['.mp4', '.mov', '.mkv', '.avi', '.wmv', '.flv', '.webm']
+            if media_path.lower().endswith(tuple(video_extensions)):
+                content_type = 'video/mp4'
+            else:
+                content_type = 'image/jpeg'
 
             # Nustatome medijos failo pavadinimą ir paruošiame failą įkėlimui į Google Cloud Storage.
             blob_name = os.path.basename(media_path)
@@ -235,7 +231,7 @@ async def create_rss():
                     length=str(os.path.getsize(media_path))  # Nustatome failo dydį (baitu skaičius).
                 )
 
-            # Ištriname parsisiųstą medijos failą iš vietinės sistemos, kad neužsikrautų saugykla.
+            # Ištriname parsisiųstą medijos failą iš vietinės sistemos.
             os.remove(media_path)
         except Exception as e:
             logger.error(f"❌ Klaida apdorojant mediją iš post {msg.id}: {e}")
