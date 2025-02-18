@@ -11,6 +11,11 @@ from google.oauth2 import service_account
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
+# Nauji importai, reikalingi MIME tipams tvarkyti
+import mimetypes
+mimetypes.add_type('video/quicktime', '.mov')
+mimetypes.add_type('video/mp4', '.mp4')
+
 # ====================================================================
 # LOGŲ KONFIGŪRACIJA:
 # Nustatome pranešimų lygį ir sukuriame logger'į, kuris fiksuos vykdymo informaciją.
@@ -202,6 +207,13 @@ async def create_rss():
                 os.remove(media_path)
                 continue
 
+            # Nustatome medijos failo MIME tipą naudojant mimetypes.
+            content_type, _ = mimetypes.guess_type(media_path)
+            if content_type is None:
+                logger.warning(f"⚠️ Nepavyko nustatyti MIME tipo failui {media_path}, praleidžiamas")
+                os.remove(media_path)
+                continue
+
             # Nustatome medijos failo pavadinimą ir paruošiame failą įkėlimui į Google Cloud Storage.
             blob_name = os.path.basename(media_path)
             blob = bucket.blob(blob_name)
@@ -209,7 +221,6 @@ async def create_rss():
             # Jei failas dar nėra įkeltas į saugyklą, atliekame įkėlimą.
             if not blob.exists():
                 blob.upload_from_filename(media_path)
-                content_type = 'video/mp4' if media_path.lower().endswith('.mp4') else 'image/jpeg'
                 blob.content_type = content_type
                 logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
             else:
@@ -218,7 +229,6 @@ async def create_rss():
             # Pridedame medijos failą kaip RSS įrašo priedą (<enclosure> elementą).
             if blob_name not in seen_media:
                 seen_media.add(blob_name)
-                content_type = 'video/mp4' if media_path.lower().endswith('.mp4') else 'image/jpeg'
                 fe.enclosure(
                     url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
                     type=content_type,
