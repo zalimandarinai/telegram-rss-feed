@@ -46,13 +46,13 @@ bucket = storage_client.bucket(bucket_name)
 # NUOLATINIAI KONSTANTAI:
 # LAST_POST_FILE: Failas, kuriame saugomas paskutinio apdoroto įrašo ID.
 # RSS_FILE: Failo kelias, kuriame bus išsaugotas sugeneruotas RSS srautas.
-# MAX_POSTS: Maksimalus įrašų skaičius RSS faile (visada 5 paskutiniai postai).
+# MAX_POSTS: Maksimalus įrašų skaičius RSS faile (visada 7 paskutiniai postai).
 # MAX_MEDIA_SIZE: Maksimalus leidžiamas medijos failo dydis (15 MB).
 # ====================================================================
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 7
-MAX_MEDIA_SIZE = 15 * 1024 * 1024
+MAX_MEDIA_SIZE = 20 * 1024 * 1024
 
 # ====================================================================
 # FUNKCIJA: Įkelti paskutinio įrašo ID iš failo.
