@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 22:07:32 +0000</lastBuildDate>
-    <item>
-      <title>🤡путін видав спробу заходу рос</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤡путін видав спробу заходу російської ДРГ за наступ на Сумщину, — голова ЦПД Коваленко
-
-Сили оборони їх знищили.
-
-Інформація про широкомасштабний наступ росіян — брехня
-
-Те що путіну доводиться брехати, не маючи реальної можливості наступати, гарний знак.</description>
-      <pubDate>Wed, 19 Feb 2025 14:33:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Feb 2025 23:07:50 +0000</lastBuildDate>
     <item>
       <title>путін розпочав цю війну. путін</title>
       <link>https://www.mandarinai.lt/post/69130</link>
@@ -88,6 +76,13 @@
 Коли важко відрізнити гумор від клініки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-19_21-28-19.jpg" length="143204" type="image/jpeg"/>
       <pubDate>Wed, 19 Feb 2025 21:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Херсон, русняві виродки вдарил</title>
+      <link>https://www.mandarinai.lt/post/69144</link>
+      <description>Херсон, русняві виродки вдарили КАБом по багатоповерхівці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-19_22-49-05.jpg" length="65377" type="image/jpeg"/>
+      <pubDate>Wed, 19 Feb 2025 22:49:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
