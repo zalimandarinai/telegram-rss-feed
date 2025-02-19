@@ -2,7 +2,7 @@ name: Telegram RSS Feed Automation
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # Vykdyti kas 3 valandas
+    - cron: "0 * * * *"  # Vykdyti kas valandą
   workflow_dispatch:  # Leidžia rankinį paleidimą
 
 jobs:
