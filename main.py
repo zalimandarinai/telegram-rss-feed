@@ -46,13 +46,13 @@ bucket = storage_client.bucket(bucket_name)
 # NUOLATINIAI KONSTANTAI:
 # LAST_POST_FILE: Failas, kuriame saugomas paskutinio apdoroto įrašo ID.
 # RSS_FILE: Failo kelias, kuriame bus išsaugotas sugeneruotas RSS srautas.
-# MAX_POSTS: Maksimalus įrašų skaičius RSS faile (visada 5 paskutiniai postai).
-# MAX_MEDIA_SIZE: Maksimalus leidžiamas medijos failo dydis (15 MB).
+# MAX_POSTS: Maksimalus įrašų skaičius RSS faile (visada 7 paskutiniai postai).
+# MAX_MEDIA_SIZE: Maksimalus leidžiamas medijos failo dydis (20 MB).
 # ====================================================================
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 7
-MAX_MEDIA_SIZE = 15 * 1024 * 1024
+MAX_MEDIA_SIZE = 20 * 1024 * 1024
 
 # ====================================================================
 # FUNKCIJA: Įkelti paskutinio įrašo ID iš failo.
@@ -159,6 +159,7 @@ async def create_rss():
                 break
 
     # Rūšiuojame įrašus pagal datą mažėjimo tvarka – naujausi postai bus viršuje.
+    # Konvertuojame datas į datetime objektus, kad būtų galima atlikti teisingą rūšiavimą.
     valid_posts.sort(key=lambda x: get_datetime(x[0].date), reverse=True)
 
     # Pradedame generuoti naują RSS srautą su FeedGenerator.
@@ -201,15 +202,6 @@ async def create_rss():
                 os.remove(media_path)
                 continue
 
-            # Nustatome medijos failo MIME tipą pagal reikalavimą:
-            # Jei failo plėtinys yra vienas iš nurodytų vaizdo įrašų plėtinių – laikome jį vaizdo įrašu,
-            # kitu atveju – nuotrauka.
-            video_extensions = ['.mp4', '.mov', '.mkv', '.avi', '.wmv', '.flv', '.webm']
-            if media_path.lower().endswith(tuple(video_extensions)):
-                content_type = 'video/mp4'
-            else:
-                content_type = 'image/jpeg'
-
             # Nustatome medijos failo pavadinimą ir paruošiame failą įkėlimui į Google Cloud Storage.
             blob_name = os.path.basename(media_path)
             blob = bucket.blob(blob_name)
@@ -217,6 +209,7 @@ async def create_rss():
             # Jei failas dar nėra įkeltas į saugyklą, atliekame įkėlimą.
             if not blob.exists():
                 blob.upload_from_filename(media_path)
+                content_type = 'video/mp4' if media_path.lower().endswith('.mp4') else 'image/jpeg'
                 blob.content_type = content_type
                 logger.info(f"✅ Įkėlėme {blob_name} į Google Cloud Storage")
             else:
@@ -225,13 +218,14 @@ async def create_rss():
             # Pridedame medijos failą kaip RSS įrašo priedą (<enclosure> elementą).
             if blob_name not in seen_media:
                 seen_media.add(blob_name)
+                content_type = 'video/mp4' if media_path.lower().endswith('.mp4') else 'image/jpeg'
                 fe.enclosure(
                     url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
                     type=content_type,
                     length=str(os.path.getsize(media_path))  # Nustatome failo dydį (baitu skaičius).
                 )
 
-            # Ištriname parsisiųstą medijos failą iš vietinės sistemos.
+            # Ištriname parsisiųstą medijos failą iš vietinės sistemos, kad neužsikrautų saugykla.
             os.remove(media_path)
         except Exception as e:
             logger.error(f"❌ Klaida apdorojant mediją iš post {msg.id}: {e}")
