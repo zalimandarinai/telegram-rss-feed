@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 21:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 22:07:21 +0000</lastBuildDate>
     <item>
       <title>👌Невдала спроба росіян зайти в</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -60,7 +60,9 @@
       <link>https://www.mandarinai.lt/post/69225</link>
       <description>🔥Звучить фантастично, але осінтери стверджують -  вперше в історії український "Байрактар" збив Ту-95МС над Каспійським морем, — осінтери
 
-Чекаємо офіційного підтвердження і деталей</description>
+Чекаємо офіційного підтвердження і деталей.
+
+Бо без верифікації схоже на хайп з метою підняти збір.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-20_20-37-32.jpg" length="120150" type="image/jpeg"/>
       <pubDate>Thu, 20 Feb 2025 20:37:32 +0000</pubDate>
     </item>
