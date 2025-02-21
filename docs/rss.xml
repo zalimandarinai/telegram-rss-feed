@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 07:08:02 +0000</lastBuildDate>
-    <item>
-      <title>❗️США не зупиняли продаж зброї</title>
-      <link>https://www.mandarinai.lt/post/69222</link>
-      <description>❗️США не зупиняли продаж зброї Україні, — нардепка Устінова 
-
-Вона спростувала заяву свого колеги по фракції Романа Костенка про те, що постачання озброєння затримується через відсутність дозволів від США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-20_19-48-26.jpg" length="42136" type="image/jpeg"/>
-      <pubDate>Thu, 20 Feb 2025 19:48:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Feb 2025 08:10:54 +0000</lastBuildDate>
     <item>
       <title>Туск базує.
 
@@ -100,6 +91,24 @@
 Далі окупанти планують продовжити залізничну гілку до Криму</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-21_06-56-27.jpg" length="65352" type="image/jpeg"/>
       <pubDate>Fri, 21 Feb 2025 06:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Республіканці в Конгресі США</title>
+      <link>https://www.mandarinai.lt/post/69237</link>
+      <description>❗️Республіканці в Конгресі США подали законопроєкт про повний вихід країни з ООН
+
+Законопроєкт передбачає припинення фінансування ООН та її агентств, а також заборону на участь у миротворчих місіях</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-21_07-21-59.jpg" length="54612" type="image/jpeg"/>
+      <pubDate>Fri, 21 Feb 2025 07:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐 росія готується оголосити пр</title>
+      <link>https://www.mandarinai.lt/post/69238</link>
+      <description>😐 росія готується оголосити про «перемогу» у війні проти України до 24-го лютого, — ГУР
+
+Таку вказівку отримали пропагандисти разом з наказом просувати  наратив про можливу «перемогу росії над НАТО».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-21_07-26-01.jpg" length="83302" type="image/jpeg"/>
+      <pubDate>Fri, 21 Feb 2025 07:26:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
