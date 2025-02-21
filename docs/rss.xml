@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 14:03:49 +0000</lastBuildDate>
-    <item>
-      <title>Російський солдат на Покровськ</title>
-      <link>https://www.mandarinai.lt/post/69250</link>
-      <description>Російський солдат на Покровському напрямку, напевно, думав, що Трамп вже не постачає боєприпаси українцям, але натомість отримав одночасно два прильоти від операторів дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3363.MP4" length="1741269" type="video/mp4"/>
-      <pubDate>Fri, 21 Feb 2025 11:22:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Костянтинівку впродовж доби ро</title>
-      <link>https://www.mandarinai.lt/post/69251</link>
-      <description>Костянтинівку впродовж доби росіяни обстріляли 9 разів: авіабомбами, РСЗВ «Смерч», артилерією та дронами. 
-
-Вбили 5 цивільних осіб, ще одну людину поранили. 
-
-Руйнувань зазнали 12 багатоквартирних і 14 приватних будинків, аптека, магазин, гуртожиток, 2 котельні, 7 гаражів, 7 цивільних авто, 6 ліній електропередач, 2 газогони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-21_11-24-16.jpg" length="222233" type="image/jpeg"/>
-      <pubDate>Fri, 21 Feb 2025 11:24:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Feb 2025 15:08:06 +0000</lastBuildDate>
     <item>
       <title>Ексголова «Оператор ГТС» Сергі</title>
       <link>https://www.mandarinai.lt/post/69253</link>
@@ -114,7 +96,7 @@
     <item>
       <title>Цьогоріч ми побачимо, як працю</title>
       <link>https://www.mandarinai.lt/post/69263</link>
-      <description>Цьогоріч ми побачимо, як працюють рої дронів, якими керує ШІ— очільник Мінцифри
+      <description>Цьогоріч ми побачимо, як працюють рої дронів, якими керує ШІ, - очільник Мінцифри
 
 Михайло Федоров під час форуму BRAVE1 розповів, що вже десяток компаній працюють над цим, відтак «рої дронів» на штучному інтелекті — це перспектива найближчого часу.
 
