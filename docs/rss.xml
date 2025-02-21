@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 13:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 13:53:08 +0000</lastBuildDate>
     <item>
       <title>Російський солдат на Покровськ</title>
       <link>https://www.mandarinai.lt/post/69250</link>
@@ -110,6 +110,17 @@
 Дайте йому панамку хтось</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-21_12-58-14.mp4" length="10260511" type="video/mp4"/>
       <pubDate>Fri, 21 Feb 2025 12:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Цьогоріч ми побачимо, як працю</title>
+      <link>https://www.mandarinai.lt/post/69263</link>
+      <description>Цьогоріч ми побачимо, як працюють рої дронів, якими керує ШІ— очільник Мінцифри
+
+Михайло Федоров під час форуму BRAVE1 розповів, що вже десяток компаній працюють над цим, відтак «рої дронів» на штучному інтелекті — це перспектива найближчого часу.
+
+Крім цього, міністр анонсував запуск виробництва вибухових речовин в Україні. За словами Федорова, для цього на законодавчому рівні вже прибирають бюрократичні перепони та надаватимуть відповідні гранти</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-21_13-31-29.jpg" length="56690" type="image/jpeg"/>
+      <pubDate>Fri, 21 Feb 2025 13:31:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
