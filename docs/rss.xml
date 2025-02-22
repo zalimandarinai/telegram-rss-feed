@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 17:04:03 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Сім бомб на Костянтинівку: щ</title>
-      <link>https://www.mandarinai.lt/post/69329</link>
-      <description>🤬 Сім бомб на Костянтинівку: щонайменше двоє людей загинули, троє зазнали поранень
-
-Вранці терористи скинули на місто 7 бомб «ФАБ-250». Внаслідок влучання у багатоквартирний будинок зруйновано квартири з 1 по 5 поверхи, багато руйнувань у приватному секторі.
-
-Під завалами можуть бути люди, пошукова операція триває</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-22_12-25-44.jpg" length="164297" type="image/jpeg"/>
-      <pubDate>Sat, 22 Feb 2025 12:25:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Feb 2025 18:09:15 +0000</lastBuildDate>
     <item>
       <title>💬Трохи позитиву від військових</title>
       <link>https://www.mandarinai.lt/post/69333</link>
@@ -108,6 +97,22 @@
       <description>Зведена стрілецька бригада Повітряних Сил та 35 ОБрМП відбили російський штурм і взяли в полон африканського найманця.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3445.MP4" length="5495639" type="video/mp4"/>
       <pubDate>Sat, 22 Feb 2025 16:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯Трамп впевнений, що за його п</title>
+      <link>https://www.mandarinai.lt/post/69344</link>
+      <description>🤯Трамп впевнений, що за його проханням Сі Цзіньпін та путін скоротять військовий бюджет вдвічі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-22_17-09-07.mp4" length="828373" type="video/mp4"/>
+      <pubDate>Sat, 22 Feb 2025 17:09:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️На аеродромах рф триває спор</title>
+      <link>https://www.mandarinai.lt/post/69346</link>
+      <description>❗️На аеродромах рф триває спорядження Ту-95 ракетами Х-101 — Tracking
+
+Загальна кількість Ту-95МС та Ту-160 біля України станом на 22.02 становить 16 одиниць</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-22_17-46-49.jpg" length="88659" type="image/jpeg"/>
+      <pubDate>Sat, 22 Feb 2025 17:46:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
