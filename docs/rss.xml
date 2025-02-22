@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 10:07:15 +0000</lastBuildDate>
-    <item>
-      <title>Штурм посадки на Запорізькому </title>
-      <link>https://www.mandarinai.lt/post/69308</link>
-      <description>Штурм посадки на Запорізькому напрямку «від першої особи», - бійці 108-ої бригади ТРО вибивають противника, який відмовився здаватися.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3428.MP4" length="21218339" type="video/mp4"/>
-      <pubDate>Sat, 22 Feb 2025 05:46:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Минулого вечора ворог запустив</title>
-      <link>https://www.mandarinai.lt/post/69309</link>
-      <description>Минулого вечора ворог запустив по Україні 162 БпЛА
-
-Збито 82 безпілотника, ще 75 дронів «локаційно втрачені».
-
-Є загиблі і поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-22_06-15-33.jpg" length="89927" type="image/jpeg"/>
-      <pubDate>Sat, 22 Feb 2025 06:15:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Feb 2025 11:03:12 +0000</lastBuildDate>
     <item>
       <title>🤬росія в рамках мирної угоди м</title>
       <link>https://www.mandarinai.lt/post/69310</link>
@@ -117,6 +99,22 @@ https://send.monobank.ua/jar/2Cs7yo35dU
 Найкривавіші битви ще попереду, оскільки рф хоче максимізувати свою військову перевагу, пише видання</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-22_10-02-10.jpg" length="107793" type="image/jpeg"/>
       <pubDate>Sat, 22 Feb 2025 10:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>В господарстві знадобиться, - </title>
+      <link>https://www.mandarinai.lt/post/69322</link>
+      <description>В господарстві знадобиться, - одесит підібрав збитий російський дрон «Орлан-10» і несе його додому, пришвидшуючи крок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3439.MP4" length="3167223" type="video/mp4"/>
+      <pubDate>Sat, 22 Feb 2025 10:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тим часом, зенітники 110-ої бр</title>
+      <link>https://www.mandarinai.lt/post/69323</link>
+      <description>Тим часом, зенітники 110-ої бригади збили російський «Ланцет»
+
+Наше небо буде чистим</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3440.MP4" length="18764363" type="video/mp4"/>
+      <pubDate>Sat, 22 Feb 2025 10:37:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
