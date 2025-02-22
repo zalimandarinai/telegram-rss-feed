@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 14:03:46 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Війська рф зможуть захопити </title>
-      <link>https://www.mandarinai.lt/post/69321</link>
-      <description>🤬 Війська рф зможуть захопити весь Донбас до кінця 2025 року за нинішніх тенденцій, – Independent. 
-
-Найкривавіші битви ще попереду, оскільки рф хоче максимізувати свою військову перевагу, пише видання</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-22_10-02-10.jpg" length="107793" type="image/jpeg"/>
-      <pubDate>Sat, 22 Feb 2025 10:02:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>В господарстві знадобиться, - </title>
-      <link>https://www.mandarinai.lt/post/69322</link>
-      <description>В господарстві знадобиться, - одесит підібрав збитий російський дрон «Орлан-10» і несе його додому, пришвидшуючи крок</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3439.MP4" length="3167223" type="video/mp4"/>
-      <pubDate>Sat, 22 Feb 2025 10:26:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Feb 2025 15:06:35 +0000</lastBuildDate>
     <item>
       <title>Тим часом, зенітники 110-ої бр</title>
       <link>https://www.mandarinai.lt/post/69323</link>
@@ -96,6 +80,15 @@
 На відео авіабомба не долетіла і вибухнула в повітрі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-22_13-06-54.mp4" length="4482218" type="video/mp4"/>
       <pubDate>Sat, 22 Feb 2025 13:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯 США вимагали від України від</title>
+      <link>https://www.mandarinai.lt/post/69336</link>
+      <description>🤯 США вимагали від України відкликати резолюцію в ООН із засудженням агресії росії за вторгнення, Україна відмовилася , - Washington Post.
+
+Тоді чого вже одразу не написати, що це ми на них напали три роки тому?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-22_14-45-55.jpg" length="85254" type="image/jpeg"/>
+      <pubDate>Sat, 22 Feb 2025 14:45:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
