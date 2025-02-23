@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 04:09:29 +0000</lastBuildDate>
-    <item>
-      <title>Зведена стрілецька бригада Пов</title>
-      <link>https://www.mandarinai.lt/post/69343</link>
-      <description>Зведена стрілецька бригада Повітряних Сил та 35 ОБрМП відбили російський штурм і взяли в полон африканського найманця.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3445.MP4" length="5495639" type="video/mp4"/>
-      <pubDate>Sat, 22 Feb 2025 16:52:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Feb 2025 05:07:39 +0000</lastBuildDate>
     <item>
       <title>🤯Трамп впевнений, що за його п</title>
       <link>https://www.mandarinai.lt/post/69344</link>
@@ -119,6 +112,13 @@
       <description>🤯Я кайфую, що перевершую у президентстві Джорджа Вашингтона, – Трамп</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-22_20-27-28.mp4" length="1690801" type="video/mp4"/>
       <pubDate>Sat, 22 Feb 2025 20:27:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент падіння «шахеда» на дах</title>
+      <link>https://www.mandarinai.lt/post/69358</link>
+      <description>Момент падіння «шахеда» на дахи будинків в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3450.MP4" length="2154089" type="video/mp4"/>
+      <pubDate>Sun, 23 Feb 2025 04:23:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
