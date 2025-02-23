@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 06:10:17 +0000</lastBuildDate>
-    <item>
-      <title>❗️ЄС шукає способи вилучити ча</title>
-      <link>https://www.mandarinai.lt/post/69349</link>
-      <description>❗️ЄС шукає способи вилучити частину заморожених €280 млрд російських активів для фінансування  України, — Bloomberg
-
-За даними видання, обговорюється механізм, який дозволить використовувати прибутки від цих коштів без юридичних ризиків.
-
-Очікується, що перші рішення можуть ухвалити вже навесні, однак у ЄС тривають дискусії щодо деталей і можливих правових наслідків такого кроку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-22_18-51-02.jpg" length="78091" type="image/jpeg"/>
-      <pubDate>Sat, 22 Feb 2025 18:51:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Feb 2025 07:07:35 +0000</lastBuildDate>
     <item>
       <title>☄️НАТО вже передало Україні по</title>
       <link>https://www.mandarinai.lt/post/69351</link>
@@ -121,6 +110,24 @@
 ▫️ БпЛА і супутники стежитимуть за лінією фронту, щоб визначити, чи дотримується росія режиму припинення вогню.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-23_05-50-53.jpg" length="45609" type="image/jpeg"/>
       <pubDate>Sun, 23 Feb 2025 05:50:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог вночі запустив по Україн</title>
+      <link>https://www.mandarinai.lt/post/69362</link>
+      <description>Ворог вночі запустив по Україні рекордну кількість дронів, 267 БПЛА. 
+
+З них збито 138 дронів, ще 119 БПЛА локаційно втрачені.
+
+Три із них полетіло у напрямку Білорусі, один — повернувся до росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-23_06-27-29.jpg" length="118107" type="image/jpeg"/>
+      <pubDate>Sun, 23 Feb 2025 06:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞ССО ліквідували групу росіян </title>
+      <link>https://www.mandarinai.lt/post/69363</link>
+      <description>🔞ССО ліквідували групу росіян в КСП 3 роти 1 батальйону 429 МСП рф в н.п. Лугове в Запорізькій області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-23_06-57-56.mp4" length="4701642" type="video/mp4"/>
+      <pubDate>Sun, 23 Feb 2025 06:57:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
