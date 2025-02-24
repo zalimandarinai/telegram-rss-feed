@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 23:07:13 +0000</lastBuildDate>
-    <item>
-      <title>Артилерія знищує спостережні п</title>
-      <link>https://www.mandarinai.lt/post/69407</link>
-      <description>Артилерія знищує спостережні пункти окупантів перед штурмом позицій на Запорізькому напрямку силами 102-ої бригади ТРО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3494.MP4" length="6000528" type="video/mp4"/>
-      <pubDate>Sun, 23 Feb 2025 18:48:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Feb 2025 00:39:59 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🤔 США максимально наблизилис</title>
       <link>https://www.mandarinai.lt/post/69408</link>
@@ -89,6 +82,18 @@
       <description>Ось так вночі «‎затрофеїли» в Києві уламок російського БпЛА, а, тим часом, продовжується атака дронів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-23_23-05-21.jpg" length="79735" type="image/jpeg"/>
       <pubDate>Sun, 23 Feb 2025 23:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Шахед» в Броварах влетів в не</title>
+      <link>https://www.mandarinai.lt/post/69421</link>
+      <description>«Шахед» в Броварах влетів в недобудований багатоповерховий будинок.
+
+Уламки влучили в 23 та 11 поверхи, там виникли пожежі.
+
+За попередньою інформацією, є один постраждалий. Це сторож, який охороняв недобудову. З ним працюють медики.
+ㅤ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3501.MP4" length="3060238" type="video/mp4"/>
+      <pubDate>Sun, 23 Feb 2025 23:29:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
