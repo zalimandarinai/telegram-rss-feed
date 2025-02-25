@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Feb 2025 09:08:57 +0000</lastBuildDate>
-    <item>
-      <title>«Дякую за підтримку України», </title>
-      <link>https://www.mandarinai.lt/post/69489</link>
-      <description>«Дякую за підтримку України», — Зеленський опублікував фото з європейськими лідерами, які приїхали сьогодні до Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-24_21-54-01.jpg" length="86843" type="image/jpeg"/>
-      <pubDate>Mon, 24 Feb 2025 21:54:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Feb 2025 10:09:09 +0000</lastBuildDate>
     <item>
       <title>🤨 Макрон виступив за відновлен</title>
       <link>https://www.mandarinai.lt/post/69490</link>
@@ -100,9 +93,18 @@
     <item>
       <title>❗️США постачатимуть Україні зб</title>
       <link>https://www.mandarinai.lt/post/69502</link>
-      <description>❗️США постачатимуть Україні зброю до 2026 року завдяки рішенню Байдена, — WSJ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-25_08-46-52.jpg" length="214452" type="image/jpeg"/>
+      <description>❗️США постачатимуть Україні зброю до 2026 року завдяки рішенню Байдена, — WSJ
+
+Адміністрація Байдена підписала контракти з американськими оборонними компаніями на постачання Україні боєприпасів, систем ППО, транспортних засобів та іншого обладнання, що забезпечить поставки до 2026 року, зазначає видання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-25_08-46-52.jpg" length="112942" type="image/jpeg"/>
       <pubDate>Tue, 25 Feb 2025 08:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні зранку і вночі збито </title>
+      <link>https://www.mandarinai.lt/post/69503</link>
+      <description>Сьогодні зранку і вночі збито 6 з 7 крилатих ракет та 133 з 213 ворожих БпЛА, 79 — локаційно втрачені завдяки використанню засобів РЕБ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-25_09-58-02.jpg" length="131675" type="image/jpeg"/>
+      <pubDate>Tue, 25 Feb 2025 09:58:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
