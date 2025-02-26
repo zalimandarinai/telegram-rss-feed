@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 19:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 20:09:15 +0000</lastBuildDate>
     <item>
       <title>Унікальна операція бригади НГУ</title>
       <link>https://www.mandarinai.lt/post/69571</link>
@@ -109,6 +109,13 @@
 💡Парамедикиня добровольчого батальйону "Госпітальєри" загинула на Харківському напрямку у травні 2024 року</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-26_18-11-25.jpg" length="109955" type="image/jpeg"/>
       <pubDate>Wed, 26 Feb 2025 18:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Це та сама "непереможна армія </title>
+      <link>https://www.mandarinai.lt/post/69584</link>
+      <description>Це та сама "непереможна армія путіна" перед якою "тремтять народи"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-26_20-03-07.mp4" length="734569" type="video/mp4"/>
+      <pubDate>Wed, 26 Feb 2025 20:03:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
