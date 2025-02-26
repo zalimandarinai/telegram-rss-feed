@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 18:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 19:06:37 +0000</lastBuildDate>
     <item>
       <title>Унікальна операція бригади НГУ</title>
       <link>https://www.mandarinai.lt/post/69571</link>
@@ -100,6 +100,15 @@
 Перейти в канал 👉 ОБМУНДИРУВАННЯ ТА СПЕЦОДЯГ ТОРНАДО </description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-26_17-32-09.jpg" length="257330" type="image/jpeg"/>
       <pubDate>Wed, 26 Feb 2025 17:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💔🕯Ірина "Чека" Цибух отримала </title>
+      <link>https://www.mandarinai.lt/post/69580</link>
+      <description>💔🕯Ірина "Чека" Цибух отримала звання Героя України посмертно, — указ президента
+
+💡Парамедикиня добровольчого батальйону "Госпітальєри" загинула на Харківському напрямку у травні 2024 року</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-26_18-11-25.jpg" length="109955" type="image/jpeg"/>
+      <pubDate>Wed, 26 Feb 2025 18:11:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
