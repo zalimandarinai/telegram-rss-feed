@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 20:09:23 +0000</lastBuildDate>
-    <item>
-      <title>❗️русняві пропагандони відпрац</title>
-      <link>https://www.mandarinai.lt/post/69626</link>
-      <description>❗️русняві пропагандони відпрацьовують нові методички. Виявляється, територія України їм не потрібна була. А потрібен був статус.  
-
-Ну, статус вбивць, терористів та гвалтівників вони та їхній божевільний фюрер вже давно отримали. І облизування Трампа його не змиють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-27_14-18-36.jpg" length="123380" type="image/jpeg"/>
-      <pubDate>Thu, 27 Feb 2025 14:18:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Feb 2025 21:07:46 +0000</lastBuildDate>
     <item>
       <title>❗️Туреччина, яка є членом НАТО</title>
       <link>https://www.mandarinai.lt/post/69627</link>
@@ -133,6 +124,15 @@
 FPV-дрони, оснащені «Шовкопрядом», здатні долати відстані понад 20 км.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3626.MOV" length="12842177" type="video/mp4"/>
       <pubDate>Thu, 27 Feb 2025 19:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️У Запоріжжі сталася пожежа в</title>
+      <link>https://www.mandarinai.lt/post/69640</link>
+      <description>❗️У Запоріжжі сталася пожежа в багатоповерхівці після атаки “шахедами”
+
+ОВА повідомляє про одну поранену жінку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-27_20-13-32.mp4" length="642232" type="video/mp4"/>
+      <pubDate>Thu, 27 Feb 2025 20:13:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
