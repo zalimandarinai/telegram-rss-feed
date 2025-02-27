@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 14:08:23 +0000</lastBuildDate>
-    <item>
-      <title>🔥Те що залишилось від штурмово</title>
-      <link>https://www.mandarinai.lt/post/69612</link>
-      <description>🔥Те що залишилось від штурмової групу рф після того, як окупанти потрапили під мінометний обстріл. Залишки рашистів добили дронами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-27_09-58-56.mp4" length="4681695" type="video/mp4"/>
-      <pubDate>Thu, 27 Feb 2025 09:58:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Feb 2025 15:09:11 +0000</lastBuildDate>
     <item>
       <title>СБУ затримала агента фсб, якии</title>
       <link>https://www.mandarinai.lt/post/69617</link>
@@ -69,6 +62,22 @@
 Протести відбулися і в інших прикордонних районах, зокрема на кордоні з Польщею.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-27_13-41-43.jpg" length="86229" type="image/jpeg"/>
       <pubDate>Thu, 27 Feb 2025 13:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️русняві пропагандони відпрац</title>
+      <link>https://www.mandarinai.lt/post/69626</link>
+      <description>❗️русняві пропагандони відпрацьовують нові методички. Виявляється територія України їм не потрібна була. А потрібен був статус.  
+
+Ну статус вбивць, терористів та гвалтівників вони та їхній божевільний фюрер вже давно отримали. І облизування Трампа його не змиють.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-27_14-18-36.jpg" length="123380" type="image/jpeg"/>
+      <pubDate>Thu, 27 Feb 2025 14:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Туреччина, яка є членом НАТО</title>
+      <link>https://www.mandarinai.lt/post/69627</link>
+      <description>❗️Туреччина, яка є членом НАТО, готова розмістити свої війська в Україні після перемирʼя: Ердоган уже обговорив це з Лавровим та Зеленським, — Bloomberg</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-27_14-26-12.jpg" length="120901" type="image/jpeg"/>
+      <pubDate>Thu, 27 Feb 2025 14:26:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
