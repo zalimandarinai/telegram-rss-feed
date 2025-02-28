@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Feb 2025 11:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 12:14:35 +0000</lastBuildDate>
     <item>
       <title>В Костянтинівці російська бомб</title>
       <link>https://www.mandarinai.lt/post/69657</link>
@@ -69,6 +69,10 @@
       <description>❗️ Офіційно: прориву немає, але тривають бої в районі села Новеньке, — РНБО
 
 Начальник ЦПД Коваленко повідомив, що росіяни намагаються штурмувати позиції по лінії кордону піхотними групами на Сумщині. СОУ знищують ворога.
+
+Передумовою для спроб противника штурмувати кордон, очевидно, стало те, що російським і, ймовірно, північнокорейським силам вдалось витіснити українські підрозділи з села Свердликове на території Курщини. 
+
+Складові Сил оборони фіксують штурми в районі Новенького вже кілька днів поспіль.
 
 Через село Новеньке потенційно можна вийти до села Юнаківка, яке є одним з ключових пунктів логістичного коридору забезпечення угруповання в Курській області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-28_10-37-23.jpg" length="38234" type="image/jpeg"/>
