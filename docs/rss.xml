@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Feb 2025 08:11:19 +0000</lastBuildDate>
-    <item>
-      <title>❗️У Запоріжжі сталася пожежа в</title>
-      <link>https://www.mandarinai.lt/post/69640</link>
-      <description>❗️У Запоріжжі сталася пожежа в багатоповерхівці після атаки “шахедами”
-
-ОВА повідомляє про одну поранену жінку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-27_20-13-32.mp4" length="642232" type="video/mp4"/>
-      <pubDate>Thu, 27 Feb 2025 20:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Британія готова відправити с</title>
-      <link>https://www.mandarinai.lt/post/69641</link>
-      <description>❗️Британія готова відправити сухопутні війська та повітряні сили, аби забезпечити мир в Україні, заявив премʼєр Британії Кір Стармер.
-
-«Британія готова «поставити чоботи на землю, а літаки підняти в повітря», щоб укласти мирну угоду між Росією та Україною», — сказав Стармер. 
-
-Він наголошує, що немає бути миру, який винагороджує агресора. Тож цьогоріч Британія надасть Україні більше військової допомоги, ніж будь-коли раніше</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-02-27_22-39-35.mp4" length="1134534" type="video/mp4"/>
-      <pubDate>Thu, 27 Feb 2025 22:39:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Feb 2025 09:08:44 +0000</lastBuildDate>
     <item>
       <title>💥Іванівка Херсонської області </title>
       <link>https://www.mandarinai.lt/post/69644</link>
@@ -85,6 +65,13 @@
 Іменем Романа Ратушного названа вулиця в Києві.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-28_07-57-50.jpg" length="76223" type="image/jpeg"/>
       <pubDate>Fri, 28 Feb 2025 07:57:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Костянтинівці російська бомб</title>
+      <link>https://www.mandarinai.lt/post/69657</link>
+      <description>В Костянтинівці російська бомба зруйнувала будинок мого товариша, колишнього речника 93-ої бригади.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-28_08-55-11.jpg" length="214574" type="image/jpeg"/>
+      <pubDate>Fri, 28 Feb 2025 08:55:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
