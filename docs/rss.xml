@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Mar 2025 06:10:38 +0000</lastBuildDate>
-    <item>
-      <title>Вінстон Черчилль пишався б тоб</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Вінстон Черчилль пишався б тобою, Володимире, — написано на сторінці кота Ларрі, який живе у резиденції премʼєра Британії на Downing Street 10</description>
-      <pubDate>Fri, 28 Feb 2025 21:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦🤝🇨🇦 Канада продовжить підтри</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🇺🇦🤝🇨🇦 Канада продовжить підтримувати Україну та українців у досягненні справедливого та довгострокового миру , - Трюдо</description>
-      <pubDate>Fri, 28 Feb 2025 21:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Київ та низка областей, пов</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>‼️ Київ та низка областей, повітряна тривога! Загроза ворожих безпілотників.</description>
-      <pubDate>Fri, 28 Feb 2025 22:01:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Журналіст: Якщо б у вас була м</title>
-      <link>https://www.mandarinai.lt/post/69754</link>
-      <description>Журналіст: Якщо б у вас була можливість повернутись до Білого Дому прямо зараз, ви би повернулись? 
-Зеленський: Ні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-28_23-16-26.jpg" length="144917" type="image/jpeg"/>
-      <pubDate>Fri, 28 Feb 2025 23:16:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Mar 2025 07:07:21 +0000</lastBuildDate>
     <item>
       <title>❗️ Зеленський не знає, коли мо</title>
       <link>https://www.mandarinai.lt/post/69761</link>
@@ -51,9 +25,9 @@
       <pubDate>Fri, 28 Feb 2025 23:43:19 +0000</pubDate>
     </item>
     <item>
-      <title>Поки Зеленський дає інтерв’ю, </title>
+      <title>Поки Зеленський намагається до</title>
       <link>https://www.mandarinai.lt/post/69763</link>
-      <description>Поки Зеленський дає інтерв’ю, путін атакує лікарню в Харкові.
+      <description>Поки Зеленський намагається достукатись до американців, путін атакує лікарню в Харкові.
 
 Перші кадри наслідків удару по обласній лікарні
 
@@ -64,6 +38,34 @@
 Було пошкоджено вікна та дах, евакуйовано понад 50 людей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-02-28_23-58-13.jpg" length="194353" type="image/jpeg"/>
       <pubDate>Fri, 28 Feb 2025 23:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Трамп і Венс — боягузи та ма</title>
+      <link>https://www.mandarinai.lt/post/69767</link>
+      <description>❗️Трамп і Венс — боягузи та маріонетки Путіна. Ми бачили зустріч двох маріонеток і героя, — конгресмен США, сенатор-демократ Сет Моултон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-01_06-39-29.mp4" length="5312305" type="video/mp4"/>
+      <pubDate>Sat, 01 Mar 2025 06:39:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В російському місті Владімір </title>
+      <link>https://www.mandarinai.lt/post/69768</link>
+      <description>🔥В російському місті Владімір на складах буроої рідини сталася масштабна пожеа площею 3.5 тисячі квадратів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-01_06-44-42.mp4" length="1964782" type="video/mp4"/>
+      <pubDate>Sat, 01 Mar 2025 06:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>✈️Президентський літак вилетів</title>
+      <link>https://www.mandarinai.lt/post/69770</link>
+      <description>✈️Президентський літак вилетів із США та прямує до Лондона</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-01_06-57-02.jpg" length="103137" type="image/jpeg"/>
+      <pubDate>Sat, 01 Mar 2025 06:57:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Адміністрація Трампа хоче зуп</title>
+      <link>https://www.mandarinai.lt/post/69771</link>
+      <description>🤬Адміністрація Трампа хоче зупинити всю підтримку України, включаючи обмін розвідданими та підготовку військових, – NYT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-01_06-58-15.jpg" length="160513" type="image/jpeg"/>
+      <pubDate>Sat, 01 Mar 2025 06:58:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
