@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 21:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 22:06:50 +0000</lastBuildDate>
     <item>
       <title>У Великій Британії досягнуто с</title>
       <link>https://www.mandarinai.lt/post/69899</link>
@@ -92,6 +92,13 @@
       <description>❗️Європейські миротворці не будуть направлені в Україну найближчим часом, — Емманюель Макрон</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_20-29-03.jpg" length="109470" type="image/jpeg"/>
       <pubDate>Sun, 02 Mar 2025 20:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мене можна обміняти на НАТО. Я</title>
+      <link>https://www.mandarinai.lt/post/69913</link>
+      <description>Мене можна обміняти на НАТО. Я сказав, що обміняюся на членство в НАТО, значить, я свою місію виконав, — Зеленський журналістам в Лондоні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_21-57-25.jpg" length="72172" type="image/jpeg"/>
+      <pubDate>Sun, 02 Mar 2025 21:57:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
