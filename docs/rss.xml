@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 13:12:03 +0000</lastBuildDate>
-    <item>
-      <title>🙄 НАТО може припинити своє існ</title>
-      <link>https://www.mandarinai.lt/post/69861</link>
-      <description>🙄 НАТО може припинити своє існування, – колишній головнокомандувач військ Альянсу Джеймс Ставрідіс
-
-💬 «Я думаю, що ми рухаємося до того, не хочу перебільшувати чи бути драматичним, що ми бачимо останні дні НАТО», – заявив він</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-02_09-47-01.mp4" length="955508" type="video/mp4"/>
-      <pubDate>Sun, 02 Mar 2025 09:47:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>24-а бригада, яка захищає Часі</title>
-      <link>https://www.mandarinai.lt/post/69862</link>
-      <description>24-а бригада, яка захищає Часів Яр, отримала на озброєння французькі бронетранспортери VAB</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_09-59-33.jpg" length="190483" type="image/jpeg"/>
-      <pubDate>Sun, 02 Mar 2025 09:59:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Mar 2025 14:07:21 +0000</lastBuildDate>
     <item>
       <title>Володимир Зеленський перетвори</title>
       <link>https://www.mandarinai.lt/post/69865</link>
@@ -85,6 +69,19 @@
       <description>«Сєдой, наші пішли?» - перед тим, як втекти, російські солдати оглядають автівки, які спалили їм українські дрони та артилерія.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3741.MP4" length="6783864" type="video/mp4"/>
       <pubDate>Sun, 02 Mar 2025 12:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Штатах розганяють якісно зре</title>
+      <link>https://www.mandarinai.lt/post/69875</link>
+      <description>В Штатах розганяють якісно зрежисований фейк про українських солдатів. 
+
+«Українські «солдати» знімають фальшиві постановчі бої, щоб отримати допомогу від Сполучених Штатів».
+
+Під цією «новиною» відео з невідомих джерел, на якому гримують дівчину в українському однострої.
+
+Автори фейку, напевно, розраховують, що на виборців Трампа така явна брехня подіє.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3742.MP4" length="4961988" type="video/mp4"/>
+      <pubDate>Sun, 02 Mar 2025 13:47:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
