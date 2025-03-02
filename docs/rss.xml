@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 20:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 21:06:53 +0000</lastBuildDate>
     <item>
       <title>У Великій Британії досягнуто с</title>
       <link>https://www.mandarinai.lt/post/69899</link>
@@ -78,6 +78,20 @@
 Сенатор розповів про "здобутки" США в перші тижні роботи Трампа на президентський посаді</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_20-01-23.jpg" length="29755" type="image/jpeg"/>
       <pubDate>Sun, 02 Mar 2025 20:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шахед влучив у багатоповерхівк</title>
+      <link>https://www.mandarinai.lt/post/69911</link>
+      <description>Шахед влучив у багатоповерхівку в центрі Харкова, — мер Терехов.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3770.MP4" length="546883" type="video/mp4"/>
+      <pubDate>Sun, 02 Mar 2025 20:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Європейські миротворці не бу</title>
+      <link>https://www.mandarinai.lt/post/69912</link>
+      <description>❗️Європейські миротворці не будуть направлені в Україну найближчим часом, — Емманюель Макрон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_20-29-03.jpg" length="109470" type="image/jpeg"/>
+      <pubDate>Sun, 02 Mar 2025 20:29:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
