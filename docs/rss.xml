@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 06:10:34 +0000</lastBuildDate>
-    <item>
-      <title>🥴Адміністрація Трампа чекає пу</title>
-      <link>https://www.mandarinai.lt/post/69834</link>
-      <description>🥴Адміністрація Трампа чекає публічних вибачень від Зеленського, щоб налагодити відносини, – Bloomberg</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-01_20-15-23.jpg" length="169221" type="image/jpeg"/>
-      <pubDate>Sat, 01 Mar 2025 20:15:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Mar 2025 07:07:17 +0000</lastBuildDate>
     <item>
       <title>⚡️Євросоюз на саміті 6 березня</title>
       <link>https://www.mandarinai.lt/post/69835</link>
@@ -93,6 +86,24 @@
 Він також висловив переконання, що Німеччина після проведення позачергових виборів тиждень тому "терміново потребує сильного уряду" для подолання кризи, що розгортається</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_05-44-46.jpg" length="63451" type="image/jpeg"/>
       <pubDate>Sun, 02 Mar 2025 05:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Прийшов час США вийти з НАТО </title>
+      <link>https://www.mandarinai.lt/post/69847</link>
+      <description>🙄Прийшов час США вийти з НАТО та ООН, — Ілон Маск</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_06-18-37.jpg" length="55802" type="image/jpeg"/>
+      <pubDate>Sun, 02 Mar 2025 06:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇨🇿 Президент Чехії Петр Павел </title>
+      <link>https://www.mandarinai.lt/post/69848</link>
+      <description>🇨🇿 Президент Чехії Петр Павел закликав до створення коаліції країн, які бажають домагатися справедливого миру в Україні
+
+Він наголосив, що мир має бути встановлений на умовах, які б влаштували Київ.
+
+ "Світ на умовах агресора називається капітуляцією і лише заохочуватиме всіх нинішніх і майбутніх агресорів. Вільний світ має протистояти злу", - підсумував чеський лідер.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-02_06-55-18.jpg" length="54940" type="image/jpeg"/>
+      <pubDate>Sun, 02 Mar 2025 06:55:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
