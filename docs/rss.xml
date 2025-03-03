@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 20:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 21:07:22 +0000</lastBuildDate>
     <item>
       <title>❗️Прем’єр Словаччини погрожує </title>
       <link>https://www.mandarinai.lt/post/69968</link>
@@ -50,7 +50,7 @@
       <link>https://www.mandarinai.lt/post/69978</link>
       <description>❗️Європа витратила більше коштів на закупівлю нафти та газу в рф, ніж на підтримку України, — Дональд Трамп
 
-Нарешті Трам сказав щось близьке до реальності. Витрати Європи на російські енергоносії, незважаючи на значне скорочення поставок, досі вимірюються десятками  мільярдів</description>
+Нарешті Трам сказав щось близьке до реальності. Витрати Європи на російські енергоносії, незважаючи на значне скорочення поставок, досі вимірюються десятками  мільярдів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-03_18-49-29.jpg" length="40945" type="image/jpeg"/>
       <pubDate>Mon, 03 Mar 2025 18:49:29 +0000</pubDate>
     </item>
@@ -71,9 +71,20 @@
     <item>
       <title>❗️США припинили фінансування п</title>
       <link>https://www.mandarinai.lt/post/69983</link>
-      <description>❗️США припинили фінансування продажу нової зброї Україні та розглядають можливість заморожування поставок зброї зі запасів, — WSJ</description>
+      <description>❗️США припинили фінансування продажу нової зброї Україні та розглядають можливість заморожування поставок зброї із запасів, - WSJ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-03_19-59-03.jpg" length="124867" type="image/jpeg"/>
       <pubDate>Mon, 03 Mar 2025 19:59:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Сирський розпорядився усуну</title>
+      <link>https://www.mandarinai.lt/post/69984</link>
+      <description>❗️ Сирський розпорядився усунути двох офіцерів командного рівню після удару ракетою «Іскандер-М» по полігону біля Новомосковська.
+
+Головнокомандувач Збройних сил України генерал Олександр Сирський підтвердив, що удар по полігону в Дніпропетровській області 1 березня був завданий російською ракетою «Іскандер-М» та розпорядився усунути начальника центру підготовки підрозділів та командира військової частини на Дніпропетровщині. 
+
+Ракета прилетіла в момент шикування на території військової частини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-03_20-28-20.jpg" length="126738" type="image/jpeg"/>
+      <pubDate>Mon, 03 Mar 2025 20:28:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
