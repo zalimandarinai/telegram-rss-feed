@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 16:10:17 +0000</lastBuildDate>
-    <item>
-      <title>Що поєднує БТР, гаубицю і міст</title>
-      <link>https://www.mandarinai.lt/post/70032</link>
-      <description>Що поєднує БТР, гаубицю і міст? Те, що усі три знищені  підрозділом «Фенікс»
-
-Прикордонники РУБпАК «Фенікс»  протягом тижня в районі Кремінної та Серебрянського лісництва перетворюють ворожу техніку на металобрухт.
-
-БТР-80, збірний міст, гаубиця «Мста-Б», 13 одиниць військового автотранспорту, БпЛА«Mavic», 2 ретранслятори – все знищено.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3820.MP4" length="22074786" type="video/mp4"/>
-      <pubDate>Tue, 04 Mar 2025 13:15:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Mar 2025 17:07:49 +0000</lastBuildDate>
     <item>
       <title>Зупинка допомоги США обурила н</title>
       <link>https://www.mandarinai.lt/post/70036</link>
@@ -118,6 +107,28 @@
 «Україна готова підписати угоду про мінерали в будь-який час та в будь-якому зручному форматі», — написав президент.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-04_15-56-44.jpg" length="140868" type="image/jpeg"/>
       <pubDate>Tue, 04 Mar 2025 15:56:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Тимчасова пауза» так зупин</title>
+      <link>https://www.mandarinai.lt/post/70054</link>
+      <description>❗️ «Тимчасова пауза» так зупинку постачання військової допомоги Україні, назвав спікер палати представників США Джонсон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-04_16-21-39.jpg" length="49988" type="image/jpeg"/>
+      <pubDate>Tue, 04 Mar 2025 16:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Демократи мають намір зірвати </title>
+      <link>https://www.mandarinai.lt/post/70055</link>
+      <description>Демократи мають намір зірвати виступ Трампа в Конгресі США, — Axios
+
+За даними порталу, всередині Демократичної партії зараз ведуться обговорення про те, як висловити свою незгоду з позицією президента США, зокрема щодо України. Частина демократів вважає, що виборці хотіли б побачити від них активних дій, тоді як інші певні, що це лише зіграє Трампу на руку.
+
+Серед пропозицій — демонстративний відхід із зали у відповідь на «певні заяви» президента, а також використання певної символіки — плакатів з антитрампівськими гаслами, хлопавок, червоних карток тощо.
+
+Низка конгресменів готується до «кольорового протесту». Жінки-демократи можуть прийти в рожевому одязі на знак одностайної непокори президенту, а законодавці-афроамериканці планують вдягти чорне, аби підкреслити похмурий настрій щодо ситуації в країні. 
+
+Конгресвумен Марсі Каптур має намір роздавати краватки та шарфи в кольорах українського прапора.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-04_16-25-19.jpg" length="46641" type="image/jpeg"/>
+      <pubDate>Tue, 04 Mar 2025 16:25:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
