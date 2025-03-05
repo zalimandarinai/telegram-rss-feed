@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Mar 2025 15:09:07 +0000</lastBuildDate>
-    <item>
-      <title>США продовжують надавати Украї</title>
-      <link>https://www.mandarinai.lt/post/70100</link>
-      <description>США продовжують надавати Україні розвіддані, - видання EFE</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-05_11-57-58.jpg" length="93398" type="image/jpeg"/>
-      <pubDate>Wed, 05 Mar 2025 11:57:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Він загинув щасливий»: тато В</title>
-      <link>https://www.mandarinai.lt/post/70101</link>
-      <description>«Він загинув щасливий»: тато Василя Ратушного розповів про свого сина
-
-Батько Героя наголосив, що його старший син завжди вважав, що в майбутньому має значення лише кількість знищених ворогів. А будь-які інші дії, які до цього не призводять, — позбавлені сенсу.
-
-Якщо ми не станемо нацією воїнів, якщо ми не станемо організмом, який буде винищувати ворогів, якщо потрібно - у промисловій кількості, не станемо самі стіною, за яку ніякий ворог ніколи не пройде ніколи, ми зникнемо як нація. Треба ставати нацією воїнів. Займайте місце на стіні, яке звільнилося. Не думайте довго і багато,
-- сказав батько загиблого Василя Ратушного під час прощання зі сином.
-
- Вічна памʼять, Герою!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-05_12-10-07.mp4" length="4593008" type="video/mp4"/>
-      <pubDate>Wed, 05 Mar 2025 12:10:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Mar 2025 16:13:38 +0000</lastBuildDate>
     <item>
       <title>Росіяни засудили полоненого бр</title>
       <link>https://www.mandarinai.lt/post/70102</link>
@@ -122,16 +101,34 @@
       <link>https://www.mandarinai.lt/post/70114</link>
       <description>❗️Три можливі сценарії для України після конфлікту Зеленського з Дональдом Трампом, — BILD.
 
- Перший — поступки заради зброї:
+▫️ Перший — поступки заради зброї:
 Зеленський може погодитися на сировинний договір з США, щоб відновити постачання зброї. Проте гарантій безпеки для України це не передбачає.
 
- Другий — вихід США з війни:
+▫️ Другий — вихід США з війни:
 Вашингтон може повністю зупинити військову допомогу. Тоді Україні доведеться захищатися лише з підтримкою Європи, якої буде недостатньо.
 
- Третій — оборона без США:
+▫️ Третій — оборона без США:
 Україна може продовжувати боротьбу завдяки допомозі Європи, стримуючи росію. Такий сценарій можливий, якщо Захід збільшить</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-05_14-36-29.jpg" length="52857" type="image/jpeg"/>
       <pubDate>Wed, 05 Mar 2025 14:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Єрмак з Волцом обговорили місц</title>
+      <link>https://www.mandarinai.lt/post/70115</link>
+      <description>Єрмак з Волцом обговорили місце і дату переговорів з рф, -  радник президента України Дмитро Литвин
+
+«Ми будемо вести переговори про мир, і ми вже говоримо про заходи зі зміцнення довіри, які потім передамо росіянам і протестуємо ту сторону. Це буде важка човникова дипломатія, але обидві сторони повинні бути залучені… Я думаю, зараз ми рухаємося в позитивному напрямку», — заявив Волц.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-05_15-19-26.jpg" length="56892" type="image/jpeg"/>
+      <pubDate>Wed, 05 Mar 2025 15:19:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США припинили весь обмін роз</title>
+      <link>https://www.mandarinai.lt/post/70116</link>
+      <description>❗️США припинили весь обмін розвідданими з Україною, - Sky News.
+
+Раніше заборона стосувалася лише розвідданих про удари вглиб росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-05_15-47-00.jpg" length="124232" type="image/jpeg"/>
+      <pubDate>Wed, 05 Mar 2025 15:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
