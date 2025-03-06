@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Mar 2025 00:39:30 +0000</lastBuildDate>
-    <item>
-      <title>❗️США припинили весь обмін роз</title>
-      <link>https://www.mandarinai.lt/post/70116</link>
-      <description>❗️США припинили весь обмін розвідданими з Україною, - Sky News.
-
-Раніше заборона стосувалася лише розвідданих про удари вглиб росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-05_15-47-00.jpg" length="124232" type="image/jpeg"/>
-      <pubDate>Wed, 05 Mar 2025 15:47:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Mar 2025 02:14:56 +0000</lastBuildDate>
     <item>
       <title>🤬Літаки з озброєнням для Украї</title>
       <link>https://www.mandarinai.lt/post/70119</link>
@@ -122,6 +113,28 @@
       <description>Внаслідок ракетної атаки на Кривий Ріг пошкоджена цивільна інфраструктура, відомо про одного загиблого і двох поранених, – ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-05_20-58-42.jpg" length="149432" type="image/jpeg"/>
       <pubDate>Wed, 05 Mar 2025 20:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Кривому Розі жертв російсько</title>
+      <link>https://www.mandarinai.lt/post/70130</link>
+      <description>В Кривому Розі жертв російської атаки виносять на руках поруч з розбитою будівлею готелю, відомо про 2 загиблих і 29 поранених.
+
+Наші американські «союзники» мали б зрозуміти, що їхня розвідінформація допомагала інформувати людей про російські ракетні удари.
+
+Жертв може бути більше, якщо не надавати Україні розвіддані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3883.MP4" length="1677511" type="video/mp4"/>
+      <pubDate>Thu, 06 Mar 2025 01:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гарні новини про ставлення аме</title>
+      <link>https://www.mandarinai.lt/post/70131</link>
+      <description>Гарні новини про ставлення американців до Трампа в контексті України.
+
+Згідно з опитуванням Reuters, 70% американців не згодні з риторикою Трампа щодо України, згодні лише 7%. 
+
+Серед демократів 81% не згодні, а серед республіканців 62% не згодні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-06_01-10-43.jpg" length="71976" type="image/jpeg"/>
+      <pubDate>Thu, 06 Mar 2025 01:10:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
