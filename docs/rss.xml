@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Mar 2025 09:08:49 +0000</lastBuildDate>
-    <item>
-      <title>❗️Під масованим ракетно-дронов</title>
-      <link>https://www.mandarinai.lt/post/70191</link>
-      <description>❗️Під масованим ракетно-дроновим ударом рф – енергетична і газова інфраструктура в різних регіонах України, – Галущенко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_04-46-34.jpg" length="102095" type="image/jpeg"/>
-      <pubDate>Fri, 07 Mar 2025 04:46:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️В Харкові приліт балістики в</title>
-      <link>https://www.mandarinai.lt/post/70192</link>
-      <description>⚡️В Харкові приліт балістики в районі житлової забудови</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_04-50-22.jpg" length="83882" type="image/jpeg"/>
-      <pubDate>Fri, 07 Mar 2025 04:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️російські вбивці влучили у б</title>
-      <link>https://www.mandarinai.lt/post/70193</link>
-      <description>⚡️російські вбивці влучили у багатоповерхівку у Харкові, в будинку пожежа
-
-UPD Наразі відомо, що п'ятеро людей отримали поранення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_04-56-34.jpg" length="69269" type="image/jpeg"/>
-      <pubDate>Fri, 07 Mar 2025 04:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У Миргородському районі улам</title>
-      <link>https://www.mandarinai.lt/post/70194</link>
-      <description>❗️У Миргородському районі уламки ворожої цілі впали на приватний жилий будинок, повідомляє ОВА. 
-
-Дві людини травмовані, серед них дитина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_05-35-26.jpg" length="165621" type="image/jpeg"/>
-      <pubDate>Fri, 07 Mar 2025 05:35:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Mar 2025 10:09:03 +0000</lastBuildDate>
     <item>
       <title>Приліт по житловим будинкам на</title>
       <link>https://www.mandarinai.lt/post/70198</link>
@@ -106,6 +74,28 @@ UPD Наразі відомо, що п'ятеро людей отримали п
 Крім французьких літаків, залучалися також і американські F-16.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_08-52-54.jpg" length="78758" type="image/jpeg"/>
       <pubDate>Fri, 07 Mar 2025 08:52:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ На Курському напрямку дуже </title>
+      <link>https://www.mandarinai.lt/post/70205</link>
+      <description>❗️ На Курському напрямку дуже важка ситуація — зс рф зайшли до Сумської області
+
+Російські війська рвуться у бік дороги на Суджу, щоб відрізати український плацдам . Намагаються зайти до Журавки на Сумщині .
+
+ Розширюють зону бойових дій у районі Новенького та Басівки. У районі Малої Локні надходять повідомлення про взяття під контроль противником Нової та Старої Сорочиці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_10-01-39.jpg" length="152188" type="image/jpeg"/>
+      <pubDate>Fri, 07 Mar 2025 10:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ілон Маск більше не зможе прий</title>
+      <link>https://www.mandarinai.lt/post/70208</link>
+      <description>Ілон Маск більше не зможе приймати рішення з кадрових питань міністерств - Трамп заявив, що обмежує повноваження Маска
+
+Це сталося після масових звільнень держслужбовців . Президент США у присутності Маска заявив, що він має право лише давати рекомендації .
+
+Маск погодився зі словами Трампа та визнав помилки перед членами адміністрації Трампа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_10-04-33.jpg" length="181869" type="image/jpeg"/>
+      <pubDate>Fri, 07 Mar 2025 10:04:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
