@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 07:03:05 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Українські війська можуть б</title>
-      <link>https://www.mandarinai.lt/post/70228</link>
-      <description>❗️ Українські війська можуть бути виведені з Курської області протягом 2 тижнів , – джерела The New York Post</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_18-55-29.jpg" length="213321" type="image/jpeg"/>
-      <pubDate>Fri, 07 Mar 2025 18:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Департамент Маска звільнив </title>
-      <link>https://www.mandarinai.lt/post/70229</link>
-      <description>❗️ Департамент Маска звільнив журналіста української служби "Голосу Америки" Остапа Яриша 
-
-"Якщо коротко – так, ми з Голосом Америки припинили співпрацю. Зараз додаткових коментарів не даватиму, тому прошу не телефонувати і не писати мені з цього приводу. Про все напишу сам трохи згодом", - заявив журналіст.
-
-Нагадаємо, раніше видання New York Times повідомляло, що Департамент кадрів "Голосу Америки" проводить внутрішні розслідування щодо тих журналістів, які критикували у своїх матеріалах президента США Дональда Трампа.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-07_19-05-12.jpg" length="28683" type="image/jpeg"/>
-      <pubDate>Fri, 07 Mar 2025 19:05:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Mar 2025 08:07:54 +0000</lastBuildDate>
     <item>
       <title>Від неї залежить, чи зупинить </title>
       <link>https://www.mandarinai.lt/post/70231</link>
@@ -132,6 +114,41 @@ https://send.monobank.ua/jar/3yFgkXxe36</description>
  Ворог заявляє про атаку шістьма реактивними дронами «Пекло», які влучили у виробниче приміщення та спричинили масштабну пожежу. Через загрозу вибухів місцевих мешканців довелося евакуювати</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-08_06-52-30.mp4" length="10153962" type="video/mp4"/>
       <pubDate>Sat, 08 Mar 2025 06:52:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ США продовжують ділитися з </title>
+      <link>https://www.mandarinai.lt/post/70242</link>
+      <description>❗️ США продовжують ділитися з Україною розвідданими, які потрібні для захисту , - CNN
+
+Водночас США «скоротили» обмін будь-якими розвідданими, які українські сили могли б використати для наступу на російські війська чи ударів углиб території рф.
+
+Зазначається , що зараз ЗСУ мають альтернативні шляхи отримання супутникових даних від американських та європейських приватних компаній на комерційній основі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-08_07-03-21.jpg" length="239192" type="image/jpeg"/>
+      <pubDate>Sat, 08 Mar 2025 07:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безпілотники атакували один із</title>
+      <link>https://www.mandarinai.lt/post/70243</link>
+      <description>Безпілотники атакували один із найбільших НПЗ Росії, результат атаки невідомий, росіяни стверджують, що пошкоджено лише резервуар.
+
+Під удар потрапив завод «Киришинефтеоргсинтез» (КІНЕФ) у Ленінградській області. 
+
+Російська ППО заявила про збиття двох дронів, в результаті падіння уламків офіційно пошкоджено резервуар ззовні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-08_07-31-28.mp4" length="330552" type="video/mp4"/>
+      <pubDate>Sat, 08 Mar 2025 07:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Уночі ППО знищила крилату р</title>
+      <link>https://www.mandarinai.lt/post/70244</link>
+      <description>❗️ Уночі ППО знищила крилату ракету та 79 ворожих дронів, ще 54 безпілотники втрачено локаційно.
+
+8 березня 2025 року окупанти атакували:
+
+ 2 балістичними ракетами “Іскандер-М/KN-23”
+ 1 крилатою ракетою “Іскандер-К” (з Ростовської області, РФ)
+145 ударними дронами Shahed та іншими БпЛА-імітаторами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-08_07-50-08.jpg" length="111363" type="image/jpeg"/>
+      <pubDate>Sat, 08 Mar 2025 07:50:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
