@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 21:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 22:02:32 +0000</lastBuildDate>
     <item>
       <title>❗️Щонайменше 20 цивільних вбит</title>
       <link>https://www.mandarinai.lt/post/70267</link>
@@ -104,12 +104,19 @@
 Ось приклади питань, які задають бажаючим працювати у Білому домі:
 
 - Чи готові стати офіційним представником масових депортацій?
-- Який із указів Трампа ваш коханий?
+- Який із указів Трампа ваш улюблений?
 – Хто виграв президентські вибори 2020 року?
 
 Це точно Америка?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-08_19-40-03.jpg" length="120276" type="image/jpeg"/>
       <pubDate>Sat, 08 Mar 2025 19:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 росіяни атакували критичну і</title>
+      <link>https://www.mandarinai.lt/post/70279</link>
+      <description>🤬 росіяни атакували критичну інфраструктуру в Запоріжжі. Можуть бути обмеження у подачі газу та тепла, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-08_21-57-05.mp4" length="455717" type="video/mp4"/>
+      <pubDate>Sat, 08 Mar 2025 21:57:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
