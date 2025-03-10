@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 04:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Оператор ЗРК «Hawk» продовжує </title>
-      <link>https://www.mandarinai.lt/post/70327</link>
-      <description>Оператор ЗРК «Hawk» продовжує флеш-моб Повітряних Сил і гарною англійською дякує американському народу за його допомогу, яка рятує українців. 
-
-Бійці сподіваються, що, послухавши слова вдячності, американці зрозуміють, скільки людей може загинути, якщо допомога припиниться. 
-
-Хіба в команди Трампа взагалі відсутня емпатія.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4015.MP4" length="13160637" type="video/mp4"/>
-      <pubDate>Sun, 09 Mar 2025 17:01:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Mar 2025 05:07:49 +0000</lastBuildDate>
     <item>
       <title>❗️росіяни взяли під контроль М</title>
       <link>https://www.mandarinai.lt/post/70330</link>
@@ -125,6 +114,13 @@ KIDDISVIT створив колекцію авто з шевронами під�
 Делегація США також стежитиме за ознаками того, чи українці серйозно налаштовані на поліпшення відносин з адміністрацією Трампа.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-10_03-25-16.jpg" length="73238" type="image/jpeg"/>
       <pubDate>Mon, 10 Mar 2025 03:25:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Дрони атакували НПЗ у Новокуй</title>
+      <link>https://www.mandarinai.lt/post/70344</link>
+      <description>🔥Дрони атакували НПЗ у Новокуйбишевську Самарської області, — росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-10_04-17-58.mp4" length="755835" type="video/mp4"/>
+      <pubDate>Mon, 10 Mar 2025 04:17:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
