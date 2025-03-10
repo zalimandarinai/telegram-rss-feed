@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 13:18:46 +0000</lastBuildDate>
-    <item>
-      <title>🔥 Бійці ССО взяли в полон 9 ро</title>
-      <link>https://www.mandarinai.lt/post/70353</link>
-      <description>🔥 Бійці ССО взяли в полон 9 російських військових, підірвавши їхнє укриття під Покровськом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-10_09-58-37.mp4" length="5790753" type="video/mp4"/>
-      <pubDate>Mon, 10 Mar 2025 09:58:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️🪖 ЗСУ відновили свої позиції</title>
-      <link>https://www.mandarinai.lt/post/70354</link>
-      <description>⚡️🪖 ЗСУ відновили свої позиції біля Синьківки на Харківщині та Бурлацького на Донеччині, — DeepState
-
-Водночас ворог просунувся біля Улаклів в Донецькій області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-10_10-00-36.jpg" length="65101" type="image/jpeg"/>
-      <pubDate>Mon, 10 Mar 2025 10:00:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Mar 2025 14:08:38 +0000</lastBuildDate>
     <item>
       <title>Взяли полонених дроном.
 
@@ -114,6 +98,13 @@
 Цей дрон простий у використанні та повністю автоматизований та оснащений машинним зором.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-10_13-05-40.mp4" length="6428775" type="video/mp4"/>
       <pubDate>Mon, 10 Mar 2025 13:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Троє російських військових, як</title>
+      <link>https://www.mandarinai.lt/post/70368</link>
+      <description>Троє російських військових, яких щойно взяла в полон на Харківщині бригада НГУ «Хартія», заявляють, що для них війна закінчилась. Але міністерство оборони росії вважає інакше. Майже гарантовано після обміну ці троє знову стануть штурмовиками.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4025.MP4" length="20920629" type="video/mp4"/>
+      <pubDate>Mon, 10 Mar 2025 14:07:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
