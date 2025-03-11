@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 14:09:04 +0000</lastBuildDate>
-    <item>
-      <title>⚡️💬 Зустріч з американською де</title>
-      <link>https://www.mandarinai.lt/post/70432</link>
-      <description>⚡️💬 Зустріч з американською делегацією почалася дуже конструктивно, працюємо, — повідомив очільник ОП Андрій Єрмак</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_10-04-06.mp4" length="5780286" type="video/mp4"/>
-      <pubDate>Tue, 11 Mar 2025 10:04:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤷‍♂Республіканці тролять Ілона</title>
-      <link>https://www.mandarinai.lt/post/70435</link>
-      <description>🤷‍♂Республіканці тролять Ілона Маска у зв'язку з кібератакою на його соцмережу X</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-11_10-36-18.jpg" length="60144" type="image/jpeg"/>
-      <pubDate>Tue, 11 Mar 2025 10:36:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Mar 2025 15:08:58 +0000</lastBuildDate>
     <item>
       <title>Під Покровськом українські вій</title>
       <link>https://www.mandarinai.lt/post/70437</link>
@@ -97,6 +83,46 @@
       <description>❗️Розпочався другий раунд переговорів між Україною та США після невеликої перерви, – повідомила речниця Держдепу Теммі Брюс</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_14-00-47.mp4" length="917165" type="video/mp4"/>
       <pubDate>Tue, 11 Mar 2025 14:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіяни намагались відстрілюва</title>
+      <link>https://www.mandarinai.lt/post/70447</link>
+      <description>Росіяни намагались відстрілюватись від дронів підрозділу «Гострі Картузи» на Курахівському напрямку, але їм це не дуже допомогло.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4086.MP4" length="22826582" type="video/mp4"/>
+      <pubDate>Tue, 11 Mar 2025 14:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський ФАБ вибухає в росій</title>
+      <link>https://www.mandarinai.lt/post/70449</link>
+      <description>Російський ФАБ вибухає в російському місті Суджа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_14-31-51.mp4" length="1629948" type="video/mp4"/>
+      <pubDate>Tue, 11 Mar 2025 14:31:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Штурмові групи росіян намагают</title>
+      <link>https://www.mandarinai.lt/post/70450</link>
+      <description>Штурмові групи росіян намагаються зайти на територію Сумської області біля населених пунктів Новеньке і Журавка, однак знищуються Силами оборони України — ДПСУ
+
+"Ми використовуємо і артилерійські засоби, і безпілотні апарати, щоб не дати ворогу закріпитися на нашій території. Це фактично kill-зона, де росіяни вмирають", — заявив речник ДПСУ Андрій Демченко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-11_14-32-10.jpg" length="59992" type="image/jpeg"/>
+      <pubDate>Tue, 11 Mar 2025 14:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦾  Масований ворожий штурм з к</title>
+      <link>https://www.mandarinai.lt/post/70451</link>
+      <description>🦾  Масований ворожий штурм з колоною  бронетехніки був зупинений бійцями  ОТУ "Луганськ" на Сіверському напрямку:
+
+ББМ-14 знищено❌
+16 пошкоджено
+Танк-1 знищено❌
+2 пошкоджено
+ЛАТ-3 знищено❌
+Багі -3 знищено❌
+Квадроцикл-2 знищено❌
+
+☠Втрати живої сили противника 159 вбитих та поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_14-51-34.mp4" length="7164887" type="video/mp4"/>
+      <pubDate>Tue, 11 Mar 2025 14:51:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
