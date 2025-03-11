@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 13:18:28 +0000</lastBuildDate>
-    <item>
-      <title>🔞 Російський військовий з авто</title>
-      <link>https://www.mandarinai.lt/post/70429</link>
-      <description>🔞 Російський військовий з автомату розстрілює свого співслужбовця з невідомих причин, - зняте в Курській області аеророзвідниками 61-ої бригади.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4066.MP4" length="2470618" type="video/mp4"/>
-      <pubDate>Tue, 11 Mar 2025 09:42:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Відеовідповідь з передової ві</title>
-      <link>https://www.mandarinai.lt/post/70431</link>
-      <description>🔥Відеовідповідь з передової від знайомого бійця. Спитали, що думають в його окопах про можливе припинення вогню (дивитися зі звуком)
-На жаль, на фронті не скрізь так оптимістично.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_09-59-39.mp4" length="3923623" type="video/mp4"/>
-      <pubDate>Tue, 11 Mar 2025 09:59:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Mar 2025 14:09:04 +0000</lastBuildDate>
     <item>
       <title>⚡️💬 Зустріч з американською де</title>
       <link>https://www.mandarinai.lt/post/70432</link>
@@ -98,6 +83,20 @@
 Він висунув навмисно максималістські вимоги напередодні переговорів, які, як він знає, швидше за все, будуть неприйнятними для українців та інших європейців, стверджують представники служби безпеки. Російський лідер готовий продовжувати воювати, якщо він не досягне своїх цілей».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-11_12-27-55.jpg" length="70976" type="image/jpeg"/>
       <pubDate>Tue, 11 Mar 2025 12:27:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Атака українського БПЛА на н</title>
+      <link>https://www.mandarinai.lt/post/70444</link>
+      <description>❗️Атака українського БПЛА на нафтопровід "Дружба" зупинила постачання нафти до Угорщини, — Сійярто додав, що країна розцінює це як «напад на свій суверенітет»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_13-39-35.mp4" length="5963823" type="video/mp4"/>
+      <pubDate>Tue, 11 Mar 2025 13:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Розпочався другий раунд пере</title>
+      <link>https://www.mandarinai.lt/post/70445</link>
+      <description>❗️Розпочався другий раунд переговорів між Україною та США після невеликої перерви, – повідомила речниця Держдепу Теммі Брюс</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_14-00-47.mp4" length="917165" type="video/mp4"/>
+      <pubDate>Tue, 11 Mar 2025 14:00:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
