@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 04:10:28 +0000</lastBuildDate>
-    <item>
-      <title>🤡 росія погрожує Австралії «се</title>
-      <link>https://www.mandarinai.lt/post/70387</link>
-      <description>🤡 росія погрожує Австралії «серйозними наслідками» в разі відправлення миротворців до України
-
-В посольстві росії в Австралії заявили, що їхня країна неодноразово давала зрозуміти, що іноземна військова присутність в Україні «є абсолютно неприйнятною».
-
-📝 «Для Австралії приєднання до так званої коаліції охочих потягне за собою серйозні наслідки. Ще раз повторюємо, західні чоботи на землі неприйнятні для росії, і ми не будемо залишатися пасивними спостерігачами».
-
-Сподіваємось, австралійці не злякались.
-
-Тим більше, що їх і росію  розділяє «прекрасний океан».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-10_17-24-57.jpg" length="118082" type="image/jpeg"/>
-      <pubDate>Mon, 10 Mar 2025 17:24:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зеленський на переговорах в Са</title>
-      <link>https://www.mandarinai.lt/post/70388</link>
-      <description>Зеленський на переговорах в Саудівській Аравії.
-
-Зустрівся з принцем Мухаммедом бін Салманом.
-
-Поруч багато тих, хто не носить костюм.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4056.MP4" length="16111399" type="video/mp4"/>
-      <pubDate>Mon, 10 Mar 2025 17:35:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Mar 2025 05:08:54 +0000</lastBuildDate>
     <item>
       <title>Дорога, повністю забита знищен</title>
       <link>https://www.mandarinai.lt/post/70389</link>
@@ -124,6 +98,20 @@
       <description>🤷‍♂ X стала мішенню серйозної кібератаки, до якої причетні пов'язані з Україною IP-адреси, — Маск</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-10_20-55-56.mp4" length="2471236" type="video/mp4"/>
       <pubDate>Mon, 10 Mar 2025 20:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Околиці москви зустрічають б</title>
+      <link>https://www.mandarinai.lt/post/70399</link>
+      <description>💥🔥Околиці москви зустрічають бадьорий ранок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_04-56-14.mp4" length="543164" type="video/mp4"/>
+      <pubDate>Tue, 11 Mar 2025 04:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ще наслідки атаки БПЛА у Підм</title>
+      <link>https://www.mandarinai.lt/post/70401</link>
+      <description>💥Ще наслідки атаки БПЛА у Підмосков'ї.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_05-02-34.mp4" length="13219688" type="video/mp4"/>
+      <pubDate>Tue, 11 Mar 2025 05:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
