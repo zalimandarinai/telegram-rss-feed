@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 08:11:38 +0000</lastBuildDate>
-    <item>
-      <title>❗️У Дніпрі внаслідок атаки вор</title>
-      <link>https://www.mandarinai.lt/post/70486</link>
-      <description>❗️У Дніпрі внаслідок атаки ворожих БПЛА пошкоджено близько 10 приватних будинків. Побиті вікна в дитсадку та школі — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_03-39-13.mp4" length="656500" type="video/mp4"/>
-      <pubDate>Wed, 12 Mar 2025 03:39:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Mar 2025 09:09:07 +0000</lastBuildDate>
     <item>
       <title>❗️У Кривому Розі внаслідок сер</title>
       <link>https://www.mandarinai.lt/post/70492</link>
@@ -87,6 +80,22 @@ https://send.monobank.ua/jar/7Tf8YSkNJQ
 Влучний удар – і плавзасіб з надводного флоту перетворився на підводний.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4093.MP4" length="11439781" type="video/mp4"/>
       <pubDate>Wed, 12 Mar 2025 07:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Відновилено транспортування </title>
+      <link>https://www.mandarinai.lt/post/70500</link>
+      <description>⚡️Відновилено транспортування зброї США в Україну через Жешув в Польщі, — Мінооборони Польщі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-12_07-52-19.jpg" length="44283" type="image/jpeg"/>
+      <pubDate>Wed, 12 Mar 2025 07:52:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ЄС запроваджує мита у відпов</title>
+      <link>https://www.mandarinai.lt/post/70501</link>
+      <description>❗️ЄС запроваджує мита у відповідь на нові тарифи США на імпорт сталі та алюмінію.
+
+Загалом контрзаходи Євросоюзу застосовані до експорту американських товарів на суму до €26 млрд, що відповідає економічному масштабу американських тарифів - $28 млрд</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-12_08-50-50.jpg" length="42035" type="image/jpeg"/>
+      <pubDate>Wed, 12 Mar 2025 08:50:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
