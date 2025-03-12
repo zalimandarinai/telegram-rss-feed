@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 05:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 06:12:14 +0000</lastBuildDate>
     <item>
       <title>Штурмові групи росіян намагают</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -22,13 +22,6 @@
 
 Також Президент США висловив сподівання, що росія погодиться на припинення вогню: «Ми збираємося зустрітися з росією пізніше сьогодні чи завтра»</description>
       <pubDate>Tue, 11 Mar 2025 19:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Внаслідок удару балістики по</title>
-      <link>https://www.mandarinai.lt/post/70478</link>
-      <description>❗️Внаслідок удару балістики по порту в Одесі загинуло 4 члени екіпажу судна, яке перевозило пшеницю — місцеві канали</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-11_20-02-36.mp4" length="2369086" type="video/mp4"/>
-      <pubDate>Tue, 11 Mar 2025 20:02:36 +0000</pubDate>
     </item>
     <item>
       <title>⚡️Приліт по інфраструктурі в Д</title>
@@ -61,6 +54,15 @@
       <description>❗️У Дніпрі внаслідок атаки ворожих БПЛА пошкоджено близько 10 приватних будинків. Побиті вікна в дитсадку та школі — ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_03-39-13.mp4" length="656500" type="video/mp4"/>
       <pubDate>Wed, 12 Mar 2025 03:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️У Кривому Розі внаслідок сер</title>
+      <link>https://www.mandarinai.lt/post/70492</link>
+      <description>❗️У Кривому Розі внаслідок серії вибухів  поранена людина, повідомив голова Дніпропетровської ОВА Сергій Лисак.
+
+За його словами, є влучання в інфраструктурний об'єкт. Сталася пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_06-04-23.mp4" length="389613" type="video/mp4"/>
+      <pubDate>Wed, 12 Mar 2025 06:04:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
