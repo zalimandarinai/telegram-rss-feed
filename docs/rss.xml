@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 09:09:07 +0000</lastBuildDate>
-    <item>
-      <title>❗️У Кривому Розі внаслідок сер</title>
-      <link>https://www.mandarinai.lt/post/70492</link>
-      <description>❗️У Кривому Розі внаслідок серії вибухів  поранена людина, повідомив голова Дніпропетровської ОВА Сергій Лисак.
-
-За його словами, є влучання в інфраструктурний об'єкт. Сталася пожежа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_06-04-23.mp4" length="389613" type="video/mp4"/>
-      <pubDate>Wed, 12 Mar 2025 06:04:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Частина українських бригад, </title>
-      <link>https://www.mandarinai.lt/post/70493</link>
-      <description>❗️Частина українських бригад, вийшла з Курської області, у тому числі найбоєздатніші, — Forbes</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-12_06-05-49.jpg" length="157975" type="image/jpeg"/>
-      <pubDate>Wed, 12 Mar 2025 06:05:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Mar 2025 10:09:04 +0000</lastBuildDate>
     <item>
       <title>❗️Війська рф взяли під контрол</title>
       <link>https://www.mandarinai.lt/post/70494</link>
@@ -96,6 +80,40 @@ https://send.monobank.ua/jar/7Tf8YSkNJQ
 Загалом контрзаходи Євросоюзу застосовані до експорту американських товарів на суму до €26 млрд, що відповідає економічному масштабу американських тарифів - $28 млрд</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-12_08-50-50.jpg" length="42035" type="image/jpeg"/>
       <pubDate>Wed, 12 Mar 2025 08:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент ранкового удару баліст</title>
+      <link>https://www.mandarinai.lt/post/70503</link>
+      <description>🤬Момент ранкового удару балістикою по готелю «Дружба» у Кривому Розі
+
+Наразі відомо про 14 поранених внаслідок атаки рф. З них троє у вкрай важкому стані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_09-19-45.mp4" length="1570654" type="video/mp4"/>
+      <pubDate>Wed, 12 Mar 2025 09:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️путін, ймовірно, відкине про</title>
+      <link>https://www.mandarinai.lt/post/70505</link>
+      <description>❗️путін, ймовірно, відкине пропозицію США про 30-денне припинення вогню в Україні, —  Reuters, посилаючись на джерела в кремлі
+
+Вони додали, що будь-яка угода повинна враховувати успіхи росії на полі бою та інтереси москви.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-12_09-37-05.jpg" length="79356" type="image/jpeg"/>
+      <pubDate>Wed, 12 Mar 2025 09:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф не хоче поспішати з питан</title>
+      <link>https://www.mandarinai.lt/post/70506</link>
+      <description>❗️рф не хоче поспішати з питанням запропонованого перемир’я, спочатку необхідно отримати інформацію від США, — пєсков</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_09-53-12.mp4" length="8882193" type="video/mp4"/>
+      <pubDate>Wed, 12 Mar 2025 09:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Тим часом Макрон вже заклик</title>
+      <link>https://www.mandarinai.lt/post/70507</link>
+      <description>❗️ Тим часом Макрон вже закликав керівників військових штабів 30 країн планувати гарантії безпеки для України у разі укладення «мирної угоди»
+
+Він також підтримав ідею «30-денного припинення вогню» та прогрес у переговорах України й США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-12_09-56-00.jpg" length="61387" type="image/jpeg"/>
+      <pubDate>Wed, 12 Mar 2025 09:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
