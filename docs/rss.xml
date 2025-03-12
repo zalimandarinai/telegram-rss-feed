@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 21:07:42 +0000</lastBuildDate>
-    <item>
-      <title>Рятувальники ДСНС показали від</title>
-      <link>https://www.mandarinai.lt/post/70536</link>
-      <description>Рятувальники ДСНС показали відео повторного удару по місту Кривий Ріг, під час якого на місці атаки вони вже працювали разом з медиками.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4113.MP4" length="7144990" type="video/mp4"/>
-      <pubDate>Wed, 12 Mar 2025 15:59:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Mar 2025 22:08:04 +0000</lastBuildDate>
     <item>
       <title>Підрозділ безпілотних систем «</title>
       <link>https://www.mandarinai.lt/post/70537</link>
@@ -140,6 +133,13 @@
 рф не погоджується на миротворчі сили, оскільки ті «перебуватимуть під впливом Заходу».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-12_20-53-34.jpg" length="63462" type="image/jpeg"/>
       <pubDate>Wed, 12 Mar 2025 20:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Ми ніколи не повернемося з ці</title>
+      <link>https://www.mandarinai.lt/post/70550</link>
+      <description>«Ми ніколи не повернемося з цієї війни». Волонтерка Тата Кеплер виступила із потужною промовою у Європарламенті</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_21-23-19.mp4" length="7002018" type="video/mp4"/>
+      <pubDate>Wed, 12 Mar 2025 21:23:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
