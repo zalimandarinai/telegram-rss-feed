@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Mar 2025 19:06:37 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Договір про гарантії безпек</title>
-      <link>https://www.mandarinai.lt/post/70588</link>
-      <description>❗️ Договір про гарантії безпеки в рамках Союзної держави Росії та Білорусі набув чинності — путін
-
-Як відомо, за цим договором російська ядерна зброя може бути використана у відповідь на застосування проти росії чи Білорусі звичайної зброї, яка «створює загрозу суверенітету»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_15-45-13.jpg" length="92218" type="image/jpeg"/>
-      <pubDate>Thu, 13 Mar 2025 15:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴 Ми згодні з пропозиціями при</title>
-      <link>https://www.mandarinai.lt/post/70589</link>
-      <description>🥴 Ми згодні з пропозиціями припинити бойові дії, але виходимо з того, що це припинення має призвести до довгострокового миру і усунути причини кризи, — путін</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-13_15-47-04.mp4" length="25105678" type="video/mp4"/>
-      <pubDate>Thu, 13 Mar 2025 15:47:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Mar 2025 20:09:14 +0000</lastBuildDate>
     <item>
       <title>🇬🇧Стармер: Путін порушить мирн</title>
       <link>https://www.mandarinai.lt/post/70591</link>
@@ -84,6 +68,20 @@ Le Monde робить висновок, що Україна, схоже, орг�
 Самохідна установка «Archer» вважається найкращою з колісних артилерійських систем.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_18-48-37.jpg" length="169991" type="image/jpeg"/>
       <pubDate>Thu, 13 Mar 2025 18:48:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворожий БПЛА знайшли біля Київ</title>
+      <link>https://www.mandarinai.lt/post/70603</link>
+      <description>Ворожий БПЛА знайшли біля Київського моря</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_19-31-38.jpg" length="63795" type="image/jpeg"/>
+      <pubDate>Thu, 13 Mar 2025 19:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрив танка Т-90М «Прорив», а</title>
+      <link>https://www.mandarinai.lt/post/70604</link>
+      <description>Підрив танка Т-90М «Прорив», архівні кадри</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4157.MP4" length="2774800" type="video/mp4"/>
+      <pubDate>Thu, 13 Mar 2025 20:06:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
