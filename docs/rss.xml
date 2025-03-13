@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Mar 2025 18:11:51 +0000</lastBuildDate>
-    <item>
-      <title>«Нафиг я сюда пришёл?» - на зу</title>
-      <link>https://www.mandarinai.lt/post/70585</link>
-      <description>«Нафиг я сюда пришёл?» - на зустрічі з американськими дипломатами Лавров, ймовірно, випадково, вголос промовив те, що подумав.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4143.MP4" length="3771100" type="video/mp4"/>
-      <pubDate>Thu, 13 Mar 2025 14:45:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бойові дії на межі Сумської об</title>
-      <link>https://www.mandarinai.lt/post/70586</link>
-      <description>Бойові дії на межі Сумської області активізувалися, - морпіхи 36-ої бригади перемелюють штурмові групи росіян та північнокорейських військових.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4144.MP4" length="25529144" type="video/mp4"/>
-      <pubDate>Thu, 13 Mar 2025 15:03:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Mar 2025 19:06:37 +0000</lastBuildDate>
     <item>
       <title>❗️ Договір про гарантії безпек</title>
       <link>https://www.mandarinai.lt/post/70588</link>
@@ -69,6 +55,35 @@ Le Monde робить висновок, що Україна, схоже, орг�
 Ще один анексатор...</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_17-11-15.jpg" length="42206" type="image/jpeg"/>
       <pubDate>Thu, 13 Mar 2025 17:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚀епічний запуск окупанта в пек</title>
+      <link>https://www.mandarinai.lt/post/70599</link>
+      <description>🚀епічний запуск окупанта в пекло</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-13_18-15-42.mp4" length="4744216" type="video/mp4"/>
+      <pubDate>Thu, 13 Mar 2025 18:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна окреслила для США свої</title>
+      <link>https://www.mandarinai.lt/post/70600</link>
+      <description>Україна окреслила для США свої «червоні лінії» у мирних переговорах:  
+
+🟠жодних обмежень щодо чисельності ЗСУ;
+🟠повна свобода приєднання до ЄС і НАТО;
+🟠росія не матиме права вето на участь України в міжнародних організаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_18-16-50.jpg" length="48706" type="image/jpeg"/>
+      <pubDate>Thu, 13 Mar 2025 18:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇸🇪 Швеція придбає для України </title>
+      <link>https://www.mandarinai.lt/post/70601</link>
+      <description>🇸🇪 Швеція придбає для України 18 155-мм САУ «Archer» та 5 контрбатарейних РЛС «Arthur» на $300 млн.
+
+Також Швеція виділить Україні $138 млн на відновлення інфрастуктури, розмінування та підготовку медпрацівників.
+
+Самохідна установка «Archer» вважається найкращою з колісних артилерійських систем.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_18-48-37.jpg" length="169991" type="image/jpeg"/>
+      <pubDate>Thu, 13 Mar 2025 18:48:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
