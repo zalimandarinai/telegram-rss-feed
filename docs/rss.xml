@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Mar 2025 05:08:54 +0000</lastBuildDate>
-    <item>
-      <title>Підрозділ безпілотних систем «</title>
-      <link>https://www.mandarinai.lt/post/70537</link>
-      <description>Підрозділ безпілотних систем «The Ravens», який працює по російських цілях на Курщині, висловився цим відео про те, що він думає на рахунок перемирʼя з росією.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4112.MP4" length="8558709" type="video/mp4"/>
-      <pubDate>Wed, 12 Mar 2025 16:08:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Mar 2025 06:12:09 +0000</lastBuildDate>
     <item>
       <title>❗️ Американці звертаються до у</title>
       <link>https://www.mandarinai.lt/post/70540</link>
@@ -140,6 +133,35 @@
       <description>«Ми ніколи не повернемося з цієї війни». Волонтерка Тата Кеплер виступила із потужною промовою у Європарламенті</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-12_21-23-19.mp4" length="7002018" type="video/mp4"/>
       <pubDate>Wed, 12 Mar 2025 21:23:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Британія та Франція обговорюют</title>
+      <link>https://www.mandarinai.lt/post/70551</link>
+      <description>Британія та Франція обговорюють можливі удари по російським об'єктам у разі зриву перемир'я москвою, — Associated Press</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_05-20-00.jpg" length="167113" type="image/jpeg"/>
+      <pubDate>Thu, 13 Mar 2025 05:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В України повністю закінчилися</title>
+      <link>https://www.mandarinai.lt/post/70552</link>
+      <description>В України повністю закінчилися далекобійні балістичні ракети ATACMS, — Associated Press 
+
+Представник уряду США повідомив, що всього Києву передали менше 40 ракет.
+
+Вони могли закінчитись ще наприкінці січня 2025-го.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_05-43-51.jpg" length="119763" type="image/jpeg"/>
+      <pubDate>Thu, 13 Mar 2025 05:43:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️рф надала США список вимог д</title>
+      <link>https://www.mandarinai.lt/post/70553</link>
+      <description>‼️рф надала США список вимог для укладання угоди щодо припинення війни проти України
+
+За даними джерел Reuters, російські та американські чиновники обговорювали ці умови під час особистих та віртуальних розмов протягом останніх трьох тижнів.
+
+Вони зазначають, що, як і очікувалося, висунуті умови "масштабні та схожі на вимоги, які рф раніше висувала Україні, США та НАТО"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_05-48-19.jpg" length="71536" type="image/jpeg"/>
+      <pubDate>Thu, 13 Mar 2025 05:48:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
