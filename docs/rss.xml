@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Mar 2025 17:04:10 +0000</lastBuildDate>
-    <item>
-      <title>🤝Україна отримала $2,5 млрд до</title>
-      <link>https://www.mandarinai.lt/post/70582</link>
-      <description>🤝Україна отримала $2,5 млрд допомоги від Канади з заморожених російських активів рф, – прем'єр Шмигаль.
-
-Це перший транш від Канади в рамках ініціативи ERA. 
-
-"Зазначені кошти спрямуємо на пріоритетні потреби державного бюджету",
-– cказав прем'єр</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_13-20-50.jpg" length="21815" type="image/jpeg"/>
-      <pubDate>Thu, 13 Mar 2025 13:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російські військові привʼязали</title>
-      <link>https://www.mandarinai.lt/post/70583</link>
-      <description>Російські військові привʼязали свого власного товариша до стовпа і залишили на поталу українському дронові.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4141.MP4" length="3766403" type="video/mp4"/>
-      <pubDate>Thu, 13 Mar 2025 13:46:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Воїни Non-Stop Group збили рід</title>
-      <link>https://www.mandarinai.lt/post/70584</link>
-      <description>Воїни Non-Stop Group збили рідкісний російський безпілотник «Мєрлін-ВР».
-
-Дрон за своїми розвідувальними можливості наближається до безпілотника «Орлан-10».
-
-В БПЛА використані французькі тепловізійні матриці Lynred.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4142.MP4" length="6127255" type="video/mp4"/>
-      <pubDate>Thu, 13 Mar 2025 14:01:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Mar 2025 18:11:51 +0000</lastBuildDate>
     <item>
       <title>«Нафиг я сюда пришёл?» - на зу</title>
       <link>https://www.mandarinai.lt/post/70585</link>
@@ -90,6 +60,15 @@
 Le Monde робить висновок, що Україна, схоже, організовано виводить свої війська з Курської області. Це може бути передумовою для перемовин із Росією під наглядом США.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_16-46-14.jpg" length="84441" type="image/jpeg"/>
       <pubDate>Thu, 13 Mar 2025 16:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Я думаю, що анексія Гренланді</title>
+      <link>https://www.mandarinai.lt/post/70596</link>
+      <description>🙄Я думаю, що анексія Гренландії відбудеться, нам доведеться укласти угоду щодо Гренландії,— Трамп. 
+
+Ще один анексатор...</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-13_17-11-15.jpg" length="42206" type="image/jpeg"/>
+      <pubDate>Thu, 13 Mar 2025 17:11:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
