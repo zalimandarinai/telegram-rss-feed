@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Mar 2025 14:08:01 +0000</lastBuildDate>
-    <item>
-      <title>🔞Момент вбивства активіста Дем</title>
-      <link>https://www.mandarinai.lt/post/70637</link>
-      <description>🔞Момент вбивства активіста Дем'яна Ганула в Одесі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_10-17-59.mp4" length="527948" type="video/mp4"/>
-      <pubDate>Fri, 14 Mar 2025 10:17:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Повідомляють, що вбивця Ганула</title>
-      <link>https://www.mandarinai.lt/post/70639</link>
-      <description>Повідомляють, що вбивця Ганула здався поліції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_10-50-20.jpg" length="151823" type="image/jpeg"/>
-      <pubDate>Fri, 14 Mar 2025 10:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡У кремлі заявили, що путін пе</title>
-      <link>https://www.mandarinai.lt/post/70640</link>
-      <description>🤡У кремлі заявили, що путін передав через посланця Віткоффа "додаткові сигнали" Трампу
-
-За словами речника кремля, путін та спецпредставник Трампа Стів Віткофф зустрілися вчора пізно ввечері. 
-
-Мовляв, російська сторона отримала "інформацію" від Вашингтона, а також передала "додаткові сигнали" президенту США. Пєсков каже, що незабаром має відбутися розмова путіна та Трампа, але "її дата буде визначена після того, як Віткофф доведе до американського президента результати розмови з кремлем"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_11-24-33.mp4" length="4159296" type="video/mp4"/>
-      <pubDate>Fri, 14 Mar 2025 11:24:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Mar 2025 15:08:10 +0000</lastBuildDate>
     <item>
       <title>В Костянтинівці рятують всіх, </title>
       <link>https://www.mandarinai.lt/post/70641</link>
@@ -91,6 +66,27 @@ ASTRA додає, що раніше виявляла на території ч�
       <description>Географія сьогоднішніх ударів дронів по Москві, отже, якщо вірити російському виданню РБК, яке публікує географію прильотів, то безпілотники подолали практично всі рівні протиповітряної оборони російської столиці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_13-28-12.jpg" length="96326" type="image/jpeg"/>
       <pubDate>Fri, 14 Mar 2025 13:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Третя штурмова бригада стає Тр</title>
+      <link>https://www.mandarinai.lt/post/70650</link>
+      <description>Третя штурмова бригада стає Третім армійським корпусом, - Білецький</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4223.MP4" length="21526803" type="video/mp4"/>
+      <pubDate>Fri, 14 Mar 2025 14:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Затримання вбивці Демʼяна Гану</title>
+      <link>https://www.mandarinai.lt/post/70651</link>
+      <description>Затримання вбивці Демʼяна Ганула підтвердив глава МВС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_14-17-06.jpg" length="51626" type="image/jpeg"/>
+      <pubDate>Fri, 14 Mar 2025 14:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Попередньо, чоловіком, який</title>
+      <link>https://www.mandarinai.lt/post/70652</link>
+      <description>❗️ Попередньо, чоловіком, який стріляв у активіста Демʼяна Ганула, виявився 46-річний дезертир, - Служба Безпеки України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_14-52-38.jpg" length="46708" type="image/jpeg"/>
+      <pubDate>Fri, 14 Mar 2025 14:52:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
