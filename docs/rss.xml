@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Mar 2025 10:08:51 +0000</lastBuildDate>
-    <item>
-      <title>путін відхилив пропозицію прип</title>
-      <link>https://www.mandarinai.lt/post/70624</link>
-      <description>путін відхилив пропозицію припинення вогню, яку пропонували США, — ISW
-
-Диктатор пропонує альтернативу, що суперечить першій пропозиції, та намагається виключити Україну з переговорного процесу, щоб росія могла вести діалог напряму з США.
-
-Однак, радник Трампа Волц заявив, що США зберігають позицію «обережного оптимізму» щодо миру в Україні, а посланець Трампа Віткофф провів перемовини з путіним. Віткофф після візиту повертається до США, щоб обговорити результати зустрічі з Трампом, "який ухвалить рішення щодо наступних кроків"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_06-33-48.mp4" length="3011243" type="video/mp4"/>
-      <pubDate>Fri, 14 Mar 2025 06:33:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Mar 2025 11:07:07 +0000</lastBuildDate>
     <item>
       <title>‼️путін, ймовірніше, порушить </title>
       <link>https://www.mandarinai.lt/post/70625</link>
@@ -131,6 +120,20 @@
 Міністр внутрішніх справ бере розслідування «під особистий контроль».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_10-05-17.jpg" length="130214" type="image/jpeg"/>
       <pubDate>Fri, 14 Mar 2025 10:05:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞Момент вбивства активіста Дем</title>
+      <link>https://www.mandarinai.lt/post/70637</link>
+      <description>🔞Момент вбивства активіста Дем'яна Ганула в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_10-17-59.mp4" length="527948" type="video/mp4"/>
+      <pubDate>Fri, 14 Mar 2025 10:17:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повідомляють, що вбивця Ганула</title>
+      <link>https://www.mandarinai.lt/post/70639</link>
+      <description>Повідомляють, що вбивця Ганула здався поліції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_10-50-20.jpg" length="151823" type="image/jpeg"/>
+      <pubDate>Fri, 14 Mar 2025 10:50:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
