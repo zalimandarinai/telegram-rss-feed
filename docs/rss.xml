@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 12:12:58 +0000</lastBuildDate>
-    <item>
-      <title>У зенітних батареях Samp-T, як</title>
-      <link>https://www.mandarinai.lt/post/70688</link>
-      <description>У зенітних батареях Samp-T, які Італія та Франція передали українцям, закінчуються ракети, — Corriere della Sera
-
-Українська влада вже кілька тижнів просить обидві країни надіслати більше  Aster 30 (потрібно щонайменше 50).
-
-Проблема в тому, що італійський резерв майже досяг граничного рівня. Ракети, що залишилися, потрібні, щоб гарантувати захист чутливих об'єктів на території Італії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_07-53-24.jpg" length="121525" type="image/jpeg"/>
-      <pubDate>Sat, 15 Mar 2025 07:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>рф масовано вдарила по енергет</title>
-      <link>https://www.mandarinai.lt/post/70689</link>
-      <description>рф масовано вдарила по енергетичним обʼєктам ДТЕК. Без світла – частина Дніпропетровщини та Одещини.
-
-Пошкодження суттєві.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_08-27-13.jpg" length="230747" type="image/jpeg"/>
-      <pubDate>Sat, 15 Mar 2025 08:27:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Mar 2025 13:12:59 +0000</lastBuildDate>
     <item>
       <title>❗️ЗСУ все ще намагаються трима</title>
       <link>https://www.mandarinai.lt/post/70691</link>
@@ -91,9 +71,9 @@
       <pubDate>Sat, 15 Mar 2025 11:26:46 +0000</pubDate>
     </item>
     <item>
-      <title>Інститут вивчення війни ISW та</title>
+      <title>Американський Інститут вивченн</title>
       <link>https://www.mandarinai.lt/post/70700</link>
-      <description>Інститут вивчення війни ISW також спростовує заяви про «оточення» українських сил в Курській області.</description>
+      <description>Американський Інститут вивчення війни ISW також спростовує заяви про «оточення» українських сил в Курській області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_12-09-50.jpg" length="70600" type="image/jpeg"/>
       <pubDate>Sat, 15 Mar 2025 12:09:50 +0000</pubDate>
     </item>
@@ -103,6 +83,13 @@
       <description>Ракета «Довгий Нептун» може летіти на 1000 кілометрів, вона успішно пройшла випробування та була вже застосована в умовах бою, — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_12-11-49.jpg" length="70452" type="image/jpeg"/>
       <pubDate>Sat, 15 Mar 2025 12:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Заявлено, як кадри тих самих </title>
+      <link>https://www.mandarinai.lt/post/70703</link>
+      <description>🔥Заявлено, як кадри тих самих випробувань «Довгого Нептуна» під час атаки по Туапсинському НПЗ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_12-15-00.mp4" length="1429529" type="video/mp4"/>
+      <pubDate>Sat, 15 Mar 2025 12:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
