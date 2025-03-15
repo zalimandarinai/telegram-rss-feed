@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 13:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 14:07:38 +0000</lastBuildDate>
     <item>
       <title>❗️ЗСУ все ще намагаються трима</title>
       <link>https://www.mandarinai.lt/post/70691</link>
@@ -90,6 +90,13 @@
       <description>🔥Заявлено, як кадри тих самих випробувань «Довгого Нептуна» під час атаки по Туапсинському НПЗ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_12-15-00.mp4" length="1429529" type="video/mp4"/>
       <pubDate>Sat, 15 Mar 2025 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Знищили 4 системи ППО «Панци</title>
+      <link>https://www.mandarinai.lt/post/70705</link>
+      <description>⚡️Знищили 4 системи ППО «Панцир-С1» на $56 млн., - 429 -ий окремий полк безпілотних систем «АХІЛЛЕС»  знищує 4 російські ЗРГК «Панцир-С1» за допомогою ударних крил на території росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4267.MP4" length="10173024" type="video/mp4"/>
+      <pubDate>Sat, 15 Mar 2025 13:19:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
