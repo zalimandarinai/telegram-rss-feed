@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 09:07:40 +0000</lastBuildDate>
-    <item>
-      <title>«Я трохи жартував, коли казав </title>
-      <link>https://www.mandarinai.lt/post/70676</link>
-      <description>«Я трохи жартував, коли казав це», — Трамп про свою обіцянку завершити війну за 24 години</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_19-27-03.mp4" length="1041891" type="video/mp4"/>
-      <pubDate>Fri, 14 Mar 2025 19:27:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Радник Трампа підтвердив, що</title>
-      <link>https://www.mandarinai.lt/post/70678</link>
-      <description>❗️Радник Трампа підтвердив, що мирна угода може включати поступки щодо Донбасу.
-
-Уолтц заявив, що Київ може відмовитись від частини територій, а Україна не вступить до НАТО. За його словами, ці питання вже обговорюються з Москвою та Києвом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_20-30-36.mp4" length="5459426" type="video/mp4"/>
-      <pubDate>Fri, 14 Mar 2025 20:30:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Mar 2025 10:07:50 +0000</lastBuildDate>
     <item>
       <title>Трамп вважає, що «велика група</title>
       <link>https://www.mandarinai.lt/post/70679</link>
@@ -98,6 +82,30 @@
 Пошкодження суттєві.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_08-27-13.jpg" length="230747" type="image/jpeg"/>
       <pubDate>Sat, 15 Mar 2025 08:27:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ЗСУ все ще намагаються трима</title>
+      <link>https://www.mandarinai.lt/post/70691</link>
+      <description>❗️ЗСУ все ще намагаються тримати оборону на Курщині, але ситуація складна, — нардеп Костенко
+
+Військове командування зараз робить все для того, щоб українські війська залишилися на Курщині, аби був буфер.
+
+Також Forbes пише, що рф не оточувала тисячі воїнів ЗСУ, про що заявляв Трамп.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_09-44-49.mp4" length="10343725" type="video/mp4"/>
+      <pubDate>Sat, 15 Mar 2025 09:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так цього тижня виглядав понів</title>
+      <link>https://www.mandarinai.lt/post/70692</link>
+      <description>Так цього тижня виглядав понівеченмй Покровськ очима журналістів та волонтерів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_09-48-07.mp4" length="2586234" type="video/mp4"/>
+      <pubDate>Sat, 15 Mar 2025 09:48:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Часів Яр постійно під наглядом</title>
+      <link>https://www.mandarinai.lt/post/70694</link>
+      <description>Часів Яр постійно під наглядом розвідувальних дронів, і українських, і ворожих. Оператори БПЛА 24-ої бригади моніторять руїни, виявляючи все, що може слугувати укриттям, і де ховаються окупанти. Потім по норах відпрацьовують ударні безпілотні системи.</description>
+      <pubDate>Sat, 15 Mar 2025 09:56:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
