@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 11:04:17 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Вночі дрони завітали на Волг</title>
-      <link>https://www.mandarinai.lt/post/70684</link>
-      <description>💥🔥Вночі дрони завітали на Волгоградський НПЗ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_03-53-00.mp4" length="877401" type="video/mp4"/>
-      <pubDate>Sat, 15 Mar 2025 03:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ ЄС постачатиме Україні збро</title>
-      <link>https://www.mandarinai.lt/post/70686</link>
-      <description>❗️ ЄС постачатиме Україні зброєю навіть у разі тимчасового припинення вогню , - DW.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_06-02-48.jpg" length="111110" type="image/jpeg"/>
-      <pubDate>Sat, 15 Mar 2025 06:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Трамп раптово отримав ляпас мі</title>
-      <link>https://www.mandarinai.lt/post/70687</link>
-      <description>Трамп раптово отримав ляпас мікрофоном. Цікаво, що було далі з репортером, який тримав мікрофон?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_06-42-42.mp4" length="2960378" type="video/mp4"/>
-      <pubDate>Sat, 15 Mar 2025 06:42:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Mar 2025 12:12:58 +0000</lastBuildDate>
     <item>
       <title>У зенітних батареях Samp-T, як</title>
       <link>https://www.mandarinai.lt/post/70688</link>
@@ -103,6 +82,27 @@
       <description>🔥💥Друга доба локального пекла в Туапсе. Після атаки дронів по НПЗ вогонь  перекидається на сусідні резервуари. Полум'я в цистернах навіть не намагаються загасити. Це неможливо, поки все паливо не вигорить</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_10-46-28.mp4" length="620648" type="video/mp4"/>
       <pubDate>Sat, 15 Mar 2025 10:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Оточення ЗСУ немає на Курщин</title>
+      <link>https://www.mandarinai.lt/post/70699</link>
+      <description>❗️Оточення ЗСУ немає на Курщині. Є напрямки на Сумщині, де рф накопичує сили. Це свідчить про бажання завдати удару по Сумській області, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_11-26-46.jpg" length="212171" type="image/jpeg"/>
+      <pubDate>Sat, 15 Mar 2025 11:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Інститут вивчення війни ISW та</title>
+      <link>https://www.mandarinai.lt/post/70700</link>
+      <description>Інститут вивчення війни ISW також спростовує заяви про «оточення» українських сил в Курській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_12-09-50.jpg" length="70600" type="image/jpeg"/>
+      <pubDate>Sat, 15 Mar 2025 12:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ракета «Довгий Нептун» може ле</title>
+      <link>https://www.mandarinai.lt/post/70702</link>
+      <description>Ракета «Довгий Нептун» може летіти на 1000 кілометрів, вона успішно пройшла випробування та була вже застосована в умовах бою, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_12-11-49.jpg" length="70452" type="image/jpeg"/>
+      <pubDate>Sat, 15 Mar 2025 12:11:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
