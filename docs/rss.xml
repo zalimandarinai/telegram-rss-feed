@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 08:10:07 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Радники з питань безпеки лід</title>
-      <link>https://www.mandarinai.lt/post/70673</link>
-      <description>⚡️Радники з питань безпеки лідерів Великої Британії, Німеччини та Франції вирушили до Вашингтона з неанонсованим візитом, – Die Welt</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_18-42-16.jpg" length="129052" type="image/jpeg"/>
-      <pubDate>Fri, 14 Mar 2025 18:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Попередньо, у Кривому Розі </title>
-      <link>https://www.mandarinai.lt/post/70674</link>
-      <description>‼️ Попередньо, у Кривому Розі четверо постраждалих. Всі у стані середньої тяжкості, — ОВА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_18-55-52.mp4" length="471467" type="video/mp4"/>
-      <pubDate>Fri, 14 Mar 2025 18:55:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Mar 2025 09:07:40 +0000</lastBuildDate>
     <item>
       <title>«Я трохи жартував, коли казав </title>
       <link>https://www.mandarinai.lt/post/70676</link>
@@ -100,9 +86,18 @@
 
 Українська влада вже кілька тижнів просить обидві країни надіслати більше  Aster 30 (потрібно щонайменше 50).
 
- Проблема в тому, що італійський резерв майже досяг граничного рівня. Ракети, що залишилися, потрібні, щоб гарантувати захист чутливих об'єктів на території Італії.</description>
+Проблема в тому, що італійський резерв майже досяг граничного рівня. Ракети, що залишилися, потрібні, щоб гарантувати захист чутливих об'єктів на території Італії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_07-53-24.jpg" length="121525" type="image/jpeg"/>
       <pubDate>Sat, 15 Mar 2025 07:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>рф масовано вдарила по енергет</title>
+      <link>https://www.mandarinai.lt/post/70689</link>
+      <description>рф масовано вдарила по енергетичним обʼєктам ДТЕК. Без світла – частина Дніпропетровщини та Одещини.
+
+Пошкодження суттєві.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_08-27-13.jpg" length="230747" type="image/jpeg"/>
+      <pubDate>Sat, 15 Mar 2025 08:27:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
