@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 03:16:46 +0000</lastBuildDate>
-    <item>
-      <title>🤷‍♂ путін змусив посланника Тр</title>
-      <link>https://www.mandarinai.lt/post/70668</link>
-      <description>🤷‍♂ путін змусив посланника Трампа Віткоффа чекати 8 годин, поки він проводив зустріч з Лукашенком, — Sky News.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_17-59-21.jpg" length="91748" type="image/jpeg"/>
-      <pubDate>Fri, 14 Mar 2025 17:59:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬русня вдарила балістикою по К</title>
-      <link>https://www.mandarinai.lt/post/70670</link>
-      <description>🤬русня вдарила балістикою по Кривому Рогу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-14_18-16-19.mp4" length="62495" type="video/mp4"/>
-      <pubDate>Fri, 14 Mar 2025 18:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дивовижний місяць над українсь</title>
-      <link>https://www.mandarinai.lt/post/70671</link>
-      <description>Дивовижний місяць над українськими містами виглядає зловісно через русню, яка запустила шахеди практично з усіх можливих напрямків.
-Подбайте про свою безпеку!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_18-32-27.jpg" length="42750" type="image/jpeg"/>
-      <pubDate>Fri, 14 Mar 2025 18:32:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Mar 2025 04:09:31 +0000</lastBuildDate>
     <item>
       <title>⚡️Радники з питань безпеки лід</title>
       <link>https://www.mandarinai.lt/post/70673</link>
@@ -93,6 +71,13 @@
 Чоловік отримав травми, несумісні з життям. Трьох жінок ушпиталили із мінно-вибуховими травмами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-14_20-47-44.jpg" length="84094" type="image/jpeg"/>
       <pubDate>Fri, 14 Mar 2025 20:47:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вночі дрони завітали на Волг</title>
+      <link>https://www.mandarinai.lt/post/70684</link>
+      <description>💥🔥Вночі дрони завітали на Волгоградський НПЗ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_03-53-00.mp4" length="493580" type="video/mp4"/>
+      <pubDate>Sat, 15 Mar 2025 03:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
