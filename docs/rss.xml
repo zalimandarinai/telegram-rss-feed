@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 20:07:56 +0000</lastBuildDate>
-    <item>
-      <title>💥Українська авіація знищила мі</title>
-      <link>https://www.mandarinai.lt/post/70709</link>
-      <description>💥Українська авіація знищила міст в окупованих Олещках, суттєво зруйнувавши логістику рашистів на лівому березі Херсонщини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_16-00-16.mp4" length="767201" type="video/mp4"/>
-      <pubDate>Sat, 15 Mar 2025 16:00:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Mar 2025 21:06:40 +0000</lastBuildDate>
     <item>
       <title>Уявіть собі Україну початку XX</title>
       <link>https://www.mandarinai.lt/post/70710</link>
@@ -117,6 +110,13 @@
 «Сьогодні я наказав збройним силам Сполучених Штатів почати рішучі та потужні військові дії проти терористів-хуситів у Ємені», — написав президент США</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_19-48-02.jpg" length="74799" type="image/jpeg"/>
       <pubDate>Sat, 15 Mar 2025 19:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський безпілотник щойно з</title>
+      <link>https://www.mandarinai.lt/post/70723</link>
+      <description>Російський безпілотник щойно зруйнував верхні поверхи багатоповерхівки в Чернігові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_20-40-57.jpg" length="72413" type="image/jpeg"/>
+      <pubDate>Sat, 15 Mar 2025 20:40:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
