@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 05:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 06:10:36 +0000</lastBuildDate>
     <item>
       <title>⚡️Радники з питань безпеки лід</title>
       <link>https://www.mandarinai.lt/post/70673</link>
@@ -78,6 +78,13 @@
       <description>💥🔥Вночі дрони завітали на Волгоградський НПЗ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-15_03-53-00.mp4" length="493580" type="video/mp4"/>
       <pubDate>Sat, 15 Mar 2025 03:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ ЄС постачатиме Україні збро</title>
+      <link>https://www.mandarinai.lt/post/70686</link>
+      <description>❗️ ЄС постачатиме Україні зброєю навіть у разі тимчасового припинення вогню , - DW.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-15_06-02-48.jpg" length="111110" type="image/jpeg"/>
+      <pubDate>Sat, 15 Mar 2025 06:02:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
