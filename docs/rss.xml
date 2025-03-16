@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Mar 2025 14:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 15:06:55 +0000</lastBuildDate>
     <item>
       <title>Вдарив військового і намагався</title>
       <link>https://www.mandarinai.lt/post/70752</link>
@@ -125,6 +125,13 @@
 Щодо вже захоплених рф територій, то Україна має намір добиватися їх повернення дипломатичним шляхом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-16_13-53-12.jpg" length="143909" type="image/jpeg"/>
       <pubDate>Sun, 16 Mar 2025 13:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна відступила майже з усі</title>
+      <link>https://www.mandarinai.lt/post/70767</link>
+      <description>Україна відступила майже з усієї території Курської області, за винятком невеликої ділянки поруч з кордоном, — The New York Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-16_14-40-33.jpg" length="40705" type="image/jpeg"/>
+      <pubDate>Sun, 16 Mar 2025 14:40:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
