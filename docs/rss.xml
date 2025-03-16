@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Mar 2025 11:06:37 +0000</lastBuildDate>
-    <item>
-      <title>🇬🇱 У Гренландії пройшли масові</title>
-      <link>https://www.mandarinai.lt/post/70746</link>
-      <description>🇬🇱 У Гренландії пройшли масові протести проти заяв Трампа про можливий контроль над островом
-
-Люди вийшли на вулиці з плакатами з гаслами "Yankee go home" та "We are not for sale".
-
- Це найбільший мітинг протесту в історії острова.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-16_08-26-49.jpg" length="199075" type="image/jpeg"/>
-      <pubDate>Sun, 16 Mar 2025 08:26:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Mar 2025 12:13:19 +0000</lastBuildDate>
     <item>
       <title>❗️Генштаб підтвердив вихід Сил</title>
       <link>https://www.mandarinai.lt/post/70749</link>
@@ -121,6 +110,13 @@
  «Американці хочуть швидкого результату, а європейці – надійного. Трамп не знає, як діяти далі», — додав Єгер.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-16_10-16-20.jpg" length="62195" type="image/jpeg"/>
       <pubDate>Sun, 16 Mar 2025 10:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️росія не має права голосу що</title>
+      <link>https://www.mandarinai.lt/post/70761</link>
+      <description>‼️росія не має права голосу щодо присутності європейських військ на території України, - Макрон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-16_11-13-13.jpg" length="112315" type="image/jpeg"/>
+      <pubDate>Sun, 16 Mar 2025 11:13:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
