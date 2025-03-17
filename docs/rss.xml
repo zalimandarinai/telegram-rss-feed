@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 22:08:09 +0000</lastBuildDate>
-    <item>
-      <title>❗️ТЦК зупинилися, щоб допомогт</title>
-      <link>https://www.mandarinai.lt/post/70819</link>
-      <description>❗️ТЦК зупинилися, щоб допомогти збитому чоловікові, але той несподівано втік: у Харківському ТЦК пояснили наїзд на велосипедиста.
-
-За їхніми словами, це сталося випадково через важкі умови дорожнього руху.
-
-Ми так і подумали...</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-17_17-29-29.mp4" length="8464327" type="video/mp4"/>
-      <pubDate>Mon, 17 Mar 2025 17:29:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Mar 2025 23:08:01 +0000</lastBuildDate>
     <item>
       <title>🥴Мир в Україні ніколи не був т</title>
       <link>https://www.mandarinai.lt/post/70824</link>
@@ -76,6 +65,13 @@
       <description>💥🔥В Бєлгороді щось літало, вибухало і диміло</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-17_21-15-36.jpg" length="22257" type="image/jpeg"/>
       <pubDate>Mon, 17 Mar 2025 21:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Результат атаки БПЛА по центр</title>
+      <link>https://www.mandarinai.lt/post/70835</link>
+      <description>💥Результат атаки БПЛА по центру підготовки російських військових в Муліно. Ніжегородська область.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-17_22-23-43.jpg" length="78997" type="image/jpeg"/>
+      <pubDate>Mon, 17 Mar 2025 22:23:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
