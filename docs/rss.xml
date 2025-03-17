@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 14:08:44 +0000</lastBuildDate>
-    <item>
-      <title>🤝Німеччина виділить ще 3 млрд </title>
-      <link>https://www.mandarinai.lt/post/70797</link>
-      <description>🤝Німеччина виділить ще 3 млрд євро на допомогу Україні, а всього Берлін надасть Києву в 2025 році 7 млрд євро , - глава МЗС ФРН Бербок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-17_09-47-48.jpg" length="93754" type="image/jpeg"/>
-      <pubDate>Mon, 17 Mar 2025 09:47:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Mar 2025 15:08:50 +0000</lastBuildDate>
     <item>
       <title>😳«Ви — психічно хворі, якщо не</title>
       <link>https://www.mandarinai.lt/post/70799</link>
@@ -139,6 +132,20 @@
 А, тим часом, адміністрація Сполучених Штатів виходить з групи, яка розслідує воєнні злочини рф, посилаючи сигнал терористам, що їм все можна.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4303.MP4" length="9677468" type="video/mp4"/>
       <pubDate>Mon, 17 Mar 2025 12:36:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів 2-го батальйо</title>
+      <link>https://www.mandarinai.lt/post/70811</link>
+      <description>Оператори дронів 2-го батальйону 40 бригади берегової охорони намагаються відсунути окупантів подалі від Херсона, щоб по мирних херсонцях не прилітало, і полюють виключно за російськими військовими на островах дельти Дніпра.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4304.MP4" length="4490365" type="video/mp4"/>
+      <pubDate>Mon, 17 Mar 2025 14:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Прикордонники РУБпАК «Фенікс</title>
+      <link>https://www.mandarinai.lt/post/70812</link>
+      <description>⚡️Прикордонники РУБпАК «Фенікс» знищили ворожий танк Т-72 і МТ-ЛБ на Харківщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4308.MP4" length="17250619" type="video/mp4"/>
+      <pubDate>Mon, 17 Mar 2025 14:57:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
