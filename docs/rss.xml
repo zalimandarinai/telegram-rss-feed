@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 06:12:49 +0000</lastBuildDate>
-    <item>
-      <title>Тіло військовослужбовця, який </title>
-      <link>https://www.mandarinai.lt/post/70771</link>
-      <description>Тіло військовослужбовця, який вкоротив собі віку, виявили в одному з навчальних батальйонів на Одещині, — місцеві канали</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-16_17-04-16.jpg" length="164120" type="image/jpeg"/>
-      <pubDate>Sun, 16 Mar 2025 17:04:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Mar 2025 07:08:50 +0000</lastBuildDate>
     <item>
       <title>▶️ Найбільш креативне відео з </title>
       <link>https://www.mandarinai.lt/post/70773</link>
@@ -96,9 +89,20 @@
 
  Президент США, за його словами, хоче з'ясувати, чи зможуть США покласти край війні.
 
-Ми говоритимемо про території. Ми говоритимемо про електростанції, — заявив Трамп, описуючи це як поділ певних активів</description>
+Ми говоритимемо про території. Ми говоритимемо про електростанції, — заявив Трамп, описуючи це як поділ певних активів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-17_05-55-52.jpg" length="168060" type="image/jpeg"/>
       <pubDate>Mon, 17 Mar 2025 05:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США виходять із групи з розс</title>
+      <link>https://www.mandarinai.lt/post/70787</link>
+      <description>❗️США виходять із групи з розслідування щодо відповідальності за вторгнення в Україну, — NYT 
+
+Групу було створено, щоб притягнути керівництво РФ разом із її союзниками в Білорусі, Північній Кореї та Ірані до відповідальності.
+
+Втім, це рішення є останнім свідченням того, що адміністрація Трампа відмовляється від притягнення Путіна до відповідальності за злочини, скоєні проти українців, пише видання. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-17_06-28-18.jpg" length="55226" type="image/jpeg"/>
+      <pubDate>Mon, 17 Mar 2025 06:28:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
