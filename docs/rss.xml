@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 16:10:27 +0000</lastBuildDate>
-    <item>
-      <title>Повернулися наші захисники, — </title>
-      <link>https://www.mandarinai.lt/post/70953</link>
-      <description>Повернулися наші захисники, — Зеленський
-
-Україна та росія провели обмін військовими за формулою 175 на 175. Це один із найбільших обмінів. 
-
-Ще 22 поранені захисники повертаються додому завдяки заходам поза обмінами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-19_14-23-42.jpg" length="111145" type="image/jpeg"/>
-      <pubDate>Wed, 19 Mar 2025 14:23:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Mar 2025 17:08:12 +0000</lastBuildDate>
     <item>
       <title>Росіяни сказали мені, що сім д</title>
       <link>https://www.mandarinai.lt/post/70960</link>
@@ -88,6 +77,13 @@
 Сб з 10:00 до 14:00</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-19_16-01-29.jpg" length="160137" type="image/jpeg"/>
       <pubDate>Wed, 19 Mar 2025 16:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>💔«Мене обміняли, мам»: зворушл</title>
+      <link>https://www.mandarinai.lt/post/70969</link>
+      <description>💔«Мене обміняли, мам»: зворушливі кадри першої розмови українського воїна після полону, - Омбудсман України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-19_16-27-53.mp4" length="1494232" type="video/mp4"/>
+      <pubDate>Wed, 19 Mar 2025 16:27:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
