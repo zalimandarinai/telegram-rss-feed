@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 09:09:12 +0000</lastBuildDate>
-    <item>
-      <title>❗️путін не вимагав припинити н</title>
-      <link>https://www.mandarinai.lt/post/70915</link>
-      <description>❗️путін не вимагав припинити надання допомоги Україні, –Трамп.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-19_03-31-35.mp4" length="1955987" type="video/mp4"/>
-      <pubDate>Wed, 19 Mar 2025 03:31:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Після атаки БпЛА горить стан</title>
-      <link>https://www.mandarinai.lt/post/70916</link>
-      <description>💥🔥Після атаки БпЛА горить станція перекачування нафти в Краснодарському краї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-19_03-33-00.mp4" length="232685" type="video/mp4"/>
-      <pubDate>Wed, 19 Mar 2025 03:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Mar 2025 10:09:37 +0000</lastBuildDate>
     <item>
       <title>❗️У Джидді 23 березня відбудут</title>
       <link>https://www.mandarinai.lt/post/70919</link>
@@ -75,6 +61,31 @@
 Зазначається, що США нещодавно дали зрозуміти європейцям, що пріоритетом є припинення бойових дій в Україні, а вже після цього можна обговорювати гарантії безпеки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-19_09-05-27.jpg" length="90116" type="image/jpeg"/>
       <pubDate>Wed, 19 Mar 2025 09:05:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Адміністрація Трампа має намі</title>
+      <link>https://www.mandarinai.lt/post/70929</link>
+      <description>🥴Адміністрація Трампа має намір відмовитися від командування США силами НАТО в Європі, - NBC News
+
+Видання з посиланням на джерела в Міноборони США та дані внутрішнього брифінгу Пентагону пише, що Міноборони США проводить масштабну реструктуризацію військового командування та штабів збройних сил.
+
+Посада головнокомандувача об'єднаних сил НАТО в Європі з'явилася в 1951 році. Весь цей час її займають представники США, а цього літа закінчиться трирічний термін нинішнього командувача SACEUR – генерала Крістофера Каволі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-19_09-22-43.jpg" length="129839" type="image/jpeg"/>
+      <pubDate>Wed, 19 Mar 2025 09:22:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Джавеліном» по БМП, - точна р</title>
+      <link>https://www.mandarinai.lt/post/70930</link>
+      <description>«Джавеліном» по БМП, - точна робота протитанкістів 47-ої бригади «Маґура»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4378.MP4" length="6562483" type="video/mp4"/>
+      <pubDate>Wed, 19 Mar 2025 10:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф уночі вдарила 150 дронами</title>
+      <link>https://www.mandarinai.lt/post/70931</link>
+      <description>❗️рф уночі вдарила 150 дронами по нашій енергетиці, лікарнях, транспорту та інфраструктурі. Слова путіна дуже розходяться з реальністю, — Зеленський.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-19_10-04-53.mp4" length="3068427" type="video/mp4"/>
+      <pubDate>Wed, 19 Mar 2025 10:04:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
