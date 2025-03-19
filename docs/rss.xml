@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 08:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 09:09:12 +0000</lastBuildDate>
     <item>
       <title>❗️путін не вимагав припинити н</title>
       <link>https://www.mandarinai.lt/post/70915</link>
@@ -64,6 +64,17 @@
 Рятувальники евакуювали 147 пацієнтів, серед яких 9 маломобільних громадян. Крім цього, вибухова хвиля пошкодила також приміщення дитячого медичного закладу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-19_05-57-16.jpg" length="44278" type="image/jpeg"/>
       <pubDate>Wed, 19 Mar 2025 05:57:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США пообіцяли Європі участь </title>
+      <link>https://www.mandarinai.lt/post/70927</link>
+      <description>❗️США пообіцяли Європі участь у мирних переговорах щодо України, - Bloomberg
+
+За словами джерел видання, американські чиновники заявили своїм європейським колегам, що ЄС повинен буде брати участь у будь-якій мирній угоді щодо України, оскільки росія хоче зняття санкцій як частину угоди.
+
+Зазначається, що США нещодавно дали зрозуміти європейцям, що пріоритетом є припинення бойових дій в Україні, а вже після цього можна обговорювати гарантії безпеки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-19_09-05-27.jpg" length="90116" type="image/jpeg"/>
+      <pubDate>Wed, 19 Mar 2025 09:05:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
