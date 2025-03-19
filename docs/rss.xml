@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 20:09:37 +0000</lastBuildDate>
-    <item>
-      <title>💔«Мене обміняли, мам»: зворушл</title>
-      <link>https://www.mandarinai.lt/post/70969</link>
-      <description>💔«Мене обміняли, мам»: зворушливі кадри першої розмови українського воїна після полону, - Омбудсман України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7111.MP4" length="10245146" type="video/mp4"/>
-      <pubDate>Wed, 19 Mar 2025 16:27:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Mar 2025 21:07:59 +0000</lastBuildDate>
     <item>
       <title>❇️ Розширення дії 5-ої статті </title>
       <link>https://www.mandarinai.lt/post/70973</link>
@@ -75,6 +68,17 @@ The Sun пише, що Путін, схоже, домігся всіх бажа�
       <description>Сьогодні з полону повернулися 6 бійців 12-ої бригади «Азов», які були в Маріуполі, в той же час 842 нацгвардійця «Азова» досі залишаються у російських тюрмах і перебувають у надважких умовах.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-19_18-41-09.jpg" length="197097" type="image/jpeg"/>
       <pubDate>Wed, 19 Mar 2025 18:41:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росія атакує Слов'янськ на Дон</title>
+      <link>https://www.mandarinai.lt/post/70983</link>
+      <description>Росія атакує Слов'янськ на Донеччині безпілотниками і КАБами
+
+БПЛА містять металеві осколки або кульки, які розлітаються, коли бойова частина спрацьовує. 
+
+Через це є травмовані цивільні, їхня кількість уточнюється.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4399.MP4" length="1426786" type="video/mp4"/>
+      <pubDate>Wed, 19 Mar 2025 20:23:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
