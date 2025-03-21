@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 14:08:06 +0000</lastBuildDate>
-    <item>
-      <title>Ефектний спосіб знищення росій</title>
-      <link>https://www.mandarinai.lt/post/71079</link>
-      <description>Ефектний спосіб знищення російських «скидів» та розвідувальних коптерів.
-
-Оператори 2-го батальйону 40-ої бригади берегової оборони кожного дня полюють на дрони рашистів у Херсонській області. 
-
-В деяких випадках бійцям вдається затрофеїти ворожий дрон після падіння.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4459.MP4" length="14624774" type="video/mp4"/>
-      <pubDate>Fri, 21 Mar 2025 08:47:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Mar 2025 15:08:29 +0000</lastBuildDate>
     <item>
       <title>Вашингтон практично припинив б</title>
       <link>https://www.mandarinai.lt/post/71081</link>
@@ -121,6 +110,13 @@
 Інструментальна дальність РЛС літака визначена у межах 450 км на висоті 6 км. Дальність виявлення винищувача заявлена, як 330 км. Офіційно SAAB декларує, що ефективна площа огляду складає 500000 квадратних кілометрів по горизонталі та понад 20 кілометрів по вертикалі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-21_14-01-16.jpg" length="105065" type="image/jpeg"/>
       <pubDate>Fri, 21 Mar 2025 14:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ланка бомбардувальників Су-24 </title>
+      <link>https://www.mandarinai.lt/post/71094</link>
+      <description>Ланка бомбардувальників Су-24 з 7-ї бригади тактичної авіації вилетіла на бойове завдання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4470.MP4" length="1636808" type="video/mp4"/>
+      <pubDate>Fri, 21 Mar 2025 14:09:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
