@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 07:08:49 +0000</lastBuildDate>
-    <item>
-      <title>В Одесі пожежі внаслідок атаки</title>
-      <link>https://www.mandarinai.lt/post/71059</link>
-      <description>В Одесі пожежі внаслідок атаки "шахедів" майже в усіх районах міста</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-20_22-08-33.mp4" length="585242" type="video/mp4"/>
-      <pubDate>Thu, 20 Mar 2025 22:08:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Mar 2025 08:11:23 +0000</lastBuildDate>
     <item>
       <title>💥Атакована ГТС "Суджа", через </title>
       <link>https://www.mandarinai.lt/post/71060</link>
@@ -83,6 +76,26 @@
 Один із українських співрозмовників зазначив, що нових умов адміністрація Трампа ще не представила, проте є розуміння того, що в США працюють над "серйознішою угодою".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-21_06-24-12.jpg" length="73924" type="image/jpeg"/>
       <pubDate>Fri, 21 Mar 2025 06:24:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Газовимірювальну станцію «Судж</title>
+      <link>https://www.mandarinai.lt/post/71072</link>
+      <description>Газовимірювальну станцію «Суджа» з артилерії обстріляли росіяни, — Генштаб
+
+Про це може говорити і той факт, що спочатку росЗМІ назвали вибух результатом удару «по обʼєкту противника».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-21_07-22-39.jpg" length="51132" type="image/jpeg"/>
+      <pubDate>Fri, 21 Mar 2025 07:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збито 114 з 214 ворожих БПЛА, </title>
+      <link>https://www.mandarinai.lt/post/71073</link>
+      <description>Збито 114 з 214 ворожих БПЛА, 81 безпілотник «локаційно втрачено», - Повітряні Сили
+
+19 дронів, нажаль, долетіли
+
+Прильоти: Одещина, Хмельниччина, Сумщина та Київщина.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-21_07-58-00.jpg" length="98398" type="image/jpeg"/>
+      <pubDate>Fri, 21 Mar 2025 07:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
