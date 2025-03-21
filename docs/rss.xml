@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 23:08:36 +0000</lastBuildDate>
-    <item>
-      <title>В Одесі триває одна з наймасов</title>
-      <link>https://www.mandarinai.lt/post/71052</link>
-      <description>В Одесі триває одна з наймасованіших атак.
-
-В місті 15 вибухів, повідомляють кореспонденти «Суспільного».
-
-рф зараз дещо змінила тактику атак українських міст безпілотниками, противник намагається діяти великою кількістю, щоб спробувати перевантажити ППО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4446.MP4" length="2221068" type="video/mp4"/>
-      <pubDate>Thu, 20 Mar 2025 21:01:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Mar 2025 00:40:32 +0000</lastBuildDate>
     <item>
       <title>💥Момент збиття ворожого «шахед</title>
       <link>https://www.mandarinai.lt/post/71053</link>
@@ -65,9 +54,9 @@
       <pubDate>Thu, 20 Mar 2025 22:11:34 +0000</pubDate>
     </item>
     <item>
-      <title>🔥Ще кадри пожежі на ГТС "Суджа</title>
+      <title>🔥Ще кадри пожежі на ГТС «Суджа</title>
       <link>https://www.mandarinai.lt/post/71064</link>
-      <description>🔥Ще кадри пожежі на ГТС "Суджа"</description>
+      <description>🔥Ще кадри пожежі на ГТС «Суджа»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-20_22-41-56.mp4" length="14899494" type="video/mp4"/>
       <pubDate>Thu, 20 Mar 2025 22:41:56 +0000</pubDate>
     </item>
@@ -81,6 +70,13 @@
 На місці працюють рятувальники: 55 фахівців ДСНС і 9 одиниць техніки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-20_22-50-28.jpg" length="125980" type="image/jpeg"/>
       <pubDate>Thu, 20 Mar 2025 22:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Вибухи на Київщині</title>
+      <link>https://www.mandarinai.lt/post/71066</link>
+      <description>⚡️Вибухи на Київщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-20_23-18-40.mp4" length="926614" type="video/mp4"/>
+      <pubDate>Thu, 20 Mar 2025 23:18:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
