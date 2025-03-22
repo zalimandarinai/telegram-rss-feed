@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 08:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 09:08:03 +0000</lastBuildDate>
     <item>
       <title>В Бундестазі схвалили додатков</title>
       <link>https://www.mandarinai.lt/post/71120</link>
@@ -95,6 +95,19 @@
 Зараз 5 із 12 постраждалих залишаються в лікарнях — дві жінки та два чоловіка з травмами середньої тяжкості, також під наглядом лікарів немовля з контузією.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_07-19-59.jpg" length="175021" type="image/jpeg"/>
       <pubDate>Sat, 22 Mar 2025 07:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Камала Харріс сказала Трампу</title>
+      <link>https://www.mandarinai.lt/post/71135</link>
+      <description>❗️Камала Харріс сказала Трампу на передвиборчих дебатах:
+
+«Усі диктатори та автократи світу мріють про ваше обрання. Ви настільки передбачувані та любите лестощі, що вами дуже легко маніпулювати».
+
+Сьогодні Віткофф розповів, що  путін передав Трампу його портрет і запевнив, що молився за американського президента у церкві, коли у нього стріляли.
+
+Судячи з того, як Трамп захищає рф та путіна, прогноз Камали справдився.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-22_08-35-45.mp4" length="3859157" type="video/mp4"/>
+      <pubDate>Sat, 22 Mar 2025 08:35:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
