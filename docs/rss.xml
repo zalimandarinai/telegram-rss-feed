@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 13:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 14:07:18 +0000</lastBuildDate>
     <item>
       <title>💥Момент вибуху безпілотника в </title>
       <link>https://www.mandarinai.lt/post/71126</link>
@@ -116,6 +116,17 @@
 Загалом це поповнило бюджет США на 5 мільярдів доларів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_13-11-22.jpg" length="74040" type="image/jpeg"/>
       <pubDate>Sat, 22 Mar 2025 13:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Україна та рф братимуть учас</title>
+      <link>https://www.mandarinai.lt/post/71142</link>
+      <description>❗️Україна та рф братимуть участь у переговорах за посередництва США, але прямих перемовин  не буде, - The Washington Post 
+
+Зустріч американської та української делегацій запланована на завтра, 23 березня, а з росіянами американці зустрінуться наступного дня.
+
+Дискусії зосередяться навколо припинення вогню в Чорному морі та по інфраструктурі, проте питання повного припинення вогню, ймовірно, поки що обговорюватися не буде.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_13-21-51.jpg" length="79392" type="image/jpeg"/>
+      <pubDate>Sat, 22 Mar 2025 13:21:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
