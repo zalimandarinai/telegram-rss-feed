@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 15:07:01 +0000</lastBuildDate>
-    <item>
-      <title>💥Момент вибуху безпілотника в </title>
-      <link>https://www.mandarinai.lt/post/71126</link>
-      <description>💥Момент вибуху безпілотника в Ростові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-21_20-54-27.mp4" length="1025204" type="video/mp4"/>
-      <pubDate>Fri, 21 Mar 2025 20:54:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Mar 2025 16:08:35 +0000</lastBuildDate>
     <item>
       <title>Серед загиблих внаслідок росій</title>
       <link>https://www.mandarinai.lt/post/71127</link>
@@ -127,6 +120,17 @@
 Дискусії зосередяться навколо припинення вогню в Чорному морі та по інфраструктурі, проте питання повного припинення вогню, ймовірно, поки що обговорюватися не буде.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_13-21-51.jpg" length="79392" type="image/jpeg"/>
       <pubDate>Sat, 22 Mar 2025 13:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Президент Німеччини схвалив</title>
+      <link>https://www.mandarinai.lt/post/71143</link>
+      <description>🇩🇪 Президент Німеччини схвалив виділення 3 млрд євро на військову допомогу Україні
+
+Як пише видання NTV, Франк-Вальтер Штайнмаєр підписав поправку, яка передбачає скасування "боргового гальма" для витрат на оборону, а також виділення 500 млрд євро для спеціального інфраструктурного фонду.
+
+Це також знімає перешкоду для виділення Україні додаткових 3 млрд євро військової допомоги у 2025 році.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_15-43-35.jpg" length="33918" type="image/jpeg"/>
+      <pubDate>Sat, 22 Mar 2025 15:43:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
