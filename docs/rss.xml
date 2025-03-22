@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 09:08:03 +0000</lastBuildDate>
-    <item>
-      <title>В Бундестазі схвалили додатков</title>
-      <link>https://www.mandarinai.lt/post/71120</link>
-      <description>В Бундестазі схвалили додаткові €3 млрд. військової допомоги для Украини на цей рік</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-21_20-13-36.jpg" length="35080" type="image/jpeg"/>
-      <pubDate>Fri, 21 Mar 2025 20:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Медики госпіталізували 5 людей</title>
-      <link>https://www.mandarinai.lt/post/71121</link>
-      <description>Медики госпіталізували 5 людей в Запоріжжі. Троє із них у важкому стані. Атака росіян на Запоріжжя забрала життя однієї людини. Щойно рятувальники дістали з-під завалів зруйнованого будинку тіло жінки. Так повідомив очільник військової адміністрації Федоров</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4490.MP4" length="4469975" type="video/mp4"/>
-      <pubDate>Fri, 21 Mar 2025 20:16:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Mar 2025 10:07:54 +0000</lastBuildDate>
     <item>
       <title>❗️ Bild : Українські військові</title>
       <link>https://www.mandarinai.lt/post/71123</link>
@@ -97,17 +83,32 @@
       <pubDate>Sat, 22 Mar 2025 07:19:59 +0000</pubDate>
     </item>
     <item>
-      <title>❗️Камала Харріс сказала Трампу</title>
-      <link>https://www.mandarinai.lt/post/71135</link>
-      <description>❗️Камала Харріс сказала Трампу на передвиборчих дебатах:
+      <title>⚡️ Китай може взяти участь у м</title>
+      <link>https://www.mandarinai.lt/post/71136</link>
+      <description>⚡️ Китай може взяти участь у миротворчій місії в Україні, такий варіант розглядають у Брюсселі, — Welt am Sonntag.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_09-17-15.jpg" length="119553" type="image/jpeg"/>
+      <pubDate>Sat, 22 Mar 2025 09:17:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Близько години тому великокалі</title>
+      <link>https://www.mandarinai.lt/post/71137</link>
+      <description>Близько години тому великокаліберна система 2С7 «Піон», за наведенням 100-ої ОМБР, повністю розвалила позицію російських окупантів в руїнах будівлі в середмісті Торецька.
 
-«Усі диктатори та автократи світу мріють про ваше обрання. Ви настільки передбачувані та любите лестощі, що вами дуже легко маніпулювати».
+В районі Торецька окупанти поки що не мають успіху, тому повертаються до тактики «мулів», коли перша група смертників має донести до певної позиції боєкомплект, а за нею йдуть більш підготовлені штурмовики, які забирають цей БК і пробують просунутись далі.
 
-Сьогодні Віткофф розповів, що  путін передав Трампу його портрет і запевнив, що молився за американського президента у церкві, коли у нього стріляли.
+Також є інформація, згідно з якою окупанти намагаються штурмувати позиції в цивільному одязі, щоб ввести в оману українських військових.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4500.MOV" length="13624250" type="video/mp4"/>
+      <pubDate>Sat, 22 Mar 2025 09:29:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зеленський прибув на Донеччину</title>
+      <link>https://www.mandarinai.lt/post/71138</link>
+      <description>Зеленський прибув на Донеччину.
+Біля знаменитої стели, яка вже стала меморіалом, подякував всім, хто захищає Україну.
 
-Судячи з того, як Трамп захищає рф та путіна, прогноз Камали справдився.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-22_08-35-45.mp4" length="3859157" type="video/mp4"/>
-      <pubDate>Sat, 22 Mar 2025 08:35:45 +0000</pubDate>
+«Дякую всім нашим захисникам і захисницям. Шана всім полеглим героям. Дякую всім, хто допомагає Україні та підтримує нас».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-22_10-00-21.mp4" length="4242684" type="video/mp4"/>
+      <pubDate>Sat, 22 Mar 2025 10:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
