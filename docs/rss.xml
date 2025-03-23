@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 17:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 18:10:18 +0000</lastBuildDate>
     <item>
       <title>👌У ЄС знайшли спосіб обходити </title>
       <link>https://www.mandarinai.lt/post/71205</link>
@@ -72,6 +72,33 @@
 На місці працюють поліцейські та працівники СБУ. Деталі встановлюються</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-23_16-26-43.mp4" length="1027616" type="video/mp4"/>
       <pubDate>Sun, 23 Mar 2025 16:26:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞Фото жінки, яка пронесла вибу</title>
+      <link>https://www.mandarinai.lt/post/71214</link>
+      <description>🔞Фото жінки, яка пронесла вибухівку у відділення поліції на Одещині.
+
+Російські спецслужби знову використали українку, як "живу бомбу" для теракту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_17-12-29.jpg" length="224584" type="image/jpeg"/>
+      <pubDate>Sun, 23 Mar 2025 17:12:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤦‍♂Радник Трампа з нацбезпеки </title>
+      <link>https://www.mandarinai.lt/post/71216</link>
+      <description>🤦‍♂Радник Трампа з нацбезпеки заявив, що припинення вогню (ceasefire) по інфраструктурі вже діє та був запроваджений одразу після розмови Трампа з путіним
+
+На планеті Трампа вочевидь не бачили ударів по енергетиці в Слов'янську та Одесі після телефонної розмови, коли тисячі людей опинились без світла.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-23_17-20-08.mp4" length="713243" type="video/mp4"/>
+      <pubDate>Sun, 23 Mar 2025 17:20:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Переговори у Саудівській Ара</title>
+      <link>https://www.mandarinai.lt/post/71217</link>
+      <description>❗️Переговори у Саудівській Аравії завершені, — заступник голови ОП
+
+За його словами, зустрічі з росіянами не буде</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-23_17-46-17.mp4" length="260922" type="video/mp4"/>
+      <pubDate>Sun, 23 Mar 2025 17:46:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
