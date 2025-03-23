@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 19:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 20:08:30 +0000</lastBuildDate>
     <item>
       <title>❗️В Біляївці на Одещині у відд</title>
       <link>https://www.mandarinai.lt/post/71213</link>
@@ -70,8 +70,17 @@ Cпецпредставник президента США Стів Віткоф�
       <title>❗️Ворог ниє, що українські сил</title>
       <link>https://www.mandarinai.lt/post/71225</link>
       <description>❗️Ворог ниє, що українські сили просунулись на Бєлгородшині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_19-03-24.jpg" length="24139" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_19-03-24.jpg" length="174238" type="image/jpeg"/>
       <pubDate>Sun, 23 Mar 2025 19:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ США будуть просити росію по</title>
+      <link>https://www.mandarinai.lt/post/71228</link>
+      <description>❗️ США будуть просити росію повернути українських дітей, яких незаконно вивезли до рф, — радник з нацбезпеки Волц в інтерв'ю CBS News 
+
+Він запевнив, що Трамп порушував це питання, коли говорив із Зеленським та путіним про обмін полоненими. За словами Волца, процес повернення українських дітей є одним із «заходів зміцнення довіри».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_19-58-47.jpg" length="82223" type="image/jpeg"/>
+      <pubDate>Sun, 23 Mar 2025 19:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
