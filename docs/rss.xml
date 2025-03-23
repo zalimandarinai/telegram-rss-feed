@@ -6,40 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 05:08:12 +0000</lastBuildDate>
-    <item>
-      <title>HIMARS вдарив по ворожій РСЗВ </title>
-      <link>https://www.mandarinai.lt/post/71160</link>
-      <description>HIMARS вдарив по ворожій РСЗВ на лівобережжі Херсонщини
-
-Здетонував боєкомплект, один із реактивних снарядів неконтрольовано вилетів.
-
-Коригувала аеророзвідка 14-го полку безпілотних систем.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4520.MP4" length="10835711" type="video/mp4"/>
-      <pubDate>Sat, 22 Mar 2025 20:41:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀  Готуватись до війни заклика</title>
-      <link>https://www.mandarinai.lt/post/71161</link>
-      <description>👀  Готуватись до війни закликає людей німецький журнал Stern:
-
-«Ви б пішли воювати за Німеччину? Ніхто з нас не хоче війни, але ми повинні готуватися до неї вже зараз».
-
-Окрім того, Італія заявила про намір збільшити чисельність своїх збройних сил зі 160 до 200 тис. військовослужбовців, Нідерланди — з 74 до 200 тис., а Польща — з 200 до 300 тис. 
-
-Також низка країн НАТО збільшують свої оборонні бюджети. Схоже, Європа справді готується до потенційної війни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_20-42-48.jpg" length="128524" type="image/jpeg"/>
-      <pubDate>Sat, 22 Mar 2025 20:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Бучанському районі під Києво</title>
-      <link>https://www.mandarinai.lt/post/71162</link>
-      <description>У Бучанському районі під Києвом палає поле через падіння уламків БпЛА
-
-На місці працюють пожежники, які намагаються локалізувати займання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_20-48-32.jpg" length="103046" type="image/jpeg"/>
-      <pubDate>Sat, 22 Mar 2025 20:48:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 06:10:54 +0000</lastBuildDate>
     <item>
       <title>Уламки БпЛА влучили у багатопо</title>
       <link>https://www.mandarinai.lt/post/71165</link>
@@ -99,6 +66,22 @@
 Ліквідація наслідків ще триває.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_02-13-06.jpg" length="47613" type="image/jpeg"/>
       <pubDate>Sun, 23 Mar 2025 02:13:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>До трьох зросла кількість заги</title>
+      <link>https://www.mandarinai.lt/post/71174</link>
+      <description>До трьох зросла кількість загиблих внаслідок атаки рф на Київ: серед жертв — 5-річна дитина, — КМВА
+
+Серед загиблих — батько та його маленька дочка. Ще 10 людей постраждали. Наймолодшому пораненому — лише 11 місяців</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_05-39-05.jpg" length="249015" type="image/jpeg"/>
+      <pubDate>Sun, 23 Mar 2025 05:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вигоріла вщент внаслілок атаки</title>
+      <link>https://www.mandarinai.lt/post/71175</link>
+      <description>Вигоріла вщент внаслілок атаки дрона квартира в Дніпровському районі Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_05-57-42.jpg" length="252507" type="image/jpeg"/>
+      <pubDate>Sun, 23 Mar 2025 05:57:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
