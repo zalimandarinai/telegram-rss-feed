@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 06:10:54 +0000</lastBuildDate>
-    <item>
-      <title>Уламки БпЛА влучили у багатопо</title>
-      <link>https://www.mandarinai.lt/post/71165</link>
-      <description>Уламки БпЛА влучили у багатоповерхівку в Києві, — КМВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4527.MP4" length="1063761" type="video/mp4"/>
-      <pubDate>Sat, 22 Mar 2025 22:48:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 07:07:30 +0000</lastBuildDate>
     <item>
       <title>Кадри падіння уламків на будин</title>
       <link>https://www.mandarinai.lt/post/71167</link>
@@ -80,8 +73,19 @@
       <title>Вигоріла вщент внаслілок атаки</title>
       <link>https://www.mandarinai.lt/post/71175</link>
       <description>Вигоріла вщент внаслілок атаки дрона квартира в Дніпровському районі Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_05-57-42.jpg" length="252507" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_05-57-42.jpg" length="123741" type="image/jpeg"/>
       <pubDate>Sun, 23 Mar 2025 05:57:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ЗБИТО 97/147 ВОРОЖИХ БПЛА, 2</title>
+      <link>https://www.mandarinai.lt/post/71179</link>
+      <description>⚡️ЗБИТО 97/147 ВОРОЖИХ БПЛА, 25 безпілотників-імітаторів локаційно втрачені.
+
+Цієї ночі противник застосував більшу кількість саме ударних БпЛА (щонайменше 122 одиниці), дронів-імітаторів, відповідно — 25!
+
+Внаслідок російської атаки постраждали Київщина, Харківщина, Сумщина, Чернігівщина, Одещина та Донеччина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_06-57-05.jpg" length="122306" type="image/jpeg"/>
+      <pubDate>Sun, 23 Mar 2025 06:57:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
