@@ -6,44 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 23:07:30 +0000</lastBuildDate>
-    <item>
-      <title>Повітряна тривога в місті Київ</title>
-      <link>https://www.mandarinai.lt/post/71152</link>
-      <description>Повітряна тривога в місті Київ та кількох областях через загрозу БпЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_18-41-19.jpg" length="37540" type="image/jpeg"/>
-      <pubDate>Sat, 22 Mar 2025 18:41:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Американські військові розп</title>
-      <link>https://www.mandarinai.lt/post/71153</link>
-      <description>‼️ Американські військові розпочали термінову розробку системи ПРО під кодовою назвою «Золотий купол», — CNN
-
-Система повинна захистити США від ракетних ударів великої дальності. Білий дім повідомив, що не буде шкодувати коштів для виконання одного з головних пріоритетів Пентагону.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_19-02-24.jpg" length="58936" type="image/jpeg"/>
-      <pubDate>Sat, 22 Mar 2025 19:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️російські військові намагают</title>
-      <link>https://www.mandarinai.lt/post/71154</link>
-      <description>❗️російські військові намагаються активізувати свої сили на Покровському напрямку, проте, масштаби наступу на Донеччині після паузи суттєво зменшились, - ОСУВ «Хортиця».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_19-16-19.jpg" length="87825" type="image/jpeg"/>
-      <pubDate>Sat, 22 Mar 2025 19:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Контрнаступ ЗСУ у 2023 році </title>
-      <link>https://www.mandarinai.lt/post/71155</link>
-      <description>❗️Контрнаступ ЗСУ у 2023 році був приречений на провал. Україні зараз важливо зберегти те, що вона має, — президент Чехії Петер Павел </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-22_19-22-15.mp4" length="4984129" type="video/mp4"/>
-      <pubDate>Sat, 22 Mar 2025 19:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Боєць 152-ої окремої єгерської</title>
-      <link>https://www.mandarinai.lt/post/71157</link>
-      <description>Боєць 152-ої окремої єгерської бригади під час бою знищив трьох російських штурмовиків в районі Покровська.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4516.MP4" length="22075889" type="video/mp4"/>
-      <pubDate>Sat, 22 Mar 2025 20:24:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 00:43:44 +0000</lastBuildDate>
     <item>
       <title>В Україні налагоджено виробниц</title>
       <link>https://www.mandarinai.lt/post/71158</link>
@@ -97,8 +60,48 @@
       <title>Уламки БпЛА влучили у багатопо</title>
       <link>https://www.mandarinai.lt/post/71165</link>
       <description>Уламки БпЛА влучили у багатоповерхівку в Києві, — КМВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4523.MP4" length="1591252" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4527.MP4" length="1063761" type="video/mp4"/>
       <pubDate>Sat, 22 Mar 2025 22:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кадри падіння уламків на будин</title>
+      <link>https://www.mandarinai.lt/post/71167</link>
+      <description>Кадри падіння уламків на будинки в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4524.MP4" length="9107173" type="video/mp4"/>
+      <pubDate>Sat, 22 Mar 2025 23:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Горить квартира у висотці
+
+Ата</title>
+      <link>https://www.mandarinai.lt/post/71169</link>
+      <description>Горить квартира у висотці
+
+Атака ударними БпЛА по Києву в ніч з 22 на 23.03.2025.
+
+Ворожий дрон влучив у багатоквартирний будинок у Дніпровському районі — виникла пожежа в закладі харчування.
+
+У Подільському районі зафіксовано займання на 20-му та 16-му поверхах різних багатоповерхівок.
+
+У Деснянському районі уламки спричинили пожежу на відкритій території. У Голосіївському та Шевченківському районах — падіння уламків, пошкоджено автомобіль.
+
+У Дніпровському районі зафіксовано ще одне падіння уламків на 20 поверсі житлового будинку 
+
+Інформація щодо постраждалих уточнюється. На місці працюють екстрені служби.
+
+Загроза БпЛА триває.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4526.MP4" length="1619544" type="video/mp4"/>
+      <pubDate>Sat, 22 Mar 2025 23:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент детонації уламків БПЛА </title>
+      <link>https://www.mandarinai.lt/post/71171</link>
+      <description>Момент детонації уламків БПЛА в Києві.
+
+Відомо про 7 постраждалих на цей момент. Одного із них госпіталізували, іншим медики надали допомогу на місці
+ㅤ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4528.MP4" length="2859310" type="video/mp4"/>
+      <pubDate>Sat, 22 Mar 2025 23:55:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
