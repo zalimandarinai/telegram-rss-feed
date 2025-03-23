@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 07:07:30 +0000</lastBuildDate>
-    <item>
-      <title>Кадри падіння уламків на будин</title>
-      <link>https://www.mandarinai.lt/post/71167</link>
-      <description>Кадри падіння уламків на будинки в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4524.MP4" length="9107173" type="video/mp4"/>
-      <pubDate>Sat, 22 Mar 2025 23:11:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 08:10:11 +0000</lastBuildDate>
     <item>
       <title>Горить квартира у висотці
 
@@ -86,6 +79,13 @@
 Внаслідок російської атаки постраждали Київщина, Харківщина, Сумщина, Чернігівщина, Одещина та Донеччина</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_06-57-05.jpg" length="122306" type="image/jpeg"/>
       <pubDate>Sun, 23 Mar 2025 06:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Уночі на російській нафтопер</title>
+      <link>https://www.mandarinai.lt/post/71181</link>
+      <description>💥🔥Уночі на російській нафтоперекачувальній станції «Кавказька» пролунали нові вибухи, здійнялася пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-23_07-40-15.mp4" length="4100037" type="video/mp4"/>
+      <pubDate>Sun, 23 Mar 2025 07:40:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
