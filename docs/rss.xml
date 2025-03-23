@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 00:43:44 +0000</lastBuildDate>
-    <item>
-      <title>В Україні налагоджено виробниц</title>
-      <link>https://www.mandarinai.lt/post/71158</link>
-      <description>В Україні налагоджено виробництво чеських ліцензійних боєприпасів для стрілецької зброї, а також українські підприємства почали виробляти штурмові гвинтівки Bren-2 за ліцензією компанії Česká Zbrojovka, - міністр стратегічних галузей Сметанін на зустрічі з чеським президентом Петром Павлом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_20-32-21.jpg" length="92286" type="image/jpeg"/>
-      <pubDate>Sat, 22 Mar 2025 20:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Україна не причетна до орган</title>
-      <link>https://www.mandarinai.lt/post/71159</link>
-      <description>❗️Україна не причетна до організації теракту в Крокусі – СК рф.
-
-На честь річниці теракту слідчий комітет розкрив подробиці справи, не підтвердивши ключову версію путіна з "українським слідом". Слідчі розповіли, що терористи були завербовані ІДІЛ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-22_20-37-10.jpg" length="52019" type="image/jpeg"/>
-      <pubDate>Sat, 22 Mar 2025 20:37:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 02:23:20 +0000</lastBuildDate>
     <item>
       <title>HIMARS вдарив по ворожій РСЗВ </title>
       <link>https://www.mandarinai.lt/post/71160</link>
@@ -102,6 +86,19 @@
 ㅤ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4528.MP4" length="2859310" type="video/mp4"/>
       <pubDate>Sat, 22 Mar 2025 23:55:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві загинули 2 людини. 
+
+П</title>
+      <link>https://www.mandarinai.lt/post/71172</link>
+      <description>В Києві загинули 2 людини. 
+
+Після атаки «шахедів» одна жінка загинула у Дніпровському районі, ще одна людина – у Голосіївському. 
+
+Ліквідація наслідків ще триває.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_02-13-06.jpg" length="47613" type="image/jpeg"/>
+      <pubDate>Sun, 23 Mar 2025 02:13:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
