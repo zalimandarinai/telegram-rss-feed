@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 16:08:19 +0000</lastBuildDate>
-    <item>
-      <title>Штурм відбито: оператори РУБпА</title>
-      <link>https://www.mandarinai.lt/post/71198</link>
-      <description>Штурм відбито: оператори РУБпАК «Фенікс» Держприкордонслужби знищили ворожий танк і систему РЕБ, що його прикривала
-
-На Донеччині ворог намагався прорватися до українських позицій під системою РЕБ Р-330. Результат був очікуваним: і танк, і систему РЕБ знищено, не залишивши ворогу шансів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4548.MP4" length="16933855" type="video/mp4"/>
-      <pubDate>Sun, 23 Mar 2025 13:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наслідки авіаудару по Боровій </title>
-      <link>https://www.mandarinai.lt/post/71199</link>
-      <description>Наслідки авіаудару по Боровій на Харківщині, під завалами опинилась жінка, її врятували.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_13-24-09.jpg" length="215567" type="image/jpeg"/>
-      <pubDate>Sun, 23 Mar 2025 13:24:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 17:05:28 +0000</lastBuildDate>
     <item>
       <title>👌У ЄС знайшли спосіб обходити </title>
       <link>https://www.mandarinai.lt/post/71205</link>
@@ -79,6 +63,15 @@
       <description>🔞 російський солдат, ймовірно, зрозумівши, що евакуації не буде, робить те, що отримало назву "прощальний поцілунок путіна". Окупант вкоротив собі віку на позиціях в районі Сіверську. Нашим менше роботи.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4558.MP4" length="21162526" type="video/mp4"/>
       <pubDate>Sun, 23 Mar 2025 15:25:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️В Біляївці на Одещині у відд</title>
+      <link>https://www.mandarinai.lt/post/71213</link>
+      <description>❗️В Біляївці на Одещині у відділку поліції стався вибух, загинула жінка, — Нацполіція
+
+На місці працюють поліцейські та працівники СБУ. Деталі встановлюються</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-23_16-26-43.mp4" length="1027616" type="video/mp4"/>
+      <pubDate>Sun, 23 Mar 2025 16:26:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
