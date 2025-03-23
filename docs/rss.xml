@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 09:07:34 +0000</lastBuildDate>
-    <item>
-      <title>Момент детонації уламків БПЛА </title>
-      <link>https://www.mandarinai.lt/post/71171</link>
-      <description>Момент детонації уламків БПЛА в Києві.
-
-Відомо про 7 постраждалих на цей момент. Одного із них госпіталізували, іншим медики надали допомогу на місці
-ㅤ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4528.MP4" length="2859310" type="video/mp4"/>
-      <pubDate>Sat, 22 Mar 2025 23:55:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 10:07:58 +0000</lastBuildDate>
     <item>
       <title>В Києві загинули 2 людини. 
 
@@ -76,9 +66,24 @@
     <item>
       <title>⚡️Білий дім прагне досягти уго</title>
       <link>https://www.mandarinai.lt/post/71184</link>
-      <description>⚡️Білий дім прагне досягти угоди про перемир'я між росією та Україною до 20-го квітня, — Bloomberg</description>
+      <description>⚡️Білий дім прагне досягти угоди про перемир'я між росією та Україною до 20-го квітня, але визнає, що терміни можуть «перенестись» через великі розриви між позиціями двох сторін— Bloomberg</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-23_08-42-26.jpg" length="124053" type="image/jpeg"/>
       <pubDate>Sun, 23 Mar 2025 08:42:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Офіційно! Населений пункт На</title>
+      <link>https://www.mandarinai.lt/post/71185</link>
+      <description>⚡️Офіційно! Населений пункт Надія на Луганщині — звільнено!
+
+Третя штурмова повідомляє: силами бригади, передусім 1-го штурмового батальйону, відновлено контроль над населеним пунктом Надія. 
+
+Загальний обсяг звільнених від ворога територій — три квадратних кілометри.
+
+«Взяття Надії вартувало противнику двох місяців зусиль і двох стертих в «нуль» механізованих полків — 752-го та 254-го 20-ї армії рф», — Командир Третього Армійського Корпусу Андрій Білецький.
+
+Перші кадри з 30-годинної операції — у цьому відео.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-23_09-53-14.mp4" length="5703424" type="video/mp4"/>
+      <pubDate>Sun, 23 Mar 2025 09:53:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
