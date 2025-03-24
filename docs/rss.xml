@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 23:07:37 +0000</lastBuildDate>
-    <item>
-      <title>російські військові навіть не </title>
-      <link>https://www.mandarinai.lt/post/71218</link>
-      <description>російські військові навіть не зупинились, щоб допомогти своїм після удару безпілотника.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4562.MP4" length="3790265" type="video/mp4"/>
-      <pubDate>Sun, 23 Mar 2025 18:19:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Mar 2025 00:42:16 +0000</lastBuildDate>
     <item>
       <title>🤔 "Це думка росії". Віткофф по</title>
       <link>https://www.mandarinai.lt/post/71220</link>
@@ -96,6 +89,13 @@ Cпецпредставник президента США Стів Віткоф�
       <description>👌Під час окопного бою на Куп'янському напрямку український військовий, не маючи гранати під рукою, кидає у противника каску. Російський штурмовик, вирішивши, що це вибухівка починає відступати і отримує чергу з автомата в спину.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-23_23-04-56.mp4" length="1136326" type="video/mp4"/>
       <pubDate>Sun, 23 Mar 2025 23:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент влучання в Києві, зараз</title>
+      <link>https://www.mandarinai.lt/post/71234</link>
+      <description>Момент влучання в Києві, зараз в місті та області триває дорозвідка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4576.MP4" length="1766957" type="video/mp4"/>
+      <pubDate>Sun, 23 Mar 2025 23:47:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
