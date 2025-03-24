@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 04:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 05:09:25 +0000</lastBuildDate>
     <item>
       <title>🤔 "Це думка росії". Віткофф по</title>
       <link>https://www.mandarinai.lt/post/71220</link>
@@ -96,6 +96,17 @@ Cпецпредставник президента США Стів Віткоф�
       <description>Момент влучання в Києві, зараз в місті та області триває дорозвідка.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4576.MP4" length="1766957" type="video/mp4"/>
       <pubDate>Sun, 23 Mar 2025 23:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знищено 4 вертольоти в тилу во</title>
+      <link>https://www.mandarinai.lt/post/71235</link>
+      <description>Знищено 4 вертольоти в тилу ворога
+
+Сили спеціальних операцій у взаємодії з ГУР МО, Ракетними військами і артилерією знищили два ворожих вертольоти Ка-52 та два Мі-8 в Білгородській області рф.
+
+Вертольоти знищені ракетними ударами в тил ворога, де противник створив так званий майданчик «підскоку» - замасковану позицію для швидкого переміщення бортів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4577.MP4" length="20695878" type="video/mp4"/>
+      <pubDate>Mon, 24 Mar 2025 04:53:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
