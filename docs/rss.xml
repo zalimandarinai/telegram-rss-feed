@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Mar 2025 09:09:07 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Іран  показав свою підземну </title>
-      <link>https://www.mandarinai.lt/post/71326</link>
-      <description>🤬 Іран  показав свою підземну ракетну базу з великими запасами зброї, — сюжет державного телебачення країни</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-25_19-56-00.mp4" length="10197829" type="video/mp4"/>
-      <pubDate>Tue, 25 Mar 2025 19:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Mar 2025 10:09:13 +0000</lastBuildDate>
     <item>
       <title>Виходячи з аналізу та розвідда</title>
       <link>https://www.mandarinai.lt/post/71327</link>
@@ -96,6 +89,15 @@
       <pubDate>Wed, 26 Mar 2025 08:36:29 +0000</pubDate>
     </item>
     <item>
+      <title>🇵🇱⚔️Запас боєприпасів на тижде</title>
+      <link>https://www.mandarinai.lt/post/71340</link>
+      <description>🇵🇱⚔️Запас боєприпасів на тиждень-два: Польща могла б захищатися від агресії не більше 14 днів, - заявив голова Бюро нацбезпеки Даріуш Луковський.
+
+Він наголосив, що це стосується не всіх видів озброєння, мовляв, у польської армії є різне обладнання, в тому числі старого типу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-26_08-47-56.jpg" length="140138" type="image/jpeg"/>
+      <pubDate>Wed, 26 Mar 2025 08:47:56 +0000</pubDate>
+    </item>
+    <item>
       <title>🧐«Принцип «мир через силу» буд</title>
       <link>https://www.mandarinai.lt/post/71341</link>
       <description>🧐«Принцип «мир через силу» буде зруйно... відновлено»
@@ -103,6 +105,15 @@
 Обмовка очільника Пентагона. Піт Гегсет вчергове розкритикував політику адміністрації Байдена, а, говорячи про діяльність Трампа дещо обмовився, майже по Фрейду</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-26_09-02-47.mp4" length="803644" type="video/mp4"/>
       <pubDate>Wed, 26 Mar 2025 09:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф планує завершити війну до</title>
+      <link>https://www.mandarinai.lt/post/71342</link>
+      <description>❗️рф планує завершити війну до 2026 року, — Скібіцький
+
+Представник ГУР заявив, що Росія спрогнозувала 15 сценаріїв можливих військових конфліктів до 2045 року. Шість із них пов'язані з північною Європою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-26_09-23-29.jpg" length="76514" type="image/jpeg"/>
+      <pubDate>Wed, 26 Mar 2025 09:23:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
