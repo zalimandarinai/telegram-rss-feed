@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 14:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 15:09:02 +0000</lastBuildDate>
     <item>
       <title>❗️Ми сподіваємося перейти до п</title>
       <link>https://www.mandarinai.lt/post/71418</link>
@@ -84,6 +84,19 @@
 Мета – з'єднати Кримський коридор із Придністров'ям. Росіяни готують плацдарми для наступу, але просуваються з великими втратами та обмеженими ресурсами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-27_13-04-30.jpg" length="85490" type="image/jpeg"/>
       <pubDate>Thu, 27 Mar 2025 13:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Україні будуть діяти «сил</title>
+      <link>https://www.mandarinai.lt/post/71432</link>
+      <description>⚡️ В Україні будуть діяти «сили стримування» разом з кількома країнами. Вони охоплюватимуть морські, повітряні та наземні напрямки і будуть частиною ширшого пакету заходів з безпеки, — Макрон.
+
+Британія очолить ініцівативу. Сили стримування не є одностайним рішенням, але нам не потрібна одностайність, щоб їх запровадити. З наступного тижня наші дипломатичні радники будуть стежити за виконанням прийнятих сьогодні рішень, додав президент Франції.
+
+Не РФ має вирішувати, чи будуть «сили стримування» в Україні.
+
+Макрон знову поговорить із Трампом у найближчий час</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-27_14-14-50.jpg" length="51919" type="image/jpeg"/>
+      <pubDate>Thu, 27 Mar 2025 14:14:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
