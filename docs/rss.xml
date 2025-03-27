@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 10:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 11:07:16 +0000</lastBuildDate>
     <item>
       <title>🤬Для втечі Комарницького  за к</title>
       <link>https://www.mandarinai.lt/post/71415</link>
@@ -48,7 +48,7 @@
     <item>
       <title>У київських школах дітей почал</title>
       <link>https://www.mandarinai.lt/post/71422</link>
-      <description>У київських школах дітей почали вчити літати на FPV-дронах</description>
+      <description>У київських школах дітей почали вчити літати на FPV-дронах, - відео з мереж</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-27_09-13-13.mp4" length="2050733" type="video/mp4"/>
       <pubDate>Thu, 27 Mar 2025 09:13:13 +0000</pubDate>
     </item>
@@ -85,6 +85,13 @@
 Ми поділилися розвідданими з нашими союзниками. Ми повинні дивитися на ситуацію з широко розплющеними очима.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-27_10-03-37.jpg" length="56317" type="image/jpeg"/>
       <pubDate>Thu, 27 Mar 2025 10:03:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Феєричний вибух російської МТ-</title>
+      <link>https://www.mandarinai.lt/post/71430</link>
+      <description>Феєричний вибух російської МТ-ЛБ, яка везла боєприпаси, після прильоту від «Птахів Мадяра».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4690.MP4" length="8818666" type="video/mp4"/>
+      <pubDate>Thu, 27 Mar 2025 10:48:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
