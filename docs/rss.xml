@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 08:11:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 09:09:05 +0000</lastBuildDate>
     <item>
       <title>⚡️У Дніпрі прильоти шахедів по</title>
       <link>https://www.mandarinai.lt/post/71405</link>
@@ -81,6 +81,20 @@
  На Закарпатті Комарницький, як кажуть свідки, повідомив спільникам, що уже зустрівся з депутатом Закарпатської облради, який «відповідає за міжнародну співпрацю»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-27_07-47-19.mp4" length="11443647" type="video/mp4"/>
       <pubDate>Thu, 27 Mar 2025 07:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ми сподіваємося перейти до п</title>
+      <link>https://www.mandarinai.lt/post/71418</link>
+      <description>❗️Ми сподіваємося перейти до повних обговорень і, можливо, навіть отримати підписи наступного тижня, - міністр фінансів США Скотт Бессент про угоду щодо корисних копалин з Україною</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-27_08-56-12.jpg" length="44629" type="image/jpeg"/>
+      <pubDate>Thu, 27 Mar 2025 08:56:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄 Ми ніколи не заявляли, що Ук</title>
+      <link>https://www.mandarinai.lt/post/71419</link>
+      <description>🙄 Ми ніколи не заявляли, що Україна стане членом НАТО, але не відкидаємо такої перспективи у майбутньому, — генсек НАТО Рютте</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-27_09-08-14.mp4" length="2741090" type="video/mp4"/>
+      <pubDate>Thu, 27 Mar 2025 09:08:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
