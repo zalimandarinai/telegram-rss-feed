@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 21:07:17 +0000</lastBuildDate>
-    <item>
-      <title>Колеги, WTF?
-
-Журі цьогорічног</title>
-      <link>https://www.mandarinai.lt/post/71488</link>
-      <description>Колеги, WTF?
-
-Журі цьогорічного World Press Photo вирішило поєднати в ТАНДЕМ дві фотографії.
-
-На одній шестирічна дівчинка з Купʼянська, яка страждає на панічні атаки.
-
-На другій поранений окупант в російському «стабіку» в окупованому Бахмуті. 
-
-Вони назвали це «різними вимірами війни».
-
-Поставили знак рівності між стражданнями шестирічної дівчинки та пораненим окупантом, який і став причиною її страждань.
-
-Можна було б вважати це випадком, якби не повсюдні спроби зняти відповідальність з російського народу і назвати росію та Україну не нападником і жертвою, а «сторонами конфлікту», мовляв, прості люди страждають скрізь.
-
-І в результаті цих спроб упир в Кремлі відчуває все більшу безкарність, розуміючи, що «корисні ідіоти», які думають, що залишаються «нейтральними», насправді працюють на нього.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-28_19-02-15.jpg" length="132046" type="image/jpeg"/>
-      <pubDate>Fri, 28 Mar 2025 19:02:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Mar 2025 22:07:48 +0000</lastBuildDate>
     <item>
       <title>❗️Вночі ЗСУ завдали удару по Б</title>
       <link>https://www.mandarinai.lt/post/71491</link>
@@ -98,6 +75,20 @@
       <description>В Дніпрі після ударів «шахедів» палають будинки, відомо по чотирьох постраждалих.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4760.MP4" length="2592095" type="video/mp4"/>
       <pubDate>Fri, 28 Mar 2025 20:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Дніпрі 4 загиблих та понад 1</title>
+      <link>https://www.mandarinai.lt/post/71503</link>
+      <description>В Дніпрі 4 загиблих та понад 15 постраждалих, з них 3 у важкому стані</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4761.MP4" length="2760332" type="video/mp4"/>
+      <pubDate>Fri, 28 Mar 2025 21:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Будь-ласка прийдіть на допомо</title>
+      <link>https://www.mandarinai.lt/post/71504</link>
+      <description>«Будь-ласка прийдіть на допомогу, люди під завалами», - в перші хвилини удару по Дніпру жінка відчайдушно благає про допомогу через соцмережі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4762.MP4" length="6310489" type="video/mp4"/>
+      <pubDate>Fri, 28 Mar 2025 22:02:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
