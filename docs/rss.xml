@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 10:09:08 +0000</lastBuildDate>
-    <item>
-      <title>Жителі Курської області, які в</title>
-      <link>https://www.mandarinai.lt/post/71449</link>
-      <description>Жителі Курської області, які відмовились брехати пропагандистам.</description>
-      <pubDate>Thu, 27 Mar 2025 21:26:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Президентка Єврокомісії озвучи</title>
-      <link>https://www.mandarinai.lt/post/71450</link>
-      <description>Президентка Єврокомісії озвучила три ключові висновки зустрічі в Парижі
-
-Урсула фон дер Ляєн заявила, що йдеться про збільшення допомоги Україні, посилення тиску на росію та зміцнення оборонних спроможностей Європи.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-28_00-57-58.mp4" length="3859386" type="video/mp4"/>
-      <pubDate>Fri, 28 Mar 2025 00:57:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Mar 2025 11:07:21 +0000</lastBuildDate>
     <item>
       <title>💥Лунають вибухи в російському </title>
       <link>https://www.mandarinai.lt/post/71451</link>
@@ -75,6 +60,22 @@
 Це вже вдруге цього місяця, коли Дмитрієв говорить про можливе співробітництво з Маском</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-28_09-50-56.jpg" length="149510" type="image/jpeg"/>
       <pubDate>Fri, 28 Mar 2025 09:50:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів 79-ої ОДШБР о</title>
+      <link>https://www.mandarinai.lt/post/71463</link>
+      <description>Оператори дронів 79-ої ОДШБР одним скидом ліквідували одразу кількох російських солдатів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4721.MP4" length="18122825" type="video/mp4"/>
+      <pubDate>Fri, 28 Mar 2025 11:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог обстріляв обʼєкти "Нафто</title>
+      <link>https://www.mandarinai.lt/post/71464</link>
+      <description>Ворог обстріляв обʼєкти "Нафтогазу". Це вже вісімнадцята комбінована атака на інфраструктуру групи від початку повномасштабної війни і восьма з початку цього року — пресслужба компанії. 
+
+росіяни просто плюють в обличчя Трампу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-28_11-04-35.jpg" length="68106" type="image/jpeg"/>
+      <pubDate>Fri, 28 Mar 2025 11:04:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
