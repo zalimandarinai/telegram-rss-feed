@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 05:07:57 +0000</lastBuildDate>
-    <item>
-      <title>Дніпро зараз</title>
-      <link>https://www.mandarinai.lt/post/71496</link>
-      <description>Дніпро зараз</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-28_20-32-12.jpg" length="150119" type="image/jpeg"/>
-      <pubDate>Fri, 28 Mar 2025 20:32:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Водій в Дніпрі побачив та відч</title>
-      <link>https://www.mandarinai.lt/post/71497</link>
-      <description>Водій в Дніпрі побачив та відчув детонацію «шахеда» поруч з автівкою</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4757.MP4" length="8839072" type="video/mp4"/>
-      <pubDate>Fri, 28 Mar 2025 20:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Каравелла, візитівка Bartolome</title>
-      <link>https://www.mandarinai.lt/post/71498</link>
-      <description>Каравелла, візитівка Bartolomeo в Дніпрі, знищена вщент</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4758.MP4" length="1171659" type="video/mp4"/>
-      <pubDate>Fri, 28 Mar 2025 20:54:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Mar 2025 06:11:01 +0000</lastBuildDate>
     <item>
       <title>В Дніпрі після ударів «шахедів</title>
       <link>https://www.mandarinai.lt/post/71500</link>
@@ -59,13 +38,31 @@
     <item>
       <title>Дніпро. Кількість постраждалих</title>
       <link>https://www.mandarinai.lt/post/71507</link>
-      <description>Дніпро. Кількість постраждалих внаслідок атаки рф зросла до 19, з них троє у важкому стані. Четверо людей загинули. 
+      <description>Дніпро. Кількість постраждалих внаслідок атаки рф зросла до 20, з них троє у важкому стані. Четверо людей загинули. 
 
 Пошкоджені декілька багатоповерхівок. Виникли пожежі у майже десятку приватних будинків. Зайнялися гаражі та СТО. 
 
 Пожежу у готельно-ресторанному комплексі рятувальникам вдалося локалізувати</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-29_04-39-36.mp4" length="1820823" type="video/mp4"/>
       <pubDate>Sat, 29 Mar 2025 04:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Reuters: ЗСУ, ймовірно, про</title>
+      <link>https://www.mandarinai.lt/post/71510</link>
+      <description>⚡️ Reuters: ЗСУ, ймовірно, просунулися на 3-4 км вглиб Білгородської області 
+
+На думку аналітиків, мета операції — відвернути сили рф від боїв у Курській області.
+
+Військовий експерт фінської Black Bird Group Еміль Кастехельмі вважає, що українським силам вдалося прорвати першу лінію оборони та зайти на 3-4 км вглиб рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-29_05-21-49.jpg" length="177743" type="image/jpeg"/>
+      <pubDate>Sat, 29 Mar 2025 05:21:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️13 людей залишаються у лікар</title>
+      <link>https://www.mandarinai.lt/post/71511</link>
+      <description>❗️13 людей залишаються у лікарнях після російського терору у Дніпрі, серед них вагітна жінка. Троє поранених у важкому стані. Четверо людей загинули.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-29_05-59-20.mp4" length="7740215" type="video/mp4"/>
+      <pubDate>Sat, 29 Mar 2025 05:59:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
