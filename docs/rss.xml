@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 11:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 12:13:35 +0000</lastBuildDate>
     <item>
       <title>😳Новий варіант угоди щодо кори</title>
       <link>https://www.mandarinai.lt/post/71514</link>
@@ -113,6 +113,15 @@ FPV Третьої штурмової підірвали ворожу позиц
       <description>⚡️Ворог просунувся в Надіївці та Розливі, - DeepState</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-29_10-47-52.jpg" length="13244" type="image/jpeg"/>
       <pubDate>Sat, 29 Mar 2025 10:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌚Водночас, десь в паралельній </title>
+      <link>https://www.mandarinai.lt/post/71528</link>
+      <description>🌚Водночас, десь в паралельній реальності:
+
+Енергетичне перемирʼя між рф та Україною діє, — віцепрезидент США Венс</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4772.MP4" length="27611538" type="video/mp4"/>
+      <pubDate>Sat, 29 Mar 2025 11:11:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
