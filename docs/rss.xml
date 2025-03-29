@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 06:11:01 +0000</lastBuildDate>
-    <item>
-      <title>В Дніпрі після ударів «шахедів</title>
-      <link>https://www.mandarinai.lt/post/71500</link>
-      <description>В Дніпрі після ударів «шахедів» палають будинки, відомо по чотирьох постраждалих.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4760.MP4" length="2592095" type="video/mp4"/>
-      <pubDate>Fri, 28 Mar 2025 20:55:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Mar 2025 07:07:36 +0000</lastBuildDate>
     <item>
       <title>В Дніпрі 4 загиблих та понад 1</title>
       <link>https://www.mandarinai.lt/post/71503</link>
@@ -63,6 +56,15 @@
       <description>❗️13 людей залишаються у лікарнях після російського терору у Дніпрі, серед них вагітна жінка. Троє поранених у важкому стані. Четверо людей загинули.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-29_05-59-20.mp4" length="7740215" type="video/mp4"/>
       <pubDate>Sat, 29 Mar 2025 05:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳Новий варіант угоди щодо кори</title>
+      <link>https://www.mandarinai.lt/post/71514</link>
+      <description>😳Новий варіант угоди щодо корисних копалин виглядає так, ніби Україна програла війну США, була окупована і тепер змушена виплачувати «довічні репарації», — WP, посилаючись на українських чиновників
+
+Документ, як і попередній варіант, не містить жодних гарантій безпеки та сформульований як механізм компенсації коштів, наданих США. В його нинішньому вигляді угода не має шансів на підписання</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-29_07-03-46.jpg" length="140377" type="image/jpeg"/>
+      <pubDate>Sat, 29 Mar 2025 07:03:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
