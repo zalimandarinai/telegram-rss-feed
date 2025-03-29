@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 07:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 08:10:25 +0000</lastBuildDate>
     <item>
       <title>В Дніпрі 4 загиблих та понад 1</title>
       <link>https://www.mandarinai.lt/post/71503</link>
@@ -40,17 +40,6 @@
       <pubDate>Sat, 29 Mar 2025 04:39:36 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️ Reuters: ЗСУ, ймовірно, про</title>
-      <link>https://www.mandarinai.lt/post/71510</link>
-      <description>⚡️ Reuters: ЗСУ, ймовірно, просунулися на 3-4 км вглиб Білгородської області 
-
-На думку аналітиків, мета операції — відвернути сили рф від боїв у Курській області.
-
-Військовий експерт фінської Black Bird Group Еміль Кастехельмі вважає, що українським силам вдалося прорвати першу лінію оборони та зайти на 3-4 км вглиб рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-29_05-21-49.jpg" length="177743" type="image/jpeg"/>
-      <pubDate>Sat, 29 Mar 2025 05:21:49 +0000</pubDate>
-    </item>
-    <item>
       <title>❗️13 людей залишаються у лікар</title>
       <link>https://www.mandarinai.lt/post/71511</link>
       <description>❗️13 людей залишаються у лікарнях після російського терору у Дніпрі, серед них вагітна жінка. Троє поранених у важкому стані. Четверо людей загинули.</description>
@@ -65,6 +54,26 @@
 Документ, як і попередній варіант, не містить жодних гарантій безпеки та сформульований як механізм компенсації коштів, наданих США. В його нинішньому вигляді угода не має шансів на підписання</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-29_07-03-46.jpg" length="140377" type="image/jpeg"/>
       <pubDate>Sat, 29 Mar 2025 07:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф готує масштабний наступ, </title>
+      <link>https://www.mandarinai.lt/post/71516</link>
+      <description>⚡️рф готує масштабний наступ, який триватиме весь 2025 рік, охоплюючи різні етапи та напрямки, — AP
+
+Кремль планує здійснити багатостороннє просування через лінію фронту довжиною 1000 кілометрів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-29_07-38-32.jpg" length="88787" type="image/jpeg"/>
+      <pubDate>Sat, 29 Mar 2025 07:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ ЗСУ  просунулися на 3-4 км </title>
+      <link>https://www.mandarinai.lt/post/71517</link>
+      <description>⚡️ ЗСУ  просунулися на 3-4 км вглиб Білгородської області,- Reuters 
+
+На думку аналітиків, мета операції — відвернути сили рф від боїв у Курській області.
+
+Військовий експерт Black Bird Group Еміль Кастехельмі вважає, що українським силам вдалося прорвати першу лінію оборони та зайти на 3-4 км вглиб рф на Білгородщині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-29_07-57-38.jpg" length="177826" type="image/jpeg"/>
+      <pubDate>Sat, 29 Mar 2025 07:57:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
