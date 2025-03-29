@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 04:10:18 +0000</lastBuildDate>
-    <item>
-      <title>Сьогодні ця машина 155-ої бриг</title>
-      <link>https://www.mandarinai.lt/post/71492</link>
-      <description>Сьогодні ця машина 155-ої бригади, на яку ми нещодавно збирали кошти, потрапила під удар безпілотника.
-
-Автомобіль серйозно посікло, але пікап вигріб, повністю виконав завдання і вивіз людей цілими, врятувавши бійців.
-
-Машини стали розходним матеріалом на фронті, тож треба продовжувати збори, щоб залізо, на яке ми збираємо, рятувало й далі наших героїчних і звитяжних бійців, - найцінніше, що має Україна.
-
-На фото пікап артилеристів дивізіону CAESAR перед виїздом на бойове завдання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-28_19-17-02.jpg" length="70257" type="image/jpeg"/>
-      <pubDate>Fri, 28 Mar 2025 19:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Дніпро нові безпілотники.
-
-</title>
-      <link>https://www.mandarinai.lt/post/71494</link>
-      <description>На Дніпро нові безпілотники.
-
-Пожежа після атаки 
-в готельно-ресторанному комплексі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4754.MP4" length="3564667" type="video/mp4"/>
-      <pubDate>Fri, 28 Mar 2025 20:27:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>В готельно-ресторанному компле</title>
-      <link>https://www.mandarinai.lt/post/71495</link>
-      <description>В готельно-ресторанному комплексі Bartolomeo в Дніпрі могло бути багато людей, але поки що інформації про постраждалих немає.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4755.MP4" length="214843" type="video/mp4"/>
-      <pubDate>Fri, 28 Mar 2025 20:30:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Mar 2025 05:07:57 +0000</lastBuildDate>
     <item>
       <title>Дніпро зараз</title>
       <link>https://www.mandarinai.lt/post/71496</link>
@@ -87,6 +55,17 @@
       <description>Збиття «шахеда» в Києві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4766.MP4" length="1946679" type="video/mp4"/>
       <pubDate>Fri, 28 Mar 2025 23:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дніпро. Кількість постраждалих</title>
+      <link>https://www.mandarinai.lt/post/71507</link>
+      <description>Дніпро. Кількість постраждалих внаслідок атаки рф зросла до 19, з них троє у важкому стані. Четверо людей загинули. 
+
+Пошкоджені декілька багатоповерхівок. Виникли пожежі у майже десятку приватних будинків. Зайнялися гаражі та СТО. 
+
+Пожежу у готельно-ресторанному комплексі рятувальникам вдалося локалізувати</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-29_04-39-36.mp4" length="1820823" type="video/mp4"/>
+      <pubDate>Sat, 29 Mar 2025 04:39:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
