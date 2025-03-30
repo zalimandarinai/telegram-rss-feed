@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Mar 2025 19:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 20:08:30 +0000</lastBuildDate>
     <item>
       <title>⚡️Вибори в Україні можуть відб</title>
       <link>https://www.mandarinai.lt/post/71582</link>
@@ -88,6 +88,15 @@
       <description>Швидкість та маневреність дронів групи «Степові Хижаки» з 59-ої бригади стала неприємним сюрпризом для російських солдатів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4809.MP4" length="31307486" type="video/mp4"/>
       <pubDate>Sun, 30 Mar 2025 17:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Київ та низка областей — пов</title>
+      <link>https://www.mandarinai.lt/post/71596</link>
+      <description>⚡️Київ та низка областей — повітряна тривога!
+
+ПС також попереджають про загрозу балістики.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-30_19-33-11.jpg" length="26550" type="image/jpeg"/>
+      <pubDate>Sun, 30 Mar 2025 19:33:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
