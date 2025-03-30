@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Mar 2025 08:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 09:07:49 +0000</lastBuildDate>
     <item>
       <title>Одна людина загинула, двоє — п</title>
       <link>https://www.mandarinai.lt/post/71549</link>
@@ -38,7 +38,7 @@
     <item>
       <title>Третій за місяць масований уда</title>
       <link>https://www.mandarinai.lt/post/71554</link>
-      <description>Третій за місяць масований удар рф по Харкову, двоє загиблих, десятки постраждалих. Серед поранених 15-річна дівчина, грспіталізована у важкосу стані.</description>
+      <description>Третій за місяць масований удар рф по Харкову, двоє загиблих, десятки постраждалих. Серед поранених 15-річна дівчина, грспіталізована у важкому стані.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-30_05-36-22.mp4" length="1135454" type="video/mp4"/>
       <pubDate>Sun, 30 Mar 2025 05:36:22 +0000</pubDate>
     </item>
@@ -59,6 +59,13 @@
 Тіло чоловіка знаходилося у воді неподалік від українського берега. Особа потопельника наразі встановлюється.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-30_07-20-38.mp4" length="7636798" type="video/mp4"/>
       <pubDate>Sun, 30 Mar 2025 07:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Повітряні Сили знищують смерт</title>
+      <link>https://www.mandarinai.lt/post/71561</link>
+      <description>🔥Повітряні Сили знищують смертносне залізо в небі над Україною</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4794.MP4" length="13783018" type="video/mp4"/>
+      <pubDate>Sun, 30 Mar 2025 08:21:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
