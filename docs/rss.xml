@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Mar 2025 17:05:24 +0000</lastBuildDate>
-    <item>
-      <title>⚔️ росіяни просунулися біля Пр</title>
-      <link>https://www.mandarinai.lt/post/71579</link>
-      <description>⚔️ росіяни просунулися біля Преображенки, Олександрополя та Нового в Донецькій області, — DeepState</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-30_12-27-04.jpg" length="34685" type="image/jpeg"/>
-      <pubDate>Sun, 30 Mar 2025 12:27:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Mar 2025 18:10:12 +0000</lastBuildDate>
     <item>
       <title>⚡️Вибори в Україні можуть відб</title>
       <link>https://www.mandarinai.lt/post/71582</link>
@@ -88,6 +81,13 @@
 Александр Стубб зазначив, що Фінляндія вважає 20 квітня вдалою датою для початку повного припинення вогню без жодних умов.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-30_16-42-29.jpg" length="104693" type="image/jpeg"/>
       <pubDate>Sun, 30 Mar 2025 16:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Швидкість та маневреність дрон</title>
+      <link>https://www.mandarinai.lt/post/71594</link>
+      <description>Швидкість та маневреність дронів групи «Степові Хижаки» з 59-ої бригади стала неприємним сюрпризом для російських солдатів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4809.MP4" length="31307486" type="video/mp4"/>
+      <pubDate>Sun, 30 Mar 2025 17:32:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
