@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 03:30:01 +0000</lastBuildDate>
-    <item>
-      <title>Мирна угода загрожує економіці</title>
-      <link>https://www.mandarinai.lt/post/71587</link>
-      <description>Мирна угода загрожує економіці рф, — WSJ
-
-Війна проти України стала ключовим фактором зростання російської економіки, забезпечивши 40% її приросту у 2024 році завдяки військовому виробництву. Багато цивільних підприємств переорієнтувалися на оборонний сектор, отримуючи великі державні замовлення, а виплати сім’ям загиблих військових покращили їхній фінансовий стан.
-
-Як зазначає видання, російська економіка зараз залежить від війни, і можливе мирне врегулювання може призвести до скорочення військових витрат, залишивши в бюджеті кремля значну фінансову «діру», яку буде важко компенсувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-30_14-47-34.jpg" length="164420" type="image/jpeg"/>
-      <pubDate>Sun, 30 Mar 2025 14:47:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Mar 2025 04:11:03 +0000</lastBuildDate>
     <item>
       <title>⚡️рф могла застосувати «ядерку</title>
       <link>https://www.mandarinai.lt/post/71588</link>
@@ -86,6 +75,22 @@
 За попередніми даними, нападник має при собі два карабіна. Інформації про жертв наразі немає.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-30_20-37-20.mp4" length="1048469" type="video/mp4"/>
       <pubDate>Sun, 30 Mar 2025 20:37:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Трамп заявив, що Зеленський </title>
+      <link>https://www.mandarinai.lt/post/71600</link>
+      <description>❗️Трамп заявив, що Зеленський намагається вийти з угоди щодо копалин, – Reuters
+
+Він намагається вийти з угоди щодо рідкоземельних металів, і якщо зробить це, матиме проблеми – великі, дуже великі проблеми, – сказав Трамп журналістам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-03-31_03-46-54.mp4" length="2492340" type="video/mp4"/>
+      <pubDate>Mon, 31 Mar 2025 03:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Харкові після серії вибухів </title>
+      <link>https://www.mandarinai.lt/post/71601</link>
+      <description>У Харкові після серії вибухів сильна пожежа на місті прильоту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-31_03-58-44.jpg" length="62133" type="image/jpeg"/>
+      <pubDate>Mon, 31 Mar 2025 03:58:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
