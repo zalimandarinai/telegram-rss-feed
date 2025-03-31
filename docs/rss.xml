@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 17:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 18:11:46 +0000</lastBuildDate>
     <item>
       <title>❗️У Польщі дітей готують до ві</title>
       <link>https://www.mandarinai.lt/post/71630</link>
@@ -107,6 +107,23 @@
 Скандал навколо групи в Signal розгорівся наприкінці березня, коли Джеффрі Голдберг, головний редактор Atlantic, розкрив, що Волтц випадково додав його до групового чату про атаку на хуситів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-31_16-48-32.jpg" length="84172" type="image/jpeg"/>
       <pubDate>Mon, 31 Mar 2025 16:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>В кадрі результат однієї з най</title>
+      <link>https://www.mandarinai.lt/post/71642</link>
+      <description>В кадрі результат однієї з найбільших проблем українського війська - хвалькуватості.
+
+Так бачить «Лелеку», український розвідувальний дрон, російський FPV-перехоплювач.
+
+Росіяни нарощують масштаби використання FPV-дронів для боротьби з українськими безпілотниками.
+
+Фото, зроблене 61-ю бригадою морської піхоти, поширив один із роспропагандистів.
+
+Судячи з нього та інших матеріалів в публікації, ворог застосовує зенітні FPV-дрони, оснащені денною та нічною оптикою.
+
+Технологію FPV-перехоплювачів першими розпочали використовувати українські підрозділи більше, ніж рік тому, в районі Серебрянського лісництва. Тактика виявилась ефективною. Противник не розумів, що відбувається з його дронами Орлан, Zala, Supercam, адже зверху в них камер немає. Але відео з перехопленнями стали викладати українські військові. Ймовірно, противник зміг би знайти рішення і сам, та ті, хто викладав відео, спростили задачу росіянам. Хотілося б сподіватися, що помилки враховані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-31_18-08-44.jpg" length="16930" type="image/jpeg"/>
+      <pubDate>Mon, 31 Mar 2025 18:08:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
