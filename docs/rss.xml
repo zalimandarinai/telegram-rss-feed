@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 20:09:53 +0000</lastBuildDate>
-    <item>
-      <title>«Колектив вже знайшов своїх не</title>
-      <link>https://www.mandarinai.lt/post/71632</link>
-      <description>«Колектив вже знайшов своїх неформальних лідерів», - до проекту «Контракт 18-24» долучилась 10-а окрема гірськоштурмова бригада «Едельвейс».
-
-З кожним днем вони стають усе впевненішими.
-
-Інструктори бригади передають їм досвід, здобутий у боях.
-
-Долучайся до лав 10 ОГШБр «Едельвейс» за контрактом 18-24: www.10ad-edelweiss.com</description>
-      <pubDate>Mon, 31 Mar 2025 12:48:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Mar 2025 21:08:02 +0000</lastBuildDate>
     <item>
       <title>Швеція оголосила про найбільши</title>
       <link>https://www.mandarinai.lt/post/71633</link>
@@ -120,11 +108,18 @@
       <pubDate>Mon, 31 Mar 2025 19:45:40 +0000</pubDate>
     </item>
     <item>
-      <title>У дилерському салоні Tesla в Р</title>
+      <title>В дилерському салоні Tesla в Р</title>
       <link>https://www.mandarinai.lt/post/71646</link>
-      <description>У дилерському салоні Tesla в Римі сталася пожежа - повністю вигоріли 17 електрокарів. Поліція поки без ідей. Підпал не виключається.</description>
+      <description>В дилерському салоні Tesla в Римі сталася пожежа - повністю вигоріли 17 електрокарів. Поліція поки без ідей. Підпал не виключається.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4844.MP4" length="31132484" type="video/mp4"/>
       <pubDate>Mon, 31 Mar 2025 19:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські фронтові винахідник</title>
+      <link>https://www.mandarinai.lt/post/71647</link>
+      <description>Українські фронтові винахідники «приземляють» російський безпілотник «Молнія», який є фактично FPV-дроном на крилах, - відео WU Samurai</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4845.MP4" length="12400116" type="video/mp4"/>
+      <pubDate>Mon, 31 Mar 2025 20:38:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
