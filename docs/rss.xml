@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 00:47:19 +0000</lastBuildDate>
-    <item>
-      <title>Швеція оголосила про найбільши</title>
-      <link>https://www.mandarinai.lt/post/71633</link>
-      <description>Швеція оголосила про найбільший пакет допомоги Україні - $1,6 млрд. Це найбільший пакет, який колись надавала ця країна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-03-31_13-23-22.jpg" length="59243" type="image/jpeg"/>
-      <pubDate>Mon, 31 Mar 2025 13:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сили безпілотних систем відмін</title>
-      <link>https://www.mandarinai.lt/post/71634</link>
-      <description>Сили безпілотних систем відмінусували ще один ворожий «Сонцепек» в тилу противника.
-
-Безпілотники виявили російську ТОС-1А «Сонцепек», яку окупанти намагалися приховати у посадці за 25 кілометрів від лінії фронту.
-
-Прицільний та точний удар операторів 413-го ОББС «Рейд» перетворив ворожу РСЗВ на феєрверк.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/солнцепек.mp4" length="3499406" type="video/mp4"/>
-      <pubDate>Mon, 31 Mar 2025 14:10:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Apr 2025 02:30:32 +0000</lastBuildDate>
     <item>
       <title>🤡  «Сказала, я повний ідіот», </title>
       <link>https://www.mandarinai.lt/post/71635</link>
@@ -120,6 +102,24 @@
       <description>Українські фронтові винахідники «приземляють» російський безпілотник «Молнія», який є фактично FPV-дроном на крилах, - відео WU Samurai</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4845.MP4" length="12400116" type="video/mp4"/>
       <pubDate>Mon, 31 Mar 2025 20:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп хоче, щоб путін «уклав у</title>
+      <link>https://www.mandarinai.lt/post/71649</link>
+      <description>Трамп хоче, щоб путін «уклав угоду» для завершення війни в Україні, — CNN
+
+Президент США Дональд Трамп заявив, що у разі необхідності запровадить вторинні мита на російську нафту.
+
+Я хочу, щоб він уклав угоду, щоб ми зупинили вбивства російських і українських солдатів та інших людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_02-04-03.jpg" length="145552" type="image/jpeg"/>
+      <pubDate>Tue, 01 Apr 2025 02:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Адміністрація США виступає п</title>
+      <link>https://www.mandarinai.lt/post/71650</link>
+      <description>‼️Адміністрація США виступає проти запровадження в Україні тимчасового управління, як пропонував путін, — Держдеп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_02-06-46.jpg" length="28410" type="image/jpeg"/>
+      <pubDate>Tue, 01 Apr 2025 02:06:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
