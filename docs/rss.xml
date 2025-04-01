@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 09:09:53 +0000</lastBuildDate>
-    <item>
-      <title>Оператори ударних БПЛА Окремог</title>
-      <link>https://www.mandarinai.lt/post/71645</link>
-      <description>Оператори ударних БПЛА Окремого загону «Крила ОМЕГИ» знищили МТЛБ противника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4843.MP4" length="10394007" type="video/mp4"/>
-      <pubDate>Mon, 31 Mar 2025 19:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>В дилерському салоні Tesla в Р</title>
-      <link>https://www.mandarinai.lt/post/71646</link>
-      <description>В дилерському салоні Tesla в Римі сталася пожежа - повністю вигоріли 17 електрокарів. Поліція поки без ідей. Підпал не виключається.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4844.MP4" length="31132484" type="video/mp4"/>
-      <pubDate>Mon, 31 Mar 2025 19:56:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Apr 2025 10:10:07 +0000</lastBuildDate>
     <item>
       <title>Українські фронтові винахідник</title>
       <link>https://www.mandarinai.lt/post/71647</link>
@@ -125,6 +111,24 @@
 "У нас чудові відносини. Він розумний хлопець", - заявив Трамп.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_08-27-21.jpg" length="40208" type="image/jpeg"/>
       <pubDate>Tue, 01 Apr 2025 08:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зрадника Кирила Молчанова, «по</title>
+      <link>https://www.mandarinai.lt/post/71660</link>
+      <description>Зрадника Кирила Молчанова, «політолога», який втік до росії в 2022-му році, Польща депортувала до України.
+
+«Політолог» з так званого пулу Медведчука продемонстрував неабиякий інтелект, «повівшись» на пропозицію «деяких депутатів Бундестагу», які запросили його до Берліна отримувати якусь премію.
+
+Він відправився з росії через Стамбул і через територію Польщі, де йому нагадали, що він український громадянин і має поспілкуватися з українським правосуддям.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_09-38-17.jpg" length="24887" type="image/jpeg"/>
+      <pubDate>Tue, 01 Apr 2025 09:38:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Ось такий наш дрон-винищувач </title>
+      <link>https://www.mandarinai.lt/post/71661</link>
+      <description>🔥Ось такий наш дрон-винищувач з безвідкатним дробовиком  - дешево і луже ефективно для російських розвідувальних та ударних коптерів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-01_10-08-54.mp4" length="8454446" type="video/mp4"/>
+      <pubDate>Tue, 01 Apr 2025 10:08:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
