@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 22:08:13 +0000</lastBuildDate>
-    <item>
-      <title>За три місяці ворог скинув на </title>
-      <link>https://www.mandarinai.lt/post/71683</link>
-      <description>За три місяці ворог скинув на Україну 10 577 керованих авіабомб, - Міноборони
-
-В березні авіація росармії збільшила застосування керованих авіаційних бомб – близько 4 800, в лютому – 3 370.
-
-За минулий 2024 рік ворогом було застосовано близько 40 000 керованих авіаційних бомб.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_16-16-02.jpg" length="153740" type="image/jpeg"/>
-      <pubDate>Tue, 01 Apr 2025 16:16:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Віртуозна робота операторів ск</title>
-      <link>https://www.mandarinai.lt/post/71685</link>
-      <description>Віртуозна робота операторів скидів, FPV-дронів та розвідувальних БПЛА з 5-ої штурмової Київської бригади.
-
-На схід від Краматорська бійці «розмотали» близько двох десятків російських байкерів.
-
-А також змогли відбити атаку бронетехніки на позиції своїх піхотинців.</description>
-      <pubDate>Tue, 01 Apr 2025 16:52:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Apr 2025 23:08:01 +0000</lastBuildDate>
     <item>
       <title>Підрозділ ГУР завдає ударів по</title>
       <link>https://www.mandarinai.lt/post/71689</link>
@@ -87,6 +66,24 @@
 Одного разу за 30 секунд знищили 4 ракети типу Х-101 з даної установки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_20-35-42.jpg" length="69057" type="image/jpeg"/>
       <pubDate>Tue, 01 Apr 2025 20:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Харкові два десятки прильоті</title>
+      <link>https://www.mandarinai.lt/post/71698</link>
+      <description>В Харкові два десятки прильотів через удари БПЛА.
+
+Майже всі в Холодногірському районі.
+
+Спалахнули пожежі після влучань.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4886.MP4" length="108115" type="video/mp4"/>
+      <pubDate>Tue, 01 Apr 2025 22:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент одного з влучань в Харк</title>
+      <link>https://www.mandarinai.lt/post/71700</link>
+      <description>Момент одного з влучань в Харкові. Троє постраждалих через російські атаки. Серед них - одна дитина.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4887.MP4" length="2285178" type="video/mp4"/>
+      <pubDate>Tue, 01 Apr 2025 22:24:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
