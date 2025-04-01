@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 20:09:56 +0000</lastBuildDate>
-    <item>
-      <title>🇩🇪🇺🇦 Німеччина виділить Україн</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🇩🇪🇺🇦 Німеччина виділить Україні €11 млрд військової допомоги, - глава МЗС Бербок.
-
-"€3 млрд нададуть цього року, €8 млрд - протягом двох наступних років</description>
-      <pubDate>Tue, 01 Apr 2025 13:43:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Прямо в бліндаж окупантів. Укр</title>
-      <link>https://www.mandarinai.lt/post/71682</link>
-      <description>Прямо в бліндаж окупантів. Український десантник під прикриттям бронеавтомобіля Husky закидає міну ТМ-62 в російське укріплення. Так 46-а ОАЕМБР воює на Донеччині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4871.MP4" length="16833766" type="video/mp4"/>
-      <pubDate>Tue, 01 Apr 2025 15:42:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Apr 2025 21:07:46 +0000</lastBuildDate>
     <item>
       <title>За три місяці ворог скинув на </title>
       <link>https://www.mandarinai.lt/post/71683</link>
@@ -75,6 +60,33 @@
       <description>Приліт в російському Таганрозі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4879.MP4" length="2397119" type="video/mp4"/>
       <pubDate>Tue, 01 Apr 2025 19:39:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Таганрозі через падіння БПЛА</title>
+      <link>https://www.mandarinai.lt/post/71693</link>
+      <description>У Таганрозі через падіння БПЛА є пошкодження двох багатоквартирних будинків, двоє людей з легкими пораненнями звернулися до медиків.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4881.MOV" length="1961854" type="video/mp4"/>
+      <pubDate>Tue, 01 Apr 2025 20:21:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одеса під масованою атакою дро</title>
+      <link>https://www.mandarinai.lt/post/71695</link>
+      <description>Одеса під масованою атакою дронів «шахед».
+
+6 БПЛА атакують з заходу передмістя.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4883.MP4" length="2448908" type="video/mp4"/>
+      <pubDate>Tue, 01 Apr 2025 20:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Німецький ЗРК IRIS-T та познач</title>
+      <link>https://www.mandarinai.lt/post/71696</link>
+      <description>Німецький ЗРК IRIS-T та позначки збитих ним 34 російських ракет. 
+
+Варто зазначити, що вони згруповані по кілька символів разом - це для розуміння, скільки розрахунок ЗРК IRIS-T збив впродовж однієї атаки.
+
+Одного разу за 30 секунд знищили 4 ракети типу Х-101 з даної установки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_20-35-42.jpg" length="69057" type="image/jpeg"/>
+      <pubDate>Tue, 01 Apr 2025 20:35:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
