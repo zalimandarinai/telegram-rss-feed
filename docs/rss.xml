@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 21:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 22:07:44 +0000</lastBuildDate>
     <item>
       <title>Стратегічний бомбардувальник Т</title>
       <link>https://www.mandarinai.lt/post/71727</link>
@@ -68,17 +68,6 @@
       <description>Харків під час ворожої атаки БПЛА. У місті пролунало щонайменше 15 вибухів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4942.MP4" length="10465964" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 20:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогодні наші збили дрон з ШІ </title>
-      <link>https://www.mandarinai.lt/post/71740</link>
-      <description>Сьогодні наші збили дрон з ШІ або, принаймні, його елементами, якщо, звісно, вірити російським виробникам.
-
-Називається російський безпілотник «Альбатрос-М5», і він може розпізнавати обличчя на тій території, де проводиться повітряна розвідка.
-
-Російський БПЛА «приземлила» 63-я бригада.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4948.MP4" length="5711147" type="video/mp4"/>
-      <pubDate>Wed, 02 Apr 2025 20:56:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
