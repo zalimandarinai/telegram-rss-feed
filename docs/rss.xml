@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 11:07:22 +0000</lastBuildDate>
-    <item>
-      <title>Одеса під масованою атакою дро</title>
-      <link>https://www.mandarinai.lt/post/71695</link>
-      <description>Одеса під масованою атакою дронів «шахед».
-
-6 БПЛА атакують з заходу передмістя.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4883.MP4" length="2448908" type="video/mp4"/>
-      <pubDate>Tue, 01 Apr 2025 20:28:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Німецький ЗРК IRIS-T та познач</title>
-      <link>https://www.mandarinai.lt/post/71696</link>
-      <description>Німецький ЗРК IRIS-T та позначки збитих ним 34 російських ракет. 
-
-Варто зазначити, що вони згруповані по кілька символів разом - це для розуміння, скільки розрахунок ЗРК IRIS-T збив впродовж однієї атаки.
-
-Одного разу за 30 секунд знищили 4 ракети типу Х-101 з даної установки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-01_20-35-42.jpg" length="69057" type="image/jpeg"/>
-      <pubDate>Tue, 01 Apr 2025 20:35:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 12:15:37 +0000</lastBuildDate>
     <item>
       <title>В Харкові два десятки прильоті</title>
       <link>https://www.mandarinai.lt/post/71698</link>
@@ -129,6 +109,35 @@
       <description>Рідкісний випадок. Одним скидом з безпілотника зупинили цілу групу штурмовиків. Боєприпас влучив у так званий «мінний шлагбаум» і знищив піхотинців противника, кажуть оператори 46-ої ОАЕБР.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4899.MP4" length="1493406" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 09:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Більше 8 тисяч колишніх засудж</title>
+      <link>https://www.mandarinai.lt/post/71708</link>
+      <description>Більше 8 тисяч колишніх засуджених підписали контракт із ЗСУ, - Мін’юст</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-02_11-15-55.jpg" length="130620" type="image/jpeg"/>
+      <pubDate>Wed, 02 Apr 2025 11:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одним ударом знищено відділенн</title>
+      <link>https://www.mandarinai.lt/post/71709</link>
+      <description>Одним ударом знищено відділення окупантів в районі міста Часів Яр на рідкісній броньованій машині.
+
+Український FPV прилітає влучно до російських штурмовиків на бронетехніці. 
+
+Пересувалися вони на незвичній техніці, машині хімічного захисту РХМ-4, зробленій на базі БТР-80 та призначеній для розвідки зараженої місцевості. 
+
+Ймовірно, катастрофічний брак бронетехніки змушує росіян відправляти на поле бою спеціальні зразки техніки, зроблені в штучних екземплярах.
+
+Робота підрозділу БПЛА «Рарог», який входить до складу 24-ої ОМБР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4903.MP4" length="9101969" type="video/mp4"/>
+      <pubDate>Wed, 02 Apr 2025 11:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський військовий показав </title>
+      <link>https://www.mandarinai.lt/post/71710</link>
+      <description>Російський військовий показав наслідки удару ракети M30A2 тактичної системи HIMARS по гелікоптерах Ми-28 та Ми-8 у Бєлгородській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4904.MP4" length="13869464" type="video/mp4"/>
+      <pubDate>Wed, 02 Apr 2025 11:47:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
