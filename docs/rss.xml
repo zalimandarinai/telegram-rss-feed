@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 09:09:10 +0000</lastBuildDate>
-    <item>
-      <title>У Таганрозі через падіння БПЛА</title>
-      <link>https://www.mandarinai.lt/post/71693</link>
-      <description>У Таганрозі через падіння БПЛА є пошкодження двох багатоквартирних будинків, двоє людей з легкими пораненнями звернулися до медиків.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4881.MOV" length="1961854" type="video/mp4"/>
-      <pubDate>Tue, 01 Apr 2025 20:21:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 10:09:21 +0000</lastBuildDate>
     <item>
       <title>Одеса під масованою атакою дро</title>
       <link>https://www.mandarinai.lt/post/71695</link>
@@ -82,14 +75,14 @@
 
 Але, судячи з того, що 3-я штурмова бригада відбила в росіян село Надія на Луганщині, наші сили зрозуміли російський задум.
 
-Про те, як тривало відбиття села Надія, можна дізнатися за посиланням.</description>
+Про те, як відбивали село Надія, в деталях можна дізнатися за посиланням.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-02_06-34-23.jpg" length="53614" type="image/jpeg"/>
       <pubDate>Wed, 02 Apr 2025 06:34:23 +0000</pubDate>
     </item>
     <item>
       <title>❗️рф готує наступ у квітні: їх</title>
       <link>https://www.mandarinai.lt/post/71703</link>
-      <description>❗️рф готує наступ у квітні: їхні підрозділи понад місяць перебувають на полігонах і готуються. На нашому напрямку це 2-3 дивізії, — командир 1 штурмового батальйону 3 ОШБр Фокін</description>
+      <description>❗️рф готує наступ у квітні: їхні підрозділи понад місяць перебувають на полігонах і готуються. На нашому напрямку це 2-3 дивізії, — командир 1 штурмового батальйону 3 ОШБр Володимир Фокін</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-02_06-55-34.mp4" length="2971506" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 06:55:34 +0000</pubDate>
     </item>
@@ -110,6 +103,32 @@
 Також він стверджує, що знає як мінімум двох таких лідерів, бо в нього є друзі в Кремлі, які про них сказали.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4897.MP4" length="16241097" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 09:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна знищила рекордну кільк</title>
+      <link>https://www.mandarinai.lt/post/71706</link>
+      <description>Україна знищила рекордну кількість російських гармат впродовж одного дня 28 березня, а саме 122 установки, - Forbes
+
+Загалом протягом березня було знищено 1644 одиниць артилерії, що приблизно втричі більше порівняно з тим, що було в 2023 році, стверджує видання. 
+
+Ймовірно, йдеться не тільки про гармати, а й також про міномети. 
+
+Для порівняння Forbes наводить такі цифри. 
+
+На озброєнні США всього близько 3000 артилерійських систем, а у Великій Британії - всього дві сотні, хоча, очевидно, ці дані не враховують те, що є на складах.
+
+Журнал пише, що росія активно спустошує свої склади з радянським озброєнням, щоб заповнити втрати.
+
+До того ж, росія почала закуповувати нетипові північнокорейські 170-мм гармати, що може свідчити про брак власних систем.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-02_09-28-07.jpg" length="104235" type="image/jpeg"/>
+      <pubDate>Wed, 02 Apr 2025 09:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рідкісний випадок. Одним скидо</title>
+      <link>https://www.mandarinai.lt/post/71707</link>
+      <description>Рідкісний випадок. Одним скидом з безпілотника зупинили цілу групу штурмовиків. Боєприпас влучив у так званий «мінний шлагбаум» і знищив піхотинців противника, кажуть оператори 46-ої ОАЕБР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4899.MP4" length="1493406" type="video/mp4"/>
+      <pubDate>Wed, 02 Apr 2025 09:47:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
