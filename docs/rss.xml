@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 08:11:59 +0000</lastBuildDate>
-    <item>
-      <title>3-й мехбат Президентської бриг</title>
-      <link>https://www.mandarinai.lt/post/71690</link>
-      <description>3-й мехбат Президентської бригади розвалив чергову ворожу колону на Новопавлівському напрямку. 
-
-Противник висунувся на трьох БМП з піхотою та зграя мотоциклів. 
-
-Але застати наших захисників зненацька русні не вдалося. 
-
-Спільно з 31 ОМБр колону техніки зупинили і випалили. 
-
-Ще трохи часу знадобилося, аби розібратися із залишками ворожої піхоти, яка розбіглась по посадках.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4878.MP4" length="4142833" type="video/mp4"/>
-      <pubDate>Tue, 01 Apr 2025 19:35:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Приліт в російському Таганрозі</title>
-      <link>https://www.mandarinai.lt/post/71691</link>
-      <description>Приліт в російському Таганрозі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4879.MP4" length="2397119" type="video/mp4"/>
-      <pubDate>Tue, 01 Apr 2025 19:39:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 09:09:10 +0000</lastBuildDate>
     <item>
       <title>У Таганрозі через падіння БПЛА</title>
       <link>https://www.mandarinai.lt/post/71693</link>
@@ -114,6 +92,24 @@
       <description>❗️рф готує наступ у квітні: їхні підрозділи понад місяць перебувають на полігонах і готуються. На нашому напрямку це 2-3 дивізії, — командир 1 штурмового батальйону 3 ОШБр Фокін</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-02_06-55-34.mp4" length="2971506" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 06:55:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ефективне збиття російських ба</title>
+      <link>https://www.mandarinai.lt/post/71704</link>
+      <description>Ефективне збиття російських баражуючих боєприпасів «Ланцет» підрозділом APEX Predator і одним з канадських добровольців, який воює в лавах Сил оборони України оператором БПЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4895.MOV" length="16030412" type="video/mp4"/>
+      <pubDate>Wed, 02 Apr 2025 08:41:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кілька світових лідерів провел</title>
+      <link>https://www.mandarinai.lt/post/71705</link>
+      <description>Кілька світових лідерів провели таємні переговори з володимиром путіним, — так стверджує друг кремлівського упиря президент Сербії Вучич
+
+«Не лише Орбан і не Фіцо», - робить натяки Вучич.
+
+Також він стверджує, що знає як мінімум двох таких лідерів, бо в нього є друзі в Кремлі, які про них сказали.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4897.MP4" length="16241097" type="video/mp4"/>
+      <pubDate>Wed, 02 Apr 2025 09:06:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
