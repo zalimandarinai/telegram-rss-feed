@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 17:07:41 +0000</lastBuildDate>
-    <item>
-      <title>Ворожий безпілотник «Молнія» в</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Ворожий безпілотник «Молнія» вдарив по Київському району міста Харків, влетів у 8-ий поверх 16-поверхівки, — міський голова Терехов
-
-БПЛА «Молнія» це такий крилатий FPV-дрон, зроблений з лайна і палок за три копійки. Безпілотник фактично терористична зброя, призначена не для ураження цілей на полі бою, а для створення паніки, наприклад, на блок-постах або на вулицях міста.</description>
-      <pubDate>Wed, 02 Apr 2025 13:28:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 18:11:45 +0000</lastBuildDate>
     <item>
       <title>Наслідки ракетного удару по Кр</title>
       <link>https://www.mandarinai.lt/post/71715</link>
@@ -76,9 +68,16 @@
 
 Воно знаходиться в Іркутській області.
 
-Вартість літака приблизно $300 тисяч.</description>
+Вартість літака офіційно заявлена росіянами в еквівалент приблизно $300 тисяч.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4925.MP4" length="335078" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 17:04:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уламки Ту-22М3 розкидані навко</title>
+      <link>https://www.mandarinai.lt/post/71730</link>
+      <description>Уламки Ту-22М3 розкидані навколо села Буреть в Іркутській області. Пілот загинув, повідомило міноборони росії. Але воно також заявляє, що «екіпаж катапультувався».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4927.MP4" length="3924690" type="video/mp4"/>
+      <pubDate>Wed, 02 Apr 2025 17:13:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
