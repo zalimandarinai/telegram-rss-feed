@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 18:11:45 +0000</lastBuildDate>
-    <item>
-      <title>Наслідки ракетного удару по Кр</title>
-      <link>https://www.mandarinai.lt/post/71715</link>
-      <description>Наслідки ракетного удару по Кривому Рогу знову першими опублікували не тільки українські, а й проросійські канали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4910.MP4" length="4319572" type="video/mp4"/>
-      <pubDate>Wed, 02 Apr 2025 14:42:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 19:07:00 +0000</lastBuildDate>
     <item>
       <title>🔞 Обережно, чутливі кадри
 
@@ -78,6 +71,13 @@
       <description>Уламки Ту-22М3 розкидані навколо села Буреть в Іркутській області. Пілот загинув, повідомило міноборони росії. Але воно також заявляє, що «екіпаж катапультувався».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4927.MP4" length="3924690" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 17:13:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Військова конфронтація з Ірано</title>
+      <link>https://www.mandarinai.lt/post/71731</link>
+      <description>Військова конфронтація з Іраном майже неминуча, якщо найближчим часом світові держави не зможуть досягти нової угоди з режимом аятолли щодо його спірної ядерної програми, — очільник МЗС Франції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-02_18-12-35.jpg" length="59536" type="image/jpeg"/>
+      <pubDate>Wed, 02 Apr 2025 18:12:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
