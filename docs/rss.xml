@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 12:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 13:19:56 +0000</lastBuildDate>
     <item>
       <title>В Харкові два десятки прильоті</title>
       <link>https://www.mandarinai.lt/post/71698</link>
@@ -138,6 +138,20 @@
       <description>Російський військовий показав наслідки удару ракети M30A2 тактичної системи HIMARS по гелікоптерах Ми-28 та Ми-8 у Бєлгородській області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4904.MP4" length="13869464" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 11:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Україні створили жіночий під</title>
+      <link>https://www.mandarinai.lt/post/71711</link>
+      <description>В Україні створили жіночий підрозділ безпілотних систем «Гарпії».
+
+Підрозділ «Гарпії» заявлений, як «середовище для жінок, які прагнуть помститися ворогу, захистити своїх дітей, родини та державу, використовуючи безпілотні та роботизовані системи».
+
+Командирка підрозділу Дарія має псевдо «ДШК», учасниця Революції Гідності.
+
+З початку повномасштабного вторгнення жінка виконувала бойові завдання у складі кількох українських спецпідрозділів.
+
+Заповнити анкету на вступ можна за посиланням: https://usforces.army</description>
+      <pubDate>Wed, 02 Apr 2025 12:40:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
