@@ -6,24 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 16:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 17:07:41 +0000</lastBuildDate>
     <item>
       <title>Ворожий безпілотник «Молнія» в</title>
-      <link>https://www.mandarinai.lt/post/71712</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Ворожий безпілотник «Молнія» вдарив по Київському району міста Харків, влетів у 8-ий поверх 16-поверхівки, — міський голова Терехов
 
 БПЛА «Молнія» це такий крилатий FPV-дрон, зроблений з лайна і палок за три копійки. Безпілотник фактично терористична зброя, призначена не для ураження цілей на полі бою, а для створення паніки, наприклад, на блок-постах або на вулицях міста.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-02_13-28-30.jpg" length="54831" type="image/jpeg"/>
       <pubDate>Wed, 02 Apr 2025 13:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Польща не відправить солдатів </title>
-      <link>https://www.mandarinai.lt/post/71713</link>
-      <description>Польща не відправить солдатів до України, щоб рф не могла сприйняти це, як намір Варшави разом з москвою поділити Україну. Ми не хочемо давати їм привід для пропаганди, – МЗС Польщі в розмові з RMF24 про відправку миротворців до України.
-
-Для кого ця «відмазка»? Для польських виборців чи українців, щоб «зберегти обличчя»?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4907.MP4" length="12703857" type="video/mp4"/>
-      <pubDate>Wed, 02 Apr 2025 13:34:34 +0000</pubDate>
     </item>
     <item>
       <title>Наслідки ракетного удару по Кр</title>
@@ -78,6 +68,17 @@
 Серед загиблих та поранених від ракети - усі цивільні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-02_16-01-47.jpg" length="183864" type="image/jpeg"/>
       <pubDate>Wed, 02 Apr 2025 16:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Стратегічний бомбардувальник Т</title>
+      <link>https://www.mandarinai.lt/post/71727</link>
+      <description>Стратегічний бомбардувальник Ту-22М3 вибухнув поруч з селом Буреть, повідомляють очевидці.
+
+Воно знаходиться в Іркутській області.
+
+Вартість літака приблизно $300 тисяч.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4925.MP4" length="335078" type="video/mp4"/>
+      <pubDate>Wed, 02 Apr 2025 17:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
