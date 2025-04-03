@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 03:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 04:10:51 +0000</lastBuildDate>
     <item>
       <title>Стратегічний бомбардувальник Т</title>
       <link>https://www.mandarinai.lt/post/71727</link>
@@ -68,6 +68,13 @@
       <description>Харків під час ворожої атаки БПЛА. У місті пролунало щонайменше 15 вибухів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4942.MP4" length="10465964" type="video/mp4"/>
       <pubDate>Wed, 02 Apr 2025 20:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂ рф не потрапила до списку </title>
+      <link>https://www.mandarinai.lt/post/71742</link>
+      <description>🤷‍♂ рф не потрапила до списку країн, проти яких США вводять взаємні мита</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_03-44-02.jpg" length="76375" type="image/jpeg"/>
+      <pubDate>Thu, 03 Apr 2025 03:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
