@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 17:07:46 +0000</lastBuildDate>
-    <item>
-      <title>США заборонили своїм громадяна</title>
-      <link>https://www.mandarinai.lt/post/71758</link>
-      <description>США заборонили своїм громадянам у Китаї будь-які романтичні чи сексуальні стосунки з місцевими — такого обмеження не було з часів Холодної війни, - Associated Press</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_12-20-15.jpg" length="80478" type="image/jpeg"/>
-      <pubDate>Thu, 03 Apr 2025 12:20:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 18:11:46 +0000</lastBuildDate>
     <item>
       <title>Данія погодила новий пакет доп</title>
       <link>https://www.mandarinai.lt/post/71759</link>
@@ -135,6 +128,13 @@ Tak, Mette ❤️</description>
 Бабло перемагає зло, схоже, і на великій оперній сцені.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_17-01-16.jpg" length="36173" type="image/jpeg"/>
       <pubDate>Thu, 03 Apr 2025 17:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Канада вводить 25% тариф на вс</title>
+      <link>https://www.mandarinai.lt/post/71773</link>
+      <description>Канада вводить 25% тариф на всі автомобілі, що імпортуються зі США, — прем'єр-міністр Канади Карні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_17-27-54.jpg" length="77245" type="image/jpeg"/>
+      <pubDate>Thu, 03 Apr 2025 17:27:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
