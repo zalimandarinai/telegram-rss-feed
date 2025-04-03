@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 21:07:51 +0000</lastBuildDate>
-    <item>
-      <title>Росія погодилася надати озброє</title>
-      <link>https://www.mandarinai.lt/post/71767</link>
-      <description>Росія погодилася надати озброєння та забезпечити підготовку спільних сил воєнних хунт Малі, Нігеру та Буркіна-Фасо.
-
-Три східноафриканські держави підписали угоду про спільні дії щодо оборони.
-
-В усіх трьох в результаті заколотів до влади прийшли проросійські режими.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_15-37-35.jpg" length="31155" type="image/jpeg"/>
-      <pubDate>Thu, 03 Apr 2025 15:37:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 22:07:44 +0000</lastBuildDate>
     <item>
       <title>Від реформ Трампа USD впав на </title>
       <link>https://www.mandarinai.lt/post/71769</link>
@@ -129,6 +118,19 @@
 
 Головна задача оборонців – не дати окупантам закріплятися у забудові населених пунктів.</description>
       <pubDate>Thu, 03 Apr 2025 20:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Двоє загиблих у Харкові
+
+29 лю</title>
+      <link>https://www.mandarinai.lt/post/71782</link>
+      <description>Двоє загиблих у Харкові
+
+29 людей поранені, серед них одна дитина.
+
+В місті пошкоджено більше 30 багатоповерхівок.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5001.MP4" length="12617562" type="video/mp4"/>
+      <pubDate>Thu, 03 Apr 2025 21:40:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
