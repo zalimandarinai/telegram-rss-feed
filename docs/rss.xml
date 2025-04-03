@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 07:09:08 +0000</lastBuildDate>
-    <item>
-      <title>Стратегічний бомбардувальник Т</title>
-      <link>https://www.mandarinai.lt/post/71727</link>
-      <description>Стратегічний бомбардувальник Ту-22М3 вибухнув поруч з селом Буреть, повідомляють очевидці.
-
-Воно знаходиться в Іркутській області.
-
-Вартість літака офіційно заявлена росіянами в еквівалент приблизно $300 млн.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4925.MP4" length="335078" type="video/mp4"/>
-      <pubDate>Wed, 02 Apr 2025 17:04:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уламки Ту-22М3 розкидані навко</title>
-      <link>https://www.mandarinai.lt/post/71730</link>
-      <description>Уламки Ту-22М3 розкидані навколо села Буреть в Іркутській області. Пілот загинув, повідомило міноборони росії. Але воно також заявляє, що «екіпаж катапультувався».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4927.MP4" length="3924690" type="video/mp4"/>
-      <pubDate>Wed, 02 Apr 2025 17:13:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 08:12:07 +0000</lastBuildDate>
     <item>
       <title>Військова конфронтація з Ірано</title>
       <link>https://www.mandarinai.lt/post/71731</link>
@@ -75,6 +57,20 @@
       <description>🤷‍♂ рф не потрапила до списку країн, проти яких США вводять взаємні мита</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_03-44-02.jpg" length="76375" type="image/jpeg"/>
       <pubDate>Thu, 03 Apr 2025 03:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рідкісний випадок, зняли остан</title>
+      <link>https://www.mandarinai.lt/post/71743</link>
+      <description>Рідкісний випадок, зняли останній постріл російського танка перед ураженням, - 63-я бригада </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4949.MP4" length="21848896" type="video/mp4"/>
+      <pubDate>Thu, 03 Apr 2025 07:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії хтось невдало покурив </title>
+      <link>https://www.mandarinai.lt/post/71744</link>
+      <description>В росії хтось невдало покурив на «Онезькому суднобудівно-судноремонтному заводі».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4950.MP4" length="766613" type="video/mp4"/>
+      <pubDate>Thu, 03 Apr 2025 08:04:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
