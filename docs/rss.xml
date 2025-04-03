@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 22:07:44 +0000</lastBuildDate>
-    <item>
-      <title>Від реформ Трампа USD впав на </title>
-      <link>https://www.mandarinai.lt/post/71769</link>
-      <description>Від реформ Трампа USD впав на 2% відносно EUR.
-
-Рекордне за 10 років падіння американського долара щодо основних світових валют 🇪🇺EUR, 🇯🇵JPY, 🇨🇭CHF, 🇬🇧GBP, 🏳️RUR. 
-
-А от щодо 🇺🇦UAH та 🇨🇳CNY долар виріс.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_16-07-07.jpg" length="65330" type="image/jpeg"/>
-      <pubDate>Thu, 03 Apr 2025 16:07:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 23:08:25 +0000</lastBuildDate>
     <item>
       <title>Зрадники, яких, за версією СБУ</title>
       <link>https://www.mandarinai.lt/post/71771</link>
@@ -131,6 +120,21 @@
 В місті пошкоджено більше 30 багатоповерхівок.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5001.MP4" length="12617562" type="video/mp4"/>
       <pubDate>Thu, 03 Apr 2025 21:40:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>В передмісті Києва був приліт </title>
+      <link>https://www.mandarinai.lt/post/71783</link>
+      <description>В передмісті Києва був приліт безпілотника.
+
+Внаслідок ворожої атаки БпЛА в Броварському районі постраждала людина. 
+
+Попередньо у чоловіка травма ноги та шиї.
+
+Виникла пожежа 4 вантажних та одного легкового автомобілів на території парковки. Пожежа ліквідована.
+
+Внаслідок падіння уламків безпілотника сталося загорання будівлі  автосалону. Попередньо пошкоджено 5 автомобілів. Пожежу також ліквідовано.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_22-43-34.jpg" length="76305" type="image/jpeg"/>
+      <pubDate>Thu, 03 Apr 2025 22:43:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
