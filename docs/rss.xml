@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 20:09:24 +0000</lastBuildDate>
-    <item>
-      <title>«Работаем, братья», - окупанти</title>
-      <link>https://www.mandarinai.lt/post/71764</link>
-      <description>«Работаем, братья», - окупанти мародерять крамницю, намагаючись пробити стіну молотом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4972.MP4" length="28479186" type="video/mp4"/>
-      <pubDate>Thu, 03 Apr 2025 14:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Прикордонники ПКШР «Сапсан» за</title>
-      <link>https://www.mandarinai.lt/post/71766</link>
-      <description>Прикордонники ПКШР «Сапсан» зафільмували останні моменти окупантів на Донеччині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4976.MP4" length="8812947" type="video/mp4"/>
-      <pubDate>Thu, 03 Apr 2025 15:27:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 21:07:51 +0000</lastBuildDate>
     <item>
       <title>Росія погодилася надати озброє</title>
       <link>https://www.mandarinai.lt/post/71767</link>
@@ -127,6 +113,22 @@
 «Сильний лідер», яким захоплюється родина Маска, знову кошмарить мирних людей, щоб вони виснажились і відмовились від спротиву орді.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4997.MOV" length="4175940" type="video/mp4"/>
       <pubDate>Thu, 03 Apr 2025 19:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бригада «Азов» в Торецьку відб</title>
+      <link>https://www.mandarinai.lt/post/71780</link>
+      <description>Бригада «Азов» в Торецьку відбила дуже інтенсивний штурм російських «Байкерів».
+
+За мотоциклістами рухалась й інша техніка.
+
+Далі їхав десант на китайських багі.
+
+А далі штурмували українців підрозділи на декількох БТР.
+
+До знищення штурмових груп долучилася піхота 12-ої бригади спеціального призначення «Азов», ударні дрони і танки, які добивали ворожий особовий склад і техніку.
+
+Головна задача оборонців – не дати окупантам закріплятися у забудові населених пунктів.</description>
+      <pubDate>Thu, 03 Apr 2025 20:37:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
