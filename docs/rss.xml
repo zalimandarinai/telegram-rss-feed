@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 05:09:04 +0000</lastBuildDate>
-    <item>
-      <title>Бригада «Азов» в Торецьку відб</title>
-      <link>https://www.mandarinai.lt/post/71780</link>
-      <description>Бригада «Азов» в Торецьку відбила дуже інтенсивний штурм російських «Байкерів».
-
-За мотоциклістами рухалась й інша техніка.
-
-Далі їхав десант на китайських багі.
-
-А далі штурмували українців підрозділи на декількох БТР.
-
-До знищення штурмових груп долучилася піхота 12-ої бригади спеціального призначення «Азов», ударні дрони і танки, які добивали ворожий особовий склад і техніку.
-
-Головна задача оборонців – не дати окупантам закріплятися у забудові населених пунктів.</description>
-      <pubDate>Thu, 03 Apr 2025 20:37:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Apr 2025 06:12:36 +0000</lastBuildDate>
     <item>
       <title>Двоє загиблих у Харкові
 
@@ -79,6 +63,22 @@
       <description>У Харкові вже 4 загиблих, внаслідок атаки рф. Рятувальники деблокували ще одне тіло. Поранено 35 людей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_04-22-41.jpg" length="196832" type="image/jpeg"/>
       <pubDate>Fri, 04 Apr 2025 04:22:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Сили ППО знищили 42 з 78 БпЛ</title>
+      <link>https://www.mandarinai.lt/post/71794</link>
+      <description>❗️Сили ППО знищили 42 з 78 БпЛА, якими рф вдарила по Україні вночі: ще 22 - втрачені без наслідків, - ПС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_06-01-50.jpg" length="90348" type="image/jpeg"/>
+      <pubDate>Fri, 04 Apr 2025 06:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Дніпрі невідомі підірвали ав</title>
+      <link>https://www.mandarinai.lt/post/71795</link>
+      <description>У Дніпрі невідомі підірвали авто посадовця: постраждали він та його дружина, — поліція
+
+Вибух стався у житловому районі міста. Попередньо, у момент підриву в машині перебували двоє людей — сам чиновник і його дружина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_06-07-41.jpg" length="260327" type="image/jpeg"/>
+      <pubDate>Fri, 04 Apr 2025 06:07:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
