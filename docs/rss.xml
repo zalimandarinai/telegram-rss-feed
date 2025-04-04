@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 21:07:38 +0000</lastBuildDate>
-    <item>
-      <title>В Броварах на місці вчорашньої</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>В Броварах на місці вчорашньої атаки знайшли бойову частину від «шахеда».</description>
-      <pubDate>Fri, 04 Apr 2025 16:00:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Apr 2025 22:07:50 +0000</lastBuildDate>
     <item>
       <title>Перші хвилини після удару раке</title>
       <link>https://www.mandarinai.lt/post/71845</link>
@@ -66,6 +60,13 @@
 ОВА зазначає, що горять будинки та інфраструктура. Про постраждалих наразі інформації немає</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_20-52-56.jpg" length="17788" type="image/jpeg"/>
       <pubDate>Fri, 04 Apr 2025 20:52:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Кривому Розі вже 18 загиблих</title>
+      <link>https://www.mandarinai.lt/post/71856</link>
+      <description>У Кривому Розі вже 18 загиблих, з них 9 дітей, поранених і травмованих станом на зараз 56 осіб, — Вілкул</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_21-24-49.jpg" length="205221" type="image/jpeg"/>
+      <pubDate>Fri, 04 Apr 2025 21:24:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
