@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 07:08:51 +0000</lastBuildDate>
-    <item>
-      <title>Двоє загиблих у Харкові
-
-29 лю</title>
-      <link>https://www.mandarinai.lt/post/71782</link>
-      <description>Двоє загиблих у Харкові
-
-29 людей поранені, серед них одна дитина.
-
-В місті пошкоджено більше 30 багатоповерхівок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5001.MP4" length="12617562" type="video/mp4"/>
-      <pubDate>Thu, 03 Apr 2025 21:40:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>В передмісті Києва був приліт </title>
-      <link>https://www.mandarinai.lt/post/71783</link>
-      <description>В передмісті Києва був приліт безпілотника.
-
-Внаслідок ворожої атаки БпЛА в Броварському районі постраждала людина. 
-
-Виникла пожежа 4 вантажних та одного легкового автомобілів на території парковки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-03_22-43-34.jpg" length="76305" type="image/jpeg"/>
-      <pubDate>Thu, 03 Apr 2025 22:43:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Apr 2025 08:11:44 +0000</lastBuildDate>
     <item>
       <title>❗️Україна частково розв’язала </title>
       <link>https://www.mandarinai.lt/post/71785</link>
@@ -79,6 +55,25 @@
 Вибух стався у житловому районі міста. Попередньо, у момент підриву в машині перебували двоє людей — сам чиновник і його дружина</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_06-07-41.jpg" length="260327" type="image/jpeg"/>
       <pubDate>Fri, 04 Apr 2025 06:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кількість загиблих внаслідок а</title>
+      <link>https://www.mandarinai.lt/post/71798</link>
+      <description>Кількість загиблих внаслідок атаки на Харків зросла до 5 — ОВА
+
+ "Я досі не знаю, що з моїм сином. Квартира вигоріла повністю. Ніхто з сусідів не знає, хто він і що він. Тих, кого відвезли в лікарню, серед них його немає", - говорить мати зниклого мешканця обстріляного будинку в Харкові на Новій Баварії.</description>
+      <pubDate>Fri, 04 Apr 2025 08:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Через вибух постраждав Юрій Фе</title>
+      <link>https://www.mandarinai.lt/post/71799</link>
+      <description>Через вибух постраждав Юрій Федько та його дружина, - РБК-Україна
+
+Він є головою Лівобережної адміністрації міста. 
+
+Попередня версія події – теракт.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_08-04-00.jpg" length="122570" type="image/jpeg"/>
+      <pubDate>Fri, 04 Apr 2025 08:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
