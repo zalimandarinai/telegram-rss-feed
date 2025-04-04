@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 12:15:19 +0000</lastBuildDate>
-    <item>
-      <title>🦾💥У Мелітополі знищено броньов</title>
-      <link>https://www.mandarinai.lt/post/71801</link>
-      <description>🦾💥У Мелітополі знищено броньовик "Тигр" з "кадировцями", - ГУР
-
-"Мінуснулись" щонайменше п’ятеро з екіпажу та десанту окупаційного підрозділу "Ахмат Восток".є</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_08-39-49.jpg" length="109368" type="image/jpeg"/>
-      <pubDate>Fri, 04 Apr 2025 08:39:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Apr 2025 13:19:07 +0000</lastBuildDate>
     <item>
       <title>«Деякі» гарантії безпеки можли</title>
       <link>https://www.mandarinai.lt/post/71804</link>
@@ -89,6 +80,24 @@
       <link>https://www.mandarinai.lt/post/71813</link>
       <description>Так виглядає з коптера будинок в  Харкові, де вночі від удару російського дрона загинули люди.</description>
       <pubDate>Fri, 04 Apr 2025 11:37:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф збільшила кількість ударі</title>
+      <link>https://www.mandarinai.lt/post/71815</link>
+      <description>❗️рф збільшила кількість ударів дронами майже на 50% з початку "мирних перемовин", — The Telegraph</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_12-39-15.jpg" length="110503" type="image/jpeg"/>
+      <pubDate>Fri, 04 Apr 2025 12:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞 Буває і таке. Вершина інжене</title>
+      <link>https://www.mandarinai.lt/post/71816</link>
+      <description>🔞 Буває і таке. Вершина інженерної думки противника. Якщо в росіян є всілякі «Цар-гармата і колокол», то цей танк можна назвати «Цар-мангал».
+
+Витвір путінських рукоділів побачили аеророзвідники з підрозділу «Aerobomber_UA», який входить до 30-ої ОМБР.
+
+Конвеєрна стрічка від транспортеру, мабуть, краще захищає від дронів, але вона зроблена з гуми, тож, мабуть, непогано горить, здогадались українські оператори.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5022.MP4" length="12777915" type="video/mp4"/>
+      <pubDate>Fri, 04 Apr 2025 12:43:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
