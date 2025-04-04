@@ -6,25 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 19:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 20:09:07 +0000</lastBuildDate>
     <item>
       <title>В Броварах на місці вчорашньої</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>В Броварах на місці вчорашньої атаки знайшли бойову частину від «шахеда».</description>
       <pubDate>Fri, 04 Apr 2025 16:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Повідомляють, що був приліт по</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Повідомляють, що був приліт по ресторану «Магелан» у Кривому Розі, попередньо.</description>
-      <pubDate>Fri, 04 Apr 2025 16:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже стало відомо про трьох діт</title>
-      <link>https://www.mandarinai.lt/post/71833</link>
-      <description>Вже стало відомо про трьох дітей серед жертв атаки у Кривому Розі, — повідомляють в ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_16-43-56.jpg" length="139053" type="image/jpeg"/>
-      <pubDate>Fri, 04 Apr 2025 16:43:56 +0000</pubDate>
     </item>
     <item>
       <title>🔞 Про 6 загиблих дітей в Криво</title>
@@ -59,6 +46,24 @@
       <description>В Кривому Розі, за даними ОВА, станом на зараз до медзакладів ушпиталили 30 людей, багато з них зараз в операційних, наймолодшому постраждалому 3 місяці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_17-57-28.jpg" length="222912" type="image/jpeg"/>
       <pubDate>Fri, 04 Apr 2025 17:57:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Пульс ледь пробивається. Реан</title>
+      <link>https://www.mandarinai.lt/post/71851</link>
+      <description>«Пульс ледь пробивається. Реанімація! Люди! Благаю вас!»
+
+В Кривому Розі намагаються реанімувати маленького хлопчика. Батьки поруч, абсолютно безсилі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5054.MP4" length="13118542" type="video/mp4"/>
+      <pubDate>Fri, 04 Apr 2025 19:35:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Офіційна російська пропаганда </title>
+      <link>https://www.mandarinai.lt/post/71852</link>
+      <description>Офіційна російська пропаганда  пише, що влучили  по «найманцям»
+
+Кончені русняві потвори</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-04_19-38-47.jpg" length="51620" type="image/jpeg"/>
+      <pubDate>Fri, 04 Apr 2025 19:38:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
