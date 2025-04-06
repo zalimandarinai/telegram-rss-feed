@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 14:06:57 +0000</lastBuildDate>
-    <item>
-      <title>⚡️У США на тлі масових протест</title>
-      <link>https://www.mandarinai.lt/post/71936</link>
-      <description>⚡️У США на тлі масових протестів готують нову спробу імпічменту Трампа
-
-Конгресмен-демократ Ел Грін заявив, що Трамп «не заслуговує» на довіру і на посаду президента. Він внесе подання про оголошення імпічменту.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-06_06-10-23.mp4" length="2011242" type="video/mp4"/>
-      <pubDate>Sun, 06 Apr 2025 06:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Після шквалу критики  посол </title>
-      <link>https://www.mandarinai.lt/post/71937</link>
-      <description>❗️Після шквалу критики  посол США в Україні цього разу згадала, що саме росія атакувала ракетами Київ
-
-Напепедодні американських дипломатів розкритикували після допису про атаку на Кривий Ріг без згадки, що саме рф атакувала і вбила 19 мирних людей, серед них 9 дітей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_07-23-41.jpg" length="141228" type="image/jpeg"/>
-      <pubDate>Sun, 06 Apr 2025 07:23:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️13 з 23 ракет і 40 зі 109 Бп</title>
-      <link>https://www.mandarinai.lt/post/71938</link>
-      <description>⚡️13 з 23 ракет і 40 зі 109 БпЛА знищено над Україною вночі, — ПС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_07-32-01.jpg" length="136421" type="image/jpeg"/>
-      <pubDate>Sun, 06 Apr 2025 07:32:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Apr 2025 15:07:00 +0000</lastBuildDate>
     <item>
       <title>❗️Подання на імпічмент Трампа </title>
       <link>https://www.mandarinai.lt/post/71939</link>
@@ -102,6 +77,13 @@
 Чекаємо на інформацію від Генштабу ЗСУ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_13-21-53.jpg" length="23444" type="image/jpeg"/>
       <pubDate>Sun, 06 Apr 2025 13:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російська 34-а бригада «відкат</title>
+      <link>https://www.mandarinai.lt/post/71950</link>
+      <description>Російська 34-а бригада «відкатилась» і здала позиції українським силам на Білгородщині, визнають росЗМІ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_14-27-49.jpg" length="139208" type="image/jpeg"/>
+      <pubDate>Sun, 06 Apr 2025 14:27:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
