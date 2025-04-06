@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 06:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 07:07:38 +0000</lastBuildDate>
     <item>
       <title>Нова обкладинка The Economist</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -46,7 +46,7 @@
     <item>
       <title>❗️ Внаслідок ракетної атаки на</title>
       <link>https://www.mandarinai.lt/post/71933</link>
-      <description>❗️ Внаслідок ракетної атаки на столицю в місті сталися пожежі в нежитловій забудові в Оболонському, Дарницькому, Соломʼянському районах, частково зруйнований бизнесцентр.
+      <description>❗️ Внаслідок ракетної атаки на столицю в місті сталися пожежі у нежитловій забудові в Оболонському, Дарницькому, Соломʼянському районах, частково зруйнований бизнесцентр.
 
 Троє постраждалих. Також пошкоджені 8 автівок</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_04-34-13.jpg" length="140760" type="image/jpeg"/>
@@ -58,7 +58,7 @@
       <description>⚡️У США на тлі масових протестів готують нову спробу імпічменту Трампа
 
 Конгресмен-демократ Ел Грін заявив, що Трамп «не заслуговує» на довіру і на посаду президента. Він внесе подання про оголошення імпічменту впродовж 30 деів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_06-10-23.jpg" length="343524" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-06_06-10-23.mp4" length="2011242" type="video/mp4"/>
       <pubDate>Sun, 06 Apr 2025 06:10:23 +0000</pubDate>
     </item>
   </channel>
