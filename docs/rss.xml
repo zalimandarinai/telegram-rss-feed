@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 12:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 13:15:33 +0000</lastBuildDate>
     <item>
       <title>❗️ Внаслідок ракетної атаки на</title>
       <link>https://www.mandarinai.lt/post/71933</link>
@@ -87,6 +87,21 @@
       <link>https://www.mandarinai.lt/post/71945</link>
       <description>Шість російських танків, бронемашини та система РЕБ, - всі влучання підтверджені, - так протягом двох тижнів прикордонники РУБпАК «Фенікс» бригади «Помста» відбивали серію ворожих штурмів.</description>
       <pubDate>Sun, 06 Apr 2025 10:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіяни слідкували за британсь</title>
+      <link>https://www.mandarinai.lt/post/71946</link>
+      <description>Росіяни слідкували за британськими підводними човнами фактично on-line.
+
+Біля берегів Великобританії знайшли датчики, за допомогою яких росія стежила за атомними човнами. 
+
+Лондон також підозрює у шпигунстві яхти російських мільярдерів 
+
+За інформацією The Sunday Times, британські військові виявили у водах поряд із Великою Британією сенсорні датчики, які могли використовуватися Росією для стеження за атомними підводними човнами. 
+
+За версією Міноборони Великої Британії, вони слідкували за атомними субмаринами класу Vanguard.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_12-36-30.jpg" length="124311" type="image/jpeg"/>
+      <pubDate>Sun, 06 Apr 2025 12:36:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
