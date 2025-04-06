@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 07:07:38 +0000</lastBuildDate>
-    <item>
-      <title>Нова обкладинка The Economist</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Нова обкладинка The Economist</description>
-      <pubDate>Sat, 05 Apr 2025 17:24:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Завтра по всій країні оголошує</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Завтра по всій країні оголошується День жалоби за жертвами атаки в Кривому Розі, — віцепрем'єр Кулеба</description>
-      <pubDate>Sat, 05 Apr 2025 17:44:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Десятки тисяч людей у США ви</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️Десятки тисяч людей у США вийшли на мітинги проти Трампа</description>
-      <pubDate>Sat, 05 Apr 2025 18:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Момент вибуху ракети в Києв</title>
-      <link>https://www.mandarinai.lt/post/71926</link>
-      <description>❗️ Момент вибуху ракети в Києві близько 05:00</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5129.MP4" length="745887" type="video/mp4"/>
-      <pubDate>Sun, 06 Apr 2025 02:19:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Apr 2025 08:10:04 +0000</lastBuildDate>
     <item>
       <title>Вирва на місці прильоту ракети</title>
       <link>https://www.mandarinai.lt/post/71928</link>
@@ -57,9 +32,39 @@
       <link>https://www.mandarinai.lt/post/71936</link>
       <description>⚡️У США на тлі масових протестів готують нову спробу імпічменту Трампа
 
-Конгресмен-демократ Ел Грін заявив, що Трамп «не заслуговує» на довіру і на посаду президента. Він внесе подання про оголошення імпічменту впродовж 30 деів</description>
+Конгресмен-демократ Ел Грін заявив, що Трамп «не заслуговує» на довіру і на посаду президента. Він внесе подання про оголошення імпічменту.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-06_06-10-23.mp4" length="2011242" type="video/mp4"/>
       <pubDate>Sun, 06 Apr 2025 06:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Після шквалу критики  посол </title>
+      <link>https://www.mandarinai.lt/post/71937</link>
+      <description>❗️Після шквалу критики  посол США в Україні цього разу згадала, що саме росія атакувала ракетами Київ
+
+Напепедодні американських дипломатів розкритикували після допису про атаку на Кривий Ріг без згадки, що саме рф атакувала і вбила 19 мирних людей, серед них 9 дітей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_07-23-41.jpg" length="141228" type="image/jpeg"/>
+      <pubDate>Sun, 06 Apr 2025 07:23:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️13 з 23 ракет і 40 зі 109 Бп</title>
+      <link>https://www.mandarinai.lt/post/71938</link>
+      <description>⚡️13 з 23 ракет і 40 зі 109 БпЛА знищено над Україною вночі, — ПС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_07-32-01.jpg" length="136421" type="image/jpeg"/>
+      <pubDate>Sun, 06 Apr 2025 07:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Подання на імпічмент Трампа </title>
+      <link>https://www.mandarinai.lt/post/71939</link>
+      <description>❗️Подання на імпічмент Трампа буде потягом 30 днів, його готує конгресмен-демократ Ел Грін, — The Hill</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_07-40-04.jpg" length="129435" type="image/jpeg"/>
+      <pubDate>Sun, 06 Apr 2025 07:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна людина загинула, троє пор</title>
+      <link>https://www.mandarinai.lt/post/71941</link>
+      <description>Одна людина загинула, троє поранені внаслідок балістичної атаки на Київ, — КМВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-06_07-49-01.jpg" length="99061" type="image/jpeg"/>
+      <pubDate>Sun, 06 Apr 2025 07:49:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
