@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 14:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 15:08:59 +0000</lastBuildDate>
     <item>
       <title>Район Лимана на Донеччині стає</title>
       <link>https://www.mandarinai.lt/post/71973</link>
@@ -128,6 +128,13 @@
 СБУ затримала на початку 2024 року, коли він повернувся з розвідувальної вилазки у Миколаївському морпорту. Суд призначив зраднику 12 років за ґратами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-07_13-17-49.jpg" length="130905" type="image/jpeg"/>
       <pubDate>Mon, 07 Apr 2025 13:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російська БМП достроково завер</title>
+      <link>https://www.mandarinai.lt/post/71986</link>
+      <description>Російська БМП достроково завершила «спеціальну військову операцію» за допомогою операторів дронів підрозділу «Фенікс» Держприкордонслужби.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5176.MP4" length="21898337" type="video/mp4"/>
+      <pubDate>Mon, 07 Apr 2025 14:32:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
