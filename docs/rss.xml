@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 21:08:02 +0000</lastBuildDate>
-    <item>
-      <title>Такі листівки з пропозицією зд</title>
-      <link>https://www.mandarinai.lt/post/72041</link>
-      <description>Такі листівки з пропозицією здатися потрапляють до росіян на островах навпроти Херсона. Дуже грамотно написаний текст. Формулювання зрозумілі та чесні. З появою таких листівок кількість бажаючих здатися в український полон трохи збільшилася. І одного з них ми вже сьогодні показували.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_19-12-56.jpg" length="59915" type="image/jpeg"/>
-      <pubDate>Tue, 08 Apr 2025 19:12:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Apr 2025 22:07:47 +0000</lastBuildDate>
     <item>
       <title>Канада передала Україні 40 тис</title>
       <link>https://www.mandarinai.lt/post/72043</link>
@@ -71,6 +64,15 @@
       <description>У Дніпрі — вже 10 постраждалих внаслідок російської дронової атаки. Одна жінка у важкому стані, - ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-08_20-38-34.mp4" length="1210055" type="video/mp4"/>
       <pubDate>Tue, 08 Apr 2025 20:38:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️БпЛА влучив у житловий будин</title>
+      <link>https://www.mandarinai.lt/post/72055</link>
+      <description>❗️БпЛА влучив у житловий будинок в Краматорську, — моніторингові пабліки
+
+Інформація про постраждалих уточнюється</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_21-11-03.jpg" length="108144" type="image/jpeg"/>
+      <pubDate>Tue, 08 Apr 2025 21:11:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
