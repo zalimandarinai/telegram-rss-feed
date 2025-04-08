@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 11:07:22 +0000</lastBuildDate>
-    <item>
-      <title>❗️У Німеччині працює секретний</title>
-      <link>https://www.mandarinai.lt/post/72004</link>
-      <description>❗️У Німеччині працює секретний штаб, де українське командування спільно з європейськими партнерами та  США планували операції проти рф, — Залужний
-
-Він був створений у Вісбадені на базі логістичного центру, коли виникла потреба в оцінці потреб у зброї та техніці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_06-59-17.jpg" length="260361" type="image/jpeg"/>
-      <pubDate>Tue, 08 Apr 2025 06:59:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Apr 2025 12:16:04 +0000</lastBuildDate>
     <item>
       <title>СБУ затримала ще одного російс</title>
       <link>https://www.mandarinai.lt/post/72006</link>
@@ -78,6 +69,31 @@
 ЗС рф намагаються прорвати кордон і утриматися на всій його довжині від н.п. Журавки до КПП Суджа в Курській області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_10-38-57.jpg" length="63877" type="image/jpeg"/>
       <pubDate>Tue, 08 Apr 2025 10:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Я не виключаю, що буде перем</title>
+      <link>https://www.mandarinai.lt/post/72017</link>
+      <description>❗️Я не виключаю, що буде перемир'я у травні , — в ефірі «5-го каналу» секретар Комітету з нацбезпеки Костенко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-08_11-07-47.mp4" length="6077860" type="video/mp4"/>
+      <pubDate>Tue, 08 Apr 2025 11:07:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 США виводять свої війська з</title>
+      <link>https://www.mandarinai.lt/post/72020</link>
+      <description>🇺🇸 США виводять свої війська з ключового хаба для постачання військової допомоги Україні в польській Ясьонці, — командування армії США в Європі та Африці
+
+Важлива робота зі сприяння військовій допомозі Україні через Ясьонку триватиме під керівництвом Польщі та НАТО за підтримки США,
+
+— зазначається в заяві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_11-47-19.jpg" length="196067" type="image/jpeg"/>
+      <pubDate>Tue, 08 Apr 2025 11:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новий вимір дипломатії -  нази</title>
+      <link>https://www.mandarinai.lt/post/72021</link>
+      <description>Новий вимір дипломатії -  називати речі своїми іменами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-08_12-02-00.mp4" length="21264166" type="video/mp4"/>
+      <pubDate>Tue, 08 Apr 2025 12:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
