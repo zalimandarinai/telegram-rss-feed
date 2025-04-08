@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 20:09:00 +0000</lastBuildDate>
-    <item>
-      <title>❗️Китай переконаний, що зможе </title>
-      <link>https://www.mandarinai.lt/post/72040</link>
-      <description>❗️Китай переконаний, що зможе перемогти у торговій війні проти США, - The Economist.
-
-У Пекіні можуть дочекатися, коли США перестануть справлятися з інфляцією і невдоволенням американців зростанням цін і безробіття через мита Трампа. На думку Пекіну, це найпростіший спосіб посадити Трампа за стіл перемовин — дочекатися негативних тенденцій в економіці Штатів.
-
-Однак це доволі ризиковано: до того як інфляція вдарить по США, китайська економіка вже може серйозно постраждати.
-
-На фото новий масштабний обвал акцій в США після інформації про ведення мит 104%</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_18-42-03.jpg" length="136400" type="image/jpeg"/>
-      <pubDate>Tue, 08 Apr 2025 18:42:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Apr 2025 21:08:02 +0000</lastBuildDate>
     <item>
       <title>Такі листівки з пропозицією зд</title>
       <link>https://www.mandarinai.lt/post/72041</link>
@@ -77,6 +64,13 @@
       <description>В Дніпрі теж пожежі після прильотів в житловому кварталі. Русняві виродки скаженіють.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-08_20-02-44.mp4" length="306155" type="video/mp4"/>
       <pubDate>Tue, 08 Apr 2025 20:02:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Дніпрі — вже 10 постраждалих</title>
+      <link>https://www.mandarinai.lt/post/72053</link>
+      <description>У Дніпрі — вже 10 постраждалих внаслідок російської дронової атаки. Одна жінка у важкому стані, - ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-08_20-38-34.mp4" length="1210055" type="video/mp4"/>
+      <pubDate>Tue, 08 Apr 2025 20:38:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
