@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 05:09:25 +0000</lastBuildDate>
-    <item>
-      <title>Канада передала Україні 40 тис</title>
-      <link>https://www.mandarinai.lt/post/72043</link>
-      <description>Канада передала Україні 40 тисяч двигунів до 70-мм некерованих авіаційних ракет CRV7, тобто, Canadian Rocket Vehicle 7, стверджує канадська місія UNIFIER</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_19-16-19.jpg" length="88850" type="image/jpeg"/>
-      <pubDate>Tue, 08 Apr 2025 19:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀 Віцепрезидент США Венс назва</title>
-      <link>https://www.mandarinai.lt/post/72044</link>
-      <description>👀 Віцепрезидент США Венс назвав китайців «селюками», — CN
-
-В МЗС КНР заявили, що вони шоковані такими заявами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-08_19-19-13.jpg" length="83472" type="image/jpeg"/>
-      <pubDate>Tue, 08 Apr 2025 19:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Спалення ворожого човна на ост</title>
-      <link>https://www.mandarinai.lt/post/72045</link>
-      <description>Спалення ворожого човна на острові Білогрудове в Херсонській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5217.MP4" length="7051845" type="video/mp4"/>
-      <pubDate>Tue, 08 Apr 2025 19:24:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Apr 2025 06:13:10 +0000</lastBuildDate>
     <item>
       <title>❗️Друзі, оператори дронів 57-о</title>
       <link>https://www.mandarinai.lt/post/72047</link>
@@ -80,6 +57,46 @@
       <description>В Краматорську внаслідок масованої атаки російських дронів постраждала 11-річна дівчинка, також поранення зазнали її 34-річна мати та 55-річна бабуся, - начальник Донецької ОВА Філашкін.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5221.MP4" length="27392930" type="video/mp4"/>
       <pubDate>Wed, 09 Apr 2025 05:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Кінбурнській косі, єдиній о</title>
+      <link>https://www.mandarinai.lt/post/72057</link>
+      <description>На Кінбурнській косі, єдиній окупованій частині Миколаївщині, дрони скидають агітаційні листівки з інструкцією окупантам, як здаватися правильно і безпечно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5222.MP4" length="2114675" type="video/mp4"/>
+      <pubDate>Wed, 09 Apr 2025 05:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Збито 32 з 55 ворожих БПЛА
+
+</title>
+      <link>https://www.mandarinai.lt/post/72058</link>
+      <description>❗️Збито 32 з 55 ворожих БПЛА
+
+8 ворожих безпілотників-імітаторів — локаційно втрачені  (без негативних наслідків).
+
+Внаслідок російської атаки постраждали Харківщина та Дніпропетровщина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_05-53-52.jpg" length="82956" type="image/jpeg"/>
+      <pubDate>Wed, 09 Apr 2025 05:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Повітряна тривога в місті Ки</title>
+      <link>https://www.mandarinai.lt/post/72059</link>
+      <description>⚡️Повітряна тривога в місті Київ та низці областей через загрозу балістики</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_06-01-03.jpg" length="75513" type="image/jpeg"/>
+      <pubDate>Wed, 09 Apr 2025 06:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Цілують мене в дупу», — Донал</title>
+      <link>https://www.mandarinai.lt/post/72060</link>
+      <description>«Цілують мене в дупу», — Дональд Трамп висміяв країни, які домовляються про торгові угоди зі США
+
+Кажуть: будь ласка, будь ласка, ми все готові зробити.
+
+Він також додав, що зараз тривають «‎найуспішніші» ‎перші місяці в історії США. 
+
+Вони стверджують, що це найуспішніші 100 днів в історії нашої країни. Я вірю в це і впевнений, що ми продовжимо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-09_06-05-15.mp4" length="789957" type="video/mp4"/>
+      <pubDate>Wed, 09 Apr 2025 06:05:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
