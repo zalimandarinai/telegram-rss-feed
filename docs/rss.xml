@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 14:09:43 +0000</lastBuildDate>
-    <item>
-      <title>❗️Восени на території Білорусі</title>
-      <link>https://www.mandarinai.lt/post/72074</link>
-      <description>❗️Восени на території Білорусі війська рф та рб розпочнуть навчання. Ми маємо враховувати той факт, що під "прикриттям" навчань може повторитися сценарій 2022 року, — Сирський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_08-32-53.jpg" length="168374" type="image/jpeg"/>
-      <pubDate>Wed, 09 Apr 2025 08:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 ЗСУ знищили стратегічний рос</title>
-      <link>https://www.mandarinai.lt/post/72076</link>
-      <description>💥 ЗСУ знищили стратегічний російський бомбардувальник Ту-22М3 вартістю понад $100 млн., - Сирський 
-
-Український дрон уразив літак під час посадки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_08-35-25.jpg" length="48920" type="image/jpeg"/>
-      <pubDate>Wed, 09 Apr 2025 08:35:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Apr 2025 15:10:58 +0000</lastBuildDate>
     <item>
       <title>🤯 Проросійська ультраправа «Ал</title>
       <link>https://www.mandarinai.lt/post/72078</link>
@@ -116,6 +100,15 @@ https://send.monobank.ua/jar/2eTBb7q8tc
 Європа може покладатись на Німеччину, ми отримуємо сильний уряд здатний діяти.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_13-18-54.jpg" length="55222" type="image/jpeg"/>
       <pubDate>Wed, 09 Apr 2025 13:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺🇺🇦 ЄС запросив нові 2,1 млрд</title>
+      <link>https://www.mandarinai.lt/post/72090</link>
+      <description>🇪🇺🇺🇦 ЄС запросив нові 2,1 млрд євро із прибутку від активів росії для надання їх Україні , - Єврокомісія
+
+Нагадаємо, що сьогодні Євросоюз вже передав Україні 1 млрд євро з прибутків активів рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_14-31-53.jpg" length="208114" type="image/jpeg"/>
+      <pubDate>Wed, 09 Apr 2025 14:31:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
