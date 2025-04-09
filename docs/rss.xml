@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 21:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 22:07:58 +0000</lastBuildDate>
     <item>
       <title>Допит китайців слідчими Служби</title>
       <link>https://www.mandarinai.lt/post/72104</link>
@@ -130,6 +130,17 @@
 З цього пункту часто виходили ворожі ДРГ та було помічено завезення деякої кількості ударних дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-09_20-28-06.mp4" length="1597862" type="video/mp4"/>
       <pubDate>Wed, 09 Apr 2025 20:28:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сильна пожежа в Голосіївському</title>
+      <link>https://www.mandarinai.lt/post/72118</link>
+      <description>Сильна пожежа в Голосіївському районі Києва внаслідок падіння уламків БпЛА, - КМВА
+
+Горить нежитлова забудова, зруйновано приватний будинок. 
+
+Також, за попередніми даними, уламками було заблоковано людину</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_21-55-23.jpg" length="67031" type="image/jpeg"/>
+      <pubDate>Wed, 09 Apr 2025 21:55:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
