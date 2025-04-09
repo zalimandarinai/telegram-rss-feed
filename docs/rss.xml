@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 08:12:11 +0000</lastBuildDate>
-    <item>
-      <title>На Кінбурнській косі, єдиній о</title>
-      <link>https://www.mandarinai.lt/post/72057</link>
-      <description>На Кінбурнській косі, єдиній окупованій частині Миколаївщині, дрони скидають агітаційні листівки з інструкцією окупантам, як здаватися правильно і безпечно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5222.MP4" length="2114675" type="video/mp4"/>
-      <pubDate>Wed, 09 Apr 2025 05:23:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Збито 32 з 55 ворожих БПЛА
-
-</title>
-      <link>https://www.mandarinai.lt/post/72058</link>
-      <description>❗️Збито 32 з 55 ворожих БПЛА
-
-8 ворожих безпілотників-імітаторів — локаційно втрачені  (без негативних наслідків).
-
-Внаслідок російської атаки постраждали Харківщина та Дніпропетровщина</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_05-53-52.jpg" length="82956" type="image/jpeg"/>
-      <pubDate>Wed, 09 Apr 2025 05:53:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Apr 2025 09:09:41 +0000</lastBuildDate>
     <item>
       <title>⚡️Повітряна тривога в місті Ки</title>
       <link>https://www.mandarinai.lt/post/72059</link>
@@ -146,8 +126,24 @@
       <description>⚡️рф почала наступ на Сумську та Харківську області, – Сирський
 
 Ще наприкінці березня штурмові дії вийшли на пік. Ймовірно, найближчі місяці будуть дуже напруженими на фронті</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_08-03-38.jpg" length="116902" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_08-03-38.jpg" length="127493" type="image/jpeg"/>
       <pubDate>Wed, 09 Apr 2025 08:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Восени на території Білорусі</title>
+      <link>https://www.mandarinai.lt/post/72074</link>
+      <description>❗️Восени на території Білорусі війська рф та рб розпочнуть навчання. Ми маємо враховувати той факт, що під "прикриттям" навчань може повторитися сценарій 2022 року, — Сирський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_08-32-53.jpg" length="168374" type="image/jpeg"/>
+      <pubDate>Wed, 09 Apr 2025 08:32:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 ЗСУ знищили стратегічний рос</title>
+      <link>https://www.mandarinai.lt/post/72076</link>
+      <description>💥 ЗСУ знищили стратегічний російський бомбардувальник Ту-22М3 вартістю понад 100 млн.$, - Сирський 
+
+Українськиц дрон вразив літак під час посадки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-09_08-35-25.jpg" length="48920" type="image/jpeg"/>
+      <pubDate>Wed, 09 Apr 2025 08:35:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
