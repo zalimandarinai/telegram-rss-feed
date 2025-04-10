@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Apr 2025 18:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 19:06:58 +0000</lastBuildDate>
     <item>
       <title>⚡️Офіційно: зс рф почали викор</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,9 +20,8 @@
     </item>
     <item>
       <title>🤬Трибунал у Гаазі не судитиме </title>
-      <link>https://www.mandarinai.lt/post/72168</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🤬Трибунал у Гаазі не судитиме Путіна, поки він залишається президентом рф, – Euronews.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-10_16-35-57.jpg" length="84273" type="image/jpeg"/>
       <pubDate>Thu, 10 Apr 2025 16:35:57 +0000</pubDate>
     </item>
     <item>
@@ -54,10 +53,13 @@
       <pubDate>Thu, 10 Apr 2025 17:33:55 +0000</pubDate>
     </item>
     <item>
-      <title>Продовження розмови слідчих СБ</title>
-      <link>https://www.mandarinai.lt/post/72181</link>
-      <description>Продовження розмови слідчих СБУ з полоненим китайцем.</description>
-      <pubDate>Thu, 10 Apr 2025 17:51:41 +0000</pubDate>
+      <title>🇺🇸Ілон мені, взагалі, не потрі</title>
+      <link>https://www.mandarinai.lt/post/72182</link>
+      <description>🇺🇸Ілон мені, взагалі, не потрібен, він мені просто подобається, — Трамп
+
+Мені не потрібна його Тесла. Знаєте що я з нею роблю? Даю людям в офісі кататися на ній.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-10_19-02-44.mp4" length="1844535" type="video/mp4"/>
+      <pubDate>Thu, 10 Apr 2025 19:02:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
