@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Apr 2025 16:10:22 +0000</lastBuildDate>
-    <item>
-      <title>❗️У Брюсселі стартує засідання</title>
-      <link>https://www.mandarinai.lt/post/72153</link>
-      <description>❗️У Брюсселі стартує засідання «Коаліції охочих»: на захід вже прибув Рустем Умєров
-
-У засіданні візьмуть участь представники 30 держав, які мають на меті встановлення в Україні тривалого справедливого миру, зокрема, шляхом розміщення своїх військ на українській території
-
-Відео: Еспресо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-10_13-06-22.mp4" length="528273" type="video/mp4"/>
-      <pubDate>Thu, 10 Apr 2025 13:06:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російський удар балістикою по </title>
-      <link>https://www.mandarinai.lt/post/72154</link>
-      <description>Російський удар балістикою по місту Дніпро. Над містом дим.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5263.MP4" length="645195" type="video/mp4"/>
-      <pubDate>Thu, 10 Apr 2025 13:23:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Дніпрі наразі відомо про трь</title>
-      <link>https://www.mandarinai.lt/post/72155</link>
-      <description>В Дніпрі наразі відомо про трьох постраждалих внаслідок ракетного удару рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-10_13-51-19.mp4" length="843118" type="video/mp4"/>
-      <pubDate>Thu, 10 Apr 2025 13:51:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 17:07:59 +0000</lastBuildDate>
     <item>
       <title>⚡️Офіційно: зс рф почали викор</title>
       <link>https://www.mandarinai.lt/post/72157</link>
@@ -132,6 +107,24 @@
 📌сильна українська армія.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-10_15-40-36.jpg" length="113715" type="image/jpeg"/>
       <pubDate>Thu, 10 Apr 2025 15:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Чергова жорстока страта укр</title>
+      <link>https://www.mandarinai.lt/post/72167</link>
+      <description>❗️ Чергова жорстока страта українських військовополонених, на цей раз біля села Пʼятихатки, в Запорізькій області, яку показали журналісти АР. 
+
+Наші бійці виходили з піднятими руками, рашисти розстріляли їх буквально впритул, в спину.
+
+Кляті виродки стратили людей, які захищали свою землю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-10_16-34-04.jpg" length="191312" type="image/jpeg"/>
+      <pubDate>Thu, 10 Apr 2025 16:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Трибунал у Гаазі не судитиме </title>
+      <link>https://www.mandarinai.lt/post/72168</link>
+      <description>🤬Трибунал у Гаазі не судитиме Путіна, поки він залишається президентом рф, – Euronews.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-10_16-35-57.jpg" length="84273" type="image/jpeg"/>
+      <pubDate>Thu, 10 Apr 2025 16:35:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
