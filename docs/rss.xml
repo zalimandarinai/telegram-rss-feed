@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Apr 2025 10:09:50 +0000</lastBuildDate>
-    <item>
-      <title>Російська ППО веде вогонь по с</title>
-      <link>https://www.mandarinai.lt/post/72132</link>
-      <description>Російська ППО веде вогонь по своєму гелікоптеру в Московській області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5241.MP4" length="19077970" type="video/mp4"/>
-      <pubDate>Thu, 10 Apr 2025 06:41:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Три ворожі гармати МТ-12, БС-3</title>
-      <link>https://www.mandarinai.lt/post/72133</link>
-      <description>Три ворожі гармати МТ-12, БС-3, Д-30 перетворили на металобрухт бійці прикордонної бригади «Гарт» в районі Вовчанська.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5242.MP4" length="21323181" type="video/mp4"/>
-      <pubDate>Thu, 10 Apr 2025 06:52:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 11:07:26 +0000</lastBuildDate>
     <item>
       <title>❗️Америку ніколи не хвилювала </title>
       <link>https://www.mandarinai.lt/post/72134</link>
@@ -40,7 +26,7 @@
       <link>https://www.mandarinai.lt/post/72136</link>
       <description>В сомережах висміюють тарифи Трампа проти Китаю, — Independent.
 
-Відео огрядних американців, які шиють одяг з нещасним обличчями, згенероване ШІ, з’явилося з підписом "Зробимо Америку знову великою"</description>
+Відео огрядних американців, які шиють одяг з нещасними обличчями, згенероване ШІ, з’явилося з підписом "Зробимо Америку знову великою"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-10_07-23-45.mp4" length="1057749" type="video/mp4"/>
       <pubDate>Thu, 10 Apr 2025 07:23:45 +0000</pubDate>
     </item>
@@ -149,6 +135,28 @@
 Ворожа атака пошкодила гуртожиток та 5 автомобілів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-10_10-06-54.jpg" length="140993" type="image/jpeg"/>
       <pubDate>Thu, 10 Apr 2025 10:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відверта реакція військового р</title>
+      <link>https://www.mandarinai.lt/post/72146</link>
+      <description>Відверта реакція військового російської армії на удар безпілотника по машині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5257.MP4" length="4079924" type="video/mp4"/>
+      <pubDate>Thu, 10 Apr 2025 10:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російська бронегрупа прорвала </title>
+      <link>https://www.mandarinai.lt/post/72147</link>
+      <description>Російська бронегрупа прорвала українську оборону під Торецьком та вийшла на оперативний простір, де була згодом повністю знищена дронами.
+
+Локацію визначив geoint-дослідник Audax.
+
+Російська колона з кількох бронемашин прорвалася на захід із Торецька та вклинилася на 6 кілометрів в український тил, діставшись Плещіївки.
+
+Спробу прорватися зупинили.
+
+На знімках зафіксований один з підбитих бронеавтомобілів в районі Нелипівки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-10_10-47-24.jpg" length="119286" type="image/jpeg"/>
+      <pubDate>Thu, 10 Apr 2025 10:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
