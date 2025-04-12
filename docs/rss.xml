@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Apr 2025 10:07:32 +0000</lastBuildDate>
-    <item>
-      <title>❗️США та Україна провели напру</title>
-      <link>https://www.mandarinai.lt/post/72252</link>
-      <description>❗️США та Україна провели напружені переговори щодо мінеральної угоди — прориву сторони не досягнули, — Reuters
-
-Причина — оновлена пропозиція Білого дому — значно жорсткіша за попередню.
-
-Зокрема, Америка хоче взяти під контроль газопровід "Газпрому", який простягається через українську територію до Європи. При цьому без жодних гарантій безпеки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-12_04-25-24.jpg" length="83643" type="image/jpeg"/>
-      <pubDate>Sat, 12 Apr 2025 04:25:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Apr 2025 11:05:12 +0000</lastBuildDate>
     <item>
       <title>⚡️Найбільш ймовірним напрямком</title>
       <link>https://www.mandarinai.lt/post/72255</link>
@@ -90,6 +79,13 @@
 Близько 200 військових фахівців із 30 країн працюють над створенням стратегії захисту українського неба і моря, а також забезпечення миру на суші. Втім через розбіжності у підходах різних країн не можуть домовитись про спільну стратегію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-12_09-17-11.jpg" length="152365" type="image/jpeg"/>
       <pubDate>Sat, 12 Apr 2025 09:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Існує загроза, що рф може розм</title>
+      <link>https://www.mandarinai.lt/post/72269</link>
+      <description>Існує загроза, що рф може розмістити ядерну зброю в космосі і в подальшому використати її для виведення з ладу сотень супутників, що матиме руйнівні наслідки для Землі — генсек НАТО Рютте</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-12_10-57-39.jpg" length="84433" type="image/jpeg"/>
+      <pubDate>Sat, 12 Apr 2025 10:57:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
