@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Apr 2025 09:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 10:07:32 +0000</lastBuildDate>
     <item>
       <title>❗️США та Україна провели напру</title>
       <link>https://www.mandarinai.lt/post/72252</link>
@@ -81,6 +81,15 @@
 На другому відео Трамп розповідає, що добре пройшов медогляд і здав когнитивний тест.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-12_08-35-30.mp4" length="1151236" type="video/mp4"/>
       <pubDate>Sat, 12 Apr 2025 08:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Перемовини "коаліції охочих" </title>
+      <link>https://www.mandarinai.lt/post/72268</link>
+      <description>🤬Перемовини "коаліції охочих" щодо підтримки України наразі повалені, - голова дипломатії ЄС Кая Каллас.
+
+Близько 200 військових фахівців із 30 країн працюють над створенням стратегії захисту українського неба і моря, а також забезпечення миру на суші. Втім через розбіжності у підходах різних країн не можуть домовитись про спільну стратегію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-12_09-17-11.jpg" length="152365" type="image/jpeg"/>
+      <pubDate>Sat, 12 Apr 2025 09:17:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
