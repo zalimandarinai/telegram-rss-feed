@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Apr 2025 08:10:16 +0000</lastBuildDate>
-    <item>
-      <title>❗️Двоє людей постраждали внасл</title>
-      <link>https://www.mandarinai.lt/post/72248</link>
-      <description>❗️Двоє людей постраждали внаслідок атаки ворожих БпЛА на Києв. Пожежі у складських приміщеннях в Святошинському і Дарницькому районах ліквідовують рятувальники ДСНС
-
-UPD: Вогонь локалізовано, триває ліквідація пожеж.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-12_04-18-28.jpg" length="32850" type="image/jpeg"/>
-      <pubDate>Sat, 12 Apr 2025 04:18:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Apr 2025 09:07:52 +0000</lastBuildDate>
     <item>
       <title>❗️США та Україна провели напру</title>
       <link>https://www.mandarinai.lt/post/72252</link>
@@ -56,9 +47,7 @@ UPD: Вогонь локалізовано, триває ліквідація п
     <item>
       <title>‼️ Пожежі у Святошинському рай</title>
       <link>https://www.mandarinai.lt/post/72259</link>
-      <description>‼️ Пожежі у Святошинському районі Києва – ліквідовано, - ДСНС
-
-На місці ворожої атаки сталася пожежа в складській будівлі на площі 1500 кв.м. Відомо про трьох постраждалих людей</description>
+      <description>‼️ Пожежі у Святошинському районі Києва – ліквідовано, - ДСНС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-12_07-50-54.jpg" length="67595" type="image/jpeg"/>
       <pubDate>Sat, 12 Apr 2025 07:50:54 +0000</pubDate>
     </item>
@@ -72,6 +61,26 @@ UPD: Вогонь локалізовано, триває ліквідація п
 💷 Загалом Україні впродовж 2025 року Британія надасть £3,5 млрд., або $4,5 млрд.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-12_07-52-26.jpg" length="7377" type="image/jpeg"/>
       <pubDate>Sat, 12 Apr 2025 07:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відео нічної атаки рф на столи</title>
+      <link>https://www.mandarinai.lt/post/72263</link>
+      <description>Відео нічної атаки рф на столицю публікує Reuters 
+
+Зараз пожежі, які виникли після обстрілу, вже ліквідували. Відомо про трьох постраждалих людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-12_08-23-50.mp4" length="2499063" type="video/mp4"/>
+      <pubDate>Sat, 12 Apr 2025 08:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Господь Ісусе, будь ласка, да</title>
+      <link>https://www.mandarinai.lt/post/72265</link>
+      <description>«Господь Ісусе, будь ласка, дай нам сил...»
+
+Прес-секретар Білого дому молиться, перш ніж вийти до журналістів.
+
+На другому відео Трамп розповідає, що добре пройшов медогляд і здав когнитивний тест.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-12_08-35-30.mp4" length="1151236" type="video/mp4"/>
+      <pubDate>Sat, 12 Apr 2025 08:35:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
