@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 21:08:01 +0000</lastBuildDate>
-    <item>
-      <title>Організація Північноатлантично</title>
-      <link>https://www.mandarinai.lt/post/72389</link>
-      <description>Організація Північноатлантичного договору (НАТО) втратила сенс після припинення існування СРСР і «має бути розформована», заявив Лавров.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-14_15-03-42.jpg" length="85303" type="image/jpeg"/>
-      <pubDate>Mon, 14 Apr 2025 15:03:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Apr 2025 22:08:11 +0000</lastBuildDate>
     <item>
       <title>Чехія побоюється, що після вій</title>
       <link>https://www.mandarinai.lt/post/72390</link>
@@ -88,6 +81,19 @@
       <link>https://www.mandarinai.lt/post/72404</link>
       <description>Воїни 93-ї бригади у взаємодії з 5-ю окремою штурмовою бригадою та прикордонним загоном «Фенікс» відбили масований механізований штурм російських окупантів в районі Кліщіївки біля Бахмута</description>
       <pubDate>Mon, 14 Apr 2025 18:57:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наші ще на Курщині.
+
+Десантник</title>
+      <link>https://www.mandarinai.lt/post/72405</link>
+      <description>Наші ще на Курщині.
+
+Десантники 82-ої бригади спільно з суміжними підрозділами знищили 1 танк, 3 БТРи та 2 гольф-кари противника
+
+Бій відбувся на околицях села Гуєво неподалік від кордону з Україною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5472.MP4" length="20797279" type="video/mp4"/>
+      <pubDate>Mon, 14 Apr 2025 21:41:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
