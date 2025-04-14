@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 04:11:06 +0000</lastBuildDate>
-    <item>
-      <title>Трамп перебуває у "чудовій фіз</title>
-      <link>https://www.mandarinai.lt/post/72326</link>
-      <description>Трамп перебуває у "чудовій фізичній формі" , - Reuters з посиланням на звіт лікаря Білого дому Шона Барбелли за результатами планового медогляду президента США
-
-Звіт містить найбільш докладну інформацію про стан здоров'я 78-річного Трампа з того часу, як він повернувся до Білого дому в січні, ставши найстаршою людиною, яка коли-небудь вступала на посаду президента США.
-
- "Президент Трамп демонструє відмінне когнітивне та фізичне здоров'я і повністю готовий виконувати обов'язки Верховного головнокомандувача та глави держави", - цитує агентство звіт Барбелли.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-13_15-14-06.jpg" length="89879" type="image/jpeg"/>
-      <pubDate>Sun, 13 Apr 2025 15:14:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Сумах відомо вже про 34 заги</title>
-      <link>https://www.mandarinai.lt/post/72327</link>
-      <description>У Сумах відомо вже про 34 загиблих та 117 поранених — МВС
-
-Українська розвідка повідомляє, що до теракту в Сумах причетні російські військові зі 112-ї та 448-ї ракетних бригад. 
-
-Ракети були випущені з території населених пунктів Лиски (Воронезька область) та Леженьки (Курська область).</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5419.MP4" length="19641486" type="video/mp4"/>
-      <pubDate>Sun, 13 Apr 2025 15:41:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Apr 2025 05:09:57 +0000</lastBuildDate>
     <item>
       <title>Серед руїн в Сумах залишився с</title>
       <link>https://www.mandarinai.lt/post/72328</link>
@@ -105,6 +83,28 @@
       <description>⚡️В Одесі під удар дронів потрапили автівки, які рухались.Також є інформація про влучання в медзаклад</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-13_20-00-07.jpg" length="312082" type="image/jpeg"/>
       <pubDate>Sun, 13 Apr 2025 20:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Мені сказали, що вони припу</title>
+      <link>https://www.mandarinai.lt/post/72342</link>
+      <description>⚡️ Мені сказали, що вони припустилися помилки, це було жахливо — реакція Трампа на атаку рф по Сумах, внаслідок якої загинули 34 людини
+
+Трампа попросили пояснити, що саме він мав на увазі, називаючи дії Росії «помилкою». На це експрезидент США відповів коротко:
+
+Вони зробили помилку. Я так вважаю. Слухайте, запитайте в них.
+
+На запитання, чому завершення війни в Україні затягується довше, ніж він прогнозував, Трамп зазначив: «Це війна з глибоким корінням»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-14_04-40-40.mp4" length="5227260" type="video/mp4"/>
+      <pubDate>Mon, 14 Apr 2025 04:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Німеччина готова поставити У</title>
+      <link>https://www.mandarinai.lt/post/72343</link>
+      <description>❗️Німеччина готова поставити Україні далекобійні ракети Taurus, — майбутній канцлер Німеччини Мерц.
+
+Він вважає, що таким чином, Київ буде у більш вигідному становищі на перемовинах про мир.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-14_04-46-21.jpg" length="99789" type="image/jpeg"/>
+      <pubDate>Mon, 14 Apr 2025 04:46:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
