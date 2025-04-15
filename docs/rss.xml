@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 17:08:00 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ ЗСУ увійшли в Бєлгородську </title>
-      <link>https://www.mandarinai.lt/post/72443</link>
-      <description>⚡️ ЗСУ увійшли в Бєлгородську область для того, щоб відтягнути резерви рф від Курська та Харківщини, — нардеп Костенко
-
-Станом на зараз понад 13 км² у цьому регіоні — це "сіра зона"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-15_13-25-03.jpg" length="69045" type="image/jpeg"/>
-      <pubDate>Tue, 15 Apr 2025 13:25:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Apr 2025 18:10:03 +0000</lastBuildDate>
     <item>
       <title>ЗСУ повернули під контроль сел</title>
       <link>https://www.mandarinai.lt/post/72444</link>
@@ -119,6 +110,23 @@
 За словами Бориса Пісторіуса, на користь поставок Taurus є вагомі аргументи, але також існує "багато аргументів, і хороших аргументів, проти". Лише частину з них можна обговорювати публічно.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-15_16-43-57.jpg" length="71646" type="image/jpeg"/>
       <pubDate>Tue, 15 Apr 2025 16:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>КНДР надала росії від 4 до 6 м</title>
+      <link>https://www.mandarinai.lt/post/72460</link>
+      <description>КНДР надала росії від 4 до 6 мільйонів боєприпасів, ймовірно, більше половини того, що росія використовує на фронті, - дані Open Source Centre спільно з Reuters
+
+Аналіз морських і наземних постачань, проведений OSC та Reuters, виявив 64 відправлення за 20 місяців, тобто, майже 16 000 контейнерів та мільйони снарядів, одне з постачань датоване 17-им березня. 
+
+Диктатор Кім Чен Ин відправляє до росії також ракети, артилерію, реактивні системи.
+
+Керівник української розвідки Буданов стверджує, що КНДР надає росії до половини боєприпасів для армії.
+
+Один з українських військових експертів повідомив Reuters, що цей внесок може складати до 70%, і в певні моменти російська армія майже повністю залежала від північнокорейських ресурсів.
+
+Відправлення озброєння та солдатів з Північної Кореї надали росії значну перевагу на полі бою над українськими силами, вважають автори доповіді.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-15_17-15-54.jpg" length="27498" type="image/jpeg"/>
+      <pubDate>Tue, 15 Apr 2025 17:15:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
