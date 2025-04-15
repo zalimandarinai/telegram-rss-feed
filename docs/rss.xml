@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 10:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 11:07:40 +0000</lastBuildDate>
     <item>
       <title>⚡️🪖 У ЗСУ оновили програму баз</title>
       <link>https://www.mandarinai.lt/post/72425</link>
@@ -85,9 +85,15 @@
     <item>
       <title>❗️Зеленський звільнив голову С</title>
       <link>https://www.mandarinai.lt/post/72436</link>
-      <description>❗️Зеленський звільнив голову Сумської ОВА Дмитра Артюха.</description>
+      <description>❗️Зеленський звільнив голову Сумської ОВА Володимира Артюха</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-15_09-54-09.jpg" length="116547" type="image/jpeg"/>
       <pubDate>Tue, 15 Apr 2025 09:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили оборони Півдня знищили дв</title>
+      <link>https://www.mandarinai.lt/post/72437</link>
+      <description>Сили оборони Півдня знищили дві станції дороговартісного російського комплексу РЕБ «Борисоглебск-2»</description>
+      <pubDate>Tue, 15 Apr 2025 10:45:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
