@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 03:30:52 +0000</lastBuildDate>
-    <item>
-      <title>Чехія побоюється, що після вій</title>
-      <link>https://www.mandarinai.lt/post/72390</link>
-      <description>Чехія побоюється, що після війни до них приїдуть українські ветерани, — Euractiv
-
-У виданні зазначається, що до переселених жінок і дітей прибудуть їхні чоловіки та батьки, які пройшли війну, мають травмовану психіку та можуть становити загрозу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-14_15-31-13.jpg" length="114513" type="image/jpeg"/>
-      <pubDate>Mon, 14 Apr 2025 15:31:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Apr 2025 04:10:44 +0000</lastBuildDate>
     <item>
       <title>🤬Угорщина погрожує ветувати вс</title>
       <link>https://www.mandarinai.lt/post/72391</link>
@@ -94,6 +85,13 @@
 Бій відбувся на околицях села Гуєво неподалік від кордону з Україною.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5472.MP4" length="20797279" type="video/mp4"/>
       <pubDate>Mon, 14 Apr 2025 21:41:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі в Курську пролунала сер</title>
+      <link>https://www.mandarinai.lt/post/72406</link>
+      <description>💥Вночі в Курську пролунала серія вибухів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-15_04-06-28.mp4" length="439792" type="video/mp4"/>
+      <pubDate>Tue, 15 Apr 2025 04:06:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
