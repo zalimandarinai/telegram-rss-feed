@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Apr 2025 19:06:55 +0000</lastBuildDate>
-    <item>
-      <title>🔥Площа пожежі в Курську понад </title>
-      <link>https://www.mandarinai.lt/post/72518</link>
-      <description>🔥Площа пожежі в Курську понад 10000 кв.м. — росзмі
-
-Пожежа почалась в цеху підприємства по виробництву підшипників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-16_15-38-49.jpg" length="118730" type="image/jpeg"/>
-      <pubDate>Wed, 16 Apr 2025 15:38:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>«WTF!» Трамп розізлився на Мас</title>
-      <link>https://www.mandarinai.lt/post/72521</link>
-      <description>«WTF!» Трамп розізлився на Маска через брифінг Пентагону, — Axios
-
-Американський президент скасував секретний брифінг Пентагону щодо Китаю після того, як дізнався, що на ньому буде Ілон Маск. 
-
-«Якого біса Ілон там робить? Переконайтеся, що він не піде», — сказав президент.
-
-Маск дратує частину чиновників своєю активністю в Білому домі. Попри це, Трамп «усе ще його любить», але має «червоні лінії».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-16_16-23-45.jpg" length="87184" type="image/jpeg"/>
-      <pubDate>Wed, 16 Apr 2025 16:23:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Apr 2025 20:10:03 +0000</lastBuildDate>
     <item>
       <title>💥🔥Феєричні кадри прильоту дрон</title>
       <link>https://www.mandarinai.lt/post/72522</link>
@@ -117,6 +95,20 @@
 «Перший раз мені сказали, що моя задача в певний момент просто сказати, що я їх підтримую. За це ми їдемо в любий салон і купуємо машину, на яку я покажу. Друга ситуація — поклали ключі від крутої машини: «це тобі просто так подарунок». Я відмовився», — наймолодший Герой України Євгеній Громадський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-16_18-30-23.mp4" length="7569050" type="video/mp4"/>
       <pubDate>Wed, 16 Apr 2025 18:30:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Дніпрі понад 10 вибухів за о</title>
+      <link>https://www.mandarinai.lt/post/72533</link>
+      <description>У Дніпрі понад 10 вибухів за останні 20 хвилин. Місто під масованою атакою дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-16_19-45-21.jpg" length="46450" type="image/jpeg"/>
+      <pubDate>Wed, 16 Apr 2025 19:45:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Дніпрі пожежі після прильоті</title>
+      <link>https://www.mandarinai.lt/post/72534</link>
+      <description>У Дніпрі пожежі після прильотів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-16_20-02-51.mp4" length="504499" type="video/mp4"/>
+      <pubDate>Wed, 16 Apr 2025 20:02:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
