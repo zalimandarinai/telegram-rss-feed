@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Apr 2025 15:09:24 +0000</lastBuildDate>
-    <item>
-      <title>У Києві ДБР виявило великий сх</title>
-      <link>https://www.mandarinai.lt/post/72504</link>
-      <description>У Києві ДБР виявило великий сховок зі зброєю, власником якого був правоохоронець та його батько.
-
-В одному з гаражів Деснянського району виявлено:
-- понад 35 тисяч патронів;
-- 6 гранатометів;
-- 6 БпЛА;
-- 130 гранат;
-- 90 ВОГів;
-- автомати;
-- снайперські гвинтівки;
-- ударно-дистанційні запали;
-- прилади для спостереження;
-- пістолети, протипіхотні міни тощо.
-
-Зараз слідчі встановлюють мету зберігання та походження зброї, боєприпасів та дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-16_11-12-01.mp4" length="3034628" type="video/mp4"/>
-      <pubDate>Wed, 16 Apr 2025 11:12:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Apr 2025 16:11:14 +0000</lastBuildDate>
     <item>
       <title>Третя штурмова бригада вдарила</title>
       <link>https://www.mandarinai.lt/post/72505</link>
@@ -141,6 +120,15 @@
 Замовити можна на сайті видавництва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-16_15-00-08.jpg" length="470409" type="image/jpeg"/>
       <pubDate>Wed, 16 Apr 2025 15:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Площа пожежі в Курську понад </title>
+      <link>https://www.mandarinai.lt/post/72518</link>
+      <description>🔥Площа пожежі в Курську понад 10000 кв.м. — росзмі
+
+Пожежа почалась в цеху підприємства по виробництву підшипників.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-16_15-38-49.jpg" length="118730" type="image/jpeg"/>
+      <pubDate>Wed, 16 Apr 2025 15:38:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
