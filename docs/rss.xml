@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Apr 2025 13:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 14:09:37 +0000</lastBuildDate>
     <item>
       <title>Влучання по військовій частині</title>
       <link>https://www.mandarinai.lt/post/72498</link>
@@ -115,6 +115,21 @@
       <description>Хлопці зливають бензин з «шахеда», нажаль, вони не в курсі, що саме для таких от випадків російські нелюди оздоблюють дрони отруєними частинами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5528.MP4" length="2067428" type="video/mp4"/>
       <pubDate>Wed, 16 Apr 2025 13:10:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Данія відправляє свої війська </title>
+      <link>https://www.mandarinai.lt/post/72512</link>
+      <description>Данія відправляє свої війська до України.
+
+Збройні сили Данії направлять декілька груп військових до України для вивчення тактик застосування дронів та переймання українського бойового досвіду.
+
+Про це виданню повідомив Головнокомандувач ЗС Данії, генерал-майор Пітер Бойсен.
+
+Декілька команд військових із різних частин будуть направлені до України для проходження військової підготовки.
+
+Вона організовується на запрошення українського Головнокомандувача Сирського.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-16_13-40-24.jpg" length="246563" type="image/jpeg"/>
+      <pubDate>Wed, 16 Apr 2025 13:40:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
