@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Apr 2025 02:22:35 +0000</lastBuildDate>
-    <item>
-      <title>🚗 Мрієш про авто за ціною нижч</title>
-      <link>https://www.mandarinai.lt/post/72456</link>
-      <description>🚗 Мрієш про авто за ціною нижче ринку? Шукай авто в чат-боті!
-
-Що може цей бот❓
-
-▫️ Безкоштовний CARFAX
-▫️ Підбір авто на аукціонах США, Канади та Європи - Copart, IAAI, Manheim
-▫️ Розрахунок мита
-▫️ Підбір авто в наявності
-▫️ Обмін вашого автомобіля
-▫️ Розрахунок «під ключ»
-▫️ Перевірка доступності кредиту та лізингу
-
-Переходь у бот та обирай своє авто вже зараз  🔜 КАТАЛОГ АВТО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-15_16-00-11.mp4" length="1342865" type="video/mp4"/>
-      <pubDate>Tue, 15 Apr 2025 16:00:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Apr 2025 03:29:36 +0000</lastBuildDate>
     <item>
       <title>Болгарія вирішила не продавати</title>
       <link>https://www.mandarinai.lt/post/72457</link>
@@ -116,6 +97,17 @@
 Перебувайте в укритті!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-15_20-05-55.jpg" length="65278" type="image/jpeg"/>
       <pubDate>Tue, 15 Apr 2025 20:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Внаслідок атаки на Одесу пос</title>
+      <link>https://www.mandarinai.lt/post/72469</link>
+      <description>❗️Внаслідок атаки на Одесу постраждало троє людей, родину врятувало правило двох стін і вони вціліли в потрощеному будинку, -  повідомили в ДСНС.
+
+Пожежі спалахнули за декількома адресами — горіли житлові будинки, пошкоджені складські будівлі.
+
+Фото: ДСНС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-16_03-11-32.jpg" length="120513" type="image/jpeg"/>
+      <pubDate>Wed, 16 Apr 2025 03:11:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
