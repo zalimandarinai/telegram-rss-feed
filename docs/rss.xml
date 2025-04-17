@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Apr 2025 08:12:34 +0000</lastBuildDate>
-    <item>
-      <title>На парковці в Дніпрі після при</title>
-      <link>https://www.mandarinai.lt/post/72537</link>
-      <description>На парковці в Дніпрі після прильоту горять автівки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5540.MP4" length="3765067" type="video/mp4"/>
-      <pubDate>Wed, 16 Apr 2025 20:14:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Apr 2025 09:09:35 +0000</lastBuildDate>
     <item>
       <title>В Дніпрі ще одна жінка загинул</title>
       <link>https://www.mandarinai.lt/post/72539</link>
@@ -71,6 +64,15 @@
       <description>❗️Українська делегація прибула до Парижа на перемовини з представниками США, країнами “Коаліції охочих” та державами-гарантами безпеки для України — Францією, Німеччиною і Британією. Раніше повідомлялося, що до Франції також мають прибути Рубіо та Віткофф.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-17_07-41-25.jpg" length="45370" type="image/jpeg"/>
       <pubDate>Thu, 17 Apr 2025 07:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Щось знову гучно вибухнуло на</title>
+      <link>https://www.mandarinai.lt/post/72550</link>
+      <description>💥Щось знову гучно вибухнуло на складі під Москвою.
+
+Що за ранок💥😍</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-17_08-15-39.mp4" length="29517" type="video/mp4"/>
+      <pubDate>Thu, 17 Apr 2025 08:15:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
