@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 03:25:55 +0000</lastBuildDate>
-    <item>
-      <title>русняві мразі вдарили КАБом по</title>
-      <link>https://www.mandarinai.lt/post/72580</link>
-      <description>русняві мразі вдарили КАБом по багатоповерхівці в Куп'янську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5583.MP4" length="1455246" type="video/mp4"/>
-      <pubDate>Thu, 17 Apr 2025 16:30:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Apr 2025 04:10:45 +0000</lastBuildDate>
     <item>
       <title>Іноземні легіонери в бригаді «</title>
       <link>https://www.mandarinai.lt/post/72584</link>
@@ -98,6 +91,28 @@
 2 артилерійські системи.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5587.MP4" length="21078640" type="video/mp4"/>
       <pubDate>Thu, 17 Apr 2025 20:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф зранку вдарила по Харкову</title>
+      <link>https://www.mandarinai.lt/post/72594</link>
+      <description>⚡️рф зранку вдарила по Харкову балістичними ракетами з касетним начинням. Саме  тому площі ураження дуже великі 
+
+Вже відомо про одного загиблого і 40 постраждалих, серед них дві дитини: 4 роки та 2,8 років. Пошкоджено 15 багатоквартирних будинків.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-18_03-56-04.mp4" length="1396391" type="video/mp4"/>
+      <pubDate>Fri, 18 Apr 2025 03:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Деталі підписання меморандум</title>
+      <link>https://www.mandarinai.lt/post/72597</link>
+      <description>❗️Деталі підписання меморандуму про корисні копалини між Україною та США
+
+- підписання відбулося у онлайн-форматі. З українського боку його підписала міністр економіки Юлія Свириденко, з американської – міністр фінансів Скотт Бессент.
+
+- меморандум не є угодою. Підписаний документ підтверджує наміри укласти повну угоду у майбутньому.
+
+- над угодою, яку належить підписати, ще працюють технічні команди США та України, а потім цю угоду має ратифікувати Верховна Рада.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-18_04-07-21.jpg" length="114682" type="image/jpeg"/>
+      <pubDate>Fri, 18 Apr 2025 04:07:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
