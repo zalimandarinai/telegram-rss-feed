@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 09:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 10:09:11 +0000</lastBuildDate>
     <item>
       <title>⚡️Внаслідок ракетного удару по</title>
       <link>https://www.mandarinai.lt/post/72605</link>
@@ -111,6 +111,21 @@
 Коли ви починаєте дивитися на ці п'ять регіонів, на росію, на те, що ви дбаєте про них, і, до речі, ви теж дбаєте про Україну, якщо деякі з них є більш російськомовними, вас це менше хвилює, додав посланець.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-18_07-41-02.jpg" length="214793" type="image/jpeg"/>
       <pubDate>Fri, 18 Apr 2025 07:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Китай заперечив заяви Зеленс</title>
+      <link>https://www.mandarinai.lt/post/72623</link>
+      <description>❗️Китай заперечив заяви Зеленського про постачання росії зброї, — Sky News
+
+Речник МЗС Китаю Лінь Цзянь назвав «безпідставними» заяви президента України Володимира Зеленського про те, що Пекін постачає Москві артилерію та порох для боєприпасів:
+
+Китай ніколи не надавав летальну зброю жодній зі сторін під час цієї війни та суворо контролює товари подвійного призначення.
+
+Українська сторона публічно заявляла, що більшість запчастин до зброї, які імпортує Росія, надходять із США та інших західних країн.
+
+При цьому китайський дипломат не став коментувати слова Зеленського про те, що китайські компанії займаються виробництвом зброї в рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-18_09-42-07.jpg" length="21272" type="image/jpeg"/>
+      <pubDate>Fri, 18 Apr 2025 09:42:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
