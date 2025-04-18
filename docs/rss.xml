@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 16:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 17:07:27 +0000</lastBuildDate>
     <item>
       <title>🕯Тіла 909 павших Захисників по</title>
       <link>https://www.mandarinai.lt/post/72631</link>
@@ -93,6 +93,15 @@
 Як завжди, звинувачують ЗСУ. Будьте максимально уважними до тривог в ці дні!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-18_15-39-29.jpg" length="42392" type="image/jpeg"/>
       <pubDate>Fri, 18 Apr 2025 15:39:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росія та Україна завтра обмі</title>
+      <link>https://www.mandarinai.lt/post/72645</link>
+      <description>❗️росія та Україна завтра обміняються понад 500 полоненими, — Sky News
+
+Обмін відбудеться за посередництва Об'єднаних Арабських  Еміратів, повідомило обізнане джерело. У ньому візьмуть участь по 246 полонених з кожної сторони, зокрема 46 поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-18_16-13-41.jpg" length="13580" type="image/jpeg"/>
+      <pubDate>Fri, 18 Apr 2025 16:13:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
