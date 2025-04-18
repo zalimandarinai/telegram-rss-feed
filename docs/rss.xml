@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 20:09:15 +0000</lastBuildDate>
-    <item>
-      <title>Ворог створює «мертву смугу» в</title>
-      <link>https://www.mandarinai.lt/post/72636</link>
-      <description>Ворог створює «мертву смугу» вздовж Дніпра, — речник ОК «Південь»
-
-На Придніпровському напрямку російські війська посилили обстріли правобережних населених пунктів, зокрема Херсона. 
-
-Як повідомив речник ОК «Південь» Владислав Волошин, ворог щодня застосовує до 220 дронів-камікадзе, а також регулярно завдає бомбових ударів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5558.MP4" length="1642724" type="video/mp4"/>
-      <pubDate>Fri, 18 Apr 2025 13:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Люди Покровська.  Які є.</title>
-      <link>https://www.mandarinai.lt/post/72637</link>
-      <description>Люди Покровська.  Які є.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-18_13-57-47.mp4" length="3494906" type="video/mp4"/>
-      <pubDate>Fri, 18 Apr 2025 13:57:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Apr 2025 21:07:33 +0000</lastBuildDate>
     <item>
       <title>❗️НАТО модернізує Сувалкський </title>
       <link>https://www.mandarinai.lt/post/72640</link>
@@ -87,6 +69,15 @@
 Наразі лікарі надають потерпілому військовому необхідну медичну допомогу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-18_18-50-09.jpg" length="118719" type="image/jpeg"/>
       <pubDate>Fri, 18 Apr 2025 18:50:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Краснодарі близько 100 росій</title>
+      <link>https://www.mandarinai.lt/post/72651</link>
+      <description>В Краснодарі близько 100 російських військових намагались втекти із закритої військової частини.
+
+Вони зламали паркан й наразі в місті перекриті декілька вулиць та відбувається перевірка автомобілів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-18_20-35-35.mp4" length="4501775" type="video/mp4"/>
+      <pubDate>Fri, 18 Apr 2025 20:35:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
