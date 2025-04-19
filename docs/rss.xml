@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 04:10:04 +0000</lastBuildDate>
-    <item>
-      <title>❗️НАТО модернізує Сувалкський </title>
-      <link>https://www.mandarinai.lt/post/72640</link>
-      <description>❗️НАТО модернізує Сувалкський коридор на випадок нападу Росії, — Politico
-
-Литва створить транспортний маршрут для підвезення озброєнь із Польщі, щоб забезпечити безпеку Сувалкського коридору — найвразливішої ділянки на східному фланзі НАТО. 
-
-Планується, що одна з двох основних доріг між Литвою та Польщею буде модернізована для перекидання військової техніки та особового складу. Також передбачається створення нових КПП і блокуючи систем, наприклад цементних бар’єрів.
-
-Сувалкський коридор — 100-кілометрова лісиста ділянка, що з'єднує Польщу та Литву і розділяє Білорусь і Калінінградську область РФ. Це єдиний сухопутний маршрут, який з’єднує країни Балтії з рештою європейських союзників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-18_15-23-43.jpg" length="87556" type="image/jpeg"/>
-      <pubDate>Fri, 18 Apr 2025 15:23:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Apr 2025 05:08:27 +0000</lastBuildDate>
     <item>
       <title>⚡️Вулиці України почали патрул</title>
       <link>https://www.mandarinai.lt/post/72641</link>
@@ -55,7 +42,7 @@
 
  У нас є дуже хороші шанси укласти угоду між Росією та Україною. 
 
- На питання, чи грає з ним Росія, Трамп відповідає: «Ніхто зі мною не грає, я намагаюсь допомогти, це війна Байдена»</description>
+ На питання, чи грає з ним Росія, Трамп відповідає: «Ніхто зі мною не грає, я намагаюсь допомогти, це війна Байдена».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-18_18-13-44.mp4" length="1111066" type="video/mp4"/>
       <pubDate>Fri, 18 Apr 2025 18:13:44 +0000</pubDate>
     </item>
@@ -78,6 +65,26 @@
 Вони зламали паркан й наразі в місті перекриті декілька вулиць та відбувається перевірка автомобілів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-18_20-35-35.mp4" length="4501775" type="video/mp4"/>
       <pubDate>Fri, 18 Apr 2025 20:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>США не розглядають серйозно но</title>
+      <link>https://www.mandarinai.lt/post/72654</link>
+      <description>США не розглядають серйозно нові поставки зброї Україні, — The New York Times, посилаючись на законодавців, які підтримують Україну
+
+Також європейські посадовці не отримали запевнень від США про продовження обміну розвідданими з Україною.
+
+В адміністрації Трампа зараз акцентують на тому, що США отримують від України, а не на тому, що готові їй надати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_04-38-03.jpg" length="99194" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 04:38:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США готові визнати Крим росі</title>
+      <link>https://www.mandarinai.lt/post/72656</link>
+      <description>❗️США готові визнати Крим російським у рамках широкої мирної угоди, — Bloomberg
+
+Потенційна поступка є останнім сигналом того, що президент США Дональд Трамп прагне закріпити угоду про припинення вогню. До того він і держсекретар Марко Рубіо припустили, що адміністрація готова відійти від своїх мирних посередницьких зусиль, якщо прогрес не буде швидко досягнутий.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_04-42-05.jpg" length="90201" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 04:42:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
