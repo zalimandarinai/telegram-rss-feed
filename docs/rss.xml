@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 19:05:40 +0000</lastBuildDate>
-    <item>
-      <title>США хочуть нову зустріч з росі</title>
-      <link>https://www.mandarinai.lt/post/72694</link>
-      <description>США хочуть нову зустріч з росією, щоб обговорити мирну угоду щодо війни в Україні, — CNN
-
-Як пише видання, американський план передбачає закріплення лінії фронту, припинення вогню та визнання контролю росії над окупованими територіями, включно з Кримом. 
-
-Цю пропозицію обговорили з українською та європейськими сторонами в Парижі, а також у телефонній розмові між держсекретарем США Марко Рубіо та главою МЗС рф Лавровим.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_16-01-55.jpg" length="213903" type="image/jpeg"/>
-      <pubDate>Sat, 19 Apr 2025 16:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Так виглядає російське перемир</title>
-      <link>https://www.mandarinai.lt/post/72695</link>
-      <description>Так виглядає російське перемирʼя в Херсоні 
-
-БпЛА в житловий будинок, 6 квартир у вогні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_16-02-36.jpg" length="112838" type="image/jpeg"/>
-      <pubDate>Sat, 19 Apr 2025 16:02:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Apr 2025 20:08:45 +0000</lastBuildDate>
     <item>
       <title>⚡️*“30 годин замість 30 днів”:</title>
       <link>https://www.mandarinai.lt/post/72699</link>
@@ -82,6 +62,17 @@
       <description>❗️ Українські військові отримали наказ не відкривати вогонь після початку «перемирʼя», команда припинити вогонь надійшла буквально за кілька хвилин після старту оголошеного москвою «великоднього припинення вогню», — стверджує BBC з посиланням на українських військових.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_18-07-01.jpg" length="81571" type="image/jpeg"/>
       <pubDate>Sat, 19 Apr 2025 18:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Руслан і Маргарита Виноград. М</title>
+      <link>https://www.mandarinai.lt/post/72714</link>
+      <description>Руслан і Маргарита Виноград. Мама і син, які потрапили разом у полон на «Азовсталі». Але вони не бачилися три роки. 
+
+Руслан думав, що маму давно вже обміняли, писав їй листи. 
+
+Сьогодні вони випадково зустрілися в автобусі на обміні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_20-01-18.jpg" length="124050" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 20:01:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
