@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 09:07:47 +0000</lastBuildDate>
-    <item>
-      <title>В Краснодарі близько 100 росій</title>
-      <link>https://www.mandarinai.lt/post/72651</link>
-      <description>В Краснодарі близько 100 російських військових намагались втекти із закритої військової частини.
-
-Вони зламали паркан й наразі в місті перекриті декілька вулиць та відбувається перевірка автомобілів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-18_20-35-35.mp4" length="4501775" type="video/mp4"/>
-      <pubDate>Fri, 18 Apr 2025 20:35:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Apr 2025 10:07:46 +0000</lastBuildDate>
     <item>
       <title>США не розглядають серйозно но</title>
       <link>https://www.mandarinai.lt/post/72654</link>
@@ -105,6 +96,20 @@
 Сам Трамп поки не встановив дедлайну і не сказав, чи буде робити якісь подальші кроки, окрім виходу з переговорів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_08-05-26.jpg" length="38666" type="image/jpeg"/>
       <pubDate>Sat, 19 Apr 2025 08:05:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ЗСУ відкинули росіян у район</title>
+      <link>https://www.mandarinai.lt/post/72666</link>
+      <description>⚡️ЗСУ відкинули росіян у районі Удачного на Донеччині. Цей населений пункт всього за 5-6 кілометрів до кордону з Дніпропетровською областю. - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_09-16-37.jpg" length="78629" type="image/jpeg"/>
+      <pubDate>Sat, 19 Apr 2025 09:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили оборони Півдня України що</title>
+      <link>https://www.mandarinai.lt/post/72667</link>
+      <description>Сили оборони Півдня України щодня знищують десятки одиниць ворожої техніки, в тому числі, на лівому березі Дніпра. На окупантів теж чекає незавидна доля. Шанс дає лише добровільна здача в полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5609.MP4" length="11098638" type="video/mp4"/>
+      <pubDate>Sat, 19 Apr 2025 10:07:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
