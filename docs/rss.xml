@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Apr 2025 04:10:05 +0000</lastBuildDate>
-    <item>
-      <title>⚡️*“30 годин замість 30 днів”:</title>
-      <link>https://www.mandarinai.lt/post/72699</link>
-      <description>⚡️*“30 годин замість 30 днів”: Київ розчарований великоднім фарсом москви, — МЗС
-
-Ще 11 березня Україна погодилася на безумовне припинення вогню на 30 днів, але росія ігнорує цю ініціативу вже 39 днів.
-
-Натомість кремль тепер маніпулює поняттям «великоднього перемир’я» — пропонуючи лише 30 годин тиші на тлі посилених ударів по цивільній інфраструктурі.
-
-У МЗС підкреслюють: Україна готова зупинити вогонь хоч зараз, без умов. Але все — в руках рф, яка вкотре доводить, що її словам вірити не можна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-19_16-35-47.mp4" length="1771829" type="video/mp4"/>
-      <pubDate>Sat, 19 Apr 2025 16:35:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Apr 2025 05:08:21 +0000</lastBuildDate>
     <item>
       <title>«Матуся, я тебе так люблю, я п</title>
       <link>https://www.mandarinai.lt/post/72700</link>
@@ -73,6 +60,19 @@
 Сьогодні вони випадково зустрілися в автобусі на обміні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-19_20-01-18.jpg" length="124050" type="image/jpeg"/>
       <pubDate>Sat, 19 Apr 2025 20:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росія лише робить вигляд при</title>
+      <link>https://www.mandarinai.lt/post/72717</link>
+      <description>❗️росія лише робить вигляд припинення вогню, - доповідь Сирського
+
+Загалом у період між 18:00 суботи та 00:00 сьогодні відбулося 387 обстрілів і 19 штурмових дій, 290 застосувань БпЛА.
+
+Україна відповідає дзеркально, діятиме так й надалі.
+
+Українська пропозиція реалізувати й подовжити тишу на 30 днів після 24:00 сьогоднішнього дня залишається чинною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_04-36-07.jpg" length="188454" type="image/jpeg"/>
+      <pubDate>Sun, 20 Apr 2025 04:36:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
