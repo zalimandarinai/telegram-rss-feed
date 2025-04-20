@@ -6,20 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Apr 2025 05:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 06:11:28 +0000</lastBuildDate>
     <item>
       <title>«Матуся, я тебе так люблю, я п</title>
-      <link>https://www.mandarinai.lt/post/72700</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>«Матуся, я тебе так люблю, я передати не можу, я все витримав, я протримався», - хлопець після трьох років полону вперше розмовляє з мамою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5625.MP4" length="6179503" type="video/mp4"/>
       <pubDate>Sat, 19 Apr 2025 16:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>❤️‍🩹</title>
-      <link>https://www.mandarinai.lt/post/72701</link>
-      <description>❤️‍🩹</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-19_16-45-49.mp4" length="4407997" type="video/mp4"/>
-      <pubDate>Sat, 19 Apr 2025 16:45:49 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Їдемо до Лондона, щоб спроб</title>
@@ -73,6 +65,15 @@
 Українська пропозиція реалізувати й подовжити тишу на 30 днів після 24:00 сьогоднішнього дня залишається чинною.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_04-36-07.jpg" length="188454" type="image/jpeg"/>
       <pubDate>Sun, 20 Apr 2025 04:36:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 «Історія запамʼятає путіна </title>
+      <link>https://www.mandarinai.lt/post/72718</link>
+      <description>🇺🇸 «Історія запамʼятає путіна як слабку і жалюгідну людину», - конгресмен США Джо Вілсон висміяв Великоднє перемир’я Путіна
+
+«Воєнний злочинець Путін нагадує нам про свою повну й абсолютну розбещеність і зневагу до людського життя, бомбардуючи дитячі майданчики, християнські пекарні й оголошуючи фейкове Великоднє перемир’я, продовжуючи вторгнення, яке він розпочав і може закінчити вже сьогодні», — йдеться у дописі американського законодавця.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_05-33-48.jpg" length="81640" type="image/jpeg"/>
+      <pubDate>Sun, 20 Apr 2025 05:33:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
