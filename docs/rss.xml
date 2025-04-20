@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Apr 2025 18:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 19:04:42 +0000</lastBuildDate>
     <item>
       <title>Під час оголошеного перемир'я </title>
       <link>https://www.mandarinai.lt/post/72743</link>
@@ -126,6 +126,13 @@
 Сполука гідрид магнію MgH₂ під впливом високої температури виділяє в чистому вигляді водень, який миттєво загоряється й утворює стійке полум’я.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_17-48-01.jpg" length="68721" type="image/jpeg"/>
       <pubDate>Sun, 20 Apr 2025 17:48:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Сьогодні не було повітряних т</title>
+      <link>https://www.mandarinai.lt/post/72756</link>
+      <description>«Сьогодні не було повітряних тривог. Отже, це формат тиші, яка досягнута і яку найлегше продовжити. Україна пропонує відмовитися від будь-яких ударів далекобійними дронами та ракетами по цивільній інфраструктурі на термін щонайменше 30 діб із можливістю продовження», - Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_18-30-16.jpg" length="64116" type="image/jpeg"/>
+      <pubDate>Sun, 20 Apr 2025 18:30:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
