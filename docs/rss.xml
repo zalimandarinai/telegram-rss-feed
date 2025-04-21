@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 13:18:57 +0000</lastBuildDate>
-    <item>
-      <title>🕯️ Віцепрезидент США Дж. Д. Ве</title>
-      <link>https://www.mandarinai.lt/post/72772</link>
-      <description>🕯️ Віцепрезидент США Дж. Д. Венс став останньою офіційною особою, яка зустрілася з Папою Франциском перед смертю
-
-🇺🇸🇻🇦 Їх переговори відбулися вчора.
-
-📝 «Я дізнався про смерть Папи Франциска. Моє серце співчуває мільйонам християн по всьому світу, які його любили», - написав Дж.Д. Венс в соціальній мережі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5691.MP4" length="2960948" type="video/mp4"/>
-      <pubDate>Mon, 21 Apr 2025 10:10:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 14:08:48 +0000</lastBuildDate>
     <item>
       <title>Російські «байкери» спробували</title>
       <link>https://www.mandarinai.lt/post/72773</link>
@@ -92,6 +81,27 @@
 Звідти запускали FPV-дрони та розвід-БпЛА. Ліквідовано до 20 операторів БпЛА. Нещодавно СОУ вже наносили авіаудар в цій же промисловій зоні, але по іншій будівлі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_13-04-03.jpg" length="91904" type="image/jpeg"/>
       <pubDate>Mon, 21 Apr 2025 13:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці 40-ої окремої бригади бе</title>
+      <link>https://www.mandarinai.lt/post/72785</link>
+      <description>Бійці 40-ої окремої бригади берегової оборони не дали кільком окупантам закріпитися на островах біля Херсона.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5698.MP4" length="17107721" type="video/mp4"/>
+      <pubDate>Mon, 21 Apr 2025 13:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Над Львівщиною сьогодні, ймові</title>
+      <link>https://www.mandarinai.lt/post/72786</link>
+      <description>Над Львівщиною сьогодні, ймовірно, кружляв літак дальнього радіолокаційного виявлення Saab 340 AEW&amp;C, серед функцій якого виявлення цілей до 450 км, наведення ППО, підтримка авіації і контроль моря.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_14-04-26.jpg" length="50442" type="image/jpeg"/>
+      <pubDate>Mon, 21 Apr 2025 14:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Аеророзвідники прикордонного п</title>
+      <link>https://www.mandarinai.lt/post/72788</link>
+      <description>Аеророзвідники прикордонного підрозділу «Фенікс» на Харківщині виявили і знищили ворожий танк і дві самохідні артилерійські установки «Мста-С».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5701.MP4" length="17900900" type="video/mp4"/>
+      <pubDate>Mon, 21 Apr 2025 14:08:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
