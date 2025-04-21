@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 00:44:42 +0000</lastBuildDate>
-    <item>
-      <title>😡Росія інсценувала провокацію </title>
-      <link>https://www.mandarinai.lt/post/72744</link>
-      <description>😡Росія інсценувала провокацію в Донецьку, щоб звинуватити Україну в порушенні "великоднього перемир'я", - ЦПД
-
-Мета таких вкидів - звинуватити Україну у небажанні рухатися до миру та створити Путіну образ нібито миротворця.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_13-35-49.jpg" length="205630" type="image/jpeg"/>
-      <pubDate>Sun, 20 Apr 2025 13:35:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 02:26:31 +0000</lastBuildDate>
     <item>
       <title>рф перекинула підрозділи дроні</title>
       <link>https://www.mandarinai.lt/post/72745</link>
@@ -133,6 +124,15 @@
       <description>🗿 Команда Трампа вже втомилася від війни в Україні. Війна триває занадто довго, - спецпредставник Трампа Кіт Келлог в ефірі Fox News</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_19-42-39.jpg" length="129083" type="image/jpeg"/>
       <pubDate>Sun, 20 Apr 2025 19:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Трамп чекає відповіді від Ук</title>
+      <link>https://www.mandarinai.lt/post/72758</link>
+      <description>❗️Трамп чекає відповіді від України щодо визнати Крим російським і відмовитись від вступу до НАТО, – WSJ
+
+Наразі Вашингтон очікує на офіційну відповідь від України, яка має бути озвучена під час переговорів у Лондоні. У разі збігу позицій пропозиції будуть передані москві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_02-11-52.jpg" length="67362" type="image/jpeg"/>
+      <pubDate>Mon, 21 Apr 2025 02:11:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
