@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 20:09:37 +0000</lastBuildDate>
-    <item>
-      <title>Росіянин про негативне ставлен</title>
-      <link>https://www.mandarinai.lt/post/72790</link>
-      <description>Росіянин про негативне ставлення до «зеків» серед решти військових</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5702.MP4" length="7053331" type="video/mp4"/>
-      <pubDate>Mon, 21 Apr 2025 14:44:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 21:08:06 +0000</lastBuildDate>
     <item>
       <title>Російські війська використовую</title>
       <link>https://www.mandarinai.lt/post/72792</link>
@@ -143,6 +136,13 @@ National Public Radio найбільша некомерційна мережа �
       <description>Україну на зустрічі в Лондоні представлять керівник Офісу Президента Андрій Єрмак, міністр оборони Рустем Умєров, глава МЗС Андрій Сибіга, заступник керівника ОП Павло Паліса, - Суспільне</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_20-04-43.jpg" length="95422" type="image/jpeg"/>
       <pubDate>Mon, 21 Apr 2025 20:04:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кадри пожежі в Одесі після уда</title>
+      <link>https://www.mandarinai.lt/post/72804</link>
+      <description>Кадри пожежі в Одесі після удару дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5712.MP4" length="2777620" type="video/mp4"/>
+      <pubDate>Mon, 21 Apr 2025 20:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
