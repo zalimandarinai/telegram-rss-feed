@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 04:12:10 +0000</lastBuildDate>
-    <item>
-      <title>«Є загиблі. Наші воїни потрапи</title>
-      <link>https://www.mandarinai.lt/post/72746</link>
-      <description>«Є загиблі. Наші воїни потрапили в засідку на Торецькому напрямку», — Зеленський 
-
-Станом на 16:00, окупанти тільки збільшують кількість застосування важкого озброєння. Українська армія діє абсолютно дзеркально росіянам. 
-
-Від початку доби й до 16-ї години загалом відбулося 46 російських штурмових дій на різних напрямках і 901 обстріл, і з цієї кількості 448 — саме з важкого озброєння. Зафіксовані вже більш ніж чотири сотні застосувань FPV росіянами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-20_14-15-09.jpg" length="91655" type="image/jpeg"/>
-      <pubDate>Sun, 20 Apr 2025 14:15:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Військовополонений заявив, що </title>
-      <link>https://www.mandarinai.lt/post/72747</link>
-      <description>Військовополонений заявив, що 34-а бригада російської армії готова виступити проти командування.
-
-Корольов Олександр Констянтинович, в/ч 01485, 34 омсбр. 
-
-Здався в полон в білгородській області. </description>
-      <pubDate>Sun, 20 Apr 2025 14:47:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 05:09:44 +0000</lastBuildDate>
     <item>
       <title>«Україні, спустошеній війною, </title>
       <link>https://www.mandarinai.lt/post/72748</link>
@@ -121,11 +100,22 @@
     <item>
       <title>❗️Трамп чекає відповіді від Ук</title>
       <link>https://www.mandarinai.lt/post/72758</link>
-      <description>❗️Трамп чекає відповіді від України щодо визнати Крим російським і відмовитись від вступу до НАТО, – WSJ
+      <description>❗️Трамп чекає відповіді від України щодо визнання Криму російським і відмовитись від вступу до НАТО, – WSJ
 
 Наразі Вашингтон очікує на офіційну відповідь від України, яка має бути озвучена під час переговорів у Лондоні. У разі збігу позицій пропозиції будуть передані москві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_02-11-52.jpg" length="98276" type="image/jpeg"/>
       <pubDate>Mon, 21 Apr 2025 02:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Україна має визнати Крим рос</title>
+      <link>https://www.mandarinai.lt/post/72761</link>
+      <description>❗️Україна має визнати Крим російським і відмовитись від НАТО, - WSJ.
+
+План Трампа також пропонує перетворення території навколо Запорізької АЕС на нейтральну зону під контролем США і фактичну заморозку лінії фронту з закріпленням окупації частини територій.
+
+За словами західних чиновників, ці ідеї були представлені українській стороні під час зустрічі в Парижі у четвер, 17 квітня. США чекають від України швидкої відповіді.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_04-41-57.jpg" length="114937" type="image/jpeg"/>
+      <pubDate>Mon, 21 Apr 2025 04:41:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
