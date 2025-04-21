@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 19:07:03 +0000</lastBuildDate>
-    <item>
-      <title>Аеророзвідники прикордонного п</title>
-      <link>https://www.mandarinai.lt/post/72788</link>
-      <description>Аеророзвідники прикордонного підрозділу «Фенікс» на Харківщині виявили і знищили ворожий танк і дві самохідні артилерійські установки «Мста-С».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5701.MP4" length="17900900" type="video/mp4"/>
-      <pubDate>Mon, 21 Apr 2025 14:08:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Apr 2025 20:09:37 +0000</lastBuildDate>
     <item>
       <title>Росіянин про негативне ставлен</title>
       <link>https://www.mandarinai.lt/post/72790</link>
@@ -109,9 +102,9 @@
       <pubDate>Mon, 21 Apr 2025 16:36:02 +0000</pubDate>
     </item>
     <item>
-      <title>❗️В Україну прибув шведський р</title>
+      <title>❗️До України прибув шведський </title>
       <link>https://www.mandarinai.lt/post/72799</link>
-      <description>❗️В Україну прибув шведський розвідувальний літак Saab 340 AEW&amp;C, який здійснив тестовий політ над Львовом, — ЗМІ
+      <description>❗️До України прибув шведський розвідувальний літак Saab 340 AEW&amp;C, який здійснив тестовий політ над Львовом, — так пишуть ЗМІ
 
 Машина оснащена радаром Erieye AESA та здатна виявляти повітряні й морські цілі на відстані до 450 км.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_16-56-24.jpg" length="52684" type="image/jpeg"/>
@@ -129,11 +122,27 @@
     <item>
       <title>❗️ Білий дім вже почав шукати </title>
       <link>https://www.mandarinai.lt/post/72801</link>
-      <description>❗️ Білий дім вже почав шукати нового міністра оборони, — npr
+      <description>❗️ Білий дім вже почав шукати нового міністра оборони, - так стверджує NPR.org
 
-Нагадаємо, стало відомо, що Хегсет поділився секретними подробицями ударів у Ємені минулого місяця у розмові зі своєю дружиною та братом у чаті Signal на особистому телефоні.</description>
+Нагадаємо, стало відомо, що Хегсет поділився секретними подробицями ударів у Ємені минулого місяця у розмові зі своєю дружиною та братом у чаті Signal на особистому телефоні.
+
+National Public Radio найбільша некомерційна мережа радіостанцій у США, заснована у 1970 році, фінансується за рахунок пожертвувань слухачів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_17-50-28.jpg" length="56189" type="image/jpeg"/>
       <pubDate>Mon, 21 Apr 2025 17:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одеса під ударами БПЛА.  Пожеж</title>
+      <link>https://www.mandarinai.lt/post/72802</link>
+      <description>Одеса під ударами БПЛА.  Пожежі після прильотів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5709.MP4" length="3725847" type="video/mp4"/>
+      <pubDate>Mon, 21 Apr 2025 19:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україну на зустрічі в Лондоні </title>
+      <link>https://www.mandarinai.lt/post/72803</link>
+      <description>Україну на зустрічі в Лондоні представлять керівник Офісу Президента Андрій Єрмак, міністр оборони Рустем Умєров, глава МЗС Андрій Сибіга, заступник керівника ОП Павло Паліса, - Суспільне</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_20-04-43.jpg" length="95422" type="image/jpeg"/>
+      <pubDate>Mon, 21 Apr 2025 20:04:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
