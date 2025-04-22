@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 18:11:45 +0000</lastBuildDate>
-    <item>
-      <title>💥Ще один потужний вибух на арс</title>
-      <link>https://www.mandarinai.lt/post/72845</link>
-      <description>💥Ще один потужний вибух на арсеналі рф в Володимирський області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_15-33-30.mp4" length="2981734" type="video/mp4"/>
-      <pubDate>Tue, 22 Apr 2025 15:33:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Apr 2025 19:07:15 +0000</lastBuildDate>
     <item>
       <title>❗️За даними WP, США планують з</title>
       <link>https://www.mandarinai.lt/post/72847</link>
@@ -76,6 +69,17 @@
       <description>ЄС ніколи не визнає Крим російським, — Кая Каллас</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_18-07-48.jpg" length="91108" type="image/jpeg"/>
       <pubDate>Tue, 22 Apr 2025 18:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Переговори в Британії, які від</title>
+      <link>https://www.mandarinai.lt/post/72858</link>
+      <description>Переговори в Британії, які відбудуться в середу, можуть бути пасткою для України, - The Independent.
+
+📝 «Україна не матиме іншого вибору, як відхилити пропозиції зафіксувати російський контроль над сходом країни. Ймовірно, Зеленського попросять (або змусять) визнати фактичний контроль кремля над Кримом, погодитися з тим, що Україна ніколи не зможе приєднатися до НАТО, і загалом покірно лягти під гусениці танків путіна».
+
+В українських медіа розганяється слово «ультиматум» відносно того, що написано в статті, але буквально там цей термін не використовується.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_18-34-04.jpg" length="97071" type="image/jpeg"/>
+      <pubDate>Tue, 22 Apr 2025 18:34:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
