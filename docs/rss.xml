@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 10:09:32 +0000</lastBuildDate>
-    <item>
-      <title>Одеса під ударами БПЛА.  Пожеж</title>
-      <link>https://www.mandarinai.lt/post/72802</link>
-      <description>Одеса під ударами БПЛА.  Пожежі після прильотів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5709.MP4" length="3725847" type="video/mp4"/>
-      <pubDate>Mon, 21 Apr 2025 19:50:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Україну на зустрічі в Лондоні </title>
-      <link>https://www.mandarinai.lt/post/72803</link>
-      <description>Україну на зустрічі в Лондоні представлять керівник Офісу Президента Андрій Єрмак, міністр оборони Рустем Умєров, глава МЗС Андрій Сибіга, заступник керівника ОП Павло Паліса, - Суспільне</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_20-04-43.jpg" length="95422" type="image/jpeg"/>
-      <pubDate>Mon, 21 Apr 2025 20:04:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кадри пожежі в Одесі після уда</title>
-      <link>https://www.mandarinai.lt/post/72804</link>
-      <description>Кадри пожежі в Одесі після удару дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5712.MP4" length="2777620" type="video/mp4"/>
-      <pubDate>Mon, 21 Apr 2025 20:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴У Трампа запитали чи вимагати</title>
-      <link>https://www.mandarinai.lt/post/72805</link>
-      <description>🥴У Трампа запитали чи вимагатимуть США, щоб Україна визнала Крим російським, він сказав, що надасть інформацію протягом наступних трьох днів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_04-59-19.mp4" length="2049401" type="video/mp4"/>
-      <pubDate>Tue, 22 Apr 2025 04:59:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Apr 2025 11:07:56 +0000</lastBuildDate>
     <item>
       <title>Вночі ворог поцілив по житлові</title>
       <link>https://www.mandarinai.lt/post/72807</link>
@@ -89,6 +61,20 @@
 Нагадаємо, 4 жовтня 2022 року рішенням РНБО було заборонено будь-які прямі переговори з путіним</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_09-44-06.mp4" length="2010585" type="video/mp4"/>
       <pubDate>Tue, 22 Apr 2025 09:44:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Атака БПЛА на Харків, не менше</title>
+      <link>https://www.mandarinai.lt/post/72820</link>
+      <description>Атака БПЛА на Харків, не менше десятка вибухів в різних районах міста, відомо про трьох поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5719.MOV" length="75488" type="video/mp4"/>
+      <pubDate>Tue, 22 Apr 2025 10:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щонайменше 12 ударів по чотирь</title>
+      <link>https://www.mandarinai.lt/post/72821</link>
+      <description>Щонайменше 12 ударів по чотирьох районах міста Харків, вибухи було чутно скрізь, - мер Терехов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5716.MOV" length="864230" type="video/mp4"/>
+      <pubDate>Tue, 22 Apr 2025 10:59:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
