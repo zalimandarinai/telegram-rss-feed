@@ -6,24 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 15:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 16:10:51 +0000</lastBuildDate>
     <item>
       <title>🔺Колишній віцепрезидент США Ал</title>
-      <link>https://www.mandarinai.lt/post/72828</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🔺Колишній віцепрезидент США Альберт Гор порівняв адміністрацію Трампа з нацистською Німеччиною, — Politico. 
 
 Виступаючи на заході в Сан-Франциско Гор сказав, що адміністрація Трампа «намагається створити свою власну бажану версію реальності» для досягнення своїх масштабних цілей — так само робили нацисти у 1930-40 рр.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_13-13-32.jpg" length="39008" type="image/jpeg"/>
       <pubDate>Tue, 22 Apr 2025 13:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥У Володимирській області рф н</title>
-      <link>https://www.mandarinai.lt/post/72829</link>
-      <description>🔥У Володимирській області рф на 51-му арсеналі ГРАУ яскраво палає і гучно вибухає. Потужно детонує БК.
-
-В районі арсеналу перекрили дорогу та проводять евакуацію з найближчих населених пунктів. Причину разйобу складів не повідомляють💥</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_13-38-08.mp4" length="1181639" type="video/mp4"/>
-      <pubDate>Tue, 22 Apr 2025 13:38:08 +0000</pubDate>
     </item>
     <item>
       <title>💥Епічний момент вибуху арсенал</title>
@@ -79,6 +69,13 @@
 Не пропустіть можливість не лише поповнити свою бібліотеку якісними виданнями, але й стати власником унікального антикварного "Кобзаря"!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_15-00-23.jpg" length="139786" type="image/jpeg"/>
       <pubDate>Tue, 22 Apr 2025 15:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ще один потужний вибух на арс</title>
+      <link>https://www.mandarinai.lt/post/72845</link>
+      <description>💥Ще один потужний вибух на арсеналі рф в Володимирський області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_15-33-30.mp4" length="2981734" type="video/mp4"/>
+      <pubDate>Tue, 22 Apr 2025 15:33:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
