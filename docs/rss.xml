@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 11:07:56 +0000</lastBuildDate>
-    <item>
-      <title>Вночі ворог поцілив по житлові</title>
-      <link>https://www.mandarinai.lt/post/72807</link>
-      <description>Вночі ворог поцілив по житловій забудові в густонаселеному районі Одеси, спалахнула пожежа, багато квартир пошкоджено, постраждало 3 людини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5714.MP4" length="7028198" type="video/mp4"/>
-      <pubDate>Tue, 22 Apr 2025 05:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>90% стволів для самохідних арт</title>
-      <link>https://www.mandarinai.lt/post/72808</link>
-      <description>90% стволів для самохідних артилерійських установок CAESAR, вироблених компанією Krauss-Maffei Wegmann Nexter Defense Systems KNDS, постачаються до України, - Le Monde</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_05-32-22.jpg" length="82581" type="image/jpeg"/>
-      <pubDate>Tue, 22 Apr 2025 05:32:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Apr 2025 12:15:54 +0000</lastBuildDate>
     <item>
       <title>Рейтинг підтримки Трампа знизи</title>
       <link>https://www.mandarinai.lt/post/72812</link>
@@ -75,6 +61,21 @@
       <description>Щонайменше 12 ударів по чотирьох районах міста Харків, вибухи було чутно скрізь, - мер Терехов</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5716.MOV" length="864230" type="video/mp4"/>
       <pubDate>Tue, 22 Apr 2025 10:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків в диму після атаки БПЛА</title>
+      <link>https://www.mandarinai.lt/post/72823</link>
+      <description>Харків в диму після атаки БПЛА, є пожежі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5723.MP4" length="3514880" type="video/mp4"/>
+      <pubDate>Tue, 22 Apr 2025 11:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці 15-ої бригади НГУ «Кара-</title>
+      <link>https://www.mandarinai.lt/post/72824</link>
+      <description>Бійці 15-ої бригади НГУ «Кара-Даг» взяли в полон окупантів біля Куп'янська.
+
+Піхотинці бригади, яка увійшла до складу 1-го корпусу Національної Гвардії «Азов», провели «прийомку» російських військових. Окупанти не зробили жодного пострілу в бік українських солдатів.</description>
+      <pubDate>Tue, 22 Apr 2025 11:43:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
