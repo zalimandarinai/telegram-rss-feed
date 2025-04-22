@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 16:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 17:08:02 +0000</lastBuildDate>
     <item>
       <title>🔺Колишній віцепрезидент США Ал</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -14,13 +14,6 @@
 
 Виступаючи на заході в Сан-Франциско Гор сказав, що адміністрація Трампа «намагається створити свою власну бажану версію реальності» для досягнення своїх масштабних цілей — так само робили нацисти у 1930-40 рр.</description>
       <pubDate>Tue, 22 Apr 2025 13:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Епічний момент вибуху арсенал</title>
-      <link>https://www.mandarinai.lt/post/72833</link>
-      <description>💥Епічний момент вибуху арсеналу окупантів у Володимирській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_14-00-32.mp4" length="718628" type="video/mp4"/>
-      <pubDate>Tue, 22 Apr 2025 14:00:32 +0000</pubDate>
     </item>
     <item>
       <title>💥Вибухи продовжують гриміти на</title>
@@ -76,6 +69,13 @@
       <description>💥Ще один потужний вибух на арсеналі рф в Володимирський області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_15-33-30.mp4" length="2981734" type="video/mp4"/>
       <pubDate>Tue, 22 Apr 2025 15:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️За даними WP, США планують з</title>
+      <link>https://www.mandarinai.lt/post/72847</link>
+      <description>❗️За даними WP, США планують завтра в Лондоні запропонувати офіційне визнання Криму частиною Росії та замороження лінії фронту — як один із варіантів мирного врегулювання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_16-18-14.jpg" length="183292" type="image/jpeg"/>
+      <pubDate>Tue, 22 Apr 2025 16:18:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
