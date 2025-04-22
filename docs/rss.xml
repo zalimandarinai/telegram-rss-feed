@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 19:07:15 +0000</lastBuildDate>
-    <item>
-      <title>❗️За даними WP, США планують з</title>
-      <link>https://www.mandarinai.lt/post/72847</link>
-      <description>❗️За даними WP, США планують завтра в Лондоні запропонувати офіційне визнання Криму частиною Росії та замороження лінії фронту — як один із варіантів мирного врегулювання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_16-18-14.jpg" length="183292" type="image/jpeg"/>
-      <pubDate>Tue, 22 Apr 2025 16:18:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Apr 2025 20:09:49 +0000</lastBuildDate>
     <item>
       <title>💥Розліт боєприпасів з артилери</title>
       <link>https://www.mandarinai.lt/post/72850</link>
@@ -80,6 +73,24 @@
 В українських медіа розганяється слово «ультиматум» відносно того, що написано в статті, але буквально там цей термін не використовується.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_18-34-04.jpg" length="97071" type="image/jpeg"/>
       <pubDate>Tue, 22 Apr 2025 18:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полонений з українським паспор</title>
+      <link>https://www.mandarinai.lt/post/72861</link>
+      <description>Полонений з українським паспортом Барсегян Гагік Дадикоєвич, зрадник України, просить, щоб його обміняли. 
+
+Перебуваючи в окупації, підписав 10.11.2024 контракт в Мелітополі. 
+
+В 2009 році його було засуджено за економічні злочини українським законом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5740.MP4" length="10736490" type="video/mp4"/>
+      <pubDate>Tue, 22 Apr 2025 19:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Біля "вибухового" арсеналу ГР</title>
+      <link>https://www.mandarinai.lt/post/72863</link>
+      <description>🔥Біля "вибухового" арсеналу ГРАУ у Володимрській області внаслідок детонації і розкиданих палаючих уламків, вирує лісова пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-22_19-45-36.mp4" length="1242827" type="video/mp4"/>
+      <pubDate>Tue, 22 Apr 2025 19:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
