@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 07:09:16 +0000</lastBuildDate>
-    <item>
-      <title>❗️В середу відбудеться новий р</title>
-      <link>https://www.mandarinai.lt/post/72797</link>
-      <description>❗️В середу відбудеться новий раунд мирних переговорів у Лондоні,  в них візьмуть участь Україна, Британія, Франція та Сполучені Штати, - Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-21_16-30-23.jpg" length="180724" type="image/jpeg"/>
-      <pubDate>Mon, 21 Apr 2025 16:30:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Apr 2025 08:12:41 +0000</lastBuildDate>
     <item>
       <title>Російський масований штурм на </title>
       <link>https://www.mandarinai.lt/post/72798</link>
@@ -105,6 +98,15 @@ National Public Radio найбільша некомерційна мережа �
       <description>90% стволів для самохідних артилерійських установок CAESAR, вироблених компанією Krauss-Maffei Wegmann Nexter Defense Systems KNDS, постачаються до України, - Le Monde</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_05-32-22.jpg" length="82581" type="image/jpeg"/>
       <pubDate>Tue, 22 Apr 2025 05:32:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рейтинг підтримки Трампа знизи</title>
+      <link>https://www.mandarinai.lt/post/72812</link>
+      <description>Рейтинг підтримки Трампа знизився до найнижчого рівня з моменту його повернення в Білий дім: лише 42% схвалили його діяльність, — Reuters.
+
+Майже 60% респондентів, в тому числі третина республіканців, заявили, що США втрачає авторитет на світовій арені.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-22_07-51-59.jpg" length="77808" type="image/jpeg"/>
+      <pubDate>Tue, 22 Apr 2025 07:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
