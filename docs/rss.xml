@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 09:10:10 +0000</lastBuildDate>
-    <item>
-      <title>⚡️США представлять у Лондоні м</title>
-      <link>https://www.mandarinai.lt/post/72874</link>
-      <description>⚡️США представлять у Лондоні мирний план із семи пунктів, - The Telegraph
-
-План передбачає:
-
-- негайне припинення вогню;
-- прямі переговори між Україною та росією;
-- відмова України від намірів вступити до НАТО (членство в ЄС допускається);
-- територіальні поступки (США пропонують офіційно визнати російський суверенітет над Кримом і заморозити нинішню лінію фронту, в той же час росія повинна вивести свої війська з "двох невеликих територій" у Херсонській області;
-- встановлення американського контролю над Запорізькою АЕС;
-- підписання угоди про видобуток корисних копалин між Україною та США
-- зняття всіх американських санкцій з росії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-23_03-56-26.jpg" length="62354" type="image/jpeg"/>
-      <pubDate>Wed, 23 Apr 2025 03:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>7 людей загинули внаслідок ата</title>
-      <link>https://www.mandarinai.lt/post/72876</link>
-      <description>7 людей загинули внаслідок атаки російських шахедів на місто Марганець на Дніпровщині «Шахедом», — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-23_05-02-20.jpg" length="51080" type="image/jpeg"/>
-      <pubDate>Wed, 23 Apr 2025 05:02:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Apr 2025 10:10:13 +0000</lastBuildDate>
     <item>
       <title>❗️Остання пропозиція президент</title>
       <link>https://www.mandarinai.lt/post/72877</link>
@@ -102,6 +78,27 @@
       <description>Наслідки прильоту ворожого БПЛА в Полтаві, люди дивом вціліли</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5750.MP4" length="7777395" type="video/mp4"/>
       <pubDate>Wed, 23 Apr 2025 09:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росія атакувала кількома КАБам</title>
+      <link>https://www.mandarinai.lt/post/72888</link>
+      <description>Росія атакувала кількома КАБами Словʼянсько-Краматорську агломерацію на Донеччині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5751.MP4" length="238723" type="video/mp4"/>
+      <pubDate>Wed, 23 Apr 2025 09:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Лондоні вже стартували перег</title>
+      <link>https://www.mandarinai.lt/post/72889</link>
+      <description>У Лондоні вже стартували переговори з обговорення американських мирних ініціатив.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-23_09-29-33.jpg" length="162014" type="image/jpeg"/>
+      <pubDate>Wed, 23 Apr 2025 09:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Курській області противник, </title>
+      <link>https://www.mandarinai.lt/post/72890</link>
+      <description>В Курській області противник, щоб зменшити розміри транспорту, пересідає на електросамокати, повідомляють наші підписники з 95-ої ОДШБР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5747.MP4" length="1692108" type="video/mp4"/>
+      <pubDate>Wed, 23 Apr 2025 09:35:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
