@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 04:11:18 +0000</lastBuildDate>
-    <item>
-      <title>Полонений з українським паспор</title>
-      <link>https://www.mandarinai.lt/post/72861</link>
-      <description>Полонений з українським паспортом Барсегян Гагік Дадикоєвич, зрадник України, просить, щоб його обміняли. 
-
-Перебуваючи в окупації, підписав 10.11.2024 контракт в Мелітополі. 
-
-В 2009 році його було засуджено за економічні злочини українським законом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5740.MP4" length="10736490" type="video/mp4"/>
-      <pubDate>Tue, 22 Apr 2025 19:25:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Apr 2025 05:09:20 +0000</lastBuildDate>
     <item>
       <title>🔥Біля "вибухового" арсеналу ГР</title>
       <link>https://www.mandarinai.lt/post/72863</link>
@@ -73,6 +62,13 @@
 - зняття всіх американських санкцій з росії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-23_03-56-26.jpg" length="62354" type="image/jpeg"/>
       <pubDate>Wed, 23 Apr 2025 03:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 людей загинули внаслідок ата</title>
+      <link>https://www.mandarinai.lt/post/72876</link>
+      <description>7 людей загинули внаслідок атаки російських шахедів на місто Марганець на Дніпровщині «Шахедом», — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-23_05-02-20.jpg" length="51080" type="image/jpeg"/>
+      <pubDate>Wed, 23 Apr 2025 05:02:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
