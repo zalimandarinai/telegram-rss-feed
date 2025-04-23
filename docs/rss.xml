@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 16:11:14 +0000</lastBuildDate>
-    <item>
-      <title>«Дрон летает, бл@дь», - переда</title>
-      <link>https://www.mandarinai.lt/post/72900</link>
-      <description>«Дрон летает, бл@дь», - передають народні кореспонденти з Єлабуги, де збирають «шахеди», якими тероризують українців.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5762.MP4" length="15118546" type="video/mp4"/>
-      <pubDate>Wed, 23 Apr 2025 11:03:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Apr 2025 17:08:26 +0000</lastBuildDate>
     <item>
       <title>❗️До 42 зросла кількість постр</title>
       <link>https://www.mandarinai.lt/post/72903</link>
@@ -87,6 +80,21 @@
       <description>🔞 Один дрон знищив російський бронетранспортер в районі села Олешня на Курщині, а другий зблизька перевірив результат влучання.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5766.MP4" length="5277505" type="video/mp4"/>
       <pubDate>Wed, 23 Apr 2025 14:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знешкодили на Півночі ворожу Р</title>
+      <link>https://www.mandarinai.lt/post/72913</link>
+      <description>Знешкодили на Півночі ворожу РЛС, прикордонники ударами FPV-дронів перетворили її на металобрухт</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5767.MP4" length="22814974" type="video/mp4"/>
+      <pubDate>Wed, 23 Apr 2025 16:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Вот так, сука, Баба Яга приле</title>
+      <link>https://www.mandarinai.lt/post/72914</link>
+      <description>«Вот так, сука, Баба Яга прилетела!»
+Результат роботи важкого дрону Вампір - завалений підвал з окупантами  За словами одного з російських військових, під завалами один загинув, один поранений, один вижив.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-23_16-33-54.mp4" length="5661749" type="video/mp4"/>
+      <pubDate>Wed, 23 Apr 2025 16:33:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
