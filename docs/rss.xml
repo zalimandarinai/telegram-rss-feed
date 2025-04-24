@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 18:11:10 +0000</lastBuildDate>
-    <item>
-      <title>В Києві загинули син та дочка </title>
-      <link>https://www.mandarinai.lt/post/72985</link>
-      <description>В Києві загинули син та дочка лікаря КНУ, невропатолога університетської клініки Ярослава Козлова
-
-Про це повідомила пресслужба університету у Facebook.
-
-Син Нікіта 2003 року народження був студентом Національного транспортного університету, дочка Софія 2005 року народження — випускницею коледжу КНУТД.
-ㅤ 
-«Родина Шевченкового університету висловлює найщиріші співчуття Ярославу Володимировичу», - йдеться у повідомленні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_14-27-36.jpg" length="43406" type="image/jpeg"/>
-      <pubDate>Thu, 24 Apr 2025 14:27:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Apr 2025 19:03:22 +0000</lastBuildDate>
     <item>
       <title>русня вдарила по багатоповерхі</title>
       <link>https://www.mandarinai.lt/post/72986</link>
@@ -95,6 +82,15 @@ Cui prodest? Кому вигідно?
 Тим часом офіційний сайт Трампа продає кепки «Trump 2028» .</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_17-05-05.jpg" length="154743" type="image/jpeg"/>
       <pubDate>Thu, 24 Apr 2025 17:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Журналіст: Чому ви не чините б</title>
+      <link>https://www.mandarinai.lt/post/72999</link>
+      <description>Журналіст: Чому ви не чините більшого тиску на росію?
+
+Трамп: Ви не знаєте, який тиск я чиню. Ви не уявляєте, який тиск я чиню на росію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-24_18-28-04.mp4" length="3016872" type="video/mp4"/>
+      <pubDate>Thu, 24 Apr 2025 18:28:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
