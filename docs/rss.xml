@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 10:09:29 +0000</lastBuildDate>
-    <item>
-      <title>❗️Зеленський нагадав, що ще 7 </title>
-      <link>https://www.mandarinai.lt/post/72955</link>
-      <description>❗️Зеленський нагадав, що ще 7 років тому США обіцяли не визнавати Крим російським
-
-Президент України опублікував у своїх соціальних мережах заяву Майка Помпео від 2018 року. Пропонуємо до вашої уваги і доволі цікаве відео, на якому тодішній держсекретар за першого терміну Дональда Трампа висловлював зовсім іншу позицію Вашингтона.
-
-Напередодні Трамп запитав, чому Україна не боролася за Крим у 2014 році і здала його Путіну без жодного пострілу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_07-03-26.jpg" length="85089" type="image/jpeg"/>
-      <pubDate>Thu, 24 Apr 2025 07:03:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Apr 2025 11:07:53 +0000</lastBuildDate>
     <item>
       <title>⚡️Збито 48 з 70 ракет і 64 з 1</title>
       <link>https://www.mandarinai.lt/post/72957</link>
@@ -131,6 +120,17 @@
 ▪️Пілоти F-16, Mirage, вони непоганий дали сьогодні результати. Кілька десятків повітряних цілей (крилатих ракет і "Шахедів") збито саме нашими українськими льотчиками.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_09-55-37.jpg" length="43214" type="image/jpeg"/>
       <pubDate>Thu, 24 Apr 2025 09:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЄС не схвалить жодних кроків С</title>
+      <link>https://www.mandarinai.lt/post/72972</link>
+      <description>ЄС не схвалить жодних кроків США щодо визнання Криму російським або тиску на Київ, щоб він погодився на це, — FT
+
+Для європейців визнання анексії Криму — першого з 1945 року захоплення території в Європі силою — є неприйнятним. 
+
+Це зруйнує заснований на правилах порядок, який десятиліттями забезпечував мир на континенті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_10-10-02.jpg" length="88073" type="image/jpeg"/>
+      <pubDate>Thu, 24 Apr 2025 10:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
