@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 03:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 04:10:56 +0000</lastBuildDate>
     <item>
       <title>росія не прагне миру, а знущає</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -17,23 +17,13 @@
     </item>
     <item>
       <title>рф має повернути Україні ЗАЕС,</title>
-      <link>https://www.mandarinai.lt/post/72993</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>рф має повернути Україні ЗАЕС, це одна з умов, — Bloomberg
 
 Адміністрація Трампа хоче, щоб москва повернула Україні Запорізьку АЕС. 
 
 Тоді об’єкт підпаде під контроль США і буде виробляти енергію «‎на обидві сторони», однак Україна заявила, що ЗАЕС не буде працювати на росію після закінчення війни, такі поставки енергії виключені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_16-58-10.jpg" length="45428" type="image/jpeg"/>
       <pubDate>Thu, 24 Apr 2025 16:58:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Британія більше не планує ві</title>
-      <link>https://www.mandarinai.lt/post/72994</link>
-      <description>⚡️Британія більше не планує відправляти війська до України , — The Times
-
-Джерела повідомили, що відправлення сухопутних військ вважається надто ризикованим через ймовірність більш масштабної війни</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_17-00-26.jpg" length="72894" type="image/jpeg"/>
-      <pubDate>Thu, 24 Apr 2025 17:00:26 +0000</pubDate>
     </item>
     <item>
       <title>🫤«Залишився 1361 день до почат</title>
@@ -66,6 +56,13 @@
       <description>Вночі Харків знову був під атакою шахедів. Є прильоти на території підприємства.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-25_03-26-28.mp4" length="137688" type="video/mp4"/>
       <pubDate>Fri, 25 Apr 2025 03:26:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні вночі БПЛА атакували </title>
+      <link>https://www.mandarinai.lt/post/73007</link>
+      <description>Сьогодні вночі БПЛА атакували аеродроми в Новофедорівці та Качі на Кримському півострові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5816.MP4" length="883556" type="video/mp4"/>
+      <pubDate>Fri, 25 Apr 2025 04:07:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
