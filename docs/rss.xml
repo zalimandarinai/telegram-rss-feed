@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 19:07:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 20:09:42 +0000</lastBuildDate>
     <item>
       <title>Мотоокупанти не встигають тіка</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -26,24 +26,6 @@
 
 Хотілося б, щоб прогнози фінансистів справдились.</description>
       <pubDate>Fri, 25 Apr 2025 14:28:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Взаємодія підрозділу «HIMARS» </title>
-      <link>https://www.mandarinai.lt/post/73053</link>
-      <description>Взаємодія підрозділу «HIMARS» та 47-ої бригади.
-
-БПЛА «Фурія» батареї управління і артилерійської розвідки 47-ої ОМБР демаскує гаубицю Д-30, яку окупанти сховали в лісосмузі. 
-
-Передають розвіддані артилеристам «HIMARS».
-
-Перший удар  — фугас від HIMARS. 
-
-Другий удар — касетний снаряд і детонація боєприпасів.
-
-Долучитися до запальної роботи 47-ої бригади можна 
-за телефоном: +380502474747</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5831.MP4" length="14598221" type="video/mp4"/>
-      <pubDate>Fri, 25 Apr 2025 16:47:31 +0000</pubDate>
     </item>
     <item>
       <title>Мирний план України та Європи,</title>
@@ -96,6 +78,17 @@
 Росіяни обстріляли сьогодні вранці Павлоград. Загинули діти, загинули мирні люди, знищено мирні домівки. Знищено дощенту нашу базу батальйону з усім майном та технікою, що були в ній. Вони знову влучили в саме серце. Перекреслили 10 років роботи тисячі людей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-25_18-51-43.jpg" length="236995" type="image/jpeg"/>
       <pubDate>Fri, 25 Apr 2025 18:51:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ США скоротили підтримку Укр</title>
+      <link>https://www.mandarinai.lt/post/73068</link>
+      <description>❗️ США скоротили підтримку України в галузі кібербезпеки, частина обладнання так і не надійшла, — Bloomberg
+
+Контракти з багатьма фахівцями, що надавали технічну підтримку, були скасовані або призупинені, а поставки програмного забезпечення та комп'ютерного обладнання не відбулися.
+
+Завдяки допомозі США Україна раніше змогла протистояти російським кібератакам на електростанції та урядові ресурси. За останні п'ять років США виділили понад 200 мільйонів доларів на кібербезпеку України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-25_19-49-44.jpg" length="74741" type="image/jpeg"/>
+      <pubDate>Fri, 25 Apr 2025 19:49:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
