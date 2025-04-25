@@ -6,46 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 02:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 03:30:24 +0000</lastBuildDate>
     <item>
       <title>росія не прагне миру, а знущає</title>
-      <link>https://www.mandarinai.lt/post/72988</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>росія не прагне миру, а знущається з нього: голова дипломатії Євросоюзу Кая Каллас відреагувала на російську атаку по Києву 
 
 Заявляючи про прагнення до миру, Росія завдала смертоносного авіаудару по Києву. Це не прагнення до миру, це знущання над ним. Справжньою перешкодою є не Україна, а Росія, чиї цілі війни не змінилися.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_14-36-41.jpg" length="38942" type="image/jpeg"/>
       <pubDate>Thu, 24 Apr 2025 14:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Журналістка не може стримати с</title>
-      <link>https://www.mandarinai.lt/post/72989</link>
-      <description>Журналістка не може стримати сльози, розповідаючи про загибель сімнадцятирічного хлопця, друзі якого чергували поруч з завалами в Києві.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5809.MP4" length="13645494" type="video/mp4"/>
-      <pubDate>Thu, 24 Apr 2025 14:46:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Може спалахнути війна між двом</title>
-      <link>https://www.mandarinai.lt/post/72990</link>
-      <description>Може спалахнути війна між двома ядерними державами, Індією і Пакистаном, — NYT 
-
-Між Індією та Пакистаном різко зросла напруга після теракту в індійському Кашмірі, унаслідок якого загинули 26 туристів. 
-
-Індія звинуватила Пакистан у підтримці терористів і у відповідь анулювала візи для пакистанців, скоротила дипломатичні зв’язки та призупинила дію водного договору про річку Інд.
-
-Пакистан відповів симетрично: закрив повітряний простір для індійських літаків, припинив торгівлю і вимагає скорочення індійського дипломатичного персоналу.
-
-Cui prodest? Кому вигідно?
-
-Звісно, росії, яка сподівається, що виникне ще одна точка напруги, і Трамп з Європою змушені будуть забути про ті злочини, які кремлівський вбивця скоїв в Україні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_15-17-17.jpg" length="82223" type="image/jpeg"/>
-      <pubDate>Thu, 24 Apr 2025 15:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>На аеродромі «Ростов» виведено</title>
-      <link>https://www.mandarinai.lt/post/72991</link>
-      <description>На аеродромі «Ростов» виведено з ладу ворожий літак Су-30СМ вартістю $50 млн., — ГУР</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5812.MP4" length="22117987" type="video/mp4"/>
-      <pubDate>Thu, 24 Apr 2025 15:21:10 +0000</pubDate>
     </item>
     <item>
       <title>рф має повернути Україні ЗАЕС,</title>
@@ -91,6 +59,13 @@ Cui prodest? Кому вигідно?
       <description>Україна готується до найгіршого сценарію, тобто, припинення підтримки США, — Bild</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-24_19-28-58.jpg" length="109778" type="image/jpeg"/>
       <pubDate>Thu, 24 Apr 2025 19:28:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі Харків знову був під ата</title>
+      <link>https://www.mandarinai.lt/post/73002</link>
+      <description>Вночі Харків знову був під атакою шахедів. Є прильоти на території підприємства.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-25_03-26-28.mp4" length="137688" type="video/mp4"/>
+      <pubDate>Fri, 25 Apr 2025 03:26:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
