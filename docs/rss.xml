@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Apr 2025 16:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 17:06:28 +0000</lastBuildDate>
     <item>
       <title>«Замість лопати — джойстик»
 Су</title>
@@ -121,7 +121,7 @@ https://t.me/obbps419
       <link>https://www.mandarinai.lt/post/73114</link>
       <description>Cьогодні був історичний день: Мелоні прокоментувала зустріч Зеленського та Трампа, — пише ANSA
 
-Бачити Дональда Трампа і Володимира Зеленського, які говорять про мир на похороні Папи Миру, - це має таке величезне значення. Сьогодні був історичний день, - зазначила прем'єр Італії</description>
+Бачити Дональда Трампа і Володимира Зеленського, які говорять про мир на похороні Папи Миру, - це має таке величезне значення. Сьогодні був історичний день, - зазначила прем'єрка Італії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_15-38-20.jpg" length="232966" type="image/jpeg"/>
       <pubDate>Sat, 26 Apr 2025 15:38:20 +0000</pubDate>
     </item>
@@ -135,19 +135,24 @@ https://t.me/obbps419
       <pubDate>Sat, 26 Apr 2025 15:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>Російські військовополонені, я</title>
-      <link>https://www.mandarinai.lt/post/73118</link>
-      <description>Російські військовополонені, яких захопили на Курщині, теж навздогін за своїм НГШ Герасимовим, вирішили висловитися на рахунок північнокорейських союзників.
+      <title>❗️ У Святошинському районі Киє</title>
+      <link>https://www.mandarinai.lt/post/73120</link>
+      <description>❗️ У Святошинському районі Києва завершили ліквідацію наслідків ракетного удару
 
-З їхніх слів, картина дещо відрізняється від тієї, яку змалював Герасимов словами про «високий професіоналізм» солдатів Кім Чен Ина.
+Внаслідок атаки російської ракети загинули 12 людей. Від удару постраждали 54 багатоквартирних будинки, пошкоджено 723 квартири різного ступеня руйнування.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_16-10-01.jpg" length="299979" type="image/jpeg"/>
+      <pubDate>Sat, 26 Apr 2025 16:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>фсб заявила, що затримала Ігна</title>
+      <link>https://www.mandarinai.lt/post/73121</link>
+      <description>фсб заявила, що затримала Ігната Кузіна, якого вважає агентом українських спецслужб і виконавцем ліквідації генерала Ярослава Москалика, одного з тих, хто планував військові операції на території України.
 
-Один з полонених розповідає про те, як північні корейці розстріляли мирних жителів Курщини.
+Відомо, що Ігнат Кузін у січні поточного року придбав автомобіль, в якому пізніше була встановлена вибухівка, а в березні орендував квартиру в тому ж під'їзді будинку № 2 по проспекту Нестерова в Балашисі, де проживав Москалик.
 
-Інший каже, що корейці вбивали російських солдатів і чорношкірих найманців, грабували і своїх, і чужих.
-
-Відмінники бойової і політичної підготовки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5885.MP4" length="14587380" type="video/mp4"/>
-      <pubDate>Sat, 26 Apr 2025 15:58:05 +0000</pubDate>
+Де саме та за яких обставин відбулося затримання, цього в повідомленні немає.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_16-26-12.jpg" length="66834" type="image/jpeg"/>
+      <pubDate>Sat, 26 Apr 2025 16:26:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
