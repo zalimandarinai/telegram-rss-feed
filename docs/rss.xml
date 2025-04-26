@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Apr 2025 06:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 07:07:39 +0000</lastBuildDate>
     <item>
       <title>Мотоокупанти не встигають тіка</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,24 +16,6 @@
 
 Ворог активно використовує менш помітні транспортні засоби, але підрозділ «Фенікс» їм практично не залишає шансів — хоч на мотоциклі, хоч на квадроциклі.</description>
       <pubDate>Fri, 25 Apr 2025 14:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ США скоротили підтримку Укр</title>
-      <link>https://www.mandarinai.lt/post/73068</link>
-      <description>❗️ США скоротили підтримку України в галузі кібербезпеки, частина обладнання так і не надійшла, — Bloomberg
-
-Контракти з багатьма фахівцями, що надавали технічну підтримку, були скасовані або призупинені, а поставки програмного забезпечення та комп'ютерного обладнання не відбулися.
-
-Завдяки допомозі США Україна раніше змогла протистояти російським кібератакам на електростанції та урядові ресурси. За останні п'ять років США виділили понад 200 мільйонів доларів на кібербезпеку України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-25_19-49-44.jpg" length="74741" type="image/jpeg"/>
-      <pubDate>Fri, 25 Apr 2025 19:49:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вийти з мирного процесу вже на</title>
-      <link>https://www.mandarinai.lt/post/73069</link>
-      <description>Вийти з мирного процесу вже наступного тижня пригрозив Трамп, якщо угода не буде погоджена, на його думку, у Зеленського немає вибору, окрім, як передати рф окуповані нею землі, — The Times.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-25_20-24-15.jpg" length="85426" type="image/jpeg"/>
-      <pubDate>Fri, 25 Apr 2025 20:24:15 +0000</pubDate>
     </item>
     <item>
       <title>В місті Кам’янське на Дніпропе</title>
@@ -66,6 +48,22 @@
 Збій фіксують і в додатках «Дії» та «Нової пошти».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_05-56-08.jpg" length="32832" type="image/jpeg"/>
       <pubDate>Sat, 26 Apr 2025 05:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Це не хакерська атака. Серв</title>
+      <link>https://www.mandarinai.lt/post/73080</link>
+      <description>⚡️ Це не хакерська атака. Сервіси Нової пошти тимчасово не працюють у звʼязку з технічними складнощами на стороні підрядника - прес-служба компанії
+
+Станом на 9:00 проблема усувається. Очікується відновлення роботи всіх сервісів орієнтовно до 10:00.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_06-24-27.jpg" length="63756" type="image/jpeg"/>
+      <pubDate>Sat, 26 Apr 2025 06:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Беріть з собою паперові доку</title>
+      <link>https://www.mandarinai.lt/post/73081</link>
+      <description>❗️Беріть з собою паперові документи і готівку. Не працює дуже великий інфраструктурний обʼєкт, який обслуговував, фінансові установи, поштового перевізника, і так далі, — нардеп Федієнко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_06-28-09.jpg" length="110067" type="image/jpeg"/>
+      <pubDate>Sat, 26 Apr 2025 06:28:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
