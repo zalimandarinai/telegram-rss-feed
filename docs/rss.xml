@@ -6,55 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Apr 2025 17:06:28 +0000</lastBuildDate>
-    <item>
-      <title>«Замість лопати — джойстик»
-Су</title>
-      <link>https://www.mandarinai.lt/post/73105</link>
-      <description>«Замість лопати — джойстик»
-Сучасна війна — це не тільки окопи.
-Це дрони, камери, джойстики. 
-
-419й окремий батальйон безпілотних систем ЗСУ запрошує на службу:
-FPV-операторів, командирів, ремонтників.
-
-Навчимо. Озброїмо.
-Поставимо тебе на позицію, де важлива точність, а не сила.
-
-Без штурмів.
-Без атаки в лоб.
-Твоя зброя — дрон.
-Твоя мета — техніка ворога.
-
-Хочеш бути частиною еліти —
-приєднуйся до дронових військ.
-Служба розумних. Служба тих, хто бачить більше.
-
-Телефон: 
-
-0677087981 Володимир рекрутинг. 
-
-Сайт:
-https://www.419obbps.army/
-
-Телеграм:
-https://t.me/obbps419
-
-#дрони #БПЛА #безпілотники #рекрутинг #ЗСУ #технології #майбутнєУкраїни #сила #перемогаразом #захистБатьківщини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-26_14-17-38.mp4" length="5822771" type="video/mp4"/>
-      <pubDate>Sat, 26 Apr 2025 14:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У путіна не було жодної прич</title>
-      <link>https://www.mandarinai.lt/post/73107</link>
-      <description>❗️У путіна не було жодної причини обстрілювати ракетами цивільні райони, міста та селища протягом останніх кількох днів, — Трамп
-
-Це змушує мене думати, що, можливо, він не хоче зупиняти війну, він просто обманює мене, і з ним треба поводитися інакше, через «банківські операції» чи «вторинні санкції»?
-
-Нарешті зрозумів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_14-25-55.jpg" length="262693" type="image/jpeg"/>
-      <pubDate>Sat, 26 Apr 2025 14:25:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Apr 2025 18:10:07 +0000</lastBuildDate>
     <item>
       <title>Щойно в Києві закінчився премʼ</title>
       <link>https://www.mandarinai.lt/post/73109</link>
@@ -153,6 +105,15 @@ https://t.me/obbps419
 Де саме та за яких обставин відбулося затримання, цього в повідомленні немає.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_16-26-12.jpg" length="66834" type="image/jpeg"/>
       <pubDate>Sat, 26 Apr 2025 16:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>А ще СБУ росіянам спалила три </title>
+      <link>https://www.mandarinai.lt/post/73122</link>
+      <description>А ще СБУ росіянам спалила три танки.
+
+Бійці ЦСО «А» СБУ атакували кілька одиниць російської бронетехніки. Операторами дронів було знищено три танки супротивника, один із них здетонував.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5892.MP4" length="12104079" type="video/mp4"/>
+      <pubDate>Sat, 26 Apr 2025 17:37:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
