@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Apr 2025 06:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 07:07:47 +0000</lastBuildDate>
     <item>
       <title>❗️Ватикан порушив протокол, що</title>
       <link>https://www.mandarinai.lt/post/73117</link>
@@ -81,6 +81,24 @@
       <description>Сили ППО знищили 57 з 149 ворожих БпЛА, ще 67 безпілотників – локаційно втрачені</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-27_06-11-00.jpg" length="92965" type="image/jpeg"/>
       <pubDate>Sun, 27 Apr 2025 06:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️ ЗСУ просунулися під Покровс</title>
+      <link>https://www.mandarinai.lt/post/73131</link>
+      <description>⚔️ ЗСУ просунулися під Покровськом, окупанти тиснуть на 5 напрямках, - ISW</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-27_06-17-45.jpg" length="265449" type="image/jpeg"/>
+      <pubDate>Sun, 27 Apr 2025 06:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф готує на літо моторизован</title>
+      <link>https://www.mandarinai.lt/post/73132</link>
+      <description>❗️рф готує на літо моторизовані прориви — щоб обійти українські дрони, — ISW
+
+окупанти массово проводять навчання на мопедах та мотоциклах, невеликими групами, відпрацьовують маневреність та швидкість.
+
+ Така тактика штурмів  дозволяє силам ворога швидко проходити "kill-zone" українських дронів. Саме це зараз значною мірою забезпечує просування ворога на сході і потребує швидких і ефективних рішень від ЗСУ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-27_06-28-50.jpg" length="33919" type="image/jpeg"/>
+      <pubDate>Sun, 27 Apr 2025 06:28:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
