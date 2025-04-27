@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Apr 2025 05:08:42 +0000</lastBuildDate>
-    <item>
-      <title>Cьогодні був історичний день: </title>
-      <link>https://www.mandarinai.lt/post/73114</link>
-      <description>Cьогодні був історичний день: Мелоні прокоментувала зустріч Зеленського та Трампа, — пише ANSA
-
-Бачити Дональда Трампа і Володимира Зеленського, які говорять про мир на похороні Папи Миру, - це має таке величезне значення. Сьогодні був історичний день, - зазначила прем'єрка Італії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-26_15-38-20.jpg" length="232966" type="image/jpeg"/>
-      <pubDate>Sat, 26 Apr 2025 15:38:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Apr 2025 06:11:32 +0000</lastBuildDate>
     <item>
       <title>❗️Ватикан порушив протокол, що</title>
       <link>https://www.mandarinai.lt/post/73117</link>
@@ -83,6 +74,13 @@
 За словами Лисака, вночі ворог вкотре скерував на область безпілотники. 13 шахедів були знищени ППО</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-27_05-05-47.jpg" length="150329" type="image/jpeg"/>
       <pubDate>Sun, 27 Apr 2025 05:05:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили ППО знищили 57 з 149 воро</title>
+      <link>https://www.mandarinai.lt/post/73130</link>
+      <description>Сили ППО знищили 57 з 149 ворожих БпЛА, ще 67 безпілотників – локаційно втрачені</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-27_06-11-00.jpg" length="92965" type="image/jpeg"/>
+      <pubDate>Sun, 27 Apr 2025 06:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
