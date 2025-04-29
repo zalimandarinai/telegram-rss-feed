@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 23:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 00:42:15 +0000</lastBuildDate>
     <item>
       <title>На Лиманському напрямку антидр</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,12 +16,6 @@
 
 Як мінімум, чотирнадцяти військовим армії противника плащі не допомогли сховатися від FPV та «скидів».</description>
       <pubDate>Mon, 28 Apr 2025 12:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Контроль дороги, щоб не підхо</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>«Контроль дороги, щоб не підходили ‘pidary’», — відео зачистки села на Луганщині бійцями 2-ї роти 1-го штурмбату 3-ої ОШБР</description>
-      <pubDate>Mon, 28 Apr 2025 13:39:08 +0000</pubDate>
     </item>
     <item>
       <title>🥴Справжнє обличчя окупаційної </title>
@@ -79,6 +73,13 @@
       <description>🔥В Новоросійську паливні резервуари раптово вирішили самоліквідуватися</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-28_19-06-03.mp4" length="801419" type="video/mp4"/>
       <pubDate>Mon, 28 Apr 2025 19:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент вибуху в Києві під час </title>
+      <link>https://www.mandarinai.lt/post/73217</link>
+      <description>Момент вибуху в Києві під час атаки дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5944.MP4" length="873556" type="video/mp4"/>
+      <pubDate>Mon, 28 Apr 2025 23:09:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
