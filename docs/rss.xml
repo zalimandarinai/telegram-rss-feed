@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Apr 2025 18:12:04 +0000</lastBuildDate>
-    <item>
-      <title>❗️Ворог намагається за будь як</title>
-      <link>https://www.mandarinai.lt/post/73286</link>
-      <description>❗️Ворог намагається за будь яку ціну вийти на адміністративний кордон Дніпропетровської області — Сирський 
-
-Знищують тисячі солдатів, аби отримати бодай маленьку перемогу для кремлівського фюрера до пару 9 травня.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-30_10-13-39.jpg" length="82664" type="image/jpeg"/>
-      <pubDate>Wed, 30 Apr 2025 10:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️В України є можливість вдари</title>
-      <link>https://www.mandarinai.lt/post/73287</link>
-      <description>❗️В України є можливість вдарити по параду в москві, — секретар оборонного комітету Ради Костенко
-
-Він додає, що через побоювання рф стягує все ППО до червоної площі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-30_10-19-03.mp4" length="8197173" type="video/mp4"/>
-      <pubDate>Wed, 30 Apr 2025 10:19:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Apr 2025 19:07:05 +0000</lastBuildDate>
     <item>
       <title>Ведучій: зараз вважажться, що </title>
       <link>https://www.mandarinai.lt/post/73288</link>
@@ -133,6 +115,28 @@
 Українська сторона пояснила виданню, що Київ не може підписати обидва документи в середу, оскільки документ має ратифікувати Верховна Рада перед підписанням.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-04-30_17-10-58.jpg" length="80240" type="image/jpeg"/>
       <pubDate>Wed, 30 Apr 2025 17:10:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Друзі, оператори ударних безпі</title>
+      <link>https://www.mandarinai.lt/post/73300</link>
+      <description>Друзі, оператори ударних безпілотних систем 1-го бату 54-ої бригади отримали велику партію дронів, на які ми з вами збирали кошти.
+
+Вони дякують усім вам, хто долучився до збору, і хто допомагає нашим бійцям тримати оборону на Донеччині.
+
+Послухайте, що кажуть хлопці, і відчуйте, що це не просто слова.
+
+Ми вистоїмо тільки тоді, коли будемо разом. 
+
+І ми продовжуємо збирати кошти для наших військових, бо це той мінімум, який кожен з нас може зробити для тих, хто на фронті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6018.MP4" length="23784612" type="video/mp4"/>
+      <pubDate>Wed, 30 Apr 2025 18:40:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Путін дуже розумна та дуже хит</title>
+      <link>https://www.mandarinai.lt/post/73301</link>
+      <description>Путін дуже розумна та дуже хитра людина, але я змушу його піти на поступки щодо закінчення війни в Україні, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-04-30_18-52-39.mp4" length="6141658" type="video/mp4"/>
+      <pubDate>Wed, 30 Apr 2025 18:52:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
