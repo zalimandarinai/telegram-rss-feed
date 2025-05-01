@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 May 2025 14:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 15:08:41 +0000</lastBuildDate>
     <item>
       <title>Зрадники бувають лютішими, ніж</title>
       <link>https://www.mandarinai.lt/post/73348</link>
@@ -78,9 +78,9 @@
       <pubDate>Thu, 01 May 2025 12:45:47 +0000</pubDate>
     </item>
     <item>
-      <title>Росіяни намагаються висадитися</title>
+      <title>росіяни намагаються висадитися</title>
       <link>https://www.mandarinai.lt/post/73355</link>
-      <description>Росіяни намагаються висадитися на острови Бугаз та Козулиський навпроти Херсона, щоб форсувати Дніпро, — речник Сил оборони півдня полковник Волошин спеціально для ЦАПЛІЄНКО_UKRAINE FIGHTS
+      <description>росіяни намагаються висадитися на острови Бугаз та Козулиський навпроти Херсона, щоб форсувати Дніпро, — речник Сил оборони півдня полковник Волошин спеціально для ЦАПЛІЄНКО_UKRAINE FIGHTS
 
 В Херсонській області окупанти активізувались на півдні Дніпровських островів і намагаються захопити плацдарм біля села Кізомис.
 
@@ -98,6 +98,31 @@
 Сказали, як є, в чому до них претензія, незрозуміло.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-01_13-53-22.jpg" length="65159" type="image/jpeg"/>
       <pubDate>Thu, 01 May 2025 13:53:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків атакував дрон, до якого</title>
+      <link>https://www.mandarinai.lt/post/73359</link>
+      <description>Харків атакував дрон, до якого була прикріплена торба зі цвяхами, — Нацполіція
+
+Такий БПЛА сьогодні вдарив по Харкову, мета абсолютно терористична — уразити максимальну кількість людей.
+
+Різниця між ХАМАС і росією лише в тому, що в ХАМАС немає ядерної зброї.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-01_14-19-16.jpg" length="175089" type="image/jpeg"/>
+      <pubDate>Thu, 01 May 2025 14:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сполучені Штати забезпечать ві</title>
+      <link>https://www.mandarinai.lt/post/73360</link>
+      <description>Сполучені Штати забезпечать вільне, мирне та суверенне майбутнє для України, — обіцяє речниця Трампа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-01_14-28-18.jpg" length="84388" type="image/jpeg"/>
+      <pubDate>Thu, 01 May 2025 14:28:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>З'явилось відео замаху на Стер</title>
+      <link>https://www.mandarinai.lt/post/73361</link>
+      <description>З'явилось відео замаху на Стерненка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-01_15-02-58.mp4" length="2091299" type="video/mp4"/>
+      <pubDate>Thu, 01 May 2025 15:02:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
