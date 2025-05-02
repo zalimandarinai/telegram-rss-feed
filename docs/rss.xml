@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 20:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 21:07:50 +0000</lastBuildDate>
     <item>
       <title>🔞 Група російських піхотинців </title>
       <link>https://www.mandarinai.lt/post/73424</link>
@@ -61,6 +61,17 @@
       <description>❗️У Харкові 17 (!) прильотів у різних локаціях — вже 12 постраждалих та сильні пожежі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-02_19-41-07.mp4" length="412559" type="video/mp4"/>
       <pubDate>Fri, 02 May 2025 19:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Державний департамент США схва</title>
+      <link>https://www.mandarinai.lt/post/73435</link>
+      <description>Державний департамент США схвалив пакет з навчання та підтримки F-16 для України на суму 310 мільйонів доларів.
+
+Недарма сьогодні Зеленський говорив про F-16.
+
+А днями «Руслан» возив з Дейвіс-Монтен запчастини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_20-28-35.jpg" length="80384" type="image/jpeg"/>
+      <pubDate>Fri, 02 May 2025 20:28:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
