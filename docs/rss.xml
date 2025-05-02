@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 06:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 07:09:05 +0000</lastBuildDate>
     <item>
       <title>Ввечері був приліт «шахеда» в </title>
       <link>https://www.mandarinai.lt/post/73382</link>
@@ -83,6 +83,22 @@
       <description>Після прильоту щось горить в районі російської авіабази «Кача» на території окупованого Кримського півострова.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6106.MP4" length="1873143" type="video/mp4"/>
       <pubDate>Fri, 02 May 2025 06:10:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти дійсно масово пересід</title>
+      <link>https://www.mandarinai.lt/post/73394</link>
+      <description>Окупанти дійсно масово пересідають на мотоцикли, щоб пробувати швидко проскочити зони ураження українських БПЛА та артилерії.
+
+Дрони прикордонників бригади ДПСУ «Помста» знищили один з таких штурмових загонів. 10 мотоциклів, 2 квадроцикли та 8 окупантів втратив ворог, спробувавши штурмувати українські позиції біля Купʼянська.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6108.MP4" length="20185333" type="video/mp4"/>
+      <pubDate>Fri, 02 May 2025 06:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Якщо путін не захоче укладати </title>
+      <link>https://www.mandarinai.lt/post/73395</link>
+      <description>Якщо путін не захоче укладати угоду, я дам Зеленському дуже багато всього, набагато більше, ніж він мав коли-небудь, – Трамп.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6109.MP4" length="1788281" type="video/mp4"/>
+      <pubDate>Fri, 02 May 2025 06:38:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
