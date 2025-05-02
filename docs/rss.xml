@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 May 2025 23:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 00:42:57 +0000</lastBuildDate>
     <item>
       <title>❗️ Стів Віткофф не хоче обійма</title>
       <link>https://www.mandarinai.lt/post/73376</link>
@@ -76,6 +76,22 @@
       <description>‼️Рятувальники дістали з-під завалів чоловіка в Запоріжжі, медики надають йому всю необхідну допомогу просто зараз.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6102.MP4" length="3727287" type="video/mp4"/>
       <pubDate>Thu, 01 May 2025 21:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ путін змінив свої плани та </title>
+      <link>https://www.mandarinai.lt/post/73386</link>
+      <description>❗️ путін змінив свої плани та короткострокові цілі та демонструє значну готовність до досягнення мирної угоди, яка покладе край війні в Україні, — CNN з посиланням на розвідку США
+
+Аналітики розвілки припускають, що путін може піти на компроміс у своїй вимозі повного контролю над тимчасово окупованими територіями, але також не виключається можливість того, що у довгостроковій перспективі росія може відновити війну та спробувати завоювати додаткові території в Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-01_23-54-58.jpg" length="144087" type="image/jpeg"/>
+      <pubDate>Thu, 01 May 2025 23:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Криму біля Севастополя гучн</title>
+      <link>https://www.mandarinai.lt/post/73387</link>
+      <description>💥В Криму біля Севастополя гучне відкриття сезону.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-02_00-08-09.mp4" length="516199" type="video/mp4"/>
+      <pubDate>Fri, 02 May 2025 00:08:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
