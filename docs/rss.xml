@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 10:09:24 +0000</lastBuildDate>
-    <item>
-      <title>💥В Криму біля Севастополя гучн</title>
-      <link>https://www.mandarinai.lt/post/73387</link>
-      <description>💥В Криму біля Севастополя гучне відкриття сезону.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-02_00-08-09.mp4" length="516199" type="video/mp4"/>
-      <pubDate>Fri, 02 May 2025 00:08:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 May 2025 11:07:33 +0000</lastBuildDate>
     <item>
       <title>У Запоріжжі кількість поранени</title>
       <link>https://www.mandarinai.lt/post/73389</link>
@@ -130,6 +123,17 @@
 Путін хоче зруйнувати українську державу, тож, навіть змінивши цілі війни зараз, він повернеться, рано чи пізно, до своїх божевільних планів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_10-06-23.jpg" length="108709" type="image/jpeg"/>
       <pubDate>Fri, 02 May 2025 10:06:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Жінці, яка напала на Стернен</title>
+      <link>https://www.mandarinai.lt/post/73402</link>
+      <description>⚡️Жінці, яка напала на Стерненка, оголосили підозру в держзраді та замаху на вбивство — СБУ
+
+Слідство вважає: вона діяла в інтересах ворога. Наразі готується запобіжний захід.
+
+Атака на українського активіста може виявитися частиною ширшого плану проти українського спротиву.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_10-29-57.jpg" length="161245" type="image/jpeg"/>
+      <pubDate>Fri, 02 May 2025 10:29:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
