@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 19:07:16 +0000</lastBuildDate>
-    <item>
-      <title>12 років в'язниці загрожує нач</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>12 років в'язниці загрожує начальнику Черкаського міського ТЦК за зрив мобілізаційного плану, — ДБР
-
-Посадовець умисно не призивав на службу деяких військовозобов’язаних, що завдало шкоди належному забезпеченню комплектування підрозділів.</description>
-      <pubDate>Fri, 02 May 2025 14:42:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Україна не зможе відкинути рф </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Україна не зможе відкинути рф на позиції, які вона займала у 2014 році, росія зі свого боку не зможе зайняти всю територію України, — Держсекретар США Рубіо 
-
-Це війна, у якої немає військового рішення.</description>
-      <pubDate>Fri, 02 May 2025 14:45:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нарада по F-16 в офісі президе</title>
-      <link>https://www.mandarinai.lt/post/73420</link>
-      <description>Нарада по F-16 в офісі президента. Обговорювали застосування винищувачів. За підсумками є цікаві системні рішення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_17-25-08.jpg" length="92280" type="image/jpeg"/>
-      <pubDate>Fri, 02 May 2025 17:25:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 May 2025 20:09:48 +0000</lastBuildDate>
     <item>
       <title>🔞 Група російських піхотинців </title>
       <link>https://www.mandarinai.lt/post/73424</link>
@@ -61,6 +38,29 @@
       <description>У Новоросійську оголошено тривогу та перекрито рух транспорту через загрозу атаки українських надводних дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_18-56-04.jpg" length="159887" type="image/jpeg"/>
       <pubDate>Fri, 02 May 2025 18:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Внаслідок атаки дронами по Х</title>
+      <link>https://www.mandarinai.lt/post/73431</link>
+      <description>⚡️Внаслідок атаки дронами по Харкову постраждала багатоповерхівка 
+
+Поблизу будинку горять автомобілі. За попередньою інформацією, травмовано 3 людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-02_19-19-43.mp4" length="380825" type="video/mp4"/>
+      <pubDate>Fri, 02 May 2025 19:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Харкові вже 6 поранених, п</title>
+      <link>https://www.mandarinai.lt/post/73432</link>
+      <description>⚡️У Харкові вже 6 поранених, пожежі після прильоту в житлову забудову</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-02_19-21-57.mp4" length="548451" type="video/mp4"/>
+      <pubDate>Fri, 02 May 2025 19:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️У Харкові 17 (!) прильотів у</title>
+      <link>https://www.mandarinai.lt/post/73434</link>
+      <description>❗️У Харкові 17 (!) прильотів у різних локаціях — вже 12 постраждалих та сильні пожежі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-02_19-41-07.mp4" length="412559" type="video/mp4"/>
+      <pubDate>Fri, 02 May 2025 19:41:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
