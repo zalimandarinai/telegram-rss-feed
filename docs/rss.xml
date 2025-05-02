@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 14:08:42 +0000</lastBuildDate>
-    <item>
-      <title>❗️У Монако затримали сина експ</title>
-      <link>https://www.mandarinai.lt/post/73398</link>
-      <description>❗️У Монако затримали сина експрезидента «Мотор Січі» Богуслаєва, – СБУ.
-
-▪️Силовики не називають ім'я фігуранта, але джерела РБК-Україна підтвердили, що йдеться про сина колишнього президента «Мотор Січі» Вʼячеслава Богуслаєва – Олександра;
-▪️До початку повномасштабної війни він допоміг своєму батьку привласнити акції підприємства, а потім продати їх третім особам;
-▪️Фігуранти незаконно привласнили контрольний пакет акцій держпідприємства, а потім продали його за $650 млн;
-▪️У сина Богуслаєва провели обшуки за місцем проживання на прибережній віллі у Монако та в помешканнях афілійованих осіб у Запоріжжі;
-▪️Сину експрезидента «Мотор Січі» оголосили підозру за відмивання майна, одержаного злочинним шляхом, вчинені організованою групою в особливо великому розмірі. 
-
-Йому загрожує до 12 років в'язниці з конфіскацією майна. Також нову підозру отримав й сам ексочільник «Мотор Січі», який зараз під вартою за обвинуваченням у співпраці з рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_07-37-05.jpg" length="99423" type="image/jpeg"/>
-      <pubDate>Fri, 02 May 2025 07:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Те, що знищили в Криму спецпри</title>
-      <link>https://www.mandarinai.lt/post/73399</link>
-      <description>Те, що знищили в Криму спецпризначенці підрозділу «PRYMARY» ГУР МО:
-
-▪️Пускові установки ЗРК С-300В;
-▪️РЛС «Обзор-3»;
-▪️РЛС «Каста-2Е2»;
-▪️РЛС СТ-68;
-▪️РЛС «Імбір».
-
-Тобто, ще раз відпрацювали по низці дороговартісних російських РЛС та ЗРК у дуже глибокому тилу противника на окупованому півострові.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6110.MP4" length="20368640" type="video/mp4"/>
-      <pubDate>Fri, 02 May 2025 08:49:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 May 2025 15:08:55 +0000</lastBuildDate>
     <item>
       <title>Трамп має спорудити стіну між </title>
       <link>https://www.mandarinai.lt/post/73400</link>
@@ -147,6 +117,24 @@
 
 Лиманський напрямок стає гарячим.</description>
       <pubDate>Fri, 02 May 2025 13:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>12 років в'язниці загрожує нач</title>
+      <link>https://www.mandarinai.lt/post/73412</link>
+      <description>12 років в'язниці загрожує начальнику Черкаського міського ТЦК за зрив мобілізаційного плану, — ДБР
+
+Посадовець умисно не призивав на службу деяких військовозобов’язаних, що завдало шкоди належному забезпеченню комплектування підрозділів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_14-42-44.jpg" length="118611" type="image/jpeg"/>
+      <pubDate>Fri, 02 May 2025 14:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна не зможе відкинути рф </title>
+      <link>https://www.mandarinai.lt/post/73413</link>
+      <description>Україна не зможе відкинути рф на позиції, які вона займала у 2014 році, росія зі свого боку не зможе зайняти всю територію України, — Держсекретар США Рубіо 
+
+Це війна, у якої немає військового рішення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_14-45-25.jpg" length="28876" type="image/jpeg"/>
+      <pubDate>Fri, 02 May 2025 14:45:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
