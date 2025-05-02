@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 13:20:22 +0000</lastBuildDate>
-    <item>
-      <title>❗️Російська армія захопила Тар</title>
-      <link>https://www.mandarinai.lt/post/73397</link>
-      <description>❗️Російська армія захопила Тарасівку та просунулась поблизу Сухої Балки, — Deep State.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_07-35-57.jpg" length="57550" type="image/jpeg"/>
-      <pubDate>Fri, 02 May 2025 07:35:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 May 2025 14:08:42 +0000</lastBuildDate>
     <item>
       <title>❗️У Монако затримали сина експ</title>
       <link>https://www.mandarinai.lt/post/73398</link>
@@ -140,6 +133,20 @@
       <description>Гарна новина від Bloomberg: Трамп планує чинити тиск на росію, щоб змусити її припинити війну, його команда вже підготувала кілька стратегій тиску на росію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_13-09-28.jpg" length="48111" type="image/jpeg"/>
       <pubDate>Fri, 02 May 2025 13:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Стільки ворогів в одному місці</title>
+      <link>https://www.mandarinai.lt/post/73411</link>
+      <description>Стільки ворогів в одному місці батальйон «Сила Свободи» давно не відбивав.
+
+Противник 28.01.2025 пішов в масований штурм на позиції бригади НГУ «Рубіж».
+
+Двадцять чотири окупанти залишились на полі бою.
+
+Також «свободівці» спалили БМП і мотоцикл.
+
+Лиманський напрямок стає гарячим.</description>
+      <pubDate>Fri, 02 May 2025 13:54:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
