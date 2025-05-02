@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 16:10:36 +0000</lastBuildDate>
-    <item>
-      <title>Путін змінив ціли війни, - пиш</title>
-      <link>https://www.mandarinai.lt/post/73401</link>
-      <description>Путін змінив ціли війни, - пише CNN.
-
-Він нібито планує сфокусуватися на контролі окупованих територій замість захоплення нових.
-
-Йому це потрібно для покращення стосунків зі США та стимулювання російської економіки.
-
-Для українців, швидше за все, нічого нового.
-
-Путін хоче зруйнувати українську державу, тож, навіть змінивши цілі війни зараз, він повернеться, рано чи пізно, до своїх божевільних планів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_10-06-23.jpg" length="108709" type="image/jpeg"/>
-      <pubDate>Fri, 02 May 2025 10:06:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 May 2025 17:08:00 +0000</lastBuildDate>
     <item>
       <title>⚡️Жінці, яка напала на Стернен</title>
       <link>https://www.mandarinai.lt/post/73402</link>
@@ -135,6 +120,12 @@
 Як висновок. Після спроби Трампа налагодити діалог з російським агресором, дні і ночі в Україні стали ще більш небезпечними, більше людей лишились життів, здоров’я і домівок</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-02_15-12-40.jpg" length="196493" type="image/jpeg"/>
       <pubDate>Fri, 02 May 2025 15:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український дрон в Курській об</title>
+      <link>https://www.mandarinai.lt/post/73415</link>
+      <description>Український дрон в Курській області довго ганявся за двома російськими військовими.</description>
+      <pubDate>Fri, 02 May 2025 16:45:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
