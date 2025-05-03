@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 May 2025 19:04:36 +0000</lastBuildDate>
-    <item>
-      <title>📝 «Не дуже вдала ідея була нес</title>
-      <link>https://www.mandarinai.lt/post/73464</link>
-      <description>📝 «Не дуже вдала ідея була нести в рюкзаку велику каністру бензину до себе на позиції», - коментує оператор підрозділу «Гострі Картузи» винахідливість противника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6165.MP4" length="23691557" type="video/mp4"/>
-      <pubDate>Sat, 03 May 2025 14:21:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 May 2025 20:08:34 +0000</lastBuildDate>
     <item>
       <title>Нова «придумка» окупантів. Вон</title>
       <link>https://www.mandarinai.lt/post/73465</link>
@@ -99,6 +92,15 @@
       <description>💬 «В мене син горить там», - екіпаж патрульних поліцейських з Запоріжжя показав перші хвилини після масованого удару «шахедів» по місту 1 травня</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6171.MP4" length="30470994" type="video/mp4"/>
       <pubDate>Sat, 03 May 2025 18:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Очільник ОП зробив репост карт</title>
+      <link>https://www.mandarinai.lt/post/73480</link>
+      <description>Очільник ОП зробив репост картинки палаючого Кремля з надписом «Цей день ми наближали, як могли». 
+
+«Гарно намальовано», — додав Андрій Єрмак.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-03_19-59-52.jpg" length="102061" type="image/jpeg"/>
+      <pubDate>Sat, 03 May 2025 19:59:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
