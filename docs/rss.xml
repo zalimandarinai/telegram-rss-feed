@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 May 2025 19:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 20:08:50 +0000</lastBuildDate>
     <item>
       <title>31-а бригада на Півдні відбила</title>
       <link>https://www.mandarinai.lt/post/73516</link>
@@ -152,6 +152,22 @@
 Також обговорюються майбутні поставки додаткових літаків F-16.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-04_17-15-08.jpg" length="7833" type="image/jpeg"/>
       <pubDate>Sun, 04 May 2025 17:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Біля Торецька окупанти почали </title>
+      <link>https://www.mandarinai.lt/post/73530</link>
+      <description>Біля Торецька окупанти почали святкувати 9 травня.
+
+Такого оператори дронів ще не бачили.
+
+Російські військові осідлали мотоцикли, до яких присобачили триколори та червоні прапори, і таким чином вирушили на штурм.
+
+Очевидно, їм поставили завдання доїхати до населеного пункту і встановити там ці прапори, щоб зробити інформаційний ефект «пабєди» або хоча б присутності.
+
+Та російський мотопробіг завершився повним розгромом.
+
+Відбиття штурму відбувалося спільними зусиллями 12-ої бригади спеціального призначення «Азов» у складі 1-го корпусу НГУ «Азов» і 49-го окремого штурмового батальйону «Карпатська Січ».</description>
+      <pubDate>Sun, 04 May 2025 19:44:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
