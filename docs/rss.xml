@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 May 2025 08:10:35 +0000</lastBuildDate>
-    <item>
-      <title>Збито 69 з 165 ворожих БпЛА, 8</title>
-      <link>https://www.mandarinai.lt/post/73491</link>
-      <description>Збито 69 з 165 ворожих БпЛА, 80 «локаційно втрачені», - Повітряні Сили</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-04_06-20-46.jpg" length="86063" type="image/jpeg"/>
-      <pubDate>Sun, 04 May 2025 06:20:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 May 2025 09:07:56 +0000</lastBuildDate>
     <item>
       <title>💥🔥На Брянщині після атаки дрон</title>
       <link>https://www.mandarinai.lt/post/73492</link>
@@ -83,6 +76,13 @@
 Вперше так близько прилетіло до цивільних хабів в «Бен-Гуріоні».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6190.MP4" length="1732573" type="video/mp4"/>
       <pubDate>Sun, 04 May 2025 07:51:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞 Ліквідація окупанта біля Вер</title>
+      <link>https://www.mandarinai.lt/post/73505</link>
+      <description>🔞 Ліквідація окупанта біля Верхньокамʼянського на Донеччині одним точним пострілом снайпера</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6194.MP4" length="6352789" type="video/mp4"/>
+      <pubDate>Sun, 04 May 2025 08:19:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
