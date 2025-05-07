@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 20:10:14 +0000</lastBuildDate>
-    <item>
-      <title>«Американські бази НАТО в Руму</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>«Американські бази НАТО в Румунії стали причиною війни в Україні», — каже путін у фільмі до 25-річчя свого правління 
-
-У МЗС Румунії назвали ці твердження безпідставними та наголосили, що саме росія є єдиною реальною загрозою безпеці в Європі.
-
-Насправді румунській владі варто було б пояснити суспільству, що російський диктатор несе маячню не просто так, а хоче вплинути на результат виборів і дає пас електорату проросійського по суті кандидата Джордже Сіміона, в якого є всі шанси стати президентом.</description>
-      <pubDate>Wed, 07 May 2025 14:32:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 May 2025 21:08:14 +0000</lastBuildDate>
     <item>
       <title>Так виглядає Дворічна, населен</title>
       <link>https://www.mandarinai.lt/post/73717</link>
@@ -75,6 +65,13 @@
 Жахливі кадри було дуже важливо оприлюднити. Вони демонструють, що дрон не був збитий, а цілеспрямовано летів у житловий будинок. Значить, його координати, ймовірно, були введені в бортову систему БПЛА. І це вчергове говорить про те, що росіяни навмисно завдають ударів по цивільних, тероризуючи саме мирне населення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6349.MP4" length="3808316" type="video/mp4"/>
       <pubDate>Wed, 07 May 2025 19:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>В мережі повідомляють про раке</title>
+      <link>https://www.mandarinai.lt/post/73729</link>
+      <description>В мережі повідомляють про ракетний удар по аеропорту міста Амрітсар в Індії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6351.MP4" length="804086" type="video/mp4"/>
+      <pubDate>Wed, 07 May 2025 20:49:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
