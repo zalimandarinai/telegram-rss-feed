@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 16:11:08 +0000</lastBuildDate>
-    <item>
-      <title>Відео удару росіян по ТРЦ «Dre</title>
-      <link>https://www.mandarinai.lt/post/73703</link>
-      <description>Відео удару росіян по ТРЦ «Dream Town» в Києві 4 травня демонструє весь той жах, в якому щодня і щоночі живуть українці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6326.MP4" length="5545986" type="video/mp4"/>
-      <pubDate>Wed, 07 May 2025 12:46:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Білоруські добровольці розраху</title>
-      <link>https://www.mandarinai.lt/post/73704</link>
-      <description>Білоруські добровольці розрахунку «РБМК» Полку Калиновського зараз на запорізькому напрямку за допомогою FPV-дронів знищили ворожу систему РЕБ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6325.MP4" length="3970152" type="video/mp4"/>
-      <pubDate>Wed, 07 May 2025 12:56:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 May 2025 17:08:03 +0000</lastBuildDate>
     <item>
       <title>Вперше українські ракетники та</title>
       <link>https://www.mandarinai.lt/post/73705</link>
@@ -120,6 +106,19 @@
 Саме для цих хлопців в нас триває терміновий збір на наземного робота.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6342.MP4" length="16372821" type="video/mp4"/>
       <pubDate>Wed, 07 May 2025 15:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили Спеціальних операцій, які</title>
+      <link>https://www.mandarinai.lt/post/73719</link>
+      <description>Сили Спеціальних операцій, які змогли вирахувати місцезнаходження північнокорейської пускової установки, пропонують долучитися до Руху опору на окупованих територіях України.</description>
+      <pubDate>Wed, 07 May 2025 16:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇨🇬 До Москви прибув сьогодні п</title>
+      <link>https://www.mandarinai.lt/post/73720</link>
+      <description>🇨🇬 До Москви прибув сьогодні президент Республіки Конго Даніель Сассу Нгессо, енергійний перспективний 82-річний діяч, який, з недовгою 5-річною перервою, сидить в президентському кріслі з 1979 року, чим, напевно, збирається мотивувати путіна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6344.MP4" length="5653434" type="video/mp4"/>
+      <pubDate>Wed, 07 May 2025 16:37:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
