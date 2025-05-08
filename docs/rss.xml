@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 10:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 11:07:54 +0000</lastBuildDate>
     <item>
       <title>‼️Сумщина: ворог завдав ударів</title>
       <link>https://www.mandarinai.lt/post/73737</link>
@@ -115,6 +115,28 @@
 Результат роботи потужної російської пропаганди на українській території, яка добре промила свідомість російськомовним українцям і підготувала повномасштабне вторгнення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6361.MP4" length="3123174" type="video/mp4"/>
       <pubDate>Thu, 08 May 2025 09:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЄС офіційно звинуватить Росію </title>
+      <link>https://www.mandarinai.lt/post/73751</link>
+      <description>ЄС офіційно звинуватить Росію у бойовому застосуванні хімічної зброї в Україні, - ЗМІ
+
+Рада ЄС підготувала новий санкційний регламент, у якому Росію вперше офіційно звинувачують у застосуванні газу CS на фронті.
+
+Вивчаються випадки застосування газу біля сіл Мар’ївка й Іллінка на Дніпропетровщині у 2024 році.
+
+Експерти наводять докази присутності слідів газу CS після російських атак.
+
+Факт застосування хімії підтвердили аналізи ґрунту й води, інтерв’ю з військовими, а також фото корпусів ручних гранат російського виробництва «РГ-Во», тобто, «ручная граната, вещество отравляющее».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-08_10-14-46.jpg" length="107816" type="image/jpeg"/>
+      <pubDate>Thu, 08 May 2025 10:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Танк проти Тесли. 98-річний бр</title>
+      <link>https://www.mandarinai.lt/post/73752</link>
+      <description>Танк проти Тесли. 98-річний британський ветеран Другої Світової Кен Тернер сів в танк «Шерман», на якому воювала його армія, щоб розчавити автомобіль «Тесла». Він вважає, що Елон Маск підтримує ультраправих в Європі, а гроші на це йдуть від продажу автомобілів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6364.MP4" length="21959695" type="video/mp4"/>
+      <pubDate>Thu, 08 May 2025 10:56:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
