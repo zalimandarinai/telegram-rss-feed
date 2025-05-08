@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 12:16:29 +0000</lastBuildDate>
-    <item>
-      <title>40-а бригада берегової оборони</title>
-      <link>https://www.mandarinai.lt/post/73744</link>
-      <description>40-а бригада берегової оборони показала, як шукає окупантів на островах навпроти Херсона і на лівому березі Дніпра.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6357.MP4" length="23284012" type="video/mp4"/>
-      <pubDate>Thu, 08 May 2025 08:41:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 May 2025 13:22:42 +0000</lastBuildDate>
     <item>
       <title>Напередодні путінського припин</title>
       <link>https://www.mandarinai.lt/post/73746</link>
@@ -107,6 +100,21 @@
 6 травня 2025 року Президент України вручив орден «Золота Зірка» його родині.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-08_12-12-44.jpg" length="140363" type="image/jpeg"/>
       <pubDate>Thu, 08 May 2025 12:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>За матеріалами СБУ засуджено к</title>
+      <link>https://www.mandarinai.lt/post/73759</link>
+      <description>За матеріалами СБУ засуджено колишнього голову Станично-Луганської військово-цивільної адміністрації Альберта Зінченка. 
+
+Отримав десять років заочно.
+
+Засуджений з перших днів війни зрадив Україну та нині очолює незаконний орган влади, створений ворогом на Луганщині.
+
+У березні 2022 року він очолив окупаційну «адміністрацію Станично-Луганського району». 
+
+Після проведення незаконних виборів у жовтні 2023 року зрадник посів місце «голови муніципального утворення Станично-Луганський муніципальний округ лнр».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-08_12-21-07.jpg" length="30111" type="image/jpeg"/>
+      <pubDate>Thu, 08 May 2025 12:21:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
