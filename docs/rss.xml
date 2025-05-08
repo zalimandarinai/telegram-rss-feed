@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 08:12:39 +0000</lastBuildDate>
-    <item>
-      <title>В мережі повідомляють про раке</title>
-      <link>https://www.mandarinai.lt/post/73729</link>
-      <description>В мережі повідомляють про ракетний удар по аеропорту міста Амрітсар в Індії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6351.MP4" length="804086" type="video/mp4"/>
-      <pubDate>Wed, 07 May 2025 20:49:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 May 2025 09:09:54 +0000</lastBuildDate>
     <item>
       <title>🤬 Вночі рф вдарила по 9-поверх</title>
       <link>https://www.mandarinai.lt/post/73731</link>
@@ -96,6 +89,13 @@
 Підтверджено збиття 20 ударних БпЛА типу Shahed (безпілотників інших типів) на півночі та в центрі країни.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-08_07-59-07.jpg" length="66087" type="image/jpeg"/>
       <pubDate>Thu, 08 May 2025 07:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>40-а бригада берегової оборони</title>
+      <link>https://www.mandarinai.lt/post/73744</link>
+      <description>40-а бригада берегової оборони показала, як шукає окупантів на островах навпроти Херсона і на лівому березі Дніпра.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6357.MP4" length="23284012" type="video/mp4"/>
+      <pubDate>Thu, 08 May 2025 08:41:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
