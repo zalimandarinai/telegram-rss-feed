@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 18:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 19:07:20 +0000</lastBuildDate>
     <item>
       <title>За матеріалами СБУ засуджено к</title>
       <link>https://www.mandarinai.lt/post/73759</link>
@@ -121,6 +121,12 @@
 Вимкнення зв'язку призведе до блокування важливих служб, таксі, роботи магазинів, онлайн-сервісів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-08_17-52-25.jpg" length="163037" type="image/jpeg"/>
       <pubDate>Thu, 08 May 2025 17:52:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Два українські бійці за підтри</title>
+      <link>https://www.mandarinai.lt/post/73771</link>
+      <description>Два українські бійці за підтримки дронів в парі зупиняють російську штурмову групу з п'ятьох окупантів на автомобілі, - 108-ий батальйон «Вовки Да Вінчі» з Покровського напрямку на Донеччині.</description>
+      <pubDate>Thu, 08 May 2025 18:14:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
