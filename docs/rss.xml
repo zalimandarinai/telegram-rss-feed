@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 May 2025 19:06:54 +0000</lastBuildDate>
-    <item>
-      <title>Кремлівський диктатор вирішив </title>
-      <link>https://www.mandarinai.lt/post/73814</link>
-      <description>Кремлівський диктатор вирішив подякувати північнокорейським військовим за те, що поклали сотні своїх піхотинців в Курській області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6411.MP4" length="9142393" type="video/mp4"/>
-      <pubDate>Fri, 09 May 2025 14:51:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 May 2025 20:10:04 +0000</lastBuildDate>
     <item>
       <title>💬 «Ми повністю блокували росій</title>
       <link>https://www.mandarinai.lt/post/73816</link>
@@ -93,6 +86,17 @@
 Так написано на офіційному сайті Посольства Сполучених Штатів в Києві.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-09_18-43-38.jpg" length="105129" type="image/jpeg"/>
       <pubDate>Fri, 09 May 2025 18:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «рф одразу підтримала ідею </title>
+      <link>https://www.mandarinai.lt/post/73828</link>
+      <description>❗️ «рф одразу підтримала ідею 30-денного припинення вогню з необхідністю врахування нюансів», — Пєсков
+
+А як же попередження американців про повітряний удар?
+
+Ймовірно, можливий удар і є тими «нюансами», про які каже речник упиря.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-09_19-30-21.jpg" length="13655" type="image/jpeg"/>
+      <pubDate>Fri, 09 May 2025 19:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
