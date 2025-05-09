@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 May 2025 18:11:58 +0000</lastBuildDate>
-    <item>
-      <title>Є велика ймовірність, що цими </title>
-      <link>https://www.mandarinai.lt/post/73812</link>
-      <description>Є велика ймовірність, що цими вихідними буде досягнуто угоди про припинення вогню на 30 днів в Україні, — Фрідріх Мерц, за версією видання BILD</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-09_14-19-48.jpg" length="82299" type="image/jpeg"/>
-      <pubDate>Fri, 09 May 2025 14:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>В росії завершується будівницт</title>
-      <link>https://www.mandarinai.lt/post/73813</link>
-      <description>В росії завершується будівництво великого заводу з виробництва вибухівки, який забезпечуватиме випуск боєприпасів для російської армії, - Reuters.
-
-Зібрані Reuters документи свідчать, що місцем розгортання виробництва став «Бійський олеумний завод», де має бути налагоджений випуск гексогену та інших вибухових речовин.
-
-Путін не планує зупинятися.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-09_14-48-17.jpg" length="68155" type="image/jpeg"/>
-      <pubDate>Fri, 09 May 2025 14:48:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 May 2025 19:06:54 +0000</lastBuildDate>
     <item>
       <title>Кремлівський диктатор вирішив </title>
       <link>https://www.mandarinai.lt/post/73814</link>
@@ -87,8 +69,30 @@
       <title>Підрозділ безпілотних авіакомп</title>
       <link>https://www.mandarinai.lt/post/73825</link>
       <description>Підрозділ безпілотних авіакомплексів ВМС ЗСУ знайшов і ліквідував катери окупантів разом з прихованими позиціями.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6415.MP4" length="12049106" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6415.MP4" length="11895461" type="video/mp4"/>
       <pubDate>Fri, 09 May 2025 17:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський дрон підлітає вприт</title>
+      <link>https://www.mandarinai.lt/post/73826</link>
+      <description>Російський дрон підлітає впритул до того місця, де сховався житель Херсона.
+
+Навіть на 9 травня російські вбивці продовжують полювати на херсонців.
+
+Путінське «припинення вогню», як воно є.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6416.MP4" length="3823264" type="video/mp4"/>
+      <pubDate>Fri, 09 May 2025 18:24:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Посольство США попереджає пр</title>
+      <link>https://www.mandarinai.lt/post/73827</link>
+      <description>❗️Посольство США попереджає про значну повітряну атаку, яка може статися найближчими днями.
+
+Посольство, як завжди, рекомендує громадянам США бути готовими негайно знайти укриття у разі оголошення повітряної тривоги. 
+
+Так написано на офіційному сайті Посольства Сполучених Штатів в Києві.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-09_18-43-38.jpg" length="105129" type="image/jpeg"/>
+      <pubDate>Fri, 09 May 2025 18:43:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
