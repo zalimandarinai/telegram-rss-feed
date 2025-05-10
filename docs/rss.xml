@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 13:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 14:06:54 +0000</lastBuildDate>
     <item>
       <title>619 дронів збито на Лиманськом</title>
       <link>https://www.mandarinai.lt/post/73841</link>
@@ -82,6 +82,15 @@
 Екс-мер знаходиться у нелюдських умовах без медичної допомоги.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-10_12-50-43.jpg" length="30214" type="image/jpeg"/>
       <pubDate>Sat, 10 May 2025 12:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️З 12 травня має початися при</title>
+      <link>https://www.mandarinai.lt/post/73855</link>
+      <description>❗️З 12 травня має початися припинення вогню щонайменше на 30 днів. Ми вимагаємо цього від рф, — Зеленський 
+
+"Ми знаємо, що нас підтримують у цьому Сполучені Штати Америки. Безумовне припинення вогню означає без жодних умов. Спроба виснути будь-які умови є свідченням наміру затягнути війну та зірвати дипломатію. Припинення вогню має бути всеосяжним: в повітрі, на морі та на суші", - сказав він.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-10_13-56-27.mp4" length="3297517" type="video/mp4"/>
+      <pubDate>Sat, 10 May 2025 13:56:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
