@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 02:21:17 +0000</lastBuildDate>
-    <item>
-      <title>Сили оборони прибрали російськ</title>
-      <link>https://www.mandarinai.lt/post/73817</link>
-      <description>Сили оборони прибрали російський триколор на лівобережжі Дніпра в Херсонській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6413.MP4" length="1589568" type="video/mp4"/>
-      <pubDate>Fri, 09 May 2025 16:06:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 May 2025 03:29:40 +0000</lastBuildDate>
     <item>
       <title>❗️ Новий Нюрнберг для Кремля. </title>
       <link>https://www.mandarinai.lt/post/73818</link>
@@ -118,6 +111,13 @@
 Площа обмеження приблизно 7500 км² і вона охоплює полігон «Капустин Яр» в Волгоградській області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-09_20-52-39.jpg" length="100131" type="image/jpeg"/>
       <pubDate>Fri, 09 May 2025 20:52:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Завершіть цю дурну війну, — </title>
+      <link>https://www.mandarinai.lt/post/73831</link>
+      <description>❗️Завершіть цю дурну війну, — Трамп звернувся до Зеленського та путіна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-10_03-14-34.mp4" length="1161158" type="video/mp4"/>
+      <pubDate>Sat, 10 May 2025 03:14:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
