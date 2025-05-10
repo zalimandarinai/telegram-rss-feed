@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 19:06:11 +0000</lastBuildDate>
-    <item>
-      <title>Пожежа на аеродромі Кадала біл</title>
-      <link>https://www.mandarinai.lt/post/73858</link>
-      <description>Пожежа на аеродромі Кадала біля Чити змусила російських пілотів раптово перекваліфікуватися на народних кореспондентів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6439.MP4" length="4301358" type="video/mp4"/>
-      <pubDate>Sat, 10 May 2025 15:30:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 May 2025 20:08:33 +0000</lastBuildDate>
     <item>
       <title>Співробітники розвідки в Києві</title>
       <link>https://www.mandarinai.lt/post/73862</link>
@@ -81,6 +74,24 @@
 Вашингтон погодив постачання 125 ракет для систем MARS II та HIMARS, а також 100 перехоплювачів Patriot. За даними видання, боєприпаси вже прямують до Німеччини, звідки їх передадуть Україні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-10_19-01-36.jpg" length="99469" type="image/jpeg"/>
       <pubDate>Sat, 10 May 2025 19:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Угорські спецпризначенці виріш</title>
+      <link>https://www.mandarinai.lt/post/73873</link>
+      <description>Угорські спецпризначенці вирішили, що настав час продемонструвати силу, тож в повній викладці, на бронеавтомобілях, за підтримки поліції впіймали власника двох ресторанів в Будапешті.
+
+Сказали, що Сергій Александров глибоко законспірований український шпигун, і вислали його з країни.
+
+Перебування Орбана при владі все більше стає схожим на те, що називається словом «режим».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6447.MP4" length="1966307" type="video/mp4"/>
+      <pubDate>Sat, 10 May 2025 19:45:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇮🇳↔️🇵🇰 На кордоні між Індією і</title>
+      <link>https://www.mandarinai.lt/post/73874</link>
+      <description>🇮🇳↔️🇵🇰 На кордоні між Індією і Пакистаном знову стріляють, - схоже, з Нобелівською премією миру в Трампа не дуже виходить</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6448.MP4" length="2808072" type="video/mp4"/>
+      <pubDate>Sat, 10 May 2025 19:56:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
