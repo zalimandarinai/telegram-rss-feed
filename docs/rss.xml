@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 May 2025 05:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 06:11:44 +0000</lastBuildDate>
     <item>
       <title>"Бережіть себе і будемо на зв'</title>
       <link>https://www.mandarinai.lt/post/73871</link>
@@ -95,6 +95,13 @@
       <description>❗️путін пропонує Києву відновити прямі переговори, перервані з 2022 року, і розпочати їх в Стамбулі 15 травня</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6461.MP4" length="2301007" type="video/mp4"/>
       <pubDate>Sat, 10 May 2025 22:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Потенційно великий день дл</title>
+      <link>https://www.mandarinai.lt/post/73888</link>
+      <description>❗️ «Потенційно великий день для росії та України! Уявіть собі: сотні тисяч життів можуть бути врятовані, якщо ця нескінченна «кривава бійня», нарешті, завершиться. Це буде зовсім новий, набагато кращий світ», — реакція Трампа після заяви путіна та його фактичної відмови від 30-денного перемир'я.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-11_05-24-43.jpg" length="67954" type="image/jpeg"/>
+      <pubDate>Sun, 11 May 2025 05:24:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
