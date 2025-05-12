@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 12:16:53 +0000</lastBuildDate>
-    <item>
-      <title>Внаслідок атаки рф по Одеській</title>
-      <link>https://www.mandarinai.lt/post/73928</link>
-      <description>Внаслідок атаки рф по Одеській області значні руйнування будинків у приватному секторі. Одна людина отримала поранення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-12_07-24-40.jpg" length="46965" type="image/jpeg"/>
-      <pubDate>Mon, 12 May 2025 07:24:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 May 2025 13:24:18 +0000</lastBuildDate>
     <item>
       <title>Спроба підірвати наряд поліції</title>
       <link>https://www.mandarinai.lt/post/73930</link>
@@ -90,6 +83,27 @@
 «росія має до кінця цієї доби відповісти на пропозицію про припинення вогню в Україні на 30 днів. Інакше – рф зіткнеться з жорсткими санкціями».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-12_11-41-20.jpg" length="109776" type="image/jpeg"/>
       <pubDate>Mon, 12 May 2025 11:41:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський військовий хотів вр</title>
+      <link>https://www.mandarinai.lt/post/73940</link>
+      <description>Російський військовий хотів врятуватися від дрона «Хартії» бутелем води. Вийшло не дуже. Безпілотник бригади НГУ «Хартія» зупинив ще одну спробу просування.</description>
+      <pubDate>Mon, 12 May 2025 12:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Влучний удар групи групи Sting</title>
+      <link>https://www.mandarinai.lt/post/73942</link>
+      <description>Влучний удар групи групи Sting спецпідрозділу «Баліста» по російському автомобілю. З ураженого автомобіля по черзі випали четверо окупантів. Але вони вирішили подивись, що ж цінного лишилося в салоні, і боєкомплект, який був в машині, здетонував і добив противника.</description>
+      <pubDate>Mon, 12 May 2025 13:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Німеччина готова підтримати </title>
+      <link>https://www.mandarinai.lt/post/73943</link>
+      <description>⚡️Німеччина готова підтримати Україну у питанні "вогню великої дальності, - речник уряду ФНР
+
+Натякають, що TAURUS можуть бути передані Україні у разі відмови рф від перемир'я.  Щоправда, як відомо, Німеччина засекретила інформацію про всю майбутню військову допомогу Україні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-12_13-09-59.jpg" length="150680" type="image/jpeg"/>
+      <pubDate>Mon, 12 May 2025 13:09:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
