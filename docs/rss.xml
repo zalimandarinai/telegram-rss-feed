@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 May 2025 14:09:26 +0000</lastBuildDate>
-    <item>
-      <title>Запуски ракет і далекобійних д</title>
-      <link>https://www.mandarinai.lt/post/73977</link>
-      <description>Запуски ракет і далекобійних дронів по російських військових цілях, - в ГУР МО показали ексклюзивні кадри бойової роботи своїх «далекобійників».</description>
-      <pubDate>Tue, 13 May 2025 08:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Рідкісний випадок. 63-я бригад</title>
-      <link>https://www.mandarinai.lt/post/73978</link>
-      <description>Рідкісний випадок. 63-я бригада взяла в полон узбека. Він погодився воювати проти України за 2 мільйони рублів і російський паспорт. Але щось пішло зовсім не так, як він собі планував, і Уміт, так звати узбека, вийшов на позиції 63-ої бригади. Здаватися.</description>
-      <pubDate>Tue, 13 May 2025 08:41:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 May 2025 15:08:40 +0000</lastBuildDate>
     <item>
       <title>Збиття ворожого літака. 
 
@@ -95,6 +83,20 @@
 А спочатку казали «якщо до вчорашнього вечора».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-13_12-14-24.jpg" length="57553" type="image/jpeg"/>
       <pubDate>Tue, 13 May 2025 12:14:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Основа цих книг — записки манд</title>
+      <link>https://www.mandarinai.lt/post/73992</link>
+      <description>Основа цих книг — записки мандрівників Україною XVIII-XIX століть, що відкривають нам наш край, який він був 200-250 років тому. Це не мова сухих документів, а живі враження сучасників.
+
+Перша книга — подорожі остзейського німця барона фон Кампенгаузена в 1780-90-х роках. Його подорожі охопили Лівобережжя в межах колишньої Гетьманщини, далі продовжились на південь (Єлисаветград, Кривий Ріг, Катеринослав, Херсон) і закінчились в Бессарабії.  
+
+Друга книга — подорожі в кінці 1830-х років Волинню, Поліссям та Литвою польського письменника Крашевського. Він певний час проживав на історичній Волині, був закоханий в цей край і хотів показати сучасникам, що минуле замків Волині та таємниці лісів Полісся нічим не гірші за те, що можна знайти в Шотландії В. Скотта чи Америці Ф. Купера. 
+
+Погортати і придбати книги можна на сайті видавництва за посиланням https://rvv-kniga.com/product/podorozhi-ukrayinoyu-xviii-xix-stolitqq-zapysky-mandrivnykiv/ 
+(доставка Новою поштою чи самовивіз в Києві)</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-13_15-01-32.jpg" length="323770" type="image/jpeg"/>
+      <pubDate>Tue, 13 May 2025 15:01:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
