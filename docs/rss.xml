@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 May 2025 06:13:14 +0000</lastBuildDate>
-    <item>
-      <title>Кабмін спростив оформлення пас</title>
-      <link>https://www.mandarinai.lt/post/73954</link>
-      <description>Кабмін спростив оформлення паспортів для чоловіків віком 18-60 років, які перебувають за кордоном. 
-
-Відтепер для отримання паспорта не потрібно особисто надавати військово-обліковий документ.
-
-Усі перевірки здійснюються автоматично.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-12_17-10-10.jpg" length="39279" type="image/jpeg"/>
-      <pubDate>Mon, 12 May 2025 17:10:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Рота безпілотних комплексів «P</title>
-      <link>https://www.mandarinai.lt/post/73955</link>
-      <description>Рота безпілотних комплексів «Pentagon» офіційно стає батальйоном безпілотних систем. 
-
-Підрозділ є частиною 225-го окремого штурмового полку, в складі якого воював на Курщині.
-
-В контексті розширення новий батальйон набирає фахівців різних військових професій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6502.MP4" length="13901562" type="video/mp4"/>
-      <pubDate>Mon, 12 May 2025 17:15:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 May 2025 07:10:12 +0000</lastBuildDate>
     <item>
       <title>⚖️ В Британії посадили болгар,</title>
       <link>https://www.mandarinai.lt/post/73956</link>
@@ -142,6 +120,17 @@
 Адміністрація Трампа раніше підготувала варіанти посилення економічного тиску на росію. Трамп заявляв, що «США та їхні партнери запровадять додаткові санкції», якщо перемир'я не буде дотримуватися</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-13_05-20-40.jpg" length="83942" type="image/jpeg"/>
       <pubDate>Tue, 13 May 2025 05:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Що ще сказав Віткофф для Breit</title>
+      <link>https://www.mandarinai.lt/post/73970</link>
+      <description>Що ще сказав Віткофф для Breitbart News.
+
+Ключові питання, які планують обговорюватись на «саміті миру» це доля 5 «спірних» регіонів, контроль за ЗАЕС і вихід до Чорного моря.
+
+Breitbart News ультраправе видання, яке точно не було «мейнстрімом» серед американських ЗМІ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-13_06-54-51.jpg" length="92151" type="image/jpeg"/>
+      <pubDate>Tue, 13 May 2025 06:54:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
