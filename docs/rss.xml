@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 May 2025 15:08:40 +0000</lastBuildDate>
-    <item>
-      <title>Збиття ворожого літака. 
-
-Влуч</title>
-      <link>https://www.mandarinai.lt/post/73979</link>
-      <description>Збиття ворожого літака. 
-
-Влучним пострілом з ПЗРК «Ігла» боєць 58-ї бригади на псевдо «Таліб» вполював російський СУ-25. 
-
-На сьогодні серед його трофеїв чотири літаки і два «шахеди». 
-
-«Таліб» дуже не любить, коли над його землею літає всякий непотріб. 
-
-А мисливець на «дичину» він знатний.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6529.MP4" length="13986063" type="video/mp4"/>
-      <pubDate>Tue, 13 May 2025 09:10:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти нищать електрообладна</title>
-      <link>https://www.mandarinai.lt/post/73980</link>
-      <description>Окупанти нищать електрообладнання на Херсонщині, щоб залишити Херсон без світла</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6530.MP4" length="4248586" type="video/mp4"/>
-      <pubDate>Tue, 13 May 2025 09:19:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 May 2025 16:11:08 +0000</lastBuildDate>
     <item>
       <title>По с.Гремʼяч в Новгород-Сіверс</title>
       <link>https://www.mandarinai.lt/post/73982</link>
@@ -97,6 +73,17 @@
 (доставка Новою поштою чи самовивіз в Києві)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-13_15-01-32.jpg" length="323770" type="image/jpeg"/>
       <pubDate>Tue, 13 May 2025 15:01:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна не атакувала парад у М</title>
+      <link>https://www.mandarinai.lt/post/73993</link>
+      <description>Україна не атакувала парад у Москві, бо про це попросив Китай, - Зеленський. 
+
+За словами Зеленського, Київ «отримав сигнали» з Китаю, що в Пекіні підтримують пропоноване Україною 30-денне припинення вогню, і що китайська сторона вважає справедливим, щоб у дні святкування 80-річчя закінчення Другої світової війни «була безпека в регіоні, де перебуватиме багато лідерів, включно з Китаєм».
+
+Україна з цим погодилась.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-13_15-31-04.jpg" length="41094" type="image/jpeg"/>
+      <pubDate>Tue, 13 May 2025 15:31:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
