@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 May 2025 12:17:24 +0000</lastBuildDate>
-    <item>
-      <title>Сили спеціальних операцій знищ</title>
-      <link>https://www.mandarinai.lt/post/73976</link>
-      <description>Сили спеціальних операцій знищили новітній «БУК-М3» та РСЗВ «Ураган-1»
-
-Під час проведення розвідки на одному з напрямків, оператори ССО виявили ЗРК «БУК-М3» на бойовому чергуванні та РСЗВ «Ураган-1». 
-
-Воїни запустили ударні дрони та уразили цілі.
-
-Комплекс «БУК-М3» орієнтовною вартістю $45 мільйонів знищено повністю разом з боєкомплектом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6523.MP4" length="6002503" type="video/mp4"/>
-      <pubDate>Tue, 13 May 2025 07:50:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 May 2025 13:24:57 +0000</lastBuildDate>
     <item>
       <title>Запуски ракет і далекобійних д</title>
       <link>https://www.mandarinai.lt/post/73977</link>
@@ -103,7 +90,9 @@
       <link>https://www.mandarinai.lt/post/73989</link>
       <description>⚡️Якщо цього тижня не буде прогресу в припиненні вогню в Україні, санкції проти рф будуть посилені, — канцлер Німеччини Мерц 
 
-Нові санкції стосуватимуться енергетичних та фінансових ринків.</description>
+Нові санкції стосуватимуться енергетичних та фінансових ринків.
+
+А спочатку казали «якщо до вчорашнього вечора».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-13_12-14-24.jpg" length="57553" type="image/jpeg"/>
       <pubDate>Tue, 13 May 2025 12:14:24 +0000</pubDate>
     </item>
