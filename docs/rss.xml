@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 May 2025 17:08:17 +0000</lastBuildDate>
-    <item>
-      <title>❗️Рівень російської делегації </title>
-      <link>https://www.mandarinai.lt/post/74091</link>
-      <description>❗️Рівень російської делегації більше схожий на бутафорський рівень, - Зеленський 
-
-Ми подумаємо, що робити і які будуть наші кроки -  заявив президент в Анкарі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-15_09-24-36.jpg" length="85038" type="image/jpeg"/>
-      <pubDate>Thu, 15 May 2025 09:24:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зранку на Сумщині ліквідували </title>
-      <link>https://www.mandarinai.lt/post/74093</link>
-      <description>Зранку на Сумщині ліквідували наслідки російського удару БПЛА по цивільній інфраструктурі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6618.MP4" length="11607484" type="video/mp4"/>
-      <pubDate>Thu, 15 May 2025 09:34:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 May 2025 18:12:27 +0000</lastBuildDate>
     <item>
       <title>«Все, красавчик, додому поверн</title>
       <link>https://www.mandarinai.lt/post/74094</link>
@@ -99,6 +83,13 @@
 В складі української делегації Сибіга (глава МЗС), Гнатов (начальник Генштабу), Малюк (голова СБУ) та Умєров (голова Міноборони).</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6627.MP4" length="2074771" type="video/mp4"/>
       <pubDate>Thu, 15 May 2025 16:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Немає ілюзій щодо переговорі</title>
+      <link>https://www.mandarinai.lt/post/74106</link>
+      <description>❗️Немає ілюзій щодо переговорів, єдиною можливістю прориву в переговорах щодо України може стати зустріч Трампа з путіним, ми не покладаємо великих надій на результати перемовин між Україною та рф, - каже держсекретар Рубіо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6632.MP4" length="17386350" type="video/mp4"/>
+      <pubDate>Thu, 15 May 2025 17:59:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
