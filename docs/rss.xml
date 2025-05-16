@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 07:09:31 +0000</lastBuildDate>
-    <item>
-      <title>❗️ЄС може ухвалити новий пакет</title>
-      <link>https://www.mandarinai.lt/post/74119</link>
-      <description>❗️ЄС може ухвалити новий пакет санкцій проти рф 20 травня, – Мерц
-
-Канцлер Німеччини зазначив, що Зеленський своєю поїздкою до Стамбула зробив важливий крок, тоді як путін сам себе ізолював. Очікується, що рішення про санкції ухвалять у вівторок у Брюсселі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-16_04-00-15.jpg" length="49647" type="image/jpeg"/>
-      <pubDate>Fri, 16 May 2025 04:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤷‍♂Ранкова прогулянка русні по</title>
-      <link>https://www.mandarinai.lt/post/74120</link>
-      <description>🤷‍♂Ранкова прогулянка русні поміж трупами товаришів на Донецькому напрямку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-16_04-09-27.mp4" length="6868884" type="video/mp4"/>
-      <pubDate>Fri, 16 May 2025 04:09:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 May 2025 08:12:39 +0000</lastBuildDate>
     <item>
       <title>💥У Севастополі, поблизу місця </title>
       <link>https://www.mandarinai.lt/post/74121</link>
@@ -34,8 +18,6 @@
       <title>💥В Криму біля Перевального в р</title>
       <link>https://www.mandarinai.lt/post/74123</link>
       <description>💥В Криму біля Перевального в результаті нічної атаки загорівся військовий склад. Зранку чутно детонації.
-
-палає великий склад боєприпасів.
 
 Трасу Алушта – Сімферополь перекрито, пишуть місцеві ЗМІ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-16_04-29-32.mp4" length="160318" type="video/mp4"/>
@@ -119,6 +101,13 @@
 📱 Зареєструватись на практикум: https://i.goit.global/UoJaJ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-16_07-00-28.mp4" length="380230" type="video/mp4"/>
       <pubDate>Fri, 16 May 2025 07:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Детонація БК на військовому с</title>
+      <link>https://www.mandarinai.lt/post/74135</link>
+      <description>🔥Детонація БК на військовому складі після удару дронами в Перевальному, т.о. Крим</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-16_07-27-25.mp4" length="867287" type="video/mp4"/>
+      <pubDate>Fri, 16 May 2025 07:27:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
