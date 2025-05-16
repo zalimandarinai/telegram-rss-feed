@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 11:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 12:17:00 +0000</lastBuildDate>
     <item>
       <title>В Києві після атаки російських</title>
       <link>https://www.mandarinai.lt/post/74127</link>
@@ -115,6 +115,13 @@
 Мир можливий лише за умови, що Росія виявить готовність до конкретних дій, серед яких — повне припинення вогню на принаймні 30 днів та здійснення гуманітарних кроків, таких як повернення насильно депортованих українських дітей та обміни військовополоненими за формулою «всіх на всіх».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-16_09-56-44.mp4" length="638278" type="video/mp4"/>
       <pubDate>Fri, 16 May 2025 09:56:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Припинення вогню не буде: ро</title>
+      <link>https://www.mandarinai.lt/post/74140</link>
+      <description>❗️Припинення вогню не буде: російська делегація планує вирушити до аеропорту одразу після зустрічі та не залишатися в Стамбулі для переговорів про припинення вогню, — українське дипломатичне джерело в інтерв'ю Axios</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-16_11-23-01.jpg" length="324966" type="image/jpeg"/>
+      <pubDate>Fri, 16 May 2025 11:23:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
