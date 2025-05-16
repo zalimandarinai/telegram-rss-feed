@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 12:17:00 +0000</lastBuildDate>
-    <item>
-      <title>В Києві після атаки російських</title>
-      <link>https://www.mandarinai.lt/post/74127</link>
-      <description>В Києві після атаки російських терористів зафіксовано займання в Святошинському районі, – КМВА
-
-Також уламки російського безпілотника впали на дорогу.
-
-Інформація щодо постраждалих уточнюється.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-16_04-39-31.jpg" length="115879" type="image/jpeg"/>
-      <pubDate>Fri, 16 May 2025 04:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Повітряні сили ЗСУ повідоми</title>
-      <link>https://www.mandarinai.lt/post/74128</link>
-      <description>‼️ Повітряні сили ЗСУ повідомили про втрату зв'язку з літаком F-16 цієї ночі, пілот вижив
-
-"16 травня 2025 року близько 03.30 було втрачено зв’язок із літаком F-16. Український винищувач виконував завдання із відбиття повітряного нападу противника", - розповіли військові.
-
-За попередніми даними льотчик знищив 3 повітряні цілі і працював по 4-й, застосовуючи авіаційну гармату. 
-
-"Однак на борту виникла нештатна ситуація. Пілот відвів літак подалі від населеного пункту і успішно катапультувався. Завдяки оперативній роботі групи пошуково-рятувального забезпечення, пілота швидко знайдено та евакуйовано", - повідомили в Управлінні комунікацій Командування Повітряних Сил ЗСУ.
-
-Вказується, що самопочуття льотчика задовільне - він "знаходиться в безпечному місці, життю та здоров’ю нічого не загрожує". 
-
-"Для об’єктивного з'ясування всіх обставин призначено комісію, яка вже приступила до роботи", - додали у ПС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-16_05-29-38.jpg" length="93526" type="image/jpeg"/>
-      <pubDate>Fri, 16 May 2025 05:29:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 May 2025 13:22:32 +0000</lastBuildDate>
     <item>
       <title>❗️рф випустила по Україні 112 </title>
       <link>https://www.mandarinai.lt/post/74131</link>
@@ -122,6 +94,15 @@
       <description>❗️Припинення вогню не буде: російська делегація планує вирушити до аеропорту одразу після зустрічі та не залишатися в Стамбулі для переговорів про припинення вогню, — українське дипломатичне джерело в інтерв'ю Axios</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-16_11-23-01.jpg" length="324966" type="image/jpeg"/>
       <pubDate>Fri, 16 May 2025 11:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росіяни вимагали, щоб Україн</title>
+      <link>https://www.mandarinai.lt/post/74143</link>
+      <description>❗️росіяни вимагали, щоб Україна повністю вийшла з 4 своїх областей, які рф внесла в свою конституцію, як російську територію.  На що отримали відмову від української делегації. У відповідь на неї — росіяни встали і сказали, що «наступного разу областей буде вже 5», — росЗМІ
+
+В українській делегації цю інформацію не підтвердили.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-16_12-49-24.jpg" length="163458" type="image/jpeg"/>
+      <pubDate>Fri, 16 May 2025 12:49:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
