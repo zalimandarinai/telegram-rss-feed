@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 May 2025 12:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 13:17:04 +0000</lastBuildDate>
     <item>
       <title>Бійці підрозділу «Фенікс» бриг</title>
       <link>https://www.mandarinai.lt/post/74169</link>
@@ -88,6 +88,26 @@
 Ракета, яку створили Недошивін та його група, стала інструментом воєнних злочинів та символом вбивства мирних українців.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-17_11-34-55.jpg" length="135280" type="image/jpeg"/>
       <pubDate>Sat, 17 May 2025 11:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>На російській території гармат</title>
+      <link>https://www.mandarinai.lt/post/74181</link>
+      <description>На російській території гармата Д-30 ворога знищена силами 47-ї ОМБр «Маґура», гармата гатила на 12 км вглиб Сумщини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6685.MP4" length="8787806" type="video/mp4"/>
+      <pubDate>Sat, 17 May 2025 12:47:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Країна, яка могла б поклас</title>
+      <link>https://www.mandarinai.lt/post/74182</link>
+      <description>❗️ «Країна, яка могла б покласти край війні та поставити путіна на місце, - це Китай», - сказав глава МЗС Польщі.
+
+🇨🇳 На думку Сікорського, росія є «економічним васалом Китаю».
+
+💬 «Якби Китай пригрозив торгівельним ембарго, то росія була би змушена його [мирний договір] виконати», - заявив польський міністр.
+
+➡️ Ключове слово «якби».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-17_12-59-53.jpg" length="67403" type="image/jpeg"/>
+      <pubDate>Sat, 17 May 2025 12:59:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
