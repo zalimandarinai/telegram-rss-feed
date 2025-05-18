@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 May 2025 21:07:24 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Європейські лідери зателефо</title>
-      <link>https://www.mandarinai.lt/post/74232</link>
-      <description>❗️ Європейські лідери зателефонують Трампу перед його розмовою з Путіним, - Мерц 
-
-"Ми домовилися, що поговоримо ще раз - чотири лідери держав (Британії, Німеччини, Польщі та Франції) і президент США - перед цією розмовою, - сказав канцлер журналістам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-18_15-20-23.jpg" length="30329" type="image/jpeg"/>
-      <pubDate>Sun, 18 May 2025 15:20:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 May 2025 22:07:41 +0000</lastBuildDate>
     <item>
       <title>❗️Наступний тиждень буде виріш</title>
       <link>https://www.mandarinai.lt/post/74234</link>
@@ -127,6 +118,13 @@
 Водночас проєвропейський Дан підтримує Україну у війні проти рф, виступає за продовження надання допомоги та логістичної підтримки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-18_19-42-23.jpg" length="110658" type="image/jpeg"/>
       <pubDate>Sun, 18 May 2025 19:42:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мер Бухареста Нікушор Дан огол</title>
+      <link>https://www.mandarinai.lt/post/74248</link>
+      <description>Мер Бухареста Нікушор Дан оголосив про перемогу на президентських виборах у Румунії, і ми щиро радіємо разом з румунами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6746.MP4" length="14157043" type="video/mp4"/>
+      <pubDate>Sun, 18 May 2025 21:20:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
