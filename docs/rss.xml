@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 May 2025 05:08:55 +0000</lastBuildDate>
-    <item>
-      <title>❗️У понеділок Трамп зателефону</title>
-      <link>https://www.mandarinai.lt/post/74188</link>
-      <description>❗️У понеділок Трамп зателефонує Путіну та Зеленському, щоб досягнути припинення вогню</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-17_15-07-11.jpg" length="59218" type="image/jpeg"/>
-      <pubDate>Sat, 17 May 2025 15:07:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>👌Дотепна відповідь на сьогодні</title>
-      <link>https://www.mandarinai.lt/post/74189</link>
-      <description>👌Дотепна відповідь на сьогоднішню заяву Трампа про "Київ за 5 годин"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-17_15-30-51.jpg" length="87427" type="image/jpeg"/>
-      <pubDate>Sat, 17 May 2025 15:30:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 May 2025 06:12:02 +0000</lastBuildDate>
     <item>
       <title>⚡️США представили сильний мирн</title>
       <link>https://www.mandarinai.lt/post/74190</link>
@@ -101,6 +87,28 @@
 1 ворожий дрон ще в повітрі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-18_05-08-02.jpg" length="95975" type="image/jpeg"/>
       <pubDate>Sun, 18 May 2025 05:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Київщині внаслідок нічної р</title>
+      <link>https://www.mandarinai.lt/post/74203</link>
+      <description>На Київщині внаслідок нічної російської атаки загинула 28-річна жінка, ще троє людей поранено, у тому числі 4-річна дитина.
+
+Попередні наслідки атаки БПЛА в Київській області:
+
+▪️ В Обухівському районі при ударі БПЛА травмовано 59-річного чоловіка, 61-річну жінку та дитину. Постраждалих доставлено до лікарні. Частково зруйнований приватний будинок, в багатоповерхівці вибиті вікна.
+
+▪️ В Фастівському районі на території комбікормового заводу спалахнула пожежа.
+
+▪️ В Голосіївському районі Києва уламки безпілотника пошкодили дах нежитлової будівлі, обійшлося без постраждалих.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6707.MP4" length="430426" type="video/mp4"/>
+      <pubDate>Sun, 18 May 2025 05:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Натовп людей в Київському метр</title>
+      <link>https://www.mandarinai.lt/post/74204</link>
+      <description>Натовп людей в Київському метро через атаку російських дронів по столиці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6708.MP4" length="3986272" type="video/mp4"/>
+      <pubDate>Sun, 18 May 2025 05:17:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
