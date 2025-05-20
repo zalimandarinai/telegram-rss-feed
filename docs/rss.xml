@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 19:07:17 +0000</lastBuildDate>
-    <item>
-      <title>Кандидат у президенти Польщі К</title>
-      <link>https://www.mandarinai.lt/post/74342</link>
-      <description>Кандидат у президенти Польщі Кароль Навроцький заявив про готовність НЕ підтримувати членство України в НАТО
-
-Він заявив про готовність піти на умови, висунуті лідером ультраправої «Конфедерації» Славоміром Менценом в обмін на його підтримку перед другим туром виборів.
-
-Серед умов, зокрема, відмова Україні в членстві в НАТО
-
-Консервативний історик Кароль Навроцький зайняв друге місце на виборах 29,1%, лідер, варшавський мер Рафал Тшасковський, випереджає його на два відсотки 30,8%.
-
-Другий тур виборів за два тижні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-20_14-09-06.jpg" length="96971" type="image/jpeg"/>
-      <pubDate>Tue, 20 May 2025 14:09:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 May 2025 20:10:20 +0000</lastBuildDate>
     <item>
       <title>❗️ Номінація на дрифт року. Бо</title>
       <link>https://www.mandarinai.lt/post/74344</link>
@@ -116,6 +101,19 @@
 Офіційних коментарів від Генштабу поки не було.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-20_19-02-56.mp4" length="2526595" type="video/mp4"/>
       <pubDate>Tue, 20 May 2025 19:02:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️США чекають умов перемир’я в</title>
+      <link>https://www.mandarinai.lt/post/74356</link>
+      <description>⚡️США чекають умов перемир’я від рф, але не поспішають із новими санкціями, — Рубіо під час слухань у Сенаті
+
+Він заявив, що Вашингтон очікує на пропозиції росії щодо умов припинення вогню.
+
+Я буду набагато краще розуміти розрахунки пана путіна, коли побачу, який вигляд мають ці умови.
+
+Водночас держсекретар США пояснив, чому адміністрація Трампа не посилює санкції проти рф: на його думку, додатковий тиск може зірвати потенційні перемовини про завершення війни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-20_19-41-39.jpg" length="79239" type="image/jpeg"/>
+      <pubDate>Tue, 20 May 2025 19:41:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
