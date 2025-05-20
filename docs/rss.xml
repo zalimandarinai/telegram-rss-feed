@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 21:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 22:08:12 +0000</lastBuildDate>
     <item>
       <title>❗️ Номінація на дрифт року. Бо</title>
       <link>https://www.mandarinai.lt/post/74344</link>
@@ -114,6 +114,17 @@
 Водночас держсекретар США пояснив, чому адміністрація Трампа не посилює санкції проти рф: на його думку, додатковий тиск може зірвати потенційні перемовини про завершення війни.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-20_19-41-39.jpg" length="79239" type="image/jpeg"/>
       <pubDate>Tue, 20 May 2025 19:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Переконлива демонстрація можли</title>
+      <link>https://www.mandarinai.lt/post/74357</link>
+      <description>Переконлива демонстрація можливостей українських FPV-дронів на оптоволокні.
+
+Батальйон безпілотних систем 28-ої бригади знаходить російський танк в укритті та запускає туди ударний дрон.
+
+В Україні треба негайно масштабувати виробництво таких оптоволоконних дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6816.MP4" length="27787180" type="video/mp4"/>
+      <pubDate>Tue, 20 May 2025 21:16:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
