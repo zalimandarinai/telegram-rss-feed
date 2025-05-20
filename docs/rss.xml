@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 06:13:42 +0000</lastBuildDate>
-    <item>
-      <title>Поки чекаємо на заяви Дональда</title>
-      <link>https://www.mandarinai.lt/post/74289</link>
-      <description>Поки чекаємо на заяви Дональда Трампа, гарні новини з Рима.
-
-Італія в рамках одинадцятого пакета військової допомоги надасть Україні ще одну систему протиповітряної та протиракетної оборони SAMP/T.
-
-Пакет включає 400 гусеничних машин M113, боєприпаси та систему ППО SAMP/T, яка вважається необхідною для протидії російським атакам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-19_17-21-34.jpg" length="142000" type="image/jpeg"/>
-      <pubDate>Mon, 19 May 2025 17:21:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 May 2025 07:09:45 +0000</lastBuildDate>
     <item>
       <title>❗️ Європа посилить тиск санкці</title>
       <link>https://www.mandarinai.lt/post/74293</link>
@@ -72,6 +61,36 @@
 Україна готова до припинення вогню й переговорів, заявив президент США. На уточнююче питання кореспондента про те, чи робить Київ достатньо для цього, американський президент пообіцяв дати відповідь за два тижні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-20_05-23-39.mp4" length="2333804" type="video/mp4"/>
       <pubDate>Tue, 20 May 2025 05:23:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>В США зібрали першу з серії но</title>
+      <link>https://www.mandarinai.lt/post/74305</link>
+      <description>В США зібрали першу з серії нових ядерних авіаційних бомб B61-13, розробку якої завершили на рік раніше запланованих термінів.
+
+Особливість в тому, що це перший тактичний ядерний КАБ.
+
+Авіабомба призначена для ураження сильно укріплених підземних військових об’єктів, зокрема, командних пунктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-20_06-47-15.jpg" length="118816" type="image/jpeg"/>
+      <pubDate>Tue, 20 May 2025 06:47:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зранку російські війська обстр</title>
+      <link>https://www.mandarinai.lt/post/74306</link>
+      <description>Зранку російські війська обстріляли з артилерії Корабельний район Херсона. 
+
+Ворожий снаряд «прилетів» поруч з багатоквартирним будинком. У будівлі вибито шибки, потрощено фасад та балкони. 
+
+45-річний чоловік та 68-річна жінка, які перебували вдома, дістали вибухові травми і різанні поранення.</description>
+      <pubDate>Tue, 20 May 2025 06:49:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Курському напрямку прикордо</title>
+      <link>https://www.mandarinai.lt/post/74307</link>
+      <description>На Курському напрямку прикордонники бригади «Сталевий кордон» відпрацювали по ворогу
+
+За минулу добу знищено укриття з особовим складом, антену зв’язку, а також два квадроцикли.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6792.MP4" length="14047012" type="video/mp4"/>
+      <pubDate>Tue, 20 May 2025 06:53:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
