@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 08:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 09:10:01 +0000</lastBuildDate>
     <item>
       <title>⚡️США чекають умов перемир’я в</title>
       <link>https://www.mandarinai.lt/post/74356</link>
@@ -137,6 +137,15 @@
 Щонайменше три влучання на території російського підприємства ВПК.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-21_06-54-46.jpg" length="34497" type="image/jpeg"/>
       <pubDate>Wed, 21 May 2025 06:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Сили оборони фіксують накопи</title>
+      <link>https://www.mandarinai.lt/post/74377</link>
+      <description>❗️Сили оборони фіксують накопичення особового складу армії рф поблизу держкордону на Харківському напрямку фронту
+
+Це може свідчити про підготовку окупантів до активних штурмових дій, — начальник штабу «Хартія»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-21_09-00-03.jpg" length="82949" type="image/jpeg"/>
+      <pubDate>Wed, 21 May 2025 09:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
