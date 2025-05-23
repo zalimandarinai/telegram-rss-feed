@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 16:10:27 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Росіяни випробовували новий</title>
-      <link>https://www.mandarinai.lt/post/74497</link>
-      <description>❗️ Росіяни випробовували новий дрон під час ранкової атаки Одеси, який раніше не фіксувала українська ППО.
-
-За даними експертів, ймовірно, це була збільшена і потужніша версія ББ "Скальпель" або "Ланцет-3", свідомо запущена у світлий час доби, щоб протестувати його в максимально складних умовах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_09-43-53.jpg" length="109452" type="image/jpeg"/>
-      <pubDate>Fri, 23 May 2025 09:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Завершився великий обмін пол</title>
-      <link>https://www.mandarinai.lt/post/74500</link>
-      <description>⚡️Завершився великий обмін полоненими між росією та Україною, який набуде чинності найближчим часом. Трамп висловив сподівання, що це може призвести до значних змін</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_09-52-25.jpg" length="24975" type="image/jpeg"/>
-      <pubDate>Fri, 23 May 2025 09:52:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 May 2025 17:08:10 +0000</lastBuildDate>
     <item>
       <title>⚡️В Одесі приліт двох балістич</title>
       <link>https://www.mandarinai.lt/post/74501</link>
@@ -120,6 +104,18 @@
 Підписка https://t.me/istorychnaknyga — і ви знатимете більше, ніж пишуть у підручниках.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_15-00-45.jpg" length="135765" type="image/jpeg"/>
       <pubDate>Fri, 23 May 2025 15:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗСУ завдали удару по передовом</title>
+      <link>https://www.mandarinai.lt/post/74515</link>
+      <description>ЗСУ завдали удару по передовому командному пункту 3-го армійського корпусу росіян у т.о. Бахмуті, — Генштаб.
+
+Суттєво пошкоджена будівля, де дислокувались окупанти.
+
+Цей удар серйозно знижує здатність російської федерації планувати та проводити операції на Покровському напрямку, одній з найбільш напружених ділянок фронту.
+— зазначається Генштабом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_16-33-13.jpg" length="82867" type="image/jpeg"/>
+      <pubDate>Fri, 23 May 2025 16:33:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
