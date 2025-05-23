@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 20:10:07 +0000</lastBuildDate>
-    <item>
-      <title>Перші дзвінки додому після рок</title>
-      <link>https://www.mandarinai.lt/post/74512</link>
-      <description>Перші дзвінки додому після років полону. Неможливо стримати сліз.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-23_15-00-00.mp4" length="2022955" type="video/mp4"/>
-      <pubDate>Fri, 23 May 2025 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 May 2025 21:07:21 +0000</lastBuildDate>
     <item>
       <title>20% знижки, справжні джерела і</title>
       <link>https://www.mandarinai.lt/post/74513</link>
@@ -124,6 +117,13 @@
       <description>⚡️В Києві ППО відпрацювало по шахедах. Відомо про двох поранених внаслідок падіння уламків</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-23_19-46-11.mp4" length="1626615" type="video/mp4"/>
       <pubDate>Fri, 23 May 2025 19:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зграя дронів над Києвом та о</title>
+      <link>https://www.mandarinai.lt/post/74527</link>
+      <description>⚡️Зграя дронів над Києвом та областю: в повітрі близько 40 БПЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_20-26-54.jpg" length="193123" type="image/jpeg"/>
+      <pubDate>Fri, 23 May 2025 20:26:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
