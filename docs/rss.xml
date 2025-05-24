@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 08:10:24 +0000</lastBuildDate>
-    <item>
-      <title>Збито над Україною вночі і вра</title>
-      <link>https://www.mandarinai.lt/post/74539</link>
-      <description>Збито над Україною вночі і вранці 6 з 14 балістичних ракет та 245 з 250 ворожих БпЛА, ще 117 «локаційно втрачено».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-24_06-19-50.jpg" length="103175" type="image/jpeg"/>
-      <pubDate>Sat, 24 May 2025 06:19:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 May 2025 09:08:03 +0000</lastBuildDate>
     <item>
       <title>Окупанти коментують знищення ї</title>
       <link>https://www.mandarinai.lt/post/74540</link>
@@ -78,6 +71,31 @@
       <description>Жахливі нічні кадри Києва, зняті під час атаки «шахедів»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-24_07-33-44.jpg" length="69150" type="image/jpeg"/>
       <pubDate>Sat, 24 May 2025 07:33:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Спецпідрозділи ГУР МО Україн</title>
+      <link>https://www.mandarinai.lt/post/74553</link>
+      <description>❗️Спецпідрозділи ГУР МО України зафіксували понад 150 випадків страт полонених українських оборонців
+ 
+Усі зібрані ГУР МО України дані про воєнні злочини передаються для подальших розслідувань правоохоронцям. 
+ 
+У багатьох випадках зафіксовані прямі накази вбивати полонених. 
+
+Ці злочини – складова цілеспрямованої політики з боку керівництва держави-агресора — росії. 
+
+Цю тенденцію підтверджує і Незалежна міжнародна комісія ООН з розслідування ситуації в Україні. У своїй доповіді від 19 березня 2025 року вона вказала на зростаннякількості випадків, коли російські військові цілеспрямовано вбивали або калічили українських бійців, які здалися або намагалися здатися в полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-24_08-24-32.jpg" length="68040" type="image/jpeg"/>
+      <pubDate>Sat, 24 May 2025 08:24:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перша в ЗСУ штурмова мотоцикле</title>
+      <link>https://www.mandarinai.lt/post/74554</link>
+      <description>Перша в ЗСУ штурмова мотоциклетна рота 425-го полку «СКАЛА» успішно виконала своє дебютне бойове завдання. 
+
+Результати бойового застосування повністю підтвердили ефективність нової тактики. 
+
+Штурмовики стрімко зблизилися з противником на високій швидкості та здійснили зачистку позиції.</description>
+      <pubDate>Sat, 24 May 2025 08:45:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
