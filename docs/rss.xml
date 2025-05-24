@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 23:08:57 +0000</lastBuildDate>
-    <item>
-      <title>ЗСУ завдали удару по передовом</title>
-      <link>https://www.mandarinai.lt/post/74515</link>
-      <description>ЗСУ завдали удару по передовому командному пункту 3-го армійського корпусу росіян у т.о. Бахмуті, — Генштаб.
-
-Суттєво пошкоджена будівля, де дислокувались окупанти.
-
-Цей удар серйозно знижує здатність російської федерації планувати та проводити операції на Покровському напрямку, одній з найбільш напружених ділянок фронту.
-— зазначається Генштабом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_16-33-13.jpg" length="82867" type="image/jpeg"/>
-      <pubDate>Fri, 23 May 2025 16:33:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Андрій Портнов перебував в Укр</title>
-      <link>https://www.mandarinai.lt/post/74517</link>
-      <description>Андрій Портнов перебував в Україні 17–18 травня перед його вбивством, — стверджує УП з посиланням на поінформовані джерела
-
-За їхніми даними, Портнов під час візиту мав зустрічі з високопосадовцями, які відповідають за роботу силових відомств. 
-
-Про кого, йдеться, невідомо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_17-11-09.jpg" length="33577" type="image/jpeg"/>
-      <pubDate>Fri, 23 May 2025 17:11:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 May 2025 00:41:43 +0000</lastBuildDate>
     <item>
       <title>❗️ Обмін полоненими – єдиний з</title>
       <link>https://www.mandarinai.lt/post/74518</link>
@@ -102,6 +79,13 @@
       <description>⚡️Зграя дронів над Києвом та областю: в повітрі близько 40 БПЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-23_20-26-54.jpg" length="193123" type="image/jpeg"/>
       <pubDate>Fri, 23 May 2025 20:26:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️В Дніпровському районі столи</title>
+      <link>https://www.mandarinai.lt/post/74530</link>
+      <description>❗️В Дніпровському районі столиці внаслідок атаки зафіксовано пожежі на першому та останньому поверхах житлової багатоповерхівки, — КМВА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6901.MP4" length="345312" type="video/mp4"/>
+      <pubDate>Fri, 23 May 2025 23:23:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
