@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 19:05:15 +0000</lastBuildDate>
-    <item>
-      <title>Хвостова частина від збитої ра</title>
-      <link>https://www.mandarinai.lt/post/74575</link>
-      <description>Хвостова частина від збитої ракети «Іскандер-М» в одному з київських дворів.
-
-📷 Валерія Ковалинська</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-24_13-31-52.jpg" length="237301" type="image/jpeg"/>
-      <pubDate>Sat, 24 May 2025 13:31:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ціль уражена, - збиття безпіло</title>
-      <link>https://www.mandarinai.lt/post/74576</link>
-      <description>Ціль уражена, - збиття безпілотника під час атаки в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6938.MP4" length="3189523" type="video/mp4"/>
-      <pubDate>Sat, 24 May 2025 14:31:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 May 2025 20:08:56 +0000</lastBuildDate>
     <item>
       <title>На одному із ключових напрямкі</title>
       <link>https://www.mandarinai.lt/post/74577</link>
@@ -112,9 +96,9 @@
       <pubDate>Sat, 24 May 2025 17:32:11 +0000</pubDate>
     </item>
     <item>
-      <title>Російські солдати підійшли до </title>
+      <title>російські солдати підійшли до </title>
       <link>https://www.mandarinai.lt/post/74588</link>
-      <description>Російські солдати підійшли до збитого дрона, який ще не вибухнув, і поплатилися за це, бо за кілька секунд безпілотник здетонував в той момент, коли росіяни знайшли його.</description>
+      <description>російські солдати підійшли до збитого дрона, який ще не вибухнув, і поплатилися за це, бо за кілька секунд безпілотник здетонував в той момент, коли росіяни знайшли його.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6942.MP4" length="1435981" type="video/mp4"/>
       <pubDate>Sat, 24 May 2025 17:34:18 +0000</pubDate>
     </item>
