@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 09:08:03 +0000</lastBuildDate>
-    <item>
-      <title>Окупанти коментують знищення ї</title>
-      <link>https://www.mandarinai.lt/post/74540</link>
-      <description>Окупанти коментують знищення їхньої вантажівки в глибокому тилу на Херсонщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6906.MP4" length="3730556" type="video/mp4"/>
-      <pubDate>Sat, 24 May 2025 06:37:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 May 2025 10:08:27 +0000</lastBuildDate>
     <item>
       <title>⚡️У росії ще вистачить "м’яса"</title>
       <link>https://www.mandarinai.lt/post/74542</link>
@@ -96,6 +89,15 @@
 
 Штурмовики стрімко зблизилися з противником на високій швидкості та здійснили зачистку позиції.</description>
       <pubDate>Sat, 24 May 2025 08:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 рф модернізувала Іскандери, </title>
+      <link>https://www.mandarinai.lt/post/74555</link>
+      <description>🤬 рф модернізувала Іскандери, збивати балістику стало ще складніше, – Ігнат
+
+Тепер ракета відстрілює радіолокаційні пастки, які ускладнюють роботу Patriot.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-24_09-53-18.mp4" length="4092711" type="video/mp4"/>
+      <pubDate>Sat, 24 May 2025 09:53:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
