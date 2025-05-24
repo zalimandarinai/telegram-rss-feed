@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 11:06:08 +0000</lastBuildDate>
-    <item>
-      <title>🔥У Тульській області м. Новомо</title>
-      <link>https://www.mandarinai.lt/post/74543</link>
-      <description>🔥У Тульській області м. Новомосковськ був " атакований " " НАК АЗОТ " , російське хімічне підприємство, яке бере участь у ланцюгу оборонної промисловості рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-24_06-43-54.mp4" length="545899" type="video/mp4"/>
-      <pubDate>Sat, 24 May 2025 06:43:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 May 2025 12:14:24 +0000</lastBuildDate>
     <item>
       <title>Внаслідок атаки на Київ є руйн</title>
       <link>https://www.mandarinai.lt/post/74545</link>
@@ -89,6 +82,17 @@
 Тепер ракета відстрілює радіолокаційні пастки, які ускладнюють роботу Patriot.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-24_09-53-18.mp4" length="4092711" type="video/mp4"/>
       <pubDate>Sat, 24 May 2025 09:53:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️⚡️Україна повернула ще 307 з</title>
+      <link>https://www.mandarinai.lt/post/74567</link>
+      <description>⚡️⚡️Україна повернула ще 307 захисників у другий день великого обміну полоненими 
+
+"Сьогодні другий день обміну у форматі 1000 на 1000, про який вдалося домовитись у Туреччині. Тільки за ці два дні вже повернули 697 людей. Завтра очікуємо продовження", - повідомив президент Володимир Зеленський.
+
+Серед тих, хто повернувся сьогодні, воїни нашої армії, Державної прикордонної служби, Національної гвардії України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-24_11-20-13.mp4" length="1616333" type="video/mp4"/>
+      <pubDate>Sat, 24 May 2025 11:20:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
