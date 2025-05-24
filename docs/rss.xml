@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 21:07:14 +0000</lastBuildDate>
-    <item>
-      <title>🇪🇸Іспанія залишається останньо</title>
-      <link>https://www.mandarinai.lt/post/74579</link>
-      <description>🇪🇸Іспанія залишається останньою країною, яка не підтримала план НАТО оголосити що до 2032 року весь Альянс досягне 5% ВВП витрат на оборону</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-24_15-31-55.jpg" length="123427" type="image/jpeg"/>
-      <pubDate>Sat, 24 May 2025 15:31:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 May 2025 22:07:35 +0000</lastBuildDate>
     <item>
       <title>На Харківщині прикордонники по</title>
       <link>https://www.mandarinai.lt/post/74582</link>
@@ -63,6 +56,13 @@
       <description>російські солдати підійшли до збитого дрона, який ще не вибухнув, і поплатилися за це, бо за кілька секунд безпілотник здетонував в той момент, коли росіяни знайшли його.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6942.MP4" length="1435981" type="video/mp4"/>
       <pubDate>Sat, 24 May 2025 17:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кияни збираються в метро, в мі</title>
+      <link>https://www.mandarinai.lt/post/74594</link>
+      <description>Кияни збираються в метро, в місті чутно вибухи, повідомив Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-24_21-45-16.jpg" length="76095" type="image/jpeg"/>
+      <pubDate>Sat, 24 May 2025 21:45:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
