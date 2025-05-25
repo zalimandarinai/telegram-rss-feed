@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 18:10:36 +0000</lastBuildDate>
-    <item>
-      <title>«Кожен раз замість моїх побрат</title>
-      <link>https://www.mandarinai.lt/post/74657</link>
-      <description>«Кожен раз замість моїх побратимів я знаходжу серед обміняних обличчя зрадників та дезертирів».
-
-Геннадій Харченко, артилерист, ветеран «Азова», який більше двох років провів в Оленівці, вважає, що росія на обмін віддає, серед героїчних полонених патріотів, також зрадників та тих, хто співпрацював з окупантами.
-
-Думка «азовця» за посиланням.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_14-28-43.jpg" length="78865" type="image/jpeg"/>
-      <pubDate>Sun, 25 May 2025 14:28:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 May 2025 19:05:19 +0000</lastBuildDate>
     <item>
       <title>♥️ «Просила Бога, щоб він тіль</title>
       <link>https://www.mandarinai.lt/post/74659</link>
@@ -55,9 +44,10 @@
       <pubDate>Sun, 25 May 2025 16:27:58 +0000</pubDate>
     </item>
     <item>
-      <title>Ці атаки ганебні. Зупиніть вби</title>
+      <title>Це Київ. Невибіркове вбивство </title>
       <link>https://www.mandarinai.lt/post/74669</link>
-      <description>Ці атаки ганебні. Зупиніть вбивство. Припиніть вогонь негайно , - спецпредставник Трампа Келлог про російську атаку.</description>
+      <description>Це Київ. Невибіркове вбивство жінок і дітей вночі в їхніх домівках є явним порушенням Женевських протоколів 1977 року. Ці атаки ганебні. Припиніть вбивства. Припинення вогню — негайно.
+Спецпредставник Трампа Келлог засудив атаки РФ по Україні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_16-34-05.jpg" length="56442" type="image/jpeg"/>
       <pubDate>Sun, 25 May 2025 16:34:05 +0000</pubDate>
     </item>
@@ -86,6 +76,17 @@
 Пошкоджено 22 приватні будинки, більшість з них зруйновані повністю</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-25_17-37-35.mp4" length="3639066" type="video/mp4"/>
       <pubDate>Sun, 25 May 2025 17:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Білгородська область вчергове </title>
+      <link>https://www.mandarinai.lt/post/74673</link>
+      <description>Білгородська область вчергове почула, що таке війна. На залізниці невідомі встановили саморобний вибуховий пристрій, і на вибухівку наїхав поїзд. 
+
+Інцидент стався приблизно о 18:00 у Новооскольському окрузі. 
+
+Вибух був такої сили, що впала опора ЛЕП. Постраждалих немає.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_18-40-09.jpg" length="101808" type="image/jpeg"/>
+      <pubDate>Sun, 25 May 2025 18:40:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
