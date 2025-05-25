@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 04:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 05:08:39 +0000</lastBuildDate>
     <item>
       <title>На Харківщині прикордонники по</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>На Харківщині прикордонники позбавили ворога зору, зв’язку та місць для схованок, - знищені укриття, камера спостереження, антена, а також уражено чотири ворожі позиції</description>
       <pubDate>Sat, 24 May 2025 16:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тим часом у російській Твері ч</title>
-      <link>https://www.mandarinai.lt/post/74605</link>
-      <description>Тим часом у російській Твері чують вибухи біля місцевої військові частини, — росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6949.MP4" length="785398" type="video/mp4"/>
-      <pubDate>Sat, 24 May 2025 23:30:27 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Київ, момент удару «шахеда»</title>
@@ -54,6 +47,13 @@
       <description>⚡️Повідомляють про 8 загиблих і понад 30 постраждалих внаслідок нічного масованого удару рф по Україні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-25_04-09-23.mp4" length="19721192" type="video/mp4"/>
       <pubDate>Sun, 25 May 2025 04:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️На Київщині через російську </title>
+      <link>https://www.mandarinai.lt/post/74621</link>
+      <description>⚡️На Київщині через російську атаку загинуло три людини, — начальник КОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_04-21-36.jpg" length="205631" type="image/jpeg"/>
+      <pubDate>Sun, 25 May 2025 04:21:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
