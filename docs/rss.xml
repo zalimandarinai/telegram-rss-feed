@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 20:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 21:07:39 +0000</lastBuildDate>
     <item>
       <title>🐷Мєдвєдєв та його делірій нама</title>
       <link>https://www.mandarinai.lt/post/74664</link>
@@ -80,6 +80,13 @@
 ℹ️ Конгресмен Дональд Джон Бейкон американський бригадний генерал ВПС США у відставці, з 2017-го року представляє у Палаті представників США 2-й виборчий округ штату Небраска.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_19-16-21.jpg" length="66902" type="image/jpeg"/>
       <pubDate>Sun, 25 May 2025 19:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Татарстан, Єлабуга  де виробл</title>
+      <link>https://www.mandarinai.lt/post/74677</link>
+      <description>💥Татарстан, Єлабуга  де виробляють "шахеди" атакують дрони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-25_20-45-16.mp4" length="412030" type="video/mp4"/>
+      <pubDate>Sun, 25 May 2025 20:45:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
