@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 07:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 08:10:52 +0000</lastBuildDate>
     <item>
       <title>❗️ Київ, момент удару «шахеда»</title>
       <link>https://www.mandarinai.lt/post/74615</link>
@@ -55,6 +55,31 @@
       <description>Загинули троє дітей на Житомирщині внаслідок атаки російських вбивць, ще 12 людей отримали поранення — ДСНС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_05-21-14.jpg" length="129896" type="image/jpeg"/>
       <pubDate>Sun, 25 May 2025 05:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>У селі Мархалівка поблизу Києв</title>
+      <link>https://www.mandarinai.lt/post/74626</link>
+      <description>У селі Мархалівка поблизу Києва внаслідок нічної атаки зруйновано частину вулиці — житлові будинки перетворилися на згарище
+
+Bідомо щонайменше про одного загиблого.
+
+Село Мархалівка на початку війни було також зруйновано російською ракетною атакою.</description>
+      <pubDate>Sun, 25 May 2025 07:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Воїни ГУР розтрощили військови</title>
+      <link>https://www.mandarinai.lt/post/74628</link>
+      <description>Воїни ГУР розтрощили військовий потяг з пальним для окупантів
+
+Видовищні кадри бойової операції на тимчасово окупованій території Запорізької області ― 24 травня 2025 року майстри ударних БпЛА підрозділів активних дій ГУР МО України вистежили та вполювали поїзд російських загарбників з пальним.
+
+Прицільних ударів по об’єкту окупаційної логістики прямо під час руху  завдали на залізничній ділянці Верхній Токмак-Молочанськ-Федорівка.
+
+Щонайменше три цистерни з пальним знищено. 
+
+Залізничне  постачання російських окупаційних сил на тимчасово поневолених територіях Запорізької області та Криму ― порушене.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6961.MP4" length="11918443" type="video/mp4"/>
+      <pubDate>Sun, 25 May 2025 07:53:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
