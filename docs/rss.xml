@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 14:07:14 +0000</lastBuildDate>
-    <item>
-      <title>Нічна атака БПЛА по російській</title>
-      <link>https://www.mandarinai.lt/post/74640</link>
-      <description>Нічна атака БПЛА по російській базі Мігалове.
-
-Вона є місцем базування парку літаків Антонов Ан-22, що залишився в росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_10-25-31.jpg" length="156101" type="image/jpeg"/>
-      <pubDate>Sun, 25 May 2025 10:25:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 May 2025 15:07:45 +0000</lastBuildDate>
     <item>
       <title>Вбиті російськими терористами </title>
       <link>https://www.mandarinai.lt/post/74646</link>
@@ -69,11 +60,29 @@
       <pubDate>Sun, 25 May 2025 12:56:26 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ Момент прильоту російського</title>
+      <title>🤬Момент прильоту російського «</title>
       <link>https://www.mandarinai.lt/post/74655</link>
-      <description>❗️ Момент прильоту російського «Іскандера» по цивільній забудові Чернігова</description>
+      <description>🤬Момент прильоту російського «Іскандера» по цивільній забудові Чернігова</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6972.MP4" length="1122113" type="video/mp4"/>
       <pubDate>Sun, 25 May 2025 13:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Кожен раз замість моїх побрат</title>
+      <link>https://www.mandarinai.lt/post/74657</link>
+      <description>«Кожен раз замість моїх побратимів я знаходжу серед обміняних обличчя зрадників та дезертирів».
+
+Геннадій Харченко, артилерист, ветеран «Азова», який більше двох років провів в Оленівці, вважає, що росія на обмін віддає, серед героїчних полонених патріотів, також зрадників та тих, хто співпрацював з окупантами.
+
+Думка «азовця» за посиланням.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_14-28-43.jpg" length="78865" type="image/jpeg"/>
+      <pubDate>Sun, 25 May 2025 14:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>♥️ "Просила Бога, щоб він тіль</title>
+      <link>https://www.mandarinai.lt/post/74659</link>
+      <description>♥️ "Просила Бога, щоб він тільки витримав": дружина та донька вперше обіймають тата Руслана, який повернувся з російського полону</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-25_14-40-37.mp4" length="12504762" type="video/mp4"/>
+      <pubDate>Sun, 25 May 2025 14:40:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
