@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 19:07:17 +0000</lastBuildDate>
-    <item>
-      <title>Зеленський відвідає Берлін вже</title>
-      <link>https://www.mandarinai.lt/post/74718</link>
-      <description>Зеленський відвідає Берлін вже у цю середу, — Spiegel 
-
-Він разом з канцлером Німеччини мають обговорити можливі кроки для подальших переговорів між Україною та рф
-
-Також Мерц поінформує президента про плани щодо нового пакета санкцій ЄС проти рф. У Берліні Зеленський також зустрінеться з президентом країни Штайнмаєром.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-26_12-31-22.jpg" length="90507" type="image/jpeg"/>
-      <pubDate>Mon, 26 May 2025 12:31:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Розвідгрупи з ударною компонен</title>
-      <link>https://www.mandarinai.lt/post/74719</link>
-      <description>Розвідгрупи з ударною компонентою прикордонної бригади «Гарт» уразили транспорт, дві гармати та точки запуску дронів окупантів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7002.MP4" length="16759776" type="video/mp4"/>
-      <pubDate>Mon, 26 May 2025 12:53:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 May 2025 20:09:47 +0000</lastBuildDate>
     <item>
       <title>❗️Трамп нарешті зрозумів, що п</title>
       <link>https://www.mandarinai.lt/post/74720</link>
@@ -117,6 +99,13 @@
 Офіційно про пакети допомоги говорять менше, але за лаштунками готуються до співпраці з українським ОПК у сфері далекобійного озброєння.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-26_18-58-54.jpg" length="39064" type="image/jpeg"/>
       <pubDate>Mon, 26 May 2025 18:58:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Оптоволоконний-FPV залетів на</title>
+      <link>https://www.mandarinai.lt/post/74734</link>
+      <description>💥Оптоволоконний-FPV залетів на 42км (!) та вразив танк в ангарі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-26_19-57-02.mp4" length="4844174" type="video/mp4"/>
+      <pubDate>Mon, 26 May 2025 19:57:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
