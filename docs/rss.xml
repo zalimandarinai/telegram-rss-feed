@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 18:11:50 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Британія, США  і Франція зня</title>
-      <link>https://www.mandarinai.lt/post/74717</link>
-      <description>⚡️Британія, США  і Франція зняли обмеження і дозволили бити вглиб рф далекобійною зброєю, - канцлер Фрідріх Мерц про перспективу поставок Taurus в Україну
-
-Очікують, що Німеччина передасть Україні від 100 до 150 крилатих ракет Taurus, - Clash
-
-Це німецький аналог британських Storm Shadow та французьких SCALP-EG, але більш потужній і технологічний. Якщо передадуть, то це буде найбільш далекобійна ракетна зброя в українській армії, яка битиме на понад 500 км, і теоретично може долетіти до Москви. 
-
-В України зараз є: 
-• Storm Shadow – дальність у 250 км;
-• Український "Нептун" - дальність 280 км;
-• ATACMS – дальність 300 км;
-• Покращений наземний варіант ракети «Нептун» - дальність до 400 км</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-26_12-14-17.jpg" length="124646" type="image/jpeg"/>
-      <pubDate>Mon, 26 May 2025 12:14:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 May 2025 19:07:17 +0000</lastBuildDate>
     <item>
       <title>Зеленський відвідає Берлін вже</title>
       <link>https://www.mandarinai.lt/post/74718</link>
@@ -125,6 +108,15 @@
 
 На відео – знищення ворожої техніки 31-ою ОМБР.</description>
       <pubDate>Mon, 26 May 2025 17:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Німеччина може підтримати в</title>
+      <link>https://www.mandarinai.lt/post/74732</link>
+      <description>⚡️ Німеччина може підтримати виробництво далекобійної зброї в Україні — Spiegel
+
+Офіційно про пакети допомоги говорять менше, але за лаштунками готуються до співпраці з українським ОПК у сфері далекобійного озброєння.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-26_18-58-54.jpg" length="39064" type="image/jpeg"/>
+      <pubDate>Mon, 26 May 2025 18:58:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
