@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 17:07:42 +0000</lastBuildDate>
-    <item>
-      <title>Повітряні атаки підрозділу ДПС</title>
-      <link>https://www.mandarinai.lt/post/74715</link>
-      <description>Повітряні атаки підрозділу ДПСУ «Шквал» по російській техніці на Луганщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6992.MP4" length="17990863" type="video/mp4"/>
-      <pubDate>Mon, 26 May 2025 12:03:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Війна роботів в повітрі, украї</title>
-      <link>https://www.mandarinai.lt/post/74716</link>
-      <description>Війна роботів в повітрі, український FPV-дрон збиває російський безпілотник</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6993.MP4" length="7773886" type="video/mp4"/>
-      <pubDate>Mon, 26 May 2025 12:07:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 May 2025 18:11:50 +0000</lastBuildDate>
     <item>
       <title>⚡️Британія, США  і Франція зня</title>
       <link>https://www.mandarinai.lt/post/74717</link>
@@ -115,6 +101,30 @@
 
 Бо інакше пояснити, чому вони лізуть, неможливо.</description>
       <pubDate>Mon, 26 May 2025 16:42:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>23-24 травня ворог вкотре здій</title>
+      <link>https://www.mandarinai.lt/post/74730</link>
+      <description>23-24 травня ворог вкотре здійснив спроби штурму позицій у зоні бойової відповідальності 31-ї ОМБР, застосовуючи комбіновану бронетехніку, колісну вантажну техніку й піхоту. 
+
+Перші спроби штурму наших позицій противник, застосувавши димову завісу, здійснив ввечері 23 травня з напрямку Старомайорськ–Рівнопіль–Зелене Поле. 
+
+Вся техніка – п’ять ББМ – була виявлена на дальніх підступах до наших передових позицій та ліквідована. 
+
+Окупанти, вочевидь сприйнявши свою поразку як випадковість, наступного дня тим самим маршрутом посунули в напрямку українських позицій. 
+
+Але цього разу вантажною колісною технікою, обвареною решітками. 
+
+Техніку бійці 31 ОМБр також виявили й знищили.
+
+Ввечері того ж дня ворог вирішив вдатися до хитрощів. 
+
+Застосувавши димову завісу на одному напрямку, рушив до наших позицій з іншого – Нескучне–Рівнопіль–Зелене Поле.
+
+Та вся техніка бронетехніка й колісна вантажна – знов була виявлена на дальніх рубежах і знищена. 
+
+На відео – знищення ворожої техніки 31-ою ОМБР.</description>
+      <pubDate>Mon, 26 May 2025 17:18:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
