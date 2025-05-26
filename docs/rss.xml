@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 06:14:13 +0000</lastBuildDate>
-    <item>
-      <title>💥Приліт по заводу в Тулі</title>
-      <link>https://www.mandarinai.lt/post/74678</link>
-      <description>💥Приліт по заводу в Тулі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-25_21-30-15.jpg" length="23974" type="image/jpeg"/>
-      <pubDate>Sun, 25 May 2025 21:30:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 May 2025 07:12:06 +0000</lastBuildDate>
     <item>
       <title>⚡️ путін абсолютно збожеволів,</title>
       <link>https://www.mandarinai.lt/post/74686</link>
@@ -65,6 +58,17 @@
 У селі Кіндратівка на Сумщині загинув чоловік, ще один — поранений.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-26_05-51-56.jpg" length="167366" type="image/jpeg"/>
       <pubDate>Mon, 26 May 2025 05:51:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️У ЗСУ закінчились ракети до </title>
+      <link>https://www.mandarinai.lt/post/74693</link>
+      <description>‼️У ЗСУ закінчились ракети до SAMP-T — Le Monde
+
+▪️ Україна залишилася без боєприпасів для зенітних батарей SAMP-T — стратегічно важливої системи ППО.
+▪️ Також уже пів року не надходили ракети до французьких ЗРК Crotale.
+▪️ За словами одного з офіцерів, південь України нині практично не прикритий — засобів протиповітряної оборони там немає.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-26_07-05-02.jpg" length="187083" type="image/jpeg"/>
+      <pubDate>Mon, 26 May 2025 07:05:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
