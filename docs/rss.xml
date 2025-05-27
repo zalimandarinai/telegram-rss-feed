@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 11:08:05 +0000</lastBuildDate>
-    <item>
-      <title>Вночі росіяни випустили 60 дро</title>
-      <link>https://www.mandarinai.lt/post/74745</link>
-      <description>Вночі росіяни випустили 60 дронів. Є влучання у 9 локаціях
-
-Сили ППО знешкодили 43 «шахеди» та безпілотники інших типів. 
-
-35 збито вогневими засобами ураження, 8 «локаційно втрачені», тобто, подавлені засобами РЕБ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-27_06-33-08.jpg" length="90338" type="image/jpeg"/>
-      <pubDate>Tue, 27 May 2025 06:33:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Нову тактику росіян по засто</title>
-      <link>https://www.mandarinai.lt/post/74748</link>
-      <description>❗️Нову тактику росіян по застосуванню БПЛА пояснив Юрій Ігнат
-
-Тактика росіян зараз зводиться до того, що вони постійно змінюють маршрути БПЛА і намагаються пускати їх на великих висотах – понад 2 кілометри від землі і далі пікірують вниз безпосередньо на сам об'єкт. На такій висоті вони стають більш видними для наших радарів, але недосяжними для стрілецької зброї, крупнокаліберних кулеметів і мобільних вогневих груп
-
-Інша тенденція, за його словами – росіяни влаштовують групові нальоти дронів одночасно на один населений пункт чи об'єкт, як це, наприклад, було в ніч на понеділок у Старокостянтинові Хмельницької області. Саме туди був спрямований основний акцент їхньої атаки, додав Ігнат.
-
- Крім того, росіяни разом з ударними БПЛА типу "шахед" / "герань" запускають значну частку дронів-імітаторів без боєзаряду – "Пародія". Це, за задумом ворога, має посилити навантаження на нашу ППО. Під час останніх атак, за словами Ігната, пропорція між ударними БПЛА та хибними дронами "Пародіями" складала приблизно 60 на 40: 60% – справжніх, 40% хибних</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-27_06-37-58.jpg" length="50067" type="image/jpeg"/>
-      <pubDate>Tue, 27 May 2025 06:37:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 May 2025 12:17:03 +0000</lastBuildDate>
     <item>
       <title>⚡️Генсек НАТО Рютте нервує щод</title>
       <link>https://www.mandarinai.lt/post/74749</link>
@@ -117,6 +93,28 @@
 Після виконання завдань агент сподівався виїхати до ТОТ на Донеччині, де він планував вступити до окупаційних угруповань рф та воювати проти України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-27_10-20-14.jpg" length="146682" type="image/jpeg"/>
       <pubDate>Tue, 27 May 2025 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>російські майстри продовжують </title>
+      <link>https://www.mandarinai.lt/post/74760</link>
+      <description>російські майстри продовжують спроби ліпити з танків кустарні бойові машини піхоти, щоб висадити штурмовиків якомога ближче до українських позицій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7031.MP4" length="19192704" type="video/mp4"/>
+      <pubDate>Tue, 27 May 2025 11:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Велика Британія спрямує $3 млр</title>
+      <link>https://www.mandarinai.lt/post/74762</link>
+      <description>Велика Британія спрямує $3 млрд. від прибутків із заморожених російських активів на озброєння та ремонт техніки для України, — Міноборони.
+
+Кошти надходитимуть протягом 2025-2026 років.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-27_11-13-06.jpg" length="49940" type="image/jpeg"/>
+      <pubDate>Tue, 27 May 2025 11:13:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>В районі Вовчанська 34-ий бата</title>
+      <link>https://www.mandarinai.lt/post/74763</link>
+      <description>В районі Вовчанська 34-ий батальйон «Вовкодави» 57-ї ОМПБр знайшов, локалізував і ліквідував малу штурмову групу росіян, яка намагалася закріпитися серед руїн міста.</description>
+      <pubDate>Tue, 27 May 2025 11:37:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
