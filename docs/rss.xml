@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 05:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 06:13:17 +0000</lastBuildDate>
     <item>
       <title>Новий полонений з найскладнішо</title>
       <link>https://www.mandarinai.lt/post/74729</link>
@@ -94,6 +94,15 @@
       <description>💥Воронезька і Брянська область рф: вночі та зранку  літало і вибухало</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-27_04-30-48.mp4" length="889417" type="video/mp4"/>
       <pubDate>Tue, 27 May 2025 04:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У Володимирській області атак</title>
+      <link>https://www.mandarinai.lt/post/74743</link>
+      <description>💥У Володимирській області атакований Муромський приладобудівний завод.
+
+Результат атаки поки що не відомий, чекаємо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-27_05-33-21.mp4" length="3090911" type="video/mp4"/>
+      <pubDate>Tue, 27 May 2025 05:33:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
