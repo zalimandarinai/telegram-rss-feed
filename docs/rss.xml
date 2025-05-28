@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 18:11:39 +0000</lastBuildDate>
-    <item>
-      <title>❤️🤖 У Telegram інтегрують ШІ ч</title>
-      <link>https://www.mandarinai.lt/post/74821</link>
-      <description>❤️🤖 У Telegram інтегрують ШІ чат-бот Grok — xAI Ілона Маска і Telegram уклали партнерство на рік
-
-Починаючи з літа користувачі месенджера отримають доступ до чат-бота, який буде інтегрований в усі додатки Telegram:
-
-▪️Нейромережа зможе модерувати чати.
-▪️Grok зможе перевіряти достовірність інформації в каналах.
-▪️Запитання ШІ можна буде ставити прямо в пошуку.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-28_14-30-33.mp4" length="2820225" type="video/mp4"/>
-      <pubDate>Wed, 28 May 2025 14:30:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 May 2025 19:07:25 +0000</lastBuildDate>
     <item>
       <title>⚡Дочекалися!  Хлопці зробили к</title>
       <link>https://www.mandarinai.lt/post/74824</link>
@@ -113,6 +100,12 @@
 Тобто, Трамп вже розуміє, що його пошили в дурні, але ще на два тижні відтягує неприємний момент визнання.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7101.MP4" length="21583802" type="video/mp4"/>
       <pubDate>Wed, 28 May 2025 17:49:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полк «СКАЛА» жорстко штурманув</title>
+      <link>https://www.mandarinai.lt/post/74835</link>
+      <description>Полк «СКАЛА» жорстко штурманув позиції окупантів, закидавши бліндажі гранатами.</description>
+      <pubDate>Wed, 28 May 2025 18:14:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
