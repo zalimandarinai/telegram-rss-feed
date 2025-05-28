@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 16:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 17:08:43 +0000</lastBuildDate>
     <item>
       <title>Німеччина погодила нову військ</title>
       <link>https://www.mandarinai.lt/post/74818</link>
@@ -90,6 +90,25 @@
       <description>Українська авіація розбирає ворожий командний пункт в тимчасово окупованому Бахмуті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7089.MP4" length="9085905" type="video/mp4"/>
       <pubDate>Wed, 28 May 2025 15:53:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Журналісти-розслідувачі отрима</title>
+      <link>https://www.mandarinai.lt/post/74831</link>
+      <description>Журналісти-розслідувачі отримали супутникові знімки та секретні документи, які показують масштабну модернізацію шахт для ядерної зброї в Оренбурзькій області,  — Danwatch та Der Spiegel
+
+▫️ Йдеться про пускові установки в районі міста Ясний неподалік від кордону з Казахстаном. Завдяки отриманим документам, було виявлено сотні креслень бази 621-го ракетного полку.
+
+▫️ Також комплексна модернізація відбувається на базі 368-го ракетного полку. Обидва ці підрозділи мають на озброєнні стратегічні ядерні комплекси «Авангард».
+
+▫️ Дивно, що плани будівель були опубліковані військовими підрядниками в загальнодоступній базі тендерів.
+
+▫️ Документи містять інформацію про постачання на об'єкти великої кількості будівельних матеріалів.
+
+▫️ Деякі з отриманих документів описують встановлені камери відеоспостереження.
+
+▫️ Для будівництва об'єктів використовують продукцію західних компаній, часто застосовується продукція німецької компанії Knauf. І компанії ніде не тисне від того, що росіяни знищили їхній завод в Соледарі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7097.MP4" length="7145019" type="video/mp4"/>
+      <pubDate>Wed, 28 May 2025 16:39:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
