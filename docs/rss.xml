@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 23:08:46 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Шостий  за сьогодні рейс Іл-</title>
-      <link>https://www.mandarinai.lt/post/74827</link>
-      <description>⚡️Шостий  за сьогодні рейс Іл-76 з крилатими ракетами на борту здійснив посадку на ае Енгельс 
-
-Отже, на аеродромі базування бомбардувальників Ту-95МС кількість ракет Х-101/55СМ стрімко зростає, що свідчить про підготовку до масованого удару.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-28_15-24-02.jpg" length="75541" type="image/jpeg"/>
-      <pubDate>Wed, 28 May 2025 15:24:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російський солдат знущається з</title>
-      <link>https://www.mandarinai.lt/post/74828</link>
-      <description>Російський солдат знущається з військовослужбовців 132-ї окремої мотострілецької бригади ЗС РФ в/ч 52892, які нібито відмовились виконувати бойове завдання. 
-
-Їхня провина в тому, що вони не хочуть йти в «м'ясний штурм».
-
-Один з них практично одразу зламався, другий намагався триматися, але його залякали розстрілом і теж зламали через страх.
-
-І це відео не просто свідчення того, що путінська армія стала полігоном нечуваного садизму та знущань.
-
-Це росія в мініатюрі, і якщо Україна програє, її народ отримає приблизно те ж саме, масштабоване на багатомільйонне населення.</description>
-      <pubDate>Wed, 28 May 2025 15:37:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 May 2025 00:44:12 +0000</lastBuildDate>
     <item>
       <title>Українська авіація розбирає во</title>
       <link>https://www.mandarinai.lt/post/74829</link>
@@ -96,6 +73,13 @@
 «Ми не проти зустрічей з росіянами і очікуємо їхній «меморандум», щоб зустріч була не пустою та могла реально наблизити завершення війни», — резюмував Умєров.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-28_19-25-43.jpg" length="102279" type="image/jpeg"/>
       <pubDate>Wed, 28 May 2025 19:25:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Санкт-Петербурзі пожежа на</title>
+      <link>https://www.mandarinai.lt/post/74840</link>
+      <description>⚡️У Санкт-Петербурзі пожежа на заводі "Авангард" — стратегічному підприємстві рф, яке займається виробництвом мікросхем, радіоелектроніки та приладів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-28_23-31-43.mp4" length="1118126" type="video/mp4"/>
+      <pubDate>Wed, 28 May 2025 23:31:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
