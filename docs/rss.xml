@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 13:22:55 +0000</lastBuildDate>
-    <item>
-      <title>🤬Терористи рф скинули пʼять КА</title>
-      <link>https://www.mandarinai.lt/post/74853</link>
-      <description>🤬Терористи рф скинули пʼять КАБів на приватні будинки у Пологівському районі на Запоріжжі. Наразі відомо про одного загиблого і двох поранених людей.
-
-Авіабомбами зруйновані та пошкоджені понад 20 осель. Під завалами можуть знаходитись люди, - повідомили в ОВА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-29_08-49-18.jpg" length="211184" type="image/jpeg"/>
-      <pubDate>Thu, 29 May 2025 08:49:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Наслідки прильоту по розташув</title>
-      <link>https://www.mandarinai.lt/post/74854</link>
-      <description>💥Наслідки прильоту по розташуванню окупантів в Коренево.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-29_08-57-02.mp4" length="1400067" type="video/mp4"/>
-      <pubDate>Thu, 29 May 2025 08:57:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 May 2025 14:09:07 +0000</lastBuildDate>
     <item>
       <title>Зенітники 63-ої бригади виявил</title>
       <link>https://www.mandarinai.lt/post/74856</link>
@@ -141,6 +125,31 @@
 Переможемо тільки разом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7123.MP4" length="2764784" type="video/mp4"/>
       <pubDate>Thu, 29 May 2025 13:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Працівник ТЦК був важко поране</title>
+      <link>https://www.mandarinai.lt/post/74867</link>
+      <description>Працівник ТЦК був важко поранений внаслідок вибуху невідомого пристрою, не виключений теракт, — так повідомив Харківський ТЦК</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-29_13-25-34.jpg" length="118069" type="image/jpeg"/>
+      <pubDate>Thu, 29 May 2025 13:25:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Китай припинив постачання дрон</title>
+      <link>https://www.mandarinai.lt/post/74868</link>
+      <description>Китай припинив постачання дронів до України та Європи, але продовжує експортувати їх до рф, - Bloomberg цитує Зеленського
+
+💬 «Китайський [дрон] «Mavic» відкритий для росіян, але закритий для українців. 
+
+На території росії працюють виробничі лінії, на яких присутні китайські представники», - так завив Зеленський.л</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-29_13-45-46.jpg" length="39938" type="image/jpeg"/>
+      <pubDate>Thu, 29 May 2025 13:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський блогер і кримський </title>
+      <link>https://www.mandarinai.lt/post/74869</link>
+      <description>Російський блогер і кримський зрадник Борис Рожин почав розганяти «зраду» про те, що Сербія нібито постачає боєприпаси Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-29_13-59-21.jpg" length="68825" type="image/jpeg"/>
+      <pubDate>Thu, 29 May 2025 13:59:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
