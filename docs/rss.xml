@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 16:10:39 +0000</lastBuildDate>
-    <item>
-      <title>❗️ «рф поки що не отримала від</title>
-      <link>https://www.mandarinai.lt/post/74864</link>
-      <description>❗️ «рф поки що не отримала відповіді України на пропозицію провести переговори у Стамбулі 2 червня- пєсков
-
-Тим часом глава українського МЗС Андрій Сибіга запропонував Кремлю не чекати на понеділок, а показати свій варіант меморандуму про припинення вогню прямо зараз.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-29_12-55-09.jpg" length="35098" type="image/jpeg"/>
-      <pubDate>Thu, 29 May 2025 12:55:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Наступ рф на Сумщині посилює</title>
-      <link>https://www.mandarinai.lt/post/74865</link>
-      <description>❗️Наступ рф на Сумщині посилюється: окупанти просунулися біля Новосілки, Водолагів, у Локні та Біловодах, — DeepState
-
-Сіра зона наближається до Юнаківки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-29_13-09-20.mp4" length="209299" type="video/mp4"/>
-      <pubDate>Thu, 29 May 2025 13:09:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 May 2025 17:08:26 +0000</lastBuildDate>
     <item>
       <title>Хлопці з 47-ої бригади, які зн</title>
       <link>https://www.mandarinai.lt/post/74866</link>
@@ -106,7 +88,7 @@
     <item>
       <title>Полонений з південного напрямк</title>
       <link>https://www.mandarinai.lt/post/74875</link>
-      <description>Полонений з південного напрямку. Нацистська татуха у вигляді свастики зі словом «русь». В принципі, не так вже й абсурдно, бо це і є візуалізація того, що собою являє сучасна російська федерація.</description>
+      <description>Полонений з південного напрямку. Нацистська татуха у вигляді свастики зі словом «русь». Власне це і є візуалізація того, що собою являє сучасна російська федерація.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7130.MP4" length="4481036" type="video/mp4"/>
       <pubDate>Thu, 29 May 2025 15:54:57 +0000</pubDate>
     </item>
@@ -116,6 +98,13 @@
       <description>Український МіГ-29 атакує окупантів, які засіли в укріпленнях на південному фронті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7131.MP4" length="20899622" type="video/mp4"/>
       <pubDate>Thu, 29 May 2025 16:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Станом на 26 травня 2025 на ае</title>
+      <link>https://www.mandarinai.lt/post/74877</link>
+      <description>Станом на 26 травня 2025 на аеродромі «Оленья» в Мурманській області було одночасно зосереджено 40 бомбардувальників Ту-22М3, та 11 бомбардувальників Ту-95МС або 20% від загального парку таких літаків, а також 5 транспортних літаків Ан-12, - Defense Express</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-29_16-25-18.jpg" length="149938" type="image/jpeg"/>
+      <pubDate>Thu, 29 May 2025 16:25:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
