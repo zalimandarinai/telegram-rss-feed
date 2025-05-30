@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 16:10:51 +0000</lastBuildDate>
-    <item>
-      <title>росіяни з танків намагалися ат</title>
-      <link>https://www.mandarinai.lt/post/74918</link>
-      <description>росіяни з танків намагалися атакувати авто херсонського волонтера під час евакуації цивільних</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7162.MP4" length="19314145" type="video/mp4"/>
-      <pubDate>Fri, 30 May 2025 10:40:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 17:07:54 +0000</lastBuildDate>
     <item>
       <title>Знову ціль - аеродроми Хмельни</title>
       <link>https://www.mandarinai.lt/post/74919</link>
@@ -120,6 +113,17 @@
       <description>Російський окупант дельфінчиком стрибає прямо в землю, намагаючись уникнути зустрічі з дроном, - «PERUN GROUP» 79-ї ОДШБР.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7179.MP4" length="4398059" type="video/mp4"/>
       <pubDate>Fri, 30 May 2025 14:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кадри випробувань ворожого реа</title>
+      <link>https://www.mandarinai.lt/post/74932</link>
+      <description>Кадри випробувань ворожого реактивного безпілотника «Дань-М»
+
+Це 345-кілограмова модифікація імітатора цілей «Дань» з покращеною електронікою та потужнішим двигуном, яка може розганятись до 710 км/год на висоті до 9000 м.
+
+Саме такий безпілотник сьогодні, ймовірно, збив ЗРК воєнних розвідників.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7181.MP4" length="8852011" type="video/mp4"/>
+      <pubDate>Fri, 30 May 2025 16:38:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
