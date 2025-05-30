@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 17:07:54 +0000</lastBuildDate>
-    <item>
-      <title>Знову ціль - аеродроми Хмельни</title>
-      <link>https://www.mandarinai.lt/post/74919</link>
-      <description>Знову ціль - аеродроми Хмельниччини.
-
-СБУ затримала агента фсб, який наводив російські ракети на аеродроми ЗСУ
-
-За результатами спецоперації на Хмельниччині СБУ затримала агента фсб, який збирав розвіддані для вогневого ураження аеродромів ЗСУ на заході України.
-
-Зловмисником виявився 53-річний місцевий безробітний, який потрапив у поле зору окупантів як прокремлівський «коментатор» на Телеграм-каналах.
-
-Основним завданням агента було виявлення злітно-посадкових смуг ЗСУ у західних областях України та відстеження «графіка» бойових вильотів на аеродромах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-30_10-55-08.jpg" length="111887" type="image/jpeg"/>
-      <pubDate>Fri, 30 May 2025 10:55:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Маємо шанс повернути всі окупо</title>
-      <link>https://www.mandarinai.lt/post/74920</link>
-      <description>Маємо шанс повернути всі окуповані території, поки зберігаємо контроль над півднем і морем, — Роман Костенко на Black Sea Security Forum</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7165.MP4" length="8104766" type="video/mp4"/>
-      <pubDate>Fri, 30 May 2025 10:57:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 18:12:21 +0000</lastBuildDate>
     <item>
       <title>На сербському заводі з виробни</title>
       <link>https://www.mandarinai.lt/post/74921</link>
@@ -124,6 +102,23 @@
 Саме такий безпілотник сьогодні, ймовірно, збив ЗРК воєнних розвідників.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7181.MP4" length="8852011" type="video/mp4"/>
       <pubDate>Fri, 30 May 2025 16:38:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-я штурмова викурює дронами о</title>
+      <link>https://www.mandarinai.lt/post/74933</link>
+      <description>3-я штурмова викурює дронами окупантів з труби і палить «Солнцепьок» ворога.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7182.MP4" length="27476173" type="video/mp4"/>
+      <pubDate>Fri, 30 May 2025 17:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Батальйон безпілотних систем 6</title>
+      <link>https://www.mandarinai.lt/post/74934</link>
+      <description>Батальйон безпілотних систем 65-ї ОМБр завдав удари по російській бронетехніці в глибокому тилу окупантів.
+
+Кадри роботи підрозділу «Роніни» на окупованій частині Запорізької області.
+
+Безпілотники 65-ої механізованої бригади уразили п’ять російських БТР-82, які окупанти розмістили на відкритій місцевості.</description>
+      <pubDate>Fri, 30 May 2025 18:05:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
