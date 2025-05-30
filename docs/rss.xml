@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 20:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 21:07:37 +0000</lastBuildDate>
     <item>
       <title>Збиття російського реактивного</title>
       <link>https://www.mandarinai.lt/post/74925</link>
@@ -104,6 +104,13 @@
       <description>⚡️До Києва прибули американські сенатори Ліндсі Грем та Річард Блюменталь — автори ініціативи про «пекельні санкції» проти рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-30_19-42-40.mp4" length="2294883" type="video/mp4"/>
       <pubDate>Fri, 30 May 2025 19:42:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Курщіні в місті Рильск прил</title>
+      <link>https://www.mandarinai.lt/post/74937</link>
+      <description>На Курщіні в місті Рильск приліт по готелю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7205.MP4" length="5025447" type="video/mp4"/>
+      <pubDate>Fri, 30 May 2025 20:46:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
