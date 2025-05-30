@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 14:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 15:08:54 +0000</lastBuildDate>
     <item>
       <title>росія намагається вчергове про</title>
       <link>https://www.mandarinai.lt/post/74917</link>
@@ -115,9 +115,9 @@
       <pubDate>Fri, 30 May 2025 12:23:51 +0000</pubDate>
     </item>
     <item>
-      <title>❗️Путін прагне відновити рф як</title>
+      <title>❗️путін прагне відновити рф як</title>
       <link>https://www.mandarinai.lt/post/74928</link>
-      <description>❗️Путін прагне відновити рф як велику імперію і тому буде продовжувати спроби підпорядкувати колишні радянські республіки, а також розвалювати НАТО, — Bloomberg
+      <description>❗️путін прагне відновити рф як велику імперію і тому буде продовжувати спроби підпорядкувати колишні радянські республіки, а також розвалювати НАТО, — Bloomberg
 
 Щоб зруйнувати НАТО, немає потреби вводити війська до Польщі. 
 
@@ -128,6 +128,13 @@
 В такому разі, наприклад, хаотична атака на Естонію без окупації або закріплення могла б цю довіру зламати — путін на таке здатен.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-30_13-50-52.jpg" length="76730" type="image/jpeg"/>
       <pubDate>Fri, 30 May 2025 13:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський окупант дельфінчико</title>
+      <link>https://www.mandarinai.lt/post/74930</link>
+      <description>Російський окупант дельфінчиком стрибає прямо в землю, намагаючись уникнути зустрічі з дроном, - «PERUN GROUP» 79-ї ОДШБР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7179.MP4" length="4398059" type="video/mp4"/>
+      <pubDate>Fri, 30 May 2025 14:39:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
