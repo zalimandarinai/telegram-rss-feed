@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 09:09:35 +0000</lastBuildDate>
-    <item>
-      <title>🤡 Жодні нові санкції, постачан</title>
-      <link>https://www.mandarinai.lt/post/74901</link>
-      <description>🤡 Жодні нові санкції, постачання зброї Україні чи інші ворожі до росії дії не зможуть завадити неминучій військовій поразці «‎режиму Зеленського», —  Небензя
-
-До того часу, поки в Києві намагатимуться затягнути війну і провокувати росію, завдаючи ударів по цивільній інфраструктурі на нашій території, ми продовжуватимемо «спеціальну військову операцію»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-30_05-01-10.mp4" length="2076124" type="video/mp4"/>
-      <pubDate>Fri, 30 May 2025 05:01:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 10:09:30 +0000</lastBuildDate>
     <item>
       <title>‼️США готові обговорити з путі</title>
       <link>https://www.mandarinai.lt/post/74902</link>
@@ -108,6 +99,13 @@
 
 Окупанти лише витратили свій боєкомплект на дрон і пішки вирушили по відкритій степовій дорозі на свою позицію десь в Запорізькій області.</description>
       <pubDate>Fri, 30 May 2025 08:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Весела ніч була у Курську</title>
+      <link>https://www.mandarinai.lt/post/74913</link>
+      <description>💥Весела ніч була у Курську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-30_09-28-58.mp4" length="594136" type="video/mp4"/>
+      <pubDate>Fri, 30 May 2025 09:28:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
