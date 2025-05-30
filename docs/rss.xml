@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 19:07:06 +0000</lastBuildDate>
-    <item>
-      <title>На сербському заводі з виробни</title>
-      <link>https://www.mandarinai.lt/post/74921</link>
-      <description>На сербському заводі з виробництва боєприпасів Krušik відбувся вибух. 
-
-Вчора росія звинуватила його у постачанні зброї до України.
-
-Вранці о 7:40 відбулася ініціація вибухової суміші, внаслідок чого один працівник отримав поранення, а четверо працівників контузії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-30_11-38-11.jpg" length="26202" type="image/jpeg"/>
-      <pubDate>Fri, 30 May 2025 11:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перша партія вітчизняних броне</title>
-      <link>https://www.mandarinai.lt/post/74922</link>
-      <description>Перша партія вітчизняних бронеавтомобілів UAT-TISA передана українським Силам оборони.
-
-Автомобіль створено на базі посиленого шасі TOYOTA LC79, бронемашина призначена для транспортування 4 людей, зокрема 2 членів екіпажу, а також вантажу масою до 1000 кг.
-
-Наскільки ефективною є бронемашина, може показати лише її використання в реальних умовах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-30_11-53-01.jpg" length="61404" type="image/jpeg"/>
-      <pubDate>Fri, 30 May 2025 11:53:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 20:10:00 +0000</lastBuildDate>
     <item>
       <title>Збиття російського реактивного</title>
       <link>https://www.mandarinai.lt/post/74925</link>
@@ -119,6 +97,13 @@
 
 Безпілотники 65-ої механізованої бригади уразили п’ять російських БТР-82, які окупанти розмістили на відкритій місцевості.</description>
       <pubDate>Fri, 30 May 2025 18:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️До Києва прибули американськ</title>
+      <link>https://www.mandarinai.lt/post/74936</link>
+      <description>⚡️До Києва прибули американські сенатори Ліндсі Грем та Річард Блюменталь — автори ініціативи про «пекельні санкції» проти рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-30_19-42-40.mp4" length="2294883" type="video/mp4"/>
+      <pubDate>Fri, 30 May 2025 19:42:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
