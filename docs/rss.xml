@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 May 2025 13:19:33 +0000</lastBuildDate>
-    <item>
-      <title>В Сумській області ворог завда</title>
-      <link>https://www.mandarinai.lt/post/74948</link>
-      <description>В Сумській області ворог завдає ударів по цивільних з метою створення паніки.
-
-Один з російських БПЛА ударив по автомобілю, який розвозив хліб у Недригайлівській громаді. 
-
-Ще 5 ворожих дронів вдарили по фермі в одному із сіл Роменської громади.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-31_08-09-37.jpg" length="158192" type="image/jpeg"/>
-      <pubDate>Sat, 31 May 2025 08:09:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 May 2025 14:07:35 +0000</lastBuildDate>
     <item>
       <title>Харків після довгої перерви ро</title>
       <link>https://www.mandarinai.lt/post/74951</link>
@@ -86,9 +75,9 @@
       <link>https://www.mandarinai.lt/post/74959</link>
       <description>Друга турель під «Browning M2» для 47-ої бригади вже в роботі на Сумщині.
 
-На дві такі турелі ми з вами  нещодавно зібрали кошти. 
+На дві такі турелі ми з вами  нещодавно зібрали кошти. Подяка від хлопців вам, шановні підписники.
 
-Продовжуємо допомагати війську разом.</description>
+Вистоїмо тільки разом</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7226.MP4" length="3807733" type="video/mp4"/>
       <pubDate>Sat, 31 May 2025 12:58:36 +0000</pubDate>
     </item>
@@ -106,6 +95,13 @@
 🎥 Відео: окрема бригада артилерійської розвідки «Чорний ліс»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7227.MP4" length="13520177" type="video/mp4"/>
       <pubDate>Sat, 31 May 2025 13:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Польща будує добре укріплену «</title>
+      <link>https://www.mandarinai.lt/post/74961</link>
+      <description>Польща будує добре укріплену «лінію Дуди» на межі з Калінінградською областю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-31_14-05-54.jpg" length="177877" type="image/jpeg"/>
+      <pubDate>Sat, 31 May 2025 14:05:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
