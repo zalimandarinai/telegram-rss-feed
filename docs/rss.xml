@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 May 2025 14:07:35 +0000</lastBuildDate>
-    <item>
-      <title>Харків після довгої перерви ро</title>
-      <link>https://www.mandarinai.lt/post/74951</link>
-      <description>Харків після довгої перерви росіяни знову атакували коригованими авіабомбами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7216.MP4" length="897514" type="video/mp4"/>
-      <pubDate>Sat, 31 May 2025 08:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Десантно-штурмові війська взял</title>
-      <link>https://www.mandarinai.lt/post/74952</link>
-      <description>Десантно-штурмові війська взяли 10 полонених на Сумщині в районі населених пунктів Миропілля, Локня, Олександрія.</description>
-      <pubDate>Sat, 31 May 2025 10:12:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 May 2025 15:07:37 +0000</lastBuildDate>
     <item>
       <title>❗️Росіяни значно активізувалис</title>
       <link>https://www.mandarinai.lt/post/74953</link>
@@ -71,17 +58,6 @@
       <pubDate>Sat, 31 May 2025 12:53:50 +0000</pubDate>
     </item>
     <item>
-      <title>Друга турель під «Browning M2»</title>
-      <link>https://www.mandarinai.lt/post/74959</link>
-      <description>Друга турель під «Browning M2» для 47-ої бригади вже в роботі на Сумщині.
-
-На дві такі турелі ми з вами  нещодавно зібрали кошти. Подяка від хлопців вам, шановні підписники.
-
-Вистоїмо тільки разом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7226.MP4" length="3807733" type="video/mp4"/>
-      <pubDate>Sat, 31 May 2025 12:58:36 +0000</pubDate>
-    </item>
-    <item>
       <title>💥 На одному із ключових напрям</title>
       <link>https://www.mandarinai.lt/post/74960</link>
       <description>💥 На одному із ключових напрямків, які контролює ОСУВ «Хортиця», знищили ворожий ЗРК малої дальності «Тор-М2»
@@ -102,6 +78,42 @@
       <description>Польща будує добре укріплену «лінію Дуди» на межі з Калінінградською областю.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-31_14-05-54.jpg" length="177877" type="image/jpeg"/>
       <pubDate>Sat, 31 May 2025 14:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Друга турель під «Browning M2»</title>
+      <link>https://www.mandarinai.lt/post/74964</link>
+      <description>Друга турель під «Browning M2» для 47-ої бригади вже в роботі на Сумщині.
+
+На дві такі турелі ми з вами  нещодавно зібрали кошти. Подяка від хлопців вам, шановні підписники.
+
+Вистоїмо тільки разом!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-31_14-08-41.mp4" length="1151399" type="video/mp4"/>
+      <pubDate>Sat, 31 May 2025 14:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безшумний добрий дрон тихо при</title>
+      <link>https://www.mandarinai.lt/post/74965</link>
+      <description>Безшумний добрий дрон тихо прилетів і гучно підірвав  командний пункт 76-ї дшд русні у Рильську.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-31_14-13-31.mp4" length="5126533" type="video/mp4"/>
+      <pubDate>Sat, 31 May 2025 14:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США НЕ розцінюють Україну як</title>
+      <link>https://www.mandarinai.lt/post/74966</link>
+      <description>❗️США НЕ розцінюють Україну як розмінну монету, якою можна пожертвувати. Так, Америка недостатньо зробила, щоб зупинити війну в 2014 році, але ми ніколи не покинемо українців, — ексдиректор ЦРУ Майк Помпео на Blask Sea Security Forum.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-31_14-23-07.jpg" length="60897" type="image/jpeg"/>
+      <pubDate>Sat, 31 May 2025 14:23:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіяни просунулись в районі с</title>
+      <link>https://www.mandarinai.lt/post/74967</link>
+      <description>Росіяни просунулись в районі села Олександрія північніше Миропілля на Сумщині, - вважає DeepState.
+
+Саме звідти більшість з тих десяти російських військовополонених, яких ми сьогодні показували. 
+
+Основний напрямок російського удару в Сумський області село Юнаківка, з якого до Сум можна діставати ствольною артилерією.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-31_15-04-39.jpg" length="67240" type="image/jpeg"/>
+      <pubDate>Sat, 31 May 2025 15:04:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
