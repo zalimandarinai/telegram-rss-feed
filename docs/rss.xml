@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 May 2025 08:11:20 +0000</lastBuildDate>
-    <item>
-      <title>⚡️До Києва прибули американськ</title>
-      <link>https://www.mandarinai.lt/post/74936</link>
-      <description>⚡️До Києва прибули американські сенатори Ліндсі Грем та Річард Блюменталь — автори ініціативи про «пекельні санкції» проти рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-30_19-42-40.mp4" length="2294883" type="video/mp4"/>
-      <pubDate>Fri, 30 May 2025 19:42:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 May 2025 09:08:29 +0000</lastBuildDate>
     <item>
       <title>На Курщіні в місті Рильск прил</title>
       <link>https://www.mandarinai.lt/post/74937</link>
@@ -89,6 +82,13 @@
 Ще 5 ворожих дронів вдарили по фермі в одному із сіл Роменської громади.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-31_08-09-37.jpg" length="158192" type="image/jpeg"/>
       <pubDate>Sat, 31 May 2025 08:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків після довгої перерви ро</title>
+      <link>https://www.mandarinai.lt/post/74951</link>
+      <description>Харків після довгої перерви росіяни знову атакували коригованими авіабомбами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7216.MP4" length="897514" type="video/mp4"/>
+      <pubDate>Sat, 31 May 2025 08:25:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
