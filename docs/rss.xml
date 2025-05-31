@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 May 2025 10:08:24 +0000</lastBuildDate>
-    <item>
-      <title>На Курщіні в місті Рильск прил</title>
-      <link>https://www.mandarinai.lt/post/74937</link>
-      <description>На Курщіні в місті Рильск приліт по готелю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7205.MP4" length="5025447" type="video/mp4"/>
-      <pubDate>Fri, 30 May 2025 20:46:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥У російському Льгові пожежа п</title>
-      <link>https://www.mandarinai.lt/post/74938</link>
-      <description>🔥У російському Льгові пожежа після прильотів в районі залізничної станції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-05-30_22-41-06.mp4" length="7272290" type="video/mp4"/>
-      <pubDate>Fri, 30 May 2025 22:41:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 May 2025 11:06:39 +0000</lastBuildDate>
     <item>
       <title>‼️На Сумщині розширили обов’яз</title>
       <link>https://www.mandarinai.lt/post/74939</link>
@@ -89,6 +75,21 @@
       <description>Харків після довгої перерви росіяни знову атакували коригованими авіабомбами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7216.MP4" length="897514" type="video/mp4"/>
       <pubDate>Sat, 31 May 2025 08:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Десантно-штурмові війська взял</title>
+      <link>https://www.mandarinai.lt/post/74952</link>
+      <description>Десантно-штурмові війська взяли 10 полонених на Сумщині в районі населених пунктів Миропілля, Локня, Олександрія.</description>
+      <pubDate>Sat, 31 May 2025 10:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росіяни значно активізувалис</title>
+      <link>https://www.mandarinai.lt/post/74953</link>
+      <description>❗️Росіяни значно активізувалися на Запорізькому напрямку, де розпочали проводити наступальні дії, - Сирський
+
+Основні зусилля ворог зосередив на Покровському, Торецькому, Лиманському, Новопавлівському напрямках, а також на прикордонних районах Сумської області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-05-31_10-20-25.jpg" length="72320" type="image/jpeg"/>
+      <pubDate>Sat, 31 May 2025 10:20:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
