@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 16:09:27 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Підтверджено ураження пʼятог</title>
-      <link>https://www.mandarinai.lt/post/75028</link>
-      <description>💥🔥Підтверджено ураження пʼятого аеродрому, і це «Воскресенськ» в Підмосковʼї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-01_13-03-25.mp4" length="725500" type="video/mp4"/>
-      <pubDate>Sun, 01 Jun 2025 13:03:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Історичне фото від наших дже</title>
-      <link>https://www.mandarinai.lt/post/75030</link>
-      <description>❗️Історичне фото від наших джерел в СБУ.
-
-Фото заряджене на нову «супербавовну» в рф. 
-
-Голова СБУ Малюк під час проведення спецоперації «Павутина».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_13-34-05.jpg" length="167417" type="image/jpeg"/>
-      <pubDate>Sun, 01 Jun 2025 13:34:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Jun 2025 17:07:17 +0000</lastBuildDate>
     <item>
       <title>🔞 Заявлене, як фото тіла водія</title>
       <link>https://www.mandarinai.lt/post/75031</link>
@@ -110,6 +92,24 @@
       <description>Росіяни вибухом добивають той самий міст на Брянщині, який був підірваний вночі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7295.MP4" length="5856269" type="video/mp4"/>
       <pubDate>Sun, 01 Jun 2025 15:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪 У операції "Павутина" Україн</title>
+      <link>https://www.mandarinai.lt/post/75042</link>
+      <description>💪 У операції "Павутина" Україна використала дрони з ШІ, — ЗМІ. 
+
+Штучний інтелект "вчили", використовуючи 3D-скани радянських літаків, що зберігаються у Полтавському музеї дальньої та стратегічної авіації — зокрема, Ту-95МС і Ту-22М3.  Він здатний розпізнавати їх особливості та автоматично виконувати алгоритми пікерування — тобто цілеспрямовані атаки на вразливі місця авіаційної техніки.
+
+На оприлюднених у Мережі відео видно, як ШІ розпізнає місце для ураження</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-01_16-09-59.mp4" length="19446709" type="video/mp4"/>
+      <pubDate>Sun, 01 Jun 2025 16:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🔥Оленєгорськ, Мурманська обла</title>
+      <link>https://www.mandarinai.lt/post/75043</link>
+      <description>🔥🔥Оленєгорськ, Мурманська область. Масштаби пожежі на авіабазі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-01_16-28-39.mp4" length="1404482" type="video/mp4"/>
+      <pubDate>Sun, 01 Jun 2025 16:28:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
