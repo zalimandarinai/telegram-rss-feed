@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 06:12:37 +0000</lastBuildDate>
-    <item>
-      <title>В Петропавлівці на окупованій </title>
-      <link>https://www.mandarinai.lt/post/74984</link>
-      <description>В Петропавлівці на окупованій частині Херсонщини дрони відключили комунікації та зупинили транспорт російських військових.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7239.MP4" length="7318728" type="video/mp4"/>
-      <pubDate>Sat, 31 May 2025 19:18:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Jun 2025 07:08:31 +0000</lastBuildDate>
     <item>
       <title>Російські військові нібито отр</title>
       <link>https://www.mandarinai.lt/post/74986</link>
@@ -61,7 +54,7 @@
       <title>⚡️росіяни окупували Володимирі</title>
       <link>https://www.mandarinai.lt/post/74995</link>
       <description>⚡️росіяни окупували Володимирівку на Сумщині, - DeepState.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_05-10-11.jpg" length="21803" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-01_05-10-11.mp4" length="405823" type="video/mp4"/>
       <pubDate>Sun, 01 Jun 2025 05:10:11 +0000</pubDate>
     </item>
     <item>
@@ -72,6 +65,24 @@
 Після падіння спалахнув тепловоз. Роспропаганда традиційно звинувачує у події «українську диверсійно-розвідувальну групу», яка нібито заклала вибухівку під конструкцією мосту. Офіційних підтверджень цього наразі немає</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_05-12-42.jpg" length="142725" type="image/jpeg"/>
       <pubDate>Sun, 01 Jun 2025 05:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Під Мелітополем підірвано ві</title>
+      <link>https://www.mandarinai.lt/post/74997</link>
+      <description>⚡️Під Мелітополем підірвано військовий "товарняк" рф⚡️Під Мелітополем підірвано військовий потяг РФ, — ГУР
+
+Зруйновано ключову логістичну артерію росіян на окупованих територіях Запорізької області та Криму</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_06-24-28.jpg" length="60396" type="image/jpeg"/>
+      <pubDate>Sun, 01 Jun 2025 06:24:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Вночі рашисти атакували Білг</title>
+      <link>https://www.mandarinai.lt/post/74998</link>
+      <description>⚡️Вночі рашисти атакували Білгород-Дністровський район ударними БПЛА — ОВА
+
+Внаслідок удару пошкоджено приватні будинки і корпус бази відпочинку. На місці почалась пожежа, яку оперативно ліквідували фахівці ДСНС. Обійшлось без постраждалих</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_06-39-20.jpg" length="91056" type="image/jpeg"/>
+      <pubDate>Sun, 01 Jun 2025 06:39:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
