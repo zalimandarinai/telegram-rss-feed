@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 15:07:52 +0000</lastBuildDate>
-    <item>
-      <title>💥 Підтвердження знищення ще 3х</title>
-      <link>https://www.mandarinai.lt/post/75027</link>
-      <description>💥 Підтвердження знищення ще 3х бортів Ту-95МС на авіабазі «Біла» в Іркутській області 
-
-А це за 4300 км від України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-01_12-51-35.mp4" length="2388765" type="video/mp4"/>
-      <pubDate>Sun, 01 Jun 2025 12:51:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Jun 2025 16:09:27 +0000</lastBuildDate>
     <item>
       <title>💥🔥Підтверджено ураження пʼятог</title>
       <link>https://www.mandarinai.lt/post/75028</link>
@@ -79,7 +70,7 @@
     <item>
       <title>Україна заздалегідь повідомила</title>
       <link>https://www.mandarinai.lt/post/75037</link>
-      <description>Україна заздалегідь повідомила адміністрацію Трампа атаки на російські авіабази, — Axios</description>
+      <description>Україна заздалегідь повідомила адміністрацію Трампа про атаки на російські авіабази, — Axios</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_14-58-39.jpg" length="75382" type="image/jpeg"/>
       <pubDate>Sun, 01 Jun 2025 14:58:39 +0000</pubDate>
     </item>
@@ -105,6 +96,20 @@
 Переговори почнуться з нинішньої лінії бойового зіткнення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_15-02-51.jpg" length="65796" type="image/jpeg"/>
       <pubDate>Sun, 01 Jun 2025 15:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна вкотре доводить, що пу</title>
+      <link>https://www.mandarinai.lt/post/75039</link>
+      <description>Україна вкотре доводить, що путін не такий вже і сильний, тож думати, що росія непереможна, помилка, — BILD</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_15-10-24.jpg" length="84103" type="image/jpeg"/>
+      <pubDate>Sun, 01 Jun 2025 15:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіяни вибухом добивають той </title>
+      <link>https://www.mandarinai.lt/post/75040</link>
+      <description>Росіяни вибухом добивають той самий міст на Брянщині, який був підірваний вночі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7295.MP4" length="5856269" type="video/mp4"/>
+      <pubDate>Sun, 01 Jun 2025 15:12:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
