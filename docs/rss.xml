@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 18:11:04 +0000</lastBuildDate>
-    <item>
-      <title>Україна заздалегідь повідомила</title>
-      <link>https://www.mandarinai.lt/post/75037</link>
-      <description>Україна заздалегідь повідомила адміністрацію Трампа про атаки на російські авіабази, — Axios</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_14-58-39.jpg" length="75382" type="image/jpeg"/>
-      <pubDate>Sun, 01 Jun 2025 14:58:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мирні умови України на перегов</title>
-      <link>https://www.mandarinai.lt/post/75038</link>
-      <description>Мирні умови України на переговорах з делегацією рф у Стамбулі, — Reuters
-
-«Дорожня карта» до підписання мирної угоди з росією має виглядати так. 
-
-30-денне повне припинення вогню.
-
-Обмін військовополоненими «всіх на всіх».
-
-Зустріч Зеленського — путіна.
-
-Жодних обмежень для українських сил.
-
-Жодного визнання російських територіальних здобутків.
-
-Виплати російських репарацій.
-
-Переговори почнуться з нинішньої лінії бойового зіткнення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_15-02-51.jpg" length="65796" type="image/jpeg"/>
-      <pubDate>Sun, 01 Jun 2025 15:02:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Jun 2025 19:06:23 +0000</lastBuildDate>
     <item>
       <title>Україна вкотре доводить, що пу</title>
       <link>https://www.mandarinai.lt/post/75039</link>
@@ -92,11 +62,17 @@
       <link>https://www.mandarinai.lt/post/75049</link>
       <description>Ця операція точно залишиться в історії, — Зеленський.
 
-Рік, шість місяців і дев’ять днів від початку планування до ефективної реалізації. Найбільш далекобійна наша операція, – Зеленський
+Рік, шість місяців і дев’ять днів від початку планування до реалізації. Найбільш далекобійна наша операція, – Зеленський
 
-Була доповідь голови СБУ Василя Малюка: «абсолютно блискучий результат... це українські дії, які точно будуть у підручниках історії».</description>
+Була доповідь голови СБУ Малюка: «абсолютно блискучий результат, це українські дії, які точно будуть у підручниках історії».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_18-10-39.jpg" length="124884" type="image/jpeg"/>
       <pubDate>Sun, 01 Jun 2025 18:10:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Офіс» нашої операції був на т</title>
+      <link>https://www.mandarinai.lt/post/75052</link>
+      <description>«Офіс» нашої операції був на території росії, поруч з управлянням ФСБ, було використано 117 дронів, відповідна кількість операторів працювала, уражено 34% носіїв крилатих ракет, — Зеленський.</description>
+      <pubDate>Sun, 01 Jun 2025 18:35:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
