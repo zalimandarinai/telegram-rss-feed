@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 02:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 03:54:23 +0000</lastBuildDate>
     <item>
       <title>💥 На одному із ключових напрям</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,18 +20,6 @@
 
 🎥 Відео: окрема бригада артилерійської розвідки «Чорний ліс»</description>
       <pubDate>Sat, 31 May 2025 13:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полонені з району Торецька.
-
-З</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Полонені з району Торецька.
-
-Захоплені бійцями бригади «Азов».
-
-Ворог ще сподівається захопити руїни міста Торецьк і розпочати оточення Костянтинівської агломерації.</description>
-      <pubDate>Sat, 31 May 2025 15:13:38 +0000</pubDate>
     </item>
     <item>
       <title>BILD пише, що рф за тиждень ок</title>
@@ -90,6 +78,13 @@
 Про те, чому міст втомився, російська влада не повідомляє.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7247.MP4" length="578941" type="video/mp4"/>
       <pubDate>Sat, 31 May 2025 21:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наслідки атаки русні на Запорі</title>
+      <link>https://www.mandarinai.lt/post/74991</link>
+      <description>Наслідки атаки русні на Запоріжжя</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-01_03-42-53.mp4" length="471458" type="video/mp4"/>
+      <pubDate>Sun, 01 Jun 2025 03:42:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
