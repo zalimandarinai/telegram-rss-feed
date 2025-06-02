@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 03:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 04:20:24 +0000</lastBuildDate>
     <item>
       <title>💪 У операції "Павутина" Україн</title>
       <link>https://www.mandarinai.lt/post/75042</link>
@@ -82,6 +82,13 @@
 Рафал Тшасковський політолог, доктор гуманітарних наук, фахівець у галузі європейських справ, мер Варшави, позиціонує себе, як центрист і опозиціонер.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_20-26-18.jpg" length="82762" type="image/jpeg"/>
       <pubDate>Sun, 01 Jun 2025 20:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Драматичний розвиток подій на </title>
+      <link>https://www.mandarinai.lt/post/75056</link>
+      <description>Драматичний розвиток подій на виборах в Польщі: Президентом після підрахунку 100% голосів стає Кароль Навроцький, який має негативне ставлення до України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-02_04-04-32.jpg" length="57305" type="image/jpeg"/>
+      <pubDate>Mon, 02 Jun 2025 04:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
