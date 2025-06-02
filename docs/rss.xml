@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 05:11:16 +0000</lastBuildDate>
-    <item>
-      <title>Також Україна сьогодні влучила</title>
-      <link>https://www.mandarinai.lt/post/75045</link>
-      <description>Також Україна сьогодні влучила ракетою SCALP по складу боєприпасів на території окупованого міста Краснодон в Луганській області, стверджують інформаційні ресурси противника, демонструючи частини французької ракети.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-01_17-13-02.jpg" length="175674" type="image/jpeg"/>
-      <pubDate>Sun, 01 Jun 2025 17:13:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Jun 2025 06:14:19 +0000</lastBuildDate>
     <item>
       <title>🔥🔥 5 бомбардувальників Ту-95МС</title>
       <link>https://www.mandarinai.lt/post/75048</link>
@@ -76,6 +69,17 @@
       <description>❗️Нічна атака дронів на російські регіони: десятки вибухів в курську, ростові, воронєжі, ліпецьку, рязані</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-02_04-49-45.mp4" length="3898766" type="video/mp4"/>
       <pubDate>Mon, 02 Jun 2025 04:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог завдав ракетні удари по </title>
+      <link>https://www.mandarinai.lt/post/75060</link>
+      <description>Ворог завдав ракетні удари по Харкову, — ОВА
+
+Перша ракета влучила в проїзджу частину.
+
+Друга ракета - пошкоджено фасадну частину гуртожитку та три 5-поверхівки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-02_06-09-06.jpg" length="235412" type="image/jpeg"/>
+      <pubDate>Mon, 02 Jun 2025 06:09:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
