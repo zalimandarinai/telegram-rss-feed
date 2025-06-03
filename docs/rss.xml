@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 16:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 17:09:34 +0000</lastBuildDate>
     <item>
       <title>❗️Росіяни обстріляли село Чист</title>
       <link>https://www.mandarinai.lt/post/75169</link>
@@ -98,6 +98,21 @@
       <description>«Якщо ця війна завершиться так, ніби ми покинули Україну, це буде гірше, ніж вихід з Афганістану», — Сенатор Ліндсі Грем</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7381.MOV" length="13372590" type="video/mp4"/>
       <pubDate>Tue, 03 Jun 2025 15:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>В травні за опитуваннями зросл</title>
+      <link>https://www.mandarinai.lt/post/75182</link>
+      <description>В травні за опитуваннями зросла частка росіян, які вважають, що зараз слід переходити до мирних переговорів 64%, зростання на 6% з березня 2025.
+
+Також на 6% знизилася кількість опитаних, які вважають, що зараз потрібно продовжувати військові дії, до 28%
+
+Дві третини росіян підтримують мирні переговори.
+
+Але 80% підтримують дії армії.
+
+73% росіян повторюють тезу путіна «про усунення першопричин».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-03_16-14-12.jpg" length="117002" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jun 2025 16:14:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
