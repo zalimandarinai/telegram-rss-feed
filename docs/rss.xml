@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 13:26:05 +0000</lastBuildDate>
-    <item>
-      <title>Сьогодні перегнали позашляхови</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Сьогодні перегнали позашляховик «Nissan Navara» в район Купʼянська.
-
-На нього ми з вами зібрали кошти, для хлопців з 8-го батальйону 10-ої окремої гірськоштурмової бригади «Едельвейс».
-
-Гірські штурмовики, які тримають оборону в районі Дворічної, щиро дякують вам, шановні підписники, за те, що допомагаєте їм вистояти. 
-
-Ситуація тут дуже складна.
-
-Наші бійці неймовірними зусиллями не дають окупантам налагодити переправу через річку Оскіл.
-
-Бракує людей. Шалена кількість дронів в повітрі. Щойно хлопці втратили схожу автівку, їй вибухом розірвало колесо, але бійці залишились неушкоджені. Так що наш з вами позашляховик тут потрібен, як повітря. 
-
-Важливо, щоб ми всі розуміли - тільки разом можемо вистояти.</description>
-      <pubDate>Mon, 02 Jun 2025 21:16:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Щойно Зеленський повідомив про</title>
-      <link>https://www.mandarinai.lt/post/75162</link>
-      <description>Щойно Зеленський повідомив про трьох загиблих в Сумах, росіяни точно здійснили обстріл з РСЗВ, відомо про щонайменше один снаряд, який не розірвався і пробив стіну кімнати звичайної квартири на 9-му поверсі.</description>
-      <pubDate>Tue, 03 Jun 2025 08:22:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Jun 2025 14:10:18 +0000</lastBuildDate>
     <item>
       <title>Україна, ймовірно, випробує WO</title>
       <link>https://www.mandarinai.lt/post/75165</link>
@@ -81,6 +57,23 @@
       <description>Для спецоперації з підриву мосту в Керчі могли використати підводний безпілотний апарат, відомий, як «Марічка».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7377.MP4" length="22834410" type="video/mp4"/>
       <pubDate>Tue, 03 Jun 2025 12:12:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генштаб ЗСУ в своїй інфографіц</title>
+      <link>https://www.mandarinai.lt/post/75176</link>
+      <description>Генштаб ЗСУ в своїй інфографіці фактично підтвердив, що 41 військовий літак було знищено СБУ під час недільної операції «Павутина».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-03_13-38-45.jpg" length="93219" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jun 2025 13:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щойно росіяни показали нібито </title>
+      <link>https://www.mandarinai.lt/post/75177</link>
+      <description>Щойно росіяни показали нібито агента українських спецслужб, затриманого на Кримському півострові.
+
+Чоловік із прихованим обличчям розповідає, що готував вибуховий пристрій в Севастополі.
+
+Таким чином російські спецслужби показують, для заспокоєння протестних настроїв та невдоволення прорахунками фсб, що вони теж працюють.</description>
+      <pubDate>Tue, 03 Jun 2025 13:44:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
