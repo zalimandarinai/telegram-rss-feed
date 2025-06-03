@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 17:09:34 +0000</lastBuildDate>
-    <item>
-      <title>❗️Росіяни обстріляли село Чист</title>
-      <link>https://www.mandarinai.lt/post/75169</link>
-      <description>❗️Росіяни обстріляли село Чистоводівка в Куньєвській громаді на Харківщині.
-
-📝 «На цей час відомо, що внаслідок удару загинуло 2 людини. Ще 3 – отримали поранення різного ступеню тяжкості».
-
-➡️ Так повідомив керівник ОВА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-03_10-43-15.jpg" length="243728" type="image/jpeg"/>
-      <pubDate>Tue, 03 Jun 2025 10:43:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Jun 2025 18:12:56 +0000</lastBuildDate>
     <item>
       <title>СБУ провела нову унікальну спе</title>
       <link>https://www.mandarinai.lt/post/75170</link>
@@ -113,6 +102,17 @@
 73% росіян повторюють тезу путіна «про усунення першопричин».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-03_16-14-12.jpg" length="117002" type="image/jpeg"/>
       <pubDate>Tue, 03 Jun 2025 16:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Багато хто з Палати представ</title>
+      <link>https://www.mandarinai.lt/post/75183</link>
+      <description>❗️Багато хто з Палати представників підтримує пакет санкцій проти росії, - спікер Джонсон 
+
+«Багато членів Конгресу хочуть, щоб ми запровадили проти Росії максимально жорсткі санкції. І я підтримую це».
+
+Really?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-03_17-18-13.jpg" length="8293" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jun 2025 17:18:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
