@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 10:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 11:08:09 +0000</lastBuildDate>
     <item>
       <title>Сьогодні перегнали позашляхови</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -30,13 +30,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Був «приліт» по електропідстанції в Мелітополі, отже, тимчасово окупована частина Запорізької області залишилася без електрики.</description>
       <pubDate>Mon, 02 Jun 2025 21:35:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>По Сумах було завдано удару РС</title>
-      <link>https://www.mandarinai.lt/post/75155</link>
-      <description>По Сумах було завдано удару РСЗВ, попередньо із касетною бойовою частиною, повідомляють про двох загиблих людей, щонайменше семеро поранено.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7355.MP4" length="847599" type="video/mp4"/>
-      <pubDate>Tue, 03 Jun 2025 07:45:23 +0000</pubDate>
     </item>
     <item>
       <title>рф погодиться на третій раунд </title>
@@ -76,6 +69,17 @@
 Дальність виявлення винищувачів до 20 км, вертольотів до 12 км, крилатих ракет до 10 км, БПЛА до 5 км, він може одночасно відстежувати до 150 цілей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-03_10-03-23.jpg" length="121019" type="image/jpeg"/>
       <pubDate>Tue, 03 Jun 2025 10:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росіяни обстріляли село Чист</title>
+      <link>https://www.mandarinai.lt/post/75169</link>
+      <description>❗️Росіяни обстріляли село Чистоводівка в Куньєвській громаді на Харківщині.
+
+📝 «На цей час відомо, що внаслідок удару загинуло 2 людини. Ще 3 – отримали поранення різного ступеню тяжкості».
+
+➡️ Так повідомив керівник ОВА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-03_10-43-15.jpg" length="243728" type="image/jpeg"/>
+      <pubDate>Tue, 03 Jun 2025 10:43:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
