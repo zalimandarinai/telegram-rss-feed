@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 12:17:36 +0000</lastBuildDate>
-    <item>
-      <title>Справжній партнер України, нім</title>
-      <link>https://www.mandarinai.lt/post/75269</link>
-      <description>Справжній партнер України, німецька оборонна компанія Rheinmetall, показала дрон-перехоплювач, розроблений для захисту цивільної та військової інфраструктури від атак інших дронів.
-
-Дальність ураження цілей до 5 км, швидкість до 300 км/год.
-
-Питання лише в собівартості, бо якщо це рішення не стане дешевим, воно не стане масовим.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7458.MP4" length="10250336" type="video/mp4"/>
-      <pubDate>Thu, 05 Jun 2025 07:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Повітряні Сили знешкодили 74 і</title>
-      <link>https://www.mandarinai.lt/post/75270</link>
-      <description>Повітряні Сили знешкодили 74 із 103 ворожих дронів. 
-
-Також росіяни атакували балістичною ракетою Іскандер-М/KN-23. 
-
-Основні напрямки повітряного удару – Чернігівщина, Харківщина та Одещина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_07-21-25.jpg" length="84414" type="image/jpeg"/>
-      <pubDate>Thu, 05 Jun 2025 07:21:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jun 2025 13:24:51 +0000</lastBuildDate>
     <item>
       <title>💥В Брянській області уражено у</title>
       <link>https://www.mandarinai.lt/post/75271</link>
@@ -97,6 +75,20 @@
       <description>👌русня ниє про формування котла навколо підрозділів рф в Тьоткіно на Курщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_12-06-29.jpg" length="108039" type="image/jpeg"/>
       <pubDate>Thu, 05 Jun 2025 12:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬русня вдруге за сьогодні вдар</title>
+      <link>https://www.mandarinai.lt/post/75283</link>
+      <description>🤬русня вдруге за сьогодні вдарила по Херсонській ОВА - будівля практично знищена</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_12-58-30.jpg" length="269416" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jun 2025 12:58:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Мер Харкова показав жахливі а</title>
+      <link>https://www.mandarinai.lt/post/75284</link>
+      <description>🤬Мер Харкова показав жахливі атаки по місту сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-05_12-59-57.mp4" length="1972633" type="video/mp4"/>
+      <pubDate>Thu, 05 Jun 2025 12:59:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
