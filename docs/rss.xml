@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 19:04:19 +0000</lastBuildDate>
-    <item>
-      <title>Стрілецький бій 78-го полку ДШ</title>
-      <link>https://www.mandarinai.lt/post/75295</link>
-      <description>Стрілецький бій 78-го полку ДШВ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7496.MP4" length="18070987" type="video/mp4"/>
-      <pubDate>Thu, 05 Jun 2025 18:17:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>В небі над Казахстаном вибухну</title>
-      <link>https://www.mandarinai.lt/post/75296</link>
-      <description>В небі над Казахстаном вибухнуло щось схоже на «Орешник», розсипавшись на частини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7497.MP4" length="8431994" type="video/mp4"/>
-      <pubDate>Thu, 05 Jun 2025 18:29:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jun 2025 20:08:36 +0000</lastBuildDate>
     <item>
       <title>русня ниє про невдалий пуск «О</title>
       <link>https://www.mandarinai.lt/post/75302</link>
@@ -58,9 +44,42 @@
     <item>
       <title>У відповіді Трампу Маск фактич</title>
       <link>https://www.mandarinai.lt/post/75307</link>
-      <description>У відповіді Трампу Маск фактично назвав президента США брехлом</description>
+      <description>У відповіді Трампу Маск фактично назвав президента США брехлом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_18-57-47.jpg" length="102773" type="image/jpeg"/>
       <pubDate>Thu, 05 Jun 2025 18:57:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Час справжньої інформаційної </title>
+      <link>https://www.mandarinai.lt/post/75310</link>
+      <description>«Час справжньої інформаційної бомби.
+
+Дональд Трамп присутній в файлах Епштейна.
+
+Це справжня причина, чому вони не були оприлюднені.
+
+Гарного дня, ДДжТ!»
+
+Ілон Маск звинуватив Дональда Трампа в участі у справах Епштейна — нібито тому, за версією Маска, документи приховували.
+
+Файли Епштейна — це документи з іменами десятятків осіб, пов’язаних із мільйонером, звинуваченим у сексуальній експлуатації підлітків.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_19-27-30.jpg" length="110246" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jun 2025 19:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Білому домі повісили спільне</title>
+      <link>https://www.mandarinai.lt/post/75312</link>
+      <description>В Білому домі повісили спільне фото Венса і Зеленського, - Єрмак</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_19-58-53.jpg" length="96444" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jun 2025 19:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>За три місяці росія виробляє с</title>
+      <link>https://www.mandarinai.lt/post/75313</link>
+      <description>За три місяці росія виробляє стільки ж боєприпасів, скільки весь блок НАТО за рік, — Рютте
+
+«І?» - як кажуть в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_19-59-58.jpg" length="27824" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jun 2025 19:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
