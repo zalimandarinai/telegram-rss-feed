@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 02:29:45 +0000</lastBuildDate>
-    <item>
-      <title>😐Трамп попросив Сенат тимчасов</title>
-      <link>https://www.mandarinai.lt/post/75241</link>
-      <description>😐Трамп попросив Сенат тимчасово не розглядати проєкт посилення санкцій проти росії, — голова комітету Вікер</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-04_15-56-04.jpg" length="63551" type="image/jpeg"/>
-      <pubDate>Wed, 04 Jun 2025 15:56:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jun 2025 03:40:26 +0000</lastBuildDate>
     <item>
       <title>❗️ Щось нове та незвичне на оп</title>
       <link>https://www.mandarinai.lt/post/75242</link>
@@ -138,6 +131,17 @@
       <description>Зафіксовано влучання по житловим багатоповерхівкам Слобідського району, - мер Терехов</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7440.MP4" length="111505" type="video/mp4"/>
       <pubDate>Wed, 04 Jun 2025 22:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️5 людей, серед них — дитина,</title>
+      <link>https://www.mandarinai.lt/post/75255</link>
+      <description>❗️5 людей, серед них — дитина, віком 1 рік і 4 місяці, загинули внаслідок російської нічної атаки БпЛА по місту Прилуки, ДСНС
+
+Ще шестеро людей отримали поранення різного ступеня тяжкості.
+
+Унаслідок влучань виникли масштабні пожежі в житловому секторі. Знищено два житлові будинки, два гаражі, одну господарську споруду та автомобіль.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-05_03-12-29.jpg" length="80645" type="image/jpeg"/>
+      <pubDate>Thu, 05 Jun 2025 03:12:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
