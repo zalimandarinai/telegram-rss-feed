@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 13:24:51 +0000</lastBuildDate>
-    <item>
-      <title>💥В Брянській області уражено у</title>
-      <link>https://www.mandarinai.lt/post/75271</link>
-      <description>💥В Брянській області уражено установки ОТРК «Іскандер», які були вже споряджені ракетами для атаки на Київ, це результат взаємодії СБУ і Збройних Сил, — Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-05_07-28-57.mp4" length="1265126" type="video/mp4"/>
-      <pubDate>Thu, 05 Jun 2025 07:28:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Jun 2025 14:09:28 +0000</lastBuildDate>
     <item>
       <title>Через пару тижнів буде справжн</title>
       <link>https://www.mandarinai.lt/post/75272</link>
@@ -89,6 +82,13 @@
       <description>🤬Мер Харкова показав жахливі атаки по місту сьогодні вночі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-05_12-59-57.mp4" length="1972633" type="video/mp4"/>
       <pubDate>Thu, 05 Jun 2025 12:59:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент другого влучання авіабо</title>
+      <link>https://www.mandarinai.lt/post/75285</link>
+      <description>Момент другого влучання авіабомби по ОДА в Херсоні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7487.MP4" length="6969282" type="video/mp4"/>
+      <pubDate>Thu, 05 Jun 2025 13:30:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
