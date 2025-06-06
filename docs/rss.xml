@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 17:08:32 +0000</lastBuildDate>
-    <item>
-      <title>В Москві російські сапери нама</title>
-      <link>https://www.mandarinai.lt/post/75362</link>
-      <description>В Москві російські сапери намагаються розмінувати легковий автомобіль «KIA Optima». На колесі виявлено вибуховий пристрій. Хто замінував автомобіль і кому належить машина, поки невідомо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7537.MP4" length="1141411" type="video/mp4"/>
-      <pubDate>Fri, 06 Jun 2025 09:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Траєкторія повітряних цілей пі</title>
-      <link>https://www.mandarinai.lt/post/75363</link>
-      <description>Траєкторія повітряних цілей під час сьогоднішньої атаки ворога</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_09-53-28.jpg" length="217901" type="image/jpeg"/>
-      <pubDate>Fri, 06 Jun 2025 09:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Все тількі починається. Украї</title>
-      <link>https://www.mandarinai.lt/post/75364</link>
-      <description>🔥Все тількі починається. Українські спецслужби готуються до інших складних операцій на кшталт щойно проведеної «Павутини», — WP з посиланням на джерела в розвідці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_10-37-50.jpg" length="151317" type="image/jpeg"/>
-      <pubDate>Fri, 06 Jun 2025 10:37:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jun 2025 18:12:39 +0000</lastBuildDate>
     <item>
       <title>Ще одна оперативна удача контр</title>
       <link>https://www.mandarinai.lt/post/75365</link>
@@ -88,6 +67,27 @@
 Радикальна відмова Вашингтона допомагати залишила б «діри» у сферах ППО Patriot, розвідданих і комплектуючих до американських систем, але Європа має фінансові ресурси, щоб закупити ці засоби та дані для України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_16-32-07.jpg" length="55513" type="image/jpeg"/>
       <pubDate>Fri, 06 Jun 2025 16:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент жахливого прильоту сьог</title>
+      <link>https://www.mandarinai.lt/post/75377</link>
+      <description>Момент жахливого прильоту сьогодні в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7555.MP4" length="6215149" type="video/mp4"/>
+      <pubDate>Fri, 06 Jun 2025 17:11:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрозділ «Фенікс» прикордонно</title>
+      <link>https://www.mandarinai.lt/post/75378</link>
+      <description>Підрозділ «Фенікс» прикордонної бригади «Помста» дістає настільки глибоко в тил ворога, що це викликає логічне запитання. Чим вони це роблять? Ворожі «Солнцепьок», два танки, броньована машина, гармата, система РЕБ «Житель» і пункт управління БпЛА, - деякі зразки цієї знищеної техніки ближче, ніж на 30 кілометрів до переднього краю, наближаються дуже рідко.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7556.MP4" length="31283461" type="video/mp4"/>
+      <pubDate>Fri, 06 Jun 2025 17:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝 Зенітний ракетно-артилерійсь</title>
+      <link>https://www.mandarinai.lt/post/75379</link>
+      <description>🤝 Зенітний ракетно-артилерійський дивізіон Окремої президентської бригади сьогодні над Києвом збив кілька ворожих «шахедів», а, значить, врятував десятки людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7557.MP4" length="21224902" type="video/mp4"/>
+      <pubDate>Fri, 06 Jun 2025 18:10:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
