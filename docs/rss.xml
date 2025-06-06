@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 06:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 07:09:10 +0000</lastBuildDate>
     <item>
       <title>❗️ Черги пострілів над Києвом.</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -18,14 +18,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ Звуки прильотів по столиці на фоні «шахедів» чутно навіть в бомбосховищі.</description>
       <pubDate>Fri, 06 Jun 2025 00:23:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У Києві внаслідок атаки воро</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️У Києві внаслідок атаки ворога загинула одна людина. За останніми даними від медиків, постраждали наразі 20 людей. 16 із них  госпіталізували.
-
-На відео: наслідки атаки в Солом'янському районі</description>
-      <pubDate>Fri, 06 Jun 2025 03:02:08 +0000</pubDate>
     </item>
     <item>
       <title>Луцьк та Тернопіль вночі переж</title>
@@ -62,6 +54,15 @@
 Також 5 рятувальників травмовано під час гасіння пожежі на Тернопільщині. Усім надається медична допомога</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_05-46-46.jpg" length="286370" type="image/jpeg"/>
       <pubDate>Fri, 06 Jun 2025 05:46:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Немає слів. росіяни у прямому</title>
+      <link>https://www.mandarinai.lt/post/75355</link>
+      <description>🤬Немає слів. росіяни у прямому ефірі (!) бачили, куди влучають запущені ракети та "БПЛА". На YouTube досі триває пряма трансляція з різних міст України.
+
+4 рік війни, що з цим робити?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_07-02-36.mp4" length="3432750" type="video/mp4"/>
+      <pubDate>Fri, 06 Jun 2025 07:02:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
