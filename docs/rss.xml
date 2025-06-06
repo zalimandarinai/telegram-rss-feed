@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 19:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 20:10:41 +0000</lastBuildDate>
     <item>
       <title>Ресурс DeepState уточнив, що о</title>
       <link>https://www.mandarinai.lt/post/75370</link>
@@ -82,9 +82,20 @@
     <item>
       <title>🔥Вечірній Енгельс на зв'язку. </title>
       <link>https://www.mandarinai.lt/post/75382</link>
-      <description>🔥Вечірній Енгельс на зв'язку. "пагода  нельотная"</description>
+      <description>🔥Вечірній Енгельс на зв'язку. "пагода  нєльотная"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_19-07-21.mp4" length="760992" type="video/mp4"/>
       <pubDate>Fri, 06 Jun 2025 19:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️рф посилює наступ на Сумщині</title>
+      <link>https://www.mandarinai.lt/post/75383</link>
+      <description>‼️рф посилює наступ на Сумщині
+
+Ворог окупував Кіндратівку та Олексіївку, просунувся біля Біловодів, Локні та Садків. 
+
+російські війська перетнули кордон у бік села Садки, відновивши контроль над раніше сірою зоною з Курської області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_20-03-46.mp4" length="184299" type="video/mp4"/>
+      <pubDate>Fri, 06 Jun 2025 20:03:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
