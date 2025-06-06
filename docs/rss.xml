@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 15:08:01 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Вперше на випередження! ЗСУ </title>
-      <link>https://www.mandarinai.lt/post/75358</link>
-      <description>⚡️Вперше на випередження! ЗСУ напередодні масованого обстрілу по Україні завдали удару на випередження – по ае «Енгельс» та ае «Дягілево», повідомляє Генштаб 
-
-Енгельс – місце скупчення авіації противника, яка залишилась після операції СБУ. На Дягілево базуються повітряні заправники та винищувачі супроводу. З Дягілево здійснюють вильоти стратегічні бомбардувальники.
-
-У Саратовській області (Енгельс) – влучання в щонайменше 3 резервуари з паливом, що спричинило масштабну пожежу та десятки вибухів.
-
-Удар по “Дягілєво” в Рязанській області — зафіксовано роботу ППО та пожежу в районі цілі.
-
-Також уражено логістичний пункт 30 мотострілецького полку поблизу Кульбаків Курської області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_08-17-07.jpg" length="134644" type="image/jpeg"/>
-      <pubDate>Fri, 06 Jun 2025 08:17:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Jun 2025 16:11:27 +0000</lastBuildDate>
     <item>
       <title>⚡️ 560 метрів залишилося від «</title>
       <link>https://www.mandarinai.lt/post/75359</link>
@@ -106,6 +91,15 @@
 Щирі співчуття рідним та близьким.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_13-34-07.mp4" length="4208627" type="video/mp4"/>
       <pubDate>Fri, 06 Jun 2025 13:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Теракт на Одещині: вибухнуло</title>
+      <link>https://www.mandarinai.lt/post/75373</link>
+      <description>❗️Теракт на Одещині: вибухнуло авто ТЦК у селі Донська Балка, – місцеві ЗМІ
+
+У поліції теж заявили про вибух автомобіля в цьому районі. За офіційною інфою, загинув один чоловік. Обставини встановлюють.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_15-45-22.mp4" length="163994" type="video/mp4"/>
+      <pubDate>Fri, 06 Jun 2025 15:45:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
