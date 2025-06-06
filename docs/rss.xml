@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 03:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 04:15:46 +0000</lastBuildDate>
     <item>
       <title>❗️ Черги пострілів над Києвом.</title>
       <link>https://www.mandarinai.lt/post/75331</link>
@@ -60,7 +60,7 @@
       <link>https://www.mandarinai.lt/post/75340</link>
       <description>💥🔥Атакована паливна база біля російського стратегічного аеродрому Енгельс.
 
-Також повідомляється про  атаку на авіабазу Дягілєво у Рязанській області та завод електроніки в Тамбовський області.</description>
+Також повідомляється про  атаку на авіабазу Дягілєво у Рязанській області та завод авіаційної електроніки в Тамбовський області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_03-23-35.jpg" length="148982" type="image/jpeg"/>
       <pubDate>Fri, 06 Jun 2025 03:23:35 +0000</pubDate>
     </item>
