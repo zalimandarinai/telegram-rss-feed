@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 05:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 06:13:59 +0000</lastBuildDate>
     <item>
       <title>❗️ Черги пострілів над Києвом.</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -21,21 +21,11 @@
     </item>
     <item>
       <title>❗️У Києві внаслідок атаки воро</title>
-      <link>https://www.mandarinai.lt/post/75337</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️У Києві внаслідок атаки ворога загинула одна людина. За останніми даними від медиків, постраждали наразі 20 людей. 16 із них  госпіталізували.
 
 На відео: наслідки атаки в Солом'янському районі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_03-02-08.mp4" length="2338718" type="video/mp4"/>
       <pubDate>Fri, 06 Jun 2025 03:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Атакована паливна база біля </title>
-      <link>https://www.mandarinai.lt/post/75340</link>
-      <description>💥🔥Атакована паливна база біля російського стратегічного аеродрому Енгельс.
-
-Також повідомляється про  атаку на авіабазу Дягілєво у Рязанській області та завод авіаційної електроніки в Тамбовський області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_03-23-35.jpg" length="148982" type="image/jpeg"/>
-      <pubDate>Fri, 06 Jun 2025 03:23:35 +0000</pubDate>
     </item>
     <item>
       <title>Луцьк та Тернопіль вночі переж</title>
@@ -61,6 +51,17 @@
       <description>🤬Київська квартира після нічної атаки рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_05-05-48.mp4" length="1061396" type="video/mp4"/>
       <pubDate>Fri, 06 Jun 2025 05:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>😥 У Києві під час ліквідації н</title>
+      <link>https://www.mandarinai.lt/post/75352</link>
+      <description>😥 У Києві під час ліквідації наслідків ворожих ударів загинуло троє рятувальників ДСНС. 
+
+Вони працювали під обстрілами, щоб допомогти людям. Ще 9 надзвичайників отримали поранення. Є важкі, лікаря боряться за їхні життя. 
+
+Також 5 рятувальників травмовано під час гасіння пожежі на Тернопільщині. Усім надається медична допомога</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-06_05-46-46.jpg" length="286370" type="image/jpeg"/>
+      <pubDate>Fri, 06 Jun 2025 05:46:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
