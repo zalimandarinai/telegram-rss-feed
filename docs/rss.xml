@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 10:08:36 +0000</lastBuildDate>
-    <item>
-      <title>🔥Вечірній Енгельс на зв'язку. </title>
-      <link>https://www.mandarinai.lt/post/75382</link>
-      <description>🔥Вечірній Енгельс на зв'язку. "пагода  нєльотная"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_19-07-21.mp4" length="760992" type="video/mp4"/>
-      <pubDate>Fri, 06 Jun 2025 19:07:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️рф посилює наступ на Сумщині</title>
-      <link>https://www.mandarinai.lt/post/75383</link>
-      <description>‼️рф посилює наступ на Сумщині
-
-Ворог окупував Кіндратівку та Олексіївку, просунувся біля Біловодів, Локні та Садків. 
-
-російські війська перетнули кордон у бік села Садки, відновивши контроль над раніше сірою зоною з Курської області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-06_20-03-46.mp4" length="184299" type="video/mp4"/>
-      <pubDate>Fri, 06 Jun 2025 20:03:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Jun 2025 11:06:49 +0000</lastBuildDate>
     <item>
       <title>⚡️У Харкові знову серія вибухі</title>
       <link>https://www.mandarinai.lt/post/75384</link>
@@ -157,6 +139,20 @@ https://send.monobank.ua/jar/7burVS6WDk
       <description>Український піхотинець закидає протитанкову міну ТМ-62М вагою 10 кілограмів до пивниці з рашистами на південному напрямку, ефектно ліквідовуючи їхнє укриття.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7572.MP4" length="7260197" type="video/mp4"/>
       <pubDate>Sat, 07 Jun 2025 09:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>На території харківського підп</title>
+      <link>https://www.mandarinai.lt/post/75396</link>
+      <description>На території харківського підприємства, по якому сьогодні вдарила рф, залишаються заблокованими шестеро працівників, — обласна прокуратура</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_11-01-41.jpg" length="83186" type="image/jpeg"/>
+      <pubDate>Sat, 07 Jun 2025 11:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український зенітний FPV-дрон </title>
+      <link>https://www.mandarinai.lt/post/75397</link>
+      <description>Український зенітний FPV-дрон перехопив російський безпілотник «Орлан-10» над територією Курської області на відстані 33 кілометри за лінією фронту поблизу Толпино, - «Мадяр»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_11-05-36.jpg" length="68324" type="image/jpeg"/>
+      <pubDate>Sat, 07 Jun 2025 11:05:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
