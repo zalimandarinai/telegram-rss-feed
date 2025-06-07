@@ -6,47 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 13:18:28 +0000</lastBuildDate>
-    <item>
-      <title>Український зенітний FPV-дрон </title>
-      <link>https://www.mandarinai.lt/post/75397</link>
-      <description>Український зенітний FPV-дрон перехопив російський безпілотник «Орлан-10» над територією Курської області на відстані 33 кілометри за лінією фронту поблизу Толпино, - «Мадяр»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_11-05-36.jpg" length="68324" type="image/jpeg"/>
-      <pubDate>Sat, 07 Jun 2025 11:05:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Рятувальники витягли дівчину з</title>
-      <link>https://www.mandarinai.lt/post/75398</link>
-      <description>Рятувальники витягли дівчину з руїн будинку у Харкові.
-
-«Як ви себе почуваєте?»
-
-«Краще, аніж під плитами».
-
-Вона була в квартирі на восьмому поверсі.
-
-🎥 «Суспільне Харків»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7577.MP4" length="5116528" type="video/mp4"/>
-      <pubDate>Sat, 07 Jun 2025 11:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔞 В окупованій частині Луганщи</title>
-      <link>https://www.mandarinai.lt/post/75399</link>
-      <description>🔞 В окупованій частині Луганщини розстріляли російських військових.
-
-Повідомляється, що неподалік населеного пункту Нижня Дуванка кілька російських дезертирів ліквідували командира взводу військової поліції та двох його підлеглих. 
-
-Дезертирів ще не впіймали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_11-44-22.jpg" length="277159" type="image/jpeg"/>
-      <pubDate>Sat, 07 Jun 2025 11:44:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 Бойова робота бійців зенітно</title>
-      <link>https://www.mandarinai.lt/post/75402</link>
-      <description>💥 Бойова робота бійців зенітного ракетного-артилерійського дивізіону Окремої президентської бригади, які минулої доби збили 7 повітряних цілей над Києвом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7583.MP4" length="20634751" type="video/mp4"/>
-      <pubDate>Sat, 07 Jun 2025 11:51:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Jun 2025 14:07:25 +0000</lastBuildDate>
     <item>
       <title>По гарячих слідах.
 
@@ -104,6 +64,27 @@
 У місті Азов сталася пожежа на складі пластика, де виготовляли деталі для російських дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_13-04-31.jpg" length="131482" type="image/jpeg"/>
       <pubDate>Sat, 07 Jun 2025 13:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нове відео спецоперації СБУ «П</title>
+      <link>https://www.mandarinai.lt/post/75414</link>
+      <description>Нове відео спецоперації СБУ «Павутина» — маршрут одного з квадрокоптерів, від запуску з даху модульного контейнера до точного удару по стратегічному бомбардувальнику Ту-22М3 на російському аеродромі «Белая».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7590.MP4" length="27120391" type="video/mp4"/>
+      <pubDate>Sat, 07 Jun 2025 13:22:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Біля Нижнього Новгорода  рапт</title>
+      <link>https://www.mandarinai.lt/post/75415</link>
+      <description>🔥Біля Нижнього Новгорода  раптово-планове "задимлєніє" в районі "Лукойл"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-07_13-27-22.mp4" length="954933" type="video/mp4"/>
+      <pubDate>Sat, 07 Jun 2025 13:27:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Перед вибухом і пожежею на п</title>
+      <link>https://www.mandarinai.lt/post/75416</link>
+      <description>💥🔥Перед вибухом і пожежею на підприємстві в Ніжєгородській області очевидці бачили дрон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-07_14-07-20.mp4" length="765363" type="video/mp4"/>
+      <pubDate>Sat, 07 Jun 2025 14:07:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
