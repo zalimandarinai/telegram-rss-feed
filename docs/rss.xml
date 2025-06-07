@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 08:10:52 +0000</lastBuildDate>
-    <item>
-      <title>Підрозділ «Фенікс» прикордонно</title>
-      <link>https://www.mandarinai.lt/post/75378</link>
-      <description>Підрозділ «Фенікс» прикордонної бригади «Помста» дістає настільки глибоко в тил ворога, що це викликає логічне запитання. Чим вони це роблять? Ворожі «Солнцепьок», два танки, броньована машина, гармата, система РЕБ «Житель» і пункт управління БпЛА, - деякі зразки цієї знищеної техніки ближче, ніж на 30 кілометрів до переднього краю, наближаються дуже рідко.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7556.MP4" length="31283461" type="video/mp4"/>
-      <pubDate>Fri, 06 Jun 2025 17:30:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤝 Зенітний ракетно-артилерійсь</title>
-      <link>https://www.mandarinai.lt/post/75379</link>
-      <description>🤝 Зенітний ракетно-артилерійський дивізіон Окремої президентської бригади сьогодні над Києвом збив кілька ворожих «шахедів», а, значить, врятував десятки людей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7557.MP4" length="21224902" type="video/mp4"/>
-      <pubDate>Fri, 06 Jun 2025 18:10:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Jun 2025 09:08:24 +0000</lastBuildDate>
     <item>
       <title>🤬Білий дім таємно чинить тиск </title>
       <link>https://www.mandarinai.lt/post/75380</link>
@@ -154,6 +140,20 @@ https://send.monobank.ua/jar/7burVS6WDk
 Переможемо і вистоїмо тільки разом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7538.MP4" length="11229218" type="video/mp4"/>
       <pubDate>Sat, 07 Jun 2025 07:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський винищувач Су-35 зби</title>
+      <link>https://www.mandarinai.lt/post/75392</link>
+      <description>Російський винищувач Су-35 збили сьогодні на Курщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_08-16-05.jpg" length="57146" type="image/jpeg"/>
+      <pubDate>Sat, 07 Jun 2025 08:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗСУ оприлюднили відео, на яком</title>
+      <link>https://www.mandarinai.lt/post/75393</link>
+      <description>ЗСУ оприлюднили відео, на якому горить збитий вранці російський Су-35.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7571.MP4" length="2883974" type="video/mp4"/>
+      <pubDate>Sat, 07 Jun 2025 09:05:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
