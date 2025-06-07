@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 20:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 21:07:27 +0000</lastBuildDate>
     <item>
       <title>🤬русня знову починає брудну гр</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -34,21 +34,6 @@
 
 ▪️$5 млн на комплекти засобів радіоелектронної боротьби</description>
       <pubDate>Sat, 07 Jun 2025 12:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>На фото – наслідки ударів КАБа</title>
-      <link>https://www.mandarinai.lt/post/75422</link>
-      <description>На фото – наслідки ударів КАБами по центральній частині Харкова. 
-
-Близько 17.35 ворог завдав ударів 4 керованими авіабомбами по Шевченківському та Київському районах міста.
-
-Одне з влучань — по Дитячій залізниці. Це місце, де зазвичай багато родин із дітьми. росіяни б’ють саме туди в суботу вдень.
-
-На жаль, загинула 30-річна жінка. 
-
-Ще 18 людей поранено, троє з них перебувають у важкому стані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_16-36-13.jpg" length="85024" type="image/jpeg"/>
-      <pubDate>Sat, 07 Jun 2025 16:36:13 +0000</pubDate>
     </item>
     <item>
       <title>Бійці 14-го окремого полку БпА</title>
@@ -89,6 +74,13 @@
 Наші не коментують.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_19-53-47.jpg" length="41103" type="image/jpeg"/>
       <pubDate>Sat, 07 Jun 2025 19:53:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 Скабєєва зателефонувала «дні</title>
+      <link>https://www.mandarinai.lt/post/75436</link>
+      <description>🤡 Скабєєва зателефонувала «дніпровським офісникам» із запитанням, чому вони «обманюють громадян росії». У відповідь ті назвали русню чортами і побажали їм «згоріти в пеклі»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-07_20-20-17.mp4" length="5172047" type="video/mp4"/>
+      <pubDate>Sat, 07 Jun 2025 20:20:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
