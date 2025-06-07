@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 19:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 20:08:56 +0000</lastBuildDate>
     <item>
       <title>🤬русня знову починає брудну гр</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -34,15 +34,6 @@
 
 ▪️$5 млн на комплекти засобів радіоелектронної боротьби</description>
       <pubDate>Sat, 07 Jun 2025 12:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В підмосковному Пушкіно неспо</title>
-      <link>https://www.mandarinai.lt/post/75421</link>
-      <description>🔥В підмосковному Пушкіно несподівано загорівся склад з паливно-мастильними матеріалами та газовими балонами.
-
-Щось на болотах сьогодні фаєр-шоу нон стоп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-07_16-20-30.mp4" length="716000" type="video/mp4"/>
-      <pubDate>Sat, 07 Jun 2025 16:20:30 +0000</pubDate>
     </item>
     <item>
       <title>На фото – наслідки ударів КАБа</title>
@@ -87,6 +78,17 @@
 На кадрах – те, як зараз виглядає дитяча залізниця, русня вбила її очільницю.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-07_17-20-24.mp4" length="641504" type="video/mp4"/>
       <pubDate>Sat, 07 Jun 2025 17:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>На окупованій території уражен</title>
+      <link>https://www.mandarinai.lt/post/75434</link>
+      <description>На окупованій території уражено локомотив із колоною ворожої техніки, 13 танків і понад 100 одиниць броньованої та автомобільної техніки, - Сили оборони Півдня.
+
+Росіяни стверджують, що ешелон атакували дрони по принципу спецоперації «Павутина».
+
+Наші не коментують.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-07_19-53-47.jpg" length="41103" type="image/jpeg"/>
+      <pubDate>Sat, 07 Jun 2025 19:53:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
