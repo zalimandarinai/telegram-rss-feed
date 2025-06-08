@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jun 2025 06:12:22 +0000</lastBuildDate>
-    <item>
-      <title>Бійці 14-го окремого полку БпА</title>
-      <link>https://www.mandarinai.lt/post/75429</link>
-      <description>Бійці 14-го окремого полку БпАК СБС у взаємодії з аеророзвідкою 74 ОРБ виявили та знищили пускову установку ЗРК «Бук-М3».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2025-06-07_19-38-45.mp4" length="1578437" type="video/mp4"/>
-      <pubDate>Sat, 07 Jun 2025 16:39:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Jun 2025 07:08:21 +0000</lastBuildDate>
     <item>
       <title>🤷‍♂ Starlink Ілона Маска стано</title>
       <link>https://www.mandarinai.lt/post/75431</link>
@@ -66,14 +59,14 @@
     <item>
       <title>💥Авіаудар двома французькими р</title>
       <link>https://www.mandarinai.lt/post/75438</link>
-      <description>💥Авіаудар двома французькими ракетами по пункту управління БПЛА на Херсонщині</description>
+      <description>💥Авіаудар двома французькими ракетами по ворожому пункту управління БПЛА на південному напрямку</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-08_05-09-52.mp4" length="3589681" type="video/mp4"/>
       <pubDate>Sun, 08 Jun 2025 05:09:52 +0000</pubDate>
     </item>
     <item>
       <title>💥🔥Губернатор Тульської області</title>
       <link>https://www.mandarinai.lt/post/75439</link>
-      <description>💥🔥Губернатор Тульської області підтвердив атаку невідомих БпЛА на хімічне підприємство "Азот" в Новомосковську.</description>
+      <description>💥🔥Губернатор Тульської області підтвердив атаку невідомих БпЛА на хімічне підприємство  в Новомосковську.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-08_05-16-13.mp4" length="693063" type="video/mp4"/>
       <pubDate>Sun, 08 Jun 2025 05:16:13 +0000</pubDate>
     </item>
@@ -85,6 +78,13 @@
 Також ворог просунувся в Кіндрашівці на Харківщині та Яблунівці на Донеччині. </description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-08_05-42-09.jpg" length="55799" type="image/jpeg"/>
       <pubDate>Sun, 08 Jun 2025 05:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В окупованому Мелітополі спал</title>
+      <link>https://www.mandarinai.lt/post/75443</link>
+      <description>🔥В окупованому Мелітополі спалахнув завод "Гідромаш"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-08_07-06-58.mp4" length="581533" type="video/mp4"/>
+      <pubDate>Sun, 08 Jun 2025 07:06:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
