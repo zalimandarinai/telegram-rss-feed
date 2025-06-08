@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jun 2025 21:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 22:07:34 +0000</lastBuildDate>
     <item>
       <title>🤔Українська молодь 18-19 років</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -35,14 +35,13 @@
     </item>
     <item>
       <title>❗40 шахедів над Україною: 25 н</title>
-      <link>https://www.mandarinai.lt/post/75464</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗40 шахедів над Україною: 25 на Сумщині й Харківщині (курс на Чернігівщину та Полтавщину), 15 у Запорізькій та Дніпропетровській, залітають нові.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-08_17-45-59.jpg" length="115577" type="image/jpeg"/>
       <pubDate>Sun, 08 Jun 2025 17:45:59 +0000</pubDate>
     </item>
     <item>
       <title>В результаті знищення пускової</title>
-      <link>https://www.mandarinai.lt/post/75465</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>В результаті знищення пускової установки «Іскандер-М» разом з ракетами ліквідовано 14 військовослужбовців 26-ої ракетної бригади, військова частина 54006, та з приданих їй підрозділів.
 
 Список ліквідованих військовослужбовців, які вранці 5-го червня готувались завдати удар по столиці України.    
@@ -93,7 +92,7 @@
     <item>
       <title>🤷‍♂Тим часом Трамп повторює по</title>
       <link>https://www.mandarinai.lt/post/75477</link>
-      <description>🤷‍♂Тим часом Трамп повторює помилки на Байдена на сходах</description>
+      <description>🤷‍♂Тим часом Трамп повторює помилки Байдена на сходах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-08_20-59-28.mp4" length="547227" type="video/mp4"/>
       <pubDate>Sun, 08 Jun 2025 20:59:28 +0000</pubDate>
     </item>
