@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 13:24:37 +0000</lastBuildDate>
-    <item>
-      <title>💥Також вночі та зранку в рф др</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥Також вночі та зранку в рф дрони атакували ворожі об'єкти в Нижегородській, Тамбовській та Воронезькій областях. Наслідки уточнюються</description>
-      <pubDate>Mon, 09 Jun 2025 04:47:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Jun 2025 14:09:44 +0000</lastBuildDate>
     <item>
       <title>Ракети HIMARS прилетіли по міс</title>
       <link>https://www.mandarinai.lt/post/75506</link>
@@ -65,6 +59,24 @@
 Дуже висока ефективність та результативність найкращих Повітряних Сил сучасності.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7647.MP4" length="23805578" type="video/mp4"/>
       <pubDate>Mon, 09 Jun 2025 12:36:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ворог розширює фронт на Сумс</title>
+      <link>https://www.mandarinai.lt/post/75517</link>
+      <description>❗️Ворог розширює фронт на Сумському напрямку: русня заводить штурмові групи на напрямок Степове-Яструбине. 
+
+Монітори прогнозують, що невдовзі й тут ймовірно розпочнуться штурмові дії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-09_14-06-39.jpg" length="140950" type="image/jpeg"/>
+      <pubDate>Mon, 09 Jun 2025 14:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Ізраїль передав Україні сист</title>
+      <link>https://www.mandarinai.lt/post/75518</link>
+      <description>⚡️Ізраїль передав Україні системи Patriot, які раніше отримав від США, — повідомив посол Бродський.
+
+За його словами, ці комплекси стояли на озброєнні Ізраїлю з 90-х. Передача відбулася, хоч про це майже не згадували</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-09_14-07-47.jpg" length="192310" type="image/jpeg"/>
+      <pubDate>Mon, 09 Jun 2025 14:07:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
