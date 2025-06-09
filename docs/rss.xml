@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 22:08:55 +0000</lastBuildDate>
-    <item>
-      <title>Удар FPV-дроном по човну ворог</title>
-      <link>https://www.mandarinai.lt/post/75526</link>
-      <description>Удар FPV-дроном по човну ворога з десантом.
-
-Херсонщина.
-
-Робота першого бату 40 ОБрБО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7655.MP4" length="6150408" type="video/mp4"/>
-      <pubDate>Mon, 09 Jun 2025 16:26:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Jun 2025 23:08:53 +0000</lastBuildDate>
     <item>
       <title>Збиття БПЛА «Ланцет», «Zala», </title>
       <link>https://www.mandarinai.lt/post/75527</link>
