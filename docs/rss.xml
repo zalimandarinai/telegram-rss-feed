@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 03:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 04:18:08 +0000</lastBuildDate>
     <item>
       <title>Збиття БПЛА «Ланцет», «Zala», </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -38,12 +38,6 @@
       <pubDate>Mon, 09 Jun 2025 17:56:06 +0000</pubDate>
     </item>
     <item>
-      <title>Перехоплення дронів противника</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Перехоплення дронів противника ефективно триває і в районі Сіверська на Донеччині, - 10-а ОГШБР «Едельвейс»</description>
-      <pubDate>Mon, 09 Jun 2025 18:30:10 +0000</pubDate>
-    </item>
-    <item>
       <title>❗️ Києв зараз чує такі звуки.
 </title>
       <link>https://www.mandarinai.lt/post/75541</link>
@@ -66,6 +60,15 @@
       <description>Одеса зараз</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7666.MP4" length="13833924" type="video/mp4"/>
       <pubDate>Tue, 10 Jun 2025 00:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ліквідація наслідків атаки в Ш</title>
+      <link>https://www.mandarinai.lt/post/75552</link>
+      <description>Ліквідація наслідків атаки в Шевченківському районі столиці: зруйноване колишнє посольство однієї з Європейських країн
+
+За попередніми даними постраждалих немає. Будівля не використовувалася як посольство останні кілька років.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-10_04-16-58.mp4" length="2961607" type="video/mp4"/>
+      <pubDate>Tue, 10 Jun 2025 04:16:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
