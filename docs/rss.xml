@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 12:17:50 +0000</lastBuildDate>
-    <item>
-      <title>Нічний удар безпілотника по ба</title>
-      <link>https://www.mandarinai.lt/post/75566</link>
-      <description>Нічний удар безпілотника по багатоповерхівці в Оболонському районі Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7672.MP4" length="854596" type="video/mp4"/>
-      <pubDate>Tue, 10 Jun 2025 06:27:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Гасіння пожежі після прильоту </title>
-      <link>https://www.mandarinai.lt/post/75567</link>
-      <description>Гасіння пожежі після прильоту за допомогою гелікоптерів в Києві.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-10_06-54-50.mp4" length="1845470" type="video/mp4"/>
-      <pubDate>Tue, 10 Jun 2025 06:54:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬 росія значно вдосконалила пі</title>
-      <link>https://www.mandarinai.lt/post/75568</link>
-      <description>🤬 росія значно вдосконалила північнокорейські балістичні ракети KN-23 і тепер вони вражають цілі зі смертельною точністю, - Буданов
-
-В інтерв'ю The War Zone глава ГУР додав, що перша партія KN-23, поставлена ​​росії, була неякісною, і згідно з звітами української прокуратури близько половини ракет не тільки відхилялися від траєкторії, але й вибухали в повітрі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-10_07-17-08.jpg" length="85411" type="image/jpeg"/>
-      <pubDate>Tue, 10 Jun 2025 07:17:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jun 2025 13:26:16 +0000</lastBuildDate>
     <item>
       <title>❗️Ракети та “Шахеди” гучніші з</title>
       <link>https://www.mandarinai.lt/post/75570</link>
@@ -107,6 +84,31 @@
 Путін аплодує, ковтаючи шампанське з горла.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7683.MP4" length="11352937" type="video/mp4"/>
       <pubDate>Tue, 10 Jun 2025 12:13:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Виборців в Угорщині лякають Ук</title>
+      <link>https://www.mandarinai.lt/post/75581</link>
+      <description>Виборців в Угорщині лякають Україною і особисто Зеленським, проводячи кампанію під гаслом «Ми не дамо вирішувати за нас».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-10_12-40-06.jpg" length="26773" type="image/jpeg"/>
+      <pubDate>Tue, 10 Jun 2025 12:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>«На землю!» - поліцейські пока</title>
+      <link>https://www.mandarinai.lt/post/75582</link>
+      <description>«На землю!» - поліцейські показали кадри удару «шахеда» і перших хвилин після нього.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7685.MP4" length="20807442" type="video/mp4"/>
+      <pubDate>Tue, 10 Jun 2025 12:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Трофейна «Нона» бʼє по окупан</title>
+      <link>https://www.mandarinai.lt/post/75584</link>
+      <description>💥Трофейна «Нона» бʼє по окупантах
+
+💪Потужний розрахунок мінометників 3 штурмового батальйону 92-ої ОШБР пройшов загартування піхотою. А нині лупашить противника із його ж зброї. 
+
+🫡Від цих хлопців ви не почуєте ниття про втому чи страх. Вони – воїни, які готові битися за Україну, незважаючи на те, що «у ворога більше зброї», «що ворог переважає чисельно».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7687.MP4" length="21976586" type="video/mp4"/>
+      <pubDate>Tue, 10 Jun 2025 13:11:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
