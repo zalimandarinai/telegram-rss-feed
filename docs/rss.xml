@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 11:07:59 +0000</lastBuildDate>
-    <item>
-      <title>❗️В Одесі до 2 зросла кількіст</title>
-      <link>https://www.mandarinai.lt/post/75563</link>
-      <description>❗️В Одесі до 2 зросла кількість загиблих внаслідок російської нічної атаки
-
-Ще 9 людей дістали поранення. Окрім полового будинку та станції екстреної медичної допомоги, в місті пошкоджено приватну медичну клініку, спортивний комплекс, зоопарк та будівлю залізничного вокзалу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-10_06-15-04.jpg" length="311589" type="image/jpeg"/>
-      <pubDate>Tue, 10 Jun 2025 06:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>росія атакувала Україну 322-ма</title>
-      <link>https://www.mandarinai.lt/post/75564</link>
-      <description>росія атакувала Україну 322-ма повітряними цілями, з яких 284 було ліквідовано.  
-
-Знищено: 
-
-▪️213 дронів Shahed та інших типів (ще 64 подавлені РЕБ); 
-▪️2 балістичні ракети KN-23; 
-▪️5 крилатих ракет Іскандер-К.  
-
-Зафіксовано влучання в 11 місцях, уламки впали у 16 локаціях.
-
-Основний удар був спрямований на Київ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-10_06-17-23.jpg" length="90567" type="image/jpeg"/>
-      <pubDate>Tue, 10 Jun 2025 06:17:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jun 2025 12:17:50 +0000</lastBuildDate>
     <item>
       <title>Нічний удар безпілотника по ба</title>
       <link>https://www.mandarinai.lt/post/75566</link>
@@ -113,6 +87,26 @@
 Завербована росіянами Хчеянц працювала в багатьох місцях, в тому числі, в суді та в пологовому будинку, а в 2021 році офіційно вийшла на пенсію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-10_10-17-19.jpg" length="119941" type="image/jpeg"/>
       <pubDate>Tue, 10 Jun 2025 10:17:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські БПЛА завдають ударі</title>
+      <link>https://www.mandarinai.lt/post/75578</link>
+      <description>Українські БПЛА завдають ударів по Білгородщині.
+
+Сьогодні працювали вночі та розвалили російський польовий склад боєприпасів, - підрозділ спецпризначення з мотивуючою назвою «Аджара Гуджу».
+
+Відзначились оператори з позивними «Волина», «Сноу», «Стугна» і «Браконьєр».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7682.MOV" length="7646942" type="video/mp4"/>
+      <pubDate>Tue, 10 Jun 2025 11:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фотографу New York Post під ча</title>
+      <link>https://www.mandarinai.lt/post/75580</link>
+      <description>Фотографу New York Post під час протесту в Лос-Анджелесі вистрелили в голову резиновою кулею.
+
+Путін аплодує, ковтаючи шампанське з горла.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7683.MP4" length="11352937" type="video/mp4"/>
+      <pubDate>Tue, 10 Jun 2025 12:13:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
