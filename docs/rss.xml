@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 09:10:59 +0000</lastBuildDate>
-    <item>
-      <title>В Києві триває ліквідація насл</title>
-      <link>https://www.mandarinai.lt/post/75559</link>
-      <description>В Києві триває ліквідація наслідків нічної атаки ворога,  Поранення отримали чотири людини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-10_05-05-45.mp4" length="751571" type="video/mp4"/>
-      <pubDate>Tue, 10 Jun 2025 05:05:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jun 2025 10:10:14 +0000</lastBuildDate>
     <item>
       <title>❗️В Одесі до 2 зросла кількіст</title>
       <link>https://www.mandarinai.lt/post/75563</link>
@@ -97,6 +90,12 @@
       <description>Більшість українців, а саме 52%, рішуче проти будь-яких територіальних поступок, навіть якщо війна буде значно тривалішою, — КМІС.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-10_08-07-25.jpg" length="73789" type="image/jpeg"/>
       <pubDate>Tue, 10 Jun 2025 08:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Батальйон «Сила Свободи» 4-ої </title>
+      <link>https://www.mandarinai.lt/post/75575</link>
+      <description>Батальйон «Сила Свободи» 4-ої бригади НГУ «Рубіж» відбив добре спланований російський штурм з великою кількістю бронетехніки в районі Сіверська.</description>
+      <pubDate>Tue, 10 Jun 2025 09:57:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
