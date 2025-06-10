@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 10:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 11:07:59 +0000</lastBuildDate>
     <item>
       <title>❗️В Одесі до 2 зросла кількіст</title>
       <link>https://www.mandarinai.lt/post/75563</link>
@@ -96,6 +96,23 @@
       <link>https://www.mandarinai.lt/post/75575</link>
       <description>Батальйон «Сила Свободи» 4-ої бригади НГУ «Рубіж» відбив добре спланований російський штурм з великою кількістю бронетехніки в районі Сіверська.</description>
       <pubDate>Tue, 10 Jun 2025 09:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ затримала жительку Харкова</title>
+      <link>https://www.mandarinai.lt/post/75576</link>
+      <description>СБУ затримала жительку Харкова, яка, за завданням фсб, закликала до створення «буферних зон» в Україні та наводила російські удари на Харків
+
+За матеріалами справи, наведенням ворожого вогню займалася Олена Хчеянц. 
+
+Вона потрапила у поле зору рашистів, коли закликала у соцмережах до створення в Україні так званих «буферних зон».
+
+Після вербування їй передали список геолокацій, які «потрібно було перевірити і дати детальний опис». 
+
+Агентка встановила, що за координатами розміщувалися підрозділи Сил оборони, але Служба Безпеки виявила зрадницю одразу після її вербування, тож заходи для убезпечення локацій українських військ вчасно проведені.
+
+Завербована росіянами Хчеянц працювала в багатьох місцях, в тому числі, в суді та в пологовому будинку, а в 2021 році офіційно вийшла на пенсію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-10_10-17-19.jpg" length="119941" type="image/jpeg"/>
+      <pubDate>Tue, 10 Jun 2025 10:17:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
