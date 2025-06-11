@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Jun 2025 03:40:53 +0000</lastBuildDate>
-    <item>
-      <title>💫 День народження в день звіль</title>
-      <link>https://www.mandarinai.lt/post/75601</link>
-      <description>💫 День народження в день звільнення, - український боєць на волі і святкує цей день зі своїми, які на нього так довго чекали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7702.MP4" length="17044352" type="video/mp4"/>
-      <pubDate>Tue, 10 Jun 2025 15:28:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Jun 2025 04:18:43 +0000</lastBuildDate>
     <item>
       <title>Усі звільнені отримали серйозн</title>
       <link>https://www.mandarinai.lt/post/75602</link>
@@ -125,6 +118,22 @@
       <description>❗️💥  🏙️  Внаслідок удару дронами по Харкову загорівся житловий будинок  — палають понад 15 квартир</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7712.MP4" length="2784693" type="video/mp4"/>
       <pubDate>Tue, 10 Jun 2025 22:32:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Двоє людей загинули та ще по</title>
+      <link>https://www.mandarinai.lt/post/75615</link>
+      <description>❗️Двоє людей загинули та ще понад пів сотні зазнали поранень та гострої реакції на стрес внаслідок масованої атаки дронами-камікадзе по Харкову. Росіяни вдарили після опівночі й поцілили по житлових кварталах на півдні міста. Всього за дев'ять хвилин тут пролунали 17 вибухів, розповів мер Ігор Терехов. 
+
+Три БпЛА поцілили по житлових багатоповерхівках, інші — в приватну забудову</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-11_03-40-56.mp4" length="5367229" type="video/mp4"/>
+      <pubDate>Wed, 11 Jun 2025 03:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Тамбовський пороховий завод </title>
+      <link>https://www.mandarinai.lt/post/75616</link>
+      <description>💥🔥Тамбовський пороховий завод горить і вибухає після зустрічі з добрими дронами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-11_03-42-23.mp4" length="1022192" type="video/mp4"/>
+      <pubDate>Wed, 11 Jun 2025 03:42:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
