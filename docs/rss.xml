@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Jun 2025 09:10:22 +0000</lastBuildDate>
-    <item>
-      <title>🔻 В Харкові вже 3 загиблих вна</title>
-      <link>https://www.mandarinai.lt/post/75620</link>
-      <description>🔻 В Харкові вже 3 загиблих внаслідок нічної атаки російських вбивць 
-
-Щойно в опіковій реанімації помер 65-річний чоловік, який був госпіталізований у вкрай важкому стані з глибокими обширними опіками, - ОВА. </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-11_06-26-19.jpg" length="249109" type="image/jpeg"/>
-      <pubDate>Wed, 11 Jun 2025 06:26:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Jun 2025 10:10:26 +0000</lastBuildDate>
     <item>
       <title>💥Марьїно Курської області сьог</title>
       <link>https://www.mandarinai.lt/post/75621</link>
@@ -110,6 +101,39 @@
 Ключове слово «приблизно».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-11_09-00-46.jpg" length="55130" type="image/jpeg"/>
       <pubDate>Wed, 11 Jun 2025 09:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥀В Україну повернули тіла 1212</title>
+      <link>https://www.mandarinai.lt/post/75632</link>
+      <description>🥀В Україну повернули тіла 1212 загиблих захисників, - Коордштаб
+
+З числа повернених "на щиті" оборонців полеглі з:
+- Курщини;
+- ⁠Харківщини;
+- ⁠Луганщини;
+- ⁠Донеччини;
+- ⁠Запорізької області;
+- ⁠Херсонщини.
+
+Вічна Слава Героям!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-11_09-37-01.jpg" length="291455" type="image/jpeg"/>
+      <pubDate>Wed, 11 Jun 2025 09:37:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Херсонщині використовують п</title>
+      <link>https://www.mandarinai.lt/post/75633</link>
+      <description>На Херсонщині використовують підводний дрон для обстеження дна водойм і пошуку вибухівки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7717.MP4" length="8206732" type="video/mp4"/>
+      <pubDate>Wed, 11 Jun 2025 09:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Окупант на дорозі смерті ліво</title>
+      <link>https://www.mandarinai.lt/post/75634</link>
+      <description>👀Окупант на дорозі смерті лівобережжя Херсонщини фіксує знищений українським дроном російський "Торнадо".
+
+Сам почувається в безпеці з РЕБом "Булат". Хоча цей пристрій абсолютно безпорадний проти українських дронів на оптоволокні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-11_09-44-43.mp4" length="3113596" type="video/mp4"/>
+      <pubDate>Wed, 11 Jun 2025 09:44:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
