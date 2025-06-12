@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jun 2025 17:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 18:12:28 +0000</lastBuildDate>
     <item>
       <title>«Я незламний! Я люблю свою кра</title>
       <link>https://www.mandarinai.lt/post/75707</link>
@@ -86,6 +86,25 @@
       <description>Гурт «Курган і Агрегат» під час презентації нового альбому у Харкові заявив про підтримку Руху Опору Сил Спеціальних операцій, артисти вийшли на сцену в тематичних футболках і закликали українців на окупованих територіях не залишатися осторонь.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7793.MP4" length="3778911" type="video/mp4"/>
       <pubDate>Thu, 12 Jun 2025 15:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрозділ українських оператор</title>
+      <link>https://www.mandarinai.lt/post/75718</link>
+      <description>Підрозділ українських операторів дронів відпрацював по російських цілях на Бєлгородщині, уражено приховану мінометну позицію та бліндаж піхотинців противника.</description>
+      <pubDate>Thu, 12 Jun 2025 17:13:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Зеленський веде війну за виж</title>
+      <link>https://www.mandarinai.lt/post/75720</link>
+      <description>❗️Зеленський веде війну за виживання нації на своїй землі, і це те, що зробив Авраам Лінкольн, - таку паралель провів Келлог 
+
+«Він боровся на своїй землі за виживання нації й національний суверенітет», – додав він. 
+Заявивши, що всім треба розуміти, з якими проблемами зіткнулась Україна на полі болі зараз. 
+
+Водночас, Держсекретар США Рубіо привітав країну-гній з днем росії.
+Це в американських посадовців така гра в поганого і доброго поліцейського?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-12_17-56-34.jpg" length="71453" type="image/jpeg"/>
+      <pubDate>Thu, 12 Jun 2025 17:56:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
