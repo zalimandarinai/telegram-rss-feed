@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jun 2025 19:07:09 +0000</lastBuildDate>
-    <item>
-      <title>Масштаб блокування Росією сигн</title>
-      <link>https://www.mandarinai.lt/post/75710</link>
-      <description>Масштаб блокування Росією сигналів глобальної супутникової системи навігації GPS на Балтиці розширюється, - заступник міністра оборони Литви Кароліс Алекса</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-12_12-38-21.jpg" length="78972" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jun 2025 12:38:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>За матеріалами СБУ, перед судо</title>
-      <link>https://www.mandarinai.lt/post/75712</link>
-      <description>За матеріалами СБУ, перед судом постане окупант, який розстріляв цивільних мешканців Харківщини
-
-Окупант в жовтні 2024 року розстріляв двох цивільних жителів Харківщини і згодом потрапив у полон до Сил оборони.
-
-Йдеться про 21-річного громадянина рф Артема Кулікова, який раніше відбував покарання за розбій та крадіжки. 
-
-Його мобілізували з російської тюрми до 23-ї мотострілецької бригади країни-агресора.
-
-За даними слідства, зайнявши бойові позиції поблизу одного із селищ Куп’янського району, рашисти розпочали «зачистку» населеного пункту.
-
-У той день Куліков разом зі спільником ув’язнив двох місцевих жителів,, окупанти намагалися «вибити» з потерпілих інформацію про місця дислокації українських військ.
-
-Не отримавши інформацію, Куліков зі свого автомата впритул розстріляв двох чоловіків прямо в будинку їхнього односельця.
-
-Крім цього, під час допиту Кулікова стало відомо , що військове командування рф регулярно віддає накази підлеглим вбивати цивільних мешканців на тимчасово окупованих територіях України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-12_13-16-56.jpg" length="114442" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jun 2025 13:16:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Jun 2025 20:10:23 +0000</lastBuildDate>
     <item>
       <title>⚡️Мирні переговори зайшли в гл</title>
       <link>https://www.mandarinai.lt/post/75713</link>
@@ -77,7 +49,6 @@
 На території аеродрому також можна помітити наявність ділянок із ймовірними позиціями для ведення вогню ЗРК.
 
 Аеропорт окупанти в березні 2025 року без розголосу передали міноборони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-12_18-18-36.jpg" length="27626" type="image/jpeg"/>
       <pubDate>Thu, 12 Jun 2025 18:18:36 +0000</pubDate>
     </item>
     <item>
@@ -100,8 +71,13 @@
       <title>Під завалами цивільного підпри</title>
       <link>https://www.mandarinai.lt/post/75724</link>
       <description>Під завалами цивільного підприємства, яке армія рф атакувала 7 червня, відшукали тіло останньої, шостої людини, яка вважалася зниклою безвісти. Пошукова операція, яка тривала понад п'ять діб, завершена, повідомив міський голова Ігор Терехов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-12_19-01-51.jpg" length="163691" type="image/jpeg"/>
       <pubDate>Thu, 12 Jun 2025 19:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чому українки залишаються в Ук</title>
+      <link>https://www.mandarinai.lt/post/75725</link>
+      <description>Чому українки залишаються в Україні? 65% кажуть, що тут кращі медичні послуги, 52% мають ліпші можливості для карʼєри, а 40% вважають, що в Україні зараз достатньо безпечно, — UA War.</description>
+      <pubDate>Thu, 12 Jun 2025 19:58:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
