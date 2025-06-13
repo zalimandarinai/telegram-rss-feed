@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jun 2025 21:07:50 +0000</lastBuildDate>
-    <item>
-      <title>❗️Ізраїль вдарив по резиденції</title>
-      <link>https://www.mandarinai.lt/post/75787</link>
-      <description>❗️Ізраїль вдарив по резиденції Верховного лідера Ірану аятоли Алі Хаменеї, — ізраїльські ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-13_18-06-58.mp4" length="383758" type="video/mp4"/>
-      <pubDate>Fri, 13 Jun 2025 18:06:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Jun 2025 22:08:45 +0000</lastBuildDate>
     <item>
       <title>❗️Відповідь Ірану: щойно Тегер</title>
       <link>https://www.mandarinai.lt/post/75788</link>
@@ -89,6 +82,17 @@
 📝 «Більшість ракет успішно перехопили системи ППО або вони не досягли цілей. Є кілька влучань по будівлях, частина з яких наслідок падіння уламків перехоплених ракет».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7858.MP4" length="742419" type="video/mp4"/>
       <pubDate>Fri, 13 Jun 2025 21:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️В ефірі CNN запитали Трампа:</title>
+      <link>https://www.mandarinai.lt/post/75801</link>
+      <description>❗️В ефірі CNN запитали Трампа: «Ви хочете сказати, що Ізраїль убив людей, з якими ви вели переговори?»
+
+На що президент США саркастично відповів:
+
+«Ну, вони точно померли не від грипу і не від коронавірусу. Люди, з якими я мав справу, мертві».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-13_21-41-36.mp4" length="5172864" type="video/mp4"/>
+      <pubDate>Fri, 13 Jun 2025 21:41:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
