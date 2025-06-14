@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 13:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 14:07:25 +0000</lastBuildDate>
     <item>
       <title>Момент удару безпілотника по ж</title>
       <link>https://www.mandarinai.lt/post/75820</link>
@@ -49,13 +49,6 @@
       <pubDate>Sat, 14 Jun 2025 11:25:58 +0000</pubDate>
     </item>
     <item>
-      <title>Четвертий обмін наших бійців з</title>
-      <link>https://www.mandarinai.lt/post/75828</link>
-      <description>Четвертий обмін наших бійців за тиждень, - ДПСУ поділилась емоційними кадрами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-14_12-39-49.jpg" length="67074" type="image/jpeg"/>
-      <pubDate>Sat, 14 Jun 2025 12:39:49 +0000</pubDate>
-    </item>
-    <item>
       <title>Відбувся 4-ий обмін в рамках д</title>
       <link>https://www.mandarinai.lt/post/75829</link>
       <description>Відбувся 4-ий обмін в рамках домовленостей в Стамбулі. 
@@ -69,6 +62,15 @@
 Попереду - лікування, реабілітація, психологічна допомога.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-14_12-42-41.jpg" length="97708" type="image/jpeg"/>
       <pubDate>Sat, 14 Jun 2025 12:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент зустрічі мами та бійця,</title>
+      <link>https://www.mandarinai.lt/post/75835</link>
+      <description>Момент зустрічі мами та бійця, якого русня катувала у полоні.
+
+російські виродки відрубали хлопцю палець ще в перші дні полону, а потім скидали матері фото</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-14_13-41-55.mp4" length="1502929" type="video/mp4"/>
+      <pubDate>Sat, 14 Jun 2025 13:41:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
