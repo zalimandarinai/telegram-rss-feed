@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 04:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Іранські ракети атакували ключ</title>
-      <link>https://www.mandarinai.lt/post/75793</link>
-      <description>Іранські ракети атакували ключовий командний пункт ЦАХАЛ, де, ймовірно, знаходиться все військове та політичне керівництво Ізраїлю.
-
-Ізраїль збив близько 50 зі 100 балістичних іранських ракет.
-
-Попередньо, удари фіксувалися щонайменше у 7 районах центру країни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7851.MP4" length="2901865" type="video/mp4"/>
-      <pubDate>Fri, 13 Jun 2025 18:36:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Приліт по будівлі міністерства</title>
-      <link>https://www.mandarinai.lt/post/75796</link>
-      <description>Приліт по будівлі міністерства оборони в Тель-Авіві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7854.MP4" length="3275787" type="video/mp4"/>
-      <pubDate>Fri, 13 Jun 2025 19:49:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Jun 2025 05:09:16 +0000</lastBuildDate>
     <item>
       <title>«Ми – не ви», - так відповів н</title>
       <link>https://www.mandarinai.lt/post/75797</link>
@@ -93,6 +75,20 @@
       <description>Ранок в Ізраїлі після іранських ударів - район Яффо в Тель-Авіві і місто Рішон-леЦион.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-14_03-19-59.jpg" length="142382" type="image/jpeg"/>
       <pubDate>Sat, 14 Jun 2025 03:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В Самарській області росії а</title>
+      <link>https://www.mandarinai.lt/post/75805</link>
+      <description>💥🔥В Самарській області росії атакований ТОВ «Новокубишівський завод каталізаторів»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-14_04-21-55.mp4" length="4219450" type="video/mp4"/>
+      <pubDate>Sat, 14 Jun 2025 04:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Також БПЛА атакували підприє</title>
+      <link>https://www.mandarinai.lt/post/75807</link>
+      <description>💥🔥Також БПЛА атакували підприємство «Невинномиський Азот» у Ставропольському краї.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-14_04-43-01.mp4" length="8724177" type="video/mp4"/>
+      <pubDate>Sat, 14 Jun 2025 04:43:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
