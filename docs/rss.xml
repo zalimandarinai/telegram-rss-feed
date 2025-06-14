@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 11:06:47 +0000</lastBuildDate>
-    <item>
-      <title>Нова тактика ворога: FPV-засід</title>
-      <link>https://www.mandarinai.lt/post/75811</link>
-      <description>Нова тактика ворога: FPV-засідки на цивільні авто
-
-Ворожий дрон «паркується» на узбіччі дороги й чекає наближення цілі, потім злітає та атакує. 
-
-Але оператори підрозділу Держприкордонслужби «Фенікс» доволі швидко помітили такі маневри противника. 
-
-Вони дуже активно працюють на виявлення та знищення таких засідкок.
-
-На Донеччині знищено 7 таких FPV-засідок, автівку, пункт управління БпЛА, польовий склад з боєприпасами противника.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7863.MP4" length="19608736" type="video/mp4"/>
-      <pubDate>Sat, 14 Jun 2025 06:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перехопили відеосигнал ворожог</title>
-      <link>https://www.mandarinai.lt/post/75812</link>
-      <description>Перехопили відеосигнал ворожого безпілотника і уразили пункт управління російськими дронами.
-
-Оператори 210-го окремого штурмового полку «хакнули» відеоканал російського безпілотника та вирахували, звідки противник управляє своїми FPV-дронами.
-
-Після цього по російському пункту управління прилетів наш безпілотник.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7864.MP4" length="8997345" type="video/mp4"/>
-      <pubDate>Sat, 14 Jun 2025 06:39:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Jun 2025 12:14:41 +0000</lastBuildDate>
     <item>
       <title>❗️Дві тисячі ракет обіцяють ви</title>
       <link>https://www.mandarinai.lt/post/75813</link>
@@ -128,6 +102,20 @@
 У вересні заплановані спільні російсько-білоруські навчання «Захід-2025», які можуть стати прикриттям для агресивних дій проти України або країн Балтії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-14_10-48-02.jpg" length="105924" type="image/jpeg"/>
       <pubDate>Sat, 14 Jun 2025 10:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Скид авіабомб AASM HAMMER по п</title>
+      <link>https://www.mandarinai.lt/post/75825</link>
+      <description>Скид авіабомб AASM HAMMER по позиціях ворога біля річки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7869.MP4" length="14114417" type="video/mp4"/>
+      <pubDate>Sat, 14 Jun 2025 11:17:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлене, як один з тих трансп</title>
+      <link>https://www.mandarinai.lt/post/75826</link>
+      <description>Заявлене, як один з тих транспортних засобів, які «Моссад» використовував для запуску БПЛА по системах протиповітряної оборони та інших цілях в Ірані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7870.MP4" length="677341" type="video/mp4"/>
+      <pubDate>Sat, 14 Jun 2025 11:25:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
