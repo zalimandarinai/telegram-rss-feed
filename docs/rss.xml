@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 02:26:55 +0000</lastBuildDate>
-    <item>
-      <title>❗️Відповідь Ірану: щойно Тегер</title>
-      <link>https://www.mandarinai.lt/post/75788</link>
-      <description>❗️Відповідь Ірану: щойно Тегеран запустив понад 100 балістичних ракет по Ізраїлю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-13_18-12-51.mp4" length="2720616" type="video/mp4"/>
-      <pubDate>Fri, 13 Jun 2025 18:12:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Прильоти в Тель-Авіві та робот</title>
-      <link>https://www.mandarinai.lt/post/75789</link>
-      <description>Прильоти в Тель-Авіві та робота ізраїльської ППО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7847.MP4" length="2586717" type="video/mp4"/>
-      <pubDate>Fri, 13 Jun 2025 18:33:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Jun 2025 03:36:56 +0000</lastBuildDate>
     <item>
       <title>Іранські ракети атакували ключ</title>
       <link>https://www.mandarinai.lt/post/75793</link>
@@ -93,6 +79,20 @@
 «Ну, вони точно померли не від грипу і не від коронавірусу. Люди, з якими я мав справу, мертві».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-13_21-41-36.mp4" length="5172864" type="video/mp4"/>
       <pubDate>Fri, 13 Jun 2025 21:41:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Запоріжжі по місту сильні по</title>
+      <link>https://www.mandarinai.lt/post/75802</link>
+      <description>В Запоріжжі по місту сильні пожежі після нічних ударів «шахедами».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-14_03-17-00.jpg" length="153524" type="image/jpeg"/>
+      <pubDate>Sat, 14 Jun 2025 03:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ранок в Ізраїлі після іранськи</title>
+      <link>https://www.mandarinai.lt/post/75803</link>
+      <description>Ранок в Ізраїлі після іранських ударів - район Яффо в Тель-Авіві і місто Рішон-леЦион.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-14_03-19-59.jpg" length="142382" type="image/jpeg"/>
+      <pubDate>Sat, 14 Jun 2025 03:19:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
