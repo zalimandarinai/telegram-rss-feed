@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Jun 2025 11:06:58 +0000</lastBuildDate>
-    <item>
-      <title>ППО збила:
-
-111 ворожих БпЛА т</title>
-      <link>https://www.mandarinai.lt/post/75862</link>
-      <description>ППО збила:
-
-111 ворожих БпЛА типу «Shahed» (безпілотників інших типів) збито вогневими засобами, 48 — локаційно втрачені/подавлені РЕБ;
-
-
-2 аеробалістичні Х-47М2 «Кинджал»;
-
-3 крилаті ракети «Іскандер-К»;
-
-3 крилаті ракети «Калібр».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-15_07-03-34.jpg" length="90224" type="image/jpeg"/>
-      <pubDate>Sun, 15 Jun 2025 07:03:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥💥Атака дронів на авіабазу рус</title>
-      <link>https://www.mandarinai.lt/post/75864</link>
-      <description>🔥💥Атака дронів на авіабазу русні у Воронезькій області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_08-28-04.mp4" length="2497489" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 08:28:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Jun 2025 12:14:59 +0000</lastBuildDate>
     <item>
       <title>💥Тим часом дрони вибухають в р</title>
       <link>https://www.mandarinai.lt/post/75866</link>
@@ -96,6 +71,22 @@
       <description>Ізраїльські фахівці збирають для вивчення масштабні залишки іранських балістичних ракет</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-15_10-32-56.jpg" length="187878" type="image/jpeg"/>
       <pubDate>Sun, 15 Jun 2025 10:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф вдарила по офісам «Boeing</title>
+      <link>https://www.mandarinai.lt/post/75878</link>
+      <description>❗️рф вдарила по офісам «Boeing» у Києві, – FT з посиланням на джерела
+
+Видання пише, що будівля була сильно пошкоджена внаслідок однієї з нещодавніх масштабних атак</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-15_11-27-02.jpg" length="125654" type="image/jpeg"/>
+      <pubDate>Sun, 15 Jun 2025 11:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>😂Навколо заводу по виробництву</title>
+      <link>https://www.mandarinai.lt/post/75879</link>
+      <description>😂Навколо заводу по виробництву дронів в російській Єлабузі люди зі стрілецькою зброєю відчайдушно, але марно намагались зупинити атаку дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_11-51-18.mp4" length="9085259" type="video/mp4"/>
+      <pubDate>Sun, 15 Jun 2025 11:51:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
