@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Jun 2025 20:09:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 21:07:39 +0000</lastBuildDate>
     <item>
       <title>⚡️У Тегерані знайшли мертвим г</title>
       <link>https://www.mandarinai.lt/post/75885</link>
@@ -96,6 +96,13 @@
       <description>⚡️ У Хайфі пряме влучання ракети в будівлю</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_18-33-05.mp4" length="2316640" type="video/mp4"/>
       <pubDate>Sun, 15 Jun 2025 18:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ППО збиває шахеди на околицях</title>
+      <link>https://www.mandarinai.lt/post/75897</link>
+      <description>💥ППО збиває шахеди на околицях Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_20-54-07.mp4" length="124483" type="video/mp4"/>
+      <pubDate>Sun, 15 Jun 2025 20:54:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
