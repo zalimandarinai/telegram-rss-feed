@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Jun 2025 15:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 16:09:34 +0000</lastBuildDate>
     <item>
       <title>❗️росія може відправити в Прид</title>
       <link>https://www.mandarinai.lt/post/75872</link>
@@ -64,11 +64,20 @@
       <pubDate>Sun, 15 Jun 2025 11:51:18 +0000</pubDate>
     </item>
     <item>
-      <title>Момент прильоту іранської раке</title>
-      <link>https://www.mandarinai.lt/post/75883</link>
-      <description>Момент прильоту іранської ракети по багатоповерхівці в Тель-Авіві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7896.MP4" length="619793" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 12:27:35 +0000</pubDate>
+      <title>⚡️У Тегерані знайшли мертвим г</title>
+      <link>https://www.mandarinai.lt/post/75885</link>
+      <description>⚡️У Тегерані знайшли мертвим голову поліції Ахмадрезу Радана, відомого, як «тегеранський м'ясник».
+
+Він був особисто причетний до придушення протестів та масових страт опозиціонерів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-15_15-40-22.jpg" length="51266" type="image/jpeg"/>
+      <pubDate>Sun, 15 Jun 2025 15:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ізраїль з відстані близько 230</title>
+      <link>https://www.mandarinai.lt/post/75886</link>
+      <description>Ізраїль з відстані близько 2300 км атакував іранський літак-заправник в аеропорту Мешхед в  східній частині Ірану, - найдальший удар із початку операції, заявили в ізраїльській армії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7897.MP4" length="3485552" type="video/mp4"/>
+      <pubDate>Sun, 15 Jun 2025 15:41:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
