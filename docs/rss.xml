@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Jun 2025 12:14:59 +0000</lastBuildDate>
-    <item>
-      <title>💥Тим часом дрони вибухають в р</title>
-      <link>https://www.mandarinai.lt/post/75866</link>
-      <description>💥Тим часом дрони вибухають в російській Єлабузі (Татарстан), на заводі, де збирають “шахеди”</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_09-25-05.mp4" length="1941344" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 09:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Ізраїль знищив в Ірані завод</title>
-      <link>https://www.mandarinai.lt/post/75868</link>
-      <description>❗️Ізраїль знищив в Ірані завод із виробництва «Шахедів» та інших БпЛА, — Clash
-
-А також компанію Shiraz Electronics Industries, яка виробляє майже всі радарні системи в Ірані</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_09-30-15.mp4" length="2262339" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 09:30:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Jun 2025 13:19:07 +0000</lastBuildDate>
     <item>
       <title>❗️В Ірані знищено завод з виро</title>
       <link>https://www.mandarinai.lt/post/75869</link>
@@ -82,11 +66,18 @@
       <pubDate>Sun, 15 Jun 2025 11:27:02 +0000</pubDate>
     </item>
     <item>
-      <title>😂Навколо заводу по виробництву</title>
+      <title>🔥Навколо заводу по виробництву</title>
       <link>https://www.mandarinai.lt/post/75879</link>
-      <description>😂Навколо заводу по виробництву дронів в російській Єлабузі люди зі стрілецькою зброєю відчайдушно, але марно намагались зупинити атаку дронів.</description>
+      <description>🔥Навколо заводу по виробництву БпЛА російській Єлабузі люди зі стрілецькою зброєю відчайдушно, але марно намагались зупинити атаку дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_11-51-18.mp4" length="9085259" type="video/mp4"/>
       <pubDate>Sun, 15 Jun 2025 11:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент прильоту іранської раке</title>
+      <link>https://www.mandarinai.lt/post/75883</link>
+      <description>Момент прильоту іранської ракети по багатоповерхівці в Тель-Авіві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7896.MP4" length="619793" type="video/mp4"/>
+      <pubDate>Sun, 15 Jun 2025 12:27:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
