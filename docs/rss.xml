@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 06:14:59 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ У Хайфі пряме влучання раке</title>
-      <link>https://www.mandarinai.lt/post/75894</link>
-      <description>⚡️ У Хайфі пряме влучання ракети в будівлю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_18-33-05.mp4" length="2316640" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 18:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥ППО збиває шахеди на околицях</title>
-      <link>https://www.mandarinai.lt/post/75897</link>
-      <description>💥ППО збиває шахеди на околицях Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_20-54-07.mp4" length="124483" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 20:54:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 07:11:56 +0000</lastBuildDate>
     <item>
       <title>Атака дронів на Орел</title>
       <link>https://www.mandarinai.lt/post/75899</link>
@@ -59,6 +45,42 @@
       <description>⚡️Трамп зустрінеться із Зеленським на полях саміту країн G7, який розпочинається сьогодні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_05-47-43.jpg" length="139102" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 05:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Воїни ЗСУ в останню мить підби</title>
+      <link>https://www.mandarinai.lt/post/75908</link>
+      <description>Воїни ЗСУ в останню мить підбивають ворожий оптоволоконний FPV, який летів прямо в їх пікап.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-16_06-34-12.mp4" length="4460141" type="video/mp4"/>
+      <pubDate>Mon, 16 Jun 2025 06:34:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️ Армія рф просунулась біля Б</title>
+      <link>https://www.mandarinai.lt/post/75909</link>
+      <description>⚔️ Армія рф просунулась біля Бурлацького та в Новополі на Донеччині, — DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_06-34-44.jpg" length="46337" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 06:34:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Сили ППО знищили 125 із 138 </title>
+      <link>https://www.mandarinai.lt/post/75910</link>
+      <description>❗️Сили ППО знищили 125 із 138 ворожих дронів за ніч
+
+Зокрема, 84 “Шахеди” та інші БпЛА були збиті вогневими засобами, ще 41 — подавлені або втрачені через роботу РЕБ.
+
+Основний удар противник спрямував на Донеччину. Зафіксовано влучання у 10 локаціях, уламки впали ще у 8.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_06-40-25.jpg" length="109409" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 06:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️🇺🇸 У Тель-Авіві пошкоджено б</title>
+      <link>https://www.mandarinai.lt/post/75911</link>
+      <description>❗️🇺🇸 У Тель-Авіві пошкоджено будівлю посольства США після ракетного обстрілу з боку Ірану, — ЗМІ 
+
+За словами американського посла в Ізраїлі Майка Хакабі, внаслідок обстрілу ніхто з персоналу не постраждав. Проте посольство та консульство США в Ізраїлі буде тимчасово закрито.
+
+На другому відео наслідки нічного ракетного удару Ірану по Тель-Авіву</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-16_06-58-21.mp4" length="1035394" type="video/mp4"/>
+      <pubDate>Mon, 16 Jun 2025 06:58:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
