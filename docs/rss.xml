@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 15:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 16:11:25 +0000</lastBuildDate>
     <item>
       <title>🤬 На фото солдат ЗСУ після трь</title>
       <link>https://www.mandarinai.lt/post/75924</link>
@@ -19,7 +19,7 @@
     <item>
       <title>🤯 FT: Від початку повномасштаб</title>
       <link>https://www.mandarinai.lt/post/75925</link>
-      <description>🤯 FT: Від початку повномасштабної війни Росія отримала від ЄС понад 200 млрд євро за енергоносії</description>
+      <description>🤯 FT: Від початку повномасштабної війни росія отримала від ЄС понад 200 млрд євро за енергоносії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_09-54-21.jpg" length="60550" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 09:54:21 +0000</pubDate>
     </item>
@@ -97,6 +97,20 @@ https://send.monobank.ua/jar/5okcPyPgmn
 «Це могло бути зроблено росіянами навмисно, щоб збільшити кількість переданих тіл та завантажити роботою наших експертів, доповнюючи все це цинічним інформаційним тиском. А може й бути звичним для них недбалим ставленням до власних людей. У будь-якому разі ці тіла ми теж ідентифіковуємо».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_13-22-22.jpg" length="174920" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 13:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ізраїль завдав удару по штаб-к</title>
+      <link>https://www.mandarinai.lt/post/75936</link>
+      <description>Ізраїль завдав удару по штаб-квартирі іранського держтелебачення прямо під час випуску новин.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-16_15-20-33.mp4" length="1507286" type="video/mp4"/>
+      <pubDate>Mon, 16 Jun 2025 15:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>За кілька років росія модерніз</title>
+      <link>https://www.mandarinai.lt/post/75937</link>
+      <description>За кілька років росія модернізувала щонайменше 5 ядерних баз поблизу Європи, зокрема у Калінінграді, на Півночі та в Білорусі, -  шведське видання SVT з посиланням на супутникові знімки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7922.MP4" length="21005780" type="video/mp4"/>
+      <pubDate>Mon, 16 Jun 2025 15:29:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
