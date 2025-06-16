@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 05:12:27 +0000</lastBuildDate>
-    <item>
-      <title>Український безпілотник «Vampi</title>
-      <link>https://www.mandarinai.lt/post/75891</link>
-      <description>Український безпілотник «Vampire» відомий не перший рік, в тому числі, і окупантам. Разом з тим, при його появі в них, як і раніше, починається паніка. Оператор 35-ої окремої бригади морської піхоти чітко і зрозуміло пояснює, чому цей дрон все ще є актуальним бойовим засобом. Хочете знати більше? Підписуйтесь на новий канал морських піхотинців.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7905.MP4" length="18428553" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 16:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Трамп заборонив Ізраїлю вбив</title>
-      <link>https://www.mandarinai.lt/post/75892</link>
-      <description>⚡️Трамп заборонив Ізраїлю вбивати верховного лідера Ірану Алі Хаменеї, — Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-15_17-25-33.jpg" length="112450" type="image/jpeg"/>
-      <pubDate>Sun, 15 Jun 2025 17:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Ірані почались антиурядові п</title>
-      <link>https://www.mandarinai.lt/post/75893</link>
-      <description>В Ірані почались антиурядові протести і диверсії проти силовиків. Втім ще недостатньо масові, щоб можна було говорити про можливість повалення режиму.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_17-46-23.mp4" length="638422" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 17:46:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 06:14:59 +0000</lastBuildDate>
     <item>
       <title>⚡️ У Хайфі пряме влучання раке</title>
       <link>https://www.mandarinai.lt/post/75894</link>
@@ -66,6 +45,20 @@
       <description>💥Іранські ракети влучили по електростанції в Хайфі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_02-29-22.jpg" length="57867" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 02:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️У Києві двоє постраждалих вн</title>
+      <link>https://www.mandarinai.lt/post/75905</link>
+      <description>‼️У Києві двоє постраждалих внаслідок ворожої атаки, одного чоловіка госпіталізовано з важкими пораненнями. Уламки впали в трьох районах столиці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_05-45-35.jpg" length="404154" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 05:45:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Трамп зустрінеться із Зеленс</title>
+      <link>https://www.mandarinai.lt/post/75907</link>
+      <description>⚡️Трамп зустрінеться із Зеленським на полях саміту країн G7, який розпочинається сьогодні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_05-47-43.jpg" length="139102" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 05:47:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
