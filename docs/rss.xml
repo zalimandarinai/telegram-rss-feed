@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 12:17:34 +0000</lastBuildDate>
-    <item>
-      <title>💥В російському Орлі вночі було</title>
-      <link>https://www.mandarinai.lt/post/75916</link>
-      <description>💥В російському Орлі вночі було дуже гучно. Вибухало десятки разів, а також гелікоптери ганялися за добрими дронами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-16_08-26-04.mp4" length="1239447" type="video/mp4"/>
-      <pubDate>Mon, 16 Jun 2025 08:26:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 13:26:27 +0000</lastBuildDate>
     <item>
       <title>росіяни тренуються форсувати Д</title>
       <link>https://www.mandarinai.lt/post/75919</link>
@@ -94,6 +87,17 @@ https://send.monobank.ua/jar/5okcPyPgmn
 Від Андріївки до Писарівки, тобто, до дороги Суми-Юнаківка приблизно 5 кілометрів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7916.MP4" length="7465181" type="video/mp4"/>
       <pubDate>Mon, 16 Jun 2025 11:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Слов’янську, неподалік від л</title>
+      <link>https://www.mandarinai.lt/post/75930</link>
+      <description>В Слов’янську, неподалік від лінії фронту, контррозвідники СБУ затримали інформаторку окупантів.
+
+Продавчиня з місцевого магазину, 44-річна Людмила Буракова, потрапила у поле зору окупантів через проросійські коментарі, отже, їй окупанти поставили завдання збирати інформацію про українських військових в місті.
+
+Для збору розвідданих Буракова, обходила місцевість, а також випитувала «потрібну» інформацію у відвідувачів магазину, де працювала.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_13-06-23.jpg" length="39532" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 13:06:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
