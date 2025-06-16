@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Jun 2025 23:08:20 +0000</lastBuildDate>
-    <item>
-      <title>⚡️У Тегерані знайшли мертвим г</title>
-      <link>https://www.mandarinai.lt/post/75885</link>
-      <description>⚡️У Тегерані знайшли мертвим голову поліції Ахмадрезу Радана, відомого, як «тегеранський м'ясник».
-
-Він був особисто причетний до придушення протестів та масових страт опозиціонерів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-15_15-40-22.jpg" length="51266" type="image/jpeg"/>
-      <pubDate>Sun, 15 Jun 2025 15:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ізраїль з відстані близько 230</title>
-      <link>https://www.mandarinai.lt/post/75886</link>
-      <description>Ізраїль з відстані близько 2300 км атакував іранський літак-заправник в аеропорту Мешхед в  східній частині Ірану, - найдальший удар із початку операції, заявили в ізраїльській армії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7897.MP4" length="3485552" type="video/mp4"/>
-      <pubDate>Sun, 15 Jun 2025 15:41:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 00:47:26 +0000</lastBuildDate>
     <item>
       <title>💥Сьогодні вранці БпЛА А-22 «Ле</title>
       <link>https://www.mandarinai.lt/post/75887</link>
@@ -103,6 +87,13 @@
       <description>💥ППО збиває шахеди на околицях Києва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-15_20-54-07.mp4" length="124483" type="video/mp4"/>
       <pubDate>Sun, 15 Jun 2025 20:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Атака дронів на Орел</title>
+      <link>https://www.mandarinai.lt/post/75899</link>
+      <description>Атака дронів на Орел</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7907.MP4" length="431270" type="video/mp4"/>
+      <pubDate>Mon, 16 Jun 2025 00:40:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
