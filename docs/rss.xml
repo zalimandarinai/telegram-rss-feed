@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 22:09:00 +0000</lastBuildDate>
-    <item>
-      <title>Ізраїль завдав удару по штаб-к</title>
-      <link>https://www.mandarinai.lt/post/75936</link>
-      <description>Ізраїль завдав удару по штаб-квартирі іранського держтелебачення прямо під час випуску новин.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-16_15-20-33.mp4" length="1507286" type="video/mp4"/>
-      <pubDate>Mon, 16 Jun 2025 15:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>За кілька років росія модерніз</title>
-      <link>https://www.mandarinai.lt/post/75937</link>
-      <description>За кілька років росія модернізувала щонайменше 5 ядерних баз поблизу Європи, зокрема у Калінінграді, на Півночі та в Білорусі, -  шведське видання SVT з посиланням на супутникові знімки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7922.MP4" length="21005780" type="video/mp4"/>
-      <pubDate>Mon, 16 Jun 2025 15:29:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 23:08:42 +0000</lastBuildDate>
     <item>
       <title>Трамп назвав помилкою виключен</title>
       <link>https://www.mandarinai.lt/post/75939</link>
@@ -89,6 +75,13 @@
       <description>Іранський Корпус вартових ісламської революції (КВІР) на фоні ізраїльських атак продемонстрував новий баражуючий боєприпас заявленої дальності до 1500 км, «Shahed-107», - іранське видання Mehr.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_18-59-29.jpg" length="120440" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 18:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>В студентському гуртожитку НАУ</title>
+      <link>https://www.mandarinai.lt/post/75949</link>
+      <description>В студентському гуртожитку НАУ в Києві вибуховою хвилею вибило майже всі вікна, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-16_22-28-06.jpg" length="182089" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 22:28:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
