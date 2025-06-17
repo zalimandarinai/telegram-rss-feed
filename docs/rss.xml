@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 17:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 18:12:45 +0000</lastBuildDate>
     <item>
       <title>У київську дев'ятиповерхівку в</title>
       <link>https://www.mandarinai.lt/post/75995</link>
@@ -100,6 +100,13 @@ Bacardi, легіонер: Приблизно за 500 чи 600 метрів м�
 У серії постів Меган Моббс закликала "схилити Росію до миру" та посилити тиск "санкціями та зброєю"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_15-14-55.jpg" length="104066" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 15:14:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Трамп розглядає можливість з</title>
+      <link>https://www.mandarinai.lt/post/76009</link>
+      <description>❗️Трамп розглядає можливість завдання США ударів по ядерних об'єктах Ірану , — Axios</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_17-18-34.jpg" length="128270" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 17:18:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
