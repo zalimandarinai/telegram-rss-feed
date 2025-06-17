@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 05:10:09 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Влучання по багатоповерхівці</title>
-      <link>https://www.mandarinai.lt/post/75954</link>
-      <description>🤬 Влучання по багатоповерхівці у Києві. Горять верхні поверхи!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_01-19-56.mp4" length="229356" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 01:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️російські вбивці зруйнували </title>
-      <link>https://www.mandarinai.lt/post/75956</link>
-      <description>⚡️російські вбивці зруйнували цілий під'їзд багатоповерхівки. Під завалами люди.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_01-53-52.jpg" length="270367" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 01:53:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 06:13:51 +0000</lastBuildDate>
     <item>
       <title>Жахливі кадри зруйнованої бага</title>
       <link>https://www.mandarinai.lt/post/75958</link>
@@ -58,9 +44,23 @@
 
 Всього 27 локацій у різних районах столиці потрапили під російський терор.
 
-Людей продовжують шукати під завалами</description>
+Людей продовжують шукати під завалами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_05-03-38.mp4" length="701729" type="video/mp4"/>
       <pubDate>Tue, 17 Jun 2025 05:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кількість постраждалих у столи</title>
+      <link>https://www.mandarinai.lt/post/75968</link>
+      <description>Кількість постраждалих у столиці збільшується. Наразі їх 55. Понад 40 людей доставили в медзаклади міста. Щодо заглиблих точної інформації поки немає, - мер Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7929.MP4" length="10954604" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 05:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Загиблі від атаки російських в</title>
+      <link>https://www.mandarinai.lt/post/75969</link>
+      <description>Загиблі від атаки російських вбивць мирні жителі Києва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_05-37-15.mp4" length="894364" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 05:37:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
