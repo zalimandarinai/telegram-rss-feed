@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 08:13:33 +0000</lastBuildDate>
-    <item>
-      <title>❗️В Києві станом на зараз відо</title>
-      <link>https://www.mandarinai.lt/post/75967</link>
-      <description>❗️В Києві станом на зараз відомо про 14 загиблих та 44 поранених — очільник МВС Клименко
-
-Всього 27 локацій у різних районах столиці потрапили під російський терор.
-
-Людей продовжують шукати під завалами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_05-03-38.mp4" length="701729" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 05:03:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кількість постраждалих у столи</title>
-      <link>https://www.mandarinai.lt/post/75968</link>
-      <description>Кількість постраждалих у столиці збільшується. Наразі їх 55. Понад 40 людей доставили в медзаклади міста. Щодо заглиблих точної інформації поки немає, - мер Кличко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7929.MP4" length="10954604" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 05:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Загиблі від атаки російських в</title>
-      <link>https://www.mandarinai.lt/post/75969</link>
-      <description>Загиблі від атаки російських вбивць мирні жителі Києва.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_05-37-15.mp4" length="894364" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 05:37:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Сотні цілей летіли на Київ, </title>
-      <link>https://www.mandarinai.lt/post/75971</link>
-      <description>❗️Сотні цілей летіли на Київ, вибухи лунали до ранку
-
-Ворог атакував столицю 175 дронами, понад 14 крилатими ракетами, мінімум 2 балістичними ракетами, – голова КМВА Ткаченко. 
-
-Характер пошкоджень – прямою наводкою на житлову забудову. Кончені російські виродки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_06-27-02.jpg" length="267649" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 06:27:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 09:11:01 +0000</lastBuildDate>
     <item>
       <title>У Києві відомо вже про понад 1</title>
       <link>https://www.mandarinai.lt/post/75975</link>
@@ -87,6 +51,20 @@
       <description>❗️ В Києві 15 загиблих, 114 людей поранено і травмовано, 68 з них ушпиталено, - «Суспільне»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7931.MP4" length="6487872" type="video/mp4"/>
       <pubDate>Tue, 17 Jun 2025 08:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський безпілотник типу «ш</title>
+      <link>https://www.mandarinai.lt/post/75983</link>
+      <description>Російський безпілотник типу «шахед» летів просто на багатоповерхівку в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7932.MP4" length="4262461" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 08:18:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Подружжя стоїть перед зруйнова</title>
+      <link>https://www.mandarinai.lt/post/75984</link>
+      <description>Подружжя стоїть перед зруйнованим будинком у Києві, під завалами якого залишається їхній син, - фото стали символом болю, нелюдських страждань, відчаю і несправедливості, які зараз переживає країна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_08-22-25.jpg" length="188523" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 08:22:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
