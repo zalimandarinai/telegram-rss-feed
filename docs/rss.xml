@@ -6,27 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 10:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 11:08:12 +0000</lastBuildDate>
     <item>
       <title>❗️ В Києві 15 загиблих, 114 лю</title>
-      <link>https://www.mandarinai.lt/post/75982</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ В Києві 15 загиблих, 114 людей поранено і травмовано, 68 з них ушпиталено, - «Суспільне»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7931.MP4" length="6487872" type="video/mp4"/>
       <pubDate>Tue, 17 Jun 2025 08:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російський безпілотник типу «ш</title>
-      <link>https://www.mandarinai.lt/post/75983</link>
-      <description>Російський безпілотник типу «шахед» летів просто на багатоповерхівку в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7932.MP4" length="4262461" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 08:18:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Подружжя стоїть перед зруйнова</title>
-      <link>https://www.mandarinai.lt/post/75984</link>
-      <description>Подружжя стоїть перед зруйнованим будинком у Києві, під завалами якого залишається їхній син, - фото стали символом болю, нелюдських страждань, відчаю і несправедливості, які зараз переживає країна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_08-22-25.jpg" length="188523" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 08:22:25 +0000</pubDate>
     </item>
     <item>
       <title>Так апокаліптично виглядав Киї</title>
@@ -71,6 +56,24 @@
       <description>У київську дев'ятиповерхівку влучила ракета Х-101, — речник ПС ЗСУ Ігнат</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_10-07-10.jpg" length="295502" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 10:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Журналісти запитали Трампа, що</title>
+      <link>https://www.mandarinai.lt/post/75996</link>
+      <description>Журналісти запитали Трампа, що він думає про сьогоднішні жорстокі обстріли України
+
+Виявилося, що він про них не знав.
+
+Але коли дізнався, то відреагував байдуже «Що тут поробиш».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7940.MP4" length="6231569" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 10:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент влучання російського бе</title>
+      <link>https://www.mandarinai.lt/post/75998</link>
+      <description>Момент влучання російського безпілотника в Одесі, - «Радіо Свобода».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7941.MP4" length="9815262" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 10:57:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
