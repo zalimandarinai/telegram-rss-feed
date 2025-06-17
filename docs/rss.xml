@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 20:10:26 +0000</lastBuildDate>
-    <item>
-      <title>Момент влучання російського бе</title>
-      <link>https://www.mandarinai.lt/post/75998</link>
-      <description>Момент влучання російського безпілотника в Одесі, - «Радіо Свобода».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7941.MP4" length="9815262" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 10:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>😔До 139 зросла кількість постр</title>
-      <link>https://www.mandarinai.lt/post/75999</link>
-      <description>😔До 139 зросла кількість постраждалих. Відомо також про 15 загиблих, — очільник МВС Ігор Клименко 
-
-Зокрема, росіяни цієї ночі вдарили по столиці касетним боєприпасом. У мережі поділилися моторошними кадрами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_11-41-02.mp4" length="964258" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 11:41:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Поранений, але незламний Київ</title>
-      <link>https://www.mandarinai.lt/post/76000</link>
-      <description>Поранений, але незламний Київ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_11-42-45.mp4" length="763114" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 11:42:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 21:08:16 +0000</lastBuildDate>
     <item>
       <title>Використали старі-добрі методи</title>
       <link>https://www.mandarinai.lt/post/76001</link>
@@ -107,6 +84,13 @@ Bacardi, легіонер: Приблизно за 500 чи 600 метрів м�
 За інформацією ізраїльського 9 каналу, це сигнал про можливе загострення. Трамп скликав термінову нараду через можливі удари по ядерних об’єктах Ірану.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_19-00-30.jpg" length="188160" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 19:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Стратегічні бомбардувальники</title>
+      <link>https://www.mandarinai.lt/post/76014</link>
+      <description>❗️Стратегічні бомбардувальники США B-52H Stratofortress, носії ядерки, готують до зльоту на авіабазі Дієго-Гарсія — всього до ймовірної атаки залучатимуть 4х літака, — AFP</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_20-38-46.jpg" length="56748" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 20:38:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
