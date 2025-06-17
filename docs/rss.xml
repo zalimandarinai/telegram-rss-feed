@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 11:08:12 +0000</lastBuildDate>
-    <item>
-      <title>❗️ В Києві 15 загиблих, 114 лю</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️ В Києві 15 загиблих, 114 людей поранено і травмовано, 68 з них ушпиталено, - «Суспільне»</description>
-      <pubDate>Tue, 17 Jun 2025 08:00:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 12:17:58 +0000</lastBuildDate>
     <item>
       <title>Так апокаліптично виглядав Киї</title>
       <link>https://www.mandarinai.lt/post/75988</link>
@@ -74,6 +68,29 @@
       <description>Момент влучання російського безпілотника в Одесі, - «Радіо Свобода».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7941.MP4" length="9815262" type="video/mp4"/>
       <pubDate>Tue, 17 Jun 2025 10:57:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>😔До 139 зросла кількість постр</title>
+      <link>https://www.mandarinai.lt/post/75999</link>
+      <description>😔До 139 зросла кількість постраждалих. Відомо також про 15 загиблих, — очільник МВС Ігор Клименко 
+
+Зокрема, росіяни цієї ночі вдарили по столиці касетним боєприпасом. У мережі поділилися моторошними кадрами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_11-41-02.mp4" length="964258" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 11:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поранений, але незламний Київ</title>
+      <link>https://www.mandarinai.lt/post/76000</link>
+      <description>Поранений, але незламний Київ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_11-42-45.mp4" length="763114" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 11:42:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Використали старі-добрі методи</title>
+      <link>https://www.mandarinai.lt/post/76001</link>
+      <description>Використали старі-добрі методи, щоб переконати окупанта здатися в полон – листівки, які бійці 63 бригади скинули з дронів в Серебрянському лісі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7944.MP4" length="13807300" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 12:02:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
