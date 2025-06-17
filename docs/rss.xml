@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 07:09:58 +0000</lastBuildDate>
-    <item>
-      <title>Рятувальники евакуюють людей з</title>
-      <link>https://www.mandarinai.lt/post/75962</link>
-      <description>Рятувальники евакуюють людей зі зруйнованих будинків в Києві. У цей час ППО продовжує збивати шахеди над містом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_02-37-18.mp4" length="1522336" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 02:37:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент влучання в багатоповерх</title>
-      <link>https://www.mandarinai.lt/post/75965</link>
-      <description>Момент влучання в багатоповерхівки в Києві. русня всю ніч і ранок просто гатила по житловим будинкам</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_02-55-03.mp4" length="343969" type="video/mp4"/>
-      <pubDate>Tue, 17 Jun 2025 02:55:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 08:13:33 +0000</lastBuildDate>
     <item>
       <title>❗️В Києві станом на зараз відо</title>
       <link>https://www.mandarinai.lt/post/75967</link>
@@ -65,6 +51,42 @@
 росія завдала удару в тому числі й касетними боєприпасами, повідомив мер.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_06-42-28.jpg" length="66670" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 06:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Касетні суббоєприпаси з ракети</title>
+      <link>https://www.mandarinai.lt/post/75976</link>
+      <description>Касетні суббоєприпаси з ракети Х-101, якими вночі атакували Київ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_07-17-20.jpg" length="92793" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 07:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Від початку доби знешкоджено</title>
+      <link>https://www.mandarinai.lt/post/75977</link>
+      <description>‼️Від початку доби знешкоджено 428/472 повітряних цілей:
+
+- 239 ворожих БпЛА типу Shahed (безпілотників інших типів) збито вогневими засобами, 163 — локаційно втрачені/подавлені РЕБ;
+- 2 аеробалістичні Х-47 М2 "Кинджал" (1 - лок. втр.);
+- 15 крилатих ракет Х-101;
+- 8 керованих авіаційних ракет Х-59/69 (1 - лок. втр.);
+- 1 протирадіолокаційна ракета Х-31П (лок. втр.).
+
+Зафіксовано влучання засобів повітряного нападу противника у 10 локаціях, падіння збитих (уламки) у 34 локаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_07-23-32.jpg" length="121889" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 07:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кадри, що розривають серце. Лю</title>
+      <link>https://www.mandarinai.lt/post/75978</link>
+      <description>Кадри, що розривають серце. Люди чекають рідних, які опинилися від завалами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-17_07-38-57.mp4" length="2363708" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 07:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ В Києві 15 загиблих, 114 лю</title>
+      <link>https://www.mandarinai.lt/post/75982</link>
+      <description>❗️ В Києві 15 загиблих, 114 людей поранено і травмовано, 68 з них ушпиталено, - «Суспільне»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7931.MP4" length="6487872" type="video/mp4"/>
+      <pubDate>Tue, 17 Jun 2025 08:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
