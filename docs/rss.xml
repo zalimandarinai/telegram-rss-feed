@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 14:09:35 +0000</lastBuildDate>
-    <item>
-      <title>🤬 «Мета ударів досягнута. Усі </title>
-      <link>https://www.mandarinai.lt/post/75992</link>
-      <description>🤬 «Мета ударів досягнута. Усі призначені об'єкти вражені», – мінвбивства рф про сьогоднішню атаку на житло квартали Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-17_09-46-26.jpg" length="46869" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 09:46:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 15:09:57 +0000</lastBuildDate>
     <item>
       <title>У київську дев'ятиповерхівку в</title>
       <link>https://www.mandarinai.lt/post/75995</link>
@@ -92,6 +85,12 @@ Bacardi, легіонер: Приблизно за 500 чи 600 метрів м�
 Влучити в FPV-дрон на повній швидкості  майже фантастика. Дрон летить низько, маневрує, змінює траєкторію щосекунди. І все ж хлопці його збили.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7943.MP4" length="9438358" type="video/mp4"/>
       <pubDate>Tue, 17 Jun 2025 14:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські військові захопили </title>
+      <link>https://www.mandarinai.lt/post/76007</link>
+      <description>Українські військові захопили в полон учасника спецоперації «Труба» на Курщині.</description>
+      <pubDate>Tue, 17 Jun 2025 15:09:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
