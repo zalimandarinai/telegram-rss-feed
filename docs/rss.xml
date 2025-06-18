@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 08:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 09:10:47 +0000</lastBuildDate>
     <item>
       <title>Армія оборони Ізраїлю повідоми</title>
       <link>https://www.mandarinai.lt/post/76024</link>
@@ -89,6 +89,15 @@ Iran International також опублікував відео вибуху й 
 Публічно Дональд Трамп висловився проти нових обмежень для Москви, пославшись на економічні витрати.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-18_08-01-08.jpg" length="188026" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 08:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>З-під завалів багатоповерхівки</title>
+      <link>https://www.mandarinai.lt/post/76035</link>
+      <description>З-під завалів багатоповерхівки у Києві деблокували ще одне тіло, — ДСНС 
+
+Загалом у столиці після російської атаки в ніч на 17 червня загинули 24 людини, ще 134 постраждали.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-18_08-14-41.jpg" length="179029" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 08:14:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
