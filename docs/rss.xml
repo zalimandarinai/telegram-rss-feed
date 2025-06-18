@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 03:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 04:18:29 +0000</lastBuildDate>
     <item>
       <title>Бійці Третього Легіону на ходу</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -54,13 +54,6 @@ Bacardi, легіонер: Приблизно за 500 чи 600 метрів м�
       <pubDate>Tue, 17 Jun 2025 20:38:46 +0000</pubDate>
     </item>
     <item>
-      <title>Наслідки нічної атаки рф на За</title>
-      <link>https://www.mandarinai.lt/post/76020</link>
-      <description>Наслідки нічної атаки рф на Запоріжжя. Місто атакували 9 шахедів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-18_03-29-48.mp4" length="2465226" type="video/mp4"/>
-      <pubDate>Wed, 18 Jun 2025 03:29:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Армія оборони Ізраїлю повідоми</title>
       <link>https://www.mandarinai.lt/post/76024</link>
       <description>Армія оборони Ізраїлю повідомила, що ВПС Ізраїлю завдали ударів у районі Тегерана. Це повідомлення з’явилося після заклику до мешканців 18-го округу іранської столиці, де проживає близько 400 тисяч осіб, евакуюватися.
@@ -70,6 +63,13 @@ Bacardi, легіонер: Приблизно за 500 чи 600 метрів м�
 Iran International також опублікував відео вибуху й зазначив, що після нього здійнялася хмара у формі гриба.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-18_03-37-26.mp4" length="5123816" type="video/mp4"/>
       <pubDate>Wed, 18 Jun 2025 03:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наслідки нічної атаки рф на За</title>
+      <link>https://www.mandarinai.lt/post/76025</link>
+      <description>Наслідки нічної атаки рф на Запоріжжя. Місто атакували 9 шахедів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-18_03-46-46.mp4" length="2465226" type="video/mp4"/>
+      <pubDate>Wed, 18 Jun 2025 03:46:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
