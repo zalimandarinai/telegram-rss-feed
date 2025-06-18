@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 10:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 11:08:18 +0000</lastBuildDate>
     <item>
       <title>Воїни 114-ї бригади ТРО взводу</title>
       <link>https://www.mandarinai.lt/post/76029</link>
@@ -110,6 +110,15 @@
 росія навмисно ускладнила процес тим, що передала рештки разом із тілами в формі окупаційної армії. Деякі тіла передано у різних пакетах або навіть у різних репатріаціях.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-18_09-58-43.jpg" length="197600" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 09:58:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️кремль розширює військову пр</title>
+      <link>https://www.mandarinai.lt/post/76040</link>
+      <description>❗️кремль розширює військову присутність в Арктиці та готує плацдарм для ресурсної експансії, — представник ГУР МО України Андрій Черняк
+
+На тлі глобального потепління та відкриття нових стратегічних можливостей в Арктиці — зокрема покладів корисних копалин і Північного морського шляху — кремль активізує діяльність у регіоні. Держава-агресор намагається закріпити там свою економічну й військово-технічну присутність під виглядом "наукової діяльності".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-18_11-00-50.jpg" length="126695" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 11:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
