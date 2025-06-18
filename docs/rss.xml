@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 09:10:47 +0000</lastBuildDate>
-    <item>
-      <title>Армія оборони Ізраїлю повідоми</title>
-      <link>https://www.mandarinai.lt/post/76024</link>
-      <description>Армія оборони Ізраїлю повідомила, що ВПС Ізраїлю завдали ударів у районі Тегерана. Це повідомлення з’явилося після заклику до мешканців 18-го округу іранської столиці, де проживає близько 400 тисяч осіб, евакуюватися.
-
-Опозиційний іранський телеканал Iran International повідомив, що на сході Тегерана стався потужний вибух. «Це був найжахливіший вибух за останні кілька днів. Світло від нього трималося близько двох хвилин», — розповів телеканалу очевидець.
-
-Iran International також опублікував відео вибуху й зазначив, що після нього здійнялася хмара у формі гриба.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-18_03-37-26.mp4" length="5123816" type="video/mp4"/>
-      <pubDate>Wed, 18 Jun 2025 03:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наслідки нічної атаки рф на За</title>
-      <link>https://www.mandarinai.lt/post/76025</link>
-      <description>Наслідки нічної атаки рф на Запоріжжя. Місто атакували 9 шахедів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-18_03-46-46.mp4" length="2465226" type="video/mp4"/>
-      <pubDate>Wed, 18 Jun 2025 03:46:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 10:09:53 +0000</lastBuildDate>
     <item>
       <title>Воїни 114-ї бригади ТРО взводу</title>
       <link>https://www.mandarinai.lt/post/76029</link>
@@ -98,6 +80,36 @@ Iran International також опублікував відео вибуху й 
 Загалом у столиці після російської атаки в ніч на 17 червня загинули 24 людини, ще 134 постраждали.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-18_08-14-41.jpg" length="179029" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 08:14:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Запорізька ОВА оприлюднила кад</title>
+      <link>https://www.mandarinai.lt/post/76036</link>
+      <description>Запорізька ОВА оприлюднила кадри нічної атаки ворога на обласний центр</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-18_09-19-25.mp4" length="12097504" type="video/mp4"/>
+      <pubDate>Wed, 18 Jun 2025 09:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Точна робота підрозділу ДПСУ «</title>
+      <link>https://www.mandarinai.lt/post/76037</link>
+      <description>Точна робота підрозділу ДПСУ «Фенікс»: на Краматорському напрямку знищено ворожу «буханку», антену зв’язку, укриття і нейтралізовано кількох окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7953.MP4" length="17943761" type="video/mp4"/>
+      <pubDate>Wed, 18 Jun 2025 09:28:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поблизу Костянтинівки російськ</title>
+      <link>https://www.mandarinai.lt/post/76038</link>
+      <description>Поблизу Костянтинівки російські окупанти здійснили спробу масштабного механізованого штурму, але в результаті було спалено 15 одиниць їхньої важкої техніки, 8 одиниць мототехніки та ліквідовано кілька десятків найманців путіна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7954.MP4" length="10259068" type="video/mp4"/>
+      <pubDate>Wed, 18 Jun 2025 09:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україні знадобиться понад рік,</title>
+      <link>https://www.mandarinai.lt/post/76039</link>
+      <description>Україні знадобиться понад рік, щоб ідентифікувати передані росією тіла полеглих воїнів.
+
+росія навмисно ускладнила процес тим, що передала рештки разом із тілами в формі окупаційної армії. Деякі тіла передано у різних пакетах або навіть у різних репатріаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-18_09-58-43.jpg" length="197600" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 09:58:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
