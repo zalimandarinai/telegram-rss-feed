@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 14:09:34 +0000</lastBuildDate>
-    <item>
-      <title>Воїни 114-ї бригади ТРО взводу</title>
-      <link>https://www.mandarinai.lt/post/76029</link>
-      <description>Воїни 114-ї бригади ТРО взводу «Invisible Squad» на Сіверському напрямку уразили групу з 4 мотоциклістів, які їхали на штурм.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7950.MP4" length="23036164" type="video/mp4"/>
-      <pubDate>Wed, 18 Jun 2025 06:19:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 15:09:27 +0000</lastBuildDate>
     <item>
       <title>рф може вичерпати запаси броне</title>
       <link>https://www.mandarinai.lt/post/76030</link>
@@ -119,6 +112,17 @@
 На тлі глобального потепління та відкриття нових стратегічних можливостей в Арктиці — зокрема покладів корисних копалин і Північного морського шляху — кремль активізує діяльність у регіоні. Держава-агресор намагається закріпити там свою економічну й військово-технічну присутність під виглядом "наукової діяльності".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-18_11-00-50.jpg" length="126695" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 11:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літак "Судного дня" ВПС США Bo</title>
+      <link>https://www.mandarinai.lt/post/76043</link>
+      <description>Літак "Судного дня" ВПС США Boeing E-4B приземлився на авіабазі Ендрюс під Вашингтоном. 
+
+Це подія, яка варта уваги багатьох причинах. Востаннє таке відбувалося після терактів 11 вересня 2001 року. Взагалі літак використовується для управління країною у разі ядерної загрози і може перебувати в повітрі до тижня. 
+
+На тлі чуток  про можливість використання брудної бомби Іраном, це виглядає, як сприйняття такої загрози, як реально імовірною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-18_14-09-58.mp4" length="1651526" type="video/mp4"/>
+      <pubDate>Wed, 18 Jun 2025 14:09:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
