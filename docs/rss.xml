@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 09:10:28 +0000</lastBuildDate>
-    <item>
-      <title>🔥Після атаки дронів в російськ</title>
-      <link>https://www.mandarinai.lt/post/76067</link>
-      <description>🔥Після атаки дронів в російському Волгограді пожежа в районі аеродрому</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-19_04-51-44.jpg" length="80609" type="image/jpeg"/>
-      <pubDate>Thu, 19 Jun 2025 04:51:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Jun 2025 10:09:56 +0000</lastBuildDate>
     <item>
       <title>❗️Іран завдав удару по лікарні</title>
       <link>https://www.mandarinai.lt/post/76070</link>
@@ -107,6 +100,22 @@
       <description>Близько 40 літаків сьогодні завдали удари по іранських військових цілях, застосувавши 100 боєприпасів, - Сили оборони Ізраїлю</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7989.MP4" length="12150666" type="video/mp4"/>
       <pubDate>Thu, 19 Jun 2025 08:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Потужні удари по території Ізр</title>
+      <link>https://www.mandarinai.lt/post/76080</link>
+      <description>Потужні удари по території Ізраїлю, один з них сильно пошкодив будівлю Тель-Авівської біржі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7993.MP4" length="695895" type="video/mp4"/>
+      <pubDate>Thu, 19 Jun 2025 09:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Водилу жалко, вьебали всех, н</title>
+      <link>https://www.mandarinai.lt/post/76082</link>
+      <description>«Водилу жалко, вьебали всех, не доехали до нас».
+
+Окупанти зробили спробу підтягнути додаткові резерви до села Дачі навпроти Херсона, проте це не входило в плани СОУ. Тому весь російський мотлох був спалений ще на підході до позицій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7995.MP4" length="4064368" type="video/mp4"/>
+      <pubDate>Thu, 19 Jun 2025 09:30:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
