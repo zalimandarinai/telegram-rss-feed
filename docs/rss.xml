@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Jun 2025 09:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 10:09:48 +0000</lastBuildDate>
     <item>
       <title>🤬Влучання дрона в багатоповерх</title>
       <link>https://www.mandarinai.lt/post/76125</link>
@@ -123,6 +123,17 @@
       <description>⚡️окупанти значно просунулись на Покровському напрямку: окуповано Шевченко Перше, є просування біля Новооленівки та Малинівки, – DeepState</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-20_08-26-51.jpg" length="124256" type="image/jpeg"/>
       <pubDate>Fri, 20 Jun 2025 08:26:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌ Російським військовим можуть</title>
+      <link>https://www.mandarinai.lt/post/76138</link>
+      <description>❌ Російським військовим можуть назавжди закрити Шенген 
+
+🛂 Балтія, Скандинавія та Польща виступили за довічну заборону на в'їзд до Шенгену для громадян рф, які воювали проти України, навіть після завершення війни. 
+
+🇵🇱 «Ми не дамо їм візу, не дамо посвідки на проживання. Вони загрожують усім нам», — заявив глава МВС Польщі Ігор Таро.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-20_09-58-26.jpg" length="41058" type="image/jpeg"/>
+      <pubDate>Fri, 20 Jun 2025 09:58:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
