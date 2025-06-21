@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jun 2025 20:09:17 +0000</lastBuildDate>
-    <item>
-      <title>Українські прапори заборонили </title>
-      <link>https://www.mandarinai.lt/post/76197</link>
-      <description>Українські прапори заборонили використовувати групі «Imagine Dragons» на концерті в Угорщині, але музиканти, які завжди підтримують українців, заборону обійшли та зробили все своє шоу в синьо-жовтому стилі. Запустили кольорові конфеті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8102.MP4" length="7756211" type="video/mp4"/>
-      <pubDate>Sat, 21 Jun 2025 10:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤷‍♂️ Перші кадри зустрічі Лука</title>
-      <link>https://www.mandarinai.lt/post/76199</link>
-      <description>🤷‍♂️ Перші кадри зустрічі Лукашенка з Келлогом, знову американці обіймаються з диктатором. Справді, огидно виглядає.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8104.MP4" length="8004872" type="video/mp4"/>
-      <pubDate>Sat, 21 Jun 2025 11:17:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Jun 2025 21:07:24 +0000</lastBuildDate>
     <item>
       <title>США розгорнули бомбардувальник</title>
       <link>https://www.mandarinai.lt/post/76202</link>
@@ -121,6 +107,22 @@
 На цей момент горять щонайменше 11 цистерн із пальним.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-21_19-30-53.jpg" length="159573" type="image/jpeg"/>
       <pubDate>Sat, 21 Jun 2025 19:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡У росіян зʼявився новий БпЛА,</title>
+      <link>https://www.mandarinai.lt/post/76213</link>
+      <description>😡У росіян зʼявився новий БпЛА, який веде розвідку маршрутів для шахедів в прикордонних і прифронтових районах.
+
+Він фіксує роботу засобів ППО і для виявлення МВГ ззовні має вигляд шахеду та оснащений камерою, зображення з якої може передавати на відстань понад 50 км в реальному часі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-21_20-12-06.mp4" length="1096269" type="video/mp4"/>
+      <pubDate>Sat, 21 Jun 2025 20:12:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ще фото вибухів цистерн росій</title>
+      <link>https://www.mandarinai.lt/post/76216</link>
+      <description>💥Ще фото вибухів цистерн російського ешелону з паливом під окупованим Токмаком</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-21_20-52-48.jpg" length="105859" type="image/jpeg"/>
+      <pubDate>Sat, 21 Jun 2025 20:52:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
