@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jun 2025 10:08:45 +0000</lastBuildDate>
-    <item>
-      <title>У Кременчуці знаходять уламки,</title>
-      <link>https://www.mandarinai.lt/post/76184</link>
-      <description>У Кременчуці знаходять уламки, нашпиговані металевими кульками, росіяни це роблять щоб збільшити кількість жертв серед цивільного населення.
-
-В місті є поранені. Зафіксовано влучання в енергетичний об'єкт.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-21_06-03-02.jpg" length="149911" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jun 2025 06:03:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Jun 2025 11:07:07 +0000</lastBuildDate>
     <item>
       <title>Вночі російська армія дуже сил</title>
       <link>https://www.mandarinai.lt/post/76187</link>
@@ -118,6 +109,13 @@
 Глава Міноборони Італії зазначив, що США та Європейський Союз «більше не є центром миру» і тому Альянс має адаптуватися до нових умов. Він також закликав НАТО співпрацювати з глобальним Півднем, щоб як і раніше забезпечувати мир та взаємний захист</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-21_10-02-17.jpg" length="58049" type="image/jpeg"/>
       <pubDate>Sat, 21 Jun 2025 10:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські прапори заборонили </title>
+      <link>https://www.mandarinai.lt/post/76197</link>
+      <description>Українські прапори заборонили використовувати групі «Imagine Dragons» на концерті в Угорщині, але музиканти, які завжди підтримують українців, заборону обійшли та зробили все своє шоу в синьо-жовтому стилі. Запустили кольорові конфеті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8102.MP4" length="7756211" type="video/mp4"/>
+      <pubDate>Sat, 21 Jun 2025 10:35:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
