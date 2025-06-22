@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jun 2025 13:18:56 +0000</lastBuildDate>
-    <item>
-      <title>❗️Стовп диму піднімається над </title>
-      <link>https://www.mandarinai.lt/post/76233</link>
-      <description>❗️Стовп диму піднімається над ураженим ядерним об'єктом Фордо в Ірані, – IRNA. 
-
-Як пише CNN, відео знято на автостраді Тегеран-Кум, приблизно за 13 км на захід від об’єкта.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-22_08-35-55.mp4" length="6788897" type="video/mp4"/>
-      <pubDate>Sun, 22 Jun 2025 08:35:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Jun 2025 14:07:37 +0000</lastBuildDate>
     <item>
       <title>⚡️Внаслідок атаки рф по Одещин</title>
       <link>https://www.mandarinai.lt/post/76234</link>
@@ -83,6 +74,17 @@
 На літаку встановлена РЛС та бортовий РЕБ, який тільки відхиляє ворожі дрони від цілі. При польоті на висоті 1 800 метрів літак може придушувати ворожі системи у радіусі 4,5 кілометра. Час польоту до 12 годин.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_13-16-21.jpg" length="120519" type="image/jpeg"/>
       <pubDate>Sun, 22 Jun 2025 13:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили оборони України спільно з</title>
+      <link>https://www.mandarinai.lt/post/76248</link>
+      <description>Сили оборони України спільно з білоруськими добровольцями встановили банери на прикордонних пунктах пропуску «Доманове» та «Городище». На цих банерах нагадування про те, що Кремль уже неодноразово втягав Білорусь у війну проти України, використовуючи її як плацдарм для агресії.
+
+Ці дії «раннє попередження» про можливу нову загрозу. Навчання «Захід-2025», які плануються під керівництвом росії, можуть знову стати прикриттям для реального втягування білоруських сил у війну, яка їм не потрібна.
+
+Українці закликають білорусів бути пильними і не дозволити режиму використати себе вдруге.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8151.MP4" length="313365" type="video/mp4"/>
+      <pubDate>Sun, 22 Jun 2025 13:36:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
