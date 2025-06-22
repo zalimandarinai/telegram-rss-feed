@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jun 2025 12:14:52 +0000</lastBuildDate>
-    <item>
-      <title>«Америка опиниться втягнутою в</title>
-      <link>https://www.mandarinai.lt/post/76232</link>
-      <description>«Америка опиниться втягнутою в катастрофічну війну», — лідер демократичної меншини в Палаті представників Хакім Джефріс піддав різкій критиці рішення щодо авіаударів США по ядерних об'єктах в Ірані. 
-
-Він звинуватив президента США Дональда Трампа в тому, що той підштовхує США до війни, втручаючись у конфлікт між Ізраїлем та Іраном.
-
-Трамп «ввів країну в оману щодо своїх намірів», пояснив Джефріс. 
-
-«Дональд Трамп несе повну і остаточну відповідальність за будь-які несприятливі наслідки, які можуть виникнути в результаті його односторонніх військових дій», - сказав він. 
-
-Президент США також «не домігся дозволу Конгресу на застосування військової сили».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_08-11-29.jpg" length="46082" type="image/jpeg"/>
-      <pubDate>Sun, 22 Jun 2025 08:11:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Jun 2025 13:18:56 +0000</lastBuildDate>
     <item>
       <title>❗️Стовп диму піднімається над </title>
       <link>https://www.mandarinai.lt/post/76233</link>
@@ -89,6 +74,15 @@
       <description>❗️ЗСУ пішли в контрнаступ: звільнено Андріївку в Сумській області, — DeepState</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_11-21-08.jpg" length="105617" type="image/jpeg"/>
       <pubDate>Sun, 22 Jun 2025 11:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>✈️ПС України отримали перший л</title>
+      <link>https://www.mandarinai.lt/post/76247</link>
+      <description>✈️ПС України отримали перший легкомоторний двомісний літак «SHARK», який оснащений комплексом РЕБ для протидії дронам.
+
+На літаку встановлена РЛС та бортовий РЕБ, який тільки відхиляє ворожі дрони від цілі. При польоті на висоті 1 800 метрів літак може придушувати ворожі системи у радіусі 4,5 кілометра. Час польоту до 12 годин.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_13-16-21.jpg" length="120519" type="image/jpeg"/>
+      <pubDate>Sun, 22 Jun 2025 13:16:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
