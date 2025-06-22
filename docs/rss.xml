@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jun 2025 19:06:57 +0000</lastBuildDate>
-    <item>
-      <title>«Гуртом кацапа легше бити», - </title>
-      <link>https://www.mandarinai.lt/post/76244</link>
-      <description>«Гуртом кацапа легше бити», - ГУР показує, як Сили оборони Півдня спільно із воїнами СБУ та підрозділом Next зупинили ворожий потяг із паливом біля Токмака, а підрозділ «Роніни» з 65-ої ОМБР його спалив.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8149.MP4" length="27547447" type="video/mp4"/>
-      <pubDate>Sun, 22 Jun 2025 10:38:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ЗСУ пішли в контрнаступ: зві</title>
-      <link>https://www.mandarinai.lt/post/76245</link>
-      <description>❗️ЗСУ пішли в контрнаступ: звільнено Андріївку в Сумській області, — DeepState</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_11-21-08.jpg" length="105617" type="image/jpeg"/>
-      <pubDate>Sun, 22 Jun 2025 11:21:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Jun 2025 20:09:06 +0000</lastBuildDate>
     <item>
       <title>✈️ПС України отримали перший л</title>
       <link>https://www.mandarinai.lt/post/76247</link>
@@ -98,6 +84,22 @@
       <description>Батальйон Безпілотних Систем 65-ої ОМБр «Роніни», взявши участь в спаленні російського військового потяга, демонструє звіт про атаки на автомобільну та броньовану техніку противника в Запорізькій області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8154.MP4" length="7656709" type="video/mp4"/>
       <pubDate>Sun, 22 Jun 2025 18:47:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪 У росії звільнили українсько</title>
+      <link>https://www.mandarinai.lt/post/76258</link>
+      <description>💪 У росії звільнили українського журналіста Владислава Єсипенка, якого з 2021 року утримували за обвинуваченням у підготовці теракту, — Радіо Свобода 
+
+ФСБ заявляла, що він нібито мав вибухівку і працював на українські спецслужби. Єсипенко це заперечував і розповідав про тортури: його били, катували струмом і погрожували вбивством</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_19-27-00.jpg" length="106063" type="image/jpeg"/>
+      <pubDate>Sun, 22 Jun 2025 19:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Понад 70 шахедів в повітряно</title>
+      <link>https://www.mandarinai.lt/post/76259</link>
+      <description>⚡️Понад 70 шахедів в повітряному просторі України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_19-49-18.jpg" length="122082" type="image/jpeg"/>
+      <pubDate>Sun, 22 Jun 2025 19:49:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
