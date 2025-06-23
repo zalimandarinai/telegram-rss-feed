@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 14:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 15:10:02 +0000</lastBuildDate>
     <item>
       <title>У Ростовській області зафіксов</title>
       <link>https://www.mandarinai.lt/post/76291</link>
@@ -115,6 +115,20 @@
 Очевидно, йдеться про Мусліма Мірзабалаєва, на фото.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_13-53-52.jpg" length="8017" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 13:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Жахливі кадри ударів  російсь</title>
+      <link>https://www.mandarinai.lt/post/76302</link>
+      <description>🤬Жахливі кадри ударів  російських безпілотників і ракет на Київ опублікувпло агенсиво Reuters. Ця атака російських вбивць забрала життя 9 людей у столиці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-23_14-46-09.mp4" length="6803780" type="video/mp4"/>
+      <pubDate>Mon, 23 Jun 2025 14:46:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Країни-партнери планують над</title>
+      <link>https://www.mandarinai.lt/post/76303</link>
+      <description>⚡️Країни-партнери планують надати Україні понад €35 мільярдів військової допомоги цьогоріч, — генсек НАТО Рютте</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_14-56-11.jpg" length="47363" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 14:56:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
