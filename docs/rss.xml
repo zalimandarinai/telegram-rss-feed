@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 02:49:18 +0000</lastBuildDate>
-    <item>
-      <title>Попередньо, росіяни вдарили по</title>
-      <link>https://www.mandarinai.lt/post/76252</link>
-      <description>Попередньо, росіяни вдарили по полігону ракетою «Іскандер-М», — речник Сухопутних військ ЗСУ Віталій Саранцев
-
-Це був не постійний, а тимчасовий тренувальний полігон, військові на ньому не знаходяться постійно, а просто тимчасово прибувають для виконання певних навчальних завдань. 
-
-За версією речника, майже весь особовий склад ще за кілька хвилин до удару був розосереджений і перебував в укриттях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_16-13-23.jpg" length="59978" type="image/jpeg"/>
-      <pubDate>Sun, 22 Jun 2025 16:13:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Jun 2025 03:49:22 +0000</lastBuildDate>
     <item>
       <title>🤬русня публікує відео удару по</title>
       <link>https://www.mandarinai.lt/post/76253</link>
@@ -67,6 +56,13 @@
       <description>⚡️Понад 70 шахедів в повітряному просторі України</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_19-49-18.jpg" length="122082" type="image/jpeg"/>
       <pubDate>Sun, 22 Jun 2025 19:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️На Київщині внаслідок масова</title>
+      <link>https://www.mandarinai.lt/post/76266</link>
+      <description>⚡️На Київщині внаслідок масованого обстрілу житлових та промислових секторів виникли пожежі та руйнації: одна людина загинула, ще 8 поранені, — ДСНС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_03-41-57.jpg" length="128958" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 03:41:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
