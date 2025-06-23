@@ -6,33 +6,24 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 03:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 04:24:36 +0000</lastBuildDate>
     <item>
       <title>🤬русня публікує відео удару по</title>
-      <link>https://www.mandarinai.lt/post/76253</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🤬русня публікує відео удару по полігону СОУ
 
 БПЛА розвідник вс рф спокійно висить над тренувальним полігоном і коригує ракетний удар. Нема слів🤬</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-22_17-04-56.mp4" length="3148095" type="video/mp4"/>
       <pubDate>Sun, 22 Jun 2025 17:04:56 +0000</pubDate>
     </item>
     <item>
       <title>росіяни вдарили по Очакову: по</title>
-      <link>https://www.mandarinai.lt/post/76255</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>росіяни вдарили по Очакову: поранені малолітні діти, — Миколаївська ОВА 
 
 За даними Віталія Кіма, внаслідок ракетного обстрілу росіянами міста Очаків Миколаївського району поранено троє людей. Серед них двоє дітей
 
 Станом на зараз, госпіталізовано 12-річну дівчинку та 7-річного хлопчика.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_17-47-55.jpg" length="102057" type="image/jpeg"/>
       <pubDate>Sun, 22 Jun 2025 17:47:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російський парк броньованих ма</title>
-      <link>https://www.mandarinai.lt/post/76256</link>
-      <description>Російський парк броньованих машин поповнився ось таким «Франкенштейном» з дахом замість башні, «мангалом» і «дредами» з арматури проти дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-22_18-21-23.jpg" length="138865" type="image/jpeg"/>
-      <pubDate>Sun, 22 Jun 2025 18:21:23 +0000</pubDate>
     </item>
     <item>
       <title>Батальйон Безпілотних Систем 6</title>
@@ -63,6 +54,15 @@
       <description>⚡️На Київщині внаслідок масованого обстрілу житлових та промислових секторів виникли пожежі та руйнації: одна людина загинула, ще 8 поранені, — ДСНС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_03-41-57.jpg" length="128958" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 03:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Четверо загиблих у Києві і мін</title>
+      <link>https://www.mandarinai.lt/post/76269</link>
+      <description>Четверо загиблих у Києві і мінімум 13 поранених внаслідок російського обстрілу вночі. 
+
+Зруйновано під'їзд багатоповерхівки. Тривають пошуково-рятувпльеі роботи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_03-50-17.jpg" length="293247" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 03:50:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
