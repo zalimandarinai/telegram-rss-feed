@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 06:14:49 +0000</lastBuildDate>
-    <item>
-      <title>🤬русня публікує відео удару по</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤬русня публікує відео удару по полігону СОУ
-
-БПЛА розвідник вс рф спокійно висить над тренувальним полігоном і коригує ракетний удар. Нема слів🤬</description>
-      <pubDate>Sun, 22 Jun 2025 17:04:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Jun 2025 07:11:49 +0000</lastBuildDate>
     <item>
       <title>🤬Наразі 5 загиблих у Києві.
 Вс</title>
@@ -61,9 +53,18 @@
       <link>https://www.mandarinai.lt/post/76283</link>
       <description>💔 До шести зросла кількість загиблих у Києві внаслідок атаки рф, – ДСНС
 
+З-під завалів підʼїзду рятувальники дістали тіло чоловіка та дружини, їх наразі останніми деблокували.
+
 Роботи з ліквідації наслідків атаки тривають на двох локаціях.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-23_06-05-00.mp4" length="1373302" type="video/mp4"/>
       <pubDate>Mon, 23 Jun 2025 06:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чоловік зміг власними силами в</title>
+      <link>https://www.mandarinai.lt/post/76284</link>
+      <description>Чоловік зміг власними силами вибиратись зі зруйнованої 5-поверхівки. Коли пролунав вибух – він спав</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-23_06-19-31.mp4" length="3133250" type="video/mp4"/>
+      <pubDate>Mon, 23 Jun 2025 06:19:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
