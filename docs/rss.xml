@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 09:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 10:10:48 +0000</lastBuildDate>
     <item>
       <title>‼️Уламки російської ракети так</title>
       <link>https://www.mandarinai.lt/post/76281</link>
@@ -63,6 +63,15 @@
 Губернатор заявив, що «внаслідок атаки БПЛА на промисловому підприємстві Кам'янського району сталося загоряння»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-23_08-47-20.mp4" length="732129" type="video/mp4"/>
       <pubDate>Mon, 23 Jun 2025 08:47:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ракета, яка сьогодні прилетіла</title>
+      <link>https://www.mandarinai.lt/post/76293</link>
+      <description>Ракета, яка сьогодні прилетіла по багатоповерхівці у Києві, пробила все до підвалу і навіть підвал, — міністр внутрішніх справ Ігор Клименко 
+
+Також рятувальники деблокували тіло 7 жертв у Шевченківському районі, повідомили в КМВА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8161.MP4" length="16863740" type="video/mp4"/>
+      <pubDate>Mon, 23 Jun 2025 09:53:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
