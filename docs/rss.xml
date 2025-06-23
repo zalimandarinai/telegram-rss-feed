@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 21:08:30 +0000</lastBuildDate>
-    <item>
-      <title>Паніка в торговому центрі в Ка</title>
-      <link>https://www.mandarinai.lt/post/76305</link>
-      <description>Паніка в торговому центрі в Катарі під час іранської атаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8175.MP4" length="1760455" type="video/mp4"/>
-      <pubDate>Mon, 23 Jun 2025 17:50:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Jun 2025 22:08:44 +0000</lastBuildDate>
     <item>
       <title>Трохи позитивних новин - на фо</title>
       <link>https://www.mandarinai.lt/post/76307</link>
@@ -100,6 +93,17 @@
 https://m.youtube.com/watch?v=r3S3JqUIqks</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_20-33-48.jpg" length="92699" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 20:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🇬🇧 Зеленський та Стармер зус</title>
+      <link>https://www.mandarinai.lt/post/76319</link>
+      <description>🇺🇦🇬🇧 Зеленський та Стармер зустрілися з українськими захисниками, які проходять підготовку у Великій Британії
+
+Президент України повідомив, що завдяки підтримці Великої Британії близько 58 000 людей пройшли навчання в межах програми "Інтерфлекс" — вона працює вже третій рік, до неї приєдналися 13 країн.
+
+За його словами, "за лічені тижні" українські воїни завершать тренування і відправляться в Україну.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-23_21-42-52.mp4" length="7562158" type="video/mp4"/>
+      <pubDate>Mon, 23 Jun 2025 21:42:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
