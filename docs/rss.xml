@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 10:10:10 +0000</lastBuildDate>
-    <item>
-      <title>💥Українські бійці знищили росі</title>
-      <link>https://www.mandarinai.lt/post/76327</link>
-      <description>💥Українські бійці знищили російський катер з десантом біля Тендрівської коси на Херсонщини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8182.MP4" length="9854397" type="video/mp4"/>
-      <pubDate>Tue, 24 Jun 2025 07:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Серебрянський ліс весь в оп</title>
-      <link>https://www.mandarinai.lt/post/76328</link>
-      <description>❗️ Серебрянський ліс весь в оптоволокні, - 63-я бригада</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8184.MP4" length="11556848" type="video/mp4"/>
-      <pubDate>Tue, 24 Jun 2025 08:08:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 11:08:20 +0000</lastBuildDate>
     <item>
       <title>У Дніпрі пролунали потужні виб</title>
       <link>https://www.mandarinai.lt/post/76331</link>
@@ -76,6 +62,13 @@
       <link>https://www.mandarinai.lt/post/76340</link>
       <description>«ЗУ-23-2 монстр у боротьбі з повітряними цілями», – вважає прикордонник «Ярема» з бригади «Гарт», який збиває «ZALA» та «Supercam» в районі Вовчанська.</description>
       <pubDate>Tue, 24 Jun 2025 09:58:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нідерланди оплатять 600 000 др</title>
+      <link>https://www.mandarinai.lt/post/76342</link>
+      <description>Нідерланди оплатять 600 000 дронів для потреб Сил оборони і поставлять Україні 100 радарів, які призначені для виявлення ворожих БПЛА, - міністр оборони Нідерландів Рубен Брекельманс перед самітом НАТО в Гаазі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-24_10-40-11.jpg" length="117939" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 10:40:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
