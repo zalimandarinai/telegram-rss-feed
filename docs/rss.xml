@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 19:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 20:10:11 +0000</lastBuildDate>
     <item>
       <title>❗️Польща Фінляндія та країни Б</title>
       <link>https://www.mandarinai.lt/post/76355</link>
@@ -82,6 +82,17 @@
 «Я вважаю, що коли ваша батьківщина перебуває під загрозою, ви боретеся з такою завзятістю, яку нам важко уявити, оскільки ми ніколи не опинялися в такій ситуації».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-24_18-58-38.jpg" length="23388" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 18:58:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Імена тих, кого сьогодні в ліц</title>
+      <link>https://www.mandarinai.lt/post/76371</link>
+      <description>Імена тих, кого сьогодні в ліцеї Білгород-Дністровського вбила російська ракета, оприлюднив Денис Казанський 
+
+Внаслідок удару по ліцею загинуло троє його співробітників: 51-річна завуч Ауріка Мельник, 77-річний  заступник директора Олег Герасименко та 60-річна прибиральниця Віра Рощина.
+
+Співчуття близьким та родинам жертв нелюдської атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-24_19-32-38.jpg" length="123711" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 19:32:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
