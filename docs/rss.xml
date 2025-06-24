@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 17:10:38 +0000</lastBuildDate>
-    <item>
-      <title>😐 Ізраїль розвертає винищувачі</title>
-      <link>https://www.mandarinai.lt/post/76349</link>
-      <description>😐 Ізраїль розвертає винищувачі та не наноситиме ударів по Ірану. Ніхто не постраждає, – Трамп
-
-Тим часом іранські джерела повідомляють, що на околицях Тегерану пролунало два вибухи. Пишуть, що уражено іранський радар</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-24_11-48-19.jpg" length="92677" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 11:48:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 18:12:47 +0000</lastBuildDate>
     <item>
       <title>Видавництво «Стилет і Стилос» </title>
       <link>https://www.mandarinai.lt/post/76350</link>
@@ -103,6 +94,13 @@
 📝 «Видно, як ворожий екіпаж панікує. Розбігаються, як щури. Але пізно. Наш оператор спокійно направляє дрон на оптоволокні в «пакет» із ракетами. Удар. Вибух. Детонація. Снаряди зриваються. Машина — у вогні. Від «Граду» нічого не залишилось», - написали в батальйоні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8201.MP4" length="12376446" type="video/mp4"/>
       <pubDate>Tue, 24 Jun 2025 16:36:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡В Ірані тим часом  святкують </title>
+      <link>https://www.mandarinai.lt/post/76366</link>
+      <description>🤡В Ірані тим часом  святкують перемогу над Ізраїлем.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8203.MP4" length="1482086" type="video/mp4"/>
+      <pubDate>Tue, 24 Jun 2025 17:37:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
