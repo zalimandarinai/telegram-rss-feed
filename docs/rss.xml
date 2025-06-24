@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 05:12:09 +0000</lastBuildDate>
-    <item>
-      <title>❗️Вітаємо Інсайдер UA з новою </title>
-      <link>https://www.mandarinai.lt/post/76308</link>
-      <description>❗️Вітаємо Інсайдер UA з новою вершиною — 2 мільйонів підписників
-
-Інсайдер UA – впливовий канал, до якого дійсно прислуховуються і читають в усіх владних кабінетах.
-
-Вітаємо колег ❤️</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_18-31-47.jpg" length="49209" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 18:31:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 06:14:31 +0000</lastBuildDate>
     <item>
       <title>❗️Трампу "не віриться", що Мед</title>
       <link>https://www.mandarinai.lt/post/76309</link>
@@ -117,6 +106,13 @@ https://m.youtube.com/watch?v=r3S3JqUIqks</description>
 Ще 6 поранених, спред них троє дітей. Пошкоджено ≈30 будинків</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-24_05-08-27.mp4" length="4172114" type="video/mp4"/>
       <pubDate>Tue, 24 Jun 2025 05:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Припинення вогню набуло чинн</title>
+      <link>https://www.mandarinai.lt/post/76325</link>
+      <description>❗️Припинення вогню набуло чинності. Не порушуйте його! — Дональд Трамп оголосив перемир’я між Ізраїлем та Іраном</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-24_05-33-28.jpg" length="54383" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 05:33:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
