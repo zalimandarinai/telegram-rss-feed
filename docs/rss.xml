@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 04:19:39 +0000</lastBuildDate>
-    <item>
-      <title>Трохи позитивних новин - на фо</title>
-      <link>https://www.mandarinai.lt/post/76307</link>
-      <description>Трохи позитивних новин - на фоні явно невдалих іранських атак ціна на нафту обвалилась нижче 70 доларів за барель і продовжує знижуватись.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_18-25-24.jpg" length="39516" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 18:25:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 05:12:09 +0000</lastBuildDate>
     <item>
       <title>❗️Вітаємо Інсайдер UA з новою </title>
       <link>https://www.mandarinai.lt/post/76308</link>
@@ -65,13 +58,6 @@
       <pubDate>Mon, 23 Jun 2025 19:18:15 +0000</pubDate>
     </item>
     <item>
-      <title>🇺🇸🤡 Вітаю весь світ, настав ча</title>
-      <link>https://www.mandarinai.lt/post/76316</link>
-      <description>🇺🇸🤡 Вітаю весь світ, настав час для миру, — Трамп написав цю діч в своїй соцмережі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_20-20-08.jpg" length="38418" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 20:20:08 +0000</pubDate>
-    </item>
-    <item>
       <title>💬 «Ніколи не фантазував про ко</title>
       <link>https://www.mandarinai.lt/post/76317</link>
       <description>💬 «Ніколи не фантазував про кордони 91-го», - в нас вийшла дуже відверта розмова на фронті з командиром полку безпілотних систем «К-2» підполковником Кирилом Вересом.
@@ -111,6 +97,26 @@ https://m.youtube.com/watch?v=r3S3JqUIqks</description>
       <description>Трамп заявив, що Ізраїль та Іран погодилися на повне припинення вогню</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-23_22-20-28.jpg" length="167427" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 22:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐На тлі гучних заяв Трампа про</title>
+      <link>https://www.mandarinai.lt/post/76322</link>
+      <description>😐На тлі гучних заяв Трампа про мир між Іраном та Ізраїлем, Іран продовжує ракетні атаки.
+
+ За даними CNN з посиланням на іранського високопосадовця, Тегеран не отримував жодних пропозицій щодо перемир’я і не вбачає підстав для його запровадження.
+
+Водночас, за данними Axios, припинення вогню між Іраном та Ізраїлем може початися сьогодні о 19 годині за київським часом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-24_04-46-02.mp4" length="530250" type="video/mp4"/>
+      <pubDate>Tue, 24 Jun 2025 04:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Троє загиблих, серед них – 8-р</title>
+      <link>https://www.mandarinai.lt/post/76324</link>
+      <description>Троє загиблих, серед них – 8-річний хлопчик. росія масовано вдарила дронами по селу на Сумщині вночі.
+
+Ще 6 поранених, спред них троє дітей. Пошкоджено ≈30 будинків</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-24_05-08-27.mp4" length="4172114" type="video/mp4"/>
+      <pubDate>Tue, 24 Jun 2025 05:08:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
