@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 14:09:30 +0000</lastBuildDate>
-    <item>
-      <title>💔 Іграшки серед уламків - росі</title>
-      <link>https://www.mandarinai.lt/post/76338</link>
-      <description>💔 Іграшки серед уламків - російський удар зруйнував дитячий садочок у Дніпрі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-24_09-47-34.mp4" length="324819" type="video/mp4"/>
-      <pubDate>Tue, 24 Jun 2025 09:47:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Момент удару російських вбивц</title>
-      <link>https://www.mandarinai.lt/post/76339</link>
-      <description>🤬Момент удару російських вбивць по житловій забудові в Дніпрі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-24_09-53-53.mp4" length="281318" type="video/mp4"/>
-      <pubDate>Tue, 24 Jun 2025 09:53:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>«ЗУ-23-2 монстр у боротьбі з п</title>
-      <link>https://www.mandarinai.lt/post/76340</link>
-      <description>«ЗУ-23-2 монстр у боротьбі з повітряними цілями», – вважає прикордонник «Ярема» з бригади «Гарт», який збиває «ZALA» та «Supercam» в районі Вовчанська.</description>
-      <pubDate>Tue, 24 Jun 2025 09:58:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 15:09:52 +0000</lastBuildDate>
     <item>
       <title>Нідерланди оплатять 600 000 др</title>
       <link>https://www.mandarinai.lt/post/76342</link>
@@ -94,9 +74,9 @@
       <pubDate>Tue, 24 Jun 2025 11:49:20 +0000</pubDate>
     </item>
     <item>
-      <title>НАТО зараз на межі розпаду, ал</title>
+      <title>⚠️ НАТО зараз на межі розпаду,</title>
       <link>https://www.mandarinai.lt/post/76353</link>
-      <description>НАТО зараз на межі розпаду, альянс переживає найнебезпечнішу кризу за 75 років, — Bloomberg
+      <description>⚠️ НАТО зараз на межі розпаду, альянс переживає найнебезпечнішу кризу за 75 років, — Bloomberg
 
 Криза не перша.
 
@@ -117,6 +97,13 @@
 📍 «Зрештою, існує криза довіри. Європейці завжди задавалися питанням, чи будуть США поруч, коли це буде важливо».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-24_14-00-18.jpg" length="137476" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 14:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Польща Фінляндія та країни Б</title>
+      <link>https://www.mandarinai.lt/post/76355</link>
+      <description>❗️Польща Фінляндія та країни Балтії готові замінувати райони вздовж кордонів із росією, для того щоб створити в Європі нову залізну завісу, — The Telegraph</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-24_14-39-34.jpg" length="157514" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 14:39:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
