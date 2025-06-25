@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 19:07:03 +0000</lastBuildDate>
     <item>
       <title>В НАТО наступає перелом: країн</title>
       <link>https://www.mandarinai.lt/post/76405</link>
@@ -107,6 +107,21 @@
 «Україна оцінює, що Росія накопичила близько 13 тисяч ракет різної дальності і може виробляти до двох сотень на місяць. Схоже, Москва не має гострої потреби в іранських ракетах», - FT</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_17-56-58.jpg" length="80212" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 17:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Виробництво ракет «Іскандер» в</title>
+      <link>https://www.mandarinai.lt/post/76417</link>
+      <description>Виробництво ракет «Іскандер» в росії зросло завдяки китайській допомозі, — Kyiv Independent
+
+Лише минулого року ворог виготовив понад 700 таких ракет, хоча в 2023-му виготовляв 250 ракет.
+
+Важливу роль у цьому відіграє імпорт обладнання з Китаю, Тайваню та Білорусі через приватних посередників на завод до міста Воткінськ, де роблять такі ракети.
+
+ГУР вважає, що Кремль накопичує запаси для значно більш масштабної війни.
+
+«Згідно з нашими даними, Москва робить запаси ракет різних типів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_18-28-47.jpg" length="91508" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 18:28:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
