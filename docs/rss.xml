@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 19:07:03 +0000</lastBuildDate>
-    <item>
-      <title>В НАТО наступає перелом: країн</title>
-      <link>https://www.mandarinai.lt/post/76405</link>
-      <description>В НАТО наступає перелом: країни Північноатлантичного Альянсу зобов'язалися збільшити оборонні витрати до 5% ВВП до 2035 року. 
-
-На саміті в Гаазі лідери держав оголосили про «залізну прихильність» усіх країн блоку ключовій 5-ій статті Хартії НАТО про колективну оборону.
-
-В комюніке також наголошується, хоч і стримано,  на подальшій підтримці України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_13-11-26.jpg" length="100105" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 13:11:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 20:10:15 +0000</lastBuildDate>
     <item>
       <title>Ситуація в Україні «повністю в</title>
       <link>https://www.mandarinai.lt/post/76407</link>
@@ -122,6 +111,22 @@
 «Згідно з нашими даними, Москва робить запаси ракет різних типів».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_18-28-47.jpg" length="91508" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 18:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Авіаудар по командному пункту</title>
+      <link>https://www.mandarinai.lt/post/76418</link>
+      <description>💥Авіаудар по командному пункту батальйону окупаційних військ зс рф на т.о. півдні України 
+
+📹Соняшник</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-25_19-17-49.mp4" length="2785407" type="video/mp4"/>
+      <pubDate>Wed, 25 Jun 2025 19:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Угода про створення Трибуналу </title>
+      <link>https://www.mandarinai.lt/post/76420</link>
+      <description>Угода про створення Трибуналу зі злочинів російської федерації в ПАРЄ вже підписана</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_19-46-33.jpg" length="133464" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 19:46:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
