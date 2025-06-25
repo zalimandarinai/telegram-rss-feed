@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 17:09:33 +0000</lastBuildDate>
-    <item>
-      <title>Оператори БПЛА «SICARIO» зруйн</title>
-      <link>https://www.mandarinai.lt/post/76401</link>
-      <description>Оператори БПЛА «SICARIO» зруйнували міст на південному напрямку за допомогою скидання бомб з гексакоптера.
-
-Підрозділ безпілотної авіації успішно провів операцію з ліквідації переправи. 
-
-Її руйнування значно обмежило логістичні можливості противника у цьому районі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8216.MP4" length="7492394" type="video/mp4"/>
-      <pubDate>Wed, 25 Jun 2025 12:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Росіяни почали встановлювати к</title>
-      <link>https://www.mandarinai.lt/post/76402</link>
-      <description>Росіяни почали встановлювати корабельні зенітні гармати АК-630 в якості довготривалих вогневих точок. 
-
-АК-630 — це шестиствольна гармата калібром 30 мм зі скорострільністю до 1000 пострілів на хвилину.
-
-Гармати знімають з кораблів і розташовують на окупованому півдні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_12-39-29.jpg" length="18508" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 12:39:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 18:13:02 +0000</lastBuildDate>
     <item>
       <title>В НАТО наступає перелом: країн</title>
       <link>https://www.mandarinai.lt/post/76405</link>
@@ -101,6 +79,34 @@
 Проводиться робота над рішеннями, які дозволять збільшити дальність ураження до 80 км, хоча, теоретично, при скиданні з висоти 10 км дальність може сягати й 100 км, - зазначив представник розробника.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8227.MOV" length="10788991" type="video/mp4"/>
       <pubDate>Wed, 25 Jun 2025 16:53:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌ Україну на полі бою чекає «н</title>
+      <link>https://www.mandarinai.lt/post/76415</link>
+      <description>❌ Україну на полі бою чекає «напружене і важке» літо, — Defense One з посиланням на джерело в НАТО
+
+За прогнозами представників альянсу, рф продовжить повільно наступати, незважаючи на великі втрати. Крім того, неясно, що робити Україні, коли схвалена при Байдені допомога закінчиться.
+
+«Ситуація залишається похмурою, і ознак прориву для обох сторін мало», — пише портал</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_17-18-21.jpg" length="164530" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 17:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>«росії не потрібен Іран, щоб в</title>
+      <link>https://www.mandarinai.lt/post/76416</link>
+      <description>«росії не потрібен Іран, щоб воювати проти України», - The Financial Times 
+
+Росія накопичила близько 13 000 ракет різної дальності і може виробляти до 200 на місяць, - FT з посиланням на українські дані 
+
+Видання The Financial Times вважає, що критичною для Кремля втрата іранської військової підтримки не стане.
+
+Іран надав росії безпілотники «Shahed-136» та технологію їхнього виробництва ще на початку війни. Отримавши виробничі технології, креслення та підготовку від Ірану, росія тепер виробляє свої безпілотники «Герань-2» в зоні «Алабуга». Крім того, росіяни вдосконалили оригінальні іранські проекти.
+
+Те ж саме стосується погіршення виробництва ракет в Ірані. Восени 2024 року Росія отримала партію іранських ракет Fath-360, але навіть не використала їх для ударів по Україні. 
+
+«Україна оцінює, що Росія накопичила близько 13 тисяч ракет різної дальності і може виробляти до двох сотень на місяць. Схоже, Москва не має гострої потреби в іранських ракетах», - FT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_17-56-58.jpg" length="80212" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 17:56:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
