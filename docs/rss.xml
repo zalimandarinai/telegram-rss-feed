@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 21:08:35 +0000</lastBuildDate>
-    <item>
-      <title>❗️путін не поїде на саміт БРІК</title>
-      <link>https://www.mandarinai.lt/post/76408</link>
-      <description>❗️путін не поїде на саміт БРІКС у Бразилії через ордер на арешт Міжнародного кримінального суду, — Reuters
-
-Про це повідомив помічник російського диктатора Юрій Ушаков. За його словами, це сталося через відсутність гарантій безпеки з боку бразильської влади:
-
-У 2023 році Путін також пропустив саміт БРІКС у Південній Африці — ця країна, як і Бразилія, є учасником МКС і була зобов’язана заарештувати російського диктатора, згідно з виданим ордером.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_14-13-39.jpg" length="163064" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 14:13:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 22:08:37 +0000</lastBuildDate>
     <item>
       <title>В Києві так само, як і в Харко</title>
       <link>https://www.mandarinai.lt/post/76411</link>
@@ -131,6 +120,13 @@
 Дана ситуація вчергове доводить, що недостатньо просто подивитися на одне відео, щоб намалювати ЛБЗ. Ну, і хочеться знову прокричати - брехня нас всіх погубить».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_20-38-00.jpg" length="43437" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 20:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Коренево на Курщині приліт </title>
+      <link>https://www.mandarinai.lt/post/76422</link>
+      <description>💥В Коренево на Курщині приліт по розташуванню зс рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_21-31-28.jpg" length="43249" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 21:31:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
