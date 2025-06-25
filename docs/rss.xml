@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 13:27:04 +0000</lastBuildDate>
-    <item>
-      <title>СБУ та Нацполіція затримали у </title>
-      <link>https://www.mandarinai.lt/post/76389</link>
-      <description>СБУ та Нацполіція затримали у Харкові російську агентку, яка передала військовим ЗСУ замінований скутер нібито, як «волонтерську допомогу»
-
-Того дня, 20 червня, росіяни активували вибуховий пристрій, який був захований у багажнику скутера, коли поруч перебували двоє військових.
-
-Вибух стався біля харківського кафе, куди ворог заманив воїнів під виглядом передачі їм «волонтерського» моторолера.
-
-За даними слідства, для злочину агресор завербував 19-річну харків’янку; з власних джерел дізнались, що її зовуть Катерина Пихтіна, сама дівчина з Золочівського району, але проживає в Харкові.
-
-Після вербування вона отримала детальні інструкції від куратора на виготовлення СВП в «домашніх» умовах.
-
-Готовий СВП фігурантка привезла на місце стоянки скутера та заховала багажнику.
-
-По камері, яка була замаскована на місці теракту, російські спецслужбісти відстежили прибуття військових на «локацію».
-
-Після вчинення злочину терористка намагалася «залягти на дно», але за декілька годин її затримали правоохоронці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_09-54-46.jpg" length="62086" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 09:54:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 14:09:52 +0000</lastBuildDate>
     <item>
       <title>Мешканці Херсона поділились фо</title>
       <link>https://www.mandarinai.lt/post/76391</link>
@@ -95,6 +74,17 @@
 В комюніке також наголошується, хоч і стримано,  на подальшій підтримці України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_13-11-26.jpg" length="100105" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 13:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ситуація в Україні «повністю в</title>
+      <link>https://www.mandarinai.lt/post/76407</link>
+      <description>Ситуація в Україні «повністю вийшла з-під контролю», треба з цим щось робити, – Трамп нібито сказав на закритій зустрічі.
+
+Що це означає, незрозуміло.
+
+Але Bloomberg повідомляє, що на засіданні НАТО цей знак сприйняли, як позитивний сигнал щодо співпраці Трампа з Україною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_14-01-08.jpg" length="62830" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 14:01:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
