@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 15:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 16:11:23 +0000</lastBuildDate>
     <item>
       <title>В Німеччині спалили стоянку з </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -27,27 +27,6 @@
 
 Ресурс «DeepState» позначає село Новосергіївка, як «сіру зону», де тривають боєзіткнення.</description>
       <pubDate>Thu, 26 Jun 2025 10:53:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Економіка України балансує на </title>
-      <link>https://www.mandarinai.lt/post/76450</link>
-      <description>Економіка України балансує на межі, — The Washington Post 
-
-Основні загрози економіці:
-
-Війна може тривати роками, що загрожує занепадом України.
-
-Захід в значній мірі підтримує економіку України, але існує ризик скорочення допомоги.
-
-Єдиний масштабний інвестиційний проєкт це угода з США про рідкоземи та інші корисні копалини, поки що не працює.
-
-Міжнародний бізнес мав надії вкластися у відбудову України, але тепер бізнесмени переглядають свої прогнози через те, що конфлікт може загостритися, і з боку росії зростає кількість ударів.
-
-Високопосадовець заявив, що припинення вогню у 2025 році малоймовірне.
-
-Західна допомога покриває невійськові витрати, тобто, пенсії, охорону здоров’я, освіту, за рахунок відсотків із заморожених активів. Але на наступний рік підтримка може покривати лише половину суми, що може не дати сформувати бюджет.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-26_13-39-24.jpg" length="63827" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jun 2025 13:39:24 +0000</pubDate>
     </item>
     <item>
       <title>Ще один обмін. Щойно до Україн</title>
@@ -83,6 +62,13 @@
       <link>https://www.mandarinai.lt/post/76463</link>
       <description>Обмін від самого початку, - з моменту, коли в бік кордону вирушили автобуси з російськими військовополоненими, - і до пронизливих слів українських бійців «Мамо, я вдома!» - кадри Держприкордонслужби</description>
       <pubDate>Thu, 26 Jun 2025 15:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>FPV-дрон спалив заправку «Татн</title>
+      <link>https://www.mandarinai.lt/post/76464</link>
+      <description>FPV-дрон спалив заправку «Татнефть» в селі Пятницьке на Білгородщині за 18 км від кордону з Україною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8272.MOV" length="3235891" type="video/mp4"/>
+      <pubDate>Thu, 26 Jun 2025 15:21:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
