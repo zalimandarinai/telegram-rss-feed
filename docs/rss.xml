@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 06:14:01 +0000</lastBuildDate>
-    <item>
-      <title>❌ Україну на полі бою чекає «н</title>
-      <link>https://www.mandarinai.lt/post/76415</link>
-      <description>❌ Україну на полі бою чекає «напружене і важке» літо, — Defense One з посиланням на джерело в НАТО
-
-За прогнозами представників альянсу, рф продовжить повільно наступати, незважаючи на великі втрати. Крім того, неясно, що робити Україні, коли схвалена при Байдені допомога закінчиться.
-
-«Ситуація залишається похмурою, і ознак прориву для обох сторін мало», — пише портал</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_17-18-21.jpg" length="164530" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 17:18:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 07:10:35 +0000</lastBuildDate>
     <item>
       <title>«росії не потрібен Іран, щоб в</title>
       <link>https://www.mandarinai.lt/post/76416</link>
@@ -116,6 +105,17 @@
 Видання Politico цитує європейського чиновника, "підлизування до Трампа на саміті було надмірним, багатьом людям було соромно"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-26_05-15-53.jpg" length="45121" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 05:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ та Нацпол затримали агента</title>
+      <link>https://www.mandarinai.lt/post/76430</link>
+      <description>СБУ та Нацпол затримали агента рф, який намагався підірвати військового, заманивши його на «побачення» з дівчиною
+
+Терорист — 19-річний мешканець Київщини, завербований росіянами через Телеграм. За інструкцією куратора він виготовив вибухівку та заклав її у скутер в одному зі столичних дворів. Потім заманив на локацію українського воїна під виглядом «побачення» із дівчиною з чата для знайомств. 
+ 
+Коли військовий прибув, рашисти дистанційно підірвали скутер. Внаслідок вибуху ніхто не постраждав. Агента ж затримала СБУ та повідомила про підозру. Покидьку світить до 12 років тюрми з конфіскацією майна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8232.MP4" length="15635550" type="video/mp4"/>
+      <pubDate>Thu, 26 Jun 2025 07:05:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
