@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 04:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 05:10:59 +0000</lastBuildDate>
     <item>
       <title>Пташки Третьої штурмової брига</title>
       <link>https://www.mandarinai.lt/post/76413</link>
@@ -123,9 +123,9 @@
       <pubDate>Thu, 26 Jun 2025 03:37:10 +0000</pubDate>
     </item>
     <item>
-      <title>💥Вночі лунали вибух на околиця</title>
+      <title>💥Вночі лунали вибухи на околиц</title>
       <link>https://www.mandarinai.lt/post/76425</link>
-      <description>💥Вночі лунали вибух на околицях Москви і  Московській області.</description>
+      <description>💥Вночі лунали вибухи на околицях Москви і в Московській області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-26_03-48-04.mp4" length="2143860" type="video/mp4"/>
       <pubDate>Thu, 26 Jun 2025 03:48:04 +0000</pubDate>
     </item>
