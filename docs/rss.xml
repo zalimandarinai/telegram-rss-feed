@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 08:13:14 +0000</lastBuildDate>
-    <item>
-      <title>💥Авіаудар по командному пункту</title>
-      <link>https://www.mandarinai.lt/post/76418</link>
-      <description>💥Авіаудар по командному пункту батальйону окупаційних військ зс рф на т.о. півдні України 
-
-📹Соняшник</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-25_19-17-49.mp4" length="2785407" type="video/mp4"/>
-      <pubDate>Wed, 25 Jun 2025 19:17:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Угода про створення Трибуналу </title>
-      <link>https://www.mandarinai.lt/post/76420</link>
-      <description>Угода про створення Трибуналу зі злочинів російської федерації в ПАРЄ вже підписана.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-25_19-46-33.jpg" length="133464" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 19:46:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 09:10:53 +0000</lastBuildDate>
     <item>
       <title>Брехня нас всіх погубить, - та</title>
       <link>https://www.mandarinai.lt/post/76421</link>
@@ -91,6 +75,13 @@
       <description>Десантно-штурмові війська на Сумщині захопили в полон 15 російських військових.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8233.MP4" length="24696083" type="video/mp4"/>
       <pubDate>Thu, 26 Jun 2025 07:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Привезли, вперше побачив ві</title>
+      <link>https://www.mandarinai.lt/post/76433</link>
+      <description>💬 «Привезли, вперше побачив військовополоненого. В нього очі були замотані скотчем червоним. Командир сказав, ти ж ще нікого не вбивав, тобі треба когось вбити. Я сказав, що нікого вбивати не буду, за що побили мене. І потім сказали, якщо розкажеш комусь, ми тебе обнулимо», - російський військовий Ілля Єлохін, якому якимось дивом вдалося втекти з 9-ї окремої мотострілецької бригади, може бути свідком на Трибуналі щодо злочинів окупаційної армії в Україні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8234.MP4" length="10687900" type="video/mp4"/>
+      <pubDate>Thu, 26 Jun 2025 08:56:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
