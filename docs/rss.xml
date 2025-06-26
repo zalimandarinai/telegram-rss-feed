@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 11:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 12:17:13 +0000</lastBuildDate>
     <item>
       <title>«Татко іноді свариться»: НАТО </title>
       <link>https://www.mandarinai.lt/post/76428</link>
@@ -85,6 +85,15 @@ Denfix — пілот фронтового винищувача МіГ-29 Сев
 Ресурс «DeepState» позначає село Новосергіївка, як «сіру зону», де тривають боєзіткнення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-26_10-53-23.jpg" length="49003" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 10:53:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>В найближчі три роки війна в У</title>
+      <link>https://www.mandarinai.lt/post/76441</link>
+      <description>В найближчі три роки війна в Україні, ймовірно, не закінчиться, - президент Литви Гітанас Науседа для «УП».
+
+💬 «Я сподіваюся, що буде вирішення війни в Україні до наступного періоду багаторічного бюджету ЄС [починається у 2028 році], але зараз я не надто оптимістичний. Я не бачу світла в кінці тунелю».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-26_11-22-25.jpg" length="83575" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 11:22:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
