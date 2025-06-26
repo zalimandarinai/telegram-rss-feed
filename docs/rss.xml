@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 18:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 19:07:09 +0000</lastBuildDate>
     <item>
       <title>«Мене підтримувала надія, що м</title>
       <link>https://www.mandarinai.lt/post/76461</link>
@@ -88,9 +88,38 @@
 
 У схемах брали участь понад 360 компаній із Туреччини, Китаю, ОАЕ, Габону та інших країн. 
 
-Серед головних одержувачів - російські перевізники, вони мають 1138 літаків, 66% з них Boeing і Airbus, які в росії забезпечують 90% пасажирських перевезень.</description>
+Головні одержувачі - російські компанії, які мають 1138 літаків; 66% з них Boeing і Airbus, які забезпечують 90% пасажирських перевезень.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8293.MP4" length="2376827" type="video/mp4"/>
       <pubDate>Thu, 26 Jun 2025 17:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрозділ «Примари» ГУР МО ура</title>
+      <link>https://www.mandarinai.lt/post/76471</link>
+      <description>Підрозділ «Примари» ГУР МО уразив безпілотниками в окупованому Криму критично важливі цілі, зокрема, компоненти системи С-400 «Тріумф»:
+
+▫️ дві РЛС управління 92Н2Е;
+
+▫️ дві РЛС виявлення 91Н6Е;
+
+▫️ пусковий комплекс С-400.
+
+БПЛА запускались, ймовірніше, з надводних дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8297.MP4" length="16119982" type="video/mp4"/>
+      <pubDate>Thu, 26 Jun 2025 18:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росія допомагає КНДР будувати </title>
+      <link>https://www.mandarinai.lt/post/76473</link>
+      <description>Росія допомагає КНДР будувати есмінці, але не факт, що вони плавають.
+
+КНДР побудувала фрегат «Чхве Хен» лише за 400 днів. КНР витрачає 18 місяців на будівництво таких кораблів, США – 2 роки.
+
+Кораблі КНДР практично ідентичні російським фрегатам класу «Григорович».
+
+Експерти сумніваються у готовності кораблів. 
+
+На них заблоковано вентиляцію охолодження двигунів, що вказує на їхню відсутність.</description>
+      <pubDate>Thu, 26 Jun 2025 19:01:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
