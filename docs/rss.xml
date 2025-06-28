@@ -6,24 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 21:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 22:07:47 +0000</lastBuildDate>
     <item>
       <title>❗️Очікується близько 400 «шахе</title>
-      <link>https://www.mandarinai.lt/post/76567</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️Очікується близько 400 «шахедів» — зафіксовано додаткові пуски з Ростова і Курська, — інформують монітори
 
 Стежте, куди летить основна маса дронів — саме туди з високою ймовірністю згодом можуть спрямувати і ракети</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-28_17-09-27.jpg" length="106116" type="image/jpeg"/>
       <pubDate>Sat, 28 Jun 2025 17:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Щось раптово спалахнуло на к</title>
-      <link>https://www.mandarinai.lt/post/76568</link>
-      <description>💥🔥Щось раптово спалахнуло на кримському аеродромі "Кіровське"
-
-Повідомляють, що пожежу досі не загасили</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-28_17-45-28.mp4" length="992667" type="video/mp4"/>
-      <pubDate>Sat, 28 Jun 2025 17:45:28 +0000</pubDate>
     </item>
     <item>
       <title>В росії значно розширюють виро</title>
@@ -73,6 +63,13 @@
       <description>Добре відомий нашій спільноті  розрахунок спецпризначенців «Волина», «Сноу», «Стугна» і «Браконьєр» скидом з безпілотника цієї ночі розвалив будівлю в Білгородській області, де разом з боєкомплектом накопичувались російські військові для подальшого висування на територію України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8386.MP4" length="1563625" type="video/mp4"/>
       <pubDate>Sat, 28 Jun 2025 20:41:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Диверсійна група ССО ЗСУ, пров</title>
+      <link>https://www.mandarinai.lt/post/76583</link>
+      <description>Диверсійна група ССО ЗСУ, проводячи операцію в районі російського кордону північніше міста Суми, знищила кількох російських військових, а одного росіянина захопила в полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8387.MP4" length="30515951" type="video/mp4"/>
+      <pubDate>Sat, 28 Jun 2025 21:12:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
