@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 23:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 00:52:22 +0000</lastBuildDate>
     <item>
       <title>❗️Очікується близько 400 «шахе</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -17,7 +17,7 @@
     </item>
     <item>
       <title>В росії значно розширюють виро</title>
-      <link>https://www.mandarinai.lt/post/76570</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>В росії значно розширюють виробництво стратегічних бомбардувальників, яке знаходиться в Казані, - фінське видання Yle має супутникові знімки.
 
 Згідно з ними, найбільша з нових будівель – близько 320 завдовжки і площею близько 19000 м², що можна порівняти з трьома футбольними полями. 
@@ -27,7 +27,6 @@
 Казанський завод особливо важливий для випуску та модернізації стратегічних бомбардувальників, саме таких, які в результаті «Павутини» були пошкоджені або знищені на російських аеродромах.
 
 Казанський авіазавод єдиний у Росії, який може заповнити втрату стратегічних бомбардувальників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-28_18-03-05.jpg" length="170625" type="image/jpeg"/>
       <pubDate>Sat, 28 Jun 2025 18:03:05 +0000</pubDate>
     </item>
     <item>
