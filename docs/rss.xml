@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 18:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 19:06:45 +0000</lastBuildDate>
     <item>
       <title>Прикинутися деревом не вдалося</title>
       <link>https://www.mandarinai.lt/post/76608</link>
@@ -93,13 +93,15 @@
       <pubDate>Sun, 29 Jun 2025 16:48:45 +0000</pubDate>
     </item>
     <item>
-      <title>🤷‍♂Іран назвав Трампа «ворогом</title>
-      <link>https://www.mandarinai.lt/post/76622</link>
-      <description>🤷‍♂Іран назвав Трампа «ворогом Бога» і закликав усіх мусульман вбити його, — Mehr
+      <title>💥Українська авіація завдає уда</title>
+      <link>https://www.mandarinai.lt/post/76623</link>
+      <description>💥Українська авіація завдає ударів по розташуванню живої сили русні на Північному напрямку 
 
-Зазначимо, що у світі близько 2 млрд послідовників цієї релігії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-29_17-32-48.jpg" length="37385" type="image/jpeg"/>
-      <pubDate>Sun, 29 Jun 2025 17:32:48 +0000</pubDate>
+#JDAM
+
+Відео: Соняшник 🌻</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-29_18-43-19.mp4" length="3871022" type="video/mp4"/>
+      <pubDate>Sun, 29 Jun 2025 18:43:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
