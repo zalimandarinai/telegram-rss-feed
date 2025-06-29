@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 07:08:34 +0000</lastBuildDate>
-    <item>
-      <title>Диверсійна група ССО ЗСУ, пров</title>
-      <link>https://www.mandarinai.lt/post/76583</link>
-      <description>Диверсійна група ССО ЗСУ, проводячи операцію в районі російського кордону північніше міста Суми, знищила кількох російських військових, а одного росіянина захопила в полон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8387.MP4" length="30515951" type="video/mp4"/>
-      <pubDate>Sat, 28 Jun 2025 21:12:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Jun 2025 08:11:05 +0000</lastBuildDate>
     <item>
       <title>‼️рф вночі масовано атакувала </title>
       <link>https://www.mandarinai.lt/post/76587</link>
@@ -77,6 +70,17 @@
 💬 «Ми готуємо кілька базових сценаріїв, щоб забезпечити людям можливість реалізувати своє фундаментальне конституційне право на вибір».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-29_06-55-27.jpg" length="23398" type="image/jpeg"/>
       <pubDate>Sun, 29 Jun 2025 06:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Загиблий льотчик Максим Устиме</title>
+      <link>https://www.mandarinai.lt/post/76597</link>
+      <description>Загиблий льотчик Максим Устименко був однокурсником пілота Андрія Пильщикова «Джуса», який загинув 2 роки тому
+
+Про це сказала мати «Джуса» Лілія Авер’янова.
+
+Вона назвала Максима «хлопцем зі сталі, який завжди прагнув бути найкращим».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-06-29_07-55-14.jpg" length="125375" type="image/jpeg"/>
+      <pubDate>Sun, 29 Jun 2025 07:55:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
