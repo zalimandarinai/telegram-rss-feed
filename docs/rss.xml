@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jun 2025 21:08:15 +0000</lastBuildDate>
-    <item>
-      <title>Розвідники 225 ОШП знищили вор</title>
-      <link>https://www.mandarinai.lt/post/76663</link>
-      <description>Розвідники 225 ОШП знищили ворожу групу, яка рухалася в напрямку Сум. Серед трофеїв ніж, який раніше здавався легендою.
-
-Командир полку Олег Ширяєв, обізнаний у ножовому бою, зізнається: уперше бачить таку зброю наживо. Ми справді довго думали, що ніж, який ще й стріляє, — це радянський міф. Але коли затрофеїли його — переконалися: такий екземпляр існує.
-
-Мова про НРС, ніж розвідника спеціальний. Унікальна розробка 1970-х, яку виробляли на Тульському збройовому заводі. Поєднує холодну й вогнепальну зброю в одному корпусі.
-
-НРС має якісне лезо з пилкою на обусі для перерізання металевих прутів товщиною до 1 см. 
-
-Головна особливість — система одиночного пострілу. Прицільна дальність — до 25 метрів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8443.MP4" length="27208222" type="video/mp4"/>
-      <pubDate>Mon, 30 Jun 2025 18:43:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 22:08:52 +0000</lastBuildDate>
     <item>
       <title>ООН вперше погодилась визнати,</title>
       <link>https://www.mandarinai.lt/post/76664</link>
@@ -78,6 +63,13 @@
 Вибухи були в кількох різних точках окупованого міста.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8449.MOV" length="4797582" type="video/mp4"/>
       <pubDate>Mon, 30 Jun 2025 19:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупований Луганськ під нічною</title>
+      <link>https://www.mandarinai.lt/post/76678</link>
+      <description>Окупований Луганськ під нічною атакою дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8451.MP4" length="521516" type="video/mp4"/>
+      <pubDate>Mon, 30 Jun 2025 21:09:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
