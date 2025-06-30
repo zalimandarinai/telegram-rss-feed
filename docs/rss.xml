@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jun 2025 16:11:18 +0000</lastBuildDate>
-    <item>
-      <title>Влучання дрону в Кривому Розі </title>
-      <link>https://www.mandarinai.lt/post/76645</link>
-      <description>Влучання дрону в Кривому Розі сьогодні зранку.
-
-UРD місцеві ЗМІ повідомляють, що приліт був в районі ТЦК</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-06-30_07-59-16.mp4" length="184474" type="video/mp4"/>
-      <pubDate>Mon, 30 Jun 2025 07:59:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 17:08:21 +0000</lastBuildDate>
     <item>
       <title>Повідомляють про 3 поранених в</title>
       <link>https://www.mandarinai.lt/post/76646</link>
