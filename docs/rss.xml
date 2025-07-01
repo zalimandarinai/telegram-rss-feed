@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Jul 2025 15:10:04 +0000</lastBuildDate>
-    <item>
-      <title>Далекобійні дрони ГУР конструк</title>
-      <link>https://www.mandarinai.lt/post/76695</link>
-      <description>Далекобійні дрони ГУР конструктори перетворюють на FPV-безпілотники.
-
-На озброєння Головного управління розвідки надійшли модифіковані далекобійні дрони UJ-26 «Бобер» з можливістю ручного управління.
-
-Кадри застосування нового безпілотника оприлюднила пресслужба ГУР МО.
-
-Розроблений компанією Ukrjet ударний дрон отримав нову модифікацію із тепловізійною камерою.
-
-Особливість безпілотника невідома система зв’язку, яка забезпечила високоякісний канал передачі даних з трансляцією зображення на далеких відстанях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8463.MP4" length="24561083" type="video/mp4"/>
-      <pubDate>Tue, 01 Jul 2025 10:24:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дрони ГУР уразили ППО та Су-30</title>
-      <link>https://www.mandarinai.lt/post/76696</link>
-      <description>Дрони ГУР уразили ППО та Су-30 на Кримському півострові. 
-
-Українські безпілотники UJ-26 «Бобер» завдали серії точних ударів по ключових військових об'єктах оккупантів у Саках та навколо Курортного. 
-
-Спалили росіянам, зокрема,  ЗРГК «Панцир-С1», станції радіолокації «Ніобій-СВ», «Печора-3», «Противник-ГЕ», а також винищувач Су-30.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-01_10-29-00.jpg" length="17815" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 10:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 16:11:52 +0000</lastBuildDate>
     <item>
       <title>Окупанти штурмують Торське в р</title>
       <link>https://www.mandarinai.lt/post/76697</link>
@@ -149,6 +123,24 @@
 А штурмові дії  ворога силами 1 чи 3 піхотинців вже не стало дивиною. В той же час, кількість цих груп залишається значною».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-01_14-54-39.jpg" length="52393" type="image/jpeg"/>
       <pubDate>Tue, 01 Jul 2025 14:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили оборони взяли в полон ще </title>
+      <link>https://www.mandarinai.lt/post/76708</link>
+      <description>Сили оборони взяли в полон ще одного чорношкірого найманця.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8479.MP4" length="1605519" type="video/mp4"/>
+      <pubDate>Tue, 01 Jul 2025 15:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генштаб України вперше з лютог</title>
+      <link>https://www.mandarinai.lt/post/76710</link>
+      <description>Генштаб України вперше з лютого оприлюднив карту з лінією фронту в Сумській області
+
+За даними Інституту вивчення війни, російські війська 30 червня продовжили наступальні дії на півночі Сумської області, але не просунулися. ISW повідомляє про російські атаки на північний захід від міста Суми, в районі Юнаківки, а також українські контратаки в тому ж місці, а також поблизу Яблунівки, Олексіївки, Андріївки та Садок.
+
+За словами речника українських прикордонників Андрія Демченка, якого цитує ISW, кількість російських атак у напрямку Сум зменшилася. Речник бригади, дислокованої в регіоні, додав, що російські війська атакують «виключно невеликими групами піхоти, і не використовують транспортні засоби».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-01_16-03-45.jpg" length="212765" type="image/jpeg"/>
+      <pubDate>Tue, 01 Jul 2025 16:03:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
