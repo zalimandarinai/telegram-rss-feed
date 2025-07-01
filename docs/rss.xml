@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Jul 2025 19:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 20:10:08 +0000</lastBuildDate>
     <item>
       <title>Рота безпілотних комплексів Де</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Рота безпілотних комплексів Держприкордонслужби «Прайм» нищить ворожі цілі на Курському напрямку: уражено бронетехніку, 3 транспортні засоби, позицію мінометників, місце взлету та керування ворожими дронами, 8 бліндажів.</description>
       <pubDate>Tue, 01 Jul 2025 13:29:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сили оборони взяли в полон ще </title>
-      <link>https://www.mandarinai.lt/post/76708</link>
-      <description>Сили оборони взяли в полон ще одного чорношкірого найманця.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8479.MP4" length="1605519" type="video/mp4"/>
-      <pubDate>Tue, 01 Jul 2025 15:20:46 +0000</pubDate>
     </item>
     <item>
       <title>Генштаб України вперше з лютог</title>
@@ -72,6 +65,19 @@
 За його словами, більш ніж 30 людей були поранені</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-01_18-45-41.jpg" length="302379" type="image/jpeg"/>
       <pubDate>Tue, 01 Jul 2025 18:45:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Конфлікт між Азербайджаном та</title>
+      <link>https://www.mandarinai.lt/post/76722</link>
+      <description>🤬Конфлікт між Азербайджаном та рф набирає обертів.
+
+Журналісти опублікували відео, на яке нібито доводить, що росіяни цілеспрямовано збили літак Azerbaijan Airlines за наказом міноборони рф:
+
+ азербайджанські журналісти показали запис, на якому чути вказівку відкрити вогонь по рейсу AZAL.
+
+Нагадаю, росіяни підбили борт 25 грудня 2024 року, загинуло 38 пасажирів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-01_19-35-44.mp4" length="2926045" type="video/mp4"/>
+      <pubDate>Tue, 01 Jul 2025 19:35:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
