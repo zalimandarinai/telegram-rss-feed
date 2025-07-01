@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Jul 2025 13:25:55 +0000</lastBuildDate>
-    <item>
-      <title>Азербайджан порушив кримінальн</title>
-      <link>https://www.mandarinai.lt/post/76690</link>
-      <description>Азербайджан порушив кримінальну справу проти російських силовиків. 
-
-Генпрокуратура розпочала розслідування за статтею про умисні тортури та вбивство з особливою жорстокістю щодо російських поліцейських, які затримували азербайджанців в місті Єкатеринбург.
-
-🔎 У заяві відомства йдеться про те, що затриманих жорстоко били.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-01_09-45-14.jpg" length="69597" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 09:45:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 14:09:28 +0000</lastBuildDate>
     <item>
       <title>⚡️ Дрони СБУ вразили завод «Ку</title>
       <link>https://www.mandarinai.lt/post/76691</link>
@@ -115,6 +104,13 @@
 🇺🇦 Слава Україні!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8467.MP4" length="23659394" type="video/mp4"/>
       <pubDate>Tue, 01 Jul 2025 12:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рота безпілотних комплексів Де</title>
+      <link>https://www.mandarinai.lt/post/76704</link>
+      <description>Рота безпілотних комплексів Держприкордонслужби «Прайм» нищить ворожі цілі на Курському напрямку: уражено бронетехніку, 3 транспортні засоби, позицію мінометників, місце взлету та керування ворожими дронами, 8 бліндажів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8468.MP4" length="20377810" type="video/mp4"/>
+      <pubDate>Tue, 01 Jul 2025 13:29:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
