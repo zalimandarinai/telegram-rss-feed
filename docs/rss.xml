@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Jul 2025 12:17:37 +0000</lastBuildDate>
-    <item>
-      <title>🔞Трохи не доїхали до Берліна. </title>
-      <link>https://www.mandarinai.lt/post/76689</link>
-      <description>🔞Трохи не доїхали до Берліна. Перетворення на фарш окупантів - байкерів на Донецькому напрямку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-01_09-14-33.mp4" length="3815490" type="video/mp4"/>
-      <pubDate>Tue, 01 Jul 2025 09:14:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 13:25:55 +0000</lastBuildDate>
     <item>
       <title>Азербайджан порушив кримінальн</title>
       <link>https://www.mandarinai.lt/post/76690</link>
@@ -104,6 +97,24 @@
       <description>Ліквідовано начальника штабу 8-ї гвардійської армії рф, – полковника Горячкіна учора під час ракетного удару в Донецьку</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-01_11-56-05.jpg" length="53561" type="image/jpeg"/>
       <pubDate>Tue, 01 Jul 2025 11:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Хочеш бути серед тих, хто зм</title>
+      <link>https://www.mandarinai.lt/post/76702</link>
+      <description>🔥 Хочеш бути серед тих, хто змінює хід війни?
+
+Приєднуйся до підрозділу безпілотних систем 114-ї бригади Тероборони
+
+🎯 Оператори безпілотних систем бригади щоденно ліквідовують сили і засоби противника, виявляючи їх.
+
+Ти можеш стати одним з цих віртуозних операторів.
+
+📲 Телефонуй або пиши: 
++38 097 094 53 87
+
+🇺🇦 Слава Україні!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8467.MP4" length="23659394" type="video/mp4"/>
+      <pubDate>Tue, 01 Jul 2025 12:36:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
