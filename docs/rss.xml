@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 10:10:13 +0000</lastBuildDate>
-    <item>
-      <title>💥Сьогодні неподалік від Грозно</title>
-      <link>https://www.mandarinai.lt/post/76725</link>
-      <description>💥Сьогодні неподалік від Грозного стався потужний вибух на одній з нафтових свердловин — чеченські опозиційні канали
-
-Після вибуху на свердловині почалась велика пожежа. На місце відправились карети «швидких». 
-
-Офіційно інцидент ніяк не коментували.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-01_21-13-52.jpg" length="54223" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 21:13:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Jul 2025 11:08:20 +0000</lastBuildDate>
     <item>
       <title>Канцлер Німеччини Мерц заявив,</title>
       <link>https://www.mandarinai.lt/post/76726</link>
@@ -96,6 +85,14 @@
 пояснили в Генштабі ЗСУ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-02_09-46-49.jpg" length="107599" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 09:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡Чим менше зброї постачають Ук</title>
+      <link>https://www.mandarinai.lt/post/76748</link>
+      <description>🤡Чим менше зброї постачають Україні тим ближче закінчення "СВО", - пєсков
+🖕</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-02_10-13-27.jpg" length="32585" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 10:13:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
