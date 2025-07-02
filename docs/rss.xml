@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 20:09:46 +0000</lastBuildDate>
-    <item>
-      <title>Сильний вибух у Житомирі. Попе</title>
-      <link>https://www.mandarinai.lt/post/76759</link>
-      <description>Сильний вибух у Житомирі. Попередньо і районі АЗС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-02_15-37-16.mp4" length="229016" type="video/mp4"/>
-      <pubDate>Wed, 02 Jul 2025 15:37:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Jul 2025 21:08:41 +0000</lastBuildDate>
     <item>
       <title>В мережі опублікували фото рос</title>
       <link>https://www.mandarinai.lt/post/76760</link>
@@ -88,6 +81,13 @@
 «Президент також вказав на свої зобов'язання щодо ракет Patriot, що залишаються» - сказала речниця Держдепу Теммі Брюс</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-02_19-42-35.mp4" length="17975518" type="video/mp4"/>
       <pubDate>Wed, 02 Jul 2025 19:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Прильоту по складу БЕ в окуп</title>
+      <link>https://www.mandarinai.lt/post/76774</link>
+      <description>💥🔥Прильоту по складу БЕ в окупованому Харцизьку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-02_20-18-18.mp4" length="651819" type="video/mp4"/>
+      <pubDate>Wed, 02 Jul 2025 20:18:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
