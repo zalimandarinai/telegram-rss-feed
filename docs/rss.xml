@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 11:08:20 +0000</lastBuildDate>
-    <item>
-      <title>Канцлер Німеччини Мерц заявив,</title>
-      <link>https://www.mandarinai.lt/post/76726</link>
-      <description>Канцлер Німеччини Мерц заявив, що постачання ракет "Taurus" Україні "залишається варіантом", але він "поки не домовився про це" з Зеленським.
-
-За словами Мерца, навчання українських пілотів цій системі озброєння займе близько шести місяців, і навчання ще не розпочато</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-01_21-18-28.mp4" length="6241818" type="video/mp4"/>
-      <pubDate>Tue, 01 Jul 2025 21:18:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬США "призупинили" відправку в</title>
-      <link>https://www.mandarinai.lt/post/76728</link>
-      <description>🤬США "призупинили" відправку в Україну десятки ракет-перехоплювачів Patriot, — NBC News.
-
-Озброєння, постачання якого затримується, також включає тисячі 155-мм фугасних снарядів для гаубиць, понад 100 ракет Hellfire, понад 250 високоточних ракет GMLRS, а також десятки ракет Stinger класу «земля-повітря», ракет AIM класу «повітря-повітря» та гранатометів.
-
-Деякі з партій вже знаходяться в регіоні, але їх зупинили прямо перед тим, як передати Україні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-02_04-20-13.jpg" length="130273" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 04:20:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Jul 2025 12:17:20 +0000</lastBuildDate>
     <item>
       <title>🇮🇱🇺🇸🇵🇸 Ізраїль дав свою згоду </title>
       <link>https://www.mandarinai.lt/post/76733</link>
@@ -93,6 +73,20 @@
 🖕</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-02_10-13-27.jpg" length="32585" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 10:13:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Запасів озброєння в України ви</title>
+      <link>https://www.mandarinai.lt/post/76749</link>
+      <description>Запасів озброєння в України вистачить лише до кінця літа, після чого може виникнути «критична прогалина», яку європейські країни поки не готові заповнити самі, — Bild</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-02_12-03-58.jpg" length="83589" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 12:03:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сигнал очевидний: США виходять</title>
+      <link>https://www.mandarinai.lt/post/76750</link>
+      <description>Сигнал очевидний: США виходять з війни, — NYT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-02_12-05-41.jpg" length="77959" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 12:05:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
