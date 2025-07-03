@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Jul 2025 13:23:42 +0000</lastBuildDate>
-    <item>
-      <title>Один із російських військових,</title>
-      <link>https://www.mandarinai.lt/post/76792</link>
-      <description>Один із російських військових, які здалися в полон українським десантникам в Сумській області, зізнався в розстрілі українського військовополоненого. 
-
-Бурят Іван Хангушеєв з 810-ї бригади морської піхоти ЗС РФ каже, що виконував наказ.
-
-Стверджує, що наказ дав командир його групи, частина якої теж потрапила в полон до українців.</description>
-      <pubDate>Thu, 03 Jul 2025 09:55:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 14:09:26 +0000</lastBuildDate>
     <item>
       <title>⚡️В Одесі приліт балістики, мо</title>
       <link>https://www.mandarinai.lt/post/76794</link>
@@ -119,6 +109,17 @@
       <description>Україна втратила до 40% працездатного населення, тож для відновлення економіки Україні необхідно додатково 4-5 млн. людей, — перша заступниця міністра соціальної політики Марчак</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-03_13-12-51.jpg" length="23809" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 13:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перемир’я може настати у 2026 </title>
+      <link>https://www.mandarinai.lt/post/76809</link>
+      <description>Перемир’я може настати у 2026 році, — Der Standard.
+
+Але, судячи із статті, від нього не варто очікувати нічого хорошого.
+
+За даними видання, рф, ймовірно, в 2026-му році захоче перечекати президентство Трампа, поповнити арсенали, стабілізувати економіку та спробувати змінити владу в Києві, для чого відновить наступ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-03_13-32-47.jpg" length="131233" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 13:32:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
