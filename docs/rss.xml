@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Jul 2025 03:44:51 +0000</lastBuildDate>
-    <item>
-      <title>❗️Україна і США з’ясовують усі</title>
-      <link>https://www.mandarinai.lt/post/76767</link>
-      <description>❗️Україна і США з’ясовують усі деталі щодо постачання оборонної підтримки, - Зеленський 
-
-💬 «Зараз на робочих рівнях між Україною та Сполученими Штатами з’ясовують усі деталі щодо постачання оборонної підтримки, зокрема компонента ППО. Так чи інакше ми маємо забезпечити захист для наших людей».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8498.MP4" length="5755018" type="video/mp4"/>
-      <pubDate>Wed, 02 Jul 2025 18:48:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 04:22:01 +0000</lastBuildDate>
     <item>
       <title>Відсутність нових санкцій США </title>
       <link>https://www.mandarinai.lt/post/76770</link>
@@ -71,6 +62,13 @@
       <description>🔥В російському Єльці атаковано  підсанкційне підприємство "Енергія"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-03_03-44-17.mp4" length="2349173" type="video/mp4"/>
       <pubDate>Thu, 03 Jul 2025 03:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Моторошні кадри влучання по ба</title>
+      <link>https://www.mandarinai.lt/post/76782</link>
+      <description>Моторошні кадри влучання по багатоповерхівці в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-03_04-13-20.mp4" length="715273" type="video/mp4"/>
+      <pubDate>Thu, 03 Jul 2025 04:13:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
