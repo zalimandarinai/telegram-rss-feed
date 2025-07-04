@@ -6,35 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 20:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 21:07:43 +0000</lastBuildDate>
     <item>
       <title>❗️путін планує цього літа безп</title>
-      <link>https://www.mandarinai.lt/post/76891</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️путін планує цього літа безперервні удари по Україні, російські повітряні та наземні атаки зростають, поки США притримують певне озброєння від свого союзника, - The Wall Street Journal</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-04_15-58-14.jpg" length="60836" type="image/jpeg"/>
       <pubDate>Fri, 04 Jul 2025 15:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Удар в Кривому Розі: поранено </title>
-      <link>https://www.mandarinai.lt/post/76892</link>
-      <description>Удар в Кривому Розі: поранено двох людей, пошкоджено цивільний об'єкт 
-
-Ввечері росіяни завдали удару по Кривому Рогу, внаслідок чого поранення отримали двоє людей, повідомив керівник Ради оборони міста Олександр Вілкул. 
-
-Росіяни вдарили по об'єкту цивільної інфраструктури.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-04_16-18-13.jpg" length="14710" type="image/jpeg"/>
-      <pubDate>Fri, 04 Jul 2025 16:18:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>СБУ показала ексклюзивні кадри</title>
-      <link>https://www.mandarinai.lt/post/76893</link>
-      <description>СБУ показала ексклюзивні кадри з обміну полоненими 4 липня
-
-Сьогоднішній обмін - це результат роботи Об’єднаного центру з координації пошуку та звільнення військовополонених при СБУ, Координаційного штабу з питань поводження з військовополоненими та інших відповідних структур.
-
-Після зустрічі українських оборонців на кордоні центр при СБУ спільно з «Укрзалізницею» вперше забезпечили переїзд звільнених захисників до місць реабілітації залізничними потягами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8569.MP4" length="25020328" type="video/mp4"/>
-      <pubDate>Fri, 04 Jul 2025 16:23:09 +0000</pubDate>
     </item>
     <item>
       <title>Одного з коригувальників, які </title>
@@ -82,6 +59,17 @@
       <description>Росіянин вирішив пограти у стрілялки з дроном і програв, - підрозділ «Гострі Картузи»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8597.MP4" length="5812928" type="video/mp4"/>
       <pubDate>Fri, 04 Jul 2025 18:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вашингтон не відмовився від пі</title>
+      <link>https://www.mandarinai.lt/post/76905</link>
+      <description>Вашингтон не відмовився від підтримки Києва, а скасував окремі категорії допомоги, — прем'єр-міністерка Італії Джорджа Мелоні
+
+США переглянули рішення про постачання певних компонентів, що «є важливим фактом, але дуже відрізняється від повної відмови». 
+
+Мелоні повідомила, що особисто говорила із Трампом, обговорювала з ним Україну й торговельні мита і «сподівається на позитивні зрушення в цьому питанні».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-04_20-49-42.jpg" length="63633" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 20:49:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
