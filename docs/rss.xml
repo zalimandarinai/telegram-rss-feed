@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 02:41:00 +0000</lastBuildDate>
-    <item>
-      <title>❗️Попередньо, уламки БпЛА впал</title>
-      <link>https://www.mandarinai.lt/post/76822</link>
-      <description>❗️Попередньо, уламки БпЛА впали на дах житлового будинку в Оболонському районі Києва, — міський голова Кличко
-
-Медики і рятувальники прямують на місце</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-03_18-57-16.jpg" length="66170" type="image/jpeg"/>
-      <pubDate>Thu, 03 Jul 2025 18:57:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 03:42:02 +0000</lastBuildDate>
     <item>
       <title>💥Над Донецьком теж зоряні війн</title>
       <link>https://www.mandarinai.lt/post/76823</link>
@@ -72,16 +63,23 @@
 
 12 із них медики госпіталізували, двом надали допомогу на місці.
 
-UPD: В Києві знову лунає сирена повітряної тривоги</description>
+UPD: В Києві знову лунає сирена повітряної тривоги(розвідувальний дрон)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-04_02-04-33.mp4" length="753971" type="video/mp4"/>
       <pubDate>Fri, 04 Jul 2025 02:04:33 +0000</pubDate>
     </item>
     <item>
-      <title>💥Під Москвою після атаки дроеі</title>
+      <title>💥Під Москвою (Сергієв Посад) п</title>
       <link>https://www.mandarinai.lt/post/76836</link>
-      <description>💥Під Москвою після атаки дроеів серйозно палає</description>
+      <description>💥Під Москвою (Сергієв Посад) після атаки дронів щось гарно палає</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-04_02-39-36.mp4" length="1076865" type="video/mp4"/>
       <pubDate>Fri, 04 Jul 2025 02:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Московська та Ростовська обла</title>
+      <link>https://www.mandarinai.lt/post/76839</link>
+      <description>💥Московська та Ростовська область обстановка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-04_02-55-29.mp4" length="486908" type="video/mp4"/>
+      <pubDate>Fri, 04 Jul 2025 02:55:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
