@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 08:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 09:10:37 +0000</lastBuildDate>
     <item>
       <title>Кадри київських дворів  після </title>
       <link>https://www.mandarinai.lt/post/76849</link>
@@ -81,6 +81,17 @@
       <description>Вибухи пролунали в Дніпрі і Кривому Розі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-04_08-05-07.mp4" length="720164" type="video/mp4"/>
       <pubDate>Fri, 04 Jul 2025 08:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️❗️ Внаслідок масованого раси</title>
+      <link>https://www.mandarinai.lt/post/76860</link>
+      <description>❗️❗️ Внаслідок масованого расистського нападу на Київ було пошкоджено будівлю консульського відділу польського посольства, - Сікорський.
+
+Я щойно розмовляв з послом Лукасевичем; всі живі та неушкоджені. Україні терміново потрібні засоби протиповітряної оборони, 
+
+- написав міністр закордонних справ Польщі Радослав Сікорськийь</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-04_09-06-49.jpg" length="51357" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 09:06:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
