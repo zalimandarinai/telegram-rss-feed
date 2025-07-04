@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 05:12:35 +0000</lastBuildDate>
-    <item>
-      <title>💥Над Донецьком теж зоряні війн</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥Над Донецьком теж зоряні війни добра зі злом</description>
-      <pubDate>Thu, 03 Jul 2025 19:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ В українському небі наразі </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚠️ В українському небі наразі зафіксовано приблизно 130 ударних БпЛА
-
-Більшість з них курсують через Київську та Черкаську області у напрямку західних регіонів</description>
-      <pubDate>Thu, 03 Jul 2025 20:27:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Московська та Ростовська обла</title>
-      <link>https://www.mandarinai.lt/post/76839</link>
-      <description>💥Московська та Ростовська область обстановка</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-04_02-55-29.mp4" length="486908" type="video/mp4"/>
-      <pubDate>Fri, 04 Jul 2025 02:55:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 06:14:14 +0000</lastBuildDate>
     <item>
       <title>В Києві в декількох районах си</title>
       <link>https://www.mandarinai.lt/post/76841</link>
@@ -72,13 +51,34 @@
       <pubDate>Fri, 04 Jul 2025 04:52:21 +0000</pubDate>
     </item>
     <item>
-      <title>Кадри київського двору  після </title>
+      <title>Кадри київських дворів  після </title>
       <link>https://www.mandarinai.lt/post/76849</link>
-      <description>Кадри київського двору  після атаки російських виродків
+      <description>Кадри київських дворів  після атаки російських виродків
 
-На цей час у Києві вже 23 постраждалих, 14 із них госпіталізували, — Кличко</description>
+На цей час у Києві вже 23 постраждалих, серед них 10-річна дитина, 14 людей госпіталізували, — Кличко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-04_04-58-00.mp4" length="901029" type="video/mp4"/>
       <pubDate>Fri, 04 Jul 2025 04:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Під Москвою дрони знищили еле</title>
+      <link>https://www.mandarinai.lt/post/76852</link>
+      <description>💥Під Москвою дрони знищили електропідстанцію</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-04_05-21-37.mp4" length="1088083" type="video/mp4"/>
+      <pubDate>Fri, 04 Jul 2025 05:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Від початку доби сили ППО зн</title>
+      <link>https://www.mandarinai.lt/post/76853</link>
+      <description>⚡️Від початку доби сили ППО знешкодили 478/550 ворожих повітряних цілей : 2 з 11 ракет і 476 з 539 БпЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-04_05-29-43.jpg" length="113229" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 05:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок нічної атаки ворога </title>
+      <link>https://www.mandarinai.lt/post/76854</link>
+      <description>Внаслідок нічної атаки ворога на столицю пошкоджено 5 автомобілів «швидкої допомоги», які виїжджали на виклики до постраждалих мешканців Києва, серед медиків поки що поранених немає, - мер Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-04_05-39-58.jpg" length="115191" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 05:39:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
