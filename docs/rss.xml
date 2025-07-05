@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 17:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 18:10:46 +0000</lastBuildDate>
     <item>
       <title>Ось в яких важких умовах відбу</title>
       <link>https://www.mandarinai.lt/post/76941</link>
@@ -127,6 +127,15 @@
 Крім того, підривом знищили і водогін, який постачав питну воду військовим гарнізонам в регіоні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_16-29-48.jpg" length="117750" type="image/jpeg"/>
       <pubDate>Sat, 05 Jul 2025 16:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️У ЗСУ знову спростували інфо</title>
+      <link>https://www.mandarinai.lt/post/76954</link>
+      <description>⚔️У ЗСУ знову спростували інформацію про нібито бої в Дніпропетровській області
+
+"В Дніпропетровській області ще боїв з ворогом не відбувається. Бої відбуваються у Донецькій області, дуже близько до Дніпропетровської області", - зазначив сьогодні речник ОСУВ "Хортиця" Віктор Трегубов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_17-34-37.jpg" length="71500" type="image/jpeg"/>
+      <pubDate>Sat, 05 Jul 2025 17:34:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
