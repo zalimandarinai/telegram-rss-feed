@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 12:15:00 +0000</lastBuildDate>
-    <item>
-      <title>В ударних БПЛА, якими рашисти </title>
-      <link>https://www.mandarinai.lt/post/76930</link>
-      <description>В ударних БПЛА, якими рашисти вчора атакували Київ, були компоненти китайського виробництва
-
-Слідчі Служби безпеки України виявили в БПЛА «Герань» компоненти, виготовлені в Китайській Народній Республіці. 
-
-Зокрема, кріплення для катапульти запуску дрона.
-
-Про це свідчить маркування підприємства-виробника «Suzhou Ecod Precision Manufacturing Co., Ltd».
-
-Частина маркування позначена російською, і можна зробити висновок, що деталь спеціально була виготовлена для російського замовника.
-
-СБУ збирає усі докази терористичної атаки рф по Києву і класифікує російський удар по столиці як воєнний злочин.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_08-32-28.jpg" length="290249" type="image/jpeg"/>
-      <pubDate>Sat, 05 Jul 2025 08:32:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Jul 2025 13:19:28 +0000</lastBuildDate>
     <item>
       <title>Легіон «Свобода Росії» захопив</title>
       <link>https://www.mandarinai.lt/post/76932</link>
@@ -99,6 +82,26 @@
 ▪️ 10 складів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2025-07-05_14-47-48.mp4" length="29024536" type="video/mp4"/>
       <pubDate>Sat, 05 Jul 2025 11:49:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Попри втрати серед командуванн</title>
+      <link>https://www.mandarinai.lt/post/76944</link>
+      <description>Попри втрати серед командування, 110-а ОМБР активно продовжує зупиняти російське просування.
+
+Батальйон безпілотних систем 110-ої бригади вдосконалює методи скорочення ворожих підрозділів.
+
+Так виглядає помста від 110-ої бригади.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8625.MP4" length="28349696" type="video/mp4"/>
+      <pubDate>Sat, 05 Jul 2025 12:44:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Армія рф рветься в Дніпропет</title>
+      <link>https://www.mandarinai.lt/post/76945</link>
+      <description>❗️Армія рф рветься в Дніпропетровську область — ворог зайшов в Зелений Кут і Новоукраїнку, що біля Дачного, де зараз запеклі бої, DeepState 
+
+Наразі ЗСУ стягують підкріплення, щоб не пустити русню за адмінмежу, вони тримають оборону, але рашисти тиснуть використовуючи чисельну перевагу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_13-08-36.jpg" length="66428" type="image/jpeg"/>
+      <pubDate>Sat, 05 Jul 2025 13:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
