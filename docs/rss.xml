@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 10:08:27 +0000</lastBuildDate>
-    <item>
-      <title>«Скажу, що кохаю їх, і вибачус</title>
-      <link>https://www.mandarinai.lt/post/76923</link>
-      <description>«Скажу, що кохаю їх, і вибачусь, що не зберіг дім у Маріуполі», - прикордонник «Морської охорони», якого три роки тому росіяни захопили в Маріуполі, зустрічається зі своєю родиною на вільній території.</description>
-      <pubDate>Sat, 05 Jul 2025 07:07:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️292 із 322 БпЛА знищено над </title>
-      <link>https://www.mandarinai.lt/post/76924</link>
-      <description>⚡️292 із 322 БпЛА знищено над Україною сьогодні. 135 безпілотників — локаційно втрачено
-
-Основний напрямок удару – Старокостянтинів. Зафіксовано влучання у 4 локаціях, падіння збитих (уламки) на 6 локаціях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_07-14-31.jpg" length="102199" type="image/jpeg"/>
-      <pubDate>Sat, 05 Jul 2025 07:14:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Jul 2025 11:06:53 +0000</lastBuildDate>
     <item>
       <title>❗️В Одесі вибухнула автівка «O</title>
       <link>https://www.mandarinai.lt/post/76925</link>
@@ -94,6 +79,29 @@
       <description>Ворог окупував Новоукраїнку та Зелений Кут, а також просунувся біля Одрадного, - DeepState</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_09-04-26.jpg" length="61523" type="image/jpeg"/>
       <pubDate>Sat, 05 Jul 2025 09:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Осколкові елементи, якими рф</title>
+      <link>https://www.mandarinai.lt/post/76934</link>
+      <description>❗️Осколкові елементи, якими рф нашипиговує БПЛА вибухають до 20(!) годин – такі дрони атакували Харківщину
+
+Після скиду елементи вибухають по черзі протягом 2–6 годин, а останній — аж через 20 годин.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_11-01-36.jpg" length="449813" type="image/jpeg"/>
+      <pubDate>Sat, 05 Jul 2025 11:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський військовослужбовець</title>
+      <link>https://www.mandarinai.lt/post/76937</link>
+      <description>Російський військовослужбовець методично підійшов до спроби самогубства і перевірив свій автомат перед тим, як вистрелити в себе перед камерою аеророзвідників сил оборони півдня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8619.MP4" length="1475367" type="video/mp4"/>
+      <pubDate>Sat, 05 Jul 2025 11:04:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів 114-ї бригади</title>
+      <link>https://www.mandarinai.lt/post/76938</link>
+      <description>Оператори дронів 114-ї бригади вполювали ворожий дрон «Ждун» на оптоволокні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8608.MP4" length="11597632" type="video/mp4"/>
+      <pubDate>Sat, 05 Jul 2025 11:06:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
