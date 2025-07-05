@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 14:07:45 +0000</lastBuildDate>
-    <item>
-      <title>❗️Осколкові елементи, якими рф</title>
-      <link>https://www.mandarinai.lt/post/76934</link>
-      <description>❗️Осколкові елементи, якими рф нашипиговує БПЛА вибухають до 20(!) годин – такі дрони атакували Харківщину
-
-Після скиду елементи вибухають по черзі протягом 2–6 годин, а останній — аж через 20 годин.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_11-01-36.jpg" length="449813" type="image/jpeg"/>
-      <pubDate>Sat, 05 Jul 2025 11:01:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Jul 2025 15:07:48 +0000</lastBuildDate>
     <item>
       <title>Російський військовослужбовець</title>
       <link>https://www.mandarinai.lt/post/76937</link>
@@ -105,6 +96,17 @@
       <link>https://www.mandarinai.lt/post/76947</link>
       <description>На Сумщині пілоти РУБпАК "AQUILA" прикордонної бригади "Сталевий Кордон" fpv-дронами і скидами рознесли штурмову групу ворога, яка направлялась в бік Олексіївки.</description>
       <pubDate>Sat, 05 Jul 2025 14:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Путін впевнений, що Трамп не п</title>
+      <link>https://www.mandarinai.lt/post/76948</link>
+      <description>Путін впевнений, що Трамп не покарає його за регулярні атаки і комбіновані удари по Україні, — The Telegraph
+
+Газета пише, максимум, на що здатен Трамп у відповідь, це розгніваний допис у соцмережі.
+
+Рішення припинити допомогу дало путіну сигнал, що США не будуть захищати Київ від російських атак.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_14-40-52.jpg" length="68934" type="image/jpeg"/>
+      <pubDate>Sat, 05 Jul 2025 14:40:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
