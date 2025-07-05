@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 19:07:10 +0000</lastBuildDate>
-    <item>
-      <title>Воїни з Департаменту військово</title>
-      <link>https://www.mandarinai.lt/post/76943</link>
-      <description>Воїни з Департаменту військової контррозвідки СБУ вразили ще 97 одиниць важкого озброєння ворога
-
-▪️ 5 танків і 18 ББМ,
-▪️ 65 гаубиць, 3 гармати, 5 САУ і 1 РСЗВ БМ-21 «Град»,
-▪️ 4 радіолокаційні станції,
-▪️ 3 стаціонарні комплекси РЕБ, а також 3 окопні засоби РЕБ і 1 систему РЕР «Муром-М»,
-▪️ 159 БпЛА, серед яких: «ZALA», «Орлан», «Supercam»,
-▪️ 1 розрахунок пілотів ударних БпЛА та 2 FPV-антени,
-▪️ 239 укріплень та місць укриття окупантів,
-▪️ 61 одиниць військового автотранспорту,
-▪️ 10 складів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2025-07-05_14-47-48.mp4" length="29024536" type="video/mp4"/>
-      <pubDate>Sat, 05 Jul 2025 11:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Попри втрати серед командуванн</title>
-      <link>https://www.mandarinai.lt/post/76944</link>
-      <description>Попри втрати серед командування, 110-а ОМБР активно продовжує зупиняти російське просування.
-
-Батальйон безпілотних систем 110-ої бригади вдосконалює методи скорочення ворожих підрозділів.
-
-Так виглядає помста від 110-ої бригади.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8625.MP4" length="28349696" type="video/mp4"/>
-      <pubDate>Sat, 05 Jul 2025 12:44:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Jul 2025 20:08:59 +0000</lastBuildDate>
     <item>
       <title>❗️Армія рф рветься в Дніпропет</title>
       <link>https://www.mandarinai.lt/post/76945</link>
@@ -135,6 +107,32 @@
 Внаслідок вибуху постраждав цивільний чоловік, він отримав тяжкі тілесні ушкодження.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_18-19-56.jpg" length="154691" type="image/jpeg"/>
       <pubDate>Sat, 05 Jul 2025 18:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Китай може залучити росію до</title>
+      <link>https://www.mandarinai.lt/post/76957</link>
+      <description>❗️Китай може залучити росію до нападу на НАТО, щоб відвернути увагу від Тайваню, — Рютте
+
+У інтерв’ю The New York Times генеральний секретар НАТО Марк Рютте попередив, що Пекін може спробувати відвернути увагу США та Європи від Азійсько-Тихоокеанського регіону, спровокувавши Росію на агресію проти країн Альянсу в Європі.
+
+ Якщо Китай вирішить атакувати Тайвань, він з дуже високою ймовірністю використає Росію для нападу на Європу, щоб відтягнути американські зусилля. 
+
+На думку генсека, щоб запобігти такому сценарію, треба зробити перспективу нападу на НАТО «суїцидальною» для Кремля та зміцнити трансатлантичну єдність у захисті Атлантики, Європи та Арктики.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_19-48-24.jpg" length="65354" type="image/jpeg"/>
+      <pubDate>Sat, 05 Jul 2025 19:48:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ніж в спину Трампу:
+
+Сьогодн</title>
+      <link>https://www.mandarinai.lt/post/76958</link>
+      <description>❗️Ніж в спину Трампу:
+
+Сьогодні я створюю Американську партію, щоб повернути вам свободу, — Ілон Маск 
+
+"Коли йдеться про банкрутство нашої країни марнотратством та хабарництвом, ми живемо в однопартійній системі, а не в демократії"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_20-07-26.jpg" length="129821" type="image/jpeg"/>
+      <pubDate>Sat, 05 Jul 2025 20:07:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
