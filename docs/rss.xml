@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 23:08:27 +0000</lastBuildDate>
-    <item>
-      <title>Путін впевнений, що Трамп не п</title>
-      <link>https://www.mandarinai.lt/post/76948</link>
-      <description>Путін впевнений, що Трамп не покарає його за регулярні атаки і комбіновані удари по Україні, — The Telegraph
-
-Газета пише, максимум, на що здатен Трамп у відповідь, це розгніваний допис у соцмережі.
-
-Рішення припинити допомогу дало путіну сигнал, що США не будуть захищати Київ від російських атак.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_14-40-52.jpg" length="68934" type="image/jpeg"/>
-      <pubDate>Sat, 05 Jul 2025 14:40:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Jul 2025 00:51:44 +0000</lastBuildDate>
     <item>
       <title>росія нападає на нас уже зараз</title>
       <link>https://www.mandarinai.lt/post/76950</link>
@@ -129,6 +118,13 @@
 Видання також зазначає, що наразі Берлін веде переговори з Вашингтоном щодо можливості передати Україні ще щонайменше дві додаткові системи ППО Patriot на тлі атак рф.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_20-51-49.jpg" length="61098" type="image/jpeg"/>
       <pubDate>Sat, 05 Jul 2025 20:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Приліт «шахеда» в Харкові п</title>
+      <link>https://www.mandarinai.lt/post/76962</link>
+      <description>❗️ Приліт «шахеда» в Харкові публікують соцмережі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8631.MP4" length="564870" type="video/mp4"/>
+      <pubDate>Sat, 05 Jul 2025 23:21:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
