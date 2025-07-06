@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 13:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 14:07:40 +0000</lastBuildDate>
     <item>
       <title>⚡️В Кременчуці шахед  влучив в</title>
       <link>https://www.mandarinai.lt/post/76975</link>
@@ -67,6 +67,13 @@
       <description>Полювання на ворожий розрахунок БПЛА в Сумській області. Його вирахували оператори «Pentagon» 225-го окремого штурмового полку. Сьогодні о 20:00 в нас на «1+1» репортаж про цей вже легендарний підрозділ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8634.MP4" length="23195018" type="video/mp4"/>
       <pubDate>Sun, 06 Jul 2025 13:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Сильний вибух і стовп диму н</title>
+      <link>https://www.mandarinai.lt/post/76988</link>
+      <description>⚡️Сильний вибух і стовп диму на лівому березі Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-06_13-26-25.jpg" length="11375" type="image/jpeg"/>
+      <pubDate>Sun, 06 Jul 2025 13:26:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
