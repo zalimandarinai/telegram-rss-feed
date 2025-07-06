@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 12:15:15 +0000</lastBuildDate>
-    <item>
-      <title>❗️Триває ліквідація наслідків </title>
-      <link>https://www.mandarinai.lt/post/76971</link>
-      <description>❗️Триває ліквідація наслідків ворожих обстрілів у Вишгородському районі на Київщині, внаслідок якої було поранено троє людей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-06_07-04-15.jpg" length="198015" type="image/jpeg"/>
-      <pubDate>Sun, 06 Jul 2025 07:04:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Jul 2025 13:19:57 +0000</lastBuildDate>
     <item>
       <title>⚡️В Кременчуці шахед  влучив в</title>
       <link>https://www.mandarinai.lt/post/76975</link>
@@ -67,6 +60,13 @@
 Особливо подяка z-блогеру за коригування удару по окупантам. Результат на відео</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-06_11-34-57.mp4" length="2911213" type="video/mp4"/>
       <pubDate>Sun, 06 Jul 2025 11:34:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полювання на ворожий розрахуно</title>
+      <link>https://www.mandarinai.lt/post/76987</link>
+      <description>Полювання на ворожий розрахунок БПЛА в Сумській області. Його вирахували оператори «Pentagon» 225-го окремого штурмового полку. Сьогодні о 20:00 в нас на «1+1» репортаж про цей вже легендарний підрозділ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8634.MP4" length="23195018" type="video/mp4"/>
+      <pubDate>Sun, 06 Jul 2025 13:13:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
