@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 10:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 11:07:19 +0000</lastBuildDate>
     <item>
       <title>❗️Китай може залучити росію до</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -18,13 +18,6 @@
 
 На думку генсека, щоб запобігти такому сценарію, треба зробити перспективу нападу на НАТО «суїцидальною» для Кремля та зміцнити трансатлантичну єдність у захисті Атлантики, Європи та Арктики.</description>
       <pubDate>Sat, 05 Jul 2025 19:48:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Троє людей поранено внаслідо</title>
-      <link>https://www.mandarinai.lt/post/76966</link>
-      <description>❗️Троє людей поранено внаслідок атаки ворога на Київщині. Зафіксовано руйнування та пожежі у Вишгородській громаді. Пошкоджено житлові будинки та автомобілі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-06_04-35-10.jpg" length="322582" type="image/jpeg"/>
-      <pubDate>Sun, 06 Jul 2025 04:35:10 +0000</pubDate>
     </item>
     <item>
       <title>⚠️ Від початку доби знешкоджен</title>
@@ -58,12 +51,21 @@
     </item>
     <item>
       <title>❗️Спроби ударів по ТЦК можуть </title>
-      <link>https://www.mandarinai.lt/post/76978</link>
+      <link>https://www.mandarinai.lt/post/76979</link>
       <description>❗️Спроби ударів по ТЦК можуть продовжуватися. Їхня мета — зрив мобілізації в Україні, — речник командування Сухопутних військ Віталій Саранцев.
 
 Останнім часом рф била по ТЦК у Полтаві, Кривому Розі, Кременчуці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-06_09-54-18.mp4" length="1326656" type="video/mp4"/>
-      <pubDate>Sun, 06 Jul 2025 09:54:18 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-06_10-27-34.mp4" length="1334977" type="video/mp4"/>
+      <pubDate>Sun, 06 Jul 2025 10:27:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф перекидає понад 20 вантаж</title>
+      <link>https://www.mandarinai.lt/post/76980</link>
+      <description>❗️рф перекидає понад 20 вантажівок з особовим складом для підкріплення сил на Сумщині, — Андрющенко 
+
+У колоні — Росгвардія та автобуси (Газелі). Склад — змішаний, зокрема підрозділ кавказців</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-06_10-55-04.mp4" length="10006767" type="video/mp4"/>
+      <pubDate>Sun, 06 Jul 2025 10:55:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
