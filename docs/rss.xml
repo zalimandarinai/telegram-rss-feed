@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 18:11:11 +0000</lastBuildDate>
-    <item>
-      <title>❗️рф перекидає понад 20 вантаж</title>
-      <link>https://www.mandarinai.lt/post/76980</link>
-      <description>❗️рф перекидає понад 20 вантажівок з особовим складом для підкріплення сил на Сумщині, — Андрющенко 
-
-У колоні — Росгвардія та автобуси (Газелі). Склад — змішаний, зокрема підрозділ кавказців</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-06_10-55-04.mp4" length="10006767" type="video/mp4"/>
-      <pubDate>Sun, 06 Jul 2025 10:55:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Jul 2025 19:06:51 +0000</lastBuildDate>
     <item>
       <title>❗️На Рівненщині побили військо</title>
       <link>https://www.mandarinai.lt/post/76982</link>
@@ -90,6 +81,13 @@ UPD: вибухнула цистерна з пальним на одному з 
 «На ділі з двадцяти «бусифікованих» лише три людини на щось здатні», - додав його колега.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-06_15-40-40.mp4" length="2063027" type="video/mp4"/>
       <pubDate>Sun, 06 Jul 2025 15:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Окупанти вперше використали </title>
+      <link>https://www.mandarinai.lt/post/76996</link>
+      <description>❗️Окупанти вперше використали дрон-приманку «Гербера» як ударний на Донеччині. Раніше цей дрон застосовувався лише для виявлення ППО, але тепер він вже завдає удару по цивільному об’єкту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-06_18-23-03.mp4" length="219008" type="video/mp4"/>
+      <pubDate>Sun, 06 Jul 2025 18:23:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
