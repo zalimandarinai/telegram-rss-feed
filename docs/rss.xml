@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 05:10:24 +0000</lastBuildDate>
-    <item>
-      <title>Російського агента, який підір</title>
-      <link>https://www.mandarinai.lt/post/76955</link>
-      <description>Російського агента, який підірвав сьогодні в Одесі автомобіль, СБУ та Нацполіція затримали по гарячих слідах.
-
-Поплічником ворога виявився раніше засуджений 22-річний мешканець Запоріжжя.
-
-Як встановило розслідування, за інструкцією російської спецслужби агент заклав заздалегідь підготовлений саморобний вибуховий пристрій під зазначений куратором автомобіль. 
-
-Щоб забезпечити відеотрансляцію вибуху у режимі онлайн, фігурант встановив телефон із віддаленим доступом.
-
-Внаслідок вибуху постраждав цивільний чоловік, він отримав тяжкі тілесні ушкодження.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-05_18-19-56.jpg" length="154691" type="image/jpeg"/>
-      <pubDate>Sat, 05 Jul 2025 18:19:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Jul 2025 06:12:49 +0000</lastBuildDate>
     <item>
       <title>❗️Китай може залучити росію до</title>
       <link>https://www.mandarinai.lt/post/76957</link>
@@ -91,6 +76,15 @@
       <description>❗️Троє людей поранено внаслідок атаки ворога на Київщині. Зафіксовано руйнування та пожежі у Вишгородській громаді. Пошкоджено житлові будинки та автомобілі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-06_04-35-10.jpg" length="322582" type="image/jpeg"/>
       <pubDate>Sun, 06 Jul 2025 04:35:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Віж початку доби знешкоджен</title>
+      <link>https://www.mandarinai.lt/post/76970</link>
+      <description>⚠️ Віж початку доби знешкоджено 117/157 ударних дронів. Зафіксовано влучання “шахедів” у 19 локаціях.
+
+Атака триває — нові групи БпЛА заходять із півночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-06_05-46-30.jpg" length="100458" type="image/jpeg"/>
+      <pubDate>Sun, 06 Jul 2025 05:46:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
