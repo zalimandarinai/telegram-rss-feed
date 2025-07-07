@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 08:14:35 +0000</lastBuildDate>
-    <item>
-      <title>❗️У двох районах Харкова  влуч</title>
-      <link>https://www.mandarinai.lt/post/77002</link>
-      <description>❗️У двох районах Харкова  влучання БпЛА у багатоквартирні будинки. Вже відомо про 13 постраждалих, серед них трирічна дитина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-07_03-51-59.mp4" length="667783" type="video/mp4"/>
-      <pubDate>Mon, 07 Jul 2025 03:51:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 09:12:49 +0000</lastBuildDate>
     <item>
       <title>🤬Момент влучання шахеда в житл</title>
       <link>https://www.mandarinai.lt/post/77004</link>
@@ -80,6 +73,20 @@
       <description>⚡️Влучання дрону по будівлі університету в Запоріжжі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-07_08-10-18.jpg" length="198444" type="image/jpeg"/>
       <pubDate>Mon, 07 Jul 2025 08:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬В Харкові 6 дронів атакували </title>
+      <link>https://www.mandarinai.lt/post/77015</link>
+      <description>🤬В Харкові 6 дронів атакували місто одночасно. БпЛА вибухали один за одним. . У лікарнях перебуває 7 постраждалих, одна людина — у вкрай тяжкому стані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-07_08-54-56.mp4" length="2468092" type="video/mp4"/>
+      <pubDate>Mon, 07 Jul 2025 08:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂Пітерський аеропорт обстано</title>
+      <link>https://www.mandarinai.lt/post/77016</link>
+      <description>🤷‍♂Пітерський аеропорт обстановка - рейси скасовано сотні рейсів чепез загрозу БпЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-07_09-04-57.jpg" length="83731" type="image/jpeg"/>
+      <pubDate>Mon, 07 Jul 2025 09:04:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
