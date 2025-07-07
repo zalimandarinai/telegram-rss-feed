@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 16:11:26 +0000</lastBuildDate>
-    <item>
-      <title>Пара операторів дронів букваль</title>
-      <link>https://www.mandarinai.lt/post/77019</link>
-      <description>Пара операторів дронів буквально взяла у «кліщі» російського штурмовика, - 414-а бригада СБС «Птахи Мадяра».</description>
-      <pubDate>Mon, 07 Jul 2025 10:07:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 17:08:58 +0000</lastBuildDate>
     <item>
       <title>росіяни цілеспрямовано завдают</title>
       <link>https://www.mandarinai.lt/post/77020</link>
@@ -141,6 +135,13 @@ https://share.google/gwcE5StzLiFqKg0ik</description>
       <link>https://www.mandarinai.lt/post/77033</link>
       <description>Повітряні контратаки бригади НГУ «Хартія» по російських окупантах, які пробують просуватися вперед в районі села Глибока на Харківщині, ефективно зупиняють наступальні дії ворожих штурмовиків.</description>
       <pubDate>Mon, 07 Jul 2025 15:27:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дуже потужний вибух на місці в</title>
+      <link>https://www.mandarinai.lt/post/77034</link>
+      <description>Дуже потужний вибух на місці влучання в російський «Град» безпілотника «Птахів Мадяра».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8680.MP4" length="13071980" type="video/mp4"/>
+      <pubDate>Mon, 07 Jul 2025 16:59:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
