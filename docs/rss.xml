@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 04:24:45 +0000</lastBuildDate>
-    <item>
-      <title>👀Декілька вибухів пролунало на</title>
-      <link>https://www.mandarinai.lt/post/76990</link>
-      <description>👀Декілька вибухів пролунало на танкері-аміаковозі Eco Wizard у порту Усть-Луга в Ленінградській області росії, в результаті чого судно почало тонути, - Мілітарний</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-06_14-43-31.jpg" length="111216" type="image/jpeg"/>
-      <pubDate>Sun, 06 Jul 2025 14:43:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 05:13:36 +0000</lastBuildDate>
     <item>
       <title>Що побачив би європеєць, якби </title>
       <link>https://www.mandarinai.lt/post/76991</link>
@@ -81,6 +74,13 @@
       <description>❗️У двох районах Харкова  влучання БпЛА у багатоквартирні будинки. Вже відомо про 13 постраждалих, серед них трирічна дитина.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-07_03-51-59.mp4" length="667783" type="video/mp4"/>
       <pubDate>Mon, 07 Jul 2025 03:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент влучання шахеда в житл</title>
+      <link>https://www.mandarinai.lt/post/77004</link>
+      <description>🤬Момент влучання шахеда в житловий квартал Харкова. Вже відомо прои20 ростражлплиз, серед них дитина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-07_04-42-05.mp4" length="837463" type="video/mp4"/>
+      <pubDate>Mon, 07 Jul 2025 04:42:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
