@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 09:12:49 +0000</lastBuildDate>
-    <item>
-      <title>🤬Момент влучання шахеда в житл</title>
-      <link>https://www.mandarinai.lt/post/77004</link>
-      <description>🤬Момент влучання шахеда в житловий квартал Харкова. Вже відомо про 20 постраждалих, серед них дитина</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-07_04-42-05.mp4" length="837463" type="video/mp4"/>
-      <pubDate>Mon, 07 Jul 2025 04:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️В Одесі внаслідок атаки рф з</title>
-      <link>https://www.mandarinai.lt/post/77005</link>
-      <description>‼️В Одесі внаслідок атаки рф загинула людина. Попри активну роботу сил ППО, у місті є руйнування, пошкодження цивільної інфраструктури, — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-07_05-54-47.mp4" length="3462660" type="video/mp4"/>
-      <pubDate>Mon, 07 Jul 2025 05:54:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 10:10:37 +0000</lastBuildDate>
     <item>
       <title>⚔️Армія рф окупувала Лобкове в</title>
       <link>https://www.mandarinai.lt/post/77006</link>
@@ -77,16 +63,22 @@
     <item>
       <title>🤬В Харкові 6 дронів атакували </title>
       <link>https://www.mandarinai.lt/post/77015</link>
-      <description>🤬В Харкові 6 дронів атакували місто одночасно. БпЛА вибухали один за одним. . У лікарнях перебуває 7 постраждалих, одна людина — у вкрай тяжкому стані.</description>
+      <description>🤬В Харкові 6 дронів атакували місто одночасно. БпЛА вибухали один за одним. У лікарнях перебуває 7 постраждалих, одна людина — у вкрай тяжкому стані.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-07_08-54-56.mp4" length="2468092" type="video/mp4"/>
       <pubDate>Mon, 07 Jul 2025 08:54:56 +0000</pubDate>
     </item>
     <item>
       <title>🤷‍♂Пітерський аеропорт обстано</title>
       <link>https://www.mandarinai.lt/post/77016</link>
-      <description>🤷‍♂Пітерський аеропорт обстановка - рейси скасовано сотні рейсів чепез загрозу БпЛА</description>
+      <description>🤷‍♂Пітерський аеропорт обстановка - рейси скасовано сотні рейсів через загрозу БпЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-07_09-04-57.jpg" length="83731" type="image/jpeg"/>
       <pubDate>Mon, 07 Jul 2025 09:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пара операторів дронів букваль</title>
+      <link>https://www.mandarinai.lt/post/77019</link>
+      <description>Пара операторів дронів буквально взяла у «кліщі» російського штурмовика, - 414-а бригада СБС «Птахи Мадяра».</description>
+      <pubDate>Mon, 07 Jul 2025 10:07:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
