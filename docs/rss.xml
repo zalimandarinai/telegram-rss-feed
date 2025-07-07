@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 10:10:37 +0000</lastBuildDate>
-    <item>
-      <title>⚔️Армія рф окупувала Лобкове в</title>
-      <link>https://www.mandarinai.lt/post/77006</link>
-      <description>⚔️Армія рф окупувала Лобкове в Запорізькій області та Піддубне на Донеччині, — DeepState
-
-Також ворожа армія просунулась біля Степового в Запорізькій області та Рівнополя в Донецькій області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-07_05-57-46.jpg" length="76673" type="image/jpeg"/>
-      <pubDate>Mon, 07 Jul 2025 05:57:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 11:08:32 +0000</lastBuildDate>
     <item>
       <title>⚡️Сили ППО знешкодили 75/101 Б</title>
       <link>https://www.mandarinai.lt/post/77007</link>
@@ -79,6 +70,17 @@
       <link>https://www.mandarinai.lt/post/77019</link>
       <description>Пара операторів дронів буквально взяла у «кліщі» російського штурмовика, - 414-а бригада СБС «Птахи Мадяра».</description>
       <pubDate>Mon, 07 Jul 2025 10:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни цілеспрямовано завдают</title>
+      <link>https://www.mandarinai.lt/post/77020</link>
+      <description>росіяни цілеспрямовано завдають ударів по ТЦК для зриву мобілізації.
+
+Про це заявив Лавров.
+
+На фоні російських ударів Вінницький міський Територіальний центр комплектування та соціальної підтримки призупиняє свою діяльність.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-07_10-14-05.jpg" length="34851" type="image/jpeg"/>
+      <pubDate>Mon, 07 Jul 2025 10:14:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
