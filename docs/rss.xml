@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 08:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 09:11:58 +0000</lastBuildDate>
     <item>
       <title>Удари «подвійного» призначення</title>
       <link>https://www.mandarinai.lt/post/77040</link>
@@ -116,6 +116,24 @@
 ▪️Попередньо, Рада нацбезпеки Білого дому збереться сьогодні, щоб обговорити нові постачання Україні;</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_06-06-01.jpg" length="82026" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 06:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤨У Кремлі запевнили, що готові</title>
+      <link>https://www.mandarinai.lt/post/77052</link>
+      <description>🤨У Кремлі запевнили, що готові до переговорів з Україною
+
+Глава МЗС Туреччини Хакан Фідан повідомив, що Москва повідомила Анкару про нібито "готовність" до третього раунду переговорів з Україною. 
+
+"Зараз ми чекаємо на відповідь української сторони, наші контакти з ними тривають", - сказав Фідан.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_08-17-20.jpg" length="34126" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 08:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂Знову затримали. 19-річний </title>
+      <link>https://www.mandarinai.lt/post/77053</link>
+      <description>🤷‍♂Знову затримали. 19-річний львів'янин 13 разів! безуспішно намагався незаконно перетнути державний кордон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_08-22-51.jpg" length="330334" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 08:22:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
