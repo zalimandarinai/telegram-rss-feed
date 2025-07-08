@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 05:11:30 +0000</lastBuildDate>
-    <item>
-      <title>Повітряні контратаки бригади Н</title>
-      <link>https://www.mandarinai.lt/post/77033</link>
-      <description>Повітряні контратаки бригади НГУ «Хартія» по російських окупантах, які пробують просуватися вперед в районі села Глибока на Харківщині, ефективно зупиняють наступальні дії ворожих штурмовиків.</description>
-      <pubDate>Mon, 07 Jul 2025 15:27:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дуже епічпий вибух на місці вл</title>
-      <link>https://www.mandarinai.lt/post/77034</link>
-      <description>Дуже епічпий вибух на місці влучання в російський «Град» безпілотника «Птахів Мадяра».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8680.MP4" length="13071980" type="video/mp4"/>
-      <pubDate>Mon, 07 Jul 2025 16:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Єкатеринбурзі раптово запала</title>
-      <link>https://www.mandarinai.lt/post/77036</link>
-      <description>В Єкатеринбурзі раптово запалав склад на площі 3000 кв.м.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8691.MOV" length="4039222" type="video/mp4"/>
-      <pubDate>Mon, 07 Jul 2025 18:00:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 06:14:30 +0000</lastBuildDate>
     <item>
       <title>Удари «подвійного» призначення</title>
       <link>https://www.mandarinai.lt/post/77040</link>
@@ -104,17 +84,38 @@
       <pubDate>Tue, 08 Jul 2025 03:13:20 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️США можуть почати надсилати </title>
+      <title>⚡️Ми збираємося надіслати ще б</title>
       <link>https://www.mandarinai.lt/post/77048</link>
-      <description>⚡️США можуть почати надсилати зброю в Україну вже наступного тижня, — Politico
+      <description>⚡️Ми збираємося надіслати ще більше зброї Україні, — Трамп
 
-Спецпредставник Трампа Келлог і міністр оборони України Умєров мають взяти участь у конференції в Римі, присвяченій підтримці України. Після цього запланована зустріч у Києві.
+«Ми мусимо це зробити, їх дуже сильно атакують. Так багато людей гине».
 
- Штати планують відновити постачання інженерної та бронетехніки, однак конкретні терміни не оголошено.
-
- Український уряд, зі свого боку, наголошує на надзвичайній важливості відновлення систем протиповітряної оборони та забезпечення високоточними боєприпасами для бойових дій.</description>
+Також він розчарований, тим що путін не зупинився</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-08_04-23-35.mp4" length="1756578" type="video/mp4"/>
       <pubDate>Tue, 08 Jul 2025 04:23:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️Окупанти просунулись у Камян</title>
+      <link>https://www.mandarinai.lt/post/77049</link>
+      <description>⚔️Окупанти просунулись у Камянському в Запорізькій області, Комарі, Яблунівці та Торецьку, — DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_05-43-48.jpg" length="80969" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 05:43:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні було відносно тихо. Л</title>
+      <link>https://www.mandarinai.lt/post/77050</link>
+      <description>Сьогодні було відносно тихо. Літало «всього» 54 безпілотники та 4 ракети. 34 БПЛА з них знешкоджено підрозділами ППО.  З цих 34 дронів 26 було збито, а 8 нейтралізовано засобами РЕБ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_05-49-39.jpg" length="86498" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 05:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Трамп пообіцяв Зеленському, </title>
+      <link>https://www.mandarinai.lt/post/77051</link>
+      <description>⚡️Трамп пообіцяв Зеленському, що США надішлють Україні стільки військової допомоги, скільки зможуть собі дозволити, – WSJ.
+
+▪️Попередньо, Рада нацбезпеки Білого дому збереться сьогодні, щоб обговорити нові постачання Україні;</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_06-06-01.jpg" length="82026" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 06:06:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
