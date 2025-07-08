@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 16:11:31 +0000</lastBuildDate>
-    <item>
-      <title>🤨У Кремлі запевнили, що готові</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤨У Кремлі запевнили, що готові до переговорів з Україною
-
-Глава МЗС Туреччини Хакан Фідан повідомив, що Москва повідомила Анкару про нібито "готовність" до третього раунду переговорів з Україною. 
-
-"Зараз ми чекаємо на відповідь української сторони, наші контакти з ними тривають", - сказав Фідан.</description>
-      <pubDate>Tue, 08 Jul 2025 08:17:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 17:09:37 +0000</lastBuildDate>
     <item>
       <title>🔥У Татарстані безпілотник під </title>
       <link>https://www.mandarinai.lt/post/77055</link>
@@ -88,6 +78,15 @@
 ➡️Подивитися і замовити можна тут https://rvv-kniga.com/product/obloga-bushi-myhajlo-staryczqqkyj-velyke-ilyustrovane-vydannya-2025/</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-08_15-13-32.mp4" length="6042377" type="video/mp4"/>
       <pubDate>Tue, 08 Jul 2025 15:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Журналіст: «Ви щойно сказали, </title>
+      <link>https://www.mandarinai.lt/post/77069</link>
+      <description>Журналіст: «Ви щойно сказали, що не задоволені путіним. Чи плануєте ви щось робити, щоб висловити це незадоволення?».
+
+Трамп: «Я вам цього не скажу. Хіба ми не хочемо зробити невеличкий сюрприз?»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-08_16-45-01.mp4" length="5087869" type="video/mp4"/>
+      <pubDate>Tue, 08 Jul 2025 16:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
