@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 19:07:46 +0000</lastBuildDate>
-    <item>
-      <title>В російському місті Ростов яск</title>
-      <link>https://www.mandarinai.lt/post/77061</link>
-      <description>В російському місті Ростов яскраво палає і вибухає склад площею від 2200 м² до 9100 м².</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8710.MP4" length="2170705" type="video/mp4"/>
-      <pubDate>Tue, 08 Jul 2025 14:48:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 20:10:16 +0000</lastBuildDate>
     <item>
       <title>Запорізький напрямок стає акти</title>
       <link>https://www.mandarinai.lt/post/77066</link>
@@ -112,6 +105,17 @@ https://informnapalm.org/ua/russian-suicide-squad/</description>
 Тарантіно може забрати собі цей діалог до наступного сценарію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8720.MP4" length="20450759" type="video/mp4"/>
       <pubDate>Tue, 08 Jul 2025 19:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺 Європа ніколи не залишить У</title>
+      <link>https://www.mandarinai.lt/post/77075</link>
+      <description>🇪🇺 Європа ніколи не залишить Україну, ніколи, - президент Франції 
+
+💬 «Щоразу, коли росія просувається в Україні, загроза наближається до всіх нас, ми ніколи не приймемо теорії про те, що той хто сильніший — правий. Європейці ніколи не залишать Україну, ніколи», — так заявив Емманюель Макрон в британському парламенті.
+
+➡️ Хочеться вірити.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8721.MP4" length="13161783" type="video/mp4"/>
+      <pubDate>Tue, 08 Jul 2025 19:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
