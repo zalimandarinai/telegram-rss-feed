@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 04:24:08 +0000</lastBuildDate>
-    <item>
-      <title>В Канаді змова і «антиурядове </title>
-      <link>https://www.mandarinai.lt/post/77072</link>
-      <description>В Канаді змова і «антиурядове ополчення». Чотирьом чоловікам, включаючи військовослужбовців канадських збройних сил, пред'явлено звинувачення у передбачуваній змові з метою створення «антиурядового ополчення» та «насильницького захоплення території», повідомляє канадська поліція.
-
-За даними поліції, троє з чотирьох підозрюваних брали участь у навчаннях, стрільбах та розвідувальних операціях у районі міста Квебек.
-
-Група мала цілий арсенал вибухівки та зброї. Всі четверо заарештовані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_18-37-53.jpg" length="85646" type="image/jpeg"/>
-      <pubDate>Tue, 08 Jul 2025 18:37:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 05:15:09 +0000</lastBuildDate>
     <item>
       <title>❗️ Загін самогубців, 34 російс</title>
       <link>https://www.mandarinai.lt/post/77073</link>
@@ -93,6 +82,25 @@ https://informnapalm.org/ua/russian-suicide-squad/</description>
       <description>У Луцьку сильна пожежа, внаслідок атаки рф. Русня запустила по місту кинджали, крилаті ракети та велику кількість шахедів . Декілька шахедів ще прямує на місто.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_02-48-10.jpg" length="43925" type="image/jpeg"/>
       <pubDate>Wed, 09 Jul 2025 02:48:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні була найбільш масован</title>
+      <link>https://www.mandarinai.lt/post/77086</link>
+      <description>Сьогодні була найбільш масована ворожа атака з застосуванням БПЛА та ракет на Луцьк, - мер міста
+
+Переважна частка «шахедів» прямувала у бік Тернополя та Луцька.
+
+Окрім «шахедів», по Луцьку також вдарила друга хвиля «Кинджалів», які росія випустила приблизно о третій вночі.
+
+Потім пішла балістика.
+
+Російські ракети, запущені з наземних установок, пролетіли через всю Україну та досягли Львівщині, але потім повернули на Луцьк.
+
+При цьому атака «шахедів» на Луцьк продовжувалась.
+
+Внаслідок атаки виникло декілька пожеж. Наразі без постраждалих.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_04-45-38.jpg" length="250705" type="image/jpeg"/>
+      <pubDate>Wed, 09 Jul 2025 04:45:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
