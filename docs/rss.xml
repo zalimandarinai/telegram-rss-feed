@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 17:11:12 +0000</lastBuildDate>
-    <item>
-      <title>Мобільні вогневі групи ДПСУ в </title>
-      <link>https://www.mandarinai.lt/post/77111</link>
-      <description>Мобільні вогневі групи ДПСУ в Сумській області збили шість «шахедів» та сім дронів «гербера» під час масованої атаки вночі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_11-11-43.jpg" length="61892" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 11:11:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 18:13:02 +0000</lastBuildDate>
     <item>
       <title>❗️Вимога рф про демілітаризаці</title>
       <link>https://www.mandarinai.lt/post/77115</link>
@@ -66,6 +59,29 @@
 
 На позицію окупанта відправили самого, без прикриття, а його маршрут коригував ворожий дрон.</description>
       <pubDate>Wed, 09 Jul 2025 13:54:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дикуни вкотре обстріляли вокза</title>
+      <link>https://www.mandarinai.lt/post/77122</link>
+      <description>Дикуни вкотре обстріляли вокзал в Херсоні
+
+Пошкоджено будівлю багажного відділення, вибито вікна. Під час обстрілу в укритті вокзалу знаходилось 8 людей, ніхто не постраждав.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_17-29-23.jpg" length="96288" type="image/jpeg"/>
+      <pubDate>Wed, 09 Jul 2025 17:29:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Україна попросила «Patriot». </title>
+      <link>https://www.mandarinai.lt/post/77123</link>
+      <description>😐Україна попросила «Patriot». Я подивлюся. Але це дуже дорого, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_17-50-42.jpg" length="52904" type="image/jpeg"/>
+      <pubDate>Wed, 09 Jul 2025 17:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>В районі Серебрянського лісниц</title>
+      <link>https://www.mandarinai.lt/post/77125</link>
+      <description>В районі Серебрянського лісництва поруч з містом Лиман бійці 63-ої бригади вивели з ладу 15 гармат противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8755.MP4" length="19085782" type="video/mp4"/>
+      <pubDate>Wed, 09 Jul 2025 18:12:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
