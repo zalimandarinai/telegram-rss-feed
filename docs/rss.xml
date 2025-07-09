@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 19:08:26 +0000</lastBuildDate>
     <item>
       <title>❗️Вимога рф про демілітаризаці</title>
       <link>https://www.mandarinai.lt/post/77115</link>
@@ -70,18 +70,29 @@
       <pubDate>Wed, 09 Jul 2025 17:29:23 +0000</pubDate>
     </item>
     <item>
-      <title>😐Україна попросила «Patriot». </title>
-      <link>https://www.mandarinai.lt/post/77123</link>
-      <description>😐Україна попросила «Patriot». Я подивлюся. Але це дуже дорого, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_17-50-42.jpg" length="52904" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 17:50:42 +0000</pubDate>
-    </item>
-    <item>
       <title>В районі Серебрянського лісниц</title>
       <link>https://www.mandarinai.lt/post/77125</link>
       <description>В районі Серебрянського лісництва поруч з містом Лиман бійці 63-ої бригади вивели з ладу 15 гармат противника.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8755.MP4" length="19085782" type="video/mp4"/>
       <pubDate>Wed, 09 Jul 2025 18:12:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Україна запросила «Патріоти».</title>
+      <link>https://www.mandarinai.lt/post/77126</link>
+      <description>«Україна запросила «Патріоти». Я розгляну це питання. Але вони дуже дорогі», – Трамп, по суті, уникнув відповіді на запитання, чи дасть він Україні ці протиповітряні системи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8756.MP4" length="8678417" type="video/mp4"/>
+      <pubDate>Wed, 09 Jul 2025 18:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🇺🇸 Обговорили постачання збр</title>
+      <link>https://www.mandarinai.lt/post/77127</link>
+      <description>🇺🇦🇺🇸 Обговорили постачання зброї та посилення ППО, - Зеленський про зустріч із Кітом Келлогом у Римі 
+
+Також йшлося про закупівлю американської зброї, спільне оборонне виробництво з локалізацією в Україні. 
+
+Детально сфокусувалися на санкційному тиску проти російської енергетики та на вторинних санкцях проти покупців російської нафти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8757.MP4" length="5705825" type="video/mp4"/>
+      <pubDate>Wed, 09 Jul 2025 18:35:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
