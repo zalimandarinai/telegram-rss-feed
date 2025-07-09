@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 02:44:30 +0000</lastBuildDate>
-    <item>
-      <title>Близько 60 ворожих БпЛА вже на</title>
-      <link>https://www.mandarinai.lt/post/77071</link>
-      <description>Близько 60 ворожих БпЛА вже над Україною. Сумщина, Харківщина, Полтавщина</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-08_18-28-36.jpg" length="202512" type="image/jpeg"/>
-      <pubDate>Tue, 08 Jul 2025 18:28:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 03:46:48 +0000</lastBuildDate>
     <item>
       <title>В Канаді змова і «антиурядове </title>
       <link>https://www.mandarinai.lt/post/77072</link>
@@ -93,6 +86,13 @@ https://informnapalm.org/ua/russian-suicide-squad/</description>
       <description>Зараз російські пабліки повідомляють про численні вибухи в місті Рильськ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8723.MP4" length="4609153" type="video/mp4"/>
       <pubDate>Tue, 08 Jul 2025 20:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Луцьку сильна пожежа, внаслі</title>
+      <link>https://www.mandarinai.lt/post/77084</link>
+      <description>У Луцьку сильна пожежа, внаслідок атаки рф. Русня запустила по місту кинджали, крилаті ракети та велику кількість шахедів . Декілька шахедів ще прямує на місто.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_02-48-10.jpg" length="43925" type="image/jpeg"/>
+      <pubDate>Wed, 09 Jul 2025 02:48:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
