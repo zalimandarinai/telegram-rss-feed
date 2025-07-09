@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 20:09:54 +0000</lastBuildDate>
-    <item>
-      <title>Нейтралізована російська інжен</title>
-      <link>https://www.mandarinai.lt/post/77120</link>
-      <description>Нейтралізована російська інженерна система дистанційного мінування «Земледелие» підрозділом ССО UA_REG TEAM.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8748.MP4" length="27927552" type="video/mp4"/>
-      <pubDate>Wed, 09 Jul 2025 13:49:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 21:08:39 +0000</lastBuildDate>
     <item>
       <title>російський окупант в полоні у </title>
       <link>https://www.mandarinai.lt/post/77121</link>
@@ -95,6 +88,15 @@
 Серед найбільш дієвих підрозділів: «Птахи Мадяра», «Фенікс», «Ахіллес», «Nemesis», «Степові хижаки», «Рарог».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_19-32-47.jpg" length="74662" type="image/jpeg"/>
       <pubDate>Wed, 09 Jul 2025 19:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Спікер Джонсон про жорсткі </title>
+      <link>https://www.mandarinai.lt/post/77135</link>
+      <description>🇺🇸 Спікер Джонсон про жорсткі санкції США проти росії: ми маємо послати путіну сигнал
+
+"путін продемонстрував небажання бути розумним і серйозно обговорювати питання посередництва в досягненні миру, і я вважаю, що ми повинні послати йому сигнал - така моя думка", - зазначив він, маючи на увазі законопроєкт про санкції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_20-21-29.jpg" length="40546" type="image/jpeg"/>
+      <pubDate>Wed, 09 Jul 2025 20:21:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
