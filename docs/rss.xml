@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 18:13:17 +0000</lastBuildDate>
-    <item>
-      <title>Момент прильоту шахеда на ліво</title>
-      <link>https://www.mandarinai.lt/post/77159</link>
-      <description>Момент прильоту шахеда на лівому березі Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-10_11-50-33.mp4" length="220137" type="video/mp4"/>
-      <pubDate>Thu, 10 Jul 2025 11:50:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 19:07:47 +0000</lastBuildDate>
     <item>
       <title>⚡️Шахеди атакують Захід Україн</title>
       <link>https://www.mandarinai.lt/post/77161</link>
@@ -124,6 +117,22 @@
 В першій половині 2025 року загальна кількість загиблих і поранених цивільних становить 6754 особи, що на 54 відсотки більше порівняно з аналогічним періодом 2024 року. Тоді було задокументовано 4381 випадок загибелі або поранення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_17-41-24.jpg" length="20387" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 17:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Війна буде тривати далі: наша </title>
+      <link>https://www.mandarinai.lt/post/77177</link>
+      <description>Війна буде тривати далі: наша розвідка та розвідка партнерів має інформацію, що путін буде затягувати війну, — Зеленський.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8784.MP4" length="8289993" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 18:33:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Авіаційний удар по пункту упра</title>
+      <link>https://www.mandarinai.lt/post/77178</link>
+      <description>Авіаційний удар по пункту управління російських БПЛА та інші драматичні епізоди бойової роботи Сил оборони Півдня.
+
+В російських планах залишаються спроби взяття Запоріжжя і Херсона. Тому на півдні зараз активізувались бойові дії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8785.MP4" length="20590415" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 19:00:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
