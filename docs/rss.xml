@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 09:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Ракетно-дронова атака в ніч на</title>
-      <link>https://www.mandarinai.lt/post/77140</link>
-      <description>Ракетно-дронова атака в ніч на 10.07.25 тривала майже 11 годин
-
-Ворогом було застосовано:
-
-крилаті ракети 9м727/729 «Іскандер-К»;  
-балістичні ракети 9м723 ОТРК «Іскандер-М» та КN-23;  
-БпЛА типів «Шахед-Герань», «Гербера» та інших типів.
-
-Під ударом перебували Київ та Васильків.
-
-У столиці повідомлялось про сильне задимлення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_04-19-17.jpg" length="280258" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 04:19:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже 16 постраждалих у столиці </title>
-      <link>https://www.mandarinai.lt/post/77141</link>
-      <description>Вже 16 постраждалих у столиці внаслідок масованої атаки ворога 
-
-10 із них медики госпіталізували, іншим надали допомогу на місці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_05-05-29.jpg" length="270061" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 05:05:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У Подільському районі Києва </title>
-      <link>https://www.mandarinai.lt/post/77142</link>
-      <description>❗️У Подільському районі Києва внаслідок ворожої атаки загинули дві жінки, - Клименко
-
-12 людей госпіталізовано з пораненнями. Постраждалі продовжують звертатись по допомогу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_05-41-18.jpg" length="147399" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 05:41:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 10:10:02 +0000</lastBuildDate>
     <item>
       <title>🤬Київська квартира після нічно</title>
       <link>https://www.mandarinai.lt/post/77146</link>
@@ -116,6 +81,22 @@
 Записатись на інтенсив: i.goit.global</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-10_08-00-17.mp4" length="500184" type="video/mp4"/>
       <pubDate>Thu, 10 Jul 2025 08:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Повідомляють, що в Голосіївс</title>
+      <link>https://www.mandarinai.lt/post/77154</link>
+      <description>❗️Повідомляють, що в Голосіївському районі Києва сьогодні вранці було вбито полковника СБУ — пʼятьма пострілами впритул, під час виходу з помешкання, - заява прес-служби
+
+На відео; момент нападу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-10_09-13-32.mp4" length="3126319" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 09:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поліція опублікувала кадри з м</title>
+      <link>https://www.mandarinai.lt/post/77155</link>
+      <description>Поліція опублікувала кадри з місця вбивства полковника СЬУ в Голосіївському районі Києва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_09-21-53.jpg" length="175140" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 09:21:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
