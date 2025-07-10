@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 06:14:41 +0000</lastBuildDate>
-    <item>
-      <title>Кожна третя ціль уражена минул</title>
-      <link>https://www.mandarinai.lt/post/77132</link>
-      <description>Кожна третя ціль уражена минулого місяця Силами Безпілотних Систем, - каже Сирський
-
-За попередній місяць угруповання Сил БПС уразило понад 19,6 тис. цілей, знищило – 5024:
-▫️ 88 російських танків;
-▫️ 129 ББМ;
-▫️ 427 артилерійських систем;
-▫️ 31 РСЗВ. 
-
-Серед найбільш дієвих підрозділів: «Птахи Мадяра», «Фенікс», «Ахіллес», «Nemesis», «Степові хижаки», «Рарог».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_19-32-47.jpg" length="74662" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 19:32:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 07:11:45 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 Спікер Джонсон про жорсткі </title>
       <link>https://www.mandarinai.lt/post/77135</link>
@@ -79,6 +64,27 @@
 12 людей госпіталізовано з пораненнями. Постраждалі продовжують звертатись по допомогу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_05-41-18.jpg" length="147399" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 05:41:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Київська квартира після нічно</title>
+      <link>https://www.mandarinai.lt/post/77146</link>
+      <description>🤬Київська квартира після нічної атаки рф на столицю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-10_06-24-44.mp4" length="3651310" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 06:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Reuters публікує жахливі кад</title>
+      <link>https://www.mandarinai.lt/post/77147</link>
+      <description>🤬 Reuters публікує жахливі кадри української столиці, яку цієї ночі терористи рф атакували дронами та ракетами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_06-56-06.jpg" length="86454" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 06:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США відновили постачання Укр</title>
+      <link>https://www.mandarinai.lt/post/77149</link>
+      <description>❗️США відновили постачання Україні артилерійських боєприпасів та ракет для РСЗВ HIMARS</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_06-58-40.jpg" length="84148" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 06:58:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
