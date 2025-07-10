@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 02:44:23 +0000</lastBuildDate>
-    <item>
-      <title>російський окупант в полоні у </title>
-      <link>https://www.mandarinai.lt/post/77121</link>
-      <description>російський окупант в полоні у прикордонників
-
-На Вовчанському напрямку бійці бригади «Форпост» взяли в полон російського військового. Він два роки воює проти України, раніше брав участь у боях в Запорізькій області. Тепер його перекинули в піхоту до штурмової групи «Шторм». 
-
-На позицію окупанта відправили самого, без прикриття, а його маршрут коригував ворожий дрон.</description>
-      <pubDate>Wed, 09 Jul 2025 13:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дикуни вкотре обстріляли вокза</title>
-      <link>https://www.mandarinai.lt/post/77122</link>
-      <description>Дикуни вкотре обстріляли вокзал в Херсоні
-
-Пошкоджено будівлю багажного відділення, вибито вікна. Під час обстрілу в укритті вокзалу знаходилось 8 людей, ніхто не постраждав.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_17-29-23.jpg" length="96288" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 17:29:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>В районі Серебрянського лісниц</title>
-      <link>https://www.mandarinai.lt/post/77125</link>
-      <description>В районі Серебрянського лісництва поруч з містом Лиман бійці 63-ої бригади вивели з ладу 15 гармат противника.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8755.MP4" length="19085782" type="video/mp4"/>
-      <pubDate>Wed, 09 Jul 2025 18:12:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 03:46:05 +0000</lastBuildDate>
     <item>
       <title>«Україна запросила «Патріоти».</title>
       <link>https://www.mandarinai.lt/post/77126</link>
@@ -97,6 +71,27 @@
 "путін продемонстрував небажання бути розумним і серйозно обговорювати питання посередництва в досягненні миру, і я вважаю, що ми повинні послати йому сигнал - така моя думка", - зазначив він, маючи на увазі законопроєкт про санкції</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-09_20-21-29.jpg" length="40546" type="image/jpeg"/>
       <pubDate>Wed, 09 Jul 2025 20:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент влучань дронів сьогодні</title>
+      <link>https://www.mandarinai.lt/post/77136</link>
+      <description>Момент влучань дронів сьогодні вночі в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8766.MP4" length="1342049" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 03:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наслідки російської атаки в це</title>
+      <link>https://www.mandarinai.lt/post/77137</link>
+      <description>Наслідки російської атаки в центральній частині Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8767.MP4" length="15066799" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 03:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Частина корпусу ракети на вули</title>
+      <link>https://www.mandarinai.lt/post/77139</link>
+      <description>Частина корпусу ракети на вулиці в столичному районі Виноградар</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8765.MP4" length="2749218" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 03:12:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
