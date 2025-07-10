@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 11:08:40 +0000</lastBuildDate>
-    <item>
-      <title>🤬Київська квартира після нічно</title>
-      <link>https://www.mandarinai.lt/post/77146</link>
-      <description>🤬Київська квартира після нічної атаки рф на столицю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-10_06-24-44.mp4" length="3651310" type="video/mp4"/>
-      <pubDate>Thu, 10 Jul 2025 06:24:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 12:17:54 +0000</lastBuildDate>
     <item>
       <title>🤬 Reuters публікує жахливі кад</title>
       <link>https://www.mandarinai.lt/post/77147</link>
@@ -111,6 +104,22 @@
 ▪️ Заморожені російські активи мають бути спрямовані на відбудову України — не лише прибутки від цих активів, а й самі активи.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_10-49-28.jpg" length="25417" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 10:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Перші в Європі! Уже влітку 20</title>
+      <link>https://www.mandarinai.lt/post/77158</link>
+      <description>🤝Перші в Європі! Уже влітку 2026 року в Україні запрацює мобільний інтернет Starlink — вперше серед усіх країн Європи, — Reuters
+
+Завдяки прямому зв’язку смартфонів із супутниками на низькій орбіті, а не з наземними вишками, з’явиться стабільний сигнал навіть у важкодоступних місцях</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_11-45-05.jpg" length="78210" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 11:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент прильоту шахеда на ліво</title>
+      <link>https://www.mandarinai.lt/post/77159</link>
+      <description>Момент прильоту шахеда на лівому березі Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-10_11-50-33.mp4" length="220137" type="video/mp4"/>
+      <pubDate>Thu, 10 Jul 2025 11:50:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
