@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 10:10:06 +0000</lastBuildDate>
-    <item>
-      <title>✈️Гучний світанок біля Тульськ</title>
-      <link>https://www.mandarinai.lt/post/77192</link>
-      <description>✈️Гучний світанок біля Тульського Конструкторського бюро приладів, яке спеціалізується на виготовленні ракетних комплексів протиповітряної оборони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-11_05-20-12.mp4" length="1554495" type="video/mp4"/>
-      <pubDate>Fri, 11 Jul 2025 05:20:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 11:08:29 +0000</lastBuildDate>
     <item>
       <title>🤬Зранку русня атакувала Харків</title>
       <link>https://www.mandarinai.lt/post/77194</link>
@@ -116,6 +109,13 @@
 За кількість переконаних злочинців йти на фронт, російським правоохоронцям доплачують.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-11_10-08-33.jpg" length="65098" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 10:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳В небі над Києвом чи не вперш</title>
+      <link>https://www.mandarinai.lt/post/77210</link>
+      <description>😳В небі над Києвом чи не вперше від початку широкомасштабного вторгнення помітили цивільний літак</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-11_10-22-21.mp4" length="663050" type="video/mp4"/>
+      <pubDate>Fri, 11 Jul 2025 10:22:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
