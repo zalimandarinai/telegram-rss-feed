@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 18:12:56 +0000</lastBuildDate>
-    <item>
-      <title>❗️Полковник СБУ, застрелений в</title>
-      <link>https://www.mandarinai.lt/post/77220</link>
-      <description>❗️Полковник СБУ, застрелений в Києві, був учасником секретної операції в Курській області, - The New York Times</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-11_14-52-46.jpg" length="123414" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 14:52:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 19:07:39 +0000</lastBuildDate>
     <item>
       <title>🇨🇴 В нас одна з найкращих армі</title>
       <link>https://www.mandarinai.lt/post/77221</link>
@@ -91,6 +84,17 @@
 Ураження скидом здійснили оператори ударного БПЛА, саме тоді, коли установка готувалася до вогню по позиціям Сил оборони.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8815.MP4" length="12627197" type="video/mp4"/>
       <pubDate>Fri, 11 Jul 2025 16:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Україна підірвала важливий </title>
+      <link>https://www.mandarinai.lt/post/77233</link>
+      <description>⚡️ Україна підірвала важливий російський газопровід в Західному Сибіру, — Bloomberg
+
+Він знаходився у Ханти-Мансійському автономному окрузі і мав потужність— 2,6 млрд кубометрів на рік.
+
+Він постачав газ до оборонних підприємств у Челябінській, Оренбурзькій та Свердловській областях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-11_18-27-05.jpg" length="46342" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 18:27:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
