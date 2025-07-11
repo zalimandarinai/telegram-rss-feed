@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 05:14:15 +0000</lastBuildDate>
-    <item>
-      <title>Війна буде тривати далі: наша </title>
-      <link>https://www.mandarinai.lt/post/77177</link>
-      <description>Війна буде тривати далі: наша розвідка та розвідка партнерів має інформацію, що путін буде затягувати війну, — Зеленський.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8784.MP4" length="8289993" type="video/mp4"/>
-      <pubDate>Thu, 10 Jul 2025 18:33:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Авіаційний удар по пункту упра</title>
-      <link>https://www.mandarinai.lt/post/77178</link>
-      <description>Авіаційний удар по пункту управління російських БПЛА та інші драматичні епізоди бойової роботи Сил оборони Півдня.
-
-В російських планах залишаються спроби взяття Запоріжжя і Херсона. Тому на півдні зараз активізувались бойові дії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8785.MP4" length="20590415" type="video/mp4"/>
-      <pubDate>Thu, 10 Jul 2025 19:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>💶 В росії заберуть її замороже</title>
-      <link>https://www.mandarinai.lt/post/77179</link>
-      <description>💶 В росії заберуть її заморожені гроші, якщо путін не заплатить мінімум €500 млрд. компенсації за відновлення України, - канцлер Фрідріх Мерц
-
-💬 «росія має заплатити за цю шкоду. Поки цього не сталося, росія не повинна і не матиме доступу до заморожених російських активів».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8787.MP4" length="7944042" type="video/mp4"/>
-      <pubDate>Thu, 10 Jul 2025 19:23:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>В російській Пензі сталося рап</title>
-      <link>https://www.mandarinai.lt/post/77180</link>
-      <description>В російській Пензі сталося раптове задимлення в районі ТЕЦ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-10_19-23-57.mp4" length="569264" type="video/mp4"/>
-      <pubDate>Thu, 10 Jul 2025 19:23:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 06:14:20 +0000</lastBuildDate>
     <item>
       <title>Трамп має особливу «секретну з</title>
       <link>https://www.mandarinai.lt/post/77183</link>
@@ -87,6 +55,22 @@
       <description>❗️рф завдала ударів безпілотниками по околицям міста Суми. Минулося без поранених і загиблих, -  в.о. міського голови Артем Кобзар.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-11_05-14-11.jpg" length="103309" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 05:14:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>✈️Гучний світанок біля Тульськ</title>
+      <link>https://www.mandarinai.lt/post/77192</link>
+      <description>✈️Гучний світанок біля Тульського Конструкторського бюро приладів, яке спеціалізується на виготовленні ракетних комплексів протиповітряної оборони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-11_05-20-12.mp4" length="1554495" type="video/mp4"/>
+      <pubDate>Fri, 11 Jul 2025 05:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Зранку русня атакувала Харків</title>
+      <link>https://www.mandarinai.lt/post/77194</link>
+      <description>🤬Зранку русня атакувала Харків.
+
+Уламки влучили у пологовий будинок, де перебували породіллі з немовлятами — на щастя, всі цілі, їх евакуювали.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-11_05-25-57.mp4" length="1114252" type="video/mp4"/>
+      <pubDate>Fri, 11 Jul 2025 05:25:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
