@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 03:52:51 +0000</lastBuildDate>
-    <item>
-      <title>Зеленський має намір змінити п</title>
-      <link>https://www.mandarinai.lt/post/77174</link>
-      <description>Зеленський має намір змінити посла України в США, ним може стати міністр оборони Рустем Умеров 
-
-Президент Зеленський заявив під час спілкування з журналістами у Римі, що має намір змінити посла України у США — цю посаду зараз обіймає Оксана Маркарова. 
-
-Як кандидат на цю посаду розглядається нинішній міністр оборони Рустем Умеров, і, якщо таке призначення станеться, уряд чекають зміни та перестановки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_17-30-44.jpg" length="22714" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 17:30:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 04:27:09 +0000</lastBuildDate>
     <item>
       <title>⚡️ Німеччина готова оплатити 2</title>
       <link>https://www.mandarinai.lt/post/77175</link>
@@ -91,6 +80,19 @@
 "Ми зібрали близько десяти досить великих фрагментів, і я вважаю, що це був безпілотник, а не ракета. На щастя, ніхто з нас не постраждав. Але вражає бачити вибухи, які відбуваються зовсім поруч", - додав він.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-10_20-15-01.jpg" length="54409" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 20:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Трамп досяг угоди про поста</title>
+      <link>https://www.mandarinai.lt/post/77188</link>
+      <description>⚡️ Трамп досяг угоди про постачання американської зброї Україні з фінансуванням НАТО, — CNN
+
+«Ми надсилаємо зброю до НАТО, і НАТО оплачує цю зброю на сто відсотків. Ми збираємося надсилати ракети Patriot до НАТО, а потім НАТО їх розподілить», — повідомив Трамп.
+
+Він також пообіцяв зробити в понеділок «важливу заяву щодо росії», не уточнивши деталей. 
+
+«Я розчарований росією… буде важлива заява щодо росії в понеділок», — сказав американський президент</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-11_04-26-06.mp4" length="2858998" type="video/mp4"/>
+      <pubDate>Fri, 11 Jul 2025 04:26:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
