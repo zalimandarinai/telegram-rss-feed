@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Jul 2025 07:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 08:11:15 +0000</lastBuildDate>
     <item>
       <title>⚡️Нова хвиля крилатих ракет за</title>
       <link>https://www.mandarinai.lt/post/77254</link>
@@ -61,6 +61,28 @@
       <description>❗️рф випустила вночі по Україні 26 крилатих ракет і 597 дронів, більше половини з них — «шахеди». Понад 20 ракет і переважна кількість ударних дронів знешкоджені, — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_07-07-40.jpg" length="94170" type="image/jpeg"/>
       <pubDate>Sat, 12 Jul 2025 07:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збито 344 цілі, - Повітряні Си</title>
+      <link>https://www.mandarinai.lt/post/77267</link>
+      <description>Збито 344 цілі, - Повітряні Сили
+
+З запущених по Україні 26-ти крилатих ракет Х-101 збито 25-ть.
+
+Дуже високий коефіцієнт збиття по ракетах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_07-17-44.jpg" length="89628" type="image/jpeg"/>
+      <pubDate>Sat, 12 Jul 2025 07:17:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Львів пережив цієї ночі наймас</title>
+      <link>https://www.mandarinai.lt/post/77268</link>
+      <description>Львів пережив цієї ночі наймасштабнішу атаку безпілотників від початку російського вторгнення.
+
+У місті пошкоджено будинки, автомобілі, багато постраждалих, в тому числі 11-річний хлопчик.
+
+Росіяни цілеспрямовано били по житлових будинках. Вибито вікна, зруйновано квартири. Багато з них відтепер  непридатні для проживання і не підлягають відновленню.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8841.MP4" length="5730906" type="video/mp4"/>
+      <pubDate>Sat, 12 Jul 2025 07:32:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
