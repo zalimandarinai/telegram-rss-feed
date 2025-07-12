@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Jul 2025 06:12:53 +0000</lastBuildDate>
-    <item>
-      <title>⚡️У повітряному просторі Львів</title>
-      <link>https://www.mandarinai.lt/post/77248</link>
-      <description>⚡️У повітряному просторі Львівщини зафіксовано декілька «Шахедів», працює ППО, — ОВА
-
-Також спостерігається скупчення ворожих БпЛА на межі з Тернопільщиною.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_00-11-07.jpg" length="92039" type="image/jpeg"/>
-      <pubDate>Sat, 12 Jul 2025 00:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>😔Київське метро</title>
-      <link>https://www.mandarinai.lt/post/77249</link>
-      <description>😔Київське метро</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_00-12-38.jpg" length="259931" type="image/jpeg"/>
-      <pubDate>Sat, 12 Jul 2025 00:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Шахеди залітають на Львів з </title>
-      <link>https://www.mandarinai.lt/post/77250</link>
-      <description>⚡️Шахеди залітають на Львів з різних сторін.  У Львові працює ППО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_00-34-56.jpg" length="96095" type="image/jpeg"/>
-      <pubDate>Sat, 12 Jul 2025 00:34:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Jul 2025 07:09:48 +0000</lastBuildDate>
     <item>
       <title>⚡️Нова хвиля крилатих ракет за</title>
       <link>https://www.mandarinai.lt/post/77254</link>
@@ -70,6 +47,20 @@
       <description>Над Харковом дим після сьогоднішніх ранкових ударів КАБами і БПЛА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8834.MP4" length="3061543" type="video/mp4"/>
       <pubDate>Sat, 12 Jul 2025 06:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент удару рашистів по Черн</title>
+      <link>https://www.mandarinai.lt/post/77264</link>
+      <description>🤬Момент удару рашистів по Чернівцях. На місто летіли ракети і дрони одночасно. Двоє загиблих, четверо важкопоранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-12_07-01-50.mp4" length="240279" type="video/mp4"/>
+      <pubDate>Sat, 12 Jul 2025 07:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф випустила вночі по Україн</title>
+      <link>https://www.mandarinai.lt/post/77266</link>
+      <description>❗️рф випустила вночі по Україні 26 крилатих ракет і 597 дронів, більше половини з них — «шахеди». Понад 20 ракет і переважна кількість ударних дронів знешкоджені, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_07-07-40.jpg" length="94170" type="image/jpeg"/>
+      <pubDate>Sat, 12 Jul 2025 07:07:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
