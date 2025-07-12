@@ -6,41 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Jul 2025 08:11:15 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Нова хвиля крилатих ракет за</title>
-      <link>https://www.mandarinai.lt/post/77254</link>
-      <description>⚡️Нова хвиля крилатих ракет заходить з північного сходу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_00-46-13.jpg" length="118551" type="image/jpeg"/>
-      <pubDate>Sat, 12 Jul 2025 00:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Львові — влучання, — мер Сад</title>
-      <link>https://www.mandarinai.lt/post/77256</link>
-      <description>У Львові — влучання, — мер Садовий
-
-Ракетна атака на місто досі триває.
-
-Також задимлення в Чернівціях.
-
-На Луцьк прямує ще одна група БПЛА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_01-26-51.jpg" length="18105" type="image/jpeg"/>
-      <pubDate>Sat, 12 Jul 2025 01:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогодні вночі і вранці Чернів</title>
-      <link>https://www.mandarinai.lt/post/77257</link>
-      <description>Сьогодні вночі і вранці Чернівці атакували ракети і дрони. Двоє загиблих в місті, 26-річна дівчина і 43-річний чоловік. Повідомляють про 10 поранених, деякі з них у важкому стані. Чернівці, перлина Буковини, перестали бути безпечним містом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8830.MP4" length="3728944" type="video/mp4"/>
-      <pubDate>Sat, 12 Jul 2025 05:47:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Луцьку «Shahed» атакував зви</title>
-      <link>https://www.mandarinai.lt/post/77261</link>
-      <description>В Луцьку «Shahed» атакував звичайний приватний будинок, що ще раз доводить, що росія просто «кошмарить» дронами українські міста, створюючи нестерпні умови для мирного населення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8836.MP4" length="921333" type="video/mp4"/>
-      <pubDate>Sat, 12 Jul 2025 05:52:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Jul 2025 09:08:53 +0000</lastBuildDate>
     <item>
       <title>Над Харковом дим після сьогодн</title>
       <link>https://www.mandarinai.lt/post/77262</link>
@@ -63,13 +29,13 @@
       <pubDate>Sat, 12 Jul 2025 07:07:40 +0000</pubDate>
     </item>
     <item>
-      <title>Збито 344 цілі, - Повітряні Си</title>
+      <title>❗️25 з 26 ракет і 319 з 597 Бп</title>
       <link>https://www.mandarinai.lt/post/77267</link>
-      <description>Збито 344 цілі, - Повітряні Сили
+      <description>❗️25 з 26 ракет і 319 з 597 БпЛА збито над Україною вночі
 
-З запущених по Україні 26-ти крилатих ракет Х-101 збито 25-ть.
-
-Дуже високий коефіцієнт збиття по ракетах.</description>
+▪️319/597 – БпЛА типу Shahed (ще 258 імітаторів локаційно втрачені/подавлені РЕБ).
+▪️25/26 – крилаті ракети Х-101.
+▪️Влучання 1 ракети та 20 БпЛА у 5 локаціях</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_07-17-44.jpg" length="89628" type="image/jpeg"/>
       <pubDate>Sat, 12 Jul 2025 07:17:44 +0000</pubDate>
     </item>
@@ -83,6 +49,41 @@
 Росіяни цілеспрямовано били по житлових будинках. Вибито вікна, зруйновано квартири. Багато з них відтепер  непридатні для проживання і не підлягають відновленню.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8841.MP4" length="5730906" type="video/mp4"/>
       <pubDate>Sat, 12 Jul 2025 07:32:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>До Білгорода прилетіли безпіло</title>
+      <link>https://www.mandarinai.lt/post/77269</link>
+      <description>До Білгорода прилетіли безпілотники
+
+Один із них впав на стадіон «Білгород-Арена». Над спорудою чорний дим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Белгород 1.MP4" length="1816474" type="video/mp4"/>
+      <pubDate>Sat, 12 Jul 2025 08:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Чернівцях оголосили 13 липня</title>
+      <link>https://www.mandarinai.lt/post/77271</link>
+      <description>У Чернівцях оголосили 13 липня днем жалоби за жертвами російської атаки
+
+Всі масові заходи на території міста будуть скасовані, повідомив мер Чернівців Роман Клічук.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_08-32-46.jpg" length="176667" type="image/jpeg"/>
+      <pubDate>Sat, 12 Jul 2025 08:32:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лавров приїхав до Північної Ко</title>
+      <link>https://www.mandarinai.lt/post/77274</link>
+      <description>Лавров приїхав до Північної Кореї. Головні теми  - війна в Україні та ситуація на Корейському півострові. Тобто, буде просити зброю та солдатів у рамках договору про стратегічне партнерство.
+
+Потім Лавров планує вирушити до Китаю на засідання Шанхайської організації співробітництва.
+
+Зло гуртується дуже активно і ефективно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-12_08-44-32.jpg" length="57830" type="image/jpeg"/>
+      <pubDate>Sat, 12 Jul 2025 08:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворожа піхота вперто намагаєть</title>
+      <link>https://www.mandarinai.lt/post/77275</link>
+      <description>Ворожа піхота вперто намагається займати посадки на Харківському напрямку, сподіваючись, залишитися непоміченою, але оператори підрозділу під назвою «Вій» бригади НГУ «Хартія» помічають все.</description>
+      <pubDate>Sat, 12 Jul 2025 08:55:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
