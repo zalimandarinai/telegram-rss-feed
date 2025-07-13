@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 14:07:37 +0000</lastBuildDate>
-    <item>
-      <title>🪖⚡️ЗСУ досягли тактичного прос</title>
-      <link>https://www.mandarinai.lt/post/77304</link>
-      <description>🪖⚡️ЗСУ досягли тактичного просування в районі Покровська на Донеччині, — ISW
-
-Згідно з геолокаційними знімками, ЗСУ просунулися на південь від Удачного. Тим часом рф продовжує атаки в напрямку Родинського, Володимирівки, Красного Лиману, Разіна та Мирного</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_07-20-23.jpg" length="262262" type="image/jpeg"/>
-      <pubDate>Sun, 13 Jul 2025 07:20:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Jul 2025 15:08:01 +0000</lastBuildDate>
     <item>
       <title>Коли несправедливість стає вир</title>
       <link>https://www.mandarinai.lt/post/77305</link>
@@ -122,6 +113,24 @@
 Сьогодні плануємо викласти детальне інтервʼю з командиром 225-го ОШП майором Олегом Ширяєвим.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_13-53-18.jpg" length="57145" type="image/jpeg"/>
       <pubDate>Sun, 13 Jul 2025 13:53:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🫡 Генсек НАТО Марк Рютте вируш</title>
+      <link>https://www.mandarinai.lt/post/77318</link>
+      <description>🫡 Генсек НАТО Марк Рютте вирушає до США
+
+Очікується, що на початку наступного тижня Рютте зустрінеться з Дональдом Трампом, держсекретарем Рубіо, главою Пентагону Гегсетом і членами Конгресу — на тлі сигналів про можливе виділення нової допомоги Україні.
+
+Візит може стати ключовим для координації безпекової підтримки Києва у новій політичній реальності США.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_14-31-30.jpg" length="107286" type="image/jpeg"/>
+      <pubDate>Sun, 13 Jul 2025 14:31:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зафіксовано пуски «шахедів» з </title>
+      <link>https://www.mandarinai.lt/post/77319</link>
+      <description>Зафіксовано пуски «шахедів» з Приморсько-Ахтарську та Орла</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_14-34-33.jpg" length="57544" type="image/jpeg"/>
+      <pubDate>Sun, 13 Jul 2025 14:34:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
