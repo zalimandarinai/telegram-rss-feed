@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 13:21:08 +0000</lastBuildDate>
-    <item>
-      <title>Бойова робота білоруських добр</title>
-      <link>https://www.mandarinai.lt/post/77300</link>
-      <description>Бойова робота білоруських добровольців з полку Калиновського в Запорізькій області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8894.MP4" length="11487900" type="video/mp4"/>
-      <pubDate>Sun, 13 Jul 2025 06:14:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У росіян майже вдвічі скорот</title>
-      <link>https://www.mandarinai.lt/post/77301</link>
-      <description>❗️У росіян майже вдвічі скоротилися запаси балістичних ракет "Іскандер-М" та KN-23, — ГУР
-
-Росія має понад 250 балістичних ракет станом на початок липня, а у середині травня цей показник знаходився на рівні 580 ракет.
-
-Водночас вздовж кордону з Україною досі розгорнуто понад 60 оперативно-тактичних комплексів для запуску цих ракет
-
-https://news.liga.net/ua/politics/news/u-rosii-try-sotni-balistychnykh-iskanderiv-i-pivnichnokoreyskykh-analohiv-hur</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_07-05-59.jpg" length="73246" type="image/jpeg"/>
-      <pubDate>Sun, 13 Jul 2025 07:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥 У російському Кстово після </title>
-      <link>https://www.mandarinai.lt/post/77302</link>
-      <description>💥🔥 У російському Кстово після атаки дронами спалахнула масштабна пожежа на заводі: стовп диму закрив небо, — росЗМІ
-
-За попередніми даними, горить установка з виробництва бітуму. Також зруйновано дві ємності з нафтопродуктами об'ємом по 200 кубометрів, і існує ризик перекидання вогню на сусідні резервуари Кстовського нафтопереробного заводу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-13_07-11-17.mp4" length="976222" type="video/mp4"/>
-      <pubDate>Sun, 13 Jul 2025 07:11:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Jul 2025 14:07:37 +0000</lastBuildDate>
     <item>
       <title>🪖⚡️ЗСУ досягли тактичного прос</title>
       <link>https://www.mandarinai.lt/post/77304</link>
@@ -126,6 +97,31 @@ https://news.liga.net/ua/politics/news/u-rosii-try-sotni-balistychnykh-iskanderi
       <description>⚡️Момент удару шахеда пл будівлі ТЦК в місті Самар на Дніпропетровщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-13_12-20-11.mp4" length="1733816" type="video/mp4"/>
       <pubDate>Sun, 13 Jul 2025 12:20:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог окупував Разіне, а також</title>
+      <link>https://www.mandarinai.lt/post/77314</link>
+      <description>Ворог окупував Разіне, а також просунувся біля Відродження, Торецька, Диліївки та Красного Першого, - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_13-22-30.jpg" length="28273" type="image/jpeg"/>
+      <pubDate>Sun, 13 Jul 2025 13:22:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Війна буде тривати: росія пл</title>
+      <link>https://www.mandarinai.lt/post/77315</link>
+      <description>❗️Війна буде тривати: росія планує новий наступ в Україні в другій половині літа, — BILD з посилання на джерела</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_13-23-39.jpg" length="106662" type="image/jpeg"/>
+      <pubDate>Sun, 13 Jul 2025 13:23:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти знищили всі хати у се</title>
+      <link>https://www.mandarinai.lt/post/77316</link>
+      <description>Окупанти знищили всі хати у селі Кіндратівка на прикордонні Сумщини, там зараз тривають бої
+
+Бійці 225-го окремого штурмового полку, які проводять операцію зі звільнення Кіндратівки, показали, як виглядає село.
+
+Сьогодні плануємо викласти детальне інтервʼю з командиром 225-го ОШП майором Олегом Ширяєвим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_13-53-18.jpg" length="57145" type="image/jpeg"/>
+      <pubDate>Sun, 13 Jul 2025 13:53:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
