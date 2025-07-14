@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 12:18:06 +0000</lastBuildDate>
-    <item>
-      <title>❗️Трамп підтвердив, що сьогодн</title>
-      <link>https://www.mandarinai.lt/post/77336</link>
-      <description>❗️Трамп підтвердив, що сьогодні оголосить про передачу Україні наступальної зброї та ракет великої дальності, які можуть бити вглиб рф, — Axios</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-14_06-08-17.mp4" length="3580814" type="video/mp4"/>
-      <pubDate>Mon, 14 Jul 2025 06:08:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 13:29:04 +0000</lastBuildDate>
     <item>
       <title>Спецпредставник Трампа Кіт Кел</title>
       <link>https://www.mandarinai.lt/post/77337</link>
@@ -103,6 +96,26 @@ UPD на разі без пусків</description>
       <description>❗️Я запропонував Юлії Свириденко очолити уряд України та суттєво оновити його роботу, – Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_11-51-48.jpg" length="176273" type="image/jpeg"/>
       <pubDate>Mon, 14 Jul 2025 11:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Трамп рзглядає можливість по</title>
+      <link>https://www.mandarinai.lt/post/77349</link>
+      <description>❗️Трамп рзглядає можливість поставок Україні далекобійних ракет JASSM, - Military Watch Magazine.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_13-11-10.jpg" length="228766" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 13:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡ Пісторіус заявив, що Бундесв</title>
+      <link>https://www.mandarinai.lt/post/77350</link>
+      <description>⚡ Пісторіус заявив, що Бундесвер готовий вбивати російських солдатів у разі агресії
+
+Міністр оборони Німеччини Борис Пісторіус в інтерв'ю Financial Times заявив: "Німецькі солдати будуть готові вбивати російських - якщо Росія нападе на країну НАТО".
+
+За його словами, це не загроза, а тверезе попередження: «Це потрібно не для того, щоб когось залякати, а щоб дати зрозуміти: ми хочемо жити з вами у мирі, але не думайте, що ми слабкі чи не зможемо себе захистити».
+
+Пісторіус — один із найактивніших прихильників посилення оборони в Європі. Він вимагає збільшити фінансування армії, перевести промисловість на військові рейки і не будує ілюзій щодо Кремля.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_13-14-19.jpg" length="103441" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 13:14:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
