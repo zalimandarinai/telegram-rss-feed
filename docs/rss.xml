@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 11:09:02 +0000</lastBuildDate>
-    <item>
-      <title>В нас вийшло інтервʼю з команд</title>
-      <link>https://www.mandarinai.lt/post/77332</link>
-      <description>В нас вийшло інтервʼю з командиром 225-го окремого штурмового полку Олегом Ширяєвим.
-
-Ми зустрілись з ним на Сумщині після того, як 225-ий штурмовий полк ліквідував диверсійну групу росіян, яка просунулась на 5 кілометрів через наш тил в бік Сум.
-
-Командир одного з найуспішніших штурмових полків вважає, що в планах путіна не тільки Суми, а й вся Лівобережна Україна.
-
-Наполегливо рекомендую послухати Олега Ширяєва для більш повного розуміння, чи втримаємо ми Суми і чи витіснимо росіян з Сумщини.
-
-Повністю інтерв’ю за посиланням.
-
-https://www.youtube.com/watch?v=_44MlZqTVMc&amp;feature=youtu.be</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8958.MP4" length="2326376" type="video/mp4"/>
-      <pubDate>Sun, 13 Jul 2025 18:23:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️В небі зараз близько 35 БпЛА</title>
-      <link>https://www.mandarinai.lt/post/77334</link>
-      <description>⚡️В небі зараз близько 35 БпЛА. Вони рухаються в напрямку Полтавської та Дніпропетровської областей. Зафіксовано повторні запуски з кількох локацій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-13_21-01-03.jpg" length="234115" type="image/jpeg"/>
-      <pubDate>Sun, 13 Jul 2025 21:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 12:18:06 +0000</lastBuildDate>
     <item>
       <title>❗️Трамп підтвердив, що сьогодн</title>
       <link>https://www.mandarinai.lt/post/77336</link>
@@ -108,6 +84,25 @@ https://www.youtube.com/watch?v=_44MlZqTVMc&amp;feature=youtu.be</description>
       <description>Підрозділ  з мотиваційною назвою «Pentagon» 225-го ОШП на Сумщині дронами забезпечує просування в районі Андріївки, атакуючи пункти управління ворожих БПЛА та логістику противника.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8978.MP4" length="11698337" type="video/mp4"/>
       <pubDate>Mon, 14 Jul 2025 10:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зліт МіГ-31К ВПС рф.
+
+МіГ-31К </title>
+      <link>https://www.mandarinai.lt/post/77346</link>
+      <description>Зліт МіГ-31К ВПС рф.
+
+МіГ-31К — носій гіперзвукової аеробалістичної ракети Х-47м2 комплексу "Кинджал", яка становить загрозу для всіх регіонів країни.
+UPD на разі без пусків</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_11-18-12.jpg" length="49481" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 11:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Я запропонував Юлії Свириден</title>
+      <link>https://www.mandarinai.lt/post/77348</link>
+      <description>❗️Я запропонував Юлії Свириденко очолити уряд України та суттєво оновити його роботу, – Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_11-51-48.jpg" length="176273" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 11:51:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
