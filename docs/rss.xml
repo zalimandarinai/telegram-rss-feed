@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 16:11:35 +0000</lastBuildDate>
-    <item>
-      <title>Підрозділ  з мотиваційною назв</title>
-      <link>https://www.mandarinai.lt/post/77345</link>
-      <description>Підрозділ  з мотиваційною назвою «Pentagon» 225-го ОШП на Сумщині дронами забезпечує просування в районі Андріївки, атакуючи пункти управління ворожих БПЛА та логістику противника.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8978.MP4" length="11698337" type="video/mp4"/>
-      <pubDate>Mon, 14 Jul 2025 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зліт МіГ-31К ВПС рф.
-
-МіГ-31К </title>
-      <link>https://www.mandarinai.lt/post/77346</link>
-      <description>Зліт МіГ-31К ВПС рф.
-
-МіГ-31К — носій гіперзвукової аеробалістичної ракети Х-47м2 комплексу "Кинджал", яка становить загрозу для всіх регіонів країни.
-UPD на разі без пусків</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_11-18-12.jpg" length="49481" type="image/jpeg"/>
-      <pubDate>Mon, 14 Jul 2025 11:18:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 17:10:40 +0000</lastBuildDate>
     <item>
       <title>❗️Я запропонував Юлії Свириден</title>
       <link>https://www.mandarinai.lt/post/77348</link>
@@ -115,6 +96,13 @@ UPD на разі без пусків</description>
 
 Щиро вдячні за підтримку! Mis sinceros agredecimientos por su apoyo!</description>
       <pubDate>Mon, 14 Jul 2025 16:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори 8-го полку ССО ударн</title>
+      <link>https://www.mandarinai.lt/post/77360</link>
+      <description>Оператори 8-го полку ССО ударними дронами знищили сучасну рідкісну російську інженерну систему дистанційного мінування «Земледелие», призначення якої створювати мінні поля на особливо небезпечних напрямках.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8985.MP4" length="10943794" type="video/mp4"/>
+      <pubDate>Mon, 14 Jul 2025 16:35:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
