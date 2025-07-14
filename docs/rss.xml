@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 19:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 20:10:49 +0000</lastBuildDate>
     <item>
       <title>⚡ Пісторіус заявив, що Бундесв</title>
       <link>https://www.mandarinai.lt/post/77350</link>
@@ -98,11 +98,15 @@
       <pubDate>Mon, 14 Jul 2025 18:04:18 +0000</pubDate>
     </item>
     <item>
-      <title>Російські дрони атакували Черн</title>
-      <link>https://www.mandarinai.lt/post/77364</link>
-      <description>Російські дрони атакували Чернігів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_18-39-17.jpg" length="121226" type="image/jpeg"/>
-      <pubDate>Mon, 14 Jul 2025 18:39:17 +0000</pubDate>
+      <title>🇺🇸"З путіним було чотири домов</title>
+      <link>https://www.mandarinai.lt/post/77365</link>
+      <description>🇺🇸"З путіним було чотири домовленості". Трамп пояснив свій ультиматум для росії
+
+За словами американського лідера, у Вашингтоні вважали, що з головою Кремля "було чотири домовленості".
+
+"Але якось вони закінчуються: ми кладемо слухавку - і "О, це була дуже приємна розмова". А потім він запускає ракети по якихось будівлях. Я кажу: "А це що зараз було?" - додав Трамп.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_19-15-47.jpg" length="130599" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 19:15:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
