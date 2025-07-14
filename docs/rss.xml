@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 18:14:05 +0000</lastBuildDate>
-    <item>
-      <title>❗️Трамп рзглядає можливість по</title>
-      <link>https://www.mandarinai.lt/post/77349</link>
-      <description>❗️Трамп рзглядає можливість поставок Україні далекобійних ракет JASSM, - Military Watch Magazine.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_13-11-10.jpg" length="228766" type="image/jpeg"/>
-      <pubDate>Mon, 14 Jul 2025 13:11:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 19:08:58 +0000</lastBuildDate>
     <item>
       <title>⚡ Пісторіус заявив, що Бундесв</title>
       <link>https://www.mandarinai.lt/post/77350</link>
@@ -103,6 +96,13 @@
       <description>Оператори безпілотних систем «No Chance» 108-ої бригади Тероборони вполювали кілька автомобілів окупантів в Запорізькій області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8988.MP4" length="15643575" type="video/mp4"/>
       <pubDate>Mon, 14 Jul 2025 18:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російські дрони атакували Черн</title>
+      <link>https://www.mandarinai.lt/post/77364</link>
+      <description>Російські дрони атакували Чернігів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_18-39-17.jpg" length="121226" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 18:39:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
