@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 13:29:04 +0000</lastBuildDate>
-    <item>
-      <title>Спецпредставник Трампа Кіт Кел</title>
-      <link>https://www.mandarinai.lt/post/77337</link>
-      <description>Спецпредставник Трампа Кіт Келлог вже в Україні
-
-Високопосадовець прибув сьогодні до Києва і пробуде в столиці весь тиждень.
-
-Спеціальний посланець Келлог проведе перемовини з українськими посадовцями щодо оборонної підтримки, зміцнення стратегічної безпеки, військової допомоги, санкційного тиску на агресора та подальшого розширення партнерства.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8963.MP4" length="4199421" type="video/mp4"/>
-      <pubDate>Mon, 14 Jul 2025 06:14:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 14:10:42 +0000</lastBuildDate>
     <item>
       <title>❗️росіяни злякалися нової рито</title>
       <link>https://www.mandarinai.lt/post/77339</link>
@@ -116,6 +105,13 @@ UPD на разі без пусків</description>
 Пісторіус — один із найактивніших прихильників посилення оборони в Європі. Він вимагає збільшити фінансування армії, перевести промисловість на військові рейки і не будує ілюзій щодо Кремля.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-14_13-14-19.jpg" length="103441" type="image/jpeg"/>
       <pubDate>Mon, 14 Jul 2025 13:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Торецькому напрямку підрозд</title>
+      <link>https://www.mandarinai.lt/post/77351</link>
+      <description>На Торецькому напрямку підрозділ «R.V.28», який є складовою 28-ої окремої механізованої бригади, уразив дві так звані «буханки», ББМ, вантажівку, два легкових авто.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8980.MP4" length="27814940" type="video/mp4"/>
+      <pubDate>Mon, 14 Jul 2025 14:03:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
