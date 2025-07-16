@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 13:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 14:09:57 +0000</lastBuildDate>
     <item>
       <title>російський дрон вночі влучив в</title>
       <link>https://www.mandarinai.lt/post/77422</link>
@@ -136,6 +136,13 @@
  Переговори про постачання Україні зброї за запропонованою Трампом схемою йдуть "мляво" - все ще немає домовленості, хто і що передасть. Деякі лідери були зненацька захоплені через заяву Трампа про купівлю зброї у США для передачі Києву.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-16_12-23-13.jpg" length="78466" type="image/jpeg"/>
       <pubDate>Wed, 16 Jul 2025 12:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Влучання пари авіабомб AASM-2</title>
+      <link>https://www.mandarinai.lt/post/77435</link>
+      <description>💥Влучання пари авіабомб AASM-250 «Hammer» по позиціям окупантів на Донецькому напрямку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-16_13-49-59.mp4" length="1401569" type="video/mp4"/>
+      <pubDate>Wed, 16 Jul 2025 13:49:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
