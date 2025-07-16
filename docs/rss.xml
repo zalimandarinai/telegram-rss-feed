@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 07:12:44 +0000</lastBuildDate>
-    <item>
-      <title>Шмигаль написав заяву на відст</title>
-      <link>https://www.mandarinai.lt/post/77413</link>
-      <description>Шмигаль написав заяву на відставку з посади глави уряду, відповідне фото опублікував у своєму Telegram-каналі.
-
-Очікується, що він очолить Міністерство оборони України.
-
-А нинішній міністр Умєров поїде до США послом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-15_17-09-30.jpg" length="67504" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 17:09:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 08:13:50 +0000</lastBuildDate>
     <item>
       <title>Трамп на Південному лужку Біло</title>
       <link>https://www.mandarinai.lt/post/77414</link>
@@ -125,6 +114,13 @@
 Всередині машини перебувало двоє російських фахівців аеророзвідки та безпілотник безпілотник «Скат 350М», який окупанти використовували для виявлення українських позицій та коригування артилерійського вогню.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-16_06-52-43.jpg" length="41225" type="image/jpeg"/>
       <pubDate>Wed, 16 Jul 2025 06:52:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Удар по штабу кацапів в Тьотк</title>
+      <link>https://www.mandarinai.lt/post/77426</link>
+      <description>💥Удар по штабу кацапів в Тьоткіно в Курській області. Відбиваємо бажання суніти на Сумщину</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-16_08-10-48.mp4" length="800507" type="video/mp4"/>
+      <pubDate>Wed, 16 Jul 2025 08:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
