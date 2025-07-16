@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 10:10:36 +0000</lastBuildDate>
-    <item>
-      <title>❗️США погрожує путіну ? Сенато</title>
-      <link>https://www.mandarinai.lt/post/77416</link>
-      <description>❗️США погрожує путіну ? Сенатор Грем порадив диктатору звернутися до Аятоли (лідер Ірану), щоб «дізнатися, що буде на 51 день» після того, як спливає ультиматум Трампа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-15_19-27-33.jpg" length="62613" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 19:27:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 11:08:46 +0000</lastBuildDate>
     <item>
       <title>У Харкові повідомляють про влу</title>
       <link>https://www.mandarinai.lt/post/77419</link>
@@ -117,6 +110,13 @@
 
 Про цю бригаду ДПСУ в нас нещодавно вийшов сюжет.</description>
       <pubDate>Wed, 16 Jul 2025 08:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️путін боїться Америку, ось п</title>
+      <link>https://www.mandarinai.lt/post/77430</link>
+      <description>❗️путін боїться Америку, ось приїхав Келлог, і у нас дві ночі не було масованого обстрілу, - Зеленський. "Люди вже жартують – дайте Келлогу український паспорт і нехай живе в Україні".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-16_10-20-00.mp4" length="3886850" type="video/mp4"/>
+      <pubDate>Wed, 16 Jul 2025 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
