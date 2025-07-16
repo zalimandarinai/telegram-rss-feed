@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 14:09:57 +0000</lastBuildDate>
-    <item>
-      <title>російський дрон вночі влучив в</title>
-      <link>https://www.mandarinai.lt/post/77422</link>
-      <description>російський дрон вночі влучив в 9-поверховий будинок в спальному районі Краматорська.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-16_06-28-59.jpg" length="159947" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 06:28:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Збито 198 з 400 ворожих БпЛА.
-</title>
-      <link>https://www.mandarinai.lt/post/77423</link>
-      <description>Збито 198 з 400 ворожих БпЛА.
-
-Локаційно втрачені або подавлені 145 дронів.
-
-Зафіксовано влучання 1 ракети та 57 БпЛА у 12 локаціях, падіння уламків на 2 локаціях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-16_06-37-42.jpg" length="80733" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 06:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вінницю масовано атакували 28 </title>
-      <link>https://www.mandarinai.lt/post/77424</link>
-      <description>Вінницю масовано атакували 28 Шахедів, в місті пожежі.
-
-Відомо про 7 постраждалих, 2 з них у важкому стані.
-
-Було влучання по обʼєктах промислової інфраструктури, пошкоджено 4 будинки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9052.MP4" length="8445788" type="video/mp4"/>
-      <pubDate>Wed, 16 Jul 2025 06:41:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 15:10:09 +0000</lastBuildDate>
     <item>
       <title>‼️Недоїхали. Група російських </title>
       <link>https://www.mandarinai.lt/post/77425</link>
@@ -143,6 +113,13 @@
       <description>💥Влучання пари авіабомб AASM-250 «Hammer» по позиціям окупантів на Донецькому напрямку</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-16_13-49-59.mp4" length="1401569" type="video/mp4"/>
       <pubDate>Wed, 16 Jul 2025 13:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>російські вбивці скинули КАБ н</title>
+      <link>https://www.mandarinai.lt/post/77436</link>
+      <description>російські вбивці скинули КАБ на магазин в Добропіллі на Донеччині. Повідомляють про багато жертв</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-16_15-01-02.mp4" length="174023" type="video/mp4"/>
+      <pubDate>Wed, 16 Jul 2025 15:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
