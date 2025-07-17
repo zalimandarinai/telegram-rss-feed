@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 04:28:19 +0000</lastBuildDate>
-    <item>
-      <title>Професійне вигорання на роботі</title>
-      <link>https://www.mandarinai.lt/post/77447</link>
-      <description>Професійне вигорання на роботі забезпечив російським військовим підрозділ безпілотних систем 2-го штурмового батальйону 3-ої штурмової бригади.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9070.MP4" length="16866909" type="video/mp4"/>
-      <pubDate>Wed, 16 Jul 2025 17:51:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російський солдат підриває себ</title>
-      <link>https://www.mandarinai.lt/post/77448</link>
-      <description>Російський солдат підриває себе гранатою прямо перед дроном групи «Барні» 10-ої ОГШБР «Едельвейс».
-
-Результат комплексної обробки російських військових за допомогою пропаганди, шантажування і залякування.
-
-Готовність окупантів вкоротити собі віку та небажання здаватись українцям в полон командир 225-го окремого штурмового полку Олег Ширяєв вважає однією з переваг російської армії, про що він нещодавно заявив в інтерв’ю на Сумщині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9071.MP4" length="2406428" type="video/mp4"/>
-      <pubDate>Wed, 16 Jul 2025 18:09:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️❗️Наразі відомо про 2 загибл</title>
-      <link>https://www.mandarinai.lt/post/77449</link>
-      <description>❗️❗️Наразі відомо про 2 загиблих і 27 поранених внаслідок удару російських вбивць по центру Добропілля, -   Донецька ОВА
-
-Рятувальники гасять пожежу, щоб розібрати завали і чітко встановити кількість жертв.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-16_18-32-17.mp4" length="5963935" type="video/mp4"/>
-      <pubDate>Wed, 16 Jul 2025 18:32:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 05:15:46 +0000</lastBuildDate>
     <item>
       <title>На Харківщині планують створит</title>
       <link>https://www.mandarinai.lt/post/77451</link>
@@ -81,6 +54,31 @@ t.me/uawarinfographics</description>
       <description>💥На Бєлгородщині вечірня дискотека</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-16_20-31-28.mp4" length="3904393" type="video/mp4"/>
       <pubDate>Wed, 16 Jul 2025 20:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>До Воронежа прилетіла група ук</title>
+      <link>https://www.mandarinai.lt/post/77461</link>
+      <description>До Воронежа прилетіла група українських дронів.
+
+«Не чіпати, рухома частина!»
+
+Місцеві мешканці знайомляться з українською мовою і авіаційними технологіями.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9078.MP4" length="10606007" type="video/mp4"/>
+      <pubDate>Thu, 17 Jul 2025 04:35:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Наступне засідання "Рамштай</title>
+      <link>https://www.mandarinai.lt/post/77462</link>
+      <description>🇩🇪 Наступне засідання "Рамштайну" відбудеться 21 липня, - Міноборони Німеччини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_04-38-59.jpg" length="104378" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 04:38:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>▪️В Дніпрі внаслідок атаки рф </title>
+      <link>https://www.mandarinai.lt/post/77463</link>
+      <description>▪️В Дніпрі внаслідок атаки рф загинула одна людина, ще пʼять постражали. Троє з постраждалих у важкому стані. В місті пошкоджено підприємства, на місцях виникли пожежі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_04-56-12.jpg" length="68485" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 04:56:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
