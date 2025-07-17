@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 08:13:44 +0000</lastBuildDate>
-    <item>
-      <title>▪️В Дніпрі внаслідок атаки рф </title>
-      <link>https://www.mandarinai.lt/post/77463</link>
-      <description>▪️В Дніпрі внаслідок атаки рф загинула одна людина, ще пʼять постражали. Троє з постраждалих у важкому стані. В місті пошкоджено підприємства, на місцях виникли пожежі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_04-56-12.jpg" length="68485" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 04:56:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Збито 36/64 БПЛА.
-
-5 локаційно</title>
-      <link>https://www.mandarinai.lt/post/77465</link>
-      <description>Збито 36/64 БПЛА.
-
-5 локаційно втрачені.
-
-Є 23 влучання в 5 місцях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_05-49-30.jpg" length="77309" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 05:49:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 09:13:53 +0000</lastBuildDate>
     <item>
       <title>⚡️Війська рф окупували населен</title>
       <link>https://www.mandarinai.lt/post/77466</link>
@@ -107,6 +87,20 @@
 Наказ Міносвіти №1112 буде скасовано вже 18 липня. Влада шукатиме шляхи повернення дітей до безпечних шкіл в офлайн-форматі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_07-53-34.jpg" length="133105" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 07:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Строків служби не буде: війс</title>
+      <link>https://www.mandarinai.lt/post/77478</link>
+      <description>❗️Строків служби не буде: військові повернуться додому, коли ми переможемо ворога, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-17_08-47-57.mp4" length="2508921" type="video/mp4"/>
+      <pubDate>Thu, 17 Jul 2025 08:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Юлія Свириденко ОФІЦІЙНО ст</title>
+      <link>https://www.mandarinai.lt/post/77479</link>
+      <description>⚡️ Юлія Свириденко ОФІЦІЙНО стала новою Премʼєркою України, - Верховна Рада підтримала її кандидатуру</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_08-52-20.jpg" length="91550" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 08:52:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
