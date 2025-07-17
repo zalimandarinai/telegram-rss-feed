@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 18:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 19:09:49 +0000</lastBuildDate>
     <item>
       <title>4 людини загинули, ще 27 поран</title>
       <link>https://www.mandarinai.lt/post/77487</link>
@@ -93,6 +93,22 @@
       <description>Порушник державного кордону в російському однострої намагався залишитися непоміченим на Сумщині, але йому все ж таки прилетіла «адмінка» у вигляді безпілотника від бригади ДПСУ «Сталевий Кордон».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9090.MP4" length="16838851" type="video/mp4"/>
       <pubDate>Thu, 17 Jul 2025 17:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Передача Україні комплексів </title>
+      <link>https://www.mandarinai.lt/post/77498</link>
+      <description>❗️Передача Україні комплексів Patriot може тривати кілька тижнів, пише Bloomberg з посиланням на слова канцлера Німеччини.
+
+«Наші міністри оборони обговорюють, як можна організувати постачання Patriot у найкоротший термін. Але системи потрібно не лише доставити, а й встановити – це питання не годин, а днів та тижнів», – сказав Мерц.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_18-49-56.jpg" length="28742" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 18:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>НАТО має план швидкого знищенн</title>
+      <link>https://www.mandarinai.lt/post/77499</link>
+      <description>НАТО має план швидкого знищення Калінінградської області у разі військової загрози з боку рф, - командувач сухопутними силами США в Європі та Африці Крістофер Донахью в інтерв'ю Defense News</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_18-59-40.jpg" length="77655" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 18:59:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
