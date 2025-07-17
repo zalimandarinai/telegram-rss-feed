@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 05:15:46 +0000</lastBuildDate>
-    <item>
-      <title>На Харківщині планують створит</title>
-      <link>https://www.mandarinai.lt/post/77451</link>
-      <description>На Харківщині планують створити перший в Україні підземний промисловий хаб
-
-Внаслідок постійних обстрілів у регіоні працюють лише 3 з 15 підприємств. 
-
-Щоб зберегти виробництво та робочі місця, місцева влада ініціює будівництво безпечного індустріального простору під поверхнею, який буде добре захищений від ударів росіян.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-16_19-13-57.jpg" length="22775" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 19:13:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Принц Бахрейну Салман Аль Халі</title>
-      <link>https://www.mandarinai.lt/post/77452</link>
-      <description>Принц Бахрейну Салман Аль Халіфа на прес-конференції з Дональдом Трампом заявив, що його країна не має наміру передавати Україні зенітні ракетні системи Patriot, які були закуплені у США.
-
-"Ми не маємо таких планів. Ми маємо обов'язок станом на зараз зберігати їх у Бахрейні", - зазначив він.
-
-Зазначимо, раніше Трамп казав про те, що нібито є одна країна, яка може передати 17 систем Patriot.
-
-t.me/uawarinfographics</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-16_19-34-40.jpg" length="135612" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 19:34:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 06:14:44 +0000</lastBuildDate>
     <item>
       <title>СБУ фактично врятувала центр О</title>
       <link>https://www.mandarinai.lt/post/77453</link>
@@ -79,6 +55,28 @@ t.me/uawarinfographics</description>
       <description>▪️В Дніпрі внаслідок атаки рф загинула одна людина, ще пʼять постражали. Троє з постраждалих у важкому стані. В місті пошкоджено підприємства, на місцях виникли пожежі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_04-56-12.jpg" length="68485" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 04:56:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збито 36/64 БПЛА.
+
+5 локаційно</title>
+      <link>https://www.mandarinai.lt/post/77465</link>
+      <description>Збито 36/64 БПЛА.
+
+5 локаційно втрачені.
+
+Є 23 влучання в 5 місцях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_05-49-30.jpg" length="77309" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 05:49:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Війська рф окупували населен</title>
+      <link>https://www.mandarinai.lt/post/77466</link>
+      <description>⚡️Війська рф окупували населений пункт Шевченко на Донеччині, — DeepState
+
+Також, за даними спільноти, у Донецькій області ворогу вдалося просунутися біля Зеленого поля, Мирного та Піщаного</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_06-10-35.jpg" length="35974" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 06:10:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
