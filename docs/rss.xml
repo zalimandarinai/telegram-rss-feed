@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 13:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 14:09:15 +0000</lastBuildDate>
     <item>
       <title>❗️ Безоплатний 8-денний тест-д</title>
       <link>https://www.mandarinai.lt/post/77475</link>
@@ -96,6 +96,21 @@
 Як повідомили у Міноборони країни, ці системи ППО замовили ще у 2022 році, поставки мали розпочатися у 2027-му. Наразі це питання на паузі, як стверджується, не лише для Швейцарії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_13-07-18.jpg" length="105916" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 13:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські військові в районі </title>
+      <link>https://www.mandarinai.lt/post/77489</link>
+      <description>Українські військові в районі Оріхового зафіксували момент чергового воєнного злочину росіян.
+
+Один з військовослужбовців противника вирішив здатися в полон українцям. Інший його спробував звʼязати, а коли це йому не вдалося, розстріляв свого ж товариша. 
+
+Але це не просто поодинокий випадок.
+
+Мій давній товариш, полковник Владислав Волошин, речник Сил оборони Півдня, стверджує, що це не окремий епізод на полі бою, а система. Росіяни створили підрозділ з іноземців, в якому найманцям ставлять задачу «обнуляти» один одного, якщо хтось з них спробує здатися.
+
+На відео сам факт воєнного злочину і коментар Владислава Волошина, в якому він ділиться зі мною даними розвідки про людожерські правила в новому підрозділі окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9084.MP4" length="7592382" type="video/mp4"/>
+      <pubDate>Thu, 17 Jul 2025 13:34:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
