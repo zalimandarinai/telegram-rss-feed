@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 15:10:15 +0000</lastBuildDate>
-    <item>
-      <title>❗️рф готувала ракетний удар по</title>
-      <link>https://www.mandarinai.lt/post/77476</link>
-      <description>❗️рф готувала ракетний удар по Харківській мерії — СБУ затримали коригувальницю можливої атаки. Вона обходила адмінбудівлю і перевіряла наявність в ній або поблизу військових.
-
-За матеріалами справи, агенткою рф виявилася 45-річна місцева безробітна. Окупанти завербували її через Телеграм-канали, де вона залишала проросійські коментарі.
-
-Жінці загрожує до 8 років позбавлення волі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_07-31-43.jpg" length="120428" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 07:31:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Строків служби не буде: війс</title>
-      <link>https://www.mandarinai.lt/post/77478</link>
-      <description>❗️Строків служби не буде: військові повернуться додому, коли ми переможемо ворога, — Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-17_08-47-57.mp4" length="2508921" type="video/mp4"/>
-      <pubDate>Thu, 17 Jul 2025 08:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Юлія Свириденко ОФІЦІЙНО ст</title>
-      <link>https://www.mandarinai.lt/post/77479</link>
-      <description>⚡️ Юлія Свириденко ОФІЦІЙНО стала новою Премʼєркою України, - Верховна Рада підтримала її кандидатуру</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_08-52-20.jpg" length="91550" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 08:52:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 16:11:42 +0000</lastBuildDate>
     <item>
       <title>❗️Трагедія на полігоні: затрим</title>
       <link>https://www.mandarinai.lt/post/77481</link>
@@ -115,6 +90,13 @@
 Подивитися і купити можна раджу тут: https://rvv-kniga.com/product/prygodnyk-tayemnyczi-bramura-yaskr/</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-17_15-04-12.mp4" length="7182319" type="video/mp4"/>
       <pubDate>Thu, 17 Jul 2025 15:04:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>На курському напрямку бійці пр</title>
+      <link>https://www.mandarinai.lt/post/77493</link>
+      <description>На курському напрямку бійці прикордонної бригади «Сталевий Кордон» дронами розбили російську штурмову групу, не давши ворожим штурмовикам навіть наблизитись до українських позицій. За годину роботи ліквідовано 5 окупантів. Бригада ДПСУ «Сталевий Кордон» суворо попереджає порушників держкордону про серйозні наслідки, які вона їм і надалі готова забезпечити.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9086.MP4" length="29758081" type="video/mp4"/>
+      <pubDate>Thu, 17 Jul 2025 15:37:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
