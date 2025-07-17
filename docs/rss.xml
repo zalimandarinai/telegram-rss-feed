@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 12:18:09 +0000</lastBuildDate>
-    <item>
-      <title>Пожежа на підприємстві в Тульс</title>
-      <link>https://www.mandarinai.lt/post/77470</link>
-      <description>Пожежа на підприємстві в Тульскій області після атаки БПЛА.
-
-Місцева влада спочатку казала, що це технологічний процес такий, а зараз пише, що уламки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-17_06-59-17.mp4" length="1361543" type="video/mp4"/>
-      <pubDate>Thu, 17 Jul 2025 06:59:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 13:29:50 +0000</lastBuildDate>
     <item>
       <title>❗️ Безоплатний 8-денний тест-д</title>
       <link>https://www.mandarinai.lt/post/77475</link>
@@ -87,6 +78,24 @@
       <description>🇺🇦На окупованій Кінбурнській косі з'явився українській прапор. русня виє про захід української ДРГ. Підтвердження знаходження сил оборони України на косі наразі немає</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-17_10-19-10.mp4" length="7330482" type="video/mp4"/>
       <pubDate>Thu, 17 Jul 2025 10:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 людини загинули, ще 27 поран</title>
+      <link>https://www.mandarinai.lt/post/77487</link>
+      <description>4 людини загинули, ще 27 поранені: у Добропіллі завершили рятувальні роботи після російського авіаудару
+
+Нагадаємо, росія поцілила КАБом по центру міста в годину пік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_13-04-54.jpg" length="222914" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 13:04:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸В пріоритеті Україна: США по</title>
+      <link>https://www.mandarinai.lt/post/77488</link>
+      <description>🇺🇸В пріоритеті Україна: США попередили Швейцарію, що заплановані поставки 5 батарей Patriot відкладаються, через перегляд "першочерговості".
+
+Як повідомили у Міноборони країни, ці системи ППО замовили ще у 2022 році, поставки мали розпочатися у 2027-му. Наразі це питання на паузі, як стверджується, не лише для Швейцарії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_13-07-18.jpg" length="105916" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 13:07:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
