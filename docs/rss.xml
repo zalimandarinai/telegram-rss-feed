@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 20:10:32 +0000</lastBuildDate>
-    <item>
-      <title>4 людини загинули, ще 27 поран</title>
-      <link>https://www.mandarinai.lt/post/77487</link>
-      <description>4 людини загинули, ще 27 поранені: у Добропіллі завершили рятувальні роботи після російського авіаудару
-
-Нагадаємо, росія поцілила КАБом по центру міста в годину пік.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_13-04-54.jpg" length="222914" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 13:04:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 21:08:45 +0000</lastBuildDate>
     <item>
       <title>🇺🇸В пріоритеті Україна: США по</title>
       <link>https://www.mandarinai.lt/post/77488</link>
