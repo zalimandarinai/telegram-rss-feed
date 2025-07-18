@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 18:13:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 19:09:00 +0000</lastBuildDate>
     <item>
       <title>⚡️Від початку року росія окупу</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -31,7 +31,7 @@
     </item>
     <item>
       <title>Знайшли російського садиста, я</title>
-      <link>https://www.mandarinai.lt/post/77524</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Знайшли російського садиста, який катував українських полонених в Мордовії.
 
 17 липня колеги з програми «Схеми» агентства «Радіо Свобода» випустили розслідування про тортури українських військовополонених у виправній колонії «ИК-10 ФСИН России» (селище Ударний, Мордовія) 
@@ -49,7 +49,6 @@ https://www.youtube.com/watch?v=hoPp09wMAH0
 Паспорт, довідка з роботи та виписка з трудової книжки є підтвердженням того, що Сорокін працює в «Медицинской части 10» «ФКУЗ МСЧ-13 ФСИН России». 
 
 До речі, юридично воєнні злочини не мають терміну давності.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_11-41-55.jpg" length="115045" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 11:41:55 +0000</pubDate>
     </item>
     <item>
