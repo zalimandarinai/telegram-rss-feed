@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 20:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 21:08:37 +0000</lastBuildDate>
     <item>
       <title>⚡️Від початку року росія окупу</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -28,13 +28,6 @@
 
 Офіційного підтвердження удару поки немає, але місцеві ЗМІ повідомляють, що вже відомо про 2 загиблих.</description>
       <pubDate>Fri, 18 Jul 2025 09:51:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇫🇷🇺🇦 Франція готує більше піло</title>
-      <link>https://www.mandarinai.lt/post/77531</link>
-      <description>🇫🇷🇺🇦 Франція готує більше пілотів для Mirage 2000, які є на озброєнні в Україні, - Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_12-43-26.jpg" length="90293" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 12:43:26 +0000</pubDate>
     </item>
     <item>
       <title>Оператори дронів «Вампір» бриг</title>
@@ -90,6 +83,13 @@ https://send.monobank.ua/jar/ATi4yeJqDj
 Вибухи чутно і в інших локаціях міста.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9155.MP4" length="2538604" type="video/mp4"/>
       <pubDate>Fri, 18 Jul 2025 20:06:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нині над Україною фіксують бли</title>
+      <link>https://www.mandarinai.lt/post/77545</link>
+      <description>Нині над Україною фіксують близько 70 ворожих БпЛА, монітори</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_20-18-56.jpg" length="118914" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 20:18:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
