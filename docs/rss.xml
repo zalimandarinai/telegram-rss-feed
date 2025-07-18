@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 08:13:44 +0000</lastBuildDate>
-    <item>
-      <title>❗️Словаччина дала згоду на роз</title>
-      <link>https://www.mandarinai.lt/post/77500</link>
-      <description>❗️Словаччина дала згоду на розблокування 18-го пакету санкцій проти росії, — прем'єр Роберт Фіцо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-17_20-00-22.jpg" length="84417" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 20:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>В росії до світанку прилетіли </title>
-      <link>https://www.mandarinai.lt/post/77502</link>
-      <description>В росії до світанку прилетіли дрони.
-
-Безпілотники гучно розбудили жителів Московської області.
-
-Також чутно вибухи в місті Дзержинськ в Нижньогородській області, де є підприємство з виробництва боєприпасів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9097.MP4" length="2388865" type="video/mp4"/>
-      <pubDate>Fri, 18 Jul 2025 03:42:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 09:14:04 +0000</lastBuildDate>
     <item>
       <title>Удар по місту Степногірськ, на</title>
       <link>https://www.mandarinai.lt/post/77505</link>
@@ -103,6 +85,40 @@ https://send.monobank.ua/jar/ATi4yeJqDj
 Під час затримання терористки на безпечній відстані відбувся контрольований підрив СВП в рюкзаку. На місці події працювали вибухотехніки Нацполіції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_07-38-56.jpg" length="103279" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 07:38:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-а штурмова бригада заробляє </title>
+      <link>https://www.mandarinai.lt/post/77515</link>
+      <description>5-а штурмова бригада заробляє «електронні бали», знищуючи російську техніку за Краматорськом по схемі, яку колеги з BBC називають «геймифікацією війни».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9105.MP4" length="21358309" type="video/mp4"/>
+      <pubDate>Fri, 18 Jul 2025 08:17:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили безпілотних систем за доб</title>
+      <link>https://www.mandarinai.lt/post/77518</link>
+      <description>Сили безпілотних систем за добу зменшили армію росіян на 196 окупантів, також за 24 години знищивши 846 унікальних цілей противника.
+
+Всього впродовж місяця з 01.07 до 17.07 знищено:
+
+12913 ворожих цілей
+2658 особового складу окупантів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_08-56-39.jpg" length="133947" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 08:56:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Від початку року росія окупу</title>
+      <link>https://www.mandarinai.lt/post/77519</link>
+      <description>⚡️Від початку року росія окупувала територію розміром майже з Люксембург, — Bild
+
+Армія рф зайняла у 2025 році 2395 кв. км української території  повідомляють військові осінтери.
+
+Для порівняння — 2024 року російські війська захопили 3388 кв. км. 
+
+Це означає, що їхнє просування прискорюється. Якщо тенденція збережеться, то до кінця цього року Україна може втратити понад 4 тисячі кв. км.
+
+Повідомляється, що через нестачу особового складу українське командування виділяє на оборону малих населених пунктів по 5-10 осіб, тоді як наступають на них російські загони чисельністю до 50 солдатів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_08-58-32.mp4" length="80971" type="video/mp4"/>
+      <pubDate>Fri, 18 Jul 2025 08:58:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
