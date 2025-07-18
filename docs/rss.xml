@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 10:10:25 +0000</lastBuildDate>
-    <item>
-      <title>Удар по місту Степногірськ, на</title>
-      <link>https://www.mandarinai.lt/post/77505</link>
-      <description>Удар по місту Степногірськ, на місці загинув 64-річний чоловік. 
-
-Його тіло щойно виявили на місці прильоту, - керівник Запорізької ОВА Федоров
-
-❗️Уночі ворог ударив по громаді КАБами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_04-31-40.jpg" length="167797" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 04:31:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 11:08:39 +0000</lastBuildDate>
     <item>
       <title>⚡️Тим часом на окупованій Кінб</title>
       <link>https://www.mandarinai.lt/post/77509</link>
@@ -112,6 +101,22 @@ https://send.monobank.ua/jar/ATi4yeJqDj
 Офіційного підтвердження удару поки немає, але місцеві ЗМІ повідомляють, що вже відомо про 2 загиблих.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_09-51-48.mp4" length="668206" type="video/mp4"/>
       <pubDate>Fri, 18 Jul 2025 09:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Побачити Сумщину і Zдохнути. </title>
+      <link>https://www.mandarinai.lt/post/77521</link>
+      <description>👌Побачити Сумщину і Zдохнути. Маленьке кладовище кацапів, які недалеко відповзли від кордоні з рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_10-18-49.mp4" length="4127374" type="video/mp4"/>
+      <pubDate>Fri, 18 Jul 2025 10:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 «Слава росії і смерть хохлам</title>
+      <link>https://www.mandarinai.lt/post/77522</link>
+      <description>🤬 «Слава росії і смерть хохлам» — кричала неадекватка у київському метро, за що отримала ляпаса від виснажених обстрілами жителів столиці.
+
+Звісно, в таких випадках краще цивілізовано привести порушника в поліцію, але нерви...</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_10-40-17.mp4" length="3457798" type="video/mp4"/>
+      <pubDate>Fri, 18 Jul 2025 10:40:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
