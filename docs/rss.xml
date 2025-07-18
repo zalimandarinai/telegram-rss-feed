@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 06:14:42 +0000</lastBuildDate>
-    <item>
-      <title>На курському напрямку бійці пр</title>
-      <link>https://www.mandarinai.lt/post/77493</link>
-      <description>На курському напрямку бійці прикордонної бригади «Сталевий Кордон» дронами розбили російську штурмову групу, не давши ворожим штурмовикам навіть наблизитись до українських позицій. За годину роботи ліквідовано 5 окупантів. Бригада ДПСУ «Сталевий Кордон» суворо попереджає порушників держкордону про серйозні наслідки, які вона їм і надалі готова забезпечити.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9086.MP4" length="29758081" type="video/mp4"/>
-      <pubDate>Thu, 17 Jul 2025 15:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ліквідація окупанта FPV-дроном</title>
-      <link>https://www.mandarinai.lt/post/77495</link>
-      <description>Ліквідація окупанта FPV-дроном і зі стрілецької зброї.
-
-Російський військовий опинився впритул до позицій захисників на Торецькому напрямку. 
-
-Його ліквідували піхотинці 12-ої бригади спеціального призначення «Азов» разом з операторами дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9089.MP4" length="29578531" type="video/mp4"/>
-      <pubDate>Thu, 17 Jul 2025 16:26:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 07:14:01 +0000</lastBuildDate>
     <item>
       <title>Порушник державного кордону в </title>
       <link>https://www.mandarinai.lt/post/77497</link>
@@ -76,6 +58,24 @@
 ❗️Уночі ворог ударив по громаді КАБами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_04-31-40.jpg" length="167797" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 04:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Тим часом на окупованій Кінб</title>
+      <link>https://www.mandarinai.lt/post/77509</link>
+      <description>⚡️Тим часом на окупованій Кінбурнській косі з'явився українській прапор. Офіційної інформації про захід українських сил наразі не було.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_06-39-53.mp4" length="10833379" type="video/mp4"/>
+      <pubDate>Fri, 18 Jul 2025 06:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ ЄС щойно схвалив один з най</title>
+      <link>https://www.mandarinai.lt/post/77510</link>
+      <description>‼️ ЄС щойно схвалив один з найсильніших санкційних пакетів проти росії, -  Кая Каллас
+
+Він включатиме санкції проти "Північних потоків", утворення стелі цін на нафту
+
+Під санкції потрапили 105 кораблів тіньового флоту, банки — китайські у тому числі, обмежується доступ рф до західних технологій, під санкцієми тепер найбільший нафтопереробний завод "роснєфті" в Індії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_06-50-02.jpg" length="96050" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 06:50:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
