@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 09:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 10:10:25 +0000</lastBuildDate>
     <item>
       <title>Удар по місту Степногірськ, на</title>
       <link>https://www.mandarinai.lt/post/77505</link>
@@ -70,17 +70,13 @@ https://send.monobank.ua/jar/ATi4yeJqDj
       <link>https://www.mandarinai.lt/post/77512</link>
       <description>СБУ та Нацполіція затримали агентку рф, яка на замовлення ворога збиралася підірвати обласний ТЦК в Одесі
 
-Контррозвідка СБУ та Націполіція запобігли новому теракту в Одесі. 
-
-Затримано 53-річну жительку Волині, яка, на замовлення росіян, намагалася підірвати обласний ТЦК.
-
-Вчора, 17 липня, вона мала занести рюкзак із саморобним вибуховим пристроєм в адміністративну будівлю в годину пік, ополудні, коли там знаходилася максимальна кількість людей.
+Вчора жінка мала занести рюкзак із саморобним вибуховим пристроєм в адміністративну будівлю в годину пік, ополудні, коли там знаходилася максимальна кількість людей.
 
 Співробітники СБУ затримали терористку, коли вона прямувала зі спорядженим СВП до військкомату.
 
 Жительку Волині дистанційно завербували російські спецслужбісти і «маршрутизували» до Одеси.
 
-Вона спочатку провела дорозвідку біля обласного ТЦК, а потім отримала від куратора координати схрону з готовим СВП.
+Жінка отримала від куратора координати схрону з готовим саморобним вибуховим пристроєм.
 
 Під час затримання терористки на безпечній відстані відбувся контрольований підрив СВП в рюкзаку. На місці події працювали вибухотехніки Нацполіції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_07-38-56.jpg" length="103279" type="image/jpeg"/>
@@ -92,18 +88,6 @@ https://send.monobank.ua/jar/ATi4yeJqDj
       <description>5-а штурмова бригада заробляє «електронні бали», знищуючи російську техніку за Краматорськом по схемі, яку колеги з BBC називають «геймифікацією війни».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9105.MP4" length="21358309" type="video/mp4"/>
       <pubDate>Fri, 18 Jul 2025 08:17:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сили безпілотних систем за доб</title>
-      <link>https://www.mandarinai.lt/post/77518</link>
-      <description>Сили безпілотних систем за добу зменшили армію росіян на 196 окупантів, також за 24 години знищивши 846 унікальних цілей противника.
-
-Всього впродовж місяця з 01.07 до 17.07 знищено:
-
-12913 ворожих цілей
-2658 особового складу окупантів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_08-56-39.jpg" length="133947" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 08:56:39 +0000</pubDate>
     </item>
     <item>
       <title>⚡️Від початку року росія окупу</title>
@@ -119,6 +103,15 @@ https://send.monobank.ua/jar/ATi4yeJqDj
 Повідомляється, що через нестачу особового складу українське командування виділяє на оборону малих населених пунктів по 5-10 осіб, тоді як наступають на них російські загони чисельністю до 50 солдатів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_08-58-32.mp4" length="80971" type="video/mp4"/>
       <pubDate>Fri, 18 Jul 2025 08:58:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф завдала удар по ТЦК у П'я</title>
+      <link>https://www.mandarinai.lt/post/77520</link>
+      <description>❗️рф завдала удар по ТЦК у П'ятихатках під Дніпром
+
+Офіційного підтвердження удару поки немає, але місцеві ЗМІ повідомляють, що вже відомо про 2 загиблих.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_09-51-48.mp4" length="668206" type="video/mp4"/>
+      <pubDate>Fri, 18 Jul 2025 09:51:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
