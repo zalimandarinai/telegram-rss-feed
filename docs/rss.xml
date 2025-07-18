@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 16:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 17:12:10 +0000</lastBuildDate>
     <item>
       <title>⚡️Від початку року росія окупу</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -28,14 +28,6 @@
 
 Офіційного підтвердження удару поки немає, але місцеві ЗМІ повідомляють, що вже відомо про 2 загиблих.</description>
       <pubDate>Fri, 18 Jul 2025 09:51:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬 «Слава росії і смерть хохлам</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤬 «Слава росії і смерть хохлам» — кричала неадекватка у київському метро, за що отримала ляпаса від виснажених обстрілами жителів столиці.
-
-Звісно, в таких випадках краще цивілізовано привести порушника в поліцію, але нерви...</description>
-      <pubDate>Fri, 18 Jul 2025 10:40:17 +0000</pubDate>
     </item>
     <item>
       <title>Знайшли російського садиста, я</title>
@@ -101,6 +93,13 @@ https://send.monobank.ua/jar/ATi4yeJqDj
 Вистоїмо тільки разом!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-18_14-22-23.mp4" length="2642613" type="video/mp4"/>
       <pubDate>Fri, 18 Jul 2025 14:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>БМ-21 «Град», гармата та устан</title>
+      <link>https://www.mandarinai.lt/post/77537</link>
+      <description>БМ-21 «Град», гармата та установка РЕБ, - серед російських цілей, нещодавно знищених 3-ою штурмовою бригадою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9153.MP4" length="28942390" type="video/mp4"/>
+      <pubDate>Fri, 18 Jul 2025 16:26:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
