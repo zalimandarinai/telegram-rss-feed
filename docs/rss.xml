@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 07:09:19 +0000</lastBuildDate>
-    <item>
-      <title>Під Москвою бавовна.
-
-В місті </title>
-      <link>https://www.mandarinai.lt/post/77543</link>
-      <description>Під Москвою бавовна.
-
-В місті Дмитров, як пишуть місцеві мешканці, «щось впало і розірвалось».
-
-Вибухи чутно і в інших локаціях міста.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9155.MP4" length="2538604" type="video/mp4"/>
-      <pubDate>Fri, 18 Jul 2025 20:06:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нині над Україною фіксують бли</title>
-      <link>https://www.mandarinai.lt/post/77545</link>
-      <description>Нині над Україною фіксують близько 70 ворожих БпЛА, монітори</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-18_20-18-56.jpg" length="118914" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 20:18:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Jul 2025 08:11:48 +0000</lastBuildDate>
     <item>
       <title>Внаслідок ворожої атаки в Одес</title>
       <link>https://www.mandarinai.lt/post/77547</link>
@@ -76,6 +56,38 @@
       <description>🇦🇺🇺🇦 Австралія передала ЗСУ першу партію обіцяних танків M1A1 Abrams — повідомило Міноборони країни</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_06-39-23.jpg" length="208289" type="image/jpeg"/>
       <pubDate>Sat, 19 Jul 2025 06:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 рф окупувала Яблунівку на Су</title>
+      <link>https://www.mandarinai.lt/post/77556</link>
+      <description>🤬 рф окупувала Яблунівку на Сумщині, — DeepState
+
+Ворог також просунувся в районах Юнаківки (Сумщина), Хатнього, Романівки та Торецька на Донеччині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_07-17-09.jpg" length="74861" type="image/jpeg"/>
+      <pubDate>Sat, 19 Jul 2025 07:17:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Орієнтовні траєкторії ракет і </title>
+      <link>https://www.mandarinai.lt/post/77557</link>
+      <description>Орієнтовні траєкторії ракет і БпЛА під час масованої атаки рф по Україні цієї ночі.
+
+В повітрі досі залишаються ворожі безпілотники.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_07-39-17.jpg" length="316231" type="image/jpeg"/>
+      <pubDate>Sat, 19 Jul 2025 07:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори «Vampire» знищили ро</title>
+      <link>https://www.mandarinai.lt/post/77558</link>
+      <description>Оператори «Vampire» знищили російську штурмову групу з чотирьох окупантів, - з Донеччини 33-я окрема механізована бригада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9158.MP4" length="9542695" type="video/mp4"/>
+      <pubDate>Sat, 19 Jul 2025 07:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Вночі ППО збили 7 із 12 бал</title>
+      <link>https://www.mandarinai.lt/post/77560</link>
+      <description>⚡️ Вночі ППО збили 7 із 12 балістичних ракет, 7 із 8 крилатих ракет «‎Іскандер» та 9 із 15 ракет Х-101 та 185 шахедів — ПС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_08-11-16.jpg" length="53629" type="image/jpeg"/>
+      <pubDate>Sat, 19 Jul 2025 08:11:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
