@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 21:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 22:08:47 +0000</lastBuildDate>
     <item>
       <title>Молдова вирішила «обнулити» мо</title>
       <link>https://www.mandarinai.lt/post/77575</link>
@@ -96,6 +96,13 @@
       <description>‼️ путін ризикує втратити все продовжуючи війну в Україні. Відмова глави рф йти на компроміс є колосальною помилкою, яка коштує росії регіонального впливу, прибуткових енергетичних ринків та її місця у світі, - The Washington Post:</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_20-34-30.jpg" length="103140" type="image/jpeg"/>
       <pubDate>Sat, 19 Jul 2025 20:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Don’t push the horses!» - Оле</title>
+      <link>https://www.mandarinai.lt/post/77589</link>
+      <description>«Don’t push the horses!» - Олександр Усик знову абсолютний чемпіон у надважкій вазі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9173.MP4" length="4511378" type="video/mp4"/>
+      <pubDate>Sat, 19 Jul 2025 21:42:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
