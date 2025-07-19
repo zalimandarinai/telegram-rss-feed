@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 08:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 09:09:10 +0000</lastBuildDate>
     <item>
       <title>Внаслідок ворожої атаки в Одес</title>
       <link>https://www.mandarinai.lt/post/77547</link>
@@ -85,9 +85,25 @@
     <item>
       <title>⚡️ Вночі ППО збили 7 із 12 бал</title>
       <link>https://www.mandarinai.lt/post/77560</link>
-      <description>⚡️ Вночі ППО збили 7 із 12 балістичних ракет, 7 із 8 крилатих ракет «‎Іскандер» та 9 із 15 ракет Х-101 та 185 шахедів — ПС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_08-11-16.jpg" length="53629" type="image/jpeg"/>
+      <description>⚡️ Вночі ППО збили 7 із 12 балістичних ракет, 7 із 8 крилатих ракет «‎Іскандер» та 9 із 15 ракет Х-101 та 185 дронів типу «шахед», — ПС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_08-11-16.jpg" length="42443" type="image/jpeg"/>
       <pubDate>Sat, 19 Jul 2025 08:11:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Прильоти мінімум 10 КАБів у </title>
+      <link>https://www.mandarinai.lt/post/77561</link>
+      <description>❗️Прильоти мінімум 10 КАБів у Шостці (Сумська область)
+
+За ніч і ранок місто атакували понад 40 «шахедів» і понад 15 керованих авіабомб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-19_08-14-42.mp4" length="1189841" type="video/mp4"/>
+      <pubDate>Sat, 19 Jul 2025 08:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Легіон «Свобода Росії» ствердж</title>
+      <link>https://www.mandarinai.lt/post/77562</link>
+      <description>Легіон «Свобода Росії» стверджує, що його ДРГ проникла в тил ворога більше, ніж на 30 кілометрів, та знищила автомобіль підрозділу «Ахмат» разом з трьома військовослужбовцями противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9160.MP4" length="21283156" type="video/mp4"/>
+      <pubDate>Sat, 19 Jul 2025 08:30:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
