@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 09:08:52 +0000</lastBuildDate>
-    <item>
-      <title>🇪🇺 ЄС уперше запровадив санкці</title>
-      <link>https://www.mandarinai.lt/post/77587</link>
-      <description>🇪🇺 ЄС уперше запровадив санкції проти двох китайських банків за співпрацю з росією — South China Morning Post
-
-За даними співрозмовників видання, йдеться про регіональні Suifenhe Rural Commercial Bank та Heihe Rural Commercial Bank, чиї офіси розташовуються поблизу китайсько-російського кордону.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_20-20-02.jpg" length="38755" type="image/jpeg"/>
-      <pubDate>Sat, 19 Jul 2025 20:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ путін ризикує втратити все </title>
-      <link>https://www.mandarinai.lt/post/77588</link>
-      <description>‼️ путін ризикує втратити все продовжуючи війну в Україні. Відмова глави рф йти на компроміс є колосальною помилкою, яка коштує росії регіонального впливу, прибуткових енергетичних ринків та її місця у світі, - The Washington Post:</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-19_20-34-30.jpg" length="103140" type="image/jpeg"/>
-      <pubDate>Sat, 19 Jul 2025 20:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Don’t push the horses!» - Оле</title>
-      <link>https://www.mandarinai.lt/post/77589</link>
-      <description>«Don’t push the horses!» - Олександр Усик знову абсолютний чемпіон у надважкій вазі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9173.MP4" length="4511378" type="video/mp4"/>
-      <pubDate>Sat, 19 Jul 2025 21:42:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Під Москвою вночі літало, ви</title>
-      <link>https://www.mandarinai.lt/post/77590</link>
-      <description>💥🔥Під Москвою вночі літало, вибухало і палало</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-20_02-05-42.mp4" length="1309698" type="video/mp4"/>
-      <pubDate>Sun, 20 Jul 2025 02:05:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Jul 2025 10:09:08 +0000</lastBuildDate>
     <item>
       <title>Вибух дрона «Герань-2» поруч і</title>
       <link>https://www.mandarinai.lt/post/77593</link>
@@ -88,6 +58,22 @@
       <description>⚔️ Ворог просунувся біля п'яти населених аунктів на Донеччині - Котлярівки, Новомиколаївки, Піддубного, Верхньокам'янського та Федорівки, - DeepState</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-20_07-45-36.jpg" length="51113" type="image/jpeg"/>
       <pubDate>Sun, 20 Jul 2025 07:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌✈️ Московські аеропорти "Шере</title>
+      <link>https://www.mandarinai.lt/post/77601</link>
+      <description>❌✈️ Московські аеропорти "Шереметьєво", "Внуково" та "Домодєдово" цієї ночі зупиняли роботу через атаку дронів - масові затримки рейсів створили справжній колапс 
+
+134 літаки пішли на запасні аеродроми. Тим часом, обмеження на польоти ввели також в аеропорту Калуги, повідомили в Росавіації.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-20_09-36-33.mp4" length="1643199" type="video/mp4"/>
+      <pubDate>Sun, 20 Jul 2025 09:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори 45-ї ОАБР знешкодили</title>
+      <link>https://www.mandarinai.lt/post/77604</link>
+      <description>Оператори 45-ї ОАБР знешкодили начинений вибухівкою наземний роботизований комплекс противника, який готували для атаки українських позицій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4098.MP4" length="7213698" type="video/mp4"/>
+      <pubDate>Sun, 20 Jul 2025 10:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
