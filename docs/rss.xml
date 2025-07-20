@@ -6,20 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 16:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 17:07:40 +0000</lastBuildDate>
     <item>
       <title>Унікальний випадок. Боєць ство</title>
-      <link>https://www.mandarinai.lt/post/77605</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Унікальний випадок. Боєць стволом автомата збив російський FPV-дрон, який ледь не врізався в кузов машини. Пощастило, безпілотник не здетонував.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/в.mp4" length="6502065" type="video/mp4"/>
       <pubDate>Sun, 20 Jul 2025 10:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️росія масово виробляє Шахеди</title>
-      <link>https://www.mandarinai.lt/post/77606</link>
-      <description>❗️росія масово виробляє Шахеди/«Герань-2» на заводі в «Алабузі» — окупанти показали репортаж з місця випуску ударних БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-20_11-18-36.jpg" length="102086" type="image/jpeg"/>
-      <pubDate>Sun, 20 Jul 2025 11:18:36 +0000</pubDate>
     </item>
     <item>
       <title>Два сержанти 107-го батальйону</title>
@@ -87,6 +79,17 @@
 #ЧМТ #контузія #нейрофідбек #війна #здоровя #мозок #книги_україна #психологія</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-20_15-58-08.jpg" length="202668" type="image/jpeg"/>
       <pubDate>Sun, 20 Jul 2025 15:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Президент Азербайджану Алієв </title>
+      <link>https://www.mandarinai.lt/post/77619</link>
+      <description>🔥Президент Азербайджану Алієв довів до істерики Z-пропагандистів — він прийняв у подарунок шеврони підрозділів ЗСУ від української журналістки Олени Курбанової
+
+«Дякую вам велике. Дякую вам за те, що ви робите. Продовжуйте так надалі», сказав Алієв
+
+Нагадаємо, що напередодні Алієв, донедавна один з приятелів путіна, закликав українців боротися проти російської окупації.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-20_16-19-38.mp4" length="1358748" type="video/mp4"/>
+      <pubDate>Sun, 20 Jul 2025 16:19:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
