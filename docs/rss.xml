@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 17:07:40 +0000</lastBuildDate>
-    <item>
-      <title>Унікальний випадок. Боєць ство</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Унікальний випадок. Боєць стволом автомата збив російський FPV-дрон, який ледь не врізався в кузов машини. Пощастило, безпілотник не здетонував.</description>
-      <pubDate>Sun, 20 Jul 2025 10:09:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Jul 2025 18:12:03 +0000</lastBuildDate>
     <item>
       <title>Два сержанти 107-го батальйону</title>
       <link>https://www.mandarinai.lt/post/77612</link>
@@ -90,6 +84,26 @@
 Нагадаємо, що напередодні Алієв, донедавна один з приятелів путіна, закликав українців боротися проти російської окупації.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-20_16-19-38.mp4" length="1358748" type="video/mp4"/>
       <pubDate>Sun, 20 Jul 2025 16:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог у кількості 25 штурмовик</title>
+      <link>https://www.mandarinai.lt/post/77623</link>
+      <description>Ворог у кількості 25 штурмовиків знову вирішив просунутись. Четвірки, двійки, навіть квадроцикли — зупинили всіх. Антидронові плащі не врятували від дронів 425-го полку «СКАЛА».</description>
+      <pubDate>Sun, 20 Jul 2025 17:30:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літак МіГ-29 завдав удар боєпр</title>
+      <link>https://www.mandarinai.lt/post/77624</link>
+      <description>Літак МіГ-29 завдав удар боєприпасом GBU-62 по розташуванню противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9199.MP4" length="5954718" type="video/mp4"/>
+      <pubDate>Sun, 20 Jul 2025 17:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>💔українські фермери збирають п</title>
+      <link>https://www.mandarinai.lt/post/77625</link>
+      <description>💔українські фермери збирають пшеницю на Донеччині під вибухи руснявих КАБів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-20_17-58-12.mp4" length="917512" type="video/mp4"/>
+      <pubDate>Sun, 20 Jul 2025 17:58:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
