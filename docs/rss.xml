@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 18:12:03 +0000</lastBuildDate>
-    <item>
-      <title>Два сержанти 107-го батальйону</title>
-      <link>https://www.mandarinai.lt/post/77612</link>
-      <description>Два сержанти 107-го батальйону 63-ої бригади взяли в полон сімох окупантів в Серебрянському лісі, які спочатку не хотіли здаватися і засіли в укріпленні.</description>
-      <pubDate>Sun, 20 Jul 2025 11:53:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Jul 2025 19:06:51 +0000</lastBuildDate>
     <item>
       <title>🤬Також пропагандисти хизуються</title>
       <link>https://www.mandarinai.lt/post/77613</link>
@@ -104,6 +98,13 @@
       <description>💔українські фермери збирають пшеницю на Донеччині під вибухи руснявих КАБів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-20_17-58-12.mp4" length="917512" type="video/mp4"/>
       <pubDate>Sun, 20 Jul 2025 17:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Батальйон УДА «Арей» захопив н</title>
+      <link>https://www.mandarinai.lt/post/77626</link>
+      <description>Батальйон УДА «Арей» захопив на Курщині полонених, і відтепер їм відомо, як зовуть по-батькові Дмитра Яроша.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9200.MP4" length="621918" type="video/mp4"/>
+      <pubDate>Sun, 20 Jul 2025 18:52:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
