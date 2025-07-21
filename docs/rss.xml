@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 17:11:58 +0000</lastBuildDate>
-    <item>
-      <title>🔥Кадри наслідків сьогоднішньої</title>
-      <link>https://www.mandarinai.lt/post/77683</link>
-      <description>🔥Кадри наслідків сьогоднішньої атаки дронів на залізничніі вузли в двох населених пунктах  ростовській області рф(Ліхая та Каменоломні), які суттєво порушили логістику окупантів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-21_12-58-22.jpg" length="164832" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 12:58:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 18:13:56 +0000</lastBuildDate>
     <item>
       <title>Ворог збиває все більше наших </title>
       <link>https://www.mandarinai.lt/post/77687</link>
@@ -104,6 +97,15 @@
 Він додав, що США запускають спільно з НАТО новий механізм, який дозволить європейським країнам закуповувати американське озброєння для України</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-21_16-52-38.jpg" length="108164" type="image/jpeg"/>
       <pubDate>Mon, 21 Jul 2025 16:52:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇬🇧Британія запустить 50-денну </title>
+      <link>https://www.mandarinai.lt/post/77696</link>
+      <description>🇬🇧Британія запустить 50-денну кампанію з озброєння України, - The Telegraph 
+
+Очікується, що міністр оборони Великої Британії Джон Гілі закличе до "50-денного ривка" з постачання зброї Україні на засіданні "Рамштайні".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-21_17-57-46.jpg" length="29494" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 17:57:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
