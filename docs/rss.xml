@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 05:18:33 +0000</lastBuildDate>
-    <item>
-      <title>Одна людина загинула внаслідок</title>
-      <link>https://www.mandarinai.lt/post/77639</link>
-      <description>Одна людина загинула внаслідок ворожої атаки на Київ, - ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-21_04-02-38.mp4" length="595081" type="video/mp4"/>
-      <pubDate>Mon, 21 Jul 2025 04:02:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 06:15:38 +0000</lastBuildDate>
     <item>
       <title>ЖК "Львівський квартал" у Києв</title>
       <link>https://www.mandarinai.lt/post/77641</link>
@@ -63,6 +56,20 @@
       <description>Так виглядає житловий будинок в столичному комплексі «Львівський Квартал», зруйнований ракетною атакою.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9220.MP4" length="2482797" type="video/mp4"/>
       <pubDate>Mon, 21 Jul 2025 05:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Траекторії ракет і БпЛА під </title>
+      <link>https://www.mandarinai.lt/post/77654</link>
+      <description>❗️Траекторії ракет і БпЛА під час масованої атаки рф по Україні цієї ночі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-21_05-57-01.jpg" length="332582" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 05:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔путін, твоя черга настає, Тра</title>
+      <link>https://www.mandarinai.lt/post/77655</link>
+      <description>🤔путін, твоя черга настає, Трамп надере тобі дупу. Він запровадить тарифи на тих, хто купує російську нафту — Китай, Індію та Бразилію, — погрожує сенатор Ліндсі Грем.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-21_06-09-30.mp4" length="2884184" type="video/mp4"/>
+      <pubDate>Mon, 21 Jul 2025 06:09:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
