@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 02:57:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 04:01:42 +0000</lastBuildDate>
     <item>
       <title>🧠 ВАЖЛИВА КНИГА ДЛЯ КОЖНОГО УК</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -43,27 +43,13 @@
     </item>
     <item>
       <title>🔥Президент Азербайджану Алієв </title>
-      <link>https://www.mandarinai.lt/post/77619</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🔥Президент Азербайджану Алієв довів до істерики Z-пропагандистів — він прийняв у подарунок шеврони підрозділів ЗСУ від української журналістки Олени Курбанової
 
 «Дякую вам велике. Дякую вам за те, що ви робите. Продовжуйте так надалі», сказав Алієв
 
 Нагадаємо, що напередодні Алієв, донедавна один з приятелів путіна, закликав українців боротися проти російської окупації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-20_16-19-38.mp4" length="1358748" type="video/mp4"/>
       <pubDate>Sun, 20 Jul 2025 16:19:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ворог у кількості 25 штурмовик</title>
-      <link>https://www.mandarinai.lt/post/77623</link>
-      <description>Ворог у кількості 25 штурмовиків знову вирішив просунутись. Четвірки, двійки, навіть квадроцикли — зупинили всіх. Антидронові плащі не врятували від дронів 425-го полку «СКАЛА».</description>
-      <pubDate>Sun, 20 Jul 2025 17:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Літак МіГ-29 завдав удар боєпр</title>
-      <link>https://www.mandarinai.lt/post/77624</link>
-      <description>Літак МіГ-29 завдав удар боєприпасом GBU-62 по розташуванню противника.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9199.MP4" length="5954718" type="video/mp4"/>
-      <pubDate>Sun, 20 Jul 2025 17:49:31 +0000</pubDate>
     </item>
     <item>
       <title>💔українські фермери збирають п</title>
@@ -85,6 +71,22 @@
       <description>Безпілотники 3-ої штурмової бригади літають настільки далеко за лінію оборони противника, що змогли вполювати два БТР і один танк, який вже готувався вести вогонь з закритих позицій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9202.MP4" length="27182644" type="video/mp4"/>
       <pubDate>Sun, 20 Jul 2025 20:29:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків, наслідки нічних ударів</title>
+      <link>https://www.mandarinai.lt/post/77636</link>
+      <description>Харків, наслідки нічних ударів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9203.MP4" length="3017268" type="video/mp4"/>
+      <pubDate>Mon, 21 Jul 2025 03:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Київ, станція метро «Лукʼянівс</title>
+      <link>https://www.mandarinai.lt/post/77638</link>
+      <description>Київ, станція метро «Лукʼянівська», наслідки ворожої атаки на будівлю станції.
+
+В момент атаки під землею переховувались люди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9207.MOV" length="18277460" type="video/mp4"/>
+      <pubDate>Mon, 21 Jul 2025 03:42:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
