@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 15:10:16 +0000</lastBuildDate>
-    <item>
-      <title>Підрозділ зенітних безпілотних</title>
-      <link>https://www.mandarinai.lt/post/77734</link>
-      <description>Підрозділ зенітних безпілотних систем 31-ої бригади вдало атакує російські дроні в небі над Запорізькою областю.</description>
-      <pubDate>Tue, 22 Jul 2025 10:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Одесі біля берега виловили «</title>
-      <link>https://www.mandarinai.lt/post/77735</link>
-      <description>В Одесі біля берега виловили «шахед».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9271.MP4" length="26875946" type="video/mp4"/>
-      <pubDate>Tue, 22 Jul 2025 10:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Раді частина нардепів спробу</title>
-      <link>https://www.mandarinai.lt/post/77736</link>
-      <description>В Раді частина нардепів спробувала блокувати трибуну під час голосування за законопроект, який обмежує незалежність НАБУ і САП, але за нього все ж таки проголосували 263 депутати</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1955.MOV" length="3803838" type="video/mp4"/>
-      <pubDate>Tue, 22 Jul 2025 10:42:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 16:12:10 +0000</lastBuildDate>
     <item>
       <title>❗️12 поранених після авіаударі</title>
       <link>https://www.mandarinai.lt/post/77738</link>
@@ -61,9 +41,9 @@ https://www.youtube.com/watch?v=Kq7UFC--S6Q&amp;t=37s (Español)
     <item>
       <title>❗️Польща закликає своїх громад</title>
       <link>https://www.mandarinai.lt/post/77741</link>
-      <description>❗️Польща закликає своїх громадян покинути росію всіма можливими способами — заява МЗС країни
+      <description>❗️Польща закликає своїх громадян покинути росію всіма можливими способами, — заява МЗС країни
 
-Відомство також нагадує: поляки, які мають подвійне громадянство та проживають на території рф, можуть бути мобілізовані до орчої армії</description>
+Відомство також нагадує: поляки, які мають подвійне громадянство та проживають на території рф, можуть бути мобілізовані до орчої армії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-22_13-36-51.jpg" length="143709" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 13:36:51 +0000</pubDate>
     </item>
@@ -88,7 +68,7 @@ https://www.youtube.com/watch?v=Kq7UFC--S6Q&amp;t=37s (Español)
     <item>
       <title>Оператори дронів 427-го окремо</title>
       <link>https://www.mandarinai.lt/post/77746</link>
-      <description>Оператори дронів 427-го окремого полку безпілотних систем «РАРОГ» знищили будинків у фронтовій зоні, які окупанти могли використати для накопичення противника.
+      <description>Оператори дронів 427-го окремого полку безпілотних систем «РАРОГ» знищили будинки у фронтовій зоні, які окупанти збирались використати для накопичення живої сили і подальших штурмів
 
 Вони застосували досить нетипові боєприпаси, зібрані з вибухового пристрою та чотирьох півторалітрових баклажок, наповнених легкозаймистою сумішшю.
 
@@ -118,6 +98,13 @@ https://www.youtube.com/watch?v=Kq7UFC--S6Q&amp;t=37s (Español)
 Купити і подивитися можна тут https://rvv-kniga.com/product/trykutnyk-pravoberezhzhya-czarat-shlyahta-i-narod-1793-1914-rr-daniel-bovua/</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-22_15-06-31.mp4" length="9362339" type="video/mp4"/>
       <pubDate>Tue, 22 Jul 2025 15:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна жінка загинула та 10 люде</title>
+      <link>https://www.mandarinai.lt/post/77748</link>
+      <description>Одна жінка загинула та 10 людей отримали поранення внаслідок атаки рф по місту Суми сьогодні вдень</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-22_15-39-02.mp4" length="4337530" type="video/mp4"/>
+      <pubDate>Tue, 22 Jul 2025 15:39:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
