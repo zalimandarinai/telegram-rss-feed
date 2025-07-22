@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 12:18:25 +0000</lastBuildDate>
-    <item>
-      <title>🇳🇱 Нідерланди надають Україні </title>
-      <link>https://www.mandarinai.lt/post/77726</link>
-      <description>🇳🇱 Нідерланди надають Україні €200 млн на дрони-перехоплювачі та €125 млн на обслуговування літаків F-16, — Міноборони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-22_07-36-47.jpg" length="108318" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 07:36:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 13:30:57 +0000</lastBuildDate>
     <item>
       <title>ГУР дослідив складові нового р</title>
       <link>https://www.mandarinai.lt/post/77727</link>
@@ -133,6 +126,12 @@ https://www.youtube.com/watch?v=Kq7UFC--S6Q&amp;t=37s (Español)
 
 В коментарі під сюжетом також вказані контакти 47-ої окремої бригади, де можуть дати максимально детальну інформацію про унікальний підрозділ, в якому служать колумбійці.</description>
       <pubDate>Tue, 22 Jul 2025 11:50:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>20-ий полк Сил безпілотних сис</title>
+      <link>https://www.mandarinai.lt/post/77740</link>
+      <description>20-ий полк Сил безпілотних систем К-2 знайшов пункт управління ворожих БПЛА і вирішив власними засобами усунути цей фактор небезпеки</description>
+      <pubDate>Tue, 22 Jul 2025 13:09:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
