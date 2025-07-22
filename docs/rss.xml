@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 10:10:42 +0000</lastBuildDate>
-    <item>
-      <title>Ракети HIMARS уразили батарею </title>
-      <link>https://www.mandarinai.lt/post/77723</link>
-      <description>Ракети HIMARS уразили батарею С-300 в Білгородській області, також на Білгородщині завдали удар по двом російським РЛС, одна з яких є частиною комплексу С-400.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9258.MP4" length="2610412" type="video/mp4"/>
-      <pubDate>Tue, 22 Jul 2025 06:43:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳Трамп почав погрожувати рф че</title>
-      <link>https://www.mandarinai.lt/post/77724</link>
-      <description>😳Трамп почав погрожувати рф через свою дружину, — конгресмен Бекон
-
-Меланія Трамп вплинула на рішення свого чоловіка про відновлення постачання зброї Україні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-22_07-33-09.jpg" length="39207" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 07:33:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 11:08:54 +0000</lastBuildDate>
     <item>
       <title>Папа Римський хоче відновити д</title>
       <link>https://www.mandarinai.lt/post/77725</link>
@@ -119,6 +103,31 @@
       <link>https://www.mandarinai.lt/post/77734</link>
       <description>Підрозділ зенітних безпілотних систем 31-ої бригади вдало атакує російські дроні в небі над Запорізькою областю.</description>
       <pubDate>Tue, 22 Jul 2025 10:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Одесі біля берега виловили «</title>
+      <link>https://www.mandarinai.lt/post/77735</link>
+      <description>В Одесі біля берега виловили «шахед».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9271.MP4" length="26875946" type="video/mp4"/>
+      <pubDate>Tue, 22 Jul 2025 10:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Раді частина нардепів спробу</title>
+      <link>https://www.mandarinai.lt/post/77736</link>
+      <description>В Раді частина нардепів спробувала блокувати трибуну під час голосування за законопроект, який обмежує незалежність НАБУ і САП, але за нього все ж таки проголосували 263 депутати</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1955.MOV" length="3803838" type="video/mp4"/>
+      <pubDate>Tue, 22 Jul 2025 10:42:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️12 поранених після авіаударі</title>
+      <link>https://www.mandarinai.lt/post/77738</link>
+      <description>❗️12 поранених після авіаударів РФ по Слов'янську та Краматорську
+
+♦️Росіяни скинули бомби на житлові будинки.
+
+У Краматорську в результаті ФАБ-250 загинула дитина 2015 р.н., поранено 8 мирних, від 20 до 58 років. У Слов'янську постраждали четверо: двоє чоловіків та дві жінки, від 39 до 63 років. У всіх діагностовано мінно-вибухові травми, переломи, різані рани. Пошкоджено багатоповерхівки та машини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-22_10-54-06.jpg" length="49376" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 10:54:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
