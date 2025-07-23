@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 12:18:40 +0000</lastBuildDate>
-    <item>
-      <title>💥Вночі на болотах дрони атакув</title>
-      <link>https://www.mandarinai.lt/post/77779</link>
-      <description>💥Вночі на болотах дрони атакували залізничний вузол у Новочеркаську Ростовської області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-23_03-55-01.mp4" length="5656565" type="video/mp4"/>
-      <pubDate>Wed, 23 Jul 2025 03:55:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Також добрі дрони атакували в </title>
-      <link>https://www.mandarinai.lt/post/77780</link>
-      <description>Також добрі дрони атакували в ростовський області залізничну інфраструктуру, ГРЕС та будівлю «Ростелєкому»
-
-План «Ковьор» запроваджували в аеропортах Калуги та Нижнього Новгорода.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-23_05-03-19.mp4" length="1036016" type="video/mp4"/>
-      <pubDate>Wed, 23 Jul 2025 05:03:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 13:31:07 +0000</lastBuildDate>
     <item>
       <title>🇦🇿 В Азербайджані заарештували</title>
       <link>https://www.mandarinai.lt/post/77784</link>
@@ -81,8 +65,26 @@
 Командує ОК «Захід» бригадний генерал Володимир Шведюк.
 
 Він доброволець, був в запасі, повернувся до Збройних Сил в 2015 році, брав участь в бойових діях в АТО, ООС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-23_12-04-57.jpg" length="149910" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-23_12-04-57.jpg" length="68824" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 12:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Естонії засудили до шести ро</title>
+      <link>https://www.mandarinai.lt/post/77794</link>
+      <description>В Естонії засудили до шести років громадянина росії, обвинуваченого у шпигунській діяльності на замовлення фсб.
+
+За клопотанням прокуратури Павло Капустін отримав шість з половиною років фактичного позбавлення волі за угодою про визнання вини і конфіскацію майна на суму €90000.
+
+Він свідомо встановив зв’язок з федеральною службою безпеки росії, збирав і передавав необхідну інформацію за те, що отримував сприяння в контрабанді.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-23_12-55-05.jpg" length="126537" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 12:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Сумщині 210-ий окремий штур</title>
+      <link>https://www.mandarinai.lt/post/77795</link>
+      <description>На Сумщині 210-ий окремий штурмовий полк знайшов та знищив безпілотниками добре прихований бліндаж окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9319.MP4" length="12482304" type="video/mp4"/>
+      <pubDate>Wed, 23 Jul 2025 13:05:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
