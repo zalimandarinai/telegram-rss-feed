@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 09:15:18 +0000</lastBuildDate>
-    <item>
-      <title>«Повернуто з підписом Президен</title>
-      <link>https://www.mandarinai.lt/post/77768</link>
-      <description>«Повернуто з підписом Президента України», - такий статус має законопроект №12414 на сайті Верховної Ради України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-22_20-32-08.jpg" length="62695" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 20:32:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 10:10:45 +0000</lastBuildDate>
     <item>
       <title>Попри комендантську годину, мі</title>
       <link>https://www.mandarinai.lt/post/77769</link>
@@ -86,6 +79,19 @@
 Атаковано Дніпропетровщину, Сумщину, Харківщину та Черкащину. Зафіксовано влучання 26 БпЛА у 14 локаціях</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-23_06-41-32.jpg" length="106061" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 06:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зеленський зібрав керівників</title>
+      <link>https://www.mandarinai.lt/post/77787</link>
+      <description>⚡️Зеленський зібрав керівників правоохоронних та антикорупційних органів після протестів проти закону 12414
+
+На зустрічі були керівники СБУ, НАБУ, САП, НАЗК, ДБР, МВС та генпрокурор. Домовились, що наступного тижня буде глибока робоча зустріч щодо плану загальних дій.
+
+"За два тижні має бути готовий спільний план - які кроки потрібні та будуть реалізовані, щоб зміцнити Україну та зняти наявні питання, дати більше справедливості й реально захистити інтереси українського суспільства", - повідомив президент.
+
+Всі ми чуємо, що каже суспільство. Бачимо, чого очікують люди від державних інституцій для забезпечення справедливості та ефективності кожної інституції. Обговорили необхідні адміністративні, законодавчі рішення, які дозволять зміцнити роботу кожної інституції, вирішити наявні суперечності, зняти загрози</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-23_09-39-53.jpg" length="232416" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 09:39:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
