@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 17:10:32 +0000</lastBuildDate>
-    <item>
-      <title>Дві жінки загинули внаслідок а</title>
-      <link>https://www.mandarinai.lt/post/77860</link>
-      <description>Дві жінки загинули внаслідок артилеристського обстрілу ворогом Костянтинівки, 14 людей отримали поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-24_13-44-01.jpg" length="174717" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 13:44:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>💔Кількість постраждалих у Харк</title>
-      <link>https://www.mandarinai.lt/post/77861</link>
-      <description>💔Кількість постраждалих у Харкові зросла до 40, — Нацполіція
-
-Серед поранених — дві вагітні жінки та шестеро дітей.
-
-За попередньою інформацією, на місто росіяни скерували дві авіаційні бомби УМПБ-5. Влучання відбулося у дворі житлового комплексу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9377.MP4" length="1456361" type="video/mp4"/>
-      <pubDate>Thu, 24 Jul 2025 14:20:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 18:13:32 +0000</lastBuildDate>
     <item>
       <title>❗️Щойно на Донеччині оголосили</title>
       <link>https://www.mandarinai.lt/post/77862</link>
@@ -135,6 +117,26 @@
 Абсолютно не виключено, що вибух, внаслідок якого загинули троє працівників АМПУ, стався через підрив міни, на яку натрапив корабель.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-24_17-00-49.jpg" length="123424" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 17:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Німецький HENSOLDT виготови</title>
+      <link>https://www.mandarinai.lt/post/77874</link>
+      <description>🇩🇪 Німецький HENSOLDT виготовить для України засекречену кількість РЛС  TRML-4D та SPEXER 2000 на суму €340 млн, — ген. директор оборонної компанії.
+
+Джерело фінансування даного замовлення не розголошується.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-24_18-03-27.jpg" length="87421" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 18:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські танки воюють на кор</title>
+      <link>https://www.mandarinai.lt/post/77875</link>
+      <description>Українські танки воюють на кордоні Таїланду і Камбоджі.
+
+В ході зіткнень з сусідньою країною Тайланд вперше використав українські танки БМ «Оплот».
+
+Фактично це перше бойове застосування зроблених в Харкові машин.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-24_18-05-24.jpg" length="54550" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 18:05:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
