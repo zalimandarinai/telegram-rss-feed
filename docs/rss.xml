@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 08:14:01 +0000</lastBuildDate>
-    <item>
-      <title>❗️США схвалили продаж Україні </title>
-      <link>https://www.mandarinai.lt/post/77833</link>
-      <description>❗️США схвалили продаж Україні обладнання для ремонту БМП Bradley, а також ЗРК HAWK Phase III на суму 322 млн доларів, — Пентагон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-23_21-36-49.jpg" length="214715" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 21:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥В Сочі гарячий сезон. Попере</title>
-      <link>https://www.mandarinai.lt/post/77834</link>
-      <description>💥🔥В Сочі гарячий сезон. Попередньо влучання в районі нафтобази</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-24_04-16-03.mp4" length="2507464" type="video/mp4"/>
-      <pubDate>Thu, 24 Jul 2025 04:16:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 09:14:31 +0000</lastBuildDate>
     <item>
       <title>❗️Троє людей поранено, ще п'ят</title>
       <link>https://www.mandarinai.lt/post/77836</link>
@@ -78,6 +64,20 @@
 За її словами, Трамп перебуває в постійному контакті з союзниками в Сенаті, зокрема з сенатором Ліндсі Гремом, однак як головнокомандувач він вважає, що ключові кроки має ухвалювати особисто.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-24_06-16-14.mp4" length="2835549" type="video/mp4"/>
       <pubDate>Thu, 24 Jul 2025 06:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент прильоту КАБу по багат</title>
+      <link>https://www.mandarinai.lt/post/77847</link>
+      <description>🤬Момент прильоту КАБу по багатоповерхівці в Харкові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-24_08-46-16.mp4" length="117916" type="video/mp4"/>
+      <pubDate>Thu, 24 Jul 2025 08:46:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>російські вбивці скинули КАБ н</title>
+      <link>https://www.mandarinai.lt/post/77848</link>
+      <description>російські вбивці скинули КАБ на житловий комплекс у Харкові. Під завалами можуть бути люди</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-24_08-48-44.mp4" length="192847" type="video/mp4"/>
+      <pubDate>Thu, 24 Jul 2025 08:48:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
