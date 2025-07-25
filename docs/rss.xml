@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Jul 2025 14:10:29 +0000</lastBuildDate>
-    <item>
-      <title>❗️31 липня Верховна Рада розгл</title>
-      <link>https://www.mandarinai.lt/post/77901</link>
-      <description>❗️31 липня Верховна Рада розгляне законопроєкт Зеленського про САП і НАБУ, — Стефанчук
-
-Він запропонує ухвалити документ одразу за основу та в цілому і підписати його невідкладно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-25_09-56-07.jpg" length="55844" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 09:56:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти безперервно лізуть в </title>
-      <link>https://www.mandarinai.lt/post/77902</link>
-      <description>Окупанти безперервно лізуть в Торське біля міста Лиман, і, попри те, що, наприклад, лише батальйон безпілотних систем 63-ої бригади за кілька днів ліквідував 23 військовослужбовця армії противника, атаки не припиняються.</description>
-      <pubDate>Fri, 25 Jul 2025 10:33:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 15:10:18 +0000</lastBuildDate>
     <item>
       <title>В Харкові 12 постраждалих післ</title>
       <link>https://www.mandarinai.lt/post/77903</link>
@@ -93,6 +78,15 @@
 Тієї ночі лікарі завдяки згоді батьків померлої 4-річної дівчинки на посмертне донорство провели одразу три трансплантації. Серце з "Охматдита" до Інституту серця лікарі везли  під час масштабної атаки посеред обстрілів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-25_13-52-59.mp4" length="295991" type="video/mp4"/>
       <pubDate>Fri, 25 Jul 2025 13:52:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Трамп не виключив введення в</title>
+      <link>https://www.mandarinai.lt/post/77917</link>
+      <description>❗️Трамп не виключив введення вторинних санкцій щодо РФ раніше ніж за 50 днів
+
+На питання репортерки, чи США зараз вже ближчі до рішення введення обмежень, американський президент відповів ствердно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-25_14-46-21.mp4" length="767600" type="video/mp4"/>
+      <pubDate>Fri, 25 Jul 2025 14:46:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
