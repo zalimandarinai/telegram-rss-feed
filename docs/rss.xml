@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Jul 2025 11:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 12:18:02 +0000</lastBuildDate>
     <item>
       <title>‼️До України вже прибула одна </title>
       <link>https://www.mandarinai.lt/post/77894</link>
@@ -67,6 +67,23 @@
       <description>В Харкові 12 постраждалих після удару КАБом по лікарні в Індустріальному районі, начальник поліції Петро Токар уточнює, якими боєприпасами російські воєнні злочинці атакували цивільних в місті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9426.MP4" length="11496162" type="video/mp4"/>
       <pubDate>Fri, 25 Jul 2025 10:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіянам поламали одну зі схем</title>
+      <link>https://www.mandarinai.lt/post/77906</link>
+      <description>Росіянам поламали одну зі схем постачання компонентів для ракет.
+
+Сьогодні мі опублікували документ щодо постачання австрійських діодів, який отримало агентство «Dallas».
+
+Австрійський виробник відреагував на цю інформацію.
+
+Компанія «Roithner Lasertechnik GmbH» після викриття інформації розірвала співпрацю з посередником у Гонконзі, який постачав компоненти для російської компанії «ТРВ-Инжиниринг», структури концерну «Тактическое ракетное вооружение».
+
+Постачання лазерних діодів для систем керування російськими ракетами «повітря-повітря» офіційно зупинено. 
+
+Посередник з Гонконгу ввів «Roithner Lasertechnik GmbH» в оману, як стверджує компанія.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-25_11-48-29.jpg" length="99994" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 11:48:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
