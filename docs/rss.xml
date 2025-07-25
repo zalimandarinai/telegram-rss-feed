@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Jul 2025 06:15:10 +0000</lastBuildDate>
-    <item>
-      <title>Заявлене, як робота багаторазо</title>
-      <link>https://www.mandarinai.lt/post/77872</link>
-      <description>Заявлене, як робота багаторазового FPV-дрона, який перехоплює російський дрон-камікадзе «Ланцет».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9383.MP4" length="2246072" type="video/mp4"/>
-      <pubDate>Thu, 24 Jul 2025 16:42:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 07:14:15 +0000</lastBuildDate>
     <item>
       <title>Вибух на українському судні, т</title>
       <link>https://www.mandarinai.lt/post/77873</link>
@@ -110,6 +103,22 @@
 В аеропортах Владикавказа, Грозного, Магаса, Мінеральних Вод, Нальчика, Ставрополя, Сочі та Тамбова введено план «Килим» та запроваджено тимчасові обмеження.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9394.MP4" length="2360057" type="video/mp4"/>
       <pubDate>Fri, 25 Jul 2025 04:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Донецьку прильоти по місцю </title>
+      <link>https://www.mandarinai.lt/post/77884</link>
+      <description>🔥У Донецьку прильоти по місцю базування армії рф і залізничній інфраструктурі, – повідомив Андрющенко
+
+Один із ударів був у районі шахти Засядька, де засіли окупанти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-25_06-30-32.mp4" length="839885" type="video/mp4"/>
+      <pubDate>Fri, 25 Jul 2025 06:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Дрони атакували залізничну ст</title>
+      <link>https://www.mandarinai.lt/post/77886</link>
+      <description>💥Дрони атакували залізничну станцію Песчанська в Ростовській області. Такі удари суттєво ускладнюють логістику ворога в напрямку фронту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-25_06-40-48.mp4" length="702722" type="video/mp4"/>
+      <pubDate>Fri, 25 Jul 2025 06:40:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
