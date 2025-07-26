@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Jul 2025 10:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 11:08:01 +0000</lastBuildDate>
     <item>
       <title>Момент влучання в ЖК «Новодвор</title>
       <link>https://www.mandarinai.lt/post/77935</link>
@@ -85,6 +85,13 @@
 «Кожне таке ураження зупиняє виробничі процеси та знижує військовий потенціал ворога. Ця робота триватиме й надалі», - так кажуть в Службі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9482.MP4" length="3448077" type="video/mp4"/>
       <pubDate>Sat, 26 Jul 2025 09:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️БПЛА вдарив по будівлі ОВА в</title>
+      <link>https://www.mandarinai.lt/post/77948</link>
+      <description>❗️БПЛА вдарив по будівлі ОВА в Сумах, – нардеп Качура</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-26_10-52-10.mp4" length="675069" type="video/mp4"/>
+      <pubDate>Sat, 26 Jul 2025 10:52:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
