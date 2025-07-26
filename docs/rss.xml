@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Jul 2025 12:15:51 +0000</lastBuildDate>
-    <item>
-      <title>Харків атакували 15 БпЛА «Шахе</title>
-      <link>https://www.mandarinai.lt/post/77940</link>
-      <description>Харків атакували 15 БпЛА «Шахед», скинули на місто 4 керовані авіабомби та вдарили 2 балістичними ракетами в ніч на 26.07.2025.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9476.MP4" length="18786834" type="video/mp4"/>
-      <pubDate>Sat, 26 Jul 2025 07:17:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Розвалений гіпермаркет «Епіцен</title>
-      <link>https://www.mandarinai.lt/post/77941</link>
-      <description>Розвалений гіпермаркет «Епіцентр» в Камʼянському на Дніпропетровщині після пекельної ночі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9477.MP4" length="2281975" type="video/mp4"/>
-      <pubDate>Sat, 26 Jul 2025 07:24:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Jul 2025 13:22:36 +0000</lastBuildDate>
     <item>
       <title>💬 «Вот, короче, еще один летит</title>
       <link>https://www.mandarinai.lt/post/77942</link>
@@ -67,8 +53,8 @@
     <item>
       <title>❗️БПЛА вдарив по будівлі ОВА в</title>
       <link>https://www.mandarinai.lt/post/77948</link>
-      <description>❗️БПЛА вдарив по будівлі ОВА в Сумах, – нардеп Качура</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-26_10-52-10.mp4" length="675069" type="video/mp4"/>
+      <description>❗️БПЛА вдарив по будівлі ОВА в Сумах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9492.MP4" length="2146848" type="video/mp4"/>
       <pubDate>Sat, 26 Jul 2025 10:52:10 +0000</pubDate>
     </item>
     <item>
@@ -116,6 +102,20 @@
       <description>🔞 «Вот и все, что осталось от нашего «шишиндоса». Сгорел дотла. А это то, что осталось от «Кувалды». Как оно все за@бало!» - російська армія втратила як мінімум одного бійця разом з «ГАЗ-66», на який не вистачило засобів РЕБ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9491.MP4" length="8604557" type="video/mp4"/>
       <pubDate>Sat, 26 Jul 2025 12:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наслідки сьогоднішнього влучан</title>
+      <link>https://www.mandarinai.lt/post/77954</link>
+      <description>Наслідки сьогоднішнього влучання російського безпілотника по будівлі обласної адміністрації в Сумах, відео якого опубліковано вище</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-26_12-29-22.jpg" length="211204" type="image/jpeg"/>
+      <pubDate>Sat, 26 Jul 2025 12:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори зенітних БПЛА з підр</title>
+      <link>https://www.mandarinai.lt/post/77955</link>
+      <description>Оператори зенітних БПЛА з підрозділу ЦСО «А» СБУ перехопили великий середньовисотний розвідувально-ударний БПЛА «Оріон», це найбільша на цей момент ціль, яку було перехоплено українськими дронами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9495.MP4" length="361838" type="video/mp4"/>
+      <pubDate>Sat, 26 Jul 2025 12:36:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
