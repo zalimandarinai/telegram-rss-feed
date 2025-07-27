@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Jul 2025 19:08:00 +0000</lastBuildDate>
-    <item>
-      <title>🤬 росіяни атакували автобус із</title>
-      <link>https://www.mandarinai.lt/post/77986</link>
-      <description>🤬 росіяни атакували автобус із цивільними у Юнаківській громаді на Сумщині, - ОВА
-
-Попередньо відомо про постраждалих, яким надається допомога. Всі екстрені служби працюють для ліквідації наслідків цієї жорстокої атаки на мирне населення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-27_15-32-13.jpg" length="250738" type="image/jpeg"/>
-      <pubDate>Sun, 27 Jul 2025 15:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Близький контакт з російською </title>
-      <link>https://www.mandarinai.lt/post/77988</link>
-      <description>Близький контакт з російською штурмовою групою на Запорізькому напрямку від першої особи бразильського добровольця</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-27_16-19-18.mp4" length="10052248" type="video/mp4"/>
-      <pubDate>Sun, 27 Jul 2025 16:19:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Jul 2025 20:10:05 +0000</lastBuildDate>
     <item>
       <title>😐Трамп більше не вірить у здат</title>
       <link>https://www.mandarinai.lt/post/77989</link>
