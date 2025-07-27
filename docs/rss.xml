@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Jul 2025 15:08:37 +0000</lastBuildDate>
-    <item>
-      <title>Щось у Волгограді гучно</title>
-      <link>https://www.mandarinai.lt/post/77970</link>
-      <description>Щось у Волгограді гучно</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9512.MP4" length="924184" type="video/mp4"/>
-      <pubDate>Sat, 26 Jul 2025 21:43:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥І яскраво</title>
-      <link>https://www.mandarinai.lt/post/77971</link>
-      <description>🔥І яскраво</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-26_21-45-26.jpg" length="73360" type="image/jpeg"/>
-      <pubDate>Sat, 26 Jul 2025 21:45:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Jul 2025 16:10:22 +0000</lastBuildDate>
     <item>
       <title>🔥У Волгограді після удару БпЛА</title>
       <link>https://www.mandarinai.lt/post/77972</link>
@@ -130,6 +116,15 @@
 🔹Подивитися зміст і купити раджу тут https://rvv-kniga.com/product/podilqqsqqke-voyevodstvo-u-xv-xviii-ctolittyah-mykola-krykun-2025-poperednij-prodazh/?doing_wp_cron=1753337069.4741261005401611328125</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-27_14-58-27.mp4" length="2270175" type="video/mp4"/>
       <pubDate>Sun, 27 Jul 2025 14:58:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 росіяни атакували автобус із</title>
+      <link>https://www.mandarinai.lt/post/77986</link>
+      <description>🤬 росіяни атакували автобус із цивільними у Юнаківській громаді на Сумщині, - ОВА
+
+Попередньо відомо про постраждалих, яким надається допомога. Всі екстрені служби працюють для ліквідації наслідків цієї жорстокої атаки на мирне населення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-27_15-32-13.jpg" length="95829" type="image/jpeg"/>
+      <pubDate>Sun, 27 Jul 2025 15:32:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
