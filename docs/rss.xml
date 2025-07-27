@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Jul 2025 10:09:18 +0000</lastBuildDate>
-    <item>
-      <title>Литва оголосила про намір долу</title>
-      <link>https://www.mandarinai.lt/post/77966</link>
-      <description>Литва оголосила про намір долучитися до міжнародної ініціативи із закупівлі американських систем протиповітряної оборони Patriot для України і надати €30 мільйонів,  - міністр оборони балтійської країни Довіле Шакалєнє</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-26_19-43-45.jpg" length="69598" type="image/jpeg"/>
-      <pubDate>Sat, 26 Jul 2025 19:43:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Jul 2025 11:07:31 +0000</lastBuildDate>
     <item>
       <title>ℹ️ Україна на 8-му місці у сві</title>
       <link>https://www.mandarinai.lt/post/77968</link>
@@ -112,6 +105,15 @@
 На відео - один з фрагментів філігранного знищення особового складу окупантів, який накопичувався в підвалі дев'ятиповерхівки і унеможливлював наше просування.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9519.MP4" length="7655364" type="video/mp4"/>
       <pubDate>Sun, 27 Jul 2025 10:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌російський шахед атакує креве</title>
+      <link>https://www.mandarinai.lt/post/77980</link>
+      <description>👌російський шахед атакує креветок на узбережжі  Одеси.
+
+Місто зараз відбивається від нальоту більш ніж півтора десятка ворожих БпЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-27_10-38-20.mp4" length="135827" type="video/mp4"/>
+      <pubDate>Sun, 27 Jul 2025 10:38:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
