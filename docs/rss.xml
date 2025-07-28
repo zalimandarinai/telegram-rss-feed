@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 20:10:50 +0000</lastBuildDate>
-    <item>
-      <title>Трамп заявив, що скоротить тер</title>
-      <link>https://www.mandarinai.lt/post/78028</link>
-      <description>Трамп заявив, що скоротить термін «50 днів», який дав для путіна.
-
-«Ракети летять на міста. Такі, як Київ. Путін мене дуже сильно розчарував, дуже-дуже сильно. Я скорочую термін 50 днів, який я йому дав. Хоча, мені здається, його відповідь і так вже відома», - Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9559.MP4" length="17040053" type="video/mp4"/>
-      <pubDate>Mon, 28 Jul 2025 12:57:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐Новий дедлайн! Трамп тепер да</title>
-      <link>https://www.mandarinai.lt/post/78031</link>
-      <description>😐Новий дедлайн! Трамп тепер дає росії 10-12 днів для врегулювання війни в Україні — заява президента США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-28_13-12-29.jpg" length="37815" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 13:12:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 21:09:15 +0000</lastBuildDate>
     <item>
       <title>🙄"Я більше не зацікавлений у р</title>
       <link>https://www.mandarinai.lt/post/78032</link>
@@ -130,6 +114,13 @@
 Загалом для України замовлено 18 комплексів IRIS-T SLM. Кожен із них включає в себе три пускові установки середньої дальності та дві — малої дальності.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-28_19-19-47.jpg" length="289164" type="image/jpeg"/>
       <pubDate>Mon, 28 Jul 2025 19:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В окупованому Донецьку пролун</title>
+      <link>https://www.mandarinai.lt/post/78045</link>
+      <description>💥В окупованому Донецьку пролунали вибухи і зникло світло</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-28_21-02-32.mp4" length="720700" type="video/mp4"/>
+      <pubDate>Mon, 28 Jul 2025 21:02:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
