@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 10:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 11:09:03 +0000</lastBuildDate>
     <item>
       <title>❗️Війська рф просунулися до пі</title>
       <link>https://www.mandarinai.lt/post/78013</link>
@@ -116,6 +116,13 @@ ISW вважає: росія або частково відновила техн
 Взимку та навесні бронетехніку окупанти масово замінювали мотоциклами та баггі, але зараз, можливо, для більш масштабного наступу росіянам потрібно повертатись до перевіреної тактики.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9551.MP4" length="23774563" type="video/mp4"/>
       <pubDate>Mon, 28 Jul 2025 09:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 «Кинджали», які вранці атаку</title>
+      <link>https://www.mandarinai.lt/post/78025</link>
+      <description>👀 «Кинджали», які вранці атакували Україну  зникли, їх досі не можуть знайти, «гіперзвукові» ракети десь впали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-28_10-20-29.jpg" length="34795" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 10:20:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
