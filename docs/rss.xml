@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 19:11:06 +0000</lastBuildDate>
-    <item>
-      <title>Російський солдат на Покровськ</title>
-      <link>https://www.mandarinai.lt/post/78026</link>
-      <description>Російський солдат на Покровському напрямку вирішив не штурмувати Покровськ, а засунути гранату під бронежилет.
-
-Кількість самогубців в російській армії зростає. 
-
-Але, нажаль, це не зупиняє агресора.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9555.MP4" length="23681458" type="video/mp4"/>
-      <pubDate>Mon, 28 Jul 2025 11:52:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В мережі з'явились фото укр</title>
-      <link>https://www.mandarinai.lt/post/78027</link>
-      <description>⚡️ В мережі з'явились фото українського безпілотника, створеного на базі легкомоторного літака — він може транспортувати авіабомбу ФАБ-250</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-28_12-01-09.jpg" length="130969" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 12:01:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 20:10:50 +0000</lastBuildDate>
     <item>
       <title>Трамп заявив, що скоротить тер</title>
       <link>https://www.mandarinai.lt/post/78028</link>
@@ -123,15 +105,31 @@
       <pubDate>Mon, 28 Jul 2025 18:26:28 +0000</pubDate>
     </item>
     <item>
-      <title>Росіяни копіюють український д</title>
+      <title>росіяни копіюють український д</title>
       <link>https://www.mandarinai.lt/post/78042</link>
-      <description>Росіяни копіюють український досвід.
+      <description>росіяни копіюють український досвід.
 
 Вони під час військово-морських навчань на Балтиці використовують надводні безпілотники з потужним боєзарядом.
 
 Залишається сподіватися на те, що масштабувати українські технології вони не зможуть.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9572.MP4" length="2659584" type="video/mp4"/>
       <pubDate>Mon, 28 Jul 2025 19:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Охорона путіна ходить з FPV-пе</title>
+      <link>https://www.mandarinai.lt/post/78043</link>
+      <description>Охорона путіна ходить з FPV-перехоплювачем, — фахівець із радіотехнологій «Флеш»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-28_19-12-05.mp4" length="1553851" type="video/mp4"/>
+      <pubDate>Mon, 28 Jul 2025 19:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна вже отримала 7 систем </title>
+      <link>https://www.mandarinai.lt/post/78044</link>
+      <description>Україна вже отримала 7 систем ППО IRIS-T від Німеччини, очікує ще 11, — посол Макеєв
+
+Загалом для України замовлено 18 комплексів IRIS-T SLM. Кожен із них включає в себе три пускові установки середньої дальності та дві — малої дальності.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-28_19-19-47.jpg" length="289164" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 19:19:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
