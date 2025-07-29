@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 08:14:09 +0000</lastBuildDate>
-    <item>
-      <title>Україна вже отримала 7 систем </title>
-      <link>https://www.mandarinai.lt/post/78044</link>
-      <description>Україна вже отримала 7 систем ППО IRIS-T від Німеччини, очікує ще 11, — посол Макеєв
-
-Загалом для України замовлено 18 комплексів IRIS-T SLM. Кожен із них включає в себе три пускові установки середньої дальності та дві — малої дальності.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-28_19-19-47.jpg" length="289164" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 19:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В окупованому Донецьку пролун</title>
-      <link>https://www.mandarinai.lt/post/78045</link>
-      <description>💥В окупованому Донецьку пролунали вибухи і зникло світло</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-28_21-02-32.mp4" length="720700" type="video/mp4"/>
-      <pubDate>Mon, 28 Jul 2025 21:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Підстанція в окупованій Макії</title>
-      <link>https://www.mandarinai.lt/post/78047</link>
-      <description>💥Підстанція в окупованій Макіївці після атаки БПЛА вийшла з чату</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-28_21-27-16.jpg" length="209050" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 21:27:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Jul 2025 09:15:30 +0000</lastBuildDate>
     <item>
       <title>Черговий злочин росіян.
 
@@ -112,6 +89,27 @@ https://send.monobank.ua/jar/8AcbSwxGus
 Вистоїмо тільки разом🤝</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-29_07-18-41.mp4" length="3224469" type="video/mp4"/>
       <pubDate>Tue, 29 Jul 2025 07:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Результат атаки БПЛА по ешело</title>
+      <link>https://www.mandarinai.lt/post/78058</link>
+      <description>🔥Результат атаки БПЛА по ешелону з паливними цистернами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-29_08-15-46.mp4" length="659544" type="video/mp4"/>
+      <pubDate>Tue, 29 Jul 2025 08:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни вбили вагітну жінку на</title>
+      <link>https://www.mandarinai.lt/post/78059</link>
+      <description>росіяни вбили вагітну жінку на Дніпропетровщині. Внаслідок ударів виродків по медичних закладах загинуло троє людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-29_08-52-49.jpg" length="154637" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 08:52:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Німеччині 150 тис. українців</title>
+      <link>https://www.mandarinai.lt/post/78065</link>
+      <description>В Німеччині 150 тис. українців призовного віку отримують соціальні виплати на суму €1,3 млрд. щорічно. Партія ХСС вимагає припинити ці виплати, стверджуючи, що чоловіки повинні або працювати, або йти до української армії, - BILD</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-29_09-14-46.jpg" length="83358" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 09:14:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
