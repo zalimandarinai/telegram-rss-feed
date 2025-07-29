@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 05:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 06:15:52 +0000</lastBuildDate>
     <item>
       <title>Трамп ухилився від прямої відп</title>
       <link>https://www.mandarinai.lt/post/78039</link>
@@ -97,6 +97,13 @@
 Судячи з того, що вони зняли на свої телефони, згоріло декілька вагонів з військовою технікою, які до фронту вже не доїдуть, тож в росіян буде трохи менше зброї.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9580.MP4" length="1063594" type="video/mp4"/>
       <pubDate>Tue, 29 Jul 2025 05:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Окрім залізничної станції в Р</title>
+      <link>https://www.mandarinai.lt/post/78053</link>
+      <description>🔥Окрім залізничної станції в Ростовській області після атаки дронів яскраво горіла розташована поруч ресурсна база армії рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-29_05-50-18.mp4" length="1034869" type="video/mp4"/>
+      <pubDate>Tue, 29 Jul 2025 05:50:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
