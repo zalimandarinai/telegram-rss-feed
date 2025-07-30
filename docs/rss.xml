@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 10:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 11:08:54 +0000</lastBuildDate>
     <item>
       <title>❗️ Трамп дозволить українським</title>
       <link>https://www.mandarinai.lt/post/78098</link>
@@ -118,6 +118,35 @@
 Під санкції ЄС після доповідей СБУ потрапили війська РХБЗ росії, 27-й науковий центр і 33-й Центральний науково-дослідний та випробувальний інститут міноборони рф.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9636.MP4" length="1024" type="video/mp4"/>
       <pubDate>Wed, 30 Jul 2025 09:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-ий стрілецький батальйон 54-</title>
+      <link>https://www.mandarinai.lt/post/78110</link>
+      <description>1-ий стрілецький батальйон 54-ої бригади зупинив ворожий бронештурм в районі Сіверська.
+
+Серед ліквідованої техніки є навіть танк, який не врятувався під додатковим захистом.
+
+Ворог повертає «броню» на поле бою. 
+
+За добу, рапортує Генштаб, противник здійснив 171 штурм, 60 з яких в районі Покровська.
+
+Вперше росіянам ніде просунутися не вдалося.</description>
+      <pubDate>Wed, 30 Jul 2025 10:20:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бойові дії можуть припинитися </title>
+      <link>https://www.mandarinai.lt/post/78111</link>
+      <description>Бойові дії можуть припинитися «найближчим часом», - сьогодні премʼєр-міністр Польщі Дональд Туск допустив можливість призупинення війни в Україні.
+
+Але варто згадати, що приблизно такі самі заяви Туск робив в листопаді 2024-го року, коли вибори виграв Трамп.
+
+З тих пір ситуація лише погіршилася, тому що путін не хоче і не бачить для себе сенсу в припиненні бойових дій.
+
+Незрозуміло, для чого робляться заяви, які дають хибну надію.
+
+Якщо це станеться, то раптово, без попереджень і за умов суттєвих успіхів українських Сил оборони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-30_10-47-55.jpg" length="14282" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 10:47:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
