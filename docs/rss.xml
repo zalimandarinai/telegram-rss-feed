@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 19:11:08 +0000</lastBuildDate>
-    <item>
-      <title>Українські бійці зірвали виста</title>
-      <link>https://www.mandarinai.lt/post/78122</link>
-      <description>Українські бійці зірвали виставу русні про начебто то захід ДРГ на правий берег Херсонщини.
-
-Окупанти закинули дроном триколор з магнітом  на один з херсонських мостів і зняли пропагандистський ролік про фейкову "перемогу".
-
-Наші бійці миттєво знищили російську ганчірку. Ніяких ворожих ДРГ не зафіксовано.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-30_13-06-40.mp4" length="7122352" type="video/mp4"/>
-      <pubDate>Wed, 30 Jul 2025 13:06:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Jul 2025 20:09:35 +0000</lastBuildDate>
     <item>
       <title>Тандемна бойова робота українс</title>
       <link>https://www.mandarinai.lt/post/78123</link>
@@ -75,6 +64,21 @@
 Поступово корпус перебере на себе функції угруповання «Харків».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-30_18-09-39.jpg" length="247065" type="image/jpeg"/>
       <pubDate>Wed, 30 Jul 2025 18:09:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>А ось як в Женеві делегації за</title>
+      <link>https://www.mandarinai.lt/post/78135</link>
+      <description>А ось як в Женеві делегації залишають зал, не бажаючи слухати маячню Валентини Матвієнко. 
+
+Під час Всесвітньої конференції спікерів парламентів у Женеві делегації України, Чехії, Литви, Німеччини та представники Європарламенту демонстративно залишили залу на знак протесту проти виступу кремлівської підстилки.
+
+Спікер нижньої палати парламенту Чехії Маркета Пекарова-Адамова пояснила свій крок словами: «Я пішла із зали, тому що не працюватиму масовкою при поширенні брехні, на якій стоїть злочинний кремлівський режим».
+
+Росіяни добились того, щоб літак Валентини Матвієнко пустили до Швейцарії.
+
+Ось такий він, нейтралітет.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9662.MP4" length="10694216" type="video/mp4"/>
+      <pubDate>Wed, 30 Jul 2025 20:03:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
