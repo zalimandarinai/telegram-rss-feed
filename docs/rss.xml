@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 17:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 18:14:18 +0000</lastBuildDate>
     <item>
       <title>🕯️Кількість загиблих у Києві з</title>
       <link>https://www.mandarinai.lt/post/78196</link>
@@ -87,6 +87,15 @@
       <description>Протичовновий літак ворога Ту-142 вилетів з аеродрому «Кіпєлово» у Вологодській області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_16-10-27.jpg" length="111155" type="image/jpeg"/>
       <pubDate>Thu, 31 Jul 2025 16:10:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шокуючі кадри російських ударі</title>
+      <link>https://www.mandarinai.lt/post/78211</link>
+      <description>Шокуючі кадри російських ударів по Києву цієї ночі показали Reuters и ABC News
+
+Через ворожі удари загинуло 15 людей, аварійно-пошукові роботи досі тривають</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_17-19-24.mp4" length="1080439" type="video/mp4"/>
+      <pubDate>Thu, 31 Jul 2025 17:19:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
