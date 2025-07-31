@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 04:37:35 +0000</lastBuildDate>
-    <item>
-      <title>‼️На підступах до Києва та над</title>
-      <link>https://www.mandarinai.lt/post/78145</link>
-      <description>‼️На підступах до Києва та над столицею зафіксовано велику кількість ворожих цілей, — Ткаченко
-
-Сили ППО продовжують їх знищувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-30_21-32-41.jpg" length="60936" type="image/jpeg"/>
-      <pubDate>Wed, 30 Jul 2025 21:32:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент удару шахеда по житлові</title>
-      <link>https://www.mandarinai.lt/post/78147</link>
-      <description>Момент удару шахеда по житловій забудові в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-30_21-40-37.mp4" length="1804885" type="video/mp4"/>
-      <pubDate>Wed, 30 Jul 2025 21:40:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сильний вогонь охопив житловий</title>
-      <link>https://www.mandarinai.lt/post/78148</link>
-      <description>Сильний вогонь охопив житловий двір у Києві, де вдарив Шахед — на місці все у вогні
-
-Також в іншому районі горить дах та квартира  на останньому поверсі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-30_22-00-59.mp4" length="2702694" type="video/mp4"/>
-      <pubDate>Wed, 30 Jul 2025 22:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вражаючи витримка київських ко</title>
-      <link>https://www.mandarinai.lt/post/78149</link>
-      <description>Вражаючи витримка київських комунальників, які продовжують працювати під час пекельної атаки на місто</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-30_22-03-25.mp4" length="330951" type="video/mp4"/>
-      <pubDate>Wed, 30 Jul 2025 22:03:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 05:18:29 +0000</lastBuildDate>
     <item>
       <title>путін випробовує рішучість Аме</title>
       <link>https://www.mandarinai.lt/post/78150</link>
@@ -95,9 +63,23 @@
     <item>
       <title>Вже відомо про одну загиблу. Т</title>
       <link>https://www.mandarinai.lt/post/78160</link>
-      <description>Вже відомо про одну загиблу. Тіло жінки знайшли під завалами зруйнованого під'їзлу багатоповерхівки в Києві</description>
+      <description>Вже відомо про одну загиблу. Тіло жінки знайшли під завалами зруйнованого під'їзду багатоповерхівки в Києві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_03-46-40.mp4" length="424180" type="video/mp4"/>
       <pubDate>Thu, 31 Jul 2025 03:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повідомляють про шістьох загиб</title>
+      <link>https://www.mandarinai.lt/post/78162</link>
+      <description>Повідомляють про шістьох загиблих в Києві внаслідок нічної атаки росіян</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_05-08-21.jpg" length="287264" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 05:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>В російській Пензі дрони атаку</title>
+      <link>https://www.mandarinai.lt/post/78165</link>
+      <description>В російській Пензі дрони атакували завод електроніки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_05-15-28.mp4" length="253452" type="video/mp4"/>
+      <pubDate>Thu, 31 Jul 2025 05:15:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
