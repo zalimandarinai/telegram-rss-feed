@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 12:17:08 +0000</lastBuildDate>
-    <item>
-      <title>Бригада НГУ «Хартія» знищила р</title>
-      <link>https://www.mandarinai.lt/post/78178</link>
-      <description>Бригада НГУ «Хартія» знищила російський наземний роботизований комплекс. Противник теж має такі. Але цей напрямок в росіян поки що не настільки розвинений, і за можливостями їхні наземні комплекси поступаються українським безпілотним системам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9676.MP4" length="20520713" type="video/mp4"/>
-      <pubDate>Thu, 31 Jul 2025 08:07:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Завод в Пензі уразили дроні СБ</title>
-      <link>https://www.mandarinai.lt/post/78179</link>
-      <description>Завод в Пензі уразили дроні СБУ, як стало зараз відомо.
-
-Сьогодні вранці далекобійні дрони СБУ влаштували «бавовну» на АТ «Радіозавод», який входить до складу корпорації «Ростех». 
-
-Він виробляє автоматичні системи бойового управління для різних родів військ рф: ППО, артилерії, а також мобільні командні пункти на базі бронетехніки та сучасні засоби зв’язку. 
-
-Через роботу на російський ВПК завод перебуває під міжнародними санкціями.
-
-Під час нальоту дронів СБУ зафіксовано щонайменше 11 вибухів, після яких спалахнула масштабна пожежа. Попередньо уражено новий виробничий комплекс заводу та складські приміщення з комплектуючими.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_08-27-21.jpg" length="127539" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 08:27:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 13:31:07 +0000</lastBuildDate>
     <item>
       <title>Російські медіа опублікували с</title>
       <link>https://www.mandarinai.lt/post/78183</link>
@@ -119,6 +97,28 @@
       <description>русня щойно вдарила по Краматорську, зруйнований житловий будинок в центрі міста</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_12-03-40.mp4" length="166012" type="video/mp4"/>
       <pubDate>Thu, 31 Jul 2025 12:03:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>рф вдарила по Києву ракетами І</title>
+      <link>https://www.mandarinai.lt/post/78192</link>
+      <description>рф вдарила по Києву ракетами Іскандер-К з Курської області — вона недалеко, тому часу на рздуми майже не було.
+
+Ракети летіли низько, вздовж річок і рельєфу, щоби уникнути ППО. Сьогодні з 8 ракет вдалося збити лише 3, — Ігнат.
+
+Наразі відомо вже про 9 загиблих внаслідок російської атаки у Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_12-58-12.mp4" length="546200" type="video/mp4"/>
+      <pubDate>Thu, 31 Jul 2025 12:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ворог НЕ захопив Часів Яр, а</title>
+      <link>https://www.mandarinai.lt/post/78193</link>
+      <description>❗️Ворог НЕ захопив Часів Яр, а лише провів чергову виставу «флаговтику» в тилу Сил Оборони, – DeepState
+
+Відео показує встановлення прапорів у мікрорайонах Шевченко та Цех №2, але ворог не контролює місто. 
+
+За два місяці противник незначно просунувся до мікрорайону Шевченко. Більшість «флаготикерів» ліквідовано.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_13-11-48.mp4" length="5860763" type="video/mp4"/>
+      <pubDate>Thu, 31 Jul 2025 13:11:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
