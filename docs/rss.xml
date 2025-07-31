@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 20:10:44 +0000</lastBuildDate>
-    <item>
-      <title>Індійські НПЗ почали активно ш</title>
-      <link>https://www.mandarinai.lt/post/78200</link>
-      <description>Індійські НПЗ почали активно шукати альтернативи російській нафті після посилення санкцій ЄС проти росії, – Bloomberg</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_14-15-07.jpg" length="126588" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 14:15:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 21:09:15 +0000</lastBuildDate>
     <item>
       <title>🇵🇱📞🇺🇦 Президент Польщі Кароль </title>
       <link>https://www.mandarinai.lt/post/78201</link>
@@ -109,6 +102,13 @@
 Можемо лише констатувати що після приходу до влади Трампа та його спроб домовитись, путін остаточно оскаженів, а кількість жертв  атак рф серед мирного населення почала невпинно зростати.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_18-49-30.mp4" length="598513" type="video/mp4"/>
       <pubDate>Thu, 31 Jul 2025 18:49:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна скликає екстрене засід</title>
+      <link>https://www.mandarinai.lt/post/78217</link>
+      <description>Україна скликає екстрене засідання Ради Безпеки ООН через нову хвилю терору з боку росії, — очільник МЗС Сибіга</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_20-24-47.jpg" length="141072" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 20:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
