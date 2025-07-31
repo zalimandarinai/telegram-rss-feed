@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 07:14:48 +0000</lastBuildDate>
-    <item>
-      <title>По Києву були застосовані крил</title>
-      <link>https://www.mandarinai.lt/post/78159</link>
-      <description>По Києву були застосовані крилаті ракети «Іскандер-К» з касетною бойовою частиною, щоб жертв серед цивільних було більше.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9664.MP4" length="6838239" type="video/mp4"/>
-      <pubDate>Thu, 31 Jul 2025 03:35:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже відомо про одну загиблу. Т</title>
-      <link>https://www.mandarinai.lt/post/78160</link>
-      <description>Вже відомо про одну загиблу. Тіло жінки знайшли під завалами зруйнованого під'їзду багатоповерхівки в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-07-31_03-46-40.mp4" length="424180" type="video/mp4"/>
-      <pubDate>Thu, 31 Jul 2025 03:46:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Повідомляють про шістьох загиб</title>
-      <link>https://www.mandarinai.lt/post/78162</link>
-      <description>Повідомляють про шістьох загиблих в Києві внаслідок нічної атаки росіян. Понад 50 людей поранено</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_05-08-21.jpg" length="287264" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 05:08:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 08:14:41 +0000</lastBuildDate>
     <item>
       <title>В російській Пензі дрони атаку</title>
       <link>https://www.mandarinai.lt/post/78165</link>
@@ -105,6 +84,35 @@
 Рятувальні роботи продовжуються.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9672.MP4" length="15493381" type="video/mp4"/>
       <pubDate>Thu, 31 Jul 2025 06:58:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Було 317 засобів повітряного н</title>
+      <link>https://www.mandarinai.lt/post/78175</link>
+      <description>Було 317 засобів повітряного нападу вночі і вранці.
+
+З них 8 ракет.
+
+Повітряні Сили збили та знешкодили 288 дронів та 3 ракети.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_07-21-27.jpg" length="79325" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 07:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ затримала агента фсб, який</title>
+      <link>https://www.mandarinai.lt/post/78176</link>
+      <description>СБУ затримала агента фсб, який коригував російські обстріли по інфраструктурі Харкова.
+
+Також мав надати координати дислокації мобільних вогневих груп ППО.
+
+Зовуть Дмитро Ільченко, експрацівник Харківського підприємства теплоенергетики, 34 роки, «сидить» на наркотиках, через це і завербували.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-07-31_08-00-15.jpg" length="130711" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 08:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бригада НГУ «Хартія» знищила р</title>
+      <link>https://www.mandarinai.lt/post/78178</link>
+      <description>Бригада НГУ «Хартія» знищила російський наземний роботизований комплекс. Противник теж має такі. Але цей напрямок в росіян поки що не настільки розвинений, і за можливостями їхні наземні комплекси поступаються українським безпілотним системам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9676.MP4" length="20520713" type="video/mp4"/>
+      <pubDate>Thu, 31 Jul 2025 08:07:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
