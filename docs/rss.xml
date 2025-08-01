@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Aug 2025 15:10:24 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Поблизу Сіверська місцевий м</title>
-      <link>https://www.mandarinai.lt/post/78226</link>
-      <description>🤬 Поблизу Сіверська місцевий мешканець загинув, підібравши ворожий дрон «ждун», який дистанційно підірвав російський оператор, дочекавшись, поки цивільний не завантажить безпілотник на мотоцикл.
-
-❗️ Всі цивільні повинні розуміти, що дрони це не іграшка, а небезпечна зброя і знаряддя знищення інших людських істот.
-
-⚠️ Так само повинні розуміти, що мета росіян знищити всіх українців, тож російський оператор не пожаліє цивільного, - що, власне, і підтверджує цей випадок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9702.MP4" length="14050193" type="video/mp4"/>
-      <pubDate>Fri, 01 Aug 2025 08:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Німеччина передає Україні щ</title>
-      <link>https://www.mandarinai.lt/post/78227</link>
-      <description>❗️ Німеччина передає Україні ще дві системи «Patriot» зі своїх запасів, - агентство Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-01_09-00-25.jpg" length="125821" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 09:00:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 16:12:03 +0000</lastBuildDate>
     <item>
       <title>ГУР МО оприлюднило дані російс</title>
       <link>https://www.mandarinai.lt/post/78228</link>
@@ -139,6 +121,22 @@
       <description>Пуск ракети AGM-88 HARM з МіГ-29 в Запорізькій області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9713.MP4" length="9793736" type="video/mp4"/>
       <pubDate>Fri, 01 Aug 2025 14:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росіяни просунулися на Донеч</title>
+      <link>https://www.mandarinai.lt/post/78240</link>
+      <description>❗️Росіяни просунулися на Донеччині: зокрема, у Часовому Яру, Торецьку, Зеленому Гаю, а також поблизу Олексіївки та Андріївки-Клевцевого, - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-01_15-17-47.jpg" length="42982" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 15:17:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Сумах приліт біля вокзалу, з</title>
+      <link>https://www.mandarinai.lt/post/78241</link>
+      <description>В Сумах приліт біля вокзалу, зачепило потяг, — Укрзалізниця
+
+Пошкоджені вікна в поїзді №45 Харків - Ужгород. Пасажири цілі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-01_15-45-13.jpg" length="69150" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 15:45:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
