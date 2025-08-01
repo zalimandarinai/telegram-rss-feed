@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Aug 2025 09:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 10:10:50 +0000</lastBuildDate>
     <item>
       <title>У Солом'янському районі Києва </title>
       <link>https://www.mandarinai.lt/post/78214</link>
@@ -71,7 +71,9 @@
     <item>
       <title>31 людину вбила рф в Києві вчо</title>
       <link>https://www.mandarinai.lt/post/78224</link>
-      <description>31 людину вбила рф в Києві вчора вночі, среди них п'ятеро дітей, наймолодший дитині було 2 роки  — Зеленский повідомив про завершення пошуково-ряиувальних робіт.</description>
+      <description>31 людину вбила рф в Києві вчора вночі, среди них п'ятеро дітей, наймолодший дитині було 2 роки  — Зеленский повідомив про завершення пошуково-рятувальних робіт.
+
+Поранено 159 людей. З тих, хто був поранений і травмований, 16 дітей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-01_08-02-43.jpg" length="287307" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 08:02:43 +0000</pubDate>
     </item>
@@ -99,6 +101,21 @@
       <description>❗️ Німеччина передає Україні ще дві системи «Patriot» зі своїх запасів, - агентство Reuters</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-01_09-00-25.jpg" length="125821" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 09:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ГУР МО оприлюднив дані російсь</title>
+      <link>https://www.mandarinai.lt/post/78228</link>
+      <description>ГУР МО оприлюднив дані російського офіцера, який командує запуском «шахедів» по цивільних.
+
+Підполковник зс рф нєґруб руслан ніколаєвіч — командир окремої бригади безпілотної авіації ГРОМ «Каскад», в/ч 35666-Б, пункт дислокації м. корєновск, краснодарський край.
+
+Ця бригада здійснює запуски безпілотників типу «шахед» по території України. Ними агресор завдає ударів по цивільній та гуманітарній інфраструктурі, тероризуючи цивільне населення. 
+
+Воєнний злочинець руслан нєґруб народився 4 січня 1983 року, має паспорт 9002 №447425, виданий 17.04.2003 р. моздокським рувс республіки північна осетія-аланія. 
+
+Випускник ставропольського вищого військового авіаційного інженерного училища.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-01_10-08-09.jpg" length="61473" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 10:08:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
