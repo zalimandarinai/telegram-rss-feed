@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 10:09:15 +0000</lastBuildDate>
-    <item>
-      <title>Емоційні жителі Новокуйбишевсь</title>
-      <link>https://www.mandarinai.lt/post/78260</link>
-      <description>Емоційні жителі Новокуйбишевська сьогодні зранку допомогли українській армії провести дорозвідку і повідомили, що: a) дрони влучили в нафтопереробний завод; b) влучань було кілька; c) уражена основна установка на заводі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9734.MP4" length="16492097" type="video/mp4"/>
-      <pubDate>Sat, 02 Aug 2025 06:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У вихідний день росіяни завд</title>
-      <link>https://www.mandarinai.lt/post/78262</link>
-      <description>⚡️У вихідний день росіяни завдали удару по ринку в Дружківці на Донеччині — в момент, коли там було багато людей
-
-За повідомленнями місцевих ЗМІ, пролунало до 10 вибухів. Атака досі триває</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-02_07-34-32.mp4" length="476828" type="video/mp4"/>
-      <pubDate>Sat, 02 Aug 2025 07:34:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Aug 2025 11:07:45 +0000</lastBuildDate>
     <item>
       <title>⚡️Сенатор Грем попередив своїх</title>
       <link>https://www.mandarinai.lt/post/78263</link>
@@ -101,9 +85,41 @@
 
 Індійські чиновники заявили, що продовжать купувати дешеву російську нафту попри погрози Трампа.
 
-А як же слова Трампа про зупинку індійських НПЗ? Те, що говорить очільник Білого дому, не завжди відповідає тому, що відбувається «on the ground». Нажаль.</description>
+А як же слова Трампа про зупинку індійських НПЗ? Те, що говорить очільник Білого дому, не завжди відповідає тому, що відбувається «on the ground». На жаль.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-02_10-01-56.jpg" length="103621" type="image/jpeg"/>
       <pubDate>Sat, 02 Aug 2025 10:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог відновлює інфраструктуру</title>
+      <link>https://www.mandarinai.lt/post/78274</link>
+      <description>Ворог відновлює інфраструктуру Донецького аеропорта, - супутникові дані.
+
+Принаймні ліквідовані фортифікації в районі злітної смуги.
+
+Навряд чи аеропорт можуть використовувати для авіації, а от для запуску БПЛА «Шахед» цілковито можливо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9743.MP4" length="548308" type="video/mp4"/>
+      <pubDate>Sat, 02 Aug 2025 10:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Предварительно передозировка </title>
+      <link>https://www.mandarinai.lt/post/78275</link>
+      <description>«Предварительно передозировка наркотиками», - щось пішло не так під час підготовки російського штурмовика.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9744.MP4" length="1024" type="video/mp4"/>
+      <pubDate>Sat, 02 Aug 2025 10:29:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час нічної атаки сьогодні </title>
+      <link>https://www.mandarinai.lt/post/78276</link>
+      <description>Під час нічної атаки сьогодні мобільні вогневі групи ДПСУ знищили два ворожих  безпілотники «Шахед» на Миколаївщині та один дрон «Гербера» на Сумщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9745.MP4" length="2094441" type="video/mp4"/>
+      <pubDate>Sat, 02 Aug 2025 10:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог показав, як вдарив по Др</title>
+      <link>https://www.mandarinai.lt/post/78277</link>
+      <description>Ворог показав, як вдарив по Дружківці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9746.MP4" length="3903496" type="video/mp4"/>
+      <pubDate>Sat, 02 Aug 2025 11:02:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
