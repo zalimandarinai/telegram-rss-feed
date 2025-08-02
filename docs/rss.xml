@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 20:09:25 +0000</lastBuildDate>
-    <item>
-      <title>❗️путін більш схильний розпоча</title>
-      <link>https://www.mandarinai.lt/post/78295</link>
-      <description>❗️путін більш схильний розпочати ядерну війну, ніж багато хто готовий визнати — The Telegraph.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-02_16-02-47.jpg" length="83957" type="image/jpeg"/>
-      <pubDate>Sat, 02 Aug 2025 16:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡 Росіяни вбили дитину на Сумщ</title>
-      <link>https://www.mandarinai.lt/post/78296</link>
-      <description>😡 Росіяни вбили дитину на Сумщині ударом безпілотника
-
-Близько 14:30 ворог атакував Свеську громаду. Постраждали двоє підлітків, які були поряд з місцем удару. 12-річний хлопчик помер до приїзду медиків.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-02_16-03-15.jpg" length="89239" type="image/jpeg"/>
-      <pubDate>Sat, 02 Aug 2025 16:03:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Aug 2025 21:07:49 +0000</lastBuildDate>
     <item>
       <title>🕯 Софія, Микита та їхній 2-річ</title>
       <link>https://www.mandarinai.lt/post/78297</link>
@@ -89,6 +73,26 @@
 Операторам 1-ої бригади залишилось лише влучно направити FPV-дрон в мінний пояс і, таким чином, позбавити росіян переправи в бік кордону з Україною.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9764.MP4" length="5207652" type="video/mp4"/>
       <pubDate>Sat, 02 Aug 2025 19:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Незліченна кількість дронів ле</title>
+      <link>https://www.mandarinai.lt/post/78310</link>
+      <description>Незліченна кількість дронів летить на Москву та вглиб росії – напрямки руху ударних/реактивних БпЛА вказані червоною стрілкою на мапі 
+
+Також «побажання на добраніч» отримає русня на окупованих українських територіях</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-02_20-29-44.jpg" length="89272" type="image/jpeg"/>
+      <pubDate>Sat, 02 Aug 2025 20:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Херсонській ОВА показали нас</title>
+      <link>https://www.mandarinai.lt/post/78311</link>
+      <description>В Херсонській ОВА показали наслідки російського удару по мосту та закликали мешканців району «Корабел» евакуюватися. 
+
+Через ускладнення логістики буде складно завезти продукти.
+
+Пошкоджено газогін, і деякий час мікрорайон буде без газопостачання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9765.MP4" length="6662899" type="video/mp4"/>
+      <pubDate>Sat, 02 Aug 2025 20:39:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
