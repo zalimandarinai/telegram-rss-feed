@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 14:08:38 +0000</lastBuildDate>
-    <item>
-      <title>Ворог відновлює інфраструктуру</title>
-      <link>https://www.mandarinai.lt/post/78274</link>
-      <description>Ворог відновлює інфраструктуру Донецького аеропорта, - супутникові дані.
-
-Принаймні ліквідовані фортифікації в районі злітної смуги.
-
-Навряд чи аеропорт можуть використовувати для авіації, а от для запуску БПЛА «Шахед» цілковито можливо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9743.MP4" length="548308" type="video/mp4"/>
-      <pubDate>Sat, 02 Aug 2025 10:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Предварительно передозировка </title>
-      <link>https://www.mandarinai.lt/post/78275</link>
-      <description>«Предварительно передозировка наркотиками», - щось пішло не так під час підготовки російського штурмовика.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9744.MP4" length="1024" type="video/mp4"/>
-      <pubDate>Sat, 02 Aug 2025 10:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Під час нічної атаки сьогодні </title>
-      <link>https://www.mandarinai.lt/post/78276</link>
-      <description>Під час нічної атаки сьогодні мобільні вогневі групи ДПСУ знищили два ворожих  безпілотники «Шахед» на Миколаївщині та один дрон «Гербера» на Сумщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9745.MP4" length="2094441" type="video/mp4"/>
-      <pubDate>Sat, 02 Aug 2025 10:42:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Aug 2025 15:08:35 +0000</lastBuildDate>
     <item>
       <title>Ворог показав, як вдарив по Др</title>
       <link>https://www.mandarinai.lt/post/78277</link>
@@ -98,6 +73,28 @@ Eurosam вдруге провів випробування нової ракет
       <description>Боєць закидає 120-мм боєприпас в підвал зруйнованого будинку, де сидить російський військовий, який відмовився здаватися.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9756.MP4" length="2272694" type="video/mp4"/>
       <pubDate>Sat, 02 Aug 2025 14:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️НАБУ та САП накрили масштабн</title>
+      <link>https://www.mandarinai.lt/post/78288</link>
+      <description>❗️НАБУ та САП накрили масштабну корупційну схему під час закупівель БПЛА та засобів РЕБ — серед затриманих народний депутат, чиновники та військові.
+
+Слідство з’ясувало: держконтракти укладалися за завищеними цінами, а до 30% від суми поверталося учасникам схеми у вигляді «відкатів». Уже затримано чотирьох фігурантів.
+
+Приблизно про те саме нам говорив «Ірландець», заступник командира 59-ої окремої штурмової бригади Сил безпілотних систем.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-02_14-18-42.jpg" length="204221" type="image/jpeg"/>
+      <pubDate>Sat, 02 Aug 2025 14:18:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кілька джерел повідомили, що з</title>
+      <link>https://www.mandarinai.lt/post/78290</link>
+      <description>Кілька джерел повідомили, що затриманий НАБУ на хабарі депутат, про якого написав Зеленський, — це нардеп від «СН» Олексій Кузнєцов.
+
+Чекаємо на офіційне спростування або підтвердження.
+
+Нардеп Кузнєцов голова підкомітету з питань прав і свобод осіб, які проживають на тимчасово окупованих територіях України, та внутрішньо переміщених осіб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-02_15-04-13.jpg" length="97282" type="image/jpeg"/>
+      <pubDate>Sat, 02 Aug 2025 15:04:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
