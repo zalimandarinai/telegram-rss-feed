@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 12:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 13:25:48 +0000</lastBuildDate>
     <item>
       <title>росіяни знімають селфі на фоні</title>
       <link>https://www.mandarinai.lt/post/78325</link>
@@ -123,6 +123,21 @@
 
 Робота 20-го полку Сил безпілотних систем «К-2».</description>
       <pubDate>Sun, 03 Aug 2025 12:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генерал-лейтенант Анатолій Кри</title>
+      <link>https://www.mandarinai.lt/post/78338</link>
+      <description>Генерал-лейтенант Анатолій Кривоножко призначений Командувачем Повітряних Сил.
+
+Анатолій Кривоножко з 2006 по 2008 рік командував 114-ою бригадою тактичної авіації, яка мала на озброєнні літаки МіГ-29.
+
+З 2015-го командувач повітряного командування «Центр», оперативного з'єднання ПС в центральній частині України.
+
+З 30 серпня 2024-го тимчасово виконуючий обов'язки Командувача Повітряних Сил ЗС України.
+
+Герой України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-03_12-38-41.jpg" length="76569" type="image/jpeg"/>
+      <pubDate>Sun, 03 Aug 2025 12:38:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
