@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 10:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 11:07:48 +0000</lastBuildDate>
     <item>
       <title>За ніч та ранок знищено 61/83 </title>
       <link>https://www.mandarinai.lt/post/78320</link>
@@ -96,6 +96,27 @@
 Близько 14:15 в четвер 31 липня російська авіація скинула авіабомбу на центр Краматорська, повідомила тоді військова адміністрація.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9784.MP4" length="8459271" type="video/mp4"/>
       <pubDate>Sun, 03 Aug 2025 09:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Золоте поле і синє небо - аж с</title>
+      <link>https://www.mandarinai.lt/post/78331</link>
+      <description>Золоте поле і синє небо - аж стискає серце від емоцій, коли бачиш цей кадр, знятий нашими пілотами гелікоптерів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9791.MP4" length="6559038" type="video/mp4"/>
+      <pubDate>Sun, 03 Aug 2025 10:24:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>📝 «Є домовленість про обмін 12</title>
+      <link>https://www.mandarinai.lt/post/78332</link>
+      <description>📝 «Є домовленість про обмін 1200 людей, триває робота над списками», - Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-03_10-27-36.jpg" length="127567" type="image/jpeg"/>
+      <pubDate>Sun, 03 Aug 2025 10:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори бригади ДПСУ «Гарт» </title>
+      <link>https://www.mandarinai.lt/post/78333</link>
+      <description>Оператори бригади ДПСУ «Гарт» в районі Вовчанська знищили ворожу гармату МТ-12 «Рапіра», міномет калібру 82 мм, машину з особовим складом і БК, дві стартові точки ворожих БПЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9793.MP4" length="18567403" type="video/mp4"/>
+      <pubDate>Sun, 03 Aug 2025 11:04:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
