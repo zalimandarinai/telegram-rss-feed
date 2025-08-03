@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 09:09:29 +0000</lastBuildDate>
-    <item>
-      <title>Незліченна кількість дронів ле</title>
-      <link>https://www.mandarinai.lt/post/78310</link>
-      <description>Незліченна кількість дронів летить на Москву та вглиб росії – напрямки руху ударних/реактивних БпЛА вказані червоною стрілкою на мапі 
-
-Також «побажання на добраніч» отримає русня на окупованих українських територіях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-02_20-29-44.jpg" length="89272" type="image/jpeg"/>
-      <pubDate>Sat, 02 Aug 2025 20:29:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Херсонській ОВА показали нас</title>
-      <link>https://www.mandarinai.lt/post/78311</link>
-      <description>В Херсонській ОВА показали наслідки російського удару по мосту та закликали мешканців району «Корабел» евакуюватися. 
-
-Через ускладнення логістики буде складно завезти продукти.
-
-Пошкоджено газогін, і деякий час мікрорайон буде без газопостачання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9765.MP4" length="6662899" type="video/mp4"/>
-      <pubDate>Sat, 02 Aug 2025 20:39:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наслідки удару ракети X-22 по </title>
-      <link>https://www.mandarinai.lt/post/78312</link>
-      <description>Наслідки удару ракети X-22 по Миколаєву, - повністю зруйновано три приватні будинки, ще 23 приватні будинки та 12 багатоповерхівок частково зруйновані або пошкоджені.</description>
-      <pubDate>Sun, 03 Aug 2025 07:35:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Aug 2025 10:09:23 +0000</lastBuildDate>
     <item>
       <title>За ніч та ранок знищено 61/83 </title>
       <link>https://www.mandarinai.lt/post/78320</link>
@@ -84,6 +58,44 @@
       <description>росіяни знімають селфі на фоні нафтобази в Адлері, яка палає після ударів українських дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9778.MP4" length="5620808" type="video/mp4"/>
       <pubDate>Sun, 03 Aug 2025 08:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ГУР отримало секретні дані про</title>
+      <link>https://www.mandarinai.lt/post/78326</link>
+      <description>ГУР отримало секретні дані про найновіший російський атомний підводний човен К-555 «Князь Пожарський» з 31-ої підводної дивізії.
+
+Човен проєкту 955А «Борєй-А» має 16 пускових шахт для відносно новітніх балістичних ракет «Булава-30», кожна з яких може нести до 10 бойових блоків. 
+
+Підводний човен уведено в експлуатацію тиждень тому, 24 липня 2025 року, він дислокується на військово-морській базі Гаджієво в Мурманській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-03_09-10-03.jpg" length="116782" type="image/jpeg"/>
+      <pubDate>Sun, 03 Aug 2025 09:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кацапи знову атакували Херсон </title>
+      <link>https://www.mandarinai.lt/post/78328</link>
+      <description>Кацапи знову атакували Херсон з авіації. Попередньо, влучили в районі мосту.
+
+Учора місцева влада вже закликала евакуюватися мешканців мікрорайону Корабел через удар по мосту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-03_09-15-17.jpg" length="45036" type="image/jpeg"/>
+      <pubDate>Sun, 03 Aug 2025 09:15:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Взвод «ГРОЗА» роти безпілотних</title>
+      <link>https://www.mandarinai.lt/post/78329</link>
+      <description>Взвод «ГРОЗА» роти безпілотних комплексів «Легіону Свобода Росії» розвіяв міф про те, що теплоізоляційні накидки окупаційної армії, так звані «плащі-невидимки», роблять окупантів непомітними.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9783.MP4" length="8719439" type="video/mp4"/>
+      <pubDate>Sun, 03 Aug 2025 09:43:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Краматорську після удару по </title>
+      <link>https://www.mandarinai.lt/post/78330</link>
+      <description>В Краматорську після удару по житловому будинку, який стався 31 липня, дістали тіло жінки, — «Донбас Реалії».
+
+Внаслідок російської атаки по центру міста загинуло четверо людей.
+
+Близько 14:15 в четвер 31 липня російська авіація скинула авіабомбу на центр Краматорська, повідомила тоді військова адміністрація.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9784.MP4" length="8459271" type="video/mp4"/>
+      <pubDate>Sun, 03 Aug 2025 09:52:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
