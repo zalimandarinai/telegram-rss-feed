@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Aug 2025 17:15:34 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ЗСУ знищили С-300 на Запоріж</title>
-      <link>https://www.mandarinai.lt/post/78379</link>
-      <description>⚡️ЗСУ знищили С-300 на Запоріжжі, обмеживши здатність рф обстрілювати позиції та інфраструктуру
-
-Генштаб повідомив, що 2 серпня 2025 року Сили оборони України завдали високоточного удару по російських військових об’єктах на тимчасово окупованій території Запорізької області. У результаті операції засобами дальнього вогневого ураження знищено зенітний ракетний комплекс С-300 російських окупаційних військ.
-
-Ліквідація цієї цілі суттєво знижує вогневі спроможності ворога на великі відстані та зменшує його здатність обстрілювати позиції Сил оборони України й цивільну інфраструктуру регіону</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-04_13-28-27.jpg" length="73094" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 13:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Над Україною зняли проліт одра</title>
-      <link>https://www.mandarinai.lt/post/78380</link>
-      <description>Над Україною зняли проліт одразу семи російських ударних безпілотників, летіли один за одним</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9829.MP4" length="1896293" type="video/mp4"/>
-      <pubDate>Mon, 04 Aug 2025 13:34:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 18:14:26 +0000</lastBuildDate>
     <item>
       <title>Контррозвідники СБУ запобігли </title>
       <link>https://www.mandarinai.lt/post/78381</link>
