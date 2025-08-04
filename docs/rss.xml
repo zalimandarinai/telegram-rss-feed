@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Aug 2025 10:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 11:10:21 +0000</lastBuildDate>
     <item>
       <title>🔥В результаті атаки БПЛА спала</title>
       <link>https://www.mandarinai.lt/post/78362</link>
@@ -127,6 +127,15 @@
 
 Оператори «Вампірів» та FPV-дронів бригади чітко спрацювали у взаємодії та не дали окупантам реалізувати їхній план.</description>
       <pubDate>Mon, 04 Aug 2025 10:06:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Мінус 5 винищувачів рф у Сак</title>
+      <link>https://www.mandarinai.lt/post/78375</link>
+      <description>🔥 Мінус 5 винищувачів рф у Саках, в т.о. Криму: СБУ провела нову спецоперацію
+
+Повністю знищено літак Су-30СМ, ще один – пошкоджено. Також уражено три літаки Су-24. Також уражено склад авіаційного озброєння</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-04_10-31-57.jpg" length="115885" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 10:31:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
