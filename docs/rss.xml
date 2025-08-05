@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 18:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 19:13:22 +0000</lastBuildDate>
     <item>
       <title>В російсько-іранських дронах з</title>
       <link>https://www.mandarinai.lt/post/78419</link>
@@ -132,9 +132,9 @@ https://cutt.ly/9rST0lEH
       <pubDate>Tue, 05 Aug 2025 16:48:30 +0000</pubDate>
     </item>
     <item>
-      <title>Росія атакувала Куп’янськ авіа</title>
+      <title>росія атакувала Куп’янськ авіа</title>
       <link>https://www.mandarinai.lt/post/78428</link>
-      <description>Росія атакувала Куп’янськ авіабомбами, під завалом, за словами сусідів, троє людей, які переховувались у підвалі зруйнованої багатоповерхівки.</description>
+      <description>росія атакувала Куп’янськ авіабомбами, під завалом, за словами сусідів, троє людей, які переховувались у підвалі зруйнованої багатоповерхівки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9862.MP4" length="11181092" type="video/mp4"/>
       <pubDate>Tue, 05 Aug 2025 17:29:46 +0000</pubDate>
     </item>
@@ -159,6 +159,23 @@ https://cutt.ly/9rST0lEH
       <description>3 безпілотники «Supercam» і 2 дрони «Zala» перехопили в небі Сумщини оператори зенітних безпілотних систем прикордонної бригади «Сталевий Кордон»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9866.MP4" length="7751209" type="video/mp4"/>
       <pubDate>Tue, 05 Aug 2025 18:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Так вам и надо, русские!»
+
+В </title>
+      <link>https://www.mandarinai.lt/post/78431</link>
+      <description>«Так вам и надо, русские!»
+
+В Краснодарському краї жінку оштрафували на 30 тисяч рублів за статтею про дискредитацію армії за фразу «Так вам і треба, росіяни», яку вона вигукнула в поїзді Самара-Адлер. 
+
+Це сталося 18 липня під час атаки дронів на станцію Лихая у Ростовській області, коли уламки БПЛА зупинили рух.
+
+В тих краях чимало російськомовних не ідентифікує себе, як росіяни. 
+
+На запитання «Яка в тебе національність?» багато хто відповідає «Казак», навіть якщо в офіційних даних таких людей вказано «росіяни».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-05_18-17-31.jpg" length="21165" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 18:17:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
