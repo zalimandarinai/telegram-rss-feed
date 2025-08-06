@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 20:10:58 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Ворог просунувся в Серебрян</title>
-      <link>https://www.mandarinai.lt/post/78467</link>
-      <description>❗️ Ворог просунувся в Серебрянському лісництві, пробував закріпитися в селі Торське та принаймні один раз заходити до населеного пункту Зарічне, - ресурс DeepState</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-06_15-54-00.jpg" length="118633" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 15:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 21:09:12 +0000</lastBuildDate>
     <item>
       <title>Одне влучання - два окупанти. </title>
       <link>https://www.mandarinai.lt/post/78468</link>
@@ -97,6 +90,13 @@
 В росії же в 2012 році створив та очолював організацію «Федеральна національно-культурна автономія українців росії»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9897.MP4" length="21596010" type="video/mp4"/>
       <pubDate>Wed, 06 Aug 2025 19:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Попри заяви окупантів, населен</title>
+      <link>https://www.mandarinai.lt/post/78484</link>
+      <description>Попри заяви окупантів, населений пункт Радьківка на північ від Купʼянська знаходиться під контролем Сил оборони України, - підрозділи Збройних Сил, які тримають напрямок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9900.MOV" length="16530266" type="video/mp4"/>
+      <pubDate>Wed, 06 Aug 2025 20:26:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
