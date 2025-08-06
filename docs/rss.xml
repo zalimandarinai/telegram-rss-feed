@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 07:16:16 +0000</lastBuildDate>
-    <item>
-      <title>ЗСУ отримають нову допомогу ві</title>
-      <link>https://www.mandarinai.lt/post/78434</link>
-      <description>ЗСУ отримають нову допомогу від Хорватії в рамках механізму SAFE
-
-Хорватська зброя дуже якісно і неочікувано ефективно показала себе на полі бою на різних етапах війни проти агресивної росії.
-
-Зокрема, відіграв важливу роль в стриманні російської агресії мобільний варіант хорватської РСЗВ «RAK-SA-12», який є на озброєнні в Держприкордонслужбі.
-
-Ми неодноразово знімали хорватські установки на позиціях. 
-
-SAFE, тобто, «Security Action for Europe», - програма фінансування розміром €150 млрд., в межах якої ОПК України може на рівних правах брати участь у проєктах разом із військовою промисловістю ЄС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9869.MP4" length="4878037" type="video/mp4"/>
-      <pubDate>Tue, 05 Aug 2025 19:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українська тактична авіація за</title>
-      <link>https://www.mandarinai.lt/post/78435</link>
-      <description>Українська тактична авіація завдала нищівного удару по скупченню російських операторів дронів, які тероризували цивільне населення Херсонщини.
-
-Пункт управління знаходився в будівлі колишньої санепідемстанції тимчасово окупованого міста Олешки.
-
-В споруді був також розгорнутий командний пункт батальйонного рівня.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9870.MP4" length="11105071" type="video/mp4"/>
-      <pubDate>Tue, 05 Aug 2025 20:04:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 08:14:28 +0000</lastBuildDate>
     <item>
       <title>❗️ Пожежа неподалік Орлівки в </title>
       <link>https://www.mandarinai.lt/post/78438</link>
@@ -78,6 +52,39 @@ https://denvyshyvanky.wayforpay.shop/category/9077-knigi
 Підписуйтесь на сторінку видавництва «Видиво», місія якого - досліджувати та видавати про українську культуру теми, які ніхто досі не видавав: https://www.instagram.com/vydyvo_publishing?igsh=anZhZXlxdHg5Mzg1</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-06_07-03-10.mp4" length="11341351" type="video/mp4"/>
       <pubDate>Wed, 06 Aug 2025 07:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вогонь було видно навіть в Рум</title>
+      <link>https://www.mandarinai.lt/post/78448</link>
+      <description>Вогонь було видно навіть в Румунії: РФ вдарила по газовому об'єкту по Одещині — ОВА
+
+Удар повністю знищив виробниче обладнання. Через пошкодження магістрального газогону тимчасово відключені 2,5 тисячі абонентів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-06_07-32-42.mp4" length="3824366" type="video/mp4"/>
+      <pubDate>Wed, 06 Aug 2025 07:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Допомагав росіянам захоплювати</title>
+      <link>https://www.mandarinai.lt/post/78449</link>
+      <description>Допомагав росіянам захоплювати Покровськ.
+
+Контррозвідка СБУ затримала агента російського гру, який допомагав рашистам прориватися до Покровська.
+
+Зовуть Артем Петріч, 34-річний електрик із сусіднього Мирнограда, чекав на повну окупацію регіону і свого міста.
+
+Для вербування «почекуна» російське гру залучило його однокласника, який воює проти України.
+
+Основним завданням агента був збір інформації  про склади з боєприпасами, укріпрайони, запасні командні пункти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-06_07-45-18.jpg" length="294511" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський військовий розстріл</title>
+      <link>https://www.mandarinai.lt/post/78450</link>
+      <description>Російський військовий розстріляв цивільного в селі Удачне на Донеччині, коли чоловік намагався евакуюватися, — Офіс Генпрокурора
+
+Жорстоке вбивство є третім подібним злочином окупантів в регіоні з початку року. Вже працює слідство.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9873.MP4" length="5650442" type="video/mp4"/>
+      <pubDate>Wed, 06 Aug 2025 07:55:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
