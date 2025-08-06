@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 08:14:28 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Пожежа неподалік Орлівки в </title>
-      <link>https://www.mandarinai.lt/post/78438</link>
-      <description>❗️ Пожежа неподалік Орлівки в Одеській області внаслідок ударів «шахедами», - її видно навіть з Румунії через Дунай.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9871.MP4" length="19824818" type="video/mp4"/>
-      <pubDate>Tue, 05 Aug 2025 23:27:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Двоє загиблих і 12 постражда</title>
-      <link>https://www.mandarinai.lt/post/78439</link>
-      <description>❗️Двоє загиблих і 12 постраждалих, - в ОВА уточнили наслідки атаки у Запорізькому районі.
-
-Серед поранених - четверо дітей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-06_05-42-45.jpg" length="148167" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 05:42:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 09:17:00 +0000</lastBuildDate>
     <item>
       <title>❗️Спецпосланець Трампа Віткофф</title>
       <link>https://www.mandarinai.lt/post/78443</link>
@@ -85,6 +69,43 @@ https://denvyshyvanky.wayforpay.shop/category/9077-knigi
 Жорстоке вбивство є третім подібним злочином окупантів в регіоні з початку року. Вже працює слідство.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9873.MP4" length="5650442" type="video/mp4"/>
       <pubDate>Wed, 06 Aug 2025 07:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Брянську добрі дрони влучил</title>
+      <link>https://www.mandarinai.lt/post/78451</link>
+      <description>🔥В Брянську добрі дрони влучили по території енергетичного підприємства. Наслідки уточнюються.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-06_08-26-40.mp4" length="437559" type="video/mp4"/>
+      <pubDate>Wed, 06 Aug 2025 08:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Ти чого тут?»
+«Из-за денег,</title>
+      <link>https://www.mandarinai.lt/post/78453</link>
+      <description>💬 «Ти чого тут?»
+«Из-за денег, очень сложное положение».
+
+💬 «Ти чого тута?»
+«Из учебки». 
+«З учєбкі? А чого забув на Україні? В тебе батько, мати, діти тут?»
+«Нет».
+
+💬 «А ти чого тут?»
+«На квартиру хотел дочке заработать».
+«На наших смертях?»
+«На дом».
+
+❗️ Військові захопили трьох полонених на Сумщині.
+
+➡️ Вони хотіли заробити на крові українців, але, здається, вважають це помʼякшувальною обставиною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9876.MP4" length="15062595" type="video/mp4"/>
+      <pubDate>Wed, 06 Aug 2025 08:38:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вбивць, ґвалтівників та мароде</title>
+      <link>https://www.mandarinai.lt/post/78454</link>
+      <description>Вбивць, ґвалтівників та мародерів тут зустрічають хлібом і сіллю: до Білорусі прибув перший ешелон із солдатами рф та технікою для підготовки до спільних навчань «Захід-2025», які пройдуть у вересні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-06_08-45-53.jpg" length="125536" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 08:45:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
