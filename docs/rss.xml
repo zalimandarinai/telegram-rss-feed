@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 15:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 16:13:10 +0000</lastBuildDate>
     <item>
       <title>💬 «Ти чого тут?»
 «Из-за денег,</title>
@@ -115,6 +115,13 @@
 Він зʼявляється в якості миротворця на фінальному етапі локальних конфліктів, які і без нього завершаться миром або перемирʼям (Вірменія-Азербайджан, Індія-Пакистан, Тайланд-Камбоджа) на фоні того, що не може зупинити головний глобальний конфлікт, який обіцяв закінчити за один день.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-06_13-04-08.jpg" length="66309" type="image/jpeg"/>
       <pubDate>Wed, 06 Aug 2025 13:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Ворог просунувся в Серебрян</title>
+      <link>https://www.mandarinai.lt/post/78467</link>
+      <description>❗️ Ворог просунувся в Серебрянському лісництві, пробував закріпитися в селі Торське та принаймні один раз заходити до населеного пункту Зарічне, - ресурс DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-06_15-54-00.jpg" length="118633" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 15:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
