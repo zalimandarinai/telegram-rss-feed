@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Aug 2025 22:09:45 +0000</lastBuildDate>
-    <item>
-      <title>Внаслідок авіаудару 6 серпня п</title>
-      <link>https://www.mandarinai.lt/post/78507</link>
-      <description>Внаслідок авіаудару 6 серпня по мікрорайону «Корабел» в Херсоні значно погіршилась ситуація: немає газу, води та світла, —  ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-07_15-35-04.jpg" length="160263" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 15:35:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 23:10:05 +0000</lastBuildDate>
     <item>
       <title>🇮🇳  Індійські державні нафтопе</title>
       <link>https://www.mandarinai.lt/post/78509</link>
@@ -201,6 +194,15 @@ https://petition.president.gov.ua/petition/251014
 — серед еліти зростає невдоволення тим, як Кремль відкидав дипломатичні шляхи завершення війни.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-07_21-19-56.jpg" length="64148" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 21:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Під атакою була Київська обл</title>
+      <link>https://www.mandarinai.lt/post/78521</link>
+      <description>❗️Під атакою була Київська область (Буча та Ірпінь) 
+
+Більше 10 вибухів чули в районі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-07_22-25-18.mp4" length="260936" type="video/mp4"/>
+      <pubDate>Thu, 07 Aug 2025 22:25:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
