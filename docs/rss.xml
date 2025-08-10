@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 10:09:08 +0000</lastBuildDate>
-    <item>
-      <title>⚡️⚡️Сили оборони України звіль</title>
-      <link>https://www.mandarinai.lt/post/78646</link>
-      <description>⚡️⚡️Сили оборони України звільнили та повністю зачистили від росіян населений пункт Безсалівка Сумської області, – Генштаб.
-
-В операції були задіяні підрозділи 33-го окремого штурмового полку та 24-го окремого штурмового батальйону. Знищено 18 окупантів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-10_08-07-16.jpg" length="24955" type="image/jpeg"/>
-      <pubDate>Sun, 10 Aug 2025 08:07:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥💥Ранковий Саратов та влучна р</title>
-      <link>https://www.mandarinai.lt/post/78648</link>
-      <description>🔥💥Ранковий Саратов та влучна рецензія на роботу російської Пе-Ве-О в останньому відео</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-10_08-10-26.jpg" length="64459" type="image/jpeg"/>
-      <pubDate>Sun, 10 Aug 2025 08:10:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Aug 2025 11:07:17 +0000</lastBuildDate>
     <item>
       <title>😐Кремль не збирається повертат</title>
       <link>https://www.mandarinai.lt/post/78651</link>
@@ -91,6 +75,28 @@ https://send.monobank.ua/jar/2RKz4rawnF
 А перед тим, як зайти, добре вивчив зміни в характері тактичних дій ворога, - і підготувався до них.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-10_09-55-09.jpg" length="155095" type="image/jpeg"/>
       <pubDate>Sun, 10 Aug 2025 09:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Затоці було два вибухи, з</title>
+      <link>https://www.mandarinai.lt/post/78661</link>
+      <description>⚡️ В Затоці було два вибухи, загинуло троє.
+
+❗️ Вже є коментар поліції.
+
+📝 «Під час купання внаслідок двох вибухів невідомих предметів загинули троє відпочивальників, жінка та двоє чоловіків. Особи загиблих встановлюються».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-10_10-12-21.jpg" length="105008" type="image/jpeg"/>
+      <pubDate>Sun, 10 Aug 2025 10:12:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 У Генштабі підтвердили ураже</title>
+      <link>https://www.mandarinai.lt/post/78663</link>
+      <description>🔥 У Генштабі підтвердили ураження Саратовського НПЗ. 
+
+Внаслідок влучання БпЛА на території підприємства зафіксовано вибухи та пожежу.
+
+Потужність Саратівського НПЗ на рік становить до 7 мільйонів тонн нафти, відзначають у Силах оборони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0064.MP4" length="18017971" type="video/mp4"/>
+      <pubDate>Sun, 10 Aug 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
