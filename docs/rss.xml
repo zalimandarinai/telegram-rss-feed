@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 13:22:07 +0000</lastBuildDate>
-    <item>
-      <title>❗️ В Затоці на Одещини вибухну</title>
-      <link>https://www.mandarinai.lt/post/78654</link>
-      <description>❗️ В Затоці на Одещини вибухнула міна біля одного з пляжів, є жертви, - пишуть одеські пабліки
-
-Офіційно поки не підтверджено</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0057.MOV" length="2646459" type="video/mp4"/>
-      <pubDate>Sun, 10 Aug 2025 09:45:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Aug 2025 14:07:58 +0000</lastBuildDate>
     <item>
       <title>Під Покровськом повністю лікві</title>
       <link>https://www.mandarinai.lt/post/78657</link>
@@ -114,6 +105,20 @@
 Серед ліквідованих — командир, начальник штабу, начальник інженерної служби та командир взводу батальйону.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-10_12-39-38.jpg" length="69426" type="image/jpeg"/>
       <pubDate>Sun, 10 Aug 2025 12:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Справжнє бойове хрещення для з</title>
+      <link>https://www.mandarinai.lt/post/78669</link>
+      <description>Справжнє бойове хрещення для зовсім юних бійців. Хлопці, які прийшли в 92 бригаду за контрактом 18-24, після 12 днів в оточення, з боєм вийшли до своїх під Покровськом. Всі живі та неушкоджені. Після практично контактного бою з росіянами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0079.MP4" length="19171929" type="video/mp4"/>
+      <pubDate>Sun, 10 Aug 2025 13:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український Су-27 накриває міс</title>
+      <link>https://www.mandarinai.lt/post/78670</link>
+      <description>Український Су-27 накриває місце скупчення ворожих штурмовиків авіабомбою GBU62 в районі Покровська</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0080.MP4" length="17301782" type="video/mp4"/>
+      <pubDate>Sun, 10 Aug 2025 14:07:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
