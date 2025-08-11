@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Aug 2025 05:19:09 +0000</lastBuildDate>
-    <item>
-      <title>🔥Українські дрони вперше урази</title>
-      <link>https://www.mandarinai.lt/post/78682</link>
-      <description>🔥Українські дрони вперше уразили нафтопереробний завод «ЛУКОЙЛ-Ухтанефтепереработка», – ЗМІ з посиланням на джерела в розвідці
-
-Цей НПЗ активно постачає паливно-мастильні матеріали окупантам. В результаті атаки пошкоджень зазнали резервуар з нафтопродуктами та установка з переробки газу та газового конденсату</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-10_17-27-44.jpg" length="83393" type="image/jpeg"/>
-      <pubDate>Sun, 10 Aug 2025 17:27:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 06:16:21 +0000</lastBuildDate>
     <item>
       <title>В оточенні Путіна закликають з</title>
       <link>https://www.mandarinai.lt/post/78684</link>
@@ -170,6 +161,17 @@ BestsellerFest — це 70 літературних подій, вечірні �
 Один співробітник російської поліції загинув на місці, другий зазнав поранення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0105.MP4" length="4626635" type="video/mp4"/>
       <pubDate>Sun, 10 Aug 2025 20:59:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі росія атакувала Україну,</title>
+      <link>https://www.mandarinai.lt/post/78697</link>
+      <description>Вночі росія атакувала Україну, запустивши 71 БПЛА.
+
+Збито 59 «шахедів» та інших дронів.
+
+Нажаль, є влучання 12 «шахедів» на 6 локаціях, а також падіння уламків на 1 локації.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-11_06-03-47.jpg" length="67593" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 06:03:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
