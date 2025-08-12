@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Aug 2025 10:10:16 +0000</lastBuildDate>
-    <item>
-      <title>❗️Покровськ та Мирноград майже</title>
-      <link>https://www.mandarinai.lt/post/78736</link>
-      <description>❗️Покровськ та Мирноград майже в оточенні. Костянтинівка — у напівоточенні. Противник просувається в напрямку Краматорська та Дружківки — Богдан Кротевич</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-12_04-03-49.jpg" length="158910" type="image/jpeg"/>
-      <pubDate>Tue, 12 Aug 2025 04:03:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 11:08:22 +0000</lastBuildDate>
     <item>
       <title>❗️У російському Ставрополі дро</title>
       <link>https://www.mandarinai.lt/post/78738</link>
@@ -101,6 +94,13 @@
       <description>Українські аналоги «шахедів» пролітають над росією і прямують до Татарстану навідатись на завод, на якому збирають їхні російські прототипи</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0165.MP4" length="8229797" type="video/mp4"/>
       <pubDate>Tue, 12 Aug 2025 08:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Буданов перевірив позиції спец</title>
+      <link>https://www.mandarinai.lt/post/78750</link>
+      <description>Буданов перевірив позиції спецпризначенців ГУР на відбитих у ворога так званих «вишках Бойка» та на острові Зміїний.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0168.MP4" length="15197199" type="video/mp4"/>
+      <pubDate>Tue, 12 Aug 2025 10:50:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
