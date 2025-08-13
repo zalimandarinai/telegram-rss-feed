@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 15:08:21 +0000</lastBuildDate>
-    <item>
-      <title>💥 Складають будинок одним удар</title>
-      <link>https://www.mandarinai.lt/post/78808</link>
-      <description>💥 Складають будинок одним ударом свого безпілотника, - операторам батальйону безпілотних систем 63-ої бригади, на жаль, доводиться руйнувати покинуті хати в селі Торське, щоб окупанти не використовували їх в якості укриттів та опорних пунктів</description>
-      <pubDate>Wed, 13 Aug 2025 12:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полігон в Бєлгороді. Задимленн</title>
-      <link>https://www.mandarinai.lt/post/78809</link>
-      <description>Полігон в Бєлгороді. Задимлення і тривога</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-13_12-10-54.mp4" length="1312795" type="video/mp4"/>
-      <pubDate>Wed, 13 Aug 2025 12:10:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 16:08:10 +0000</lastBuildDate>
     <item>
       <title>Окупанта у Вовчанську розібрал</title>
       <link>https://www.mandarinai.lt/post/78812</link>
@@ -93,6 +80,20 @@
 Обирай ідеальне авто в боті вже зараз 🔜 КАТАЛОГ АВТО</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-13_14-56-57.mp4" length="9843029" type="video/mp4"/>
       <pubDate>Wed, 13 Aug 2025 14:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ США шукають місце для зустр</title>
+      <link>https://www.mandarinai.lt/post/78823</link>
+      <description>⚡️ США шукають місце для зустрічі Трампа, путіна і Зеленського не пізніше, аніж на кінець наступного тижня, — CBS</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-13_15-17-30.jpg" length="12343" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 15:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські вертолітники в пові</title>
+      <link>https://www.mandarinai.lt/post/78824</link>
+      <description>Українські вертолітники в повітрі розстрілюють російські «шахеди» майже впритул.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0217.MP4" length="599445" type="video/mp4"/>
+      <pubDate>Wed, 13 Aug 2025 15:33:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
