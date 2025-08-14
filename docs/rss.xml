@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 20:10:46 +0000</lastBuildDate>
-    <item>
-      <title>🥴 путін везе на Аляску псевдоі</title>
-      <link>https://www.mandarinai.lt/post/78896</link>
-      <description>🥴 путін везе на Аляску псевдоісторичні документи, він збирається показати Трампу фейкові русняві карти, аби переконати, що Україна — це штучна держава. І таким чином виправдати агресію рф — ЦПД.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-14_13-56-59.jpg" length="158437" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 13:56:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Втрата Донеччини може змістити</title>
-      <link>https://www.mandarinai.lt/post/78897</link>
-      <description>Втрата Донеччини може змістити ЛБЗ на 80 км західніше, відкривши б росії шлях до Харкова, Полтави і Дніпра, — The Independent.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-14_14-03-47.jpg" length="57731" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 14:03:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 21:08:38 +0000</lastBuildDate>
     <item>
       <title>❗️ Підрозділ Держприкордонслуж</title>
       <link>https://www.mandarinai.lt/post/78899</link>
@@ -124,6 +110,13 @@
 💬 «Якщо впродовж цих 30 днів [до 24 серпня] не буде виконано припис та не буде звернення щодо надання додаткових 60 днів, то ДЕСС зможе звернутися до суду з позовом про припинення Київської митрополії. Це означає, що Київська митрополія втратить статус юридичної особи та втратить правосуб'єктність», - так коментує ДЕСС.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-14_19-45-03.jpg" length="146493" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 19:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Серія влучань дронів в окупов</title>
+      <link>https://www.mandarinai.lt/post/78910</link>
+      <description>💥Серія влучань дронів в окупованому Єнакієво</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-14_20-11-23.mp4" length="2397256" type="video/mp4"/>
+      <pubDate>Thu, 14 Aug 2025 20:11:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
