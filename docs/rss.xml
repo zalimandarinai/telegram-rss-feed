@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Aug 2025 13:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 14:09:13 +0000</lastBuildDate>
     <item>
       <title>❗️ Трамп і путін можуть виріши</title>
       <link>https://www.mandarinai.lt/post/78932</link>
@@ -114,6 +114,17 @@
       <link>https://www.mandarinai.lt/post/78943</link>
       <description>Українським військам на Сумщині вдалося відкинути російські підрозділи за державний кордон, буферної зони в Сумській області росіяни не створили, стабілізація лінії фронту триває, —  речник Української добровольчої армії Сергій Братчук</description>
       <pubDate>Fri, 15 Aug 2025 10:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Прильоти балістики у Дніпрі:</title>
+      <link>https://www.mandarinai.lt/post/78944</link>
+      <description>⚡️Прильоти балістики у Дніпрі: у місті лунають вибухи, — місцеві канали
+
+Над містом розвідувальний дрон — перебувайте в укриттях!
+
+UPD: Попередньо, у Дніпрі зафіксовано приліт балістики в житловий квартал, — монітори</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-15_13-31-22.jpg" length="7544" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 13:31:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
