@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Aug 2025 00:46:11 +0000</lastBuildDate>
-    <item>
-      <title>👌У русні мінус Су-30СМ, який в</title>
-      <link>https://www.mandarinai.lt/post/78900</link>
-      <description>👌У русні мінус Су-30СМ, який виконував завдання південно-східніше острова Зміїний, — ВМС ЗСУ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-14_15-30-15.jpg" length="144316" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 15:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Горить після атаки українських</title>
-      <link>https://www.mandarinai.lt/post/78901</link>
-      <description>Горить після атаки українських дронів російська вантажівка на трасі між окупованими Рубіжним і Сєверодонецьком.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0297.MP4" length="1607693" type="video/mp4"/>
-      <pubDate>Thu, 14 Aug 2025 15:58:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 02:44:41 +0000</lastBuildDate>
     <item>
       <title>⚔️ Ситуація на Покровському на</title>
       <link>https://www.mandarinai.lt/post/78902</link>
@@ -108,6 +94,18 @@
       <description>Вночі в одному з районів Курська БПЛА влучив у житловий будинок, ймовірно, після збиття російськими засобами радіоелектронної боротьби.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0307.MP4" length="3311723" type="video/mp4"/>
       <pubDate>Thu, 14 Aug 2025 23:35:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вже на Алясці.
+
+На Аляску прил</title>
+      <link>https://www.mandarinai.lt/post/78914</link>
+      <description>Вже на Алясці.
+
+На Аляску прилетів ще один літак російської делегації.
+
+Спецпредставник путіна Кирило Дмитрієв запостив вид з літака з підписом «сонячно та красиво на Алясці».</description>
+      <pubDate>Fri, 15 Aug 2025 01:29:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
