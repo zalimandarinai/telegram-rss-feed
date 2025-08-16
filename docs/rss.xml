@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Aug 2025 00:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 02:28:03 +0000</lastBuildDate>
     <item>
       <title>Воєнного злочинця путіна на ві</title>
       <link>https://www.mandarinai.lt/post/78978</link>
@@ -102,6 +102,13 @@ UPD. Переговори тривають уже понад годину, во�
 А як же обіцянка Трампа в літаку, коли він летів на перемовини?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0366.MP4" length="804525" type="video/mp4"/>
       <pubDate>Fri, 15 Aug 2025 23:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Я в плену, в 93-ей бригаде,</title>
+      <link>https://www.mandarinai.lt/post/78991</link>
+      <description>💬 «Я в плену, в 93-ей бригаде, слава Украине», - не дочекавшись від путіна припинення вогню, 93-я бригада «Холодний Яр» зачистила села Грузьке та Веселе неподалік від Добропілля, взявши їх під контроль і захопивши в полон значну кількість російських окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0367.MP4" length="23896665" type="video/mp4"/>
+      <pubDate>Sat, 16 Aug 2025 01:32:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
