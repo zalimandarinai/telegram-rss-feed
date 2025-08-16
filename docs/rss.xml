@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Aug 2025 05:09:16 +0000</lastBuildDate>
-    <item>
-      <title>Анкорідж в синьо-жовтих кольор</title>
-      <link>https://www.mandarinai.lt/post/78980</link>
-      <description>Анкорідж в синьо-жовтих кольорах. На Алясці тривають мітинги на підтримку України. Один з них біля воріт бази, на якій відбуваються переговори.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0359.MP4" length="15248476" type="video/mp4"/>
-      <pubDate>Fri, 15 Aug 2025 21:02:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Aug 2025 06:12:35 +0000</lastBuildDate>
     <item>
       <title>«Ізгой виглядає скоріше, як па</title>
       <link>https://www.mandarinai.lt/post/78981</link>
@@ -114,6 +107,13 @@
       <description>🥴Трамп дав зрозуміти, що наразі не розглядає можливість запровадження нових санкцій чи інших «серйозних наслідків» для росії після зустрічі. Заявив, що подумає про це через "два-три тижні", - Fox News</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-16_04-54-36.jpg" length="109590" type="image/jpeg"/>
       <pubDate>Sat, 16 Aug 2025 04:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤦‍♂Винищувачі F-22 США супрово</title>
+      <link>https://www.mandarinai.lt/post/78994</link>
+      <description>🤦‍♂Винищувачі F-22 США супроводжували літак путіна до росії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-16_06-09-29.mp4" length="4137626" type="video/mp4"/>
+      <pubDate>Sat, 16 Aug 2025 06:09:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
