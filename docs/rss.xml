@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Aug 2025 12:15:17 +0000</lastBuildDate>
-    <item>
-      <title>❗️Ми вирішили, що потрібно зав</title>
-      <link>https://www.mandarinai.lt/post/79003</link>
-      <description>❗️Ми вирішили, що потрібно завершувати війну, а не встановлювати тимчасове перемир'я, — Трамп
-
-Якщо зустріч з Зеленським в понеділок у Вашингтоні пройде вдало, ми заплануємо зустріч з президентом путіним</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-16_08-58-33.jpg" length="69416" type="image/jpeg"/>
-      <pubDate>Sat, 16 Aug 2025 08:58:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці «Російського Добровольчо</title>
-      <link>https://www.mandarinai.lt/post/79004</link>
-      <description>Бійці «Російського Добровольчого Корпусу» та 5-ї окремої важкої механізованої бригади спростовують фейк про нібито окупацію населеного пункту Іскра на Донеччині
-
-Російське командування відправило кілька смертників в населений пункт для флаговтику, метою якого створення переможної картинки для введення в оману медіа та військових аналітиків. 
-
-В результаті, двох «прапороносців» ліквідували, ще двох взяли в полон наші бійці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0368.MP4" length="31439827" type="video/mp4"/>
-      <pubDate>Sat, 16 Aug 2025 09:56:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 Aug 2025 13:19:52 +0000</lastBuildDate>
     <item>
       <title>Сенатор-республіканець Ліндсі </title>
       <link>https://www.mandarinai.lt/post/79007</link>
@@ -94,6 +74,21 @@
 І що Україна сама має вирішити, погоджуватись чи ні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-16_12-06-52.jpg" length="103325" type="image/jpeg"/>
       <pubDate>Sat, 16 Aug 2025 12:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Волгоградському НПЗ щось вж</title>
+      <link>https://www.mandarinai.lt/post/79016</link>
+      <description>На Волгоградському НПЗ щось вже втретє горить.
+
+Перші два рази - після прольотів добрих дронів.
+
+Але зараз, як пояснює керівництво НПЗ, це вони самі, - зливали частину нафтопродуктів, і виникла пожежа.
+
+Втім, її теж можна вважати результатом прильотів.
+
+Адже зливали нафту для ремонту резервуарів після ударів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0382.MP4" length="4002024" type="video/mp4"/>
+      <pubDate>Sat, 16 Aug 2025 12:56:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
