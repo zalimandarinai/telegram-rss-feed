@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Aug 2025 17:07:34 +0000</lastBuildDate>
-    <item>
-      <title>🪖⚡️ЗСУ з 4 по 16 серпня зачист</title>
-      <link>https://www.mandarinai.lt/post/79050</link>
-      <description>🪖⚡️ЗСУ з 4 по 16 серпня зачистили від окупантів на Донеччині н.п. Грузьке, Рубіжне, Нововодяне, Петрівка, Веселе, Золотий Колодязь та Покровськ, — Генштаб 
-
-Проведення стабілізаційних дій у напрямку Добропілля продовжується. Окупанти продовжують здаватися. Також минулої доби на Північно-Слобожанському напрямку ЗСУ просунулися вперед у декількох локаціях, зокрема в районі Яблунівки Сумської області просування склало до 1000 м.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-17_08-56-52.jpg" length="89231" type="image/jpeg"/>
-      <pubDate>Sun, 17 Aug 2025 08:56:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Aug 2025 18:11:45 +0000</lastBuildDate>
     <item>
       <title>Вибух в окупованому Мелітополі</title>
       <link>https://www.mandarinai.lt/post/79051</link>
@@ -125,6 +116,13 @@ IBAN UA 39 322001 00000 2620 6362 0658 38
       <description>Червона доріжка для російських окупантів має виглядати так, - вважає 31-а ОМБР, яка воює на півдні Запорізької області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0413.MP4" length="7491854" type="video/mp4"/>
       <pubDate>Sun, 17 Aug 2025 16:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зеленський вже летить до США н</title>
+      <link>https://www.mandarinai.lt/post/79064</link>
+      <description>Зеленський вже летить до США на зустріч із Трампом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-17_18-04-30.jpg" length="121783" type="image/jpeg"/>
+      <pubDate>Sun, 17 Aug 2025 18:04:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
