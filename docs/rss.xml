@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Aug 2025 22:08:36 +0000</lastBuildDate>
-    <item>
-      <title>Ведуча NBC в ефірі показала Ма</title>
-      <link>https://www.mandarinai.lt/post/79061</link>
-      <description>Ведуча NBC в ефірі показала Марко Рубіо, як він в березні 2022-го року сам заявив, що путін досвідчений брехун, і що тому жодні угоди з ним неможливі.
-
-І тут же спитала його, чому ж зараз Рубіо вважає угоду з ним можливою. 
-
-Держсекретар Марко Рубіо ледь згенерував слова у безпорадну відповідь. 
-
-Приклад того, що вільна преса та свобода слова можуть впливати на події.
-
-Саме тому в росії роблять все, щоб не було вільної преси. В Україні, попри бажання деяких багатих та впливових, свобода слова все ж таки є.</description>
-      <pubDate>Sun, 17 Aug 2025 16:14:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Червона доріжка для російських</title>
-      <link>https://www.mandarinai.lt/post/79062</link>
-      <description>Червона доріжка для російських окупантів має виглядати так, - вважає 31-а ОМБР, яка воює на півдні Запорізької області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0413.MP4" length="7491854" type="video/mp4"/>
-      <pubDate>Sun, 17 Aug 2025 16:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 Aug 2025 23:08:37 +0000</lastBuildDate>
     <item>
       <title>Зеленський вже летить до США н</title>
       <link>https://www.mandarinai.lt/post/79064</link>
@@ -120,6 +99,13 @@
 Проте на них вже чекали бійці 12-ї бригади «Азов», які спалили ворожу техніку та розкатали російську піхоту FPV-дронами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0422.MP4" length="11148200" type="video/mp4"/>
       <pubDate>Sun, 17 Aug 2025 20:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Одесі російські дрони вдарил</title>
+      <link>https://www.mandarinai.lt/post/79076</link>
+      <description>В Одесі російські дрони вдарили по терміналу Нової пошти, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0423.MP4" length="1820513" type="video/mp4"/>
+      <pubDate>Sun, 17 Aug 2025 22:21:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
