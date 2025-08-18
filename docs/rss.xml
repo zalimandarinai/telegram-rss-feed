@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Aug 2025 08:14:54 +0000</lastBuildDate>
-    <item>
-      <title>Заявлене, як ще одна партія ро</title>
-      <link>https://www.mandarinai.lt/post/79072</link>
-      <description>Заявлене, як ще одна партія російських полонених в Донецькій області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-17_20-35-54.jpg" length="104207" type="image/jpeg"/>
-      <pubDate>Sun, 17 Aug 2025 20:35:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 09:14:22 +0000</lastBuildDate>
     <item>
       <title>ГУР стверджує, що в результаті</title>
       <link>https://www.mandarinai.lt/post/79073</link>
@@ -123,6 +116,13 @@ IBAN UA 39 322001 00000 2620 6362 0658 38
 Вистоїмо тільки разом!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-18_08-02-13.mp4" length="2316661" type="video/mp4"/>
       <pubDate>Mon, 18 Aug 2025 08:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 русня начепила американські </title>
+      <link>https://www.mandarinai.lt/post/79086</link>
+      <description>🤡 русня начепила американські прапори на свою бронетехеіку поруч з триколором і роз'їджає по окупованій український землі в Запорізькій області. Це все, що потрібно знати про результат переговорів на Алясці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-18_08-27-24.mp4" length="2059852" type="video/mp4"/>
+      <pubDate>Mon, 18 Aug 2025 08:27:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
