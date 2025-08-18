@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Aug 2025 11:09:03 +0000</lastBuildDate>
-    <item>
-      <title>В Одесі російські дрони вдарил</title>
-      <link>https://www.mandarinai.lt/post/79076</link>
-      <description>В Одесі російські дрони вдарили по терміналу Нової пошти, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0423.MP4" length="1820513" type="video/mp4"/>
-      <pubDate>Sun, 17 Aug 2025 22:21:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 12:18:20 +0000</lastBuildDate>
     <item>
       <title>❗️росія вбила дворічну дитину </title>
       <link>https://www.mandarinai.lt/post/79077</link>
@@ -115,6 +108,15 @@
 Кількість загиблих зросла до 7 людей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0429.MP4" length="7443896" type="video/mp4"/>
       <pubDate>Mon, 18 Aug 2025 09:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴"Це було б хорошим знаком мир</title>
+      <link>https://www.mandarinai.lt/post/79091</link>
+      <description>🥴"Це було б хорошим знаком миру", - Білий дім запитав українських чиновників, чи буде Зеленський у костюмі на сьогоднішній зустрічі з Трампом, — Axios
+
+У виданні зазначають, що президент України сьогодні з’явиться в Білому домі в тій самій чорній куртці, яку він носив на саміті НАТО в Нідерландах у червні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-18_11-38-07.jpg" length="90785" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 11:38:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
