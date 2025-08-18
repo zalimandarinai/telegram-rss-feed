@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Aug 2025 21:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 22:08:42 +0000</lastBuildDate>
     <item>
       <title>😐Через пару тижнів ми дізнаємо</title>
       <link>https://www.mandarinai.lt/post/79117</link>
@@ -71,6 +71,17 @@
       <description>Домовились домовлятися. Не найкращий, але не найгірший варіант для нас.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-18_21-00-37.jpg" length="70280" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 21:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅ Зеленський понад 10 разів ск</title>
+      <link>https://www.mandarinai.lt/post/79130</link>
+      <description>✅ Зеленський понад 10 разів сказав «дякую» під час зустрічі із Трампом, — взявся рахувати The Wall Street Journal 
+
+➡️ Під час минулої зустрічі віцепрезидент США J.D.Vance критикував його за «невдячність».
+
+❗️ «You’d be surprised to know how many doors flattery can open», - Маріана ван Целлер, журналіст</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-18_21-15-08.jpg" length="79067" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 21:15:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
