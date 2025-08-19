@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 16:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 17:08:00 +0000</lastBuildDate>
     <item>
       <title>В бригаді «Хартія» новий коман</title>
       <link>https://www.mandarinai.lt/post/79163</link>
@@ -59,9 +59,7 @@
       <link>https://www.mandarinai.lt/post/79173</link>
       <description>Президент Фінляндії Александр Стубб охарактеризував Краматорськ і Слов’янськ як «бастіон проти гунів», пояснюючи американському колезі, чому неможна здавати Донбас, - The Wall Street Journal 
 
-На Трампа цей вислів справив враження, пише видання.
-
-Хоча сумнівно, бо для цього треба знати, хто такі гуни.</description>
+На Трампа цей вислів справив враження, пише видання, хоча для цього треба знати, хто такі гуни.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_15-57-13.jpg" length="58697" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 15:57:13 +0000</pubDate>
     </item>
@@ -71,6 +69,13 @@
       <description>Служба імміграційного та митного контролю США показала в мережі X прибуття до України першої групи депортованих українців.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_16-08-27.jpg" length="125210" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 16:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>російський дрон атакував авто </title>
+      <link>https://www.mandarinai.lt/post/79175</link>
+      <description>російський дрон атакував авто «швидкої допомоги» в Куп’янську, двоє людей поранені.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_16-15-43.jpg" length="199465" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 16:15:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
