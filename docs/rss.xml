@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 17:08:00 +0000</lastBuildDate>
-    <item>
-      <title>В бригаді «Хартія» новий коман</title>
-      <link>https://www.mandarinai.lt/post/79163</link>
-      <description>В бригаді «Хартія» новий командир.
-
-Новим командиром 13-ї бригади Національної гвардії України став Даніель Кітонє, позивний «Куба».
-
-Даніель Кітонє народився 27 серпня 1983 року в українському Сімферополі. Більшість свого життя провів у Харкові. Після початку повномасштабної війни РФ в Україну приєднався до 127-ї окремої бригади Територіальної оборони України. Після формування «Хартії» приєднався до бригади.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_11-50-06.jpg" length="82931" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 11:50:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 18:12:55 +0000</lastBuildDate>
     <item>
       <title>Торецький напрямок, окупант ви</title>
       <link>https://www.mandarinai.lt/post/79165</link>
@@ -76,6 +65,28 @@
       <description>російський дрон атакував авто «швидкої допомоги» в Куп’янську, двоє людей поранені.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_16-15-43.jpg" length="199465" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 16:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рідкісний випадок в небі над ф</title>
+      <link>https://www.mandarinai.lt/post/79177</link>
+      <description>Рідкісний випадок в небі над фронтом біля Лимана.
+
+Одразу два FPV-дрони різних бригад женуться за одним ворожим ударним БПЛА «Молнія».
+
+Оператори 63-ої бригади та аеророзвідники 53-ої бригади наввипередки намагались знищити «Молнію». Це швидше вдалося екіпажу 63-ої бригади, а «суміжники» відзняли красивий вибух. Саме такою і має бути конкуренція між українцями.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0480.MP4" length="5536544" type="video/mp4"/>
+      <pubDate>Tue, 19 Aug 2025 17:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар по машині російського ген</title>
+      <link>https://www.mandarinai.lt/post/79179</link>
+      <description>Удар по машині російського генерала Еседулли Абачева, в результаті якого йому ампутували руку і ногу в московському шпиталі.
+
+Дроном групи UA_REG 16 серпня близько 21:30 під час серії точкових ударів було уражено автомобіль генерала на трасі Рильськ – Хомутівка. 
+
+Не повідомляється, чи був це випадковий «страйк» або про переміщення генерала отримала інформацію українська розвідка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0482.MP4" length="25231484" type="video/mp4"/>
+      <pubDate>Tue, 19 Aug 2025 18:06:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
