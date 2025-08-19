@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 10:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 11:07:47 +0000</lastBuildDate>
     <item>
       <title>✅ Зеленський понад 10 разів ск</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -19,19 +19,11 @@
     </item>
     <item>
       <title>❗Зеленський не відкидав обмін </title>
-      <link>https://www.mandarinai.lt/post/79139</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗Зеленський не відкидав обмін територіями під час переговорів з Трампом, — WSJ
 
 Він назвав це складним через переселення людей та конституційну заборону України на віддачу землі, але сказав, що може розглянути «пропорційні обміни»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_05-56-45.jpg" length="136171" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 05:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Кременчук зранку після масова</title>
-      <link>https://www.mandarinai.lt/post/79140</link>
-      <description>🤬Кременчук зранку після масованої атаки рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_05-57-21.jpg" length="67617" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 05:57:21 +0000</pubDate>
     </item>
     <item>
       <title>Держсекретар США Марко Рубіо о</title>
@@ -88,6 +80,13 @@
 Група переїхала до Одеси, де підпалила дві вежі мобільного зв’язку і декілька електропідстанцій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_10-00-16.jpg" length="90880" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 10:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>РосЗМІ опублікували момент ніч</title>
+      <link>https://www.mandarinai.lt/post/79154</link>
+      <description>РосЗМІ опублікували момент нічного ракетного удару Х-101 по Кременчуцькому нафтопереробному заводу, який хтось з українців виклав у соцмережі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0453.MP4" length="4128511" type="video/mp4"/>
+      <pubDate>Tue, 19 Aug 2025 10:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
