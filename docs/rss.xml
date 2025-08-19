@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 12:17:01 +0000</lastBuildDate>
-    <item>
-      <title>✅ Зеленський понад 10 разів ск</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>✅ Зеленський понад 10 разів сказав «дякую» під час зустрічі із Трампом, — взявся рахувати The Wall Street Journal 
-
-➡️ Під час минулої зустрічі віцепрезидент США J.D.Vance критикував його за «невдячність».
-
-❗️ «You’d be surprised to know how many doors flattery can open», - Маріана ван Целлер, журналіст</description>
-      <pubDate>Mon, 18 Aug 2025 21:15:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗Зеленський не відкидав обмін </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗Зеленський не відкидав обмін територіями під час переговорів з Трампом, — WSJ
-
-Він назвав це складним через переселення людей та конституційну заборону України на віддачу землі, але сказав, що може розглянути «пропорційні обміни»</description>
-      <pubDate>Tue, 19 Aug 2025 05:56:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 13:22:23 +0000</lastBuildDate>
     <item>
       <title>РосЗМІ опублікували момент ніч</title>
       <link>https://www.mandarinai.lt/post/79154</link>
@@ -75,6 +57,24 @@
 Даніель Кітонє народився 27 серпня 1983 року в українському Сімферополі. Більшість свого життя провів у Харкові. Після початку повномасштабної війни РФ в Україну приєднався до 127-ї окремої бригади Територіальної оборони України. Після формування «Хартії» приєднався до бригади.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_11-50-06.jpg" length="82931" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 11:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Торецький напрямок, окупант ви</title>
+      <link>https://www.mandarinai.lt/post/79165</link>
+      <description>Торецький напрямок, окупант вирішив сховатися в розбитій хаті, але до нього просто через двері завітав FPV-дрон групи «Харциз» 49-го ОШБ «Карпатська Січ».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0463.MP4" length="10309242" type="video/mp4"/>
+      <pubDate>Tue, 19 Aug 2025 13:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Швейцарія пообіцяла не заарешт</title>
+      <link>https://www.mandarinai.lt/post/79166</link>
+      <description>Швейцарія пообіцяла не заарештовувати путіна, якщо він приїде на переговори із Зеленським до Женеви 
+
+Попри ордер Міжнародного кримінального суду на арешт путіна. Швейцарія надасть йому імунітет, якщо він приїде в країну для переговорів про мир в Україні, суду, заявив голова швейцарського МЗС Іньяціо Кассіс.
+
+Все, що відбувається, вчергове доводить, що в світі діє не сила права, а право сили, і це головний урок, який має засвоїти Україна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_13-08-28.jpg" length="105203" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 13:08:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
