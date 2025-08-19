@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 08:13:00 +0000</lastBuildDate>
-    <item>
-      <title>Домовились домовлятися. Не най</title>
-      <link>https://www.mandarinai.lt/post/79129</link>
-      <description>Домовились домовлятися. Не найкращий, але не найгірший варіант для нас.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-18_21-00-37.jpg" length="70280" type="image/jpeg"/>
-      <pubDate>Mon, 18 Aug 2025 21:00:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 09:09:36 +0000</lastBuildDate>
     <item>
       <title>✅ Зеленський понад 10 разів ск</title>
       <link>https://www.mandarinai.lt/post/79130</link>
@@ -91,6 +84,13 @@
 Механізми контролю за дотриманням режиму припинення вогню.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_07-35-42.jpg" length="93286" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 07:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Поблизу окупованого Токмака </title>
+      <link>https://www.mandarinai.lt/post/79142</link>
+      <description>💥🔥Поблизу окупованого Токмака  підірвано залізчний склад із паливом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_09-00-31.jpg" length="51880" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 09:00:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
