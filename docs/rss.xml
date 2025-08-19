@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 03:35:35 +0000</lastBuildDate>
-    <item>
-      <title>😐Через пару тижнів ми дізнаємо</title>
-      <link>https://www.mandarinai.lt/post/79117</link>
-      <description>😐Через пару тижнів ми дізнаємося, чи буде кінець війни, — Трамп.
-
-Знову пару тижнів. Класика.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0436.MP4" length="5324356" type="video/mp4"/>
-      <pubDate>Mon, 18 Aug 2025 19:40:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Україна повністю знищила нафт</title>
-      <link>https://www.mandarinai.lt/post/79118</link>
-      <description>🔥Україна повністю знищила нафтопровід «Дружба», – «Мадяр»
-
-Тепер перекачку нафти з рф до Європи призупинено на невизначений термін</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-18_19-52-58.jpg" length="42732" type="image/jpeg"/>
-      <pubDate>Mon, 18 Aug 2025 19:52:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 04:11:51 +0000</lastBuildDate>
     <item>
       <title>«Нафтопровід «Дружба» відпочив</title>
       <link>https://www.mandarinai.lt/post/79121</link>
@@ -82,6 +64,20 @@
 ❗️ «You’d be surprised to know how many doors flattery can open», - Маріана ван Целлер, журналіст</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-18_21-15-08.jpg" length="79067" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 21:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росіяни вночі атакували енер</title>
+      <link>https://www.mandarinai.lt/post/79131</link>
+      <description>❗️росіяни вночі атакували енергетичну інфраструктуру Полтавщини дронами та ракетами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_03-54-30.jpg" length="92576" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 03:54:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генсек НАТО Марк Рютте заявив,</title>
+      <link>https://www.mandarinai.lt/post/79134</link>
+      <description>Генсек НАТО Марк Рютте заявив, що саме завдяки президенту Трампу вдалося подолати глухий кут у спілкуванні з путіним, і що ніхто інший не зміг би цього зробити.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-19_03-58-32.mp4" length="4243583" type="video/mp4"/>
+      <pubDate>Tue, 19 Aug 2025 03:58:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
