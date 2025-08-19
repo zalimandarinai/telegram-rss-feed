@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 13:22:23 +0000</lastBuildDate>
-    <item>
-      <title>РосЗМІ опублікували момент ніч</title>
-      <link>https://www.mandarinai.lt/post/79154</link>
-      <description>РосЗМІ опублікували момент нічного ракетного удару Х-101 по Кременчуцькому нафтопереробному заводу, який хтось з українців виклав у соцмережі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0453.MP4" length="4128511" type="video/mp4"/>
-      <pubDate>Tue, 19 Aug 2025 10:45:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 14:09:08 +0000</lastBuildDate>
     <item>
       <title>Після масштабної операції «Пав</title>
       <link>https://www.mandarinai.lt/post/79156</link>
@@ -75,6 +68,13 @@
 Все, що відбувається, вчергове доводить, що в світі діє не сила права, а право сили, і це головний урок, який має засвоїти Україна.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_13-08-28.jpg" length="105203" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 13:08:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥 Приємні кадри знищення росі</title>
+      <link>https://www.mandarinai.lt/post/79167</link>
+      <description>💥🔥 Приємні кадри знищення російського потягу з пальним на окупованій частині Запорізької області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-19_13-58-29.mp4" length="5303329" type="video/mp4"/>
+      <pubDate>Tue, 19 Aug 2025 13:58:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
