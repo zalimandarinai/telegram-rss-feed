@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 15:09:55 +0000</lastBuildDate>
-    <item>
-      <title>Після масштабної операції «Пав</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Після масштабної операції «Павутина» на російській території стратегічна авіація запускає приблизно вдвічі менше ракет
-
-В квітні та травні росія запускала з літаків у середньому 33 ракети за один удар.
-
-За червень та липень в середньому 19 ракет за один удар, тобто, на 42% менше.</description>
-      <pubDate>Tue, 19 Aug 2025 11:22:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Далекобійні безпілотники СБУ з</title>
-      <link>https://www.mandarinai.lt/post/79159</link>
-      <description>Далекобійні безпілотники СБУ знищили два склади боєприпасів окупантів на Луганщині в ніч на 19 серпня.
-
-Склади боєприпасів розташовані  у населеному пункті Білокуракине на тимчасово окупованій Луганщині. 
-
-Поруч важлива залізнична гілка, якою з росії постачають боєприпаси на лінію фронту, зокрема на Покровський напрямок.
-
-Безпілотники щонайменше сім разів влучили по території складів. 
-
-Сліди пожежі після вибухів зафіксував сервіс FIRMS, який фіксує загоряння по всьому світу в реальному часі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_11-41-02.jpg" length="93152" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 11:41:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 16:10:59 +0000</lastBuildDate>
     <item>
       <title>В бригаді «Хартія» новий коман</title>
       <link>https://www.mandarinai.lt/post/79163</link>
@@ -78,6 +53,24 @@
 Американське джерело агентства на умовах анонімності розповіло, що генерал Ден Кейн, голова Об'єднаного комітету начальника штабів США, приєднається до зустрічі віртуально.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_14-32-43.jpg" length="36552" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 14:32:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Президент Фінляндії Александр </title>
+      <link>https://www.mandarinai.lt/post/79173</link>
+      <description>Президент Фінляндії Александр Стубб охарактеризував Краматорськ і Слов’янськ як «бастіон проти гунів», пояснюючи американському колезі, чому неможна здавати Донбас, - The Wall Street Journal 
+
+На Трампа цей вислів справив враження, пише видання.
+
+Хоча сумнівно, бо для цього треба знати, хто такі гуни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_15-57-13.jpg" length="58697" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 15:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Служба імміграційного та митно</title>
+      <link>https://www.mandarinai.lt/post/79174</link>
+      <description>Служба імміграційного та митного контролю США показала в мережі X прибуття до України першої групи депортованих українців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_16-08-27.jpg" length="125210" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 16:08:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
