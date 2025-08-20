@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 05:09:32 +0000</lastBuildDate>
-    <item>
-      <title>Український МіГ-29 атакує воро</title>
-      <link>https://www.mandarinai.lt/post/79182</link>
-      <description>Український МіГ-29 атакує ворожі установки ППО ракетами AGM-88 HARM</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0483.MP4" length="11795197" type="video/mp4"/>
-      <pubDate>Tue, 19 Aug 2025 19:14:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Aug 2025 06:14:14 +0000</lastBuildDate>
     <item>
       <title>😐 Трамп у понеділок зателефону</title>
       <link>https://www.mandarinai.lt/post/79183</link>
@@ -91,6 +84,18 @@
 Поранення отримали 12 осіб, серед них двоє дітей</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-20_03-53-04.jpg" length="226054" type="image/jpeg"/>
       <pubDate>Wed, 20 Aug 2025 03:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Крим масивний. Я б сказав, за</title>
+      <link>https://www.mandarinai.lt/post/79196</link>
+      <description>«Крим масивний. Я б сказав, за розмірами, як Техас, або щось на кшталт цього». 
+
+Урок географії від Трампа в ефірі радіожурналіста Марка Левіна.
+
+Площа Криму - 26081 км²
+Площа Техасу - 696241 км², тобто, більше, ніж на 90000 км², ніж вся площа України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-20_06-06-43.jpg" length="162487" type="image/jpeg"/>
+      <pubDate>Wed, 20 Aug 2025 06:06:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
