@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 02:23:49 +0000</lastBuildDate>
-    <item>
-      <title>Президент Фінляндії Александр </title>
-      <link>https://www.mandarinai.lt/post/79173</link>
-      <description>Президент Фінляндії Александр Стубб охарактеризував Краматорськ і Слов’янськ як «бастіон проти гунів», пояснюючи американському колезі, чому неможна здавати Донбас, - The Wall Street Journal 
-
-На Трампа цей вислів справив враження, пише видання, хоча для цього треба знати, хто такі гуни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_15-57-13.jpg" length="58697" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 15:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Служба імміграційного та митно</title>
-      <link>https://www.mandarinai.lt/post/79174</link>
-      <description>Служба імміграційного та митного контролю США показала в мережі X прибуття до України першої групи депортованих українців.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_16-08-27.jpg" length="125210" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 16:08:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>російський дрон атакував авто </title>
-      <link>https://www.mandarinai.lt/post/79175</link>
-      <description>російський дрон атакував авто «швидкої допомоги» в Куп’янську, двоє людей поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-19_16-15-43.jpg" length="199465" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 16:15:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Aug 2025 03:34:15 +0000</lastBuildDate>
     <item>
       <title>Рідкісний випадок в небі над ф</title>
       <link>https://www.mandarinai.lt/post/79177</link>
@@ -110,6 +87,13 @@
       <description>В Донецьку «добрі підпалювачі» не пройшли мимохідь російської військової вантажівки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0490.MP4" length="8769920" type="video/mp4"/>
       <pubDate>Tue, 19 Aug 2025 21:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Вночі ворог атакував енергет</title>
+      <link>https://www.mandarinai.lt/post/79188</link>
+      <description>⚡️Вночі ворог атакував енергетичні об'єкти в Ізмаїлі на Одещині та Охтирку у Сумській області. Без жертв.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-20_03-11-01.jpg" length="97337" type="image/jpeg"/>
+      <pubDate>Wed, 20 Aug 2025 03:11:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
