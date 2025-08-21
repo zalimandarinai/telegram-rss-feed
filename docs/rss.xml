@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 12:17:06 +0000</lastBuildDate>
-    <item>
-      <title>У Львові внаслідок російської </title>
-      <link>https://www.mandarinai.lt/post/79221</link>
-      <description>У Львові внаслідок російської атаки є загиблий, ще двоє травмовані, пошкоджені десятки будинків — очільник ОВА Козицький</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-21_05-18-21.mp4" length="228040" type="video/mp4"/>
-      <pubDate>Thu, 21 Aug 2025 05:18:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 13:22:19 +0000</lastBuildDate>
     <item>
       <title>Наслідки російської атаки на М</title>
       <link>https://www.mandarinai.lt/post/79222</link>
@@ -105,6 +98,17 @@ FP-5 «Фламінго» — одна з найбільших таких рак
 Спецоперація відбулася у ніч на 21 серпня. Результат роботи – ускладнене забезпечення південного угруповання ЗС рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-21_12-02-05.mp4" length="320654" type="video/mp4"/>
       <pubDate>Thu, 21 Aug 2025 12:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Європейські країни закликают</title>
+      <link>https://www.mandarinai.lt/post/79235</link>
+      <description>‼️Європейські країни закликають США розгорнути в Румунії винищувачі F-35 в рамках гарантій безпеки для України, — The Times 
+
+За даними видання, це питання обговорювалося під час зустрічі голови Об'єднаного комітету начальників штабів США  Дена Кейна з військовими представниками з Великої Британії, Німеччини, Франції, Фінляндії та Італії для обговорення гарантій безпеки США.
+
+Окрім цього європейські представники хочуть, щоб США зобов'язалися постачати Україні ракети ППО Patriot та NASAMS, а також гарантій щодо подальшого використання американських супутників для GPS та розвідки в Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-21_13-06-03.jpg" length="48441" type="image/jpeg"/>
+      <pubDate>Thu, 21 Aug 2025 13:06:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
