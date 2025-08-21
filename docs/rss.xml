@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 11:07:44 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥У тимчасово окупованому Доне</title>
-      <link>https://www.mandarinai.lt/post/79218</link>
-      <description>💥🔥У тимчасово окупованому Донецьку яскраво</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-20_20-24-55.jpg" length="53689" type="image/jpeg"/>
-      <pubDate>Wed, 20 Aug 2025 20:24:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 12:17:06 +0000</lastBuildDate>
     <item>
       <title>У Львові внаслідок російської </title>
       <link>https://www.mandarinai.lt/post/79221</link>
@@ -96,6 +89,22 @@ FP-5 «Фламінго» — одна з найбільших таких рак
 Також «крот» намагався схилити до співпраці з агресором інших військових.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-21_10-57-25.jpg" length="140263" type="image/jpeg"/>
       <pubDate>Thu, 21 Aug 2025 10:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Танкісти 63-ої бригади впритул</title>
+      <link>https://www.mandarinai.lt/post/79232</link>
+      <description>Танкісти 63-ої бригади впритул розносять схованки російських ДРГ, яким пощастило пролізти поміж українських позицій на Донеччині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0525.MP4" length="12933073" type="video/mp4"/>
+      <pubDate>Thu, 21 Aug 2025 11:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥 Підірваний потяг росіян з п</title>
+      <link>https://www.mandarinai.lt/post/79233</link>
+      <description>💥🔥 Підірваний потяг росіян з пально-мастильними матеріалами, який ще дуже довго вибухав — робота наших ССО у Джанкої в окупованому Криму 
+
+Спецоперація відбулася у ніч на 21 серпня. Результат роботи – ускладнене забезпечення південного угруповання ЗС рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-21_12-02-05.mp4" length="320654" type="video/mp4"/>
+      <pubDate>Thu, 21 Aug 2025 12:02:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
