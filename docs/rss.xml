@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 11:07:30 +0000</lastBuildDate>
-    <item>
-      <title>В Мукачеві досі не загасили по</title>
-      <link>https://www.mandarinai.lt/post/79257</link>
-      <description>В Мукачеві досі не загасили пожежу після удару рф по заводу електроніки Flex 21 серпня, - ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0548.MP4" length="13522110" type="video/mp4"/>
-      <pubDate>Fri, 22 Aug 2025 06:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>В бухті Новоросійська при спро</title>
-      <link>https://www.mandarinai.lt/post/79258</link>
-      <description>В бухті Новоросійська при спробі  витягнути український морський дрон підірвалися п’ять елітних російських водолазів з групи підводних диверсантів, - ГУР</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-22_07-02-36.jpg" length="117923" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 07:02:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 12:16:19 +0000</lastBuildDate>
     <item>
       <title>❗️ Три роки за ґратами за спро</title>
       <link>https://www.mandarinai.lt/post/79259</link>
@@ -90,6 +76,17 @@
 Атака відбулася у ніч проти 21 серпня. Пізніше Генштаб ЗСУ підтвердив удар по НПЗ, який вважається одним із найбільших постачальників палива на півдні РФ та зокрема російській окупаційні армії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-22_11-04-41.mp4" length="2286857" type="video/mp4"/>
       <pubDate>Fri, 22 Aug 2025 11:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ще один жахливий воєнний злочи</title>
+      <link>https://www.mandarinai.lt/post/79273</link>
+      <description>Ще один жахливий воєнний злочин проти цивільних скоїли російські окупанти.
+
+По дорозі на Котлярівку біля Купʼянська росіяни відкрили вогонь по цивільній жінці зі стрілецької зброї та міномета, а згодом добили її FPV-дроном. 
+
+Злочин скоїли оператори дронів російської групи «Судний день», які навіть не приховують, що атакують цивільних.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0575.MP4" length="25172325" type="video/mp4"/>
+      <pubDate>Fri, 22 Aug 2025 11:45:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
