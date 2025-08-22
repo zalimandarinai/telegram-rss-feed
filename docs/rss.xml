@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 09:09:48 +0000</lastBuildDate>
-    <item>
-      <title>🔥 У Брянській області горить н</title>
-      <link>https://www.mandarinai.lt/post/79253</link>
-      <description>🔥 У Брянській області горить нафтоперекачувальна станція в місті Унеча, — Мадяр</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-22_05-30-11.mp4" length="4826879" type="video/mp4"/>
-      <pubDate>Fri, 22 Aug 2025 05:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Постачання нафти до Угорщин</title>
-      <link>https://www.mandarinai.lt/post/79254</link>
-      <description>❗️ Постачання нафти до Угорщини призупинені через удар по нафтоперекачувальній станції «Унеча» нафтопроводу «Дружба», — очільник МЗС Угорщини Петер Сійярто</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-22_05-54-22.jpg" length="28396" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 05:54:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 10:09:35 +0000</lastBuildDate>
     <item>
       <title>Офіційне визнання того, що Пів</title>
       <link>https://www.mandarinai.lt/post/79255</link>
@@ -93,6 +79,15 @@
 За даними Донецької ОВА, за сьогодні пошкоджено 21 багатоповерхівку, 5 адміністративних будівель, 3 господарчі споруди, торговий центр, 30 торгових павільйонів, інфраструктурний об’єкт та 3 газогони.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-22_08-39-48.jpg" length="74317" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 08:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Видовищний момент пуску укра</title>
+      <link>https://www.mandarinai.lt/post/79269</link>
+      <description>🔥 Видовищний момент пуску української далекобійної ракети FP-5 «Фламінго»
+
+Нагадаємо, що вона здатна пролетіти 3000 км та може нести бойове навантаження масою більше 1000 кг</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-22_09-20-07.mp4" length="929034" type="video/mp4"/>
+      <pubDate>Fri, 22 Aug 2025 09:20:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
