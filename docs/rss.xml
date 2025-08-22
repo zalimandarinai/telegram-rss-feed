@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 21:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 22:08:07 +0000</lastBuildDate>
     <item>
       <title>🔥У російському Новошахтинську </title>
       <link>https://www.mandarinai.lt/post/79272</link>
@@ -114,6 +114,15 @@ https://cutt.ly/mrJOoTnq</description>
 ▫️ Оператори центру «Рубікон» експлуатують різні типи безпілотників, баражуючі боєприпаси «Ланцет», ударні «Молнії», дрони на оптоволокні та далекобійні БПЛА, деякі підрозділи навіть проходять спеціальну підготовку для боротьби з українськими літаками.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0578.MP4" length="8091528" type="video/mp4"/>
       <pubDate>Fri, 22 Aug 2025 20:18:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кіт Келлог разом із делегацією</title>
+      <link>https://www.mandarinai.lt/post/79285</link>
+      <description>Кіт Келлог разом із делегацією США завтра приїде до Києва.
+
+Згідно попереднього досвіду, під час візиту русня не обстрілюватиме столицю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-22_21-09-20.jpg" length="44859" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 21:09:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
