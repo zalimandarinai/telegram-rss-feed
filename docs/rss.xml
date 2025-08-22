@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 18:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 19:07:19 +0000</lastBuildDate>
     <item>
       <title>🔥 Видовищний момент пуску укра</title>
       <link>https://www.mandarinai.lt/post/79269</link>
@@ -99,6 +99,13 @@ https://cutt.ly/mrJOoTnq</description>
 Трамп: Я сказав йому, що я незадоволений</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-22_17-36-35.mp4" length="1007373" type="video/mp4"/>
       <pubDate>Fri, 22 Aug 2025 17:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогоднішні удари ворога по од</title>
+      <link>https://www.mandarinai.lt/post/79282</link>
+      <description>Сьогоднішні удари ворога по одному з островів біля Херсона</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0577.MP4" length="7642464" type="video/mp4"/>
+      <pubDate>Fri, 22 Aug 2025 18:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
