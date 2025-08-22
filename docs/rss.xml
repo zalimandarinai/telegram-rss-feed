@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 07:08:52 +0000</lastBuildDate>
-    <item>
-      <title>Ворожий «Град», якісно розвале</title>
-      <link>https://www.mandarinai.lt/post/79246</link>
-      <description>Ворожий «Град», якісно розвалений 14-ою бригадою оперативного призначення «Червона Калина» у складі 1-го корпусу НГУ «Азов» спільно з суміжними підрозділами, які захищають Покровськ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0540.MP4" length="14254990" type="video/mp4"/>
-      <pubDate>Thu, 21 Aug 2025 18:00:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 08:13:16 +0000</lastBuildDate>
     <item>
       <title>Противник сьогодні фактично вп</title>
       <link>https://www.mandarinai.lt/post/79247</link>
@@ -110,6 +103,23 @@
       <description>В бухті Новоросійська при спробі  витягнути український морський дрон підірвалися п’ять елітних російських водолазів з групи підводних диверсантів, - ГУР</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-22_07-02-36.jpg" length="117923" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 07:02:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Три роки за ґратами за спро</title>
+      <link>https://www.mandarinai.lt/post/79259</link>
+      <description>❗️ Три роки за ґратами за спробу незаконного виїзду з України, — до ВР внесено відповідний законопроєкт
+
+За незаконний перетин кордону чи підробку документів передбачено штраф 51–170 тис. грн або ув’язнення до 3 років.
+
+Таким чином, криміналізуються як спроби так званих «ухилянтів» втекти за кордон, так і послуги провідників, які їх приховано переводять або перевозять.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-22_07-33-34.jpg" length="97358" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 07:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Аеророзвідники 4-го прикордонн</title>
+      <link>https://www.mandarinai.lt/post/79260</link>
+      <description>Аеророзвідники 4-го прикордонного загону знищили 10 ворожих цілей на Південно-Слобожанському напрямку: 5 одиниць техніки, укриття та 4 позиції запуску БПЛА</description>
+      <pubDate>Fri, 22 Aug 2025 07:39:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
