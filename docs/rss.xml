@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 09:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 10:08:10 +0000</lastBuildDate>
     <item>
       <title>🇨🇳 Пекін відреагував на заяву </title>
       <link>https://www.mandarinai.lt/post/79280</link>
@@ -75,6 +75,17 @@
 Щирі співчуття близьким та рідним загиблого пілота.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-23_04-57-56.jpg" length="61028" type="image/jpeg"/>
       <pubDate>Sat, 23 Aug 2025 04:57:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Китай готовий відправити мирот</title>
+      <link>https://www.mandarinai.lt/post/79293</link>
+      <description>Китай готовий відправити миротворців в Україну під мандатом ООН, — Welt am Sonntag
+
+За даними видання, у Брюсселі ініціатива Пекіна викликала змішану реакцію. Участь країн «глобального Півдня», зокрема Китаю, може прискорити розміщення міжнародних сил для спостереження за мирним процесом.
+
+Водночас є побоювання, що Пекін використає місію для збору розвідданих і в разі загострення конфлікту стане на проросійський бік, зазначив високопоставлений дипломат ЄС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-23_09-11-01.jpg" length="113989" type="image/jpeg"/>
+      <pubDate>Sat, 23 Aug 2025 09:11:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
