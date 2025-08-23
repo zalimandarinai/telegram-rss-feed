@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 15:07:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 16:08:48 +0000</lastBuildDate>
     <item>
       <title>Китай готовий відправити мирот</title>
       <link>https://www.mandarinai.lt/post/79293</link>
@@ -87,6 +87,13 @@
       <description>🇹🇷 Туреччина в межах безпекових гарантій допускає відправку своїх військових до України, - посол України Наріман Джелял</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-23_14-42-10.jpg" length="143781" type="image/jpeg"/>
       <pubDate>Sat, 23 Aug 2025 14:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Екіпаж МіГ-29 ударом бомби GBU</title>
+      <link>https://www.mandarinai.lt/post/79302</link>
+      <description>Екіпаж МіГ-29 ударом бомби GBU62 знищив пункт базування і підготовки розрахунків БпЛА окупантів на півдні України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0609.MOV" length="17836041" type="video/mp4"/>
+      <pubDate>Sat, 23 Aug 2025 15:10:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
