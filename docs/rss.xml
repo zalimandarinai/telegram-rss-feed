@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Aug 2025 09:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 10:08:27 +0000</lastBuildDate>
     <item>
       <title>🇳🇴 Норвегія виділяє близько 70</title>
       <link>https://www.mandarinai.lt/post/79323</link>
@@ -64,9 +64,18 @@
       <link>https://www.mandarinai.lt/post/79332</link>
       <description>🇺🇸🇺🇦Спецпосланець США Кіт Келлог прибув до Києва 
 
-Просто зараз у столиці на Софійській площі він бере участь в урочистостях до Дня Незалежності України</description>
+Просто зараз у столиці на Софійській площі він бере участь в урочистостях до Дня Незалежності України
+
+Келлога називають кращим ППО для Києва. Під час його візитів русня боїться обстрілювати столицю.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-24_09-08-01.jpg" length="55323" type="image/jpeg"/>
       <pubDate>Sun, 24 Aug 2025 09:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Москві хтось запалив димові </title>
+      <link>https://www.mandarinai.lt/post/79333</link>
+      <description>В Москві хтось запалив димові шашки в кольорах прапору Легіону «Свобода Росії».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0635.MP4" length="9892347" type="video/mp4"/>
+      <pubDate>Sun, 24 Aug 2025 09:24:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
