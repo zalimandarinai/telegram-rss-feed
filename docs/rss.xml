@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Aug 2025 17:07:14 +0000</lastBuildDate>
-    <item>
-      <title>❗️Українці є й українці будуть</title>
-      <link>https://www.mandarinai.lt/post/79337</link>
-      <description>❗️Українці є й українці будуть на цій землі, де через сто років стоятимуть наші наступні покоління. І через сто років відзначатимуть тут День Незалежності України, — Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-24_11-02-06.jpg" length="129582" type="image/jpeg"/>
-      <pubDate>Sun, 24 Aug 2025 11:02:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 Aug 2025 18:10:59 +0000</lastBuildDate>
     <item>
       <title>❗️ путіну не можна довіряти, в</title>
       <link>https://www.mandarinai.lt/post/79338</link>
@@ -100,6 +93,13 @@
 Станом на зараз Новомихайлівка зачищена від росіян і перебуває під повним контролем української армії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-24_16-37-04.mp4" length="2573315" type="video/mp4"/>
       <pubDate>Sun, 24 Aug 2025 16:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Запальний феєрверк з нагоди Дн</title>
+      <link>https://www.mandarinai.lt/post/79352</link>
+      <description>Запальний феєрверк з нагоди Дня незалежності влаштував прикордонний підрозділ «Фенікс» на Донеччині: 4 мотоцикли, 2 вантажівки та самохідна гаубиця «Мста-С» поповнили статистику втрат техніки російських окупантів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0646.MP4" length="29261263" type="video/mp4"/>
+      <pubDate>Sun, 24 Aug 2025 18:04:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
