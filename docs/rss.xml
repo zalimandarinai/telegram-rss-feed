@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 12:17:13 +0000</lastBuildDate>
-    <item>
-      <title>Уповноважена з прав людини рф </title>
-      <link>https://www.mandarinai.lt/post/79356</link>
-      <description>Уповноважена з прав людини рф Наталія Москалькова заявила, що нібито відбулися переговори з українською стороною на території Білорусі
-
-Москалькова зазначила, що у ході переговорів у Білорусі сторони нібито обговорювали питання військовополонених. Зокрема питання "взаємного" возз'єднання родин та відвідування полонених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-25_02-48-49.jpg" length="149404" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 02:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мер Херсона Володимир Миколаєн</title>
-      <link>https://www.mandarinai.lt/post/79359</link>
-      <description>Мер Херсона Володимир Миколаєнко до і після російського полону</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-25_03-20-48.jpg" length="74262" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 03:20:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 13:23:53 +0000</lastBuildDate>
     <item>
       <title>‼️Морські міни знову помічені </title>
       <link>https://www.mandarinai.lt/post/79361</link>
@@ -111,6 +95,21 @@
  МЗС України назвало ганьбою участь Вуді Аллена у кінофестивалі, який є інструментом російської пропаганди</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-25_11-29-21.jpg" length="58871" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 11:29:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поки Вуді Аллен «крінжує» і га</title>
+      <link>https://www.mandarinai.lt/post/79372</link>
+      <description>Поки Вуді Аллен «крінжує» і ганьбиться в Москві, його співвітчизники воюють в рядах Інтернаціонального Легіону і ліквідовують військових країни, якою американець так захоплюється.
+
+Бойова робота 1-го Інтернаціонального легіону оборони України.
+
+Військовослужбовці підрозділу безпілотних авіаційних комплексів показали, як знищують техніку російських окупантів.
+
+Час і місце події не розголошується.
+
+Дізнатися більше про Інтернаціональні легіони оборони України можна за посиланням: https://ildu.mil.gov.ua/uk</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0660.MP4" length="3464010" type="video/mp4"/>
+      <pubDate>Mon, 25 Aug 2025 12:31:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
