@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 14:09:12 +0000</lastBuildDate>
-    <item>
-      <title>‼️Морські міни знову помічені </title>
-      <link>https://www.mandarinai.lt/post/79361</link>
-      <description>‼️Морські міни знову помічені поблизу узбережжя Одеси
-
-Нагадаємо, що в Затоці в серпні троє відпочивальників загинули внаслідок вибуху міни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-25_07-14-40.mp4" length="1697542" type="video/mp4"/>
-      <pubDate>Mon, 25 Aug 2025 07:14:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 15:09:41 +0000</lastBuildDate>
     <item>
       <title>⚡️На супутникових знімках зафі</title>
       <link>https://www.mandarinai.lt/post/79363</link>
@@ -110,6 +101,24 @@
 Дізнатися більше про Інтернаціональні легіони оборони України можна за посиланням: https://ildu.mil.gov.ua/uk</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0660.MP4" length="3464010" type="video/mp4"/>
       <pubDate>Mon, 25 Aug 2025 12:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>У видавництва «Стилет і стилос</title>
+      <link>https://www.mandarinai.lt/post/79378</link>
+      <description>У видавництва «Стилет і стилос» вийшла книга «Темний шлях. Структура війни і піднесення Заходу»!
+
+Це остання книга американського історика Вільямсона Мюррея (1941-2023). У цій монументальній праці він описує, як дотепер західна цивілізація домінувала у світі саме завдяки військовій могутності та загартованості у війнах. 
+
+Автор простежує «темний шлях» безперервних кривавих зіткнень від Середньовіччя та відкриття Нового світу, крізь «кабінетні війни» 17-18-го століть, до тотальної війни на знищення у 20-му столітті та асиметричних конфліктів у 21-му. 
+
+Мюррей аналізує, як змінювалися технології, озброєння, тактика та підхід до організації армій і пояснює, чому з Середніх віків війни вже не виграються у вирішальних боях, а натомість ведуться тривалі битви на виснаження. 
+Це одна з кращих книжок на тему стратегії та геополітики і вона буде цікавою всім, хто цікавиться історією воєн та впливу технологій на поле бою.
+
+Замовити книгу можна на сайті
+
+Повна ціна — 600 грн, за промокодом «цаплієнко» ви отримаєте знижку 20% (дійсна також на інші книги видавництва)</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-25_14-59-52.jpg" length="224761" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 14:59:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
