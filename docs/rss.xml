@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 17:07:49 +0000</lastBuildDate>
-    <item>
-      <title>Сі Цзіньпін вперше публічно пр</title>
-      <link>https://www.mandarinai.lt/post/79428</link>
-      <description>Сі Цзіньпін вперше публічно привітав Україну з Днем незалежності, – Bloomberg.
-
-Це сталося за кілька днів до того, як до Сі з візитом має прибути путін.
-
-За останні десятиліття Китай ніколи не вітав колишні республіки СРСР зі святами. Окрім, звісно, росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-26_11-01-30.jpg" length="108479" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 11:01:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️рф завдала удару по шахті ДТ</title>
-      <link>https://www.mandarinai.lt/post/79429</link>
-      <description>❗️рф завдала удару по шахті ДТЕК: один працівник загинув, ще троє отримали поранення
-
-На момент обстрілу під землею перебували 146 гірників — зараз триває їхня евакуація на поверхню</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-26_11-32-31.jpg" length="101974" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 11:32:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 18:12:20 +0000</lastBuildDate>
     <item>
       <title>⚡️Сьогодні на засіданні уряду </title>
       <link>https://www.mandarinai.lt/post/79431</link>
@@ -143,6 +123,15 @@ https://send.monobank.ua/jar/6Z5tUv3HTo
 Вистоїмо тільки разом!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-26_17-01-57.mp4" length="4249671" type="video/mp4"/>
       <pubDate>Tue, 26 Aug 2025 17:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлено, як свіже знищення ро</title>
+      <link>https://www.mandarinai.lt/post/79442</link>
+      <description>Заявлено, як свіже знищення російського "Граду" на окупованій частині Херсонщини.
+
+Відео:Регіон22</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-26_18-06-07.mp4" length="1215847" type="video/mp4"/>
+      <pubDate>Tue, 26 Aug 2025 18:06:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
