@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 19:07:08 +0000</lastBuildDate>
-    <item>
-      <title>На Сумщині зараз триває евакуа</title>
-      <link>https://www.mandarinai.lt/post/79476</link>
-      <description>На Сумщині зараз триває евакуація з тих населених пунктів, які атакують окупанти.
-
-Йдеться переважно про села поруч з кордоном.
-
-Інформацію та допомогу в евакуації людей з інвалідністю й тяжкими хворобами можна отримати за телефонами +38 (050) 538 77 86, +38 (095) 250 18 84.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0749.MP4" length="14496256" type="video/mp4"/>
-      <pubDate>Wed, 27 Aug 2025 12:49:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Для виїзду за кордон україн</title>
-      <link>https://www.mandarinai.lt/post/79477</link>
-      <description>‼️ Для виїзду за кордон українцям віком від 18 до 22 років потрібні паспорт та військовий обліковий документ (включно з електронною версією через «Резерв+»), — МВС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-27_13-14-03.jpg" length="166633" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 13:14:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 20:09:51 +0000</lastBuildDate>
     <item>
       <title>В Запорізькій області росіяни </title>
       <link>https://www.mandarinai.lt/post/79478</link>
