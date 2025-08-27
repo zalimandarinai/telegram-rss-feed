@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 17:07:33 +0000</lastBuildDate>
-    <item>
-      <title>В Юнаківці на території Сумщин</title>
-      <link>https://www.mandarinai.lt/post/79474</link>
-      <description>В Юнаківці на території Сумщини в шкільній будівлі засіли окупанти. Українська авіація їх розібрала. Судячи з відео, удар завдали винищувачі МіГ-29.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0747.MP4" length="12014080" type="video/mp4"/>
-      <pubDate>Wed, 27 Aug 2025 12:36:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 18:12:27 +0000</lastBuildDate>
     <item>
       <title>«Я найду парня такого, который</title>
       <link>https://www.mandarinai.lt/post/79475</link>
@@ -125,6 +118,15 @@
       <description>Ольга Стефанішина — офіційно новий посол України в США, повідомив Зеленський. Окремо він подякував Оксані Маркаровій за роботу у Вашингтоні та запропонував їй і надалі залишатися у команді.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-27_17-00-14.jpg" length="56469" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 17:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Ми не хочемо, щоб Україна ка</title>
+      <link>https://www.mandarinai.lt/post/79488</link>
+      <description>‼️Ми не хочемо, щоб Україна капітулювала. Така капітуляція лише дасть росії час, і путін використає цей час для підготовки до наступної війни, — Мерц
+
+Німецький канцлер на прес-конференції з лідерами Франції, Польщі та Молдови у Кишиневі наголосив, що війна в Україні має закінчитися, але «не за будь-яку ціну»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-27_17-44-41.jpg" length="209261" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 17:44:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
