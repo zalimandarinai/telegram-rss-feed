@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 16:10:39 +0000</lastBuildDate>
-    <item>
-      <title>Сили 10-го армійського корпусу</title>
-      <link>https://www.mandarinai.lt/post/79472</link>
-      <description>Сили 10-го армійського корпусу знищили склад боєприпасів противника біля Купʼянська.
-
-Ситуація в місті нагадує те, що відбувається в районі Покровська.
-
-До Купʼянська пробують заходити ворожі ДРГ, намагаючись «затихаритися» в підвалах покинутих будівель в очікуванні підходу основних сил противника.
-
-Українські спецпризначенці майже кожного дня проводять зачистки околиць Купʼянська від таких груп. 
-
-Ймовірно, російський Генштаб вважає Купʼянськ однією з тих ділянок, де окупанти сподіваються «продавити» оборону українців.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0744.MP4" length="6849237" type="video/mp4"/>
-      <pubDate>Wed, 27 Aug 2025 10:54:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 17:07:33 +0000</lastBuildDate>
     <item>
       <title>В Юнаківці на території Сумщин</title>
       <link>https://www.mandarinai.lt/post/79474</link>
@@ -133,6 +118,13 @@
 Найбільшими іноземними платниками податків у 2024 р. стали австрійський банк Raiffeisen Bank ($402 млн), китайський виробник автомобілів Chery Automobile ($222 млн), транснаціональна тютюнова компанія Philip Morris International ($220 млн), японська тютюнова компанія Japan Tobacco International ($182 млн) і французький ритейлер товарів для дому та садівництва Leroy Merlin ($128 млн).</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-27_15-29-58.jpg" length="168920" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 15:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ольга Стефанішина — офіційно н</title>
+      <link>https://www.mandarinai.lt/post/79487</link>
+      <description>Ольга Стефанішина — офіційно новий посол України в США, повідомив Зеленський. Окремо він подякував Оксані Маркаровій за роботу у Вашингтоні та запропонував їй і надалі залишатися у команді.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-27_17-00-14.jpg" length="56469" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 17:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
