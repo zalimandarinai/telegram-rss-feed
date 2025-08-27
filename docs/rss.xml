@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 07:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 08:12:19 +0000</lastBuildDate>
     <item>
       <title>🇨🇿 Чеські волонтери з ініціати</title>
       <link>https://www.mandarinai.lt/post/79447</link>
@@ -94,6 +94,13 @@ Mavic 4T проводить повітряну розвідку ворожих �
 Вистоїмо тільки разом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0727.MP4" length="21821017" type="video/mp4"/>
       <pubDate>Wed, 27 Aug 2025 06:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрив хат з окупантами боєпри</title>
+      <link>https://www.mandarinai.lt/post/79461</link>
+      <description>Підрив хат з окупантами боєприпасами, які в 63-ій бригаді називають «особливими», район Лимана</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0735.MP4" length="30442329" type="video/mp4"/>
+      <pubDate>Wed, 27 Aug 2025 07:39:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
