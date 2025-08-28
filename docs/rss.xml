@@ -6,35 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 04:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 05:09:26 +0000</lastBuildDate>
     <item>
       <title>💥🔥У росії після атаки дронів г</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥У росії після атаки дронів горять одні з найбільших НПЗ — Афіпський та Новокуйбишевський</description>
       <pubDate>Thu, 28 Aug 2025 01:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зруйнована п'ятиповерхівка в К</title>
-      <link>https://www.mandarinai.lt/post/79526</link>
-      <description>Зруйнована п'ятиповерхівка в Києві. Повідомляють про трьох загиблих у столиці. Серед загиблих дитина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_01-56-05.jpg" length="123724" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 01:56:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Рятувальник намагається реанім</title>
-      <link>https://www.mandarinai.lt/post/79527</link>
-      <description>Рятувальник намагається реанімувати людину біля зруйнованого росією будинку
-
-Кляті російські вбивці колись відповідатимуть за все</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_02-08-53.mp4" length="562072" type="video/mp4"/>
-      <pubDate>Thu, 28 Aug 2025 02:08:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Ранкові російські НПЗ</title>
-      <link>https://www.mandarinai.lt/post/79529</link>
-      <description>🔥Ранкові російські НПЗ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_02-19-08.mp4" length="3717494" type="video/mp4"/>
-      <pubDate>Thu, 28 Aug 2025 02:19:08 +0000</pubDate>
     </item>
     <item>
       <title>Житловий комплекс «Нова Англія</title>
@@ -56,6 +33,31 @@
       <description>В Києві сьогодні вночі загинуло щонайменше чотири людини, серед них дитина. Все те зло, яке принесли російські тварі, не може залишатися непокараним.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0765.MP4" length="2394613" type="video/mp4"/>
       <pubDate>Thu, 28 Aug 2025 04:09:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>По багатоповерхівці за адресою</title>
+      <link>https://www.mandarinai.lt/post/79540</link>
+      <description>По багатоповерхівці за адресою Харківське шосе 56 в Києві було два удари, свідчать мешканці будинку, і це говорить про те, що сьогодні росіяни цілеспрямовано били по цивільній забудові. Жителі будинку звертаються до київської міської влади за допомогою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0770.MP4" length="2987838" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 04:32:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві серед загиблих вже дві</title>
+      <link>https://www.mandarinai.lt/post/79545</link>
+      <description>В Києві серед загиблих вже дві дитини, - міністр внутрішніх справ
+
+Під завалами можуть знаходитись ще три людини. 
+
+Близько 30 поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0782.MP4" length="3584343" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 04:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Сусіди, виходимо! Реально пал</title>
+      <link>https://www.mandarinai.lt/post/79547</link>
+      <description>«Сусіди, виходимо! Реально палають верхні поверхи», - один з мешканців будинку, в який влучили дрони, волонтер Сергій «Фартовий», намагається вивести людей одразу після ударів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0786.MP4" length="7691624" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 05:03:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
