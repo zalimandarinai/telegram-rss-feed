@@ -6,29 +6,20 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 02:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 03:28:28 +0000</lastBuildDate>
     <item>
       <title>💥🔥У росії після атаки дронів г</title>
-      <link>https://www.mandarinai.lt/post/79515</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥У росії після атаки дронів горять одні з найбільших НПЗ — Афіпський та Новокуйбишевський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_01-16-50.mp4" length="706069" type="video/mp4"/>
       <pubDate>Thu, 28 Aug 2025 01:16:50 +0000</pubDate>
     </item>
     <item>
       <title>‼️Вже четверо постраждалих у Д</title>
-      <link>https://www.mandarinai.lt/post/79518</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>‼️Вже четверо постраждалих у Дніпровському районі столиці. Всіх медики госпіталізували.
 
 У Шевченківському районі пожежа в житловому будинку. Також пошкоджена офісна будівля, – мер.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_01-27-28.mp4" length="157061" type="video/mp4"/>
       <pubDate>Thu, 28 Aug 2025 01:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Повідомляють про одного загибл</title>
-      <link>https://www.mandarinai.lt/post/79519</link>
-      <description>Повідомляють про одного загиблого внаслідок атаки рф на Київ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_01-35-33.mp4" length="412785" type="video/mp4"/>
-      <pubDate>Thu, 28 Aug 2025 01:35:33 +0000</pubDate>
     </item>
     <item>
       <title>Поки русняві виродки атакують </title>
@@ -59,6 +50,13 @@
 Кляті російські вбивці колись відповідатимуть за все</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_02-08-53.mp4" length="562072" type="video/mp4"/>
       <pubDate>Thu, 28 Aug 2025 02:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Ранкові російські НПЗ</title>
+      <link>https://www.mandarinai.lt/post/79529</link>
+      <description>🔥Ранкові російські НПЗ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_02-19-08.mp4" length="3717494" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 02:19:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
