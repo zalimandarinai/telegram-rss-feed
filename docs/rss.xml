@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 16:10:45 +0000</lastBuildDate>
-    <item>
-      <title>❗️росія запускає розвідувальні</title>
-      <link>https://www.mandarinai.lt/post/79585</link>
-      <description>❗️росія запускає розвідувальні дрони над маршрутами постачання військової допомоги у Німеччині, - NYT 
-
-Росія або її представники здійснюють польоти безпілотних літаків-розвідників над маршрутами, якими США та їх союзники транспортують військові вантажі через східну частину Німеччини.
-
-Як зазначає The New York Times, мета таких операцій - збір розвідданих, які можуть бути використані для диверсій та підтримки російських військ в Україні. Американські та німецькі посадовці обговорювали цю діяльність.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_13-19-39.jpg" length="50812" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 13:19:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 17:07:35 +0000</lastBuildDate>
     <item>
       <title>Стрілець на борту спортивного </title>
       <link>https://www.mandarinai.lt/post/79587</link>
@@ -122,6 +111,13 @@ The Wall Street Journal зняв сюжет про роботу українсь
 За кілька секунд стався потужний вибух шляхом дистанційного підриву. Після цього цистерни були охоплені вогнем з подальшим розповсюдження пожежі на всю територію залізничної станції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_16-08-53.jpg" length="80238" type="image/jpeg"/>
       <pubDate>Thu, 28 Aug 2025 16:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Київській балетній школі, по</title>
+      <link>https://www.mandarinai.lt/post/79599</link>
+      <description>У Київській балетній школі, попри потрощені російською атакою тренувальні зали, сьогодні продовжували творити красу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_16-13-29.mp4" length="8755213" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 16:13:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
