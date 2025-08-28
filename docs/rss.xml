@@ -6,34 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 03:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 04:10:43 +0000</lastBuildDate>
     <item>
       <title>💥🔥У росії після атаки дронів г</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥У росії після атаки дронів горять одні з найбільших НПЗ — Афіпський та Новокуйбишевський</description>
       <pubDate>Thu, 28 Aug 2025 01:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Вже четверо постраждалих у Д</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>‼️Вже четверо постраждалих у Дніпровському районі столиці. Всіх медики госпіталізували.
-
-У Шевченківському районі пожежа в житловому будинку. Також пошкоджена офісна будівля, – мер.</description>
-      <pubDate>Thu, 28 Aug 2025 01:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Поки русняві виродки атакують </title>
-      <link>https://www.mandarinai.lt/post/79520</link>
-      <description>Поки русняві виродки атакують житлові будинки Києва, добрі дрони нищать ключові НПЗ рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_01-37-33.jpg" length="144061" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 01:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Кадри зруйнованої руснявими в</title>
-      <link>https://www.mandarinai.lt/post/79524</link>
-      <description>🤬Кадри зруйнованої руснявими виблядками 5-поверхівки в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_01-40-22.jpg" length="101056" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 01:40:22 +0000</pubDate>
     </item>
     <item>
       <title>Зруйнована п'ятиповерхівка в К</title>
@@ -57,6 +35,27 @@
       <description>🔥Ранкові російські НПЗ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_02-19-08.mp4" length="3717494" type="video/mp4"/>
       <pubDate>Thu, 28 Aug 2025 02:19:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Житловий комплекс «Нова Англія</title>
+      <link>https://www.mandarinai.lt/post/79534</link>
+      <description>Житловий комплекс «Нова Англія» в Києві після атаки російських нелюдів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0760.MP4" length="3941455" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 04:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наслідки російської атаки на Л</title>
+      <link>https://www.mandarinai.lt/post/79538</link>
+      <description>Наслідки російської атаки на Лукʼянівці в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0764.MP4" length="3493808" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 04:04:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві сьогодні вночі загинул</title>
+      <link>https://www.mandarinai.lt/post/79539</link>
+      <description>В Києві сьогодні вночі загинуло щонайменше чотири людини, серед них дитина. Все те зло, яке принесли російські тварі, не може залишатися непокараним.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0765.MP4" length="2394613" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 04:09:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
