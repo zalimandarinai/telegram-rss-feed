@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 10:09:48 +0000</lastBuildDate>
-    <item>
-      <title>Ще один моторошний момент прил</title>
-      <link>https://www.mandarinai.lt/post/79559</link>
-      <description>Ще один моторошний момент прильоту по ЖК «Паркленд» в Києві потрапив на камери спостереження</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_06-52-33.mp4" length="937903" type="video/mp4"/>
-      <pubDate>Thu, 28 Aug 2025 06:52:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Україна сьогодні була під удар</title>
-      <link>https://www.mandarinai.lt/post/79560</link>
-      <description>Україна сьогодні була під ударом 598 дронів та 31 ракети. Збито і подавлено 589 цілей противника, - Повітряні Сили.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_07-29-01.jpg" length="97897" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 07:29:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Київ вночі атакували дронами «</title>
-      <link>https://www.mandarinai.lt/post/79561</link>
-      <description>Київ вночі атакували дронами «Герань-3» з двигунами PBS TJ40-G2, які виготовлені заводом компанії PBS в Чехії.
-
-Clash Report</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_07-47-15.jpg" length="44907" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 07:47:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Відомо про 14 загиблих в Києві</title>
-      <link>https://www.mandarinai.lt/post/79563</link>
-      <description>Відомо про 14 загиблих в Києві, серед них троє дітей. Ще 9 осіб вважаються зниклими без вісті. Людей продовжують шукати під завалами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_08-15-17.mp4" length="679764" type="video/mp4"/>
-      <pubDate>Thu, 28 Aug 2025 08:15:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 11:07:24 +0000</lastBuildDate>
     <item>
       <title>Кончені російські вбивці скаже</title>
       <link>https://www.mandarinai.lt/post/79567</link>
@@ -77,6 +47,37 @@ Clash Report</description>
       <description>Наслідки атаки рф на центральний район Києва опублікував ОП</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_09-41-33.mp4" length="1383195" type="video/mp4"/>
       <pubDate>Thu, 28 Aug 2025 09:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відео для Віткоффа:  момент по</title>
+      <link>https://www.mandarinai.lt/post/79574</link>
+      <description>Відео для Віткоффа:  момент подвійного удару росії по багатоповерхівці у Києві. 
+
+Днями, спецпосланець Трампа Віткофф пепеконував, що вбивця путін "докладає щирих зусиль, щоб досягти мирного діалогу".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-28_10-28-27.mp4" length="2393270" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 10:28:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>МЗС намагається достукатися до</title>
+      <link>https://www.mandarinai.lt/post/79575</link>
+      <description>МЗС намагається достукатися до совісті продажної підстилки путіна
+
+Тим часом Орбан заборонив в'їзд до Угорщини командиру ЗСУ Мадяру</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_10-40-14.jpg" length="148853" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 10:40:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 "Удари успєшниє, целі унічто</title>
+      <link>https://www.mandarinai.lt/post/79576</link>
+      <description>🤬 "Удари успєшниє, целі унічтожаются, еСВеО продолжаєтся": у Кремлі видали порцію цинічної брехні після масованої атаки РФ по Україні. 
+
+Речник Путіна Пєсков, заявив, що терористи вдарили по військових обʼєктах. 
+
+Їх було щонайменше 15. Наймолодшому було усього два роки😞 
+
+Фото: Ян Доброносов, Телеграф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-28_11-04-29.jpg" length="161423" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 11:04:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
