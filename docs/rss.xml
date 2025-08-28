@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 05:09:26 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥У росії після атаки дронів г</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥🔥У росії після атаки дронів горять одні з найбільших НПЗ — Афіпський та Новокуйбишевський</description>
-      <pubDate>Thu, 28 Aug 2025 01:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Житловий комплекс «Нова Англія</title>
-      <link>https://www.mandarinai.lt/post/79534</link>
-      <description>Житловий комплекс «Нова Англія» в Києві після атаки російських нелюдів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0760.MP4" length="3941455" type="video/mp4"/>
-      <pubDate>Thu, 28 Aug 2025 04:03:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 06:14:01 +0000</lastBuildDate>
     <item>
       <title>Наслідки російської атаки на Л</title>
       <link>https://www.mandarinai.lt/post/79538</link>
@@ -58,6 +45,28 @@
       <description>«Сусіди, виходимо! Реально палають верхні поверхи», - один з мешканців будинку, в який влучили дрони, волонтер Сергій «Фартовий», намагається вивести людей одразу після ударів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0786.MP4" length="7691624" type="video/mp4"/>
       <pubDate>Thu, 28 Aug 2025 05:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мінімум 8 загиблих в Києві, - </title>
+      <link>https://www.mandarinai.lt/post/79548</link>
+      <description>Мінімум 8 загиблих в Києві, - Зеленський
+
+📝 «Ми очікуємо реакцію Китаю на те, що відбувається. 
+
+Китай неодноразово закликав до нерозширення війни та до припинення вогню. 
+
+Цього немає через росію. Ми очікуємо на реакцію Угорщини. Смерть дітей повинна спричиняти точно більші емоції, ніж будь-що. 
+
+Ми очікуємо на реакцію кожного у світі, хто закликав до миру, а зараз частіше мовчить, ніж займає принципові позиції».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0787.MP4" length="19771521" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 05:34:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент удару по багатоповерхів</title>
+      <link>https://www.mandarinai.lt/post/79549</link>
+      <description>Момент удару по багатоповерхівці в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0788.MP4" length="9428271" type="video/mp4"/>
+      <pubDate>Thu, 28 Aug 2025 06:02:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
