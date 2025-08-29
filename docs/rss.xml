@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 07:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Відмовилися від планів контрол</title>
-      <link>https://www.mandarinai.lt/post/79606</link>
-      <description>Відмовилися від планів контролювати 4 області: у Туреччині розкрили нові територіальні умови Кремля
-
-Нові вимоги Кремля щодо завершення російсько-української війни вже не охоплюють прагнення контролю над чотирма областями України: тепер йдеться лише про два регіони. - міністр закордонних справ Туреччини Хакан Фідан</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_03-16-37.jpg" length="36804" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 03:16:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 08:12:11 +0000</lastBuildDate>
     <item>
       <title>💥В російському Орлі літало, ви</title>
       <link>https://www.mandarinai.lt/post/79607</link>
@@ -88,6 +79,13 @@ https://www.instagram.com/grimfilm2025?igsh=MWFlN2JlMmt5cm0zYQ%3D%3D&amp;utm_sou
 Підпишіться, щоб не пропустити сеанси. І щоб підтримати документальне кіно про тих, хто щодня боронить наше небо.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_06-37-46.jpg" length="103753" type="image/jpeg"/>
       <pubDate>Fri, 29 Aug 2025 06:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рада Безпеки ООН збереться сьо</title>
+      <link>https://www.mandarinai.lt/post/79622</link>
+      <description>Рада Безпеки ООН збереться сьогодні на вимогу України на екстрене засідання для обговорення масштабної повітряної атаки росії на Київ в ніч на 28 серпня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_07-20-36.jpg" length="43719" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 07:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
