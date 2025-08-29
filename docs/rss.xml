@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 09:09:43 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ ЄС пропонує 40-кілометрову </title>
-      <link>https://www.mandarinai.lt/post/79609</link>
-      <description>⚡️ ЄС пропонує 40-кілометрову буферну зону між Україною та росією — Politico 
-
-Ідея передбачає демілітаризовану територію, де могли б працювати миротворчі контингенти для нагляду за припиненням вогню. За даними видання, підтримку такій ініціативі вже висловила Москва, однак Київ участі не підтвердив і офіційної згоди не дав</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_03-46-21.jpg" length="191435" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 03:46:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 10:09:24 +0000</lastBuildDate>
     <item>
       <title>Внаслідок вчорашньої атаки рф </title>
       <link>https://www.mandarinai.lt/post/79611</link>
@@ -79,6 +70,25 @@ https://www.instagram.com/grimfilm2025?igsh=MWFlN2JlMmt5cm0zYQ%3D%3D&amp;utm_sou
       <description>Рада Безпеки ООН збереться сьогодні на вимогу України на екстрене засідання для обговорення масштабної повітряної атаки росії на Київ в ніч на 28 серпня.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_07-20-36.jpg" length="43719" type="image/jpeg"/>
       <pubDate>Fri, 29 Aug 2025 07:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Армія путіна просунулась біл</title>
+      <link>https://www.mandarinai.lt/post/79625</link>
+      <description>⚡️Армія путіна просунулась біля трьох населених пунктів на Донеччині, - DeepState
+
+За даними аналітиків, 
+"Ворог просунувся поблизу Шандриголового, Дерилового та у Новоселівці",</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_09-58-33.jpg" length="24073" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 09:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 рашисти почали активно бити </title>
+      <link>https://www.mandarinai.lt/post/79626</link>
+      <description>🤬 рашисти почали активно бити дронами по трасі на Дніпропетровщині
+
+На відео дорога з Павлограду у бік Донеччини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-29_10-00-14.mp4" length="3950533" type="video/mp4"/>
+      <pubDate>Fri, 29 Aug 2025 10:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
