@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 13:19:12 +0000</lastBuildDate>
-    <item>
-      <title>Судячи по супутникових знімках</title>
-      <link>https://www.mandarinai.lt/post/79614</link>
-      <description>Судячи по супутникових знімках військового аеродрому «Морозовськ», росіяни готуються підсилювати бомбові удари по Україні. 
-
-На аеродромі у Ростовській області вони побудували 18 захисних ангарів для бойових літаків тактичної авіації. 
-
-Споруди призначені для розміщення Су-34 та Су-24МР.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_06-12-40.jpg" length="99529" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 06:12:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 14:08:36 +0000</lastBuildDate>
     <item>
       <title>💔Пес чекає свого загиблого гос</title>
       <link>https://www.mandarinai.lt/post/79619</link>
@@ -106,6 +95,19 @@ https://www.instagram.com/grimfilm2025?igsh=MWFlN2JlMmt5cm0zYQ%3D%3D&amp;utm_sou
 За його словами, наказ розстріляти полонених віддала командир штурмового взводу Христина з позивним «Відьма».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0833.MP4" length="29069521" type="video/mp4"/>
       <pubDate>Fri, 29 Aug 2025 13:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Фламінго» під прицілом НАБУ
+
+</title>
+      <link>https://www.mandarinai.lt/post/79630</link>
+      <description>«Фламінго» під прицілом НАБУ
+
+Національне антикорупційне бюро України розпочало розслідування щодо Fire Point, виробника ракети «Фламінго» та безпілотних систем, — Kyiv Independent
+
+Видання стверджує, що детективи перевіряють, чи не завищувала компанія вартість комплектуючих та кількість дронів, які постачалися для Міністерства оборони України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_13-37-48.jpg" length="43247" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 13:37:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
