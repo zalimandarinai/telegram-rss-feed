@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Aug 2025 15:07:21 +0000</lastBuildDate>
-    <item>
-      <title>«Оце нам нравиться, коли моска</title>
-      <link>https://www.mandarinai.lt/post/79695</link>
-      <description>«Оце нам нравиться, коли москалі на нас так наступають», - один боєць з 93-ої бригади «Холодний Яр» в районі Добропілля бере в полон трьох російських окупантів.
-
-🎥 https://t.me/motolifeua/1354</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0871.MOV" length="22005650" type="video/mp4"/>
-      <pubDate>Sat, 30 Aug 2025 11:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Aug 2025 16:08:38 +0000</lastBuildDate>
     <item>
       <title>‼️Трамп серйозно розглядає мож</title>
       <link>https://www.mandarinai.lt/post/79697</link>
@@ -85,6 +76,13 @@
 👌🏻Вже можна замовити через видавництво РВВ: https://rvv-kniga.com/product/mista-ta-forteczi-vikingiv-vid-irlandiyi-do-volgy-bondar-o-m-2025</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-30_15-01-48.mp4" length="24991919" type="video/mp4"/>
       <pubDate>Sat, 30 Aug 2025 15:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Кадри звільнення н.п. Зелений</title>
+      <link>https://www.mandarinai.lt/post/79711</link>
+      <description>🔥Кадри звільнення н.п. Зелений Гай, Донецької області, в якому оператори БПЛА РУБпАК «Manticore» 214 ОШБ OPFOR надавали підтримку з повітря українським штурмовикам</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-30_15-33-54.mp4" length="16693735" type="video/mp4"/>
+      <pubDate>Sat, 30 Aug 2025 15:33:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
