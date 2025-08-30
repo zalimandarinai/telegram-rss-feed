@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Aug 2025 17:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 18:10:22 +0000</lastBuildDate>
     <item>
       <title>⚡️DeepState: СОУ ліквідували о</title>
       <link>https://www.mandarinai.lt/post/79701</link>
@@ -88,6 +88,15 @@
 Трамп про перспективу завершення війни</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_16-26-56.jpg" length="182662" type="image/jpeg"/>
       <pubDate>Sat, 30 Aug 2025 16:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️ росіянам під Добропіллям ві</title>
+      <link>https://www.mandarinai.lt/post/79714</link>
+      <description>⚔️ росіянам під Добропіллям відрізали "клешні" , вони там оточені, - ОСУВ "Дніпро"
+
+"Зараз російські підрозділи, що пішли безпосередньо до Добропілля, ці "клешні краба", були відрізані та в оточенні. Тому їм там бути ще недовго", - повідомив речник ОСУВ "Дніпро" Віктор Трегубов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_17-12-41.jpg" length="75329" type="image/jpeg"/>
+      <pubDate>Sat, 30 Aug 2025 17:12:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
