@@ -6,10 +6,10 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Aug 2025 04:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 05:07:57 +0000</lastBuildDate>
     <item>
       <title>❌ «Захопили Московку й Соболів</title>
-      <link>https://www.mandarinai.lt/post/79653</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❌ «Захопили Московку й Соболівку».
 
 Російська пропаганда і фахівці ІПСО розганяють фейк про захоплення двох населених пунктів біля Купʼянська.
@@ -20,32 +20,6 @@
 
 🇺🇦 Куп’янський напрямок стоїть.</description>
       <pubDate>Fri, 29 Aug 2025 18:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Якщо путін не погодиться на зу</title>
-      <link>https://www.mandarinai.lt/post/79654</link>
-      <description>Якщо путін не погодиться на зустріч із Зеленським до понеділка, то виставить Трампа дурнем, — Макрон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_18-51-06.jpg" length="78244" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 18:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В Ростові посеред ночі раптов</title>
-      <link>https://www.mandarinai.lt/post/79655</link>
-      <description>🔥В Ростові посеред ночі раптово спалахнула трава.
-Пишуть місцеві пабліки. Перед цим чули вибух, дронів наче не було</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-29_20-07-49.jpg" length="138128" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 20:07:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Ракетна атака - летіло на Ч</title>
-      <link>https://www.mandarinai.lt/post/79659</link>
-      <description>❗️ Ракетна атака - летіло на Черкащину, Дніпропетровщину, на Запоріжжя і на Старокостянтинів в Хмельницькій області.
-
-Зараз ракети не фіксуються.
-
-Атака БПЛА триває.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_03-17-59.jpg" length="298996" type="image/jpeg"/>
-      <pubDate>Sat, 30 Aug 2025 03:17:59 +0000</pubDate>
     </item>
     <item>
       <title>‼️У Запоріжжі влучання в житло</title>
@@ -69,8 +43,31 @@
 Ворог атакував обласний центр "шахедами" та ракетами.  Внаслідок комбінованого удару одна людина загинула. 
 
 8 людей госпіталізовані - серед них двоє дітей - 10-річний хлопець і 16-річна дівчина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0849.MP4" length="5212119" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_04-05-48.jpg" length="176041" type="image/jpeg"/>
       <pubDate>Sat, 30 Aug 2025 04:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кількість постраждалих через н</title>
+      <link>https://www.mandarinai.lt/post/79668</link>
+      <description>Кількість постраждалих через нічні удари росіян по Запоріжжю зросла до 22, загинула 1 людина, серед поранених троє дітей  – голова ЗОВА Федоров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_04-26-03.jpg" length="233212" type="image/jpeg"/>
+      <pubDate>Sat, 30 Aug 2025 04:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Дніпрі та Павлограді пошкодж</title>
+      <link>https://www.mandarinai.lt/post/79669</link>
+      <description>У Дніпрі та Павлограді пошкоджені інфраструктурні об’єкти - ОВА.
+
+Попередньо, люди не постраждали.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-30_04-38-55.mp4" length="574438" type="video/mp4"/>
+      <pubDate>Sat, 30 Aug 2025 04:38:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Ще один російській НПЗ  був </title>
+      <link>https://www.mandarinai.lt/post/79672</link>
+      <description>💥🔥Ще один російській НПЗ  був атакований сьогодні вночі в Сизрані</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-30_04-50-04.mp4" length="673244" type="video/mp4"/>
+      <pubDate>Sat, 30 Aug 2025 04:50:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
