@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Aug 2025 16:08:38 +0000</lastBuildDate>
-    <item>
-      <title>‼️Трамп серйозно розглядає мож</title>
-      <link>https://www.mandarinai.lt/post/79697</link>
-      <description>‼️Трамп серйозно розглядає можливість тимчасово відійти від дипломатичних зусиль щодо України, поки одна або обидві сторони не почнуть проявляти більше гнучкості, — Axios</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_13-05-18.jpg" length="77630" type="image/jpeg"/>
-      <pubDate>Sat, 30 Aug 2025 13:05:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Aug 2025 17:05:03 +0000</lastBuildDate>
     <item>
       <title>⚡️DeepState: СОУ ліквідували о</title>
       <link>https://www.mandarinai.lt/post/79701</link>
@@ -83,6 +76,18 @@
       <description>🔥Кадри звільнення н.п. Зелений Гай, Донецької області, в якому оператори БПЛА РУБпАК «Manticore» 214 ОШБ OPFOR надавали підтримку з повітря українським штурмовикам</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-30_15-33-54.mp4" length="16693735" type="video/mp4"/>
       <pubDate>Sat, 30 Aug 2025 15:33:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Тристороння зустріч із Зелен</title>
+      <link>https://www.mandarinai.lt/post/79712</link>
+      <description>❗️Тристороння зустріч із Зеленським, путіним і мною відбудеться, – Трамп у інтерв'ю для Daily Caller.
+
+Коли це станеться, невідомо. При цьому він додав, що не знає, чи буде двостороння зустріч путіна із Зеленським
+
+Можливо їм доведеться ще трохи посваритись, - додав
+Трамп про перспективу завершення війни</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_16-26-56.jpg" length="182662" type="image/jpeg"/>
+      <pubDate>Sat, 30 Aug 2025 16:26:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
