@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 22:07:31 +0000</lastBuildDate>
-    <item>
-      <title>🔥 Знищено системи ППО окупанті</title>
-      <link>https://www.mandarinai.lt/post/79739</link>
-      <description>🔥 Знищено системи ППО окупантів у Криму — ГУР звітують про блискучі результати роботи 
-
-Черговий свіжий перелік уражених дороговартісних цілей: 
-• РЛК “утьос-Т”;
-• Радіотелескоп РТ-70;
-• Комплекс “ґлонасс” в куполі;
-• БРЛС МР-10М1 “мис” М1;
-• РЛС 96Л6-АП зі складу ЗРК С-400</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-31_14-01-37.mp4" length="3402277" type="video/mp4"/>
-      <pubDate>Sun, 31 Aug 2025 14:01:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Єдиний спосіб добитися припине</title>
-      <link>https://www.mandarinai.lt/post/79740</link>
-      <description>Єдиний спосіб добитися припинення вогню це продовжувати бити по логістиці окупантів, вважають зовнішньополітичні спеціалісти з підрозділу «Ivan Franko Group».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0890.MP4" length="15488974" type="video/mp4"/>
-      <pubDate>Sun, 31 Aug 2025 14:12:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 23:07:39 +0000</lastBuildDate>
     <item>
       <title>🇩🇪 Німеччина передумала відпра</title>
       <link>https://www.mandarinai.lt/post/79741</link>
@@ -125,6 +104,13 @@ WSJ також нагадує, що ультраправі та антиіммі
       <link>https://www.mandarinai.lt/post/79752</link>
       <description>Батальйон «Сила Свободи» продовжує відтісняти окупантів від району Добропілля</description>
       <pubDate>Sun, 31 Aug 2025 19:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Санкції проти  російських енер</title>
+      <link>https://www.mandarinai.lt/post/79754</link>
+      <description>Санкції проти  російських енергоресурсів в дії. Цього разу добрі дрони завітали на НПЗ "Ільській"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-31_22-38-18.mp4" length="1294216" type="video/mp4"/>
+      <pubDate>Sun, 31 Aug 2025 22:38:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
