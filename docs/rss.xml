@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 08:10:41 +0000</lastBuildDate>
-    <item>
-      <title>🔥Кадри звільнення н.п. Зелений</title>
-      <link>https://www.mandarinai.lt/post/79711</link>
-      <description>🔥Кадри звільнення н.п. Зелений Гай, Донецької області, в якому оператори БПЛА РУБпАК «Manticore» 214 ОШБ OPFOR надавали підтримку з повітря українським штурмовикам</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-30_15-33-54.mp4" length="16693735" type="video/mp4"/>
-      <pubDate>Sat, 30 Aug 2025 15:33:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Тристороння зустріч із Зелен</title>
-      <link>https://www.mandarinai.lt/post/79712</link>
-      <description>❗️Тристороння зустріч із Зеленським, путіним і мною відбудеться, – Трамп у інтерв'ю для Daily Caller.
-
-Коли це станеться, невідомо. При цьому він додав, що не знає, чи буде двостороння зустріч путіна із Зеленським
-
-Можливо їм доведеться ще трохи посваритись, - додав
-Трамп про перспективу завершення війни</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-30_16-26-56.jpg" length="182662" type="image/jpeg"/>
-      <pubDate>Sat, 30 Aug 2025 16:26:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 09:07:59 +0000</lastBuildDate>
     <item>
       <title>⚔️ росіянам під Добропіллям ві</title>
       <link>https://www.mandarinai.lt/post/79714</link>
@@ -98,6 +79,31 @@
 У відомстві додають: єдиний підтверджений результат рф— це понад 291 тисяча загальних втрат від початку 2025 року</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_06-48-46.jpg" length="146600" type="image/jpeg"/>
       <pubDate>Sun, 31 Aug 2025 06:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Києві прощаються з дворічною</title>
+      <link>https://www.mandarinai.lt/post/79725</link>
+      <description>У Києві прощаються з дворічною Ангеліною та її мамою, чиї життя обірвала російська ракета 28 серпня
+
+Кончені російські мразі повинні відповісти за всі свої злочини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-31_08-34-25.mp4" length="513369" type="video/mp4"/>
+      <pubDate>Sun, 31 Aug 2025 08:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Під Москвою після вибуху гор</title>
+      <link>https://www.mandarinai.lt/post/79726</link>
+      <description>💥🔥Під Москвою після вибуху горить склад у Балашисі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-31_08-51-13.mp4" length="4163955" type="video/mp4"/>
+      <pubDate>Sun, 31 Aug 2025 08:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безробітним українцям у Німечч</title>
+      <link>https://www.mandarinai.lt/post/79727</link>
+      <description>Безробітним українцям у Німеччині можуть припинити виплати за відмову від працевлаштування, — Bild
+
+За даними видання, пропуск обов’язкових зустрічей у центрах зайнятості тепер призведе до зменшення виплат на 30% замість нинішніх 10%. Повторна відмова від працевлаштування може спричинити повне припинення допомоги від держави</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_08-58-03.jpg" length="70873" type="image/jpeg"/>
+      <pubDate>Sun, 31 Aug 2025 08:58:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
