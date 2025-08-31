@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 17:06:08 +0000</lastBuildDate>
-    <item>
-      <title>🤡Ми готові вирішити «проблему»</title>
-      <link>https://www.mandarinai.lt/post/79735</link>
-      <description>🤡Ми готові вирішити «проблему» політичними та дипломатичними засобами. Але поки ми не бачимо взаємності з боку Києва в цьому питанні, ми продовжуємо «СВО», — Пєсков</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-08-31_11-03-46.mp4" length="7414018" type="video/mp4"/>
-      <pubDate>Sun, 31 Aug 2025 11:03:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 18:10:34 +0000</lastBuildDate>
     <item>
       <title>❗️росіяни на днях підуть в сер</title>
       <link>https://www.mandarinai.lt/post/79737</link>
@@ -137,6 +130,13 @@ WSJ також нагадує, що ультраправі та антиіммі
 Про це писав сьогодні портал «ASTRA», а також інші видання.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_16-06-15.jpg" length="71542" type="image/jpeg"/>
       <pubDate>Sun, 31 Aug 2025 16:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дві реальності сьогоднішнього </title>
+      <link>https://www.mandarinai.lt/post/79750</link>
+      <description>Дві реальності сьогоднішнього дня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_17-53-13.jpg" length="97495" type="image/jpeg"/>
+      <pubDate>Sun, 31 Aug 2025 17:53:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
