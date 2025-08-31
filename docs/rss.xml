@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 19:04:05 +0000</lastBuildDate>
-    <item>
-      <title>❗️росіяни на днях підуть в сер</title>
-      <link>https://www.mandarinai.lt/post/79737</link>
-      <description>❗️росіяни на днях підуть в серйозний наступ, — волонтерка Берлінська🫤</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_13-37-32.jpg" length="79396" type="image/jpeg"/>
-      <pubDate>Sun, 31 Aug 2025 13:37:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 20:08:40 +0000</lastBuildDate>
     <item>
       <title>🇺🇸США закликали росію просуват</title>
       <link>https://www.mandarinai.lt/post/79738</link>
@@ -137,6 +130,12 @@ WSJ також нагадує, що ультраправі та антиіммі
       <description>Дві реальності сьогоднішнього дня.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_17-53-13.jpg" length="97495" type="image/jpeg"/>
       <pubDate>Sun, 31 Aug 2025 17:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Батальйон «Сила Свободи» продо</title>
+      <link>https://www.mandarinai.lt/post/79752</link>
+      <description>Батальйон «Сила Свободи» продовжує відтісняти окупантів від району Добропілля</description>
+      <pubDate>Sun, 31 Aug 2025 19:07:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
