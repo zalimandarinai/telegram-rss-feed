@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 07:10:41 +0000</lastBuildDate>
-    <item>
-      <title>✅У серпні 91% повідомлень, що </title>
-      <link>https://www.mandarinai.lt/post/79745</link>
-      <description>✅У серпні 91% повідомлень, що стосувалися роботи територіальних центрів комплектування та соціальної підтримки, виявилися фейками або маніпуляціями
-
-Водночас оперативне командування "Північ" інформує, що протягом серпня 2025 року в зонах відповідальності підпорядкованих ТЦК та СП було зафіксовано поширення інформації про 41 інцидент за участю представників ТЦК.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_15-46-13.jpg" length="89829" type="image/jpeg"/>
-      <pubDate>Sun, 31 Aug 2025 15:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти ретельно маскують арт</title>
-      <link>https://www.mandarinai.lt/post/79746</link>
-      <description>Окупанти ретельно маскують артилерію. Проте операторам 58-ї бригади вдалось підловити самохідну гаубицю. Третій мотопіхотний батальйон за підтримки розвідувальної роти та першого мотопіхотного батальйону вполювали САУ 2С1 на етапі буксировки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0892.MP4" length="22350893" type="video/mp4"/>
-      <pubDate>Sun, 31 Aug 2025 15:55:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 08:13:51 +0000</lastBuildDate>
     <item>
       <title>Ракети «Фламінго» уразили заст</title>
       <link>https://www.mandarinai.lt/post/79747</link>
@@ -88,6 +72,36 @@
 "Цей злочин не випадковий. У ньому є російський слід. Перед законом відповідатиме кожен", — заявив голова Нацполіції Іван Вигівський.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-01_06-53-27.jpg" length="137844" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 06:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Австралії атакували російськ</title>
+      <link>https://www.mandarinai.lt/post/79762</link>
+      <description>В Австралії атакували російську дипмісію.
+
+Білий позашляховик протаранив ворота російського генконсульства.
+
+Інцидент стався вранці в Сіднеї. 
+
+Автомобіль стояв на доріжці біля консульства і привернув увагу австралійської поліції. 
+
+Коли офіцери спробували вступити в контакт з водієм, він натиснув на педаль і врізався у ворота.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0907.MP4" length="7254495" type="video/mp4"/>
+      <pubDate>Mon, 01 Sep 2025 07:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Яскраві кадри ураження двох ге</title>
+      <link>https://www.mandarinai.lt/post/79763</link>
+      <description>Яскраві кадри ураження двох гелікоптерів і катера противника в Криму
+
+Два Мі-8 і вороже судно - результат бойової роботи спецпідрозділу ГУР МО України «Примари» на території тимчасово окупованого Криму.
+
+Дронами вгатили по авіабазі в Гвардійському біля  Сімферополя і влучили в  два Мі-8. 
+
+Військовий буксир, який підбили в Севастополі, ймовірно БУК-2190. 
+
+Він входить до складу так званих «ПДСС», підводних диверсійних сил та засобів, підрозділу висококваліфікованих водолазів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0908.MP4" length="14346423" type="video/mp4"/>
+      <pubDate>Mon, 01 Sep 2025 07:56:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
