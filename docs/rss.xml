@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 09:11:36 +0000</lastBuildDate>
-    <item>
-      <title>Дві реальності сьогоднішнього </title>
-      <link>https://www.mandarinai.lt/post/79750</link>
-      <description>Дві реальності сьогоднішнього дня.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-08-31_17-53-13.jpg" length="97495" type="image/jpeg"/>
-      <pubDate>Sun, 31 Aug 2025 17:53:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 10:10:34 +0000</lastBuildDate>
     <item>
       <title>Батальйон «Сила Свободи» продо</title>
       <link>https://www.mandarinai.lt/post/79752</link>
@@ -104,6 +97,22 @@
 🎥 17-й армійський корпус</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0909.MP4" length="21144244" type="video/mp4"/>
       <pubDate>Mon, 01 Sep 2025 08:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Літак голови ЄС Урсули фон де</title>
+      <link>https://www.mandarinai.lt/post/79765</link>
+      <description>👀Літак голови ЄС Урсули фон дер Ляйєн був вимушений зробити екстрене приземлення через роботу російського комплексу РЕБ, - Financial Times
+
+У неділю вдень літак фон дер Ляйєн мав перевозити європейську делегацію до болгарського міста Пловдива, але в моменті навігаційна система борту була паралізована. У цьому підозрюють росіян, а саме у направленій роботі РЕБ для того, щоб погасити GPS і завадити точній навігації.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-01_09-29-46.jpg" length="98818" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 09:29:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️❗️Спецслужби рф шантажували </title>
+      <link>https://www.mandarinai.lt/post/79766</link>
+      <description>❗️❗️Спецслужби рф шантажували підозрюваного у вбивстві Андрія Парубія інформацією про зниклого безвісти сина, - ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-01_09-32-05.jpg" length="135985" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 09:32:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
