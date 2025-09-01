@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 14:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 15:08:36 +0000</lastBuildDate>
     <item>
       <title>В Австралії атакували російськ</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,13 +20,6 @@
 
 Коли офіцери спробували вступити в контакт з водієм, він натиснув на педаль і врізався у ворота.</description>
       <pubDate>Mon, 01 Sep 2025 07:42:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>русня включила до свого складу</title>
-      <link>https://www.mandarinai.lt/post/79769</link>
-      <description>русня включила до свого складу Одеську та Миколаївську області на карті, яка висіла на стіні під час виступу Герасимова в суботу, — росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-01_11-25-50.jpg" length="38394" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 11:25:50 +0000</pubDate>
     </item>
     <item>
       <title>‼️Україна скликає позачергове </title>
@@ -88,6 +81,15 @@
 Колишній міністр культури рф Мединський, який народився в Україні, надійний і невідмовний васал путіна, представляв росію на переговорах в Стамбулі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-01_12-49-58.jpg" length="89221" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 12:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺У серпні темпи окупації наре</title>
+      <link>https://www.mandarinai.lt/post/79784</link>
+      <description>🇷🇺У серпні темпи окупації нарешті впали на 18%, - DeepState
+
+У серпні ворог провів близько 5027 штурмових дії, що менше ніж у липні, червні та травні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-01_14-27-07.jpg" length="64382" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 14:27:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
