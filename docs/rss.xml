@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 13:22:16 +0000</lastBuildDate>
-    <item>
-      <title>Виявлення точок запуску ворожи</title>
-      <link>https://www.mandarinai.lt/post/79815</link>
-      <description>Виявлення точок запуску ворожих БПЛА повітряною розвідкою 55-ої окремої артилерійської бригади</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0949.MP4" length="20698751" type="video/mp4"/>
-      <pubDate>Tue, 02 Sep 2025 09:26:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 14:09:59 +0000</lastBuildDate>
     <item>
       <title>СБУ викрила російського «крота</title>
       <link>https://www.mandarinai.lt/post/79817</link>
@@ -107,6 +100,41 @@
 Утікачам вручили повістки, а перевізник може сісти на 7 років</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_13-17-48.jpg" length="231465" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 13:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Син підозрюваного у вбивстві П</title>
+      <link>https://www.mandarinai.lt/post/79830</link>
+      <description>Син підозрюваного у вбивстві Парубія воював у 93-й бригаді та безвісти зник у Бахмуті
+
+Це журналістам «Слідства.Інфо» підтвердила пресофіцерка бригади Ірина Рибакова. Михайло Сцельніков із позивним «Лемберґ» служив у розвідці 3-го мехбату 93-ї ОМБр і загинув у травні 2023 року під Бахмутом. 
+
+Водночас офіційно Сцельніков вважається зниклим безвісти, адже тіло військового так і не знайшли. Голова патронатної служби бригади Аліна Карнаухова повідомила, що за документами він зник 20 травня 2023 року.
+
+Мати військового, письменниця Олена Чернінька, написала книгу про сина — «Лемберґ: мамцю, ну не плач».
+
+Нагадаємо, підозрюваного у вбивстві Андрія Парубія взяли під варту на 60 діб без права на заставу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_13-24-16.jpg" length="128537" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 13:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Більшість європейців підтримую</title>
+      <link>https://www.mandarinai.lt/post/79831</link>
+      <description>Більшість європейців підтримують розширення ЄС, зокрема за рахунок України
+
+За це виступають 56% громадян ЄС, згідно з новим опитуванням Eurobarometer, проведеним на замовлення Єврокомісії. Особливо висока підтримка серед молоді — 2/3 людей віком від 15 до 39 років вважають, що потенційні кандидати мають вступити до Союзу, як тільки виконають умови.
+
+Найбільше прихильні до розширення блоку Швеція (78%) та Данія (75%), найменше — Чехія та Франція (43%).</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_13-47-32.jpg" length="109252" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 13:47:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ISW: Росія готує масштабний </title>
+      <link>https://www.mandarinai.lt/post/79832</link>
+      <description>❗️ISW: Росія готує масштабний наступ на Донеччині
+
+   Аналітики повідомляють, що для спроби повної окупації регіону РФ перекинула туди елітні підрозділи, зокрема десантників.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_13-48-10.jpg" length="65127" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 13:48:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
