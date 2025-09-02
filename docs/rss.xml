@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 05:09:37 +0000</lastBuildDate>
-    <item>
-      <title>Потужні прильоти в Брянську за</title>
-      <link>https://www.mandarinai.lt/post/79789</link>
-      <description>Потужні прильоти в Брянську зафіксували камери спостереження</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0929.MP4" length="3524537" type="video/mp4"/>
-      <pubDate>Mon, 01 Sep 2025 17:01:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 06:14:19 +0000</lastBuildDate>
     <item>
       <title>❗️ Відтепер зрозуміло, що росі</title>
       <link>https://www.mandarinai.lt/post/79790</link>
@@ -90,6 +83,13 @@
       <description>🥴 О 21:00 Трамп виступить з важливою заявою – пресслужба Білого Дому</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_04-39-12.jpg" length="29359" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 04:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російському Ростові вночі </title>
+      <link>https://www.mandarinai.lt/post/79802</link>
+      <description>💥🔥В російському Ростові вночі пе-ве-о збивала дрони будинками</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-02_05-37-59.mp4" length="548137" type="video/mp4"/>
+      <pubDate>Tue, 02 Sep 2025 05:37:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
