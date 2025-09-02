@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 03:32:09 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Росіяни збільшили кількість </title>
-      <link>https://www.mandarinai.lt/post/79786</link>
-      <description>🤬 Росіяни збільшили кількість ударів КАБами по Україні, — Міноборони
-
-Армія РФ застосувала 4 390 бомб в серпні (3 786 — у липні). Найвищий показник використання КАБів у 2025 році припадає на квітень — понад 5 000</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-01_15-38-57.jpg" length="136352" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 15:38:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 04:11:04 +0000</lastBuildDate>
     <item>
       <title>Ворог змінив свою тактику на Т</title>
       <link>https://www.mandarinai.lt/post/79787</link>
@@ -98,6 +89,15 @@
 Протягом двох ночей поспіль громада зазнає ударів БпЛА, унаслідок яких виникла пожежа з постраждалими, спостерігається задимлення в окремих районах, а рятувальники ДСНС ліквідовують наслідки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_03-05-19.jpg" length="36284" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 03:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог планує атакувати енергет</title>
+      <link>https://www.mandarinai.lt/post/79800</link>
+      <description>Ворог планує атакувати енергетику і спробує повернути блекаути: рф веде активну розвідку об'єктів енергетики та стану їх захисту, - Флеш.
+
+Їх цікавлять підстанції, трансформатори, електро- та газова інфраструктура.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_04-00-10.jpg" length="44111" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 04:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
