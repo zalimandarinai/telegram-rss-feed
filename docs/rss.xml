@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 10:10:17 +0000</lastBuildDate>
-    <item>
-      <title>Переговори між путіним і Сі Цз</title>
-      <link>https://www.mandarinai.lt/post/79804</link>
-      <description>Переговори між путіним і Сі Цзіньпіном пройшли в Пекіні.
-
-Сі публічно назвав Китай і росію основними переможцями в Другій Світовій війні.
-
-Це очевидний сигнал, що ці двоє мають намір переписати підсумки Другої Світової і змінити той порядок, який склався в результаті перемоги союзників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0941.MP4" length="7069991" type="video/mp4"/>
-      <pubDate>Tue, 02 Sep 2025 06:18:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 11:07:38 +0000</lastBuildDate>
     <item>
       <title>Дрони на низьких висотах намаг</title>
       <link>https://www.mandarinai.lt/post/79807</link>
@@ -73,6 +62,30 @@
 Мав передати їх з координатами для фсб, яка вийшла на нього через його брата в росії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_09-50-02.jpg" length="151695" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 09:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підозрюваний у вбивстві Парубі</title>
+      <link>https://www.mandarinai.lt/post/79819</link>
+      <description>Підозрюваний у вбивстві Парубія зізнався в злочині та хоче піти на обмін.
+
+Імʼя підозрюваного у вбивстві Парубія Сцельніков Михайло Вікторович 1973 року народження.
+
+«Я визнаю, я його вбив. І хочу проситися, щоб мене обміняли на військовополонених, щоб я міг поїхати і знайти тіло свого сина». 
+
+Також стверджує, що поширені в медіа повідомлення про шантаж з боку російських спецслужб інформацією про зниклого безвісти на війні сина, є неправдою.
+
+Вбивство Парубія, за словами кілера, це «помста українській владі». 
+
+На питання, чому жертвою став Парубій, який був в опозиції до влади, він відповів, що колишній спікер просто «був поруч». Вбивство Парубія готувалось не один місяць, так що пояснення кілера протирічать фактам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0955.MP4" length="27533682" type="video/mp4"/>
+      <pubDate>Tue, 02 Sep 2025 10:35:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ В бойових діях проти Україн</title>
+      <link>https://www.mandarinai.lt/post/79820</link>
+      <description>❗️ В бойових діях проти України загинуло близько 2 тисяч військових КНДР, - агентство Yonhap з посиланням на розвідку Південної Кореї</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_11-00-33.jpg" length="143801" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 11:00:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
