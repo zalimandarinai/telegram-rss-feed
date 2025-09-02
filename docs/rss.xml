@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 08:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 09:10:17 +0000</lastBuildDate>
     <item>
       <title>‼️ Одна людина загинула під ча</title>
       <link>https://www.mandarinai.lt/post/79799</link>
@@ -51,13 +51,6 @@
       <pubDate>Tue, 02 Sep 2025 06:18:56 +0000</pubDate>
     </item>
     <item>
-      <title>БПЛА о 10 ранку над центром ст</title>
-      <link>https://www.mandarinai.lt/post/79806</link>
-      <description>БПЛА о 10 ранку над центром столиці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0942.MP4" length="572517" type="video/mp4"/>
-      <pubDate>Tue, 02 Sep 2025 07:17:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Дрони на низьких висотах намаг</title>
       <link>https://www.mandarinai.lt/post/79807</link>
       <description>Дрони на низьких висотах намагаються пробитись через систему ППО в Києві</description>
@@ -79,6 +72,17 @@
 Управління стратегічних комунікацій ЗС України</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_08-09-15.jpg" length="94373" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 08:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Звільнено селище Удачне біля</title>
+      <link>https://www.mandarinai.lt/post/79812</link>
+      <description>🔥 Звільнено селище Удачне біля Покровська, - Генштаб
+
+І знову відзначився 425-ий полк «СКЕЛЯ».
+
+Бійці полку встановили прапор в селищі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-02_09-04-04.mp4" length="3151544" type="video/mp4"/>
+      <pubDate>Tue, 02 Sep 2025 09:04:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
