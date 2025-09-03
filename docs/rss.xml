@@ -6,46 +6,22 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 23:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 00:39:29 +0000</lastBuildDate>
     <item>
       <title>Попад 50 шахедів над Україною </title>
-      <link>https://www.mandarinai.lt/post/79846</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Попад 50 шахедів над Україною в бік Києва та західних областей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_18-23-19.jpg" length="117634" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 18:23:19 +0000</pubDate>
     </item>
     <item>
       <title>🇺🇸🗣 Трамп вийшов на пресконфер</title>
-      <link>https://www.mandarinai.lt/post/79847</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🇺🇸🗣 Трамп вийшов на пресконференцію — вперше за тиждень. Попри чутки про погіршення здоров'я.
 
 Журналіст: Чи турбує вас можливе формування осі проти Сполучених Штатів Китаю і росії?
 
 🇺🇸Трамп: Я зовсім не турбуюся. Вони ніколи не використають свою армію проти нас. Це було б найгірше, що вони могли б зробити</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-02_18-59-19.mp4" length="522403" type="video/mp4"/>
       <pubDate>Tue, 02 Sep 2025 18:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇩🇪 Канцлер Німеччини Мерц назв</title>
-      <link>https://www.mandarinai.lt/post/79848</link>
-      <description>🇩🇪 Канцлер Німеччини Мерц назвав правителя пуіна «найбільшим воєнним злочинцем нашого часу»
-
-«І ми просто зобов'язані чітко знати, як поводитися з воєнними злочинцями. Тут немає місця для поблажливості», – додав він.
-
-Дякуємо, пане Мерц, за сміливість і чесність.
-
-Як сказав ваш земляк Йоганн Вольфганг фон Гете, «Man kann nicht immer ein Held sein, aber man kann immer ein Mann sein».
-
-Неможливо бути завжди героєм, але треба бути завжди людиною.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_19-03-48.jpg" length="106358" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 19:03:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>📈 російський ринок різко просі</title>
-      <link>https://www.mandarinai.lt/post/79849</link>
-      <description>📈 російський ринок різко просів після заяви Трампа про його розчарування путіним</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_19-06-23.jpg" length="99694" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 19:06:23 +0000</pubDate>
     </item>
     <item>
       <title>😐Я дізнався речі, які будуть д</title>
@@ -78,6 +54,13 @@
 У WP зазначають, що така атака була сприйнята як демонстративна зневага до Першої леді, президента Трампа та міжнародної спільноти.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-02_20-03-15.jpg" length="192652" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 20:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Вишгороді пожежа після падін</title>
+      <link>https://www.mandarinai.lt/post/79860</link>
+      <description>У Вишгороді пожежа після падіння уламків БПЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-02_23-25-19.mp4" length="1855433" type="video/mp4"/>
+      <pubDate>Tue, 02 Sep 2025 23:25:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
