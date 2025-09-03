@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 04:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 05:08:45 +0000</lastBuildDate>
     <item>
       <title>Попад 50 шахедів над Україною </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -42,21 +42,18 @@
       <pubDate>Tue, 02 Sep 2025 20:01:22 +0000</pubDate>
     </item>
     <item>
-      <title>Відповіддю путіна на лист Мела</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Відповіддю путіна на лист Меланії Трамп, щодо страждань дітей на війні став удар по Києву та загибель чотирьох дітей, — The Washington Post
-
-15 серпня Перша леді США Меланія Трамп звернулась до президента РФ із закликом до миру заради дітей, які страждають від війни. Натомість уже 28 серпня Росія завдала масованого удару по Києву — ракети та дрони влучили по житлових будинках і дитсадку. Загинули щонайменше 23 людини, серед них — четверо дітей.
-
-У WP зазначають, що така атака була сприйнята як демонстративна зневага до Першої леді, президента Трампа та міжнародної спільноти.</description>
-      <pubDate>Tue, 02 Sep 2025 20:03:15 +0000</pubDate>
-    </item>
-    <item>
       <title>У Вишгороді пожежа після падін</title>
       <link>https://www.mandarinai.lt/post/79860</link>
       <description>У Вишгороді пожежа після падіння уламків БПЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-02_23-25-19.mp4" length="1855433" type="video/mp4"/>
       <pubDate>Tue, 02 Sep 2025 23:25:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Наслідки нічної атаки в Виш</title>
+      <link>https://www.mandarinai.lt/post/79869</link>
+      <description>❗️ Наслідки нічної атаки в Вишгороді: уламки збитого дрона пошкодили будинок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-03_04-12-40.jpg" length="165661" type="image/jpeg"/>
+      <pubDate>Wed, 03 Sep 2025 04:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
