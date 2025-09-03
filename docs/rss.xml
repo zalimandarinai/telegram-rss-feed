@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 12:16:54 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ТЕРМІНОВИЙ ЗБІР⚡️
-
-Для підро</title>
-      <link>https://www.mandarinai.lt/post/79887</link>
-      <description>⚡️ТЕРМІНОВИЙ ЗБІР⚡️
-
-Для підрозділу моєї неймовірної колеги, журналістки Лесі Ганжи, яка вже понад три роки захищає Україну у лавах ЗСУ.
-
-Леся - оператор важкого дрону «Вампір». 
-
-Запит критичний, прошу швидко закрити збір. Вистоїмо тільки разом!
-
-ЗБІР ЗАКРИТО! ДЯКУЮ, ДРУЗІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-03_08-39-06.jpg" length="122854" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 08:39:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 13:18:54 +0000</lastBuildDate>
     <item>
       <title>❗️ Ліквідація наслідків російс</title>
       <link>https://www.mandarinai.lt/post/79888</link>
@@ -132,6 +115,13 @@
 Диктатори, схоже, починають вірити у власне безсмертя.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-03_12-05-22.mp4" length="2546047" type="video/mp4"/>
       <pubDate>Wed, 03 Sep 2025 12:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Настав час вести роботів у бі</title>
+      <link>https://www.mandarinai.lt/post/79903</link>
+      <description>«Настав час вести роботів у бій», - в Третій штурмовій бригаді створено роту ударних наземних роботизованих комплексів «NC13», які, крім евакуації та логістики, працюють на полі бою, як платформи ударних модулів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1008.MP4" length="30968687" type="video/mp4"/>
+      <pubDate>Wed, 03 Sep 2025 13:09:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
