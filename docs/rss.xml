@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 15:08:44 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Заявлено, як спроба русні п</title>
-      <link>https://www.mandarinai.lt/post/79895</link>
-      <description>❗️ Заявлено, як спроба русні прорватись у Покровськ через каналізаційні мережі. 
-
-🚱 Прорватися так і не вдалося.
-ЗСУ, навчені гірким досвідом, контролюють комунікації.
-
-Тішить, що русня на своєму місці 🚽</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-03_10-35-29.mp4" length="1349974" type="video/mp4"/>
-      <pubDate>Wed, 03 Sep 2025 10:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔞🔥 Обдурити і знищити! Спочатк</title>
-      <link>https://www.mandarinai.lt/post/79896</link>
-      <description>🔞🔥 Обдурити і знищити! Спочатку наш боєць видав себе за російського військового, щоб окупанти прийняли його за свого, а потім підловив момент і ліквідував їх, – 425 ОШП «Скеля»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-03_10-36-51.mp4" length="2673804" type="video/mp4"/>
-      <pubDate>Wed, 03 Sep 2025 10:36:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 16:10:14 +0000</lastBuildDate>
     <item>
       <title>СБУ затримала агентурну групу </title>
       <link>https://www.mandarinai.lt/post/79897</link>
@@ -116,6 +97,15 @@
 🎥 10-ий армійський корпус</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1012.MP4" length="16064714" type="video/mp4"/>
       <pubDate>Wed, 03 Sep 2025 14:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Трамп на запитання, чому щодо</title>
+      <link>https://www.mandarinai.lt/post/79911</link>
+      <description>👀Трамп на запитання, чому щодо путіна звучать лише висловлювання розчарування, а не робляться конкретні кроки:
+
+«А звідки ви знаєте, що немає конкретних дій?»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-03_15-59-27.jpg" length="132860" type="image/jpeg"/>
+      <pubDate>Wed, 03 Sep 2025 15:59:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
