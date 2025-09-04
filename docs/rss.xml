@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 12:16:35 +0000</lastBuildDate>
-    <item>
-      <title>🤝У Парижі в Єлисейському палац</title>
-      <link>https://www.mandarinai.lt/post/79929</link>
-      <description>🤝У Парижі в Єлисейському палаці стартувала зустріч «Коаліції рішучих» 
-
-Участь у ній особисто або онлайн візьмуть представники 38 країн. Згодом лідери планують подзвонити до Дональда Трампа. За інформацією ЗМІ, дзвінок очікується о 15:00 за Кивом.
-
-Відео: Суспільне</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-04_09-09-24.mp4" length="2706414" type="video/mp4"/>
-      <pubDate>Thu, 04 Sep 2025 09:09:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 13:18:02 +0000</lastBuildDate>
     <item>
       <title>Відеореєстратор російського ві</title>
       <link>https://www.mandarinai.lt/post/79930</link>
@@ -104,6 +93,24 @@
       <description>Російський комплекс «С-300В» вартістю 40 мільйонів доларів був знищений на південь від Запоріжжя бійцями ОЗСП «Lasar's group» 27-ої Печерської бригади Нацгвардії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1039.MP4" length="20773929" type="video/mp4"/>
       <pubDate>Thu, 04 Sep 2025 12:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українська авіація завдає удар</title>
+      <link>https://www.mandarinai.lt/post/79941</link>
+      <description>Українська авіація завдає ударів по позиціях окупантів.
+
+Застосовані, ймовірно, авіабомби GBU39.
+
+Знімає розвіддрон сухопутних підрозділів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1040.MP4" length="4267442" type="video/mp4"/>
+      <pubDate>Thu, 04 Sep 2025 12:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Двоє поранено, є загиблий: спі</title>
+      <link>https://www.mandarinai.lt/post/79942</link>
+      <description>Двоє поранено, є загиблий: співробітники гуманітарної місії, які розміновували Чернігів, потрапили під атаку російської ракети близько 15:00, повідомила місцева влада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1042.MP4" length="3672677" type="video/mp4"/>
+      <pubDate>Thu, 04 Sep 2025 12:39:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
