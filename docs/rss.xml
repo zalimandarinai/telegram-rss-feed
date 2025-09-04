@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 18:11:56 +0000</lastBuildDate>
-    <item>
-      <title>🇪🇺 Глава Єврокомісії назвала т</title>
-      <link>https://www.mandarinai.lt/post/79945</link>
-      <description>🇪🇺 Глава Єврокомісії назвала три основні завдання "коаліції рішучих" щодо України
-
-За словами Урсули фон дер Ляєн, це: 
-
-▪️перетворення України на "сталевого дикобраза"
-▪️створення багатонаціональних сил за підтримки США
-▪️посилення оборонної позиції Європи.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-04_13-43-09.jpg" length="38307" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 13:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В окупованому Селідовому в ра</title>
-      <link>https://www.mandarinai.lt/post/79946</link>
-      <description>💥В окупованому Селідовому в рашистів мінус склад БК</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-04_13-57-09.mp4" length="821956" type="video/mp4"/>
-      <pubDate>Thu, 04 Sep 2025 13:57:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>За рік росія втратила понад мі</title>
-      <link>https://www.mandarinai.lt/post/79948</link>
-      <description>За рік росія втратила понад мільйон військових загиблими і пораненими, захопивши менше 1% території України — заявив Макрон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1055.MP4" length="2230964" type="video/mp4"/>
-      <pubDate>Thu, 04 Sep 2025 14:35:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 19:05:44 +0000</lastBuildDate>
     <item>
       <title>Київ XVII–XVIII століть. Згорі</title>
       <link>https://www.mandarinai.lt/post/79950</link>
@@ -86,7 +59,7 @@
       <link>https://www.mandarinai.lt/post/79953</link>
       <description>🗿До Польщі залетіли два Шахеди, але ПС країни їх не збивали, бо вони не становили небезпеки, — оперативний командувач польських ЗС генерал Кліш
 
-🗿Нічого  особливого, просто мирні шахеди залетіли. Це ж не до вас, правда, пане генерале?</description>
+🗿Нічого  особливого, просто мирні шахеди залетіли.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-04_15-38-31.jpg" length="57066" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 15:38:31 +0000</pubDate>
     </item>
@@ -129,6 +102,24 @@
       <description>Четверо військовослужбовців 425-го полку «СКЕЛЯ» на першому ж бойовому виході взяли в полон майже відділення росіян, 9 окупантів, - більше про деталі операції можна дізнатися за цим лінком https://m.youtube.com/watch?v=j4NzE8JP44M</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1058.MP4" length="27027820" type="video/mp4"/>
       <pubDate>Thu, 04 Sep 2025 17:49:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇵🇱Польща представила свою верс</title>
+      <link>https://www.mandarinai.lt/post/79959</link>
+      <description>🇵🇱Польща представила свою версію російського шахеда – «PLargonia».
+
+Переважно призначений як повітряна мішень, але може використовуватися як камикадзе-дрон з бойовою частиною вагою до 20 кг. Дальність польоту до 900 км
+
+Завжди було цікаво, чому досі нема української версії "шахедів" Адже ефективність цих безпілотників не підлягає сумніву. На жаль.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-04_18-57-14.jpg" length="160533" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 18:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вечірня атака на нафтобазу в</title>
+      <link>https://www.mandarinai.lt/post/79960</link>
+      <description>💥🔥Вечірня атака на нафтобазу в окупованому Луганську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-04_19-05-04.mp4" length="746886" type="video/mp4"/>
+      <pubDate>Thu, 04 Sep 2025 19:05:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
