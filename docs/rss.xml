@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 16:10:20 +0000</lastBuildDate>
-    <item>
-      <title>Українська авіація завдає удар</title>
-      <link>https://www.mandarinai.lt/post/79941</link>
-      <description>Українська авіація завдає ударів по позиціях окупантів.
-
-Застосовані, ймовірно, авіабомби GBU39.
-
-Знімає розвіддрон сухопутних підрозділів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1040.MP4" length="4267442" type="video/mp4"/>
-      <pubDate>Thu, 04 Sep 2025 12:37:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 17:07:07 +0000</lastBuildDate>
     <item>
       <title>Двоє поранено, є загиблий: спі</title>
       <link>https://www.mandarinai.lt/post/79942</link>
@@ -114,6 +103,24 @@
 🗿Нічого  особливого, просто мирні шахеди залетіли. Це ж не до вас, правда, пане генерале?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-04_15-38-31.jpg" length="57066" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 15:38:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Яскравий десант на острови нав</title>
+      <link>https://www.mandarinai.lt/post/79954</link>
+      <description>Яскравий десант на острови навпроти Херсона. Човен окупантів перетворився на потужний феєрверк. Вчасно спрацював другий батальйон 40-ої бригади берегової оборони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1056.MP4" length="15188631" type="video/mp4"/>
+      <pubDate>Thu, 04 Sep 2025 16:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіяни цинічно підтвердили св</title>
+      <link>https://www.mandarinai.lt/post/79955</link>
+      <description>Росіяни цинічно підтвердили свій сьогоднішній злочин, удар по групі гуманітарної місії з розмінування на Чернігівщині.
+
+Загинув один з працівників «Датської ради у справах біженців», яка проводила розмінування місцевості, двоє поранено. 
+
+Навіть на кадрах, відзнятих розвідувальним БПЛА ворога видно лише білі цивільні автівки, на яких їздять спеціалісти з розмінування.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1057.MP4" length="16741680" type="video/mp4"/>
+      <pubDate>Thu, 04 Sep 2025 16:49:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
