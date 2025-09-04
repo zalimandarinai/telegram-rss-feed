@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 06:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 07:08:45 +0000</lastBuildDate>
     <item>
       <title>Російський прапор спробували з</title>
       <link>https://www.mandarinai.lt/post/79909</link>
@@ -124,6 +124,15 @@ THеMIS має номінальну вантажопідйомність 750 к�
 Командир Сил безпілотних систем Роберт «Мадяр» Бровді додав, що лише за 2 тижні серпня виробничі можливості рф скоротилися на 21%.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-04_05-57-15.mp4" length="2326575" type="video/mp4"/>
       <pubDate>Thu, 04 Sep 2025 05:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ЗС рф здійснили найбільше пе</title>
+      <link>https://www.mandarinai.lt/post/79921</link>
+      <description>❗️ЗС рф здійснили найбільше перегрупування своїх військ з часів боїв під Києвом у 2022 році — великою кількістю сил, вони готові до останньої, вирішальної, битви за решту Донецької області.
+
+«Осінтери» попереджають, що скоро ми знову побачимо використання колон бронетехніки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-04_06-24-54.jpg" length="241184" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 06:24:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
