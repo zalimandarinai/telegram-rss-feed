@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 20:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 21:08:05 +0000</lastBuildDate>
     <item>
       <title>Київ XVII–XVIII століть. Згорі</title>
       <link>https://www.mandarinai.lt/post/79950</link>
@@ -131,6 +131,13 @@
 Наше спільне завдання формувати більше таких екіпажів, навчати більше операторів-винищувачів, забезпечувати більше ефективних засобів ураження та РЛС».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-04_19-37-48.jpg" length="83188" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 19:37:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Приліт по НПЗ окупантів у Лу</title>
+      <link>https://www.mandarinai.lt/post/79964</link>
+      <description>🔥 Приліт по НПЗ окупантів у Луганську: на місці дуже сильна пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-04_20-23-53.mp4" length="193956" type="video/mp4"/>
+      <pubDate>Thu, 04 Sep 2025 20:23:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
