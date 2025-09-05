@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 20:09:37 +0000</lastBuildDate>
-    <item>
-      <title>👀Словаччина готова допомогти У</title>
-      <link>https://www.mandarinai.lt/post/80005</link>
-      <description>👀Словаччина готова допомогти Україні своїм досвідом вступу в ЄС, – Фіцо після зустрічі із Зеленським.
-
-Як зворушливо🤧</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-05_14-59-42.mp4" length="1209091" type="video/mp4"/>
-      <pubDate>Fri, 05 Sep 2025 14:59:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 21:07:02 +0000</lastBuildDate>
     <item>
       <title>🤬 Ворог просунувся у Дніпропет</title>
       <link>https://www.mandarinai.lt/post/80006</link>
@@ -120,6 +111,13 @@
 Заявлено, що дані ракети будуть сумісні як з F-16, так і з МіГ-29</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_19-20-33.jpg" length="26462" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 19:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄 Війна в Україні закінчиться,</title>
+      <link>https://www.mandarinai.lt/post/80020</link>
+      <description>🙄 Війна в Україні закінчиться, або за це доведеться заплатити, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-05_20-38-35.mp4" length="545768" type="video/mp4"/>
+      <pubDate>Fri, 05 Sep 2025 20:38:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
