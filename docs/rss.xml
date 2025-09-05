@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 19:06:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 20:09:37 +0000</lastBuildDate>
     <item>
       <title>👀Словаччина готова допомогти У</title>
       <link>https://www.mandarinai.lt/post/80005</link>
@@ -102,6 +102,24 @@
 Йдеться про законопроєкт №13452, який посилює покарання для військових за непокору, та №13260, який змінює порядок звільнення військових від покарання після першого СЗЧ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_18-32-57.jpg" length="100911" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 18:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇧🇪 Бельгія не передаватиме зам</title>
+      <link>https://www.mandarinai.lt/post/80018</link>
+      <description>🇧🇪 Бельгія не передаватиме заморожені активи РФ на допомогу Україні, - МЗС
+
+"Це був би дуже поганий сигнал для інших країн світу. Деякі з них також мають активи, суверенні активи в Брюсселі чи в інших місцях Європи", - сказав міністр закордонних справ Максим Прево.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_19-19-41.jpg" length="33285" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 19:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸Поставка першої партії з 840</title>
+      <link>https://www.mandarinai.lt/post/80019</link>
+      <description>🇺🇸Поставка першої партії з 840 ракет ERAM від США в Україну очікується до кінця жовтня 2026 року — Aviation Week
+
+Заявлено, що дані ракети будуть сумісні як з F-16, так і з МіГ-29</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_19-20-33.jpg" length="26462" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 19:20:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
