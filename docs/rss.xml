@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 10:09:37 +0000</lastBuildDate>
-    <item>
-      <title>СБУ затримала в Києві колишньо</title>
-      <link>https://www.mandarinai.lt/post/79982</link>
-      <description>СБУ затримала в Києві колишнього заступника голови Держподаткової служби за підозрою у відмиванні мільярдів гривень з бюджету. Він організував "конвертаційний центр" з оборотом понад 1,5 млрд грн.
-
-Організатор схеми - Євген Бамбізов - екс заступник голови Держфіскальної служби. Разом із чотирма спільниками він відмивав гроші, викрадені з бюджету. Під час обшуків знайшли готівку, фіктивні печатки та документи.
-
-Податківцю та його спільникам загрожує до 12 років з конфіскаціє</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_06-58-37.jpg" length="145731" type="image/jpeg"/>
-      <pubDate>Fri, 05 Sep 2025 06:58:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 11:06:56 +0000</lastBuildDate>
     <item>
       <title>Намалюємо твою дружину на поло</title>
       <link>https://www.mandarinai.lt/post/79985</link>
@@ -86,6 +75,17 @@
 
 В процесі спілкування з полоненим у бійців формується портрет ворога та, ймовірно, зʼявляється розуміння, що його можна перемогти.</description>
       <pubDate>Fri, 05 Sep 2025 09:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Схоже, ми втратили Індію й ро</title>
+      <link>https://www.mandarinai.lt/post/79996</link>
+      <description>«Схоже, ми втратили Індію й росію», - Трамп заявив про зближення двох країн з Китаєм
+
+«Схоже, ми втратили Індію та росію на користь найбездоннішого, найпохмурішого Китаю. Нехай у них буде довге та процвітаюче майбутнє разом!» - написав президент США Дональд Трамп у соцмережі Truth Social.
+
+Мабуть, до старого нарешті щось починає доходити</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_10-41-29.jpg" length="77847" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 10:41:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
