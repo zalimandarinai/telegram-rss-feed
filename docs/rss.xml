@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 08:12:21 +0000</lastBuildDate>
-    <item>
-      <title>В Дніпрі вночі ракета влучила </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>В Дніпрі вночі ракета влучила в підприємство. Також місто атакували 30 дронів, 15 вдалося збити.
-
-В місті попереджають про можливість хімічного забруднення.</description>
-      <pubDate>Fri, 05 Sep 2025 05:35:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 09:09:28 +0000</lastBuildDate>
     <item>
       <title>🤡Іноземні війська на території</title>
       <link>https://www.mandarinai.lt/post/79976</link>
@@ -78,6 +70,15 @@
 План включає в себе формування підрозділів стримування для недопущення нового наступу ворога.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_08-03-18.jpg" length="56076" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 08:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили оборони України уразили р</title>
+      <link>https://www.mandarinai.lt/post/79989</link>
+      <description>Сили оборони України уразили радіолокаційну станцію 39Н6 «Каста-2Е2» в Анапі Краснодарського краю.
+
+📷 Exilenova+, Maxar Technologies</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_08-17-12.jpg" length="185457" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 08:17:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
