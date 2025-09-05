@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 15:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 16:10:03 +0000</lastBuildDate>
     <item>
       <title>Трамп підпише сьогодні указ пр</title>
       <link>https://www.mandarinai.lt/post/79993</link>
@@ -110,6 +110,15 @@
 Як зворушливо🤧</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-05_14-59-42.mp4" length="1209091" type="video/mp4"/>
       <pubDate>Fri, 05 Sep 2025 14:59:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Ворог просунувся у Дніпропет</title>
+      <link>https://www.mandarinai.lt/post/80006</link>
+      <description>🤬 Ворог просунувся у Дніпропетровській та Харківській областях, - DeepState
+
+Ворог просунувся поблизу Январського (Синельниківський район Дніпропетровської області) та Красного Першого (Куп'янський район Харківської області).</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_15-55-09.jpg" length="34542" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 15:55:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
