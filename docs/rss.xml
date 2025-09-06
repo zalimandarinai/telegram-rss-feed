@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 16:08:24 +0000</lastBuildDate>
-    <item>
-      <title>В Пентагоні замінили таблички </title>
-      <link>https://www.mandarinai.lt/post/80042</link>
-      <description>В Пентагоні замінили таблички «Міністерство оборони» на «Міністерство війни», - BBC
-
-Дуже дивний крок. Міністерство війни в Штатах існувало з 1789 по 1947, під час багатьох масштабних воєн, в яких США брали участь. Зараз Вашингтон намагається дистанціюватися від багатьох конфліктів, не кажучи вже про війну в Україні. Когнитивний дисонанс: ми не воюємо, але в нас міністерство війни. Виглядає, як зміна декорацій у виставі, адресованій виборцям всередині країни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1101.MP4" length="19075172" type="video/mp4"/>
-      <pubDate>Sat, 06 Sep 2025 12:02:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Sep 2025 17:03:19 +0000</lastBuildDate>
     <item>
       <title>❗️Рашисти просунулися на Сумщи</title>
       <link>https://www.mandarinai.lt/post/80043</link>
@@ -152,6 +143,20 @@ https://youtu.be/0xMrocPDF9c
 Рекомендую</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1117.MOV" length="26403189" type="video/mp4"/>
       <pubDate>Sat, 06 Sep 2025 15:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Троє ворогів наближаються до  </title>
+      <link>https://www.mandarinai.lt/post/80056</link>
+      <description>Троє ворогів наближаються до  українського бліндажа. Перший із них падає від точного удару, а двоє інших втекли. Хлопців в бліндажі врятували оператори БПЛА вогневої підтримки 49-го ОШБ «Карпатська Січ» в районі Торецька.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1118.MP4" length="6529769" type="video/mp4"/>
+      <pubDate>Sat, 06 Sep 2025 16:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬У порту Чорноморська на Одещи</title>
+      <link>https://www.mandarinai.lt/post/80057</link>
+      <description>🤬У порту Чорноморська на Одещині спалахнули масштабні пожежі, причини займання наразі не розголошують</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-06_16-17-40.mp4" length="703752" type="video/mp4"/>
+      <pubDate>Sat, 06 Sep 2025 16:17:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
