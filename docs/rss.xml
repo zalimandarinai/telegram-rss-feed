@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 05:07:52 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Ворог просунувся у Дніпропет</title>
-      <link>https://www.mandarinai.lt/post/80006</link>
-      <description>🤬 Ворог просунувся у Дніпропетровській та Харківській областях, - DeepState
-
-Ворог просунувся поблизу Январського (Синельниківський район Дніпропетровської області) та Красного Першого (Куп'янський район Харківської області).</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-05_15-55-09.jpg" length="34542" type="image/jpeg"/>
-      <pubDate>Fri, 05 Sep 2025 15:55:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🗓️ За тиждень бійці 425-го пол</title>
-      <link>https://www.mandarinai.lt/post/80007</link>
-      <description>🗓️ За тиждень бійці 425-го полку «СКЕЛЯ» в районі Покровська взяли в полон 26 окупантів.
-
-❗️ Разом вони всі на цьому відео.
-
-▶️ А за бажання, послухати деяких з них окремо можна за цим посиланням https://m.youtube.com/watch?v=vL2qOHgIc8o&amp;feature=youtu.be</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1083.MOV" length="4664852" type="video/mp4"/>
-      <pubDate>Fri, 05 Sep 2025 16:23:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Sep 2025 06:11:25 +0000</lastBuildDate>
     <item>
       <title>Україна вперше повернула з-за </title>
       <link>https://www.mandarinai.lt/post/80008</link>
@@ -118,6 +98,24 @@
       <description>🙄 Війна в Україні закінчиться, або за це доведеться заплатити, — Трамп</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-05_20-38-35.mp4" length="545768" type="video/mp4"/>
       <pubDate>Fri, 05 Sep 2025 20:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️- Він може приїхати до Києва</title>
+      <link>https://www.mandarinai.lt/post/80021</link>
+      <description>‼️- Він може приїхати до Києва: Зеленський відреагував на пропозицію Кремля провести мирні переговори в Москві
+
+"Він може приїхати до Києва. Я не можу поїхати до Москви, коли моя країна під ракетами, під атакою щодня. Я не можу поїхати до столиці цього терориста", - сказав Зеленський.
+
+Також за його словами, насправді пропозиція путіна була спрямована на те, щоб "відкласти зустріч"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-06_05-23-46.mp4" length="3999751" type="video/mp4"/>
+      <pubDate>Sat, 06 Sep 2025 05:23:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Війна може завершитися до кінц</title>
+      <link>https://www.mandarinai.lt/post/80022</link>
+      <description>Війна може завершитися до кінця року, але має збігтися багато факторів, — представник ГУР Юсов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-06_06-00-13.mp4" length="6268024" type="video/mp4"/>
+      <pubDate>Sat, 06 Sep 2025 06:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
