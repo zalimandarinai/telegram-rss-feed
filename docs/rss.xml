@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 06:11:27 +0000</lastBuildDate>
-    <item>
-      <title>Дим над Києвом після комбінова</title>
-      <link>https://www.mandarinai.lt/post/80074</link>
-      <description>Дим над Києвом після комбінованої атаки в Святошинському районі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_03-25-20.jpg" length="137888" type="image/jpeg"/>
-      <pubDate>Sun, 07 Sep 2025 03:25:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 07:07:55 +0000</lastBuildDate>
     <item>
       <title>В Києві горить урядова будівля</title>
       <link>https://www.mandarinai.lt/post/80077</link>
@@ -89,8 +82,24 @@
 🧡У Святошинському районі частково з-під завалів багатоповерхівки дістали тіла матері й дитини. Сталося займання у трьох будинках, згоріли авто та складські приміщення. Двоє патрульних отримали поранення, їх госпіталізували.
 🧡 У Дарницькому районі сталася пожежа в п’ятиповерхівці, зруйновано третій поверх.
 🧡 У Печерському районі пошкоджено дах адмінбудівлі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-07_06-11-09.mp4" length="2063087" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-07_06-11-09.mp4" length="2125800" type="video/mp4"/>
       <pubDate>Sun, 07 Sep 2025 06:11:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент удару по мосту у Креме</title>
+      <link>https://www.mandarinai.lt/post/80089</link>
+      <description>🤬Момент удару по мосту у Кременчуці.
+
+Через пошкодження мосту Укрзалізниця змінила рух деяких потягів в найближчі дні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-07_06-13-01.mp4" length="694066" type="video/mp4"/>
+      <pubDate>Sun, 07 Sep 2025 06:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Місце влучання в багатоповерхі</title>
+      <link>https://www.mandarinai.lt/post/80090</link>
+      <description>Місце влучання в багатоповерхівку в Святошинському районі Києва, де загинула жінка з дитиною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-07_06-47-40.mp4" length="2211561" type="video/mp4"/>
+      <pubDate>Sun, 07 Sep 2025 06:47:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
