@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 04:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 05:07:51 +0000</lastBuildDate>
     <item>
       <title>💪 За останній місяць на Доброп</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,24 +20,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>‼️ Київ та низка областей – загроза БПЛА</description>
       <pubDate>Sat, 06 Sep 2025 18:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐путін готовий зустрітися із З</title>
-      <link>https://www.mandarinai.lt/post/80062</link>
-      <description>😐путін готовий зустрітися із Зеленським у будь-якому місці, а не тільки в москві, — Фіцо
-
-Фіцо зазначив, що обидва президенти «‎розуміють необхідність переговорів, незважаючи на можливу політичну шкоду», адже без обговорень війна в Україні продовжиться. 
-
-Він додав, що гарантії безпеки потрібні не лише Україні, а й росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-06_19-33-38.jpg" length="72725" type="image/jpeg"/>
-      <pubDate>Sat, 06 Sep 2025 19:33:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Внаслідок атаки дронів в Києві</title>
-      <link>https://www.mandarinai.lt/post/80063</link>
-      <description>Внаслідок атаки дронів в Києві один будинок зруйновано, в чотирьох будинках пожежа.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1125.MP4" length="1049979" type="video/mp4"/>
-      <pubDate>Sun, 07 Sep 2025 01:55:03 +0000</pubDate>
     </item>
     <item>
       <title>Після атаки безпілотника пожеж</title>
@@ -59,6 +41,22 @@
       <description>Дим над Києвом після комбінованої атаки в Святошинському районі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_03-25-20.jpg" length="137888" type="image/jpeg"/>
       <pubDate>Sun, 07 Sep 2025 03:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві горить урядова будівля</title>
+      <link>https://www.mandarinai.lt/post/80077</link>
+      <description>В Києві горить урядова будівля.
+
+Вогонь охопив кілька поверхів і дах будівлі Кабінету міністрів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1134.MP4" length="5547772" type="video/mp4"/>
+      <pubDate>Sun, 07 Sep 2025 04:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збили дрон над столицею</title>
+      <link>https://www.mandarinai.lt/post/80078</link>
+      <description>Збили дрон над столицею</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1137.MOV" length="133833" type="video/mp4"/>
+      <pubDate>Sun, 07 Sep 2025 04:44:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
