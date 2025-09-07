@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 00:44:59 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥А це удар доброго дрона по з</title>
-      <link>https://www.mandarinai.lt/post/80050</link>
-      <description>💥🔥А це удар доброго дрона по залізничній станції в Клімово.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-06_12-54-29.mp4" length="2763692" type="video/mp4"/>
-      <pubDate>Sat, 06 Sep 2025 12:54:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 02:20:25 +0000</lastBuildDate>
     <item>
       <title>💪 За останній місяць на Доброп</title>
       <link>https://www.mandarinai.lt/post/80051</link>
@@ -136,6 +129,13 @@ https://youtu.be/0xMrocPDF9c
 Він додав, що гарантії безпеки потрібні не лише Україні, а й росії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-06_19-33-38.jpg" length="72725" type="image/jpeg"/>
       <pubDate>Sat, 06 Sep 2025 19:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок атаки дронів в Києві</title>
+      <link>https://www.mandarinai.lt/post/80063</link>
+      <description>Внаслідок атаки дронів в Києві один будинок зруйновано, в чотирьох будинках пожежа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1125.MP4" length="1049979" type="video/mp4"/>
+      <pubDate>Sun, 07 Sep 2025 01:55:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
