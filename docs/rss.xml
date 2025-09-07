@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 20:08:15 +0000</lastBuildDate>
-    <item>
-      <title>‼️ США готові посилити тиск на</title>
-      <link>https://www.mandarinai.lt/post/80118</link>
-      <description>‼️ США готові посилити тиск на рф, але чекають дій від Європи, — Бессент
-
-Міністр фінансів США заявив, що додаткові вторинні санкції та мита проти країн, які купують російську нафту, можуть довести економіку рф до «повного колапсу». Він наголосив, що успіх заходів залежить від того, чи підтримає їх Європа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_13-34-14.jpg" length="34102" type="image/jpeg"/>
-      <pubDate>Sun, 07 Sep 2025 13:34:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 21:04:24 +0000</lastBuildDate>
     <item>
       <title>😡Кадри з мосту у Кременчуці пі</title>
       <link>https://www.mandarinai.lt/post/80119</link>
@@ -107,6 +98,17 @@
       <description>💥Дрони атакували окуповані Донецьк і Макіївку</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-07_20-00-16.mp4" length="463281" type="video/mp4"/>
       <pubDate>Sun, 07 Sep 2025 20:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️путін націлився на «Ахіллесо</title>
+      <link>https://www.mandarinai.lt/post/80132</link>
+      <description>‼️путін націлився на «Ахіллесову п'яту» НАТО — The Sun
+
+Президент рф володимир путін, ймовірно, готує вторгнення в Сувальський коридор — так звану «Ахіллесову п'яту» НАТО. 
+
+Такий крок може відрізати країни Балтії від решти союзників по Альянсу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_20-26-25.jpg" length="111032" type="image/jpeg"/>
+      <pubDate>Sun, 07 Sep 2025 20:26:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
