@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 14:06:41 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Повідомляють, щонайменше 9 ш</title>
-      <link>https://www.mandarinai.lt/post/80104</link>
-      <description>⚡️Повідомляють, щонайменше 9 шахедів з півночі рухається в бік Київщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_09-02-16.jpg" length="235470" type="image/jpeg"/>
-      <pubDate>Sun, 07 Sep 2025 09:02:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 15:06:35 +0000</lastBuildDate>
     <item>
       <title>Кілька дронів цієї ночі зайшли</title>
       <link>https://www.mandarinai.lt/post/80105</link>
@@ -111,6 +104,13 @@
       <description>😡Кадри з мосту у Кременчуці після ворожого удару "Шахедом"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_13-41-26.jpg" length="85498" type="image/jpeg"/>
       <pubDate>Sun, 07 Sep 2025 13:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прикордонники взяли в полон ще</title>
+      <link>https://www.mandarinai.lt/post/80121</link>
+      <description>Прикордонники взяли в полон ще одного російського військового: під час бою бійці бригади «Помста» на чолі зі снайпером підрозділу 23F3 взяли у полон російського військовослужбовця в районі Серебрянського лісництва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1164.MP4" length="20163953" type="video/mp4"/>
+      <pubDate>Sun, 07 Sep 2025 14:12:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
