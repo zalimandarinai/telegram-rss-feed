@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 12:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 13:13:12 +0000</lastBuildDate>
     <item>
       <title>русняві мразі хизуються влучан</title>
       <link>https://www.mandarinai.lt/post/80101</link>
@@ -107,6 +107,21 @@
 Російський диктатор лише вдає, що хоче припинити війну. Насправді ж він прагне вбити якомога більше українців, вважає Ліпавський. Водночас, на думку дипломата, говорити "сьогодні про припинення допомоги Україні означає ставати на бік агресора"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_12-10-40.jpg" length="59948" type="image/jpeg"/>
       <pubDate>Sun, 07 Sep 2025 12:10:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чотирьох українських військово</title>
+      <link>https://www.mandarinai.lt/post/80117</link>
+      <description>Чотирьох українських військовополонених «засудили» в рф за «теракти».
+
+Один з бійців зачитав на суді вірш Тичини
+
+За версією російського слідства, вони мінували залізниці та нафтосховища в глибині території росії.
+
+В серпні 2023 року група нібито розмістила безпілотники неподалік від ваеродрому «Шайковка» в Калузькій області, де базується стратегічна авіація.
+
+Загалом українцям інкримінують по два скоєні теракти та по три епізоди підготовки до терактів, а також незаконний перетин кордону та зберігання вибухівки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_13-05-32.jpg" length="43964" type="image/jpeg"/>
+      <pubDate>Sun, 07 Sep 2025 13:05:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
