@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 10:09:55 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ЗСУ встановили повний контро</title>
-      <link>https://www.mandarinai.lt/post/80135</link>
-      <description>⚡️ЗСУ встановили повний контроль над селом Зарічне в Донецькій області, - бійці 425-го полку «СКЕЛЯ»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1167.MP4" length="2173326" type="video/mp4"/>
-      <pubDate>Mon, 08 Sep 2025 05:32:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 11:07:14 +0000</lastBuildDate>
     <item>
       <title>⚡️Вночі під масованим обстріло</title>
       <link>https://www.mandarinai.lt/post/80136</link>
@@ -88,6 +81,13 @@
       <description>🤡 Фінляндія готує плацдарм для нападу на росію, — Мєдвєдев та його біла гарячка</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-08_08-53-35.jpg" length="102270" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 08:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Про загибель 12 людей у Куп'ян</title>
+      <link>https://www.mandarinai.lt/post/80149</link>
+      <description>Про загибель 12 людей у Куп'янську, Козачій Лопані та Хотімлі внаслідок російських ударів стало відомо протягом 1-7 вересня. Ще щонайменше 27 людей, у тому числі шестирічна дитина, зазнали поранень</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-08_10-13-42.jpg" length="253035" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 10:13:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
