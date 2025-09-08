@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 18:12:48 +0000</lastBuildDate>
-    <item>
-      <title>‼️Не панікувати, а спокійно за</title>
-      <link>https://www.mandarinai.lt/post/80150</link>
-      <description>‼️Не панікувати, а спокійно заряджатися і запасатися, - гендиректор Yasno
-
-Через серію ударів рф по енергетиці, треба починати запасатися ліхтариками та павербанками, також тримайте вдома запас їжі та води</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-08_11-21-28.jpg" length="150252" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 11:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>✅рф  вдарила по будівлі Кабмін</title>
-      <link>https://www.mandarinai.lt/post/80151</link>
-      <description>✅рф  вдарила по будівлі Кабміну не «Шахедом», а крилатою ракетою «Іскандер-К», бойова частина якої 450 кг не вибухнула, — Defense Express.
-
-Пожежа, яка виникла на верхніх поверхах будівлі, була викликана займанням палива з баків ракети — результат аналізу уламків</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-08_12-17-50.jpg" length="217049" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 12:17:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️рф погрожує Україні «відпові</title>
-      <link>https://www.mandarinai.lt/post/80152</link>
-      <description>❗️рф погрожує Україні «відповіддю» на вчорашню атаку по окупованому Донецьку – пресалкаше МЗС рф Захарова
-
-Тобто це офіційний анонс військового злочину рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-08_12-41-29.jpg" length="103902" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 12:41:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 19:06:04 +0000</lastBuildDate>
     <item>
       <title>💥🔥Епічне знищення моста на тер</title>
       <link>https://www.mandarinai.lt/post/80154</link>
@@ -133,6 +106,29 @@
 Коли хлопцям вдалося вийти на зв’язок, командування спланувало для них маршрут евакуації, і зрештою вони вийшли з оточення, забравши двох поранених побратимів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-08_17-50-54.jpg" length="129540" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 17:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱 У Сумах знайшли мертвим журн</title>
+      <link>https://www.mandarinai.lt/post/80164</link>
+      <description>😱 У Сумах знайшли мертвим журналіста Олександра Тахтая, який розслідував корупційні схеми під час будівництва фортифікацій у регіоні,  — Суспільне
+
+За інформацією видання, тіло журналіста знайшли ввечері 5 вересня у його квартирі. Причина смерті стане відома після завершення судово-медичної експертизи.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-08_18-38-27.jpg" length="184558" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 18:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Донецьку 6 влучань в одну ло</title>
+      <link>https://www.mandarinai.lt/post/80165</link>
+      <description>В Донецьку 6 влучань в одну локацію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-08_18-41-18.mp4" length="4948842" type="video/mp4"/>
+      <pubDate>Mon, 08 Sep 2025 18:41:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент прильоту ракети по буді</title>
+      <link>https://www.mandarinai.lt/post/80166</link>
+      <description>Момент прильоту ракети по будівлі Кабміну в Києві.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-08_18-57-34.mp4" length="1438418" type="video/mp4"/>
+      <pubDate>Mon, 08 Sep 2025 18:57:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
