@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 00:43:45 +0000</lastBuildDate>
-    <item>
-      <title>😡Кадри з мосту у Кременчуці пі</title>
-      <link>https://www.mandarinai.lt/post/80119</link>
-      <description>😡Кадри з мосту у Кременчуці після ворожого удару "Шахедом"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_13-41-26.jpg" length="85498" type="image/jpeg"/>
-      <pubDate>Sun, 07 Sep 2025 13:41:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 02:21:52 +0000</lastBuildDate>
     <item>
       <title>Прикордонники взяли в полон ще</title>
       <link>https://www.mandarinai.lt/post/80121</link>
@@ -109,6 +102,15 @@
 Такий крок може відрізати країни Балтії від решти союзників по Альянсу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-07_20-26-25.jpg" length="111032" type="image/jpeg"/>
       <pubDate>Sun, 07 Sep 2025 20:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп повідомив, що європейськ</title>
+      <link>https://www.mandarinai.lt/post/80133</link>
+      <description>Трамп повідомив, що європейські лідери відвідають США на початку тижня, щоб обговорити мирну угоду щодо України
+
+Також Трамп планує найближчими днями поговорити з путіним</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-08_01-53-18.mp4" length="4517272" type="video/mp4"/>
+      <pubDate>Mon, 08 Sep 2025 01:53:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
