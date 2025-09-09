@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 18:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 19:05:33 +0000</lastBuildDate>
     <item>
       <title>💥🔥Момент ракетної атаки на кол</title>
       <link>https://www.mandarinai.lt/post/80206</link>
@@ -94,6 +94,13 @@
 
 Збройні Сили роблять усе можливе, щоб зберегти Куп’янськ і не допустити окупантів, повідомив 10-ий армійський корпус. Місто тримається.</description>
       <pubDate>Tue, 09 Sep 2025 15:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Німеччина передає Україні д</title>
+      <link>https://www.mandarinai.lt/post/80218</link>
+      <description>❗️ Німеччина передає Україні дві повні системи Patriot, перші пускові установки вже на території України, -  міністр оборони Борис Пісторіус</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-09_18-16-29.jpg" length="72279" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 18:16:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
