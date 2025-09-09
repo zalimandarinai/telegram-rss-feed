@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 20:09:24 +0000</lastBuildDate>
-    <item>
-      <title>Відомо вже про 24 загиблих і 1</title>
-      <link>https://www.mandarinai.lt/post/80207</link>
-      <description>Відомо вже про 24 загиблих і 18 поранених унаслідок звірячого удару росії по цивільним людям в Яровій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-09_13-44-53.jpg" length="133198" type="image/jpeg"/>
-      <pubDate>Tue, 09 Sep 2025 13:44:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 21:07:34 +0000</lastBuildDate>
     <item>
       <title>В результаті ізраїльського уда</title>
       <link>https://www.mandarinai.lt/post/80209</link>
