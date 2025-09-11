@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 07:09:18 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ У США щойно стріляли в полі</title>
-      <link>https://www.mandarinai.lt/post/80299</link>
-      <description>⚡️ У США щойно стріляли в політика-республіканця Чарлі Кірка
-
-Його поранило в шию</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-10_18-51-32.mp4" length="773403" type="video/mp4"/>
-      <pubDate>Wed, 10 Sep 2025 18:51:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент пострілу  в американськ</title>
-      <link>https://www.mandarinai.lt/post/80300</link>
-      <description>Момент пострілу  в американського політика під час дебатів в університеті
-
-Чарлі Кірк — американський політичний активіст, блогер і ведучий подкасту The Charlie Kirk Show. Він є прихильником республіканських ідей і відомий своєю діяльністю на захист консервативних поглядів, критикою «ліберальних» ідей та закликами припинити фінансову допомогу Україні з боку США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-10_18-52-58.mp4" length="540682" type="video/mp4"/>
-      <pubDate>Wed, 10 Sep 2025 18:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заявлене, як затримання чолові</title>
-      <link>https://www.mandarinai.lt/post/80301</link>
-      <description>Заявлене, як затримання чоловіка, який  стріляв в Чарлі Кірка.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1238.MP4" length="3065005" type="video/mp4"/>
-      <pubDate>Wed, 10 Sep 2025 19:05:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 08:12:45 +0000</lastBuildDate>
     <item>
       <title>😡— «Навіщо ми даємо зброю і гр</title>
       <link>https://www.mandarinai.lt/post/80302</link>
@@ -105,6 +80,22 @@
 В інтервʼю CNBC Кріс Райт наголосив, що США планують витіснити росію в постачанні газу на європейські ринки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-11_06-28-28.jpg" length="74164" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 06:28:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>У лікарні помер 15-річний хлоп</title>
+      <link>https://www.mandarinai.lt/post/80314</link>
+      <description>У лікарні помер 15-річний хлопець, який був поранений внаслідок вчорашнього обстрілу Піщаного Куп'янського району, - ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-11_07-19-34.jpg" length="86051" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 07:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Після нападу на Польщу я вн</title>
+      <link>https://www.mandarinai.lt/post/80315</link>
+      <description>❗️ Після нападу на Польщу я вношу проєкт про відновлення поправки Джексона-Веніка щодо росії, — конгресмен Вілсон. 
+
+Ця поправка забороняє будь-яку торгівлю США з рф та була введена ще за часів СРСР за порушення прав людини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-11_07-39-58.jpg" length="29540" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 07:39:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
