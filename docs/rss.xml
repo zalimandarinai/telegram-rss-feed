@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 05:09:16 +0000</lastBuildDate>
-    <item>
-      <title>Західні видання локалізували м</title>
-      <link>https://www.mandarinai.lt/post/80295</link>
-      <description>Західні видання локалізували місце падіння одного з російських дронів. Воно знаходиться поруч з населеним пунктом Чоснувка, за 50 кілометрів від найближчої точки на українському кордоні. З огляду на кілометраж, версія про могутній український РЕБ тут не працює.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-10_17-34-40.jpg" length="38891" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 17:34:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 06:13:46 +0000</lastBuildDate>
     <item>
       <title>⚡️ У США щойно стріляли в полі</title>
       <link>https://www.mandarinai.lt/post/80299</link>
@@ -77,11 +70,32 @@
       <pubDate>Wed, 10 Sep 2025 20:28:17 +0000</pubDate>
     </item>
     <item>
-      <title>💥В донецьких окупантів гучного</title>
+      <title>💥В Донецьку в окупантів гучно </title>
       <link>https://www.mandarinai.lt/post/80306</link>
-      <description>💥В донецьких окупантів гучного вибухає</description>
+      <description>💥В Донецьку в окупантів гучно вибухає</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-10_20-42-15.mp4" length="768772" type="video/mp4"/>
       <pubDate>Wed, 10 Sep 2025 20:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі росіяни вдарили по навча</title>
+      <link>https://www.mandarinai.lt/post/80308</link>
+      <description>Вночі росіяни вдарили по навчальному закладу в місті Суми.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1240.MP4" length="29733353" type="video/mp4"/>
+      <pubDate>Thu, 11 Sep 2025 05:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Польща екстрено просить у НА</title>
+      <link>https://www.mandarinai.lt/post/80309</link>
+      <description>‼️Польща екстрено просить у НАТО більше ППО після нальоту російських дронів, — Bloomberg</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-11_05-41-04.jpg" length="180440" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 05:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ГУР уразило корабель чорномор</title>
+      <link>https://www.mandarinai.lt/post/80310</link>
+      <description>💥ГУР уразило корабель чорноморського флоту рф під Новоросійськом. Його виведено з ладу на дороговартісний на ремонт.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-11_05-43-05.mp4" length="2102037" type="video/mp4"/>
+      <pubDate>Thu, 11 Sep 2025 05:43:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
