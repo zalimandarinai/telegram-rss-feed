@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 09:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 10:09:03 +0000</lastBuildDate>
     <item>
       <title>Повідомлення про загибель Чарл</title>
       <link>https://www.mandarinai.lt/post/80304</link>
@@ -90,6 +90,15 @@
 Майстер клас для натівської ППО, яка прогавила більше половини російських дронів над Польщею.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-11_08-46-53.mp4" length="3470276" type="video/mp4"/>
       <pubDate>Thu, 11 Sep 2025 08:46:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🇬🇧Британія буде спільно з Ук</title>
+      <link>https://www.mandarinai.lt/post/80317</link>
+      <description>🇺🇦🇬🇧Британія буде спільно з Україною виробояти дрони-перехоплювачі Project Octopus до тисячи на місяць — уряд Британії 
+
+Заявлено, що ціна дрона-перехоплювача складає ~10% від ціни «шахеда».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-11_09-10-33.jpg" length="28087" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 09:10:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
