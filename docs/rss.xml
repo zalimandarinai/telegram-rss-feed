@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 06:13:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 07:09:18 +0000</lastBuildDate>
     <item>
       <title>⚡️ У США щойно стріляли в полі</title>
       <link>https://www.mandarinai.lt/post/80299</link>
@@ -96,6 +96,15 @@
       <description>💥ГУР уразило корабель чорноморського флоту рф під Новоросійськом. Його виведено з ладу на дороговартісний на ремонт.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-11_05-43-05.mp4" length="2102037" type="video/mp4"/>
       <pubDate>Thu, 11 Sep 2025 05:43:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Європа пообіцяла до кінця 20</title>
+      <link>https://www.mandarinai.lt/post/80312</link>
+      <description>‼️Європа пообіцяла до кінця 2026 року повністю припинити закупівлю російського газу в будь-якому виді, — міністр енергетики США
+
+В інтервʼю CNBC Кріс Райт наголосив, що США планують витіснити росію в постачанні газу на європейські ринки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-11_06-28-28.jpg" length="74164" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 06:28:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
