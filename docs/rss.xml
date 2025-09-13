@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 18:09:49 +0000</lastBuildDate>
-    <item>
-      <title>🤷‍♂Останнім часом Трамп почав </title>
-      <link>https://www.mandarinai.lt/post/80431</link>
-      <description>🤷‍♂Останнім часом Трамп почав сумніватися, що зможе вплинути на путіна, — Axios.
-
-Він зізнався своїм довіреним особам, що неправильно оцінив прагнення путіна до миру</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-13_14-08-53.jpg" length="26417" type="image/jpeg"/>
-      <pubDate>Sat, 13 Sep 2025 14:08:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 19:02:18 +0000</lastBuildDate>
     <item>
       <title>Вовчанськ, місто на Харківщині</title>
       <link>https://www.mandarinai.lt/post/80433</link>
@@ -80,6 +71,20 @@
       <description>‼️На Сході Польщі теж лунає повітряна тривога</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-13_16-12-38.mp4" length="414944" type="video/mp4"/>
       <pubDate>Sat, 13 Sep 2025 16:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️У Дніпрі горить багатоповерх</title>
+      <link>https://www.mandarinai.lt/post/80444</link>
+      <description>‼️У Дніпрі горить багатоповерхівка після удару балістики по місту, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-13_18-31-22.mp4" length="264982" type="video/mp4"/>
+      <pubDate>Sat, 13 Sep 2025 18:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щойно Силами безпілотних систе</title>
+      <link>https://www.mandarinai.lt/post/80445</link>
+      <description>Щойно Силами безпілотних систем збито висотний російський ударно-розвідувальний БПЛА «Оріон», який оцінюється у понад 5 мільйонів доларів США, - 414 ОБР «Птахи Мадяра».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1310.MP4" length="4652579" type="video/mp4"/>
+      <pubDate>Sat, 13 Sep 2025 18:55:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
