@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 05:07:40 +0000</lastBuildDate>
-    <item>
-      <title>6100 хлопців 18-22 років виїха</title>
-      <link>https://www.mandarinai.lt/post/80388</link>
-      <description>6100 хлопців 18-22 років виїхало до Польщі за перший тиждень, – Rzeczpospolita.
-
-Це в 12 разів більше, ніж в попередній тиждень (500)</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-12_17-37-36.jpg" length="125214" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 17:37:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 06:11:11 +0000</lastBuildDate>
     <item>
       <title>Між тим, на фронті є невеликий</title>
       <link>https://www.mandarinai.lt/post/80390</link>
@@ -84,6 +75,13 @@
 У результаті село Філія звільнено від російських окупантів. Там знову майорить український прапор</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-12_19-57-05.mp4" length="13351744" type="video/mp4"/>
       <pubDate>Fri, 12 Sep 2025 19:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>русня публікує відео, як ворож</title>
+      <link>https://www.mandarinai.lt/post/80402</link>
+      <description>русня публікує відео, як ворожі штурмові групи пересувались 4 кілометри по газовій трубі в Купʼянськ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-13_05-21-08.mp4" length="1740178" type="video/mp4"/>
+      <pubDate>Sat, 13 Sep 2025 05:21:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
