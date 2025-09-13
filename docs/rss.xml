@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 15:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 16:08:36 +0000</lastBuildDate>
     <item>
       <title>🇷🇺русня демонстративно вистави</title>
       <link>https://www.mandarinai.lt/post/80422</link>
@@ -120,6 +120,17 @@
 Військові 425-го полку «Скеля» увірвалися до села, закидали окупантів гранатами, обстріляли їх, взяли полонених і встановили контроль над населеним пунктом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-13_14-54-03.jpg" length="55344" type="image/jpeg"/>
       <pubDate>Sat, 13 Sep 2025 14:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Наземні системи ППО в найвищ</title>
+      <link>https://www.mandarinai.lt/post/80437</link>
+      <description>❗️Наземні системи ППО в найвищому ступені готовності через загрозу дронів біля кордону, – прем'єр Польщі Туск.
+
+«Також розпочалися превентивні операції авіації Польщі та НАТО».
+
+Також повідомляють, що аеропорт Любліна поблизу кордону призупинив роботу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-13_15-27-52.jpg" length="35156" type="image/jpeg"/>
+      <pubDate>Sat, 13 Sep 2025 15:27:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
