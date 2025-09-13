@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 22:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 23:07:13 +0000</lastBuildDate>
     <item>
       <title>Вовчанськ, місто на Харківщині</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Вовчанськ, місто на Харківщині, яке знищила орда, - кадри 34-го батальйону «Вовкодави» 57-ої ОМБР</description>
       <pubDate>Sat, 13 Sep 2025 14:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️На Сході Польщі теж лунає по</title>
-      <link>https://www.mandarinai.lt/post/80440</link>
-      <description>‼️На Сході Польщі теж лунає повітряна тривога</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-13_16-12-38.mp4" length="414944" type="video/mp4"/>
-      <pubDate>Sat, 13 Sep 2025 16:12:38 +0000</pubDate>
     </item>
     <item>
       <title>‼️У Дніпрі горить багатоповерх</title>
@@ -64,6 +57,13 @@
 Для цього армія рф повинна наступати з Білорусі та прокладати Сувалкський коридор через Польщу й Литву, що фактично є репетицією нападу на НАТО.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-13_21-58-43.jpg" length="31168" type="image/jpeg"/>
       <pubDate>Sat, 13 Sep 2025 21:58:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Якби Китай відрізав допомогу</title>
+      <link>https://www.mandarinai.lt/post/80454</link>
+      <description>‼️Якби Китай відрізав допомогу росії, вже завтра б війна закінчилася, — спецпредставник президента США Кіт Келлог</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-13_22-25-33.jpg" length="210654" type="image/jpeg"/>
+      <pubDate>Sat, 13 Sep 2025 22:25:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
