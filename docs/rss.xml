@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 18:10:13 +0000</lastBuildDate>
-    <item>
-      <title>Підрозділ «Alliance Division»,</title>
-      <link>https://www.mandarinai.lt/post/80489</link>
-      <description>Підрозділ «Alliance Division», який є частиною 225-го штурмового полку, один з тих, хто зміг зупинити російський наступ на Суми.
-
-Бійці дякують вам, шановні підписники, за те, що ви допомогли придбати для підрозділу автомобіль. 
-
-А це означає, що ви, друзі, своїми внесками допомогли відстояти Суми.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1318.MP4" length="4643275" type="video/mp4"/>
-      <pubDate>Sun, 14 Sep 2025 12:48:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Sep 2025 19:02:17 +0000</lastBuildDate>
     <item>
       <title>Прикордонники показали, як опе</title>
       <link>https://www.mandarinai.lt/post/80490</link>
@@ -87,9 +76,9 @@
       <pubDate>Sun, 14 Sep 2025 16:31:49 +0000</pubDate>
     </item>
     <item>
-      <title>👀 У Китаї ППО нібито збило мет</title>
+      <title>👀 У Китаї ППО нібито збила мет</title>
       <link>https://www.mandarinai.lt/post/80500</link>
-      <description>👀 У Китаї ППО нібито збило метеорит над провінцією Шаньдун</description>
+      <description>👀 У Китаї ППО нібито збила метеорит над провінцією Шаньдун</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-14_18-05-43.mp4" length="1284373" type="video/mp4"/>
       <pubDate>Sun, 14 Sep 2025 18:05:43 +0000</pubDate>
     </item>
@@ -101,6 +90,24 @@
 Або просто не відправляють, щоб не злити путіна</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_18-06-43.jpg" length="101165" type="image/jpeg"/>
       <pubDate>Sun, 14 Sep 2025 18:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Розумні люди мене не люблять,</title>
+      <link>https://www.mandarinai.lt/post/80502</link>
+      <description>😐Розумні люди мене не люблять, — Трамп
+
+Нарешті база від Трампа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-14_18-23-22.mp4" length="966483" type="video/mp4"/>
+      <pubDate>Sun, 14 Sep 2025 18:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>«путіну все одно на санкції — </title>
+      <link>https://www.mandarinai.lt/post/80503</link>
+      <description>«путіну все одно на санкції — він їх обходить», — сенатор Ліндсі Грем
+
+Американський політик заявив, що попередні обмеження проти росії не дали результату. Тому новий законопроєкт США буде спрямований не безпосередньо проти путіна, а проти Китаю, Індії, Бразилії та інших держав, які допомагають кремлю, купуючи дешеву нафту й газ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-14_18-42-10.mp4" length="5978223" type="video/mp4"/>
+      <pubDate>Sun, 14 Sep 2025 18:42:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
