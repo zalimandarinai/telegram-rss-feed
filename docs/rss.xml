@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 09:07:30 +0000</lastBuildDate>
-    <item>
-      <title>Військово-Морські Сили уразили</title>
-      <link>https://www.mandarinai.lt/post/80459</link>
-      <description>Військово-Морські Сили уразили комунікаційний вузол чф рф на території 184 науково-дослідницької експериментальної бази в місті Севастополь.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_06-11-04.jpg" length="81423" type="image/jpeg"/>
-      <pubDate>Sun, 14 Sep 2025 06:11:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Sep 2025 10:07:12 +0000</lastBuildDate>
     <item>
       <title>Литва та Естонія закрили небо </title>
       <link>https://www.mandarinai.lt/post/80461</link>
@@ -108,6 +101,22 @@
       <description>👌У Ленінградській області з рейок зійшов локомотив з цистернами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_08-55-51.jpg" length="151979" type="image/jpeg"/>
       <pubDate>Sun, 14 Sep 2025 08:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Бербок не виключає відправку</title>
+      <link>https://www.mandarinai.lt/post/80475</link>
+      <description>❗️Бербок не виключає відправку миротворців ООН до України
+
+"Якщо буде укладено мирний договір, його необхідно максимально захистити. І якщо більшість держав-членів вважає, що для цього потрібні блакитні каски, то це, сподіваємося, допоможе забезпечити тривалий мир. Перш за все, необхідно провести мирні переговори", - сказала президентка Генасамблеї ООН Анналена Бербок.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_09-20-15.jpg" length="54140" type="image/jpeg"/>
+      <pubDate>Sun, 14 Sep 2025 09:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>😨 Трипільська ТЕС на Київщині </title>
+      <link>https://www.mandarinai.lt/post/80476</link>
+      <description>😨 Трипільська ТЕС на Київщині зазнала 19 влучань "Шахедами": річні відновлювальні роботи були буквально перекреслені, повідомив нардеп Нагорняк</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_09-48-36.jpg" length="100269" type="image/jpeg"/>
+      <pubDate>Sun, 14 Sep 2025 09:48:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
