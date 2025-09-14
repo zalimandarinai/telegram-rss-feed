@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 20:08:03 +0000</lastBuildDate>
-    <item>
-      <title>👌ЗСУ розмістили колючий дріт в</title>
-      <link>https://www.mandarinai.lt/post/80492</link>
-      <description>👌ЗСУ розмістили колючий дріт всередині трубопроводу, щоб перешкодити росіянам його використовувати — таке відео зʼявилося в мережі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-14_14-03-31.mp4" length="4779620" type="video/mp4"/>
-      <pubDate>Sun, 14 Sep 2025 14:03:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Sep 2025 21:04:46 +0000</lastBuildDate>
     <item>
       <title>💥🔥Епічна детонація ворожого ск</title>
       <link>https://www.mandarinai.lt/post/80493</link>
@@ -92,6 +85,13 @@
 Американський політик заявив, що попередні обмеження проти росії не дали результату. Тому новий законопроєкт США буде спрямований не безпосередньо проти путіна, а проти Китаю, Індії, Бразилії та інших держав, які допомагають кремлю, купуючи дешеву нафту й газ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-14_18-42-10.mp4" length="5978223" type="video/mp4"/>
       <pubDate>Sun, 14 Sep 2025 18:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кремлівський диктатор вважає в</title>
+      <link>https://www.mandarinai.lt/post/80507</link>
+      <description>Кремлівський диктатор вважає війну в Україні екзистенційною для себе, тобто тим, від чого залежить його політичне майбутнє, — пишуть Капітани Очевидність з видання Politico</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_20-13-09.jpg" length="89083" type="image/jpeg"/>
+      <pubDate>Sun, 14 Sep 2025 20:13:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
