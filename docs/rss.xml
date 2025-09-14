@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 17:03:42 +0000</lastBuildDate>
-    <item>
-      <title>😏Так зараз виглядає дорога на </title>
-      <link>https://www.mandarinai.lt/post/80485</link>
-      <description>😏Так зараз виглядає дорога на Краматорськ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_12-30-13.jpg" length="178082" type="image/jpeg"/>
-      <pubDate>Sun, 14 Sep 2025 12:30:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Sep 2025 18:10:13 +0000</lastBuildDate>
     <item>
       <title>Підрозділ «Alliance Division»,</title>
       <link>https://www.mandarinai.lt/post/80489</link>
@@ -92,6 +85,22 @@
 🛤Від завтра приміські поїзди між Києвом та Васильковом курсуватимуть через Боярку без обмежень</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_16-31-49.jpg" length="318082" type="image/jpeg"/>
       <pubDate>Sun, 14 Sep 2025 16:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 У Китаї ППО нібито збило мет</title>
+      <link>https://www.mandarinai.lt/post/80500</link>
+      <description>👀 У Китаї ППО нібито збило метеорит над провінцією Шаньдун</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-14_18-05-43.mp4" length="1284373" type="video/mp4"/>
+      <pubDate>Sun, 14 Sep 2025 18:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Польські військові не приїдуть</title>
+      <link>https://www.mandarinai.lt/post/80501</link>
+      <description>Польські військові не приїдуть в Україну з міркувань безпеки. Натомість українські інструктори навчатимуть їх протидії дронам у навчальному центрі НАТО на території Польщі, — Сікорський
+
+Або просто не відправляють, щоб не злити путіна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-14_18-06-43.jpg" length="101165" type="image/jpeg"/>
+      <pubDate>Sun, 14 Sep 2025 18:06:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
