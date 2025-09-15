@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 19:05:10 +0000</lastBuildDate>
-    <item>
-      <title>Виявлення та ліквідація російс</title>
-      <link>https://www.mandarinai.lt/post/80527</link>
-      <description>Виявлення та ліквідація російських дронів-«ждунів» на оптоволокні батальйоном безпілотних систем 63-ої ОМБР</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1332.MP4" length="13117558" type="video/mp4"/>
-      <pubDate>Mon, 15 Sep 2025 08:52:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 20:09:37 +0000</lastBuildDate>
     <item>
       <title>Американські військові на навч</title>
       <link>https://www.mandarinai.lt/post/80529</link>
@@ -86,7 +79,9 @@
       <link>https://www.mandarinai.lt/post/80536</link>
       <description>❗️США готують військову агресію проти Венесуели: біля країни в очікуванні 140 ракет «Томагавк», винищувачі F-35 та понад дві тисячі морських піхотинців
 
-Крім того, американці накопичили конвертоплани Osprey та штурмовики Harrier.</description>
+Крім того, американці накопичили конвертоплани Osprey та штурмовики Harrier.
+
+З Венесуелою, значить, так можна. І з Іраном теж можна.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-15_18-34-04.jpg" length="223327" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 18:34:04 +0000</pubDate>
     </item>
@@ -116,6 +111,20 @@
 💡У 2024 році Киришський НПЗ переробив 17,5 млн тонн нафти, що становило 6,6% від загального обсягу перероблення російської нафти</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-15_18-56-09.jpg" length="57458" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 18:56:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Над Польщею знову дрон, над ур</title>
+      <link>https://www.mandarinai.lt/post/80541</link>
+      <description>Над Польщею знову дрон, над урядовими будівлями в центрі польської столиці літав безпілотник, який було знищено приблизно о восьмій за варшавським часом, — так повідомив премʼєр Польщі Дональд Туск.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-15_19-29-20.jpg" length="71860" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 19:29:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>За матеріалами СБУ, сьогодні н</title>
+      <link>https://www.mandarinai.lt/post/80542</link>
+      <description>За матеріалами СБУ, сьогодні на 15 років «закрили» агента фсб, який передавав ворогу координати ППО у Києві, його зовуть Олександр Поліщук, і взяли його на ранньому етапі його «діяльності».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-15_20-00-06.jpg" length="64772" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 20:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
