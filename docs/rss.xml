@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 14:09:20 +0000</lastBuildDate>
-    <item>
-      <title>По Україні вночі запустили три</title>
-      <link>https://www.mandarinai.lt/post/80517</link>
-      <description>По Україні вночі запустили три ракети С-300 та 84 дрони
-
-Збито або подавлено 59 ворожих БПЛА «Шахед», «Гербера», дронів інших типів.
-
-Зафіксовано влучання ракет та 25 ударних дронів на 13 локаціях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-15_06-22-32.jpg" length="78064" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 06:22:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 15:10:12 +0000</lastBuildDate>
     <item>
       <title>Провал наступу росіян під Добр</title>
       <link>https://www.mandarinai.lt/post/80518</link>
@@ -108,6 +97,13 @@
       <description>💥⚡️Україна має дрони-перехоплювачі, які здатні збивати реактивні "Шахеди" — вони вже використовуються, — заступник керівника ОП Павло Паліса</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-15_13-29-59.mp4" length="3806899" type="video/mp4"/>
       <pubDate>Mon, 15 Sep 2025 13:29:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️❗️Ті, хто подорожують потяга</title>
+      <link>https://www.mandarinai.lt/post/80531</link>
+      <description>❗️❗️Ті, хто подорожують потягами й живуть біля залізної дороги, будьте уважні: нова ціль путіна — знищити залізничну інфраструктуру України. Росіяни цілеспрямовано бʼють по ключових вузлових станціях і вокзалах (!), — «УЗ».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-15_14-58-18.jpg" length="58851" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 14:58:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
