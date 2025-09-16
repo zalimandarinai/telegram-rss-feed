@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 13:20:23 +0000</lastBuildDate>
-    <item>
-      <title>‼️Дим від пожежі на Київщині н</title>
-      <link>https://www.mandarinai.lt/post/80555</link>
-      <description>‼️Дим від пожежі на Київщині накриває столицю. Рекомендують закривати вікна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-16_05-59-25.mp4" length="534405" type="video/mp4"/>
-      <pubDate>Tue, 16 Sep 2025 05:59:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 14:09:05 +0000</lastBuildDate>
     <item>
       <title>‼️Масштабна пожежа внаслідок а</title>
       <link>https://www.mandarinai.lt/post/80557</link>
@@ -127,6 +120,26 @@
 В фокусі уваги бійців підрозділу безпілотних систем ДПСУ «Фенікс» ворожа піхота, електрообладнання, так званий «важкий бомбер» та БпЛА «Mavic». Одне з небагатьох підтверджень використання противником аналогів українських дронів типу «Vampire».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5295.MP4" length="21184119" type="video/mp4"/>
       <pubDate>Tue, 16 Sep 2025 12:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фахівці ГУР  ідентифікували на</title>
+      <link>https://www.mandarinai.lt/post/80571</link>
+      <description>Фахівці ГУР  ідентифікували начинку
+російського реактивного БпЛА «Герань-3».
+
+Шокуючий факт - із 45 ідентифікованих іноземних компонентів:
+22 від американських виробників, 
+8 від китайських, 
+7 швейцарських, 
+3 німецьких, 
+2 британських та 
+1 від японського виробника.
+
+В дроні «Герань» використовується китайський турбореактивний двигун Telefly JT80, завдяки якому безпілотник здатен рухатися зі швидкістю від 300 до 370 км/год; орієнтовна операційна дальність застосування – до 1000 км. 
+
+ </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-16_13-31-23.jpg" length="83470" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 13:31:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
