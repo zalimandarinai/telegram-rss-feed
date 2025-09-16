@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 17:08:00 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Суми та Харків зараз під мас</title>
-      <link>https://www.mandarinai.lt/post/80565</link>
-      <description>⚡️Суми та Харків зараз під масованою атакою БпЛА
-
-Зранку зафіксовано більше 10 прильотів. У Харкові вже відомо про трьох постраждалих. Є влучання в цивільну інфраструктуру.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-16_08-20-00.mp4" length="329196" type="video/mp4"/>
-      <pubDate>Tue, 16 Sep 2025 08:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 18:12:53 +0000</lastBuildDate>
     <item>
       <title>‼️ 19-й пакет європейських сан</title>
       <link>https://www.mandarinai.lt/post/80566</link>
@@ -165,6 +156,21 @@
 Польські агентства з продажу закордонної нерухомості повідомляють про різке зростання запитів після удару дронів по Польщі. Кількість польських запитів на нерухомість в Іспанії зросла в три рази.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-16_17-05-52.jpg" length="140944" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 17:05:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>В бригаді НГУ «Хартія» новий к</title>
+      <link>https://www.mandarinai.lt/post/80579</link>
+      <description>В бригаді НГУ «Хартія» новий командир. Майор Даніель Кітонє. Позивний «Куба». Ще коли «Куба» був командиром 2-го батальйону, російська пропаганда називала його «іноземним найманцем, якого поставили командувати українцями». Мав честь особисто поспілкуватись з майором «Кубою». Перше інтерв’ю нового комбрига «Хартії» можна подивитись за посиланням в YouTube
+
+https://www.youtube.com/watch?v=qF2Rubh1fVM&amp;t=75s
+
+Одразу скажу, - «Куба», напевно, найбільш нетиповий український воєначальник після «Мадяра». І не через походження. А тому, що до вторгнення 2022-го року не мав жодного відношення до армії. Військова кафедра в ХАІ – не рахується. Втім, його бачення сучасного війська абсолютно вписується в концепцію «Хартії». Головне, що ми почули від «Куби», це те, що Харків окупантам може лише наснитися в їхніх фантазіях. Рекомендую повну версію.
+
+https://www.youtube.com/watch?v=qF2Rubh1fVM&amp;t=75s
+
+Також скорочений варіант нашої розмови з «Кубою» можна подивитись завтра вранці, о 09:00, в «ТСН» на «1+1».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1361.MP4" length="11830161" type="video/mp4"/>
+      <pubDate>Tue, 16 Sep 2025 17:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
