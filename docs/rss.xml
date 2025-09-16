@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 11:07:33 +0000</lastBuildDate>
-    <item>
-      <title>Дві людини загинуло і 14 поран</title>
-      <link>https://www.mandarinai.lt/post/80553</link>
-      <description>Дві людини загинуло і 14 поранено внаслідок атаки ворога на Запоріжжя</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-16_04-46-40.jpg" length="102519" type="image/jpeg"/>
-      <pubDate>Tue, 16 Sep 2025 04:46:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Єдиний спосіб припинити бойо</title>
-      <link>https://www.mandarinai.lt/post/80554</link>
-      <description>‼️Єдиний спосіб припинити бойові дії в Україні — це надати Україні чітки гарантії бепеки. Зокрема, з боку США,  - Зеленський.
-
-За його словами, зупинка війни може відбутися тільки в тому разі, якщо президент США Дональд Трамп проявить сміливість</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-16_05-01-38.mp4" length="11815824" type="video/mp4"/>
-      <pubDate>Tue, 16 Sep 2025 05:01:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 12:16:32 +0000</lastBuildDate>
     <item>
       <title>‼️Дим від пожежі на Київщині н</title>
       <link>https://www.mandarinai.lt/post/80555</link>
@@ -126,6 +110,23 @@
       <description>🤬Жахливий момент удару ворожого БПЛА по Слобідському району  Харкова. Дрон вдарив по будівлі фармацевтичного університету в центрі міста. Матеріали прокуратури.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-16_10-04-39.mp4" length="780118" type="video/mp4"/>
       <pubDate>Tue, 16 Sep 2025 10:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬рашистський виблядок заради р</title>
+      <link>https://www.mandarinai.lt/post/80569</link>
+      <description>🤬рашистський виблядок заради розваги вбив коня. 
+Типова русня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-16_11-55-49.mp4" length="5601403" type="video/mp4"/>
+      <pubDate>Tue, 16 Sep 2025 11:55:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прикордонні дрони розкривають </title>
+      <link>https://www.mandarinai.lt/post/80570</link>
+      <description>Прикордонні дрони розкривають і розбирають укриття противника
+
+В фокусі уваги бійців підрозділу безпілотних систем ДПСУ «Фенікс» ворожа піхота, електрообладнання, так званий «важкий бомбер» та БпЛА «Mavic». Одне з небагатьох підтверджень використання противником аналогів українських дронів типу «Vampire».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5295.MP4" length="21184119" type="video/mp4"/>
+      <pubDate>Tue, 16 Sep 2025 12:11:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
