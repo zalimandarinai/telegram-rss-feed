@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Sep 2025 14:08:24 +0000</lastBuildDate>
-    <item>
-      <title>Подивіться, скільки влучань. А</title>
-      <link>https://www.mandarinai.lt/post/80593</link>
-      <description>Подивіться, скільки влучань. Армійська авіація ЗСУ збиває «шахеди». Виявляється, що за певних умов звичайний кулемет залишається ефективним рішенням.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1369.MP4" length="23734616" type="video/mp4"/>
-      <pubDate>Wed, 17 Sep 2025 07:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Влучання по розташуванню раш</title>
-      <link>https://www.mandarinai.lt/post/80594</link>
-      <description>💥🔥Влучання по розташуванню рашистів в окупованому Донецьку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-17_07-45-47.mp4" length="3802786" type="video/mp4"/>
-      <pubDate>Wed, 17 Sep 2025 07:45:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬окупанти заходять в Куп'янськ</title>
-      <link>https://www.mandarinai.lt/post/80596</link>
-      <description>🤬окупанти заходять в Куп'янськ уже не тільки з півночі, а й із північного заходу та закріпилюються в житлових кварталах, — Deep State
-
-ЗМІ пишуть, що сіра зона з півночі дійшла вже до центру міста, йдуть бої.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-17_08-27-14.jpg" length="65872" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 08:27:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 15:09:03 +0000</lastBuildDate>
     <item>
       <title>Наводили ракети на Київ.
 
@@ -115,6 +92,17 @@ https://planetakino.ua/movie-offline/hrim-sered-yasnoho-neba/</description>
       <link>https://www.mandarinai.lt/post/80606</link>
       <description>«Склад БК горит!» - сильні вибухи в Донецьку з невідомих причин</description>
       <pubDate>Wed, 17 Sep 2025 12:59:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Польща депортує 21-річного укр</title>
+      <link>https://www.mandarinai.lt/post/80608</link>
+      <description>Польща депортує 21-річного українця, який літав дроном над урядовим кварталом у Варшаві.
+
+Польські спецслужби не виявили ознак шпигунства, але хлопця оштрафували на 4 тисячі злотих за політ у забороненій зоні та депортували до України із забороною в’їзду до Шенгенської зони на 5 років.
+
+17-річна білоруска, яка була з ним проходить у справі як свідок її допитали й відпустили.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-17_14-50-28.jpg" length="100007" type="image/jpeg"/>
+      <pubDate>Wed, 17 Sep 2025 14:50:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
