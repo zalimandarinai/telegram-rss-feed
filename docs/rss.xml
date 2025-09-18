@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 22:07:45 +0000</lastBuildDate>
-    <item>
-      <title>Побудований росією новий обʼєк</title>
-      <link>https://www.mandarinai.lt/post/80663</link>
-      <description>Побудований росією новий обʼєкт схожий на майданчик для запуску дронів «Shahed».
-
-Він знаходиться в Брянській області лише за 35 кілометрів від кордону з Україною. 
-
-На супутникових фото комплекс споруд, розташований між селами Олешок, Голишина, Живий Ключ та Мартинівка, який має склади, пускові установки, елементи інфраструктури.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_17-32-36.jpg" length="157284" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 17:32:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Латвії на пляжі знайшли улам</title>
-      <link>https://www.mandarinai.lt/post/80664</link>
-      <description>В Латвії на пляжі знайшли уламки російського безпілотника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_17-37-22.jpg" length="213621" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 17:37:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 23:08:04 +0000</lastBuildDate>
     <item>
       <title>Наступом росіян на Купʼянськ в</title>
       <link>https://www.mandarinai.lt/post/80665</link>
@@ -84,6 +66,15 @@
       <description>‼️Понад 20 шахедів беруть курс з Чернігівщини в бік Києва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_21-54-01.jpg" length="116665" type="image/jpeg"/>
       <pubDate>Thu, 18 Sep 2025 21:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Київ багато збивають, але й </title>
+      <link>https://www.mandarinai.lt/post/80679</link>
+      <description>⚡️Київ багато збивають, але й повідомляють про влучання
+
+У Солом’янському районі Києва зафіксовано падіння та вибух БпЛА, — Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-18_22-31-05.mp4" length="388156" type="video/mp4"/>
+      <pubDate>Thu, 18 Sep 2025 22:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
