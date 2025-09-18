@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 04:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 05:08:43 +0000</lastBuildDate>
     <item>
       <title>Окупанти використовують зброю </title>
       <link>https://www.mandarinai.lt/post/80615</link>
@@ -111,6 +111,17 @@
       <description>В Києві на Оболоні працює ППО</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1392.MP4" length="374611" type="video/mp4"/>
       <pubDate>Thu, 18 Sep 2025 00:49:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Пожежі внаслідок атаки воро</title>
+      <link>https://www.mandarinai.lt/post/80628</link>
+      <description>❗️ Пожежі внаслідок атаки ворожих БПЛА в Київській області
+
+▫️ В Бориспільському районі сталося загорання складських приміщень.
+
+▫️ В Бучанському районі загорівся приватни будинок після удару, пожежа вже локалізована.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_04-03-58.jpg" length="198911" type="image/jpeg"/>
+      <pubDate>Thu, 18 Sep 2025 04:03:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
