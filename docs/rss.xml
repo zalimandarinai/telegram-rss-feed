@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 08:12:28 +0000</lastBuildDate>
-    <item>
-      <title>«Дітей та жінок залишити в жив</title>
-      <link>https://www.mandarinai.lt/post/80625</link>
-      <description>«Дітей та жінок залишити в живих, а чоловіків вбити», - російські полонені, які зайшли по трубі до Куп'янська, свідчать про ті накази, які їм давали командири</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2025-09-17_23-26-19.mp4" length="7760578" type="video/mp4"/>
-      <pubDate>Wed, 17 Sep 2025 20:28:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 09:09:32 +0000</lastBuildDate>
     <item>
       <title>Перші знімки реактивного «Шахе</title>
       <link>https://www.mandarinai.lt/post/80626</link>
@@ -133,8 +126,15 @@ https://www.facebook.com/share/17ECrVyD25/
 
 Квитки👇
 https://planetakino.ua/movie-offline/hrim-sered-yasnoho-neba/</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_07-21-53.jpg" length="127638" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-18_07-21-53.mp4" length="1927550" type="video/mp4"/>
       <pubDate>Thu, 18 Sep 2025 07:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські БПЛА долетіли за 13</title>
+      <link>https://www.mandarinai.lt/post/80640</link>
+      <description>Українські БПЛА долетіли за 1300 кілометрів від кордону і завдали удар по нафтопереробному заводу в Башкирії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1401.MP4" length="1675596" type="video/mp4"/>
+      <pubDate>Thu, 18 Sep 2025 08:18:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
