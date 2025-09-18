@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 00:39:47 +0000</lastBuildDate>
-    <item>
-      <title>Російський дрон сьогодні розва</title>
-      <link>https://www.mandarinai.lt/post/80613</link>
-      <description>Російський дрон сьогодні розвалив АЗС біля Полтави</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-17_16-53-01.jpg" length="203714" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 16:53:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 02:13:21 +0000</lastBuildDate>
     <item>
       <title>Окупанти використовують зброю </title>
       <link>https://www.mandarinai.lt/post/80615</link>
@@ -111,6 +104,13 @@
 Китайський турбореактивний двигун Telefly JT80 розганяє його до 370 км/год. Дальність польоту до 1000 кілометрів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-17_20-33-55.jpg" length="157994" type="image/jpeg"/>
       <pubDate>Wed, 17 Sep 2025 20:33:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві на Оболоні працює ППО</title>
+      <link>https://www.mandarinai.lt/post/80627</link>
+      <description>В Києві на Оболоні працює ППО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1392.MP4" length="374611" type="video/mp4"/>
+      <pubDate>Thu, 18 Sep 2025 00:49:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
