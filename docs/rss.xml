@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 09:09:32 +0000</lastBuildDate>
-    <item>
-      <title>Перші знімки реактивного «Шахе</title>
-      <link>https://www.mandarinai.lt/post/80626</link>
-      <description>Перші знімки реактивного «Шахеда», приземленого засобами РЕБ
-
-Китайський турбореактивний двигун Telefly JT80 розганяє його до 370 км/год. Дальність польоту до 1000 кілометрів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-17_20-33-55.jpg" length="157994" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 20:33:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Києві на Оболоні працює ППО</title>
-      <link>https://www.mandarinai.lt/post/80627</link>
-      <description>В Києві на Оболоні працює ППО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1392.MP4" length="374611" type="video/mp4"/>
-      <pubDate>Thu, 18 Sep 2025 00:49:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Пожежі внаслідок атаки воро</title>
-      <link>https://www.mandarinai.lt/post/80628</link>
-      <description>❗️ Пожежі внаслідок атаки ворожих БПЛА в Київській області
-
-▫️ В Бориспільському районі сталося загорання складських приміщень.
-
-▫️ В Бучанському районі загорівся приватни будинок після удару, пожежа вже локалізована.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_04-03-58.jpg" length="198911" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 04:03:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 10:09:30 +0000</lastBuildDate>
     <item>
       <title>🗿🗿🗿Тим часом у Вашингтоні вста</title>
       <link>https://www.mandarinai.lt/post/80630</link>
@@ -126,7 +99,7 @@ https://www.facebook.com/share/17ECrVyD25/
 
 Квитки👇
 https://planetakino.ua/movie-offline/hrim-sered-yasnoho-neba/</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-18_07-21-53.mp4" length="1927550" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-18_07-21-53.mp4" length="2520291" type="video/mp4"/>
       <pubDate>Thu, 18 Sep 2025 07:21:53 +0000</pubDate>
     </item>
     <item>
@@ -135,6 +108,13 @@ https://planetakino.ua/movie-offline/hrim-sered-yasnoho-neba/</description>
       <description>Українські БПЛА долетіли за 1300 кілометрів від кордону і завдали удар по нафтопереробному заводу в Башкирії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1401.MP4" length="1675596" type="video/mp4"/>
       <pubDate>Thu, 18 Sep 2025 08:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥На НПЗ в російській Башкірії</title>
+      <link>https://www.mandarinai.lt/post/80643</link>
+      <description>💥🔥На НПЗ в російській Башкірії добрими донами була уражена ключова  установка ЕЛОУ-АВТ-4.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-18_10-00-07.mp4" length="431206" type="video/mp4"/>
+      <pubDate>Thu, 18 Sep 2025 10:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
