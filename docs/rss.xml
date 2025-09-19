@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Sep 2025 06:13:40 +0000</lastBuildDate>
-    <item>
-      <title>Польська влада визнала, що в б</title>
-      <link>https://www.mandarinai.lt/post/80669</link>
-      <description>Польська влада визнала, що в будинок біля кордону з Білоруссю влучив не російський дрон, а ракета, випущена з винищувача F-16 польських ВПС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_19-35-53.jpg" length="229981" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 19:35:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>😈 Україна найближчим часом зас</title>
-      <link>https://www.mandarinai.lt/post/80670</link>
-      <description>😈 Україна найближчим часом застосовуватиме 1 000 дронів-перехоплювачів на добу, — Шмигаль</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-18_19-48-10.jpg" length="60859" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 19:48:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 07:09:18 +0000</lastBuildDate>
     <item>
       <title>🇺🇦✨У Києві монумент "Батьківщи</title>
       <link>https://www.mandarinai.lt/post/80671</link>
@@ -100,6 +86,21 @@
       <description>😡У Києві падіння уламків збитого БпЛА на кількох локаціях. В Шевченківському районі пошкоджено тролейбусну мережу, - КМВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-19_05-11-20.mp4" length="472231" type="video/mp4"/>
       <pubDate>Fri, 19 Sep 2025 05:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 ССО рознесли логістичний хаб</title>
+      <link>https://www.mandarinai.lt/post/80685</link>
+      <description>💥 ССО рознесли логістичний хаб російських морпіхів у Курській області.
+
+Уражена база зберігання матеріальних засобів, склади з боєприпасами, та схрон озброєння та військової техніки 810-ї бригади, що бере участь у наступі на Північно-Слобожанському напрямку та причетна до воєнних злочинів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-19_06-25-57.mp4" length="7715619" type="video/mp4"/>
+      <pubDate>Fri, 19 Sep 2025 06:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці 425-го полку «Скеля» взя</title>
+      <link>https://www.mandarinai.lt/post/80686</link>
+      <description>Бійці 425-го полку «Скеля» взяли 17 полонених за тиждень на Покровському та Лиманському напрямках.</description>
+      <pubDate>Fri, 19 Sep 2025 06:54:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
