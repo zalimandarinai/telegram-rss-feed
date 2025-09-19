@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Sep 2025 16:09:49 +0000</lastBuildDate>
-    <item>
-      <title>Момент збиття «шахеда», ймовір</title>
-      <link>https://www.mandarinai.lt/post/80690</link>
-      <description>Момент збиття «шахеда», ймовірно, ракетою AIM-9 Sidewinder з українського F-16</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1429.MP4" length="888815" type="video/mp4"/>
-      <pubDate>Fri, 19 Sep 2025 09:35:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 17:07:38 +0000</lastBuildDate>
     <item>
       <title>✅ ДПСУ долучається до проєкту </title>
       <link>https://www.mandarinai.lt/post/80691</link>
@@ -102,7 +95,7 @@
       <link>https://www.mandarinai.lt/post/80699</link>
       <description>🦾В Україні презентували підводний дрон-велетень TOLOKA
 
-Гігант TLK 1000 довжиною до 12 метрів. Його дальність — до 2 000 км, а вантажопідйомність сягає 5 тонн.</description>
+Гігант TLK 1000 довжиною до 12 метрів. Його дальність — до 2000 км, а вантажопідйомність сягає 5 тонн.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-19_14-27-05.jpg" length="140059" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 14:27:05 +0000</pubDate>
     </item>
@@ -138,6 +131,13 @@
       <description>‼️Келлог: можливо, Україні доведеться визнати окуповану територію зараз, але в довгостроковій перспективі їх можна повернути. Грайте в довгострокову гру.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-19_15-49-57.jpg" length="24322" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 15:49:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлене, як удар чотирьох БПЛ</title>
+      <link>https://www.mandarinai.lt/post/80706</link>
+      <description>Заявлене, як удар чотирьох БПЛА FP-2 по розташуванням підрозділу «Рубикон» в н.п. Українськ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1445.MP4" length="17368407" type="video/mp4"/>
+      <pubDate>Fri, 19 Sep 2025 16:59:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
