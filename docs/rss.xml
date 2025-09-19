@@ -6,40 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Sep 2025 18:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 19:05:04 +0000</lastBuildDate>
     <item>
       <title>❗️окупантів втопили в трубі, я</title>
-      <link>https://www.mandarinai.lt/post/80693</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️окупантів втопили в трубі, якою вони лізли в Купʼянськ, — ОК "Північ"
 
 Окупанти намагалися прорватися через газогін поблизу Радьківки та Голубівки. Трубу пошкодили й затопили разом із загарбниками.
 
 Спроби переправитися човнами через річку Оскіл теж провалилися — більшість ворогів знищили артилерія, міномети та FPV-дрони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-19_10-46-12.jpg" length="60870" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 10:46:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перетворення артилерії противн</title>
-      <link>https://www.mandarinai.lt/post/80694</link>
-      <description>Перетворення артилерії противника на металобрухт східніше Краматорська
-
-Підрозділи 5-ої штурмової бригади виявили кілька артилерійських гармат противника. Далі вони провели скоординовану акцію з ліквідації ворожої артилерії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1440.MP4" length="22197790" type="video/mp4"/>
-      <pubDate>Fri, 19 Sep 2025 11:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці FPV-підрозділу Asgard 41</title>
-      <link>https://www.mandarinai.lt/post/80695</link>
-      <description>Бійці FPV-підрозділу Asgard 412 полку СБС «Nemesis» допомогли росіянам зняти з обліку 152-мм самохідну артустановку «Гіацинт-С».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1441.MP4" length="2262973" type="video/mp4"/>
-      <pubDate>Fri, 19 Sep 2025 12:40:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>За матеріалами СБУ, 15 років т</title>
-      <link>https://www.mandarinai.lt/post/80696</link>
-      <description>За матеріалами СБУ, 15 років тюрми отримав завербований фсб 42-річний Ярослав Руденко, який коригував атаки рф по електропідстанціях Сумщини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-19_13-12-13.jpg" length="45218" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 13:12:13 +0000</pubDate>
     </item>
     <item>
       <title>❗️Три російські винищувачі МіГ</title>
@@ -98,6 +74,13 @@
       <description>Заявлене, як удар чотирьох БПЛА FP-2 по розташуванням підрозділу «Рубикон» в н.п. Українськ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1445.MP4" length="17368407" type="video/mp4"/>
       <pubDate>Fri, 19 Sep 2025 16:59:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇵🇱⛴️ Два російські винищувачі </title>
+      <link>https://www.mandarinai.lt/post/80709</link>
+      <description>🇵🇱⛴️ Два російські винищувачі щойно здійснили дуже низький проліт над платформою «Петробалтик», яка є польською власністю, — так заявила сьогодні прикордонна служба Польщі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-19_18-14-32.jpg" length="74117" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 18:14:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
