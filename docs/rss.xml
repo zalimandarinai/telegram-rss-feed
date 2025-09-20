@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 06:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 07:07:43 +0000</lastBuildDate>
     <item>
       <title>❗️Три російські винищувачі МіГ</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -14,14 +14,6 @@
 
 путін вчергове промацує готовність НАТО</description>
       <pubDate>Fri, 19 Sep 2025 14:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦾В Україні презентували підвод</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🦾В Україні презентували підводний дрон-велетень TOLOKA
-
-Гігант TLK 1000 довжиною до 12 метрів. Його дальність — до 2000 км, а вантажопідйомність сягає 5 тонн.</description>
-      <pubDate>Fri, 19 Sep 2025 14:27:05 +0000</pubDate>
     </item>
     <item>
       <title>Росія піде далі, якщо захопить</title>
@@ -71,6 +63,19 @@
       <description>Одна людина загинула і 13 поранено внаслідок удару рф по Дніпру.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-20_05-46-04.mp4" length="3951957" type="video/mp4"/>
       <pubDate>Sat, 20 Sep 2025 05:46:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні вночі сили ППО знищил</title>
+      <link>https://www.mandarinai.lt/post/80726</link>
+      <description>Сьогодні вночі сили ППО знищили 583/619 цілей 
+
+▪️552/579 ударних БпЛА;
+▪️29/32 крилатих ракет Х-101;
+▪️2/8 балістичних ракет Іскандер-М/KN-23.
+
+Зафіксовано влучання балістичних, крилатих ракет та 23 ударних БпЛА на 10 локаціях, падіння збитих (уламки) на 10 локаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-20_06-39-03.jpg" length="118112" type="image/jpeg"/>
+      <pubDate>Sat, 20 Sep 2025 06:39:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
