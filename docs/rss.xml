@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 21:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 22:07:08 +0000</lastBuildDate>
     <item>
       <title>❗️путін вирішив продовжити ата</title>
       <link>https://www.mandarinai.lt/post/80743</link>
@@ -130,6 +130,13 @@ https://m.youtube.com/watch?v=DhNs4zuc0Ao
 Також незабаром ми почуємо і про інші штурмові підрозділи, зокрема, з потужною безпілотною компонентою.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-20_19-57-14.jpg" length="32299" type="image/jpeg"/>
       <pubDate>Sat, 20 Sep 2025 19:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Збиття шахеда дроном - перехо</title>
+      <link>https://www.mandarinai.lt/post/80756</link>
+      <description>💥Збиття шахеда дроном - перехоплювачем</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-20_21-07-40.mp4" length="2558721" type="video/mp4"/>
+      <pubDate>Sat, 20 Sep 2025 21:07:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
