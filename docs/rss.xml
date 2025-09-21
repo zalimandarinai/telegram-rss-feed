@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 09:07:30 +0000</lastBuildDate>
-    <item>
-      <title>💥💪 У небі палає, а люди аплоду</title>
-      <link>https://www.mandarinai.lt/post/80751</link>
-      <description>💥💪 У небі палає, а люди аплодують: надвечір сили ППО збили одразу 12 ворожих безпілотників над Дніпропетровщиною, — ОВА
-
-У мережі з’явилось відео одного з цих «приземлень», де чути, як місцеві мешканці зустріли знищення «шахеда» гучними оваціями.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-20_17-18-34.mp4" length="1206036" type="video/mp4"/>
-      <pubDate>Sat, 20 Sep 2025 17:18:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 10:07:49 +0000</lastBuildDate>
     <item>
       <title>🔥А це вже свіжі кадри роботи F</title>
       <link>https://www.mandarinai.lt/post/80752</link>
@@ -112,6 +103,15 @@
 Травмовано двох вогнеборців. Їх госпіталізовано, стан - середньої тяжкості.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_08-21-26.jpg" length="101415" type="image/jpeg"/>
       <pubDate>Sun, 21 Sep 2025 08:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>За тиждень росія випустила по </title>
+      <link>https://www.mandarinai.lt/post/80768</link>
+      <description>За тиждень росія випустила по Україні понад 1500 дронів, 1280 КАБів і 50 ракет
+
+📝 «В цій зброї знайдено тисячі іноземних компонентів - більш ніж 132 тисячі - із різних країн. Європа, Америка, Китай, Японія й десятки інших», - Зеленський.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1473.MP4" length="28171761" type="video/mp4"/>
+      <pubDate>Sun, 21 Sep 2025 09:13:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
