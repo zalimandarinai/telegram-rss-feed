@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 20:09:08 +0000</lastBuildDate>
-    <item>
-      <title>В Костянтинівку сьогодні приле</title>
-      <link>https://www.mandarinai.lt/post/80778</link>
-      <description>В Костянтинівку сьогодні прилетіли ракети і дрони, росіяни по місту били з гармат, а також скинули авіабомбу ФАБ-250</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_14-35-18.jpg" length="149515" type="image/jpeg"/>
-      <pubDate>Sun, 21 Sep 2025 14:35:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 21:07:20 +0000</lastBuildDate>
     <item>
       <title>✈️НАТО підняло у повітря винищ</title>
       <link>https://www.mandarinai.lt/post/80781</link>
@@ -102,6 +95,12 @@
       <description>Артилеристи 28-ої бригади намагаються тримати противника якомога далі від Костянтинівки за допомогою самохідних артилерійських систем.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1503.MP4" length="25398195" type="video/mp4"/>
       <pubDate>Sun, 21 Sep 2025 19:59:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Покровському напрямку група</title>
+      <link>https://www.mandarinai.lt/post/80793</link>
+      <description>На Покровському напрямку група спецпризначенців 1-го загону 144-го центру Сил Спеціальних операцій успішно «зачистила» будівлю депо від окупантів та взяла в полон дев'ять ворожих солдатів.</description>
+      <pubDate>Sun, 21 Sep 2025 20:11:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
