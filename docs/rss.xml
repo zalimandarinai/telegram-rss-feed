@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 15:07:21 +0000</lastBuildDate>
-    <item>
-      <title>❗️На Чернігівщині рф знову вда</title>
-      <link>https://www.mandarinai.lt/post/80767</link>
-      <description>❗️На Чернігівщині рф знову вдарила по рятувальниках
-
-У Ніжинському районі під час гасіння пожежі на об'єкті критичної інфраструктури, спричиненої атакою БпЛА, росіяни завдали повторного удару.
-
-Травмовано двох вогнеборців. Їх госпіталізовано, стан - середньої тяжкості.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_08-21-26.jpg" length="101415" type="image/jpeg"/>
-      <pubDate>Sun, 21 Sep 2025 08:21:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 16:08:54 +0000</lastBuildDate>
     <item>
       <title>За тиждень росія випустила по </title>
       <link>https://www.mandarinai.lt/post/80768</link>
@@ -116,6 +105,17 @@
       <description>В Костянтинівку сьогодні прилетіли ракети і дрони, росіяни по місту били з гармат, а також скинули авіабомбу ФАБ-250</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_14-35-18.jpg" length="149515" type="image/jpeg"/>
       <pubDate>Sun, 21 Sep 2025 14:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>✈️НАТО підняло у повітря винищ</title>
+      <link>https://www.mandarinai.lt/post/80781</link>
+      <description>✈️НАТО підняло у повітря винищувачі через російський військовий літак у Балтійському морі, — Handelsblatt
+
+Видання з посиланням на ВПС Німеччини повідомляє, що два винищувачі Eurofighter піднялися з німецької бази Росток-Лазі, щоб перехопити невідомий літак.
+
+Пізніше виявилося, що літаком був російський розвідувальний Іл-20М, який летів у міжнародному повітряному просторі без плану польоту чи радіозв'язку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_15-16-35.jpg" length="42475" type="image/jpeg"/>
+      <pubDate>Sun, 21 Sep 2025 15:16:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
