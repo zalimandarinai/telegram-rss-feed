@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 11:02:20 +0000</lastBuildDate>
-    <item>
-      <title>Повне відео нічної та ранкової</title>
-      <link>https://www.mandarinai.lt/post/80753</link>
-      <description>Повне відео нічної та ранкової, роботи ЗРК, мобільних вогневих груп, а також  F-16, які збили більшість крилатих ракет.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1465.MP4" length="15262161" type="video/mp4"/>
-      <pubDate>Sat, 20 Sep 2025 18:46:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці 40-ої бригади берегової </title>
-      <link>https://www.mandarinai.lt/post/80754</link>
-      <description>Бійці 40-ої бригади берегової оборони виявили та уразили за допомогою FPV-дронів  два човни з ворожим десантом в гирлі Дніпра біля Херсона.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1466.MP4" length="7438665" type="video/mp4"/>
-      <pubDate>Sat, 20 Sep 2025 18:58:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 12:14:52 +0000</lastBuildDate>
     <item>
       <title>Новий вид військ буде створено</title>
       <link>https://www.mandarinai.lt/post/80755</link>
@@ -120,6 +106,24 @@
 🤷‍♂️ Вчергове хочеться сподіватися, що це відео, згенероване ШІ, а не реальний виступ президента найбільш потужної демократичної країни на планеті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1474.MP4" length="1073431" type="video/mp4"/>
       <pubDate>Sun, 21 Sep 2025 10:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 У Сумах після ударів дронів </title>
+      <link>https://www.mandarinai.lt/post/80770</link>
+      <description>🔥 У Сумах після ударів дронів спалахнула масштабна пожежа
+
+Три безпілотники влучили по складських приміщеннях. Після ударів почалася пожежа.
+
+Вогонь охопив значну площу та швидко розповсюдився через горючі конструкції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_11-15-53.jpg" length="147331" type="image/jpeg"/>
+      <pubDate>Sun, 21 Sep 2025 11:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф здійснює нові смертоносні</title>
+      <link>https://www.mandarinai.lt/post/80771</link>
+      <description>❗️рф здійснює нові смертоносні атаки на українські міста: в Ніжині ворожі дрони скидають вибухівку з неба прямо на потік автівок, що їдуть вулицями міста</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-21_11-20-57.mp4" length="325490" type="video/mp4"/>
+      <pubDate>Sun, 21 Sep 2025 11:20:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
