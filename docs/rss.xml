@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 06:12:04 +0000</lastBuildDate>
-    <item>
-      <title>❗️путін вирішив продовжити ата</title>
-      <link>https://www.mandarinai.lt/post/80743</link>
-      <description>❗️путін вирішив продовжити атакувати енергетику та іншу інфраструктуру України, - Bloomberg
-
-Як пише видання з посиланням на джерела, близькі до Кремля, диктатор дійшов висновку, що військова ескалація - це найкращий спосіб змусити Україну до переговорів на його умовах, і що Дональд Трамп навряд чи зробить щось для посилення обороноздатності України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-20_13-21-25.jpg" length="61493" type="image/jpeg"/>
-      <pubDate>Sat, 20 Sep 2025 13:21:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 07:07:26 +0000</lastBuildDate>
     <item>
       <title>Цікава ваша емоція з приводу ц</title>
       <link>https://www.mandarinai.lt/post/80744</link>
@@ -137,6 +128,20 @@ https://m.youtube.com/watch?v=DhNs4zuc0Ao
       <description>💥Збиття шахеда дроном - перехоплювачем</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-20_21-07-40.mp4" length="2558721" type="video/mp4"/>
       <pubDate>Sat, 20 Sep 2025 21:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Гарантії безпеки для України</title>
+      <link>https://www.mandarinai.lt/post/80757</link>
+      <description>‼️Гарантії безпеки для України зобов'яжуть європейські країни воювати з рф, якщо війна в Україні відновиться, — президент Фінляндії Стубб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_06-11-37.jpg" length="107175" type="image/jpeg"/>
+      <pubDate>Sun, 21 Sep 2025 06:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Окупанти просунулись у Берез</title>
+      <link>https://www.mandarinai.lt/post/80758</link>
+      <description>⚡️Окупанти просунулись у Березовому, Новоекономічному, біля Новоіванівки та Романівки, — DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_06-19-43.jpg" length="95036" type="image/jpeg"/>
+      <pubDate>Sun, 21 Sep 2025 06:19:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
