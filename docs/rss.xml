@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 17:08:02 +0000</lastBuildDate>
-    <item>
-      <title>Два режими, один сенс: 22 вере</title>
-      <link>https://www.mandarinai.lt/post/80817</link>
-      <description>Два режими, один сенс: 22 вересня 1939 р. пройшов парад, про який досі не люблять згадувати у росії.
-
-1 вересня 1939 р. нацисти напали на Польщу. Через 17 днів польський кордон перетнула радянська армія. 22 вересня обидві окупаційні армії захопили Брест.
-
-За секретним протоколом Брест відходив до СРСР. Наступного дня німецькі війська мали покинути місто. Але щоб продемонструвати близькі стосунки двох режимів та активне радянсько-німецьке співробітництво, було вирішено влаштувати спільний військовий парад.
-
-О 14:00 на дерев'яну трибуну перед флагштоком з нацистським прапором у парадній формі піднялися двоє командувачів – генерал Гудеріан та комбриг Кривошеїн. Спочатку центральною вулицею пройшла німецька, а потім радянська військова техніка.
-
-Після цього нацистське та радянське командування влаштувало спільний бенкет. Усі щиро раділи, що Річ Посполита захоплена спільними зусиллями. 
-
-Після параду нацистський прапор був знятий із флагштока, а на його місце піднявся радянський.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1516.MP4" length="6099097" type="video/mp4"/>
-      <pubDate>Mon, 22 Sep 2025 09:44:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 18:12:51 +0000</lastBuildDate>
     <item>
       <title>В вересні активність противник</title>
       <link>https://www.mandarinai.lt/post/80818</link>
@@ -130,6 +113,13 @@
       <description>У Москві та Підмосков'ї чутно вибухи: триває масована атака українських БПЛА, — росЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_17-01-59.jpg" length="34744" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 17:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Речниця адміністрації США анон</title>
+      <link>https://www.mandarinai.lt/post/80833</link>
+      <description>Речниця адміністрації США анонсує зустріч Зеленського з Трампом на 23 вересня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1528.MP4" length="1865019" type="video/mp4"/>
+      <pubDate>Mon, 22 Sep 2025 17:25:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
