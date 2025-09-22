@@ -6,44 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 18:12:51 +0000</lastBuildDate>
-    <item>
-      <title>В вересні активність противник</title>
-      <link>https://www.mandarinai.lt/post/80818</link>
-      <description>В вересні активність противника в Сумській області помітно зменшилася.
-
-Це може бути пов’язано з кількома факторами, зокрема, зі спробою російського командування перекинути війська в район Покровська, а також зі звільненням Олександра Лапіна, командувача Ленінградським військовим округом, який керував наступом в Сумській області.
-
-Генерала Лапіна звільнили зі служби та відправили до Казані  помічником президента Татарстану Рустама Минніханова.
-
-За нашою інформацією, Лапін з кінця серпня знаходився у Москві, а 17 вересня дійсно прибув до столиці Татарстану міста Казань вже в якості цивільної особи.
-
-Виглядає, як почесне заслання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_10-01-37.jpg" length="91090" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 10:01:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Традиційно гаряча зустріч росі</title>
-      <link>https://www.mandarinai.lt/post/80820</link>
-      <description>Традиційно гаряча зустріч російських окупантів на Покровському напрямку від бійців бригади Нацгвардії «Червона Калина».
-
-За кожним ураженням ворожої піхоти і техніки стоїть титанічна робота багатьох людей. 
-
-Логістика, розвідка, робота саперів і водіїв – всі працюють, як єдиний механізм в складі 1-го корпусу «Азов».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1518.MP4" length="14746059" type="video/mp4"/>
-      <pubDate>Mon, 22 Sep 2025 10:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зрадник Сальдо міг загинути пі</title>
-      <link>https://www.mandarinai.lt/post/80823</link>
-      <description>Зрадник Сальдо міг загинути під час удару по «дачі ФСБ» у Криму, — росЗМІ
-
-З’явилася інформація, що гауляйтер Херсона Володимир Сальдо перебував на об’єкті в момент атаки.
-
-Він не виходить на зв’язок від неділі, а представники окупаційної адміністрації намагаються встановити його місцезнаходження.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_10-35-03.jpg" length="73607" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 10:35:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 19:05:18 +0000</lastBuildDate>
     <item>
       <title>⚡️ ЗСУ просуваються на Добропі</title>
       <link>https://www.mandarinai.lt/post/80825</link>
@@ -120,6 +83,35 @@
       <description>Речниця адміністрації США анонсує зустріч Зеленського з Трампом на 23 вересня.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1528.MP4" length="1865019" type="video/mp4"/>
       <pubDate>Mon, 22 Sep 2025 17:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Друзі, хлопці з 54-ої бригади </title>
+      <link>https://www.mandarinai.lt/post/80834</link>
+      <description>Друзі, хлопці з 54-ої бригади щиро дякують вам за позашляховик, на який ми з вами зібрали кошти в серпні. 
+
+Автомобіль потребував заміни деяких вузлів та агрегатів, що, власне, ми зробили, після чого передали «Ford Ranger» на Сіверськ. 
+
+Зараз, коли фронт виснажений, а тил розгублений, дуже важливо розуміти, що вистояти всім можна лише разом.
+
+Тому кожна гривня, відправлена нашим військовим, це не просто додаткові засоби для оборони, а спосіб обʼєднання та мотивування українців.
+
+Працюємо далі разом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1530.MOV" length="10994485" type="video/mp4"/>
+      <pubDate>Mon, 22 Sep 2025 18:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літак російської армії пролеті</title>
+      <link>https://www.mandarinai.lt/post/80835</link>
+      <description>Літак російської армії пролетів над Москвою фактично поміж багатоповерхівок.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1531.MP4" length="3285337" type="video/mp4"/>
+      <pubDate>Mon, 22 Sep 2025 18:22:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>З Криму росія вдарила балістик</title>
+      <link>https://www.mandarinai.lt/post/80837</link>
+      <description>З Криму росія вдарила балістикою по Одесі, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_18-58-45.jpg" length="123420" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 18:58:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
