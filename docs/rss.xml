@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 05:09:38 +0000</lastBuildDate>
-    <item>
-      <title>Точний скид з МіГ-29 авіабомби</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Точний скид з МіГ-29 авіабомби GBU-62 по розташуванню окупантів на Сході.</description>
-      <pubDate>Sun, 21 Sep 2025 16:19:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Артилеристи 28-ої бригади нама</title>
-      <link>https://www.mandarinai.lt/post/80792</link>
-      <description>Артилеристи 28-ої бригади намагаються тримати противника якомога далі від Костянтинівки за допомогою самохідних артилерійських систем.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1503.MP4" length="25398195" type="video/mp4"/>
-      <pubDate>Sun, 21 Sep 2025 19:59:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 06:14:41 +0000</lastBuildDate>
     <item>
       <title>На Покровському напрямку група</title>
       <link>https://www.mandarinai.lt/post/80793</link>
@@ -53,6 +40,33 @@
       <description>💥🔥Сили оборони уразили енергетичні об'єкти ворога в Краснодарському краї та Ярославлі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_04-42-43.jpg" length="31817" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 04:42:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рятувальники знайшли тіло 75-р</title>
+      <link>https://www.mandarinai.lt/post/80804</link>
+      <description>Рятувальники знайшли тіло 75-річної жінки серед руїн в Запоріжжі.
+
+Наразі відомо, що від бомбового удару росіян загинуло троє людей.
+
+Загалом внаслідок нічної атаки пошкоджено 15 багатоповерхових і 10 приватних будинків, а також нежитлові приміщення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1509.MP4" length="5804259" type="video/mp4"/>
+      <pubDate>Mon, 22 Sep 2025 05:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна з бомб, які скинули на За</title>
+      <link>https://www.mandarinai.lt/post/80805</link>
+      <description>Одна з бомб, які скинули на Запоріжжя, схоже, не здетонувала.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_05-27-18.jpg" length="118834" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 05:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вперше! ГУР спалили два воро</title>
+      <link>https://www.mandarinai.lt/post/80806</link>
+      <description>💥🔥Вперше! ГУР спалили два ворожі літаки-амфібії Бе-12 «Чайка» у Криму. Також завдано удару по російському гелікоптеру Мі-8. 
+
+Літаки-амфібії Бе-12 «Чайка» оснащені дорогим обладнанням для виявлення та ведення боротьби з підводними човнами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-22_05-43-55.mp4" length="1766292" type="video/mp4"/>
+      <pubDate>Mon, 22 Sep 2025 05:43:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
