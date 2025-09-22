@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 23:07:37 +0000</lastBuildDate>
-    <item>
-      <title>✈️НАТО підняло у повітря винищ</title>
-      <link>https://www.mandarinai.lt/post/80781</link>
-      <description>✈️НАТО підняло у повітря винищувачі через російський військовий літак у Балтійському морі, — Handelsblatt
-
-Видання з посиланням на ВПС Німеччини повідомляє, що два винищувачі Eurofighter піднялися з німецької бази Росток-Лазі, щоб перехопити невідомий літак.
-
-Пізніше виявилося, що літаком був російський розвідувальний Іл-20М, який летів у міжнародному повітряному просторі без плану польоту чи радіозв'язку.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_15-16-35.jpg" length="42475" type="image/jpeg"/>
-      <pubDate>Sun, 21 Sep 2025 15:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>В сусідній Молдові росія створ</title>
-      <link>https://www.mandarinai.lt/post/80782</link>
-      <description>В сусідній Молдові росія створила секретну мережу дезінформації, щоб вплинути на результати виборів, — BBC
-
-Більше тридцяти репортерів під прикриттям зуміли проникнути до мережі, створеної росіянами в Молдові.
-
-Учасникам пропонується плата за поширення фейкових новин проти проєвропейської партії PAS перед парламентськими виборами 28 вересня. 
-
-Мережа також організовує маніпуляції з соцопитуваннями для підняття рейтингу кандидатів, за якими стоять російські гроші.
-
-Напряму вони заходять через проросійського олігарха Ілана Шора та його організацією «Evrazia», яка під західними санкціями.
-
-Мета кампанії, крім усього іншого, створити підстави для сумнівів у легітимності виборів, якщо виграють проєвропейські сили.
-
-В британської компанії BBC є відеодокази, які вона оприлюднила в своєму матеріалі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_16-15-00.jpg" length="53416" type="image/jpeg"/>
-      <pubDate>Sun, 21 Sep 2025 16:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 00:44:56 +0000</lastBuildDate>
     <item>
       <title>Точний скид з МіГ-29 авіабомби</title>
       <link>https://www.mandarinai.lt/post/80783</link>
@@ -108,6 +78,13 @@
       <description>Безпілотники атакують Слов'янськ-на-Кубані в Краснодарському краї, повідомляють місцеві жителі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-21_22-57-53.jpg" length="57943" type="image/jpeg"/>
       <pubDate>Sun, 21 Sep 2025 22:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили оборони України ударними </title>
+      <link>https://www.mandarinai.lt/post/80796</link>
+      <description>Сили оборони України ударними БПЛА уразили підстанцію «Каневська» в Краснодарському краю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1506.MP4" length="3642620" type="video/mp4"/>
+      <pubDate>Sun, 21 Sep 2025 23:34:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
