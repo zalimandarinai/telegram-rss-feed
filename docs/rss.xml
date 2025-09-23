@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 02:13:52 +0000</lastBuildDate>
-    <item>
-      <title>🇮🇹В Італії спалахнули заворуше</title>
-      <link>https://www.mandarinai.lt/post/80829</link>
-      <description>🇮🇹В Італії спалахнули заворушення через відмову прем'єрки Мелоні визнавати Палестину
-
-У Мілані поліція сльозогінним газом розганяла протестувальників біля вокзалу, а протестувальники кидалися камінням у силовиків.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-22_16-13-18.mp4" length="4980279" type="video/mp4"/>
-      <pubDate>Mon, 22 Sep 2025 16:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Москві та Підмосков'ї чутно </title>
-      <link>https://www.mandarinai.lt/post/80832</link>
-      <description>У Москві та Підмосков'ї чутно вибухи: триває масована атака українських БПЛА, — росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_17-01-59.jpg" length="34744" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 17:01:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 03:23:17 +0000</lastBuildDate>
     <item>
       <title>Речниця адміністрації США анон</title>
       <link>https://www.mandarinai.lt/post/80833</link>
@@ -90,6 +74,20 @@
       <description>Міжнародний аеропорт Копенгагена в Данії закрито через те, що над ним помітили 3-4 «великі дрони», для збиття задіяли поліцію, — Reuters</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_20-48-32.jpg" length="100947" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 20:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Вночі ворог атакував Запоріж</title>
+      <link>https://www.mandarinai.lt/post/80843</link>
+      <description>❗️Вночі ворог атакував Запоріжжя  6 ФАБами. Під удар потрапила цивільна інфраструктура та житловий сектор, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_03-08-06.jpg" length="137405" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 03:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Запоріжжі вже відомо про одн</title>
+      <link>https://www.mandarinai.lt/post/80846</link>
+      <description>В Запоріжжі вже відомо про одного загиблого внаслідок нічної атаки рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_03-12-07.jpg" length="92051" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 03:12:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
