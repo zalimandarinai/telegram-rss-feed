@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 14:08:58 +0000</lastBuildDate>
-    <item>
-      <title>В Запоріжжі вже відомо про одн</title>
-      <link>https://www.mandarinai.lt/post/80846</link>
-      <description>В Запоріжжі вже відомо про одного загиблого внаслідок нічної атаки рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_03-12-07.jpg" length="92051" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 03:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Жодного з дронів над аеропорто</title>
-      <link>https://www.mandarinai.lt/post/80847</link>
-      <description>Жодного з дронів над аеропортом Копенгагена не збили, вони просто зникли.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_06-16-10.jpg" length="134048" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 06:16:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 15:09:04 +0000</lastBuildDate>
     <item>
       <title>14-а бригада вночі в районі Ку</title>
       <link>https://www.mandarinai.lt/post/80848</link>
@@ -109,6 +95,15 @@
 Українські пілоти закинули авіабомби в підвал будинку, в результаті частина конструкції будівлі була знищена, і підземна частина, де розгортали командний пункт, завалилась.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1550.MP4" length="8097982" type="video/mp4"/>
       <pubDate>Tue, 23 Sep 2025 13:41:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Підтверджене знищення 2х пус</title>
+      <link>https://www.mandarinai.lt/post/80859</link>
+      <description>💥🔥Підтверджене знищення 2х пускових установок Іскандер, які атакували балістичними ракетами, зокрема Дніпро, Павлоград, Запоріжжя.
+
+❗Також знищено 2 пускові установки та пошкоджено 1 ЗРПК "Панцирь" у Краснодарському краї.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_15-08-06.jpg" length="330389" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 15:08:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
