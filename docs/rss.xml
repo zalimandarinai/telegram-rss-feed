@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 11:07:43 +0000</lastBuildDate>
-    <item>
-      <title>😱У Норвегії пролунала тривога:</title>
-      <link>https://www.mandarinai.lt/post/80840</link>
-      <description>😱У Норвегії пролунала тривога: військові фіксують невідомі дрони, — AftonBladet.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-22_20-12-37.jpg" length="26557" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 20:12:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 12:16:32 +0000</lastBuildDate>
     <item>
       <title>Міжнародний аеропорт Копенгаге</title>
       <link>https://www.mandarinai.lt/post/80841</link>
@@ -86,6 +79,13 @@
       <description>Естонія готова розмістити британські F-35 з ядерним потенціалом після порушення її повітряного простору російськими Міг-31, — The Telegraph</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_07-50-18.jpg" length="115103" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 07:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️окупанти просунулися біля чо</title>
+      <link>https://www.mandarinai.lt/post/80855</link>
+      <description>‼️окупанти просунулися біля чотирьох населених пунктів на Дніпропетровщини та Запоріжжі, - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_11-09-08.jpg" length="74753" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 11:09:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
