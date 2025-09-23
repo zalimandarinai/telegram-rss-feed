@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 16:11:30 +0000</lastBuildDate>
-    <item>
-      <title>❗️Внаслідок атаки ворога на Од</title>
-      <link>https://www.mandarinai.lt/post/80851</link>
-      <description>❗️Внаслідок атаки ворога на Одещину загинула жінка, ще троє осіб постраждали — ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_07-42-31.jpg" length="172897" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 07:42:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Естонія готова розмістити брит</title>
-      <link>https://www.mandarinai.lt/post/80853</link>
-      <description>Естонія готова розмістити британські F-35 з ядерним потенціалом після порушення її повітряного простору російськими Міг-31, — The Telegraph</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-23_07-50-18.jpg" length="115103" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 07:50:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 17:03:42 +0000</lastBuildDate>
     <item>
       <title>‼️окупанти просунулися біля чо</title>
       <link>https://www.mandarinai.lt/post/80855</link>
@@ -111,6 +97,15 @@
       <description>Оператори 412-го полку  Сил безпілотних систем виявили два зенітно-ракетні комплекси «Тор» противника та завдали їм ураження, в результаті чого одну установку було знищено, а інша зазнала серйозних пошкоджень.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1552.MP4" length="2594849" type="video/mp4"/>
       <pubDate>Tue, 23 Sep 2025 16:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️НАТО не збиватиме російські </title>
+      <link>https://www.mandarinai.lt/post/80867</link>
+      <description>❗️НАТО не збиватиме російські літаки, які порушують повітряний простір альянсу без агресивних дій, а лише перехоплюватиме їх, – Рубіо
+
+Я думаю, ви бачили, як НАТО реагує на ці порушення – так, як завжди: коли літаки входять у ваш повітряний простір або оборонну зону, їх піднімають і перехоплюють.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1554.MP4" length="2830952" type="video/mp4"/>
+      <pubDate>Tue, 23 Sep 2025 16:53:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
