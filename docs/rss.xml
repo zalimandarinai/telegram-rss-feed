@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 09:10:25 +0000</lastBuildDate>
-    <item>
-      <title>Бійці прикордонної комендатури</title>
-      <link>https://www.mandarinai.lt/post/80876</link>
-      <description>Бійці прикордонної комендатури швидкого реагування 105-го Чернігівського загону взяли у полон у районі Покровська 61-річного військовослужбовця армії рф.
-
-Чоловік, колишній крановщик, сподівався, що в російській армії буде екскаваторщиком. 
-
-Попри вік, у травні цього року його мобілізували та відправили на штурми українських позицій.
-
-За власним бажанням чоловік пішов за українським дроном, здавшись у полон. 
-
-У своїх свідченнях полонений визнав, що війну проти України розв’язав путін, а в самій росії громадяни країни «нікому не потрібні». Він закликав співгромадян не йти на фронт, а спершу замислитися над ситуацією у власній країні та дозволити Україні самій визначати своє майбутнє.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1566.MP4" length="21334783" type="video/mp4"/>
-      <pubDate>Tue, 23 Sep 2025 19:20:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 10:09:41 +0000</lastBuildDate>
     <item>
       <title>❗️ Ось заява Трампа, яка взага</title>
       <link>https://www.mandarinai.lt/post/80878</link>
@@ -89,6 +74,15 @@
 Усі ці звірства відбуваються на тлі прагнення низки західних країн визнати палестинську державу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-24_09-02-16.jpg" length="81502" type="image/jpeg"/>
       <pubDate>Wed, 24 Sep 2025 09:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни захопили дитину для ви</title>
+      <link>https://www.mandarinai.lt/post/80890</link>
+      <description>росіяни захопили дитину для використання в якості живого щита, а її сімʼю розстріляли.
+
+У районі н.п. Шандриголове російські штурмовики увірвалися до будинку з цивільними, за наказом командира розстріляли батьків, а малу дівчинку взяли в полон і використали як живий щит під час подальшого штурму.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-24_09-23-58.mp4" length="5689171" type="video/mp4"/>
+      <pubDate>Wed, 24 Sep 2025 09:23:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
