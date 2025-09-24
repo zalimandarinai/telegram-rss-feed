@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 08:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 09:10:25 +0000</lastBuildDate>
     <item>
       <title>Бійці прикордонної комендатури</title>
       <link>https://www.mandarinai.lt/post/80876</link>
@@ -78,6 +78,17 @@
       <description>💥🔥Ранок на Башкірському НПЗ після зустрічі з добрими дронами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-24_05-29-40.mp4" length="724118" type="video/mp4"/>
       <pubDate>Wed, 24 Sep 2025 05:29:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>😩❗️Бойовики ХАМАС стратили на </title>
+      <link>https://www.mandarinai.lt/post/80889</link>
+      <description>😩❗️Бойовики ХАМАС стратили на вулицях Гази чоловіків, через підозру у співпраці з Ізраїлем, - повідомляє BILD
+
+Подібні "покарання" відбуваються регулярно - ХАМАС калічить і вбиває навіть тих палестинців, які щоб вижити прийняли їжу від Ізраїлю. 
+
+Усі ці звірства відбуваються на тлі прагнення низки західних країн визнати палестинську державу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-24_09-02-16.jpg" length="81502" type="image/jpeg"/>
+      <pubDate>Wed, 24 Sep 2025 09:02:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
