@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 12:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 13:20:29 +0000</lastBuildDate>
     <item>
       <title>В Харкові більшість з 16 приль</title>
       <link>https://www.mandarinai.lt/post/80880</link>
@@ -81,6 +81,15 @@
  Ворог окупував Новомиколаївку та Новоіванівку, а також просунувся поблизу Калинівського, Тернового та Новоіванівки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-24_12-03-14.jpg" length="90581" type="image/jpeg"/>
       <pubDate>Wed, 24 Sep 2025 12:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ворог завдав комбінованого у</title>
+      <link>https://www.mandarinai.lt/post/80893</link>
+      <description>❗️Ворог завдав комбінованого удару по території одного з навчальних підрозділів Сухопутних військ ЗСУ. Зокрема, було застосовано дві балістичні ракети “Іскандер”.
+
+Внаслідок точного влучання в укриття, попри вжиті заходи безпеки, на жаль, повністю уникнути втрат серед особового складу не вдалося. На місці працюють відповідні екстрені служби. Пораненим оперативно надається вся необхідна медична допомога.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-24_12-52-14.jpg" length="30924" type="image/jpeg"/>
+      <pubDate>Wed, 24 Sep 2025 12:52:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
