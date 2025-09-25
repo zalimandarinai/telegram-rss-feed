@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 19:06:37 +0000</lastBuildDate>
-    <item>
-      <title>Військового російської армії С</title>
-      <link>https://www.mandarinai.lt/post/80937</link>
-      <description>Військового російської армії Сергія Комишана, українця з Донеччини за походженням, захопила в пoлoн 93-я бригада, і він розповів, як у 22-му році його відправили в наступ на Запоріжжя, як тричі він тікав із російського війська, і як тричі його вертали назад.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1602.MP4" length="18124023" type="video/mp4"/>
-      <pubDate>Thu, 25 Sep 2025 16:29:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 20:09:43 +0000</lastBuildDate>
     <item>
       <title>⚡️ТЕРМІНОВИЙ ЗБІР⚡️
 
@@ -109,6 +102,17 @@ https://send.monobank.ua/jar/6FHDgvPnfD
       <description>Кадри з камер дронів Сил безпілотних систем під час сьогоднішніх атак про газорозподільчих станціях «Щастя», «Северодонецьк» та «Новопсков» на тимчасово окупованій території Луганської області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-25_18-57-06.jpg" length="62532" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 18:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️росіяни розширють свій плацд</title>
+      <link>https://www.mandarinai.lt/post/80952</link>
+      <description>‼️росіяни розширють свій плацдарм на Дніпропетровщині і заявляють про контроль над 14 населеними пунктами області.
+
+Значне просування ворога широким фронтом в бік Дніпропетровщині підтверджують і українські військові.
+
+Ворог активно наступає в районі окупованої Новомиколаївки та селища Березового. За даними аналітиків DeepState окупанти мають просування біля цього населеного пункту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-25_20-00-34.jpg" length="81388" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 20:00:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
