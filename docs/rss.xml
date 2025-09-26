@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 07:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 08:13:09 +0000</lastBuildDate>
     <item>
       <title>‼️росіяни розширють свій плацд</title>
       <link>https://www.mandarinai.lt/post/80952</link>
@@ -72,6 +72,15 @@
 Оточення фактично зруйнувало плани російських наступальних операцій навколо Покровська.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-26_06-55-45.jpg" length="120230" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 06:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️❗️Окупанти не контролюють ЖО</title>
+      <link>https://www.mandarinai.lt/post/80966</link>
+      <description>⚔️❗️Окупанти не контролюють ЖОДНОЇ частини Куп’янська: там зараз активні бойові дії і високий рівень диверсійної активності ворога, -  ISW
+
+На Харківщині російські підрозділи активно маскуються під цивільних або українських військових, щоб облаштовувати спостережні пункти, і намагаються переправлятися на західний берег річки Оскіл після того, як українські сили зруйнували трубопровід.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-26_07-59-18.jpg" length="260832" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 07:59:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
