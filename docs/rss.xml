@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 17:07:32 +0000</lastBuildDate>
-    <item>
-      <title>Журналіст: Що конкретно вам по</title>
-      <link>https://www.mandarinai.lt/post/80972</link>
-      <description>Журналіст: Що конкретно вам потрібно від Трампа, щоб ви могли перемогти на полі бою?
-
-Зеленський: Я розповів йому про одну річ, яка нам потрібна. Він сказав, що попрацює над цим.
-
-Журналіст: Це була система озброєння?
-
-Зеленський: Так. Вона нам потрібна, але це не означає, що ми будемо її використовувати. Ця зброя є додатковим тиском на путіна, щоб він сів за стіл переговорів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-26_10-39-06.mp4" length="2923271" type="video/mp4"/>
-      <pubDate>Fri, 26 Sep 2025 10:39:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зеленський попросив Трампа над</title>
-      <link>https://www.mandarinai.lt/post/80974</link>
-      <description>Зеленський попросив Трампа надати Україні ракети «Томагавк», дальність польоту яких становить більше 1600 км, — The Telegraph</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-26_12-42-00.jpg" length="108997" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 12:42:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 18:10:50 +0000</lastBuildDate>
     <item>
       <title>Помер російський пропагандист </title>
       <link>https://www.mandarinai.lt/post/80976</link>
@@ -90,6 +70,20 @@
 Обирай ідеальне авто в боті вже зараз 🔜 КАТАЛОГ АВТО</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-26_17-01-41.mp4" length="7502318" type="video/mp4"/>
       <pubDate>Fri, 26 Sep 2025 17:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Танк Leopard 2A4 зі 155-ої окр</title>
+      <link>https://www.mandarinai.lt/post/80987</link>
+      <description>Танк Leopard 2A4 зі 155-ої окремої механізованої бригади імені Анни Київської за підтримки аеророзвідки ліквідовує окупантів в багатоповерхівці на півдні Покровська, куди вони зуміли зайти в серпні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1633.MP4" length="24875843" type="video/mp4"/>
+      <pubDate>Fri, 26 Sep 2025 17:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти в антидронових накидк</title>
+      <link>https://www.mandarinai.lt/post/80989</link>
+      <description>Окупанти в антидронових накидках сподівались дійти до Торського та Зарічного поблизу міста Лиман, - ББС 63-ої бригади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1634.MP4" length="19424921" type="video/mp4"/>
+      <pubDate>Fri, 26 Sep 2025 17:42:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
