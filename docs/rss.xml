@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 08:10:15 +0000</lastBuildDate>
-    <item>
-      <title>Танк Leopard 2A4 зі 155-ої окр</title>
-      <link>https://www.mandarinai.lt/post/80987</link>
-      <description>Танк Leopard 2A4 зі 155-ої окремої механізованої бригади імені Анни Київської за підтримки аеророзвідки ліквідовує окупантів в багатоповерхівці на півдні Покровська, куди вони зуміли зайти в серпні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1633.MP4" length="24875843" type="video/mp4"/>
-      <pubDate>Fri, 26 Sep 2025 17:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти в антидронових накидк</title>
-      <link>https://www.mandarinai.lt/post/80989</link>
-      <description>Окупанти в антидронових накидках сподівались дійти до Торського та Зарічного поблизу міста Лиман, - ББС 63-ої бригади</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1634.MP4" length="19424921" type="video/mp4"/>
-      <pubDate>Fri, 26 Sep 2025 17:42:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Sep 2025 09:07:43 +0000</lastBuildDate>
     <item>
       <title>❗️Трамп відкритий до надання У</title>
       <link>https://www.mandarinai.lt/post/80992</link>
@@ -103,6 +89,35 @@
 Дроном його довели до наших позицій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1636.MP4" length="28321754" type="video/mp4"/>
       <pubDate>Sat, 27 Sep 2025 07:43:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Чувашії добрі дрони зупинили</title>
+      <link>https://www.mandarinai.lt/post/81001</link>
+      <description>В Чувашії добрі дрони зупинили перекачку нафти, підтвердив голова Чуваської республіки Олег Новіков. 
+
+Удар було завдано по нафтоперекачувальній станції біля селища Конар Цивільського округу. 
+
+За словами Новікова, збитки нібито незначні, але нафту припинили качати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-27_08-28-42.jpg" length="86060" type="image/jpeg"/>
+      <pubDate>Sat, 27 Sep 2025 08:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Артилеристи бригади «Сталевий </title>
+      <link>https://www.mandarinai.lt/post/81002</link>
+      <description>Артилеристи бригади «Сталевий Кордон» зі 105-мм гаубиці М101 знищили так звану «двійку» російських окупантів на Сумщині.
+
+Вони, ймовірно, висувались на штурм і відкрили вогонь зі стрілецької зброї. 
+
+Гармата М101, попри те, що її використовують з часів Другої Світової війни, демонструє виняткову точність і надійність в польових умовах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1637.MP4" length="5221129" type="video/mp4"/>
+      <pubDate>Sat, 27 Sep 2025 09:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Жахливі кадри: росія обстріл</title>
+      <link>https://www.mandarinai.lt/post/81003</link>
+      <description>🤬 Жахливі кадри: росія обстріляла багатоповерхівку в Костянтинівці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-27_09-05-17.mp4" length="825750" type="video/mp4"/>
+      <pubDate>Sat, 27 Sep 2025 09:05:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
