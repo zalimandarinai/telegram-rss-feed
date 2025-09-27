@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 05:08:45 +0000</lastBuildDate>
-    <item>
-      <title>Дрони літають вже й над Німечч</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Дрони літають вже й над Німеччиною, — повідомляє телерадіокомпанія NDR.
-
-Невідомі БПЛА були помічені у найменшій землі Німеччини, Шлезвіг-Гольштейн.
-
-Вона знаходиться поблизу кордону з Данією, де тричі за тиждень було виявлено дрони над авіабазами.</description>
-      <pubDate>Fri, 26 Sep 2025 16:11:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Sep 2025 06:11:24 +0000</lastBuildDate>
     <item>
       <title>Росіяни скидають авіабомби на </title>
       <link>https://www.mandarinai.lt/post/80984</link>
@@ -77,6 +67,22 @@
 Під ударом були супермаркет та об'єкт енергетики.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-26_21-20-13.jpg" length="96125" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 21:20:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 У Швеції зафіксували проліт </title>
+      <link>https://www.mandarinai.lt/post/80996</link>
+      <description>👀 У Швеції зафіксували проліт безпілотників біля головної бази Військово-морських сил, – SVT.
+
+Місцеві жителі помітили дрони в районі архіпелагу Карлскруна. Жодну ціль не збили. Поліція бачить зв'язок з останніми подіями в Данії та Норвегії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-27_05-28-17.jpg" length="102097" type="image/jpeg"/>
+      <pubDate>Sat, 27 Sep 2025 05:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росіяни вдарили по продуктов</title>
+      <link>https://www.mandarinai.lt/post/80997</link>
+      <description>❗️Росіяни вдарили по продуктовому супермаркету «АТБ» в Запоріжжі: є поранені</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-27_05-30-50.mp4" length="660212" type="video/mp4"/>
+      <pubDate>Sat, 27 Sep 2025 05:30:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
