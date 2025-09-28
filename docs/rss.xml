@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 08:10:26 +0000</lastBuildDate>
-    <item>
-      <title>🤬Знищені ударом рф будинки на </title>
-      <link>https://www.mandarinai.lt/post/81061</link>
-      <description>🤬Знищені ударом рф будинки на околиці Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_05-16-50.jpg" length="176283" type="image/jpeg"/>
-      <pubDate>Sun, 28 Sep 2025 05:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Момент влучання шахеда по тор</title>
-      <link>https://www.mandarinai.lt/post/81063</link>
-      <description>🤬Момент влучання шахеда по торговельному центру у 
-Білій Церкві
-
-На карті приблизна траєкторія повітряних цілей під час сьогоднішньої атаки рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-28_06-18-37.mp4" length="232210" type="video/mp4"/>
-      <pubDate>Sun, 28 Sep 2025 06:18:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 09:07:38 +0000</lastBuildDate>
     <item>
       <title>‼️У Києві вже 4 загиблих, - КМ</title>
       <link>https://www.mandarinai.lt/post/81065</link>
@@ -76,7 +59,15 @@
 
 Сьогодні відбувся один із наймасштабніших ударів рф цього року: уночі збито 611 з 643 цілей., — ПС
 
-📍Основний напрям удару — Київ та область, Біла Церква, Старокостянтинів і Васильків.</description>
+📍Основний напрям удару — Київ та область, Біла Церква, Старокостянтинів і Васильків.
+
+Детальніше про збиття:
+
+566/593 БпЛА;
+2/2 реактивних БпЛА;
+35/38 крилатих ракет «Х-101»;
+0/2 ракет Х-47М2 «Кинджал»;
+8/8 крилатих ракет «Калібр».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_07-53-30.jpg" length="117474" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 07:53:30 +0000</pubDate>
     </item>
@@ -86,6 +77,28 @@
       <description>‼️У зруйнованому корпусі Інституту кардіології в Києві знайдено тіла двох загиблих</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_08-03-31.jpg" length="155177" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 08:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Петропавлівська Борщагівка зар</title>
+      <link>https://www.mandarinai.lt/post/81076</link>
+      <description>Петропавлівська Борщагівка зараз. Русня не люди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQMFPWDHT1OSvecP_EsMYDEQYc2Gmco_VkxOVEWPK95n2_RfsFqKa07ZM7vlsFY.mp4" length="6961126" type="video/mp4"/>
+      <pubDate>Sun, 28 Sep 2025 08:35:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡 Атаку по Україні, виявляєтьс</title>
+      <link>https://www.mandarinai.lt/post/81077</link>
+      <description>😡 Атаку по Україні, виявляється, транслювали в прямому ефірі
+
+На YouTube йшла трансляція з онлайн-камер України, де, в тому числі, в кадр потрапляла робота ППО.
+
+Про це повідомляють українські ресурси з багатотисячними переглядами.
+
+Онлайн-камери в Україні транслювали моменти влучань у режимі реального часу.
+
+Ворог міг використовувати ці кадри, щоб коригувати свої удари.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-28_09-06-15.mp4" length="8633544" type="video/mp4"/>
+      <pubDate>Sun, 28 Sep 2025 09:06:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
