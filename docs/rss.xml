@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 02:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 03:31:50 +0000</lastBuildDate>
     <item>
       <title>Ворог публікує кадри атаки «ша</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -56,24 +56,25 @@
       <pubDate>Sat, 27 Sep 2025 15:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>🤯 Норвегія та Нідерланди повід</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤯 Норвегія та Нідерланди повідомляють про нові появи невідомих дронів над їх територіями просто зараз</description>
-      <pubDate>Sat, 27 Sep 2025 17:45:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Ешелони техніки, зокрема аме</title>
-      <link>https://www.mandarinai.lt/post/81031</link>
-      <description>❗️Ешелони техніки, зокрема американських танків «Абрамс» перекидають до Естонії – важку техніку зафіксували за 100 км від кордону з рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-27_20-09-11.jpg" length="130983" type="image/jpeg"/>
-      <pubDate>Sat, 27 Sep 2025 20:09:11 +0000</pubDate>
-    </item>
-    <item>
       <title>❗️ Влучання в пʼятиповерховий </title>
       <link>https://www.mandarinai.lt/post/81039</link>
       <description>❗️ Влучання в пʼятиповерховий будинок в столиці</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1649.MP4" length="1050559" type="video/mp4"/>
       <pubDate>Sun, 28 Sep 2025 01:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Приліт БПЛА у багатоповерхівку</title>
+      <link>https://www.mandarinai.lt/post/81047</link>
+      <description>Приліт БПЛА у багатоповерхівку в Запоріжжі, на місці масштабна пожежа, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1650.MP4" length="3916634" type="video/mp4"/>
+      <pubDate>Sun, 28 Sep 2025 03:14:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіяни завдали по Запоріжжю щ</title>
+      <link>https://www.mandarinai.lt/post/81048</link>
+      <description>Росіяни завдали по Запоріжжю щонайменше два удари, - ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1651.MP4" length="3338427" type="video/mp4"/>
+      <pubDate>Sun, 28 Sep 2025 03:18:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
