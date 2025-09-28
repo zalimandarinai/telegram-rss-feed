@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 16:08:46 +0000</lastBuildDate>
-    <item>
-      <title>Петропавлівська Борщагівка зар</title>
-      <link>https://www.mandarinai.lt/post/81076</link>
-      <description>Петропавлівська Борщагівка зараз. Русня не люди.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQMFPWDHT1OSvecP_EsMYDEQYc2Gmco_VkxOVEWPK95n2_RfsFqKa07ZM7vlsFY.mp4" length="6961126" type="video/mp4"/>
-      <pubDate>Sun, 28 Sep 2025 08:35:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡 Атаку по Україні, виявляєтьс</title>
-      <link>https://www.mandarinai.lt/post/81077</link>
-      <description>😡 Атаку по Україні, виявляється, транслювали в прямому ефірі на YouTube
-
-На ресурсі в YouTube йшла трансляція з онлайн-камер України, де, в тому числі, в кадр потрапляла робота ППО.
-
-Про це повідомляють українські канали з багатотисячними переглядами.
-
-Камери в Україні транслювали моменти влучань у режимі реального часу.
-
-Ворог міг використовувати ці кадри, щоб коригувати свої удари.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-28_09-06-15.mp4" length="8633544" type="video/mp4"/>
-      <pubDate>Sun, 28 Sep 2025 09:06:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 17:06:16 +0000</lastBuildDate>
     <item>
       <title>«Вижили дивом», - відео зняте </title>
       <link>https://www.mandarinai.lt/post/81078</link>
@@ -107,6 +85,13 @@
 За його словами, "елемент ракети або малокаліберна ракета" впав на дах консульського відділу посольства Польщі в Києві та пробив стелю. Інцидент не вплине на роботу посольства.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_15-10-02.jpg" length="96297" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 15:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Епічні удари по ТЕЦ в Бєлгоро</title>
+      <link>https://www.mandarinai.lt/post/81092</link>
+      <description>💥Епічні удари по ТЕЦ в Бєлгороді і блекаут в місті</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-28_16-54-47.mp4" length="307329" type="video/mp4"/>
+      <pubDate>Sun, 28 Sep 2025 16:54:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
