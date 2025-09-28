@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 17:06:16 +0000</lastBuildDate>
-    <item>
-      <title>«Вижили дивом», - відео зняте </title>
-      <link>https://www.mandarinai.lt/post/81078</link>
-      <description>«Вижили дивом», - відео зняте після прильоту ракети у ЖК «Львівський», на верхньому зруйнованому поверсі будинку в момент влучання спали троє дітей, живі всі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1655.MP4" length="16530230" type="video/mp4"/>
-      <pubDate>Sun, 28 Sep 2025 10:05:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 18:10:22 +0000</lastBuildDate>
     <item>
       <title>Влад, військовий капелан, втра</title>
       <link>https://www.mandarinai.lt/post/81080</link>
@@ -92,6 +85,17 @@
       <description>💥Епічні удари по ТЕЦ в Бєлгороді і блекаут в місті</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-28_16-54-47.mp4" length="307329" type="video/mp4"/>
       <pubDate>Sun, 28 Sep 2025 16:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Маски з людей путіна нарешті з</title>
+      <link>https://www.mandarinai.lt/post/81095</link>
+      <description>Маски з людей путіна нарешті зірвані: The Sunday Times встановила імена 13 російських офіцерів, відповідальних за масові вбивства та інші воєнні злочини в Бучі
+
+Британське видання пише, що масштаби вбивств і катувань цивільних російськими окупантами у Бучі протягом 29 днів окупації настільки значні, що місто назавжди стало синонімом воєнних злочинів.
+
+Колеги, ми всі дякуємо вам за те, що підтримуєте українців, і за вашу спробу зробити так, щоб зло не залишилось  непокараним.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_17-51-37.jpg" length="65489" type="image/jpeg"/>
+      <pubDate>Sun, 28 Sep 2025 17:51:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
