@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 11:02:22 +0000</lastBuildDate>
-    <item>
-      <title>🤬На Петропавлівскій Борщагівці</title>
-      <link>https://www.mandarinai.lt/post/81068</link>
-      <description>🤬На Петропавлівскій Борщагівці (околиці Києва) русня зруйнувала цілі квартали</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_06-45-33.jpg" length="149502" type="image/jpeg"/>
-      <pubDate>Sun, 28 Sep 2025 06:45:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>По Україні вночі було випущено</title>
-      <link>https://www.mandarinai.lt/post/81071</link>
-      <description>По Україні вночі було випущено близько 500 дронів та 40 ракет, атака тривала 12 годин.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_07-30-22.jpg" length="153965" type="image/jpeg"/>
-      <pubDate>Sun, 28 Sep 2025 07:30:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 12:14:47 +0000</lastBuildDate>
     <item>
       <title>«Ми будемо бити по рф у відпов</title>
       <link>https://www.mandarinai.lt/post/81072</link>
@@ -114,6 +100,38 @@
       <description>‼️В Києві тривога, знову БПЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_11-01-37.jpg" length="293536" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 11:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так виглядає те, що залишилось</title>
+      <link>https://www.mandarinai.lt/post/81082</link>
+      <description>Так виглядає те, що залишилось від будинків на Петропавлівській Борщагівці після ракетного удару русні.
+
+🎥 Ігор Захаренко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1658.MP4" length="21627728" type="video/mp4"/>
+      <pubDate>Sun, 28 Sep 2025 11:03:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Київ сьогодні. Світ закляк пер</title>
+      <link>https://www.mandarinai.lt/post/81083</link>
+      <description>Київ сьогодні. Світ закляк перед найбільшим злочинцем сучасності. І заплющує очі, не бажаючи зупинити його.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_11-25-00.jpg" length="89115" type="image/jpeg"/>
+      <pubDate>Sun, 28 Sep 2025 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬росія почала використовувати </title>
+      <link>https://www.mandarinai.lt/post/81084</link>
+      <description>🤬росія почала використовувати нову локацію для пусків ударних БпЛА, — монітори
+
+Вперше зафіксовано пуски дронів з аеродрому «Кача» на західному узбережжі Криму . Час підльоту «Шахедів» від моменту старту складав близько 40 хвилин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_12-08-27.jpg" length="104856" type="image/jpeg"/>
+      <pubDate>Sun, 28 Sep 2025 12:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Інституту кардіології сьогод</title>
+      <link>https://www.mandarinai.lt/post/81085</link>
+      <description>В Інституту кардіології сьогодні зранку від рук російських вбивць загинули медсестра та пацієнт.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_12-09-44.jpg" length="143613" type="image/jpeg"/>
+      <pubDate>Sun, 28 Sep 2025 12:09:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
