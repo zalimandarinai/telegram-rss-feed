@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 22:07:28 +0000</lastBuildDate>
-    <item>
-      <title>В Інституті кардіології сьогод</title>
-      <link>https://www.mandarinai.lt/post/81085</link>
-      <description>В Інституті кардіології сьогодні зранку від удару російських вбивць загинули медсестра та пацієнт.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_12-09-44.jpg" length="143613" type="image/jpeg"/>
-      <pubDate>Sun, 28 Sep 2025 12:09:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 23:07:33 +0000</lastBuildDate>
     <item>
       <title>‼️росія відмовилася від двосто</title>
       <link>https://www.mandarinai.lt/post/81087</link>
@@ -113,6 +106,17 @@
 Партія PAS зберігає лідерство із суттєвим відривом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_21-07-26.jpg" length="74362" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 21:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇲🇩 «Молдавани, ви написали іст</title>
+      <link>https://www.mandarinai.lt/post/81102</link>
+      <description>🇲🇩 «Молдавани, ви написали історію! Ви перші, хто переміг росіян у війні нового типу», — Іон Стурза, колишній прем'єр-міністр Молдови на своїй сторінці у Facebook.
+
+Готовий посперечатися з колишнім молдавським премʼєром, але в даному випадку це неважливо. 
+
+Нам треба лише порадіти за сусідів і видихнути з полегшенням.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_22-48-02.jpg" length="73240" type="image/jpeg"/>
+      <pubDate>Sun, 28 Sep 2025 22:48:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
