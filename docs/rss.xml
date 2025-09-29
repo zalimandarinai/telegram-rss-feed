@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 10:10:00 +0000</lastBuildDate>
-    <item>
-      <title>Станом на 00:00 кишинівського </title>
-      <link>https://www.mandarinai.lt/post/81101</link>
-      <description>Станом на 00:00 кишинівського часу опрацьовано дані з 1971 з 2274 виборчих дільниць (86,68%). 
-
-Усього підраховано 1 252 050 голосів. 
-
-🇪🇺 PAS - 45,06%
-
-🚩 «Blocul Patriotic» - 27,64%
-
-🇪🇺 BE «ALTERNATIVA» - 8,81% 
-
-Партія PAS зберігає лідерство із суттєвим відривом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_21-07-26.jpg" length="74362" type="image/jpeg"/>
-      <pubDate>Sun, 28 Sep 2025 21:07:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 11:07:52 +0000</lastBuildDate>
     <item>
       <title>🇲🇩 «Молдавани, ви написали іст</title>
       <link>https://www.mandarinai.lt/post/81102</link>
