@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 11:07:52 +0000</lastBuildDate>
-    <item>
-      <title>🇲🇩 «Молдавани, ви написали іст</title>
-      <link>https://www.mandarinai.lt/post/81102</link>
-      <description>🇲🇩 «Молдавани, ви написали історію! Ви перші, хто переміг росіян у війні нового типу», — Іон Стурза, колишній прем'єр-міністр Молдови на своїй сторінці у Facebook.
-
-Готовий посперечатися з колишнім молдавським премʼєром, але в даному випадку це неважливо. 
-
-Нам треба лише порадіти за сусідів і видихнути з полегшенням.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_22-48-02.jpg" length="73240" type="image/jpeg"/>
-      <pubDate>Sun, 28 Sep 2025 22:48:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 12:17:15 +0000</lastBuildDate>
     <item>
       <title>🔥"Добрі" дрони атакували Карач</title>
       <link>https://www.mandarinai.lt/post/81104</link>
@@ -67,7 +56,7 @@
 Судячи з бортового відео, ворожий гелікоптер за кілька мільйонів доларів був збитий FPV-дроном «Shrike» українського виробництва за 500 доларів.
 
 Його бойове навантаження до 2,5 кг, швидкість до 130 км/год, дрон піднімається на висоту до 5 км.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1679.MP4" length="468139" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1681.MP4" length="1527333" type="video/mp4"/>
       <pubDate>Mon, 29 Sep 2025 08:59:27 +0000</pubDate>
     </item>
     <item>
@@ -84,6 +73,15 @@
 Точні удари по об'єктах нафтогазової промисловості працюють на дестабілізацію військової машини російського диктатора путіна.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-29_09-56-20.jpg" length="137625" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 09:56:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Німеччина передасть Україні 2</title>
+      <link>https://www.mandarinai.lt/post/81116</link>
+      <description>🤝Німеччина передасть Україні 2 системи Patriot до кінця року, — міністр оборони ФРН Борис Пісторіус.
+
+Він додав, що «втома від війни в Україні є, не можу це заперечувати, бо вона триває вже 3,5 роки і кінця не видно».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-29_11-12-18.jpg" length="37147" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 11:12:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
