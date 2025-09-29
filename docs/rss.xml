@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 19:05:13 +0000</lastBuildDate>
-    <item>
-      <title>🔥 В Криму щось раптово бахнуло</title>
-      <link>https://www.mandarinai.lt/post/81120</link>
-      <description>🔥 В Криму щось раптово бахнуло і  спалахнуло на нафтобазі у Феодосії
-
-Окупаційна влада переконує - порушення техніки безпеки під час зварювальних робіт
-
-Ми так і подумали🤡</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-29_13-13-26.mp4" length="533436" type="video/mp4"/>
-      <pubDate>Mon, 29 Sep 2025 13:13:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 20:09:23 +0000</lastBuildDate>
     <item>
       <title>В районі Добропілля частина пі</title>
       <link>https://www.mandarinai.lt/post/81122</link>
@@ -133,6 +122,35 @@ https://m.youtube.com/watch?v=TvNzG7Sgw5U</description>
 🎥 На відео застосування БПЛА по російській піхоті операторами 63-ої бригади в районі міста Лиман на Донеччині.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1717.MP4" length="26358015" type="video/mp4"/>
       <pubDate>Mon, 29 Sep 2025 18:10:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Міноборони Данії екстрено ви</title>
+      <link>https://www.mandarinai.lt/post/81133</link>
+      <description>👀 Міноборони Данії екстрено викликає військових із резерву, які мають з’явитися на службу у найкоротший термін, — Ekstra Bladet.
+
+Причиною термінового виклику стала серія прольотів ворожих дронів у повітряному просторі країни.
+
+На фото: українські військові почали навчати данських колег збивати дрони. - Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-29_19-01-01.jpg" length="110670" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 19:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>😏рф почала закривати НПЗ цілим</title>
+      <link>https://www.mandarinai.lt/post/81134</link>
+      <description>😏рф почала закривати НПЗ цілими металевими захисними конструкціями і сітками: на відео Самара.
+
+Так ворог хоче захиститися від наших БПЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-29_19-49-21.mp4" length="997955" type="video/mp4"/>
+      <pubDate>Mon, 29 Sep 2025 19:49:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ефектне перехоплення російськ</title>
+      <link>https://www.mandarinai.lt/post/81135</link>
+      <description>💥Ефектне перехоплення російського «Ланцету» зенітним FPV-дроном
+
+📹Повернись живим</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-29_19-59-43.mp4" length="1293067" type="video/mp4"/>
+      <pubDate>Mon, 29 Sep 2025 19:59:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
