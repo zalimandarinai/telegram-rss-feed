@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 07:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 08:14:31 +0000</lastBuildDate>
     <item>
       <title>Маски з людей путіна нарешті з</title>
       <link>https://www.mandarinai.lt/post/81095</link>
@@ -101,6 +101,13 @@
       <description>🥴 Я не віддам негайного наказу збивати російські дрони, якщо вони порушать наш кордон. У цьому питанні головне - зберігати спокій і не «перегнути планку», – президент Фінляндії Стубб</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-29_06-06-49.jpg" length="59935" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 06:06:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Неймовірно! FPV-дроном знищен</title>
+      <link>https://www.mandarinai.lt/post/81108</link>
+      <description>🔥Неймовірно! FPV-дроном знищено російський Мі-28 "Ночной охотник", — Мадяр</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-29_07-42-59.mp4" length="1726139" type="video/mp4"/>
+      <pubDate>Mon, 29 Sep 2025 07:42:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
