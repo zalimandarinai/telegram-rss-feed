@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 04:11:40 +0000</lastBuildDate>
-    <item>
-      <title>‼️росія відмовилася від двосто</title>
-      <link>https://www.mandarinai.lt/post/81087</link>
-      <description>‼️росія відмовилася від двосторонніх зустрічей з Україною та тристоронніх зустрічей за участю Трампа чи інших американських посадовців, — Венс</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_14-06-52.jpg" length="180065" type="image/jpeg"/>
-      <pubDate>Sun, 28 Sep 2025 14:06:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 05:10:06 +0000</lastBuildDate>
     <item>
       <title>🇩🇰 Данія тимчасово закриває по</title>
       <link>https://www.mandarinai.lt/post/81088</link>
@@ -117,6 +110,13 @@
 Нам треба лише порадіти за сусідів і видихнути з полегшенням.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-28_22-48-02.jpg" length="73240" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 22:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Трамп дозволив Україні завд</title>
+      <link>https://www.mandarinai.lt/post/81103</link>
+      <description>⚡️ Трамп дозволив Україні завдавати далекобійні удари по рф, — Келлог</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-29_04-37-36.jpg" length="129957" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 04:37:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
