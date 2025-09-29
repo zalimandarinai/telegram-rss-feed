@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 17:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 18:13:20 +0000</lastBuildDate>
     <item>
       <title>🔥 В Криму щось раптово бахнуло</title>
       <link>https://www.mandarinai.lt/post/81120</link>
@@ -105,6 +105,34 @@ https://m.youtube.com/watch?v=TvNzG7Sgw5U</description>
 Пропоную вам побачити все це на власні очі в матеріалі, який ми відзняли з 15-ою бригадою на північному кордоні https://m.youtube.com/watch?v=-rAAbOlD5q0</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-29_16-45-31.mp4" length="7279793" type="video/mp4"/>
       <pubDate>Mon, 29 Sep 2025 16:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Загальні втрати російської</title>
+      <link>https://www.mandarinai.lt/post/81132</link>
+      <description>❗️ «Загальні втрати російської армії на східному напрямку за тиждень 5433 солдатів і офіцерів», - ОСУВ «Дніпро»
+
+Також втрати по техніці: 
+
+🔺 танків – 18;
+🔺 ББМ – 4;
+🔺 РСЗВ – 9;
+🔺 вогнеметних систем – 2;
+🔺 гармат і мінометів – 195;
+🔺 засобів ППО – 1;
+🔺 засобів РЕБ – 30;
+🔺 автомобільної техніки – 476;
+🔺 спеціальної техніки – 196;
+
+Позиції, фортифікації, склади:
+
+🔺 позицій БПЛА – 224;
+🔺 укриттів – 1 467;
+🔺 складів боєприпасів – 42;
+🔺 складів ПММ – 30.
+
+🎥 На відео застосування БПЛА по російській піхоті операторами 63-ої бригади в районі міста Лиман на Донеччині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1717.MP4" length="26358015" type="video/mp4"/>
+      <pubDate>Mon, 29 Sep 2025 18:10:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
