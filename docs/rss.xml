@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 06:13:58 +0000</lastBuildDate>
-    <item>
-      <title>‼️Міноборони анонсувало переда</title>
-      <link>https://www.mandarinai.lt/post/81124</link>
-      <description>‼️Міноборони анонсувало передачу Україні шведських винищувачів Gripen
-
-ЗСУ вперше отримають шведські багатоцільові винищувачі четвертого покоління Gripen, — заступник міністра оборони України Гаврилюк. 
-
-Незабаром очікуються додаткові поставки літаків F-16, а також французьких Mirage для України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-29_14-19-49.jpg" length="163730" type="image/jpeg"/>
-      <pubDate>Mon, 29 Sep 2025 14:19:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 07:09:51 +0000</lastBuildDate>
     <item>
       <title>Україна не є незалежною держав</title>
       <link>https://www.mandarinai.lt/post/81125</link>
@@ -135,7 +124,7 @@
       <link>https://www.mandarinai.lt/post/81137</link>
       <description>На Сумщині загинуло подружжя з двома дітьми внаслідок російської атаки, - ОВА
 
-Цієї ночі ворог завдав удару безпілотником по житловому будинку у селі Чернеччина Краснопільської громади. Там мешкала родина з двома маленькими дітьми.
+Цієї ночі ворог завдав прицільної удару безпілотником по житловому будинку у селі Чернеччина Краснопільської громади. Там мешкала родина з двома маленькими дітьми.
 
 З-під завалів рятувальники деблокували тіла чотирьох загиблих — батьків та їхніх синів 6 і 4 років</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_05-41-26.jpg" length="29230" type="image/jpeg"/>
@@ -149,6 +138,15 @@
 Також ворог просунувся поблизу Новоіванівки в Запорізькій області та у Серебрянському лісництві на Луганщині. </description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_05-43-11.jpg" length="58728" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 05:43:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США наближаються до шатдауну</title>
+      <link>https://www.mandarinai.lt/post/81139</link>
+      <description>❗️США наближаються до шатдауну (зупинки роботи уряду), — Венс
+
+Останній шатдаун у США відбувся у 2018–2019 роках, коли президентом був Трамп.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-30_06-59-36.mp4" length="559581" type="video/mp4"/>
+      <pubDate>Tue, 30 Sep 2025 06:59:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
