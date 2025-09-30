@@ -6,51 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 18:13:01 +0000</lastBuildDate>
-    <item>
-      <title>🤡Війна вирішена — росіяни пере</title>
-      <link>https://www.mandarinai.lt/post/81145</link>
-      <description>🤡Війна вирішена — росіяни перемогли. Головне питання тепер — коли і з ким вони укладуть мир, — заявив Орбан
-
-росія слабка військово, економічно та демографічно.
-Ми сильніші за росіян, але поводимося як слабші
-
-
-З останньою тезою Орбана про слабку позицію Заходу важко не погодитись.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-30_11-02-00.mp4" length="1228051" type="video/mp4"/>
-      <pubDate>Tue, 30 Sep 2025 11:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Жінка, яку разом з синами та ч</title>
-      <link>https://www.mandarinai.lt/post/81146</link>
-      <description>Жінка, яку разом з синами та чоловіком на Сумщині вбили росіяни, була вагітна двійнею
-
-Родина нещодавно переїхала до Чернеччини з Краснопілля.
-
-Там їхній будинок був пошкоджений обстрілами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_11-16-46.jpg" length="144339" type="image/jpeg"/>
-      <pubDate>Tue, 30 Sep 2025 11:16:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вперше такий результат. 
-
-Зені</title>
-      <link>https://www.mandarinai.lt/post/81147</link>
-      <description>Вперше такий результат. 
-
-Зенітники 63-ої бригади вперше збили FPV-дроном безпілотник «Гербера», який є копією іранського БПЛА «Шахед».
-
-До того хлопці підбивали дронами російські БПЛА ZALA, Ланцет і півтора десятка Молній</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1740.MP4" length="22592124" type="video/mp4"/>
-      <pubDate>Tue, 30 Sep 2025 11:48:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Вибухи у Дніпрі і Харкові, м</title>
-      <link>https://www.mandarinai.lt/post/81148</link>
-      <description>‼️Вибухи у Дніпрі і Харкові, міста під атакою шахедів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-30_13-17-34.mp4" length="185316" type="video/mp4"/>
-      <pubDate>Tue, 30 Sep 2025 13:17:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 19:05:04 +0000</lastBuildDate>
     <item>
       <title>Жахливі кадри руйнувань в цент</title>
       <link>https://www.mandarinai.lt/post/81149</link>
@@ -109,6 +65,20 @@
 Пілоти оперативно повідомили диспетчерів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_17-42-54.jpg" length="100160" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 17:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>На кордоні із Білоруссю з’явил</title>
+      <link>https://www.mandarinai.lt/post/81159</link>
+      <description>На кордоні із Білоруссю з’явились нові банери із закликом до населення сусідньої країни не здавати свої інтереси росіянам, а також нагадуванням, що Україна пам’ятає, звідки в 2022-му році заходили російські війська на українську територію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_18-25-49.jpg" length="219027" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 18:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>На ЗАЕС критична ситуація: на </title>
+      <link>https://www.mandarinai.lt/post/81162</link>
+      <description>На ЗАЕС критична ситуація: на станції аварійний стан — вона відключена від електроживлення. Один з генераторів вже не працює, вийшов з ладу, це загроза для всіх, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_18-28-46.jpg" length="22308" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 18:28:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
