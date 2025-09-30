@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 14:10:01 +0000</lastBuildDate>
-    <item>
-      <title>😏рф почала закривати НПЗ цілим</title>
-      <link>https://www.mandarinai.lt/post/81134</link>
-      <description>😏рф почала закривати НПЗ цілими металевими захисними конструкціями і сітками: на відео Самара.
-
-Так ворог хоче захиститися від наших БПЛА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-29_19-49-21.mp4" length="997955" type="video/mp4"/>
-      <pubDate>Mon, 29 Sep 2025 19:49:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Ефектне перехоплення російськ</title>
-      <link>https://www.mandarinai.lt/post/81135</link>
-      <description>💥Ефектне перехоплення російського «Ланцету» зенітним FPV-дроном
-
-📹Повернись живим</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-29_19-59-43.mp4" length="1293067" type="video/mp4"/>
-      <pubDate>Mon, 29 Sep 2025 19:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Сумщині загинуло подружжя з</title>
-      <link>https://www.mandarinai.lt/post/81137</link>
-      <description>На Сумщині загинуло подружжя з двома дітьми внаслідок російської атаки, - ОВА
-
-Цієї ночі ворог завдав прицільної удару безпілотником по житловому будинку у селі Чернеччина Краснопільської громади. Там мешкала родина з двома маленькими дітьми.
-
-З-під завалів рятувальники деблокували тіла чотирьох загиблих — батьків та їхніх синів 6 і 4 років</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_05-41-26.jpg" length="29230" type="image/jpeg"/>
-      <pubDate>Tue, 30 Sep 2025 05:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️⚔️Російська армія окупувала </title>
-      <link>https://www.mandarinai.lt/post/81138</link>
-      <description>❗️⚔️Російська армія окупувала Полтавку в Донецькій області, — DeepState
-
-Також ворог просунувся поблизу Новоіванівки в Запорізькій області та у Серебрянському лісництві на Луганщині. </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_05-43-11.jpg" length="58728" type="image/jpeg"/>
-      <pubDate>Tue, 30 Sep 2025 05:43:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 15:08:09 +0000</lastBuildDate>
     <item>
       <title>❗️США наближаються до шатдауну</title>
       <link>https://www.mandarinai.lt/post/81139</link>
@@ -126,6 +88,24 @@
       <description>‼️Вибухи у Дніпрі і Харкові, міста під атакою шахедів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-30_13-17-34.mp4" length="185316" type="video/mp4"/>
       <pubDate>Tue, 30 Sep 2025 13:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жахливі кадри руйнувань в цент</title>
+      <link>https://www.mandarinai.lt/post/81149</link>
+      <description>Жахливі кадри руйнувань в центрі Дніпра.
+
+Горять автомобілі та будівлі.
+
+Безпілотники влучили в офісну будівлю в центрі міста та в корпус одного з університетів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1743.MP4" length="9601318" type="video/mp4"/>
+      <pubDate>Tue, 30 Sep 2025 14:15:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент удару шахеда по Дніпру</title>
+      <link>https://www.mandarinai.lt/post/81152</link>
+      <description>🤬Момент удару шахеда по Дніпру</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-09-30_14-21-23.mp4" length="318324" type="video/mp4"/>
+      <pubDate>Tue, 30 Sep 2025 14:21:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
