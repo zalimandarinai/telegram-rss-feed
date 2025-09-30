@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 21:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 22:07:49 +0000</lastBuildDate>
     <item>
       <title>🤬Момент удару шахеда по Дніпру</title>
       <link>https://www.mandarinai.lt/post/81152</link>
@@ -86,6 +86,13 @@
 Тіло Еммануеля Мтетва виявили поруч із готелем Hyatt. За попередньою інформацією, 58-річний дипломат вистрибнув з 22-го поверху чотиризіркового готелю</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_20-27-03.jpg" length="147419" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 20:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇳🇴 русня знову дістає Норвегію</title>
+      <link>https://www.mandarinai.lt/post/81165</link>
+      <description>🇳🇴 русня знову дістає Норвегію безпілотниками — поблизу аеропорту Брьоннёйсунд фіксують дрони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-09-30_21-28-25.jpg" length="60167" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 21:28:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
