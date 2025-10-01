@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 18:12:25 +0000</lastBuildDate>
-    <item>
-      <title>14-ий полк Сил безпілотних сис</title>
-      <link>https://www.mandarinai.lt/post/81184</link>
-      <description>14-ий полк Сил безпілотних систем отримав бойовий прапор під час святкування Дня Захисників та Захисниць України.
-
-Полк атакує цілі в глибині території росії, в тому числі, по нафтопереробних заводах.
-
-Ідея полку виникла у 2022 році, коли офіцери Сил спеціальних операцій натрапили на невикористані дрони-камікадзе з дальністю до 120 км. 
-
-Після успішних експериментальних операцій із глибинного ураження ворога було створено 1-й батальйон БпАК, а згодом – 2-й. 
-
-22 серпня 2023 року офіційно сформували 14-й окремий полк БпАК. Командир полку – колишній офіцер ССО «Чарлі», повний кавалер ордену Богдана Хмельницького, саме він сьогодні отримав прапор від Зеленського.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1789.MP4" length="14024280" type="video/mp4"/>
-      <pubDate>Wed, 01 Oct 2025 12:33:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 19:06:55 +0000</lastBuildDate>
     <item>
       <title>Армія окупантів отримала парті</title>
       <link>https://www.mandarinai.lt/post/81185</link>
@@ -138,9 +123,9 @@
 Екіпаж підозрюється в тому, що в період 22–25 вересня 
 їхній танкер став платформою для запуску дронів біля Данії.
 
-Нарешті європейці діють спільно.
+Нарешті європейці діють спільно, може, і 5-а стаття Хартії НАТО запрацює.
 
-Може, і 5-а стаття Хартії НАТО запрацює.</description>
+Судно «Boracay» під прапором Беніну 20 вересня вийшло із Приморська, пройшовши через Балтійське та Північне моря, територіальні води Данії, а потім через Ла-Манш.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1799.MP4" length="21438498" type="video/mp4"/>
       <pubDate>Wed, 01 Oct 2025 17:30:32 +0000</pubDate>
     </item>
@@ -154,6 +139,17 @@
 Без електрики залишився «Конфайнмент», конструкція, яка закриває зруйнований четвертий енергоблок та стримує викид радіації.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_17-52-02.jpg" length="139804" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 17:52:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Європейці продовжують ловити т</title>
+      <link>https://www.mandarinai.lt/post/81198</link>
+      <description>Європейці продовжують ловити тих, хто, на їхню думку, підірвав газопроводи «Nord Stream».
+
+В Польщі заарештували українського громадянина, якого називають Володимир З., він досвідчений драйвер. 
+
+Він, ймовірно, причетний до вибухів, які пошкодили три з чотирьох газопроводів «Північний Потік» на Балтійському морі, вважає німецька прокуратура.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_18-23-24.jpg" length="115356" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 18:23:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
