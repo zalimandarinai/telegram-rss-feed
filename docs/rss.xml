@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 19:06:55 +0000</lastBuildDate>
-    <item>
-      <title>Армія окупантів отримала парті</title>
-      <link>https://www.mandarinai.lt/post/81185</link>
-      <description>Армія окупантів отримала партію нових бойових машин підтримки танків, «Терминатор», які до цього обмежено застосовувалися у війні проти України.
-
-З підприємства «Упалвагонзавод» викатили щонайменше п’ять нових БМПТ «Терминатор» на ешелоні.
-
-«Терминатор» концептуально призначений для вогневої підтримки танкових підрозділів. 
-
-Машина озброєна двома гарматами калібру 30 мм, двома автоматичними гранатометами АГ-30, а також протитанковими керованими ракетами комплексу «Атака».
-
-Попри те, що дані машини обладнані протидронним захистом, дуже сумнівно, що такі великі цілі активно будуть застосовуватись в умовах щільного використання дронів.</description>
-      <pubDate>Wed, 01 Oct 2025 12:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Покровське на Дніпропетровщині</title>
-      <link>https://www.mandarinai.lt/post/81186</link>
-      <description>Покровське на Дніпропетровщині обстріляли «Іскандером», - Денис Христов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1791.MP4" length="15520473" type="video/mp4"/>
-      <pubDate>Wed, 01 Oct 2025 13:35:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заманювали військових «на поба</title>
-      <link>https://www.mandarinai.lt/post/81187</link>
-      <description>Заманювали військових «на побачення».
-
-СБУ запобігла 2 терактам у Львові, ворог збирався підірвати українських військових під виглядом запрошення на побачення з дівчатами.
-
-На випередження врятовано українських воїнів, яких окупанти намагалися дистанційно підірвати за допомогою СВП.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_13-47-49.jpg" length="81374" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 13:47:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 20:10:20 +0000</lastBuildDate>
     <item>
       <title>Удар росіян по підстанції в ра</title>
       <link>https://www.mandarinai.lt/post/81189</link>
@@ -145,11 +113,34 @@
       <link>https://www.mandarinai.lt/post/81198</link>
       <description>Європейці продовжують ловити тих, хто, на їхню думку, підірвав газопроводи «Nord Stream».
 
-В Польщі заарештували українського громадянина, якого називають Володимир З., він досвідчений драйвер. 
+В Польщі заарештували українського громадянина, якого називають Володимир З., він досвідчений дайвер. 
 
 Він, ймовірно, причетний до вибухів, які пошкодили три з чотирьох газопроводів «Північний Потік» на Балтійському морі, вважає німецька прокуратура.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_18-23-24.jpg" length="115356" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 18:23:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росіяни завдали ракетного уд</title>
+      <link>https://www.mandarinai.lt/post/81200</link>
+      <description>❗️Росіяни завдали ракетного удару по житловому кварталу у Балаклії, є загибла та 9 людей постраждалі, — ДСНС
+
+Ракета влучила в землю біля житлової п'ятиповерхівки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_19-33-11.jpg" length="221643" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 19:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>В мережі розійшлось фото нідер</title>
+      <link>https://www.mandarinai.lt/post/81201</link>
+      <description>В мережі розійшлось фото нідерландського F-35 з новою тактичною позначкою, яка може означати збитий «шахед»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_19-47-11.jpg" length="97555" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 19:47:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Укроборонпром» оприлюднив хар</title>
+      <link>https://www.mandarinai.lt/post/81202</link>
+      <description>«Укроборонпром» оприлюднив характеристики вітчизняної крилатої ракети РК-360 комплексу «Нептун-Д», призначеної для ударів по наземних цілях, - «Мілітарний». Дані були представлені концерном на одній з виставок. Зазначено, що маса бойової частини становить 260 кг — на 110 кг більше, ніж у протикорабельної версії. Також суттєво зросла дальність польоту: до 1000 км у версії для «Нептун-Д» проти 280 км у протикорабельній. Габарити ракети збільшені: довжина — 6 м без прискорювача, діаметр корпусу — 50 см.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_20-03-52.jpg" length="84302" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 20:03:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
