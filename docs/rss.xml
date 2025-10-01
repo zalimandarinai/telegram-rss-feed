@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 11:08:05 +0000</lastBuildDate>
-    <item>
-      <title>🤬русня публікує кадри прильоті</title>
-      <link>https://www.mandarinai.lt/post/81168</link>
-      <description>🤬русня публікує кадри прильотів в Центрі Дніпра</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-01_06-17-40.mp4" length="1440249" type="video/mp4"/>
-      <pubDate>Wed, 01 Oct 2025 06:17:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Ярославський НПЗ приймає еста</title>
-      <link>https://www.mandarinai.lt/post/81169</link>
-      <description>🔥Ярославський НПЗ приймає естафету від інших палаючих нафтопереробних заводів роісії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-01_06-25-04.mp4" length="563300" type="video/mp4"/>
-      <pubDate>Wed, 01 Oct 2025 06:25:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 12:17:42 +0000</lastBuildDate>
     <item>
       <title>рф вночі атакувала Україну про</title>
       <link>https://www.mandarinai.lt/post/81173</link>
@@ -94,6 +80,24 @@
       <description>Момент влучання по машині гауляйтера Нової Каховки Володимира Леонтьєва і сам вибух, в результаті якого зрадник отримав смертельні поранення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1781.MP4" length="4891055" type="video/mp4"/>
       <pubDate>Wed, 01 Oct 2025 10:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна та Румунія планують ви</title>
+      <link>https://www.mandarinai.lt/post/81182</link>
+      <description>Україна та Румунія планують виробляти разом бойові дрони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_11-17-43.jpg" length="62786" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 11:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Мюнхені закрили «Октоберфест</title>
+      <link>https://www.mandarinai.lt/post/81183</link>
+      <description>В Мюнхені закрили «Октоберфест» через загрозу вибуху. Підозрюють рух «Антифа», - DW Deutsche Welle
+
+Сьогодні в Мюнхені на півночі міста вже знайшли вибухівку в будинку, в якому до того виникла пожежа. Один загиблий. 
+
+Лівацький рух «Антифа» виник в росії. До сьогодні Кремль використовує його для дестабілізації ситуації в Європі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_11-27-57.jpg" length="83919" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 11:27:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
