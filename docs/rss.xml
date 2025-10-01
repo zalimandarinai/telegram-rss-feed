@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 13:22:07 +0000</lastBuildDate>
-    <item>
-      <title>рф вночі атакувала Україну про</title>
-      <link>https://www.mandarinai.lt/post/81173</link>
-      <description>рф вночі атакувала Україну протикорабельною ракетою "Онікс", чотирма балістичними ракетами Іскандер-М/KN-23 та 49-ма дронами
-
-Протиповітряною обороною було збито/подавлено 44 ворожих БпЛА типу "Шахед", "Гербера" і дронів інших типів на півночі, сході та в центрі країни.
-
-Зафіксовано влучання 5 ракет та БпЛА противника на 6 локаціях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_07-46-09.jpg" length="83390" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 07:46:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У Німеччині зафіксували масо</title>
-      <link>https://www.mandarinai.lt/post/81174</link>
-      <description>❗️У Німеччині зафіксували масові польоти дронів над критичною інфраструктурою, — Bild
-
-Безпілотники були помічені біля університетської клініки, електростанції, будівлі місцевого парламенту і навіть на нафтопереробному заводі, який постачає аеропорт Гамбурга паливом.
-
-До речі, у Бундестазі лише готують закон, який дозволить армії збивати підозрілі дрони за межами військових об’єктів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_07-47-12.jpg" length="139410" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 07:47:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 14:09:31 +0000</lastBuildDate>
     <item>
       <title>В передмісті Києва вранці зафі</title>
       <link>https://www.mandarinai.lt/post/81175</link>
@@ -127,6 +105,24 @@
 
 Попри те, що дані машини обладнані протидронним захистом, дуже сумнівно, що такі великі цілі активно будуть застосовуватись в умовах щільного використання дронів.</description>
       <pubDate>Wed, 01 Oct 2025 12:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Покровське на Дніпропетровщині</title>
+      <link>https://www.mandarinai.lt/post/81186</link>
+      <description>Покровське на Дніпропетровщині обстріляли «Іскандером», - Денис Христов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1791.MP4" length="15520473" type="video/mp4"/>
+      <pubDate>Wed, 01 Oct 2025 13:35:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заманювали військових «на поба</title>
+      <link>https://www.mandarinai.lt/post/81187</link>
+      <description>Заманювали військових «на побачення».
+
+СБУ запобігла 2 терактам у Львові, ворог збирався підірвати українських військових під виглядом запрошення на побачення з дівчатами.
+
+На випередження врятовано українських воїнів, яких окупанти намагалися дистанційно підірвати за допомогою СВП.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_13-47-49.jpg" length="81374" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 13:47:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
