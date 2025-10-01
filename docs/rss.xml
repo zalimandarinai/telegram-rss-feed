@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 17:07:57 +0000</lastBuildDate>
-    <item>
-      <title>Україна та Румунія планують ви</title>
-      <link>https://www.mandarinai.lt/post/81182</link>
-      <description>Україна та Румунія планують виробляти разом бойові дрони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_11-17-43.jpg" length="62786" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 11:17:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Мюнхені закрили «Октоберфест</title>
-      <link>https://www.mandarinai.lt/post/81183</link>
-      <description>В Мюнхені закрили «Октоберфест» через загрозу вибуху. Підозрюють рух «Антифа», - DW Deutsche Welle
-
-Сьогодні в Мюнхені на півночі міста вже знайшли вибухівку в будинку, в якому до того виникла пожежа. Один загиблий. 
-
-Лівацький рух «Антифа» виник в росії. До сьогодні Кремль використовує його для дестабілізації ситуації в Європі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_11-27-57.jpg" length="83919" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 11:27:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 18:12:25 +0000</lastBuildDate>
     <item>
       <title>14-ий полк Сил безпілотних сис</title>
       <link>https://www.mandarinai.lt/post/81184</link>
@@ -145,6 +127,33 @@
 На 26 вересня лінія була ціла і готова до експлуатації.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_16-50-43.jpg" length="62040" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 16:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Франція захопила російський </title>
+      <link>https://www.mandarinai.lt/post/81196</link>
+      <description>‼️Франція захопила російський нафтовий танкер біля свого узбережжя; з судна, ймовірно, запускали дрони над Європою
+
+Судно входить до тіньового флоту рф і обходило санкції через продаж російської нафти.
+
+Екіпаж підозрюється в тому, що в період 22–25 вересня 
+їхній танкер став платформою для запуску дронів біля Данії.
+
+Нарешті європейці діють спільно.
+
+Може, і 5-а стаття Хартії НАТО запрацює.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1799.MP4" length="21438498" type="video/mp4"/>
+      <pubDate>Wed, 01 Oct 2025 17:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Блекаут на Чорнобильській А</title>
+      <link>https://www.mandarinai.lt/post/81197</link>
+      <description>❗️ Блекаут на Чорнобильській АЕС: атака росії на Славутич вивела з ладу захист атомної станції.
+
+Удар був по електропідстанції 330 кВ.
+
+Без електрики залишився «Конфайнмент», конструкція, яка закриває зруйнований четвертий енергоблок та стримує викид радіації.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_17-52-02.jpg" length="139804" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 17:52:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
