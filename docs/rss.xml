@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 21:07:30 +0000</lastBuildDate>
-    <item>
-      <title>Відбувся ще один обмін.
-
-Вдало</title>
-      <link>https://www.mandarinai.lt/post/81223</link>
-      <description>Відбувся ще один обмін.
-
-Вдалось поміняти 185 на 185 та повернути 20 цивільних.
-
-З полону визволили рядових та офіцерів, військових Збройних Сил, Національної гвардії, Державної прикордонної служби, які були в Маріуполі й на «Азовсталі», ЧАЕС. 
-
-Більшість були в полоні ще з 2022 року, зараз вони нарешті вдома.
-
-Із захисниками також повертаються цивільні, 20 наших людей, які утримувались в заручниках.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_13-00-52.jpg" length="160643" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 13:00:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 22:07:41 +0000</lastBuildDate>
     <item>
       <title>🤯 На Київщині «шахед» впав у д</title>
       <link>https://www.mandarinai.lt/post/81227</link>
@@ -147,6 +130,15 @@ https://send.monobank.ua/jar/4fabDZsZwh
 Водночас він додав, що постачання ракет не змінить ситуацію на фронті і не призведе до перелому на користь ЗСУ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-02_20-48-25.mp4" length="9740183" type="video/mp4"/>
       <pubDate>Thu, 02 Oct 2025 20:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поставки ракет "Томагавк" США </title>
+      <link>https://www.mandarinai.lt/post/81238</link>
+      <description>Поставки ракет "Томагавк" США в Україну малоймовірні, — джерела RTRS
+
+США вивчають інші ракетні варіанти для України з меншим радіусом дії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_21-08-14.jpg" length="102791" type="image/jpeg"/>
+      <pubDate>Thu, 02 Oct 2025 21:08:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
