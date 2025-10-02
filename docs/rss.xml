@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 08:12:13 +0000</lastBuildDate>
-    <item>
-      <title>В мережі розійшлось фото нідер</title>
-      <link>https://www.mandarinai.lt/post/81201</link>
-      <description>В мережі розійшлось фото нідерландського F-35 з новою тактичною позначкою, яка може означати збитий «шахед»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_19-47-11.jpg" length="97555" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 19:47:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 09:09:23 +0000</lastBuildDate>
     <item>
       <title>«Укроборонпром» оприлюднив хар</title>
       <link>https://www.mandarinai.lt/post/81202</link>
@@ -110,6 +103,17 @@
       <description>😨Київське метро після ранкової тривоги</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_06-58-13.jpg" length="255331" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 06:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ знайшла подружній «тандем»</title>
+      <link>https://www.mandarinai.lt/post/81215</link>
+      <description>СБУ знайшла подружній «тандем» агентів рф, які готували теракт в Одесі
+ 
+Контррозвідка Служби безпеки затримала чоловіка і жінку, які готували підрив військових.
+ 
+Для вчинення теракту вони отримали від російських спецслужбістів координати, за якими в схроні на них чекав вибуховий пристрій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_08-27-40.jpg" length="112041" type="image/jpeg"/>
+      <pubDate>Thu, 02 Oct 2025 08:27:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
