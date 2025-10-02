@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 13:18:37 +0000</lastBuildDate>
-    <item>
-      <title>😨Київське метро після ранкової</title>
-      <link>https://www.mandarinai.lt/post/81213</link>
-      <description>😨Київське метро після ранкової тривоги</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_06-58-13.jpg" length="255331" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 06:58:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 14:08:45 +0000</lastBuildDate>
     <item>
       <title>СБУ знайшла подружній «тандем»</title>
       <link>https://www.mandarinai.lt/post/81215</link>
@@ -113,6 +106,15 @@
 Із захисниками також повертаються цивільні, 20 наших людей, які утримувались в заручниках.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_13-00-52.jpg" length="160643" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 13:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯 На Київщині «шахед» впав у д</title>
+      <link>https://www.mandarinai.lt/post/81227</link>
+      <description>🤯 На Київщині «шахед» впав у дворі приватного будинку та не здетонував.
+
+Подія сталася біля Гостомеля в селі Озера. Сьогодні російські дрони майже увесь день літають в Київській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-02_13-21-46.mp4" length="264066" type="video/mp4"/>
+      <pubDate>Thu, 02 Oct 2025 13:21:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
