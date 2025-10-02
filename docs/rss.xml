@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 20:09:24 +0000</lastBuildDate>
-    <item>
-      <title>Прикордонники Чернігівського з</title>
-      <link>https://www.mandarinai.lt/post/81222</link>
-      <description>Прикордонники Чернігівського загону взяли в полон тувинця біля Покровська.
-
-Кілька днів тому полк «Скеля» також захопив тувинця на тій же ділянці лінії бойового зіткнення.
-
-Судячи з цього, можна сказати, що в районі Покровська російська армія просто стирає свої малі народи.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1827.MP4" length="7164472" type="video/mp4"/>
-      <pubDate>Thu, 02 Oct 2025 12:56:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 21:07:30 +0000</lastBuildDate>
     <item>
       <title>Відбувся ще один обмін.
 
@@ -147,6 +136,17 @@ https://send.monobank.ua/jar/4fabDZsZwh
 Вибухи лунають на аеродромах «Кача» і «Бельбек», де базуються російські літаки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_19-14-30.jpg" length="40541" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 19:14:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Постачання Україні ракет To</title>
+      <link>https://www.mandarinai.lt/post/81237</link>
+      <description>❗️ Постачання Україні ракет Tomahawk означатиме «якісно новий етап ескалації» у відносинах росії та США, — путін
+
+За його словами, застосування Tomahawk без участі американців неможливе і це «завдасть шкоди відносинам» між країнами.
+
+Водночас він додав, що постачання ракет не змінить ситуацію на фронті і не призведе до перелому на користь ЗСУ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-02_20-48-25.mp4" length="9740183" type="video/mp4"/>
+      <pubDate>Thu, 02 Oct 2025 20:48:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
