@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 03:21:57 +0000</lastBuildDate>
-    <item>
-      <title>💥В Донецьку рашисти втратили с</title>
-      <link>https://www.mandarinai.lt/post/81192</link>
-      <description>💥В Донецьку рашисти втратили склад боєприпасів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_15-48-11.jpg" length="88920" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 15:48:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 04:10:10 +0000</lastBuildDate>
     <item>
       <title>В Дніпрі після цього спалаху ч</title>
       <link>https://www.mandarinai.lt/post/81193</link>
@@ -129,7 +122,7 @@
       <title>В Одесі пожежа після атаки «ша</title>
       <link>https://www.mandarinai.lt/post/81205</link>
       <description>В Одесі пожежа після атаки «шахедів» цієї ночі, - місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1807.MP4" length="1307443" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-02_02-49-58.mp4" length="1183178" type="video/mp4"/>
       <pubDate>Thu, 02 Oct 2025 02:49:58 +0000</pubDate>
     </item>
   </channel>
