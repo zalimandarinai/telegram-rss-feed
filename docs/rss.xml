@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 05:08:40 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Блекаут на Чорнобильській А</title>
-      <link>https://www.mandarinai.lt/post/81197</link>
-      <description>❗️ Блекаут на Чорнобильській АЕС: атака росії на Славутич вивела з ладу захист атомної станції.
-
-Удар був по електропідстанції 330 кВ.
-
-Без електрики залишився «Конфайнмент», конструкція, яка закриває зруйнований четвертий енергоблок та стримує викид радіації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-01_17-52-02.jpg" length="139804" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 17:52:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 06:13:14 +0000</lastBuildDate>
     <item>
       <title>Європейці продовжують ловити т</title>
       <link>https://www.mandarinai.lt/post/81198</link>
@@ -79,7 +68,7 @@
     <item>
       <title>💥В російському Саратові все ст</title>
       <link>https://www.mandarinai.lt/post/81207</link>
-      <description>💥В російському Саратові все стабільно. Наслідки уточнюється</description>
+      <description>💥В російському Саратові все стабільно. Наслідки уточнюються</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-02_04-13-16.mp4" length="660252" type="video/mp4"/>
       <pubDate>Thu, 02 Oct 2025 04:13:16 +0000</pubDate>
     </item>
@@ -98,6 +87,17 @@
       <description>🤬Атака шахедів по залізничній інфраструктурі на Київщині сьогодні вночі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-02_04-32-16.mp4" length="819738" type="video/mp4"/>
       <pubDate>Thu, 02 Oct 2025 04:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наслідки масованої атаки Одеси</title>
+      <link>https://www.mandarinai.lt/post/81211</link>
+      <description>Наслідки масованої атаки Одеси ударними безпілотниками.
+
+Внаслідок влучань рятувальники ліквідували пожежу, яка виникла в депо Укрзалізниці. Також було пошкоджено дах та скління приватного житлового будинку.
+
+На жаль, постраждали 2  людини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1808.MP4" length="3578315" type="video/mp4"/>
+      <pubDate>Thu, 02 Oct 2025 06:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
