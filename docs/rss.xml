@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 08:11:45 +0000</lastBuildDate>
-    <item>
-      <title>Поставки ракет "Томагавк" США </title>
-      <link>https://www.mandarinai.lt/post/81238</link>
-      <description>Поставки ракет "Томагавк" США в Україну малоймовірні, — джерела RTRS
-
-США вивчають інші ракетні варіанти для України з меншим радіусом дії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_21-08-14.jpg" length="102791" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 21:08:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 В рф атакований один з найбі</title>
-      <link>https://www.mandarinai.lt/post/81241</link>
-      <description>🔥 В рф атакований один з найбільших російських виробників азотних добрив
-
-У 2024 році завод встановив рекорд — понад 2,3 млн тонн продукції, зокрема компонентів, що використовуються для виготовлення вибухівки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-03_05-05-19.jpg" length="69636" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 05:05:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Oct 2025 09:08:56 +0000</lastBuildDate>
     <item>
       <title>😏Ночью аэропорт Мюнхена остана</title>
       <link>https://www.mandarinai.lt/post/81244</link>
@@ -83,6 +65,33 @@
 Фахівці вже працюють над ліквідацією наслідків</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-03_07-52-13.jpg" length="98545" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 07:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Харківщині 475-ий ОШБ «Code</title>
+      <link>https://www.mandarinai.lt/post/81252</link>
+      <description>На Харківщині 475-ий ОШБ «Code 9.2» почав активно використовувати наземні роботизовані комплекси.
+
+Взвод НРК штурмового батальйону вже здійснив 26 успішних логістичних місій та врятував 7 поранених побратимів.
+
+Підрозділ розширює свої можливості, тож поки що на цьому напрямку технічна і тактична перевага в наземних роботизованих комплексах на боці українських військових.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1844.MP4" length="31326896" type="video/mp4"/>
+      <pubDate>Fri, 03 Oct 2025 08:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент влучання БПЛА «Лютий» н</title>
+      <link>https://www.mandarinai.lt/post/81253</link>
+      <description>Момент влучання БПЛА «Лютий» на території НПЗ в Орську за 1400 км від держкордону України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1845.MP4" length="3819444" type="video/mp4"/>
+      <pubDate>Fri, 03 Oct 2025 08:39:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Ще кадри атаки на черговий р</title>
+      <link>https://www.mandarinai.lt/post/81254</link>
+      <description>💥 Ще кадри атаки на черговий російський НПЗ(Орськ)
+
+Його потужність — 6,6 млн тонн нафти на рік, виробляє паливо та мастила для армії рф. Триває евакуація персоналу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-03_08-51-00.mp4" length="1639197" type="video/mp4"/>
+      <pubDate>Fri, 03 Oct 2025 08:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
