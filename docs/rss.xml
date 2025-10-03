@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 06:13:04 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺Новини психіатрії. путлер по</title>
-      <link>https://www.mandarinai.lt/post/81233</link>
-      <description>🇷🇺Новини психіатрії. путлер почав лякати Захід ... віршами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-02_17-05-57.mp4" length="21433614" type="video/mp4"/>
-      <pubDate>Thu, 02 Oct 2025 17:05:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти захопили Ольгівське в</title>
-      <link>https://www.mandarinai.lt/post/81234</link>
-      <description>Окупанти захопили Ольгівське в Запорізькій області, а на Дніпропетровщині Березове і Калинівське, — ресурс DeepState</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-02_18-26-33.jpg" length="107500" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 18:26:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Oct 2025 07:08:59 +0000</lastBuildDate>
     <item>
       <title>💥 Крим під масованою атакою.
 
@@ -80,6 +66,20 @@
 Основний удар російський терористи завдали по Полтаві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-03_05-52-12.jpg" length="343080" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 05:52:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗Європа готується до війни з р</title>
+      <link>https://www.mandarinai.lt/post/81247</link>
+      <description>❗Європа готується до війни з рф; термін, через який росіяни можуть напасти на країни Балтії, оцінюється в кілька років, — BBC News</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-03_06-20-22.jpg" length="108291" type="image/jpeg"/>
+      <pubDate>Fri, 03 Oct 2025 06:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Потужне влучання по човну з ро</title>
+      <link>https://www.mandarinai.lt/post/81249</link>
+      <description>Потужне влучання по човну з російськими окупантами з 810-ої бригади морської піхоти, - підрозділ Pentagon, 225-ий ОШП</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1841.MP4" length="7966169" type="video/mp4"/>
+      <pubDate>Fri, 03 Oct 2025 07:03:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
