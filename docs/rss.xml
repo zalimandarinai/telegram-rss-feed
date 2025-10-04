@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 05:08:42 +0000</lastBuildDate>
-    <item>
-      <title>😡 У Шостці на Сумщині зафіксов</title>
-      <link>https://www.mandarinai.lt/post/81269</link>
-      <description>😡 У Шостці на Сумщині зафіксовано прильоти «Шахедів» по об’єктах енергетики — місто залишилося без світла.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-03_15-15-14.mp4" length="1874961" type="video/mp4"/>
-      <pubDate>Fri, 03 Oct 2025 15:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «На центральну прохідну лети</title>
-      <link>https://www.mandarinai.lt/post/81270</link>
-      <description>💬 «На центральну прохідну летить, один і ще два», - працівники «Орськнафтооргсинтез» допомагають СБУ провести дорозвідку по результатах їхньої безпілотної операції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1864.MP4" length="12510739" type="video/mp4"/>
-      <pubDate>Fri, 03 Oct 2025 15:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зачистка ворожого укриття.
-Поз</title>
-      <link>https://www.mandarinai.lt/post/81271</link>
-      <description>Зачистка ворожого укриття.
-Позицію противника знищено силами підрозділу РУБАК 49-го окремого штурмового батальйону «Карпатська Січ».
-
-🎥 49 окремий штурмовий батальйон «Карпатська Січ»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1867.MP4" length="7560898" type="video/mp4"/>
-      <pubDate>Fri, 03 Oct 2025 16:12:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Oct 2025 06:11:19 +0000</lastBuildDate>
     <item>
       <title>Оператори дронів роти безпілот</title>
       <link>https://www.mandarinai.lt/post/81272</link>
@@ -121,6 +96,22 @@
 У повітря були підняті поліцейські гелікоптери.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-03_21-53-28.jpg" length="64551" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 21:53:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Вночі рф завдала масованого </title>
+      <link>https://www.mandarinai.lt/post/81282</link>
+      <description>🤬 Вночі рф завдала масованого удару дронами по Чернігову
+
+Місто затягнуло димом, виникла сильна пожежа внаслідок вибухів. Фіксуються перебої зі світлом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-04_05-36-21.mp4" length="217218" type="video/mp4"/>
+      <pubDate>Sat, 04 Oct 2025 05:36:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вночі добрі дрони завітали н</title>
+      <link>https://www.mandarinai.lt/post/81283</link>
+      <description>💥🔥Вночі добрі дрони завітали на НПЗ в Ленінградській області. Повідомляють про влучання в основну установку перегонки нафти підприємства "Кришиоргнєфтєсінтез"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-04_06-07-42.mp4" length="4051852" type="video/mp4"/>
+      <pubDate>Sat, 04 Oct 2025 06:07:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
