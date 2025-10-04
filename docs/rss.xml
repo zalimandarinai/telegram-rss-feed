@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 12:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 13:13:10 +0000</lastBuildDate>
     <item>
       <title>В Карелії на Онезькому озері З</title>
       <link>https://www.mandarinai.lt/post/81286</link>
@@ -80,6 +80,17 @@
 Німецькі правоохоронці затримали 41-річного хорвата за запуск дрона біля аеропорту міста Франкфурт-на-Майні, ведеться розслідування, пише Bild.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-04_11-48-05.jpg" length="70456" type="image/jpeg"/>
       <pubDate>Sat, 04 Oct 2025 11:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прикордонники «Сталевого кордо</title>
+      <link>https://www.mandarinai.lt/post/81300</link>
+      <description>Прикордонники «Сталевого кордону» провели справжній трюк зі своїм БПЛА на півночі Сумської області. 
+
+FPV-дрон на оптоволоконному керуванні пролетів майже 15 км, прослизнув під антидроновими сітками і без запрошення залетів в командний пункт. 
+
+Для безпілотника двері були відкриті навстіж.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1903.MP4" length="9190829" type="video/mp4"/>
+      <pubDate>Sat, 04 Oct 2025 12:38:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
