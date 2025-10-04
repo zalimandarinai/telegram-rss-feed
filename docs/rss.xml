@@ -6,40 +6,24 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 14:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 15:07:03 +0000</lastBuildDate>
     <item>
       <title>❗️ Залізничний вокзал в Шостці</title>
-      <link>https://www.mandarinai.lt/post/81289</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ Залізничний вокзал в Шостці Сумської області після удару російського безпілотника та момент влучання де видно, як дрон прицільно атакує пасажирський потяг.
 
 Наразі відомо про 10 постраждалих</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-04_10-20-44.mp4" length="2094737" type="video/mp4"/>
       <pubDate>Sat, 04 Oct 2025 10:20:44 +0000</pubDate>
     </item>
     <item>
       <title>Прильотів по залізничному вокз</title>
-      <link>https://www.mandarinai.lt/post/81291</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Прильотів по залізничному вокзалу у Шостці було два, — міністр громад та територій Олексій Кулеба
 
 Перший удар припав по локомотиву приміського поїзда Терещинська-Новгород-Сіверський. 
 
 Другий — по електровозу поїзда Київ - Шостка.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1894.MP4" length="7597444" type="video/mp4"/>
       <pubDate>Sat, 04 Oct 2025 10:37:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ліквідацію «дронів-ждунів» і а</title>
-      <link>https://www.mandarinai.lt/post/81292</link>
-      <description>Ліквідацію «дронів-ждунів» і атаки по російській піхоті в районі Купʼянська демонструє 114-а бригада ТРО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1895.MP4" length="16609176" type="video/mp4"/>
-      <pubDate>Sat, 04 Oct 2025 11:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Серед постраждалих від удару р</title>
-      <link>https://www.mandarinai.lt/post/81294</link>
-      <description>Серед постраждалих від удару рф по пасажирських потягах троє дітей, - ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-04_11-37-15.jpg" length="192830" type="image/jpeg"/>
-      <pubDate>Sat, 04 Oct 2025 11:37:15 +0000</pubDate>
     </item>
     <item>
       <title>Дрони, які кружляли над аеропо</title>
@@ -71,6 +55,20 @@ FPV-дрон на оптоволоконному керуванні пролет
       <description>Внаслідок удару рф по пасажирським потягам в Шосткинській громаді поранено 30 людей, - Свириденко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-04_13-33-25.jpg" length="261573" type="image/jpeg"/>
       <pubDate>Sat, 04 Oct 2025 13:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бєлгород атакують БПЛА, по міс</title>
+      <link>https://www.mandarinai.lt/post/81304</link>
+      <description>Бєлгород атакують БПЛА, по місту розкидані частини боєприпасів протиповітряної оборони, горить заправка біля аеропорту та пошкоджені автомобілі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1904.MP4" length="492713" type="video/mp4"/>
+      <pubDate>Sat, 04 Oct 2025 14:05:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥💥🔥Прикордонники знешкодили ва</title>
+      <link>https://www.mandarinai.lt/post/81309</link>
+      <description>🔥💥🔥Прикордонники знешкодили важку вогнеметну систему ТОС 1-А «Солнцепьок» на Покровському напрямку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-04_15-00-34.mp4" length="1756591" type="video/mp4"/>
+      <pubDate>Sat, 04 Oct 2025 15:00:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
