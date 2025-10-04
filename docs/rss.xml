@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 09:08:02 +0000</lastBuildDate>
-    <item>
-      <title>❗️Українські дрони вчора масов</title>
-      <link>https://www.mandarinai.lt/post/81274</link>
-      <description>❗️Українські дрони вчора масовано атакували Сочі, коли у місті перебував путін, — The Moscow Times.
-
-Незадовго до початку нальоту путін закінчив свій виступ у рамках Валдайського форуму. Аеропорти в Сочі та Геленджику закрили через БпЛА близько 22:30.
-
-За півгодини мер Сочі Андрій Прошунін оголосив про загрозу атаки БпЛА на місто</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-03_16-40-23.jpg" length="37691" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 16:40:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Oct 2025 10:07:43 +0000</lastBuildDate>
     <item>
       <title>💡 Світло почало зникати в Слов</title>
       <link>https://www.mandarinai.lt/post/81275</link>
@@ -117,6 +106,15 @@
       <description>Відео атаки українського надводного безпілотника в порту Туапсе, зняті екіпажем іноземного судна.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1891.MP4" length="12377199" type="video/mp4"/>
       <pubDate>Sat, 04 Oct 2025 08:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росія атакувала пасажирський</title>
+      <link>https://www.mandarinai.lt/post/81288</link>
+      <description>❗️росія атакувала пасажирський потяг Шостка-Київ на залізничному вокзалі на Сумщині. Постраждали пасажири, – ОВА
+
+На місці працюють рятувальники, медики та всі екстрені служби.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-04_09-12-44.jpg" length="115757" type="image/jpeg"/>
+      <pubDate>Sat, 04 Oct 2025 09:12:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
