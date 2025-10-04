@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 13:13:10 +0000</lastBuildDate>
-    <item>
-      <title>В Карелії на Онезькому озері З</title>
-      <link>https://www.mandarinai.lt/post/81286</link>
-      <description>В Карелії на Онезькому озері ЗСУ уразили малий ракетний корабель «Буян-М», — Генштаб 
-
-В Курській області уражено радіолокаційний комплекс «Гармонь» та транспортно‑заряджаючу машину зі складу ОТРК «Іскандер». Ступінь пошкоджень встановлюється.
-
-Було влучання по командному пункту 8-ї армії, який дислокується на тимчасово окупованій території Донеччини, результати уточнюють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-04_08-49-07.jpg" length="63858" type="image/jpeg"/>
-      <pubDate>Sat, 04 Oct 2025 08:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Відео атаки українського надво</title>
-      <link>https://www.mandarinai.lt/post/81287</link>
-      <description>Відео атаки українського надводного безпілотника в порту Туапсе, зняті екіпажем іноземного судна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1891.MP4" length="12377199" type="video/mp4"/>
-      <pubDate>Sat, 04 Oct 2025 08:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️росія атакувала пасажирський</title>
-      <link>https://www.mandarinai.lt/post/81288</link>
-      <description>❗️росія атакувала пасажирський потяг Шостка-Київ на залізничному вокзалі на Сумщині. Постраждали пасажири, – ОВА
-
-На місці працюють рятувальники, медики та всі екстрені служби.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-04_09-12-44.jpg" length="115757" type="image/jpeg"/>
-      <pubDate>Sat, 04 Oct 2025 09:12:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Oct 2025 14:04:52 +0000</lastBuildDate>
     <item>
       <title>❗️ Залізничний вокзал в Шостці</title>
       <link>https://www.mandarinai.lt/post/81289</link>
@@ -91,6 +64,13 @@ FPV-дрон на оптоволоконному керуванні пролет
 Для безпілотника двері були відкриті навстіж.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1903.MP4" length="9190829" type="video/mp4"/>
       <pubDate>Sat, 04 Oct 2025 12:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок удару рф по пасажирс</title>
+      <link>https://www.mandarinai.lt/post/81301</link>
+      <description>Внаслідок удару рф по пасажирським потягам в Шосткинській громаді поранено 30 людей, - Свириденко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-04_13-33-25.jpg" length="261573" type="image/jpeg"/>
+      <pubDate>Sat, 04 Oct 2025 13:33:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
