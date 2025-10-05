@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 21:06:46 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Піхота сама важка і сама тр</title>
-      <link>https://www.mandarinai.lt/post/81380</link>
-      <description>💬 «Піхота сама важка і сама трудна робота», - молодший лейтенант з позивним «Риба», який воює з початку повномасштабного вторгнення, про те, як змінилась роль піхотинців в 54-ій ОМБР за весь період бойових дій.</description>
-      <pubDate>Sun, 05 Oct 2025 16:37:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 22:07:18 +0000</lastBuildDate>
     <item>
       <title>Бригада «Рубіж» в районі Покро</title>
       <link>https://www.mandarinai.lt/post/81381</link>
@@ -84,11 +78,16 @@
     <item>
       <title>Харків під масованим ударом. М</title>
       <link>https://www.mandarinai.lt/post/81393</link>
-      <description>Харків під масованим ударом. Мешканці нарахували 12 вибухів у місті. 
-
-Схоже, це спорадична «атвєтка» за Білгород.</description>
+      <description>Харків під масованим ударом. Мешканці нарахували 12 вибухів у місті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1953.MP4" length="1106480" type="video/mp4"/>
       <pubDate>Sun, 05 Oct 2025 20:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Пожежа на ТЕЦ в Брянській об</title>
+      <link>https://www.mandarinai.lt/post/81394</link>
+      <description>💥🔥Пожежа на ТЕЦ в Брянській області після ракетної атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-05_21-29-58.mp4" length="142470" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 21:29:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
