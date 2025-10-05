@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 20:08:45 +0000</lastBuildDate>
-    <item>
-      <title>‼️На Чернігівщині, яка зараз н</title>
-      <link>https://www.mandarinai.lt/post/81379</link>
-      <description>‼️На Чернігівщині, яка зараз найбільше потерпає від ударів по критичній інфраструктурі,чоловікам і жінкам від 18 років пропонують долучитися до сил ППО, — голова МВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_16-23-43.jpg" length="185058" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 16:23:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 21:06:46 +0000</lastBuildDate>
     <item>
       <title>💬 «Піхота сама важка і сама тр</title>
       <link>https://www.mandarinai.lt/post/81380</link>
@@ -87,6 +80,15 @@
       <description>👌</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-05_19-42-25.mp4" length="612392" type="video/mp4"/>
       <pubDate>Sun, 05 Oct 2025 19:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків під масованим ударом. М</title>
+      <link>https://www.mandarinai.lt/post/81393</link>
+      <description>Харків під масованим ударом. Мешканці нарахували 12 вибухів у місті. 
+
+Схоже, це спорадична «атвєтка» за Білгород.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1953.MP4" length="1106480" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 20:30:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
