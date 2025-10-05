@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 19:02:44 +0000</lastBuildDate>
-    <item>
-      <title>💡🗣"Ситуація стабільна і контро</title>
-      <link>https://www.mandarinai.lt/post/81375</link>
-      <description>💡🗣"Ситуація стабільна і контрольована": в "Укренерго" спростували фейк про нібито екстрені відключення світла по всій Україні
-
-Після масованої атаки у низці пабліків розповсюджується недостовірна інформація — шахраї візуально стилізують такі повідомлення під офіційну інформацію.
-
-❗️Наразі "Укренерго" не застосовує заходів обмеження споживання електроенергії у жодному з регіонів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_14-19-30.jpg" length="107253" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 14:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Китайські супутники могли до</title>
-      <link>https://www.mandarinai.lt/post/81376</link>
-      <description>❗️Китайські супутники могли допомогти наводити сьогоднішні російські удари по Львівщині, проліт щонайменше трьох розвідувальних супутників КНР відбувся сьогодні над заходом України, — Мілітарний</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_15-02-26.jpg" length="117713" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 15:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Львівщині російський  безпі</title>
-      <link>https://www.mandarinai.lt/post/81377</link>
-      <description>На Львівщині російський  безпілотник вбив 15-річну Анастасію Гриців та її родину, дівчина вчилася в 10 класі, — так написав Лапаївський ліцей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_15-16-30.jpg" length="66907" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 15:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Поліція оприлюднила кадри перш</title>
-      <link>https://www.mandarinai.lt/post/81378</link>
-      <description>Поліція оприлюднила кадри перших хвилин після ударів в Запоріжжі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1942.MP4" length="20594589" type="video/mp4"/>
-      <pubDate>Sun, 05 Oct 2025 15:44:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 20:08:45 +0000</lastBuildDate>
     <item>
       <title>‼️На Чернігівщині, яка зараз н</title>
       <link>https://www.mandarinai.lt/post/81379</link>
@@ -103,6 +71,22 @@
       <description>Моменти влучань в Білгороді</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1951.MP4" length="2273483" type="video/mp4"/>
       <pubDate>Sun, 05 Oct 2025 19:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Бєлгороді  пролунала серія </title>
+      <link>https://www.mandarinai.lt/post/81389</link>
+      <description>💥В Бєлгороді  пролунала серія вибухів, після яких частково зникло світло у декількох районах
+
+РосЗМІ пишуть про удар по підстанції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-05_19-39-10.mp4" length="606965" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 19:39:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌</title>
+      <link>https://www.mandarinai.lt/post/81392</link>
+      <description>👌</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-05_19-42-25.mp4" length="612392" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 19:42:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
