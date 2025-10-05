@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 08:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 09:07:34 +0000</lastBuildDate>
     <item>
       <title>🤬У Львові горить індустріальни</title>
       <link>https://www.mandarinai.lt/post/81351</link>
@@ -120,6 +120,22 @@
 Переглянути приклади робіт і розрахувати вартість за 1 хвилину</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-05_08-00-41.mp4" length="19125635" type="video/mp4"/>
       <pubDate>Sun, 05 Oct 2025 08:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії опублікували кадри зби</title>
+      <link>https://www.mandarinai.lt/post/81365</link>
+      <description>В росії опублікували кадри збиття гелікоптера Мі-8 українським дроном 59-ої бригади Сил безпілотних систем.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1927.MP4" length="6399701" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 08:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Поліція Мюнхена встановлює ла</title>
+      <link>https://www.mandarinai.lt/post/81366</link>
+      <description>👌Поліція Мюнхена встановлює лазери проти дронів, а в аеропорту готують сотні розкладушок для пасажирів
+
+Після інциденту в аеропорту Мюнхена поліція встановила лазерний пристрій біля однієї зі злітно-посадкових смуг. Це спеціальний автомобіль з лазерною установкою. Щоправда ця установка не збиває, а лише фіксує дрони😳</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_08-31-11.jpg" length="123804" type="image/jpeg"/>
+      <pubDate>Sun, 05 Oct 2025 08:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
