@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 09:07:34 +0000</lastBuildDate>
-    <item>
-      <title>🤬У Львові горить індустріальни</title>
-      <link>https://www.mandarinai.lt/post/81351</link>
-      <description>🤬У Львові горить індустріальний парк Sparrow. Цивільний об’єкт, без будь-якої військової складової, — мер Садовий
-
-Також є влучання по енергетичним об'єктам</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_05-41-38.jpg" length="102601" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 05:41:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Радіопереговори окупантів, які</title>
-      <link>https://www.mandarinai.lt/post/81352</link>
-      <description>Радіопереговори окупантів, які змогли перехопити розвідники 10-го армійського корпусу СВ, свідчать, що російський командир дав наказ розстріляти цивільних в селах північніше Купʼянська.
-
-З розмови виходить, що підлеглий робив так і раніше.
-
-Йдеться про населені пункти Радьківка і Голубівка, де намагаються закріпитись окупанти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1923.MP4" length="10288368" type="video/mp4"/>
-      <pubDate>Sun, 05 Oct 2025 06:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Жахливі кадри пожежі після уда</title>
-      <link>https://www.mandarinai.lt/post/81353</link>
-      <description>Жахливі кадри пожежі після удару по Sparrow у Львові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1924.MP4" length="708114" type="video/mp4"/>
-      <pubDate>Sun, 05 Oct 2025 06:04:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 10:08:08 +0000</lastBuildDate>
     <item>
       <title>ЗБІР ЗАКРИТО❗️
 
@@ -136,6 +109,31 @@
 Після інциденту в аеропорту Мюнхена поліція встановила лазерний пристрій біля однієї зі злітно-посадкових смуг. Це спеціальний автомобіль з лазерною установкою. Щоправда ця установка не збиває, а лише фіксує дрони😳</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_08-31-11.jpg" length="123804" type="image/jpeg"/>
       <pubDate>Sun, 05 Oct 2025 08:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент одного з ударів по місь</title>
+      <link>https://www.mandarinai.lt/post/81367</link>
+      <description>Момент одного з ударів по міській забудові Львова.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1929.MP4" length="4296701" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 09:23:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Диктатор і воєнний злочинець п</title>
+      <link>https://www.mandarinai.lt/post/81368</link>
+      <description>Диктатор і воєнний злочинець путін лякає Трампа «розривом відносин», якщо той передасть  Україні ракети Tomahawk</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1930.MP4" length="7430687" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 09:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відео, яке може вважатися дока</title>
+      <link>https://www.mandarinai.lt/post/81369</link>
+      <description>Відео, яке може вважатися доказом воєнного злочину на майбутньому трибуналі над росією.
+
+Оператор російського безпілотника атакує цивільну машину в Херсоні.
+
+Давно вже відомо, що нелюди розглядають місто Херсон, як полігон для тренування російських операторів FPV-дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1931.MP4" length="11135367" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 09:53:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
