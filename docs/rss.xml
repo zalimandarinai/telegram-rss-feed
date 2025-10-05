@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 14:07:00 +0000</lastBuildDate>
-    <item>
-      <title>Внаслідок прямого попадання в </title>
-      <link>https://www.mandarinai.lt/post/81359</link>
-      <description>Внаслідок прямого попадання в будинок в Лапаївці на Львівщині загинуло чотири цивільні людини, серед яких три жінки і один чоловік, ще одного чоловіка вдалося врятувати</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_07-20-46.jpg" length="376219" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 07:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️На сгорівших складах у Львов</title>
-      <link>https://www.mandarinai.lt/post/81360</link>
-      <description>❗️На сгорівших складах у Львові зберігався одяг польської компанії LPP (бренди одягу Cropp, House, Sinsay, Reserved, Mohito)
-
-Також на складах було багато тютюну, сигарет, електронних пристроїв.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-05_07-23-04.mp4" length="267903" type="video/mp4"/>
-      <pubDate>Sun, 05 Oct 2025 07:23:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 15:07:09 +0000</lastBuildDate>
     <item>
       <title>‼️Більше 50 ракет і близько 50</title>
       <link>https://www.mandarinai.lt/post/81362</link>
@@ -134,6 +118,24 @@
 Основний напрямок удару Львівщина.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_11-27-11.jpg" length="100454" type="image/jpeg"/>
       <pubDate>Sun, 05 Oct 2025 11:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💡🗣"Ситуація стабільна і контро</title>
+      <link>https://www.mandarinai.lt/post/81375</link>
+      <description>💡🗣"Ситуація стабільна і контрольована": в "Укренерго" спростували фейк про нібито екстрені відключення світла по всій Україні
+
+Після масованої атаки у низці пабліків розповсюджується недостовірна інформація — шахраї візуально стилізують такі повідомлення під офіційну інформацію.
+
+❗️Наразі "Укренерго" не застосовує заходів обмеження споживання електроенергії у жодному з регіонів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_14-19-30.jpg" length="107253" type="image/jpeg"/>
+      <pubDate>Sun, 05 Oct 2025 14:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Китайські супутники могли до</title>
+      <link>https://www.mandarinai.lt/post/81376</link>
+      <description>❗️Китайські супутники могли допомогти наводити сьогоднішні російські удари по Львівщині, проліт щонайменше трьох розвідувальних супутників КНР відбувся сьогодні над заходом України, — Мілітарний</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_15-02-26.jpg" length="117713" type="image/jpeg"/>
+      <pubDate>Sun, 05 Oct 2025 15:02:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
