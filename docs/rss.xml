@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 15:07:09 +0000</lastBuildDate>
-    <item>
-      <title>‼️Більше 50 ракет і близько 50</title>
-      <link>https://www.mandarinai.lt/post/81362</link>
-      <description>‼️Більше 50 ракет і близько 500 дронів рф запустила по Україні сьогодні, – Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_07-48-11.jpg" length="145074" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 07:48:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>😱У Львові в житловій забудові </title>
-      <link>https://www.mandarinai.lt/post/81363</link>
-      <description>😱У Львові в житловій забудові знайшли уламок російської ракети</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-05_07-54-40.mp4" length="769875" type="video/mp4"/>
-      <pubDate>Sun, 05 Oct 2025 07:54:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 16:08:52 +0000</lastBuildDate>
     <item>
       <title>Намалюють портрет на полотні, </title>
       <link>https://www.mandarinai.lt/post/81364</link>
@@ -136,6 +122,20 @@
       <description>❗️Китайські супутники могли допомогти наводити сьогоднішні російські удари по Львівщині, проліт щонайменше трьох розвідувальних супутників КНР відбувся сьогодні над заходом України, — Мілітарний</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_15-02-26.jpg" length="117713" type="image/jpeg"/>
       <pubDate>Sun, 05 Oct 2025 15:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Львівщині російський  безпі</title>
+      <link>https://www.mandarinai.lt/post/81377</link>
+      <description>На Львівщині російський  безпілотник вбив 15-річну Анастасію Гриців та її родину, дівчина вчилася в 10 класі, — так написав Лапаївський ліцей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_15-16-30.jpg" length="66907" type="image/jpeg"/>
+      <pubDate>Sun, 05 Oct 2025 15:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поліція оприлюднила кадри перш</title>
+      <link>https://www.mandarinai.lt/post/81378</link>
+      <description>Поліція оприлюднила кадри перших хвилин після ударів в Запоріжжі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1942.MP4" length="20594589" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 15:44:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
