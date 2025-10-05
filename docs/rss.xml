@@ -6,51 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 18:10:43 +0000</lastBuildDate>
-    <item>
-      <title>🤬Щойно русня двічі вдарила по </title>
-      <link>https://www.mandarinai.lt/post/81370</link>
-      <description>🤬Щойно русня двічі вдарила по АЗС в Чернігові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_11-03-17.jpg" length="41864" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 11:03:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Вночі ворог знову вдарив по </title>
-      <link>https://www.mandarinai.lt/post/81372</link>
-      <description>❗️Вночі ворог знову вдарив по цивільних об’єктах, які забезпечують українців газом у зимовий період, — Нафтогаз
-
-Є влучання та руйнування, фахівці вже працюють на місцях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_11-17-46.jpg" length="64013" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 11:17:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогоднішня арифметика повітря</title>
-      <link>https://www.mandarinai.lt/post/81374</link>
-      <description>Сьогоднішня арифметика повітряних ударів
-
-По Україні летіло 549 цілей.
-Збито 478 ракет і дронів.
-
-Дрони, «шахед», «гербера»:
-Летіло 496
-Збито і подавлено 439
-
-Ракети Х-47М2 «Кинджал»:
-Летіло 2
-Збито 1
-
-Ракети Х-101 та «Іскандер-К»:
-Летіло 42
-Збито 32
-
-Ракети ракет «Калібр»:
-Летіло 9
-Збито 6
-
-Основний напрямок удару Львівщина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_11-27-11.jpg" length="100454" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 11:27:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 19:02:44 +0000</lastBuildDate>
     <item>
       <title>💡🗣"Ситуація стабільна і контро</title>
       <link>https://www.mandarinai.lt/post/81375</link>
@@ -126,6 +82,27 @@
       <description>В найперші хвилини після російських ударів по Львівській області поліція обстежує місцевість, шукає людей і рятує постраждалих.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1946.MP4" length="27942641" type="video/mp4"/>
       <pubDate>Sun, 05 Oct 2025 17:23:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вибухі в Білгороді, зникло сві</title>
+      <link>https://www.mandarinai.lt/post/81385</link>
+      <description>Вибухі в Білгороді, зникло світло і водопостачання</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1948.MP4" length="10473500" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 18:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повідомляють, що в Білгороді г</title>
+      <link>https://www.mandarinai.lt/post/81386</link>
+      <description>Повідомляють, що в Білгороді горить міська електропідстанція «Луч»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_18-51-53.jpg" length="92413" type="image/jpeg"/>
+      <pubDate>Sun, 05 Oct 2025 18:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Моменти влучань в Білгороді</title>
+      <link>https://www.mandarinai.lt/post/81388</link>
+      <description>Моменти влучань в Білгороді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1951.MP4" length="2273483" type="video/mp4"/>
+      <pubDate>Sun, 05 Oct 2025 19:01:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
