@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 05:09:42 +0000</lastBuildDate>
-    <item>
-      <title>🤷‍♂️ Знову нинішні проросійськ</title>
-      <link>https://www.mandarinai.lt/post/81383</link>
-      <description>🤷‍♂️ Знову нинішні проросійські діячі знайшли «український слід» в справі про вчорашній штурм офіційних установ в Грузії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-05_17-17-07.jpg" length="106524" type="image/jpeg"/>
-      <pubDate>Sun, 05 Oct 2025 17:17:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>В найперші хвилини після росій</title>
-      <link>https://www.mandarinai.lt/post/81384</link>
-      <description>В найперші хвилини після російських ударів по Львівській області поліція обстежує місцевість, шукає людей і рятує постраждалих.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1946.MP4" length="27942641" type="video/mp4"/>
-      <pubDate>Sun, 05 Oct 2025 17:23:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вибухі в Білгороді, зникло сві</title>
-      <link>https://www.mandarinai.lt/post/81385</link>
-      <description>Вибухі в Білгороді, зникло світло і водопостачання</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1948.MP4" length="10473500" type="video/mp4"/>
-      <pubDate>Sun, 05 Oct 2025 18:48:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 06:14:19 +0000</lastBuildDate>
     <item>
       <title>Повідомляють, що в Білгороді г</title>
       <link>https://www.mandarinai.lt/post/81386</link>
@@ -78,6 +57,20 @@
       <description>💥🔥Після ураження безпілотниками найбільший паливний термінал Криму палає більше 4-х годин, почали вибухати цистерни.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-06_04-50-08.mp4" length="2591325" type="video/mp4"/>
       <pubDate>Mon, 06 Oct 2025 04:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️❗️Армія путіна просунулась п</title>
+      <link>https://www.mandarinai.lt/post/81399</link>
+      <description>⚔️❗️Армія путіна просунулась поблизу Новоіванівки, Ольгівського та Вишневого на Запоріжжі, а також у Терновому в Дніпропетровській області, — DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-06_05-47-57.jpg" length="55529" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 05:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Ще кадри ранкової зустрічі н</title>
+      <link>https://www.mandarinai.lt/post/81400</link>
+      <description>💥🔥Ще кадри ранкової зустрічі нафтобази Феодосії х добрими дронами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-06_05-49-59.jpg" length="58714" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 05:49:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
