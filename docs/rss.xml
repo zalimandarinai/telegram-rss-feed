@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 20:09:21 +0000</lastBuildDate>
-    <item>
-      <title>Словаччина вперше з моменту по</title>
-      <link>https://www.mandarinai.lt/post/81417</link>
-      <description>Словаччина вперше з моменту повернення до влади Роберта Фіцо в 2023 році анонсували новий пакет військової допомоги для України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-06_18-11-59.jpg" length="113897" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 18:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Один із найбільших НПЗ у росі</title>
-      <link>https://www.mandarinai.lt/post/81418</link>
-      <description>🔥Один із найбільших НПЗ у росії, Киришський, зупинив свою найпотужнішу установку первинної переробки нафти після атаки дронів, — Reuters.
-
-У 2024 цей НПЗ переробив 17,5 млн тонн нафти — це 6,6% загального обсягу нафтопереробки в росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-06_18-26-38.jpg" length="86872" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 18:26:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 21:07:32 +0000</lastBuildDate>
     <item>
       <title>Відмітки про збиті повітряні ц</title>
       <link>https://www.mandarinai.lt/post/81420</link>
@@ -95,6 +79,26 @@
 русня хизується, що окрім дронів атакує місто балістикою</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-06_20-07-57.mp4" length="1864317" type="video/mp4"/>
       <pubDate>Mon, 06 Oct 2025 20:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Близько двох десятків вибухів </title>
+      <link>https://www.mandarinai.lt/post/81434</link>
+      <description>Близько двох десятків вибухів пролунали у Харкові за 20 хвилин атаки БпЛА , — Терехов 
+
+За словами міського голови Харкова, у місті спалахнули декілька пожеж. 
+
+Інформації щодо постраждалих станом на зараз немає. 
+
+Очільник міста закликав жителів бути обережними, адже на Харків рухається нова група ворожих дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-06_20-34-29.mp4" length="946484" type="video/mp4"/>
+      <pubDate>Mon, 06 Oct 2025 20:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Я вже ухвалив рішення про відп</title>
+      <link>https://www.mandarinai.lt/post/81436</link>
+      <description>Я вже ухвалив рішення про відправку «Tomahawk» до України, але поставлю кілька питань, треба зрозуміти, як саме Україна буде їх використовувати, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1974.MP4" length="8109696" type="video/mp4"/>
+      <pubDate>Mon, 06 Oct 2025 20:57:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
