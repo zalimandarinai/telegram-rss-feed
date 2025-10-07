@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 17:07:50 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Ураження РЛС ворожого компле</title>
-      <link>https://www.mandarinai.lt/post/81461</link>
-      <description>💥🔥Ураження РЛС ворожого комплекса ППО С-400</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-07_13-37-17.mp4" length="923968" type="video/mp4"/>
-      <pubDate>Tue, 07 Oct 2025 13:37:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Оновлена ПКР «Нептун» збільшен</title>
-      <link>https://www.mandarinai.lt/post/81462</link>
-      <description>Оновлена ПКР «Нептун» збільшеної дальності до 1000 км, так званий «Товстий Нептун» з додатковими паливними баками, крилата ракета «Пекло» та морський дрон «Magura V7» із установкою «повітря-повітря», яка стріляє ракетами Р-73, під час презентації спроможностей українського ОПК премʼєрці Литви Інзі Ругінене.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-07_13-46-49.jpg" length="118601" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 13:46:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 18:13:01 +0000</lastBuildDate>
     <item>
       <title>🤡 путін мріє про безсмертя, — </title>
       <link>https://www.mandarinai.lt/post/81467</link>
@@ -67,6 +53,24 @@
 Представник Thales у Бельгії, де, зокрема, виробляють такі ракети, підтвердив постачання озброєння Україні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-07_15-27-28.jpg" length="39861" type="image/jpeg"/>
       <pubDate>Tue, 07 Oct 2025 15:27:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Весь Єкатеринбург зараз бачить</title>
+      <link>https://www.mandarinai.lt/post/81475</link>
+      <description>Весь Єкатеринбург зараз бачить, як горить Уральський турбінний завод, який виробляє обладнання для електростанцій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2008.MP4" length="3618907" type="video/mp4"/>
+      <pubDate>Tue, 07 Oct 2025 17:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські військові звільнили</title>
+      <link>https://www.mandarinai.lt/post/81476</link>
+      <description>Українські військові звільнили село Січневе на Дніпропетровщині, повідомила 141-а окрема механізована бригада
+
+Штурм та зачистку провели бійці підрозділу «Шквал», до якого входять ті, хто був раніше засуджений і погодився на те, щоб підписати контракт та служити в бригаді.
+
+Бійці «Шквалу» 141-ої ОМБР зачистили населений пункт і вісім окупантів захопили у полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1994.MP4" length="12027902" type="video/mp4"/>
+      <pubDate>Tue, 07 Oct 2025 18:03:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
