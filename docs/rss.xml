@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 20:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 21:07:21 +0000</lastBuildDate>
     <item>
       <title>🤡 путін мріє про безсмертя, — </title>
       <link>https://www.mandarinai.lt/post/81467</link>
@@ -78,6 +78,13 @@
       <description>Бійці підрозділу ударних БПЛА 27-ї Печерської бригади НГУ спалили ТОС-1А «Солнцепьок» в Запорізькій області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2010.MP4" length="24723611" type="video/mp4"/>
       <pubDate>Tue, 07 Oct 2025 19:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Влучання ракети російської ПП</title>
+      <link>https://www.mandarinai.lt/post/81479</link>
+      <description>💥Влучання ракети російської ППО в будинок у Бєлгороді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-07_20-54-11.mp4" length="998341" type="video/mp4"/>
+      <pubDate>Tue, 07 Oct 2025 20:54:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
