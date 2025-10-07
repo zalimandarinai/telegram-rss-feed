@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 04:10:30 +0000</lastBuildDate>
-    <item>
-      <title>Відмітки про збиті повітряні ц</title>
-      <link>https://www.mandarinai.lt/post/81420</link>
-      <description>Відмітки про збиті повітряні цілі на фюзеляжі транспортного літака Ан-28 Повітряних Сил, який залучався до протидії дронам</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-06_18-36-40.jpg" length="127151" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 18:36:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 05:09:08 +0000</lastBuildDate>
     <item>
       <title>‼️В ДПСУ пояснили, що розформу</title>
       <link>https://www.mandarinai.lt/post/81423</link>
@@ -28,17 +21,6 @@
 Очільник ДПСУ також наголосив, що будь-які спекуляції про начебто направлення фахівців БПЛА в піхоту, які поширюються, відверта брехня.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-06_19-05-01.jpg" length="138952" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 19:05:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Поки місцева влада в Тюмені пе</title>
-      <link>https://www.mandarinai.lt/post/81425</link>
-      <description>Поки місцева влада в Тюмені переконує, що ніяких БПЛА не було, народні журналісти фіксують масовий виїзд екстрених служб у бік Антипінського НПЗ, що викликало резонанс у соцмережах.
-
-В районі НПЗ було чутно сильний звук.
-
-Деякі місцеві медіа уточнювали, що нібито три апарати знешкоджені на підльоті або на самій території підприємства, яке знаходиться за 2500 кілометрів від українських кордонів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1971.MP4" length="1562980" type="video/mp4"/>
-      <pubDate>Mon, 06 Oct 2025 19:30:06 +0000</pubDate>
     </item>
     <item>
       <title>🇷🇺В Бєлгороді теж вибухи і зни</title>
@@ -99,6 +81,20 @@
       <description>Я вже ухвалив рішення про відправку «Tomahawk» до України, але поставлю кілька питань, треба зрозуміти, як саме Україна буде їх використовувати, — Трамп</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1974.MP4" length="8109696" type="video/mp4"/>
       <pubDate>Mon, 06 Oct 2025 20:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️В Полтаві росіяни вдарили по</title>
+      <link>https://www.mandarinai.lt/post/81437</link>
+      <description>‼️В Полтаві росіяни вдарили по об'єктах енергетики</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-07_04-50-05.jpg" length="162547" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 04:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В Нижньому Новгороді вночі б</title>
+      <link>https://www.mandarinai.lt/post/81438</link>
+      <description>💥🔥В Нижньому Новгороді вночі було гучно і зникло світло, а в Ярославлі закрили аеропорт</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-07_04-54-00.mp4" length="2979360" type="video/mp4"/>
+      <pubDate>Tue, 07 Oct 2025 04:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
