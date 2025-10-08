@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 05:09:13 +0000</lastBuildDate>
-    <item>
-      <title>🔥🔥🔥У Феодосії третю добу палає</title>
-      <link>https://www.mandarinai.lt/post/81471</link>
-      <description>🔥🔥🔥У Феодосії третю добу палає атакований дронами морський нафтовий термінал.  Вогонь розповсюдився на сусідні резервуари</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-07_14-36-21.mp4" length="923910" type="video/mp4"/>
-      <pubDate>Tue, 07 Oct 2025 14:36:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪🔥"Стінгер" проти "Шахеда" – Б</title>
-      <link>https://www.mandarinai.lt/post/81472</link>
-      <description>💪🔥"Стінгер" проти "Шахеда" – Бойова робота мобільної вогневої групи 114-ї бригади тактичної авіації Повітряного командування "Захід" на західному напрямку 🔥</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-07_15-22-21.mp4" length="669261" type="video/mp4"/>
-      <pubDate>Tue, 07 Oct 2025 15:22:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 06:13:56 +0000</lastBuildDate>
     <item>
       <title>💪💥В Україні почали збивати «ша</title>
       <link>https://www.mandarinai.lt/post/81473</link>
@@ -81,6 +67,31 @@
 росіяни били по критичній інфраструктурі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-08_04-39-05.mp4" length="400648" type="video/mp4"/>
       <pubDate>Wed, 08 Oct 2025 04:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Вночі російські дрони знову</title>
+      <link>https://www.mandarinai.lt/post/81489</link>
+      <description>‼️ Вночі російські дрони знову атакували об’єкти енергетики — внаслідок удару по ТЕС поранено співробітників, серйозно пошкоджене обладнання електростанції, — ДТЕК</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-08_05-47-11.jpg" length="90033" type="image/jpeg"/>
+      <pubDate>Wed, 08 Oct 2025 05:47:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>😥 Діти під обстрілом. Криворіж</title>
+      <link>https://www.mandarinai.lt/post/81490</link>
+      <description>😥 Діти під обстрілом. Криворіжжя вночі атакували КАБи та щонайменше 20 ударних дронів
+
+Внаслідок атаки на Дніпропетровщину постраждали 5 людей, — ОВА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-08_05-57-55.mp4" length="1874061" type="video/mp4"/>
+      <pubDate>Wed, 08 Oct 2025 05:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪Нова українська стратегія на </title>
+      <link>https://www.mandarinai.lt/post/81491</link>
+      <description>💪Нова українська стратегія на фронті приносить дивовижні результати. Україна має шанси виграти війну на виснаження, – Atlantic.
+
+росія розраховувала на швидке просування на північному сході України, але ключові міста та стратегічні вузли досі під контролем ЗСУ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-08_06-10-41.jpg" length="40899" type="image/jpeg"/>
+      <pubDate>Wed, 08 Oct 2025 06:10:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
