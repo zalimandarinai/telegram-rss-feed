@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 20:09:47 +0000</lastBuildDate>
-    <item>
-      <title>Штурм Костянтинівки зупинили б</title>
-      <link>https://www.mandarinai.lt/post/81523</link>
-      <description>Штурм Костянтинівки зупинили бійці підрозділу ДПСУ «Фенікс».
-
-Скориставшись погодою, противник здійснив спробу захопити Костянтинівку на Донеччині. 
-
-В хід пішла важка бронетехніка.
-
-У співпраці з суміжними підрозділами «Фенікс» не дозволив ворогу просунутися ані на метр. 
-
-Спочатку ворога атакували оператори FPV-дронів, а потім БПЛА «Вампір» підпалили бронемашини.
-
-Знищено: 1 танк, 2 ББМ, 1 БМП.
-Уражено: 3 танки, 4 ББМ, 1 БМД, 1 МТЛБ.
-
-Також в ході відбиття ворожого штурму було виявлено та знищено гармату, під прикриттям якої відбувалася атака.</description>
-      <pubDate>Wed, 08 Oct 2025 16:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Під час контрбатарейної бороть</title>
-      <link>https://www.mandarinai.lt/post/81524</link>
-      <description>Під час контрбатарейної боротьби на Донеччині підрозділи 55-ої ОАБР «Запорізька Січ» виявляють та знищують справжні раритети.
-
-Наприклад, гаубицю МЛ-20, яка випускалась в СРСР що до Другої світової.
-
-Ймовірно, російські склади виснажуються.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2043.MP4" length="8864246" type="video/mp4"/>
-      <pubDate>Wed, 08 Oct 2025 16:48:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 21:07:37 +0000</lastBuildDate>
     <item>
       <title>Погодив СБУ деякі асиметричні </title>
       <link>https://www.mandarinai.lt/post/81526</link>
@@ -125,6 +95,17 @@ https://send.monobank.ua/jar/6TUXhw32RE
       <description>В Києві затримали громадянина Молдови, його підозрюють у підпалі релейних шаф «Укрзалізниці» на замовлення російських спецслужб, крім того, він, судячи по пакетиках з кокаїном, торгував наркотиками.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-08_20-00-04.jpg" length="48617" type="image/jpeg"/>
       <pubDate>Wed, 08 Oct 2025 20:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чехія хоче передати Україні тр</title>
+      <link>https://www.mandarinai.lt/post/81541</link>
+      <description>Чехія хоче передати Україні три десятки модернізованих танків Т-72, - «Radio Prague International»
+
+Начальник Генерального штабу Збройних сил Чехії Карел Ржегка рекомендуватиме уряду безкоштовно передати Україні 30 танків Т-72М4CZ, ремонт яких завершує державне підприємство VOP CZ. 
+
+Танки Т-72М4CZ мають британський двигун Perkins потужністю в 1000 кінських сил, систему динамічного захисту від кумулятивних боєприпасів DYNA-72 та електромагнітну систему протидії мінам TRALL спільної чеської-ізраїльської розробки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-08_20-17-19.jpg" length="206568" type="image/jpeg"/>
+      <pubDate>Wed, 08 Oct 2025 20:17:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
