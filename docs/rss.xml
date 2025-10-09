@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 18:12:35 +0000</lastBuildDate>
-    <item>
-      <title>Наш вертоліт Мі-8 збиває з бли</title>
-      <link>https://www.mandarinai.lt/post/81579</link>
-      <description>Наш вертоліт Мі-8 збиває з близької відстані кулеметним вогнем БПЛА «Shahed-136» під час однієї з нічних атак.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2094.MP4" length="2509360" type="video/mp4"/>
-      <pubDate>Thu, 09 Oct 2025 14:58:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 19:07:37 +0000</lastBuildDate>
     <item>
       <title>❗️ США можуть передати Україні</title>
       <link>https://www.mandarinai.lt/post/81580</link>
@@ -88,6 +81,27 @@
       <description>🤔 Заявлене, як уламки збитої «Фламінго», русня пише, що велика, летить низько, але, якщо запустять багато, тоді будуть проблеми</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-09_18-01-05.jpg" length="153584" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 18:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>В прифронтовій Костянтинівці г</title>
+      <link>https://www.mandarinai.lt/post/81594</link>
+      <description>В прифронтовій Костянтинівці горить Свято-Успенська церква після атаки російських дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2100.MP4" length="21452862" type="video/mp4"/>
+      <pubDate>Thu, 09 Oct 2025 18:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Війна з Ізраїлем закінчена, - </title>
+      <link>https://www.mandarinai.lt/post/81595</link>
+      <description>Війна з Ізраїлем закінчена, - глава ХАМАС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2102.MP4" length="3909292" type="video/mp4"/>
+      <pubDate>Thu, 09 Oct 2025 18:38:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Феодосії четвертий день гори</title>
+      <link>https://www.mandarinai.lt/post/81596</link>
+      <description>В Феодосії четвертий день горить «Морський нафтовий термінал», який був атакований ще 6 жовтня українськими дронами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2103.MP4" length="4036469" type="video/mp4"/>
+      <pubDate>Thu, 09 Oct 2025 18:54:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
