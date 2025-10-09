@@ -6,19 +6,18 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 22:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 23:08:20 +0000</lastBuildDate>
     <item>
       <title>💪Ліквідація ворожих груп в Куп</title>
-      <link>https://www.mandarinai.lt/post/81586</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💪Ліквідація ворожих груп в Купʼянську бійцями 19-го Центру спеціального призначення ВСП</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-09_16-57-31.mp4" length="12152675" type="video/mp4"/>
       <pubDate>Thu, 09 Oct 2025 16:57:31 +0000</pubDate>
     </item>
     <item>
       <title>❗️ А це вже цікаво.
 
 🪖 Про пер</title>
-      <link>https://www.mandarinai.lt/post/81587</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ А це вже цікаво.
 
 🪖 Про передачу Україні неназваної, але «дуже потужної зброї», каже не тільки колишній генерал, а й діючий функціонер команди Дональда Трампа.
@@ -28,15 +27,7 @@
 🚀 За словами Уітакера, ця зброя може завдати «серйозних збитків» росіянам у будь-якому місці та в будь-який час. 
 
 💬 «І деякі її види потенційно можуть перекидатися до України для використання, отже, це може змінити розрахунки», - повторив він, по суті, те, що сказав Бен Годжес, і ці слова прозвучали на конференції з безпекових питань в Ризі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2098.MP4" length="20559770" type="video/mp4"/>
       <pubDate>Thu, 09 Oct 2025 17:17:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українська протиповітряна обор</title>
-      <link>https://www.mandarinai.lt/post/81588</link>
-      <description>Українська протиповітряна оборона в Європі, - заявлене, як тренування українцями ППО в Данії і підготовка до протидії російським дронам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2099.MP4" length="4451134" type="video/mp4"/>
-      <pubDate>Thu, 09 Oct 2025 18:00:19 +0000</pubDate>
     </item>
     <item>
       <title>🤔 Заявлене, як уламки збитої «</title>
@@ -65,6 +56,13 @@
       <description>В Феодосії четвертий день горить «Морський нафтовий термінал», який був атакований ще 6 жовтня українськими дронами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2103.MP4" length="4036469" type="video/mp4"/>
       <pubDate>Thu, 09 Oct 2025 18:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Броварах під Києвом шахед </title>
+      <link>https://www.mandarinai.lt/post/81601</link>
+      <description>⚡️У Броварах під Києвом шахед впав на будинок. Сильна пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-09_22-25-39.jpg" length="62145" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 22:25:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
