@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 11:07:45 +0000</lastBuildDate>
-    <item>
-      <title>Росіяни повторно вдарили по ря</title>
-      <link>https://www.mandarinai.lt/post/81557</link>
-      <description>Росіяни повторно вдарили по рятувальній групі ДСНС, коли та працювала на місці удару безпілотника в селі Жадове на Чернігівщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-09_08-55-32.jpg" length="124013" type="image/jpeg"/>
-      <pubDate>Thu, 09 Oct 2025 08:55:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 12:16:59 +0000</lastBuildDate>
     <item>
       <title>Газ за газ, - «в цю гру можна </title>
       <link>https://www.mandarinai.lt/post/81560</link>
@@ -117,6 +110,21 @@
       <description>Момент прильоту по нафтобазі в місті Матвіїв Курган на Ростовщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2084.MP4" length="7167104" type="video/mp4"/>
       <pubDate>Thu, 09 Oct 2025 10:44:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ встановила особу російсько</title>
+      <link>https://www.mandarinai.lt/post/81571</link>
+      <description>СБУ встановила особу російського командира, який віддав наказ розстріляти цивільних в районі Куп'янська
+
+Йдеться про випадок, коли російські військові 2 жовтня 2025 року вбили трьох цивільних громадян України.
+
+Наказ на розстріл, за даними СБУ, дав підполковник Андрій Сиротюк, командир 121-го полку 68-ї мотострілецької дивізії 6-ї загальновійськової армії рф.
+
+Для того, щоб посіяти паніку у прифронтовому місті, росіяни в цивільному вбранні під виглядом місцевих жителів проникли на околиці Куп’янська. 
+
+Тоді окупанти розстріляли двох чоловіків та жінку, які намагалися евакуюватися з міста вглиб території України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-09_11-19-30.jpg" length="87418" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 11:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
