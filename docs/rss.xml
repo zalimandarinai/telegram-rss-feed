@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 02:15:54 +0000</lastBuildDate>
-    <item>
-      <title>Погодив СБУ деякі асиметричні </title>
-      <link>https://www.mandarinai.lt/post/81526</link>
-      <description>Погодив СБУ деякі асиметричні наші відповіді, - Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2044.MP4" length="1050813" type="video/mp4"/>
-      <pubDate>Wed, 08 Oct 2025 17:39:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 03:25:39 +0000</lastBuildDate>
     <item>
       <title>❗️ТЕРМІНОВИЙ ЗБІР❗️
 
@@ -106,6 +99,22 @@ https://send.monobank.ua/jar/6TUXhw32RE
 Танки Т-72М4CZ мають британський двигун Perkins потужністю в 1000 кінських сил, систему динамічного захисту від кумулятивних боєприпасів DYNA-72 та електромагнітну систему протидії мінам TRALL спільної чеської-ізраїльської розробки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-08_20-17-19.jpg" length="206568" type="image/jpeg"/>
       <pubDate>Wed, 08 Oct 2025 20:17:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ізраїль і ХАМАС підписали пе</title>
+      <link>https://www.mandarinai.lt/post/81543</link>
+      <description>❗️Ізраїль і ХАМАС підписали першу фазу мирного плану, заявив Трамп у Truth Social.
+
+Президент США уточнив, що всі ізраїльські заручники «будуть дуже скоро звільнені, а Ізраїль виведе свої війська до узгодженої лінії».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-09_02-47-41.jpg" length="62708" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 02:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Волгоградській області післ</title>
+      <link>https://www.mandarinai.lt/post/81544</link>
+      <description>🔥У Волгоградській області після атаки БпЛА палає в районі підприємства "Лукойл", наслідки уточнюються.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-09_02-52-47.mp4" length="805616" type="video/mp4"/>
+      <pubDate>Thu, 09 Oct 2025 02:52:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
