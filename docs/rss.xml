@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 16:11:03 +0000</lastBuildDate>
-    <item>
-      <title>🤬Кадри прильотів по енергетичн</title>
-      <link>https://www.mandarinai.lt/post/81645</link>
-      <description>🤬Кадри прильотів по енергетичному об'єкту в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-10_11-19-51.mp4" length="1567069" type="video/mp4"/>
-      <pubDate>Fri, 10 Oct 2025 11:19:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 17:08:09 +0000</lastBuildDate>
     <item>
       <title>Майже біблейська картина. Нато</title>
       <link>https://www.mandarinai.lt/post/81647</link>
@@ -55,6 +48,15 @@
 За межами баз Бундесвер має право лише допомагати у виявленні дронів або передавати інформацію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-10_13-38-15.jpg" length="110192" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 13:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Львів відкладає початок опал</title>
+      <link>https://www.mandarinai.lt/post/81651</link>
+      <description>❗️Львів відкладає початок опалювального сезону на кілька тижнів через обстріли рф, – мер Садовий
+
+Підготувати буржуйки, ліхтарики та теплий одяг закликали у Львівській міськраді.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-10_13-46-12.jpg" length="45366" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 13:46:12 +0000</pubDate>
     </item>
     <item>
       <title>🤝 Норвегія та Нідерланди готов</title>
@@ -104,6 +106,17 @@
 Напепедодні путін сказав, що премія втратила свій статус, адже Трамп «дійсно вирішує світові кризи».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-10_15-47-58.jpg" length="121507" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 15:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Без світла частина міста Рівне</title>
+      <link>https://www.mandarinai.lt/post/81659</link>
+      <description>Без світла частина міста Рівне після російської атаки
+
+Подекуди не працюють світлофори.
+
+Рух тролейбусів зупинено.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2138.MP4" length="5611620" type="video/mp4"/>
+      <pubDate>Fri, 10 Oct 2025 16:24:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
