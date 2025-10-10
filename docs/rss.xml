@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 12:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 13:19:41 +0000</lastBuildDate>
     <item>
       <title>СБУ затримала одного із керівн</title>
       <link>https://www.mandarinai.lt/post/81635</link>
@@ -96,6 +96,14 @@ https://send.monobank.ua/jar/2AmafUhdCu
 Пошкодження значні, але не критичні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-10_11-46-42.jpg" length="292731" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 11:46:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️💣➡️ «Закидали «беху» граната</title>
+      <link>https://www.mandarinai.lt/post/81649</link>
+      <description>❗️💣➡️ «Закидали «беху» гранатами», - батарея управління та артилерійської розвідки 110-ої бригади, як кажуть наші союзники, back in town
+
+🎥 110-а ОМБр</description>
+      <pubDate>Fri, 10 Oct 2025 12:33:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
