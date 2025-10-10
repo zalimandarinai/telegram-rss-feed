@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 10:10:15 +0000</lastBuildDate>
-    <item>
-      <title>Наслідки сьогоднішнього російс</title>
-      <link>https://www.mandarinai.lt/post/81625</link>
-      <description>Наслідки сьогоднішнього російського удару в Броварах поруч з Києвом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2109.MP4" length="4653039" type="video/mp4"/>
-      <pubDate>Fri, 10 Oct 2025 07:15:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 11:07:39 +0000</lastBuildDate>
     <item>
       <title>Збито і подавлено 420 з 497 ці</title>
       <link>https://www.mandarinai.lt/post/81628</link>
@@ -103,6 +96,26 @@
       <description>❗️ Момент прильоту ворожого дрона на Полтавщині.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2124.MP4" length="8671963" type="video/mp4"/>
       <pubDate>Fri, 10 Oct 2025 09:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів ДПСУ в Херсон</title>
+      <link>https://www.mandarinai.lt/post/81639</link>
+      <description>Оператори дронів ДПСУ в Херсонській області знищили три позиції та транспорт окупантів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2125.MP4" length="11933700" type="video/mp4"/>
+      <pubDate>Fri, 10 Oct 2025 10:24:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрони FP-2 з бойовою частиною </title>
+      <link>https://www.mandarinai.lt/post/81640</link>
+      <description>Дрони FP-2 з бойовою частиною більше 100 кг, якими керують розрахунки ЦСО «А» СБУ, розвалюють місця базування російської техніки в тилу противника на тимчасово окупованій території.</description>
+      <pubDate>Fri, 10 Oct 2025 10:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Через українські атаки по НПЗ </title>
+      <link>https://www.mandarinai.lt/post/81641</link>
+      <description>Через українські атаки по НПЗ виробництво російських нафтопродуктів скоротилось на 21%, - Сирський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-10_10-48-24.jpg" length="21575" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 10:48:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
