@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 11:03:38 +0000</lastBuildDate>
-    <item>
-      <title>На параді до 80-річчя правлячо</title>
-      <link>https://www.mandarinai.lt/post/81674</link>
-      <description>На параді до 80-річчя правлячої Трудової партії в КНДР показали «Hwasong-20», свою найпотужнішу ядерну ракету, як заявлено місцевими ЗМІ
-
-Вона нібито може долати до 15000 км, несе кілька ядерних боєголовок. На ній встановлено твердопаливний двигун.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-11_07-56-01.jpg" length="77077" type="image/jpeg"/>
-      <pubDate>Sat, 11 Oct 2025 07:56:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 12:14:38 +0000</lastBuildDate>
     <item>
       <title>До російського міста Волгоград</title>
       <link>https://www.mandarinai.lt/post/81678</link>
@@ -119,6 +110,34 @@
       <description>Оператор БПЛА батальйону «SIGNUM» 53-ої механізованої бригади веде свій дрон з ювелірною точністю крізь хащі, щоб ліквідувати російського окупанта.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2154.MP4" length="23842948" type="video/mp4"/>
       <pubDate>Sat, 11 Oct 2025 10:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шматок «шахеда» влетів прямо д</title>
+      <link>https://www.mandarinai.lt/post/81688</link>
+      <description>Шматок «шахеда» влетів прямо до квартири черех вікно під час нічної атаки в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2155.MP4" length="10453593" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 11:17:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Велика Британія достроково пер</title>
+      <link>https://www.mandarinai.lt/post/81689</link>
+      <description>Велика Британія достроково передала Україні сотні ракет для ППО.
+
+Йдеться про ракети Lightweight Multirole Missiles, які ЗСУ використовують уже кілька років. 
+
+Лондон зміг передати Україні нову партію на 5 місяців раніше, повідомляє уряд Сполученого Королівства.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-11_11-29-04.jpg" length="68067" type="image/jpeg"/>
+      <pubDate>Sat, 11 Oct 2025 11:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Іскандер-К» впав в селі під Ч</title>
+      <link>https://www.mandarinai.lt/post/81690</link>
+      <description>«Іскандер-К» впав в селі під Черніговом
+
+Бойова частина крилатої ракети масою 480 кг не спрацювала.
+
+Команда ДСНС з розмінування змогла вивезти і ліквідувати начинку російської ракети.</description>
+      <pubDate>Sat, 11 Oct 2025 11:43:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
