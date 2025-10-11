@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 09:08:13 +0000</lastBuildDate>
-    <item>
-      <title>‼️Одеса частково без світла: в</title>
-      <link>https://www.mandarinai.lt/post/81668</link>
-      <description>‼️Одеса частково без світла: вночі рф масовано атакувала місто шахедами.
-
-Є прильоти по енергетиці, світло зникло щонайменше у 5 районах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-11_06-38-35.mp4" length="1120843" type="video/mp4"/>
-      <pubDate>Sat, 11 Oct 2025 06:38:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 10:07:46 +0000</lastBuildDate>
     <item>
       <title>🔥русня ниє, що втратила бойови</title>
       <link>https://www.mandarinai.lt/post/81671</link>
@@ -79,6 +70,31 @@
 Відео: CBS</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-11_08-54-37.mp4" length="7222221" type="video/mp4"/>
       <pubDate>Sat, 11 Oct 2025 08:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В підмосковній Електросталі р</title>
+      <link>https://www.mandarinai.lt/post/81681</link>
+      <description>🔥В підмосковній Електросталі раптово спалахнув склад</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-11_09-10-18.mp4" length="702347" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 09:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Маємо успіхи в реалізації пр</title>
+      <link>https://www.mandarinai.lt/post/81682</link>
+      <description>💥🔥Маємо успіхи в реалізації програми DeepStrike. Минулого місяця кількість уражень по території рф довели до 70, - Сирський
+
+Нищимо в країні-агресорі виробництво пально-мастильних матеріалів, вибухових речовин, інші складові російського воєнно-промислового комплексу. Зокрема переробку нафти в росії зменшено на 21%.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-11_09-14-11.jpg" length="80119" type="image/jpeg"/>
+      <pubDate>Sat, 11 Oct 2025 09:14:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Латвія вишле понад 800 росіян</title>
+      <link>https://www.mandarinai.lt/post/81683</link>
+      <description>👌Латвія вишле понад 800 росіян, які не склали іспит з мови, — Politico
+
+Влада Латвії зобов'язала 841 громадян рф, які не змогли підтвердити знання латиської мови, до 13 жовтня залишити країну. Якщо вони не зроблять це самостійно, їх буде депортовано.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-11_09-26-29.jpg" length="164916" type="image/jpeg"/>
+      <pubDate>Sat, 11 Oct 2025 09:26:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
