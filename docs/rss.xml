@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 13:13:34 +0000</lastBuildDate>
-    <item>
-      <title>До російського міста Волгоград</title>
-      <link>https://www.mandarinai.lt/post/81678</link>
-      <description>До російського міста Волгоград сьогодні теж долетіла зграя дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2148.MP4" length="2069764" type="video/mp4"/>
-      <pubDate>Sat, 11 Oct 2025 08:36:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 14:04:43 +0000</lastBuildDate>
     <item>
       <title>Мер Харкова Терехов, в контекс</title>
       <link>https://www.mandarinai.lt/post/81679</link>
@@ -138,6 +131,14 @@
 
 Команда ДСНС з розмінування змогла вивезти і ліквідувати начинку російської ракети.</description>
       <pubDate>Sat, 11 Oct 2025 11:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безпілотник «Молнія» недовго г</title>
+      <link>https://www.mandarinai.lt/post/81692</link>
+      <description>Безпілотник «Молнія» недовго ганявся за українцями біля Сіверська, адже був вдало приземлений ротою радіоелектронної боротьби «Спектр». Командир роти з позивним «Фін» знайшов, де впала небезпечна «Молнія», та разом зі своїми бійцями знешкодив її. Цей унікальний підрозділ 54-ої ОМБР за день може посадити до сотні російських дронів різних типів. Засоби підрозділу «Спектр» перехоплюють відеосигнал «Молній», і український оператор РЕБ бачить те ж саме, що й російський окупант на своєму моніторі. 
+
+Тут можна подивитись, як це працює https://www.youtube.com/watch?v=X4ttkrECc8M</description>
+      <pubDate>Sat, 11 Oct 2025 13:26:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
