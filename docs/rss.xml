@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 17:03:48 +0000</lastBuildDate>
-    <item>
-      <title>Оператор БПЛА батальйону «SIGN</title>
-      <link>https://www.mandarinai.lt/post/81687</link>
-      <description>Оператор БПЛА батальйону «SIGNUM» 53-ої механізованої бригади веде свій дрон з ювелірною точністю крізь хащі, щоб ліквідувати російського окупанта.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2154.MP4" length="23842948" type="video/mp4"/>
-      <pubDate>Sat, 11 Oct 2025 10:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Шматок «шахеда» влетів прямо д</title>
-      <link>https://www.mandarinai.lt/post/81688</link>
-      <description>Шматок «шахеда» влетів прямо до квартири черех вікно під час нічної атаки в Одесі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2155.MP4" length="10453593" type="video/mp4"/>
-      <pubDate>Sat, 11 Oct 2025 11:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Велика Британія достроково пер</title>
-      <link>https://www.mandarinai.lt/post/81689</link>
-      <description>Велика Британія достроково передала Україні сотні ракет для ППО.
-
-Йдеться про ракети Lightweight Multirole Missiles, які ЗСУ використовують уже кілька років. 
-
-Лондон зміг передати Україні нову партію на 5 місяців раніше, повідомляє уряд Сполученого Королівства.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-11_11-29-04.jpg" length="68067" type="image/jpeg"/>
-      <pubDate>Sat, 11 Oct 2025 11:29:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 18:10:02 +0000</lastBuildDate>
     <item>
       <title>«Іскандер-К» впав в селі під Ч</title>
       <link>https://www.mandarinai.lt/post/81690</link>
@@ -77,6 +52,20 @@
       <description>Перебої з електроенергією в російському Білгороді. Ймовірно, атакована ТЕЦ «Луч». Це вже не перша атака, днями у місті був блекаут після влучання в неї.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2161.MP4" length="1497936" type="video/mp4"/>
       <pubDate>Sat, 11 Oct 2025 16:58:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺Ще вечірній Бєлгород</title>
+      <link>https://www.mandarinai.lt/post/81701</link>
+      <description>🇷🇺Ще вечірній Бєлгород</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-11_17-33-02.mp4" length="9562996" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 17:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>В ствол окупантам, - оператор </title>
+      <link>https://www.mandarinai.lt/post/81703</link>
+      <description>В ствол окупантам, - оператор безпілотника 3-ої штурмової бригади спробував підірвати ворожий танк, пошкодивши гармату зсередини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2165.MP4" length="24755382" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 17:59:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
