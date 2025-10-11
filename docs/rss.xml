@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 18:10:02 +0000</lastBuildDate>
-    <item>
-      <title>«Іскандер-К» впав в селі під Ч</title>
-      <link>https://www.mandarinai.lt/post/81690</link>
-      <description>«Іскандер-К» впав в селі під Черніговом
-
-Бойова частина крилатої ракети масою 480 кг не спрацювала.
-
-Команда ДСНС з розмінування змогла вивезти і ліквідувати начинку російської ракети.</description>
-      <pubDate>Sat, 11 Oct 2025 11:43:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Безпілотник «Молнія» недовго г</title>
-      <link>https://www.mandarinai.lt/post/81692</link>
-      <description>Безпілотник «Молнія» недовго ганявся за українцями біля Сіверська, адже був вдало приземлений ротою радіоелектронної боротьби «Спектр». Командир роти з позивним «Фін» знайшов, де впала небезпечна «Молнія», та разом зі своїми бійцями знешкодив її. Цей унікальний підрозділ 54-ої ОМБР за день може посадити до сотні російських дронів різних типів. Засоби підрозділу «Спектр» перехоплюють відеосигнал «Молній», і український оператор РЕБ бачить те ж саме, що й російський окупант на своєму моніторі. 
-
-Тут можна подивитись, як це працює https://www.youtube.com/watch?v=X4ttkrECc8M</description>
-      <pubDate>Sat, 11 Oct 2025 13:26:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 19:03:14 +0000</lastBuildDate>
     <item>
       <title>Росіяни скинули авіабомбу на х</title>
       <link>https://www.mandarinai.lt/post/81694</link>
@@ -66,6 +48,31 @@
       <description>В ствол окупантам, - оператор безпілотника 3-ої штурмової бригади спробував підірвати ворожий танк, пошкодивши гармату зсередини</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2165.MP4" length="24755382" type="video/mp4"/>
       <pubDate>Sat, 11 Oct 2025 17:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Серйозні бої почалися на  аф</title>
+      <link>https://www.mandarinai.lt/post/81704</link>
+      <description>⚡️Серйозні бої почалися на  афгансько-пакистанському кордоні. Таліби раптово поперли на сусідню країну і атакували пакистанські прикордонні позиції з кількох напрямків.
+
+Постріли та вибухи чути у провінціях Кунар, Нангархар та Гельменд</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-11_18-23-26.mp4" length="701900" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 18:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Таліби на техніці американсько</title>
+      <link>https://www.mandarinai.lt/post/81705</link>
+      <description>Таліби на техніці американського виробництва летять на всіх парах воювати з Пакистаном, - якийсь сюр.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/тал.mp4" length="1129036" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 18:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тисячі людей в Тель-Авіві вигу</title>
+      <link>https://www.mandarinai.lt/post/81706</link>
+      <description>Тисячі людей в Тель-Авіві вигукують «Thank you Trump!»
+
+Натовп очікує на повне виконання першого етапу угоди щодо Гази, який передбачає звільнення всіх заручників.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-11_18-48-16.mp4" length="772335" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 18:48:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
