@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 15:06:56 +0000</lastBuildDate>
-    <item>
-      <title>🔥В підмосковній Електросталі р</title>
-      <link>https://www.mandarinai.lt/post/81681</link>
-      <description>🔥В підмосковній Електросталі раптово спалахнув склад</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-11_09-10-18.mp4" length="702347" type="video/mp4"/>
-      <pubDate>Sat, 11 Oct 2025 09:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Маємо успіхи в реалізації пр</title>
-      <link>https://www.mandarinai.lt/post/81682</link>
-      <description>💥🔥Маємо успіхи в реалізації програми DeepStrike. Минулого місяця кількість уражень по території рф довели до 70, - Сирський
-
-Нищимо в країні-агресорі виробництво пально-мастильних матеріалів, вибухових речовин, інші складові російського воєнно-промислового комплексу. Зокрема переробку нафти в росії зменшено на 21%.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-11_09-14-11.jpg" length="80119" type="image/jpeg"/>
-      <pubDate>Sat, 11 Oct 2025 09:14:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 16:08:37 +0000</lastBuildDate>
     <item>
       <title>👌Латвія вишле понад 800 росіян</title>
       <link>https://www.mandarinai.lt/post/81683</link>
@@ -122,6 +106,13 @@
 
 На місці удару знайшли дворічного хлопчика. Він не постраждав, але поранення отримали його батько та дідусь. Дитину евакуювали до Краматорська.</description>
       <pubDate>Sat, 11 Oct 2025 14:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дороговартісна система РЕБ, на</title>
+      <link>https://www.mandarinai.lt/post/81695</link>
+      <description>Дороговартісна система РЕБ, на яку сподівались військові російської армії , була спалена українським FPV-дроном вартістю 500 доларів за 30 км від кордону на території Білгородщини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1891.MOV" length="5036553" type="video/mp4"/>
+      <pubDate>Sat, 11 Oct 2025 15:08:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
