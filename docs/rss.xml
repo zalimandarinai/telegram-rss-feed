@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 03:27:07 +0000</lastBuildDate>
-    <item>
-      <title>Росіяни скинули авіабомбу на х</title>
-      <link>https://www.mandarinai.lt/post/81694</link>
-      <description>Росіяни скинули авіабомбу на храм у Костянтинівці, двоє загиблих, ще п’ятеро поранені.
-
-На місці удару знайшли дворічного хлопчика. Він не постраждав, але поранення отримали його батько та дідусь. Дитину евакуювали до Краматорська.</description>
-      <pubDate>Sat, 11 Oct 2025 14:59:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дороговартісна система РЕБ, на</title>
-      <link>https://www.mandarinai.lt/post/81695</link>
-      <description>Дороговартісна система РЕБ, на яку сподівались військові російської армії, була спалена українським FPV-дроном вартістю 500 доларів за 30 км від кордону на території Білгородщини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1891.MOV" length="5036553" type="video/mp4"/>
-      <pubDate>Sat, 11 Oct 2025 15:08:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 04:10:18 +0000</lastBuildDate>
     <item>
       <title>Нинішня зима стане найтяжчою з</title>
       <link>https://www.mandarinai.lt/post/81697</link>
@@ -80,6 +65,13 @@
       <description>Поруч з Естонією на прикордонній російській території помітили військових без розпізнавальних знаків.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/BAACAgIAAx0CVanfdQACmIdo6q_Gu777lznBCLXOc7_EkyNxgwACtooAAujbWEve.mp4" length="5158371" type="video/mp4"/>
       <pubDate>Sat, 11 Oct 2025 19:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Донецьку після атаки БПЛА </title>
+      <link>https://www.mandarinai.lt/post/81708</link>
+      <description>💥🔥У Донецьку після атаки БПЛА спалахнув гіпермаркет «Сігма» — колишній «Ашан», який захопили і перейменували росіяни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-12_04-03-15.mp4" length="3598446" type="video/mp4"/>
+      <pubDate>Sun, 12 Oct 2025 04:03:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
