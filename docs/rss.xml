@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 10:08:27 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Момент прильоту по окуповано</title>
-      <link>https://www.mandarinai.lt/post/81711</link>
-      <description>💥🔥Момент прильоту по окупованому Донецьку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-12_04-18-17.mp4" length="291178" type="video/mp4"/>
-      <pubDate>Sun, 12 Oct 2025 04:18:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Донеччина залишилася без сві</title>
-      <link>https://www.mandarinai.lt/post/81713</link>
-      <description>❗️Донеччина залишилася без світла через обстріли рф: зранку ворог завдав прицільного удару по об’єктах енергетичної інфраструктури, — голова ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_05-47-33.jpg" length="76370" type="image/jpeg"/>
-      <pubDate>Sun, 12 Oct 2025 05:47:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 11:02:23 +0000</lastBuildDate>
     <item>
       <title>❗️ Десантники 80-ої Галицької </title>
       <link>https://www.mandarinai.lt/post/81715</link>
@@ -119,6 +105,31 @@ https://send.monobank.ua/jar/qMfDhdXDv
 Переможемо тільки разом</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2172.MP4" length="2880562" type="video/mp4"/>
       <pubDate>Sun, 12 Oct 2025 09:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>«СВОих не бросаем». Російські </title>
+      <link>https://www.mandarinai.lt/post/81725</link>
+      <description>«СВОих не бросаем». Російські танкісти намагались втекти від українського дрона, кинувши на призволяще одного з поранених членів екіпажу помирати самого.
+
+Бойова робота підрозділу Hydra 137-го батальйону морської піхоти</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2174.MP4" length="11655518" type="video/mp4"/>
+      <pubDate>Sun, 12 Oct 2025 10:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український FPV-дрон, працюючи</title>
+      <link>https://www.mandarinai.lt/post/81726</link>
+      <description>Український FPV-дрон, працюючи над створенням буферної зони північніше кордону, наздогнав автомобіль російських військових на Білгородщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2173.MP4" length="6012093" type="video/mp4"/>
+      <pubDate>Sun, 12 Oct 2025 10:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌русня заявляє, що ЗСУ затопил</title>
+      <link>https://www.mandarinai.lt/post/81728</link>
+      <description>👌русня заявляє, що ЗСУ затопили каналізаційні колектори для зупинки окупантів у Покровську.
+
+Також повідомляється, що колектори заварюють та забивають будівельним сміттям, а газопроводи мінують.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_10-47-21.jpg" length="80525" type="image/jpeg"/>
+      <pubDate>Sun, 12 Oct 2025 10:47:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
