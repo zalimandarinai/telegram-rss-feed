@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 17:05:01 +0000</lastBuildDate>
-    <item>
-      <title>👌русня заявляє, що ЗСУ затопил</title>
-      <link>https://www.mandarinai.lt/post/81728</link>
-      <description>👌русня заявляє, що ЗСУ затопили каналізаційні колектори для зупинки окупантів у Покровську.
-
-Також повідомляється, що колектори заварюють та забивають будівельним сміттям, а газопроводи мінують.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_10-47-21.jpg" length="80525" type="image/jpeg"/>
-      <pubDate>Sun, 12 Oct 2025 10:47:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 18:10:37 +0000</lastBuildDate>
     <item>
       <title>🦅Україна та Британія запускают</title>
       <link>https://www.mandarinai.lt/post/81729</link>
@@ -114,6 +105,13 @@ https://send.monobank.ua/jar/qMfDhdXDv
 Переможемо тільки разом!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2193.MOV" length="3967107" type="video/mp4"/>
       <pubDate>Sun, 12 Oct 2025 15:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬російські виродки не можуть з</title>
+      <link>https://www.mandarinai.lt/post/81744</link>
+      <description>🤬російські виродки не можуть збагнути, за що їх ненавидять</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-12_17-18-38.mp4" length="6612103" type="video/mp4"/>
+      <pubDate>Sun, 12 Oct 2025 17:18:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
