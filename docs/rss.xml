@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 08:10:25 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥У Донецьку після атаки БПЛА </title>
-      <link>https://www.mandarinai.lt/post/81708</link>
-      <description>💥🔥У Донецьку після атаки БПЛА спалахнув гіпермаркет «Сігма» — колишній «Ашан», який захопили і перейменували росіяни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-12_04-03-15.mp4" length="3598446" type="video/mp4"/>
-      <pubDate>Sun, 12 Oct 2025 04:03:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 09:07:59 +0000</lastBuildDate>
     <item>
       <title>💥🔥Момент прильоту по окуповано</title>
       <link>https://www.mandarinai.lt/post/81711</link>
@@ -85,6 +78,13 @@
 Більшість глибоких ударів здійснюють СБУ та Сили безпілотних систем ЗСУ. Україна використовує дрони Fire Point і Liutyi, а також ракети «Нептун» і «Фламінго». За даними Energy Aspects, щонайменше 16 із 38 нафтопереробних заводів росії опинилися під атаками. Зеленський заявив, що через це Москва втратила до 20% виробництва пального й змушена імпортувати бензин з Білорусі та Китаю.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_07-52-50.jpg" length="93968" type="image/jpeg"/>
       <pubDate>Sun, 12 Oct 2025 07:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 рф дуже занепокоєна можливою</title>
+      <link>https://www.mandarinai.lt/post/81722</link>
+      <description>🤡 рф дуже занепокоєна можливою передачею Україні ракет «Томагавк», це дуже небезпечна зброя, — Пєсков</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-12_08-59-46.mp4" length="5809025" type="video/mp4"/>
+      <pubDate>Sun, 12 Oct 2025 08:59:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
