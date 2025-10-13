@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 06:15:01 +0000</lastBuildDate>
-    <item>
-      <title>⚡️⚡️Є просування ЗСУ на понад </title>
-      <link>https://www.mandarinai.lt/post/81742</link>
-      <description>⚡️⚡️Є просування ЗСУ на понад 3 км поблизу Оріхова, — Зеленський
-
-«Зараз українські підрозділи продовжують контрнаступальні наші дії в районах Добропілля, також в інших районах, зокрема на Запорізькому напрямку - поблизу Оріхова, там є просування наших військ, і на сьогодні - більш ніж на три кілометри».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_15-26-44.jpg" length="81371" type="image/jpeg"/>
-      <pubDate>Sun, 12 Oct 2025 15:26:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 07:10:22 +0000</lastBuildDate>
     <item>
       <title>❗️ТЕРМІНОВИЙ ЗБІР❗️
 
@@ -82,18 +73,27 @@ https://send.monobank.ua/jar/qMfDhdXDv
       <pubDate>Mon, 13 Oct 2025 05:17:48 +0000</pubDate>
     </item>
     <item>
-      <title>🔥Кримський ранок. Підстанція в</title>
-      <link>https://www.mandarinai.lt/post/81754</link>
-      <description>🔥Кримський ранок. Підстанція в Сімферополі і нафтобаза в Феодосії після зустрічі з добрими дронами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-13_05-42-13.mp4" length="1964656" type="video/mp4"/>
-      <pubDate>Mon, 13 Oct 2025 05:42:13 +0000</pubDate>
-    </item>
-    <item>
       <title>ХАМАС передав першу групу ізра</title>
       <link>https://www.mandarinai.lt/post/81756</link>
       <description>ХАМАС передав першу групу ізраїльських заручників в рамках домовленості про перемир’я з Ізраїлем, - Times of Israel.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2195.MP4" length="30543319" type="video/mp4"/>
       <pubDate>Mon, 13 Oct 2025 05:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили ППО знешкодили 69 із 82 д</title>
+      <link>https://www.mandarinai.lt/post/81759</link>
+      <description>Сили ППО знешкодили 69 із 82 дронів, якими росія атакувала Україну.
+
+Влучання 13 ударних БпЛА на семи локаціях. Також зафіксовано падіння уламків на двох ділянках. Атака триває</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-13_06-28-31.jpg" length="94604" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 06:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Кримський ранок. Підстанція в</title>
+      <link>https://www.mandarinai.lt/post/81760</link>
+      <description>🔥Кримський ранок. Підстанція в Сімферополі і нафтобаза в Феодосії після зустрічі з добрими дронами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-13_06-32-41.jpg" length="45548" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 06:32:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
