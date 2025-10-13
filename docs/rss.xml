@@ -6,37 +6,19 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 08:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 09:11:54 +0000</lastBuildDate>
     <item>
       <title>🔥У Феодосії — горять щонайменш</title>
-      <link>https://www.mandarinai.lt/post/81751</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🔥У Феодосії — горять щонайменше три резервуари з пальним.
 Також повідомляють про вибухи біля Сімферопольської ТЕС і у Гвардійському, де ворог зберігав БпЛА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-13_04-45-54.mp4" length="191804" type="video/mp4"/>
       <pubDate>Mon, 13 Oct 2025 04:45:54 +0000</pubDate>
     </item>
     <item>
       <title>‼️Внаслідок атаки росіян по Од</title>
-      <link>https://www.mandarinai.lt/post/81753</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>‼️Внаслідок атаки росіян по Одещині сталася масштабна пожежа на складах з текстильною продукцією та швейним обладнанням, — ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-13_05-17-48.jpg" length="129335" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 05:17:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ХАМАС передав першу групу ізра</title>
-      <link>https://www.mandarinai.lt/post/81756</link>
-      <description>ХАМАС передав першу групу ізраїльських заручників в рамках домовленості про перемир’я з Ізраїлем, - Times of Israel.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2195.MP4" length="30543319" type="video/mp4"/>
-      <pubDate>Mon, 13 Oct 2025 05:58:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сили ППО знешкодили 69 із 82 д</title>
-      <link>https://www.mandarinai.lt/post/81759</link>
-      <description>Сили ППО знешкодили 69 із 82 дронів, якими росія атакувала Україну.
-
-Влучання 13 ударних БпЛА на семи локаціях. Також зафіксовано падіння уламків на двох ділянках. Атака триває</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-13_06-28-31.jpg" length="94604" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 06:28:31 +0000</pubDate>
     </item>
     <item>
       <title>🔥Кримський ранок. Підстанція в</title>
@@ -75,6 +57,30 @@ https://t.me/Tsaplienko/81724</description>
 ▫️ підстанція 330 кВ «Сімферополь» — там пролунала серія вибухів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-13_07-57-44.jpg" length="140839" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 07:57:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Всі 20 ізраїльських полонени</title>
+      <link>https://www.mandarinai.lt/post/81768</link>
+      <description>⚡️Всі 20 ізраїльських полонених - звільнені: ХАМАС передав Червоному Хресту групу ще з 13 осіб, — пише Clash Report
+
+На базі Реїм їх зустрічають близькі. За даними ЗМІ, у  ХАМАСа все ще залишаються тіла 28 загиблих заручників. Їх, ймовірно, теж передадуть Ізраїлю сьогодні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-13_08-19-03.mp4" length="2444764" type="video/mp4"/>
+      <pubDate>Mon, 13 Oct 2025 08:19:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Звільнено всіх ізраїльських за</title>
+      <link>https://www.mandarinai.lt/post/81774</link>
+      <description>Звільнено всіх ізраїльських заручників, які вижили.
+
+ХАМАС передав Червоному Хресту другу групу з 13 осіб.
+
+Вони прямують до військової  бази Реїм, де на них чекають близькі. 
+
+Група із 7 людей, яких передали Ізраїлю сьогодні вранці, вже змогла зустрітися з рідними після двох років розлуки. 
+
+В руках ХАМАС ще залишаються тіла 28 ізраїльтян. Їх також мають передати Ізраїлю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2203.MP4" length="1698716" type="video/mp4"/>
+      <pubDate>Mon, 13 Oct 2025 08:22:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
