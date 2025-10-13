@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 04:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 05:10:16 +0000</lastBuildDate>
     <item>
       <title>😳Без пенсій залишаться українц</title>
       <link>https://www.mandarinai.lt/post/81737</link>
@@ -73,25 +73,9 @@ https://send.monobank.ua/jar/qMfDhdXDv
       <pubDate>Sun, 12 Oct 2025 17:18:38 +0000</pubDate>
     </item>
     <item>
-      <title>‼️російський підводний човен «</title>
-      <link>https://www.mandarinai.lt/post/81745</link>
-      <description>‼️російський підводний човен «Новоросійськ» із ракетами «Калібр» сплив біля узбережжя Франції через поломку
-
-Його помітили поблизу Бретані — зараз за субмариною стежать французькі ВМС, НАТО заявило — готове реагувати на будь-яку загрозу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_20-20-28.jpg" length="173325" type="image/jpeg"/>
-      <pubDate>Sun, 12 Oct 2025 20:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Знову Феодосія, знову нафтоб</title>
-      <link>https://www.mandarinai.lt/post/81746</link>
-      <description>💥🔥Знову Феодосія, знову нафтобаза. Так тримати!🔥</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_20-55-40.jpg" length="23809" type="image/jpeg"/>
-      <pubDate>Sun, 12 Oct 2025 20:55:40 +0000</pubDate>
-    </item>
-    <item>
       <title>‼️Трамп пообіцяв Tomahawk Укра</title>
       <link>https://www.mandarinai.lt/post/81748</link>
-      <description>‼️Трамп пообіцяв Tomahawk Україні за відсутності врегулювання конфлікту
+      <description>‼️Трамп пообіцяв Tomahawk Україні, якщо путін не зупинить війну
 
 Трамп заявив, що путін міг би «виглядати добре», якби припинив війну проти України, наголосивши, що українці демонструють силу та мужність. За його словами, якщо конфлікт не буде врегульовано найближчим часом, США передадуть Україні ракети «Tomahawk».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-12_22-09-45.mp4" length="4200640" type="video/mp4"/>
@@ -100,9 +84,17 @@ https://send.monobank.ua/jar/qMfDhdXDv
     <item>
       <title>🔥💥Ще трохи свіжого позитиву на</title>
       <link>https://www.mandarinai.lt/post/81749</link>
-      <description>🔥💥Ще трохи свіжого позитиву на добраніч</description>
+      <description>🔥💥Ще трохи свіжого позитиву на добраніч з Феодосії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_22-10-57.jpg" length="76293" type="image/jpeg"/>
       <pubDate>Sun, 12 Oct 2025 22:10:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Феодосії — горять щонайменш</title>
+      <link>https://www.mandarinai.lt/post/81751</link>
+      <description>🔥У Феодосії — горять щонайменше три резервуари з пальним.
+Також повідомляють про вибухи біля Сімферопольської ТЕС і у Гвардійському, де ворог зберігав БпЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-13_04-45-54.mp4" length="191804" type="video/mp4"/>
+      <pubDate>Mon, 13 Oct 2025 04:45:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
