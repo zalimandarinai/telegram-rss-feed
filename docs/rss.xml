@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 05:10:16 +0000</lastBuildDate>
-    <item>
-      <title>😳Без пенсій залишаться українц</title>
-      <link>https://www.mandarinai.lt/post/81737</link>
-      <description>😳Без пенсій залишаться українці, які передаватимуть свої банківські картки іншим, — Гетманцев
-
-Він заявив, що таких громадян внесуть до реєстру дроперів.
-
-Наслідки для порушників серйозні: обмеження фінансових операцій та блокування пенсійних виплат.
-
-Дропери — це люди, які передають картки (з реквізитами та пін-кодами) іншим особам для незаконних схем чи шахрайства.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-12_12-55-59.jpg" length="77433" type="image/jpeg"/>
-      <pubDate>Sun, 12 Oct 2025 12:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>"С крылышками!"
-В Бєлгороді мі</title>
-      <link>https://www.mandarinai.lt/post/81740</link>
-      <description>"С крылышками!"
-В Бєлгороді місцеві "експерти" аналізують якість ударів Сил Оборони України по важливих об'єктах ворога</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-12_14-11-23.mp4" length="906424" type="video/mp4"/>
-      <pubDate>Sun, 12 Oct 2025 14:11:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 06:15:01 +0000</lastBuildDate>
     <item>
       <title>⚡️⚡️Є просування ЗСУ на понад </title>
       <link>https://www.mandarinai.lt/post/81742</link>
@@ -95,6 +73,27 @@ https://send.monobank.ua/jar/qMfDhdXDv
 Також повідомляють про вибухи біля Сімферопольської ТЕС і у Гвардійському, де ворог зберігав БпЛА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-13_04-45-54.mp4" length="191804" type="video/mp4"/>
       <pubDate>Mon, 13 Oct 2025 04:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Внаслідок атаки росіян по Од</title>
+      <link>https://www.mandarinai.lt/post/81753</link>
+      <description>‼️Внаслідок атаки росіян по Одещині сталася масштабна пожежа на складах з текстильною продукцією та швейним обладнанням, — ДСНС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-13_05-17-48.jpg" length="129335" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 05:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Кримський ранок. Підстанція в</title>
+      <link>https://www.mandarinai.lt/post/81754</link>
+      <description>🔥Кримський ранок. Підстанція в Сімферополі і нафтобаза в Феодосії після зустрічі з добрими дронами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-13_05-42-13.mp4" length="1964656" type="video/mp4"/>
+      <pubDate>Mon, 13 Oct 2025 05:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ХАМАС передав першу групу ізра</title>
+      <link>https://www.mandarinai.lt/post/81756</link>
+      <description>ХАМАС передав першу групу ізраїльських заручників в рамках домовленості про перемир’я з Ізраїлем, - Times of Israel.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2195.MP4" length="30543319" type="video/mp4"/>
+      <pubDate>Mon, 13 Oct 2025 05:58:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
