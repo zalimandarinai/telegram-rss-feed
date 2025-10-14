@@ -6,10 +6,10 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 18:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 19:02:31 +0000</lastBuildDate>
     <item>
       <title>❗️❗️Труханов більше не мер Оде</title>
-      <link>https://www.mandarinai.lt/post/81811</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️❗️Труханов більше не мер Одеси, - ЗМІ
 
 Труханова, Царьова та Полуніна позбавили українського громадянства, Зеленський підписав відповідні укази
@@ -17,18 +17,7 @@
 Теперь повноваження мера Одеси мають автоматично припинитися, а обов'язки виконуватиме секретар міської ради. Або ж створять міську військову адміністрацію.
 
 UpD: Труханов вже заявив, що буде оскаржувати це рішення в суді</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-14_12-50-50.jpg" length="142745" type="image/jpeg"/>
       <pubDate>Tue, 14 Oct 2025 12:50:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кая Каллас приїхала до Києва н</title>
-      <link>https://www.mandarinai.lt/post/81812</link>
-      <description>Кая Каллас приїхала до Києва не з порожніми руками.
-
-Віцепрезидентка Єврокомісії передала кілька десятків одиниць техніки для Сил оборони України. 
-
-Враховуючи те, наскільки збільшились втрати автотехніки на фронті, пікапи, які привезла Каллас, є суттєвою допомогою.</description>
-      <pubDate>Tue, 14 Oct 2025 13:00:34 +0000</pubDate>
     </item>
     <item>
       <title>55–а окрема артилерійська бриг</title>
@@ -92,6 +81,13 @@ UpD: Труханов вже заявив, що буде оскаржувати 
 Наразі фахівці працюють над відновленням енергопостачання.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-14_17-40-29.jpg" length="40577" type="image/jpeg"/>
       <pubDate>Tue, 14 Oct 2025 17:40:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Наразі всі станції київськог</title>
+      <link>https://www.mandarinai.lt/post/81833</link>
+      <description>❗️Наразі всі станції київського метро працюють у звичайному режимі, - КМДА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-14_18-49-14.jpg" length="147488" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 18:49:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
