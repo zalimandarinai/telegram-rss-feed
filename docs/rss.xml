@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 11:07:46 +0000</lastBuildDate>
-    <item>
-      <title>🔥💥На НПЗ в далекій Уфі ранкове</title>
-      <link>https://www.mandarinai.lt/post/81841</link>
-      <description>🔥💥На НПЗ в далекій Уфі ранкове задимлення після зустрічі з добрими дронами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-15_07-09-58.mp4" length="487449" type="video/mp4"/>
-      <pubDate>Wed, 15 Oct 2025 07:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫡Україна планує війну ще щонай</title>
-      <link>https://www.mandarinai.lt/post/81843</link>
-      <description>🫡Україна планує війну ще щонайменше на три роки, — міністр закордонних справ Польщі Сікорський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-15_07-16-15.jpg" length="38729" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 07:16:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 12:18:32 +0000</lastBuildDate>
     <item>
       <title>Після зняття заборони на виїзд</title>
       <link>https://www.mandarinai.lt/post/81844</link>
@@ -83,6 +69,33 @@
       <description>🇬🇧🇨🇦Велика Британія та Канада приєднаються до плану ЄС щодо використання російських активів на користь України, — Bloomberg</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-15_11-04-44.jpg" length="173739" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 11:04:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡рф почала використрвувати мал</title>
+      <link>https://www.mandarinai.lt/post/81856</link>
+      <description>😡рф почала використрвувати малу авіацію проти дронів, зокрема, легкомоторні літаки «Cessna 172», оснащені курсовими кулеметами для збивання наших БпЛА, - сюжет «росія-1»
+
+Знову масштабують наш досвід?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-15_11-08-10.jpg" length="98629" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 11:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог зумів окупувати селища К</title>
+      <link>https://www.mandarinai.lt/post/81857</link>
+      <description>Ворог зумів окупувати селища Комар і Перебудова, а також просунутись в Іванівці та Зеленому Гаю, де на початку року ще був глибокий тил Сил оборони України, - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-15_11-19-20.jpg" length="57388" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 11:19:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Було б нерозумно збивати літак</title>
+      <link>https://www.mandarinai.lt/post/81858</link>
+      <description>Було б нерозумно збивати літак, який не несе прямої загрози, - генсек НАТО Марк Рютте
+
+Коли ви дізнаєтесь, що він несе загрозу, то може бути пізно.
+
+Доведено ще з 1968 року в Празі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2260.MP4" length="9542457" type="video/mp4"/>
+      <pubDate>Wed, 15 Oct 2025 11:44:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
