@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 14:09:47 +0000</lastBuildDate>
-    <item>
-      <title>Наземні ударні роботи вже беру</title>
-      <link>https://www.mandarinai.lt/post/81848</link>
-      <description>Наземні ударні роботи вже беруть участь в бойових операціях і, принаймні на ділянці 93-ої бригади, пробивають оборону противника. 
-
-Український наземний дрон з  кулеметним модулем веде вогонь з близької дистанції по посадці і знищує щонайменше одного російського окупанта. 
-
-Після завершення місії робот, попри удари FPV-дронів та артилерії противника, повертається до операторів.
-
-Кадри бойової роботи роти НРК «Alter Ego» 93-ї ОМБР «Холодний Яр» у районі Костянтинівки.
-
-А тут наш сюжет про те, звідки і як в Костянтинівці працюють наземні роботизовані комплекси, а також, про тих унікальних фахівців, які ними керують. https://m.youtube.com/watch?v=JS_9d_n9w7o&amp;pp=0gcJCfwJAYcqIYzv</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2255.MP4" length="23141741" type="video/mp4"/>
-      <pubDate>Wed, 15 Oct 2025 08:12:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 15:09:47 +0000</lastBuildDate>
     <item>
       <title>❗️Труханов просить США перевір</title>
       <link>https://www.mandarinai.lt/post/81849</link>
@@ -105,6 +90,13 @@
 За словами генсека, більше половини союзників НАТО вже беруть участь в ініціативі "Перелік пріоритетних вимог України" (PURL), "забезпечуючи цей вирішальний потік підтримки"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-15_13-07-39.jpg" length="37612" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 13:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Міністерство оборони США вже р</title>
+      <link>https://www.mandarinai.lt/post/81862</link>
+      <description>Міністерство оборони США вже розробило план передачі Україні ракет Tomahawk, — пише The New York Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-15_14-09-59.jpg" length="72423" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 14:09:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
