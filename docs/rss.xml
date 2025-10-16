@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 07:09:35 +0000</lastBuildDate>
-    <item>
-      <title>Снайпери «Eagle Team» 2-го окр</title>
-      <link>https://www.mandarinai.lt/post/81875</link>
-      <description>Снайпери «Eagle Team» 2-го окремого загону спеціального призначення «Омега» НГУ збирають трофейні АК-12 у знищених окупантів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2273.MP4" length="21706263" type="video/mp4"/>
-      <pubDate>Wed, 15 Oct 2025 19:46:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 08:13:21 +0000</lastBuildDate>
     <item>
       <title>‼️Ми говоритимемо з Зеленським</title>
       <link>https://www.mandarinai.lt/post/81878</link>
@@ -84,6 +77,17 @@
 
 🎥 10-ий армійський корпус</description>
       <pubDate>Thu, 16 Oct 2025 07:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>А це вже цікаво, якщо правда, </title>
+      <link>https://www.mandarinai.lt/post/81892</link>
+      <description>А це вже цікаво, якщо правда, а не чергове популістське шоу.
+
+Трамп хоче створити так званий «Фонд перемоги» для України на кошти від 500% мит на товари з Китаю, — The Telegraph
+
+Міністр фінансів США нібито вже отримав вказівку обговорити з європейськими союзниками реалізацію такого плану, який буде запропонований на зустрічі із Зеленським в Вашингтоні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-16_07-16-51.jpg" length="104496" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 07:16:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
