@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 12:17:48 +0000</lastBuildDate>
-    <item>
-      <title>❗️Через атаку РФ зупинена робо</title>
-      <link>https://www.mandarinai.lt/post/81887</link>
-      <description>❗️Через атаку РФ зупинена робота об'єктів газовидобутку на Полтавщині, - ДТЕК Нафтогаз</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-16_06-09-34.jpg" length="169263" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 06:09:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 13:23:16 +0000</lastBuildDate>
     <item>
       <title>«Все, що ми хочемо від путіна,</title>
       <link>https://www.mandarinai.lt/post/81890</link>
@@ -75,6 +68,41 @@
 За даними Генштабу ЗСУ, станом на 2023 рік він переробляв близько 4,8 млн тонн нафти на рік і зараз відіграє важливу роль у забезпеченні паливом російських військових</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-16_10-48-27.jpg" length="26072" type="image/jpeg"/>
       <pubDate>Thu, 16 Oct 2025 10:48:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Спецслужби росії заявляють,</title>
+      <link>https://www.mandarinai.lt/post/81901</link>
+      <description>❗️ Спецслужби росії заявляють, що операція «Павутина» була організована «іноземними кураторами» і не завдала суттєвих втрат російській авіації.
+
+З цього приводу є коментар СБУ
+
+«Сьогодні російські спецслужби відзначилися черговою «гучною» заявою про те, що спецоперація «Павутина» нібито проводилася під кураторством іноземних партнерів і не завдала суттєвої шкоди військам рф.
+
+Служба безпеки України сприймає такі заяви виключно як спробу ворога виправдати власний провал перед внутрішньою аудиторією. Адже завдяки співробітникам СБУ та їх роботі міф про «всесильність фсб» розсипався прямо на очах і згорів разом з літаками стратегічної авіації рф. 
+
+Нагадаємо, що в результаті «Павутини» СБУ підтверджено уразила 41 літак рф, або 34% всієї стратегічної авіації противника. Серед них – Ту-95, Ту-22М3 і Ту-160, якими окупанти обстрілювали мирні українські міста, а також унікальні ворожі літаки-розвідники А-50. Операція проводилась виключно власними силами України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-16_12-18-46.jpg" length="103128" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 12:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Сьогодні рф вдарила двома б</title>
+      <link>https://www.mandarinai.lt/post/81903</link>
+      <description>❗️ Сьогодні рф вдарила двома балістичними ракетами по навчальному підрозділу Сухопутних військ ЗСУ в тиловій, відносно спокійній, тиловій частині України.
+
+Втрат уникнути не вдалося. Пораненим надають медичну допомогу, військові згодом зв’яжуться з близькими</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-16_12-19-16.jpg" length="28880" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 12:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Атаковано НПЗ "Лукойл-Ніжего</title>
+      <link>https://www.mandarinai.lt/post/81904</link>
+      <description>❗️Атаковано НПЗ "Лукойл-Ніжегороднєфтєоргсінтез", - пишуть росЗМІ
+
+За даними аналітиків, уражена установка гідроочистки бензину Л-24/300, яка здатна переробляти понад 200 тисяч тонн на рік. 
+
+Сьогодні, через загрозу БпЛА в аеропорту Нижнього Новгорода на три години оголошували план "Ковьор".  Місцева влада ніяк не коментувала атаку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-16_12-52-53.jpg" length="88505" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 12:52:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
