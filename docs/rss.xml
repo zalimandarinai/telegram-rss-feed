@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 20:09:59 +0000</lastBuildDate>
-    <item>
-      <title>Друзі, 1-ий мехбат 31-ої брига</title>
-      <link>https://www.mandarinai.lt/post/81950</link>
-      <description>Друзі, 1-ий мехбат 31-ої бригади дякує вам за партію FPV-дронів, які вашими зусиллями і на ваші кошти були придбані для наших оборонців.
-
-Бригада обороняється на одному з тих напрямків, які окупанти намагаються прорвати, там, де сходяться Запорізька, Дніпропетровська та Донецька області. Тож ваші дрони допоможуть стримати ворога та уповільнити його наступ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2312.MP4" length="13257083" type="video/mp4"/>
-      <pubDate>Fri, 17 Oct 2025 14:45:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 21:07:34 +0000</lastBuildDate>
     <item>
       <title>Сили спеціальних операцій в ні</title>
       <link>https://www.mandarinai.lt/post/81951</link>
@@ -114,7 +105,7 @@ A: Так! Ми поговоримо про це.</description>
       <title>❗️Закрита зустріч Зеленського,</title>
       <link>https://www.mandarinai.lt/post/81963</link>
       <description>❗️Закрита зустріч Зеленського, Трампа та їхніх делегацій – закінчилася.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-17_20-02-34.jpg" length="6681" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2325.MP4" length="21646124" type="video/mp4"/>
       <pubDate>Fri, 17 Oct 2025 20:02:34 +0000</pubDate>
     </item>
   </channel>
