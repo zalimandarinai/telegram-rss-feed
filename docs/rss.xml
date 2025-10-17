@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 09:10:19 +0000</lastBuildDate>
-    <item>
-      <title>‼️Трамп і Зеленський зустрінут</title>
-      <link>https://www.mandarinai.lt/post/81925</link>
-      <description>‼️Трамп і Зеленський зустрінуться сьогодні о 20:00 за київським часом
-
-Переговори проходитимуть у неформальній атмосфері за обідом, без журналістів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-17_04-47-25.jpg" length="81798" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 04:47:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 В окупованому Криму атакован</title>
-      <link>https://www.mandarinai.lt/post/81926</link>
-      <description>🔥 В окупованому Криму атакована нафтобаза у селищі Гвардійське, яка належить до провідної мережі АЗС, - пише "Кримський вітер"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-17_05-30-40.jpg" length="64580" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 05:30:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 10:09:33 +0000</lastBuildDate>
     <item>
       <title>🤔У Польщі зафіксували рекордну</title>
       <link>https://www.mandarinai.lt/post/81929</link>
@@ -86,6 +70,30 @@
 Обговорення пройде на саміті ЄС у Брюсселі, остаточне рішення очікують до кінця 2025 року.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-17_09-10-16.jpg" length="154798" type="image/jpeg"/>
       <pubDate>Fri, 17 Oct 2025 09:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Курському напрямку бійці бр</title>
+      <link>https://www.mandarinai.lt/post/81941</link>
+      <description>На Курському напрямку бійці бригади ДПСУ «Сталевий кордон» за допомогою FPV-безпілотника наздогнали та знищили ворожий автомобіль.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2303.MP4" length="10682509" type="video/mp4"/>
+      <pubDate>Fri, 17 Oct 2025 09:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Угорщина готова забезпечити б</title>
+      <link>https://www.mandarinai.lt/post/81942</link>
+      <description>🥴Угорщина готова забезпечити безпеку переговорів росії та США, - Сіятро 
+
+Глава МЗС додав, що Будапешт з повагою прийме П
+путіна, гарантує, що він безперешкодно може приїхати в Угорщину та покинути її</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-17_09-23-19.jpg" length="68830" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 09:23:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Розрахунок мінометників підроз</title>
+      <link>https://www.mandarinai.lt/post/81943</link>
+      <description>Розрахунок мінометників підрозділу «Чорний лебідь» 225-го штурмового полку відбивається від дрона під час переміщення в районі Добропілля</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2307.MP4" length="21672812" type="video/mp4"/>
+      <pubDate>Fri, 17 Oct 2025 09:25:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
