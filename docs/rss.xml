@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 09:08:06 +0000</lastBuildDate>
-    <item>
-      <title>❗️Закрита зустріч Зеленського,</title>
-      <link>https://www.mandarinai.lt/post/81963</link>
-      <description>❗️Закрита зустріч Зеленського, Трампа та їхніх делегацій – закінчилася.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2325.MP4" length="21646124" type="video/mp4"/>
-      <pubDate>Fri, 17 Oct 2025 20:02:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 10:07:49 +0000</lastBuildDate>
     <item>
       <title>❗️Україна і рф повинні зупинит</title>
       <link>https://www.mandarinai.lt/post/81966</link>
@@ -79,6 +72,13 @@
       <description>🛢🔥 В окупованій Феодосії після ударів по НПЗ знищено 11 резервуарів з паливом На супутникових знімках видно, що внаслідок двох ударів 7 та 13 жовтня 11 резервуарів було повністю знищено, а кілька – пошкоджено і ймовірно, не підлягає відновленню.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-18_08-45-35.mp4" length="145023" type="video/mp4"/>
       <pubDate>Sat, 18 Oct 2025 08:45:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Тимчасове «перемир’я» на Зап</title>
+      <link>https://www.mandarinai.lt/post/81979</link>
+      <description>❗️Тимчасове «перемир’я» на Запорізькій АЕС: там розпочали ремонт ліній енергопостачання атомної станції, — глава МАГАТЕ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-18_09-57-19.jpg" length="55053" type="image/jpeg"/>
+      <pubDate>Sat, 18 Oct 2025 09:57:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
