@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 10:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 11:04:00 +0000</lastBuildDate>
     <item>
       <title>❗️Україна і рф повинні зупинит</title>
       <link>https://www.mandarinai.lt/post/81966</link>
@@ -79,6 +79,15 @@
       <description>❗️Тимчасове «перемир’я» на Запорізькій АЕС: там розпочали ремонт ліній енергопостачання атомної станції, — глава МАГАТЕ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-18_09-57-19.jpg" length="55053" type="image/jpeg"/>
       <pubDate>Sat, 18 Oct 2025 09:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Батьки дітей з інвалідністю </title>
+      <link>https://www.mandarinai.lt/post/81980</link>
+      <description>❗️Батьки дітей з інвалідністю можуть отримати відстрочку від мобілізації в Резерв+, — Міноборони 
+
+Система автоматично перевіряє дані в державних реєстрах — і результат приходить просто у смартфон: швидко, прозоро, без збору довідок, черг, бюрократії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-18_10-30-22.jpg" length="125146" type="image/jpeg"/>
+      <pubDate>Sat, 18 Oct 2025 10:30:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
