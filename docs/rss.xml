@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 08:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 09:08:06 +0000</lastBuildDate>
     <item>
       <title>❗️Закрита зустріч Зеленського,</title>
       <link>https://www.mandarinai.lt/post/81963</link>
@@ -72,6 +72,13 @@
 Вона додала, що «обом сторонам слід усвідомити реалії та домовитися»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-18_07-59-44.mp4" length="4154256" type="video/mp4"/>
       <pubDate>Sat, 18 Oct 2025 07:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢🔥 В окупованій Феодосії після</title>
+      <link>https://www.mandarinai.lt/post/81977</link>
+      <description>🛢🔥 В окупованій Феодосії після ударів по НПЗ знищено 11 резервуарів з паливом На супутникових знімках видно, що внаслідок двох ударів 7 та 13 жовтня 11 резервуарів було повністю знищено, а кілька – пошкоджено і ймовірно, не підлягає відновленню.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-18_08-45-35.mp4" length="145023" type="video/mp4"/>
+      <pubDate>Sat, 18 Oct 2025 08:45:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
