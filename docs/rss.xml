@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 20:08:46 +0000</lastBuildDate>
-    <item>
-      <title>⚡️росія може захопити всю Укра</title>
-      <link>https://www.mandarinai.lt/post/81996</link>
-      <description>⚡️росія може захопити всю Україну за 103 роки, якщо війна продовжуватиметься такими ж темпами, — The Economist 
-
-Щодо повної окупації Донецької, Луганської, Запорізької та Херсонської областей, росія це може здійснити, теоретично, не раніше червня 2030 року</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-18_14-53-24.jpg" length="40603" type="image/jpeg"/>
-      <pubDate>Sat, 18 Oct 2025 14:53:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 21:07:09 +0000</lastBuildDate>
     <item>
       <title>👀✈️ Більше 5000 км доведеться </title>
       <link>https://www.mandarinai.lt/post/81997</link>
@@ -105,6 +96,13 @@
 Зустріч ставить ЄС і НАТО в незручне становище, оскільки глави країн обговорюватимуть українське питання в країні ЄС, але без участі Євросоюзу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-18_18-26-37.jpg" length="35746" type="image/jpeg"/>
       <pubDate>Sat, 18 Oct 2025 18:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нібито путін натякав Трампу, щ</title>
+      <link>https://www.mandarinai.lt/post/82010</link>
+      <description>Нібито путін натякав Трампу, що готовий закінчити війну, якщо Україна віддасть Донеччину в обмін на території Херсонської та Запорізької областей, окуповані росією, - пише The Washington Post</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-18_20-55-25.jpg" length="94090" type="image/jpeg"/>
+      <pubDate>Sat, 18 Oct 2025 20:55:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
