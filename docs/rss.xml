@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Oct 2025 19:03:38 +0000</lastBuildDate>
-    <item>
-      <title>😳 Ізраїль знову атакує центр Г</title>
-      <link>https://www.mandarinai.lt/post/82030</link>
-      <description>😳 Ізраїль знову атакує центр Гази. "Історичне перемир'я Трампа" закінчилося, — ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-19_14-08-33.mp4" length="1140467" type="video/mp4"/>
-      <pubDate>Sun, 19 Oct 2025 14:08:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴Репортер: Ви отримали від пут</title>
-      <link>https://www.mandarinai.lt/post/82031</link>
-      <description>🥴Репортер: Ви отримали від путіна якесь розуміння, що він готовий закінчити цю війну, не забираючи значної частини української території?
-
-Трамп: Ну, він щось вже взяв – він уже завоював певні території.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-19_14-25-45.mp4" length="2221014" type="video/mp4"/>
-      <pubDate>Sun, 19 Oct 2025 14:25:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 20:09:07 +0000</lastBuildDate>
     <item>
       <title>Артилеристи Держприкордонслужб</title>
       <link>https://www.mandarinai.lt/post/82032</link>
@@ -103,6 +87,24 @@ https://youtu.be/v6AbPQ0AE5M?si=hzvvCKyquZWoDpry&amp;sfnsn=wa
 Варто зазначити, що Трамп регулярно прилітає сюди на відпочинок у вихідні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-19_18-51-07.jpg" length="119960" type="image/jpeg"/>
       <pubDate>Sun, 19 Oct 2025 18:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Комбінований удар по КСП ворог</title>
+      <link>https://www.mandarinai.lt/post/82046</link>
+      <description>Комбінований удар по КСП ворога на Новопавлівському напрямку та його наслідки
+
+Удар було завдано системами РСЗВ HIMARS та авіаційними засобами. 
+
+Виявлення та коригування здійснювалось силами 154-ої та 5-ої бригад.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2367.MP4" length="17539407" type="video/mp4"/>
+      <pubDate>Sun, 19 Oct 2025 19:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Південна Корея розгортає найпо</title>
+      <link>https://www.mandarinai.lt/post/82047</link>
+      <description>Південна Корея розгортає найпотужнішу в світі неядерну балістичну ракету «Hyunmoo-5» у відповідь на погрози з боку КНДР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-19_19-59-45.jpg" length="84358" type="image/jpeg"/>
+      <pubDate>Sun, 19 Oct 2025 19:59:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
