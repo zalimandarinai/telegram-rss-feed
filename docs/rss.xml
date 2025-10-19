@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Oct 2025 13:14:48 +0000</lastBuildDate>
-    <item>
-      <title>🗿 Трамп опублікував ШІ-ролик, </title>
-      <link>https://www.mandarinai.lt/post/82014</link>
-      <description>🗿 Трамп опублікував ШІ-ролик, у якому він із короною на голові «бомбить» лайном учасників протесту «No Kings».
-
-Напередодні такі акції проти надмірної влади президента пройшли по всій Америці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-19_07-39-09.mp4" length="1418044" type="video/mp4"/>
-      <pubDate>Sun, 19 Oct 2025 07:39:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 14:07:18 +0000</lastBuildDate>
     <item>
       <title>💪🔥Дешеві українські дрони-пере</title>
       <link>https://www.mandarinai.lt/post/82016</link>
@@ -101,6 +92,13 @@
       <link>https://www.mandarinai.lt/post/82028</link>
       <description>Бійці 92-ої бригади розвалили з «Вампіра» приміщення, де окупанти влаштували собі опорний пункт, а потім додали вогню з 30-мм гармати українського БТР-4Е</description>
       <pubDate>Sun, 19 Oct 2025 13:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрозділ «Гострі Картузи» в р</title>
+      <link>https://www.mandarinai.lt/post/82029</link>
+      <description>Підрозділ «Гострі Картузи» в районі Покровська за один день став свідком трьох «самострілів» російських окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2356.MP4" length="30362348" type="video/mp4"/>
+      <pubDate>Sun, 19 Oct 2025 13:49:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
