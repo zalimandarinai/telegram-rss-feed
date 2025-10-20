@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 10:10:42 +0000</lastBuildDate>
-    <item>
-      <title>Південна Корея розгортає найпо</title>
-      <link>https://www.mandarinai.lt/post/82047</link>
-      <description>Південна Корея розгортає найпотужнішу в світі неядерну балістичну ракету «Hyunmoo-5» у відповідь на погрози з боку КНДР.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-19_19-59-45.jpg" length="84358" type="image/jpeg"/>
-      <pubDate>Sun, 19 Oct 2025 19:59:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>📝 «Ніхто з нас не має тиснути </title>
-      <link>https://www.mandarinai.lt/post/82048</link>
-      <description>📝 «Ніхто з нас не має тиснути на Зеленського, коли йдеться про територіальні поступки. Ми маємо тиснути на росію, щоб зупинити її агресію», - польський прем'єр Дональд Туск</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-19_20-19-23.jpg" length="37740" type="image/jpeg"/>
-      <pubDate>Sun, 19 Oct 2025 20:19:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 11:08:08 +0000</lastBuildDate>
     <item>
       <title>Російські злочинці розстріляли</title>
       <link>https://www.mandarinai.lt/post/82049</link>
@@ -108,6 +94,13 @@
       <description>🇪🇸⚡️Невідомі дрони вперше в небі Іспанії — через фіксацію  БПЛА над аеропортом Майорки, було тимчасово зупинено його роботу та перенаправлено десятки рейсів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-20_09-55-35.jpg" length="209258" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 09:55:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>По точках накопичення окупанті</title>
+      <link>https://www.mandarinai.lt/post/82063</link>
+      <description>По точках накопичення окупантів 1-ий штурмовий батальйон 210-ого полку відпрацював артилерією та дронами в тилу противника на півдні Запорізької області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2386.MP4" length="19892630" type="video/mp4"/>
+      <pubDate>Mon, 20 Oct 2025 11:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
