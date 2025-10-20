@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 17:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 18:13:47 +0000</lastBuildDate>
     <item>
       <title>Серед російських окупантів є т</title>
       <link>https://www.mandarinai.lt/post/82073</link>
@@ -136,6 +136,27 @@
       <description>Заявлене, як знищення російських десантників на їхньому катері FPV-дроном, який доправив ближче до окупантів надводний безпілотник 40-ої бригади морської піхоти.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2403.MP4" length="11789696" type="video/mp4"/>
       <pubDate>Mon, 20 Oct 2025 16:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Від Штатів ще один неочікувани</title>
+      <link>https://www.mandarinai.lt/post/82087</link>
+      <description>Від Штатів ще один неочікуваний привіт.
+
+Вашингтон проти, щоб європейці використовували заморожені російські активи для надання репараційного кредиту Україні, пише Bloomberg з посиланням на джерела. 
+
+Нерішучість США в питанні російських грошей стала гальмом для ЄС, який намагається переконати всі країни Великої сімки приєднатися до його плану, зазначає Bloomberg. 
+
+План ЄС підтримують Велика Британія та Канада, а Японія, як і США, займають обережну позицію.
+
+З 2022 року в західних країнах заморожено активи російського Центробанку на понад 260 мільярдів євро. 
+
+З них близько 190 мільярдів перебувають у Бельгії. 
+
+Україна вже отримує відсотки за цими активами, і Брюссель шукає способи розширити їхнє використання без конфіскації.
+
+Один зі способів – видати Україні так званий «репараційний кредит» на 140 мільярдів доларів під заставу російських активів в західних банках.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-20_18-05-57.jpg" length="89751" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 18:05:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
