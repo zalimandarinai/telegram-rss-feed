@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 03:31:54 +0000</lastBuildDate>
-    <item>
-      <title>❗️⚔️  російська армія просунул</title>
-      <link>https://www.mandarinai.lt/post/82083</link>
-      <description>❗️⚔️  російська армія просунулась в Куп'янську та Вовчанську на Харківщині, у Плавнях на Запоріжжі, а також поблизу Торецька та Білої Гори в Донецькій області, — DeepState</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-20_16-19-21.jpg" length="54841" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 16:19:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Журналіст: «Ви обговорювали ат</title>
-      <link>https://www.mandarinai.lt/post/82084</link>
-      <description>Журналіст: «Ви обговорювали атаки путіна на цивільні райони в Україні?»
-Трамп: «Так, обговорював. Але більшість загиблих це солдати».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2401.MP4" length="14447412" type="video/mp4"/>
-      <pubDate>Mon, 20 Oct 2025 16:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мотоциклісти путінської армії </title>
-      <link>https://www.mandarinai.lt/post/82085</link>
-      <description>Мотоциклісти путінської армії в Донецькій області влітають в хмару димової завіси і врізаються в підбиту техніку, яка сховалась за нею.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2402.MP4" length="16477250" type="video/mp4"/>
-      <pubDate>Mon, 20 Oct 2025 16:45:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заявлене, як знищення російськ</title>
-      <link>https://www.mandarinai.lt/post/82086</link>
-      <description>Заявлене, як знищення російських десантників на їхньому катері українським FPV-дроном, який доправив ближче до окупантів надводний безпілотник 40-ої бригади морської піхоти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2403.MP4" length="11789696" type="video/mp4"/>
-      <pubDate>Mon, 20 Oct 2025 16:49:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 04:11:02 +0000</lastBuildDate>
     <item>
       <title>Від Штатів ще один неочікувани</title>
       <link>https://www.mandarinai.lt/post/82087</link>
@@ -107,6 +78,27 @@
       <description>💥🔥У Ростовській області підстанція зустрілась з літаючими санкціями</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_02-25-18.mp4" length="450454" type="video/mp4"/>
       <pubDate>Tue, 21 Oct 2025 02:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡 Чернігів і об'єкти КП "Черні</title>
+      <link>https://www.mandarinai.lt/post/82097</link>
+      <description>😡 Чернігів і об'єкти КП "Чернігівобленерго" знеструмлені. Сьогодні зранку працівники водоканалу розпочали запуск об'єктів підприємства від альтернативних джерел живлення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-21_03-54-50.jpg" length="143042" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 03:54:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥💥Гаряча ніч була в російськом</title>
+      <link>https://www.mandarinai.lt/post/82098</link>
+      <description>🔥💥Гаряча ніч була в російському Батайську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_03-59-14.mp4" length="14062700" type="video/mp4"/>
+      <pubDate>Tue, 21 Oct 2025 03:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Оренбурзький ГПЗ та Новокуйби</title>
+      <link>https://www.mandarinai.lt/post/82100</link>
+      <description>🔥Оренбурзький ГПЗ та Новокуйбишевський НПЗ зупинили роботу після атаки добрих дронів, - Reuters.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-21_04-01-26.jpg" length="70672" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 04:01:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
