@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 16:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 17:08:49 +0000</lastBuildDate>
     <item>
       <title>Наземні роботизовані комплекси</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Наземні роботизовані комплекси дозволяють бійцям Департаменту активних дій ГУР вирішувати непрості задачі на Запорізькому та Лиманському напрямках.</description>
       <pubDate>Tue, 21 Oct 2025 10:48:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Біля Костянтинівки на Донеччин</title>
-      <link>https://www.mandarinai.lt/post/82128</link>
-      <description>Біля Костянтинівки на Донеччині бійці підрозділу ДПСУ «Фенікс» ліквідували майже півроти окупантів, а також спалили російський танк Т-62, 3 автівки, квадроцикл, засіб РЕБ «Штора».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2463.MP4" length="19651423" type="video/mp4"/>
-      <pubDate>Tue, 21 Oct 2025 12:15:21 +0000</pubDate>
     </item>
     <item>
       <title>🤬русня вдарила по проїжджій ча</title>
@@ -32,7 +25,7 @@
       <link>https://www.mandarinai.lt/post/82136</link>
       <description>❗️Заявлено, як проліт української ракети в напрямку Криму.
 
-Групи реактивних/звичайних БпЛА рухаються поирф</description>
+Групи реактивних/звичайних БпЛА рухаються по рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_14-50-16.mp4" length="383290" type="video/mp4"/>
       <pubDate>Tue, 21 Oct 2025 14:50:16 +0000</pubDate>
     </item>
@@ -56,8 +49,12 @@
     <item>
       <title>💥🔥СБУ знищила легкомоторні літ</title>
       <link>https://www.mandarinai.lt/post/82141</link>
-      <description>💥🔥СБУ знищила легкомоторні літаки рф, які перехоплювали далекобійні українські дрони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_15-31-22.mp4" length="3878697" type="video/mp4"/>
+      <description>💥🔥СБУ знищила легкомоторні літаки рф, які перехоплювали далекобійні українські дрони
+
+Спецпризначенці Центру спеціальних операцій «А» СБУ в черговий раз успішно знищили ворожі цілі на тимчасово окупованих територіях.
+
+Цього разу ЦСО «А» ліквідував два легкомоторні літаки, які окупанти розмістили на аеродромах та використовували для збиття українських далекобійних дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2467.MP4" length="21174078" type="video/mp4"/>
       <pubDate>Tue, 21 Oct 2025 15:31:22 +0000</pubDate>
     </item>
     <item>
@@ -66,6 +63,13 @@
       <description>❗️⚠️Ракети і дрони продовжують летіти в бік країни-лайна</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_16-00-29.mp4" length="400696" type="video/mp4"/>
       <pubDate>Tue, 21 Oct 2025 16:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Ми припинили 8 війн і 9-та на</title>
+      <link>https://www.mandarinai.lt/post/82147</link>
+      <description>🙄Ми припинили 8 війн і 9-та наближається, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_16-50-55.mp4" length="1205420" type="video/mp4"/>
+      <pubDate>Tue, 21 Oct 2025 16:50:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
