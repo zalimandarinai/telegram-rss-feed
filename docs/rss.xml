@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 07:09:40 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥 Добрі дрони уразили підстан</title>
-      <link>https://www.mandarinai.lt/post/82154</link>
-      <description>💥🔥 Добрі дрони уразили підстанцію у російському Трубчевську в Брянській області, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_18-58-58.mp4" length="217411" type="video/mp4"/>
-      <pubDate>Tue, 21 Oct 2025 18:58:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 08:14:30 +0000</lastBuildDate>
     <item>
       <title>❗️ ЗСУ розвінчали російський ф</title>
       <link>https://www.mandarinai.lt/post/82157</link>
@@ -121,6 +114,15 @@
 Також відомо про 18 постраждалих у Києві станом на 09:35: звернення продовжують надходити, тому кількість може бути не остаточною, — Ткаченко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-22_06-49-34.mp4" length="884876" type="video/mp4"/>
       <pubDate>Wed, 22 Oct 2025 06:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мирний план Трампа щодо Україн</title>
+      <link>https://www.mandarinai.lt/post/82170</link>
+      <description>Мирний план Трампа щодо України провалився, і путіна це влаштовує, — CNN
+
+Диктатор впевнений, що переможе у війні на виснаження</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-22_07-48-19.jpg" length="90504" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 07:48:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
