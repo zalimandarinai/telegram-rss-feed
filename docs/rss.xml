@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 03:37:40 +0000</lastBuildDate>
-    <item>
-      <title>🙄Ми припинили 8 війн і 9-та на</title>
-      <link>https://www.mandarinai.lt/post/82147</link>
-      <description>🙄Ми припинили 8 війн і 9-та наближається, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_16-50-55.mp4" length="1205420" type="video/mp4"/>
-      <pubDate>Tue, 21 Oct 2025 16:50:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 04:12:10 +0000</lastBuildDate>
     <item>
       <title>На території росії було підірв</title>
       <link>https://www.mandarinai.lt/post/82148</link>
@@ -137,6 +130,32 @@
       <description>🔥💥Українські летючи санкції добралися до Смоленської ТЕЦ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-21_20-16-17.mp4" length="315230" type="video/mp4"/>
       <pubDate>Tue, 21 Oct 2025 20:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Запоріжжя, внаслідок нічної ат</title>
+      <link>https://www.mandarinai.lt/post/82163</link>
+      <description>Запоріжжя, внаслідок нічної атаки росіян травмовано десять людей, горять балкони багатоповерхівки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2475.MP4" length="16636932" type="video/mp4"/>
+      <pubDate>Wed, 22 Oct 2025 03:49:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Атака по Києву, наслідки:
+
+Піс</title>
+      <link>https://www.mandarinai.lt/post/82164</link>
+      <description>Атака по Києву, наслідки:
+
+Після атаки російських нелюдів горить 10-поверхівка в Деснянському районі.
+
+В Дніпровському районі уламки  російського БПЛА влучили на рівні 6-го поверху 16-поверхівки, одна людина загинула, кілька поранено, врятовано 10 людей. 
+
+Дарницький район, влучання в 17-ти поверховий житловий будинок, загоряння на рівні 14-15 поверхів. 
+
+Про це повідомив мер Кличко, зауваживши, що це інформація на 06:40.
+
+Атака ракет та БПЛА по території України ще триває.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2476.MP4" length="3099033" type="video/mp4"/>
+      <pubDate>Wed, 22 Oct 2025 03:53:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
