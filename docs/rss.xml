@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 18:14:25 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦 ЗСУ вибили ворога з селища </title>
-      <link>https://www.mandarinai.lt/post/82193</link>
-      <description>🇺🇦 ЗСУ вибили ворога з селища  Кучерів Яр на Донеччині. Там знову замайорів український прапор, — Генштаб ЗСУ
-
-Населений пункт був захоплений росіянами під час прориву до Добропілля</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-22_14-34-53.mp4" length="579035" type="video/mp4"/>
-      <pubDate>Wed, 22 Oct 2025 14:34:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пропустив важливу новину? 😱
-Не</title>
-      <link>https://www.mandarinai.lt/post/82194</link>
-      <description>Пропустив важливу новину? 😱
-Не переживай — ми вже зібрали все головне за тебе 👇
-
-🗞️ Топ новини України та світу
-💬 Без води — тільки факти
-⚡ Щодня, коротко й по суті
-
-🔔 Підпишись, щоб бути в курсі першими:
-👉 @News_World_Ukr
-
-📲 Новини, які читають, а не гортають.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-22_14-55-28.jpg" length="46724" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 14:55:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 19:07:12 +0000</lastBuildDate>
     <item>
       <title>Могили жителів прифронтової Ко</title>
       <link>https://www.mandarinai.lt/post/82195</link>
@@ -92,6 +65,30 @@
  Подібна тенденція спостерігається і в Польщі — кількість молодих українців там зросла вдесятеро</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-22_17-53-32.jpg" length="21930" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 17:53:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ВМС Британії перехопили росі</title>
+      <link>https://www.mandarinai.lt/post/82208</link>
+      <description>‼️ВМС Британії перехопили російський військовий корабель «Віцеадмірал Кулаков» у своїх територіальних водах, — Sky News
+
+У Північному морі були розгорнуті есмінець HMS Duncan та гелікоптер Wildcat, які  супроводжували російськії корабель через Ла-Манш</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-22_18-49-01.jpg" length="86976" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 18:49:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент вибуху на Лівому берез</title>
+      <link>https://www.mandarinai.lt/post/82209</link>
+      <description>🤬Момент вибуху на Лівому березі Києва сьогодні вранці.
+Дівчину миттєво накриває уламками</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-22_18-51-58.mp4" length="3863723" type="video/mp4"/>
+      <pubDate>Wed, 22 Oct 2025 18:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪Ще один шахед, завдяки нічним</title>
+      <link>https://www.mandarinai.lt/post/82210</link>
+      <description>💪Ще один шахед, завдяки нічним мислмвцям, не долетів до українського енергетичного об’єкта</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-22_19-05-56.mp4" length="594526" type="video/mp4"/>
+      <pubDate>Wed, 22 Oct 2025 19:05:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
