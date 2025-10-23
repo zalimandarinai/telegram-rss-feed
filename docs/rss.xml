@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 11:08:04 +0000</lastBuildDate>
-    <item>
-      <title>❗️Ніяких територіальних поступ</title>
-      <link>https://www.mandarinai.lt/post/82227</link>
-      <description>❗️Ніяких територіальних поступок, — Зеленський.
-
-«Припинення вогню можливе, і нам усім воно потрібне. Але для цього треба більше тиснути на росію».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_07-33-39.mp4" length="1371930" type="video/mp4"/>
-      <pubDate>Thu, 23 Oct 2025 07:33:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Запорізькому напрямку в пол</title>
-      <link>https://www.mandarinai.lt/post/82228</link>
-      <description>На Запорізькому напрямку в полон здався Оладжанзаде Шахмар Агуйли, громадянин Азербайджану, який проходив службу в 247-му дшп російської армії.</description>
-      <pubDate>Thu, 23 Oct 2025 07:43:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В Челябінську вночі вибухнуло</title>
-      <link>https://www.mandarinai.lt/post/82229</link>
-      <description>💥В Челябінську вночі вибухнуло підприємство, яке постачало деталі для ВПК рф.  9 загиблих. Влада каже, аварія🇷🇺</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_08-03-57.mp4" length="6340371" type="video/mp4"/>
-      <pubDate>Thu, 23 Oct 2025 08:03:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇷🇺 США — наш ворог, і їхній ба</title>
-      <link>https://www.mandarinai.lt/post/82230</link>
-      <description>🇷🇺 США — наш ворог, і їхній балакучий «миротворець» тепер повністю взяв курс на війну з росією. Трамп повністю став на бік божевільної Європи, — медведєв</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_08-10-07.jpg" length="59247" type="image/jpeg"/>
-      <pubDate>Thu, 23 Oct 2025 08:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Києві на Оболоні та в Деснян</title>
-      <link>https://www.mandarinai.lt/post/82232</link>
-      <description>В Києві на Оболоні та в Деснянському районі рятувальники знешкодили дрони, які не розірвалися, залетівши до квартир в столичних багатоповерхівках</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_08-19-50.jpg" length="129866" type="image/jpeg"/>
-      <pubDate>Thu, 23 Oct 2025 08:19:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 12:18:00 +0000</lastBuildDate>
     <item>
       <title>На одній з вулиць Покровська, </title>
       <link>https://www.mandarinai.lt/post/82235</link>
@@ -81,6 +45,29 @@
 Відео: прокуратура</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_10-56-37.mp4" length="5015536" type="video/mp4"/>
       <pubDate>Thu, 23 Oct 2025 10:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯 Момент прильоту шахеда у Под</title>
+      <link>https://www.mandarinai.lt/post/82242</link>
+      <description>🤯 Момент прильоту шахеда у Подільському районі Києва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_11-26-32.mp4" length="1180190" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 11:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ізраїль завдав авіаударів по т</title>
+      <link>https://www.mandarinai.lt/post/82243</link>
+      <description>Ізраїль завдав авіаударів по тренувальному табору «Хезболли» в Лівані, — Times of Israel
+
+Табір використовувався для планування атак на Ізраїль, йдеться в повідомленні ЦАХАЛ. Серед інших цілей був завод з виробництва високоточних ракет. Загалом було вражено 16 об’єктів «Хезболли».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_12-10-21.mp4" length="1929104" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 12:10:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вісім людей поранено внаслідок</title>
+      <link>https://www.mandarinai.lt/post/82245</link>
+      <description>Вісім людей поранено внаслідок нічної атаки ворога на Київ. Значні пошкодження житлових будинків, офісного центру та синагоги.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_12-13-28.mp4" length="499680" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 12:13:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
