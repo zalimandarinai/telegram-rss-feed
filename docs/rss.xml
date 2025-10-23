@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 09:10:32 +0000</lastBuildDate>
-    <item>
-      <title>Горить обладнання Рязанського </title>
-      <link>https://www.mandarinai.lt/post/82224</link>
-      <description>Горить обладнання Рязанського НПЗ після того, як прилетіли українські санкції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2505.MP4" length="3828145" type="video/mp4"/>
-      <pubDate>Thu, 23 Oct 2025 06:24:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Києві внаслідок нічної атаки</title>
-      <link>https://www.mandarinai.lt/post/82225</link>
-      <description>В Києві внаслідок нічної атаки пошкоджено бізнес-центр «Доміно» на Подолі, крім того, уламки дрона пошкодили будівлю синагоги, в трьох житлових будинках виникли пожежі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2506.MP4" length="7496498" type="video/mp4"/>
-      <pubDate>Thu, 23 Oct 2025 06:41:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 10:10:08 +0000</lastBuildDate>
     <item>
       <title>❗️Ніяких територіальних поступ</title>
       <link>https://www.mandarinai.lt/post/82227</link>
@@ -73,6 +59,13 @@
 Щирі співчуття рідним і близьким.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_09-04-01.jpg" length="164504" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 09:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Партизанський креатив на окуп</title>
+      <link>https://www.mandarinai.lt/post/82239</link>
+      <description>💥Партизанський креатив на окупованих територіях. Житель Луганська штовхнув колонку, звідки лунали пісні «Океану Ельзи», вона вибухнула і чоловіку розірвало ногу. Русня пише, що колонка була замінована✅</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_09-30-58.jpg" length="200613" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 09:30:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
