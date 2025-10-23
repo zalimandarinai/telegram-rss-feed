@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 03:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 04:10:49 +0000</lastBuildDate>
     <item>
       <title>Пишаюсь польським судом, який </title>
       <link>https://www.mandarinai.lt/post/82203</link>
@@ -82,13 +82,6 @@
       <pubDate>Wed, 22 Oct 2025 21:46:01 +0000</pubDate>
     </item>
     <item>
-      <title>🤬Ворожи дрони атакували ГЕС в </title>
-      <link>https://www.mandarinai.lt/post/82214</link>
-      <description>🤬Ворожи дрони атакували ГЕС в Кам'янському на Дніпропетровщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_02-22-18.mp4" length="516717" type="video/mp4"/>
-      <pubDate>Thu, 23 Oct 2025 02:22:18 +0000</pubDate>
-    </item>
-    <item>
       <title>🥴Я завжди відчував, що путін х</title>
       <link>https://www.mandarinai.lt/post/82215</link>
       <description>🥴Я завжди відчував, що путін хоче забрати усе, а не частину Думаю, зараз він готовий до переговорів, ми не хочемо, щоб він отримав усе, — Трамп
@@ -98,6 +91,20 @@
 «Кожного разу, коли я розмовляю з Володимиром, у мене проходять хороші бесіди, які потім ні до чого не призводять», — додав Дональд Трамп.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_02-25-19.jpg" length="24790" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 02:25:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вибухи і пожежа в районі аеро</title>
+      <link>https://www.mandarinai.lt/post/82216</link>
+      <description>💥Вибухи і пожежа в районі аеродрому у Рязанський області сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_03-53-18.mp4" length="1414196" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 03:53:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Ворожи дрони атакували ГЕС в </title>
+      <link>https://www.mandarinai.lt/post/82217</link>
+      <description>🤬Ворожи дрони атакували ГЕС в Кам'янському на Дніпропетровщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_03-56-07.mp4" length="516717" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 03:56:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
