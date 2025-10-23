@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 06:14:09 +0000</lastBuildDate>
-    <item>
-      <title>❗️🇩🇪 Потік українців 18–22 рок</title>
-      <link>https://www.mandarinai.lt/post/82207</link>
-      <description>❗️🇩🇪 Потік українців 18–22 років до Німеччини різко зростає.
-
-За даними МВС Німеччини, кількість українців віком 18–22 років, що їдуть до ФРН, зросла з 19 осіб на тиждень у серпні до 1400–1800 у жовтні.
-
- Загалом після початку війни до Німеччини прибули
-понад 1,29 млн українців.
-
- Подібна тенденція спостерігається і в Польщі — кількість молодих українців там зросла вдесятеро</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-22_17-53-32.jpg" length="21930" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 17:53:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Момент вибуху на Лівому берез</title>
-      <link>https://www.mandarinai.lt/post/82209</link>
-      <description>🤬Момент вибуху на Лівому березі Києва сьогодні вранці.
-Дівчину миттєво накриває уламками</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-22_18-51-58.mp4" length="3863723" type="video/mp4"/>
-      <pubDate>Wed, 22 Oct 2025 18:51:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪Ще один шахед, завдяки нічним</title>
-      <link>https://www.mandarinai.lt/post/82210</link>
-      <description>💪Ще один шахед, завдяки нічним мисливцям, не долетів до українського енергетичного об’єкта</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-22_19-05-56.mp4" length="594526" type="video/mp4"/>
-      <pubDate>Wed, 22 Oct 2025 19:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Флот Великої Британії перехопи</title>
-      <link>https://www.mandarinai.lt/post/82211</link>
-      <description>Флот Великої Британії перехопив «русский военный корабль» есмінець «Віцеадмірал Кулаков» у британських територіальних водах, — Sky News.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-22_19-15-18.jpg" length="70143" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 19:15:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 07:09:42 +0000</lastBuildDate>
     <item>
       <title>⚡️ США заявили про санкції про</title>
       <link>https://www.mandarinai.lt/post/82213</link>
@@ -94,6 +58,31 @@
       <description>«Шахеди» в Києві вночі літали на дуже низьких висотах буквально над головами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2500.MP4" length="4621925" type="video/mp4"/>
       <pubDate>Thu, 23 Oct 2025 05:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Санкції, які ввів Трамп, серйо</title>
+      <link>https://www.mandarinai.lt/post/82223</link>
+      <description>Санкції, які ввів Трамп, серйозний удар по російській військовій економіці, - Sky News
+
+Нагадаємо, що США впровадили санкції проти нафтогазового сектору росії, а саме проти «Роснефті» та «Лукойлу», перекриваючи головне джерело доходів кремля.
+
+«Це величезні санкції, сподіваюся, вони не триватимуть довго», — цитує Трампа канал.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_06-19-18.jpg" length="86221" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 06:19:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Горить обладнання Рязанського </title>
+      <link>https://www.mandarinai.lt/post/82224</link>
+      <description>Горить обладнання Рязанського НПЗ після того, як прилетіли українські санкції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2505.MP4" length="3828145" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 06:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві внаслідок нічної атаки</title>
+      <link>https://www.mandarinai.lt/post/82225</link>
+      <description>В Києві внаслідок нічної атаки пошкоджено бізнес-центр «Доміно» на Подолі, крім того, уламки дрона пошкодили будівлю синагоги, в трьох житлових будинках виникли пожежі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2506.MP4" length="7496498" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 06:41:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
