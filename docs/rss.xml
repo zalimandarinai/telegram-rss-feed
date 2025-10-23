@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 12:18:00 +0000</lastBuildDate>
-    <item>
-      <title>На одній з вулиць Покровська, </title>
-      <link>https://www.mandarinai.lt/post/82235</link>
-      <description>На одній з вулиць Покровська, під вогнем противника і маневруючи серед мін, водій бронемашини MaxxPro 68-ої окремої єгерської бригади йде на великий ризик і евакуює мирного мешканця, пораненого російським дроном.</description>
-      <pubDate>Thu, 23 Oct 2025 08:31:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 13:24:42 +0000</lastBuildDate>
     <item>
       <title>У Краматорську загинули журнал</title>
       <link>https://www.mandarinai.lt/post/82236</link>
@@ -68,6 +62,17 @@
       <description>Вісім людей поранено внаслідок нічної атаки ворога на Київ. Значні пошкодження житлових будинків, офісного центру та синагоги.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_12-13-28.mp4" length="499680" type="video/mp4"/>
       <pubDate>Thu, 23 Oct 2025 12:13:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Генштаб підтвердив удар по Р</title>
+      <link>https://www.mandarinai.lt/post/82248</link>
+      <description>⚡️Генштаб підтвердив удар по Рязанському НПЗ і складу боєприпасів на Бєлгородщині
+
+Атака відбулася сьогодні вночі. На Рязанському нафтопереробному заводі, який є одним із найбільших у центральній частині рф та належить "Роснефти", спалахнула масштабна пожежа.
+
+ Потужності підприємства передбачають переробку понад 17 мільйонів тонн нафти на рік і відіграють важливу роль у забезпеченні пальним військових формувань противника та логістичних ланцюгів забезпечення окупантів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_12-27-22.jpg" length="73581" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 12:27:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
