@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 16:11:11 +0000</lastBuildDate>
-    <item>
-      <title>Вісім людей поранено внаслідок</title>
-      <link>https://www.mandarinai.lt/post/82245</link>
-      <description>Вісім людей поранено внаслідок нічної атаки ворога на Київ. Значні пошкодження житлових будинків, офісного центру та синагоги.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_12-13-28.mp4" length="499680" type="video/mp4"/>
-      <pubDate>Thu, 23 Oct 2025 12:13:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 17:08:12 +0000</lastBuildDate>
     <item>
       <title>⚡️Генштаб підтвердив удар по Р</title>
       <link>https://www.mandarinai.lt/post/82248</link>
@@ -105,7 +98,7 @@
     <item>
       <title>Перші кадри після удару росіян</title>
       <link>https://www.mandarinai.lt/post/82256</link>
-      <description>Перші кадри після удару росіян по дитячому садочку у Харкові вчора зранку Нагадаємо,  росіяни поцілили в дитячий заклад трьома «шахедами»</description>
+      <description>Перші кадри після удару росіян по дитячому садочку у Харкові вчора зранку. Нагадаємо,  росіяни поцілили в дитячий заклад трьома «шахедами».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-23_15-31-47.mp4" length="2840907" type="video/mp4"/>
       <pubDate>Thu, 23 Oct 2025 15:31:47 +0000</pubDate>
     </item>
@@ -123,6 +116,24 @@
 США «намагаються тиснути санкціями», але «жодна поважна країна не діє під тиском»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-23_15-46-44.jpg" length="22647" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 15:46:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Влад Волошин, речник ОК «Півде</title>
+      <link>https://www.mandarinai.lt/post/82259</link>
+      <description>Влад Волошин, речник ОК «Південь»: «Підтримую флешмоб від Манька із «захопленого» росіянами району Херсона під назвою Корабел».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2519.MP4" length="7966390" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 16:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бригада «Азов» перехопила карт</title>
+      <link>https://www.mandarinai.lt/post/82260</link>
+      <description>Бригада «Азов» перехопила картинку з ворожого FPV-дрона і зафіксувала злочин проти мирного населення на Донеччині. 
+
+Оператор російського безпілотника полює на беззбройних цивільних фермерів і явно отримує садистське задоволення від гонитви. 
+
+Нелюдь довго обирає, в яку сільськогосподарську техніку поцілити і спрямовує дрон на вантажівку, яка перевозить зерно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2534.MP4" length="28493086" type="video/mp4"/>
+      <pubDate>Thu, 23 Oct 2025 16:53:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
