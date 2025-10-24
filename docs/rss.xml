@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 22:08:04 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦 Українські захисники «зачис</title>
-      <link>https://www.mandarinai.lt/post/82290</link>
-      <description>🇺🇦 Українські захисники «зачистили» населений пункт Торське на Лиманському напрямку. Знищені десятки  окупантів, — 425-й окремий штурмовий полк "Скала"
-
-Відео згодом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-24_14-55-31.jpg" length="113225" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 14:55:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 23:08:54 +0000</lastBuildDate>
     <item>
       <title>😡 Окупанти атакували безпілотн</title>
       <link>https://www.mandarinai.lt/post/82291</link>
@@ -125,6 +116,15 @@
 Дамбу атакували кілька ракет HIMARS. На дамбі пошкоджено обладнання, кілька будівель та підйомні механізми одного зі шлюзів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-24_21-06-08.jpg" length="160923" type="image/jpeg"/>
       <pubDate>Fri, 24 Oct 2025 21:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇫🇷 Франція готова за потреби р</title>
+      <link>https://www.mandarinai.lt/post/82305</link>
+      <description>🇫🇷 Франція готова за потреби розгорнути війська в Україні у 2026 році,— начальник штабу сухопутних військ Франції П'єр Шиль
+
+Ми будемо готові розгорнути сили в межах гарантій безпеки, якщо це буде необхідно</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-24_22-33-35.jpg" length="125488" type="image/jpeg"/>
+      <pubDate>Fri, 24 Oct 2025 22:33:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
