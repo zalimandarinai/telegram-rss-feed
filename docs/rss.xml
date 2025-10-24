@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 16:11:00 +0000</lastBuildDate>
-    <item>
-      <title>Троє людей загинули внаслідок </title>
-      <link>https://www.mandarinai.lt/post/82279</link>
-      <description>Троє людей загинули внаслідок масованого російського обстрілу Херсона з РСЗВ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-24_08-22-13.jpg" length="76536" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 08:22:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Чотири поспіль прильоти КАБів</title>
-      <link>https://www.mandarinai.lt/post/82281</link>
-      <description>🤬Чотири поспіль прильоти КАБів по одному району Харкова –наразі відомо про трьох постраждалих, під завалами ще можуть бути люди</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-24_08-44-22.jpg" length="50021" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 08:44:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 17:08:15 +0000</lastBuildDate>
     <item>
       <title>❗️Трамп вирішив запровадити жо</title>
       <link>https://www.mandarinai.lt/post/82283</link>
@@ -144,6 +130,22 @@
 На засіданні Коаліції охочих в Лондоні особисто присутні президент України Володимир Зеленський, прем’єр Великої Британії Кір Стармер, прем’єрка Данії Метте Фредеріксен, прем’єр Нідерландів Дік Шуф і генсек НАТО Марк Рютте. Решта лідерів беруть участь в онлайн режимі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-24_15-38-55.jpg" length="236596" type="image/jpeg"/>
       <pubDate>Fri, 24 Oct 2025 15:38:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Нові літаки, ракети та навча</title>
+      <link>https://www.mandarinai.lt/post/82295</link>
+      <description>‼️Нові літаки, ракети та навчання пілотів: Франція передасть Україні додаткову військову допомогу, а Британія — 5000 нових ракет багатоцільового призначення
+
+Макрон уточнив, що Париж скоро передасть Україні літаки Mirage 2000, ракети Aster, SAMP/T, а також розпочне програми підготовки українських пілотів на винищувачах Mirage.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-24_16-20-43.mp4" length="453311" type="video/mp4"/>
+      <pubDate>Fri, 24 Oct 2025 16:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅У путіна закінчуються гроші т</title>
+      <link>https://www.mandarinai.lt/post/82296</link>
+      <description>✅У путіна закінчуються гроші та ідеї, – Генсек НАТО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-24_16-32-20.mp4" length="2010559" type="video/mp4"/>
+      <pubDate>Fri, 24 Oct 2025 16:32:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
