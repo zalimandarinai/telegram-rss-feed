@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 19:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 20:09:12 +0000</lastBuildDate>
     <item>
       <title>🤬У Києві рятувальники досі гас</title>
       <link>https://www.mandarinai.lt/post/82329</link>
@@ -70,7 +70,7 @@
 
 Через обмеження Китай істотно зменшив закупівлі російської нафти, а Індія повністю припинила її імпорт.
 
-Сподіваємось, що це несправді, а не лише в уяві Трампа</description>
+Сподіваємось, що це насправді, а не лише в уяві Трампа</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-25_18-59-54.mp4" length="1215679" type="video/mp4"/>
       <pubDate>Sat, 25 Oct 2025 18:59:54 +0000</pubDate>
     </item>
