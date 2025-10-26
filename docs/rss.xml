@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 14:07:16 +0000</lastBuildDate>
-    <item>
-      <title>🛸 Який вигляд та розмір має ро</title>
-      <link>https://www.mandarinai.lt/post/82360</link>
-      <description>🛸 Який вигляд та розмір має російський смертоносний дрон "Герань 2", він же "Shahed-136" — тепер можна побачити у Києві на Михайлівській площі. 
-
-Фото: ТСН.uа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_10-46-37.jpg" length="166249" type="image/jpeg"/>
-      <pubDate>Sun, 26 Oct 2025 10:46:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>💩П'ять рівнів ППО.  рф «оточил</title>
-      <link>https://www.mandarinai.lt/post/82363</link>
-      <description>💩П'ять рівнів ППО.  рф «оточила» москву системами ППО з усіх сторін, — осінтери
-
-Серед них — «Панцирь», С-300 та С-400. ЗРК не стоять на всіх позиціях постійно – їх час від часу переміщують. Системи до столиці досі стягують й з інших регіонів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_11-22-06.jpg" length="333013" type="image/jpeg"/>
-      <pubDate>Sun, 26 Oct 2025 11:22:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 15:07:39 +0000</lastBuildDate>
     <item>
       <title>🥴Зеленський сказав мені, що Ук</title>
       <link>https://www.mandarinai.lt/post/82367</link>
@@ -75,6 +57,34 @@
 заявили, що комітет, створений для спротиву війні рф проти України, планує «насильницьке захоплення влади».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_13-40-58.jpg" length="100570" type="image/jpeg"/>
       <pubDate>Sun, 26 Oct 2025 13:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩пєсков не вірить, що Україна </title>
+      <link>https://www.mandarinai.lt/post/82375</link>
+      <description>💩пєсков не вірить, що Україна самостійно виробляє далекобійні ракети, та знову погрожує приголомшливою відповіддю рф у разі передачі Києву «Томогавків».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_14-25-29.mp4" length="3101335" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 14:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Руйнування внаслідок атаки на</title>
+      <link>https://www.mandarinai.lt/post/82376</link>
+      <description>💥Руйнування внаслідок атаки на Білгородську дамбу загрожують затопоенню позиції підрозділів 6-ї армії РФ, а саме 68/69 дивізії та 44-го армійського корпусу, - росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_14-28-57.mp4" length="162671" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 14:28:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Момент сьогоднішнього влучан</title>
+      <link>https://www.mandarinai.lt/post/82377</link>
+      <description>💥🔥Момент сьогоднішнього влучання по білгородській дамбі та його наслідки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_14-37-14.mp4" length="2881508" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 14:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кадри удару по багатоповерхівц</title>
+      <link>https://www.mandarinai.lt/post/82381</link>
+      <description>Кадри удару по багатоповерхівці в Сумах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2587.MP4" length="8082842" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 15:02:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
