@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 16:09:20 +0000</lastBuildDate>
-    <item>
-      <title>Кадри удару по багатоповерхівц</title>
-      <link>https://www.mandarinai.lt/post/82381</link>
-      <description>Кадри удару по багатоповерхівці в Сумах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2587.MP4" length="8082842" type="video/mp4"/>
-      <pubDate>Sun, 26 Oct 2025 15:02:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 17:07:35 +0000</lastBuildDate>
     <item>
       <title>«Ви правда збираєтеся цитувати</title>
       <link>https://www.mandarinai.lt/post/82382</link>
@@ -81,6 +74,31 @@
 Повідомляється, що горить Серпуховська нафтобаза у Московській області. Раніше в регіоні оголошували тривогу через  БПЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_15-59-44.jpg" length="153474" type="image/jpeg"/>
       <pubDate>Sun, 26 Oct 2025 15:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Росіяни дроном спалили автоб</title>
+      <link>https://www.mandarinai.lt/post/82392</link>
+      <description>🤬 Росіяни дроном спалили автобус біля Сум, серед поранених є дитина 
+
+Російський дрон поцілив у мікроавтобус на трасі поблизу Миколаївської сільської громади. Ворог прицільно вдарив по пасажирському транспорту - просто по мирних людях, які їхали в автобусі.
+
+Попередньо, п’ятеро людей поранені, серед них - неповнолітня дитина. Одна людина у тяжкому стані</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_16-33-33.jpg" length="55793" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 16:33:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кілька одиниць важкої бронетех</title>
+      <link>https://www.mandarinai.lt/post/82393</link>
+      <description>Кілька одиниць важкої бронетехніки втопили росіяни під час спроби штурму в районі Добропілля. Противник вирішив, що погана погода йому допоможе просунутися, і висунувся на штурм. Але техніку накрилиHIMARS, FPV та артилерія 33-ї окремої механізованої бригади.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_16-47-19.jpg" length="69626" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 16:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Друзі, батальйон «Сила Свобо</title>
+      <link>https://www.mandarinai.lt/post/82395</link>
+      <description>❗️Друзі, батальйон «Сила Свободи» щиро дякує вам за «нічний дрон», який вже допомагає нашим бійцям втримувати позиції навколо Добропілля. 💛💙</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2591.MP4" length="3397046" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 16:59:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
