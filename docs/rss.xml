@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 10:08:52 +0000</lastBuildDate>
-    <item>
-      <title>«Шахед» в Києві влучив у багат</title>
-      <link>https://www.mandarinai.lt/post/82343</link>
-      <description>«Шахед» в Києві влучив у багатоповерхівку, 26 поранених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_04-20-25.jpg" length="22314" type="image/jpeg"/>
-      <pubDate>Sun, 26 Oct 2025 04:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Києві вже відомо про 28 по</title>
-      <link>https://www.mandarinai.lt/post/82345</link>
-      <description>⚡️У Києві вже відомо про 28 постражлалих від російської атаки, серед них 6 дітей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_04-32-16.mp4" length="350152" type="video/mp4"/>
-      <pubDate>Sun, 26 Oct 2025 04:32:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 11:03:35 +0000</lastBuildDate>
     <item>
       <title>Підтверджена загибель трьох лю</title>
       <link>https://www.mandarinai.lt/post/82347</link>
@@ -95,6 +81,31 @@ https://send.monobank.ua/jar/33UvRAEYMd
 ▪️У Покровську росіяни накопичили близько 200 військовослужбовців, там тривають стрілецькі бої, активно працюють підрозділи БпЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_09-54-45.jpg" length="23986" type="image/jpeg"/>
       <pubDate>Sun, 26 Oct 2025 09:54:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар по Кривому Рогу, над житл</title>
+      <link>https://www.mandarinai.lt/post/82358</link>
+      <description>Удар по Кривому Рогу, над житловою забудовою піднімається дим</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2569.MP4" length="768434" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 10:14:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В рф представили нову крилат</title>
+      <link>https://www.mandarinai.lt/post/82359</link>
+      <description>⚡️В рф представили нову крилату ракету з ядерною установкою «Буревісник», здатну долати понад 14 тис. км, — путін.
+
+За його словами, зброя нібито може обійти будь-яку систему ППО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_10-28-11.jpg" length="114589" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 10:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛸 Який вигляд та розмір має ро</title>
+      <link>https://www.mandarinai.lt/post/82360</link>
+      <description>🛸 Який вигляд та розмір має російський смертоносний дрон "Герань 2", він же "Shahed-136" — тепер можна побачити у Києві на Михайлівській площі. 
+
+Фото: ТСН.uа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_10-46-37.jpg" length="166249" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 10:46:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
