@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 19:03:35 +0000</lastBuildDate>
-    <item>
-      <title>💥Руйнування внаслідок атаки на</title>
-      <link>https://www.mandarinai.lt/post/82385</link>
-      <description>💥Руйнування внаслідок атаки на Білгородську дамбу загрожують затопоенню позиції підрозділів 6-ї армії РФ, а саме 68/69 дивізії та 44-го армійського корпусу, - росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_15-31-46.mp4" length="162671" type="video/mp4"/>
-      <pubDate>Sun, 26 Oct 2025 15:31:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀Кривий Ріг. Що це було?</title>
-      <link>https://www.mandarinai.lt/post/82387</link>
-      <description>👀Кривий Ріг. Що це було?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_15-40-16.mp4" length="298749" type="video/mp4"/>
-      <pubDate>Sun, 26 Oct 2025 15:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>💔🥀Через ворожу атаку у Києві з</title>
-      <link>https://www.mandarinai.lt/post/82388</link>
-      <description>💔🥀Через ворожу атаку у Києві загинули 19-річна Анастасія Маслій та її мама
-
-💬 "Яскрава, талановита, розумна дівчина, сповнена мрій і планів на майбутнє… Згадуємо Настю як добру, щиру, усміхнену дівчину, якій ще жити і жити", – йдеться у повідомленні столичного ліцею "Лідер", випускницею якого була Анастасія.
-
-
-Щирі співчуття рідним і близьким</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_15-56-11.jpg" length="114115" type="image/jpeg"/>
-      <pubDate>Sun, 26 Oct 2025 15:56:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Сильна пожежа на нафтобазі б</title>
-      <link>https://www.mandarinai.lt/post/82389</link>
-      <description>🔥 Сильна пожежа на нафтобазі біля Москви 
-
-Повідомляється, що горить Серпуховська нафтобаза у Московській області. Раніше в регіоні оголошували тривогу через  БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_15-59-44.jpg" length="153474" type="image/jpeg"/>
-      <pubDate>Sun, 26 Oct 2025 15:59:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 20:09:30 +0000</lastBuildDate>
     <item>
       <title>🤬 Росіяни дроном спалили автоб</title>
       <link>https://www.mandarinai.lt/post/82392</link>
@@ -84,6 +49,33 @@
 Водночас, як вважає Зеленський, президент США тримає відкритим переговорне вікно для путіна.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_18-34-41.jpg" length="112622" type="image/jpeg"/>
       <pubDate>Sun, 26 Oct 2025 18:34:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Зеленський спростував оточе</title>
+      <link>https://www.mandarinai.lt/post/82399</link>
+      <description>‼️ Зеленський спростував оточення біля Куп'янська на Покровська: це фейк, щоб обурити  США  фальшивими перемогами, - ТСН-Тиждень
+
+Президент спростував російські повідомлення про нібито оточення до 5000 українських військових в районі Куп’янська та Покровська. 
+
+"Це повна брехня. І не перша", - повідомив Зеленський у телефонній розмові з ведучою "ТСН Тиждень" Аллою Мазур. 
+
+Він додав, що це фейк, спрямований на США, щоб створити враження перемоги росіян.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_19-11-00.jpg" length="82030" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 19:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Москву атакують безпілотники,</title>
+      <link>https://www.mandarinai.lt/post/82400</link>
+      <description>💥Москву атакують безпілотники, - мер Собянін</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_19-28-31.mp4" length="877075" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 19:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Під час атаки на столицю імпе</title>
+      <link>https://www.mandarinai.lt/post/82403</link>
+      <description>🔥Під час атаки на столицю імперії лайна з'явилось задимлення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_20-02-10.jpg" length="94485" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 20:02:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
