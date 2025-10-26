@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 06:12:45 +0000</lastBuildDate>
-    <item>
-      <title>😡русня почала атакувати дронам</title>
-      <link>https://www.mandarinai.lt/post/82333</link>
-      <description>😡русня почала атакувати дронами віряки біля Краматорську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-25_16-19-54.mp4" length="711511" type="video/mp4"/>
-      <pubDate>Sat, 25 Oct 2025 16:19:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 07:07:45 +0000</lastBuildDate>
     <item>
       <title>🦅 Україна може збивати реактив</title>
       <link>https://www.mandarinai.lt/post/82335</link>
@@ -80,6 +73,13 @@
       <description>⚡️У Києві вже відомо про 28 постражлалих від російської атаки, серед них 6 дітей</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-26_04-32-16.mp4" length="350152" type="video/mp4"/>
       <pubDate>Sun, 26 Oct 2025 04:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підтверджена загибель трьох лю</title>
+      <link>https://www.mandarinai.lt/post/82347</link>
+      <description>Підтверджена загибель трьох людей у столиці, постраждалих уже 29, серед них 6 дітей, - Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2562.MP4" length="3297373" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 06:35:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
