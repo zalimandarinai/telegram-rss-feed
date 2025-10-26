@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 07:07:45 +0000</lastBuildDate>
-    <item>
-      <title>🦅 Україна може збивати реактив</title>
-      <link>https://www.mandarinai.lt/post/82335</link>
-      <description>🦅 Україна може збивати реактивні КАБи РФ, — представник ПС Юрій Ігнат
-
-💬 «Це та сама бомба, випущена з літака Су-34. За параметрами польоту вона схожа на крилату ракету, тому її можна перехоплювати засобами ППО», — зазначив він.
-
-Учора окупанти вперше вдарили по Одещині трьома реактивними КАБами: дві збили, одна впала без наслідків.
-
-Ігнат пояснив, що росіяни лише тестують нові КАБи, а українська ППО вже довела, що здатна їх знищувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-25_16-41-00.jpg" length="24894" type="image/jpeg"/>
-      <pubDate>Sat, 25 Oct 2025 16:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Останній вітрогенератор біля </title>
-      <link>https://www.mandarinai.lt/post/82336</link>
-      <description>😡Останній вітрогенератор біля Краматорську уражений ворожим fpv</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-25_16-58-12.mp4" length="1756669" type="video/mp4"/>
-      <pubDate>Sat, 25 Oct 2025 16:58:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 08:11:08 +0000</lastBuildDate>
     <item>
       <title>😐Тим часом у  Німеччині підірв</title>
       <link>https://www.mandarinai.lt/post/82337</link>
@@ -80,6 +60,27 @@
       <description>Підтверджена загибель трьох людей у столиці, постраждалих уже 29, серед них 6 дітей, - Кличко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2562.MP4" length="3297373" type="video/mp4"/>
       <pubDate>Sun, 26 Oct 2025 06:35:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупант вирішив, що наземний д</title>
+      <link>https://www.mandarinai.lt/post/82348</link>
+      <description>Окупант вирішив, що наземний дрон варто підірвати гранатою. Але не розрахував, що НРК вже був з вибухівкою. Оператори 38-ої бригади морської піхоти спостерігали потужний феєрверк.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2564.MP4" length="6710480" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 07:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Згорілі вщент квартири зсереди</title>
+      <link>https://www.mandarinai.lt/post/82349</link>
+      <description>Згорілі вщент квартири зсередини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2565.MP4" length="12011954" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 07:31:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 Окрім села Сухецьке, ЗСУ зв</title>
+      <link>https://www.mandarinai.lt/post/82350</link>
+      <description>🇺🇦 Окрім села Сухецьке, ЗСУ звільнили ще два населені пункти на Добропільському виступі - Кучеров Яр та Затишок, а також відкинули супротивника поблизу Миканорівки, Нового Шахового та у Федорівці -  повідомляє Deep State</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_07-52-34.jpg" length="96135" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 07:52:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
