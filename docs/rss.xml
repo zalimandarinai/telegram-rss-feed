@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 13:15:58 +0000</lastBuildDate>
-    <item>
-      <title>Удар по Кривому Рогу, над житл</title>
-      <link>https://www.mandarinai.lt/post/82358</link>
-      <description>Удар по Кривому Рогу, над житловою забудовою піднімається дим</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2569.MP4" length="768434" type="video/mp4"/>
-      <pubDate>Sun, 26 Oct 2025 10:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️В рф представили нову крилат</title>
-      <link>https://www.mandarinai.lt/post/82359</link>
-      <description>⚡️В рф представили нову крилату ракету з ядерною установкою «Буревісник», здатну долати понад 14 тис. км, — путін.
-
-За його словами, зброя нібито може обійти будь-яку систему ППО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_10-28-11.jpg" length="114589" type="image/jpeg"/>
-      <pubDate>Sun, 26 Oct 2025 10:28:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 14:07:16 +0000</lastBuildDate>
     <item>
       <title>🛸 Який вигляд та розмір має ро</title>
       <link>https://www.mandarinai.lt/post/82360</link>
@@ -72,6 +56,25 @@
 Мета ворога очевидна: залишити українців без життєво необхідних препаратів. Вони нищать те, що рятує життя.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_12-59-34.jpg" length="105902" type="image/jpeg"/>
       <pubDate>Sun, 26 Oct 2025 12:59:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрони спецпідрозділу ГУР «Прим</title>
+      <link>https://www.mandarinai.lt/post/82373</link>
+      <description>Дрони спецпідрозділу ГУР «Примари» спалили в Криму катер БК-16 і три РЛС:  96Л6 від ЗРК С-400,  55Ж6У «Небо-У», П-18 «Терек».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2573.MP4" length="19558369" type="video/mp4"/>
+      <pubDate>Sun, 26 Oct 2025 13:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нібито путін боїться заколоту </title>
+      <link>https://www.mandarinai.lt/post/82374</link>
+      <description>Нібито путін боїться заколоту через більшу економічну слабкість росії, — The Telegraph
+
+За даними видання, фсб звинуватила Михайла Ходорковського та ще 22 членів російського антивоєнного комітету у нібито підготовці держперевороту. 
+
+Кремлівські неоопричники
+заявили, що комітет, створений для спротиву війні рф проти України, планує «насильницьке захоплення влади».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-26_13-40-58.jpg" length="100570" type="image/jpeg"/>
+      <pubDate>Sun, 26 Oct 2025 13:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
