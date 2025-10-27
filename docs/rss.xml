@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 15:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 16:11:32 +0000</lastBuildDate>
     <item>
       <title>❗️«Шість рядів блоків не вряту</title>
       <link>https://www.mandarinai.lt/post/82421</link>
@@ -116,6 +116,17 @@ https://youtu.be/-GJPjYYxTAE?si=i6tDsMJW6Ym2D3YW</description>
 росіяни стверджують, що ці БпЛА «не дають підняти їм голови, не те, що пересуватися на техніці».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-27_14-57-51.mp4" length="5172408" type="video/mp4"/>
       <pubDate>Mon, 27 Oct 2025 14:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Заява Лаврова про нібито "го</title>
+      <link>https://www.mandarinai.lt/post/82435</link>
+      <description>❗️Заява Лаврова про нібито "готовність прийняти" концепцію США щодо України стосуються діалогу путіна і Трампа на Алясці, а не пропозиції Трампа заморозити конфлікт по лінії фронту
+
+Тобто, агресор все ще вимагає повної окупації Донбасу тощо.
+
+"Президент росії  путін(під час саміту на Алясці - ред.) докладно повторив кожен елемент концепції, привезеної спецпосланцем президента США Стівом Віткоффом, і запитував його, оскільки він був присутній на переговорах в Анкориджі: "Чи це правда? Чи це так?" Все було підтверджено", - сказав Лавров.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_15-39-56.jpg" length="34305" type="image/jpeg"/>
+      <pubDate>Mon, 27 Oct 2025 15:39:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
