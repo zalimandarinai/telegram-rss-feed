@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 19:07:25 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦 Військторг VIK TAILOR – укр</title>
-      <link>https://www.mandarinai.lt/post/82431</link>
-      <description>🇺🇦 Військторг VIK TAILOR – українське спорядження, перевірене в реальних польових умовах.
-Надійність, зручність і якість, яким довіряють військові та тактичні підрозділи.
-🔥 Новинки вже на сайті:
-• Куртки – від 800 грн
-• Взуття та берці – від 1650 грн
-• Штани – від 1500 грн
-• Термобілизна – від 545 грн
-Переглянь усі новинки тут 👉 viktailor.com/novynky</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_13-52-48.jpg" length="228239" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 13:52:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴 Жодних зрушень щодо нового р</title>
-      <link>https://www.mandarinai.lt/post/82432</link>
-      <description>🥴 Жодних зрушень щодо нового раунду переговорів росії з Україною немає, — заявив заступник очільника МЗС рф Михайло Галузін.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_14-24-06.jpg" length="141275" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 14:24:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 20:08:14 +0000</lastBuildDate>
     <item>
       <title>🔥 Рої українських дронів контр</title>
       <link>https://www.mandarinai.lt/post/82433</link>
@@ -109,6 +88,22 @@
 🔹 12-річна Соня й 9-річний Тимофій боялися ходити до російської школи. Однокласник прямо сказав Соні: «Її треба вбити, бо вона — з України». На Тимофія постійно психологічно тиснули і знущались над ним.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_18-57-04.jpg" length="52134" type="image/jpeg"/>
       <pubDate>Mon, 27 Oct 2025 18:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Гарне полювання на Покровсько</title>
+      <link>https://www.mandarinai.lt/post/82446</link>
+      <description>👌Гарне полювання на Покровському напрямку — спецпризначенців ГРУ рф взято в полон нашими бійцями 92-ї ОШБр.
+
+Військовий з позивним «Алекс» акцентує на пріоритеті цього напрямку для ворога</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_19-23-16.jpg" length="101487" type="image/jpeg"/>
+      <pubDate>Mon, 27 Oct 2025 19:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Позиції російських військових </title>
+      <link>https://www.mandarinai.lt/post/82447</link>
+      <description>Позиції російських військових після підриву дамби на Білгородщині виглядають зараз так.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2639.MP4" length="2103122" type="video/mp4"/>
+      <pubDate>Mon, 27 Oct 2025 19:23:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
