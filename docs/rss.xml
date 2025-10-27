@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 14:10:16 +0000</lastBuildDate>
-    <item>
-      <title>Під час транспортування поміче</title>
-      <link>https://www.mandarinai.lt/post/82416</link>
-      <description>Під час транспортування помічена нова 155-мм китайська САУ з повністю автономною баштою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_09-51-45.jpg" length="202873" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 09:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚔️🪖 Армія рф просунулася побли</title>
-      <link>https://www.mandarinai.lt/post/82417</link>
-      <description>⚔️🪖 Армія рф просунулася поблизу Одрадного на Харківщині, біля Вишневого та Злагоди в Дніпропетровській області, — DeepState</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_09-56-14.jpg" length="76195" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 09:56:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥 Дрони ССО знищили нафтобазу</title>
-      <link>https://www.mandarinai.lt/post/82418</link>
-      <description>💥🔥 Дрони ССО знищили нафтобазу та прифронтовий склад палива рашистів в окупованій Луганській області Удару було завдано в момент, коли цистерни були заповнені, що посилило ефект.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2606.MP4" length="7417042" type="video/mp4"/>
-      <pubDate>Mon, 27 Oct 2025 09:56:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 15:10:06 +0000</lastBuildDate>
     <item>
       <title>❗️«Шість рядів блоків не вряту</title>
       <link>https://www.mandarinai.lt/post/82421</link>
@@ -121,6 +100,22 @@ https://youtu.be/-GJPjYYxTAE?si=i6tDsMJW6Ym2D3YW</description>
 Переглянь усі новинки тут 👉 viktailor.com/novynky</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_13-52-48.jpg" length="228239" type="image/jpeg"/>
       <pubDate>Mon, 27 Oct 2025 13:52:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴 Жодних зрушень щодо нового р</title>
+      <link>https://www.mandarinai.lt/post/82432</link>
+      <description>🥴 Жодних зрушень щодо нового раунду переговорів росії з Україною немає, — заявив заступник очільника МЗС рф Михайло Галузін.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_14-24-06.jpg" length="141275" type="image/jpeg"/>
+      <pubDate>Mon, 27 Oct 2025 14:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Рої українських дронів контр</title>
+      <link>https://www.mandarinai.lt/post/82433</link>
+      <description>🔥 Рої українських дронів контролють небо над Покровськом
+
+росіяни стверджують, що ці БпЛА «не дають підняти їм голови, не те, що пересуватися на техніці».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-27_14-57-51.mp4" length="5172408" type="video/mp4"/>
+      <pubDate>Mon, 27 Oct 2025 14:57:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
