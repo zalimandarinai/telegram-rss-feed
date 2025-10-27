@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 17:08:16 +0000</lastBuildDate>
-    <item>
-      <title>✅У русні мінус один штурмовий </title>
-      <link>https://www.mandarinai.lt/post/82425</link>
-      <description>✅У русні мінус один штурмовий гелікоптер.
-Вічнрго кабзона!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_11-25-45.jpg" length="121708" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 11:25:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 18:13:49 +0000</lastBuildDate>
     <item>
       <title>🇸🇪 Шведський концерн SAAB заяв</title>
       <link>https://www.mandarinai.lt/post/82427</link>
@@ -109,6 +101,24 @@ https://youtu.be/-GJPjYYxTAE?si=i6tDsMJW6Ym2D3YW</description>
       <description>🤬У Чернігові внаслідок атаки рф двоє постраждалих, зруйновані приватні споруди та пошкоджено об'єкт критичної інфраструктури</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-27_16-32-17.mp4" length="577410" type="video/mp4"/>
       <pubDate>Mon, 27 Oct 2025 16:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩Норвегія підтвердила, що росі</title>
+      <link>https://www.mandarinai.lt/post/82440</link>
+      <description>💩Норвегія підтвердила, що росія випробувала ядерну крилату ракету, — Reuters
+
+Військова розвідка заявила, що випробування ракети «Буревісник» відбулося на арктичному архіпелазі Нова Земля</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_17-23-30.jpg" length="20141" type="image/jpeg"/>
+      <pubDate>Mon, 27 Oct 2025 17:23:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Ставці ухвалено сьогодні
+рі</title>
+      <link>https://www.mandarinai.lt/post/82441</link>
+      <description>На Ставці ухвалено сьогодні
+рішення розширити масштаб та географію далекобійних ударів по території російської федерації, - Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-27_17-25-25.jpg" length="57843" type="image/jpeg"/>
+      <pubDate>Mon, 27 Oct 2025 17:25:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
