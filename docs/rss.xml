@@ -6,52 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 04:15:45 +0000</lastBuildDate>
-    <item>
-      <title>Журналісти німецького видання </title>
-      <link>https://www.mandarinai.lt/post/82475</link>
-      <description>Журналісти німецького видання Welt поранені внаслідок атаки російського БПЛА на сході України.
-
-Атака сталася приблизно за 25–30 кілометрів на віддаленні від лінії бойового зіткнення. 
-
-Повідомляють, що серед військових, з якими спілкувались журналісти, є загиблий та поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2653.MP4" length="4217097" type="video/mp4"/>
-      <pubDate>Tue, 28 Oct 2025 15:56:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ліквідація дрона-«ждуна» в рай</title>
-      <link>https://www.mandarinai.lt/post/82477</link>
-      <description>Ліквідація дрона-«ждуна» в районі Вовчанська.
-
-Такі пастки знаходить та нейтралізує батарея артилерійської розвідки 57-ої окремої мотопіхотної бригади ім.Костя Гордієнка.
-
-Безпілотники на оптоволокні зазвичай чекають на автівки й намагаються зіпсувати логістику Сил оборони України, тож знищення «ждунів» важлива та ефективна робота, яка рятує українських військовослужбовців.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2654.MP4" length="8474666" type="video/mp4"/>
-      <pubDate>Tue, 28 Oct 2025 16:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Човен з ворожим десантом, який</title>
-      <link>https://www.mandarinai.lt/post/82478</link>
-      <description>Човен з ворожим десантом, який намагався дістатися позицій ЗСУ на Дніпрі, був знищений 2-им батальйоном 40-ї ОБрБО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2655.MP4" length="19821865" type="video/mp4"/>
-      <pubDate>Tue, 28 Oct 2025 16:24:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Пуск ракети GMLRS з РСЗВ M270</title>
-      <link>https://www.mandarinai.lt/post/82479</link>
-      <description>💥Пуск ракети GMLRS з РСЗВ M270 по ворожим позиціям на Донеччині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-28_17-43-41.mp4" length="322231" type="video/mp4"/>
-      <pubDate>Tue, 28 Oct 2025 17:43:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Під вогнем і вибухами: десан</title>
-      <link>https://www.mandarinai.lt/post/82480</link>
-      <description>🔥 Під вогнем і вибухами: десантники показали евакуацію побратима після удару КАБом
-
-Попри небезпеку, військові діяли злагоджено й професійно: чітко прорахували маршрут, організували прикриття дронами та відступили після виконання завдання</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-28_18-04-25.mp4" length="7074772" type="video/mp4"/>
-      <pubDate>Tue, 28 Oct 2025 18:04:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 05:10:04 +0000</lastBuildDate>
     <item>
       <title>❗️Ізраїль завдав серію авіауда</title>
       <link>https://www.mandarinai.lt/post/82482</link>
@@ -98,6 +53,20 @@
       <description>🔥Наліт зграй демократичних дронів на імперію лайна</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-28_21-53-43.jpg" length="194825" type="image/jpeg"/>
       <pubDate>Tue, 28 Oct 2025 21:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Влучання по енергетичним об'є</title>
+      <link>https://www.mandarinai.lt/post/82491</link>
+      <description>💥Влучання по енергетичним об'єктам ворога у Ставропольському краї, біля Ульяновска та Йошкар-Ола. Результат уточнюється🔥</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-29_04-54-06.jpg" length="87738" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 04:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Ранкове задимлення після прил</title>
+      <link>https://www.mandarinai.lt/post/82496</link>
+      <description>🔥Ранкове задимлення після прильоту в окупованому Гвардійському(Крим)</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-29_04-56-08.jpg" length="168506" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 04:56:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
