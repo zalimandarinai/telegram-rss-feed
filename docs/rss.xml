@@ -6,35 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 05:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 06:14:56 +0000</lastBuildDate>
     <item>
       <title>❗️Ізраїль завдав серію авіауда</title>
-      <link>https://www.mandarinai.lt/post/82482</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️Ізраїль завдав серію авіаударів по Сектору Гази, – Al Jazeera.
 
 Не кажіть Трампу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-28_18-35-39.mp4" length="901761" type="video/mp4"/>
       <pubDate>Tue, 28 Oct 2025 18:35:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Ріо-де-Жанейро почалась ма</title>
-      <link>https://www.mandarinai.lt/post/82483</link>
-      <description>⚡️У Ріо-де-Жанейро почалась масштабна операція проти наркокартелів — влада назвала її «війною».
-
-Понад 2 500 силовиків задіяні в боях, загинуло щонайменше 60 людей. Банди використовують дрони для опору поліції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-28_18-36-57.mp4" length="6155964" type="video/mp4"/>
-      <pubDate>Tue, 28 Oct 2025 18:36:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ росіяни на Покровському нап</title>
-      <link>https://www.mandarinai.lt/post/82486</link>
-      <description>‼️ росіяни на Покровському напрямку зайшли на околиці Мирнограда: тривають вуличні бої
-
-Речник угруповання військ "Схід" Григорій Шаповал заявив, що російським окупантам вдалося прорватися на околиці міста Мирноград на Покровському напрямку. 
-
-Він зазначив, що українські захисники утримують позиції та облаштовують фортифікаційні споруди.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-28_19-33-03.jpg" length="131650" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 19:33:03 +0000</pubDate>
     </item>
     <item>
       <title>😡Китай скорочує постачання ком</title>
@@ -67,6 +46,20 @@
       <description>🔥Ранкове задимлення після прильоту в окупованому Гвардійському(Крим)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-29_04-56-08.jpg" length="168506" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 04:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺Розвідка США не бачить жодни</title>
+      <link>https://www.mandarinai.lt/post/82497</link>
+      <description>🇷🇺Розвідка США не бачить жодних ознак готовності рф до компромісу щодо України, а путін, як ніколи раніше, прагне продовжувати війну, – NBC News</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-29_05-50-30.jpg" length="150142" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 05:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥💥Палаюча нафтобаза під Симфер</title>
+      <link>https://www.mandarinai.lt/post/82498</link>
+      <description>🔥💥Палаюча нафтобаза під Симферополем передає ранкове вітання</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-29_06-09-50.jpg" length="111810" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 06:09:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
