@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 15:10:22 +0000</lastBuildDate>
-    <item>
-      <title>В селищі Новорайськ на Херсонщ</title>
-      <link>https://www.mandarinai.lt/post/82519</link>
-      <description>В селищі Новорайськ на Херсонщині окупанти спробували атакувати вежу стільникової телефонії.
-
-FPV-дрон, на щастя, було подавлено засобами РЕБ.
-
-Він впав і після того здетонував перед приватним будинком по вул.Південна, 2. В результаті детонації в будинку пошкоджено шибки. Постраждалих не було.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2660.MP4" length="2363920" type="video/mp4"/>
-      <pubDate>Wed, 29 Oct 2025 11:37:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 16:12:00 +0000</lastBuildDate>
     <item>
       <title>Нічне полювання в Криму, - уда</title>
       <link>https://www.mandarinai.lt/post/82522</link>
@@ -93,6 +82,13 @@ FPV-дрон, на щастя, було подавлено засобами РЕ
 ➡️ Надіслати новину❗️Будь-які повідомлення про нібито «оточення» українських сил у Куп’янську — це фейк, — угруповання об'єднаних сил</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-29_15-00-32.jpg" length="51882" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 15:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знову Новорайськ. Сьогодні між</title>
+      <link>https://www.mandarinai.lt/post/82533</link>
+      <description>Знову Новорайськ. Сьогодні між Новорайськом та Степним російський FPV-дрон зухвало вдарив по автівці доставки «Нової Пошти». Українські військові перехопили відео, яке свідчить, що удар по цивільній автівці окупанти здійснили прицільно та намірено.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2670.MP4" length="3015361" type="video/mp4"/>
+      <pubDate>Wed, 29 Oct 2025 15:35:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
