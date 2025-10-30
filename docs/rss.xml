@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 14:08:59 +0000</lastBuildDate>
-    <item>
-      <title>Харківський колаборант Олег Ра</title>
-      <link>https://www.mandarinai.lt/post/82562</link>
-      <description>Харківський колаборант Олег Радер, якому дали 5 років за захоплення будівлі обладміністрації в 2014 році, знову за своє.
-
-В 2019 суд призначив йому 5 років позбавлення волі з іспитовим терміном 3 роки. 
-
-Саме під час випробувального періоду на Радера вийшов співробітник фсб, завербував його і перевів у «режим очікування».
-
-Зараз росіяни «активували» свого агента та доручили йому виготовити СВП.
-
-Він мав закласти СВП за координатами, які очікував від свого російського куратора, але контрррозвідники СБУ не дали йому це зробити.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-30_09-19-17.jpg" length="67086" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 09:19:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 15:09:58 +0000</lastBuildDate>
     <item>
       <title>У Запоріжжі вже двоє загиблих.</title>
       <link>https://www.mandarinai.lt/post/82564</link>
@@ -100,6 +85,13 @@
       <description>В Чернігові бронзовий Пушкін зараз виглядає так.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-30_13-52-50.jpg" length="279943" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 13:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знищення дрона-«ждуна» розраху</title>
+      <link>https://www.mandarinai.lt/post/82576</link>
+      <description>Знищення дрона-«ждуна» розрахунком операторів БПЛА 55-ої ОАБР. Зараз бригада працює біля Покровська в Донецькій області. Офіцери бригади стверджують, що поки що тримають під контролем населений пункт Гришине.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2700.MP4" length="8202138" type="video/mp4"/>
+      <pubDate>Thu, 30 Oct 2025 14:20:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
