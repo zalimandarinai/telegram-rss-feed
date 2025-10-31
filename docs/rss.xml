@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 19:02:26 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ В Іспанії пройде таємна зус</title>
-      <link>https://www.mandarinai.lt/post/82608</link>
-      <description>⚡️ В Іспанії пройде таємна зустріч чиновників «коаліції бажаючих», яка підтримує оборону України, - видання El Mundo.  
-
-Участь беруть представники 35 країн. 
-
-Заходи секретності та безпеки підвищені, в учасників забиратимуть навіть телефони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_11-24-22.jpg" length="102141" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 11:24:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Україна вперше екстрадувала ро</title>
-      <link>https://www.mandarinai.lt/post/82609</link>
-      <description>Україна вперше екстрадувала російського воєнного злочинця до третьої країни.
-
-Нацполіція передала Литовській Республіці військовослужбовця збройних сил рф, причетного до катувань цивільних у Мелітополі. 
-
-В квітні 2022 року російські військові незаконно затримали громадян України та громадянина Литви.
-
-Затриманих били, тримаючи у нелюдських умовах на території аеродрому Мелітополя.
-
-Одного з них пізніше взяли в полон, і Нацполіція встановила його причетність до катувань іноземного громадянина.
-
-Ми дізнались, кого саме передала Україна литовським партнерам.
-
-Марген Гаджимагомедов, який є військовослужбовцем в/ч 87852, 177-го окремого полку морської піхоти Каспійської флотилії 58-ї армії Південного військового округу російської федерації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_12-14-25.jpg" length="167804" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 12:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 20:10:33 +0000</lastBuildDate>
     <item>
       <title>Ракета «Фламінго» 9 разів заст</title>
       <link>https://www.mandarinai.lt/post/82613</link>
@@ -90,6 +60,24 @@
       <description>США закрили повітряний простір біля Пуерто-Ріко, що може свідчити про підготовку до ударів по Венесуелі, — Newsweek</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_17-04-21.jpg" length="117071" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 17:04:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ЗСУ перейшли у контрнаступ, </title>
+      <link>https://www.mandarinai.lt/post/82623</link>
+      <description>‼️ЗСУ перейшли у контрнаступ, щоб відновити ключові позиції на Покровському напрямку, - The Economist.
+
+ Українські підрозділи поступово просуваються, намагаючись повернути втрачені рубежі і логістичні лінії
+
+На відео видно десантування гелікоптерів у районах, які росія  контролювала, повідомляє журналіст The Economist</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-31_19-18-22.mp4" length="1107847" type="video/mp4"/>
+      <pubDate>Fri, 31 Oct 2025 19:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тим часом дрони демократії вже</title>
+      <link>https://www.mandarinai.lt/post/82624</link>
+      <description>Тим часом дрони демократії вже летять атакувати бензоколонку, яка вважає себе імперією</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_19-51-43.jpg" length="119343" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 19:51:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
