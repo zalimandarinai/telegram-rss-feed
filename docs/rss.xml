@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 15:08:30 +0000</lastBuildDate>
-    <item>
-      <title>В Сумах російські дрони атакув</title>
-      <link>https://www.mandarinai.lt/post/82600</link>
-      <description>В Сумах російські дрони атакували залізничне депо, знищено та пошкоджено рухомий склад.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_06-10-47.jpg" length="217312" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 06:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Також вночі в російському Яр</title>
-      <link>https://www.mandarinai.lt/post/82601</link>
-      <description>💥🔥Також вночі в російському Ярославлі був атакований НПЗ, наслідки уточнюються.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-10-31_06-51-52.mp4" length="1338776" type="video/mp4"/>
-      <pubDate>Fri, 31 Oct 2025 06:51:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 16:11:02 +0000</lastBuildDate>
     <item>
       <title>🤬росія намагається вивести з л</title>
       <link>https://www.mandarinai.lt/post/82602</link>
@@ -95,6 +81,13 @@
       <description>Ракета «Фламінго» 9 разів застосовувалась в реальних операціях, — Le Figaro</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_12-48-08.jpg" length="34923" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 12:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 ЗСУ вночі вдарили крилатими </title>
+      <link>https://www.mandarinai.lt/post/82616</link>
+      <description>🔥 ЗСУ вночі вдарили крилатими ракетами Нептун по Орловській ТЕЦ та електричній підстанції Новобрянська, – ВМС ЗСУ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_15-54-18.jpg" length="119336" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 15:54:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
