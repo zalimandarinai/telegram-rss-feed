@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 20:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 21:07:47 +0000</lastBuildDate>
     <item>
       <title>Ракета «Фламінго» 9 разів заст</title>
       <link>https://www.mandarinai.lt/post/82613</link>
@@ -78,6 +78,15 @@
       <description>Тим часом дрони демократії вже летять атакувати бензоколонку, яка вважає себе імперією</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_19-51-43.jpg" length="119343" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 19:51:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 У Покровську спецпідрозділи </title>
+      <link>https://www.mandarinai.lt/post/82627</link>
+      <description>🔥 У Покровську спецпідрозділи та авіація ГУР проводять десантну операцію, — Суспільне
+
+Штурмові підрозділи воєнної розвідки прорвалися до районів Покровська, які рф вважала підконтрольними.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_20-53-40.jpg" length="146245" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 20:53:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
