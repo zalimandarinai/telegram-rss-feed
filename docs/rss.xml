@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 20:08:38 +0000</lastBuildDate>
-    <item>
-      <title>💪 Сили Оборони України просуну</title>
-      <link>https://www.mandarinai.lt/post/82651</link>
-      <description>💪 Сили Оборони України просунулися поблизу Нового Шахового на Донеччині, - Deepstate.
-
-За даними аналітиків, росіяни просунулись поблизу Козацького та окупували Новогригорівку.
-
-Також повідомляється, що у жовтні ворог окупував 267 кв км української території — цифри тотожні тим, які були у вересні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_13-31-36.jpg" length="53490" type="image/jpeg"/>
-      <pubDate>Sat, 01 Nov 2025 13:31:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Nov 2025 21:06:57 +0000</lastBuildDate>
     <item>
       <title>💬 «Будеш служити там, де обере</title>
       <link>https://www.mandarinai.lt/post/82653</link>
@@ -105,6 +94,13 @@ https://sbs-group.army/
       <description>Сирський, Буданов, інші українські командувачі та військові начальники проводять нараду на Покровському напрямку з організації подальшої оборони міста.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2796.MP4" length="5948814" type="video/mp4"/>
       <pubDate>Sat, 01 Nov 2025 19:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩Невідомі дрони помітили над в</title>
+      <link>https://www.mandarinai.lt/post/82665</link>
+      <description>💩Невідомі дрони помітили над військовою базою в Бельгії, де зберігають американську ядерну зброю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_20-41-08.jpg" length="131892" type="image/jpeg"/>
+      <pubDate>Sat, 01 Nov 2025 20:41:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
