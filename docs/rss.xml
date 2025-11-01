@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 19:03:16 +0000</lastBuildDate>
-    <item>
-      <title>🇧🇬 Санкції Трампа проти російс</title>
-      <link>https://www.mandarinai.lt/post/82649</link>
-      <description>🇧🇬 Санкції Трампа проти російського "Лукойлу" можуть призвести до падіння лояльної до України влади в Болгарії через масштабні протести проросійських сил, - Politico
-
-Видання пише, що в Болгарії знаходиться великий НПЗ у Бургасі, який належить "Лукойлу" і забезпечує 80% потреб країни в паливі, маючи великий економічний вплив на державу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_13-19-34.jpg" length="68772" type="image/jpeg"/>
-      <pubDate>Sat, 01 Nov 2025 13:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Вперше (!) російська керован</title>
-      <link>https://www.mandarinai.lt/post/82650</link>
-      <description>❗️Вперше (!) російська керована авіабомба впала за 6 км від Полтавщини (у районі Берестина) – тобто КАБ подолав більше 100 км и пролетів майже через всю Харківщину, - монітори</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_13-26-28.jpg" length="155884" type="image/jpeg"/>
-      <pubDate>Sat, 01 Nov 2025 13:26:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Nov 2025 20:08:38 +0000</lastBuildDate>
     <item>
       <title>💪 Сили Оборони України просуну</title>
       <link>https://www.mandarinai.lt/post/82651</link>
@@ -107,6 +91,20 @@ https://sbs-group.army/
       <description>🤬росіяни вдарили по магазину на Дніпропетровщині, він повністю згорів: є загиблі і поранені, — ДСНС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_17-53-30.jpg" length="109103" type="image/jpeg"/>
       <pubDate>Sat, 01 Nov 2025 17:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 Окупанти заявили, що вдарили</title>
+      <link>https://www.mandarinai.lt/post/82663</link>
+      <description>🤡 Окупанти заявили, що вдарили по 16-ій бригаді ЗСУ, але такої бригади в Збройних Силах України немає, - ОТУ «Харків»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_19-51-07.jpg" length="32789" type="image/jpeg"/>
+      <pubDate>Sat, 01 Nov 2025 19:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сирський, Буданов, інші україн</title>
+      <link>https://www.mandarinai.lt/post/82664</link>
+      <description>Сирський, Буданов, інші українські командувачі та військові начальники проводять нараду на Покровському напрямку з організації подальшої оборони міста.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2796.MP4" length="5948814" type="video/mp4"/>
+      <pubDate>Sat, 01 Nov 2025 19:55:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
