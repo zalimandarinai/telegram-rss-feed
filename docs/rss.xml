@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 06:12:26 +0000</lastBuildDate>
-    <item>
-      <title>США закрили повітряний простір</title>
-      <link>https://www.mandarinai.lt/post/82620</link>
-      <description>США закрили повітряний простір біля Пуерто-Ріко, що може свідчити про підготовку до ударів по Венесуелі, — Newsweek</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_17-04-21.jpg" length="117071" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 17:04:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Nov 2025 07:08:16 +0000</lastBuildDate>
     <item>
       <title>‼️ЗСУ перейшли у контрнаступ, </title>
       <link>https://www.mandarinai.lt/post/82623</link>
@@ -67,18 +60,28 @@
       <pubDate>Fri, 31 Oct 2025 21:56:58 +0000</pubDate>
     </item>
     <item>
-      <title>‼️Буданов у Покровську особист</title>
-      <link>https://www.mandarinai.lt/post/82632</link>
-      <description>‼️Буданов у Покровську особисто керує операцією на місці, — джерела Суспільного</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-10-31_22-25-32.jpg" length="60262" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 22:25:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Нічні удари по Тулі. В деяких </title>
       <link>https://www.mandarinai.lt/post/82633</link>
       <description>Нічні удари по Тулі. В деяких регіонах європейської частини росії тимчасово виникли проблеми зі світлом. Демократичні дрони працюють.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2739.MP4" length="8526934" type="video/mp4"/>
       <pubDate>Sat, 01 Nov 2025 05:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під ударом рф вночі опинився о</title>
+      <link>https://www.mandarinai.lt/post/82636</link>
+      <description>Під ударом рф вночі опинився один із газовидобувних об’єктів Україні.
+Пожежу ліквідовано.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_06-22-48.jpg" length="161555" type="image/jpeg"/>
+      <pubDate>Sat, 01 Nov 2025 06:22:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩 Уночі аеропорт Берліна тимча</title>
+      <link>https://www.mandarinai.lt/post/82638</link>
+      <description>💩 Уночі аеропорт Берліна тимчасово закривали через появу невідомих безпілотників
+
+Частину рейсів перенаправили до інших аеропортів Німеччини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_06-40-47.jpg" length="168324" type="image/jpeg"/>
+      <pubDate>Sat, 01 Nov 2025 06:40:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
