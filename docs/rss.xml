@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 21:06:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 22:07:31 +0000</lastBuildDate>
     <item>
       <title>💬 «Будеш служити там, де обере</title>
       <link>https://www.mandarinai.lt/post/82653</link>
@@ -101,6 +101,13 @@ https://sbs-group.army/
       <description>💩Невідомі дрони помітили над військовою базою в Бельгії, де зберігають американську ядерну зброю</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_20-41-08.jpg" length="131892" type="image/jpeg"/>
       <pubDate>Sat, 01 Nov 2025 20:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Моя зустріч із Сі Цзіньпіном </title>
+      <link>https://www.mandarinai.lt/post/82666</link>
+      <description>🥴Моя зустріч із Сі Цзіньпіном була відмінною для обох наших країн. Ця зустріч приведе до вічного миру та успіху. Нехай Бог благословить як Китай, так і США, – Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_21-11-42.jpg" length="70687" type="image/jpeg"/>
+      <pubDate>Sat, 01 Nov 2025 21:11:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
