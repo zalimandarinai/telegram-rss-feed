@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 07:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 08:10:33 +0000</lastBuildDate>
     <item>
       <title>🤡 Окупанти заявили, що вдарили</title>
       <link>https://www.mandarinai.lt/post/82663</link>
@@ -38,7 +38,7 @@
     <item>
       <title>💥🔥Вночі прильоти по підстанція</title>
       <link>https://www.mandarinai.lt/post/82667</link>
-      <description>💥🔥Вночі прильоти по підстанціях в Курсьуій області та окупованому Алчевську</description>
+      <description>💥🔥Вночі прильоти по підстанціях в Курській області та окупованому Алчевську</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-02_04-01-55.mp4" length="1332127" type="video/mp4"/>
       <pubDate>Sun, 02 Nov 2025 04:01:55 +0000</pubDate>
     </item>
@@ -50,16 +50,9 @@
       <pubDate>Sun, 02 Nov 2025 04:07:55 +0000</pubDate>
     </item>
     <item>
-      <title>🔥В результаті атаки на Туапсе </title>
-      <link>https://www.mandarinai.lt/post/82671</link>
-      <description>🔥В результаті атаки на Туапсе є влучання в танкер та нафтоналивний термінал</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-02_04-42-50.mp4" length="734415" type="video/mp4"/>
-      <pubDate>Sun, 02 Nov 2025 04:42:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️На Одещині спалахнули 5 вант</title>
+      <title>❗️На Одещині згоріли 5 вантажі</title>
       <link>https://www.mandarinai.lt/post/82675</link>
-      <description>❗️На Одещині спалахнули 5 вантажівок на автостоянці внаслідок  атаки рф — ОВА 
+      <description>❗️На Одещині згоріли 5 вантажівок на автостоянці внаслідок  атаки рф — ОВА 
 
 Наразі відомо про двох загиблих, ще одна людина постраждала</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_06-24-39.jpg" length="52319" type="image/jpeg"/>
@@ -73,6 +66,13 @@
 Раніше у відомстві повідомляли і про 10 поранених, половина з яких - «важкі».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_06-29-43.jpg" length="121015" type="image/jpeg"/>
       <pubDate>Sun, 02 Nov 2025 06:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Сили оборони України вдарили</title>
+      <link>https://www.mandarinai.lt/post/82678</link>
+      <description>💥🔥Сили оборони України вдарили по нафтовому терміналу "Роснефті" у Туапсе. Значно пошкоджено об'єкти портової інфраструктури експорту енергоносіїв рф до Азії, також загорівся танкер.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_07-38-48.jpg" length="35685" type="image/jpeg"/>
+      <pubDate>Sun, 02 Nov 2025 07:38:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
