@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 20:08:48 +0000</lastBuildDate>
-    <item>
-      <title>росіяни атакували Павлоград Бп</title>
-      <link>https://www.mandarinai.lt/post/82697</link>
-      <description>росіяни атакували Павлоград БпЛА: загинув чоловік, поранені 3 людини, зокрема, 8-річна дівчинка, — ОВА
-
-У місті спалахнули пожеж, пошкоджені багатоквартирний будинок, автівки, приватне підприємство.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_16-51-31.jpg" length="202639" type="image/jpeg"/>
-      <pubDate>Sun, 02 Nov 2025 16:51:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Nov 2025 21:07:16 +0000</lastBuildDate>
     <item>
       <title>FPV-дрони та ударні безпілотни</title>
       <link>https://www.mandarinai.lt/post/82698</link>
@@ -59,6 +50,15 @@
 За його словами, склади боєприпасів у країні переповнені, і Белград готовий укладати довгострокові угоди з продажу снарядів зі країнами Європи.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_19-55-23.jpg" length="122343" type="image/jpeg"/>
       <pubDate>Sun, 02 Nov 2025 19:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Україна вже практично втрати</title>
+      <link>https://www.mandarinai.lt/post/82711</link>
+      <description>❗️Україна вже практично втратила Покровськ, — засновник благодійного фонду «Повернись живим» Дейнега
+
+За його словами, ми можемо опинитися в ситуації втрати значної кількості максимально мотивованих десантників та морпіхів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_20-52-18.jpg" length="114119" type="image/jpeg"/>
+      <pubDate>Sun, 02 Nov 2025 20:52:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
