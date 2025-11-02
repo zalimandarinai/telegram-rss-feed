@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 04:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 05:08:51 +0000</lastBuildDate>
     <item>
       <title>🇨🇦✈️🇺🇦 Канада має намір переда</title>
       <link>https://www.mandarinai.lt/post/82660</link>
@@ -70,6 +70,13 @@
       <description>🔥Портовий термінал в російському Туапсе спалахнув після зустрічі з дронами. Влада заявляє про руйнування портової інфраструктури</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_04-07-55.jpg" length="76365" type="image/jpeg"/>
       <pubDate>Sun, 02 Nov 2025 04:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В результаті атаки на Туапсе </title>
+      <link>https://www.mandarinai.lt/post/82671</link>
+      <description>🔥В результаті атаки на Туапсе є влучання в танкер та резервуари з пальним</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-02_04-42-50.mp4" length="734415" type="video/mp4"/>
+      <pubDate>Sun, 02 Nov 2025 04:42:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
