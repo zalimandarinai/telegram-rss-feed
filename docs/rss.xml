@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 09:08:21 +0000</lastBuildDate>
-    <item>
-      <title>🤡 Окупанти заявили, що вдарили</title>
-      <link>https://www.mandarinai.lt/post/82663</link>
-      <description>🤡 Окупанти заявили, що вдарили по 16-ій бригаді ЗСУ, але такої бригади в Збройних Силах України немає, - ОТУ «Харків»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-01_19-51-07.jpg" length="32789" type="image/jpeg"/>
-      <pubDate>Sat, 01 Nov 2025 19:51:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Nov 2025 10:08:23 +0000</lastBuildDate>
     <item>
       <title>Сирський, Буданов, інші україн</title>
       <link>https://www.mandarinai.lt/post/82664</link>
@@ -73,6 +66,24 @@
       <description>💥🔥Сили оборони України вдарили по нафтовому терміналу "Роснефті" у Туапсе. Значно пошкоджено об'єкти портової інфраструктури експорту енергоносіїв рф до Азії, також загорівся танкер.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_07-38-48.jpg" length="35685" type="image/jpeg"/>
       <pubDate>Sun, 02 Nov 2025 07:38:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ завдала удар по ворожих ск</title>
+      <link>https://www.mandarinai.lt/post/82682</link>
+      <description>СБУ завдала удар по ворожих складах та базах
+
+Нічні удари були виконані дронами «FP-2» з бойовими зарядами 105 кг.
+
+Серію точних атак по позиціях противника на тимчасово окупованих територіях здійснили спецпризначенці «Альфа».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2804.MP4" length="21295090" type="video/mp4"/>
+      <pubDate>Sun, 02 Nov 2025 09:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Тим часом у Краснодарському к</title>
+      <link>https://www.mandarinai.lt/post/82683</link>
+      <description>🔥Тим часом у Краснодарському краї рф в порту "Кавказ" гарно горить буксир</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_09-21-52.jpg" length="96536" type="image/jpeg"/>
+      <pubDate>Sun, 02 Nov 2025 09:21:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
