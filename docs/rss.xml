@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 09:12:18 +0000</lastBuildDate>
-    <item>
-      <title>❗️Україна вже практично втрати</title>
-      <link>https://www.mandarinai.lt/post/82711</link>
-      <description>❗️Україна вже практично втратила Покровськ, — засновник благодійного фонду «Повернись живим» Дейнега
-
-За його словами, ми можемо опинитися в ситуації втрати значної кількості максимально мотивованих десантників та морпіхів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_20-52-18.jpg" length="114119" type="image/jpeg"/>
-      <pubDate>Sun, 02 Nov 2025 20:52:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 10:11:26 +0000</lastBuildDate>
     <item>
       <title>😐США наразі не розглядають пер</title>
       <link>https://www.mandarinai.lt/post/82716</link>
@@ -82,6 +73,17 @@
       <description>Трамп носить у внутрішній кишені листівку з підказкою, скільки воєн він закінчив, - програма «60 minutes»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2829.MP4" length="4195844" type="video/mp4"/>
       <pubDate>Mon, 03 Nov 2025 08:51:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏭 Генштаб підтвердив удари по </title>
+      <link>https://www.mandarinai.lt/post/82725</link>
+      <description>🏭 Генштаб підтвердив удари по Саратівському НПЗ
+
+ℹ️ Станом на 2023 рік обсяг переробки Саратовського НПЗ становив 4,8 млн. тонн. Підприємство також працювало на армію окупантів. 
+
+💥 Крім того, уражено склад матеріально-технічних засобів у населеному пункті Розкішне.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_10-01-46.jpg" length="61572" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 10:01:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
