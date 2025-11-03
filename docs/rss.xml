@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 10:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 11:07:49 +0000</lastBuildDate>
     <item>
       <title>😐США наразі не розглядають пер</title>
       <link>https://www.mandarinai.lt/post/82716</link>
@@ -84,6 +84,13 @@
 💥 Крім того, уражено склад матеріально-технічних засобів у населеному пункті Розкішне.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_10-01-46.jpg" length="61572" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 10:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Storm Shadow»: Велика Британі</title>
+      <link>https://www.mandarinai.lt/post/82726</link>
+      <description>«Storm Shadow»: Велика Британія надала Україні додаткову партію крилатих ракет, — Bloomberg</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_10-40-26.jpg" length="51996" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 10:40:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
