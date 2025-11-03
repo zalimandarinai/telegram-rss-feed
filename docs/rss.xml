@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 21:08:20 +0000</lastBuildDate>
-    <item>
-      <title>Ядерні випробування за планом </title>
-      <link>https://www.mandarinai.lt/post/82740</link>
-      <description>Ядерні випробування за планом Трампа: міжконтинентальна балістична ракета Minuteman III може бути запущена з Каліфорнії в напрямку Тихого океану 5–6 листопада, - Newsweek</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_16-42-51.jpg" length="19906" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 16:42:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 22:09:19 +0000</lastBuildDate>
     <item>
       <title>⚡️Сили оборони зупинили просув</title>
       <link>https://www.mandarinai.lt/post/82742</link>
@@ -65,6 +58,13 @@
       <description>💥🔥У Волгоградській області  добрі дрони вже знайшли свої цілі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-03_20-43-19.mp4" length="347536" type="video/mp4"/>
       <pubDate>Mon, 03 Nov 2025 20:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Блекаут на Курщині. Через ата</title>
+      <link>https://www.mandarinai.lt/post/82754</link>
+      <description>💥Блекаут на Курщині. Через атаку на підстанцію в Рильську 16 тисяч абонентів без світла, - місцева влада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_21-48-58.jpg" length="66616" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 21:48:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
