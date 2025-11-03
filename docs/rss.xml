@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 08:14:10 +0000</lastBuildDate>
-    <item>
-      <title>❗️Сербія готова продавати боєп</title>
-      <link>https://www.mandarinai.lt/post/82710</link>
-      <description>❗️Сербія готова продавати боєприпаси ЄС за схемою Трампа, навіть якщо вони потраплять в Україну, - Вучич.
-
-За його словами, склади боєприпасів у країні переповнені, і Белград готовий укладати довгострокові угоди з продажу снарядів зі країнами Європи.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_19-55-23.jpg" length="122343" type="image/jpeg"/>
-      <pubDate>Sun, 02 Nov 2025 19:55:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 09:12:18 +0000</lastBuildDate>
     <item>
       <title>❗️Україна вже практично втрати</title>
       <link>https://www.mandarinai.lt/post/82711</link>
@@ -69,6 +60,28 @@
 Повідомляється, що російська тактика наступу на Покровському напрямку призводить до високого рівня втрат.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_08-08-29.jpg" length="191696" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 08:08:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Урок від розумних. Ізраїльська</title>
+      <link>https://www.mandarinai.lt/post/82723</link>
+      <description>Урок від розумних. Ізраїльська армія почала вилучати службові автомобілі китайського виробництва, - «9-ий канал».
+
+Раніше таким автомобілям заборонили також заїжджати на територію військових частин. 
+
+Є підстави вважати, що китайські автомобілі можуть відслідковувати та збирати чутливі дані, а потім передавати їх на сервери до Китаю.
+
+Враховуючи, що Китай є партнером Ірану та союзником росії, збір інформації може проводитись в інтересах цих держав також.
+
+А в нас тисячі зроблених в Китаї відеокамер працюють онлайн 24/7 на вулицях великих міст, які обстрілює російська армія.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_08-44-13.jpg" length="108744" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 08:44:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп носить у внутрішній кише</title>
+      <link>https://www.mandarinai.lt/post/82724</link>
+      <description>Трамп носить у внутрішній кишені листівку з підказкою, скільки воєн він закінчив, - програма «60 minutes»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2829.MP4" length="4195844" type="video/mp4"/>
+      <pubDate>Mon, 03 Nov 2025 08:51:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
