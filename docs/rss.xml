@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 07:10:36 +0000</lastBuildDate>
-    <item>
-      <title>FPV-дрони та ударні безпілотни</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>FPV-дрони та ударні безпілотники прикордонників РУБпАК «Aquila» атакують ворога на Курському та Північно-Слобожанському напрямках, знищивши укриття та антени зв’язку противника.</description>
-      <pubDate>Sun, 02 Nov 2025 17:38:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 08:14:10 +0000</lastBuildDate>
     <item>
       <title>❗️Сербія готова продавати боєп</title>
       <link>https://www.mandarinai.lt/post/82710</link>
@@ -43,7 +37,7 @@
     <item>
       <title>⚡️Ворог просунувся біля Покров</title>
       <link>https://www.mandarinai.lt/post/82717</link>
-      <description>⚡️Ворог просунувся біля Покровська та Привільного, - DeepState</description>
+      <description>⚡️Ворог просунувся біля Покровська на Донеччині та Привільного у Запорізькій області, - DeepState</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_05-59-48.jpg" length="121602" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 05:59:48 +0000</pubDate>
     </item>
@@ -55,19 +49,26 @@
       <pubDate>Mon, 03 Nov 2025 06:05:47 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ Збито і подавлено 116 зі 15</title>
+      <title>⚡️рф вночі атакувала 3 "кинджа</title>
       <link>https://www.mandarinai.lt/post/82721</link>
-      <description>❗️ Збито і подавлено 116 зі 150 засобів, якими росія атакувала Україну вночі:
+      <description>⚡️рф вночі атакувала 3 "кинджалами", 4 балістичними ракетами, а також 138 дронами (близько 80 із них - "шахеди")
 
-▫️ трьома аеробалістичними ракетами Х-47М2 «Кинджал»; 
+Протиповітряною обороною збито/подавлено одну аеробалістичну ракету Х-47М2 "Кинджал" та 115 ворожих БпЛА типу "Шахед", "Гербера" і дронів інших типів
 
-▫️ чотирма балістичними ракетами «Іскандер-М»; 
-
-▫️ п’ятьма зенітними керованими ракетами С-300/С-400;
-
-▫️ 138 ударними БпЛА, близько 80 із них «шахеди».</description>
+Зафіксовано влучання ракет та 20 ударних БпЛА на 11 локаціях. Атака триває, в повітряному просторі декілька ворожих дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_06-34-20.jpg" length="81526" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 06:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️ISW: росія зосередила зусилл</title>
+      <link>https://www.mandarinai.lt/post/82722</link>
+      <description>⚔️ISW: росія зосередила зусилля на захопленні Покровська та Мирнограда 
+
+Як зазначає Інститут вивчення війни, російські війська перекинули основні сили на напрямок Покровська та Мирнограда на Донеччині, намагаючись прорвати українську оборону. Водночас інтенсивність атак поблизу Костянтинівки помітно знизилася.
+
+Повідомляється, що російська тактика наступу на Покровському напрямку призводить до високого рівня втрат.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_08-08-29.jpg" length="191696" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 08:08:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
