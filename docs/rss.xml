@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 14:09:39 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Дрони демократії атакували Н</title>
-      <link>https://www.mandarinai.lt/post/82719</link>
-      <description>💥🔥Дрони демократії атакували НПЗ в Саратові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_06-05-47.jpg" length="45801" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 06:05:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 15:09:56 +0000</lastBuildDate>
     <item>
       <title>⚡️рф вночі атакувала 3 "кинджа</title>
       <link>https://www.mandarinai.lt/post/82721</link>
@@ -165,6 +158,17 @@ FESTrepublic поєднаються поезія, театр і музика. Н
 • gastroli.ua</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_13-59-38.jpg" length="191167" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 13:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 ГУР продовжує вибивати "очі"</title>
+      <link>https://www.mandarinai.lt/post/82735</link>
+      <description>💥 ГУР продовжує вибивати "очі" Криму 
+
+У результаті удару по ворожому пункту управління зенітно-ракетного дивізіону С-400 “тріумф” знищено російську багатофункціональну РЛС 92Н6Е та обладнання системи автономного енергозабезпечення пункту управління С-400.
+
+Також ГУР успішно уразили аеродромний оглядовий радіолокатор “АОРЛ-1АС” та РЛС П-18 “терек”</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-03_14-29-15.mp4" length="1347383" type="video/mp4"/>
+      <pubDate>Mon, 03 Nov 2025 14:29:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
