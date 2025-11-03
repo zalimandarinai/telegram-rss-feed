@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 05:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 06:15:26 +0000</lastBuildDate>
     <item>
       <title>FPV-дрони та ударні безпілотни</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -15,24 +15,9 @@
     </item>
     <item>
       <title>На річці Нарва, що розділяє Ес</title>
-      <link>https://www.mandarinai.lt/post/82703</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>На річці Нарва, що розділяє Естонію та росію, помітили катер прикордонної служби ФСБ із прапором ПВК «Вагнер».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1968.MP4" length="6869044" type="video/mp4"/>
       <pubDate>Sun, 02 Nov 2025 17:56:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Потужні влучання по нафтобаз</title>
-      <link>https://www.mandarinai.lt/post/82704</link>
-      <description>🔥 Потужні влучання по нафтобазі в тимчасово окупованому Шахтарську на Донеччині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-02_18-14-09.mp4" length="694811" type="video/mp4"/>
-      <pubDate>Sun, 02 Nov 2025 18:14:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нові штурмові монстри окупанті</title>
-      <link>https://www.mandarinai.lt/post/82706</link>
-      <description>Нові штурмові монстри окупантів, танки Т-80БВМ з масивним канатним антидроновим захистом, мінними тралами та системами радіоелектронної боротьби.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-02_18-42-19.jpg" length="91395" type="image/jpeg"/>
-      <pubDate>Sun, 02 Nov 2025 18:42:19 +0000</pubDate>
     </item>
     <item>
       <title>❗️Сербія готова продавати боєп</title>
@@ -60,6 +45,20 @@
 Президент зазначив, що поки не планує ухвалювати таке рішення, але «не виключає змін у майбутньому».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-03_05-10-07.mp4" length="656876" type="video/mp4"/>
       <pubDate>Mon, 03 Nov 2025 05:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Ворог просунувся біля Покров</title>
+      <link>https://www.mandarinai.lt/post/82717</link>
+      <description>⚡️Ворог просунувся біля Покровська та Привільного, - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_05-59-48.jpg" length="121602" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 05:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Дрони демократії атакували Н</title>
+      <link>https://www.mandarinai.lt/post/82719</link>
+      <description>💥🔥Дрони демократії атакували НПЗ в Саратові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-03_06-05-47.jpg" length="45801" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 06:05:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
