@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 11:08:24 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Нафтохімічний завод в Башкір</title>
-      <link>https://www.mandarinai.lt/post/82756</link>
-      <description>💥🔥Нафтохімічний завод в Башкірії та Ніжегородський НПЗ призупинили роботу після нічної атаки демократичних дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-04_06-27-09.mp4" length="744826" type="video/mp4"/>
-      <pubDate>Tue, 04 Nov 2025 06:27:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 12:18:50 +0000</lastBuildDate>
     <item>
       <title>🪖В Покровську українські сили </title>
       <link>https://www.mandarinai.lt/post/82759</link>
@@ -86,6 +79,31 @@
 За даними слідства, митрополит публічно заперечував воєнні злочини росії, виправдовував її агресію проти України та поширював фейки про українських військових.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-04_10-25-15.jpg" length="177446" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 10:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Після удару СБУ по портовому т</title>
+      <link>https://www.mandarinai.lt/post/82772</link>
+      <description>Після удару СБУ по портовому терміналу в Туапсе зафіксовано розлив нафти у Чорному морі, повідомляє BBC.
+
+Місцева влада підтвердила атаку на порт, зазначивши, що були пошкоджені будівлі терміналу та два іноземні судна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-04_11-19-37.jpg" length="109350" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 11:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️ окупанти захопили вже близь</title>
+      <link>https://www.mandarinai.lt/post/82773</link>
+      <description>⚔️ окупанти захопили вже близько 85% Покровська, — військовий оглядач Bild Юліан Репке</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-04_11-22-26.jpg" length="184607" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 11:22:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Ближній бій на Покровському </title>
+      <link>https://www.mandarinai.lt/post/82774</link>
+      <description>🔥 Ближній бій на Покровському напрямку.
+
+Знищення трьох окупантів воїном 79-ї ОДШБр💪</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-04_12-11-06.mp4" length="589980" type="video/mp4"/>
+      <pubDate>Tue, 04 Nov 2025 12:11:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
