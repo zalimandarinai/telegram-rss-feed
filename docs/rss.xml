@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 10:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 11:08:24 +0000</lastBuildDate>
     <item>
       <title>💥🔥Нафтохімічний завод в Башкір</title>
       <link>https://www.mandarinai.lt/post/82756</link>
@@ -77,6 +77,15 @@
 Тепер виродки намагаються звинуватити у вбивстві українські сили. Від початку війни русня застосовує стару  кдб-шну схему  - звинувачує інших у власних злочинах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-04_09-31-13.mp4" length="5251527" type="video/mp4"/>
       <pubDate>Tue, 04 Nov 2025 09:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Настоятелю Святогірської лаври</title>
+      <link>https://www.mandarinai.lt/post/82771</link>
+      <description>Настоятелю Святогірської лаври оголосили нову підозру: його заарештували
+
+За даними слідства, митрополит публічно заперечував воєнні злочини росії, виправдовував її агресію проти України та поширював фейки про українських військових.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-04_10-25-15.jpg" length="177446" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 10:25:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
