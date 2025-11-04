@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 21:08:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 22:07:41 +0000</lastBuildDate>
     <item>
       <title>🤬 росія вийшла на серійне виро</title>
       <link>https://www.mandarinai.lt/post/82780</link>
@@ -133,6 +133,13 @@ https://send.monobank.ua/jar/3o7bULeoEt
       <description>💪 ЗСУ сьогодні уразили три об’єкти рф: НПЗ «Лукойл-Нижегороднєфтєоргсінтез», «Стєрлітамакський нафтохімічний завод» та склад паливно-мастильних матеріалів окупантів у тимчасово захопленій частині Херсонщини, — Генштаб</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-04_21-02-51.jpg" length="106551" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 21:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Повітряний простір Бельгії ча</title>
+      <link>https://www.mandarinai.lt/post/82793</link>
+      <description>👀Повітряний простір Бельгії частково закрито через кілька груп БпЛА в небі над країною, зокрема в р-ні аеропортів Брюсселя та Льєжа, – місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-04_21-48-10.jpg" length="361027" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 21:48:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
