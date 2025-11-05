@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 22:08:45 +0000</lastBuildDate>
-    <item>
-      <title>Друзі, бійці 54-ої бригади дяк</title>
-      <link>https://www.mandarinai.lt/post/82839</link>
-      <description>Друзі, бійці 54-ої бригади дякують нам з вами за партію дронів, які ми допомогли оперативно придбати на Сіверський напрямок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2888.MOV" length="7500160" type="video/mp4"/>
-      <pubDate>Wed, 05 Nov 2025 16:54:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Український прапор на будівлю</title>
-      <link>https://www.mandarinai.lt/post/82840</link>
-      <description>🔥Український прапор на будівлю міської ради Покровська повернули сьогодні штурмовики полку СКЕЛЯ💪
-
-Що зробили з російською ганчіркою, бійці не уточнюють🇷🇺
-
-🎥 425-ий полк «СКЕЛЯ»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-05_16-55-07.mp4" length="1180783" type="video/mp4"/>
-      <pubDate>Wed, 05 Nov 2025 16:55:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 23:09:05 +0000</lastBuildDate>
     <item>
       <title>США здійснили тестовий запуск </title>
       <link>https://www.mandarinai.lt/post/82841</link>
@@ -107,6 +89,24 @@ LGM-30G «Minuteman III» стоїть на озброєнні з 1970 року 
       <description>🤬Зграя шахедів атакує Кам'янське на Дніпропетровщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-05_21-18-17.mp4" length="2123785" type="video/mp4"/>
       <pubDate>Wed, 05 Nov 2025 21:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Волгограді удар по «Лукойл-В</title>
+      <link>https://www.mandarinai.lt/post/82853</link>
+      <description>В Волгограді удар по «Лукойл-Волгограднефтепереработка»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-05_22-39-13.jpg" length="29571" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 22:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Кам’янському пролунало понад</title>
+      <link>https://www.mandarinai.lt/post/82854</link>
+      <description>В Кам’янському пролунало понад 20 вибухів
+
+Один із дронів влучив у багатоповерхівку, є поранені. 
+
+Триває ліквідація наслідків ударів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-05_22-41-10.jpg" length="134925" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 22:41:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
