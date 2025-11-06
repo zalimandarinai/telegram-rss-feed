@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 06:14:52 +0000</lastBuildDate>
-    <item>
-      <title>США здійснили тестовий запуск </title>
-      <link>https://www.mandarinai.lt/post/82841</link>
-      <description>США здійснили тестовий запуск міжконтинентальної балістичної ракети «Minuteman III»
-
-Ракета, здатна нести ядерні боєголовки, пролетіла близько 4,2 тисячі миль, або приблизно 6750 кілометрів, долетівши до випробувального полігону Рональда Рейгана на атолі Кваджалейн у Республіці Маршаллові Острови в Тихому океані.
-
-Варто зауважити, що США вирішили відновити ядерні випробування після того, як російський диктатор похвалився «новітньою» російською зброєю.
-
-LGM-30G «Minuteman III» стоїть на озброєнні з 1970 року і є єдиною МБР шахтного базування США.
-
-Найближчий аналог ракета «Тополь», але, на відміну від «Тополя», вона не має ракетовозів і запускається тільки з шахти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2887.MP4" length="2890776" type="video/mp4"/>
-      <pubDate>Wed, 05 Nov 2025 17:29:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️«Укрзалізниця» обмежує рух н</title>
-      <link>https://www.mandarinai.lt/post/82842</link>
-      <description>‼️«Укрзалізниця» обмежує рух на Донеччину, тож поїздів до Слов’янська та Краматорська тимчасово не буде, — ОВА
-
-Поїзди зупинятимуться на станціях Гусарівка або Барвінкове, а між цими двома пунктами курсуватимуть спеціальні автобуси</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-05_18-15-37.jpg" length="94976" type="image/jpeg"/>
-      <pubDate>Wed, 05 Nov 2025 18:15:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Захоплений в полон біля Купʼян</title>
-      <link>https://www.mandarinai.lt/post/82843</link>
-      <description>Захоплений в полон біля Купʼянська двадцятирічний росіянин каже, що рішення здаватися українським військовим він ухвалив сам, - 10-ий армійський корпус</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2890.MP4" length="20444052" type="video/mp4"/>
-      <pubDate>Wed, 05 Nov 2025 18:25:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Nov 2025 07:09:37 +0000</lastBuildDate>
     <item>
       <title>На Північно-Слобожанському нап</title>
       <link>https://www.mandarinai.lt/post/82844</link>
@@ -107,6 +76,13 @@ LGM-30G «Minuteman III» стоїть на озброєнні з 1970 року 
 Триває ліквідація наслідків ударів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-05_22-41-10.jpg" length="134925" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 22:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>В місті Волгорєчєнск Костромсь</title>
+      <link>https://www.mandarinai.lt/post/82855</link>
+      <description>В місті Волгорєчєнск Костромської області уражено теплову електростанцію, третю за потужністю ДРЕС в російській федерації.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-06_06-49-55.jpg" length="99148" type="image/jpeg"/>
+      <pubDate>Thu, 06 Nov 2025 06:49:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
