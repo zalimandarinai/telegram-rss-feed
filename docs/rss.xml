@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 21:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 22:09:00 +0000</lastBuildDate>
     <item>
       <title>💥Свіжі кадри утилізації окупан</title>
       <link>https://www.mandarinai.lt/post/82896</link>
@@ -101,6 +101,13 @@
       <description>🤬У Сумах російський дрон вдарив прямо по дорозі з активним рухом, люди на щастя не постраждали</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-06_20-29-08.mp4" length="804046" type="video/mp4"/>
       <pubDate>Thu, 06 Nov 2025 20:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Потяг «Інтерсіті» Київ-Дніпро</title>
+      <link>https://www.mandarinai.lt/post/82910</link>
+      <description>😡Потяг «Інтерсіті» Київ-Дніпро зупинився через атаку шахедів на Дніпропетровщині –  двері з вагонів зачинені, у вагонах горить аварійне світло</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-06_21-25-49.mp4" length="832465" type="video/mp4"/>
+      <pubDate>Thu, 06 Nov 2025 21:25:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
