@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 17:08:06 +0000</lastBuildDate>
-    <item>
-      <title>Павутиння оптоволокна скрізь н</title>
-      <link>https://www.mandarinai.lt/post/82932</link>
-      <description>Павутиння оптоволокна скрізь на полях під Покровськом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-07_12-36-55.mp4" length="1776964" type="video/mp4"/>
-      <pubDate>Fri, 07 Nov 2025 12:36:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Nov 2025 18:13:12 +0000</lastBuildDate>
     <item>
       <title>❗️ Понад 21,6 тис. військових </title>
       <link>https://www.mandarinai.lt/post/82933</link>
@@ -113,6 +106,15 @@
 Він також пише, що за цей період кількість загиблих і поранених росіян, за підрахунками України, зросла майже втричі - до 1,147 млн осіб. Незалежні військові аналітики підтверджують, що цей рік став для рф найкривавішим за весь час війни, що ставить під сумнів здатність Москви швидко розвинути успіх.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-07_16-44-43.jpg" length="85740" type="image/jpeg"/>
       <pubDate>Fri, 07 Nov 2025 16:44:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️ росіяни інфільтрувались до </title>
+      <link>https://www.mandarinai.lt/post/82947</link>
+      <description>⚔️ росіяни інфільтрувались до міської забудови Покровська, - начальник Генштабу
+
+"Дійсно, там створена певна перевага в силах та засобах противника, вони інфільтрувалися частково в міську забудову, особливо на південній околиці цього населеного пункту, і намагаються таким чином створити осередки для того, щоб продовжити надалі наступ", - розповів Андрій Гнатов.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-07_18-09-04.jpg" length="47888" type="image/jpeg"/>
+      <pubDate>Fri, 07 Nov 2025 18:09:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
