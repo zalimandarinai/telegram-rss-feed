@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 10:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 11:04:58 +0000</lastBuildDate>
     <item>
       <title>‼️В Києві пожежі внаслідок ата</title>
       <link>https://www.mandarinai.lt/post/82971</link>
@@ -114,6 +114,20 @@
 Під час зустрічі в посадці з легіонерами «Єжом» та «Ясенем» російський офіцер підняв руки і вирішив, що в тій ситуації буде краще поповнити обмінний фонд.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2969.MP4" length="6323981" type="video/mp4"/>
       <pubDate>Sat, 08 Nov 2025 09:53:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Жирна ціль! ССО в Криму знищи</title>
+      <link>https://www.mandarinai.lt/post/82982</link>
+      <description>🔥Жирна ціль! ССО в Криму знищили пускову установку С-400 «Тріумф» та склад боєприпасів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_10-20-28.mp4" length="2555850" type="video/mp4"/>
+      <pubDate>Sat, 08 Nov 2025 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нічні удари «шахедів» в районі</title>
+      <link>https://www.mandarinai.lt/post/82983</link>
+      <description>Нічні удари «шахедів» в районі міста Гребінка на Полтавщині. Місцеві повідомляють про кілька потужних вибухів. Кількість постраждалих уточнюємо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Grebinka.mp4" length="16966175" type="video/mp4"/>
+      <pubDate>Sat, 08 Nov 2025 11:04:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
