@@ -6,41 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 16:09:09 +0000</lastBuildDate>
-    <item>
-      <title>🔥Жирна ціль! ССО в Криму знищи</title>
-      <link>https://www.mandarinai.lt/post/82982</link>
-      <description>🔥Жирна ціль! ССО в Криму знищили пускову установку С-400 «Тріумф» та склад боєприпасів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_10-20-28.mp4" length="2555850" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нічні удари «шахедів» в районі</title>
-      <link>https://www.mandarinai.lt/post/82983</link>
-      <description>Нічні удари «шахедів» в районі міста Гребінка на Полтавщині. Місцеві повідомляють про десятки потужних вибухів. Кількість постраждалих уточнюємо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Grebinka.mp4" length="16966175" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 11:04:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Під Костянтинівкою російські д</title>
-      <link>https://www.mandarinai.lt/post/82984</link>
-      <description>Під Костянтинівкою російські дрони атакували машину з волонтерами та журналістами.
-
-Автомобіль, в якому їхали волонтери та знімальна група, потрапив під удар в районі Костянтинівки. Серед пасажирів був австрійський журналіст, кореспондент телеканалу ORF Крістіан Вершютц.
-
-За його словами, всі встигли вибігти з машини, помітивши дрон заздалегідь, і жертв вдалося уникнути. Однак сам автомобіль повністю знищений і відновленню не підлягає.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3233.MP4" length="10475002" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 11:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬рф зруйнувала важливий залізн</title>
-      <link>https://www.mandarinai.lt/post/82985</link>
-      <description>🤬рф зруйнувала важливий залізничний вузол між Києвом і Полтавою.
-
-Через нестачу вагонів та локомотивів може зменшитись кількість маршрутів, особливо в напрямках Київ–Полтава, Київ–Лубни та ін.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_11-26-33.jpg" length="65123" type="image/jpeg"/>
-      <pubDate>Sat, 08 Nov 2025 11:26:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 17:04:55 +0000</lastBuildDate>
     <item>
       <title>😯 Єврокомісія не переконала Бе</title>
       <link>https://www.mandarinai.lt/post/82988</link>
@@ -120,6 +86,29 @@
 Подивитися і купити раджу тут 👉https://rvv.com.ua/product/zrada-abo-yak-staty-volodarem-rayisa-ivanchenko-2025</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_15-59-21.jpg" length="482504" type="image/jpeg"/>
       <pubDate>Sat, 08 Nov 2025 15:59:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росія знову атакувала теплое</title>
+      <link>https://www.mandarinai.lt/post/82996</link>
+      <description>⚡️росія знову атакувала теплоелектростанцію ДТЕК
+
+Серйозно пошкоджено обладнання. Енергетики працюють над усуненням наслідків обстрілу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_16-30-14.jpg" length="74240" type="image/jpeg"/>
+      <pubDate>Sat, 08 Nov 2025 16:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Столиця через й@бану русню зан</title>
+      <link>https://www.mandarinai.lt/post/82997</link>
+      <description>Столиця через й@бану русню занурюється в темряву. Стоїмо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_16-44-12.mp4" length="2620169" type="video/mp4"/>
+      <pubDate>Sat, 08 Nov 2025 16:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>В російському Бєлгороді теж  б</title>
+      <link>https://www.mandarinai.lt/post/82998</link>
+      <description>В російському Бєлгороді теж  блекаут</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_16-49-47.jpg" length="30435" type="image/jpeg"/>
+      <pubDate>Sat, 08 Nov 2025 16:49:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
