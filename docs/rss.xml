@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 20:08:48 +0000</lastBuildDate>
-    <item>
-      <title>🤬Момент влучання російського «</title>
-      <link>https://www.mandarinai.lt/post/82991</link>
-      <description>🤬Момент влучання російського «шахеда» по залізничному депо на Полтавщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_12-10-54.mp4" length="1056999" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 12:10:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Мирноград на Донеччині майже</title>
-      <link>https://www.mandarinai.lt/post/82992</link>
-      <description>‼️Мирноград на Донеччині майже оточений рашистами: у місті зруйнована логістика, пересуватися дуже важко, — DeepState
-
-Піші маршрути небезпечні — можна натрапити на засідку ДРГ, ураження дроном або мінування</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_14-17-29.jpg" length="118175" type="image/jpeg"/>
-      <pubDate>Sat, 08 Nov 2025 14:17:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 21:07:05 +0000</lastBuildDate>
     <item>
       <title>‼️ Всі ТЕС «Центренерго» зупин</title>
       <link>https://www.mandarinai.lt/post/82993</link>
@@ -107,6 +91,22 @@
       <description>🤬В більшості районів Харькова після сильного спалаху зникло світло</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_19-57-42.mp4" length="819591" type="video/mp4"/>
       <pubDate>Sat, 08 Nov 2025 19:57:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тим часом у Полтаві фіксують р</title>
+      <link>https://www.mandarinai.lt/post/83008</link>
+      <description>Тим часом у Полтаві фіксують різке зростання напруги: місцями показники перевищують 520, а подекуди сягають 660 вольт
+
+За повідомленнями місцевих ЗМІ, внаслідок нічної атаки російських військ згорів трансформатор, який не витримав навантаження</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_20-23-42.jpg" length="19758" type="image/jpeg"/>
+      <pubDate>Sat, 08 Nov 2025 20:23:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Атаковано підстанцію в Корене</title>
+      <link>https://www.mandarinai.lt/post/83009</link>
+      <description>💥Атаковано підстанцію в Коренево Курської області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_20-46-08.jpg" length="91503" type="image/jpeg"/>
+      <pubDate>Sat, 08 Nov 2025 20:46:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
