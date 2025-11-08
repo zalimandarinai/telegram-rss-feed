@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 19:03:40 +0000</lastBuildDate>
-    <item>
-      <title>😯 Єврокомісія не переконала Бе</title>
-      <link>https://www.mandarinai.lt/post/82988</link>
-      <description>😯 Єврокомісія не переконала Бельгію використати заморожені активи рф для України, - ЗМІ
-
-За словами джерел видання, у бельгійському уряді висловлюють занепокоєння через відсутність альтернативних пропозицій з боку Єврокомісії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_12-05-49.jpg" length="92378" type="image/jpeg"/>
-      <pubDate>Sat, 08 Nov 2025 12:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬русня хизується в пабліках сь</title>
-      <link>https://www.mandarinai.lt/post/82989</link>
-      <description>🤬русня хизується в пабліках сьогоднішніми влучаннями по об'єктах української енергетики</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_12-08-00.mp4" length="693171" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 12:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 20:08:48 +0000</lastBuildDate>
     <item>
       <title>🤬Момент влучання російського «</title>
       <link>https://www.mandarinai.lt/post/82991</link>
@@ -109,6 +93,20 @@
       <description>В російському Бєлгороді теж  блекаут</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_16-49-47.jpg" length="30435" type="image/jpeg"/>
       <pubDate>Sat, 08 Nov 2025 16:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так сьогодні виглядає Мирногра</title>
+      <link>https://www.mandarinai.lt/post/83001</link>
+      <description>Так сьогодні виглядає Мирноград, русня намагається взяти місто в кільце</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_19-46-57.mp4" length="2773239" type="video/mp4"/>
+      <pubDate>Sat, 08 Nov 2025 19:46:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬В більшості районів Харькова </title>
+      <link>https://www.mandarinai.lt/post/83005</link>
+      <description>🤬В більшості районів Харькова після сильного спалаху зникло світло</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_19-57-42.mp4" length="819591" type="video/mp4"/>
+      <pubDate>Sat, 08 Nov 2025 19:57:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
