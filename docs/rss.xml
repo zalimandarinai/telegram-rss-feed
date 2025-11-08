@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 08:10:59 +0000</lastBuildDate>
-    <item>
-      <title>🤬Якесь їб@нуте чмо пройшлося п</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤬Якесь їб@нуте чмо пройшлося по прапорцях загиблих Героїв у Білій Церкві</description>
-      <pubDate>Fri, 07 Nov 2025 14:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Покровський напрямок в складі </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Покровський напрямок в складі українського угруповання намагається втримати і 92-а штурмова бригада. Колись ми збирали цим хлопцям на дрони. З тих пір група операторів БПЛА 1-го штурмового батальйону 92-ої ОШБР виросла в потужний безпілотний підрозділ, здатний діяти як самостійно, так і у взаємодії з іншими силами в контексті масштабних спільних операцій.</description>
-      <pubDate>Fri, 07 Nov 2025 15:01:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Шахед» влучив у  багатоповерх</title>
-      <link>https://www.mandarinai.lt/post/82962</link>
-      <description>«Шахед» влучив у  багатоповерхівку в Дніпрі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-07_23-00-08.jpg" length="62599" type="image/jpeg"/>
-      <pubDate>Fri, 07 Nov 2025 23:00:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 09:08:22 +0000</lastBuildDate>
     <item>
       <title>🤬Ще жахливі кадри з Дніпра, пі</title>
       <link>https://www.mandarinai.lt/post/82966</link>
@@ -37,6 +18,7 @@
       <title>‼️В Києві пожежі внаслідок ата</title>
       <link>https://www.mandarinai.lt/post/82971</link>
       <description>‼️В Києві пожежі внаслідок атаки БПЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_02-54-21.mp4" length="746007" type="video/mp4"/>
       <pubDate>Sat, 08 Nov 2025 02:54:21 +0000</pubDate>
     </item>
     <item>
@@ -74,6 +56,31 @@
 ◽Миколаївщина: удар дронами по промислових об’єктах в обласному центрі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2970.MP4" length="3912717" type="video/mp4"/>
       <pubDate>Sat, 08 Nov 2025 07:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Дніпрі вже двоє загиблих — т</title>
+      <link>https://www.mandarinai.lt/post/82975</link>
+      <description>У Дніпрі вже двоє загиблих — тіло ще однієї жінки витягли з-під завалів, — ОВА
+
+Кількість постраждалих також збільшилася до 12. Семеро з них — у лікарні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_08-27-57.jpg" length="149476" type="image/jpeg"/>
+      <pubDate>Sat, 08 Nov 2025 08:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Прицільна атака шахеда по баг</title>
+      <link>https://www.mandarinai.lt/post/82976</link>
+      <description>🤬Прицільна атака шахеда по багатоповерхівці в Дніпрі. російські військові злочинці продовжують безкарно вбивати мирних українців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_08-33-37.mp4" length="1529072" type="video/mp4"/>
+      <pubDate>Sat, 08 Nov 2025 08:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вдев’яте від початку жовтня РФ</title>
+      <link>https://www.mandarinai.lt/post/82977</link>
+      <description>Вдев’яте від початку жовтня РФ масовано атакувала газову інфраструктуру України, — «Нафтогаз»
+
+Є влучання та пошкодження виробничого обладнання. Один робітник поранений. Щойно безпекова ситуація дозволить, фахівці розпочнуть відновлення пошкоджених об’єктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_09-03-53.jpg" length="81893" type="image/jpeg"/>
+      <pubDate>Sat, 08 Nov 2025 09:03:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
