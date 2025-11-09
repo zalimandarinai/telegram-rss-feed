@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 05:08:47 +0000</lastBuildDate>
-    <item>
-      <title>⚡️росія знову атакувала теплое</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️росія знову атакувала теплоелектростанцію ДТЕК
-
-Серйозно пошкоджено обладнання. Енергетики працюють над усуненням наслідків обстрілу.</description>
-      <pubDate>Sat, 08 Nov 2025 16:30:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Nov 2025 06:12:53 +0000</lastBuildDate>
     <item>
       <title>Так сьогодні виглядає Мирногра</title>
       <link>https://www.mandarinai.lt/post/83001</link>
@@ -57,11 +49,18 @@
       <pubDate>Sat, 08 Nov 2025 21:35:29 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥В російській Казані прильот </title>
+      <title>🔥В російській Казані на нафтох</title>
       <link>https://www.mandarinai.lt/post/83013</link>
-      <description>💥🔥В російській Казані прильот по нафтохімічному підприємству</description>
+      <description>🔥В російській Казані на нафтохімічному підприємстві раптово спалахнуло. Влада каже - технічні роботи😱</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-09_05-03-58.mp4" length="678804" type="video/mp4"/>
       <pubDate>Sun, 09 Nov 2025 05:03:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У російському Воронежі влуча</title>
+      <link>https://www.mandarinai.lt/post/83016</link>
+      <description>💥🔥У російському Воронежі влучання в районі ТЕЦ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-09_05-28-04.mp4" length="1655947" type="video/mp4"/>
+      <pubDate>Sun, 09 Nov 2025 05:28:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
