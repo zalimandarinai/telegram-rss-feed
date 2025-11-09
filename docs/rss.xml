@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 06:12:53 +0000</lastBuildDate>
-    <item>
-      <title>Так сьогодні виглядає Мирногра</title>
-      <link>https://www.mandarinai.lt/post/83001</link>
-      <description>Так сьогодні виглядає Мирноград, русня намагається взяти місто в кільце</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_19-46-57.mp4" length="2773239" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 19:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬В більшості районів Харькова </title>
-      <link>https://www.mandarinai.lt/post/83005</link>
-      <description>🤬В більшості районів Харькова після сильного спалаху зникло світло</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_19-57-42.mp4" length="819591" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 19:57:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Nov 2025 07:08:31 +0000</lastBuildDate>
     <item>
       <title>Тим часом у Полтаві фіксують р</title>
       <link>https://www.mandarinai.lt/post/83008</link>
@@ -56,11 +42,27 @@
       <pubDate>Sun, 09 Nov 2025 05:03:58 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥У російському Воронежі влуча</title>
+      <title>💥🔥У російському Воронежі успіш</title>
       <link>https://www.mandarinai.lt/post/83016</link>
-      <description>💥🔥У російському Воронежі влучання в районі ТЕЦ</description>
+      <description>💥🔥У російському Воронежі успішно атакована ТЕЦ - 1</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-09_05-28-04.mp4" length="1655947" type="video/mp4"/>
       <pubDate>Sun, 09 Nov 2025 05:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Вперше за півроку Запорізьк</title>
+      <link>https://www.mandarinai.lt/post/83018</link>
+      <description>⚡️ Вперше за півроку Запорізьку АЕС знову підключили до резервної лінії живлення, — МАГАТЕ
+
+Після місяців ремонтних робіт ЗАЕС відновила резервне електроживлення — станцію підключено до мережі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-09_06-17-45.jpg" length="148844" type="image/jpeg"/>
+      <pubDate>Sun, 09 Nov 2025 06:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Після влучання в ТЕЦ у російс</title>
+      <link>https://www.mandarinai.lt/post/83019</link>
+      <description>💥Після влучання в ТЕЦ у російському Воронежі частково зникло світло</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-09_06-42-15.jpg" length="59747" type="image/jpeg"/>
+      <pubDate>Sun, 09 Nov 2025 06:42:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
