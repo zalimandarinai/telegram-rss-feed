@@ -6,29 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 04:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 05:08:47 +0000</lastBuildDate>
     <item>
       <title>⚡️росія знову атакувала теплое</title>
-      <link>https://www.mandarinai.lt/post/82996</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️росія знову атакувала теплоелектростанцію ДТЕК
 
 Серйозно пошкоджено обладнання. Енергетики працюють над усуненням наслідків обстрілу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_16-30-14.jpg" length="74240" type="image/jpeg"/>
       <pubDate>Sat, 08 Nov 2025 16:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Столиця через й@бану русню зан</title>
-      <link>https://www.mandarinai.lt/post/82997</link>
-      <description>Столиця через й@бану русню занурюється в темряву. Стоїмо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-08_16-44-12.mp4" length="2620169" type="video/mp4"/>
-      <pubDate>Sat, 08 Nov 2025 16:44:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>В російському Бєлгороді теж  б</title>
-      <link>https://www.mandarinai.lt/post/82998</link>
-      <description>В російському Бєлгороді теж  блекаут</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_16-49-47.jpg" length="30435" type="image/jpeg"/>
-      <pubDate>Sat, 08 Nov 2025 16:49:47 +0000</pubDate>
     </item>
     <item>
       <title>Так сьогодні виглядає Мирногра</title>
@@ -70,6 +55,13 @@
 Повідомляється, що в Україну вже відправили дві партії сіток загальною довжиною 280 км. У прифронтових районах з них облаштовують тунелі вздовж доріг, у яких дрони застрягають, "подібно до того, як мухи застрягають у павутині".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-08_21-35-29.jpg" length="208989" type="image/jpeg"/>
       <pubDate>Sat, 08 Nov 2025 21:35:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російській Казані прильот </title>
+      <link>https://www.mandarinai.lt/post/83013</link>
+      <description>💥🔥В російській Казані прильот по нафтохімічному підприємству</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-09_05-03-58.mp4" length="678804" type="video/mp4"/>
+      <pubDate>Sun, 09 Nov 2025 05:03:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
