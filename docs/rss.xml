@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 06:16:03 +0000</lastBuildDate>
-    <item>
-      <title>😐Трамп ледь не заснув під час </title>
-      <link>https://www.mandarinai.lt/post/83056</link>
-      <description>😐Трамп ледь не заснув під час оголошення про зниження цін на популярні препарати для схуднення у Білому домі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-09_18-40-38.mp4" length="12632979" type="video/mp4"/>
-      <pubDate>Sun, 09 Nov 2025 18:40:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 07:10:32 +0000</lastBuildDate>
     <item>
       <title>«Воевать пойдешь?» «Нет, воева</title>
       <link>https://www.mandarinai.lt/post/83057</link>
@@ -96,6 +89,13 @@
       <description>Момент удару «шахеда» по Ромнах на Сумщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4660.MP4" length="4484099" type="video/mp4"/>
       <pubDate>Sun, 09 Nov 2025 20:22:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В Ростовській області вночі </title>
+      <link>https://www.mandarinai.lt/post/83070</link>
+      <description>💥🔥В Ростовській області вночі був атакований залізничний вузол</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-10_06-26-24.mp4" length="4032149" type="video/mp4"/>
+      <pubDate>Mon, 10 Nov 2025 06:26:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
