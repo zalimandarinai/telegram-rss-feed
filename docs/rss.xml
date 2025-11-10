@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 12:18:18 +0000</lastBuildDate>
-    <item>
-      <title>росія атакувала Україну двома </title>
-      <link>https://www.mandarinai.lt/post/83072</link>
-      <description>росія атакувала Україну двома ракетами «Кинджал», пʼятьма ракетами С-300/С-400 та 67 БпЛА. 
-
-Сили протиповітряної оборони знищили 52 ворожі цілі. Водночас на дев'яти локаціях зафіксовано влучання 15 ударних безпілотників</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-10_07-48-17.jpg" length="88014" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 07:48:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 13:24:09 +0000</lastBuildDate>
     <item>
       <title>😡 Окупанти вдарили дронами по </title>
       <link>https://www.mandarinai.lt/post/83073</link>
@@ -90,6 +81,17 @@
 Відео: Wladimir van Wilgenburg (X)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-10_11-45-03.mp4" length="1209540" type="video/mp4"/>
       <pubDate>Mon, 10 Nov 2025 11:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці виявили російський дрон-</title>
+      <link>https://www.mandarinai.lt/post/83089</link>
+      <description>Бійці виявили російський дрон-«ждун» на оптоволокні, встановлений на одному з логістичних маршрутів. 
+
+Оскільки українці зайшли так, що ворожий оператор їх не бачив, бійці перерізали оптоволокно та демонтували бойову частину для подальшого вивчення.
+
+Таких дронів стає більше.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3022.MP4" length="27132791" type="video/mp4"/>
+      <pubDate>Mon, 10 Nov 2025 12:24:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
