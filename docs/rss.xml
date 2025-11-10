@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 17:09:29 +0000</lastBuildDate>
-    <item>
-      <title>⚡️⚡️У Мирнограді сили оборони </title>
-      <link>https://www.mandarinai.lt/post/83082</link>
-      <description>⚡️⚡️У Мирнограді сили оборони здійснили ротацію та евакуацію поранених, — речник Генштабу Андрій Ковальов
-
-Він повідомив, що підрозділам, які тримають оборону в районі Мирнограда, доставили необхідне озброєння та боєприпаси, а також провели ротацію військових та евакуацію поранених із зони бойових дій.
-
-За аналогічною схемою організовують логістику та зміну особового складу в Покровську, де тривають активні бойові дії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-10_09-04-14.jpg" length="112261" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 09:04:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>В російському нафтовому порту </title>
-      <link>https://www.mandarinai.lt/post/83085</link>
-      <description>В російському нафтовому порту Туапсе зафіксоване влучання морських дронів поруч з причалом №167 - OSINT</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-10_10-44-15.jpg" length="106721" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 10:44:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 18:13:53 +0000</lastBuildDate>
     <item>
       <title>⚡ НАБУ і САП публікують записи</title>
       <link>https://www.mandarinai.lt/post/83087</link>
@@ -140,6 +122,15 @@
       <description>Один з «шахедів», які нещодавно збили зенітники 92-ої ОШБР в передмісті Харкова</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1114.MP4" length="974961" type="video/mp4"/>
       <pubDate>Mon, 10 Nov 2025 16:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Окупанти прорвали ще одну діл</title>
+      <link>https://www.mandarinai.lt/post/83101</link>
+      <description>🤬Окупанти прорвали ще одну ділянку кордону на Харківщині, в районі Бологівки, – засновник «KRAKEN» Немічев.
+
+«В планах рф з’єднати угрупування у Вовчанську та Дворічній»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-10_17-30-47.jpg" length="144691" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 17:30:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
