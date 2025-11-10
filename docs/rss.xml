@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 10:11:31 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥В Ростовській області вночі </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥🔥В Ростовській області вночі був атакований залізничний вузол</description>
-      <pubDate>Mon, 10 Nov 2025 06:26:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 11:07:56 +0000</lastBuildDate>
     <item>
       <title>💥🔥В Ростовській області вночі </title>
       <link>https://www.mandarinai.lt/post/83070</link>
@@ -64,6 +58,13 @@
 За аналогічною схемою організовують логістику та зміну особового складу в Покровську, де тривають активні бойові дії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-10_09-04-14.jpg" length="112261" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 09:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>В російському нафтовому порту </title>
+      <link>https://www.mandarinai.lt/post/83085</link>
+      <description>В російському нафтовому порту Туапсе зафіксоване влучання морських дронів поруч з причалом №167 - OSINT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3020.MP4" length="5059923" type="video/mp4"/>
+      <pubDate>Mon, 10 Nov 2025 10:44:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
