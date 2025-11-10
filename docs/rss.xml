@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 15:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 16:11:41 +0000</lastBuildDate>
     <item>
       <title>⚡️⚡️У Мирнограді сили оборони </title>
       <link>https://www.mandarinai.lt/post/83082</link>
@@ -123,6 +123,16 @@
 Чехи всього за добу зібрали $600 тисяч на виготовлення ракети для України. Тепер виробник оголосив: подвоює суму збору і зробить не одну, а дві ракети для ЗСУ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-10_15-06-01.jpg" length="61599" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 15:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Розбита понівечена Авдіївка пі</title>
+      <link>https://www.mandarinai.lt/post/83097</link>
+      <description>Розбита понівечена Авдіївка під окупацією виглядає так.
+
+В Покровську окупанти намагаються повторити деякі тактичні прийоми, за допомогою яких вони змогли захопити Авдіївку, вважає командир 1-го окремого штурмового полку імені Д.Коцюбайла Дмитро Філатов з позивним «Перун».
+
+Але в Покровську «нема труби й немає каналізації, яка б дала можливість так далеко пролізти», каже він.</description>
+      <pubDate>Mon, 10 Nov 2025 15:55:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
