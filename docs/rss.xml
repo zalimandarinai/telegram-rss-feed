@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 13:23:37 +0000</lastBuildDate>
-    <item>
-      <title>На фронті в фіксують спалахи  </title>
-      <link>https://www.mandarinai.lt/post/83121</link>
-      <description>На фронті в фіксують спалахи  газової гангрени — інфекцію часів Першої світової, — The Telegraph
-
-Через затримку евакуації поранених та постійні атаки російських дронів на передовій фіксують випадки газової гангрени — небезпечної бактеріальної інфекції, яку останній раз масово спостерігали у Першу світову війну. 
-
-Газова гангрена виникає внаслідок зараження бактеріями Clostridium, які швидко руйнують м’язи та виділяють газ у тканинах. Без лікування смертність майже 100%.
-
-Медики зазначають, що російські FPV-дрони та постійні обстріли унеможливлюють швидке вивезення поранених із позицій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-11_09-11-51.jpg" length="88004" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 09:11:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 14:09:35 +0000</lastBuildDate>
     <item>
       <title>⚡️Сили оборони уразили Саратов</title>
       <link>https://www.mandarinai.lt/post/83122</link>
@@ -85,6 +72,13 @@
 "Через масовані штурми, понад 400 артобстрілів на добу та знищення укриттів нашим військовим довелося відступити з районів Новоуспенівського, Нового, Охотничого, Успенки та Новониколаївки".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-11_12-44-59.jpg" length="82480" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 12:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Небачена кількість дронів, - з</title>
+      <link>https://www.mandarinai.lt/post/83136</link>
+      <description>Небачена кількість дронів, - знищення перехоплювачами більш, ніж 30-ти БПЛА «Молнія», на Лиманському напрямку показала 63-я бригада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3103.MP4" length="11268598" type="video/mp4"/>
+      <pubDate>Tue, 11 Nov 2025 13:46:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
