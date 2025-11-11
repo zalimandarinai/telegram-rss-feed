@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 17:08:33 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Влучили! Не дарма так довго </title>
-      <link>https://www.mandarinai.lt/post/83132</link>
-      <description>💥🔥Влучили! Не дарма так довго летіли - російський нафтовий Оргсінтез переконливо палає.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_11-25-56.mp4" length="443520" type="video/mp4"/>
-      <pubDate>Tue, 11 Nov 2025 11:25:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 18:13:36 +0000</lastBuildDate>
     <item>
       <title>❗️Адміністрація Трампа виступи</title>
       <link>https://www.mandarinai.lt/post/83134</link>
@@ -105,6 +98,13 @@ https://viktailor.com/sale/
       <description>«Де світло?»: на масові запитання в мережі ДТЕК відповіло кадрами незліченних прильотів та руйнувань ТЕС і підстанцій</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_16-36-17.mp4" length="1894341" type="video/mp4"/>
       <pubDate>Tue, 11 Nov 2025 16:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Одеса зараз під масованою ата</title>
+      <link>https://www.mandarinai.lt/post/83147</link>
+      <description>🤬Одеса зараз під масованою атакою БпЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_17-56-19.mp4" length="747064" type="video/mp4"/>
+      <pubDate>Tue, 11 Nov 2025 17:56:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
