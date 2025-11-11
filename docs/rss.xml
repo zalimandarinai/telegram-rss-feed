@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 19:07:29 +0000</lastBuildDate>
-    <item>
-      <title>❗️Адміністрація Трампа виступи</title>
-      <link>https://www.mandarinai.lt/post/83134</link>
-      <description>❗️Адміністрація Трампа виступила за те, щоб вилучити з резолюції ООН формулювання, що підтверджують територіальну цілісність України та засуджують російську окупацію Криму й інших регіонів, — джерела Kyiv Post</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-11_12-43-02.jpg" length="152622" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 12:43:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 20:09:54 +0000</lastBuildDate>
     <item>
       <title>❗️ЗСУ довелося відійти з позиц</title>
       <link>https://www.mandarinai.lt/post/83135</link>
@@ -105,6 +98,22 @@ https://viktailor.com/sale/
       <description>🤬Одеса зараз під масованою атакою БпЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_17-56-19.mp4" length="747064" type="video/mp4"/>
       <pubDate>Tue, 11 Nov 2025 17:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Влучання по ТЕС в окупованому</title>
+      <link>https://www.mandarinai.lt/post/83148</link>
+      <description>💥Влучання по ТЕС в окупованому Старобешево</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_19-15-21.mp4" length="1542856" type="video/mp4"/>
+      <pubDate>Tue, 11 Nov 2025 19:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Німецьку держкомпанію зобов</title>
+      <link>https://www.mandarinai.lt/post/83149</link>
+      <description>🇩🇪 Німецьку держкомпанію зобов'язали розірвати контракт на постачання СПГ із Росії
+
+Мінекономіки Німеччини вимагає від німецької компанії SEFE, яка є колишнім підрозділом "Газпрому", припинити контракт на постачання російського СПГ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-11_20-06-47.jpg" length="172727" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 20:06:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
