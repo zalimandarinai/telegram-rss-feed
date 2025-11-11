@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 06:15:06 +0000</lastBuildDate>
-    <item>
-      <title>☠русня під Покровськом тягнає </title>
-      <link>https://www.mandarinai.lt/post/83095</link>
-      <description>☠русня під Покровськом тягнає своїх дохлих. Живих, на жаль, теж вистачає</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-10_14-42-49.mp4" length="1497896" type="video/mp4"/>
-      <pubDate>Mon, 10 Nov 2025 14:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦩На окупантів  летітимуть два </title>
-      <link>https://www.mandarinai.lt/post/83096</link>
-      <description>🦩На окупантів  летітимуть два «Фламінго» від чеських волонтерів, — Novinky
-
-Чехи всього за добу зібрали $600 тисяч на виготовлення ракети для України. Тепер виробник оголосив: подвоює суму збору і зробить не одну, а дві ракети для ЗСУ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-10_15-06-01.jpg" length="61599" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 15:06:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 07:10:09 +0000</lastBuildDate>
     <item>
       <title>Розбита понівечена Авдіївка пі</title>
       <link>https://www.mandarinai.lt/post/83097</link>
@@ -92,6 +76,17 @@ DeepState пише про складну ситуацію в районі Сол
 Попередня атака на НПЗ відбулась 3 листопада.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3059.MP4" length="2540286" type="video/mp4"/>
       <pubDate>Tue, 11 Nov 2025 06:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії заявили, що нібито зап</title>
+      <link>https://www.mandarinai.lt/post/83112</link>
+      <description>В росії заявили, що нібито запобігли спробі України та Великої Британії угнати за $3 млн. винищувач МіГ-31 із ракетою «Кинджал».
+
+Штурман МіГ-31 прекрасно вивчив текст і жодного разу не збився.
+
+В ох@їтельній історії фігурує «журналіст Сергій Луговськой» та міжнародне видання Bellingcat, через яке начебто планувалось передавати гроші за літак.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3062.MOV" length="2393240" type="video/mp4"/>
+      <pubDate>Tue, 11 Nov 2025 07:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
