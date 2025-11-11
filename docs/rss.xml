@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 20:09:54 +0000</lastBuildDate>
-    <item>
-      <title>❗️ЗСУ довелося відійти з позиц</title>
-      <link>https://www.mandarinai.lt/post/83135</link>
-      <description>❗️ЗСУ довелося відійти з позицій біля п’яти населених пунктів на Запорізькому напрямку — спікер Сил оборони Півдня Владислав Волошин
-
-"Через масовані штурми, понад 400 артобстрілів на добу та знищення укриттів нашим військовим довелося відступити з районів Новоуспенівського, Нового, Охотничого, Успенки та Новониколаївки".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-11_12-44-59.jpg" length="82480" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 12:44:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 21:07:51 +0000</lastBuildDate>
     <item>
       <title>Небачена кількість дронів, - з</title>
       <link>https://www.mandarinai.lt/post/83136</link>
@@ -114,6 +105,13 @@ https://viktailor.com/sale/
 Мінекономіки Німеччини вимагає від німецької компанії SEFE, яка є колишнім підрозділом "Газпрому", припинити контракт на постачання російського СПГ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-11_20-06-47.jpg" length="172727" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 20:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Противник скинув ФАБ-3000 на б</title>
+      <link>https://www.mandarinai.lt/post/83150</link>
+      <description>Противник скинув ФАБ-3000 на багатоповерхівки Мирнограда</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3109.MP4" length="1979052" type="video/mp4"/>
+      <pubDate>Tue, 11 Nov 2025 21:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
