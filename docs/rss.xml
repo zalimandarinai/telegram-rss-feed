@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 11:08:26 +0000</lastBuildDate>
-    <item>
-      <title>Трамп заявив, що США знизять м</title>
-      <link>https://www.mandarinai.lt/post/83116</link>
-      <description>Трамп заявив, що США знизять мита для Індії після того як Делі суттєво зменшив закупівлі нафти в росії
-
-Зараз тарифи для Індії дуже високі через російську нафту, і вони припинили імпортувати російську нафту. Суттєво знизили. Так, ми збираємося знизити тарифи.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_07-42-57.mp4" length="772539" type="video/mp4"/>
-      <pubDate>Tue, 11 Nov 2025 07:42:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ «Це була балістика», - мер </title>
-      <link>https://www.mandarinai.lt/post/83118</link>
-      <description>❗️ «Це була балістика», - мер Харкова коментує ранковий приліт.
-
-💬 «Балістика, випущена з території рф по селищу, яке розташоване біля міста Харкова. Наслідки зараз уточнюються, але хочу сказати, що в Харкові не було вибухів. Ніч пройшла більш-менш спокійно, але була повітряна тривога і треба бути дуже обережними».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3067.MP4" length="14478269" type="video/mp4"/>
-      <pubDate>Tue, 11 Nov 2025 07:46:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 12:17:42 +0000</lastBuildDate>
     <item>
       <title>Окупанти знімають підрив власн</title>
       <link>https://www.mandarinai.lt/post/83119</link>
@@ -102,6 +84,13 @@
       <description>⚠️Тим часом дрони "фєвраль" атакують нафтопереробну галузь русні у далекій Оренбургській області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_10-51-19.mp4" length="135796" type="video/mp4"/>
       <pubDate>Tue, 11 Nov 2025 10:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Влучили! Не дарма так довго </title>
+      <link>https://www.mandarinai.lt/post/83132</link>
+      <description>💥🔥Влучили! Не дарма так довго летіли - російський нафтовий Оргсінтез переконливо палає.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-11_11-25-56.mp4" length="443520" type="video/mp4"/>
+      <pubDate>Tue, 11 Nov 2025 11:25:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
