@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 08:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 09:10:54 +0000</lastBuildDate>
     <item>
       <title>❗️ За даними Flightradar, зара</title>
       <link>https://www.mandarinai.lt/post/83105</link>
@@ -94,6 +94,13 @@ DeepState пише про складну ситуацію в районі Сол
 💬 «Балістика, випущена з території рф по селищу, яке розташоване біля міста Харкова. Наслідки зараз уточнюються, але хочу сказати, що в Харкові не було вибухів. Ніч пройшла більш-менш спокійно, але була повітряна тривога і треба бути дуже обережними».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3067.MP4" length="14478269" type="video/mp4"/>
       <pubDate>Tue, 11 Nov 2025 07:46:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти знімають підрив власн</title>
+      <link>https://www.mandarinai.lt/post/83119</link>
+      <description>Окупанти знімають підрив власного танка на міні під час наступу на Донбасі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3068.MP4" length="7913814" type="video/mp4"/>
+      <pubDate>Tue, 11 Nov 2025 08:20:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
