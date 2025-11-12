@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 23:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 00:44:25 +0000</lastBuildDate>
     <item>
       <title>НАБУ і САП задокументували пер</title>
       <link>https://www.mandarinai.lt/post/83141</link>
@@ -118,6 +118,13 @@
 Ворог зумів перейти кордон в районі села Бологівка з явним наміром створити «буферну зону» від Вовчанська до Дворічної на сході Харківщини.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3110.MP4" length="22758007" type="video/mp4"/>
       <pubDate>Tue, 11 Nov 2025 21:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>русня атакує енергетичний об'є</title>
+      <link>https://www.mandarinai.lt/post/83154</link>
+      <description>русня атакує енергетичний об'єкт в Краматорську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-12_00-40-58.mp4" length="450524" type="video/mp4"/>
+      <pubDate>Wed, 12 Nov 2025 00:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
