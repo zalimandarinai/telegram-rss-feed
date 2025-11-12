@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 06:14:50 +0000</lastBuildDate>
-    <item>
-      <title>НАБУ і САП задокументували пер</title>
-      <link>https://www.mandarinai.lt/post/83141</link>
-      <description>НАБУ і САП задокументували передачу коштів колишньому віцепрем’єру України, відомому в закритих спілкуваннях як «Че Гевара».
-
-Зафіксовано передачу $1,2 млн та майже €100 тис. готівкою — безпосередньо в офісі або медичній клініці одного з учасників злочинної організації.
-
-Останні $500 тис. передали вже його дружині після того, як сам «Че Гевара» став підозрюваним у корупційних злочинах. Ймовірно, мова про Чернишова.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-11_16-05-48.jpg" length="55797" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 16:05:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Україна битиме по території </title>
-      <link>https://www.mandarinai.lt/post/83142</link>
-      <description>❗️Україна битиме по території рф щодня, — Зеленський
-
-На відео: результат сьогоднішньої атаки на НПЗ в російському Орську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3107.MP4" length="2035784" type="video/mp4"/>
-      <pubDate>Tue, 11 Nov 2025 16:06:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 07:10:01 +0000</lastBuildDate>
     <item>
       <title>Діпстрайк по НПЗ в місті Орськ</title>
       <link>https://www.mandarinai.lt/post/83143</link>
@@ -125,6 +105,17 @@
       <description>русня атакує енергетичний об'єкт в Краматорську</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-12_00-40-58.mp4" length="450524" type="video/mp4"/>
       <pubDate>Wed, 12 Nov 2025 00:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії знову заявляють про «С</title>
+      <link>https://www.mandarinai.lt/post/83156</link>
+      <description>В росії знову заявляють про «Стамбульські переговори».
+
+Нібито росія готова продовжити «мирні» стамбульські переговори з Україною, якщо з боку України буде виявлена «політична воля», — заявив тимчасовий повірений у справах рф у Туреччині Іванов.
+
+Його цитує пропагандистський ресурс ТАСС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-12_07-07-06.jpg" length="72740" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 07:07:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
