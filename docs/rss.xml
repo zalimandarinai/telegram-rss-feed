@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Nov 2025 23:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 00:44:20 +0000</lastBuildDate>
     <item>
       <title>Винищувач розбився в Карелії
 
@@ -33,38 +33,39 @@
       <pubDate>Thu, 13 Nov 2025 18:22:30 +0000</pubDate>
     </item>
     <item>
-      <title>"Більше тридцяти штук", - до т</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>"Більше тридцяти штук", - до тимчасово окупованого Донецька навідались безпілотники</description>
-      <pubDate>Thu, 13 Nov 2025 18:25:42 +0000</pubDate>
+      <title>❗️ Київ, влучання в багатопове</title>
+      <link>https://www.mandarinai.lt/post/83279</link>
+      <description>❗️ Київ, влучання в багатоповерхівку, пожежа на 12 поверсі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-13_23-18-09.jpg" length="109725" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 23:18:09 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Близько 70 шахедів над Украї</title>
-      <link>https://www.mandarinai.lt/post/83263</link>
-      <description>⚡️Близько 70 шахедів над Україною, більшість в центрі та на південному сході. Відбулися нові пуски</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-13_20-50-52.jpg" length="106857" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 20:50:52 +0000</pubDate>
+      <title>В Києві у 7  багатоповерхівках</title>
+      <link>https://www.mandarinai.lt/post/83281</link>
+      <description>В Києві у 7  багатоповерхівках через атаку рашистів пожежі — пошкодження майже в усіх районах столиці!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-13_23-47-13.mp4" length="318885" type="video/mp4"/>
+      <pubDate>Thu, 13 Nov 2025 23:47:13 +0000</pubDate>
     </item>
     <item>
-      <title>👌"путин - ху*ло", - лунає з тр</title>
-      <link>https://www.mandarinai.lt/post/83264</link>
-      <description>👌"путин - ху*ло", - лунає з трибун. Завершився 1 тайм матчу Франція -Україна, на табло 0:0</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-13_21-02-11.mp4" length="4421157" type="video/mp4"/>
-      <pubDate>Thu, 13 Nov 2025 21:02:11 +0000</pubDate>
+      <title>🤬Київська п'ятиповерхівка післ</title>
+      <link>https://www.mandarinai.lt/post/83282</link>
+      <description>🤬Київська п'ятиповерхівка після атаки рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_00-15-01.mp4" length="227189" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 00:15:01 +0000</pubDate>
     </item>
     <item>
-      <title>На Київщині працюють сили ППО,</title>
-      <link>https://www.mandarinai.lt/post/83266</link>
-      <description>На Київщині працюють сили ППО, — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-13_21-47-55.jpg" length="62464" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 21:47:55 +0000</pubDate>
+      <title>💥🔥В Новоросійську влучання по </title>
+      <link>https://www.mandarinai.lt/post/83283</link>
+      <description>💥🔥В Новоросійську влучання по нафтовому терміналу і складу у військовій частині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_00-17-12.mp4" length="670270" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 00:17:12 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Атакована нафтобаза в Новоро</title>
-      <link>https://www.mandarinai.lt/post/83268</link>
-      <description>💥🔥Атакована нафтобаза в Новоросійську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-13_22-38-03.mp4" length="485358" type="video/mp4"/>
-      <pubDate>Thu, 13 Nov 2025 22:38:03 +0000</pubDate>
+      <title>🤬російські вбивці продовжують </title>
+      <link>https://www.mandarinai.lt/post/83286</link>
+      <description>🤬російські вбивці продовжують гатити по житлових будинках в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_00-32-32.mp4" length="208421" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 00:32:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
