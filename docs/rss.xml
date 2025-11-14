@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 12:18:24 +0000</lastBuildDate>
-    <item>
-      <title>Момент обвалу житлового будинк</title>
-      <link>https://www.mandarinai.lt/post/83303</link>
-      <description>Момент обвалу житлового будинку у Святошинському районі столиці після атаки рф цієї ночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_08-59-39.mp4" length="1898509" type="video/mp4"/>
-      <pubDate>Fri, 14 Nov 2025 08:59:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬російський дрон влучив  прямо</title>
-      <link>https://www.mandarinai.lt/post/83304</link>
-      <description>🤬російський дрон влучив  прямо у автомобілі під час руху в Чорноморську на Одещині— є загиблі, — місцеві канали</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_09-03-58.mp4" length="222533" type="video/mp4"/>
-      <pubDate>Fri, 14 Nov 2025 09:03:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 13:23:05 +0000</lastBuildDate>
     <item>
       <title>Reuters публікує кадри масован</title>
       <link>https://www.mandarinai.lt/post/83305</link>
@@ -70,7 +56,7 @@
     <item>
       <title>💥🔥Саратівській НПЗ, вогонь дем</title>
       <link>https://www.mandarinai.lt/post/83311</link>
-      <description>💥🔥Саратівській НПЗ, вогонь демократи розповсюджужтьсч на сусідні резервуари</description>
+      <description>💥🔥Саратівській НПЗ, вогонь демократії розповсюджується на сусідні резервуари</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_10-36-42.jpg" length="65793" type="image/jpeg"/>
       <pubDate>Fri, 14 Nov 2025 10:36:42 +0000</pubDate>
     </item>
@@ -98,6 +84,30 @@
 Використовуючи їх, росіяни планували визначити технічний стан та рівень захищеності обладнання.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_11-59-05.jpg" length="106051" type="image/jpeg"/>
       <pubDate>Fri, 14 Nov 2025 11:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐷Гуляйполе в Запорізькій облас</title>
+      <link>https://www.mandarinai.lt/post/83317</link>
+      <description>🐷Гуляйполе в Запорізькій області окупанти обходять з обох боків, — військові повідомляють про критичну ситуацію на напрямку
+
+Цей населений пункт є важливим плацдармом для ЗСУ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_12-20-38.jpg" length="73824" type="image/jpeg"/>
+      <pubDate>Fri, 14 Nov 2025 12:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час атаки на українських с</title>
+      <link>https://www.mandarinai.lt/post/83318</link>
+      <description>Під час атаки на українських спецпризначенців російський FPV-дрон промахнувся, і це врятувало хлопців.
+
+Оператори 4-го полку ССО майстерно маневрують від атаки ворожого FPV під час виходу бійців з позицій.
+
+Відео з нашоломної камери оператора ССО 2-го загону 4-го полку «Рейнджер».
+
+Бойова робота біля північного кордону з росією.
+
+Північно-Слобожанський напрямок.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3184.MP4" length="17853821" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 12:48:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
