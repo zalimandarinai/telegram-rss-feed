@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 20:10:58 +0000</lastBuildDate>
-    <item>
-      <title>На Белгородщині українській др</title>
-      <link>https://www.mandarinai.lt/post/83321</link>
-      <description>На Белгородщині українській дрон застосував летючі  санкції до чергової АЗС "Роснєфті" в н.п Маслова пристань</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_14-34-03.jpg" length="34106" type="image/jpeg"/>
-      <pubDate>Fri, 14 Nov 2025 14:34:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 21:07:45 +0000</lastBuildDate>
     <item>
       <title>🔥Офіційно! ЗСУ ракетами "Непту</title>
       <link>https://www.mandarinai.lt/post/83324</link>
@@ -130,6 +123,13 @@ YouTube-канал.</description>
 ℹ️ Зачистка відбувалась біля центральної площі міста.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3197.MP4" length="13030770" type="video/mp4"/>
       <pubDate>Fri, 14 Nov 2025 19:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐У Пентагоні знову з’явилася в</title>
+      <link>https://www.mandarinai.lt/post/83339</link>
+      <description>😐У Пентагоні знову з’явилася вивіска «Міністерство війни»: Піт Гегсет урочисто встановив нову табличку на вході</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_20-50-06.mp4" length="567550" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 20:50:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
