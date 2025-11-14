@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 08:13:28 +0000</lastBuildDate>
-    <item>
-      <title>🤬російські вбивці продовжують </title>
-      <link>https://www.mandarinai.lt/post/83286</link>
-      <description>🤬російські вбивці продовжують гатити по житлових будинках в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_00-32-32.mp4" length="208421" type="video/mp4"/>
-      <pubDate>Fri, 14 Nov 2025 00:32:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже 12 постраждалих у столиці.</title>
-      <link>https://www.mandarinai.lt/post/83287</link>
-      <description>Вже 12 постраждалих у столиці. 5 із них медики госпіталізували. Зокрема - вагітну жінку. Один чоловік у вкрай важкому стані - Кличко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_01-13-07.mp4" length="287608" type="video/mp4"/>
-      <pubDate>Fri, 14 Nov 2025 01:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Порт Новоросіськ</title>
-      <link>https://www.mandarinai.lt/post/83289</link>
-      <description>💥🔥Порт Новоросіськ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_01-54-46.mp4" length="2239277" type="video/mp4"/>
-      <pubDate>Fri, 14 Nov 2025 01:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬В Києві русня продовжує воюва</title>
-      <link>https://www.mandarinai.lt/post/83290</link>
-      <description>🤬В Києві русня продовжує воювати з багатоповерхівками</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_01-55-41.jpg" length="177859" type="image/jpeg"/>
-      <pubDate>Fri, 14 Nov 2025 01:55:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 09:10:34 +0000</lastBuildDate>
     <item>
       <title>Повідомляють про влучання «шах</title>
       <link>https://www.mandarinai.lt/post/83292</link>
@@ -90,6 +62,27 @@
 Відео нічних ударів по Києву публікує нардеп Олександр Федієнко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3176.MP4" length="4429002" type="video/mp4"/>
       <pubDate>Fri, 14 Nov 2025 07:28:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві вже 5 загиблих. Рятува</title>
+      <link>https://www.mandarinai.lt/post/83300</link>
+      <description>В Києві вже 5 загиблих. Рятувальники продовжують розбір завалів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_08-20-49.jpg" length="187972" type="image/jpeg"/>
+      <pubDate>Fri, 14 Nov 2025 08:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент обвалу житлового будинк</title>
+      <link>https://www.mandarinai.lt/post/83303</link>
+      <description>Момент обвалу житлового будинку у Святошинському районі столиці після атаки рф цієї ночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_08-59-39.mp4" length="1898509" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 08:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬російський дрон влучив  прямо</title>
+      <link>https://www.mandarinai.lt/post/83304</link>
+      <description>🤬російський дрон влучив  прямо у автомобілі під час руху в Чорноморську на Одещині— є загиблі, — місцеві канали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_09-03-58.mp4" length="222533" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 09:03:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
