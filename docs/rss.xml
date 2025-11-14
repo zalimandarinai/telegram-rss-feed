@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 07:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 08:13:28 +0000</lastBuildDate>
     <item>
       <title>🤬російські вбивці продовжують </title>
       <link>https://www.mandarinai.lt/post/83286</link>
@@ -66,6 +66,30 @@
 ➡️ Постраждалих на цей момент 26, серед них двоє дітей 7 та 10 років, а також вагітна жінка.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_06-30-30.jpg" length="228763" type="image/jpeg"/>
       <pubDate>Fri, 14 Nov 2025 06:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час сьогоднішнього нічного</title>
+      <link>https://www.mandarinai.lt/post/83298</link>
+      <description>Під час сьогоднішнього нічного обстрілу ракетами та дронами четверо людей загинули, - Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3178.MP4" length="2369156" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 07:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>По території України вночі бул</title>
+      <link>https://www.mandarinai.lt/post/83299</link>
+      <description>По території України вночі було запущено 430 дронів та 18 ракет, переважна частина яких летіла на Київ.
+
+- крилаті ракети 3М14 «Калібр»;  
+- аеробалістичні надзвукові ракети Х-47М2 «Кинджал»;
+- балістичні ракети наземного базування 9М723 «Іскандер-М» / KN-23.
+
+Є інформація про те, що по Сумській області було запущено 3М22 «Циркон», призначену для ураження надводних кораблів.
+
+Перевіряємо.
+
+Відео нічних ударів по Києву публікує нардеп Олександр Федієнко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3176.MP4" length="4429002" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 07:28:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
