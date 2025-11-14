@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 00:44:20 +0000</lastBuildDate>
-    <item>
-      <title>Винищувач розбився в Карелії
-
-</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Винищувач розбився в Карелії
-
-Про катастрофу літака повідомили телеграм-канали «112» та «Shot», близькі до російських силовиків. 
-
-За одними даними, розбився Су-30, за іншими, Су-27. 
-
-Телеграм «Shot» пише, що літак впав у лісі під Петрозаводськом недалеко від міського аеропорту. 
-За інформацією «112», загинули два пілоти. 
-
-Офіційних коментарів немає.</description>
-      <pubDate>Thu, 13 Nov 2025 17:03:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мерц попросив Зеленського зроб</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Мерц попросив Зеленського зробити так, щоб до Німеччини приїжджала менша кількість молодих українських чоловіків.
-
-Він також заявив, що невдовзі його країна змінити правила соціального забезпечення, знизивши виплати українським біженцям — таким чином, мовляв, це більше стимулюватиме українців шукати роботу</description>
-      <pubDate>Thu, 13 Nov 2025 18:22:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 02:25:31 +0000</lastBuildDate>
     <item>
       <title>❗️ Київ, влучання в багатопове</title>
       <link>https://www.mandarinai.lt/post/83279</link>
@@ -66,6 +41,34 @@
       <description>🤬російські вбивці продовжують гатити по житлових будинках в Києві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_00-32-32.mp4" length="208421" type="video/mp4"/>
       <pubDate>Fri, 14 Nov 2025 00:32:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вже 12 постраждалих у столиці.</title>
+      <link>https://www.mandarinai.lt/post/83287</link>
+      <description>Вже 12 постраждалих у столиці. 5 із них медики госпіталізували. Зокрема - вагітну жінку. Один чоловік у вкрай важкому стані - Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_01-13-07.mp4" length="287608" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 01:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Порт Новоросіськ</title>
+      <link>https://www.mandarinai.lt/post/83289</link>
+      <description>💥🔥Порт Новоросіськ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_01-54-46.mp4" length="2239277" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 01:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬В Києві русня продовжує воюва</title>
+      <link>https://www.mandarinai.lt/post/83290</link>
+      <description>🤬В Києві русня продовжує воювати з багатоповерхівками</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_01-55-41.jpg" length="177859" type="image/jpeg"/>
+      <pubDate>Fri, 14 Nov 2025 01:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повідомляють про влучання шахе</title>
+      <link>https://www.mandarinai.lt/post/83292</link>
+      <description>Повідомляють про влучання шахеду в жилий будинок на Оболоні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_02-12-27.mp4" length="589005" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 02:12:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
