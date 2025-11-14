@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 02:25:31 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Київ, влучання в багатопове</title>
-      <link>https://www.mandarinai.lt/post/83279</link>
-      <description>❗️ Київ, влучання в багатоповерхівку, пожежа на 12 поверсі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-13_23-18-09.jpg" length="109725" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 23:18:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Києві у 7  багатоповерхівках</title>
-      <link>https://www.mandarinai.lt/post/83281</link>
-      <description>В Києві у 7  багатоповерхівках через атаку рашистів пожежі — пошкодження майже в усіх районах столиці!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-13_23-47-13.mp4" length="318885" type="video/mp4"/>
-      <pubDate>Thu, 13 Nov 2025 23:47:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 03:38:36 +0000</lastBuildDate>
     <item>
       <title>🤬Київська п'ятиповерхівка післ</title>
       <link>https://www.mandarinai.lt/post/83282</link>
@@ -69,6 +55,20 @@
       <description>Повідомляють про влучання шахеду в жилий будинок на Оболоні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_02-12-27.mp4" length="589005" type="video/mp4"/>
       <pubDate>Fri, 14 Nov 2025 02:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наслідки атаки русні по житлов</title>
+      <link>https://www.mandarinai.lt/post/83293</link>
+      <description>Наслідки атаки русні по житловому масиву Академмістечко в Києву</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_02-28-48.mp4" length="910029" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 02:28:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️В Києві вже 16 постраждалих,</title>
+      <link>https://www.mandarinai.lt/post/83295</link>
+      <description>❗️В Києві вже 16 постраждалих, серед них дитина і вагітна жінка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_02-52-55.mp4" length="3363057" type="video/mp4"/>
+      <pubDate>Fri, 14 Nov 2025 02:52:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
