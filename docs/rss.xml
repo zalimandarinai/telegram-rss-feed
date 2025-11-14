@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 06:14:52 +0000</lastBuildDate>
-    <item>
-      <title>🤬Київська п'ятиповерхівка післ</title>
-      <link>https://www.mandarinai.lt/post/83282</link>
-      <description>🤬Київська п'ятиповерхівка після атаки рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_00-15-01.mp4" length="227189" type="video/mp4"/>
-      <pubDate>Fri, 14 Nov 2025 00:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥В Новоросійську влучання по </title>
-      <link>https://www.mandarinai.lt/post/83283</link>
-      <description>💥🔥В Новоросійську влучання по нафтовому терміналу і складу у військовій частині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_00-17-12.mp4" length="670270" type="video/mp4"/>
-      <pubDate>Fri, 14 Nov 2025 00:17:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 07:09:40 +0000</lastBuildDate>
     <item>
       <title>🤬російські вбивці продовжують </title>
       <link>https://www.mandarinai.lt/post/83286</link>
@@ -50,16 +36,16 @@
       <pubDate>Fri, 14 Nov 2025 01:55:41 +0000</pubDate>
     </item>
     <item>
-      <title>Повідомляють про влучання шахе</title>
+      <title>Повідомляють про влучання «шах</title>
       <link>https://www.mandarinai.lt/post/83292</link>
-      <description>Повідомляють про влучання шахеду в жилий будинок на Оболоні.</description>
+      <description>Повідомляють про влучання «шахеда» в житловий будинок на Оболоні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_02-12-27.mp4" length="589005" type="video/mp4"/>
       <pubDate>Fri, 14 Nov 2025 02:12:27 +0000</pubDate>
     </item>
     <item>
       <title>Наслідки атаки русні по житлов</title>
       <link>https://www.mandarinai.lt/post/83293</link>
-      <description>Наслідки атаки русні по житловому масиву Академмістечко в Києву</description>
+      <description>Наслідки атаки русні по житловому масиву Академмістечко в Києві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_02-28-48.mp4" length="910029" type="video/mp4"/>
       <pubDate>Fri, 14 Nov 2025 02:28:48 +0000</pubDate>
     </item>
@@ -69,6 +55,17 @@
       <description>❗️В Києві вже 16 постраждалих, серед них дитина і вагітна жінка</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-14_02-52-55.mp4" length="3363057" type="video/mp4"/>
       <pubDate>Fri, 14 Nov 2025 02:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ За попередньою інформацією,</title>
+      <link>https://www.mandarinai.lt/post/83296</link>
+      <description>❗️ За попередньою інформацією, в столиці троє людей загинули. 
+
+📝 «Інформацію уточнюємо, оскільки рятувальники поки тіла дістати не можуть», - мер Кличко. 
+
+➡️ Постраждалих на цей момент 26, серед них двоє дітей 7 та 10 років, а також вагітна жінка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-14_06-30-30.jpg" length="228763" type="image/jpeg"/>
+      <pubDate>Fri, 14 Nov 2025 06:30:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
