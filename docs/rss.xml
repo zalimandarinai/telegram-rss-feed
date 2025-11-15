@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Nov 2025 13:16:23 +0000</lastBuildDate>
-    <item>
-      <title>💥"Апять нас бамбят. Куда ПВО с</title>
-      <link>https://www.mandarinai.lt/post/83343</link>
-      <description>💥"Апять нас бамбят. Куда ПВО смотрит, я не панимаю"
-
-Рязанській НПЗ вночі атакували добрі дрони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-15_08-04-10.mp4" length="1240203" type="video/mp4"/>
-      <pubDate>Sat, 15 Nov 2025 08:04:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Nov 2025 14:07:25 +0000</lastBuildDate>
     <item>
       <title>Трамп впевнений, що бойові дії</title>
       <link>https://www.mandarinai.lt/post/83346</link>
@@ -114,6 +105,21 @@
 Станцію "Небо-У" "дістали" на території т.о. Криму, військовий ешелон — в районі Токмака т.о. Запорізької області. А скупчення особового складу противника — поблизу Вовчанська на т.о. Харківщини.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-15_13-00-26.jpg" length="70260" type="image/jpeg"/>
       <pubDate>Sat, 15 Nov 2025 13:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прорив окупантів до Новопавлів</title>
+      <link>https://www.mandarinai.lt/post/83362</link>
+      <description>Прорив окупантів до Новопавлівки.
+
+Користуючись туманом, противник навів переправу між Ялтою та Дачним, перекинувши близько десятка одиниць техніки. 
+
+На жаль, їх було пізно виявлено,  пише Сергій Стерненко.
+
+Але воїни підрозділу «Перун» 42-ї ОМБр одразу почали працювати дронами.
+
+Спалили росіянам 2 танки, 5 ББМ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3202.MP4" length="21488729" type="video/mp4"/>
+      <pubDate>Sat, 15 Nov 2025 13:52:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
