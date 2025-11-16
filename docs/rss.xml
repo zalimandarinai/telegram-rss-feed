@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 12:15:08 +0000</lastBuildDate>
-    <item>
-      <title>💥В російській Самарі теж гучно</title>
-      <link>https://www.mandarinai.lt/post/83376</link>
-      <description>💥В російській Самарі теж гучно</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-15_21-36-28.mp4" length="3881038" type="video/mp4"/>
-      <pubDate>Sat, 15 Nov 2025 21:36:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Nov 2025 13:16:19 +0000</lastBuildDate>
     <item>
       <title>💥🔥Самарська підстанція сьогодн</title>
       <link>https://www.mandarinai.lt/post/83379</link>
@@ -100,6 +93,37 @@ https://www.instagram.com/reel/DRFGvSBjGtc/?igsh=MXI1b2Exa3R2Z3Rlbg==</descripti
 Внаслідок атаки пролунали вибухи та спалахнула пожежа, збитки уточнюються. Це вже друге ураження заводу — попереднє 19 жовтня зупинило дві основні установки переробки нафти</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-16_12-14-03.mp4" length="1295582" type="video/mp4"/>
       <pubDate>Sun, 16 Nov 2025 12:14:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🇳🇱 Анонімний благодійник із </title>
+      <link>https://www.mandarinai.lt/post/83391</link>
+      <description>🇺🇦🇳🇱 Анонімний благодійник із Нідерландів озброїв рушницями проти дронів шість підрозділів ГУР.
+
+➡️ До пакету допомоги увійшли понад 700 помпових рушниць Hatsan MKA1919 та MAVKA MKA1919, 130 коліматорних прицілів Holosun Enclosed HS512C-RD та Holosun Paralow HS403B, а також 20 тисяч набоїв.
+
+Отримане спорядження передано підрозділам «Артан», «Арей», KRAKEN, «Шаманбат», Інтернаціональному Легіону та Центру морських операцій «Viking». 
+
+💶 Загальна вартість допомоги становить €350 тисяч.
+
+🤝 Dank je wel, onze anonieme broeder.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-16_12-32-05.jpg" length="217110" type="image/jpeg"/>
+      <pubDate>Sun, 16 Nov 2025 12:32:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Антидронові сітки намагаються </title>
+      <link>https://www.mandarinai.lt/post/83392</link>
+      <description>Антидронові сітки намагаються встановити практично над усіма вулицями в Херсоні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5084.MP4" length="7628621" type="video/mp4"/>
+      <pubDate>Sun, 16 Nov 2025 12:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вже в січні розпочнеться імпор</title>
+      <link>https://www.mandarinai.lt/post/83393</link>
+      <description>Вже в січні розпочнеться імпорт газу з Греції до України, – Зеленський 
+
+Ми будемо отримувати енергопесурси як із самої Греції, так і з США через Грецію</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3232.MP4" length="18186643" type="video/mp4"/>
+      <pubDate>Sun, 16 Nov 2025 13:02:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
