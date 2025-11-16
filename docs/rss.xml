@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 07:08:28 +0000</lastBuildDate>
-    <item>
-      <title>Ресурс DeepState повідомив про</title>
-      <link>https://www.mandarinai.lt/post/83365</link>
-      <description>Ресурс DeepState повідомив про черговий воєнний злочин окупантів.
-
-Через брак особового складу на лінії оборони ворог зумів просунутись вперед і розстріляти 2 бійців Сил Оборони України на околиці Затишшя в Запорізькій області.
-
-Окупанти зайшли зі спини.
-
-Воєнні злочинці були на місці ліквідовані FPV-дроном через 20 хвилин після того, як злочин було скоєно.
-
-Важливо фіксувати усі злочини російських окупаційних військ на території України, щоб командири, які дають такі накази, рано чи пізно понесли  відповідальність за свої дії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3207.MP4" length="10930370" type="video/mp4"/>
-      <pubDate>Sat, 15 Nov 2025 15:00:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Nov 2025 08:11:34 +0000</lastBuildDate>
     <item>
       <title>🤬Ворог втретє влучив у склад о</title>
       <link>https://www.mandarinai.lt/post/83366</link>
@@ -86,6 +71,22 @@
       <description>💥В російській Самарі теж гучно</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-15_21-36-28.mp4" length="3881038" type="video/mp4"/>
       <pubDate>Sat, 15 Nov 2025 21:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Самарська підстанція сьогодн</title>
+      <link>https://www.mandarinai.lt/post/83379</link>
+      <description>💥🔥Самарська підстанція сьогодні вночі після зустрічі з дронами спалахнула різними кольорами і світло зникло</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-16_07-42-25.mp4" length="363392" type="video/mp4"/>
+      <pubDate>Sun, 16 Nov 2025 07:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Кадри пекла в Покровську очим</title>
+      <link>https://www.mandarinai.lt/post/83381</link>
+      <description>🤬Кадри пекла в Покровську очима військового медика Vitsikkk
+
+https://www.instagram.com/reel/DRFGvSBjGtc/?igsh=MXI1b2Exa3R2Z3Rlbg==</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-16_07-58-53.mp4" length="21814308" type="video/mp4"/>
+      <pubDate>Sun, 16 Nov 2025 07:58:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
