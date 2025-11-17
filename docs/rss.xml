@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 07:10:35 +0000</lastBuildDate>
-    <item>
-      <title>В районі Добропілля оператори </title>
-      <link>https://www.mandarinai.lt/post/83405</link>
-      <description>В районі Добропілля оператори дронів 1-го корпусу НГУ «Азов» влучили в танк та багато іншої бронетехніки ворога.</description>
-      <pubDate>Sun, 16 Nov 2025 18:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥⚽️ Збірна України обіграла Іс</title>
-      <link>https://www.mandarinai.lt/post/83406</link>
-      <description>🔥⚽️ Збірна України обіграла Ісландію у відборі на Чемпіонат світу 2026 з рахунком 2:0.
-
-Тепер Україна зіграє плейоф на ЧС-2026!!!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-16_19-04-12.jpg" length="129197" type="image/jpeg"/>
-      <pubDate>Sun, 16 Nov 2025 19:04:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 08:15:05 +0000</lastBuildDate>
     <item>
       <title>Новоросійський порт відновив п</title>
       <link>https://www.mandarinai.lt/post/83407</link>
@@ -84,6 +69,13 @@
       <description>Троє людей загинули та 10 поранені, серед них 3 дітей -  наслідки ракетного удару рф по Балаклії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_06-30-11.jpg" length="269971" type="image/jpeg"/>
       <pubDate>Mon, 17 Nov 2025 06:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 На Курщині вночі після зустр</title>
+      <link>https://www.mandarinai.lt/post/83419</link>
+      <description>🔥 На Курщині вночі після зустрічі з дронами палав завод "Цункум", що працює на ВПК росії, - місцеві паблики</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-17_07-45-36.mp4" length="443395" type="video/mp4"/>
+      <pubDate>Mon, 17 Nov 2025 07:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
