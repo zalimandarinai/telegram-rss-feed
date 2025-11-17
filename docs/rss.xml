@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 09:13:37 +0000</lastBuildDate>
-    <item>
-      <title>🔥Після влучання в Донецьку бле</title>
-      <link>https://www.mandarinai.lt/post/83412</link>
-      <description>🔥Після влучання в Донецьку блекаут</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-16_20-55-33.mp4" length="362618" type="video/mp4"/>
-      <pubDate>Sun, 16 Nov 2025 20:55:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 10:11:25 +0000</lastBuildDate>
     <item>
       <title>❗️Трамп погрожує «дуже суворим</title>
       <link>https://www.mandarinai.lt/post/83415</link>
@@ -69,6 +62,20 @@ ISW вказує, що російські війська підійшли орі
 Операцію провели у взаємодії з розвідувальним крилом 414-ї бригади СБС «Птахи Мадяра».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3241.MP4" length="5950245" type="video/mp4"/>
       <pubDate>Mon, 17 Nov 2025 09:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️😡У Польщі диверсанти підірва</title>
+      <link>https://www.mandarinai.lt/post/83426</link>
+      <description>‼️😡У Польщі диверсанти підірвали залізну дорогу, якою надходила допомога для України. Було закладено вибухівку, — премʼєр Туск</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-17_09-37-10.mp4" length="4194394" type="video/mp4"/>
+      <pubDate>Mon, 17 Nov 2025 09:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Військові літаки Rafale, сис</title>
+      <link>https://www.mandarinai.lt/post/83427</link>
+      <description>❗️Військові літаки Rafale, системи ППО SAMP/T та інші засоби для захисту ймовірно отримає Україна — Зеленський та Макрон підписали стратегічну угоду щодо посилення України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_10-05-56.jpg" length="51112" type="image/jpeg"/>
+      <pubDate>Mon, 17 Nov 2025 10:05:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
