@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 11:08:07 +0000</lastBuildDate>
-    <item>
-      <title>Троє людей загинули та 10 пора</title>
-      <link>https://www.mandarinai.lt/post/83416</link>
-      <description>Троє людей загинули та 10 поранені, серед них 3 дітей -  наслідки ракетного удару рф по Балаклії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_06-30-11.jpg" length="269971" type="image/jpeg"/>
-      <pubDate>Mon, 17 Nov 2025 06:30:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 12:18:12 +0000</lastBuildDate>
     <item>
       <title>🔥 На Курщині вночі після зустр</title>
       <link>https://www.mandarinai.lt/post/83419</link>
@@ -86,6 +79,24 @@ Ukraine🤝France
 На судні почалася пожежа, і влада вважає, що існує ризик вибуху. Людей вивозять подалі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_10-50-31.jpg" length="57553" type="image/jpeg"/>
       <pubDate>Mon, 17 Nov 2025 10:50:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відео "прильотів" одразу 4 "ша</title>
+      <link>https://www.mandarinai.lt/post/83430</link>
+      <description>Відео "прильотів" одразу 4 "шахедів" в Одеській області.
+
+Повідомляють, що русня намагається знищити інфраструктуру аби не допустити постачання партнерами газу для України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-17_11-10-33.mp4" length="2199809" type="video/mp4"/>
+      <pubDate>Mon, 17 Nov 2025 11:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Війна в Україні закінчиться </title>
+      <link>https://www.mandarinai.lt/post/83431</link>
+      <description>❗️Війна в Україні закінчиться наприкінці 2026 року, — йдеться у листі президента Європейської комісії до лідерів держав ЄС.
+
+Документ є в розпорядженні Європейської правди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_12-10-46.jpg" length="32607" type="image/jpeg"/>
+      <pubDate>Mon, 17 Nov 2025 12:10:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
