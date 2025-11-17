@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 10:11:25 +0000</lastBuildDate>
-    <item>
-      <title>❗️Трамп погрожує «дуже суворим</title>
-      <link>https://www.mandarinai.lt/post/83415</link>
-      <description>❗️Трамп погрожує «дуже суворими санкціями» країнам, які продовжують співпрацю з росією</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-17_06-25-29.mp4" length="1693506" type="video/mp4"/>
-      <pubDate>Mon, 17 Nov 2025 06:25:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 11:08:07 +0000</lastBuildDate>
     <item>
       <title>Троє людей загинули та 10 пора</title>
       <link>https://www.mandarinai.lt/post/83416</link>
@@ -64,18 +57,35 @@ ISW вказує, що російські війська підійшли орі
       <pubDate>Mon, 17 Nov 2025 09:00:26 +0000</pubDate>
     </item>
     <item>
-      <title>‼️😡У Польщі диверсанти підірва</title>
+      <title>‼️😡В Польщі диверсанти підірва</title>
       <link>https://www.mandarinai.lt/post/83426</link>
-      <description>‼️😡У Польщі диверсанти підірвали залізну дорогу, якою надходила допомога для України. Було закладено вибухівку, — премʼєр Туск</description>
+      <description>‼️😡В Польщі диверсанти підірвали залізну дорогу, якою надходила допомога для України. Було закладено вибухівку, — премʼєр Туск</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-17_09-37-10.mp4" length="4194394" type="video/mp4"/>
       <pubDate>Mon, 17 Nov 2025 09:37:10 +0000</pubDate>
     </item>
     <item>
-      <title>❗️Військові літаки Rafale, сис</title>
+      <title>❗️Україна отримає системи ППО </title>
       <link>https://www.mandarinai.lt/post/83427</link>
-      <description>❗️Військові літаки Rafale, системи ППО SAMP/T та інші засоби для захисту ймовірно отримає Україна — Зеленський та Макрон підписали стратегічну угоду щодо посилення України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_10-05-56.jpg" length="51112" type="image/jpeg"/>
+      <description>❗️Україна отримає системи ППО SAMP/T і 100 винищувачів Rafale: Зеленський і Макрон підписали угоду про довгострокове укріплення обороноздатності України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3245.MP4" length="8947888" type="video/mp4"/>
       <pubDate>Mon, 17 Nov 2025 10:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>✈️Mirage 2000 Повітряних Сил У</title>
+      <link>https://www.mandarinai.lt/post/83428</link>
+      <description>✈️Mirage 2000 Повітряних Сил України летить на бойове завдання, очікуючи гарних новин із Франції. 
+Ukraine🤝France 
+🇺🇦 Together to Victory!</description>
+      <pubDate>Mon, 17 Nov 2025 10:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Румунське село евакуювали  ч</title>
+      <link>https://www.mandarinai.lt/post/83429</link>
+      <description>❗️Румунське село евакуювали  через нічну атаку рф на прикордонний Ізмаїл — виникла серйозна небезпека після ворожого удару по судну, яке перевозило близько 4000 тонн зрідженого газу, - румунські ЗМІ.
+
+На судні почалася пожежа, і влада вважає, що існує ризик вибуху. Людей вивозять подалі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_10-50-31.jpg" length="57553" type="image/jpeg"/>
+      <pubDate>Mon, 17 Nov 2025 10:50:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
