@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 08:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 09:11:21 +0000</lastBuildDate>
     <item>
       <title>Окупанти заявили, що нібито «з</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,13 +16,6 @@
 
 Висновок, який зробив 10-ий армійський корпус: це інформаційно-психологічна операція, спрямована на власну аудиторію.</description>
       <pubDate>Mon, 17 Nov 2025 16:31:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Близько 40 БпЛА  з різних ст</title>
-      <link>https://www.mandarinai.lt/post/83456</link>
-      <description>⚡️Близько 40 БпЛА  з різних сторін на Дніпро на низьких висотах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-17_20-35-05.jpg" length="75485" type="image/jpeg"/>
-      <pubDate>Mon, 17 Nov 2025 20:35:05 +0000</pubDate>
     </item>
     <item>
       <title>🤬В Дніпрі більше 20 вибухів, п</title>
@@ -58,6 +51,13 @@
       <description>В Омську масштабний вибух на магістральному газопроводі, місцева влада стверджує, не через атаку БПЛА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3259.MP4" length="2901903" type="video/mp4"/>
       <pubDate>Tue, 18 Nov 2025 07:31:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар російського дрону по теле</title>
+      <link>https://www.mandarinai.lt/post/83470</link>
+      <description>Удар російського дрону по телевежі у Дніпрі сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-18_08-49-02.mp4" length="313554" type="video/mp4"/>
+      <pubDate>Tue, 18 Nov 2025 08:49:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
