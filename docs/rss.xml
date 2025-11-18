@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 12:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 13:24:55 +0000</lastBuildDate>
     <item>
       <title>Удар російського дрона по теле</title>
       <link>https://www.mandarinai.lt/post/83470</link>
@@ -72,6 +72,13 @@
       <description>🤡 Представників росії завтра у Туреччині не буде. Контакти Зеленського та Віткоффа проходять без нас — чекатимемо, про що там говоритимуть, — Пєсков</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-18_11-49-45.jpg" length="29967" type="image/jpeg"/>
       <pubDate>Tue, 18 Nov 2025 11:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Воронежі працює ППО, як пові</title>
+      <link>https://www.mandarinai.lt/post/83481</link>
+      <description>В Воронежі працює ППО, як повідомляють, по балістичній ракеті</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3268.MP4" length="13597734" type="video/mp4"/>
+      <pubDate>Tue, 18 Nov 2025 12:29:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
