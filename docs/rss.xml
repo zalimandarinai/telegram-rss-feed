@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 11:08:01 +0000</lastBuildDate>
-    <item>
-      <title>12 дітей постраждали внаслідок</title>
-      <link>https://www.mandarinai.lt/post/83547</link>
-      <description>12 дітей постраждали внаслідок удару ворога по багатоповерхівці в Тернополі. Триває розбір завалів. Наразі відомо про 10 загиблих</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_08-55-09.jpg" length="381815" type="image/jpeg"/>
-      <pubDate>Wed, 19 Nov 2025 08:55:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Львові внаслідок атаки рф по</title>
-      <link>https://www.mandarinai.lt/post/83550</link>
-      <description>У Львові внаслідок атаки рф пожежі на складах харчових підприємств, зокрема зруйновано виробництво мережі піцерій Pizza Hot</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_09-27-26.mp4" length="335287" type="video/mp4"/>
-      <pubDate>Wed, 19 Nov 2025 09:27:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 12:18:01 +0000</lastBuildDate>
     <item>
       <title>⚡️Польща закриє останнє російс</title>
       <link>https://www.mandarinai.lt/post/83553</link>
@@ -75,6 +61,29 @@ WSJ називає незвичайним, що на переговори вир
       <description>🤬Атаку 7 крилатих ракет поспіль сьогодні зранку у Тернополі публікують ворожі пабліки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_10-45-20.mp4" length="5572526" type="video/mp4"/>
       <pubDate>Wed, 19 Nov 2025 10:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥ГРЕС в Рязанській області от</title>
+      <link>https://www.mandarinai.lt/post/83562</link>
+      <description>💥🔥ГРЕС в Рязанській області отримала суттєві руйнування внаслідок сьогоднішньої атаки дронів, - росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_11-33-02.mp4" length="3660475" type="video/mp4"/>
+      <pubDate>Wed, 19 Nov 2025 11:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кількість загиблих внаслідок р</title>
+      <link>https://www.mandarinai.lt/post/83563</link>
+      <description>Кількість загиблих внаслідок російського ракетного удару по Тернополю зросла до 20 людей, серед них — 2 дитини, — ДСНС
+
+Аварійно-рятувальні роботи тривають.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_11-38-30.jpg" length="376026" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 11:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔 Адміністрація Трампа розрахо</title>
+      <link>https://www.mandarinai.lt/post/83566</link>
+      <description>🤔 Адміністрація Трампа розраховує, що рамкова угода про припинення війни в Україні буде досягнута всіма сторонами до кінця місяця — можливо, навіть вже цього тижня, — Politico</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_11-58-47.jpg" length="51867" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 11:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
