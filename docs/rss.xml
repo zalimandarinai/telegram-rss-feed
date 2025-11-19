@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 14:09:20 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Польща закриє останнє російс</title>
-      <link>https://www.mandarinai.lt/post/83553</link>
-      <description>⚡️Польща закриє останнє російське консульство в країні, що працює в Гданську, у відповідь на диверсію на залізниці, — міністр закордонних справ Польщі Радослав Сікорський
-
-На відео: реакція дружини Навального на скасування мультивіз в ЄС для росіян.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_09-36-48.mp4" length="9619807" type="video/mp4"/>
-      <pubDate>Wed, 19 Nov 2025 09:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Страшні кадри. В Тернополі 10 </title>
-      <link>https://www.mandarinai.lt/post/83554</link>
-      <description>Страшні кадри. В Тернополі 10 людей загинули внаслідок прямого влучання російської ракети Х-101 в житловий будинок, - місцеві ЗМІ 
-Триває розбір завалів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_09-57-14.jpg" length="335350" type="image/jpeg"/>
-      <pubDate>Wed, 19 Nov 2025 09:57:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Ільскій НПЗ та ГРЕС в Рязанс</title>
-      <link>https://www.mandarinai.lt/post/83555</link>
-      <description>💥🔥Ільскій НПЗ та ГРЕС в Рязанській області були атаковані вночі українськими Силами оборони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_10-02-23.mp4" length="2298951" type="video/mp4"/>
-      <pubDate>Wed, 19 Nov 2025 10:02:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 15:10:53 +0000</lastBuildDate>
     <item>
       <title>Вже відомо про 16 жертв російс</title>
       <link>https://www.mandarinai.lt/post/83559</link>
@@ -84,6 +60,33 @@ WSJ називає незвичайним, що на переговори вир
       <description>🤔 Адміністрація Трампа розраховує, що рамкова угода про припинення війни в Україні буде досягнута всіма сторонами до кінця місяця — можливо, навіть вже цього тижня, — Politico</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_11-58-47.jpg" length="51867" type="image/jpeg"/>
       <pubDate>Wed, 19 Nov 2025 11:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️У Тернополі кількість загибл</title>
+      <link>https://www.mandarinai.lt/post/83568</link>
+      <description>❗️У Тернополі кількість загиблих зросла до 25 осіб, серед них - 3 дітей
+
+Ще 73 людини, з них 15 дітей, постраждали.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_14-12-47.jpg" length="140185" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 14:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Завтра Зеленському озвучать </title>
+      <link>https://www.mandarinai.lt/post/83570</link>
+      <description>‼️Завтра Зеленському озвучать умови мирного плану, підготовленого США та росією, - Reuters.
+
+Це відбудеться на зустрічі з міністром армії США Дрісколлом та генералом Джорджем. Після переговорів із Зеленським американські військові вирушать до Москви</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_14-18-30.jpg" length="63936" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 14:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>З під завалів у Тернополі вдал</title>
+      <link>https://www.mandarinai.lt/post/83571</link>
+      <description>З під завалів у Тернополі вдалося деблокувати живого чоловіка. Його госпіталізовано 
+
+Рятувальники сподіваються врятувати ще одну людину</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_15-02-36.mp4" length="411327" type="video/mp4"/>
+      <pubDate>Wed, 19 Nov 2025 15:02:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
