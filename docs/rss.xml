@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 15:10:53 +0000</lastBuildDate>
-    <item>
-      <title>Вже відомо про 16 жертв російс</title>
-      <link>https://www.mandarinai.lt/post/83559</link>
-      <description>Вже відомо про 16 жертв російської атаки у Тернополі — продовжується розбір завалів та пошук зниклих людей
-
- 64 людини отримали поранення, серед них — 14 дітей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_10-17-23.jpg" length="209478" type="image/jpeg"/>
-      <pubDate>Wed, 19 Nov 2025 10:17:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 16:12:17 +0000</lastBuildDate>
     <item>
       <title>‼️Дрісколл після переговорів і</title>
       <link>https://www.mandarinai.lt/post/83560</link>
@@ -87,6 +78,13 @@ WSJ називає незвичайним, що на переговори вир
 Рятувальники сподіваються врятувати ще одну людину</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_15-02-36.mp4" length="411327" type="video/mp4"/>
       <pubDate>Wed, 19 Nov 2025 15:02:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Пермі на залізниці диверсія</title>
+      <link>https://www.mandarinai.lt/post/83573</link>
+      <description>🔥В Пермі на залізниці диверсія - тепер можна зігрітися біля палаючих цистерн</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-19_15-58-54.mp4" length="542672" type="video/mp4"/>
+      <pubDate>Wed, 19 Nov 2025 15:58:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
