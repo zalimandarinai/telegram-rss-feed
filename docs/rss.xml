@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 20:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 21:07:30 +0000</lastBuildDate>
     <item>
       <title>Японія, розуміючи ступінь росі</title>
       <link>https://www.mandarinai.lt/post/83578</link>
@@ -79,11 +79,18 @@
     <item>
       <title>😕 Кіт Келлогг оголосив про пла</title>
       <link>https://www.mandarinai.lt/post/83591</link>
-      <description>😕 Кіт Келлогг оголосив про плани залишити свою посаду спецпосланця по Україні в січні.
+      <description>😕 Кіт Келлогг оголосив про плани залишити свою посаду спецпосланця по Україні в січні, - ЗМІ
 
 Рішення нібито пов'язане з розчаруванням через перевантаженість та переконанням, що частина чиновників адміністрації недостатньо рішуче діє для тиску на росію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_20-09-31.jpg" length="163585" type="image/jpeg"/>
       <pubDate>Wed, 19 Nov 2025 20:09:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Поблизу Львова досі триває г</title>
+      <link>https://www.mandarinai.lt/post/83592</link>
+      <description>⚡️Поблизу Львова досі триває гасіння складів, які були атаковані рф, — міська рада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_20-35-30.jpg" length="158121" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 20:35:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
