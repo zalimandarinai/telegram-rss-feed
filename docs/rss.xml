@@ -6,24 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 03:37:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 04:13:10 +0000</lastBuildDate>
     <item>
       <title>На Личаківському цвинтарі у Ль</title>
-      <link>https://www.mandarinai.lt/post/83503</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>На Личаківському цвинтарі у Львові залишилося 20 місць для могил загиблих воїнів. Місто шукає нову ділянку, щоб достойно хоронити Героїв.
 
 Невимовний біль</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-18_19-47-09.jpg" length="221992" type="image/jpeg"/>
       <pubDate>Tue, 18 Nov 2025 19:47:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Рязанський НПЗ «Роснефть» зуп</title>
-      <link>https://www.mandarinai.lt/post/83504</link>
-      <description>🔥Рязанський НПЗ «Роснефть» зупинив переробку нафти вдруге за місяць, - Reuters
-
-В результаті атаки дронів пошкоджено установки переробки нафти ЕЛОУ-АВТ-4 та ЕЛОУ-АВТ-6, резервуар із нафтопродуктами та естакаду трубопроводів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-18_19-59-39.jpg" length="20364" type="image/jpeg"/>
-      <pubDate>Tue, 18 Nov 2025 19:59:39 +0000</pubDate>
     </item>
     <item>
       <title>⚡️Окупаційна влада Донеччині о</title>
@@ -81,6 +71,18 @@
 Окупанти використовували її на Торецькому напрямку південніше Костянтинівки для прикриття штурмових підрозділів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3276.MP4" length="18368333" type="video/mp4"/>
       <pubDate>Tue, 18 Nov 2025 21:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків атакували 18 «Шахедів»
+</title>
+      <link>https://www.mandarinai.lt/post/83519</link>
+      <description>Харків атакували 18 «Шахедів»
+
+Відомо, що БпЛА влучив у багатоповерхівку в Харкові, а також у супермаркет Сільпо.
+
+Мер Харкова Ігор Терехов повідомив, що вже відомо про 12 постраждалих, серед них 13-річна дитина. Також він додав, що є влучання біля одного з медичних закладів міста. Поранений лікар</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_03-40-51.jpg" length="121952" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 03:40:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
