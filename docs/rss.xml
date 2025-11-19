@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 18:14:02 +0000</lastBuildDate>
-    <item>
-      <title>❗️У Тернополі кількість загибл</title>
-      <link>https://www.mandarinai.lt/post/83568</link>
-      <description>❗️У Тернополі кількість загиблих зросла до 25 осіб, серед них - 3 дітей
-
-Ще 73 людини, з них 15 дітей, постраждали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_14-12-47.jpg" length="140185" type="image/jpeg"/>
-      <pubDate>Wed, 19 Nov 2025 14:12:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 19:07:35 +0000</lastBuildDate>
     <item>
       <title>‼️Завтра Зеленському озвучать </title>
       <link>https://www.mandarinai.lt/post/83570</link>
@@ -87,6 +78,17 @@
       <description>🤬 Пропозиції США щодо завершення конфлікту в Україні передбачають відмову Києва від частини територій, а також від деяких видів озброєння, — Reuters</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_17-04-50.jpg" length="61133" type="image/jpeg"/>
       <pubDate>Wed, 19 Nov 2025 17:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я зараз трохи розчарований пу</title>
+      <link>https://www.mandarinai.lt/post/83582</link>
+      <description>«Я зараз трохи розчарований путіним, і він це знає», — Трамп
+
+💬 «Я закінчив вісім воєн. Залишилася одна. І ви знаєте, про яку я кажу. Я думав, що це буде найлегша для закінчення через мої стосунки з путіним. А вона найскладніша».
+
+«Трохи розчарований» це він про війну, на якій одним ударом ракети вбивають десятки мирних, сотнями розстрілюють полонених і тисячами крадуть дітей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3292.MP4" length="7350743" type="video/mp4"/>
+      <pubDate>Wed, 19 Nov 2025 18:31:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
