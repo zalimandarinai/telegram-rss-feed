@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 04:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 05:10:10 +0000</lastBuildDate>
     <item>
       <title>На Личаківському цвинтарі у Ль</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -14,15 +14,6 @@
 
 Невимовний біль</description>
       <pubDate>Tue, 18 Nov 2025 19:47:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Окупаційна влада Донеччині о</title>
-      <link>https://www.mandarinai.lt/post/83506</link>
-      <description>⚡️Окупаційна влада Донеччині оголосила режим надзвичайного стану через удари по Зуївській та Старобешівській ТЕС, — росЗМІ
-
-Через відсутність електроенергії припинили роботу котельні та станції водоочищення. Півмільйона людей — це 65% жителів окупованої частини Донеччини — залишилися без світла, тепла та води.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-18_20-06-03.mp4" length="642491" type="video/mp4"/>
-      <pubDate>Tue, 18 Nov 2025 20:06:03 +0000</pubDate>
     </item>
     <item>
       <title>Перша шахедобійка «Skyranger 3</title>
@@ -83,6 +74,19 @@
 Мер Харкова Ігор Терехов повідомив, що вже відомо про 12 постраждалих, серед них 13-річна дитина. Також він додав, що є влучання біля одного з медичних закладів міста. Поранений лікар</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_03-40-51.jpg" length="121952" type="image/jpeg"/>
       <pubDate>Wed, 19 Nov 2025 03:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Адміністрація Трампа таємно </title>
+      <link>https://www.mandarinai.lt/post/83522</link>
+      <description>‼️Адміністрація Трампа таємно обговорює з Москвою новий 28-пунктний план припинення війни в Україні. - Axios 
+
+Подібно до переговорів Трампа щодо Гази, пропозиція охоплює чотири сфери: умови миру в Україні, гарантії безпеки, ширшу європейську безпеку та майбутні відносини США з росією та Україною.
+
+ Дмитрієв заявив, що наприкінці жовтня він провів три дні в Майамі з посланцем Трампа Стівом Віткоффом, розробляючи план, і налаштований оптимістично, бо «позиція росії справді почута».
+
+США почали інформувати європейських союзників і вважають, що є реальна ймовірність того, що вони — і Україна — підтримають ці зусилля.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_04-43-22.jpg" length="112720" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 04:43:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
