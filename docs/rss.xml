@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 05:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:14:19 +0000</lastBuildDate>
     <item>
       <title>На Личаківському цвинтарі у Ль</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -17,18 +17,17 @@
     </item>
     <item>
       <title>Перша шахедобійка «Skyranger 3</title>
-      <link>https://www.mandarinai.lt/post/83509</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Перша шахедобійка «Skyranger 35» прибуде до України наступного тижня
 
 В вересні стало відомо, що Rheinmetall передасть Україні нові системи протиповітряної оборони «Skyranger 35» в межах контракту на сотні мільйонів євро. 
 
 Фінансування закупівлі забезпечує одна з країн Європи за рахунок прибутків від заморожених російських активів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-18_20-45-25.jpg" length="7513" type="image/jpeg"/>
       <pubDate>Tue, 18 Nov 2025 20:45:25 +0000</pubDate>
     </item>
     <item>
       <title>Західні та російські спецслужб</title>
-      <link>https://www.mandarinai.lt/post/83510</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Західні та російські спецслужби ведуть непублічну боротьбу за видачу людини, яка, ймовірно, влаштувала диверсії з вибухами посилок DHL.
 
 Диверсант знаходиться в Азербайджані. По документах його зовуть Ярослав Михайлов.
@@ -42,15 +41,7 @@
 Водночас Польща, Велика Британія, Україна та Литва домагаються, щоб Азербайджан не передавав Михайлова росіянам, а дозволив його екстрадицію до Польщі, де відкрито кримінальне провадження.
 
 Влада Азербайджану традиційно намагається всидіти на двох стільцях, бо російського агента не випускають з країни, але його не заарештували, він на свободі під наглядом місцевих правоохоронців.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-18_20-58-40.jpg" length="75043" type="image/jpeg"/>
       <pubDate>Tue, 18 Nov 2025 20:58:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Тихо, тихо, свинка», — так Тр</title>
-      <link>https://www.mandarinai.lt/post/83511</link>
-      <description>«Тихо, тихо, свинка», — так Трамп назвав журналістку, яка спитала його про справу Епштейна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-18_21-40-21.mp4" length="236269" type="video/mp4"/>
-      <pubDate>Tue, 18 Nov 2025 21:40:21 +0000</pubDate>
     </item>
     <item>
       <title>Китайська реактивна система на</title>
@@ -87,6 +78,13 @@
 США почали інформувати європейських союзників і вважають, що є реальна ймовірність того, що вони — і Україна — підтримають ці зусилля.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_04-43-22.jpg" length="112720" type="image/jpeg"/>
       <pubDate>Wed, 19 Nov 2025 04:43:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Тернополі влучання, сильна</title>
+      <link>https://www.mandarinai.lt/post/83526</link>
+      <description>⚡️В Тернополі влучання, сильна пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-19_05-14-59.jpg" length="52285" type="image/jpeg"/>
+      <pubDate>Wed, 19 Nov 2025 05:14:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
