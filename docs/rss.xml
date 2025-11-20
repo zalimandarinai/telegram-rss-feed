@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 15:09:50 +0000</lastBuildDate>
-    <item>
-      <title>🇩🇪🚀 Німеччина анонсувала перед</title>
-      <link>https://www.mandarinai.lt/post/83609</link>
-      <description>🇩🇪🚀 Німеччина анонсувала передачу Україні ракет дальнього радіусу дії, - пише Anadolu Ajansi.
-
-На пресконференції в Берліні канцлер ФРН Фрідріх Мерц заявив, що технічні консультації з Києвом тривали кілька місяців і процес вже на завершальній стадії. Кількість ракет і терміни - наразі невідомі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_09-17-42.jpg" length="152354" type="image/jpeg"/>
-      <pubDate>Thu, 20 Nov 2025 09:17:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Полювання F-16 за крилатою ра</title>
-      <link>https://www.mandarinai.lt/post/83610</link>
-      <description>🔥Полювання F-16 за крилатою ракетою під час вчорашньої атаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-20_09-39-05.mp4" length="1725846" type="video/mp4"/>
-      <pubDate>Thu, 20 Nov 2025 09:39:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 16:11:30 +0000</lastBuildDate>
     <item>
       <title>Вночі міста України атакували </title>
       <link>https://www.mandarinai.lt/post/83611</link>
@@ -118,6 +102,22 @@ Mange tak, Søster Danmark. Щиро дякуємо, сестра Данія. Т
 Також окупанти просунулись поблизу Затишшя (Пологівський район, Запорізька область) та Борівської Андріївки(Ізюмський район, Харківська область)», - йдеться в повідомленні DeepState. </description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_14-28-53.jpg" length="24380" type="image/jpeg"/>
       <pubDate>Thu, 20 Nov 2025 14:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔 До «мирного плану Трампа» що</title>
+      <link>https://www.mandarinai.lt/post/83625</link>
+      <description>🤔 До «мирного плану Трампа» щодо України входять скасування санкцій та припинення розслідування воєнних злочинів росії, - Bloomberg 
+
+За даними джерел Bloomberg, так званий американсько-російський план містить ці пункти поряд із вимогою москви поступитися Донбасом, скоротити армію та ін.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_15-26-42.jpg" length="62221" type="image/jpeg"/>
+      <pubDate>Thu, 20 Nov 2025 15:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Дніпрі численні вибухи, міст</title>
+      <link>https://www.mandarinai.lt/post/83626</link>
+      <description>В Дніпрі численні вибухи, місто ввечері під атакою «шахедів»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3341.MP4" length="1122087" type="video/mp4"/>
+      <pubDate>Thu, 20 Nov 2025 16:09:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
