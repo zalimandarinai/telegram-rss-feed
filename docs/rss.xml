@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 18:13:55 +0000</lastBuildDate>
-    <item>
-      <title>‼️План США передбачає скорочен</title>
-      <link>https://www.mandarinai.lt/post/83618</link>
-      <description>‼️План США передбачає скорочення чисельності ЗСУ до 40% — The Economist
-
-Йдеться про приблизно 300 тисяч солдатів замість нинішніх 800 тисяч, згідно з пропозиціями США.
-
-Також росія вимагає амністію за воєнні злочини, повернення у світову економіку та відмову України від НАТО, — джерела РБК-Україна
-
-Зустріч президента Зеленського з американськими генералами має відбутися сьогодні в другій половині дня.
-
-На ній президента будуть переконувати прийняти цю пропозицію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_10-21-06.jpg" length="59201" type="image/jpeg"/>
-      <pubDate>Thu, 20 Nov 2025 10:21:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Справжнє диво сталося напередо</title>
-      <link>https://www.mandarinai.lt/post/83619</link>
-      <description>Справжнє диво сталося напередодні ввечері на місці розбору завалів однієї з 9-поверхівок у Тернополі.
-
-Під час чергової «хвилини тиші» рятувальники почули крики про допомогу
-
-На рівні між п’ятим і шостим поверхами будинку був чоловік.
-
-Затиснутий у бетонних конструкціях, але живий.
-
-Надзвичайники встановити контакт і почали розкопувати завали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3337.MP4" length="26466242" type="video/mp4"/>
-      <pubDate>Thu, 20 Nov 2025 12:01:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 19:07:41 +0000</lastBuildDate>
     <item>
       <title>Європейський Союз відкидає пла</title>
       <link>https://www.mandarinai.lt/post/83620</link>
@@ -148,6 +118,20 @@
 Сторони домовилися про жорсткі строки підписання американського плану. Представники США запевнили Україну й ЄС у врахуванні їхніх позицій, а також наголосили, що готові шукати компроміси щодо спірних пунктів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_18-06-52.jpg" length="59999" type="image/jpeg"/>
       <pubDate>Thu, 20 Nov 2025 18:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зеленський, Умеров і Буданов н</title>
+      <link>https://www.mandarinai.lt/post/83633</link>
+      <description>Зеленський, Умеров і Буданов на зустрічі з міністром Сухопутних військ США Деніелом Дрісколлом в Києві.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_18-27-02.jpg" length="117924" type="image/jpeg"/>
+      <pubDate>Thu, 20 Nov 2025 18:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрон-перехоплювач женеться за </title>
+      <link>https://www.mandarinai.lt/post/83634</link>
+      <description>Дрон-перехоплювач женеться за російським БПЛА «БМ-35» над багатоповерхівками в Сумах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3345.MP4" length="10591565" type="video/mp4"/>
+      <pubDate>Thu, 20 Nov 2025 18:40:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
