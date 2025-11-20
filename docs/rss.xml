@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 21:08:58 +0000</lastBuildDate>
-    <item>
-      <title>‼️"Це буде винагорода за агрес</title>
-      <link>https://www.mandarinai.lt/post/83629</link>
-      <description>‼️"Це буде винагорода за агресію": американські конгресмени розкритикували план Трампа щодо завершення війни в Україні
-
- Законодавці обох партій вважають оприлюднені у ЗМІ умови "мирного плану" неприйнятними та небезпечними
-
-Республіканець Джо Вілсон назвав документ "спекуляцією", розкритикувавши можливі умови плану, зокрема відмову України від Донбасу та Криму.
-
-"Це буде винагорода за агресію. Це як у вересні 1939 року: "здайте територію — і все буде добре". Ні! Це запрошення до нової війни", — зазначив він.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_16-28-11.jpg" length="43304" type="image/jpeg"/>
-      <pubDate>Thu, 20 Nov 2025 16:28:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 22:08:51 +0000</lastBuildDate>
     <item>
       <title>Чилійський уряд погодився прод</title>
       <link>https://www.mandarinai.lt/post/83630</link>
@@ -99,6 +86,13 @@
 Безвісти зниклі 16 осіб.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_20-48-13.jpg" length="130258" type="image/jpeg"/>
       <pubDate>Thu, 20 Nov 2025 20:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Білий дім очікує, що Зеленськи</title>
+      <link>https://www.mandarinai.lt/post/83644</link>
+      <description>Білий дім очікує, що Зеленський підпише запропонований Вашингтоном план щодо України до 27 листопада, — The Financial Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_21-56-42.jpg" length="31930" type="image/jpeg"/>
+      <pubDate>Thu, 20 Nov 2025 21:56:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
