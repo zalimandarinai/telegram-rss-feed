@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 18:13:55 +0000</lastBuildDate>
     <item>
       <title>‼️План США передбачає скорочен</title>
       <link>https://www.mandarinai.lt/post/83618</link>
@@ -137,6 +137,17 @@
 Якщо до цього додати 30 машин із Чилі, то це виглядає, як логічне продовження</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_16-38-53.jpg" length="263269" type="image/jpeg"/>
       <pubDate>Thu, 20 Nov 2025 16:38:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Зеленський погодився на пер</title>
+      <link>https://www.mandarinai.lt/post/83632</link>
+      <description>‼️ Зеленський погодився на переговори щодо мирного плану Трампа для України, — Axios
+
+Документ передбачає серйозні поступки з боку України, зокрема передачу росії частини територій, які нині контролює Київ. Попри це Зеленський не відкинув пропозицію одразу, а погодився на переговори. В його офісі підкреслюють, що найближчими днями він очікує обговорити цей план з Трампом.
+
+Сторони домовилися про жорсткі строки підписання американського плану. Представники США запевнили Україну й ЄС у врахуванні їхніх позицій, а також наголосили, що готові шукати компроміси щодо спірних пунктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_18-06-52.jpg" length="59999" type="image/jpeg"/>
+      <pubDate>Thu, 20 Nov 2025 18:06:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
