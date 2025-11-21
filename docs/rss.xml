@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 11:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 12:17:04 +0000</lastBuildDate>
     <item>
       <title>‼️У мирному плані Трампа для У</title>
       <link>https://www.mandarinai.lt/post/83648</link>
@@ -106,6 +106,24 @@
       <description>У Тернополі вже 31 загиблий: під руїнами знайшли тіла жінки та двох дітей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_10-22-18.jpg" length="239096" type="image/jpeg"/>
       <pubDate>Fri, 21 Nov 2025 10:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>З вітерцем через kill-зону
+
+Пр</title>
+      <link>https://www.mandarinai.lt/post/83664</link>
+      <description>З вітерцем через kill-зону
+
+Прикордонники спецпідрозділу «ДОЗОР» зафільмували момент успішної ротації їхнього бійця з позивним «Грінч» за межі kill-зони.
+
+Увесь у болоті, виснажений, але усміхнений, він вигукує: «Це ДОЗОР!» і жестом показує, що все гаразд — 4.5.0. 
+
+Побратими зустрічають його сміхом і бойовою підтримкою: «Хто хоче сотку — доєднуйтесь!». 
+
+Бійці «ДОЗОРу» не перший рік ефективно працюють у будь-яку погоду та в найскладніших умовах. Один із найефективніших способів швидко доставити бійця на позицію чи з неї – причеп квадроцикла на максимальній швидкості. Комфорт мінімальний, але шанси на виживання максимальні.
+Саме тому зростає потреба підрозділів у наземних роботизованих комплексах, квадроциклах та баґі, які дають мобільність і рятують життя.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3377.MP4" length="2198376" type="video/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 11:55:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
