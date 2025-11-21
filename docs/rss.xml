@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 10:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 11:07:42 +0000</lastBuildDate>
     <item>
       <title>‼️У мирному плані Трампа для У</title>
       <link>https://www.mandarinai.lt/post/83648</link>
@@ -43,7 +43,7 @@
       <link>https://www.mandarinai.lt/post/83653</link>
       <description>😡Дрон влетів прямо у вікно новобудови в Одесі. БпЛА атакують місто на непомітних для ППО наднизьких висотах.
 
-Прямо зараз в Одесі лунають вибкхи</description>
+Прямо зараз в Одесі лунають вибухи</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_07-33-13.mp4" length="394392" type="video/mp4"/>
       <pubDate>Fri, 21 Nov 2025 07:33:13 +0000</pubDate>
     </item>
@@ -54,7 +54,7 @@
 
 Тисячі фальшивих реакцій за декілька хвилин під постамми про позицію України по мирному договору. Не лише на моєму каналі -  російські боторферми активізувалися зараз практично на всіх великих патріотичних ресурсах.
 
-Боротися з цим на телеграмі неможливо, тому тимчасово відключаю реакції.</description>
+Боротися з цим на телеграмі неможливо, тому тимчасово вимикаю реакції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_08-24-30.jpg" length="120192" type="image/jpeg"/>
       <pubDate>Fri, 21 Nov 2025 08:24:30 +0000</pubDate>
     </item>
@@ -99,6 +99,13 @@
 Розробила перехоплювач українська компанія SkyFall, для протидії ворожим ударним БпЛА - щоб "Шахедів", "Гераней" та "Гербер" в українському небі стало менше👊</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_10-10-07.mp4" length="1584046" type="video/mp4"/>
       <pubDate>Fri, 21 Nov 2025 10:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Тернополі вже 31 загиблий: п</title>
+      <link>https://www.mandarinai.lt/post/83663</link>
+      <description>У Тернополі вже 31 загиблий: під руїнами знайшли тіла жінки та двох дітей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_10-22-18.jpg" length="239096" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 10:22:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
