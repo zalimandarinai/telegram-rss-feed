@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 09:10:24 +0000</lastBuildDate>
-    <item>
-      <title>Білий дім очікує, що Зеленськи</title>
-      <link>https://www.mandarinai.lt/post/83644</link>
-      <description>Білий дім очікує, що Зеленський підпише запропонований Вашингтоном план щодо України до 27 листопада, — The Financial Times</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_21-56-42.jpg" length="31930" type="image/jpeg"/>
-      <pubDate>Thu, 20 Nov 2025 21:56:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 людей загинули, ще 3 поранен</title>
-      <link>https://www.mandarinai.lt/post/83645</link>
-      <description>5 людей загинули, ще 3 поранені внаслідок російського удару КАБами по Запоріжжю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_04-19-51.mp4" length="1126631" type="video/mp4"/>
-      <pubDate>Fri, 21 Nov 2025 04:19:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 10:10:11 +0000</lastBuildDate>
     <item>
       <title>‼️У мирному плані Трампа для У</title>
       <link>https://www.mandarinai.lt/post/83648</link>
@@ -94,6 +80,25 @@
       <description>😡Дрон впав прямо на житловий будинок на узбережжі,Одеси. Ворог з вчорашнього вечора безперервно атакує місто.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_09-07-14.mp4" length="724894" type="video/mp4"/>
       <pubDate>Fri, 21 Nov 2025 09:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Новий "мирний план" - це лиш</title>
+      <link>https://www.mandarinai.lt/post/83661</link>
+      <description>‼️Новий "мирний план" - це лише перелік "пунктів для задоволення путіна. Це дуже поганий план", - Politico з посиланням на європейського високопосадовця
+
+ ЄС розчарований планом США щодо врегулювання в України, - 
+Як зазначає видання, європейці зрозуміли, що їхні зусилля вихопити собі місце за столом переговорів, погодившись оплатити військову допомогу Україні, схоже, не дають результатів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_09-11-38.jpg" length="119476" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 09:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🛸 В Мережі показали мисливця </title>
+      <link>https://www.mandarinai.lt/post/83662</link>
+      <description>💥🛸 В Мережі показали мисливця на "шахедів" - український дрон-перехоплювач P1-Sun😳
+
+Розробила перехоплювач українська компанія SkyFall, для протидії ворожим ударним БпЛА - щоб "Шахедів", "Гераней" та "Гербер" в українському небі стало менше👊</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_10-10-07.mp4" length="1584046" type="video/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 10:10:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
