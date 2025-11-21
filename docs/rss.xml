@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 07:10:30 +0000</lastBuildDate>
-    <item>
-      <title>В Тернополі з-під завалів буди</title>
-      <link>https://www.mandarinai.lt/post/83637</link>
-      <description>В Тернополі з-під завалів будинку, який РФ атакувала вранці 19 листопада, дістали тіло жінки
-
-Кількість загиблих зросла до 27 людей, з них три дитини. 
-
-14 людей досі не виходять на зв’язок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3348.MP4" length="12846947" type="video/mp4"/>
-      <pubDate>Thu, 20 Nov 2025 19:23:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 08:13:49 +0000</lastBuildDate>
     <item>
       <title>Зараз росіяни атакують Запоріж</title>
       <link>https://www.mandarinai.lt/post/83641</link>
@@ -84,6 +73,24 @@
 Ми не заохочуватимемо геноцидних намірів, що лежать в основі російської агресії, підриваючи нашу ідентичність, включаючи нашу мову.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_06-34-48.mp4" length="12847866" type="video/mp4"/>
       <pubDate>Fri, 21 Nov 2025 06:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Лідери європейських країн пра</title>
+      <link>https://www.mandarinai.lt/post/83652</link>
+      <description>🤝Лідери європейських країн працюють над альтернативним планом врегулювання конфлікту в Україні, який буде вигіднішим для України порівняно з пропозиціями США, — The Wall Street Journal. 
+
+За даними видання, європейські лідери сподіваються представити свій проект протягом найближчих днів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_07-11-06.jpg" length="102714" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 07:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Дрон влетів прямо у вікно нов</title>
+      <link>https://www.mandarinai.lt/post/83653</link>
+      <description>😡Дрон влетів прямо у вікно новобудови в Одесі. БпЛА атакують місто на непомітних для ППО наднизьких висотах.
+
+Прямо зараз в Одесі лунають вибкхи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_07-33-13.mp4" length="394392" type="video/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 07:33:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
