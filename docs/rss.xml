@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 06:14:57 +0000</lastBuildDate>
-    <item>
-      <title>Нарешті ситуація складається н</title>
-      <link>https://www.mandarinai.lt/post/83636</link>
-      <description>Нарешті ситуація складається на користь миру, на який українці так довго чекали, — Посольство США в Україні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_19-21-25.jpg" length="86328" type="image/jpeg"/>
-      <pubDate>Thu, 20 Nov 2025 19:21:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 07:10:30 +0000</lastBuildDate>
     <item>
       <title>В Тернополі з-під завалів буди</title>
       <link>https://www.mandarinai.lt/post/83637</link>
@@ -71,6 +64,26 @@
  Документ розрахований на десятирічний строк і може бути подовжений. Повідомляється, що його зміст уже показували росії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_04-56-11.jpg" length="163184" type="image/jpeg"/>
       <pubDate>Fri, 21 Nov 2025 04:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Москві поки не повідомляли про</title>
+      <link>https://www.mandarinai.lt/post/83650</link>
+      <description>Москві поки не повідомляли про згоду Києва вести переговори щодо мирного плану Трампа, — Пєсков</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_06-27-57.jpg" length="49050" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 06:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅ Території України не є предм</title>
+      <link>https://www.mandarinai.lt/post/83651</link>
+      <description>✅ Території України не є предметом продажу, а суверенітет — не тема для торгу, — представниця України при ООН Христина Гайовишин
+
+Україна не прийме жодних обмежень свого права на самооборону чи чисельність та можливості наших збройних сил.
+
+Ми також не зазнаємо жодних посягань на наш суверенітет, включаючи наше суверенне право вибирати альянси, до яких ми хочемо приєднатися.
+
+Ми не заохочуватимемо геноцидних намірів, що лежать в основі російської агресії, підриваючи нашу ідентичність, включаючи нашу мову.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_06-34-48.mp4" length="12847866" type="video/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 06:34:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
