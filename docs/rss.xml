@@ -6,47 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 04:12:18 +0000</lastBuildDate>
-    <item>
-      <title>Чилійський уряд погодився прод</title>
-      <link>https://www.mandarinai.lt/post/83630</link>
-      <description>Чилійський уряд погодився продати Німеччині 30 БМП Marder 1A3 в межах схеми «кільцевого обміну».
-
-Німеччина, ймовірно, передасть ці БМП Україні, а в обмін на це замість старих бронемашин Чилі отримає доступ до сучасних засобів протиповітряної оборони. 
-
-Офіційного підтвердження цієї інформації з боку Берліна чи Сантьяго наразі немає.
-
-Німеччина вже передала Україні 140 Marder 1A3 та пообіцяла ще 25. 
-
-Якщо до цього додати 30 машин із Чилі, то це виглядає, як логічне продовження</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_16-38-53.jpg" length="263269" type="image/jpeg"/>
-      <pubDate>Thu, 20 Nov 2025 16:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Зеленський погодився на пер</title>
-      <link>https://www.mandarinai.lt/post/83632</link>
-      <description>‼️ Зеленський погодився на переговори щодо мирного плану Трампа для України, — Axios
-
-Документ передбачає серйозні поступки з боку України, зокрема передачу росії частини територій, які нині контролює Київ. Попри це Зеленський не відкинув пропозицію одразу, а погодився на переговори. В його офісі підкреслюють, що найближчими днями він очікує обговорити цей план з Трампом.
-
-Сторони домовилися про жорсткі строки підписання американського плану. Представники США запевнили Україну й ЄС у врахуванні їхніх позицій, а також наголосили, що готові шукати компроміси щодо спірних пунктів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_18-06-52.jpg" length="59999" type="image/jpeg"/>
-      <pubDate>Thu, 20 Nov 2025 18:06:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зеленський, Умеров, Єрмак та Б</title>
-      <link>https://www.mandarinai.lt/post/83633</link>
-      <description>Зеленський, Умеров, Єрмак та Буданов на зустрічі з міністром Сухопутних військ США Деніелом Дрісколлом в Києві.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3349.MP4" length="25775095" type="video/mp4"/>
-      <pubDate>Thu, 20 Nov 2025 18:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дрон-перехоплювач женеться за </title>
-      <link>https://www.mandarinai.lt/post/83634</link>
-      <description>Дрон-перехоплювач женеться за російським БПЛА «БМ-35» над багатоповерхівками в Сумах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3345.MP4" length="10591565" type="video/mp4"/>
-      <pubDate>Thu, 20 Nov 2025 18:40:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 05:10:01 +0000</lastBuildDate>
     <item>
       <title>Нарешті ситуація складається н</title>
       <link>https://www.mandarinai.lt/post/83636</link>
@@ -93,6 +53,24 @@
       <description>Білий дім очікує, що Зеленський підпише запропонований Вашингтоном план щодо України до 27 листопада, — The Financial Times</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-20_21-56-42.jpg" length="31930" type="image/jpeg"/>
       <pubDate>Thu, 20 Nov 2025 21:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 людей загинули, ще 3 поранен</title>
+      <link>https://www.mandarinai.lt/post/83645</link>
+      <description>5 людей загинули, ще 3 поранені внаслідок російського удару КАБами по Запоріжжю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-21_04-19-51.mp4" length="1126631" type="video/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 04:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️У мирному плані Трампа для У</title>
+      <link>https://www.mandarinai.lt/post/83648</link>
+      <description>‼️У мирному плані Трампа для України закладено модель захисту, подібну до статті 5 НАТО, – Axios
+
+ Країни Заходу зобов’язуються реагувати на напад на Україну як на напад на всю трансатлантичну спільноту.
+
+ Документ розрахований на десятирічний строк і може бути подовжений. Повідомляється, що його зміст уже показували росії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_04-56-11.jpg" length="163184" type="image/jpeg"/>
+      <pubDate>Fri, 21 Nov 2025 04:56:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
