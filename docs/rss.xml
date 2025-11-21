@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 18:13:53 +0000</lastBuildDate>
-    <item>
-      <title>🤔 Трамп хоче, щоб Україна та р</title>
-      <link>https://www.mandarinai.lt/post/83682</link>
-      <description>🤔 Трамп хоче, щоб Україна та росія уклали мирну угоду до кінця року, - CNN</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-21_14-39-14.jpg" length="102709" type="image/jpeg"/>
-      <pubDate>Fri, 21 Nov 2025 14:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Співвласник компанії «Fire Poi</title>
-      <link>https://www.mandarinai.lt/post/83683</link>
-      <description>Співвласник компанії «Fire Point» і головний конструктор ракети «Flamingo» Денис Штілерман розповів, чому і як Захід робить росію сильнішою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3385.MP4" length="31199285" type="video/mp4"/>
-      <pubDate>Fri, 21 Nov 2025 14:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 19:07:58 +0000</lastBuildDate>
     <item>
       <title>‼️Зеленський опублікував зверн</title>
       <link>https://www.mandarinai.lt/post/83684</link>
@@ -115,6 +101,24 @@
 Приблизно в той час, коли Гілл займав депутатське крісло в Європарламенті, я писав про агентів російського впливу в Британії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3392.MP4" length="4620260" type="video/mp4"/>
       <pubDate>Fri, 21 Nov 2025 17:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>➡️ Одеса, падає збитий «шахед»</title>
+      <link>https://www.mandarinai.lt/post/83697</link>
+      <description>➡️ Одеса, падає збитий «шахед».
+
+❗️ За час війни рф запустила по Україні понад 112 000 «шахедів», - Сирський 
+
+💬 «З початку широкомасштабного вторгнення, російські терористи запустили понад 112 тисяч ударних безпілотників типу «Шахед», головними цілями яких стали житлові будинки та цивільна інфраструктура, що призвело до загибелі дітей та мирних жителів», - повідомив головком ЗСУ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3393.MP4" length="2377852" type="video/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 18:29:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>10-ий армійський корпус та бій</title>
+      <link>https://www.mandarinai.lt/post/83698</link>
+      <description>10-ий армійський корпус та бійці 116-ої бригади спростовують заяви путіна про взяття Купʼянська, показавши, як вони ліквідовують ворожі групи в місті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3394.MP4" length="30301056" type="video/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 19:04:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
