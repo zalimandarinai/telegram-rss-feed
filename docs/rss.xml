@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 19:04:50 +0000</lastBuildDate>
-    <item>
-      <title>‼️ Лідери ЄС вже направили Тра</title>
-      <link>https://www.mandarinai.lt/post/83736</link>
-      <description>‼️ Лідери ЄС вже направили Трампу свій варіант пропозицій щодо закінчення війни в Україні, — Der Spiegel</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-22_15-37-55.jpg" length="132709" type="image/jpeg"/>
-      <pubDate>Sat, 22 Nov 2025 15:37:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥 Вперше ССО за допомогою дал</title>
-      <link>https://www.mandarinai.lt/post/83737</link>
-      <description>💥🔥 Вперше ССО за допомогою далекобійного дрона FP-1 підбили російський вертоліт Мі-8 у Ростовській області. Полювання в небі за 180 км від кордону💪</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-22_15-44-50.mp4" length="1177483" type="video/mp4"/>
-      <pubDate>Sat, 22 Nov 2025 15:44:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 20:09:24 +0000</lastBuildDate>
     <item>
       <title>Якою ви бачите українську істо</title>
       <link>https://www.mandarinai.lt/post/83738</link>
@@ -134,6 +120,15 @@
       <description>💥🔥Також вибухи на енергетичних об'єктах в окупованих Докучаєвську і Шахтарську</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-22_18-52-24.jpg" length="91717" type="image/jpeg"/>
       <pubDate>Sat, 22 Nov 2025 18:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>П'ятеро людей поранені внаслід</title>
+      <link>https://www.mandarinai.lt/post/83753</link>
+      <description>П'ятеро людей поранені внаслідок атаки рф на Запоріжжя.
+
+Рашисти обстріляли місто з РСЗВ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-22_19-28-37.jpg" length="255886" type="image/jpeg"/>
+      <pubDate>Sat, 22 Nov 2025 19:28:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
