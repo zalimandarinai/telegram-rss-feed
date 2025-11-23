@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 04:23:28 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Атакована підстанція біля То</title>
-      <link>https://www.mandarinai.lt/post/83746</link>
-      <description>💥🔥Атакована підстанція біля Тореза на окупованій частині Донеччини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-22_17-43-07.jpg" length="74719" type="image/jpeg"/>
-      <pubDate>Sat, 22 Nov 2025 17:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Умєров і українська делегаці</title>
-      <link>https://www.mandarinai.lt/post/83747</link>
-      <description>‼️Умєров і українська делегація вже прибули до Швейцарії для переговорів із представниками США щодо майбутньої мирної угоди
-
-У неділю в Женеві відбудеться зустріч щодо «мирного плану» за участю української делегації, міністра армії США Дена Дрісколла, держсекретаря Марко Рубіо та спецпосланця Стіва Віткоффа, — повідомляє CNN.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-22_17-46-49.mp4" length="583314" type="video/mp4"/>
-      <pubDate>Sat, 22 Nov 2025 17:46:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 05:09:05 +0000</lastBuildDate>
     <item>
       <title>💥🔥В російському Буденовську вл</title>
       <link>https://www.mandarinai.lt/post/83748</link>
@@ -73,6 +57,13 @@
       <description>💥🔥Українські крилаті санкції запалюють кримську ніч. ПЕ-ВЕ-О, так тримати👌</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-22_21-49-59.mp4" length="3557647" type="video/mp4"/>
       <pubDate>Sat, 22 Nov 2025 21:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Московська область. Українськ</title>
+      <link>https://www.mandarinai.lt/post/83761</link>
+      <description>🔥Московська область. Українські повітряні санкції запалюють Шатурську ГРЕС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-23_04-32-01.mp4" length="811660" type="video/mp4"/>
+      <pubDate>Sun, 23 Nov 2025 04:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
