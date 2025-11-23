@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 16:09:48 +0000</lastBuildDate>
-    <item>
-      <title>«Трамп продав Україну!» - в Ва</title>
-      <link>https://www.mandarinai.lt/post/83777</link>
-      <description>«Трамп продав Україну!» - в Вашингтоні протест з вимогою відставки американського президента.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-23_09-35-15.jpg" length="175629" type="image/jpeg"/>
-      <pubDate>Sun, 23 Nov 2025 09:35:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 17:07:25 +0000</lastBuildDate>
     <item>
       <title>ЗСУ зачистили центр Покровська</title>
       <link>https://www.mandarinai.lt/post/83781</link>
@@ -109,6 +102,20 @@
       <description>Напередодні переговорів російські терористи скинули авіабомбу ФАБ-3000М54 на житлові багатоповерхівки в Мирнограді.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3441.MP4" length="3348338" type="video/mp4"/>
       <pubDate>Sun, 23 Nov 2025 16:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀У Харкові і Полтаві шалені ст</title>
+      <link>https://www.mandarinai.lt/post/83793</link>
+      <description>👀У Харкові і Полтаві шалені стрибки напруги. Радять вимкнути всі електроприлади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-23_16-19-09.mp4" length="398808" type="video/mp4"/>
+      <pubDate>Sun, 23 Nov 2025 16:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸🇺🇦 Переговори між представни</title>
+      <link>https://www.mandarinai.lt/post/83796</link>
+      <description>🇺🇸🇺🇦 Переговори між представниками США та України поки що були продуктивними та навіть результативними в деяких областях, – Reuters з посиланням на офіційну особу США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-23_16-22-25.jpg" length="191710" type="image/jpeg"/>
+      <pubDate>Sun, 23 Nov 2025 16:22:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
