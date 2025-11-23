@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 06:13:11 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Ніхто не постраждав, зате б</title>
-      <link>https://www.mandarinai.lt/post/83756</link>
-      <description>💬 «Ніхто не постраждав, зате буде вентиляція», - по операторах БПЛА під час виїзду з позиції прилетів ворожий FPV-дрон, але, на щастя, пошкодило тільки їхній транспорт</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3424.MOV" length="1702339" type="video/mp4"/>
-      <pubDate>Sat, 22 Nov 2025 20:51:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 07:08:48 +0000</lastBuildDate>
     <item>
       <title>Окупований Бердянськ. Призов в</title>
       <link>https://www.mandarinai.lt/post/83758</link>
@@ -57,6 +50,7 @@
       <title>🥴США та їхні союзники допоможу</title>
       <link>https://www.mandarinai.lt/post/83769</link>
       <description>🥴США та їхні союзники допоможуть Україні побудувати «стіну» безпеки вздовж лінії припинення вогню, використовуючи передові технології, - WP
+
 Зеленський зараз стоїть перед найболючішим вибором свого президентства: якщо він скаже «так» на здачі Донецька, деякі українці ніколи йому цього не пробачать. Якщо ж він скаже «ні», ця трагічна війна продовжиться, - пише видання</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-23_05-56-51.jpg" length="89310" type="image/jpeg"/>
       <pubDate>Sun, 23 Nov 2025 05:56:51 +0000</pubDate>
@@ -67,6 +61,13 @@
       <description>💥🔥Ранковий двіж під Москвою. Найстаріша в рф Шатурська ГРЕС виходить з чату</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-23_06-04-38.mp4" length="26753732" type="video/mp4"/>
       <pubDate>Sun, 23 Nov 2025 06:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Без пʼяти пʼять, сирена», -</title>
+      <link>https://www.mandarinai.lt/post/83772</link>
+      <description>💬 «Без пʼяти пʼять, сирена», - дрони атакують Анапу і Новоросійськ, ймовірно, російські військові кораблі в порту Новоросійська.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3427.MP4" length="1960071" type="video/mp4"/>
+      <pubDate>Sun, 23 Nov 2025 06:56:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
