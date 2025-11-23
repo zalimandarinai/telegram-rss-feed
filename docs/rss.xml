@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 12:14:44 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Ранковий двіж під Москвою. Н</title>
-      <link>https://www.mandarinai.lt/post/83770</link>
-      <description>💥🔥Ранковий двіж під Москвою. Найстаріша в рф Шатурська ГРЕС виходить з чату</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-23_06-04-38.mp4" length="26753732" type="video/mp4"/>
-      <pubDate>Sun, 23 Nov 2025 06:04:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 13:15:31 +0000</lastBuildDate>
     <item>
       <title>💬 «Без пʼяти пʼять, сирена», -</title>
       <link>https://www.mandarinai.lt/post/83772</link>
@@ -84,6 +77,28 @@
 📖Враховуючи, що текст "мирної угоди", як помітили лінгвісти - грубий переклад з російської</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-23_10-28-53.jpg" length="50055" type="image/jpeg"/>
       <pubDate>Sun, 23 Nov 2025 10:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Невимовний біль у Тернополі. Т</title>
+      <link>https://www.mandarinai.lt/post/83786</link>
+      <description>Невимовний біль у Тернополі. Тато колихає труну з тілом своєї дитини.
+
+В Тернополі сьогодні прощаються з Марією та її маленькими дітьми, Камілою і Назарчиком. 
+
+Їхнє життя забрала російська ракета, що 19 листопада влучила у багатоповерховий будинок.
+
+Батько дітей, Камаль, став єдиним, хто вижив у квартирі. 
+
+Три дні він стояв біля руїн будинку, чекаючи на своїх рідних. Сьогодні він тримає в руках труну своєї дитини. Це важко усвідомити і неможливо забути.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3437.MP4" length="9085094" type="video/mp4"/>
+      <pubDate>Sun, 23 Nov 2025 12:35:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ "Мирна угода" щодо війни в </title>
+      <link>https://www.mandarinai.lt/post/83787</link>
+      <description>❗️ "Мирна угода" щодо війни в Україні буде остаточно узгоджена тільки після зустрічі Зеленського і Трампа, — Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-23_12-49-03.jpg" length="146327" type="image/jpeg"/>
+      <pubDate>Sun, 23 Nov 2025 12:49:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
