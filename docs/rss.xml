@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 18:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 19:07:05 +0000</lastBuildDate>
     <item>
       <title>Невимовний біль у Тернополі. Т</title>
       <link>https://www.mandarinai.lt/post/83786</link>
@@ -139,17 +139,6 @@
       <pubDate>Sun, 23 Nov 2025 17:31:36 +0000</pubDate>
     </item>
     <item>
-      <title>‼️Основний раунд зустрічі у Же</title>
-      <link>https://www.mandarinai.lt/post/83798</link>
-      <description>‼️Основний раунд зустрічі у Женеві завершився. Рубіо каже, що США вносять деякі зміни до мирного плану 
-
-За словами держсекретаря США сьогоднішні зустрічі були для нього "найпродуктивнішими та найбільш значущими" в мирному процесі. З огляду на це команда Вашингтона вносить "деякі зміни" до мирного плану, вочевидь, на основі пропозицій України.
-
-"У нас є дуже хороший робочий продукт, який вже був побудований на основі внесків усіх відповідних сторін, залучених тут, і ми змогли розглянути деякі з цих пунктів зараз, пункт за пунктом. І я думаю, що ми досягли хорошого прогресу", - додав Марко Рубіо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-23_17-50-54.jpg" length="59477" type="image/jpeg"/>
-      <pubDate>Sun, 23 Nov 2025 17:50:54 +0000</pubDate>
-    </item>
-    <item>
       <title>«Молодець! Ти просто Термінато</title>
       <link>https://www.mandarinai.lt/post/83799</link>
       <description>«Молодець! Ти просто Термінатор! Боєць. Всі би так! Ще хвилинка, і ми тебе вивеземо!»
@@ -163,6 +152,17 @@
 Вмикайте «ТСН Тиждень» просто зараз, о 20:00, канал «1+1».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3445.MP4" length="8201990" type="video/mp4"/>
       <pubDate>Sun, 23 Nov 2025 17:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Основний раунд зустрічі у Же</title>
+      <link>https://www.mandarinai.lt/post/83800</link>
+      <description>‼️Основний раунд зустрічі у Женеві завершився. Рубіо каже, що США вносять деякі зміни до мирного плану 
+
+За словами держсекретаря США сьогоднішні зустрічі були для нього "найпродуктивнішими та найбільш значущими" в мирному процесі. З огляду на це команда Вашингтона вносить "деякі зміни" до мирного плану, вочевидь, на основі пропозицій України.
+
+"У нас є дуже хороший робочий продукт, який вже був побудований на основі внесків усіх відповідних сторін, залучених тут, і ми змогли розглянути деякі з цих пунктів зараз, пункт за пунктом. І я думаю, що ми досягли хорошого прогресу", - додав Марко Рубіо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-23_18-24-28.jpg" length="59477" type="image/jpeg"/>
+      <pubDate>Sun, 23 Nov 2025 18:24:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
