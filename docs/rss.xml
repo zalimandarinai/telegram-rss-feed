@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 10:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:08:43 +0000</lastBuildDate>
     <item>
       <title>‼️Reuters опублікувало ще одну</title>
       <link>https://www.mandarinai.lt/post/83807</link>
@@ -101,7 +101,7 @@ https://m.youtube.com/watch?v=LLa-R4KYf5c</description>
       <link>https://www.mandarinai.lt/post/83820</link>
       <description>Успішний рейд на позиції противника. Взяли полоненого. Розблокували наших.
 
-Група спецпризначенців 3-го полку ССО отримала задачу провести наліт на противника, який заблокував евакуацію евакуацію поранених українців.
+Група спецпризначенців 3-го полку ССО отримала задачу провести біля Покровська наліт на противника, який заблокував евакуацію поранених українців.
 
 Оператори загону SWORD GROUP зайшли в зону бойового зіткнення, ліквідували 2-х окупантів, один російський військовослужбовець вирішив здатись в полон. 
 
@@ -109,6 +109,28 @@ https://m.youtube.com/watch?v=LLa-R4KYf5c</description>
 
 Позицію суміжників розблокували та допомогли вивезти трьох поранених піхотинців.</description>
       <pubDate>Mon, 24 Nov 2025 10:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп закликає «не вірити» в п</title>
+      <link>https://www.mandarinai.lt/post/83821</link>
+      <description>Трамп закликає «не вірити» в прогрес щодо мирних переговорів росії та України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-24_10-57-06.jpg" length="13825" type="image/jpeg"/>
+      <pubDate>Mon, 24 Nov 2025 10:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна є найбільшим місцем ск</title>
+      <link>https://www.mandarinai.lt/post/83822</link>
+      <description>Україна є найбільшим місцем скоєння злочинів в світі, - прокурор Віталій Довгаль
+
+Йдеться про те, що в Україні зафіксовано більше 178000 тисяч воєнних злочинів російської федерації.
+
+Кількість кримінальних проваджень 178391 на цей момент
+
+Оприлюднення цих цифр збіглося з перемовинами в Женеві про мир між росією та Україною.
+
+Один з пунктів мирного плану передбачає амністію для воєнних злочинців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-24_11-08-20.jpg" length="264990" type="image/jpeg"/>
+      <pubDate>Mon, 24 Nov 2025 11:08:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
