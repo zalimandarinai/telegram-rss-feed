@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 21:08:24 +0000</lastBuildDate>
-    <item>
-      <title>❗️Зеленський готовий зустрітис</title>
-      <link>https://www.mandarinai.lt/post/83907</link>
-      <description>❗️Зеленський готовий зустрітись з Трампом через 2 дні, щоб завершити угоду, — Axios</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-25_16-24-09.jpg" length="124974" type="image/jpeg"/>
-      <pubDate>Tue, 25 Nov 2025 16:24:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 22:09:02 +0000</lastBuildDate>
     <item>
       <title>🙄 Ми дуже близькі до угоди: Тр</title>
       <link>https://www.mandarinai.lt/post/83908</link>
@@ -117,9 +110,9 @@
       <pubDate>Tue, 25 Nov 2025 20:25:23 +0000</pubDate>
     </item>
     <item>
-      <title>⚠️Шахеди атакують Запоріжжя - </title>
+      <title>⚠️ «Шахеди» атакують Запоріжжя</title>
       <link>https://www.mandarinai.lt/post/83919</link>
-      <description>⚠️Шахеди атакують Запоріжжя -  повідомляють про влучання в багатоповерховий будинок.</description>
+      <description>⚠️ «Шахеди» атакують Запоріжжя, повідомляють про влучання в багатоповерховий будинок.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-25_20-34-20.mp4" length="178714" type="video/mp4"/>
       <pubDate>Tue, 25 Nov 2025 20:34:20 +0000</pubDate>
     </item>
@@ -136,6 +129,13 @@
 
 Однак там на них вже чекала інша група наших воїнів.</description>
       <pubDate>Tue, 25 Nov 2025 20:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пожежа в Запоріжжі після ударі</title>
+      <link>https://www.mandarinai.lt/post/83921</link>
+      <description>Пожежа в Запоріжжі після ударів російських дронів, - ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3500.MP4" length="5215222" type="video/mp4"/>
+      <pubDate>Tue, 25 Nov 2025 21:53:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
