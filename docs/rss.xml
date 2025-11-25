@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 12:19:03 +0000</lastBuildDate>
-    <item>
-      <title>‼️ЗСУ спростували брехню росія</title>
-      <link>https://www.mandarinai.lt/post/83883</link>
-      <description>‼️ЗСУ спростували брехню росіян про захоплення Костянтинівки
-
-Командир 19 армійського корпусу генерал Олександр Бакулін записав звернення безпосередньої із центру Костянтинівки. Місто під контролем ЗСУ, попри чергову брехню рф про фейкові перемоги на Донбасі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-25_09-25-47.mp4" length="2394407" type="video/mp4"/>
-      <pubDate>Tue, 25 Nov 2025 09:25:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Сюда, чи я буду вбити тебе! Н</title>
-      <link>https://www.mandarinai.lt/post/83884</link>
-      <description>"Сюда, чи я буду вбити тебе! На коліна, будь ласка", - американець "Брюс", який воює в складі 63-ої ОМБР, захопив кількох полонених на схід від Лимана.</description>
-      <pubDate>Tue, 25 Nov 2025 09:35:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 13:26:23 +0000</lastBuildDate>
     <item>
       <title>🤬Траекторії БпЛА та ракет сьог</title>
       <link>https://www.mandarinai.lt/post/83885</link>
@@ -103,6 +88,15 @@ https://sbs-group.army/
       <description>💥Таганрог - наслідки прильотів по території авіаційного науково-промислового підприємства</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-25_12-17-44.mp4" length="2034298" type="video/mp4"/>
       <pubDate>Tue, 25 Nov 2025 12:17:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🕯 Внаслідок ракетної атаки рф </title>
+      <link>https://www.mandarinai.lt/post/83897</link>
+      <description>🕯 Внаслідок ракетної атаки рф загинули четверо водіїв постачальників логістичного центру NOVUS у Святошинському районі Києва. 
+
+Ще п’ятеро людей поранені. Співробітники, які були в укритті, не постраждали, - повідомляє Суспільне</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-25_12-21-23.jpg" length="318153" type="image/jpeg"/>
+      <pubDate>Tue, 25 Nov 2025 12:21:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
