@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 00:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 02:26:40 +0000</lastBuildDate>
     <item>
       <title>❗️Ряд пунктів угоди по миру в </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,20 +16,6 @@
 
 Туск зауважив, особливо важливо, щоб жодна угода не послабила безпеку Польщі та Європи в цілому.</description>
       <pubDate>Mon, 24 Nov 2025 16:58:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Краснодарський край на зв'язк</title>
-      <link>https://www.mandarinai.lt/post/83849</link>
-      <description>💥Краснодарський край на зв'язку. ПеВеО б'є по своїм.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-24_21-25-16.mp4" length="484277" type="video/mp4"/>
-      <pubDate>Mon, 24 Nov 2025 21:25:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥💥русня влаштувала "зоряні вій</title>
-      <link>https://www.mandarinai.lt/post/83851</link>
-      <description>💥💥русня влаштувала "зоряні війни" по власним будинкам</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-24_21-31-35.mp4" length="2109698" type="video/mp4"/>
-      <pubDate>Mon, 24 Nov 2025 21:31:35 +0000</pubDate>
     </item>
     <item>
       <title>❗️ В Таганрозі, за повідомленн</title>
@@ -58,6 +44,24 @@
       <description>Так запускали «Калібри» по столиці пару годин тому з Новоросійська</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3474.MP4" length="2370486" type="video/mp4"/>
       <pubDate>Tue, 25 Nov 2025 00:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок ворожої атаки в Києв</title>
+      <link>https://www.mandarinai.lt/post/83864</link>
+      <description>Внаслідок ворожої атаки в Києві постраждало 4 людей, 9 осіб врятовано, - ДСНС 
+
+▪️У Печерському районі влучання у 22-поверховий житловий будинок на рівні 4-5 поверхів. Одну людину врятовано. 
+
+▪️ У Дніпровському районі влучання у 9-поверховий житловий будинок, руйнування та пожежа на 6-7 поверхах. Загалом врятовано 8 людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3475.MP4" length="705843" type="video/mp4"/>
+      <pubDate>Tue, 25 Nov 2025 01:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так «шахед» на Русанівці в Киє</title>
+      <link>https://www.mandarinai.lt/post/83867</link>
+      <description>Так «шахед» на Русанівці в Києві влучив у житловий будинок. Спалахнула пожежа. Чутно крики людей, які просять їм допомогти. Відомо про одного загиблого. Його тіло дістали рятувальники.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3478.MP4" length="9691902" type="video/mp4"/>
+      <pubDate>Tue, 25 Nov 2025 01:44:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
