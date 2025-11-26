@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 14:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 15:08:24 +0000</lastBuildDate>
     <item>
       <title>Держприкордонслужба вперше пок</title>
       <link>https://www.mandarinai.lt/post/83939</link>
@@ -116,6 +116,13 @@
       <description>🤬Ворог за минулий день значно просунувся в Покровську та Мирнограді, створюючи серйозну загрозу оточенн</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_13-15-24.jpg" length="75348" type="image/jpeg"/>
       <pubDate>Wed, 26 Nov 2025 13:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡рф вітає мирні зусилля США, а</title>
+      <link>https://www.mandarinai.lt/post/83951</link>
+      <description>🤡рф вітає мирні зусилля США, але жодних поступок від нас щодо України не буде, всі цілі війни будуть досягнуті, — МЗС рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-26_14-56-46.mp4" length="4264971" type="video/mp4"/>
+      <pubDate>Wed, 26 Nov 2025 14:56:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
