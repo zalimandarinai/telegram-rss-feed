@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 11:08:29 +0000</lastBuildDate>
-    <item>
-      <title>❗️Міністр армії США попередив </title>
-      <link>https://www.mandarinai.lt/post/83933</link>
-      <description>❗️Міністр армії США попередив Київ, що ситуація в Україні буде лише погіршуватися, тому варто розглянути можливість мирних угод вже зараз, - NBC News.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_06-09-57.jpg" length="124804" type="image/jpeg"/>
-      <pubDate>Wed, 26 Nov 2025 06:09:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 12:18:49 +0000</lastBuildDate>
     <item>
       <title>Момент удару і руйнівні наслід</title>
       <link>https://www.mandarinai.lt/post/83935</link>
@@ -106,6 +99,15 @@
 За його словами, Україна щомісяця отримує зброї приблизно на 1 млрд доларів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_10-49-39.jpg" length="106857" type="image/jpeg"/>
       <pubDate>Wed, 26 Nov 2025 10:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Німеччина вже через пару тижн</title>
+      <link>https://www.mandarinai.lt/post/83947</link>
+      <description>🔥Німеччина вже через пару тижнів отримає захист від російського "Орешника" завдяки системі ПРО Arrow-3, - Defense Express 
+
+Новітню протиракетну систему Берлін замовив в Ізраїлі і поставка відбудеться до кінця року.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_11-42-41.jpg" length="22005" type="image/jpeg"/>
+      <pubDate>Wed, 26 Nov 2025 11:42:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
