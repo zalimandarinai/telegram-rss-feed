@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 17:09:16 +0000</lastBuildDate>
-    <item>
-      <title>❗️Рашисти зайшли в центр Покро</title>
-      <link>https://www.mandarinai.lt/post/83943</link>
-      <description>❗️Рашисти зайшли в центр Покровська: з'явилися кадри росіян у районі залізничного вокзалу, - DeepState. 
-
-"На жаль, простої заяви недостатньо, щоб ворог залишив центральну частину міста. А спроби закидати штурмовиків у тил, щоб прозвітувати про успішні дії, часто закінчуються невдало"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_09-51-52.jpg" length="220024" type="image/jpeg"/>
-      <pubDate>Wed, 26 Nov 2025 09:51:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 18:12:09 +0000</lastBuildDate>
     <item>
       <title>В Запорізькій області російськ</title>
       <link>https://www.mandarinai.lt/post/83944</link>
@@ -147,6 +138,13 @@ https://rvv.com.ua/product/pivdenni-okolytsi-vinnytsi-u-xiv-xvii-stolittiakh-tom
 Просто подивіться на рівень деградації</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-26_16-56-32.mp4" length="830040" type="video/mp4"/>
       <pubDate>Wed, 26 Nov 2025 16:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Горить багатоповерхівка після </title>
+      <link>https://www.mandarinai.lt/post/83957</link>
+      <description>Горить багатоповерхівка після російської атаки по Костянтинівці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQM0V3a0inaQ7Oy7s0Y7FTwStgaDoTOK56R2jgzzEQ4tU_UJH2Ke5ic7xekzZNL.mp4" length="3606400" type="video/mp4"/>
+      <pubDate>Wed, 26 Nov 2025 17:17:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
