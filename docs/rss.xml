@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 12:18:49 +0000</lastBuildDate>
-    <item>
-      <title>Момент удару і руйнівні наслід</title>
-      <link>https://www.mandarinai.lt/post/83935</link>
-      <description>Момент удару і руйнівні наслідки атаки рф у Запоріжжі. 
-
-Постраждали щонайменше 19 людей, пошкоджено понад 30 багатоповерхівок</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-26_08-39-20.mp4" length="949793" type="video/mp4"/>
-      <pubDate>Wed, 26 Nov 2025 08:39:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 13:27:26 +0000</lastBuildDate>
     <item>
       <title>Держприкордонслужба вперше пок</title>
       <link>https://www.mandarinai.lt/post/83939</link>
@@ -108,6 +99,23 @@
 Новітню протиракетну систему Берлін замовив в Ізраїлі і поставка відбудеться до кінця року.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_11-42-41.jpg" length="22005" type="image/jpeg"/>
       <pubDate>Wed, 26 Nov 2025 11:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пілот Повітряних Сил про свій </title>
+      <link>https://www.mandarinai.lt/post/83949</link>
+      <description>Пілот Повітряних Сил про свій літак Mirage-2000.
+
+Він вважає, що ракети Magic-2 мають один з найвищих коефіцієнтів точності, влучання з гарантією майже 100% ураження.
+
+Французьких Mirage-2000 в Повітряних Силах України не багато, тому зустріти цей літак на оперативному аеродромі, ще й під час виконання бойового завдання, велика удача.</description>
+      <pubDate>Wed, 26 Nov 2025 12:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Ворог за минулий день значно </title>
+      <link>https://www.mandarinai.lt/post/83950</link>
+      <description>🤬Ворог за минулий день значно просунувся в Покровську та Мирнограді, створюючи серйозну загрозу оточенн</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_13-15-24.jpg" length="75348" type="image/jpeg"/>
+      <pubDate>Wed, 26 Nov 2025 13:15:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
