@@ -6,31 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 05:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:15:01 +0000</lastBuildDate>
     <item>
       <title>🥴Я готовий зустрітися із Зелен</title>
-      <link>https://www.mandarinai.lt/post/83916</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🥴Я готовий зустрітися із Зеленським та путіним,але тільки тоді, коли угода про припинення війни буде остаточною, — Дональд Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-25_19-50-23.jpg" length="226268" type="image/jpeg"/>
       <pubDate>Tue, 25 Nov 2025 19:50:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Віткофф з Кушнером почали писа</title>
-      <link>https://www.mandarinai.lt/post/83917</link>
-      <description>Віткофф з Кушнером почали писати план з 28 пунктів прямо в літаку з Близького Сходу після оголошення угоди між Ізраїлем і ХАМАС, — WSJ
-
-Але є делікатне запитання.
-
-Чому в оригіналі текст побудований так, нібито це Google Translate з російської?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-25_20-25-10.jpg" length="116209" type="image/jpeg"/>
-      <pubDate>Tue, 25 Nov 2025 20:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Білому домі зростають побо</title>
-      <link>https://www.mandarinai.lt/post/83918</link>
-      <description>⚡️У Білому домі зростають побоювання, що путін навіть не розглядатиме новий мирний план, — NYT.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-25_20-25-23.jpg" length="54563" type="image/jpeg"/>
-      <pubDate>Tue, 25 Nov 2025 20:25:23 +0000</pubDate>
     </item>
     <item>
       <title>⚠️ «Шахеди» атакують Запоріжжя</title>
@@ -66,6 +47,20 @@
       <description>📞 Також видання публікує розшифровки розмови Ушакова з Віткоффом, під час якої спецпредставник Трампа давав помічнику російського президента слушні поради щодо впливу на американського лідера для вирішення проблем з Україною у вигідному росії ключі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-25_23-04-28.jpg" length="71403" type="image/jpeg"/>
       <pubDate>Tue, 25 Nov 2025 23:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Йому потрібно «продати» це Ук</title>
+      <link>https://www.mandarinai.lt/post/83931</link>
+      <description>🤬Йому потрібно «продати» це Україні, йому потрібно «продати» Україну росії, — президент США Дональд Трамп відповідаючи на питання стосовно ролі свого друга і спецпосланця Стіва Віткоффа у перемовному процесі деталі якого опублікував Bloomberg.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-26_05-33-31.mp4" length="6366412" type="video/mp4"/>
+      <pubDate>Wed, 26 Nov 2025 05:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Міністр армії США попередив </title>
+      <link>https://www.mandarinai.lt/post/83933</link>
+      <description>❗️Міністр армії США попередив Київ, що ситуація в Україні буде лише погіршуватися, тому варто розглянути можливість мирних угод вже зараз, - NBC News.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-26_06-09-57.jpg" length="124804" type="image/jpeg"/>
+      <pubDate>Wed, 26 Nov 2025 06:09:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
