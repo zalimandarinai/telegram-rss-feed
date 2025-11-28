@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 21:07:48 +0000</lastBuildDate>
-    <item>
-      <title>В Чорному морі на північ від у</title>
-      <link>https://www.mandarinai.lt/post/84075</link>
-      <description>В Чорному морі на північ від узбережжя Туреччини горить нафтовий танкер Kairos, який входить до тіньового флоту росії, він отримав пошкодження після ймовірного підриву на морській міні, повідомив місцевий портовий агент.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-28_18-29-04.jpg" length="23486" type="image/jpeg"/>
-      <pubDate>Fri, 28 Nov 2025 18:29:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже другий нафтовий танкер, як</title>
-      <link>https://www.mandarinai.lt/post/84078</link>
-      <description>Вже другий нафтовий танкер, який працює на російський бюджет, назва Virat, горить в Чорному морі біля берега Туреччини, - UNN</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-28_19-07-05.jpg" length="81768" type="image/jpeg"/>
-      <pubDate>Fri, 28 Nov 2025 19:07:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вибух авіабомби ФАБ-3000 біля </title>
-      <link>https://www.mandarinai.lt/post/84079</link>
-      <description>Вибух авіабомби ФАБ-3000 біля Покровська.
-
-🎥 @kyriienko_press</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3590.MOV" length="2134563" type="video/mp4"/>
-      <pubDate>Fri, 28 Nov 2025 19:11:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Nov 2025 22:08:28 +0000</lastBuildDate>
     <item>
       <title>❗️ Місто енергетиків Славутич </title>
       <link>https://www.mandarinai.lt/post/84080</link>
@@ -108,6 +85,20 @@
       <description>‼️У Києві оголошена повітряна тривога! У столиці та низці регіонів — загроза ударних дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-28_20-59-11.jpg" length="66591" type="image/jpeg"/>
       <pubDate>Fri, 28 Nov 2025 20:59:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Казані підстанція відмовила</title>
+      <link>https://www.mandarinai.lt/post/84091</link>
+      <description>💥В Казані підстанція відмовилась працювати на русню і вибухнула. Місто в блекауті</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-28_21-15-21.mp4" length="743762" type="video/mp4"/>
+      <pubDate>Fri, 28 Nov 2025 21:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>З «Оленьї» вилетіли Ту-95МС</title>
+      <link>https://www.mandarinai.lt/post/84093</link>
+      <description>З «Оленьї» вилетіли Ту-95МС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-28_21-52-29.jpg" length="85660" type="image/jpeg"/>
+      <pubDate>Fri, 28 Nov 2025 21:52:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
