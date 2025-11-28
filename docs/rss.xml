@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 20:10:01 +0000</lastBuildDate>
-    <item>
-      <title>Не тільки на Байконурі ракети </title>
-      <link>https://www.mandarinai.lt/post/84072</link>
-      <description>Не тільки на Байконурі ракети не літають.
-
-Момент старту та падіння міжконтинентальної ракети на полігоні «Ясний».
-
-Повідомляють, що, ймовірно, це була МБР УР-100Н із гіперзвуковим бойовим блоком «Авангард», який так нахвалюють росзмі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3584.MP4" length="11658896" type="video/mp4"/>
-      <pubDate>Fri, 28 Nov 2025 17:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Оператори дронів 210-го ОШП зі</title>
-      <link>https://www.mandarinai.lt/post/84074</link>
-      <description>Оператори дронів 210-го ОШП зірвали мінування в районі Степногірська попри те, що ворожі сапери намагались збити безпілотник з рушниці.</description>
-      <pubDate>Fri, 28 Nov 2025 18:18:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Nov 2025 21:07:48 +0000</lastBuildDate>
     <item>
       <title>В Чорному морі на північ від у</title>
       <link>https://www.mandarinai.lt/post/84075</link>
@@ -111,6 +94,20 @@
 В Управлінні турецького мореплавства повідомили, що стан 19 членів екіпажу нормальний, але горить машинне відділення. Причини пожежі офіційно не називають</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-28_20-00-15.mp4" length="2137127" type="video/mp4"/>
       <pubDate>Fri, 28 Nov 2025 20:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп у  своїй соцмережі натяк</title>
+      <link>https://www.mandarinai.lt/post/84088</link>
+      <description>Трамп у  своїй соцмережі натякає, що збирається залишитися в Білому домі на третій термін</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-28_20-11-45.jpg" length="91983" type="image/jpeg"/>
+      <pubDate>Fri, 28 Nov 2025 20:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️У Києві оголошена повітряна </title>
+      <link>https://www.mandarinai.lt/post/84089</link>
+      <description>‼️У Києві оголошена повітряна тривога! У столиці та низці регіонів — загроза ударних дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-28_20-59-11.jpg" length="66591" type="image/jpeg"/>
+      <pubDate>Fri, 28 Nov 2025 20:59:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
