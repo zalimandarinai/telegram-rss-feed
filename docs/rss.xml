@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 13:18:26 +0000</lastBuildDate>
-    <item>
-      <title>В Києві загинуло 2 людини. Пос</title>
-      <link>https://www.mandarinai.lt/post/84113</link>
-      <description>В Києві загинуло 2 людини. Постраждало 16 осіб, серед них дитина. Надзвичайникам вдалось врятували 8 людей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3609.MP4" length="9755537" type="video/mp4"/>
-      <pubDate>Sat, 29 Nov 2025 08:19:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Nov 2025 14:07:47 +0000</lastBuildDate>
     <item>
       <title>Наразі 500 тисяч людей без сві</title>
       <link>https://www.mandarinai.lt/post/84116</link>
@@ -91,6 +84,17 @@
 Під час атаки підсанкційні судна йшли порожніми — вони прямували на завантаження у порт Новоросійськ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3625.MP4" length="18750614" type="video/mp4"/>
       <pubDate>Sat, 29 Nov 2025 11:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>США створюють «no-fly zone». Т</title>
+      <link>https://www.mandarinai.lt/post/84127</link>
+      <description>США створюють «no-fly zone». Тільки не для російських ракет над Україною, а в повітряному просторі Венесуели.
+
+Про це заявив  Трамп.
+
+💬 «Звертаюсь до всіх авіакомпаній, пілотів, наркоторговців та торговців людьми, будь ласка, вважайте повітряний простір над Венесуелою та навколо неї повністю закритим».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_13-22-25.jpg" length="21568" type="image/jpeg"/>
+      <pubDate>Sat, 29 Nov 2025 13:22:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
