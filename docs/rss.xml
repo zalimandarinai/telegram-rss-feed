@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 11:07:14 +0000</lastBuildDate>
-    <item>
-      <title>Будинок на Дарниці в Києві піс</title>
-      <link>https://www.mandarinai.lt/post/84111</link>
-      <description>Будинок на Дарниці в Києві після російського удару вранці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3605.MP4" length="4239375" type="video/mp4"/>
-      <pubDate>Sat, 29 Nov 2025 08:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Жителі столичної багатоповерхі</title>
-      <link>https://www.mandarinai.lt/post/84112</link>
-      <description>Жителі столичної багатоповерхівки, в яку вже до того прилітав російський «шахед», емоційно коментують наслідки сьогоднішніх ударів по сусідніх будинках.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3606.MP4" length="8254669" type="video/mp4"/>
-      <pubDate>Sat, 29 Nov 2025 08:12:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Nov 2025 12:16:04 +0000</lastBuildDate>
     <item>
       <title>В Києві загинуло 2 людини. Пос</title>
       <link>https://www.mandarinai.lt/post/84113</link>
@@ -81,6 +67,30 @@
       <link>https://www.mandarinai.lt/post/84124</link>
       <description>Полювання на російські піхотні групи в районі Покровська та Мирногоада продовжує 414-а бригада безпілотних систем «Птахи Мадяра»</description>
       <pubDate>Sat, 29 Nov 2025 10:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент влучання російської рак</title>
+      <link>https://www.mandarinai.lt/post/84125</link>
+      <description>Момент влучання російської ракети у місті Вишневе біля Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3624.MP4" length="1131583" type="video/mp4"/>
+      <pubDate>Sat, 29 Nov 2025 11:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ось як СБУ влучила в два росій</title>
+      <link>https://www.mandarinai.lt/post/84126</link>
+      <description>Ось як СБУ влучила в два російські танкери.
+
+Тепер вже відомо. Підрив двох танкерів «тіньового флоту» рф - спецоперація Служби Безпеки
+
+За інформацією наших джерел, морські дрони СБУ Sea Baby уразили в Чорному морі два підсанкційні нафтотанкери KAIRO та VIRAT, що належать «тіньовому флоту» рф. Це була спільна операція 13-го Головного Управління військової контррозвідки СБУ з ВМС України.
+
+По суднах успішно відпрацювали модернізовані морські дрони Sea Baby. Вони можуть долати великі дистанції та оснащені посиленими бойовими частинами.
+
+На відео видно, що після влучань обидва танкери отримали критичні пошкодження та фактично виведені з експлуатації.
+
+Під час атаки підсанкційні судна йшли порожніми — вони прямували на завантаження у порт Новоросійськ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3625.MP4" length="18750614" type="video/mp4"/>
+      <pubDate>Sat, 29 Nov 2025 11:23:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
