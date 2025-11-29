@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 20:09:34 +0000</lastBuildDate>
-    <item>
-      <title>Ось так виглядає сьогодні київ</title>
-      <link>https://www.mandarinai.lt/post/84130</link>
-      <description>Ось так виглядає сьогодні київське «Все добре» - напис на дверях у зруйнованих будинках для рятувальників. Означає, що в квартирі всі живі і не потребують допомоги.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_14-54-28.jpg" length="84024" type="image/jpeg"/>
-      <pubDate>Sat, 29 Nov 2025 14:54:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Nov 2025 21:07:29 +0000</lastBuildDate>
     <item>
       <title>👀Замість далекобійних ракет To</title>
       <link>https://www.mandarinai.lt/post/84133</link>
@@ -131,6 +124,20 @@
 https://youtu.be/T-u3beMEUk4?si=PQlVVk33g9BZKjCM</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_19-48-58.jpg" length="62456" type="image/jpeg"/>
       <pubDate>Sat, 29 Nov 2025 19:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥А ось і фото танкера Virat, у</title>
+      <link>https://www.mandarinai.lt/post/84146</link>
+      <description>💥А ось і фото танкера Virat, ураженого морськими дронами. Його відбуксовують до Туреччини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_20-52-15.jpg" length="174699" type="image/jpeg"/>
+      <pubDate>Sat, 29 Nov 2025 20:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥💪ЗСУ зачистили Іванівку Дніпр</title>
+      <link>https://www.mandarinai.lt/post/84148</link>
+      <description>🔥💪ЗСУ зачистили Іванівку Дніпропетровської області, - Deep State Лікаїдовано 53 окупанти. Ще 19 – взято в полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-29_20-59-16.mp4" length="3044364" type="video/mp4"/>
+      <pubDate>Sat, 29 Nov 2025 20:59:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
