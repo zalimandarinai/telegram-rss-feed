@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 09:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 10:09:01 +0000</lastBuildDate>
     <item>
       <title>Після російської атаки пожежа </title>
       <link>https://www.mandarinai.lt/post/84108</link>
@@ -55,6 +55,31 @@
       <description>Наразі 500 тисяч людей без світла в Києві, 100 тисяч без світла в Київській області і ще 8 тисяч на Харківщині, - Міненерго</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_08-23-35.jpg" length="49253" type="image/jpeg"/>
       <pubDate>Sat, 29 Nov 2025 08:23:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Знищено 577 із 632 цілей про</title>
+      <link>https://www.mandarinai.lt/post/84117</link>
+      <description>‼️Знищено 577 із 632 цілей противника, - ПС
+
+Сили ППО збили 558 з 596 БпЛА та 19 з 36 ракет
+
+Зафіксовано влучання ракет та 35 ударних БпЛА на 22 локаціях, а також падіння збитих (уламки) на 17 локаціях. Основний напрямок удару – Київщина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_09-12-48.jpg" length="131693" type="image/jpeg"/>
+      <pubDate>Sat, 29 Nov 2025 09:12:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві вже троє загиблих внас</title>
+      <link>https://www.mandarinai.lt/post/84118</link>
+      <description>В Києві вже троє загиблих внаслідок нічної атаки ворога</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_09-21-59.jpg" length="232030" type="image/jpeg"/>
+      <pubDate>Sat, 29 Nov 2025 09:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тварі хотіли більше жертв: жур</title>
+      <link>https://www.mandarinai.lt/post/84121</link>
+      <description>Тварі хотіли більше жертв: журналісти стверджують, що після обстрілу в Києві знайшли уламки касетного боєприпасу на місці атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/23_7.mp4" length="12765595" type="video/mp4"/>
+      <pubDate>Sat, 29 Nov 2025 10:02:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
