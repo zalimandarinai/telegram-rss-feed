@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 19:06:08 +0000</lastBuildDate>
-    <item>
-      <title>Команда швидкого реагування - </title>
-      <link>https://www.mandarinai.lt/post/84129</link>
-      <description>Команда швидкого реагування - повністю зачистили село та повернули втрачені позиції
-
-Бійці 3-ої ОШБР в складі групи швидкого реагування прибули на підкріплення для зачистки району Новоселівки. 
-
-Опліч з побратимами, іноземними добровольцями, інструктори Навчально-штурмової роти провели результативний і вдалий рейд по окупантах, які ховалися в будівлях та підвалах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/ShandrigaI_TG_B_4.mp4" length="30932992" type="video/mp4"/>
-      <pubDate>Sat, 29 Nov 2025 14:51:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Nov 2025 20:09:34 +0000</lastBuildDate>
     <item>
       <title>Ось так виглядає сьогодні київ</title>
       <link>https://www.mandarinai.lt/post/84130</link>
@@ -124,11 +113,24 @@
     <item>
       <title>Кремль таємно веде переговори </title>
       <link>https://www.mandarinai.lt/post/84143</link>
-      <description>Кремль таємно веде переговори з Вашингтоном про спільний бізнес після укладання миру з Україною.  Білому дому ідея подобається, - пише — WSJ 
+      <description>Кремль таємно веде переговори з Вашингтоном про спільний бізнес після укладання миру з Україною.  Білому дому ідея подобається, - пише WSJ 
 
 Є докази, що спецпосланець президента США Стів Уіткофф і представник президента рф Кирило Дмитрієв не лише ведуть неформальні переговори про врегулювання російсько-української війни вже дев'ять місяців, з лютого 2025 року. Справа у тому, що російська сторона системно просуває розширену концепцію «мир через бізнес», що цілком зацікавило Білий дім та американські корпорації, - пише видання</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_18-52-30.jpg" length="55534" type="image/jpeg"/>
       <pubDate>Sat, 29 Nov 2025 18:52:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⁉️Нам пропонують мирний план з</title>
+      <link>https://www.mandarinai.lt/post/84144</link>
+      <description>⁉️Нам пропонують мирний план за схожим сценарієм. Перемир'я між Ізраїлем і ХАМАС Трамп вважає своєю найбільшою геополітичною перемогою і обіцяє так само примирити нас з російськими терористами. 
+
+Яка ціна крихкого миру на Близькому Сході і чому Ізраїль закриває очі на явну підтримку Кремлем ХАМАС та жодного разу офіційно не засудив російську агресію в Україні.
+
+Ми знайшли відповіді. Документальний фільм «Дуже Близький Схід». Варто подивитися аби нагадати собі, як влаштований світ.
+
+https://youtu.be/T-u3beMEUk4?si=PQlVVk33g9BZKjCM</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_19-48-58.jpg" length="62456" type="image/jpeg"/>
+      <pubDate>Sat, 29 Nov 2025 19:48:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
