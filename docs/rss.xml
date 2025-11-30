@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 14:08:26 +0000</lastBuildDate>
-    <item>
-      <title>❗️Наступного тижня на Зеленськ</title>
-      <link>https://www.mandarinai.lt/post/84159</link>
-      <description>❗️Наступного тижня на Зеленського США будуть тиснути набагато сильніше, щоб він уклав угоду про врегулювання війни в Україні, – The Washington Post</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_08-53-29.jpg" length="89854" type="image/jpeg"/>
-      <pubDate>Sun, 30 Nov 2025 08:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф вночі вдарила по Краматор</title>
-      <link>https://www.mandarinai.lt/post/84160</link>
-      <description>⚡️рф вночі вдарила по Краматорську з РСЗВ "Смерч".
-Одна людина отримала поранення. В місті спалахнули пожежі, які наразі ліквідовані</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_08-58-55.jpg" length="67434" type="image/jpeg"/>
-      <pubDate>Sun, 30 Nov 2025 08:58:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Nov 2025 15:08:30 +0000</lastBuildDate>
     <item>
       <title>🤡 Cпецпредставник путіна Дмитр</title>
       <link>https://www.mandarinai.lt/post/84162</link>
@@ -110,6 +95,25 @@ https://youtu.be/T-u3beMEUk4?si=PQlVVk33g9BZKjCM</description>
       <description>В США вже розпочалася зустріч української делегації з американською стороною щодо мирних пропозицій, — Умєров</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_13-54-11.jpg" length="43863" type="image/jpeg"/>
       <pubDate>Sun, 30 Nov 2025 13:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️США хочуть вже сьогодні закр</title>
+      <link>https://www.mandarinai.lt/post/84175</link>
+      <description>❗️США хочуть вже сьогодні закрити всі суперечки щодо територій з Україною, щоб у вівторок передати план путіну, – Axios
+
+В рф очікують, що Віткофф з узгодженим планом приїде до москви десь 4-5 грудня</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_14-24-39.jpg" length="141941" type="image/jpeg"/>
+      <pubDate>Sun, 30 Nov 2025 14:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полк «СКЕЛЯ» атакує окупантів </title>
+      <link>https://www.mandarinai.lt/post/84176</link>
+      <description>Полк «СКЕЛЯ» атакує окупантів в міській забудові Покровська дронами. 
+
+В місті зараз близько 300 російських військовослужбовців.
+
+Сьогодні росіяни провели 44 атаки на позиції українців в районі Покровська та сусідніх населених пунктів.</description>
+      <pubDate>Sun, 30 Nov 2025 14:42:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
