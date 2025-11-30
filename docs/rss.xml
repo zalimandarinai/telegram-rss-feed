@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 17:07:48 +0000</lastBuildDate>
-    <item>
-      <title>Повернувшись з українського по</title>
-      <link>https://www.mandarinai.lt/post/84169</link>
-      <description>Повернувшись з українського полону, російський військовий Сергій Ягушев розстріляв сімох співслужбовців та втік, - ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_12-45-26.jpg" length="117923" type="image/jpeg"/>
-      <pubDate>Sun, 30 Nov 2025 12:45:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ЗСУ не відійдуть з Донбасу, </title>
-      <link>https://www.mandarinai.lt/post/84171</link>
-      <description>‼️ЗСУ не відійдуть з Донбасу, навіть якщо надійде відповідний наказ, — як пише NBC News, про це заявили українські військові, які перебувають на цьому напрямку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_12-54-07.jpg" length="224930" type="image/jpeg"/>
-      <pubDate>Sun, 30 Nov 2025 12:54:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Nov 2025 18:12:28 +0000</lastBuildDate>
     <item>
       <title>Зустріч українського НРК, осна</title>
       <link>https://www.mandarinai.lt/post/84172</link>
@@ -93,6 +79,22 @@
       <description>Обличчя української делегації перед початком переговорів в Маямі не додають оптимізму. Перемовини будуть важкими. Тиск жорстким.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_16-42-37.jpg" length="212760" type="image/jpeg"/>
       <pubDate>Sun, 30 Nov 2025 16:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зустріч була позитивною, - Кис</title>
+      <link>https://www.mandarinai.lt/post/84184</link>
+      <description>Зустріч була позитивною, - Кислиця
+
+📝 «Це був гарний початок поточної зустрічі. Дуже захоплива та поки що конструктивна. Тепла атмосфера, що сприяє потенційному прогресивному результату. Чудове керівництво Марко Рубіо. Як і в Женеві, я ціную підхід Джареда Кушнера та те, як він викладає своє бачення».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_17-30-29.jpg" length="34692" type="image/jpeg"/>
+      <pubDate>Sun, 30 Nov 2025 17:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Американці та українці обгов</title>
+      <link>https://www.mandarinai.lt/post/84185</link>
+      <description>‼️Американці та українці обговорюють графік виборів в Україні, можливість обміну територіями між рф та Україною, — джерела WSJ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_17-44-20.jpg" length="134597" type="image/jpeg"/>
+      <pubDate>Sun, 30 Nov 2025 17:44:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
