@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 06:14:02 +0000</lastBuildDate>
-    <item>
-      <title>Окупанти ще не відмовились від</title>
-      <link>https://www.mandarinai.lt/post/84138</link>
-      <description>Окупанти ще не відмовились від РСЗВ на Покровському напрямку, але після того, як дрони 55-ої ОАБР підсмажили їм БМ-21 «Град», напевно, змінять свій погляд на ситуацію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-29_16-31-46.mp4" length="10541264" type="video/mp4"/>
-      <pubDate>Sat, 29 Nov 2025 16:31:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>💩рф витратить на війну з Украї</title>
-      <link>https://www.mandarinai.lt/post/84139</link>
-      <description>💩рф витратить на війну з Україною щонайменше $166 млрд у 2026 році: путін підписав закон про бюджет. 
-
-За даними росЗМІ, це третина всього бюджету росії на рік і, ймовірно, найбільші військові витрати з часів срср. При цьому рф скоротила соціальні витрати і планує суттєвоипідвищити податки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-29_16-59-57.jpg" length="66808" type="image/jpeg"/>
-      <pubDate>Sat, 29 Nov 2025 16:59:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Nov 2025 07:08:38 +0000</lastBuildDate>
     <item>
       <title>ЖК «Комфорт Таун» в Києві. Нас</title>
       <link>https://www.mandarinai.lt/post/84140</link>
@@ -94,9 +78,23 @@ https://youtu.be/T-u3beMEUk4?si=PQlVVk33g9BZKjCM</description>
     <item>
       <title>💥🔥Окупована Донеччина зустріча</title>
       <link>https://www.mandarinai.lt/post/84151</link>
-      <description>💥🔥Окупована Донеччина зустрічає дрони свободи</description>
+      <description>💥🔥Окупована Донеччина зустрічає добрі дрони</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-29_23-00-48.mp4" length="284059" type="video/mp4"/>
       <pubDate>Sat, 29 Nov 2025 23:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росія наразі має достатньо з</title>
+      <link>https://www.mandarinai.lt/post/84154</link>
+      <description>❗️Росія наразі має достатньо засобів ураження, щоб проводити масовані атаки по Україні 1-2 рази на тиждень, — начальник управління комунікацій командування ПС Юрій Ігнат</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_06-46-55.jpg" length="47790" type="image/jpeg"/>
+      <pubDate>Sun, 30 Nov 2025 06:46:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна людина загинула, п'ятеро </title>
+      <link>https://www.mandarinai.lt/post/84155</link>
+      <description>Одна людина загинула, п'ятеро постраждали. В атакованому рф вночі будинку у Вишгороді вщент вигоріли квартири з 1 по 6 поверх.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-30_07-01-04.mp4" length="1123919" type="video/mp4"/>
+      <pubDate>Sun, 30 Nov 2025 07:01:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
