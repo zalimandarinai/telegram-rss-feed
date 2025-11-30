@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 21:07:44 +0000</lastBuildDate>
-    <item>
-      <title>Україна залишиться незалежною </title>
-      <link>https://www.mandarinai.lt/post/84178</link>
-      <description>Україна залишиться незалежною та суверенною, — обіцяє держсекретар Рубіо українській делегації на зустрічі в Маямі
-
-💬 «Йдеться не лише про зупинку війни. Важливо, щоб її завершення створило механізм і шлях у майбутнє, який забезпечить українцям незалежність і суверенітет. Не просто відбудову, а вхід у період значного економічного зростання».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3653.MP4" length="14814488" type="video/mp4"/>
-      <pubDate>Sun, 30 Nov 2025 15:50:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Nov 2025 22:08:41 +0000</lastBuildDate>
     <item>
       <title>‼️росія зараз  готова припинит</title>
       <link>https://www.mandarinai.lt/post/84179</link>
@@ -98,6 +89,15 @@
 Віримо?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-30_20-05-00.mp4" length="371527" type="video/mp4"/>
       <pubDate>Sun, 30 Nov 2025 20:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росія отримує перевагу в бит</title>
+      <link>https://www.mandarinai.lt/post/84192</link>
+      <description>❗️росія отримує перевагу в битві дронів. Українські підрозділи логістики та безпілотників зараз зазнають більших втрат, ніж піхота на передовій, - The Wall Street Journal.
+
+Видання підкреслює, що однією з причин форсування мирних угод з боку США стала російська перевага у сфері дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_21-20-07.jpg" length="199264" type="image/jpeg"/>
+      <pubDate>Sun, 30 Nov 2025 21:20:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
