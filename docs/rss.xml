@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 19:12:18 +0000</lastBuildDate>
-    <item>
-      <title>‼️Європейська коаліція заверши</title>
-      <link>https://www.mandarinai.lt/post/84235</link>
-      <description>‼️Європейська коаліція завершила роботу над «гарантіями безпеки» для України і має намір обговорити їх із США, — Макрон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_15-51-15.jpg" length="73444" type="image/jpeg"/>
-      <pubDate>Mon, 01 Dec 2025 15:51:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф каже, що захопила Куп'янс</title>
-      <link>https://www.mandarinai.lt/post/84236</link>
-      <description>⚡️рф каже, що захопила Куп'янськ, але насправді ми майже зачистили його, — Зеленський
-
-Нагадаємо, що путіну минулого тижня доповіли, що місто захоплено військами рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_15-54-42.jpg" length="140490" type="image/jpeg"/>
-      <pubDate>Mon, 01 Dec 2025 15:54:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 20:08:54 +0000</lastBuildDate>
     <item>
       <title>Двоє юнаків. Один престол. Одн</title>
       <link>https://www.mandarinai.lt/post/84237</link>
@@ -107,6 +91,22 @@ https://rvv.com.ua/product/kulgavecz-istorychnyj-roman-z-11-stolittya-mariya-buk
 Сторони також торкнулися заморожених російських активів, гарантій безпеки для України та проведення в ній виборів, однак ознак того, що за найскладнішими питаннями було досягнуто прориву, немає, зазначив джерело каналу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_19-00-31.jpg" length="88720" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 19:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸Адміністрація Трампа дуже оп</title>
+      <link>https://www.mandarinai.lt/post/84251</link>
+      <description>🇺🇸Адміністрація Трампа дуже оптимістично оцінює шанси на угоду щодо завершення війни в Україні, - Білий дім</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_19-53-17.jpg" length="42870" type="image/jpeg"/>
+      <pubDate>Mon, 01 Dec 2025 19:53:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Станом на цей момент окупан</title>
+      <link>https://www.mandarinai.lt/post/84252</link>
+      <description>💬 «Станом на цей момент окупанти змогли інфільтруватись через українські позиції, але частина міста на правому березі річки Вовча під українськими військовими», - 57-а ОМПБР
+
+З інших джерел маємо інформацію про те, що більша частина Вовчанська під контролем російських окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_20-05-05.jpg" length="36013" type="image/jpeg"/>
+      <pubDate>Mon, 01 Dec 2025 20:05:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
