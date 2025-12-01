@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 05:19:11 +0000</lastBuildDate>
-    <item>
-      <title>Обличчя української делегації </title>
-      <link>https://www.mandarinai.lt/post/84181</link>
-      <description>Обличчя української делегації перед початком переговорів в Маямі не додають оптимізму. Перемовини будуть важкими. Тиск жорстким.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_16-42-37.jpg" length="212760" type="image/jpeg"/>
-      <pubDate>Sun, 30 Nov 2025 16:42:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 06:16:46 +0000</lastBuildDate>
     <item>
       <title>Зустріч була позитивною, - Кис</title>
       <link>https://www.mandarinai.lt/post/84184</link>
@@ -96,6 +89,17 @@
       <description>❗️В Україні є серйозні проблеми. У них є корупційна ситуація, яка не йде їм на користь. Але є хороший шанс, що ми зможемо домовитися, — Трамп</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-30_22-39-12.mp4" length="3283135" type="video/mp4"/>
       <pubDate>Sun, 30 Nov 2025 22:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росія готує екологічну катас</title>
+      <link>https://www.mandarinai.lt/post/84194</link>
+      <description>❗️росія готує екологічну катастрофу у Херсоні з наслідками для країн ЄС – «24 Канал» стверджує, що отримали перехоплений бойовий наказ, згідно з яким рф готується до посилення воєнних злочинів. 
+
+Якщо очисні споруди знищать — забруднення піде в Дніпро й Чорне море, і це вдарить не лише по рибі, а й по країнах НАТО/ЄС.
+
+За словами видання, наслідки якої відчують на собі Туреччина, Румунія та Болгарія</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_05-57-04.jpg" length="57269" type="image/jpeg"/>
+      <pubDate>Mon, 01 Dec 2025 05:57:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
