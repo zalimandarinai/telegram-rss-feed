@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 13:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 14:11:01 +0000</lastBuildDate>
     <item>
       <title>росіяни вбили співробітника ко</title>
       <link>https://www.mandarinai.lt/post/84209</link>
@@ -90,6 +90,17 @@
       <description>❗️Ворог просунувся у Вовчанську, поблизу Серебрянки, Дачного та Рівнопілля, - DeepState.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_12-59-08.jpg" length="43518" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 12:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬російські БПЛА тепер можуть з</title>
+      <link>https://www.mandarinai.lt/post/84224</link>
+      <description>🤬російські БПЛА тепер можуть запускати ракети
+
+Сьогодні вперше рф застосувала безпілотник із керованою ракетою повітря-повітря Р-60
+
+Ворог намагається використати це для знищення вертольотів і літаків тактичної авіації, які полюють за шахедами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_13-53-28.jpg" length="350237" type="image/jpeg"/>
+      <pubDate>Mon, 01 Dec 2025 13:53:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
