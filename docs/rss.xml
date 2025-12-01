@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 08:15:41 +0000</lastBuildDate>
-    <item>
-      <title>‼️Перемовини між США та Україн</title>
-      <link>https://www.mandarinai.lt/post/84190</link>
-      <description>‼️Перемовини між США та Україною завершилися, — CNN
-
-За інформацією видання, зустріч була жорсткою, але конструктивною. Делегації обговорили низку «найчутливіших питань», які мають ключове значення для врегулювання війни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_19-50-40.jpg" length="161479" type="image/jpeg"/>
-      <pubDate>Sun, 30 Nov 2025 19:50:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Ми не просто хочемо покласти</title>
-      <link>https://www.mandarinai.lt/post/84191</link>
-      <description>⚡️Ми не просто хочемо покласти край війні, ми також прагнемо допомогти Україні здобути вічну безпеку. Щоб вона більше ніколи не зіткнулася з новим вторгненням, — Рубіо
-
-Віримо?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-11-30_20-05-00.mp4" length="371527" type="video/mp4"/>
-      <pubDate>Sun, 30 Nov 2025 20:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️росія отримує перевагу в бит</title>
-      <link>https://www.mandarinai.lt/post/84192</link>
-      <description>❗️росія отримує перевагу в битві дронів. Українські підрозділи логістики та безпілотників зараз зазнають більших втрат, ніж піхота на передовій, - The Wall Street Journal.
-
-Видання підкреслює, що однією з причин форсування мирних угод з боку США стала російська перевага у сфері дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-11-30_21-20-07.jpg" length="199264" type="image/jpeg"/>
-      <pubDate>Sun, 30 Nov 2025 21:20:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 09:16:27 +0000</lastBuildDate>
     <item>
       <title>❗️В Україні є серйозні проблем</title>
       <link>https://www.mandarinai.lt/post/84193</link>
@@ -97,6 +70,15 @@
       <description>рф атакувала енергоб'єкт на Чернігівщині, поранені двоє жінок, — ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_07-52-34.jpg" length="96522" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 07:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни вбили співробітника ко</title>
+      <link>https://www.mandarinai.lt/post/84209</link>
+      <description>росіяни вбили співробітника компанії Fire Point - виробника дронів і ракет "Фламінго" - під час атаки Вишгорода на Київщині.
+
+Його сім'я у важкому стані в лікарні, - повідомив головний конструктор компанії Денис Штілерман.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_08-46-27.jpg" length="68348" type="image/jpeg"/>
+      <pubDate>Mon, 01 Dec 2025 08:46:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
