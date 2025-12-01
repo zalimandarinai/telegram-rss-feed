@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 10:12:09 +0000</lastBuildDate>
-    <item>
-      <title>❗️росія готує екологічну катас</title>
-      <link>https://www.mandarinai.lt/post/84194</link>
-      <description>❗️росія готує екологічну катастрофу у Херсоні з наслідками для країн ЄС – «24 Канал» стверджує, що отримали перехоплений бойовий наказ, згідно з яким рф готується до посилення воєнних злочинів. 
-
-Якщо очисні споруди знищать — забруднення піде в Дніпро й Чорне море, і це вдарить не лише по рибі, а й по країнах НАТО/ЄС.
-
-За словами видання, наслідки якої відчують на собі Туреччина, Румунія та Болгарія</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_05-57-04.jpg" length="57269" type="image/jpeg"/>
-      <pubDate>Mon, 01 Dec 2025 05:57:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Дуже жвавий ранок у російсько</title>
-      <link>https://www.mandarinai.lt/post/84196</link>
-      <description>💥Дуже жвавий ранок у російському Каспійську. БПЛА летять в бік суднобудівного заводу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-01_06-28-12.mp4" length="1375783" type="video/mp4"/>
-      <pubDate>Mon, 01 Dec 2025 06:28:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 11:09:09 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🇺🇦 На переговорах у Флориді </title>
       <link>https://www.mandarinai.lt/post/84199</link>
@@ -79,6 +61,34 @@
       <description>❗️Трьох людей рашисти вбили у Дніпрі посеред дня, також відомо про восьмеро постраждалих, за даними ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-01_10-08-25.mp4" length="859822" type="video/mp4"/>
       <pubDate>Mon, 01 Dec 2025 10:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар російських вбивць по Дніп</title>
+      <link>https://www.mandarinai.lt/post/84213</link>
+      <description>Удар російських вбивць по Дніпру. 10 ранку, люди їдуть на роботу. Наразі відомо про трьох загиблих</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-01_10-14-05.mp4" length="527286" type="video/mp4"/>
+      <pubDate>Mon, 01 Dec 2025 10:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Розпочалася зустріч Зеленськог</title>
+      <link>https://www.mandarinai.lt/post/84216</link>
+      <description>Розпочалася зустріч Зеленського і Макрона в Єлисейському палаці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_10-25-37.jpg" length="75445" type="image/jpeg"/>
+      <pubDate>Mon, 01 Dec 2025 10:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪Публікують перші відео перехв</title>
+      <link>https://www.mandarinai.lt/post/84217</link>
+      <description>💪Публікують перші відео перехвату реактивної "Герани-3" українським дроном-перехватчиком Sting</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-01_10-29-37.mp4" length="1356153" type="video/mp4"/>
+      <pubDate>Mon, 01 Dec 2025 10:29:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>📝 «Долучайся до Руху опору ССО</title>
+      <link>https://www.mandarinai.lt/post/84218</link>
+      <description>📝 «Долучайся до Руху опору ССО ЗСУ на opir.org.ua », - Сили Спеціальних операцій, які контролюють рух опору на окупованих територіях, показали підпали релейних шаф та локомотивів російської залізниці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3672.MP4" length="15142384" type="video/mp4"/>
+      <pubDate>Mon, 01 Dec 2025 10:55:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
