@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 07:12:46 +0000</lastBuildDate>
-    <item>
-      <title>🔥Побачити Покровськ і Zдохнути</title>
-      <link>https://www.mandarinai.lt/post/84246</link>
-      <description>🔥Побачити Покровськ і Zдохнути. Сили безпілотних систем активно поповнють цвинтарі русні навколо Покровська</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_18-26-18.jpg" length="135335" type="image/jpeg"/>
-      <pubDate>Mon, 01 Dec 2025 18:26:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 08:14:36 +0000</lastBuildDate>
     <item>
       <title>За результатами переговорів ам</title>
       <link>https://www.mandarinai.lt/post/84250</link>
@@ -40,13 +33,6 @@
       <pubDate>Mon, 01 Dec 2025 20:05:05 +0000</pubDate>
     </item>
     <item>
-      <title>🔥💥🔥Успішно атакована нафтобаза</title>
-      <link>https://www.mandarinai.lt/post/84254</link>
-      <description>🔥💥🔥Успішно атакована нафтобаза в Лівнах Орловської області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-02_05-29-00.mp4" length="2223800" type="video/mp4"/>
-      <pubDate>Tue, 02 Dec 2025 05:29:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Група русні забігла в центр По</title>
       <link>https://www.mandarinai.lt/post/84255</link>
       <description>Група русні забігла в центр Покровська аби поспіхом знятися зі своєю ганчіркою біля будівлі університету. Це відео пропагандисти використовують, як доказ взяття під контроль всього Покровська. На відео зрозуміло, що відбувається насправді.</description>
@@ -61,11 +47,30 @@
       <pubDate>Tue, 02 Dec 2025 06:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>💥русня повідомляє, що танкер M</title>
+      <title>💥російський танкер Midvolga 2,</title>
       <link>https://www.mandarinai.lt/post/84258</link>
-      <description>💥русня повідомляє, що танкер Midvolga 2, що рухався з росії в Грузію з нафтою, був атакований на відстані 80 миль від узбережжя Туреччини,</description>
+      <description>💥російський танкер Midvolga 2, що рухався з росії в Грузію з нафтою, був атакований на відстані 80 миль від узбережжя Туреччини,</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-02_07-02-38.jpg" length="58049" type="image/jpeg"/>
       <pubDate>Tue, 02 Dec 2025 07:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ рф завдала масованого дроно</title>
+      <link>https://www.mandarinai.lt/post/84260</link>
+      <description>❗️ рф завдала масованого дронового удару по півдню Одещини. Під прицілом знову об’єкти цивільної та енергетичної інфраструктури, - ОВА
+
+Внаслідок атаки постраждав енергетичний об’єкт, приватні та адмінбудівлі
+Критична інфраструктура тимчасово працює на генераторах. 
+
+Розгорнуто 11 пунктів незламності</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-02_07-39-19.jpg" length="146567" type="image/jpeg"/>
+      <pubDate>Tue, 02 Dec 2025 07:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥💥🔥Успішно атакована нафтобаза</title>
+      <link>https://www.mandarinai.lt/post/84261</link>
+      <description>🔥💥🔥Успішно атакована нафтобаза в Лівнах Орловської області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-02_07-40-41.mp4" length="2224332" type="video/mp4"/>
+      <pubDate>Tue, 02 Dec 2025 07:40:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
