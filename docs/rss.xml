@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 06:15:52 +0000</lastBuildDate>
-    <item>
-      <title>Україна та ЄС запускають нову </title>
-      <link>https://www.mandarinai.lt/post/84244</link>
-      <description>Україна та ЄС запускають нову грантову програму для виробництва дронів-перехоплювачів
-
-Започаткована програма EU4UA Defence Tech має фонд у розмірі €3,3 млн. Про це повідомив віцепрем'єр-міністр і міністр цифрової трансформації Михайло Федоров.
-
-Ця ініціатива є першою грантовою програмою ЄС, спрямованою на підтримку українських оборонних інновацій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-01_17-34-12.jpg" length="36488" type="image/jpeg"/>
-      <pubDate>Mon, 01 Dec 2025 17:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Так сьогодні рятували постражд</title>
-      <link>https://www.mandarinai.lt/post/84245</link>
-      <description>Так сьогодні рятували постраждалих від удару російських вбивць по Дніпру</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-01_17-40-53.mp4" length="1874964" type="video/mp4"/>
-      <pubDate>Mon, 01 Dec 2025 17:40:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 07:12:46 +0000</lastBuildDate>
     <item>
       <title>🔥Побачити Покровськ і Zдохнути</title>
       <link>https://www.mandarinai.lt/post/84246</link>
@@ -77,6 +59,13 @@
       <description>💥🔥Вночі атаковано розташування полку Ахмат у місті Гудермес</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-02_06-14-09.mp4" length="959952" type="video/mp4"/>
       <pubDate>Tue, 02 Dec 2025 06:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥русня повідомляє, що танкер M</title>
+      <link>https://www.mandarinai.lt/post/84258</link>
+      <description>💥русня повідомляє, що танкер Midvolga 2, що рухався з росії в Грузію з нафтою, був атакований на відстані 80 миль від узбережжя Туреччини,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-02_07-02-38.jpg" length="58049" type="image/jpeg"/>
+      <pubDate>Tue, 02 Dec 2025 07:02:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
