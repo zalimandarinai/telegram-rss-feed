@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 19:11:05 +0000</lastBuildDate>
-    <item>
-      <title>Кількість загиблих під час обс</title>
-      <link>https://www.mandarinai.lt/post/84274</link>
-      <description>Кількість загиблих під час обстрілу Краматорська зросла до двох, рятувальники витягли тіло жінки з-під завалів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3705.MP4" length="8358627" type="video/mp4"/>
-      <pubDate>Tue, 02 Dec 2025 13:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Суд змінив ексрозвіднику Роман</title>
-      <link>https://www.mandarinai.lt/post/84275</link>
-      <description>Суд змінив ексрозвіднику Роману Червинскому цілодобовий домашній арешт на нічний, - адвокат.
-
-СБУ затримала Червінського у квітні 2023 року. 
-
-На ньому два звинувачення, за першим він нібито підставив під обстріл військовий аеродром, за другим вимагав хабар.
-
-У листопаді 2023 року видання WP заявило, що Червінський координував підрив «Nord Stream» та «Nord Stream-2». 
-
-Саме в його підрозділі служив Сергій Кузнєцов, якого з Італії екстрадували до Німеччині і зараз судять за підрив російських газопроводів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-02_15-29-33.jpg" length="166993" type="image/jpeg"/>
-      <pubDate>Tue, 02 Dec 2025 15:29:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 20:11:18 +0000</lastBuildDate>
     <item>
       <title>Віткофф та Дмитрієв на Червоні</title>
       <link>https://www.mandarinai.lt/post/84277</link>
@@ -143,15 +121,27 @@ https://m.youtube.com/watch?v=S6tD-3WXJ3Q</description>
       <pubDate>Tue, 02 Dec 2025 17:55:54 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️ЗСУ поліпшили позиції у Куп'</title>
+      <title>⚡️ЗСУ покращили позиції у Куп'</title>
       <link>https://www.mandarinai.lt/post/84288</link>
-      <description>⚡️ЗСУ поліпшили позиції у Куп'янську
+      <description>⚡️ЗСУ покращили позиції у Куп'янську
 
 Українські захисники покращили тактичне становище в Куп'янську та заблокували шляхи інфільтрації диверсійно-розвідувальних груп противника. Про це повідомив командувач Сирський.
 
 Він зазначив, що триває очищення території Куп’янська від російських окупантів, які досягли успіху лише в пропаганді. ЗСУ працюють над витісненням ворога з його плацдарму на північ від міста та з інших районів, де росіяни ще мають присутність</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-02_18-19-42.jpg" length="191270" type="image/jpeg"/>
       <pubDate>Tue, 02 Dec 2025 18:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росія не піде на поступки за</title>
+      <link>https://www.mandarinai.lt/post/84289</link>
+      <description>❗️росія не піде на поступки за трьома пунктами "мирного плану Трампа", - NBC News.
+
+До цих трьох пунктів входять:
+• Територія Донбасу.
+• Обмеження чисельності ЗСУ.
+• Визнання нових регіонів рф Сполученими Штатами та Європою як російських територій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-02_19-28-46.jpg" length="52993" type="image/jpeg"/>
+      <pubDate>Tue, 02 Dec 2025 19:28:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
