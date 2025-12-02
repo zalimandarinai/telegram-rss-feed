@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 22:09:02 +0000</lastBuildDate>
-    <item>
-      <title>❗️США призупинили постачання о</title>
-      <link>https://www.mandarinai.lt/post/84280</link>
-      <description>❗️США призупинили постачання окремих видів озброєння Україні, стверджує The Atlantic, цитуючи генерального інспектора німецької армії.
-
-Генінспектор Бундесверу генерал Крістіан Фройдінг розповів, що раніше міг «удень і вночі» контактувати з американськими оборонними чиновниками, але зараз контакт між ними фактично зник.
-
-Адміністрація Трампа не попередила Німеччину про рішення тимчасово призупинити постачання окремих видів озброєння Україні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-02_16-20-03.jpg" length="103931" type="image/jpeg"/>
-      <pubDate>Tue, 02 Dec 2025 16:20:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 23:08:51 +0000</lastBuildDate>
     <item>
       <title>⁉️Нам пропонують мирний план з</title>
       <link>https://www.mandarinai.lt/post/84282</link>
@@ -134,6 +123,19 @@ https://m.youtube.com/watch?v=S6tD-3WXJ3Q</description>
       <description>Зустріч Віткоффа і Кушнера з путіним завершилась, вона тривала майже 5 годин</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3728.MP4" length="7637831" type="video/mp4"/>
       <pubDate>Tue, 02 Dec 2025 21:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Компромісного варіанту плану </title>
+      <link>https://www.mandarinai.lt/post/84294</link>
+      <description>«Компромісного варіанту плану щодо України поки немає: деякі американські напрацювання прийнятні для рф, деякі — не підходять», — Ушаков
+
+Відомо, що Москва отримала ще чотири документи крім початкового «мирного плану Трампа» на 28 пунктів.
+
+На зустрічі обговорювали суть плану США щодо врегулювання, а не конкретні пропозиції. Також обговорювали перспективи економічної взаємодії РФ та США.
+
+Ушаков заявив, що можливість зустрічі путіна і Трампа «буде залежати від того, який прогрес буде досягнутий на шляху врегулювання».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-02_22-25-10.mp4" length="1607921" type="video/mp4"/>
+      <pubDate>Tue, 02 Dec 2025 22:25:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
