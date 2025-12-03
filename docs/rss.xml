@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 17:13:21 +0000</lastBuildDate>
-    <item>
-      <title>💥В росії знову підірвали нафто</title>
-      <link>https://www.mandarinai.lt/post/84311</link>
-      <description>💥В росії знову підірвали нафтопровід «Дружба», який жене російську нафту до Угорщини. - ГУР</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-03_10-14-20.mp4" length="465896" type="video/mp4"/>
-      <pubDate>Wed, 03 Dec 2025 10:14:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 18:14:46 +0000</lastBuildDate>
     <item>
       <title>❗️ Запорізький напрямок. Вперш</title>
       <link>https://www.mandarinai.lt/post/84312</link>
@@ -140,6 +133,13 @@ https://rvv.com.ua/product/kopiyavydatni-moreplavczi-komplekt-treh-knyg-seriyi-m
       <description>🤬Влучання балістикою в адміністративну будівлю Кривого Рогу. Багато пошкоджених багатоповерхівок, є постраждалі — Рада оборони міста</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-03_16-50-16.mp4" length="677100" type="video/mp4"/>
       <pubDate>Wed, 03 Dec 2025 16:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Моторошний момент удару баліст</title>
+      <link>https://www.mandarinai.lt/post/84326</link>
+      <description>Моторошний момент удару балістикою по Кривому Рогу: травмовано 4 людей, серед них трирічна дівчинка, — ОВА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-03_17-55-08.mp4" length="414209" type="video/mp4"/>
+      <pubDate>Wed, 03 Dec 2025 17:55:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
