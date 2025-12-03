@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 14:10:44 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Турецька компанія Besiktas </title>
-      <link>https://www.mandarinai.lt/post/84304</link>
-      <description>❗️ Турецька компанія Besiktas припиняє суднові операції з рф після пошкодження її танкера біля берегів Сенегалу, — Reuters
-
-У компанії підкреслили, що завжди дотримували міжнародні санкційні режими та ціновий потолок G7/ЕС, однак ситуація з безпекою стала "неприйнятною" для суден та екіпажів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-03_07-57-13.jpg" length="101952" type="image/jpeg"/>
-      <pubDate>Wed, 03 Dec 2025 07:57:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 15:11:08 +0000</lastBuildDate>
     <item>
       <title>Американці «грають» у путінськ</title>
       <link>https://www.mandarinai.lt/post/84305</link>
@@ -124,6 +115,13 @@
       <description>На Північному напрямку бійці ДПСУ знищили приховану вогневу точку з кулеметом ДШК та кілька автомобілів противника.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3739.MP4" length="11217449" type="video/mp4"/>
       <pubDate>Wed, 03 Dec 2025 13:02:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Український дрон ефектно роз</title>
+      <link>https://www.mandarinai.lt/post/84320</link>
+      <description>💥🔥Український дрон ефектно розніс цілий під'їзд, який зайняв ворог на Донецькому напрямку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-03_14-29-23.mp4" length="738368" type="video/mp4"/>
+      <pubDate>Wed, 03 Dec 2025 14:29:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
