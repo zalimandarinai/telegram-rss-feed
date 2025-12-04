@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 10:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 11:09:45 +0000</lastBuildDate>
     <item>
       <title>💥Вечірній Орел на зв'язку. Рез</title>
       <link>https://www.mandarinai.lt/post/84335</link>
@@ -109,6 +109,13 @@
 
 Сьогодні День ракетних військ та артилерії Збройних Сил України.</description>
       <pubDate>Thu, 04 Dec 2025 09:57:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Троє людей поранено під час </title>
+      <link>https://www.mandarinai.lt/post/84351</link>
+      <description>🤬 Троє людей поранено під час нічного обстрілу Краматорську і Слов'янську. Рф застгсувала ФАБи, дрони, артилерію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-04_10-28-39.jpg" length="157412" type="image/jpeg"/>
+      <pubDate>Thu, 04 Dec 2025 10:28:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
