@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 11:09:45 +0000</lastBuildDate>
-    <item>
-      <title>💥Вечірній Орел на зв'язку. Рез</title>
-      <link>https://www.mandarinai.lt/post/84335</link>
-      <description>💥Вечірній Орел на зв'язку. Результат уточнюється.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-04_00-16-38.mp4" length="1102994" type="video/mp4"/>
-      <pubDate>Thu, 04 Dec 2025 00:16:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Dec 2025 12:19:13 +0000</lastBuildDate>
     <item>
       <title>💥У Ставропольському краї хіміч</title>
       <link>https://www.mandarinai.lt/post/84337</link>
@@ -113,9 +106,22 @@
     <item>
       <title>🤬 Троє людей поранено під час </title>
       <link>https://www.mandarinai.lt/post/84351</link>
-      <description>🤬 Троє людей поранено під час нічного обстрілу Краматорську і Слов'янську. Рф застгсувала ФАБи, дрони, артилерію.</description>
+      <description>🤬 Троє людей поранено під час нічного обстрілу Краматорську і Слов'янську. рф застосувала ФАБи, дрони, артилерію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-04_10-28-39.jpg" length="157412" type="image/jpeg"/>
       <pubDate>Thu, 04 Dec 2025 10:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>😉Авіакомпанії Європи розпочали</title>
+      <link>https://www.mandarinai.lt/post/84352</link>
+      <description>😉Авіакомпанії Європи розпочали підготовку до відновлення рейсів в Україну, — Financial Times
+
+На тлі переговорів «Wizz Air», «Ryanair» та «EasyJet» готують плани щодо відновлення авіарейсів.
+
+«Ryanair» повідомили, що можуть відновити польоти протягом двох тижнів після укладення будь-якої мирної угоди.
+
+🏆Оптимісти року</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-04_11-44-09.jpg" length="211340" type="image/jpeg"/>
+      <pubDate>Thu, 04 Dec 2025 11:44:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
