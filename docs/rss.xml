@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 08:14:44 +0000</lastBuildDate>
-    <item>
-      <title>💥В окупованому Донецьку чергов</title>
-      <link>https://www.mandarinai.lt/post/84332</link>
-      <description>💥В окупованому Донецьку черговий блекаут через атаку дронів
-
-Як повідомляють місцеві пабліки, понад 50 безпілотників атакують Донецьк та Макіївку. Наразі частково знеструмлені Ворошиловський і Київський райони Донецька.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-03_20-43-27.mp4" length="771816" type="video/mp4"/>
-      <pubDate>Wed, 03 Dec 2025 20:43:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Dec 2025 09:13:52 +0000</lastBuildDate>
     <item>
       <title>💥Вечірній Орел на зв'язку. Рез</title>
       <link>https://www.mandarinai.lt/post/84335</link>
@@ -94,11 +85,22 @@
       <pubDate>Thu, 04 Dec 2025 07:48:22 +0000</pubDate>
     </item>
     <item>
-      <title>Частина українських дітей, вик</title>
-      <link>https://www.mandarinai.lt/post/84347</link>
-      <description>Частина українських дітей, викрадених росією, відправлена до військових таборів Північної Кореї, - журналіст Остап Яриш</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-04_08-09-37.jpg" length="121266" type="image/jpeg"/>
-      <pubDate>Thu, 04 Dec 2025 08:09:37 +0000</pubDate>
+      <title>❗️ Понад 100 збитих російських</title>
+      <link>https://www.mandarinai.lt/post/84348</link>
+      <description>❗️ Понад 100 збитих російських БПЛА за місяць, - бійці підрозділу ДПСУ «Фенікс» показали кілька яскравих перехоплень</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3760.MP4" length="22404116" type="video/mp4"/>
+      <pubDate>Thu, 04 Dec 2025 08:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡рф вивозить деяких викрадених</title>
+      <link>https://www.mandarinai.lt/post/84349</link>
+      <description>😡рф вивозить деяких викрадених українських дітей до Південної Кореї та утримує їх у військових таборах
+
+Про представник центру з прав людини Катерина Рашевська заявила у Сенаті США.
+
+Також вона підкреслила, що вже ідентифіковано 165 об'єктів на ТОТ та в росії, де дітей русифікують та мілітаризують</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-04_09-11-48.jpg" length="85760" type="image/jpeg"/>
+      <pubDate>Thu, 04 Dec 2025 09:11:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
