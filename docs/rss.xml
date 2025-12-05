@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 17:10:29 +0000</lastBuildDate>
-    <item>
-      <title>⚡️США можуть частково вийти з </title>
-      <link>https://www.mandarinai.lt/post/84406</link>
-      <description>⚡️США можуть частково вийти з НАТО до 2027 року, — Reuters
-
-Вашингтон вимагає, щоб Європа взяла на себе більшість звичайних оборонних функцій НАТО — від розвідки до ракет — до 2027-го року</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-05_11-57-29.jpg" length="125941" type="image/jpeg"/>
-      <pubDate>Fri, 05 Dec 2025 11:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Проїхати як? Ось «кабачок» ле</title>
-      <link>https://www.mandarinai.lt/post/84407</link>
-      <description>«Проїхати як? Ось «кабачок» лежить і там та х@йня лежить», - російський боєприпас, який не розірвався під час обстрілу в Херсоні, лежить просто на вулиці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3817.MP4" length="3323806" type="video/mp4"/>
-      <pubDate>Fri, 05 Dec 2025 12:04:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 18:12:22 +0000</lastBuildDate>
     <item>
       <title>Бійці бригади ДПСУ «Сталевий к</title>
       <link>https://www.mandarinai.lt/post/84409</link>
@@ -106,9 +90,18 @@
 🔗 Посилання на monobank-jar:
 https://send.monobank.ua/jar/xUDamoDLa
 
+✉️ PayPal: 26artillerydonate@gmail.com
+
 Вистоїмо тільки разом!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-05_16-29-34.mp4" length="7620077" type="video/mp4"/>
       <pubDate>Fri, 05 Dec 2025 16:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Окупований Алчевськ зустрічає</title>
+      <link>https://www.mandarinai.lt/post/84425</link>
+      <description>💥Окупований Алчевськ зустрічає добрі дрони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-05_17-31-32.mp4" length="656182" type="video/mp4"/>
+      <pubDate>Fri, 05 Dec 2025 17:31:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
