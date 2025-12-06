@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Dec 2025 20:09:33 +0000</lastBuildDate>
-    <item>
-      <title>🔥 Бійці ГУР знищили російський</title>
-      <link>https://www.mandarinai.lt/post/84476</link>
-      <description>🔥 Бійці ГУР знищили російський ЗРК "Бук" на окупованій частині Запорізької області
-
-Майстри спецпідрозділу ГУР "Примари" вистежили та завдали успішного удару по ворожому зенітно-ракетному комплексу "Бук-М3". 
-
-Дороговартісну систему ППО спалили на тимчасово окупованій території Запорізької області поблизу населеного пункту Святотроїцьке</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-06_13-52-21.mp4" length="2420199" type="video/mp4"/>
-      <pubDate>Sat, 06 Dec 2025 13:52:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Dec 2025 21:07:24 +0000</lastBuildDate>
     <item>
       <title>На Херсонську ТЕЦ за кілька дн</title>
       <link>https://www.mandarinai.lt/post/84477</link>
@@ -128,6 +117,15 @@
 Слава Україні, слава вам, наші Збройні Сили!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-06_19-53-21.jpg" length="104133" type="image/jpeg"/>
       <pubDate>Sat, 06 Dec 2025 19:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 "Мадяр" показав удари по Ряз</title>
+      <link>https://www.mandarinai.lt/post/84491</link>
+      <description>🔥 "Мадяр" показав удари по Рязанському НПЗ та металургійному комбінату в т.о. Алчевську.
+
+Рязанський НПЗ — один з найбільших російських нафтопереробних заводів, а на меткомбінаті на окупованій Луганщині виготовляють корпуси для снарядів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-06_20-14-32.mp4" length="4045947" type="video/mp4"/>
+      <pubDate>Sat, 06 Dec 2025 20:14:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
