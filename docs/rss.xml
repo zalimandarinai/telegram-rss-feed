@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 07:14:42 +0000</lastBuildDate>
-    <item>
-      <title>Момент прильоту по Печенігські</title>
-      <link>https://www.mandarinai.lt/post/84530</link>
-      <description>Момент прильоту по Печенігській дамбі на Харківщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-07_19-45-59.mp4" length="1245208" type="video/mp4"/>
-      <pubDate>Sun, 07 Dec 2025 19:45:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>😔Блекаут в Києві</title>
-      <link>https://www.mandarinai.lt/post/84532</link>
-      <description>😔Блекаут в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-07_20-20-14.jpg" length="88694" type="image/jpeg"/>
-      <pubDate>Sun, 07 Dec 2025 20:20:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 08:16:06 +0000</lastBuildDate>
     <item>
       <title>🇮🇹🇺🇦 Італія найближчими днями </title>
       <link>https://www.mandarinai.lt/post/84535</link>
@@ -96,6 +82,31 @@ https://m.youtube.com/watch?v=Kn29XFWpyp0
 Його команді пропозиція подобається. Але він її ще не читав. росія ж, навпаки, цілком згодна. росія, знаєте, росія, мабуть, воліла б мати всю країну, якщо чесно. Але росія, як я розумію, не заперечує. А от чи влаштовує це Зеленського — я не впевнений. Його команді пропозиція дуже подобається. Але він цього ще не прочитав.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-08_05-00-21.mp4" length="2018481" type="video/mp4"/>
       <pubDate>Mon, 08 Dec 2025 05:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили ППО знешкодили 131 зі 149</title>
+      <link>https://www.mandarinai.lt/post/84545</link>
+      <description>Сили ППО знешкодили 131 зі 149 ворожих цілей. 
+
+Російські війська атакували Україну ударними безпілотниками типу Shahed, Гербера та іншими. 
+
+Зафіксовано влучання 16 дронів на 11 локаціях, а також падіння уламків на 4 територіях</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-08_08-01-37.jpg" length="84285" type="image/jpeg"/>
+      <pubDate>Mon, 08 Dec 2025 08:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Катапульта російського бомбар</title>
+      <link>https://www.mandarinai.lt/post/84546</link>
+      <description>🔥Катапульта російського бомбардувальника утилізувала двох російських льотчиків. Так тримати!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-08_08-03-39.jpg" length="113953" type="image/jpeg"/>
+      <pubDate>Mon, 08 Dec 2025 08:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сім людей поранено внаслідок п</title>
+      <link>https://www.mandarinai.lt/post/84547</link>
+      <description>Сім людей поранено внаслідок прямого влучання російського дрону в багатоповерхівку в Охтирці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-08_08-12-42.mp4" length="1877770" type="video/mp4"/>
+      <pubDate>Mon, 08 Dec 2025 08:12:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
