@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 16:12:36 +0000</lastBuildDate>
-    <item>
-      <title>В Чернігові безпілотник сьогод</title>
-      <link>https://www.mandarinai.lt/post/84558</link>
-      <description>В Чернігові безпілотник сьогодні вибухнув поруч з житловим будинком. Обійшлось без жертв. Є поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-08_11-11-08.jpg" length="154427" type="image/jpeg"/>
-      <pubDate>Mon, 08 Dec 2025 11:11:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 17:11:24 +0000</lastBuildDate>
     <item>
       <title>Влучання в російський військов</title>
       <link>https://www.mandarinai.lt/post/84560</link>
@@ -164,6 +157,20 @@
 https://rvv.com.ua/product/vinnyczke-namisnycztvo-dekanat-rusko-katolyczkoyi-czerkvy-u-xviii-st-doslidzhennya-publikacziya-aktiv-vizytaczij-zinchenko-a-l-petrenko-o-s/</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-08_15-54-45.jpg" length="186524" type="image/jpeg"/>
       <pubDate>Mon, 08 Dec 2025 15:54:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬русня вгатила КАБом по житлов</title>
+      <link>https://www.mandarinai.lt/post/84574</link>
+      <description>🤬русня вгатила КАБом по житловому сектору в Краматорську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-08_16-27-52.mp4" length="277303" type="video/mp4"/>
+      <pubDate>Mon, 08 Dec 2025 16:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Ці дні можуть стати вирішал</title>
+      <link>https://www.mandarinai.lt/post/84575</link>
+      <description>‼️ Ці дні можуть стати вирішальними для України і всього світу, і ми маємо багато сильних козирів, — Мерц і Макрон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-08_16-29-56.jpg" length="156288" type="image/jpeg"/>
+      <pubDate>Mon, 08 Dec 2025 16:29:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
