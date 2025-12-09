@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 14:11:27 +0000</lastBuildDate>
-    <item>
-      <title>Селище Родинське. Один з насел</title>
-      <link>https://www.mandarinai.lt/post/84597</link>
-      <description>Селище Родинське. Один з населених пунктів, через які противник намагається замкнути кільце навколо Мирнограда. 
-
-Танк Т-72 бригади НГУ «Червона Калина» розбирає хату з ворожими штурмовиками.</description>
-      <pubDate>Tue, 09 Dec 2025 09:13:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 15:11:42 +0000</lastBuildDate>
     <item>
       <title>Розбився Ан-22 міноборони росі</title>
       <link>https://www.mandarinai.lt/post/84598</link>
@@ -118,6 +110,16 @@
 
 https://m.youtube.com/watch?v=Kn29XFWpyp0</description>
       <pubDate>Tue, 09 Dec 2025 13:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські штурмовики підняли </title>
+      <link>https://www.mandarinai.lt/post/84612</link>
+      <description>Українські штурмовики підняли синьо-жовтий прапор майже в центрі Покровська.
+
+Бійці 425-го полку «Скеля» ведуть бої на південь від залізничної лінії.
+
+Детальніше в репортажі BBC https://www.bbc.com/news/articles/cd6x3vv7y60o</description>
+      <pubDate>Tue, 09 Dec 2025 14:48:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
