@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 21:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Ворог вгатив дроном по АЗС пор</title>
-      <link>https://www.mandarinai.lt/post/84765</link>
-      <description>Ворог вгатив дроном по АЗС поруч з Харковом</description>
-      <pubDate>Fri, 12 Dec 2025 16:28:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Dec 2025 22:09:24 +0000</lastBuildDate>
     <item>
       <title>Рятувальники ДСНС зараз намага</title>
       <link>https://www.mandarinai.lt/post/84768</link>
@@ -78,6 +72,14 @@ https://www.wsj.com/world/europe/ukraine-russia-drone-attack-operation-spiderweb
 
 📝 Yegor Loginov на Facebook</description>
       <pubDate>Fri, 12 Dec 2025 20:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Запланована на завтра зустрі</title>
+      <link>https://www.mandarinai.lt/post/84779</link>
+      <description>❗️Запланована на завтра зустріч США, України та ЄС у Парижі не відбудеться, – RMF.
+
+Очікувалося, що на ній обговорюватимуть мирним план Трампа та правки, які внесли Україна і Європа. Раніше Трамп заявляв, що США візьмуть участь у переговорах, якщо бачитимуть доцільність</description>
+      <pubDate>Fri, 12 Dec 2025 21:28:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
