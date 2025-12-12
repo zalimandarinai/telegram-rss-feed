@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 02:45:14 +0000</lastBuildDate>
-    <item>
-      <title>Два негідника, одна мета - обк</title>
-      <link>https://www.mandarinai.lt/post/84717</link>
-      <description>Два негідника, одна мета - обкладинка останнього випуску Der Spiegel</description>
-      <pubDate>Thu, 11 Dec 2025 15:43:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Dec 2025 03:50:44 +0000</lastBuildDate>
     <item>
       <title>Десятки одиниць техніки, - рос</title>
       <link>https://www.mandarinai.lt/post/84720</link>
@@ -88,6 +82,12 @@
 
 Він зазначив, що вибори стануть можливими, якщо забезпечити безпеку, "і Америка може допомогти в цьому найбільше".</description>
       <pubDate>Thu, 11 Dec 2025 21:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Українські дрони атакували НП</title>
+      <link>https://www.mandarinai.lt/post/84732</link>
+      <description>💥Українські дрони атакували НПЗ "Славнефть-ЯНОС" у Ярославлі.</description>
+      <pubDate>Fri, 12 Dec 2025 03:23:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
