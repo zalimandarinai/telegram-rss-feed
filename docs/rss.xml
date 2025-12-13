@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 12:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 13:19:22 +0000</lastBuildDate>
     <item>
       <title>‼️Віткофф зустрінеться із Зеле</title>
       <link>https://www.mandarinai.lt/post/84791</link>
@@ -84,6 +84,14 @@
 
 Усіх пасажирів евакуювали та вивели на вулицю посеред поля, рух тимчасово зупинено</description>
       <pubDate>Sat, 13 Dec 2025 11:47:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Потяги «Київ — Ужгород» та «Ки</title>
+      <link>https://www.mandarinai.lt/post/84803</link>
+      <description>Потяги «Київ — Ужгород» та «Київ — Будапешт» також «замінували»
+
+Пасажирів евакуювали з вагонів після повідомлень про можливе мінування. На місці працюють відповідні служби, триває перевірка</description>
+      <pubDate>Sat, 13 Dec 2025 12:48:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
