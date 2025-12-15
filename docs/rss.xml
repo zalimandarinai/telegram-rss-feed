@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 05:16:15 +0000</lastBuildDate>
-    <item>
-      <title>⚡️⚡️Терміновий збір⚡️⚡️
-
-Крити</title>
-      <link>https://www.mandarinai.lt/post/84884</link>
-      <description>⚡️⚡️Терміновий збір⚡️⚡️
-
-Критично потрібен пікап для логістики та евакуації на Вовчанській напрямок для бійців "Форпост"
-
-🎯Ціль: 412 000.00 ₴
-
-🔗Посилання на банку
-https://send.monobank.ua/jar/A6RNB3D7kn
-
-💳Номер картки банки
-4874 1000 2277 3629
-
-Вистоїмо тільки разом!</description>
-      <pubDate>Sun, 14 Dec 2025 17:51:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 06:17:43 +0000</lastBuildDate>
     <item>
       <title>Зеленський відмовився від амбі</title>
       <link>https://www.mandarinai.lt/post/84885</link>
@@ -80,6 +60,12 @@ https://send.monobank.ua/jar/A6RNB3D7kn
       <link>https://www.mandarinai.lt/post/84893</link>
       <description>💥🔥Бєлгород: після влучання по ТЕЦ «Луч» місто частково залишається без світла</description>
       <pubDate>Sun, 14 Dec 2025 21:37:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Астраханський газопеперобний</title>
+      <link>https://www.mandarinai.lt/post/84896</link>
+      <description>💥🔥Астраханський газопеперобний завод та Ростовська ТЕЦ зустрілись вночі з добрими дронами.</description>
+      <pubDate>Mon, 15 Dec 2025 05:51:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
