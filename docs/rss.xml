@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 14:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 15:11:39 +0000</lastBuildDate>
     <item>
       <title>🤬 Угорщина заблокувала щорічну</title>
       <link>https://www.mandarinai.lt/post/85002</link>
@@ -86,6 +86,14 @@
       <link>https://www.mandarinai.lt/post/85014</link>
       <description>💥Епічний підрив будівлі з окупантами в Новопідгородньому на Дніпропетровщині</description>
       <pubDate>Wed, 17 Dec 2025 13:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 ЗСУ продемонстрували ефектні</title>
+      <link>https://www.mandarinai.lt/post/85015</link>
+      <description>🔥 ЗСУ продемонстрували ефектні кадри "зупинки" мотоштурму росіян під Покровськом
+
+Аеророзвідники 155 ОМБр зупинили декілька спроб прориву окупантів мотоциклетними групами на півдні та півночі Покровська.</description>
+      <pubDate>Wed, 17 Dec 2025 14:32:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
