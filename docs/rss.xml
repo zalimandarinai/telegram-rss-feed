@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 09:16:28 +0000</lastBuildDate>
-    <item>
-      <title>🗞️ Мирна угода може вступити в</title>
-      <link>https://www.mandarinai.lt/post/84986</link>
-      <description>🗞️ Мирна угода може вступити в силу вже навіть в березні або квітні, - так заявляє Berliner Zeitung.</description>
-      <pubDate>Tue, 16 Dec 2025 18:45:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 10:11:12 +0000</lastBuildDate>
     <item>
       <title>❗️росіяни захопили Серебрянку </title>
       <link>https://www.mandarinai.lt/post/84987</link>
@@ -114,6 +108,13 @@
 
 Вона також висловила впевненість, що Київ зміг би досягти швидкого прогресу, якщо Угорщина зніме своє вето.</description>
       <pubDate>Wed, 17 Dec 2025 06:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рашисти завдали удару КАБом по</title>
+      <link>https://www.mandarinai.lt/post/85003</link>
+      <description>Рашисти завдали удару КАБом по багатоповерховому будинку в Запоріжжі — на місці удару все вигоріло.
+Атака триває.</description>
+      <pubDate>Wed, 17 Dec 2025 09:55:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
