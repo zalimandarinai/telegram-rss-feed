@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 20:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 21:08:47 +0000</lastBuildDate>
     <item>
       <title>😡Це останній мирний рік для єв</title>
       <link>https://www.mandarinai.lt/post/85298</link>
@@ -148,6 +148,14 @@
 
 Стоїмо.</description>
       <pubDate>Wed, 24 Dec 2025 17:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Найбільший нафтопереробний зав</title>
+      <link>https://www.mandarinai.lt/post/85311</link>
+      <description>Найбільший нафтопереробний завод Індії відновив закупівлю російської нафти, — Bloomberg.
+
+Індійська компанія призупинила закупівлю в РФ у жовтні після того, як США запровадили санкції проти російських компаній «Роснефть» та «Лукойл».</description>
+      <pubDate>Wed, 24 Dec 2025 20:07:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
