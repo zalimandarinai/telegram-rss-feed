@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 16:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 17:08:03 +0000</lastBuildDate>
     <item>
       <title>Окупанти спробували знову вико</title>
       <link>https://www.mandarinai.lt/post/85297</link>
@@ -126,6 +126,22 @@
       <link>https://www.mandarinai.lt/post/85307</link>
       <description>Швейцарська влада передала Німеччині громадянина України, якого підозрюють у підготовці диверсій на замовлення росії, він діяв у складі групи щонайменше з трьох осіб.</description>
       <pubDate>Wed, 24 Dec 2025 16:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український літак МіГ-29МУ1 ск</title>
+      <link>https://www.mandarinai.lt/post/85308</link>
+      <description>Український літак МіГ-29МУ1 скидає французькі КАБи AASM HAMMER на спостережний пункт ворога поруч з переправою в Херсонській області.
+
+За 2025-ий рік для України французька компанія «Safran» випустила 1200 комплектів керованих авіабомб AASM HAMMER.
+
+Приблизно стільки, скільки росія скидає на територію України за десять днів.</description>
+      <pubDate>Wed, 24 Dec 2025 16:23:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Покровську 425-ий полк «Скел</title>
+      <link>https://www.mandarinai.lt/post/85309</link>
+      <description>В Покровську 425-ий полк «Скеля», який зміг застосувати танки Abrams для прориву до міста, повернувся до традиційних методів і колошматить окупантів, застосовуючи дрони.</description>
+      <pubDate>Wed, 24 Dec 2025 16:59:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
