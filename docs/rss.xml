@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Dec 2025 17:09:06 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Новошахтинськ. Черговий росі</title>
-      <link>https://www.mandarinai.lt/post/85322</link>
-      <description>💥🔥Новошахтинськ. Черговий російський НПЗ після зустрічи з повітряними санкціями. Схоже, ця пожежа надовго</description>
-      <pubDate>Thu, 25 Dec 2025 12:45:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🗿В російському єбанаріумі трен</title>
-      <link>https://www.mandarinai.lt/post/85323</link>
-      <description>🗿В російському єбанаріумі тренд - мілітаризовані ялинкові прикраси.</description>
-      <pubDate>Thu, 25 Dec 2025 12:50:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 18:14:05 +0000</lastBuildDate>
     <item>
       <title>Нелюди в різдвяний ранок масов</title>
       <link>https://www.mandarinai.lt/post/85324</link>
@@ -98,6 +86,12 @@
 
 Росіяни кончені нелюди.</description>
       <pubDate>Thu, 25 Dec 2025 16:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Генштаб підтвердив ураження м</title>
+      <link>https://www.mandarinai.lt/post/85338</link>
+      <description>💥Генштаб підтвердив ураження морського порту “Темрюк”, аеродрому "Майкоп" та ремонтного підрозділу ворога</description>
+      <pubDate>Thu, 25 Dec 2025 17:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
