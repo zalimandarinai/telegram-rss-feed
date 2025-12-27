@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Dec 2025 20:09:57 +0000</lastBuildDate>
-    <item>
-      <title>❗️💥  В Курській області прикор</title>
-      <link>https://www.mandarinai.lt/post/85443</link>
-      <description>❗️💥  В Курській області прикордонники-оператори БпЛА «Vampire» та FPV-дронів бригади «Сталевий Кордон» знищили чотири ворожі укриття, автомобіль, склад боєприпасів та позицію, з якої росіяни запускали дрони по Сумщині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4519.MP4" length="24391914" type="video/mp4"/>
-      <pubDate>Sat, 27 Dec 2025 16:04:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Росіяни вдарили по об'єктах "</title>
-      <link>https://www.mandarinai.lt/post/85444</link>
-      <description>😡Росіяни вдарили по об'єктах "Нафтогазу"
-
-"Росія знову б’є по газу і теплу, спеціально під морози. Маємо влучання у ТЕЦ Групи Нафтогаз та підприємства, що займаються видобутком газу. Аварійні бригади вже працюють", - зазначають у компанії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-27_16-10-59.jpg" length="74083" type="image/jpeg"/>
-      <pubDate>Sat, 27 Dec 2025 16:10:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚫 В Києві без світла понад 500</title>
-      <link>https://www.mandarinai.lt/post/85445</link>
-      <description>🚫 В Києві без світла понад 500000 сімей.
-
-🏭 Відновлення та стабілізація проблем зі світлом може зайняти до двох або навіть трьох днів.
-
-📝 «32 людини постраждали в Києві внаслідок ворожої атаки. В стаціонарах столичних медзакладів перебувають 11 госпіталізованих мешканців міста», - мер Кличко 
-
-📷 Reuters/Глеб Гараніч</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-27_16-18-52.jpg" length="69189" type="image/jpeg"/>
-      <pubDate>Sat, 27 Dec 2025 16:18:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Dec 2025 21:07:31 +0000</lastBuildDate>
     <item>
       <title>❗️❗️Треба (!) 2-3 дні, щоб ста</title>
       <link>https://www.mandarinai.lt/post/85446</link>
@@ -107,6 +78,20 @@
       <description>😡Шахед атакував житловий будинок в Одесі — на місці удару масштабна пожежа</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-27_19-50-13.mp4" length="1172643" type="video/mp4"/>
       <pubDate>Sat, 27 Dec 2025 19:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повідомлення кремля про захопл</title>
+      <link>https://www.mandarinai.lt/post/85459</link>
+      <description>Повідомлення кремля про захоплення міст Гуляйполе та Мирноград не підтверджуються фактами, — Генштаб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-27_20-30-17.jpg" length="130659" type="image/jpeg"/>
+      <pubDate>Sat, 27 Dec 2025 20:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Вчора США запустили по обʼєкт</title>
+      <link>https://www.mandarinai.lt/post/85460</link>
+      <description>👀Вчора США запустили по обʼєктам ІДІЛ в Нігерії 12 КР «Tomahawk» — кожна четверта ракета не здетонувала</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-27_20-51-08.mp4" length="741427" type="video/mp4"/>
+      <pubDate>Sat, 27 Dec 2025 20:51:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
