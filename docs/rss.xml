@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 20:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 21:08:30 +0000</lastBuildDate>
     <item>
       <title>🇺🇸Я щойно провів хорошу та дуж</title>
       <link>https://www.mandarinai.lt/post/85489</link>
@@ -125,7 +125,7 @@
       <description>‼️Після перемовин планується спільна пресконференція президентів.
 
 Планується, що Трамп та Зеленський разом зателефонують європейським лідерам. Після чого Трамп зателефонує путіну.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-28_20-09-22.jpg" length="167330" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-28_20-09-22.jpg" length="173792" type="image/jpeg"/>
       <pubDate>Sun, 28 Dec 2025 20:09:22 +0000</pubDate>
     </item>
   </channel>
