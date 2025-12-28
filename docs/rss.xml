@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 14:09:05 +0000</lastBuildDate>
-    <item>
-      <title>Зустріч Зеленського з Трампом </title>
-      <link>https://www.mandarinai.lt/post/85465</link>
-      <description>Зустріч Зеленського з Трампом перенесли на 2 години раніше, – Білий дім
-
-Вона відбудеться о 20:00 замість 22:00
-
-Зеленський вже прибув до США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-28_07-41-09.jpg" length="76013" type="image/jpeg"/>
-      <pubDate>Sun, 28 Dec 2025 07:41:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥У російській Сизрані гаряча </title>
-      <link>https://www.mandarinai.lt/post/85466</link>
-      <description>💥🔥У російській Сизрані гаряча зустріч місцевого НПЗ та крилатих санкцій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-28_07-46-50.mp4" length="2726016" type="video/mp4"/>
-      <pubDate>Sun, 28 Dec 2025 07:46:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 15:09:02 +0000</lastBuildDate>
     <item>
       <title>🔥Цієї ночі в окупованому Криму</title>
       <link>https://www.mandarinai.lt/post/85469</link>
@@ -147,6 +129,29 @@
       <description>Удар по приватному будинку на Харківщині, - росіяни атакували безпілотниками «Молнія» населений пункт Золочів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-28_13-55-56.jpg" length="184706" type="image/jpeg"/>
       <pubDate>Sun, 28 Dec 2025 13:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Район міста Лиман і Серебянськ</title>
+      <link>https://www.mandarinai.lt/post/85479</link>
+      <description>Район міста Лиман і Серебянського лісництва. Окупантам влаштовують засідку оптоволоконних FPV-дронів: екіпажі операторів батальйону «SIGNUM» 53-ої ОМБР загнали до пастки і ліквідували ворожих солдатів. Ті намагались відстрілюватись від дронів або втекти, та все, що вони робили, виявилося малоефективним.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4552.MP4" length="21692808" type="video/mp4"/>
+      <pubDate>Sun, 28 Dec 2025 14:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зеленський на світанку прилеті</title>
+      <link>https://www.mandarinai.lt/post/85480</link>
+      <description>Зеленський на світанку прилетів до Маямі. Він не очікує, що росія відмовиться від своїх вимог чи погодиться з запропонованим Україною планом, пише Financial Times.
+
+Зустріч Зеленського з Трампом запланована на 20:00 за київським часом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4554.MP4" length="9937341" type="video/mp4"/>
+      <pubDate>Sun, 28 Dec 2025 14:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Сьогоднішня успішна атака на </title>
+      <link>https://www.mandarinai.lt/post/85481</link>
+      <description>💥Сьогоднішня успішна атака на Сизранський НПЗ, -відео від авторів 🔥</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-28_15-01-23.mp4" length="3052067" type="video/mp4"/>
+      <pubDate>Sun, 28 Dec 2025 15:01:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
