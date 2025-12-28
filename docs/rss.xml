@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 10:09:26 +0000</lastBuildDate>
-    <item>
-      <title>👀Вчора США запустили по обʼєкт</title>
-      <link>https://www.mandarinai.lt/post/85460</link>
-      <description>👀Вчора США запустили по обʼєктам ІДІЛ в Нігерії 12 КР «Tomahawk» — кожна четверта ракета не здетонувала</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-27_20-51-08.mp4" length="741427" type="video/mp4"/>
-      <pubDate>Sat, 27 Dec 2025 20:51:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 11:07:54 +0000</lastBuildDate>
     <item>
       <title>Горить будинок в Одесі після п</title>
       <link>https://www.mandarinai.lt/post/85463</link>
@@ -100,6 +93,15 @@
 На південних околицях Мирнограда противник вдається до показових пропагандистських акцій, розрахованих передусім на внутрішню аудиторію рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-28_09-53-25.mp4" length="2407821" type="video/mp4"/>
       <pubDate>Sun, 28 Dec 2025 09:53:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Неймовірно результатівна ата</title>
+      <link>https://www.mandarinai.lt/post/85474</link>
+      <description>🔥 Неймовірно результатівна атака дронів СБС по Бердянську: ліквідовано та поранено понад 120 спецпризначенців ГРУ рф — повідомив Мадяр.
+
+Атака відбулася в тимчасово окупованому місті, втрати противника - значні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-28_10-36-23.mp4" length="2586325" type="video/mp4"/>
+      <pubDate>Sun, 28 Dec 2025 10:36:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
