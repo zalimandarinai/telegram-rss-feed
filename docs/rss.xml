@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 13:29:41 +0000</lastBuildDate>
-    <item>
-      <title>‼️Трамп заявив, що готовий при</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>‼️Трамп заявив, що готовий приїхати в Україну і звернутися до ВРУ
-
-Дональда Трампа запитали, чи планує він поїхати до України, якщо зможе досягти угоди про завершення війни. Президент США сказав, що це не обов’язково, однак він міг би поговорити з депутатами:
-
-Я запропонував поговорити з їхнім парламентом. Якщо це допоможе, не знаю, чи допоможе. Думаю, це допомогло б, але я навіть не знаю.
-
-Володимир Зеленський у відповідь сказав Трампу, що він був би бажаним гостем в Україні, якщо захоче приїхати.
-
-Трамп відповів, що невпевнений, що це справді необхідно:
-
-Але якщо це допоможе врятувати 25000 життів на місяць чи скільки там це можливо, я цілком готовий це зробити.</description>
-      <pubDate>Sun, 28 Dec 2025 22:30:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 14:11:32 +0000</lastBuildDate>
     <item>
       <title>Знайшли коригувальника, який н</title>
       <link>https://www.mandarinai.lt/post/85530</link>
@@ -84,6 +68,13 @@
       <description>Захід та Україна програють протистояння з росією, якщо їй  вдасться розділити демократичні країни і диктувати умови миру. Заяви США про гарантії безпеки для України є успіхом. Але до фіналу і результату переговорів поки ще далеко, — премʼєр Польщі Туск</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-29_13-11-59.jpg" length="151320" type="image/jpeg"/>
       <pubDate>Mon, 29 Dec 2025 13:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Штурмовик 92-ої бригади мотива</title>
+      <link>https://www.mandarinai.lt/post/85537</link>
+      <description>Штурмовик 92-ої бригади мотивацією вилікував російського окупанта, який не дуже хотів йти в полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4571.MP4" length="2532896" type="video/mp4"/>
+      <pubDate>Mon, 29 Dec 2025 13:30:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
