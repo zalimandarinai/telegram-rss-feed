@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 21:08:41 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸🤡🇷🇺 Трамп провів «позитивну»</title>
-      <link>https://www.mandarinai.lt/post/85546</link>
-      <description>🇺🇸🤡🇷🇺 Трамп провів «позитивну» телефонну розмову із путіним щодо України, — Білий дім</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-29_16-12-28.jpg" length="39715" type="image/jpeg"/>
-      <pubDate>Mon, 29 Dec 2025 16:12:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 22:09:17 +0000</lastBuildDate>
     <item>
       <title>‼️рф вже розмістила близько 70</title>
       <link>https://www.mandarinai.lt/post/85548</link>
@@ -82,6 +75,13 @@
       <description>😳Мер Філатов пояснив критичну  проблему із сміттям у Дніпрі в тому числі ухилянтами, які ховаються від ТЦК вдома та замовляють доставку їжі або інших речей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-29_20-59-08.mp4" length="1822165" type="video/mp4"/>
       <pubDate>Mon, 29 Dec 2025 20:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Влучний удар авіабомбами GBU62</title>
+      <link>https://www.mandarinai.lt/post/85560</link>
+      <description>Влучний удар авіабомбами GBU62 по автомобільному мосту, через який окупанти налаштували переправу на Сході</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4585.MP4" length="16572291" type="video/mp4"/>
+      <pubDate>Mon, 29 Dec 2025 21:09:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
