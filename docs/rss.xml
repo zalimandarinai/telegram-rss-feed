@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 19:08:12 +0000</lastBuildDate>
-    <item>
-      <title>🔥Нафтопровід «Дружба» на Закар</title>
-      <link>https://www.mandarinai.lt/post/85542</link>
-      <description>🔥Нафтопровід «Дружба» на Закарпатті втомився «дружити».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-29_15-01-45.mp4" length="2352782" type="video/mp4"/>
-      <pubDate>Mon, 29 Dec 2025 15:01:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Збиття «шахеда» над Києвом під</title>
-      <link>https://www.mandarinai.lt/post/85543</link>
-      <description>Збиття «шахеда» над Києвом під час нічної атаки на місто.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4581.MOV" length="1605219" type="video/mp4"/>
-      <pubDate>Mon, 29 Dec 2025 15:33:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 20:11:08 +0000</lastBuildDate>
     <item>
       <title>Те, що росія звинувачує Україн</title>
       <link>https://www.mandarinai.lt/post/85544</link>
@@ -91,6 +77,15 @@
 "Це було б дуже прикро путін сказав, що його атакували. Це не добре. Не забувайте, я зупинив ракетні удари. Одна справа бути образливим, а інша – нападати на його будинок. Зараз не час для цього"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-29_18-46-20.mp4" length="1130663" type="video/mp4"/>
       <pubDate>Mon, 29 Dec 2025 18:46:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇮🇹 Уряд Італії погодив продовж</title>
+      <link>https://www.mandarinai.lt/post/85557</link>
+      <description>🇮🇹 Уряд Італії погодив продовження допомоги Україні
+
+Рішення щодо продовження допомоги Україні було схвалено попри опір правої партії "Ліга", яка виступає проти подальшої військової підтримки Києву.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-29_19-47-22.jpg" length="32696" type="image/jpeg"/>
+      <pubDate>Mon, 29 Dec 2025 19:47:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
