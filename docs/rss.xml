@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 18:15:30 +0000</lastBuildDate>
-    <item>
-      <title>Штурмовик 92-ої бригади мотива</title>
-      <link>https://www.mandarinai.lt/post/85537</link>
-      <description>Штурмовик 92-ої бригади мотивацією вилікував російського окупанта, який не дуже хотів йти в полон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4571.MP4" length="2532896" type="video/mp4"/>
-      <pubDate>Mon, 29 Dec 2025 13:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупант чекав на маршрутку, ал</title>
-      <link>https://www.mandarinai.lt/post/85541</link>
-      <description>Окупант чекав на маршрутку, але FPV прибув швидше.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4572.MP4" length="764496" type="video/mp4"/>
-      <pubDate>Mon, 29 Dec 2025 14:45:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 19:08:12 +0000</lastBuildDate>
     <item>
       <title>🔥Нафтопровід «Дружба» на Закар</title>
       <link>https://www.mandarinai.lt/post/85542</link>
@@ -96,6 +82,15 @@
 Серед загиблих — ціла родина. Вижив лише один поранений.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-29_18-15-21.jpg" length="257167" type="image/jpeg"/>
       <pubDate>Mon, 29 Dec 2025 18:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗿 Я щойно про це почув, але ні</title>
+      <link>https://www.mandarinai.lt/post/85553</link>
+      <description>🗿 Я щойно про це почув, але нічого про це не знаю, — Трамп щодо заяв РФ про те, що Україна намагалася атакувати резиденцію путіна
+
+"Це було б дуже прикро путін сказав, що його атакували. Це не добре. Не забувайте, я зупинив ракетні удари. Одна справа бути образливим, а інша – нападати на його будинок. Зараз не час для цього"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-29_18-46-20.mp4" length="1130663" type="video/mp4"/>
+      <pubDate>Mon, 29 Dec 2025 18:46:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
