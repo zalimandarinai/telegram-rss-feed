@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 11:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 12:20:21 +0000</lastBuildDate>
     <item>
       <title>‼️Трамп заявив, що готовий при</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -28,13 +28,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>👀Так завершилась офіційна трансляція</description>
       <pubDate>Sun, 28 Dec 2025 22:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Реакція Зеленського на вчорашн</title>
-      <link>https://www.mandarinai.lt/post/85519</link>
-      <description>Реакція Зеленського на вчорашнє тупе висловлювання Трампа про те що "хоче бачити успішну Україну"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-29_08-01-08.mp4" length="369727" type="video/mp4"/>
-      <pubDate>Mon, 29 Dec 2025 08:01:08 +0000</pubDate>
     </item>
     <item>
       <title>🤬росіяни завдали ударів за доп</title>
@@ -77,6 +70,21 @@
       <description>Привітання одразу для сімох окупантів залетіло в російський бліндаж від «Птахів Мадяра».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4567.MP4" length="6168752" type="video/mp4"/>
       <pubDate>Mon, 29 Dec 2025 11:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Судно «Велика Ведмедиця», яке </title>
+      <link>https://www.mandarinai.lt/post/85534</link>
+      <description>Судно «Велика Ведмедиця», яке входило до російського «тіньового флоту» і затонуло біля Іспанії, перевозило таємний стратегічний вантаж, - іспанські слідчі.
+
+За даними слідства, на борту судна перебували два корпуси ядерних реакторів типу ВМ-4СГ, призначені для Північної Кореї.
+
+Судно затонуло 23 грудня 2024 року за 60 миль від Картахени.
+
+В борту судна нібито знайшли отвір, який свідчить, що воно затонуло в результаті удару ззовні. 
+
+Слідчі не виключають, що це був удар торпеди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-29_12-01-52.jpg" length="63309" type="image/jpeg"/>
+      <pubDate>Mon, 29 Dec 2025 12:01:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
