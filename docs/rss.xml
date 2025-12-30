@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 22:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 23:08:50 +0000</lastBuildDate>
     <item>
       <title>💥Окупований Мелітополь після в</title>
       <link>https://www.mandarinai.lt/post/85592</link>
@@ -78,6 +78,13 @@
       <description>🔥Туапсе. Є влучання по чомусь цікавому</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-30_21-16-50.mp4" length="254046" type="video/mp4"/>
       <pubDate>Tue, 30 Dec 2025 21:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одеса під атакою БПЛА, в місті</title>
+      <link>https://www.mandarinai.lt/post/85607</link>
+      <description>Одеса під атакою БПЛА, в місті пожежі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_23-03-14.jpg" length="46731" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 23:03:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
