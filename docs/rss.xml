@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 14:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 15:10:37 +0000</lastBuildDate>
     <item>
       <title>⏳Посмішки Трампа і Зеленського</title>
       <link>https://www.mandarinai.lt/post/85571</link>
@@ -125,6 +125,15 @@
       <link>https://www.mandarinai.lt/post/85582</link>
       <description>Артилеристи 55-ої бригади «Запорізька Січ» вогневими групами 2П22 «Богдана» і САУ «CAESAR» розібрали біля Покровська ворожу колону на «баггі», яка, мабуть, їхала шукати компроміс з територіальних питань.</description>
       <pubDate>Tue, 30 Dec 2025 13:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росіяни вдарили БпЛА по 2 ци</title>
+      <link>https://www.mandarinai.lt/post/85584</link>
+      <description>❗️росіяни вдарили БпЛА по 2 цивільним суднам, є поранені, – ВМС ЗСУ
+
+Окупанти атакували судна “Emmakris III” та “Captain Karam”, які заходили до порту для завантаження пшениці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_14-45-01.jpg" length="250103" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 14:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
