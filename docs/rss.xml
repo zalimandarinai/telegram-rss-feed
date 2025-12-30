@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 07:14:06 +0000</lastBuildDate>
-    <item>
-      <title>Удар по Словʼянську: рятувальн</title>
-      <link>https://www.mandarinai.lt/post/85550</link>
-      <description>Удар по Словʼянську: рятувальники деблокували жінку з-під завалів. 
-
-Окупанти влучили у приватний житловий сектор. Пошкоджені понад два десятки будинків, в одному з них була заблокована жінка.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4583.MP4" length="17918712" type="video/mp4"/>
-      <pubDate>Mon, 29 Dec 2025 17:51:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Росіяни вбили 7 цивільних у </title>
-      <link>https://www.mandarinai.lt/post/85551</link>
-      <description>❗️Росіяни вбили 7 цивільних у Покровську, — омбудсман Лубінець
-
-За його словами, у ніч на 21 грудня двоє російських військових увірвалися до підвалу житлового будинку, де переховувалися мирні мешканці. Окупанти вимагали алкоголь, але після відповіді, що його немає, застрелили батька й сина, а згодом розстріляли інших людей у підвалі.
-
-Серед загиблих — ціла родина. Вижив лише один поранений.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-29_18-15-21.jpg" length="257167" type="image/jpeg"/>
-      <pubDate>Mon, 29 Dec 2025 18:15:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 08:14:53 +0000</lastBuildDate>
     <item>
       <title>🗿 Я щойно про це почув, але ні</title>
       <link>https://www.mandarinai.lt/post/85553</link>
@@ -83,6 +63,24 @@
 ▪️Україна розвинула потужну дрон-індустрію та готова до великомасштабного спільного виробництва зі Сполученими Штатами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-30_06-40-31.mp4" length="1268369" type="video/mp4"/>
       <pubDate>Tue, 30 Dec 2025 06:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нічна атака по Україні: летіло</title>
+      <link>https://www.mandarinai.lt/post/85565</link>
+      <description>Нічна атака по Україні: летіло 60 БпЛА та 2 балістичні ракети. 
+
+Збито 1 ракету і 52 дрони.
+
+Одна ракета й 8 дронів влучили в 5 місцях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_07-56-32.jpg" length="81818" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 07:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Білорусі«Орєшнік» нібито зас</title>
+      <link>https://www.mandarinai.lt/post/85566</link>
+      <description>В Білорусі«Орєшнік» нібито заступив на бойове чергування</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4598.MP4" length="16351794" type="video/mp4"/>
+      <pubDate>Tue, 30 Dec 2025 07:59:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
