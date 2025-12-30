@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 12:19:34 +0000</lastBuildDate>
-    <item>
-      <title>Нічна атака по Україні: летіло</title>
-      <link>https://www.mandarinai.lt/post/85565</link>
-      <description>Нічна атака по Україні: летіло 60 БпЛА та 2 балістичні ракети. 
-
-Збито 1 ракету і 52 дрони.
-
-Одна ракета й 8 дронів влучили в 5 місцях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_07-56-32.jpg" length="81818" type="image/jpeg"/>
-      <pubDate>Tue, 30 Dec 2025 07:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Білорусі «Орєшнік» нібито за</title>
-      <link>https://www.mandarinai.lt/post/85566</link>
-      <description>В Білорусі «Орєшнік» нібито заступив на бойове чергування</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4598.MP4" length="16351794" type="video/mp4"/>
-      <pubDate>Tue, 30 Dec 2025 07:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Компанія «Ptashka Drones» пока</title>
-      <link>https://www.mandarinai.lt/post/85567</link>
-      <description>Компанія «Ptashka Drones» показала ураження техніки противника безпілотниками на оптоволокні із заявленою дальністю в 50 кілометрів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4595.MP4" length="4848361" type="video/mp4"/>
-      <pubDate>Tue, 30 Dec 2025 08:20:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 13:28:59 +0000</lastBuildDate>
     <item>
       <title>🇨🇳 В Китаї було зафіксовано пе</title>
       <link>https://www.mandarinai.lt/post/85568</link>
@@ -106,6 +81,40 @@
 Її планують завершити за 30 днів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_12-14-00.jpg" length="298279" type="image/jpeg"/>
       <pubDate>Tue, 30 Dec 2025 12:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>😖путін скликає спеціальні збор</title>
+      <link>https://www.mandarinai.lt/post/85578</link>
+      <description>😖путін скликає спеціальні збори росіян, які перебувають у мобілізаційному резерві.
+
+Їх нібито направлять захищати критично важливі об'єкти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_12-26-48.jpg" length="115005" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 12:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росія досі не надала жодних </title>
+      <link>https://www.mandarinai.lt/post/85579</link>
+      <description>❗️росія досі не надала жодних доказів: Сибіга про "атаку" на резиденцію путіна
+
+Міністр закордонних справ України Андрій Сибіга наголосив, що росія досі не надала жодних правдоподібних доказів своїм звинуваченням України у нібито "нападі" на резиденцію російського диктатора.
+
+"І не надасть. Бо їх немає. Такого нападу не було", - зазначив глава МЗС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_12-32-56.jpg" length="28521" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 12:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Одесі сильна пожежа після пр</title>
+      <link>https://www.mandarinai.lt/post/85580</link>
+      <description>В Одесі сильна пожежа після прильоту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-30_13-15-37.mp4" length="334014" type="video/mp4"/>
+      <pubDate>Tue, 30 Dec 2025 13:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Мир може бути досягнутий про</title>
+      <link>https://www.mandarinai.lt/post/85581</link>
+      <description>❗️Мир може бути досягнутий протягом кількох тижнів, але для цього Україні "потрібно буде піти на компроміс з територіальних питань", — прем'єр-міністр Польщі Туск</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_13-17-22.jpg" length="121901" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 13:17:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
