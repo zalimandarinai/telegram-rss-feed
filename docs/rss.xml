@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 19:08:42 +0000</lastBuildDate>
-    <item>
-      <title>❗️росіяни вдарили БпЛА по 2 ци</title>
-      <link>https://www.mandarinai.lt/post/85584</link>
-      <description>❗️росіяни вдарили БпЛА по 2 цивільним суднам, є поранені, – ВМС ЗСУ
-
-Окупанти атакували судна “Emmakris III” та “Captain Karam”, які заходили до порту для завантаження пшениці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_14-45-01.jpg" length="250103" type="image/jpeg"/>
-      <pubDate>Tue, 30 Dec 2025 14:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤌 Відтепер українців, які приб</title>
-      <link>https://www.mandarinai.lt/post/85587</link>
-      <description>🤌 Відтепер українців, які прибувають до ТЦК та СП під час мобілізації, забезпечуватимуть харчуванням за рахунок держави, — Міноборони 
-
-Їжу будуть готувати згідно з Каталогом продуктів харчування, який використовується у ЗСУ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_15-36-16.jpg" length="51777" type="image/jpeg"/>
-      <pubDate>Tue, 30 Dec 2025 15:36:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 20:10:44 +0000</lastBuildDate>
     <item>
       <title>Ліквідація «ждунів», надважлив</title>
       <link>https://www.mandarinai.lt/post/85589</link>
@@ -86,6 +68,13 @@
 🎥 57 окрема мотопіхотна бригада ім.Костя Гордієнка</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4616.MP4" length="10655943" type="video/mp4"/>
       <pubDate>Tue, 30 Dec 2025 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Нафтобаза в окупованих Ровен</title>
+      <link>https://www.mandarinai.lt/post/85599</link>
+      <description>💥🔥Нафтобаза в окупованих Ровеньках святково спалахнула після зустрічі з дронами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-30_20-06-05.mp4" length="3798401" type="video/mp4"/>
+      <pubDate>Tue, 30 Dec 2025 20:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
