@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 11:09:31 +0000</lastBuildDate>
-    <item>
-      <title>Влучний удар авіабомбами GBU62</title>
-      <link>https://www.mandarinai.lt/post/85560</link>
-      <description>Влучний удар авіабомбами GBU62 по автомобільному мосту, через який окупанти налаштували переправу на Сході</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4585.MP4" length="16572291" type="video/mp4"/>
-      <pubDate>Mon, 29 Dec 2025 21:09:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Без підтримки США Україна не з</title>
-      <link>https://www.mandarinai.lt/post/85563</link>
-      <description>Без підтримки США Україна не зможе захистити небо та перемогти у війні, – Зеленський
-
-▪️Зустріч з Трампом була важливою та продуктивною — команди плідно співпрацювали.
-▪️Україна ніколи не погодиться просто залишити свої території: там наші люди, армія та величезні жертви.
-▪️Будь-який компроміс щодо територій можливий лише за рішенням українського народу. Один з варіантів — створення вільної економічної зони з відведенням військ.
-▪️Вихід з Донбасу — найгірший сценарій, який суспільство не підтримає.
-▪️Мир має бути справжнім і справедливим, а не фіктивним референдумом зі заздалегідь провальним результатом.
-▪️Довіри до росії та путіна немає — їхні заяви про «добрі наміри» лише спроба уникнути санкцій.
-▪️Єдиний можливий внесок рф у відбудову — фінансові репарації.
-▪️Антикорупційні органи працюють незалежно навіть у воєнний час.
-▪️Армія рф більше не нарощує сили. Підтримка США може суттєво прискорити шлях до миру.
-▪️Україна розвинула потужну дрон-індустрію та готова до великомасштабного спільного виробництва зі Сполученими Штатами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-30_06-40-31.mp4" length="1268369" type="video/mp4"/>
-      <pubDate>Tue, 30 Dec 2025 06:40:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 12:19:34 +0000</lastBuildDate>
     <item>
       <title>Нічна атака по Україні: летіло</title>
       <link>https://www.mandarinai.lt/post/85565</link>
@@ -109,6 +84,28 @@
 Атаку здійснили оператори 1-го окремого центру СБС.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4603.MP4" length="21104268" type="video/mp4"/>
       <pubDate>Tue, 30 Dec 2025 09:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російські терористи знову вдар</title>
+      <link>https://www.mandarinai.lt/post/85574</link>
+      <description>Російські терористи знову вдарили по Запоріжжю.
+
+Пошкоджено об’єкт промислової інфраструктури. Там сталася пожежа.
+
+«Вибуховою хвилею пошкоджено приватні будинки поруч із місцем удару», — ОВА. Постраждала жінка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4608.MP4" length="2485868" type="video/mp4"/>
+      <pubDate>Tue, 30 Dec 2025 11:47:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обовʼязкова евакуація оголошен</title>
+      <link>https://www.mandarinai.lt/post/85575</link>
+      <description>Обовʼязкова евакуація оголошенна на Чернігівщині, – ОВА.
+
+Людей вивозять з 14 населених пунктів у Новгород-Сіверській, Семенівській, Сновській та Городнянській громадах.
+
+Її планують завершити за 30 днів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_12-14-00.jpg" length="298279" type="image/jpeg"/>
+      <pubDate>Tue, 30 Dec 2025 12:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
