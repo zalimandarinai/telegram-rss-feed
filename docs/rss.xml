@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 19:07:15 +0000</lastBuildDate>
-    <item>
-      <title>💥 У 2025-му росія втратила на </title>
-      <link>https://www.mandarinai.lt/post/85627</link>
-      <description>💥 У 2025-му росія втратила на фронті на 40% більше солдатів, ніж будь-коли з початку повномасштабного вторгнення, - BBC
-
-BBC підтвердила імена приблизно 160 000 загиблих росіян, водночас, за даними журналістів, реальна кількість вмерлих окупантів, ймовірно, становить 243 000–352 000 осіб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-31_11-19-23.jpg" length="93032" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 11:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>США привітали росію з Новим ро</title>
-      <link>https://www.mandarinai.lt/post/85628</link>
-      <description>США привітали росію з Новим роком російською мовою</description>
-      <pubDate>Wed, 31 Dec 2025 11:39:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 20:10:22 +0000</lastBuildDate>
     <item>
       <title>Станом на сьогодні російським </title>
       <link>https://www.mandarinai.lt/post/85629</link>
@@ -120,6 +105,24 @@ BBC підтвердила імена приблизно 160 000 загибли�
 На відео видно, що після влучань безпілотників СБУ на об’єкті спалахнула масштабна пожежа.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4645.MP4" length="311329" type="video/mp4"/>
       <pubDate>Wed, 31 Dec 2025 18:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Трамп в своїй соцмережі: «З</title>
+      <link>https://www.mandarinai.lt/post/85641</link>
+      <description>⚡️ Трамп в своїй соцмережі: «Заява про «атаку» путіна показує, що саме росія стоїть на заваді миру».
+
+➡️ Слово «атака» в лапках.
+
+❓ Невже йому стало зрозуміло?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-31_19-07-24.jpg" length="28927" type="image/jpeg"/>
+      <pubDate>Wed, 31 Dec 2025 19:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атакована нафтобаза у Калузь</title>
+      <link>https://www.mandarinai.lt/post/85642</link>
+      <description>💥🔥Атакована нафтобаза у Калузькій області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-31_19-37-27.mp4" length="133051" type="video/mp4"/>
+      <pubDate>Wed, 31 Dec 2025 19:37:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
