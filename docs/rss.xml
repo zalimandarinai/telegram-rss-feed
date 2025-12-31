@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 09:14:17 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Найяскравіша "бавовна": СБУ </title>
-      <link>https://www.mandarinai.lt/post/85604</link>
-      <description>💥🔥Найяскравіша "бавовна": СБУ показала топ спецоперацій 2025 року</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-30_21-14-46.mp4" length="4844376" type="video/mp4"/>
-      <pubDate>Tue, 30 Dec 2025 21:14:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Туапсе. Є влучання по чомусь </title>
-      <link>https://www.mandarinai.lt/post/85605</link>
-      <description>🔥Туапсе. Є влучання по чомусь цікавому</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-30_21-16-50.mp4" length="254046" type="video/mp4"/>
-      <pubDate>Tue, 30 Dec 2025 21:16:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 10:10:21 +0000</lastBuildDate>
     <item>
       <title>Одеса під атакою БПЛА, в місті</title>
       <link>https://www.mandarinai.lt/post/85607</link>
@@ -96,6 +82,24 @@
 • Палає ПС «Молочанськ» (нп Молочанськ, Запоріжської обл, ТОТ, Птахи підрозділу «Граф» СБС)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2025-12-31_08-51-34.mp4" length="5051823" type="video/mp4"/>
       <pubDate>Wed, 31 Dec 2025 08:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡русня нарешті намалювала фейк</title>
+      <link>https://www.mandarinai.lt/post/85618</link>
+      <description>🤡русня нарешті намалювала фейкову схему БпЛА, які начебто діяли у напрямку резиденції путіна, — Міноборони рф виклало цю картинку.
+
+Раніше Кремль відмовився надавати докази удару України по резиденції путіна: «Я не думаю, що тут мають бути якісь докази», — казав Пєсков.
+
+Також відомо ніхто з мешканців селищ біля путінської резиденції на Валдаї не чув звуків дронів та вибухів. Про це написали опозиційні ЗМІ. Але кремль, з метою зірвати мирний процес вперто бреше про атаку на Валдай.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-31_10-01-09.jpg" length="419920" type="image/jpeg"/>
+      <pubDate>Wed, 31 Dec 2025 10:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рашисти скинули більше ніж 60 </title>
+      <link>https://www.mandarinai.lt/post/85619</link>
+      <description>Рашисти скинули більше ніж 60 000 КАБів, запустили понад 100 000 дронів та 2400 ракет — внаслідок російських атак, майже 20 000 разів лунала повітряна тривога в Україні. Такі жахливі цифри ілюструють наш 2025 рік</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-31_10-05-42.jpg" length="54472" type="image/jpeg"/>
+      <pubDate>Wed, 31 Dec 2025 10:05:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
