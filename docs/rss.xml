@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 06:16:31 +0000</lastBuildDate>
-    <item>
-      <title>💥Окупований Мелітополь після в</title>
-      <link>https://www.mandarinai.lt/post/85592</link>
-      <description>💥Окупований Мелітополь після вибуху на підстанції в блекауті</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_17-04-37.jpg" length="47858" type="image/jpeg"/>
-      <pubDate>Tue, 30 Dec 2025 17:04:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 07:13:58 +0000</lastBuildDate>
     <item>
       <title>🇦🇪⚡️ОАЕ раптово оголосили про </title>
       <link>https://www.mandarinai.lt/post/85593</link>
@@ -85,6 +78,17 @@
       <description>Одеса під атакою БПЛА, в місті пожежі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-30_23-03-14.jpg" length="46731" type="image/jpeg"/>
       <pubDate>Tue, 30 Dec 2025 23:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ «Вікно тиші» дало змогу від</title>
+      <link>https://www.mandarinai.lt/post/85608</link>
+      <description>‼️ «Вікно тиші» дало змогу відновити ключову лінію електропередач до ЗАЕС, — гендиректор МАГАТЕ Гроссі 
+
+Поблизу Запорізької атомної електростанції успішно завершили важливі ремонтні роботи на лінії електропередач. Їх провели за умови гарантій безпеки в межах локального припинення вогню між рф та Україною.
+
+Ремонт стартував у неділю зранку та завершився в понеділок удень. Фахівці повністю усунули пошкодження лінії електропередачі, а також окрему несправність автотрансформатора на розподільчій станції ЗАЕС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2025-12-31_07-09-06.jpg" length="26619" type="image/jpeg"/>
+      <pubDate>Wed, 31 Dec 2025 07:09:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
