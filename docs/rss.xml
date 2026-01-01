@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 21:09:06 +0000</lastBuildDate>
-    <item>
-      <title>СБУ затримала у Києві директор</title>
-      <link>https://www.mandarinai.lt/post/85666</link>
-      <description>СБУ затримала у Києві директорку дитсадку в окупованій Макіївці, яка схиляла батьків вихованців до співпраці з окупантами, а зараз прибула до столиці оформлювати закордонний паспорт, щоб виїхати до однієї з європейських країн.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-01_15-04-21.jpg" length="62577" type="image/jpeg"/>
-      <pubDate>Thu, 01 Jan 2026 15:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Драматичний момент, - бійці вс</title>
-      <link>https://www.mandarinai.lt/post/85668</link>
-      <description>Драматичний момент, - бійці встигають помітити та збити ворожий FPV просто на підльоті</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4681.MP4" length="4653570" type="video/mp4"/>
-      <pubDate>Thu, 01 Jan 2026 16:17:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 22:09:13 +0000</lastBuildDate>
     <item>
       <title>Трамп демонструє ознаки старін</title>
       <link>https://www.mandarinai.lt/post/85669</link>
@@ -112,6 +98,18 @@
 В той же час на столі помітно елемент пристрою, схожий на контролер від дешевого китайського безпілотника, яких в росії чимало.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4690.MP4" length="24778274" type="video/mp4"/>
       <pubDate>Thu, 01 Jan 2026 20:13:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Масщтабні протести в Ірані пер</title>
+      <link>https://www.mandarinai.lt/post/85681</link>
+      <description>Масщтабні протести в Ірані перейшли у жорстку фазу — є загиблі, підпалено військову базу, — Reuters.
+
+У новорічну ніч демонстранти підпалили базу ополчення Басідж та атакували офіс губернатора в місті Фаса. Протести охопили різні міста попри блокади й сльозогінний газ.
+Відомо щонайменше про трьох загиблих, серед них — співробітник сил безпеки. 
+
+Спершу акції спричинили інфляція й обвал валюти, нині ж протестувальники відкрито виступають проти всього політичного режиму</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-01_21-19-32.mp4" length="441403" type="video/mp4"/>
+      <pubDate>Thu, 01 Jan 2026 21:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
