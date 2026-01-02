@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 13:27:25 +0000</lastBuildDate>
-    <item>
-      <title>За ніч збито і подавлено 86 зі</title>
-      <link>https://www.mandarinai.lt/post/85691</link>
-      <description>За ніч збито і подавлено 86 зі 116 дронів, які атакували українські населені пункти</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_06-35-43.jpg" length="73515" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 06:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Масштабна пожежа в житловій </title>
-      <link>https://www.mandarinai.lt/post/85692</link>
-      <description>❗️Масштабна пожежа в житловій забудові Запоріжжя після атаки Шахеда — ОВА показала наслідки чергового російського терору</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_06-43-18.jpg" length="109557" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 06:43:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти вдарили дроном по шви</title>
-      <link>https://www.mandarinai.lt/post/85693</link>
-      <description>Окупанти вдарили дроном по швидкій у Херсоні: поранено водія 
-
-Російські окупанти ввечері 1 січня атакували безпілотником бригаду екстреної медичної допомоги, яка приїхала на виклик до поранених у Дніпровський район Херсона. 
-
-Внаслідок удару пошкоджено автомобіль швидкої, поранено водія, а в громаді загалом загинула одна людина та ще шестеро дістали поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_08-23-03.jpg" length="68931" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 08:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Якщо Іран відкриє вогонь і </title>
-      <link>https://www.mandarinai.lt/post/85694</link>
-      <description>⚡️ Якщо Іран відкриє вогонь і жорстоко вбиватиме мирних протестувальників, що є їхньою звичною практикою, США прийдуть їм на допомогу. Ми повністю готові та приведені в бойову готовність, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_08-24-14.jpg" length="24811" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 08:24:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 14:10:21 +0000</lastBuildDate>
     <item>
       <title>Колишній радник з питань безпе</title>
       <link>https://www.mandarinai.lt/post/85696</link>
@@ -106,6 +74,13 @@
       <description>На «шахедах», схоже, з'явилися інфрачервоні прожектори для засліплення дронів ППО та авіації, — експерт Сергій Бескрестнов «Флеш»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_13-23-31.jpg" length="224438" type="image/jpeg"/>
       <pubDate>Fri, 02 Jan 2026 13:23:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перші кадри після удару баліст</title>
+      <link>https://www.mandarinai.lt/post/85705</link>
+      <description>Перші кадри після удару балістичними ракетами по житлових будинках в Харкові. Жах. Сподіваємося, що без жертв. Ракета з Білгородщини летить до Харкова півтори хвилини. Навіть зреагувати на тривогу люди не встигають.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_13-29-57.jpg" length="164893" type="image/jpeg"/>
+      <pubDate>Fri, 02 Jan 2026 13:29:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
