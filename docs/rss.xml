@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 16:11:38 +0000</lastBuildDate>
-    <item>
-      <title>Те саме відео на півмільйона д</title>
-      <link>https://www.mandarinai.lt/post/85702</link>
-      <description>Те саме відео на півмільйона доларів.
-
-Перший дрон нібито влітає в бус в той момент, коли до нього сідає командир РДК Нікітін.
-
-Другий дрон фіксує охоплений вогнем бус.
-
-Росіяни повірили і заплатили за кіно $500000 українським військовим.
-
-Якісний «дембельський акорд» Буданова на посаді керівника Головного управління розвідки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4701.MP4" length="12130679" type="video/mp4"/>
-      <pubDate>Fri, 02 Jan 2026 13:06:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 17:08:38 +0000</lastBuildDate>
     <item>
       <title>Приліт в центральній частині р</title>
       <link>https://www.mandarinai.lt/post/85703</link>
@@ -79,6 +64,13 @@
 До СЗР він працював першим заступником начальника Головного управління розвідки Міністерства оборони України, заступником начальника Генерального штабу Збройних Сил України з розвідки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_15-28-21.jpg" length="134640" type="image/jpeg"/>
       <pubDate>Fri, 02 Jan 2026 15:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Центр Харкова в руїнах. Дуже б</title>
+      <link>https://www.mandarinai.lt/post/85716</link>
+      <description>Центр Харкова в руїнах. Дуже болісно дивитись на понівечені будинки, адже це місця мого дитинства, мій район, тут жили мої друзі. Нелюди просто хочуть стерти з лиця землі все, що називається Україною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4718.MP4" length="30514236" type="video/mp4"/>
+      <pubDate>Fri, 02 Jan 2026 16:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
