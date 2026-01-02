@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 15:10:24 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ В Харкові приліт балістики </title>
-      <link>https://www.mandarinai.lt/post/85700</link>
-      <description>⚡️ В Харкові приліт балістики по багатоповерхівці, на цей момент відомо про 12 поранених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4699.MP4" length="4188874" type="video/mp4"/>
-      <pubDate>Fri, 02 Jan 2026 12:56:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Буданов йде на посаду керівник</title>
-      <link>https://www.mandarinai.lt/post/85701</link>
-      <description>Буданов йде на посаду керівника офісу президента</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_12-57-15.jpg" length="40812" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 12:57:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 16:11:38 +0000</lastBuildDate>
     <item>
       <title>Те саме відео на півмільйона д</title>
       <link>https://www.mandarinai.lt/post/85702</link>
@@ -82,6 +68,17 @@
       <link>https://www.mandarinai.lt/post/85713</link>
       <description>💬 «Двоє окупантів в Покровську. Старший групи в сараї пробує вийти на звʼязок. Другий оглядає місцевість. По сараю прилітає. Сеанс зв’язку закінчився», - нові історії з Покровська від 425-го полку «Скеля»</description>
       <pubDate>Fri, 02 Jan 2026 14:48:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Глава Служби зовнішньої розвід</title>
+      <link>https://www.mandarinai.lt/post/85714</link>
+      <description>Глава Служби зовнішньої розвідки Олег Іващенко очолить ГУР, - Зеленський
+
+Олег Іващенко має досвід роботи в спецслужбах.
+
+До СЗР він працював першим заступником начальника Головного управління розвідки Міністерства оборони України, заступником начальника Генерального штабу Збройних Сил України з розвідки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_15-28-21.jpg" length="134640" type="image/jpeg"/>
+      <pubDate>Fri, 02 Jan 2026 15:28:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
