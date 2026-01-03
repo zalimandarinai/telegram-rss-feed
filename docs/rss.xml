@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 10:09:15 +0000</lastBuildDate>
-    <item>
-      <title>❗️Зеленський робить ставку на </title>
-      <link>https://www.mandarinai.lt/post/85731</link>
-      <description>❗️Зеленський робить ставку на розвиток технологій безпілотників, запропонувавши призначити Федорова міністром оборони, - Bloomberg.
-
-Завдання Федорова - різко збільшити можливості України у сфері безпілотників і військових технологій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-02_21-48-11.jpg" length="91307" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 21:48:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 11:07:34 +0000</lastBuildDate>
     <item>
       <title>❗️ Трамп віддав наказ про завд</title>
       <link>https://www.mandarinai.lt/post/85732</link>
@@ -124,6 +115,17 @@
 Обидві платформи ефективно нейтралізовані 57-ою бригадою.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4740.MP4" length="19002274" type="video/mp4"/>
       <pubDate>Sat, 03 Jan 2026 10:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлене, як перше фото Мадуро</title>
+      <link>https://www.mandarinai.lt/post/85745</link>
+      <description>Заявлене, як перше фото Мадуро після захоплення американськими спецпризначенцями. Потребує верифікації. 
+
+Бойові дії у Венесуелі завершено, оскільки Мадуро вже під вартою у США.
+
+Так повідомив Держсекретар Рубіо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-03_10-42-20.jpg" length="85155" type="image/jpeg"/>
+      <pubDate>Sat, 03 Jan 2026 10:42:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
