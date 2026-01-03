@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 16:10:48 +0000</lastBuildDate>
-    <item>
-      <title>❗️Україна та США на рівні генш</title>
-      <link>https://www.mandarinai.lt/post/85749</link>
-      <description>❗️Україна та США на рівні генштабів узгодили військовий документ із чотирма розділами та додатками щодо підтримки ЗСУ, їх забезпечення, відновлення, модернізації та моніторингу виконання домовленостей, включно з реакціями на можливі порушення, - начальник Генштабу Гнатов.
-
-Аналогічна робота триває з іншими країнами-партнерами, зокрема в межах "коаліції рішучих", включно з питаннями контингентів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-03_12-19-52.mp4" length="6662585" type="video/mp4"/>
-      <pubDate>Sat, 03 Jan 2026 12:19:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 17:07:47 +0000</lastBuildDate>
     <item>
       <title>✅Телеканал CNN назвав три сцен</title>
       <link>https://www.mandarinai.lt/post/85750</link>
@@ -97,6 +88,13 @@
 📍 Може, хтось підкаже їм геолокацію Кремля? 🤷‍♂️</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4757.MP4" length="21157185" type="video/mp4"/>
       <pubDate>Sat, 03 Jan 2026 15:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳Каракас за півдня. Трамп опуб</title>
+      <link>https://www.mandarinai.lt/post/85769</link>
+      <description>😳Каракас за півдня. Трамп опублікував відео під пісню «Fortunate Son» із кадрами ударів по Венесуелі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-03_16-47-19.mp4" length="3165721" type="video/mp4"/>
+      <pubDate>Sat, 03 Jan 2026 16:47:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
