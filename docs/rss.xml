@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 11:07:34 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Трамп віддав наказ про завд</title>
-      <link>https://www.mandarinai.lt/post/85732</link>
-      <description>❗️ Трамп віддав наказ про завдання ударів по цілям усередині Венесуели, включаючи військові об’єкти, — журналістка CBS News Дженніфер Джейкобс.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-03_07-37-23.mp4" length="1206938" type="video/mp4"/>
-      <pubDate>Sat, 03 Jan 2026 07:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>У столиці Венесуели Каракасі с</title>
-      <link>https://www.mandarinai.lt/post/85734</link>
-      <description>У столиці Венесуели Каракасі сталися вибухи, південна частина міста залишилася без електроенергії.
-
-Президент сусідньої Колумбії стверджує, що на Венесуелу напали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4731.MP4" length="3556940" type="video/mp4"/>
-      <pubDate>Sat, 03 Jan 2026 07:38:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 12:16:58 +0000</lastBuildDate>
     <item>
       <title>На відео американські гелікопт</title>
       <link>https://www.mandarinai.lt/post/85736</link>
@@ -126,6 +110,31 @@
 Так повідомив Держсекретар Рубіо.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-03_10-42-20.jpg" length="85155" type="image/jpeg"/>
       <pubDate>Sat, 03 Jan 2026 10:42:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 У МЗС рф вимагають від США н</title>
+      <link>https://www.mandarinai.lt/post/85746</link>
+      <description>🤡 У МЗС рф вимагають від США негайних пояснень щодо «вивезення» Мадуро з Венесуели</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-03_12-02-44.jpg" length="70742" type="image/jpeg"/>
+      <pubDate>Sat, 03 Jan 2026 12:02:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Українська делегація розпоча</title>
+      <link>https://www.mandarinai.lt/post/85747</link>
+      <description>‼️Українська делегація розпочала переговори з європейцями представниками , - секретар РНБО Умеров
+
+За його словами, перший переговорний блок присвячений рамковим документам, гарантіям безпеки, підходам до мирного плану та послідовності подальших спільних кроків. 
+
+"Ми працюємо над тим, щоб узгоджені рішення були реалістичними і підкріпленими спільною відповідальністю", - підкреслив Умеров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-03_12-07-48.jpg" length="210287" type="image/jpeg"/>
+      <pubDate>Sat, 03 Jan 2026 12:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Реакція жителів столиці Венесу</title>
+      <link>https://www.mandarinai.lt/post/85748</link>
+      <description>Реакція жителів столиці Венесуели на сьогоднішній американський  бліцкріг.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-03_12-14-57.mp4" length="1795330" type="video/mp4"/>
+      <pubDate>Sat, 03 Jan 2026 12:14:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
