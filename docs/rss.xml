@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 20:10:33 +0000</lastBuildDate>
-    <item>
-      <title>🥴 Куба готова відправити війсь</title>
-      <link>https://www.mandarinai.lt/post/85819</link>
-      <description>🥴 Куба готова відправити війська Венесуелі, щоб протистояти США, – президент країни</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-04_14-54-59.mp4" length="6459630" type="video/mp4"/>
-      <pubDate>Sun, 04 Jan 2026 14:54:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 21:08:27 +0000</lastBuildDate>
     <item>
       <title>Через атаку БПЛА в Москві затр</title>
       <link>https://www.mandarinai.lt/post/85820</link>
@@ -87,6 +80,15 @@
 Зрозуміло, що пілотам відтепер слід уникати перехоплення «шахедів» на зустрічному курсі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4803.MP4" length="25772347" type="video/mp4"/>
       <pubDate>Sun, 04 Jan 2026 19:21:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Латвія передасть Україні 21 ав</title>
+      <link>https://www.mandarinai.lt/post/85833</link>
+      <description>Латвія передасть Україні 21 авто, які були конфісковані у  порушників, — портал Delfi.
+
+Зокрема, планується передати Україні автомобіль класу люкс Lincoln Navigator.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-04_20-40-52.jpg" length="64094" type="image/jpeg"/>
+      <pubDate>Sun, 04 Jan 2026 20:40:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
