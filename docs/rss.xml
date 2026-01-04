@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 05:16:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 06:15:08 +0000</lastBuildDate>
     <item>
       <title>Уряд Венесуели буде захищати п</title>
       <link>https://www.mandarinai.lt/post/85779</link>
@@ -77,6 +77,15 @@
       <description>🥴Білий дім публікує кадри з Мадуро в аеропорту Нью Йорка.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-04_04-16-42.mp4" length="518783" type="video/mp4"/>
       <pubDate>Sun, 04 Jan 2026 04:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фрагменти тіла ще однієї людин</title>
+      <link>https://www.mandarinai.lt/post/85795</link>
+      <description>Фрагменти тіла ще однієї людини знайшли на місці вибуху, який стався в Київському районі Харкова 2 січня, повідомив міський голова Ігор Терехов вночі 4 січня: кількість загиблих зросла до чотирьох.
+
+За словами Терехова, пошуково-рятувальні роботи на місці вибуху тривають</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-04_06-12-39.jpg" length="296380" type="image/jpeg"/>
+      <pubDate>Sun, 04 Jan 2026 06:12:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
