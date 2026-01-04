@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 03:02:41 +0000</lastBuildDate>
-    <item>
-      <title>США будуть керувати Венесуелою</title>
-      <link>https://www.mandarinai.lt/post/85771</link>
-      <description>США будуть керувати Венесуелою, поки  не зможуть здійснити безпечний, належний і розумний перехід влади, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-03_17-33-31.mp4" length="1976336" type="video/mp4"/>
-      <pubDate>Sat, 03 Jan 2026 17:33:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Московська область. Літає і в</title>
-      <link>https://www.mandarinai.lt/post/85774</link>
-      <description>💥Московська область. Літає і вибухає</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-03_17-45-50.mp4" length="464292" type="video/mp4"/>
-      <pubDate>Sat, 03 Jan 2026 17:45:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 04:39:16 +0000</lastBuildDate>
     <item>
       <title>Уряд Венесуели буде захищати п</title>
       <link>https://www.mandarinai.lt/post/85779</link>
@@ -84,6 +70,13 @@
       <description>Літак з Мадуро і його дружиною, приземлився у Нью-Йорку, далі він буде перевезений до слідчого ізолятора.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4772.MP4" length="3609754" type="video/mp4"/>
       <pubDate>Sat, 03 Jan 2026 22:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Білий дім публікує кадри з Ма</title>
+      <link>https://www.mandarinai.lt/post/85792</link>
+      <description>🥴Білий дім публікує кадри з Мадуро в аеропорту Нью Йорка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-04_04-16-42.mp4" length="518783" type="video/mp4"/>
+      <pubDate>Sun, 04 Jan 2026 04:16:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
