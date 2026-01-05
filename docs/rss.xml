@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 16:13:38 +0000</lastBuildDate>
-    <item>
-      <title>🤬В Дніпрі після атаки БпЛА мас</title>
-      <link>https://www.mandarinai.lt/post/85859</link>
-      <description>🤬В Дніпрі після атаки БпЛА масштабна пожежа, - місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-05_10-40-44.mp4" length="315517" type="video/mp4"/>
-      <pubDate>Mon, 05 Jan 2026 10:40:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 17:13:48 +0000</lastBuildDate>
     <item>
       <title>По Харкову ударили балістикою:</title>
       <link>https://www.mandarinai.lt/post/85860</link>
