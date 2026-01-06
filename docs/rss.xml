@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 18:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 19:07:38 +0000</lastBuildDate>
     <item>
       <title>В Куп’янську виявили «щура», я</title>
       <link>https://www.mandarinai.lt/post/85896</link>
@@ -107,6 +107,24 @@ ORLAN – 1.</description>
 Зазначається, що наразі у закладі навчається понад 60 дітей — це учні з 1 по 9 клас. Їм викладають 16 вчителів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_18-03-39.mp4" length="1924978" type="video/mp4"/>
       <pubDate>Tue, 06 Jan 2026 18:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повітряні удари по місцям скуп</title>
+      <link>https://www.mandarinai.lt/post/85908</link>
+      <description>Повітряні удари по місцям скупчення ворожих штурмовиків авіабомбами GBU39 з літаків МіГ-29.
+
+Півтора року тому міністерство оборони США підписало  контракт із Boeing на виробництво приблизно 150 тисяч Small Diameter Bomb GBU-39, які будуть виготовлятися десять років. 
+
+Великий контракт включає постачання для України, Болгарії та Японії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4865.MOV" length="11843987" type="video/mp4"/>
+      <pubDate>Tue, 06 Jan 2026 18:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дуже потужний вибух декілька х</title>
+      <link>https://www.mandarinai.lt/post/85909</link>
+      <description>Дуже потужний вибух декілька хвилин тому пролунав в Дніпрі, - ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4866.MP4" length="738648" type="video/mp4"/>
+      <pubDate>Tue, 06 Jan 2026 18:33:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
