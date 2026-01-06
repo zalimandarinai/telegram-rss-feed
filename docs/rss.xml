@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 04:30:55 +0000</lastBuildDate>
-    <item>
-      <title>Окупанти в Покровську мародеря</title>
-      <link>https://www.mandarinai.lt/post/85871</link>
-      <description>Окупанти в Покровську мародерять своїх поранених замість того, щоб їх спробувати врятувати, - 425-ий полк «Скеля»</description>
-      <pubDate>Mon, 05 Jan 2026 15:35:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 05:15:25 +0000</lastBuildDate>
     <item>
       <title>🤡росія засуджує акт міжнародно</title>
       <link>https://www.mandarinai.lt/post/85872</link>
@@ -119,6 +113,13 @@ CNN: Мадуро заявив, що він «невинний, порядний
 Як зазначає видання, методи можуть відрізняти від використаних у Венесуелі: Вашингтон намагатиметься підкупити місцевих політиків, щоб "зрушити поточну рівновагу".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-05_23-15-07.jpg" length="21871" type="image/jpeg"/>
       <pubDate>Mon, 05 Jan 2026 23:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Ліпецькій області атакован</title>
+      <link>https://www.mandarinai.lt/post/85886</link>
+      <description>💥🔥У Ліпецькій області атаковано нафтобазу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_04-57-29.mp4" length="2968248" type="video/mp4"/>
+      <pubDate>Tue, 06 Jan 2026 04:57:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
