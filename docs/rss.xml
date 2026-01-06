@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 07:16:25 +0000</lastBuildDate>
-    <item>
-      <title>🤡росія засуджує акт міжнародно</title>
-      <link>https://www.mandarinai.lt/post/85872</link>
-      <description>🤡росія засуджує акт міжнародної агресії США щодо Венесуели, — представник рф при ООН Небензя</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-05_15-57-59.mp4" length="1697360" type="video/mp4"/>
-      <pubDate>Mon, 05 Jan 2026 15:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Державні послуги щодо соціальн</title>
-      <link>https://www.mandarinai.lt/post/85873</link>
-      <description>Державні послуги щодо соціального захисту та фінансової підтримки для ветеранів та ветеранок – 👇
-🔹Соціальна стипендія
-🔹Грошова допомога при пораненні
-🔹Соціальні послуги
-🔹Пенсійне забезпечення
-🔹Допоміжні засоби реабілітації
-🔹Фінансові виплати
-🔹Грошова допомога при звільненні
-Дізнайтесь про доступні послуги на платформі ВетеранPRO:
-👉 https://veteranpro.gov.ua/</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-05_16-02-46.jpg" length="89074" type="image/jpeg"/>
-      <pubDate>Mon, 05 Jan 2026 16:02:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 08:15:37 +0000</lastBuildDate>
     <item>
       <title>⚡️ У Нью-Йорку розпочалося суд</title>
       <link>https://www.mandarinai.lt/post/85875</link>
@@ -120,6 +97,26 @@ CNN: Мадуро заявив, що він «невинний, порядний
       <description>💥🔥У Ліпецькій області атаковано нафтобазу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_04-57-29.mp4" length="2968248" type="video/mp4"/>
       <pubDate>Tue, 06 Jan 2026 04:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна опинилася на межі гума</title>
+      <link>https://www.mandarinai.lt/post/85887</link>
+      <description>Україна опинилася на межі гуманітарної енергетичної кризи, і російський диктатор путін лише посилює удари по цивільній інфраструктурі, — Мерц
+
+Канцлер Німеччини звинуватив путіна у воєнних злочинах і зазначив, що Німеччина  прагне покласти край війні. 
+
+Проте це можливо лише, якщо США та Європа дадуть  «справжні гарантії безпеки».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-06_07-55-39.jpg" length="23754" type="image/jpeg"/>
+      <pubDate>Tue, 06 Jan 2026 07:55:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Я – військовополонений, і я</title>
+      <link>https://www.mandarinai.lt/post/85888</link>
+      <description>💬 «Я – військовополонений, і я порядна людина», - так заявив Мадуро в американському суді.
+
+📷 Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-06_07-58-36.jpg" length="35467" type="image/jpeg"/>
+      <pubDate>Tue, 06 Jan 2026 07:58:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
