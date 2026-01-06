@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 20:11:19 +0000</lastBuildDate>
-    <item>
-      <title>🤬У Києві працює підпільна школ</title>
-      <link>https://www.mandarinai.lt/post/85907</link>
-      <description>🤬У Києві працює підпільна школа при монастирі, де школярі, співають російські пісні, дивляться російські фільми та "поважають Росію", — розслідування Слідство. Інфо.
-
-Зазначається, що наразі у закладі навчається понад 60 дітей — це учні з 1 по 9 клас. Їм викладають 16 вчителів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_18-03-39.mp4" length="1924978" type="video/mp4"/>
-      <pubDate>Tue, 06 Jan 2026 18:03:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 21:09:39 +0000</lastBuildDate>
     <item>
       <title>Повітряні удари по місцям скуп</title>
       <link>https://www.mandarinai.lt/post/85908</link>
@@ -97,6 +88,22 @@ BlackRock - це найбільша у світі американська ко�
       <description>🔥💥Нафтобаза на Бєлгородшині продовжує палати після зустрічі з дронами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_20-01-09.mp4" length="413060" type="video/mp4"/>
       <pubDate>Tue, 06 Jan 2026 20:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅Мерц закликав Зеленського заб</title>
+      <link>https://www.mandarinai.lt/post/85920</link>
+      <description>✅Мерц закликав Зеленського забезпечити такі умови, щоб молоді українські чоловіки проходили військову службу у своїй країні, а не виїжджали до Німеччини, Польщі чи Франції
+
+"Ми вже обговорювали це питання разом у Брюсселі, і я вважаю, що це очікування, яке Україна, ймовірно, виконає&lt;/i]", - сказав канцлер Німеччини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_20-13-55.mp4" length="1923040" type="video/mp4"/>
+      <pubDate>Tue, 06 Jan 2026 20:13:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Дніпро під атакою БПЛА:  пр</title>
+      <link>https://www.mandarinai.lt/post/85921</link>
+      <description>⚡️ Дніпро під атакою БПЛА:  прильоти, пожежі, горять авто, ще близько 10 дронів курсом на місто, - місцеві ЗМ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_20-51-21.mp4" length="1770890" type="video/mp4"/>
+      <pubDate>Tue, 06 Jan 2026 20:51:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
