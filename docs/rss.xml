@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 13:29:45 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Я – військовополонений, і я</title>
-      <link>https://www.mandarinai.lt/post/85888</link>
-      <description>💬 «Я – військовополонений, і я порядна людина», - так заявив Мадуро в американському суді.
-
-📷 Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-06_07-58-36.jpg" length="35467" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jan 2026 07:58:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 14:12:02 +0000</lastBuildDate>
     <item>
       <title>👀Ухилянт – зрадник. Ухилянт – </title>
       <link>https://www.mandarinai.lt/post/85889</link>
@@ -97,6 +88,28 @@
 Фото, відео: BBC / Радіо свобода</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_12-52-36.mp4" length="3099501" type="video/mp4"/>
       <pubDate>Tue, 06 Jan 2026 12:52:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Екіпажі дронів-перехоплювачів </title>
+      <link>https://www.mandarinai.lt/post/85902</link>
+      <description>Екіпажі дронів-перехоплювачів у складі 55-ї окремої артилерійської бригади «Запорізька Січ» були сформовані нещодавно.
+
+Чергують на межі Донецької та Дніпропетровської областей, знищуючи повітряні цілі противника.
+
+Використовують дрони «Генерал Черешня AIR».
+
+Мають такий результат по знищених цілях:
+
+«Молния-2» - 164;
+FPV – 15;
+LANCET/ZALA – 6;
+MAVIC – 4;
+«Гербера» - 3;
+SUPERCAM – 2;
+«Князь Вещий Олег» - 2;
+ORLAN – 1.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4857.MP4" length="6567751" type="video/mp4"/>
+      <pubDate>Tue, 06 Jan 2026 14:08:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
