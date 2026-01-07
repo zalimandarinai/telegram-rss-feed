@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 04:32:39 +0000</lastBuildDate>
-    <item>
-      <title>Дуже потужний вибух декілька х</title>
-      <link>https://www.mandarinai.lt/post/85909</link>
-      <description>Дуже потужний вибух декілька хвилин тому пролунав в Дніпрі, - ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4866.MP4" length="738648" type="video/mp4"/>
-      <pubDate>Tue, 06 Jan 2026 18:33:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 05:16:32 +0000</lastBuildDate>
     <item>
       <title>😳Ти неймовірна людина. Слава Б</title>
       <link>https://www.mandarinai.lt/post/85910</link>
@@ -100,6 +93,13 @@ The Times пише, що Верховний лідер Хаменеї готує
       <description>💥🔥Нафтобаза на Бєлгородщині після українських санкцій. Харашо.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_22-38-36.mp4" length="2963897" type="video/mp4"/>
       <pubDate>Tue, 06 Jan 2026 22:38:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Сьогодні в Парижі українська</title>
+      <link>https://www.mandarinai.lt/post/85924</link>
+      <description>‼️Сьогодні в Парижі українська та американська делегації продовжать роботу над гарантіями безпеки і базовою рамкою для закінчення війни в Україні, — Зеленський.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-07_05-16-02.mp4" length="573055" type="video/mp4"/>
+      <pubDate>Wed, 07 Jan 2026 05:16:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
