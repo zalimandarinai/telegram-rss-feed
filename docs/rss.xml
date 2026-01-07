@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 09:17:25 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Дніпро під атакою БПЛА:  пр</title>
-      <link>https://www.mandarinai.lt/post/85921</link>
-      <description>⚡️ Дніпро під атакою БПЛА:  прильоти, пожежі, горять авто, ще близько 10 дронів курсом на місто, - місцеві ЗМ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-06_20-51-21.mp4" length="1770890" type="video/mp4"/>
-      <pubDate>Tue, 06 Jan 2026 20:51:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 10:12:36 +0000</lastBuildDate>
     <item>
       <title>💥🔥Нафтобаза на Бєлгородщині пі</title>
       <link>https://www.mandarinai.lt/post/85923</link>
@@ -111,6 +104,25 @@
       <description>В Курській області невідомі підпалили вежу звʼязку, рух «Атеш» показав відео і стверджує, що це акція партизанів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4881.MP4" length="2797206" type="video/mp4"/>
       <pubDate>Wed, 07 Jan 2026 08:49:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🕯️ На фронті загинув скрипаль </title>
+      <link>https://www.mandarinai.lt/post/85935</link>
+      <description>🕯️ На фронті загинув скрипаль Херсонського камерного оркестру «Гілея» Павло Бабій
+Йому було 29 років</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-07_09-32-04.jpg" length="83931" type="image/jpeg"/>
+      <pubDate>Wed, 07 Jan 2026 09:32:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔫Чехія не припинятиме ініціати</title>
+      <link>https://www.mandarinai.lt/post/85936</link>
+      <description>🔫Чехія не припинятиме ініціативу щодо великокаліберних боєприпасів для України, але платити за снаряди зі свого бюджету не буде, — прем’єр-міністр Андрей Бабіш
+
+У проєкті, який започаткували ще на початку 2024-го, Чехія виконуватиме роль координатора. Натомість його мають фінансувати інші держави, додав чеський прем’єр. 
+
+Це той самий прем'єр, який після нещодавнього обрання наказав знятити в парламенті та уряді українські прапори</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-07_09-34-28.jpg" length="119486" type="image/jpeg"/>
+      <pubDate>Wed, 07 Jan 2026 09:34:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
