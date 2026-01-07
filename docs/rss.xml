@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 19:11:57 +0000</lastBuildDate>
-    <item>
-      <title>В росії розбився гелікоптер Ro</title>
-      <link>https://www.mandarinai.lt/post/85946</link>
-      <description>В росії розбився гелікоптер Robinson R44 з мільйонером Ільясом Гимадутдиновим, власником транспортної компанії «Таттранском», яка надає транспортні послуги «Газпрому» і «Роснефті».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4891.MP4" length="10749933" type="video/mp4"/>
-      <pubDate>Wed, 07 Jan 2026 13:59:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Американці, крім танкера «B</title>
-      <link>https://www.mandarinai.lt/post/85947</link>
-      <description>⚡️ Американці, крім танкера «Bella-1» захопили ще один танкер, «Sophia», як теж є частиною російської мережі, відомої, як так званий «тіньовий флот», - Clash Report
-
-Захоплення відбулося в Карібському морі🫠</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4892.MP4" length="18394086" type="video/mp4"/>
-      <pubDate>Wed, 07 Jan 2026 14:35:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 20:11:44 +0000</lastBuildDate>
     <item>
       <title>✅Світові злочинці попереджені!</title>
       <link>https://www.mandarinai.lt/post/85948</link>
@@ -78,6 +62,15 @@
       <description>Моряки на захопленому танкері «Marinera» будуть передані судовим органам США, — Білий дім</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4898.MP4" length="20583004" type="video/mp4"/>
       <pubDate>Wed, 07 Jan 2026 17:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Протестувальники в Ірані взя</title>
+      <link>https://www.mandarinai.lt/post/85961</link>
+      <description>🔥 Протестувальники в Ірані взяли під контроль вже третє місто - Кередж
+
+Це велике супутнє місто і один з промислових центрів Ірану, розташований на захід від Тегерана. Кередж - адміністративний центр провінції Альборз, важливий транспортний вузол, що з'єднує Тегеран з Каспійським морем та іншими регіонами, з населенням понад 1,5 мільйона людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-07_20-00-35.mp4" length="854312" type="video/mp4"/>
+      <pubDate>Wed, 07 Jan 2026 20:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
