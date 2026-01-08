@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 03:56:22 +0000</lastBuildDate>
-    <item>
-      <title>Моряки на захопленому танкері </title>
-      <link>https://www.mandarinai.lt/post/85958</link>
-      <description>Моряки на захопленому танкері «Marinera» будуть передані судовим органам США, — Білий дім</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4898.MP4" length="20583004" type="video/mp4"/>
-      <pubDate>Wed, 07 Jan 2026 17:26:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 04:31:09 +0000</lastBuildDate>
     <item>
       <title>🔥 Протестувальники в Ірані взя</title>
       <link>https://www.mandarinai.lt/post/85961</link>
@@ -67,6 +60,15 @@
 Огляд пошкоджень, оцінка наслідків та відновлювальні роботи розпочнуться одразу, як тільки це дозволить безпекова сутація</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-07_21-27-19.jpg" length="67794" type="image/jpeg"/>
       <pubDate>Wed, 07 Jan 2026 21:27:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Понад 200 жителів Запоріжжя вж</title>
+      <link>https://www.mandarinai.lt/post/85973</link>
+      <description>Понад 200 жителів Запоріжжя вже звернулися за допомогою до пунктів незламності, - ОВА
+
+На місцях люди отримують можливість зігрітися гарячим чаєм, зарядити гаджети та переночувати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-08_04-21-53.mp4" length="1483631" type="video/mp4"/>
+      <pubDate>Thu, 08 Jan 2026 04:21:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
