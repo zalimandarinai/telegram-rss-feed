@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 06:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 07:15:08 +0000</lastBuildDate>
     <item>
       <title>⚡️Усі (!) ТЕЦ, що знаходяться </title>
       <link>https://www.mandarinai.lt/post/85968</link>
@@ -68,7 +68,7 @@
 ▪️Найімовірніше на ранок також можливі перебої з роботою електротранспорту. 
 
 ▪️Канікули у школах подовжено ще на дві доби.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-08_04-57-12.jpg" length="30818" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-08_04-57-12.jpg" length="86844" type="image/jpeg"/>
       <pubDate>Thu, 08 Jan 2026 04:57:12 +0000</pubDate>
     </item>
     <item>
@@ -88,6 +88,15 @@
       <description>⚡️Трамп схвалив законопроект про нові санкції проти росії, — сенатор Грем</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-08_04-57-44.jpg" length="15987" type="image/jpeg"/>
       <pubDate>Thu, 08 Jan 2026 04:57:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Більше мільйона людей на Дні</title>
+      <link>https://www.mandarinai.lt/post/85982</link>
+      <description>❗️Більше мільйона людей на Дніпропетровщині зараз без тепла та води після масованої атаки, — міністр розвитку громад та територій Кулеба
+
+В область завозять генератори з інших регіонів та додаткові аварійні бригади мобільних операторів для забезпечення звʼязку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-08_06-50-46.jpg" length="30829" type="image/jpeg"/>
+      <pubDate>Thu, 08 Jan 2026 06:50:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
