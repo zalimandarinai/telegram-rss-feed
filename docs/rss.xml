@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 04:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 05:15:37 +0000</lastBuildDate>
     <item>
       <title>❗️ Внаслідок влучання «шахеда»</title>
       <link>https://www.mandarinai.lt/post/86056</link>
@@ -65,6 +65,22 @@
       <description>💥Момент удару по Орловській ТЕЦ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-09_04-11-38.mp4" length="2844779" type="video/mp4"/>
       <pubDate>Fri, 09 Jan 2026 04:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬росія повторно атакували один</title>
+      <link>https://www.mandarinai.lt/post/86069</link>
+      <description>🤬росія повторно атакували один із об'єктів у Києві, коли там працювали рятувальники  та медики. Під час цієї атаки загинув один із них.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-09_04-48-46.jpg" length="73488" type="image/jpeg"/>
+      <pubDate>Fri, 09 Jan 2026 04:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡русня верещить, що начебто "з</title>
+      <link>https://www.mandarinai.lt/post/86070</link>
+      <description>🤡русня верещить, що начебто "знищила" газосховище у Львівській області "Орєшніком" без бойової частини.
+
+Насправлі, метою удару неподалік кордону з ЄС було демонстративно залякування Заходу новою швилкісною ракетою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-09_05-00-31.mp4" length="1864396" type="video/mp4"/>
+      <pubDate>Fri, 09 Jan 2026 05:00:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
