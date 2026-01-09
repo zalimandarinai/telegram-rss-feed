@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 02:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 03:56:32 +0000</lastBuildDate>
     <item>
       <title>😐 Я не думаю, що можна чинити </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -47,7 +47,7 @@
     <item>
       <title>❗️ Внаслідок влучання «шахеда»</title>
       <link>https://www.mandarinai.lt/post/86056</link>
-      <description>❗️ Внаслідок влучання «шахеда» пожежа в одній з київських багатоповерхівок, - як стверджують підписники, в цьому районі раніше теж були влучання російських дронів</description>
+      <description>❗️ Внаслідок влучання «шахеда» пожежа в одній з київських багатоповерхівок, - як стверджують підписники, на цій локації раніше теж були влучання російських дронів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4961.MP4" length="151208" type="video/mp4"/>
       <pubDate>Fri, 09 Jan 2026 00:10:18 +0000</pubDate>
     </item>
@@ -61,9 +61,7 @@
     <item>
       <title>❗️ Ракета влучила у будинок, з</title>
       <link>https://www.mandarinai.lt/post/86060</link>
-      <description>❗️ Ракета влучила у будинок, загинула сім’я в столиці, — ЗМІ
-
-Офіційних коментарів немає</description>
+      <description>❗️ Ракета влучила у будинок, загинула сім’я в столиці, — ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4963.MP4" length="7708205" type="video/mp4"/>
       <pubDate>Fri, 09 Jan 2026 00:29:16 +0000</pubDate>
     </item>
