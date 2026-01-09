@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 07:15:59 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Ракета влучила у будинок в </title>
-      <link>https://www.mandarinai.lt/post/86060</link>
-      <description>❗️ Ракета влучила у будинок в столиці, — ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4963.MP4" length="7708205" type="video/mp4"/>
-      <pubDate>Fri, 09 Jan 2026 00:29:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 08:15:11 +0000</lastBuildDate>
     <item>
       <title>❗️ Горить багатоповерхівка піс</title>
       <link>https://www.mandarinai.lt/post/86061</link>
       <description>❗️ Горить багатоповерхівка після влучання</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4960.MP4" length="468485" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4960.MP4" length="841184" type="video/mp4"/>
       <pubDate>Fri, 09 Jan 2026 00:41:33 +0000</pubDate>
     </item>
     <item>
@@ -53,18 +46,18 @@
       <pubDate>Fri, 09 Jan 2026 04:11:38 +0000</pubDate>
     </item>
     <item>
-      <title>🤬росія повторно атакували один</title>
+      <title>🤬 росіяни повторно атакували о</title>
       <link>https://www.mandarinai.lt/post/86069</link>
-      <description>🤬росія повторно атакували один із об'єктів у Києві, коли там працювали рятувальники  та медики. Під час цієї атаки загинув один із них.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-09_04-48-46.jpg" length="73488" type="image/jpeg"/>
+      <description>🤬 росіяни повторно атакували один із об'єктів у Києві, коли там працювали рятувальники та медики. Під час цієї атаки загинув один із них.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4965.MP4" length="6293513" type="video/mp4"/>
       <pubDate>Fri, 09 Jan 2026 04:48:46 +0000</pubDate>
     </item>
     <item>
-      <title>🤡русня верещить, що начебто "з</title>
+      <title>🤡русня верещить, що начебто «з</title>
       <link>https://www.mandarinai.lt/post/86070</link>
-      <description>🤡русня верещить, що начебто "знищила" газосховище у Львівській області "Орєшніком" без бойової частини.
+      <description>🤡русня верещить, що начебто «знищила» газосховище у Львівській області «Орєшніком» без бойової частини.
 
-Насправді, метою удару неподалік кордону з ЄС було демонстративне залякування Заходу новою швидкісною ракетою.</description>
+Насправді метою удару неподалік кордону з ЄС було демонстративне залякування Заходу новою швидкісною ракетою.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-09_05-00-31.mp4" length="1864396" type="video/mp4"/>
       <pubDate>Fri, 09 Jan 2026 05:00:31 +0000</pubDate>
     </item>
@@ -87,6 +80,24 @@
 Удар було завдано з полігону Капустін Яр, Астраханська область</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-09_06-48-55.mp4" length="492427" type="video/mp4"/>
       <pubDate>Fri, 09 Jan 2026 06:48:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Репортер: путін телефонував ва</title>
+      <link>https://www.mandarinai.lt/post/86075</link>
+      <description>Репортер: путін телефонував вам після захоплення танкера? 
+
+Трамп: Я не хочу цього говорити, але факт у тому, що російські кораблі — там був підводний човен і есмінець — вони обидва дуже швидко відпливли, коли ми прибули.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-09_07-49-29.mp4" length="860791" type="video/mp4"/>
+      <pubDate>Fri, 09 Jan 2026 07:49:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸🇲🇽 Трамп оголосив про почато</title>
+      <link>https://www.mandarinai.lt/post/86076</link>
+      <description>🇺🇸🇲🇽 Трамп оголосив про початок бойових дій проти Мексики.
+
+💬 «Ми перекрили 97 відсотків наркотиків, які надходили морем. А тепер збираємося завдавати ударів і на суші проти картелів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4966.MP4" length="13439745" type="video/mp4"/>
+      <pubDate>Fri, 09 Jan 2026 08:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
