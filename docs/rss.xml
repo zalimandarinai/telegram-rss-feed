@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 12:17:00 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Вночі ворог атакував Дніпро,</title>
-      <link>https://www.mandarinai.lt/post/86126</link>
-      <description>⚡️Вночі ворог атакував Дніпро, є поранені. В місті перебої з електропостачанням</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-10_05-21-02.mp4" length="316485" type="video/mp4"/>
-      <pubDate>Sat, 10 Jan 2026 05:21:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸 Ми не дозволимо Росії чи Ки</title>
-      <link>https://www.mandarinai.lt/post/86127</link>
-      <description>🇺🇸 Ми не дозволимо Росії чи Китаю окупувати Гренландію. Бо саме це вони зроблять, якщо ми не вживемо заходів, — Трамп.
-
-За його словами, зараз поблизу Гренландії перебуває купа російських та китайських есмінців, а також російські підводні човни. Тож він зараз хотів би укласти угоду з Гренландією простим шляхом — а якщо не вдасться, то важким</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-10_06-02-20.mp4" length="8050821" type="video/mp4"/>
-      <pubDate>Sat, 10 Jan 2026 06:02:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 13:22:12 +0000</lastBuildDate>
     <item>
       <title>‼️Україна вивчає план США щодо</title>
       <link>https://www.mandarinai.lt/post/86128</link>
@@ -99,6 +83,22 @@
       <description>❗️Проблема корупції в ТЦК і СЗЧ у військах: готуємо ефективні рішення, — Буданов</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-10_12-00-13.jpg" length="143589" type="image/jpeg"/>
       <pubDate>Sat, 10 Jan 2026 12:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Макрон повідомив парламенту</title>
+      <link>https://www.mandarinai.lt/post/86142</link>
+      <description>⚡️ Макрон повідомив парламенту про план розміщення 6 тисяч французьких військових в Україні після укладення мирної угоди, — Le Monde
+
+Водночас президент Франції зауважив, що сили «не будуть на передовій», не братимуть участі в бойових діях і розгортатимуться як підрозділи стримування для підтримки української армії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-10_12-34-23.jpg" length="71195" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jan 2026 12:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відео з бодікамери агента мігр</title>
+      <link>https://www.mandarinai.lt/post/86143</link>
+      <description>Відео з бодікамери агента міграційної та митної служби США, який застрелив Рене Гуд в Міннеаполісі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5013.MP4" length="4345103" type="video/mp4"/>
+      <pubDate>Sat, 10 Jan 2026 12:36:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
