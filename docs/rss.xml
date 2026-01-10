@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 07:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 08:12:54 +0000</lastBuildDate>
     <item>
       <title>🇺🇦🇺🇸Україна передала розробку </title>
       <link>https://www.mandarinai.lt/post/86116</link>
@@ -104,6 +104,12 @@ LW Research</description>
       <description>‼️Україна вивчає план США щодо буферної економічної зони, яка може з’явитися між українськими та російськими військами у разі перемир’я, – Зеленський.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-10_06-02-54.jpg" length="127836" type="image/jpeg"/>
       <pubDate>Sat, 10 Jan 2026 06:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «FPV викурює окупантів. Вони</title>
+      <link>https://www.mandarinai.lt/post/86129</link>
+      <description>💬 «FPV викурює окупантів. Вони ще не знають, що поруч наша штурмова група», - 425-ий полк «Скеля» показав, як в одному з районів Покровська відбувається координація атаки штурмовиків та операторів дронів.</description>
+      <pubDate>Sat, 10 Jan 2026 07:18:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
