@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 21:08:27 +0000</lastBuildDate>
-    <item>
-      <title>В Тегерані протестувальники зн</title>
-      <link>https://www.mandarinai.lt/post/86145</link>
-      <description>В Тегерані протестувальники знесли один із головних символів режиму Ісламської Республіки. З точки зору режиму це наруга над самим Аятолою Хаменеї. Стає дедалі цікавіше.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5014.MP4" length="852670" type="video/mp4"/>
-      <pubDate>Sat, 10 Jan 2026 14:22:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 22:09:07 +0000</lastBuildDate>
     <item>
       <title>⚡️Вперше! за час війни над Хар</title>
       <link>https://www.mandarinai.lt/post/86146</link>
@@ -92,6 +85,22 @@
 За словами Віктора Трегубова, у межах самого Куп’янська річка не створює серйозної перешкоди, адже українські військові утримують обидва береги.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-10_20-35-18.mp4" length="2285345" type="video/mp4"/>
       <pubDate>Sat, 10 Jan 2026 20:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>😏99% потреб в піхотинцях забез</title>
+      <link>https://www.mandarinai.lt/post/86161</link>
+      <description>😏99% потреб в піхотинцях забезпечує ТЦК. Не приходять люди добровільно з бажанням стати піхотинцем, ходити в штурми і зачищати посадки, – начальник відділення рекрутингу 5-ї ОШБ Тарасенко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-10_21-09-07.mp4" length="3056318" type="video/mp4"/>
+      <pubDate>Sat, 10 Jan 2026 21:09:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Адміністрація Трампа обговорил</title>
+      <link>https://www.mandarinai.lt/post/86162</link>
+      <description>Адміністрація Трампа обговорила можливий масштабний авіаудар по військових об'єктах Ірану, — The Wall Street Journa
+
+Нагадаємо, що в Ірані два тижні тривають масштабні протести, які можуть призвести до повалення влади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-10_21-12-52.jpg" length="20586" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jan 2026 21:12:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
