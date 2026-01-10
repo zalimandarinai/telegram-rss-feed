@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 11:07:42 +0000</lastBuildDate>
-    <item>
-      <title>Репортер: Ви коли-небудь відда</title>
-      <link>https://www.mandarinai.lt/post/86124</link>
-      <description>Репортер: Ви коли-небудь віддасте наказ провести операцію з захоплення путіна?
-
-Трамп: Ну, я не думаю, що це буде необхідно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-09_20-52-44.mp4" length="2147985" type="video/mp4"/>
-      <pubDate>Fri, 09 Jan 2026 20:52:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 12:17:00 +0000</lastBuildDate>
     <item>
       <title>⚡️Вночі ворог атакував Дніпро,</title>
       <link>https://www.mandarinai.lt/post/86126</link>
@@ -96,15 +87,18 @@
       <pubDate>Sat, 10 Jan 2026 10:50:31 +0000</pubDate>
     </item>
     <item>
-      <title>‼️ТЦК більше не зупинятимуть а</title>
-      <link>https://www.mandarinai.lt/post/86138</link>
-      <description>‼️ТЦК більше не зупинятимуть авто та не чергуватимуть на блокпостах: у 2026 році мобілізація перейде в цифрову форму, — як вказано, документи перевірятимуть лише Нацполіція, Нацгвардія та СБУ 
-
-Що зміниться: камери автоматично зчитуватимуть номера авто, і якщо власник є в базі «Оберіг», сигнал одразу отримає найближчий патруль.
-
-Неоновлені дані в «Резерв+» або порушення правил можуть обернутися штрафом, забороною на водіння чи доставленням до сервісного центру поліцією</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-10_11-05-04.jpg" length="7232" type="image/jpeg"/>
-      <pubDate>Sat, 10 Jan 2026 11:05:04 +0000</pubDate>
+      <title>Ворожа САУ зайняла дуже помітн</title>
+      <link>https://www.mandarinai.lt/post/86139</link>
+      <description>Ворожа САУ зайняла дуже помітну позицію десь в Запорізькій області, і оператори дронів 210-го штурмового полку негайно перетворили її на зручну мішень.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5007.MP4" length="7944162" type="video/mp4"/>
+      <pubDate>Sat, 10 Jan 2026 11:28:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Проблема корупції в ТЦК і СЗ</title>
+      <link>https://www.mandarinai.lt/post/86141</link>
+      <description>❗️Проблема корупції в ТЦК і СЗЧ у військах: готуємо ефективні рішення, — Буданов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-10_12-00-13.jpg" length="143589" type="image/jpeg"/>
+      <pubDate>Sat, 10 Jan 2026 12:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
