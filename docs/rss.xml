@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 19:07:20 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Макрон повідомив парламенту</title>
-      <link>https://www.mandarinai.lt/post/86142</link>
-      <description>⚡️ Макрон повідомив парламенту про план розміщення 6 тисяч французьких військових в Україні після укладення мирної угоди, — Le Monde
-
-Водночас президент Франції зауважив, що сили «не будуть на передовій», не братимуть участі в бойових діях і розгортатимуться як підрозділи стримування для підтримки української армії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-10_12-34-23.jpg" length="71195" type="image/jpeg"/>
-      <pubDate>Sat, 10 Jan 2026 12:34:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 20:10:23 +0000</lastBuildDate>
     <item>
       <title>Відео з бодікамери агента мігр</title>
       <link>https://www.mandarinai.lt/post/86143</link>
@@ -104,6 +95,13 @@
       <description>💩В Буковелі у цьому сезоні деякі катаються в російських олімпійських костюмах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-10_16-57-02.mp4" length="1330698" type="video/mp4"/>
       <pubDate>Sat, 10 Jan 2026 16:57:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Українські повітряні санкції</title>
+      <link>https://www.mandarinai.lt/post/86158</link>
+      <description>💥🔥Українські повітряні санкції зустрічає російській Воронеж</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-10_19-19-12.mp4" length="816025" type="video/mp4"/>
+      <pubDate>Sat, 10 Jan 2026 19:19:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
