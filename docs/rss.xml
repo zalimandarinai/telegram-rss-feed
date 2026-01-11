@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 21:08:26 +0000</lastBuildDate>
-    <item>
-      <title>Африканські найманці в російсь</title>
-      <link>https://www.mandarinai.lt/post/86190</link>
-      <description>Африканські найманці в російській армії голосно співають щось схоже на «Давай вперед, боєць», і така самостійна мотивація корисних ідіотів влаштовує їхніх нових господарів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5034.MP4" length="15112258" type="video/mp4"/>
-      <pubDate>Sun, 11 Jan 2026 14:27:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 22:08:59 +0000</lastBuildDate>
     <item>
       <title>Не дуже вдала спроба африкансь</title>
       <link>https://www.mandarinai.lt/post/86191</link>
@@ -134,6 +127,12 @@ CNN повідомляє, що російська ракета «Орєшнік�
 Ситуація критична — електропостачання відсутнє вже понад 60 годин в деяких районах столиці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-11_20-57-22.mp4" length="795997" type="video/mp4"/>
       <pubDate>Sun, 11 Jan 2026 20:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрозділ безпілотних ударних </title>
+      <link>https://www.mandarinai.lt/post/86210</link>
+      <description>Підрозділ безпілотних ударних комплексів «The Ravens» допомагає зупинити просування ворога в районі села Одрадне північніше Купʼянська на Харківщині.</description>
+      <pubDate>Sun, 11 Jan 2026 21:31:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
