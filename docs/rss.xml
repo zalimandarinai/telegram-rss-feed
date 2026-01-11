@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 13:22:42 +0000</lastBuildDate>
-    <item>
-      <title>В Московській області хтось пі</title>
-      <link>https://www.mandarinai.lt/post/86175</link>
-      <description>В Московській області хтось підпалив вишку зв’язку 5-ої дивізії ППО, ймовірно, в/ч 52096, розташованої в місті Видне, - рух «Атеш» стверджує, що це зробили «партизани».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5022.MP4" length="1919273" type="video/mp4"/>
-      <pubDate>Sun, 11 Jan 2026 09:50:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 14:08:41 +0000</lastBuildDate>
     <item>
       <title>❗️У Кадирова відмовили нирки, </title>
       <link>https://www.mandarinai.lt/post/86176</link>
@@ -102,6 +95,13 @@
 ▪️ Військових уразила зброя, схожа на потужну звукову хвилю: почалися кровотечі та параліч</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-11_12-43-31.jpg" length="137631" type="image/jpeg"/>
       <pubDate>Sun, 11 Jan 2026 12:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Українські війська знову ур</title>
+      <link>https://www.mandarinai.lt/post/86189</link>
+      <description>⚡️ Українські війська знову уразили три бурових установки ім. В. Філановського, ім. Юрія Корчагіна і ім. Валерія Грайфера корпорації «Лукойл» в акваторії Каспійського моря</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-11_13-49-38.jpg" length="64738" type="image/jpeg"/>
+      <pubDate>Sun, 11 Jan 2026 13:49:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
