@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 15:08:52 +0000</lastBuildDate>
-    <item>
-      <title>😡Вибухи на заході України — ша</title>
-      <link>https://www.mandarinai.lt/post/86178</link>
-      <description>😡Вибухи на заході України — шахеди з ночі безперервно атакують Рівненщину та прориваються на Волинь
-
-Ворог намагається атакувати енергетичну інфраструктуру західних областей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-11_11-26-45.mp4" length="435827" type="video/mp4"/>
-      <pubDate>Sun, 11 Jan 2026 11:26:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 16:10:31 +0000</lastBuildDate>
     <item>
       <title>🔞 В Сирії знову бої за Алеппо.</title>
       <link>https://www.mandarinai.lt/post/86180</link>
@@ -90,6 +81,13 @@
       <description>Не дуже вдала спроба африканського найманця відбитися від FPV десь біля Лимана.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5036.MP4" length="2368936" type="video/mp4"/>
       <pubDate>Sun, 11 Jan 2026 14:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Зграя українських дронів знищ</title>
+      <link>https://www.mandarinai.lt/post/86192</link>
+      <description>🔥Зграя українських дронів знищує російську штурмову групу з п'яти осіб під Покровським</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-11_16-10-02.mp4" length="2745587" type="video/mp4"/>
+      <pubDate>Sun, 11 Jan 2026 16:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
