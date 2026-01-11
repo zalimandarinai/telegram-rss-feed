@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 05:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 06:15:17 +0000</lastBuildDate>
     <item>
       <title>Видобуток нафти в Росії впав д</title>
       <link>https://www.mandarinai.lt/post/86151</link>
@@ -94,17 +94,15 @@
       <pubDate>Sun, 11 Jan 2026 04:26:47 +0000</pubDate>
     </item>
     <item>
-      <title>‼️Внаслідок ворожої атаки част</title>
-      <link>https://www.mandarinai.lt/post/86164</link>
-      <description>‼️Внаслідок ворожої атаки частина Дніпропетровщини та Запоріжжя залишилися без світла
+      <title>⚡️Трамп доручив Пентагону підг</title>
+      <link>https://www.mandarinai.lt/post/86165</link>
+      <description>⚡️Трамп доручив Пентагону підготувати план можливого вторгнення в Гренландію, — Daily Mail
 
-У компанії ДТЕК повідомили, що у частині Дніпропетровської області та місті Дніпро сталися аварійні відключення електроенергії. Стабілізаційні графіки наразі не застосовуються.
+Ініціативу, за даними видання, просувають «яструби» з оточення Трампа, зокрема радник Стівен Міллер. У Білому домі вважають, що після операції із захоплення Ніколаса Мадуро США мають діяти швидко, поки росія або Китай не посилили свій вплив в Арктиці.
 
-В свою чергу голова Запорізької ОВА Іван Федоров про знеструмлення Запорізької області та про перебої з водопостачанням.
-
-UPD: 04:22 — електропостачання в Запорізькій області відновлено</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-11_04-28-26.jpg" length="115537" type="image/jpeg"/>
-      <pubDate>Sun, 11 Jan 2026 04:28:26 +0000</pubDate>
+Водночас військове керівництво США виступає проти: генерали називають такий план незаконним і переконані, що він не отримає підтримки Конгресу. Дипломати також припускають, що тема Гренландії може використовуватися для відвернення уваги виборців від економічних проблем напередодні проміжних виборів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-11_05-41-09.jpg" length="75475" type="image/jpeg"/>
+      <pubDate>Sun, 11 Jan 2026 05:41:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
