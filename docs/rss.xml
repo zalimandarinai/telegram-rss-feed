@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 04:09:09 +0000</lastBuildDate>
-    <item>
-      <title>Не дуже вдала спроба африкансь</title>
-      <link>https://www.mandarinai.lt/post/86191</link>
-      <description>Не дуже вдала спроба африканського найманця відбитися від FPV десь біля Лимана.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5036.MP4" length="2368936" type="video/mp4"/>
-      <pubDate>Sun, 11 Jan 2026 14:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Зграя українських дронів знищ</title>
-      <link>https://www.mandarinai.lt/post/86192</link>
-      <description>🔥Зграя українських дронів знищує російську штурмову групу з п'яти осіб під Покровським</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-11_16-10-02.mp4" length="2745587" type="video/mp4"/>
-      <pubDate>Sun, 11 Jan 2026 16:10:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 05:20:51 +0000</lastBuildDate>
     <item>
       <title>👀Німеччина пропонує НАТО створ</title>
       <link>https://www.mandarinai.lt/post/86193</link>
@@ -133,6 +119,13 @@ CNN повідомляє, що російська ракета «Орєшнік�
       <link>https://www.mandarinai.lt/post/86210</link>
       <description>Підрозділ безпілотних ударних комплексів «The Ravens» допомагає зупинити просування ворога в районі села Одрадне північніше Купʼянська на Харківщині.</description>
       <pubDate>Sun, 11 Jan 2026 21:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🫠Українські дрони вудкам перех</title>
+      <link>https://www.mandarinai.lt/post/86212</link>
+      <description>🫠Українські дрони вудкам перехоплюють російські розвід-БпЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-12_04-41-38.mp4" length="1142062" type="video/mp4"/>
+      <pubDate>Mon, 12 Jan 2026 04:41:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
