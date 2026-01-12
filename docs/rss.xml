@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 15:14:25 +0000</lastBuildDate>
-    <item>
-      <title>В арсеналі України теж є кориг</title>
-      <link>https://www.mandarinai.lt/post/86237</link>
-      <description>В арсеналі України теж є кориговані авіабомби, щоправда, їх не так багато, як в росіян.
-
-МіГ-29 Сил оборони України уразив позиції окупантів бомбами французького виробництва AASM Hammer.
-
-В результаті зафіксовано детонацію боєкомплекту на складі, який уразили льотчики.
-
-У підрозділі подякували аеророзвідникам за якісні дані.
-
-Нещодавно боєприпаси AASM Hammer були адаптовані для використання на літаках Су-25, які є на озброєнні 299-ої бригаді тактичної авіації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5054.MP4" length="1688435" type="video/mp4"/>
-      <pubDate>Mon, 12 Jan 2026 11:48:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ворог не може повністю окупува</title>
-      <link>https://www.mandarinai.lt/post/86238</link>
-      <description>Ворог не може повністю окупувати Покровськ. В місті 425-ий полк «Скеля» продовжує здійснювати рейди та проводити штурмові операції. Боєць з позивним «Ред» повернувся із завдання, під час виконання якого вдалось нейтралізувати противника в засідці та врятувати побратима.</description>
-      <pubDate>Mon, 12 Jan 2026 12:02:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 16:14:36 +0000</lastBuildDate>
     <item>
       <title>❗️Придністров’я повністю відрі</title>
       <link>https://www.mandarinai.lt/post/86240</link>
@@ -115,6 +94,16 @@
 Генсек НАТО наголосив, що такі дії спрямовані не лише проти України, а й проти її партнерів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-12_15-12-59.jpg" length="40442" type="image/jpeg"/>
       <pubDate>Mon, 12 Jan 2026 15:12:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Доручив фіналізувати докумен</title>
+      <link>https://www.mandarinai.lt/post/86253</link>
+      <description>❗️Доручив фіналізувати документ щодо гарантій безпеки для України від США та передати для розгляду на найвищому рівні. Це повинен бути документ історичного рівня, і саме такого рівня текст досягає зараз, - Зеленський
+
+▪️Розуміємо, що американська сторона перебуває в комунікації з росією щодо базової політичної рамки для закінчення війни. Ми сформулювали наше бачення, і повинен бути чіткий фідбек від рф, чи готові вони закінчити війну на реальних умовах;
+▪️Якщо такої готовності не буде, тиск на агресора має й надалі посилюватися;</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-12_15-50-55.jpg" length="199883" type="image/jpeg"/>
+      <pubDate>Mon, 12 Jan 2026 15:50:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
