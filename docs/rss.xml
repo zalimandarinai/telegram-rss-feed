@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 09:17:05 +0000</lastBuildDate>
-    <item>
-      <title>«Росія навмисно дочекалася поч</title>
-      <link>https://www.mandarinai.lt/post/86290</link>
-      <description>«Росія навмисно дочекалася початку січня, коли температура в Україні впала до мінус 15, щоб завдати одних із найруйнівніших ударів дронами та ракетами по нашій енергетичній інфраструктурі, загнавши мільйони цивільних в умови холоду та замерзання», - так заявив постпред України при ООН Андрій Мельник
-
-«Щоразу, коли міжнародна спільнота вважає, що росія вже досягла дна в брехні та варварстві, москва знову його пробиває».
-
-«Вона доводить, що її злочинним намірам немає кінця».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5069.MP4" length="5920377" type="video/mp4"/>
-      <pubDate>Tue, 13 Jan 2026 07:39:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇬🇷 Неподалік Новоросійська дро</title>
-      <link>https://www.mandarinai.lt/post/86291</link>
-      <description>🇬🇷 Неподалік Новоросійська дрони атакували нафтовий танкер «Delta Harmony» під прапором Греції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_07-47-50.jpg" length="35710" type="image/jpeg"/>
-      <pubDate>Tue, 13 Jan 2026 07:47:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 10:11:53 +0000</lastBuildDate>
     <item>
       <title>Вночі збито 240/293 БПЛА та 7/</title>
       <link>https://www.mandarinai.lt/post/86293</link>
@@ -75,6 +57,20 @@
 Як встановило розслідування, на замовлення рф фігуранти мали підірвати декілька службових авто разом з українськими правоохоронцями, фсб обіцяла агентам «евакуацію».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_09-10-16.jpg" length="154490" type="image/jpeg"/>
       <pubDate>Tue, 13 Jan 2026 09:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Через перебої з електроенергіє</title>
+      <link>https://www.mandarinai.lt/post/86306</link>
+      <description>Через перебої з електроенергією частина супермаркетів «NOVUS» і «Сільпо» тимчасово не працюють, — «Forbes»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_09-31-17.jpg" length="105232" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 09:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩русня зруйнувала інфраструкту</title>
+      <link>https://www.mandarinai.lt/post/86307</link>
+      <description>💩русня зруйнувала інфраструктуру на знаменитом одеському пляжі Ланжерон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_09-50-12.mp4" length="728706" type="video/mp4"/>
+      <pubDate>Tue, 13 Jan 2026 09:50:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
