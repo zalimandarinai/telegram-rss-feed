@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 03:56:39 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Орловська ТЕЦ палає після ат</title>
-      <link>https://www.mandarinai.lt/post/86258</link>
-      <description>💥🔥Орловська ТЕЦ палає після атаки БпЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-12_17-40-03.mp4" length="396951" type="video/mp4"/>
-      <pubDate>Mon, 12 Jan 2026 17:40:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 04:32:36 +0000</lastBuildDate>
     <item>
       <title>⛴️ Два цивільні судна були ата</title>
       <link>https://www.mandarinai.lt/post/86259</link>
@@ -72,6 +65,20 @@
 Зараз триває дронова атака</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_03-50-45.jpg" length="279837" type="image/jpeg"/>
       <pubDate>Tue, 13 Jan 2026 03:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російському Таганрозі атак</title>
+      <link>https://www.mandarinai.lt/post/86271</link>
+      <description>💥🔥В російському Таганрозі атаковано підприємство Атлант-Аеро</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_04-22-10.mp4" length="106209" type="video/mp4"/>
+      <pubDate>Tue, 13 Jan 2026 04:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Наслідки обстрілу терміналу «</title>
+      <link>https://www.mandarinai.lt/post/86273</link>
+      <description>🤬Наслідки обстрілу терміналу «Нової пошти» в передмісті Харкова</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_04-25-15.mp4" length="3910071" type="video/mp4"/>
+      <pubDate>Tue, 13 Jan 2026 04:25:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
