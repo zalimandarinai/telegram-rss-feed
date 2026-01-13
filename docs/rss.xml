@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 04:32:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:16:34 +0000</lastBuildDate>
     <item>
       <title>⛴️ Два цивільні судна були ата</title>
       <link>https://www.mandarinai.lt/post/86259</link>
@@ -76,7 +76,11 @@
     <item>
       <title>🤬Наслідки обстрілу терміналу «</title>
       <link>https://www.mandarinai.lt/post/86273</link>
-      <description>🤬Наслідки обстрілу терміналу «Нової пошти» в передмісті Харкова</description>
+      <description>🤬Наслідки обстрілу терміналу «Нової пошти» в передмісті Харкова
+
+Кількість загиблих внаслідок ворожого удару по передмістю Харкова сягнула 4 людей, інформує ОВА.
+
+Також 6 людей отримали поранення</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_04-25-15.mp4" length="3910071" type="video/mp4"/>
       <pubDate>Tue, 13 Jan 2026 04:25:15 +0000</pubDate>
     </item>
