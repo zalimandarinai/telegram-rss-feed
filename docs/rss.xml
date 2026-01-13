@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 15:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 16:16:29 +0000</lastBuildDate>
     <item>
       <title>🫣У ВР немає опалення, депутати</title>
       <link>https://www.mandarinai.lt/post/86309</link>
@@ -95,6 +95,13 @@
 За даними видання, апарат генерує імпульсні радіохвилі, які можуть спричинити інциденти, названі «акустичними атаками». Цю зброю американський спецназ міг використати при спецоперації по захопленню Мадуро.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_14-22-11.jpg" length="113062" type="image/jpeg"/>
       <pubDate>Tue, 13 Jan 2026 14:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️5 ракет влучило в ТЕЦ-5 у Ки</title>
+      <link>https://www.mandarinai.lt/post/86324</link>
+      <description>❗️5 ракет влучило в ТЕЦ-5 у Києві. Там такі пошкодження, що дуже важко перезапустити подачу теплоносія (опалення), – про це заявив перший заступник голови Комітету вр з питань енергетики Кучеренко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_16-14-07.mp4" length="2642921" type="video/mp4"/>
+      <pubDate>Tue, 13 Jan 2026 16:14:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
