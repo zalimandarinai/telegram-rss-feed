@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 10:11:53 +0000</lastBuildDate>
-    <item>
-      <title>Вночі збито 240/293 БПЛА та 7/</title>
-      <link>https://www.mandarinai.lt/post/86293</link>
-      <description>Вночі збито 240/293 БПЛА та 7/25 ракет.
-
-▪️2 з 18 балістичних Іскандер-М/ С-300.
-▪️5 з 7 крилатих ракет Іскандер-К</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_07-55-13.jpg" length="280774" type="image/jpeg"/>
-      <pubDate>Tue, 13 Jan 2026 07:55:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 11:10:33 +0000</lastBuildDate>
     <item>
       <title>😨В деяких районах Києва світло</title>
       <link>https://www.mandarinai.lt/post/86295</link>
@@ -68,9 +58,16 @@
     <item>
       <title>💩русня зруйнувала інфраструкту</title>
       <link>https://www.mandarinai.lt/post/86307</link>
-      <description>💩русня зруйнувала інфраструктуру на знаменитом одеському пляжі Ланжерон</description>
+      <description>💩русня зруйнувала інфраструктуру на знаменитому одеському пляжі Ланжерон</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_09-50-12.mp4" length="728706" type="video/mp4"/>
       <pubDate>Tue, 13 Jan 2026 09:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🫣У ВР немає опалення, депутати</title>
+      <link>https://www.mandarinai.lt/post/86309</link>
+      <description>🫣У ВР немає опалення, депутати сидять у верхньому одязі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_11-04-53.jpg" length="273202" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 11:04:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
