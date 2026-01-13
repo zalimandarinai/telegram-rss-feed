@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 02:49:19 +0000</lastBuildDate>
-    <item>
-      <title>💥В окупованій Макіївці, після </title>
-      <link>https://www.mandarinai.lt/post/86254</link>
-      <description>💥В окупованій Макіївці, після вибухів почалась пожежа, чутно детонацію</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-12_17-02-24.jpg" length="117227" type="image/jpeg"/>
-      <pubDate>Mon, 12 Jan 2026 17:02:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 03:56:39 +0000</lastBuildDate>
     <item>
       <title>💥🔥Орловська ТЕЦ палає після ат</title>
       <link>https://www.mandarinai.lt/post/86258</link>
@@ -70,6 +63,15 @@
       <description>Блекаут у Маріуполі після атаки БпЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-12_21-12-10.mp4" length="679120" type="video/mp4"/>
       <pubDate>Mon, 12 Jan 2026 21:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯 Близько 20 балістичних ракет</title>
+      <link>https://www.mandarinai.lt/post/86270</link>
+      <description>🤯 Близько 20 балістичних ракет було застосовано вночі по Україні, – монітори.
+
+Зараз триває дронова атака</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_03-50-45.jpg" length="279837" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 03:50:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
