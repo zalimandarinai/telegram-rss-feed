@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:10:01 +0000</lastBuildDate>
-    <item>
-      <title>🔥Окуповані Донецьк та Макіївка</title>
-      <link>https://www.mandarinai.lt/post/86336</link>
-      <description>🔥Окуповані Донецьк та Макіївка під атакою добрих дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_18-09-12.mp4" length="1672698" type="video/mp4"/>
-      <pubDate>Tue, 13 Jan 2026 18:09:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 22:10:53 +0000</lastBuildDate>
     <item>
       <title>💥🔥Момент атаки в окупованому Д</title>
       <link>https://www.mandarinai.lt/post/86339</link>
@@ -64,6 +57,15 @@
 Відео: РАДА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_20-11-58.mp4" length="7720179" type="video/mp4"/>
       <pubDate>Tue, 13 Jan 2026 20:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лідери G7 намагатимуться перек</title>
+      <link>https://www.mandarinai.lt/post/86350</link>
+      <description>Лідери G7 намагатимуться переконати Трампа підтримати безпекові гарантії для України на саміті в Давосі
+
+Без чіткої згоди Вашингтона європейські плани, включаючи можливе розгортання британських та французьких військ для моніторингу миру, можуть залишитися лише на папері.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-13_22-06-52.jpg" length="70857" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 22:06:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
