@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:17:43 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Момент атаки в окупованому Д</title>
-      <link>https://www.mandarinai.lt/post/86339</link>
-      <description>💥🔥Момент атаки в окупованому Донецьку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_18-40-10.mp4" length="2038090" type="video/mp4"/>
-      <pubDate>Tue, 13 Jan 2026 18:40:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Результат влучання</title>
-      <link>https://www.mandarinai.lt/post/86340</link>
-      <description>💥🔥Результат влучання</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-13_18-41-12.mp4" length="1186191" type="video/mp4"/>
-      <pubDate>Tue, 13 Jan 2026 18:41:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 07:15:53 +0000</lastBuildDate>
     <item>
       <title>Полк «Скеля» FPV-дронами зачищ</title>
       <link>https://www.mandarinai.lt/post/86341</link>
@@ -73,6 +59,13 @@
       <description>В Ростові був приліт</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5121.MP4" length="6034353" type="video/mp4"/>
       <pubDate>Tue, 13 Jan 2026 23:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Добрі дрони атакували завод </title>
+      <link>https://www.mandarinai.lt/post/86353</link>
+      <description>🔥 Добрі дрони атакували завод "Емпілс" у Ростові: попередньо, горять резервуари з нафтопродуктами, пишуть росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-14_06-45-53.jpg" length="34088" type="image/jpeg"/>
+      <pubDate>Wed, 14 Jan 2026 06:45:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
