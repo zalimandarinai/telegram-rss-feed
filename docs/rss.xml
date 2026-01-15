@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:15:22 +0000</lastBuildDate>
     <item>
       <title>💥🔥Після зустрічі з добрими дро</title>
       <link>https://www.mandarinai.lt/post/86404</link>
@@ -113,6 +113,23 @@
 Крім того, він підтвердив свою поїздку на форум у Давосі та зустріч із лідером України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-15_06-09-55.jpg" length="100806" type="image/jpeg"/>
       <pubDate>Thu, 15 Jan 2026 06:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Труби - мрія кожного окупанта
+</title>
+      <link>https://www.mandarinai.lt/post/86416</link>
+      <description>Труби - мрія кожного окупанта
+
+Місце, де можна сховатися і навіть відпочити. До того моменту, поки не прилетять дрони-трубочисти ББС 63 бригади.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5152.MP4" length="13193093" type="video/mp4"/>
+      <pubDate>Thu, 15 Jan 2026 07:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢️ Європейський Союз з 1 лютог</title>
+      <link>https://www.mandarinai.lt/post/86417</link>
+      <description>🛢️ Європейський Союз з 1 лютого знижує граничну ціну на російську нафту з 47,6 до 44,1 долара за барель.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-15_08-03-47.jpg" length="55495" type="image/jpeg"/>
+      <pubDate>Thu, 15 Jan 2026 08:03:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
