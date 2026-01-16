@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 05:15:31 +0000</lastBuildDate>
-    <item>
-      <title>🤔Зеленський зустрівся із Залуж</title>
-      <link>https://www.mandarinai.lt/post/86440</link>
-      <description>🤔Зеленський зустрівся із Залужним</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-15_17-03-49.jpg" length="136708" type="image/jpeg"/>
-      <pubDate>Thu, 15 Jan 2026 17:03:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 06:16:57 +0000</lastBuildDate>
     <item>
       <title>❗️Незабаром «шахеди» будуть пр</title>
       <link>https://www.mandarinai.lt/post/86442</link>
@@ -86,6 +79,20 @@
       <description>💥🔥Підстанція в окупованому Бердянську вийшла з чату</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-16_03-06-38.mp4" length="327239" type="video/mp4"/>
       <pubDate>Fri, 16 Jan 2026 03:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відправка європейських військ </title>
+      <link>https://www.mandarinai.lt/post/86454</link>
+      <description>Відправка європейських військ до Гренландії не вплине на наміри Трампа придбати острів, — речниця Білого дому Левітт.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5180.MP4" length="11157298" type="video/mp4"/>
+      <pubDate>Fri, 16 Jan 2026 05:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Рік тому Україна була дуже за</title>
+      <link>https://www.mandarinai.lt/post/86455</link>
+      <description>«Рік тому Україна була дуже залежною від американських розвідувальних даних. Сьогодні дві третини таких потреб забезпечує Франція», – заявив Макрон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-16_05-49-14.jpg" length="28516" type="image/jpeg"/>
+      <pubDate>Fri, 16 Jan 2026 05:49:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
