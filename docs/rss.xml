@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:52:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 03:56:35 +0000</lastBuildDate>
     <item>
       <title>🤔Зеленський зустрівся із Залуж</title>
       <link>https://www.mandarinai.lt/post/86440</link>
@@ -79,6 +79,13 @@
       <description>Попри шалені втрати в особовому складі та техніці, ворог суне на Лиман, і 63-я бригада ефективно зупиняє його дронами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5173.MP4" length="21325873" type="video/mp4"/>
       <pubDate>Thu, 15 Jan 2026 20:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Підстанція в окупованому Бер</title>
+      <link>https://www.mandarinai.lt/post/86452</link>
+      <description>💥🔥Підстанція в окупованому Бердянську вийшла з чату</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-16_03-06-38.mp4" length="327239" type="video/mp4"/>
+      <pubDate>Fri, 16 Jan 2026 03:06:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
