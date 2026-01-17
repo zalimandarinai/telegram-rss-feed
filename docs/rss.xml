@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 16:10:00 +0000</lastBuildDate>
-    <item>
-      <title>💥Результат влучання по розташу</title>
-      <link>https://www.mandarinai.lt/post/86531</link>
-      <description>💥Результат влучання по розташуванню русні на Вовчансткому напрямку.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-17_12-35-55.mp4" length="3069480" type="video/mp4"/>
-      <pubDate>Sat, 17 Jan 2026 12:35:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 17:07:48 +0000</lastBuildDate>
     <item>
       <title>🇨🇿 Чехія передасть Україні бой</title>
       <link>https://www.mandarinai.lt/post/86534</link>
@@ -138,6 +131,15 @@ https://ruslanganushchak.org/uk/award/
       <description>☠💥русня не полишає спроб штурмувати Куп'янськ -  результат на відео</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-17_15-37-55.mp4" length="826022" type="video/mp4"/>
       <pubDate>Sat, 17 Jan 2026 15:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Українські дрони уразили полі</title>
+      <link>https://www.mandarinai.lt/post/86547</link>
+      <description>🔥Українські дрони уразили полігон РФ, звідки запускали "Орєшнік", - "Мілітарний"
+
+Українські дрони атакували 4-й Державний центральний міжвидовий полігон "Капустин Яр" в Астраханській області. Полігон активно використовується для випробувань балістичних ракет середньої дальності "Орєшнік".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-17_16-15-28.jpg" length="18212" type="image/jpeg"/>
+      <pubDate>Sat, 17 Jan 2026 16:15:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
