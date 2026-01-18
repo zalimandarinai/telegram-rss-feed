@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 15:08:34 +0000</lastBuildDate>
-    <item>
-      <title>🤝У Польщі оголосили збір кошті</title>
-      <link>https://www.mandarinai.lt/post/86581</link>
-      <description>🤝У Польщі оголосили збір коштів на генератори для Києва — початкову суму вдалося зібрати за лічені години, тож збір продовжили, — OKO. press
-
-Наразі поляки зібрали близько 13 млн гривень.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_11-18-41.jpg" length="89716" type="image/jpeg"/>
-      <pubDate>Sun, 18 Jan 2026 11:18:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 16:10:42 +0000</lastBuildDate>
     <item>
       <title>🔝ДТЕК базує</title>
       <link>https://www.mandarinai.lt/post/86582</link>
