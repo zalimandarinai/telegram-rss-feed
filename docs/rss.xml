@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 07:10:58 +0000</lastBuildDate>
-    <item>
-      <title>👀 Європа відповість Трампу на </title>
-      <link>https://www.mandarinai.lt/post/86554</link>
-      <description>👀 Європа відповість Трампу на його мита: жодні залякування не вплинуть на нас, — Макрон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-17_19-13-54.jpg" length="27315" type="image/jpeg"/>
-      <pubDate>Sat, 17 Jan 2026 19:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥶Так виглядає під'їзд в одному</title>
-      <link>https://www.mandarinai.lt/post/86555</link>
-      <description>🥶Так виглядає під'їзд в одному з київських будинків через блекаути і відсутність теплопостачання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-17_19-15-13.jpg" length="170185" type="image/jpeg"/>
-      <pubDate>Sat, 17 Jan 2026 19:15:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 08:13:00 +0000</lastBuildDate>
     <item>
       <title>До оборони в районі Гуляйполя </title>
       <link>https://www.mandarinai.lt/post/86556</link>
@@ -65,6 +51,29 @@
       <description>В Харкові загинула 20-річна дівчина внаслідок влучання безпілотника в будинок</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_06-23-27.jpg" length="133360" type="image/jpeg"/>
       <pubDate>Sun, 18 Jan 2026 06:23:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Трамп запускає альтернативу О</title>
+      <link>https://www.mandarinai.lt/post/86567</link>
+      <description>🙄Трамп запускає альтернативу ООН: участь у його «Раді миру» коштуватиме $1 млрд, — Bloomberg</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_07-07-32.jpg" length="34540" type="image/jpeg"/>
+      <pubDate>Sun, 18 Jan 2026 07:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Швейцарія змусила українського</title>
+      <link>https://www.mandarinai.lt/post/86568</link>
+      <description>Швейцарія змусила українського біженця повернути €72 тисячі соціальної допомоги, — 24 heures
+
+Чоловік отримував виплати, маючи Porsche Cayenne та подорожуючи різними країнами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_08-00-27.jpg" length="102308" type="image/jpeg"/>
+      <pubDate>Sun, 18 Jan 2026 08:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️За тиждень рф застосувала бі</title>
+      <link>https://www.mandarinai.lt/post/86569</link>
+      <description>❗️За тиждень рф застосувала більш ніж 1300 ударних дронів, близько 1050 керованих авіаційних бомб і 29 ракет різних типів, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-18_08-07-29.mp4" length="4550117" type="video/mp4"/>
+      <pubDate>Sun, 18 Jan 2026 08:07:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
