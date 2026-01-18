@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 16:10:42 +0000</lastBuildDate>
-    <item>
-      <title>🔝ДТЕК базує</title>
-      <link>https://www.mandarinai.lt/post/86582</link>
-      <description>🔝ДТЕК базує</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_11-22-39.jpg" length="56769" type="image/jpeg"/>
-      <pubDate>Sun, 18 Jan 2026 11:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛠 Так виглядає локальне припин</title>
-      <link>https://www.mandarinai.lt/post/86583</link>
-      <description>🛠 Так виглядає локальне припинення вогню біля Запорізької АЕС для ремонту ЛЕП, - МАГАТЕ
-
-Українські фахівці відновлюють резервну лінію електропередачі. Представники МАГАТЕ спостерігають за процесом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_11-25-35.jpg" length="213258" type="image/jpeg"/>
-      <pubDate>Sun, 18 Jan 2026 11:25:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Батальйон SIGNUM 53-ї бригади </title>
-      <link>https://www.mandarinai.lt/post/86584</link>
-      <description>Батальйон SIGNUM 53-ї бригади заганяв по Серебрянському лісу помітну ціль, по якій важко промахнутися.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5824.MP4" length="3964856" type="video/mp4"/>
-      <pubDate>Sun, 18 Jan 2026 11:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Генератори, встановлені на бал</title>
-      <link>https://www.mandarinai.lt/post/86585</link>
-      <description>Генератори, встановлені на балконах - це небезпечно, як «Шахед», якого ви самі принесли в свій дім. — Вадим Литвин, голова правління Асоціації енергоаудиторів України, підкреслив важливість безпеки при експлуатації генераторів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-18_12-12-01.mp4" length="6351737" type="video/mp4"/>
-      <pubDate>Sun, 18 Jan 2026 12:12:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 17:07:40 +0000</lastBuildDate>
     <item>
       <title>🤯Те, що Данія, Норвегія, Швеці</title>
       <link>https://www.mandarinai.lt/post/86586</link>
@@ -109,6 +79,24 @@
 У Бундесвері назвали візит військовослужбовців у Гренландію "успішним".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_14-26-57.jpg" length="52856" type="image/jpeg"/>
       <pubDate>Sun, 18 Jan 2026 14:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Україна буде проводити наступ</title>
+      <link>https://www.mandarinai.lt/post/86598</link>
+      <description>🔴Україна буде проводити наступальні операції у 2026 році. В обороні перемоги не здобудеш, — Сирський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_16-24-29.jpg" length="56672" type="image/jpeg"/>
+      <pubDate>Sun, 18 Jan 2026 16:24:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Міністр Бессент:  Краще зараз</title>
+      <link>https://www.mandarinai.lt/post/86599</link>
+      <description>😐Міністр Бессент:  Краще зараз мир через силу, зробити це частиною Сполучених Штатів, і конфлікту не буде, бо зараз США — найгарячіша країна у світі, ми найсильніша країна у світі. Європейці демонструють слабкість, США — силу.
+
+Ведуча  поцікавилася в міністра Бессента, чим тоді анексія Гренландії відрізнятиметься від захоплення Криму Росією. NBC News цитує слова міністра:
+
+ Я вірю, що європейці зрозуміють, що це найкраще для Гренландії, найкраще для Європи та найкраще для Сполучених Штатів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_16-29-25.jpg" length="22492" type="image/jpeg"/>
+      <pubDate>Sun, 18 Jan 2026 16:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
