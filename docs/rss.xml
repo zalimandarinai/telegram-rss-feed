@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 22:08:59 +0000</lastBuildDate>
-    <item>
-      <title>🇮🇷 В Ірані підтверджено загибе</title>
-      <link>https://www.mandarinai.lt/post/86602</link>
-      <description>🇮🇷 В Ірані підтверджено загибель 5 тисяч людей під час протестів, — Reuters 
-
-Найжорсткіші зіткнення відбулися в курдських районах на північному заході країни. 
-
-Іранська влада також визнала загибель близько 500 силовиків.
-
-Окремо стало відомо про загибель 26-річного учасника протестів Ерфана Солтані.
-
-Він став першим протестувальником, засудженим до смертної кари. Страту призначили на 14 січня, але її відклали. Тепер іранська опозиція повідомляє, що Солтані до смерті побили за ґратами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_18-00-21.jpg" length="106393" type="image/jpeg"/>
-      <pubDate>Sun, 18 Jan 2026 18:00:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 23:09:08 +0000</lastBuildDate>
     <item>
       <title>🧐Трамп та Рютте обговорили пит</title>
       <link>https://www.mandarinai.lt/post/86603</link>
@@ -85,6 +70,13 @@
 Але видання може помилятися та видавати точку зору за факт.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_20-50-41.jpg" length="98663" type="image/jpeg"/>
       <pubDate>Sun, 18 Jan 2026 20:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬русня атакує енергетичну стру</title>
+      <link>https://www.mandarinai.lt/post/86616</link>
+      <description>🤬русня атакує енергетичну структуру Дніпропетровщини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-18_22-09-56.mp4" length="645527" type="video/mp4"/>
+      <pubDate>Sun, 18 Jan 2026 22:09:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
