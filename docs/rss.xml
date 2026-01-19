@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 04:11:20 +0000</lastBuildDate>
-    <item>
-      <title>🧐Трамп та Рютте обговорили пит</title>
-      <link>https://www.mandarinai.lt/post/86603</link>
-      <description>🧐Трамп та Рютте обговорили питання безпеки в Гренландії та Арктиці
-
-"Провів розмову з президентом США щодо ситуації з безпекою в Гренландії та Арктиці. Ми продовжимо працювати над цим, і я з нетерпінням чекаю на зустріч з ним у Давосі пізніше цього тижня", - повідомив генсек НАТО у Х.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-18_18-11-57.jpg" length="69303" type="image/jpeg"/>
-      <pubDate>Sun, 18 Jan 2026 18:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Окупований Донецьк зараз</title>
-      <link>https://www.mandarinai.lt/post/86604</link>
-      <description>💥Окупований Донецьк зараз</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-18_18-13-28.mp4" length="811803" type="video/mp4"/>
-      <pubDate>Sun, 18 Jan 2026 18:13:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 05:22:39 +0000</lastBuildDate>
     <item>
       <title>🔥Зігріваючий флешмоб в Києві п</title>
       <link>https://www.mandarinai.lt/post/86606</link>
@@ -77,6 +61,20 @@
       <description>🤬русня атакує енергетичну структуру Дніпропетровщини</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-18_22-09-56.mp4" length="645527" type="video/mp4"/>
       <pubDate>Sun, 18 Jan 2026 22:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі в Одесі дрон влучив в бу</title>
+      <link>https://www.mandarinai.lt/post/86617</link>
+      <description>Вночі в Одесі дрон влучив в будинок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-19_04-33-41.mp4" length="396809" type="video/mp4"/>
+      <pubDate>Mon, 19 Jan 2026 04:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️НАТО вже 20 років говорить Д</title>
+      <link>https://www.mandarinai.lt/post/86618</link>
+      <description>⚡️НАТО вже 20 років говорить Данії: «Ви повинні усунути російську загрозу з Гренландії». На жаль, Данія не змогла нічого з цим зробити. Тепер настав час, і це буде зроблено, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-19_05-04-37.jpg" length="36326" type="image/jpeg"/>
+      <pubDate>Mon, 19 Jan 2026 05:04:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
