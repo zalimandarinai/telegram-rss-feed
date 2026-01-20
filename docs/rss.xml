@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 08:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 09:21:48 +0000</lastBuildDate>
     <item>
       <title>❗️Ворог вночі атакував Україну</title>
       <link>https://www.mandarinai.lt/post/86681</link>
@@ -103,9 +103,32 @@
     <item>
       <title>❗️Сили ППО знищили 342 із 372 </title>
       <link>https://www.mandarinai.lt/post/86692</link>
-      <description>❗️Сили ППО знищили 342 із 372 повітряних цілей</description>
+      <description>❗️Сили ППО знищили 342 із 372 повітряних цілей.
+
+Збито 27 із 34 ракет та 315 із 339 БпЛА
+
+Дякуємо!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-20_08-11-03.jpg" length="101526" type="image/jpeg"/>
       <pubDate>Tue, 20 Jan 2026 08:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Норвегія розіслала листи тися</title>
+      <link>https://www.mandarinai.lt/post/86693</link>
+      <description>👀Норвегія розіслала листи тисячам громадян із закликом всім готуватися до вилучення майна у разі війни з РФ, — The Telegraph. 
+
+Йдеться про конфіскацію нерухомості, авто, обладнання.
+
+"Ми проводимо масштабне нарощування військової та цивільної готовності", — голова логістичної організації ЗС країни Андрес Єрнберг.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-20_09-04-25.jpg" length="94400" type="image/jpeg"/>
+      <pubDate>Tue, 20 Jan 2026 09:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Морпіхи уразили диспетчерську</title>
+      <link>https://www.mandarinai.lt/post/86694</link>
+      <description>💥Морпіхи уразили диспетчерську аеродрому в
+тимчасово окупованому  Джанкої (Крим)</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-20_09-08-29.mp4" length="3365396" type="video/mp4"/>
+      <pubDate>Tue, 20 Jan 2026 09:08:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
