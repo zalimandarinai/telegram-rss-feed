@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 07:18:21 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Орловська ТЕЦ після прильоту</title>
-      <link>https://www.mandarinai.lt/post/86749</link>
-      <description>💥🔥Орловська ТЕЦ після прильоту</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-20_20-11-02.mp4" length="1033861" type="video/mp4"/>
-      <pubDate>Tue, 20 Jan 2026 20:11:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jan 2026 08:16:09 +0000</lastBuildDate>
     <item>
       <title>Ракета ППО, яка прилітає по бу</title>
       <link>https://www.mandarinai.lt/post/86752</link>
@@ -62,7 +55,7 @@
       <title>У Києві відновили водопостачан</title>
       <link>https://www.mandarinai.lt/post/86756</link>
       <description>У Києві відновили водопостачання, яке було відключено після вчорашніх ударів, - міський водоканал.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-21_06-40-49.jpg" length="184652" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-21_06-40-49.jpg" length="142960" type="image/jpeg"/>
       <pubDate>Wed, 21 Jan 2026 06:40:49 +0000</pubDate>
     </item>
     <item>
@@ -109,6 +102,17 @@
 Зафіксовано влучання балістичної ракети та 13 ударних дронів на 11 локаціях, а також падіння уламків на одній локації.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-21_07-13-46.jpg" length="76093" type="image/jpeg"/>
       <pubDate>Wed, 21 Jan 2026 07:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 США затримали ще один танке</title>
+      <link>https://www.mandarinai.lt/post/86763</link>
+      <description>🇺🇸 США затримали ще один танкер з тіньового флоту рф у Карибському морі
+
+Танкер Sagitta використовувався для транспортування російської нафти в обхід санкцій
+
+Раніше в січні США вже перехопили кілька подібних танкерів, підозрюваних у порушенні санкційного режиму.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-21_07-24-26.mp4" length="4172363" type="video/mp4"/>
+      <pubDate>Wed, 21 Jan 2026 07:24:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
