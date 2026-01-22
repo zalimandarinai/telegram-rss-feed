@@ -6,30 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 13:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 14:20:12 +0000</lastBuildDate>
     <item>
       <title>☠Санітарна зона путіна на Харк</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>☠Санітарна зона путіна на Харківщині</description>
       <pubDate>Thu, 22 Jan 2026 10:03:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент ураження російського «ш</title>
-      <link>https://www.mandarinai.lt/post/86852</link>
-      <description>Момент ураження російського «шахеда» перехоплювачем «P1SUN».
-
-Саме для того, щоб відносно дешевими засобами перехоплення збивати дрони типу «шахед», в Повітряних Силах був створений окремий напрямок під керівництвом Павла Єлізарова.
-
-За даними Bloomberg, «P1SUN» здатен розвивати швидкість до 300 км/год і набирати висоту до 5 км, а його виробництво уже вимірюється тисячами одиниць щомісяця.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5369.MP4" length="2482633" type="video/mp4"/>
-      <pubDate>Thu, 22 Jan 2026 10:55:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Перші кадри зсередини будин</title>
-      <link>https://www.mandarinai.lt/post/86854</link>
-      <description>⚡️ Перші кадри зсередини будинку після російської атаки в Кривому Розі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-22_11-23-58.jpg" length="200049" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jan 2026 11:23:58 +0000</pubDate>
     </item>
     <item>
       <title>Вполювали рідку здобич.
@@ -70,6 +52,26 @@
       <description>Артилеристи 40-ої бригади імені Великого князя Вітовта знищили гармату противника, склад БК і бліндаж, до того провівши розвідку та вибравши той самий момент, коли ворожі дрони українську артилерію не бачать.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5363.MP4" length="26861779" type="video/mp4"/>
       <pubDate>Thu, 22 Jan 2026 13:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повідомлення путіну — війна ма</title>
+      <link>https://www.mandarinai.lt/post/86866</link>
+      <description>Повідомлення путіну — війна має закінчитися. Я вважаю, що зустріч із Зеленським була дуже успішною, — Трамп
+
+Зустріч президента України та президента США у Давосі тривала менше години.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-22_13-42-33.mp4" length="663859" type="video/mp4"/>
+      <pubDate>Thu, 22 Jan 2026 13:42:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ «розколола» покидька, який</title>
+      <link>https://www.mandarinai.lt/post/86868</link>
+      <description>СБУ «розколола» покидька, який розстріляв нашого бійця ДПСУ в Сумській області та намагався приховати злочин
+
+Військова контррозвідка та слідчі Служби безпеки зібрали доказову базу на Івана Хамгушкєєва з позивним «Бурят», старшого стрільця  2-ї роти морської піхоти 5-го батальйону морської піхоти посилення 810-ї окремої бригади морської піхоти, який 18 червня 2025 року розстріляв полоненого воїна Держприкордонслужби під час боїв на Сумщині.
+
+Наступного дня після вчинення злочину Іван Хамгушкєєв сам потрапив у полон до Сил оборони і намагався приховати свою причетність до воєнного злочину, щоб уникнути покарання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-22_14-08-41.jpg" length="10642" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jan 2026 14:08:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
