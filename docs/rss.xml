@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 09:21:31 +0000</lastBuildDate>
-    <item>
-      <title>В Покровську наші бійці беруть</title>
-      <link>https://www.mandarinai.lt/post/86831</link>
-      <description>В Покровську наші бійці беруть в полон трьох ворожих піхотинців.
-
-Аеророзвідка 155-ої бригади «Анна Київська» зафіксувала пересування групи окупантів.
-
-Піхота почала ретельну перевірку району, обходячи будинок за будинком.
-
-Бійці 155-ої ОМБР виявили підвал, зайнятий противником.
-
-Ворожі штурмовики без спротиву погодились піти в полон.
-
-Бойова робота у смузі відповідальності 7 корпусу швидкого реагування Десантно-штурмових військ Збройних Сил України @corps7DSHV</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5352.MP4" length="15578295" type="video/mp4"/>
-      <pubDate>Thu, 22 Jan 2026 07:16:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 10:15:02 +0000</lastBuildDate>
     <item>
       <title>❤️‍🩹 «Коли мільйони нас дійсно</title>
       <link>https://www.mandarinai.lt/post/86832</link>
@@ -76,6 +59,20 @@
       <description>😡 Кривий Ріг вже десяту годину під атакою «шахедів», в місті лунають вибухи, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-22_08-37-29.mp4" length="1252656" type="video/mp4"/>
       <pubDate>Thu, 22 Jan 2026 08:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф прицільно вдарила балісти</title>
+      <link>https://www.mandarinai.lt/post/86845</link>
+      <description>❗️рф прицільно вдарила балістикою по житловому будинку у Кривому Розі — над містом здіймається стовп диму</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-22_09-48-45.jpg" length="41714" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jan 2026 09:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>☠Санітарна зона путіна на Харк</title>
+      <link>https://www.mandarinai.lt/post/86846</link>
+      <description>☠Санітарна зона путіна на Харківщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-22_10-03-01.mp4" length="6436780" type="video/mp4"/>
+      <pubDate>Thu, 22 Jan 2026 10:03:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
