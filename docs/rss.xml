@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 17:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 18:15:29 +0000</lastBuildDate>
     <item>
       <title>СБУ «розколола» покидька, який</title>
       <link>https://www.mandarinai.lt/post/86868</link>
@@ -107,13 +107,6 @@
       <pubDate>Thu, 22 Jan 2026 16:47:03 +0000</pubDate>
     </item>
     <item>
-      <title>🛢️⛽️💡 США та Україна хочуть за</title>
-      <link>https://www.mandarinai.lt/post/86880</link>
-      <description>🛢️⛽️💡 США та Україна хочуть запропонувати рф так зване «енергетичне перемир'я» завтра на тристоронніх переговорах в Абу-Дабі, — FT</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-22_16-57-02.jpg" length="18799" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jan 2026 16:57:02 +0000</pubDate>
-    </item>
-    <item>
       <title>❗️ Україна нещодавно отримала </title>
       <link>https://www.mandarinai.lt/post/86881</link>
       <description>❗️ Україна нещодавно отримала 8 гусеничних бронемашин ACSV від Німеччини, - «Мілітарний»
@@ -123,6 +116,13 @@
 Компанія Flensburger Fahrzeugbau Gesellschaft почала розробки універсального тягача в 2010-х роках, а серійне виробництво стартувало у 2021-му році.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5395.MP4" length="17629208" type="video/mp4"/>
       <pubDate>Thu, 22 Jan 2026 17:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Делегації США та України зав</title>
+      <link>https://www.mandarinai.lt/post/86882</link>
+      <description>‼️Делегації США та України завтра на переговорах в Абу-Дабі планують запропонувати росії припинити удари по енергетичній інфраструктурі України в обмін на зупинку атак Києва по російських танкерах і нафтопереробних заводах, - Financial Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-22_17-35-29.jpg" length="54252" type="image/jpeg"/>
+      <pubDate>Thu, 22 Jan 2026 17:35:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
