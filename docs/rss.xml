@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 10:12:55 +0000</lastBuildDate>
-    <item>
-      <title>🔥Ранкове задимлення від палаюч</title>
-      <link>https://www.mandarinai.lt/post/86904</link>
-      <description>🔥Ранкове задимлення від палаючої після прильоту нафтобази в російськіи Пензі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-23_05-38-20.mp4" length="257812" type="video/mp4"/>
-      <pubDate>Fri, 23 Jan 2026 05:38:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴росія продовжуватиме реалізац</title>
-      <link>https://www.mandarinai.lt/post/86905</link>
-      <description>🔴росія продовжуватиме реалізацію цілей «сво», доки не буде сформоване територіальне рішення за «формулою Анкориджа», —  Ушаков</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_05-44-00.jpg" length="22114" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 05:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сильні морози нарешті відступа</title>
-      <link>https://www.mandarinai.lt/post/86907</link>
-      <description>Сильні морози нарешті відступають: в Україну вже з наступного тижня  повертається тепла європейська зима – нарешті на термометрі побачимо «плюс», прогноз синоптик Діденко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_07-52-34.jpg" length="173473" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 07:52:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 11:11:16 +0000</lastBuildDate>
     <item>
       <title>⚡️ Територіальне питання щодо </title>
       <link>https://www.mandarinai.lt/post/86908</link>
@@ -72,6 +51,26 @@
       <description>🤬 У найближчі 100 років Угорщина не пустить Україну до ЄС, – Орбан</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_09-43-46.jpg" length="57129" type="image/jpeg"/>
       <pubDate>Fri, 23 Jan 2026 09:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ затримала російську агентк</title>
+      <link>https://www.mandarinai.lt/post/86919</link>
+      <description>СБУ затримала російську агентку, яка наводила ворожі ракети на київські ТЕЦ
+
+З власних джерел ми дізнались, що підозрювана з Рівненщини і вона шукала легкі гроші. 
+
+Після вербування агентку «відрядили» до Київщини, де вона об’їжджала місцеві ТЕЦ та фіксувала їхній технічний стан після регулярних атак рф.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_10-28-52.jpg" length="65392" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jan 2026 10:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡"ЗСУ мають вийти з Донбасу дл</title>
+      <link>https://www.mandarinai.lt/post/86922</link>
+      <description>🤡"ЗСУ мають вийти з Донбасу для процесу врегулювання", - заявив рупор Кремля Пєсков перед тристоронньою зустріччю в Абу-Дабі. 
+
+Також Пєсков підтвердив пропозиції РФ використати 5 мільярдів доларів активів, заморожених у США, на "відновлення територій", які вони перетворили на попіл, зокрема і на Донбасі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_10-57-03.jpg" length="168329" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jan 2026 10:57:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
