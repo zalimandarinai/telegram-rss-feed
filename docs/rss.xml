@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 19:15:14 +0000</lastBuildDate>
-    <item>
-      <title>⁉️Стали відомі деталі плану СШ</title>
-      <link>https://www.mandarinai.lt/post/86941</link>
-      <description>⁉️Стали відомі деталі плану США та ЄС щодо $800 млрд інвестицій в Україну після війни, — Politico
-
- Фінансова стратегія розрахована до 2040 року і передбачає оперативний 100-денний план запуску проєктів.
-
- План інтегрований у 20-пунктну мирну угоду, яку США намагаються погодити між Києвом і москвою, та передбачає наявність гарантій безпеки.
-
- Єврокомісія планує додатково виділити Києву 100 млрд євро у межах бюджетної підтримки та інвестиційних гарантій наступного семирічного бюджету, починаючи з 2028 року.
-
-Раніше у варіанті мирного плану Трампа фонд пропонували наповнити $100 млрд із заморожених російських активів, проте цей пункт виключили</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_16-30-23.jpg" length="96112" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 16:30:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 20:12:23 +0000</lastBuildDate>
     <item>
       <title>Окупований Вугледар сьогодні. </title>
       <link>https://www.mandarinai.lt/post/86942</link>
@@ -114,6 +99,20 @@
 Отримав звання героя росії від російського міністра оборони Белоусова.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5512.MP4" length="3134490" type="video/mp4"/>
       <pubDate>Fri, 23 Jan 2026 18:43:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Зеленській домовився зі США </title>
+      <link>https://www.mandarinai.lt/post/86955</link>
+      <description>‼️Зеленській домовився зі США про постачання ракет для Patriot</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_19-13-44.jpg" length="32454" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jan 2026 19:13:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зʼявилися кадри з тристоронн</title>
+      <link>https://www.mandarinai.lt/post/86956</link>
+      <description>⚡️Зʼявилися кадри з тристоронніх переговорів України, США та рф в Абу-Дабі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-23_19-27-30.mp4" length="1107473" type="video/mp4"/>
+      <pubDate>Fri, 23 Jan 2026 19:27:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
