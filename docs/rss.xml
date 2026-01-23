@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 07:15:56 +0000</lastBuildDate>
-    <item>
-      <title>Волонтер і блогер Стерненко ст</title>
-      <link>https://www.mandarinai.lt/post/86891</link>
-      <description>Волонтер і блогер Стерненко став радником глави Міноборони з питань використання БпЛА на фронті, — Федоров</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-22_19-14-32.jpg" length="120470" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jan 2026 19:14:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 08:14:53 +0000</lastBuildDate>
     <item>
       <title>❗️Американці прилетіли до путі</title>
       <link>https://www.mandarinai.lt/post/86892</link>
@@ -87,6 +80,13 @@
       <description>🔴росія продовжуватиме реалізацію цілей «сво», доки не буде сформоване територіальне рішення за «формулою Анкориджа», —  Ушаков</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_05-44-00.jpg" length="22114" type="image/jpeg"/>
       <pubDate>Fri, 23 Jan 2026 05:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сильні морози нарешті відступа</title>
+      <link>https://www.mandarinai.lt/post/86907</link>
+      <description>Сильні морози нарешті відступають: в Україну вже з наступного тижня  повертається тепла європейська зима – нарешті на термометрі побачимо «плюс», прогноз синоптик Діденко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-23_07-52-34.jpg" length="173473" type="image/jpeg"/>
+      <pubDate>Fri, 23 Jan 2026 07:52:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
