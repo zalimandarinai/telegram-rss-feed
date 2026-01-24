@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 09:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 10:09:56 +0000</lastBuildDate>
     <item>
       <title>На фоні мирних переговорів рос</title>
       <link>https://www.mandarinai.lt/post/86972</link>
@@ -93,6 +93,17 @@
       <description>Одна людина загинула. Двоє поранено внаслідок удару по фабриці «Roshen» в Києві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_08-29-58.mp4" length="816125" type="video/mp4"/>
       <pubDate>Sat, 24 Jan 2026 08:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Переговори України, росії т</title>
+      <link>https://www.mandarinai.lt/post/86985</link>
+      <description>‼️ Переговори України, росії та США в Абу-Дабі відбуваються без жодних ознак компромісу, — Reuters
+
+Зазначається, що переговори відбуваються на тлі "зростаючого тиску США" на Київ щодо досягнення мирної угоди. США та рф тиснуть на Україну, щоб вона віддала Донбас.
+
+📆 Сьогодні має відбутися другий раунд перемовин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-24_09-17-20.jpg" length="103368" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jan 2026 09:17:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
