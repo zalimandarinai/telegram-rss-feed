@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 07:11:08 +0000</lastBuildDate>
-    <item>
-      <title>«шахед» врізався в припаркован</title>
-      <link>https://www.mandarinai.lt/post/86966</link>
-      <description>«шахед» врізався в припарковані автівки і не здетонував</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5516.MP4" length="20277507" type="video/mp4"/>
-      <pubDate>Sat, 24 Jan 2026 05:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Траєкторії руху ворожих ракет </title>
-      <link>https://www.mandarinai.lt/post/86967</link>
-      <description>Траєкторії руху ворожих ракет і БпЛА, якими рф атакувала Україну цієї ночі
-
-За даними моніторингів, ворог застосував ракети Х-22/32, «Іскандер-М», Х-69, «Циркон», а також сотні ударних дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-24_05-17-41.jpg" length="278641" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jan 2026 05:17:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 08:12:52 +0000</lastBuildDate>
     <item>
       <title>Щонайменше 25 ворожих ударів. </title>
       <link>https://www.mandarinai.lt/post/86969</link>
@@ -68,6 +52,47 @@
 Також проблеми з водопостачанням на лівому березі та частково на правому.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_07-05-13.mp4" length="2278811" type="video/mp4"/>
       <pubDate>Sat, 24 Jan 2026 07:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️15 ракет і 357 БПЛА знищені </title>
+      <link>https://www.mandarinai.lt/post/86976</link>
+      <description>⚡️15 ракет і 357 БПЛА знищені над Україною 
+
+Головний напрямок удару – Київщина.
+
+Особливість сьогоднішньої нічної атаки була в тому, що для ударів по столиці були залучені літаки стратегічної авіації Ту-22М3 із протикорабельними ракетами Х-22/Х-32. 
+
+Всього противник застосував 375 дронів, а також ударив 21-ою ракетою:
+
+2 протикорабельні ракети 3М22 «Циркон»;
+6 балістичних ракет Іскандер-М/С-300;
+1 керована ракета Х-59/69;
+12 крилатих ракет Х-22/Х-32.
+
+На фото: київське метро сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-24_07-19-04.jpg" length="129476" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jan 2026 07:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шоколадна фабрика Rochen в Киє</title>
+      <link>https://www.mandarinai.lt/post/86980</link>
+      <description>Шоколадна фабрика Rochen в Києві потрапила під удар сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-24_07-26-29.jpg" length="182614" type="image/jpeg"/>
+      <pubDate>Sat, 24 Jan 2026 07:26:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Момент нічного прильоту в ки</title>
+      <link>https://www.mandarinai.lt/post/86981</link>
+      <description>🤬 Момент нічного прильоту в київському ЖК "Great"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_07-27-36.mp4" length="1188600" type="video/mp4"/>
+      <pubDate>Sat, 24 Jan 2026 07:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Семеро російських штурмовиків </title>
+      <link>https://www.mandarinai.lt/post/86983</link>
+      <description>Семеро російських штурмовиків потрапили в полон до українських військових в районі Гуляйполя</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8890.MP4" length="5335993" type="video/mp4"/>
+      <pubDate>Sat, 24 Jan 2026 08:04:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
