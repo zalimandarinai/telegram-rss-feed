@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 08:12:52 +0000</lastBuildDate>
-    <item>
-      <title>Щонайменше 25 ворожих ударів. </title>
-      <link>https://www.mandarinai.lt/post/86969</link>
-      <description>Щонайменше 25 ворожих ударів. 19 людей, серед них дитина, постраждали в результаті масованої російської атаки на Харків, повідомляє ДСНС України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-24_05-22-50.jpg" length="206170" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jan 2026 05:22:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 09:10:13 +0000</lastBuildDate>
     <item>
       <title>На фоні мирних переговорів рос</title>
       <link>https://www.mandarinai.lt/post/86972</link>
@@ -74,9 +67,9 @@
       <pubDate>Sat, 24 Jan 2026 07:19:04 +0000</pubDate>
     </item>
     <item>
-      <title>Шоколадна фабрика Rochen в Киє</title>
+      <title>Шоколадна фабрика «Roshen» в К</title>
       <link>https://www.mandarinai.lt/post/86980</link>
-      <description>Шоколадна фабрика Rochen в Києві потрапила під удар сьогодні вночі</description>
+      <description>Шоколадна фабрика «Roshen» в Києві потрапила під удар сьогодні вночі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-24_07-26-29.jpg" length="182614" type="image/jpeg"/>
       <pubDate>Sat, 24 Jan 2026 07:26:29 +0000</pubDate>
     </item>
@@ -93,6 +86,13 @@
       <description>Семеро російських штурмовиків потрапили в полон до українських військових в районі Гуляйполя</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8890.MP4" length="5335993" type="video/mp4"/>
       <pubDate>Sat, 24 Jan 2026 08:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна людина загинула. Двоє пор</title>
+      <link>https://www.mandarinai.lt/post/86984</link>
+      <description>Одна людина загинула. Двоє поранено внаслідок удару по фабриці «Roshen» в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_08-29-58.mp4" length="816125" type="video/mp4"/>
+      <pubDate>Sat, 24 Jan 2026 08:29:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
