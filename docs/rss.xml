@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 22:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 23:09:18 +0000</lastBuildDate>
     <item>
       <title>Українська авіація завдала уда</title>
       <link>https://www.mandarinai.lt/post/87015</link>
@@ -79,6 +79,13 @@
       <description>Солдат 425-го полку «Скеля» із позивним «Ю.Ю.» опинився в тилу противника. Проти нього було троє російських окупантів. Сталеві нерви та кмітливість допомогли бійцю удати з себе росіянина та приспати пильність ворога. Потім пролунало кілька пострілів, супротивники залишились лежати нерухомими, а солдат «Скелі» вийшов із Новоторецького до українських позицій. Повністю відверта розповідь бійця за посиланням є тут https://www.youtube.com/watch?v=8YuuozP282I</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_21-23-11.mp4" length="11479848" type="video/mp4"/>
       <pubDate>Sat, 24 Jan 2026 21:23:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Атака на Бєлгородську ТЕЦ</title>
+      <link>https://www.mandarinai.lt/post/87031</link>
+      <description>💥Атака на Бєлгородську ТЕЦ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_22-57-33.mp4" length="1659293" type="video/mp4"/>
+      <pubDate>Sat, 24 Jan 2026 22:57:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
