@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 00:47:48 +0000</lastBuildDate>
-    <item>
-      <title>❗️На Львівщині чоловік стріляв</title>
-      <link>https://www.mandarinai.lt/post/86951</link>
-      <description>❗️На Львівщині чоловік стріляв по працівниках ТЦК. Його затримано – місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-23_18-30-38.mp4" length="155975" type="video/mp4"/>
-      <pubDate>Fri, 23 Jan 2026 18:30:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 02:47:47 +0000</lastBuildDate>
     <item>
       <title>🤝Варшава передає Києву 90 гене</title>
       <link>https://www.mandarinai.lt/post/86952</link>
