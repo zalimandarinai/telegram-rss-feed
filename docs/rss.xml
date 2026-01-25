@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 08:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 09:10:42 +0000</lastBuildDate>
     <item>
       <title>В Києві бойова частина ракети </title>
       <link>https://www.mandarinai.lt/post/87025</link>
@@ -83,6 +83,13 @@
 У дворах будинків розгорнули теплі намети для ночівлі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-25_07-50-42.jpg" length="74783" type="image/jpeg"/>
       <pubDate>Sun, 25 Jan 2026 07:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так зараз працюють київські ен</title>
+      <link>https://www.mandarinai.lt/post/87038</link>
+      <description>Так зараз працюють київські енергетики</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-25_08-38-48.mp4" length="21358569" type="video/mp4"/>
+      <pubDate>Sun, 25 Jan 2026 08:38:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
