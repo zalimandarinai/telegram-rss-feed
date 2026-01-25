@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 14:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 15:09:07 +0000</lastBuildDate>
     <item>
       <title>💡"Сирість не дозволяє нормальн</title>
       <link>https://www.mandarinai.lt/post/87038</link>
@@ -149,6 +149,20 @@
 Олександр зірвався з 20-метрової висоти, його травми виявилися смертельними</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-25_13-55-09.jpg" length="14805" type="image/jpeg"/>
       <pubDate>Sun, 25 Jan 2026 13:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔 В Україні планують провести </title>
+      <link>https://www.mandarinai.lt/post/87052</link>
+      <description>🤔 В Україні планують провести реформу, яка замість однієї пенсії запровадить — три, — РБК-Україна
+
+Виплати будуть складатися з:
+📍солідарної пенсії;
+📍спеціальних пенсій;
+📍накопичувальної частини.
+
+Мета реформи— зробити систему більш справедливою, адже зараз пенсії відрізняються навіть при однаковому стажі та зарплатах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-25_14-34-55.jpg" length="112606" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jan 2026 14:34:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
