@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 07:12:49 +0000</lastBuildDate>
-    <item>
-      <title>Українська авіація завдала уда</title>
-      <link>https://www.mandarinai.lt/post/87015</link>
-      <description>Українська авіація завдала удар по місцю, з якого запускають ворожі дрони. Північний напрямок. Не виключено, Курська область.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5524.MP4" length="12547685" type="video/mp4"/>
-      <pubDate>Sat, 24 Jan 2026 18:12:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ В районі Покровська артилер</title>
-      <link>https://www.mandarinai.lt/post/87017</link>
-      <description>❗️ В районі Покровська артилеристи 147-ої бригади зірвали спробу просування штурмової групи противника.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5528.MP4" length="10062639" type="video/mp4"/>
-      <pubDate>Sat, 24 Jan 2026 18:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Пшонка-стайл не вмирає. Депут</title>
-      <link>https://www.mandarinai.lt/post/87021</link>
-      <description>🔥Пшонка-стайл не вмирає. Депутат райради Закарпаття не задекларував майно та доходи на 8,3 млн грн, — прокуратура
-
-Серед «розкоші» — елітні авто Ford Mustang та Mercedes-Benz S-Class, а також коштовне оздоблення кімнати в будинку. 
-
-Дії посадовця кваліфіковані як легалізація майна, отриманого злочинним шляхом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-24_19-50-17.jpg" length="260786" type="image/jpeg"/>
-      <pubDate>Sat, 24 Jan 2026 19:50:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Вечірній Бєлгород на зв'язку</title>
-      <link>https://www.mandarinai.lt/post/87022</link>
-      <description>💥Вечірній Бєлгород на зв'язку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_19-57-02.mp4" length="480936" type="video/mp4"/>
-      <pubDate>Sat, 24 Jan 2026 19:57:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Jan 2026 08:13:25 +0000</lastBuildDate>
     <item>
       <title>В Києві бойова частина ракети </title>
       <link>https://www.mandarinai.lt/post/87025</link>
@@ -86,6 +54,35 @@
       <description>💥Атака на Бєлгородську ТЕЦ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-24_22-57-33.mp4" length="1659293" type="video/mp4"/>
       <pubDate>Sat, 24 Jan 2026 22:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У США заявили про можливу зу</title>
+      <link>https://www.mandarinai.lt/post/87032</link>
+      <description>⚡️У США заявили про можливу зустріч Зеленського та Путіна найближчим часом, — Axios
+
+Саме переговори в Абу-Дабі стали критично важливим кроком для переходу до наступної стадії переговорів. На думку одного з американських посадовців, наступна тристороння зустріч в Абу-Дабі може відкрити шлях до проведення переговорів безпосередньо в Москві або в Києві.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-25_07-25-05.jpg" length="192597" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jan 2026 07:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ росіяни вночі запустили 102</title>
+      <link>https://www.mandarinai.lt/post/87033</link>
+      <description>⚡️ росіяни вночі запустили 102 дрони та дві балістичні ракети, - Повітряні сили
+
+Збито або подавлено 87 ворожих дронів
+
+Зафіксовано влучання 15 ударних БпЛА на 10 локаціях. Інформація щодо 2 ворожих ракет уточнюється.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-25_07-32-54.jpg" length="94829" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jan 2026 07:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥶Без опалення наразі 1676 бага</title>
+      <link>https://www.mandarinai.lt/post/87035</link>
+      <description>🥶Без опалення наразі 1676 багатоповерхівок Києва після атаки ворога на столицю 24 січня, - Кличко
+
+У дворах будинків розгорнули теплі намети для ночівлі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-25_07-50-42.jpg" length="74783" type="image/jpeg"/>
+      <pubDate>Sun, 25 Jan 2026 07:50:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
