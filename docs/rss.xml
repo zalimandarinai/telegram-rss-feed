@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 16:18:01 +0000</lastBuildDate>
-    <item>
-      <title>🚀 Ігнат спростував чутки про "</title>
-      <link>https://www.mandarinai.lt/post/87104</link>
-      <description>🚀 Ігнат спростував чутки про "прильоти 16 балістичних ракет" по Києву
-
-У соцмережах поширили слова директора Центру дослідження енергетики Олександра Харченка, який заявив, що 13 січня нібито "влучили 16 балістичних ракет по ТЕЦ у столиці",  і "тоді в столиці й почались проблеми". 
-
-Начальник управління комунікації Повітряних сил Юрій Ігнат спростував, зазначивши над Києвом того дня збито 2 "Іскандери-М", ще 2 ракети у Київській області. Загалом дані про 16 ракет стосуються усієї України, а не тільки столиці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-26_11-15-24.jpg" length="37192" type="image/jpeg"/>
-      <pubDate>Mon, 26 Jan 2026 11:15:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 17:19:43 +0000</lastBuildDate>
     <item>
       <title>❗️рф вдарила по Києво-Печерськ</title>
       <link>https://www.mandarinai.lt/post/87106</link>
@@ -91,6 +80,27 @@
 Минулої доби обстріли практично не припинялися. Цього тижня до міста доставлять ще 950 газових обігрівачів із балонами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-26_15-22-46.jpg" length="79176" type="image/jpeg"/>
       <pubDate>Mon, 26 Jan 2026 15:22:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>💡 Завтра в усіх регіонах Украї</title>
+      <link>https://www.mandarinai.lt/post/87116</link>
+      <description>💡 Завтра в усіх регіонах України будуть діяти графіки відключень світла, — Укренерго</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-26_16-34-11.jpg" length="132132" type="image/jpeg"/>
+      <pubDate>Mon, 26 Jan 2026 16:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷Якщо хтось думає, що ЄС або Є</title>
+      <link>https://www.mandarinai.lt/post/87117</link>
+      <description>🤷Якщо хтось думає, що ЄС або Європа можуть захистити себе без США, продовжуйте мріяти, — Генсек НАТО Рютте.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-26_16-39-38.mp4" length="14155022" type="video/mp4"/>
+      <pubDate>Mon, 26 Jan 2026 16:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Переповнене після майже 5 годи</title>
+      <link>https://www.mandarinai.lt/post/87118</link>
+      <description>Переповнене після майже 5 годин тривоги київське метро</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-26_16-53-25.jpg" length="219421" type="image/jpeg"/>
+      <pubDate>Mon, 26 Jan 2026 16:53:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
