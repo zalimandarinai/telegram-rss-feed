@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 13:35:51 +0000</lastBuildDate>
-    <item>
-      <title>З Сирії виходять росіяни.
-
-рф </title>
-      <link>https://www.mandarinai.lt/post/87097</link>
-      <description>З Сирії виходять росіяни.
-
-рф виводить своїх військових з бази в аеропорту міста Камишли, — K24
-
-Також гелікоптери, винищувачі та військова техніка завантажуються на транспорті літаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5569.MP4" length="5750834" type="video/mp4"/>
-      <pubDate>Mon, 26 Jan 2026 10:19:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 14:17:45 +0000</lastBuildDate>
     <item>
       <title>🔥 Генеральний штаб Збройних си</title>
       <link>https://www.mandarinai.lt/post/87098</link>
@@ -100,6 +87,13 @@ https://povernennya.org/</description>
       <description>😳російський дрон безперешкодно прямує в Києві з лівого берега Дніпра на правий</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-26_13-02-32.mp4" length="261675" type="video/mp4"/>
       <pubDate>Mon, 26 Jan 2026 13:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙌США відмовилися від ідеї вста</title>
+      <link>https://www.mandarinai.lt/post/87111</link>
+      <description>🙌США відмовилися від ідеї встановлення контролю над Гренландією через ризик імпічменту Трампу — Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-26_14-08-27.jpg" length="172069" type="image/jpeg"/>
+      <pubDate>Mon, 26 Jan 2026 14:08:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
