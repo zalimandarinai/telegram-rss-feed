@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 21:08:14 +0000</lastBuildDate>
-    <item>
-      <title>«Мені більше підходить роль ро</title>
-      <link>https://www.mandarinai.lt/post/87171</link>
-      <description>«Мені більше підходить роль розвідника під прикриттям журналіста», - СБУ публікує оперативні матеріали по Інні Кардаш, яка шпигувала в Україні для білоруського КГБ</description>
-      <pubDate>Tue, 27 Jan 2026 17:56:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 22:11:22 +0000</lastBuildDate>
     <item>
       <title>⚡️ Україна та США готуються пі</title>
       <link>https://www.mandarinai.lt/post/87172</link>
@@ -104,6 +98,13 @@
 Ідентифікація загиблих буде можливою лише після проведення ДНК-експертиз</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_20-48-50.jpg" length="171330" type="image/jpeg"/>
       <pubDate>Tue, 27 Jan 2026 20:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Одесі пролунала серія вибу</title>
+      <link>https://www.mandarinai.lt/post/87187</link>
+      <description>⚡️В Одесі пролунала серія вибухів. Місто під атакою БпЛА,  які заходять на низькій висоті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_21-55-30.jpg" length="17936" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 21:55:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
