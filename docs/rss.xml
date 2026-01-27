@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 17:18:41 +0000</lastBuildDate>
-    <item>
-      <title>Жахливі наслідки обстрілу Одес</title>
-      <link>https://www.mandarinai.lt/post/87157</link>
-      <description>Жахливі наслідки обстрілу Одеси - в одній з багатоповерхівок рашисти зруйнували цілий під'їзді.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_11-05-59.jpg" length="329453" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jan 2026 11:05:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 18:20:23 +0000</lastBuildDate>
     <item>
       <title>❗️ Драматичний момент відбиття</title>
       <link>https://www.mandarinai.lt/post/87162</link>
@@ -86,7 +79,7 @@
       <description>🤬Три «шахеди» атакували пасажирський поїзд на Харківщині, – повідомляє ОВА про загоряння вагону та електровозу.
 
 Як зазначає Кулеба, на борту було 291 пасажир. На цей момент є двоє поранених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_15-30-12.jpg" length="95185" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_15-30-12.jpg" length="100907" type="image/jpeg"/>
       <pubDate>Tue, 27 Jan 2026 15:30:12 +0000</pubDate>
     </item>
     <item>
@@ -112,6 +105,19 @@
       <description>💥У Москві вибухнула підстанція</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-27_16-55-54.mp4" length="1524895" type="video/mp4"/>
       <pubDate>Tue, 27 Jan 2026 16:55:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мені більше підходить роль ро</title>
+      <link>https://www.mandarinai.lt/post/87171</link>
+      <description>«Мені більше підходить роль розвідника під прикриттям журналіста», - СБУ публікує оперативні матеріали по Інні Кардаш, яка шпигувала в Україні для білоруського КГБ</description>
+      <pubDate>Tue, 27 Jan 2026 17:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Україна та США готуються пі</title>
+      <link>https://www.mandarinai.lt/post/87172</link>
+      <description>⚡️ Україна та США готуються підписати мирний план із 20 пунктів, водночас Вашингтон окремо узгодить відповідний документ із росією, — Сибіга.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_18-07-04.jpg" length="101608" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 18:07:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
