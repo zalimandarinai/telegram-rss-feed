@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 05:18:07 +0000</lastBuildDate>
-    <item>
-      <title>Понад 14 тисяч масштабних кібе</title>
-      <link>https://www.mandarinai.lt/post/87124</link>
-      <description>Понад 14 тисяч масштабних кібератак на Україну зупинила СБУ від початку «повномасштабки», - керівник Департаменту кібербезпеки СБУ Володимир Карастельов
-
-Основні напрямки та характеристики кібератак.
-
-Мета: дестабілізація роботи державних сервісів, енергетичної, транспортної та оборонної галузей, а також викрадення даних.
-
-Найактивніші періоди: в січні та лютому 2022 року, грудні 2024 року та весь 2025-ий рік.
-
-Інструменти: методи соціальної інженерії, шкідливе ПЗ (BlackEnergy, NotPetya), DDoS-атаки.
-
-Об'єкти: органи влади, урядові організації, банківський сектор, енергетика. </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-26_18-37-46.jpg" length="69725" type="image/jpeg"/>
-      <pubDate>Mon, 26 Jan 2026 18:37:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 06:18:08 +0000</lastBuildDate>
     <item>
       <title>⚡️У Кривому Розі після влучанн</title>
       <link>https://www.mandarinai.lt/post/87125</link>
@@ -103,6 +86,13 @@
       <description>Якщо ми переможемо на виборах, ми будемо вимагати від України 70 млрд євро, які ми їй передали у вигляді озброєння, і, крім того, 15 млрд євро за підрив газогонів «Північний потік-1/2», — лідерка партії «Альтернатива для Німеччини» Аліс Вайдель</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-26_21-55-58.mp4" length="5845185" type="video/mp4"/>
       <pubDate>Mon, 26 Jan 2026 21:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Зараз 80% Харкова та област</title>
+      <link>https://www.mandarinai.lt/post/87139</link>
+      <description>❗️ Зараз 80% Харкова та області без електроенергії після нічних російських ударів, - керівник ОВА Синєгубов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5583.MP4" length="6536741" type="video/mp4"/>
+      <pubDate>Tue, 27 Jan 2026 06:08:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
