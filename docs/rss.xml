@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 12:21:27 +0000</lastBuildDate>
-    <item>
-      <title>Жах. Атаковані росією вночі од</title>
-      <link>https://www.mandarinai.lt/post/87145</link>
-      <description>Жах. Атаковані росією вночі одеські багатоповерхівки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-27_07-07-53.mp4" length="2647627" type="video/mp4"/>
-      <pubDate>Tue, 27 Jan 2026 07:07:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 13:37:56 +0000</lastBuildDate>
     <item>
       <title>Сильне задимлення після влучан</title>
       <link>https://www.mandarinai.lt/post/87146</link>
@@ -85,6 +78,17 @@ Upd: стрілянину влаштував 16-річний підліток. �
 
 ⏯️ Відео з нашоломної камери одного з учасників операції, спецпризначенця 4-го полку «Рейнджер».</description>
       <pubDate>Tue, 27 Jan 2026 12:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кількість загиблих в Одесі збі</title>
+      <link>https://www.mandarinai.lt/post/87163</link>
+      <description>Кількість загиблих в Одесі збільшилася.
+
+Внаслідок нічного обстрілу житлового району в Одесі загинули троє людей, ще 35 отримали поранення.
+
+У місті також серйозно постраждав енергооб’єкт, його відновлення потребуватиме значного часу, повідомляє місцева влада.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_13-30-13.jpg" length="112848" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 13:30:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
