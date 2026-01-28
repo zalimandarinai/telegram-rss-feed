@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 18:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 19:16:57 +0000</lastBuildDate>
     <item>
       <title>🔥Сили оборони вночі уразили на</title>
       <link>https://www.mandarinai.lt/post/87211</link>
@@ -111,6 +111,15 @@
 UPD: В КМДА спростовують інформацію про смерть жінки від холоду, і одночасно уточнюють, що за офіційними даними причиною смерті стало НЕ переохолодження а серцева недостатність.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-28_16-24-48.jpg" length="190100" type="image/jpeg"/>
       <pubDate>Wed, 28 Jan 2026 16:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Україна і росія проведуть з</title>
+      <link>https://www.mandarinai.lt/post/87224</link>
+      <description>‼️ Україна і росія проведуть зустріч без США, Віткофф та Кушнер не братимуть участі в новому раунді переговорів в Еміратах, - заявив Марко Рубіо.
+
+Також він наголосив, що розбіжності щодо територіального питання по Україні звужуються</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-28_18-31-01.jpg" length="71565" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jan 2026 18:31:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
