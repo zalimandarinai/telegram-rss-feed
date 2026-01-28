@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 12:22:04 +0000</lastBuildDate>
-    <item>
-      <title>Біля Костянтинівки на Донеччин</title>
-      <link>https://www.mandarinai.lt/post/87199</link>
-      <description>Біля Костянтинівки на Донеччині оператори дронів 28-ої бригади підрізають логістику ворога і не дають підтягнути артилерію до міста. 
-
-Серед ліквідованих ворожих цілей є НРК, а також «важкі бомбери». Росіяни копіюють український досвід і масштабують його.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5626.MP4" length="27788520" type="video/mp4"/>
-      <pubDate>Wed, 28 Jan 2026 08:27:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 13:38:54 +0000</lastBuildDate>
     <item>
       <title>Журналіст Марʼян Кушнір врятув</title>
       <link>https://www.mandarinai.lt/post/87201</link>
@@ -110,6 +101,13 @@
 Нагадаємо, учора FT написала, що США вимагають від України передати Росії решту Донбасу в обмін на гарантії безпеки, однак Білий дім спростував це.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-28_12-12-46.jpg" length="78127" type="image/jpeg"/>
       <pubDate>Wed, 28 Jan 2026 12:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩 Якщо Зеленський готовий до з</title>
+      <link>https://www.mandarinai.lt/post/87214</link>
+      <description>💩 Якщо Зеленський готовий до зустрічі, тоді, будь ласка, ми запрошуємо його до москви, — помічник путіна Ушаков</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-28_12-27-12.mp4" length="3894564" type="video/mp4"/>
+      <pubDate>Wed, 28 Jan 2026 12:27:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
