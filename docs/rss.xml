@@ -6,43 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 05:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:19:03 +0000</lastBuildDate>
     <item>
       <title>Троє людей загинули після удар</title>
-      <link>https://www.mandarinai.lt/post/87175</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Троє людей загинули після удару російських дронів по пасажирському поїзду на Харківщині — прокуратура
 
 Два БПЛА влучили поруч із поїздом, третій у вагон, що спричинило пожежу. На момент атаки всередині перебували понад 155 пасажирів, уточнюють слідчі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_18-45-52.jpg" length="117950" type="image/jpeg"/>
       <pubDate>Tue, 27 Jan 2026 18:45:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нацгвардійці «Хартії» намагают</title>
-      <link>https://www.mandarinai.lt/post/87176</link>
-      <description>Нацгвардійці «Хартії» намагаються перерізати логістичні шляхи окупантам в районі Куп’янська та атакують дронами ворожий транспорт</description>
-      <pubDate>Tue, 27 Jan 2026 18:55:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Друзі, бійці бригади ДПСУ «</title>
-      <link>https://www.mandarinai.lt/post/87177</link>
-      <description>❗️ Друзі, бійці бригади ДПСУ «Форпост» щиро дякують вам всім за позашляховик, який придбали на кошти підписників ЦАПЛІЄНКО_UKRAINE FIGHTS
-
-Бригада ДПСУ «Форпост» зараз тримає оборону на північному сході Харківщини.
-
-Ми працювали сьогодні з бригадою «Форпост», тож побачили, як бійці, попри лютий мороз, завзято виконують бойові завдання.
-
-Хлопець, який за кермом пікапа, вже майже чотири роки на передовій, був 5 разів поранений, але продовжує воювати. 
-
-Незабаром в нас вийде сюжет про зимову війну на Харківщині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5603.MP4" length="10780558" type="video/mp4"/>
-      <pubDate>Tue, 27 Jan 2026 19:11:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Люди вистрибували з палаючого </title>
-      <link>https://www.mandarinai.lt/post/87178</link>
-      <description>Люди вистрибували з палаючого потяга з дітьми на руках, - «ТСН»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-27_19-32-36.mp4" length="10733390" type="video/mp4"/>
-      <pubDate>Tue, 27 Jan 2026 19:32:36 +0000</pubDate>
     </item>
     <item>
       <title>Кількість жертв в потягу «Барв</title>
@@ -80,6 +51,22 @@
       <description>⚡️В Одесі пролунала серія вибухів. Місто під атакою БпЛА,  які заходять на низькій висоті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-27_21-55-30.jpg" length="17936" type="image/jpeg"/>
       <pubDate>Tue, 27 Jan 2026 21:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Двоє людей поранено внаслідок </title>
+      <link>https://www.mandarinai.lt/post/87191</link>
+      <description>Двоє людей поранено внаслідок атаки ворога на Запоріжжі, - ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-28_05-36-00.mp4" length="746172" type="video/mp4"/>
+      <pubDate>Wed, 28 Jan 2026 05:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дві людини загинули, четверо п</title>
+      <link>https://www.mandarinai.lt/post/87194</link>
+      <description>Дві людини загинули, четверо постраждали в результаті російської атаки на Київщині — ОВА
+
+Чоловік і жінка загинули в Білогірській громаді, їхня 4-річна дитина отримала поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-28_05-41-32.jpg" length="115875" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jan 2026 05:41:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
