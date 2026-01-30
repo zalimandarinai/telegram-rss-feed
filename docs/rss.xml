@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 12:26:21 +0000</lastBuildDate>
-    <item>
-      <title>🤬рф окупувала Злагоду на Дніпр</title>
-      <link>https://www.mandarinai.lt/post/87286</link>
-      <description>🤬рф окупувала Злагоду на Дніпропетровщині та просунулась поблизу Грабовського на Сумщині, - DeepState</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-30_07-23-17.jpg" length="90668" type="image/jpeg"/>
-      <pubDate>Fri, 30 Jan 2026 07:23:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 13:45:14 +0000</lastBuildDate>
     <item>
       <title>🔴Уявіть собі: я знаю, що летит</title>
       <link>https://www.mandarinai.lt/post/87287</link>
@@ -106,6 +99,13 @@
       <description>В Бєлгороді після блекаутів масово прориває замерзлі труби</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-30_12-15-58.mp4" length="2430536" type="video/mp4"/>
       <pubDate>Fri, 30 Jan 2026 12:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії не відмовились від пла</title>
+      <link>https://www.mandarinai.lt/post/87301</link>
+      <description>В росії не відмовились від планів захопити населений пункт Затока на Одещині, щоби перерізати логістичні маршрути, - голова Ради резервістів Сухопутних військ ЗСУ Іван Тимочко. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-30_13-26-45.jpg" length="28888" type="image/jpeg"/>
+      <pubDate>Fri, 30 Jan 2026 13:26:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
