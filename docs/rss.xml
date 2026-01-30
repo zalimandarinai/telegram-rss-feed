@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 06:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 07:32:25 +0000</lastBuildDate>
     <item>
       <title>🥴 У мирному процесі по Україні</title>
       <link>https://www.mandarinai.lt/post/87271</link>
@@ -82,11 +82,23 @@
     <item>
       <title>🥴рф  вже призупинила удари по </title>
       <link>https://www.mandarinai.lt/post/87281</link>
-      <description>🥴рф  вже призупинила удари по Києву та іншим містам. Ми це дуже цінуємо, - Трамп.
-
-На першому відео сьогоднішній удар росії на околицях Дніпра</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-30_06-30-10.mp4" length="428274" type="video/mp4"/>
+      <description>🥴рф  вже призупинила удари по Києву та іншим містам. Ми це дуже цінуємо, - Трамп.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-01-30_06-30-10.mp4" length="3576631" type="video/mp4"/>
       <pubDate>Fri, 30 Jan 2026 06:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зачистили будівлі і взяли поло</title>
+      <link>https://www.mandarinai.lt/post/87285</link>
+      <description>Зачистили будівлі і взяли полонених, - в Куп’янську 151-ий окремий розвідувальний батальйон 10-го армійського корпусу розмотав малу штурмову групу окупантів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5717.MP4" length="18144627" type="video/mp4"/>
+      <pubDate>Fri, 30 Jan 2026 06:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬рф окупувала Злагоду на Дніпр</title>
+      <link>https://www.mandarinai.lt/post/87286</link>
+      <description>🤬рф окупувала Злагоду на Дніпропетровщині та просунулась поблизу Грабовського на Сумщині, - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-30_07-23-17.jpg" length="90668" type="image/jpeg"/>
+      <pubDate>Fri, 30 Jan 2026 07:23:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
