@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 20:15:01 +0000</lastBuildDate>
-    <item>
-      <title>Погода на боці України.
-
-У січ</title>
-      <link>https://www.mandarinai.lt/post/87306</link>
-      <description>Погода на боці України.
-
-У січні морські постачання зброї з КНДР до росії скоротилися через несприятливі погодні умови — NK News.
-
-З жовтня по грудень 2025 року російські кораблі щонайменше тричі на місяць заходили на завантаження до порту Расон на північному сході КНДР.
-
-Водночас аналіз супутникових знімків показав, що в січні 2026 року в порту було зафіксовано лише одне російське вантажне судно.
-
-Погодні санкції діють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-30_15-38-22.jpg" length="97989" type="image/jpeg"/>
-      <pubDate>Fri, 30 Jan 2026 15:38:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 21:16:38 +0000</lastBuildDate>
     <item>
       <title>Група росіян здалася без жодно</title>
       <link>https://www.mandarinai.lt/post/87307</link>
@@ -141,6 +124,13 @@
 Трамп зважує кілька варіантів — від повної відмови від договору до тимчасового продовження або прийняття пропозиції москви, щоб виграти час для нових переговорів. У США попереджають: зрив угоди може запустити нову гонку ядерних озброєнь.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-30_20-09-03.jpg" length="164869" type="image/jpeg"/>
       <pubDate>Fri, 30 Jan 2026 20:09:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці батальйону «Алькатрас» 9</title>
+      <link>https://www.mandarinai.lt/post/87320</link>
+      <description>Бійці батальйону «Алькатрас» 93-ої бригади «Холодний Яр» збивають ворожий дрон на шляху до позицій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5745.MP4" length="1566074" type="video/mp4"/>
+      <pubDate>Fri, 30 Jan 2026 21:01:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
