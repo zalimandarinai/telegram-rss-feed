@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 10:11:31 +0000</lastBuildDate>
-    <item>
-      <title>❗️5 лютого спливає дія ядерног</title>
-      <link>https://www.mandarinai.lt/post/87318</link>
-      <description>❗️5 лютого спливає дія ядерного договору США та рф: Трамп стоїть перед рішенням, від якого залежить майбутнє системи ядерних обмежень між Вашингтоном і москвою, — The Wall Street Journal
-
-Це останній чинний договір між США та рф, який обмежує стратегічні ядерні сили — до 1550 боєголовок. Якщо угоду не продовжать, уперше за понад 50 років ядерні арсенали залишаться без формальних обмежень.
-
-У Білому домі остаточного рішення немає: 
-
-Трамп зважує кілька варіантів — від повної відмови від договору до тимчасового продовження або прийняття пропозиції москви, щоб виграти час для нових переговорів. У США попереджають: зрив угоди може запустити нову гонку ядерних озброєнь.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-30_20-09-03.jpg" length="164869" type="image/jpeg"/>
-      <pubDate>Fri, 30 Jan 2026 20:09:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Jan 2026 11:10:28 +0000</lastBuildDate>
     <item>
       <title>Бійці батальйону «Алькатрас» 9</title>
       <link>https://www.mandarinai.lt/post/87320</link>
@@ -126,6 +113,23 @@
 Генштаб не підтвердив цю інформацію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-31_09-10-18.jpg" length="67322" type="image/jpeg"/>
       <pubDate>Sat, 31 Jan 2026 09:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Сьогодні о 10:42 відбулося </title>
+      <link>https://www.mandarinai.lt/post/87333</link>
+      <description>‼️ Сьогодні о 10:42 відбулося технологічне порушення з одночасним відключенням лінії 400 кВ між енергосистемами Румунії та Молдови та лінії 750 кВ між Західною та центральною частинами України. 
+
+Це спричинило каскадне відключення в енергомережі України й спрацювання автоматичних захистів на підстанціях. 
+
+Були розвантажені блоки атомних електростанцій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-31_10-23-15.jpg" length="128477" type="image/jpeg"/>
+      <pubDate>Sat, 31 Jan 2026 10:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Для стабілізації енергосистеми</title>
+      <link>https://www.mandarinai.lt/post/87334</link>
+      <description>Для стабілізації енергосистеми та відновлення повної генерації АЕС потрібно до 36 годин, — член комітету ВР з питань енергетики Нагорняк.</description>
+      <pubDate>Sat, 31 Jan 2026 10:40:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
