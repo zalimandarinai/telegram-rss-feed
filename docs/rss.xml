@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 16:12:42 +0000</lastBuildDate>
-    <item>
-      <title>❗️Це межа колапсу — сьогоднішн</title>
-      <link>https://www.mandarinai.lt/post/87338</link>
-      <description>❗️Це межа колапсу — сьогоднішні відключення, які були навіть без обстрілів, одна з ознак цього, пише французьке видання Le Monde.
-
-В Мінцифри додають, що аварійна ситуація в енергосистемі не була спричинена кібератакою.
-
-Зараз тривають аварійні відключення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-01-31_11-46-30.jpg" length="133857" type="image/jpeg"/>
-      <pubDate>Sat, 31 Jan 2026 11:46:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Jan 2026 17:13:57 +0000</lastBuildDate>
     <item>
       <title>💡 Енергосистема України поступ</title>
       <link>https://www.mandarinai.lt/post/87340</link>
@@ -126,6 +115,12 @@
 Після цього вони одноголосно ухвалили рішення написати на нього заяву «куда слєдуєт».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2894.MP4" length="30734858" type="video/mp4"/>
       <pubDate>Sat, 31 Jan 2026 15:23:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дістали і в трубі, - оператори</title>
+      <link>https://www.mandarinai.lt/post/87354</link>
+      <description>Дістали і в трубі, - оператори 225-го штурмового полку трохи почистили дренажні системи в районі Гуляйполя, де окупанти намагаються обійти місто і з півдня, і з півночі.</description>
+      <pubDate>Sat, 31 Jan 2026 16:33:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
