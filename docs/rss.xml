@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 16:14:09 +0000</lastBuildDate>
-    <item>
-      <title>‼️ISW: українські війська  про</title>
-      <link>https://www.mandarinai.lt/post/87380</link>
-      <description>‼️ISW: українські війська  просунулися на півночі Харківської області та на тактичному напрямку Костянтинівка-Дружківка.
-
- Водночас зафіксувано просування окупантів  на Покровському та Гуляйпільському напрямках.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_11-20-41.jpg" length="81010" type="image/jpeg"/>
-      <pubDate>Sun, 01 Feb 2026 11:20:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 17:14:17 +0000</lastBuildDate>
     <item>
       <title>❗️росія отримає час підготуват</title>
       <link>https://www.mandarinai.lt/post/87381</link>
@@ -157,6 +148,15 @@
 Згадайте 2019 рік. Епштейна заарештовують. Він готовий говорити. І раптом — «самогубство». Камери вимикаються. Охоронці «засинають» і фальшують журнал. Це була зачистка.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_15-41-15.jpg" length="32500" type="image/jpeg"/>
       <pubDate>Sun, 01 Feb 2026 15:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Україна завтра буде мертва, я</title>
+      <link>https://www.mandarinai.lt/post/87395</link>
+      <description>🔴Україна завтра буде мертва, якщо ми припинимо її підтримувати, — міністр оборони Німеччини 
+
+"Припинення підтримки України матиме два наслідки: Україна завтра буде мертва, і це обійдеться нам набагато дорожче, ніж підтримка зараз", — заявив Пісторіус.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-01_16-19-02.mp4" length="2159881" type="video/mp4"/>
+      <pubDate>Sun, 01 Feb 2026 16:19:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
