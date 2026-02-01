@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 08:18:02 +0000</lastBuildDate>
-    <item>
-      <title>Дістали і в трубі, - оператори</title>
-      <link>https://www.mandarinai.lt/post/87354</link>
-      <description>Дістали і в трубі, - оператори 225-го штурмового полку трохи почистили дренажні системи в районі Гуляйполя, де окупанти намагаються обійти місто і з півдня, і з півночі.</description>
-      <pubDate>Sat, 31 Jan 2026 16:33:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 09:18:22 +0000</lastBuildDate>
     <item>
       <title>Днями російські канали видали </title>
       <link>https://www.mandarinai.lt/post/87356</link>
@@ -88,6 +82,13 @@
 Тобто, вони самі хочуть цього. Думаю, це буде вигідна угода для всіх. Дуже важлива угода, власне, з точки зору нацбезпеки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-01_06-30-39.mp4" length="11239032" type="video/mp4"/>
       <pubDate>Sun, 01 Feb 2026 06:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬За січень ворог запустив прот</title>
+      <link>https://www.mandarinai.lt/post/87368</link>
+      <description>🤬За січень ворог запустив проти нас більше 6000 ударних дронів, близько 5500 КАБів та 158 ракет різних типів, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-01_08-22-59.mp4" length="6624653" type="video/mp4"/>
+      <pubDate>Sun, 01 Feb 2026 08:22:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
