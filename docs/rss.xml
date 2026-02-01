@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 20:11:56 +0000</lastBuildDate>
-    <item>
-      <title>🔴Україна завтра буде мертва, я</title>
-      <link>https://www.mandarinai.lt/post/87395</link>
-      <description>🔴Україна завтра буде мертва, якщо ми припинимо її підтримувати, — міністр оборони Німеччини 
-
-"Припинення підтримки України матиме два наслідки: Україна завтра буде мертва, і це обійдеться нам набагато дорожче, ніж підтримка зараз", — заявив Пісторіус.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-01_16-19-02.mp4" length="2159881" type="video/mp4"/>
-      <pubDate>Sun, 01 Feb 2026 16:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Неймовірні зігріваючи у всіх </title>
-      <link>https://www.mandarinai.lt/post/87396</link>
-      <description>🔥Неймовірні зігріваючи у всіх сенсах київські танці. Лютий-2026. Скоро весна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-01_17-16-18.mp4" length="6345631" type="video/mp4"/>
-      <pubDate>Sun, 01 Feb 2026 17:16:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 21:12:15 +0000</lastBuildDate>
     <item>
       <title>🚒 Вивозять за секунди під приц</title>
       <link>https://www.mandarinai.lt/post/87398</link>
@@ -101,6 +85,13 @@
 Водночас активність штурмових дій знизилась лише на 4% у порівнянні з груднем. Попри це, військові відзначають: січень усе ж був відносно менш напруженим.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_19-57-11.jpg" length="78668" type="image/jpeg"/>
       <pubDate>Sun, 01 Feb 2026 19:57:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪У під'їзді одного з багатоква</title>
+      <link>https://www.mandarinai.lt/post/87410</link>
+      <description>💪У під'їзді одного з багатоквартирних будинків Києва, де ліфт не працює через відключення електроенергії, з'явилися "мотиваційні написи", - повідомляють місцеві паблики.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_20-27-38.jpg" length="214732" type="image/jpeg"/>
+      <pubDate>Sun, 01 Feb 2026 20:27:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
