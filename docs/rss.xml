@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 11:11:51 +0000</lastBuildDate>
-    <item>
-      <title>⚡️У Дніпрі через влучання воро</title>
-      <link>https://www.mandarinai.lt/post/87365</link>
-      <description>⚡️У Дніпрі через влучання ворожого дрона загинули двоє людей: жінка і чоловік, - ОВА
-
-Атака сталася вночі. Виникла пожежа, зруйнований приватний будинок, ще два – пошкоджені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_06-26-32.jpg" length="210889" type="image/jpeg"/>
-      <pubDate>Sun, 01 Feb 2026 06:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴 Ми вже почали переговори щод</title>
-      <link>https://www.mandarinai.lt/post/87366</link>
-      <description>🥴 Ми вже почали переговори щодо Гренландії і, думаю, все майже узгоджено, — Трамп 
-
-Тобто, вони самі хочуть цього. Думаю, це буде вигідна угода для всіх. Дуже важлива угода, власне, з точки зору нацбезпеки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-01_06-30-39.mp4" length="11239032" type="video/mp4"/>
-      <pubDate>Sun, 01 Feb 2026 06:30:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 12:21:26 +0000</lastBuildDate>
     <item>
       <title>🤬За січень ворог запустив прот</title>
       <link>https://www.mandarinai.lt/post/87368</link>
@@ -89,6 +71,22 @@
 Через постійну загрозу повторних ударів рятувальники були змушені кілька разів призупиняти роботи та відходити в безпечні місця.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_10-31-27.jpg" length="82968" type="image/jpeg"/>
       <pubDate>Sun, 01 Feb 2026 10:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ISW: українські війська  про</title>
+      <link>https://www.mandarinai.lt/post/87380</link>
+      <description>‼️ISW: українські війська  просунулися на півночі Харківської області та на тактичному напрямку Костянтинівка-Дружківка.
+
+ Водночас зафіксувано просування окупантів  на Покровському та Гуляйпільському напрямках.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_11-20-41.jpg" length="81010" type="image/jpeg"/>
+      <pubDate>Sun, 01 Feb 2026 11:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росія отримає час підготуват</title>
+      <link>https://www.mandarinai.lt/post/87381</link>
+      <description>❗️Росія отримає час підготуватися до масштабнішого наступу вглиб України, якщо будуть хоч якісь поступки на Донбасі в рамках мирної угоди —  NYT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-01_11-49-36.jpg" length="109973" type="image/jpeg"/>
+      <pubDate>Sun, 01 Feb 2026 11:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
