@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 07:33:26 +0000</lastBuildDate>
-    <item>
-      <title>‼️Індія погодилася припинити з</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>‼️Індія погодилася припинити закупівлю російської нафти, що стане важливим кроком до завершення війни в Україні, — Трамп</description>
-      <pubDate>Mon, 02 Feb 2026 17:08:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Feb 2026 08:23:17 +0000</lastBuildDate>
     <item>
       <title>⚡️В Сумах ворог поцілив у житл</title>
       <link>https://www.mandarinai.lt/post/87484</link>
@@ -70,6 +64,19 @@
 ➡️ В Києві після атаки 1170 багатоповерхівок залишилися без теплопостачання, — Кличко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-03_07-04-43.jpg" length="47353" type="image/jpeg"/>
       <pubDate>Tue, 03 Feb 2026 07:04:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Знищено 450/521 цілей цієї н</title>
+      <link>https://www.mandarinai.lt/post/87492</link>
+      <description>‼️Знищено 450/521 цілей цієї ночі 
+
+▪️4/4 ракети “Циркон”/“Онікс”;
+▪️11/32балістичних ракет Іскандер-М/С-300;
+▪️3/7 крилаті ракети Х-22/Х-32;
+▪️20/28 крилатих ракет “Х-101/Іскандер-К”;
+▪️412/450 ударних БпЛА різних типів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-03_07-51-31.jpg" length="116529" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 07:51:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
