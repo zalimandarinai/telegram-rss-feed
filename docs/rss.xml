@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 14:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 15:36:53 +0000</lastBuildDate>
     <item>
       <title>❗️Одна з ТЕЦ Харкова отримала </title>
       <link>https://www.mandarinai.lt/post/87498</link>
@@ -131,6 +131,13 @@
       <description>🤬Момент влучання шахеда по житловій п'ятиповерхівці в Харкові. Посеред білого дня, мразі прямою наводкою в направляють дрон в житловий будинок. Вигоріло три поверхи, четверо людей поранені.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-03_14-05-11.mp4" length="1121124" type="video/mp4"/>
       <pubDate>Tue, 03 Feb 2026 14:05:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Семеро людей зазнали вибухов</title>
+      <link>https://www.mandarinai.lt/post/87512</link>
+      <description>⚡️Семеро людей зазнали вибухових поранень та гострого стресу внаслідок російського влучання в будинку в Харкові, двоє госпітаоізовані у важкому стані - ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-03_15-12-23.jpg" length="168872" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 15:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
