@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 01:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 04:03:10 +0000</lastBuildDate>
     <item>
       <title>‼️Індія погодилася припинити з</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -15,7 +15,7 @@
     </item>
     <item>
       <title>Сьогодні німецька влада повідо</title>
-      <link>https://www.mandarinai.lt/post/87450</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Сьогодні німецька влада повідомила, що по всій країні тривають обшуки у справі про контрабанду мікроелектроніки до росії.
 
 Вже затримано 5 контрабандистів в місті Любек. 
@@ -29,15 +29,7 @@
 Підозрювані за чотири роки відправили до росії на €30 млн. електроніки.
 
 За мережею стоять російські державні структури, бо відомо, що 24 оборонні компанії отримали близько 16000 поставок через підставні компанії затриманих по справі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-02_18-58-42.jpg" length="39529" type="image/jpeg"/>
       <pubDate>Mon, 02 Feb 2026 18:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇵🇱⚡️ Невідомий дрон впав непод</title>
-      <link>https://www.mandarinai.lt/post/87451</link>
-      <description>🇵🇱⚡️ Невідомий дрон впав неподалік Варшави на територію військової бази за 70 метрів від складу зброї — Radio ZET</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-02_19-00-20.jpg" length="93825" type="image/jpeg"/>
-      <pubDate>Mon, 02 Feb 2026 19:00:20 +0000</pubDate>
     </item>
     <item>
       <title>Казахстанська модель Руслана К</title>
@@ -66,6 +58,17 @@
       <description>🤯 У Черкасах працівники ТЦК протаранили автомобіль, після чого мобілізували водія, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-02_20-48-25.mp4" length="3286679" type="video/mp4"/>
       <pubDate>Mon, 02 Feb 2026 20:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Виклики медиків у Дніпровський</title>
+      <link>https://www.mandarinai.lt/post/87463</link>
+      <description>Виклики медиків у Дніпровський та Деснянський райони, - Кличко
+
+У Дарницькому районі Києва влучання в нежитлову забудову. 
+
+У Дніпровському районі Києва загоряння в приміщенні дитсадка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-02_23-52-24.jpg" length="45246" type="image/jpeg"/>
+      <pubDate>Mon, 02 Feb 2026 23:52:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
