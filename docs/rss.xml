@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 13:54:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 14:35:36 +0000</lastBuildDate>
     <item>
       <title>❗️Одна з ТЕЦ Харкова отримала </title>
       <link>https://www.mandarinai.lt/post/87498</link>
@@ -124,6 +124,13 @@
 📍 Імпорт російського скрапленого газу буде зупинено з початку 2026 року, а постачання трубопроводами — з 30 вересня 2027 року.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-03_13-54-12.jpg" length="32793" type="image/jpeg"/>
       <pubDate>Tue, 03 Feb 2026 13:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент влучання шахеда по жит</title>
+      <link>https://www.mandarinai.lt/post/87511</link>
+      <description>🤬Момент влучання шахеда по житловій п'ятиповерхівці в Харкові. Посеред білого дня, мразі прямою наводкою в направляють дрон в житловий будинок. Вигоріло три поверхи, четверо людей поранені.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-03_14-05-11.mp4" length="1121124" type="video/mp4"/>
+      <pubDate>Tue, 03 Feb 2026 14:05:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
