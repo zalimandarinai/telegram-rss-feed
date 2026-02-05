@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 05:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 06:41:43 +0000</lastBuildDate>
     <item>
       <title>🤡Ось і все, тепер вперше з 197</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -15,17 +15,9 @@
     </item>
     <item>
       <title>Українські військові збили без</title>
-      <link>https://www.mandarinai.lt/post/87577</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Українські військові збили безпілотник «Гербера», на який був підвішений FPV-дрон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-04_20-06-03.jpg" length="133659" type="image/jpeg"/>
       <pubDate>Wed, 04 Feb 2026 20:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Петербурзі 24-річна дівчина </title>
-      <link>https://www.mandarinai.lt/post/87578</link>
-      <description>В Петербурзі 24-річна дівчина кинула кілька коктейлів Молотова в підвал на Кантемирівській вулиці, де збирали гуманітарну допомогу для учасників «еСВеО».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5871.MP4" length="5050049" type="video/mp4"/>
-      <pubDate>Wed, 04 Feb 2026 20:17:12 +0000</pubDate>
     </item>
     <item>
       <title>СОУ ліквідували російського во</title>
@@ -68,6 +60,16 @@
       <description>⚡️ Очікуємо найближчим часом обмін полоненими, — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5873.MP4" length="1158573" type="video/mp4"/>
       <pubDate>Wed, 04 Feb 2026 21:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️В Києві двоє постраждалих вн</title>
+      <link>https://www.mandarinai.lt/post/87589</link>
+      <description>‼️В Києві двоє постраждалих внаслідок нічної атаки рф 
+Пошкодження  в чотирьох районах столиці.
+
+У Шевченківському районі була пожежа на даху офісу. В Оболонському горіли авто. У Дарницькому уламки впали біля будинку, у Соломʼянському - поблизу ТЦ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-05_05-49-29.jpg" length="161319" type="image/jpeg"/>
+      <pubDate>Thu, 05 Feb 2026 05:49:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
