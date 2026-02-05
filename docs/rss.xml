@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 13:56:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 14:37:27 +0000</lastBuildDate>
     <item>
       <title>‼️У Абу-Дабі розпочався другий</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -14,31 +14,6 @@
 
 Обговорюватимуть питання иериторій і механізм припинення вогню</description>
       <pubDate>Thu, 05 Feb 2026 07:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Делегації США, України та рф</title>
-      <link>https://www.mandarinai.lt/post/87607</link>
-      <description>⚡️Делегації США, України та рф домовилися про обмін 314 полоненими, — Віткофф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-05_10-35-33.jpg" length="134354" type="image/jpeg"/>
-      <pubDate>Thu, 05 Feb 2026 10:35:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ У противника на фронтах нав</title>
-      <link>https://www.mandarinai.lt/post/87608</link>
-      <description>⚡️ У противника на фронтах навіть не проблема, у противника катастрофа, - так радник міністра оборони «Флеш» коментує відключення «сірих» терміналів «Старлінк» в росії.
-
-Все управління військами лягло. На багатьох ділянках зупинені штурмові дії.
-
-«По наших військах були проблеми у тих, хто не оперативно подав списки на приватні Старлінки».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-05_11-00-42.jpg" length="71605" type="image/jpeg"/>
-      <pubDate>Thu, 05 Feb 2026 11:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Пуски крилатих ракет FP-5 «Ф</title>
-      <link>https://www.mandarinai.lt/post/87610</link>
-      <description>🔥 Пуски крилатих ракет FP-5 «Фламі́нго» по полігону «Капустин Яр» та по інших цілях на території росії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5885.MP4" length="9543054" type="video/mp4"/>
-      <pubDate>Thu, 05 Feb 2026 11:18:18 +0000</pubDate>
     </item>
     <item>
       <title>Після тривалої паузи відбувся </title>
@@ -68,6 +43,27 @@
       <description>Дрон сьогодні влучив у двір між багатоповерхівками в Сумах, - три будинки пошкоджено</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5895.MP4" length="18701297" type="video/mp4"/>
       <pubDate>Thu, 05 Feb 2026 13:27:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>❤️‍🩹На це неможливо дивитися б</title>
+      <link>https://www.mandarinai.lt/post/87622</link>
+      <description>❤️‍🩹На це неможливо дивитися без сліз - батько дочекался повернення з полону свого сина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-05_14-04-35.mp4" length="4039570" type="video/mp4"/>
+      <pubDate>Thu, 05 Feb 2026 14:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Друзья, наш благотворительн</title>
+      <link>https://www.mandarinai.lt/post/87623</link>
+      <description>💬 «Друзья, наш благотворительный фонд сожгли укрАинские террористы», - жінка в Петербурзі кинула «коктейль Молотова» в фонд, який підтримував російських вбивць та мародерів, а винні, зрозуміло, як завжди, українці, - логіка просто залізна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5898.MP4" length="11855990" type="video/mp4"/>
+      <pubDate>Thu, 05 Feb 2026 14:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Москві вирує пожежа у бізне</title>
+      <link>https://www.mandarinai.lt/post/87624</link>
+      <description>🔥В Москві вирує пожежа у бізнес-центрі, де розташовані пропагандистські ЗМІ - "Известия", "Рен-ТВ", 5 канал, "Царьград" і Regnum. Всі співробітники видань терміново евакуюються.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-05_14-27-42.mp4" length="1027319" type="video/mp4"/>
+      <pubDate>Thu, 05 Feb 2026 14:27:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
