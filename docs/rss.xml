@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 09:31:39 +0000</lastBuildDate>
-    <item>
-      <title>🤡Ось і все, тепер вперше з 197</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤡Ось і все, тепер вперше з 1972 року РФ і США не мають договору, що обмежує стратегічні ядерні сили, — Медведєв наманається лякати світ</description>
-      <pubDate>Wed, 04 Feb 2026 18:57:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Feb 2026 10:28:58 +0000</lastBuildDate>
     <item>
       <title>⚠️Нова шахрайська схема щодо в</title>
       <link>https://www.mandarinai.lt/post/87594</link>
@@ -67,6 +61,13 @@
       <description>Екіпаж мисливців за «шахедами» на Ан-28 збиває російський дрон в повітрі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5882.MP4" length="13245935" type="video/mp4"/>
       <pubDate>Thu, 05 Feb 2026 09:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Ракета «Фламінго» уразила ін</title>
+      <link>https://www.mandarinai.lt/post/87606</link>
+      <description>💥 Ракета «Фламінго» уразила інфраструктуру полігону Капустін Яр, звідки запускають «Орєшнік», — Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-05_09-46-47.jpg" length="189744" type="image/jpeg"/>
+      <pubDate>Thu, 05 Feb 2026 09:46:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
