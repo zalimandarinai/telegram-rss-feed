@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 16:29:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 17:31:58 +0000</lastBuildDate>
     <item>
       <title>❗️Замах на російського генерал</title>
       <link>https://www.mandarinai.lt/post/87667</link>
@@ -108,6 +108,22 @@
 Аналітики прогнозують - фінансова криза в рф можлива вже до літа.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_15-03-12.jpg" length="177094" type="image/jpeg"/>
       <pubDate>Fri, 06 Feb 2026 15:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗿Трамп опублікував відео, на я</title>
+      <link>https://www.mandarinai.lt/post/87677</link>
+      <description>🗿Трамп опублікував відео, на якому Барак і Мішель Обама зображені у вигляді мавп.
+
+Дніщє без дніща</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_16-35-40.mp4" length="355757" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 16:35:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безпілотник атакує вантажний а</title>
+      <link>https://www.mandarinai.lt/post/87679</link>
+      <description>Безпілотник атакує вантажний автомобіль на дорозі в окупованій частині Донеччини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5938.MP4" length="1024" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 17:10:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
