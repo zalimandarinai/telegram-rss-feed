@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 08:26:58 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Ракетна атака на Бєлгород, </title>
-      <link>https://www.mandarinai.lt/post/87647</link>
-      <description>❗️ Ракетна атака на Бєлгород, нарахували 5 влучань, в тому числі, по ТЕЦ, відключились електроенергія та опалення в центрі міста.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5912.MP4" length="3024733" type="video/mp4"/>
-      <pubDate>Thu, 05 Feb 2026 22:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українська ракета FP-9 здатна </title>
-      <link>https://www.mandarinai.lt/post/87649</link>
-      <description>Українська ракета FP-9 здатна влучати в цілі в Москві та Петербурзі, вона може зʼявитися на озброєнні вже цього місяця, - компанія Fire Point
-
-Зі слів Дениса Штілермана, в FP-9 такі характеристики:
-
-▫️ дальність 800 км;
-
-▫️ маса бойової частини 800 кг; 
-
-▫️ швидкість влучання в ціль понад 4000 км/год.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5914.MP4" length="5361135" type="video/mp4"/>
-      <pubDate>Thu, 05 Feb 2026 22:20:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 09:31:03 +0000</lastBuildDate>
     <item>
       <title>«Є!» - МВГ збиває «шахед», яки</title>
       <link>https://www.mandarinai.lt/post/87650</link>
@@ -98,6 +76,15 @@
       <description>❗️Ворог окупував Дегтярне на Харківщині, - карта DeepState</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_08-24-47.jpg" length="36032" type="image/jpeg"/>
       <pubDate>Fri, 06 Feb 2026 08:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти рознесли притулок у З</title>
+      <link>https://www.mandarinai.lt/post/87662</link>
+      <description>Окупанти рознесли притулок у Запоріжжі: є загиблі та поранені тварини.
+
+Чотирилапих терміново розвозять по ветеринарних клініках,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_09-30-24.jpg" length="178397" type="image/jpeg"/>
+      <pubDate>Fri, 06 Feb 2026 09:30:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
