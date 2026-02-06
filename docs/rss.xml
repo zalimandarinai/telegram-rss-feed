@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 11:23:40 +0000</lastBuildDate>
-    <item>
-      <title>💥Момент удару по ТЕЦ в Бєлгоро</title>
-      <link>https://www.mandarinai.lt/post/87653</link>
-      <description>💥Момент удару по ТЕЦ в Бєлгороді</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_03-52-11.mp4" length="1499169" type="video/mp4"/>
-      <pubDate>Fri, 06 Feb 2026 03:52:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 12:29:30 +0000</lastBuildDate>
     <item>
       <title>🤬Суми під атакою БпЛА - на над</title>
       <link>https://www.mandarinai.lt/post/87655</link>
@@ -80,6 +73,13 @@
 Спроба вбивства генерал-лейтенанта ГРУ відбулася на тлі перших за цю війну предметних переговорів щодо припинення російсько-української війни — у момент, коли саме ГРУ координує російську переговорну групу. У нинішніх умовах подібна операція є найменш вигідною саме для України, адже може безпосередньо зашкодити переговорному процесу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_10-19-32.jpg" length="20752" type="image/jpeg"/>
       <pubDate>Fri, 06 Feb 2026 10:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Те, що ми говорили. Лавров зви</title>
+      <link>https://www.mandarinai.lt/post/87668</link>
+      <description>Те, що ми говорили. Лавров звинуватив Україну в замаху на генерала Алексеєва, мовляв, українці зривають переговори. Насправді, в зриві переговорів зацікавлена саме Москва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5920.MP4" length="4305800" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 11:32:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
