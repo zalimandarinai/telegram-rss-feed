@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 05:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 06:37:45 +0000</lastBuildDate>
     <item>
       <title>В смузі відповідальності 24-ої</title>
       <link>https://www.mandarinai.lt/post/87644</link>
@@ -72,9 +72,29 @@
     <item>
       <title>🤬Суми під атакою БпЛА - на над</title>
       <link>https://www.mandarinai.lt/post/87655</link>
-      <description>🤬Суми під атакою БпЛА - на наднизький висоті</description>
+      <description>🤬Суми під атакою БпЛА - на наднизькій висоті</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_04-54-12.mp4" length="4042957" type="video/mp4"/>
       <pubDate>Fri, 06 Feb 2026 04:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дві людини загинули, п’ять – п</title>
+      <link>https://www.mandarinai.lt/post/87656</link>
+      <description>Дві людини загинули, п’ять – поранені внаслідок російських ударів по Запоріжжю і Запорізькому району вночі проти 6 лютого, повідомив очільник ОВА Іван Федоров.
+
+Серед поранених у Запоріжжі – 14-річний хлопець.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_05-10-26.mp4" length="1537951" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 05:10:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>21-річний військовий загинув в</title>
+      <link>https://www.mandarinai.lt/post/87657</link>
+      <description>21-річний військовий загинув внаслідок вибуху автомобіля в Одесі — місцеві ЗМІ
+
+Повідомляють, що чоловік збирався вирушати на службу. Він сів у автівку, після чого стався вибух.
+
+Від отриманих травм військовий помер.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_06-19-40.mp4" length="1082065" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 06:19:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
