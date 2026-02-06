@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 06:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 07:38:11 +0000</lastBuildDate>
     <item>
       <title>В смузі відповідальності 24-ої</title>
       <link>https://www.mandarinai.lt/post/87644</link>
@@ -87,14 +87,14 @@
     </item>
     <item>
       <title>21-річний військовий загинув в</title>
-      <link>https://www.mandarinai.lt/post/87657</link>
+      <link>https://www.mandarinai.lt/post/87658</link>
       <description>21-річний військовий загинув внаслідок вибуху автомобіля в Одесі — місцеві ЗМІ
 
 Повідомляють, що чоловік збирався вирушати на службу. Він сів у автівку, після чого стався вибух.
 
 Від отриманих травм військовий помер.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_06-19-40.mp4" length="1082065" type="video/mp4"/>
-      <pubDate>Fri, 06 Feb 2026 06:19:40 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_07-03-00.mp4" length="1082065" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 07:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
