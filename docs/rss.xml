@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 09:31:03 +0000</lastBuildDate>
-    <item>
-      <title>«Є!» - МВГ збиває «шахед», яки</title>
-      <link>https://www.mandarinai.lt/post/87650</link>
-      <description>«Є!» - МВГ збиває «шахед», який летів на наднизькій висоті</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5915.MP4" length="1209876" type="video/mp4"/>
-      <pubDate>Thu, 05 Feb 2026 22:46:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Китаї створили першу в світі</title>
-      <link>https://www.mandarinai.lt/post/87652</link>
-      <description>У Китаї створили першу в світі мікрохвильову зброю, здатну порушувати роботу супутників на низькій орбіті, включно зі Starlink, — South China Morning Post</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_03-39-56.jpg" length="131147" type="image/jpeg"/>
-      <pubDate>Fri, 06 Feb 2026 03:39:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 10:27:20 +0000</lastBuildDate>
     <item>
       <title>💥Момент удару по ТЕЦ в Бєлгоро</title>
       <link>https://www.mandarinai.lt/post/87653</link>
@@ -85,6 +71,15 @@
 Чотирилапих терміново розвозять по ветеринарних клініках,</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_09-30-24.jpg" length="178397" type="image/jpeg"/>
       <pubDate>Fri, 06 Feb 2026 09:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Замах на російського генерал</title>
+      <link>https://www.mandarinai.lt/post/87667</link>
+      <description>❗️Замах на російського генерала ГРУ Алексєєва може бути спробою третьої сторони зірвати мирні переговори, — джерела ЗМІ в ОП
+
+Спроба вбивства генерал-лейтенанта ГРУ відбулася на тлі перших за цю війну предметних переговорів щодо припинення російсько-української війни — у момент, коли саме ГРУ координує російську переговорну групу. У нинішніх умовах подібна операція є найменш вигідною саме для України, адже може безпосередньо зашкодити переговорному процесу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_10-19-32.jpg" length="20752" type="image/jpeg"/>
+      <pubDate>Fri, 06 Feb 2026 10:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
