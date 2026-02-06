@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 03:28:02 +0000</lastBuildDate>
-    <item>
-      <title>🗿Бульбафюрер виходить на орбіт</title>
-      <link>https://www.mandarinai.lt/post/87635</link>
-      <description>🗿Бульбафюрер виходить на орбіту</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-05_17-25-13.mp4" length="3449218" type="video/mp4"/>
-      <pubDate>Thu, 05 Feb 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В Еміратах обговорили метод</title>
-      <link>https://www.mandarinai.lt/post/87636</link>
-      <description>⚡️ В Еміратах обговорили методи впровадження перемирʼя та моніторингу припинення бойових дій, - Умєров</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-05_18-02-50.jpg" length="72661" type="image/jpeg"/>
-      <pubDate>Thu, 05 Feb 2026 18:02:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 05:08:47 +0000</lastBuildDate>
     <item>
       <title>В смузі відповідальності 24-ої</title>
       <link>https://www.mandarinai.lt/post/87644</link>
@@ -68,6 +54,27 @@
       <description>«Є!» - МВГ збиває «шахед», який летів на наднизькій висоті</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5915.MP4" length="1209876" type="video/mp4"/>
       <pubDate>Thu, 05 Feb 2026 22:46:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Китаї створили першу в світі</title>
+      <link>https://www.mandarinai.lt/post/87652</link>
+      <description>У Китаї створили першу в світі мікрохвильову зброю, здатну порушувати роботу супутників на низькій орбіті, включно зі Starlink, — South China Morning Post</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-06_03-39-56.jpg" length="131147" type="image/jpeg"/>
+      <pubDate>Fri, 06 Feb 2026 03:39:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Момент удару по ТЕЦ в Бєлгоро</title>
+      <link>https://www.mandarinai.lt/post/87653</link>
+      <description>💥Момент удару по ТЕЦ в Бєлгороді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_03-52-11.mp4" length="1499169" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 03:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Суми під атакою БпЛА - на над</title>
+      <link>https://www.mandarinai.lt/post/87655</link>
+      <description>🤬Суми під атакою БпЛА - на наднизький висоті</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-06_04-54-12.mp4" length="4042957" type="video/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 04:54:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
