@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 19:14:37 +0000</lastBuildDate>
-    <item>
-      <title>🇮🇷 Іран швидко відновлює пуско</title>
-      <link>https://www.mandarinai.lt/post/87730</link>
-      <description>🇮🇷 Іран швидко відновлює пускові ракетні майданчики та ядерні об’єкти, — The New York Times показує супутникові знімки до/після атак Ізраїлю та США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-07_15-31-14.jpg" length="112867" type="image/jpeg"/>
-      <pubDate>Sat, 07 Feb 2026 15:31:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 20:12:28 +0000</lastBuildDate>
     <item>
       <title>🔴Зараз росіяни загальмували на</title>
       <link>https://www.mandarinai.lt/post/87731</link>
@@ -80,6 +73,13 @@
       <description>💥Епічна сьогоднішня атака на ТЕЦ в Бєлгороді</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-07_19-00-35.jpg" length="52586" type="image/jpeg"/>
       <pubDate>Sat, 07 Feb 2026 19:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>✌️🔥Відправка в пекло російськи</title>
+      <link>https://www.mandarinai.lt/post/87749</link>
+      <description>✌️🔥Відправка в пекло російських штурмовиків біля Гуляйполя</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-07_19-54-37.mp4" length="3334083" type="video/mp4"/>
+      <pubDate>Sat, 07 Feb 2026 19:54:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
