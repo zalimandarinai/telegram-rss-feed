@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 23:14:06 +0000</lastBuildDate>
-    <item>
-      <title>Безпілотник атакує вантажний а</title>
-      <link>https://www.mandarinai.lt/post/87679</link>
-      <description>Безпілотник атакує вантажний автомобіль на дорозі в окупованій частині Донеччини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5938.MP4" length="1024" type="video/mp4"/>
-      <pubDate>Fri, 06 Feb 2026 17:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Президент анонсував кадрові</title>
-      <link>https://www.mandarinai.lt/post/87680</link>
-      <description>‼️ Президент анонсував кадрові зміни у Повітряних силах: наразі в частині областей, у підрозділах, відповідальних за збиття «шахедів».
-
-«Компонент малої ППО – саме протидії ударним дронам – повинен працювати значно сильніше та не допускати тих проблем, які зараз є. На частині напрямків рубежі захисту побудовані краще, на частині напрямків треба ще попрацювати, і значно попрацювати».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5943.MP4" length="2557590" type="video/mp4"/>
-      <pubDate>Fri, 06 Feb 2026 18:03:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 00:56:45 +0000</lastBuildDate>
     <item>
       <title>Епічне збиття російського безп</title>
       <link>https://www.mandarinai.lt/post/87681</link>
@@ -96,9 +80,9 @@
       <pubDate>Fri, 06 Feb 2026 22:11:27 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️❗️  «Шахед» вдарив по складу</title>
+      <title>⚡️‼️  «Шахед» вдарив по складу</title>
       <link>https://www.mandarinai.lt/post/87692</link>
-      <description>⚡️❗️  «Шахед» вдарив по складу «Roshen» в Яготині Київської області, - медіа</description>
+      <description>⚡️‼️  «Шахед» вдарив по складу компанії «Roshen» в Яготині Київської області, - медіа</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5945.MP4" length="1757924" type="video/mp4"/>
       <pubDate>Fri, 06 Feb 2026 23:12:37 +0000</pubDate>
     </item>
