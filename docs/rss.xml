@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 15:13:56 +0000</lastBuildDate>
-    <item>
-      <title>🤬Лід та руїни. Міненерго показ</title>
-      <link>https://www.mandarinai.lt/post/87770</link>
-      <description>🤬Лід та руїни. Міненерго показали замерзле та пошкоджене внаслідок російських атак обладнання на енергетичних об'єктах України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_10-06-08.mp4" length="2206422" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 10:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳В Буковелі внаслідок відключе</title>
-      <link>https://www.mandarinai.lt/post/87771</link>
-      <description>😳В Буковелі внаслідок відключень електрики загорівся підйомник</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_10-27-20.mp4" length="403437" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 10:27:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 16:15:22 +0000</lastBuildDate>
     <item>
       <title>💥Прикордонники показали бойову</title>
       <link>https://www.mandarinai.lt/post/87772</link>
@@ -86,6 +72,22 @@
       <description>Скинули на окупантів боєприпас, поки ті вішали триколор в районі Купʼянська, - оператори 125-ї ОВМБр уразили прапороносців-загарбників ще до того, як ті встигли зняти відео для російських каналів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5999.MP4" length="7326801" type="video/mp4"/>
       <pubDate>Sun, 08 Feb 2026 14:54:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Курахове, яке приблизно рік то</title>
+      <link>https://www.mandarinai.lt/post/87785</link>
+      <description>Курахове, яке приблизно рік тому захопили окупанти, сьогодні виглядає так.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6001.MP4" length="10683704" type="video/mp4"/>
+      <pubDate>Sun, 08 Feb 2026 16:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Україні не вистачало ракет </title>
+      <link>https://www.mandarinai.lt/post/87786</link>
+      <description>❗️ Україні не вистачало ракет ППО під час ударів по енергетиці, — FT
+
+Через критичний дефіцит ракет-перехоплювачів Pac-3 для систем Patriot наші пускові установки минулого місяця залишалися порожніми, не маючи можливості відбивати балістичні удари по енергетичним об'єктам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_16-08-38.jpg" length="90204" type="image/jpeg"/>
+      <pubDate>Sun, 08 Feb 2026 16:08:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
