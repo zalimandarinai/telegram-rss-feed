@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 14:16:47 +0000</lastBuildDate>
-    <item>
-      <title>💥Влучання по підстанції в Брян</title>
-      <link>https://www.mandarinai.lt/post/87767</link>
-      <description>💥Влучання по підстанції в Брянській області рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_09-01-50.mp4" length="1585102" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 09:01:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>✌️ На полігоні «Капустин Яр», </title>
-      <link>https://www.mandarinai.lt/post/87768</link>
-      <description>✌️ На полігоні «Капустин Яр», звідки запускають "Орєшнік" пошкоджені об'єкти обслуговування балістичних ракет, — Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_09-27-18.jpg" length="192330" type="image/jpeg"/>
-      <pubDate>Sun, 08 Feb 2026 09:27:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вночі росія завдала удару по о</title>
-      <link>https://www.mandarinai.lt/post/87769</link>
-      <description>Вночі росія завдала удару по об'єктах Нафтогазу в Полтавській області. Зафіксовано влучання, є інформація про руйнування обладнання — повідомляє компанія</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_09-32-01.jpg" length="66690" type="image/jpeg"/>
-      <pubDate>Sun, 08 Feb 2026 09:32:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 15:13:56 +0000</lastBuildDate>
     <item>
       <title>🤬Лід та руїни. Міненерго показ</title>
       <link>https://www.mandarinai.lt/post/87770</link>
@@ -100,6 +79,13 @@
       <description>🇷🇺В російському Бєлгороді готуються до аварійного зливу системи опалення: через масовані удари по енергетичній інфраструктурі регіон зазнав значних пошкоджень, — губернатор</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_14-14-14.jpg" length="52881" type="image/jpeg"/>
       <pubDate>Sun, 08 Feb 2026 14:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Скинули на окупантів боєприпас</title>
+      <link>https://www.mandarinai.lt/post/87782</link>
+      <description>Скинули на окупантів боєприпас, поки ті вішали триколор в районі Купʼянська, - оператори 125-ї ОВМБр уразили прапороносців-загарбників ще до того, як ті встигли зняти відео для російських каналів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5999.MP4" length="7326801" type="video/mp4"/>
+      <pubDate>Sun, 08 Feb 2026 14:54:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
