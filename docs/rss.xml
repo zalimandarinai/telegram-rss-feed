@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 16:15:22 +0000</lastBuildDate>
-    <item>
-      <title>💥Прикордонники показали бойову</title>
-      <link>https://www.mandarinai.lt/post/87772</link>
-      <description>💥Прикордонники показали бойову роботу по ворожих шахедах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_11-02-36.mp4" length="467543" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 11:02:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 17:15:48 +0000</lastBuildDate>
     <item>
       <title>😱Влада Італії повідомила про д</title>
       <link>https://www.mandarinai.lt/post/87774</link>
@@ -85,9 +78,22 @@
       <link>https://www.mandarinai.lt/post/87786</link>
       <description>❗️ Україні не вистачало ракет ППО під час ударів по енергетиці, — FT
 
-Через критичний дефіцит ракет-перехоплювачів Pac-3 для систем Patriot наші пускові установки минулого місяця залишалися порожніми, не маючи можливості відбивати балістичні удари по енергетичним об'єктам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_16-08-38.jpg" length="90204" type="image/jpeg"/>
+Через критичний дефіцит ракет-перехоплювачів PAC-3 для систем Patriot наші пускові установки минулого місяця залишалися порожніми, не маючи можливості відбивати балістичні удари по енергетичним об'єктам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_16-08-38.jpg" length="29957" type="image/jpeg"/>
       <pubDate>Sun, 08 Feb 2026 16:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬52% німців вважають, що Захід</title>
+      <link>https://www.mandarinai.lt/post/87787</link>
+      <description>💬52% німців вважають, що Захід має надавати більше підтримки Україні, щоб підштовхнути Путіна до припинення вогню.
+
+▪️ 28% виступають за військову та фінансову допомогу одночасно;
+
+ 12% - тільки за гроші
+ 12% - тільки за зброю
+ 35% - проти подальшої підтримки України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_16-36-22.jpg" length="95896" type="image/jpeg"/>
+      <pubDate>Sun, 08 Feb 2026 16:36:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
