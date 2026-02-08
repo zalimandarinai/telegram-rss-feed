@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 10:14:06 +0000</lastBuildDate>
-    <item>
-      <title>Одна людина загинула, дві пора</title>
-      <link>https://www.mandarinai.lt/post/87759</link>
-      <description>Одна людина загинула, дві поранено внаслідок атаки ворога на Краматорськ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5991.MP4" length="11657241" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 06:40:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 11:12:51 +0000</lastBuildDate>
     <item>
       <title>⚡️Під час масованого обстрілу </title>
       <link>https://www.mandarinai.lt/post/87761</link>
@@ -83,6 +76,20 @@
       <description>🤬Лід та руїни. Міненерго показали замерзле та пошкоджене внаслідок російських атак обладнання на енергетичних об'єктах України</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_10-06-08.mp4" length="2206422" type="video/mp4"/>
       <pubDate>Sun, 08 Feb 2026 10:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳В Буковелі внаслідок відключе</title>
+      <link>https://www.mandarinai.lt/post/87771</link>
+      <description>😳В Буковелі внаслідок відключень електрики загорівся підйомник</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_10-27-20.mp4" length="403437" type="video/mp4"/>
+      <pubDate>Sun, 08 Feb 2026 10:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Прикордонники показали бойову</title>
+      <link>https://www.mandarinai.lt/post/87772</link>
+      <description>💥Прикордонники показали бойову роботу по ворожих шахедах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_11-02-36.mp4" length="467543" type="video/mp4"/>
+      <pubDate>Sun, 08 Feb 2026 11:02:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
