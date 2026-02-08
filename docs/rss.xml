@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 09:18:27 +0000</lastBuildDate>
-    <item>
-      <title>👀Припинення війни в Україні не</title>
-      <link>https://www.mandarinai.lt/post/87754</link>
-      <description>👀Припинення війни в Україні не вигідне Європі, - заявив голова Мюнхенської конференції Вольфганг Ішінгер. 
-
-"У разі припинення вогню в Україні загроза на східному фланзі НАТО може посилитися", - сказав він.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-07_21-25-05.jpg" length="99872" type="image/jpeg"/>
-      <pubDate>Sat, 07 Feb 2026 21:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Новоросійськ сьогодні сильно н</title>
-      <link>https://www.mandarinai.lt/post/87755</link>
-      <description>Новоросійськ сьогодні сильно нервує</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5987.MP4" length="3722682" type="video/mp4"/>
-      <pubDate>Sat, 07 Feb 2026 21:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Одеса під атакою шахедів</title>
-      <link>https://www.mandarinai.lt/post/87756</link>
-      <description>⚡️Одеса під атакою шахедів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-07_22-42-16.mp4" length="906609" type="video/mp4"/>
-      <pubDate>Sat, 07 Feb 2026 22:42:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 10:14:06 +0000</lastBuildDate>
     <item>
       <title>Одна людина загинула, дві пора</title>
       <link>https://www.mandarinai.lt/post/87759</link>
@@ -85,6 +62,27 @@
       <description>💥Влучання по підстанції в Брянській області рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_09-01-50.mp4" length="1585102" type="video/mp4"/>
       <pubDate>Sun, 08 Feb 2026 09:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>✌️ На полігоні «Капустин Яр», </title>
+      <link>https://www.mandarinai.lt/post/87768</link>
+      <description>✌️ На полігоні «Капустин Яр», звідки запускають "Орєшнік" пошкоджені об'єкти обслуговування балістичних ракет, — Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_09-27-18.jpg" length="192330" type="image/jpeg"/>
+      <pubDate>Sun, 08 Feb 2026 09:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі росія завдала удару по о</title>
+      <link>https://www.mandarinai.lt/post/87769</link>
+      <description>Вночі росія завдала удару по об'єктах Нафтогазу в Полтавській області. Зафіксовано влучання, є інформація про руйнування обладнання — повідомляє компанія</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_09-32-01.jpg" length="66690" type="image/jpeg"/>
+      <pubDate>Sun, 08 Feb 2026 09:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Лід та руїни. Міненерго показ</title>
+      <link>https://www.mandarinai.lt/post/87770</link>
+      <description>🤬Лід та руїни. Міненерго показали замерзле та пошкоджене внаслідок російських атак обладнання на енергетичних об'єктах України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_10-06-08.mp4" length="2206422" type="video/mp4"/>
+      <pubDate>Sun, 08 Feb 2026 10:06:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
