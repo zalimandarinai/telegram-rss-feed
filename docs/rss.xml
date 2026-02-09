@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 05:59:06 +0000</lastBuildDate>
-    <item>
-      <title>Один з тих, кого росіяни вважа</title>
-      <link>https://www.mandarinai.lt/post/87796</link>
-      <description>Один з тих, кого росіяни вважають виконавцями замаху на генерала Алексеєва, працював на «федеральную службу безопасности», - несподіваний поворот.
-
-З Еміратів до Москви екстрадували безпосереднього виконавця, якого називають «Любомир Корба». Звісно, як вимагають закони жанру, він етнічний українець. 
-
-Проте, в справі про замах на Алексєєва в Москві є такий собі затриманий громадянин рф Віктор Васін. 
-
-Він колишній військовий і працює в компанії, яка була створена під наглядом ФСБ для виробництва засобів стеження. 
-
-У справі також фігурує Зінаїда Серебрицька, яка виїхала до України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_18-49-48.jpg" length="9157" type="image/jpeg"/>
-      <pubDate>Sun, 08 Feb 2026 18:49:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 07:01:58 +0000</lastBuildDate>
     <item>
       <title>✌️Селище Тернувате на Запоріжж</title>
       <link>https://www.mandarinai.lt/post/87798</link>
@@ -106,6 +91,26 @@
       <description>В Одесі наразі відомо про одного загиблого внаслідок удару рф по багатоповерхівці</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-09_00-08-05.mp4" length="940697" type="video/mp4"/>
       <pubDate>Mon, 09 Feb 2026 00:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни вбили жінку та 10-річн</title>
+      <link>https://www.mandarinai.lt/post/87811</link>
+      <description>росіяни вбили жінку та 10-річного хлопчика сьогодні на Харківщині. Тіла дістали з-під завалів повністю зруйнованого будинку
+
+Ще троє людей постраждали. БпЛА атакували приватний сектор Богодухова.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-09_06-18-45.jpg" length="170975" type="image/jpeg"/>
+      <pubDate>Mon, 09 Feb 2026 06:18:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російські окупанти здійснили с</title>
+      <link>https://www.mandarinai.lt/post/87812</link>
+      <description>Російські окупанти здійснили спробу прориву державного кордону в районі населеного пункту Чугунівка на Харківщині.
+
+Для проникнення крізь бойові порядки 16 армійського корпусу ворог вирішив скористатися складними погодними умовами.
+
+До ліквідації загрози залучили спеціалізовану роту «Шквал», бійці підрозділу провели повну зачистку населеного пункту від загарбників.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6024.MP4" length="23363649" type="video/mp4"/>
+      <pubDate>Mon, 09 Feb 2026 06:32:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
