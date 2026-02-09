@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 09:45:53 +0000</lastBuildDate>
-    <item>
-      <title>Полонений дагестанець. 
-
-Ми чу</title>
-      <link>https://www.mandarinai.lt/post/87803</link>
-      <description>Полонений дагестанець. 
-
-Ми чули багато свідчень іноземних найманців в російській формі про те, що їх обманом затягнули до окупаційної армії, обіцяючи спочатку високооплачувану роботу десь в Москві.
-
-Але вперше я подібну історію почув від російського громадянина.
-
-Військовополонений Руслан Алієв з Махачкали кається перед українцями і стверджує, що він їхав працювати до Москви охоронцем, а опинився під Костянтинівкою.
-
-Вірити чи не вірити розповіді полоненого, робіть висновки самі.
-
-Відео розмови тут https://m.youtube.com/watch?v=OuXsTs9uZ_w</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6019.MP4" length="2867500" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 20:48:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Губернатор Липецької області в</title>
-      <link>https://www.mandarinai.lt/post/87804</link>
-      <description>Губернатор Липецької області ввечері оголосив «червоний рівень загрози» через дрони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-08_21-12-56.jpg" length="79837" type="image/jpeg"/>
-      <pubDate>Sun, 08 Feb 2026 21:12:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 10:44:13 +0000</lastBuildDate>
     <item>
       <title>👀В Бєлгороді труби не витримал</title>
       <link>https://www.mandarinai.lt/post/87805</link>
@@ -126,6 +100,13 @@
 Вже зараз ключові НПЗ Індії відмовляються від російських контрактів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-09_09-28-31.jpg" length="95856" type="image/jpeg"/>
       <pubDate>Mon, 09 Feb 2026 09:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці Держприкордонслужби ураз</title>
+      <link>https://www.mandarinai.lt/post/87820</link>
+      <description>Бійці Держприкордонслужби уразили ворожий човен, квадроцикл, автомобіль та антени зв'язку на Півдні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6029.MP4" length="8253210" type="video/mp4"/>
+      <pubDate>Mon, 09 Feb 2026 10:41:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
