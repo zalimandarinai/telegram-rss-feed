@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 11:36:58 +0000</lastBuildDate>
-    <item>
-      <title>👀В Бєлгороді труби не витримал</title>
-      <link>https://www.mandarinai.lt/post/87805</link>
-      <description>👀В Бєлгороді труби не витримали СВО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_22-38-54.mp4" length="3716972" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 22:38:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥У Волгограді вибухає і мерехт</title>
-      <link>https://www.mandarinai.lt/post/87806</link>
-      <description>💥У Волгограді вибухає і мерехтить</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_22-46-23.mp4" length="108815" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 22:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️В Одесі шахед влучив у дах б</title>
-      <link>https://www.mandarinai.lt/post/87808</link>
-      <description>⚡️В Одесі шахед влучив у дах багатоповерхівки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_22-56-45.mp4" length="569476" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 22:56:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 12:37:45 +0000</lastBuildDate>
     <item>
       <title>В Одесі наразі відомо про одно</title>
       <link>https://www.mandarinai.lt/post/87810</link>
@@ -114,6 +93,32 @@
       <description>Бійці Держприкордонслужби уразили ворожий човен, квадроцикл, автомобіль та антени зв'язку на Півдні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6029.MP4" length="8253210" type="video/mp4"/>
       <pubDate>Mon, 09 Feb 2026 10:41:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти заявляють, що захопил</title>
+      <link>https://www.mandarinai.lt/post/87821</link>
+      <description>Окупанти заявляють, що захопили село Попівка в Сумській області.
+
+Бійці 14-го АК спростували вкиди роспропагандистів, піднявши український прапор над селом.
+
+Попівка існує лише на картах, бо з 2022-го року росіяни методично знищують село, залишивши від нього лише руїни.
+
+Більше на офіційній сторінці 14-го армійського корпусу тут https://t.me/Corpsarmy/211</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-09_12-03-05.jpg" length="118463" type="image/jpeg"/>
+      <pubDate>Mon, 09 Feb 2026 12:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ЗСУ знищили 6 тисяч російськи</title>
+      <link>https://www.mandarinai.lt/post/87823</link>
+      <description>💥ЗСУ знищили 6 тисяч російських FPV одним ударом, - Генштаб
+
+Ураження відбулось в районі Ростова-на-Дону, 
+
+Три контейнери з дронами та комплектуючими повністю знищені, ще декілька контейнерів зазнали пошкоджень.
+
+Також військові уразили пункт управління підрозділу повітряно-десантних військ противника у Суджі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-09_12-07-20.jpg" length="110381" type="image/jpeg"/>
+      <pubDate>Mon, 09 Feb 2026 12:07:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
