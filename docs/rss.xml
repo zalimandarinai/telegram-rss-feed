@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 23:18:22 +0000</lastBuildDate>
-    <item>
-      <title>📡🕹️🔥 «Схоже на танчика? Ззаді </title>
-      <link>https://www.mandarinai.lt/post/87795</link>
-      <description>📡🕹️🔥 «Схоже на танчика? Ззаді бʼєм? Під башню?» - оператори ударних БпЛА 80-ої окремої десантно-штурмової бригади відчутно попрацювали з парком російської техніки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6013.MP4" length="14713322" type="video/mp4"/>
-      <pubDate>Sun, 08 Feb 2026 18:30:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 01:03:30 +0000</lastBuildDate>
     <item>
       <title>Один з тих, кого росіяни вважа</title>
       <link>https://www.mandarinai.lt/post/87796</link>
@@ -106,6 +99,13 @@
       <description>⚡️В Одесі шахед влучив у дах багатоповерхівки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-08_22-56-45.mp4" length="569476" type="video/mp4"/>
       <pubDate>Sun, 08 Feb 2026 22:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Одесі наразі відомо про одно</title>
+      <link>https://www.mandarinai.lt/post/87810</link>
+      <description>В Одесі наразі відомо про одного загиблого внаслідок удару рф по багатоповерхівці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-09_00-08-05.mp4" length="940697" type="video/mp4"/>
+      <pubDate>Mon, 09 Feb 2026 00:08:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
