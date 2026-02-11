@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 21:23:50 +0000</lastBuildDate>
-    <item>
-      <title>✅ Родина військового Назара Да</title>
-      <link>https://www.mandarinai.lt/post/87942</link>
-      <description>✅ Родина військового Назара Далецького, якого вважали загибли, не має повертати 15 млн грн державі, — Міноборони
-
-Усі належні виплати родині захисника були здійснені відповідно до чинного законодавства України та на підставі офіційно встановлених на той момент обставин. Станом на сьогодні у Міноборони відсутні правові підстави для перегляду ухваленого рішення чи спонукання родини до повернення отриманих коштів.
-
-Назара Далецького вважали зниклим з травня 2022 року. У вересні того ж року громада провела похорон. З полону він повернувся 5 лютого 2026 року</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_16-29-29.jpg" length="54298" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:29:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 22:18:00 +0000</lastBuildDate>
     <item>
       <title>🤬Рашисти вдарили по Херсону. В</title>
       <link>https://www.mandarinai.lt/post/87943</link>
@@ -82,6 +71,13 @@ UPD Попередньо вибухнув трансформатор</descriptio
       <description>💥Бєлгороду не спиться</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-11_20-56-05.mp4" length="3702040" type="video/mp4"/>
       <pubDate>Wed, 11 Feb 2026 20:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Брянську також. Підстанція</title>
+      <link>https://www.mandarinai.lt/post/87956</link>
+      <description>💥Брянську також. Підстанція</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-11_21-46-23.mp4" length="1064063" type="video/mp4"/>
+      <pubDate>Wed, 11 Feb 2026 21:46:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
