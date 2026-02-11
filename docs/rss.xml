@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 20:26:12 +0000</lastBuildDate>
-    <item>
-      <title>🤷‍♂️ Окупанти спалили власний </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤷‍♂️ Окупанти спалили власний автомобіль неподалік від лінії бойового зіткнення біля міста Лиман, і мотив їхнього вчинку для операторів 3-ої ОШБР залишається незрозумілим</description>
-      <pubDate>Wed, 11 Feb 2026 13:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ворожий БпЛА влучив в автомобі</title>
-      <link>https://www.mandarinai.lt/post/87938</link>
-      <description>Ворожий БпЛА влучив в автомобіль сімейної медицини біля Ізюма, є одна жертва та поранені люди.
-
-В машині знаходилось п’ятеро медиків та цивільних.
-
-Одна жінка загинула на місці події. Інші отримали тілесні ушкодження різного ступеня тяжкості.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_16-09-30.jpg" length="288227" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:09:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 21:23:50 +0000</lastBuildDate>
     <item>
       <title>✅ Родина військового Назара Да</title>
       <link>https://www.mandarinai.lt/post/87942</link>
@@ -76,6 +59,29 @@ https://71dshv.mil.gov.ua
 https://druzi.mil.gov.ua</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6086.MP4" length="24523270" type="video/mp4"/>
       <pubDate>Wed, 11 Feb 2026 19:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ На Лівому березі Києва прол</title>
+      <link>https://www.mandarinai.lt/post/87952</link>
+      <description>⚡️ На Лівому березі Києва пролунав сильний вибух, повітряної тривоги при цьому не було.
+
+UPD Попередньо вибухнув трансформатор</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_20-31-58.jpg" length="63142" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 20:31:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог вдарив по магазину в міс</title>
+      <link>https://www.mandarinai.lt/post/87954</link>
+      <description>Ворог вдарив по магазину в місті Барвінкове: відомо про 10 постраждалих! - поліція Харківщини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_20-39-51.jpg" length="200307" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 20:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Бєлгороду не спиться</title>
+      <link>https://www.mandarinai.lt/post/87955</link>
+      <description>💥Бєлгороду не спиться</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-11_20-56-05.mp4" length="3702040" type="video/mp4"/>
+      <pubDate>Wed, 11 Feb 2026 20:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
