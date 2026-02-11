@@ -6,22 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 17:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 18:44:34 +0000</lastBuildDate>
     <item>
       <title>🤷‍♂️ Окупанти спалили власний </title>
-      <link>https://www.mandarinai.lt/post/87932</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🤷‍♂️ Окупанти спалили власний автомобіль неподалік від лінії бойового зіткнення біля міста Лиман, і мотив їхнього вчинку для операторів 3-ої ОШБР залишається незрозумілим</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6076.MP4" length="9309344" type="video/mp4"/>
       <pubDate>Wed, 11 Feb 2026 13:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Наступний раунд мирних перемо</title>
-      <link>https://www.mandarinai.lt/post/87934</link>
-      <description>🔴Наступний раунд мирних перемовин з рф пройде наступного тижня у вівторок або середу у США, якщо росіяни погодяться, — Зеленський
-
-На порядку денному стоїть пропозиція США щодо створення вільної економічної зони як буфера на сході Донеччини. Жодна зі сторін не зацікавлена в ідеї вільної економічної зони — ні росіяни, ні ми. У нас різні погляди на це.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_13-58-08.jpg" length="86946" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 13:58:08 +0000</pubDate>
     </item>
     <item>
       <title>🔥Генштаб ЗСУ підтвердив атаку </title>
@@ -78,6 +68,13 @@
       <description>🤬Рашисти вдарили по Херсону. Внаслідок атаки пожежа на АЗС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_16-34-29.jpg" length="63269" type="image/jpeg"/>
       <pubDate>Wed, 11 Feb 2026 16:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Темно і гучно у вечірньому Бє</title>
+      <link>https://www.mandarinai.lt/post/87945</link>
+      <description>💥Темно і гучно у вечірньому Бєлгороді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-11_17-55-47.mp4" length="4617491" type="video/mp4"/>
+      <pubDate>Wed, 11 Feb 2026 17:55:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
