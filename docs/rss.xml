@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 08:33:04 +0000</lastBuildDate>
-    <item>
-      <title>росіяни вдарили по Запоріжжю, </title>
-      <link>https://www.mandarinai.lt/post/87900</link>
-      <description>росіяни вдарили по Запоріжжю, в місті сильні пожежі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-10_21-26-54.jpg" length="84451" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 21:26:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 09:39:40 +0000</lastBuildDate>
     <item>
       <title>Пошук вирішення проблеми «шахе</title>
       <link>https://www.mandarinai.lt/post/87902</link>
@@ -106,6 +99,13 @@
  росія і зараз готова до компромісів, але цілі війни проти України залишаються незмінними та не підлягають кон'юнктурним компромісам.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_08-13-07.jpg" length="69878" type="image/jpeg"/>
       <pubDate>Wed, 11 Feb 2026 08:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Кожен такий російський удар п</title>
+      <link>https://www.mandarinai.lt/post/87916</link>
+      <description>"Кожен такий російський удар підриває довіру до всього того, що робиться в дипломатії для завершення цієї війни", - Зеленський про вбивство росіянами трьох малюків та їхнього батька сьогодні вночі в Богодкхові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_08-48-52.jpg" length="153150" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 08:48:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
