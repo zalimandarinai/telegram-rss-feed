@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 09:39:40 +0000</lastBuildDate>
-    <item>
-      <title>Пошук вирішення проблеми «шахе</title>
-      <link>https://www.mandarinai.lt/post/87902</link>
-      <description>Пошук вирішення проблеми «шахедів» зараз триває в багатьох напрямках.
-
-⚡️Дрон‑перехоплювач «P1SUN» запустили в серійне виробництво.  
-
-Вже збито понад 1000 цілей, з них 700 шахедів.
-
-Вартість одного дрона «P1SUN» близько $1000, заявляє виробник SkyFall.
-
-Таким чином, по ціні перехоплювач не набагато дорожчий, аніж звичайний FPV-дрон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6069.MP4" length="1557230" type="video/mp4"/>
-      <pubDate>Tue, 10 Feb 2026 21:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Запоріжжі через атаку «шахед</title>
-      <link>https://www.mandarinai.lt/post/87903</link>
-      <description>В Запоріжжі через атаку «шахедів» зараз 11 тисяч квартир без світла, - ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-10_21-31-31.jpg" length="56443" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 21:31:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 10:36:52 +0000</lastBuildDate>
     <item>
       <title>❗️ Троє дітей віком до двох ро</title>
       <link>https://www.mandarinai.lt/post/87904</link>
@@ -106,6 +84,22 @@
       <description>"Кожен такий російський удар підриває довіру до всього того, що робиться в дипломатії для завершення цієї війни", - Зеленський про вбивство росіянами трьох малюків та їхнього батька сьогодні вночі в Богодкхові</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_08-48-52.jpg" length="153150" type="image/jpeg"/>
       <pubDate>Wed, 11 Feb 2026 08:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🕯В Богодухові оголосили дні жа</title>
+      <link>https://www.mandarinai.lt/post/87917</link>
+      <description>🕯В Богодухові оголосили дні жалоби через трагічну загибель дітей під час російського обстрілу
+
+Міський голова повідомив, що мати дітей та їхня бабуся нині шпиталізовані. Лікарі борються за їхнє життя.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_10-08-32.jpg" length="144859" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 10:08:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦«МОК не вистачить чорних пов</title>
+      <link>https://www.mandarinai.lt/post/87919</link>
+      <description>🇺🇦«МОК не вистачить чорних пов'язок, щоб вшанувати всіх загиблих атлетів, знищених росією» - заявив на прес-конференції український скелетоніст Владислав Гераскевич</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_10-35-26.jpg" length="223452" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 10:35:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
