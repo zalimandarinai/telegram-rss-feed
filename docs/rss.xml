@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 01:03:02 +0000</lastBuildDate>
-    <item>
-      <title>🤬Рашисти вдарили по Херсону. В</title>
-      <link>https://www.mandarinai.lt/post/87943</link>
-      <description>🤬Рашисти вдарили по Херсону. Внаслідок атаки пожежа на АЗС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-11_16-34-29.jpg" length="63269" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Темно і гучно у вечірньому Бє</title>
-      <link>https://www.mandarinai.lt/post/87945</link>
-      <description>💥Темно і гучно у вечірньому Бєлгороді</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-11_17-55-47.mp4" length="4617491" type="video/mp4"/>
-      <pubDate>Wed, 11 Feb 2026 17:55:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Feb 2026 04:11:02 +0000</lastBuildDate>
     <item>
       <title>🕯У Богодухові сьогодні прощали</title>
       <link>https://www.mandarinai.lt/post/87949</link>
@@ -78,6 +64,20 @@ UPD Попередньо вибухнув трансформатор</descriptio
       <description>💥Брянську також. Підстанція</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-11_21-46-23.mp4" length="1064063" type="video/mp4"/>
       <pubDate>Wed, 11 Feb 2026 21:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вибухи, детонація та евакуаці</title>
+      <link>https://www.mandarinai.lt/post/87957</link>
+      <description>💥Вибухи, детонація та евакуація після атаки БпЛА в Котлубані, Волгоградська область, де розташована військова база ГРАУ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-12_02-51-10.mp4" length="1081285" type="video/mp4"/>
+      <pubDate>Thu, 12 Feb 2026 02:51:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві після ворожої атаки  п</title>
+      <link>https://www.mandarinai.lt/post/87960</link>
+      <description>В Києві після ворожої атаки  перебої зі світлом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-12_03-23-00.mp4" length="806496" type="video/mp4"/>
+      <pubDate>Thu, 12 Feb 2026 03:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
