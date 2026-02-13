@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 21:23:54 +0000</lastBuildDate>
-    <item>
-      <title>Одна людина загинула внаслідок</title>
-      <link>https://www.mandarinai.lt/post/88055</link>
-      <description>Одна людина загинула внаслідок  удару рф по Конотопу на Сумщині. Жінка перебувала в будинку, який зруйнував російській дрон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_16-06-27.jpg" length="174858" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 16:06:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 22:19:55 +0000</lastBuildDate>
     <item>
       <title>«В ході проведення Центром спе</title>
       <link>https://www.mandarinai.lt/post/88056</link>
@@ -132,6 +125,13 @@
 ▪️Я хочу прийняти закон, який дозволить Трампу вводити тарифи на будь-яку країну, яка купує російську енергію або веде бізнес із росією, заявив сенатор на Мюнхенській безпековій конференції</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-13_21-22-34.mp4" length="1001199" type="video/mp4"/>
       <pubDate>Fri, 13 Feb 2026 21:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Я молодший за путіна, це важл</title>
+      <link>https://www.mandarinai.lt/post/88071</link>
+      <description>🔥Я молодший за путіна, це важливо. У нього не дуже багато часу, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-13_22-02-05.mp4" length="4548536" type="video/mp4"/>
+      <pubDate>Fri, 13 Feb 2026 22:02:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
