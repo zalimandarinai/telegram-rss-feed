@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 17:32:03 +0000</lastBuildDate>
-    <item>
-      <title>«Китай надасть Україні додатко</title>
-      <link>https://www.mandarinai.lt/post/88042</link>
-      <description>«Китай надасть Україні додатковий пакет гуманітарної енергетичної допомоги», — глава МЗС України після зустрічі із главою МЗС Китаю. 
-
-Напевно, санкції подіяли на Китай. Або китайському міністру поставили завдання хоч трохи зробити вигляд, що Китай на світлій стороні історії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_12-41-21.jpg" length="155454" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 12:41:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 18:28:31 +0000</lastBuildDate>
     <item>
       <title>Сьогодні росіяни атакували лік</title>
       <link>https://www.mandarinai.lt/post/88043</link>
@@ -133,6 +124,15 @@
 ❤️‍🩹 Ще один хлопчик опинився на території росії разом із матір’ю. Після смерті мами від тяжкої хвороби за повернення дитини боролися його рідні. В Україні він буде зі своїм дядьком.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6137.MP4" length="9734511" type="video/mp4"/>
       <pubDate>Fri, 13 Feb 2026 17:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Трамп заявив, що Зеленському </title>
+      <link>https://www.mandarinai.lt/post/88058</link>
+      <description>🔴Трамп заявив, що Зеленському доведеться ухвалювати рішення, адже Росія нібито готова до угоди. 
+
+Інакше, за його словами, Україна може втратити «чудову можливість»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-13_17-55-45.mp4" length="770945" type="video/mp4"/>
+      <pubDate>Fri, 13 Feb 2026 17:55:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
