@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 06:43:28 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺Нічого незвичного, просто че</title>
-      <link>https://www.mandarinai.lt/post/88000</link>
-      <description>🇷🇺Нічого незвичного, просто черговий блекаут в Бєлгороді після прильотів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-12_16-57-02.jpg" length="92957" type="image/jpeg"/>
-      <pubDate>Thu, 12 Feb 2026 16:57:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 07:40:46 +0000</lastBuildDate>
     <item>
       <title>📡 Українці провели успішну опе</title>
       <link>https://www.mandarinai.lt/post/88003</link>
@@ -100,6 +93,31 @@
 ❤️Радіо Свобода. Підписуйтесь</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/RS (1).mp4" length="15640459" type="video/mp4"/>
       <pubDate>Fri, 13 Feb 2026 04:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ На Півдні оператори дронів </title>
+      <link>https://www.mandarinai.lt/post/88016</link>
+      <description>❗️ На Півдні оператори дронів ДПСУ «викупали» російських окупантів у крижаній воді – виявили та уразили ворожий човен на річці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6116.MP4" length="11424264" type="video/mp4"/>
+      <pubDate>Fri, 13 Feb 2026 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Одесі після влучання «шахеда</title>
+      <link>https://www.mandarinai.lt/post/88017</link>
+      <description>В Одесі після влучання «шахеда» повністю вигорів автосалон, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-13_07-29-39.mp4" length="6270548" type="video/mp4"/>
+      <pubDate>Fri, 13 Feb 2026 07:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Цієї ночі росіяни вбили в Укра</title>
+      <link>https://www.mandarinai.lt/post/88018</link>
+      <description>Цієї ночі росіяни вбили в Україні трьох братів — восьмирічного хлопчика та двох 19-річних юнаків.
+
+Маму і бабусю поранило. На фото те, що залишилося від будинку їхньої родини в Краматорську після удару російського «шахеда».
+
+Загалом вночі по Україні було випущено 154 БпЛА, з них 100 «шахедів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_07-31-07.jpg" length="196508" type="image/jpeg"/>
+      <pubDate>Fri, 13 Feb 2026 07:31:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
