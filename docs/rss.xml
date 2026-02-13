@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 15:30:03 +0000</lastBuildDate>
-    <item>
-      <title>⚔️ЗСУ пішли в контратаки на ме</title>
-      <link>https://www.mandarinai.lt/post/88035</link>
-      <description>⚔️ЗСУ пішли в контратаки на межі двох областей через збої Starlink і Telegram у рф, - ISW
-
-Українські військові проводять локальні контратаки на стику Дніпропетровської та Запорізької областей. Імовірно, вони скористалися проблемами зі зв’язком у росіян - блокуванням терміналів Starlink та Telegram.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_09-46-38.jpg" length="110357" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 09:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Він хоче, щоб росіяни вигля</title>
-      <link>https://www.mandarinai.lt/post/88036</link>
-      <description>💬 «Він хоче, щоб росіяни виглядали, як могутній ведмідь, але вони рухаються зі швидкістю садового равлика», - Рютте жорстко принизив путіна на Мюнхенській конференції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6122.MP4" length="3203837" type="video/mp4"/>
-      <pubDate>Fri, 13 Feb 2026 10:27:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇩🇪Зеленський прибув до Німеччи</title>
-      <link>https://www.mandarinai.lt/post/88037</link>
-      <description>🇩🇪Зеленський прибув до Німеччини, де візьме участь в Мюнхенській конференції з безпеки, - значить, буде зустрічатися з Рубіо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6123.MP4" length="4408027" type="video/mp4"/>
-      <pubDate>Fri, 13 Feb 2026 10:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡Новий раунд тристоронніх мирн</title>
-      <link>https://www.mandarinai.lt/post/88038</link>
-      <description>🤡Новий раунд тристоронніх мирних переговорів відбудеться у Женеві наступного тижня, - пєсков</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_11-07-02.jpg" length="67550" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 11:07:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 16:29:47 +0000</lastBuildDate>
     <item>
       <title>Робот-герой. 
 
@@ -149,6 +119,20 @@
 
 Полонений Балоган пояснює, що служив в 164-ій бригади, а контракт підписував на території росії, куди приїхав на заробітки.</description>
       <pubDate>Fri, 13 Feb 2026 14:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці бригади ДПСУ «Гарт» удар</title>
+      <link>https://www.mandarinai.lt/post/88050</link>
+      <description>Бійці бригади ДПСУ «Гарт» ударними дронами розбили дві російські гармати, сім авто, склад БК, засоби зв`язку та комплекс РЕБ окупантів «Сілок-1».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6135.MP4" length="27150781" type="video/mp4"/>
+      <pubDate>Fri, 13 Feb 2026 15:57:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна людина загинула внаслідок</title>
+      <link>https://www.mandarinai.lt/post/88055</link>
+      <description>Одна людина загинула внаслідок  удару рф по Конотопу на Сумщині. Жінка перебувала в будинку, який зруйнував російській дрон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_16-06-27.jpg" length="174858" type="image/jpeg"/>
+      <pubDate>Fri, 13 Feb 2026 16:06:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
