@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 13:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 14:32:31 +0000</lastBuildDate>
     <item>
       <title>⚔️ЗСУ пішли в контратаки на ме</title>
       <link>https://www.mandarinai.lt/post/88035</link>
@@ -122,6 +122,17 @@
       <description>В росіянина була можливість втекти від штурмовиків 225-го полку, але він обрав український полон замість російської армії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6132.MP4" length="23423889" type="video/mp4"/>
       <pubDate>Fri, 13 Feb 2026 13:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Наші воїни вдарили по радіоло</title>
+      <link>https://www.mandarinai.lt/post/88048</link>
+      <description>💥Наші воїни вдарили по радіолокаційній станції "Небо-У" у Криму та успішно атакували ще низку обʼєктів окупантів, - Генштаб
+
+💥Зокрема, на ТОТ Запоріжжя прилетіло по скупченню ворога та пункту дислокації операторів БпЛА. 
+
+ 💥А на ТОТ Донеччини уражено склад матеріально-технічних засобів армії рф, а також військову техніку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_14-20-25.jpg" length="198237" type="image/jpeg"/>
+      <pubDate>Fri, 13 Feb 2026 14:20:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
