@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 13:36:00 +0000</lastBuildDate>
-    <item>
-      <title>🤡Білий дім опублікував валенти</title>
-      <link>https://www.mandarinai.lt/post/88072</link>
-      <description>🤡Білий дім опублікував валентинку з Гренландією "Настав час визначитися з відносинами".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-14_08-13-44.jpg" length="51463" type="image/jpeg"/>
-      <pubDate>Sat, 14 Feb 2026 08:13:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 14:15:31 +0000</lastBuildDate>
     <item>
       <title>Китай міг би зателефонувати пу</title>
       <link>https://www.mandarinai.lt/post/88073</link>
@@ -95,6 +88,17 @@
       <description>⚡️Орбан повинен перестати думати, як відрощувати собі живіт. Він повинен думати як нарощувати армію, — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-14_11-57-22.jpg" length="64953" type="image/jpeg"/>
       <pubDate>Sat, 14 Feb 2026 11:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щоб навіть не думали наближати</title>
+      <link>https://www.mandarinai.lt/post/88088</link>
+      <description>Щоб навіть не думали наближатися до кордону з Україною, - 114-а бригада ліквідовує військову техніку російської армії в прикордонні на Півночі.
+
+Хочеш стати частиною цієї роботи? Телефонуй: +380 (67) 406 75 71
+
+Або залишай заявку на сайті: www.114tro.com</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6158.MP4" length="14101682" type="video/mp4"/>
+      <pubDate>Sat, 14 Feb 2026 13:40:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
