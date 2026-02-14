@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 07:25:40 +0000</lastBuildDate>
-    <item>
-      <title>«В ході проведення Центром спе</title>
-      <link>https://www.mandarinai.lt/post/88056</link>
-      <description>«В ході проведення Центром спеціального призначення «Омега» унікальної успішної спецоперації майже в тилу ворога на Покровському напрямку було звільнено з полону бійця 1 загону «Омега», який перебував в полоні 27 днів, та знищено вісім окупантів.
-
-Офіцер спецпризначинець з позивним «Карат» вже прямує до Києва на лікування у звʼязку з отриманими пораненнями. 
-
-Дякую за підтримку і допомогу бійцям та керівництву ЦСО «А» СБУ та Червона Калина - 14 Бригада НГУ 1 корпусу Азов».
-
-Павло Яцюк, начальник «Омеги»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-13_16-50-08.jpg" length="155525" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 16:50:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 08:17:03 +0000</lastBuildDate>
     <item>
       <title>💛 Bring Kids Back UA – ще 5 ук</title>
       <link>https://www.mandarinai.lt/post/88057</link>
@@ -132,6 +119,13 @@
       <description>🔥Я молодший за путіна, це важливо. У нього не дуже багато часу, — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-13_22-02-05.mp4" length="4548536" type="video/mp4"/>
       <pubDate>Fri, 13 Feb 2026 22:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡Білий дім опублікував валенти</title>
+      <link>https://www.mandarinai.lt/post/88072</link>
+      <description>🤡Білий дім опублікував валентинку з Гренландією "Настав час визначитися з відносинами".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-14_08-13-44.jpg" length="51463" type="image/jpeg"/>
+      <pubDate>Sat, 14 Feb 2026 08:13:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
