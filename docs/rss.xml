@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 21:12:42 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Україна виграє цю війну, — п</title>
-      <link>https://www.mandarinai.lt/post/88094</link>
-      <description>⚡️Україна виграє цю війну, — президент Фінляндії Стубб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-14_16-23-09.jpg" length="35466" type="image/jpeg"/>
-      <pubDate>Sat, 14 Feb 2026 16:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴"Боже, збережи президента США</title>
-      <link>https://www.mandarinai.lt/post/88095</link>
-      <description>🔴"Боже, збережи президента США", — так Зеленський відповів на запитання про свого улюбленого переговірника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-14_17-01-17.mp4" length="2270539" type="video/mp4"/>
-      <pubDate>Sat, 14 Feb 2026 17:01:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 22:10:50 +0000</lastBuildDate>
     <item>
       <title>💥🔥російський ЗРК "Панцир-С1" п</title>
       <link>https://www.mandarinai.lt/post/88096</link>
@@ -92,6 +78,13 @@
  Ми знаємо, що робити. Але спочатку ми повинні нарешті визнати, зрозуміти та прийняти одну сувору правду: Росія не зміниться.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-14_20-49-39.jpg" length="43847" type="image/jpeg"/>
       <pubDate>Sat, 14 Feb 2026 20:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Сочі під масованою атакою БпЛ</title>
+      <link>https://www.mandarinai.lt/post/88106</link>
+      <description>💥Сочі під масованою атакою БпЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-14_21-48-17.mp4" length="1005066" type="video/mp4"/>
+      <pubDate>Sat, 14 Feb 2026 21:48:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
