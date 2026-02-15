@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 21:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 22:11:01 +0000</lastBuildDate>
     <item>
       <title>‼️Китай посилить підтримку рос</title>
       <link>https://www.mandarinai.lt/post/88138</link>
@@ -80,6 +80,13 @@
       <description>💥Білгородська ТЕЦ знову під атакою сил добра</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-15_20-21-17.jpg" length="143916" type="image/jpeg"/>
       <pubDate>Sun, 15 Feb 2026 20:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вперше за довгий час Київ майж</title>
+      <link>https://www.mandarinai.lt/post/88155</link>
+      <description>Вперше за довгий час Київ майже повністю з електропостачанням — 95% столиці без відключень цього вечора</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-15_21-16-30.jpg" length="259421" type="image/jpeg"/>
+      <pubDate>Sun, 15 Feb 2026 21:16:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
