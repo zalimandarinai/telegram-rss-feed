@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 15:14:07 +0000</lastBuildDate>
-    <item>
-      <title>🔴У Мюнхені домовилися з лідера</title>
-      <link>https://www.mandarinai.lt/post/88123</link>
-      <description>🔴У Мюнхені домовилися з лідерами Берлінського формату про пакети енергетичної та військової допомоги для України до 24 лютого, — Зеленський 
-
-Розраховуємо, що всі постачання надійдуть оперативно, додав президент. Адже лише за цей тиждень рф атакувала Україну близько 1300 дронами, понад 1200 КАБами і 50 ракетами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-15_09-03-16.mp4" length="11690004" type="video/mp4"/>
-      <pubDate>Sun, 15 Feb 2026 09:03:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 16:14:08 +0000</lastBuildDate>
     <item>
       <title>🔴Не може бути жодної амністії </title>
       <link>https://www.mandarinai.lt/post/88124</link>
@@ -116,6 +107,13 @@
       <link>https://www.mandarinai.lt/post/88133</link>
       <description>В Покровську оператори 425-го полку «Скеля» влаштували безпілотне сафарі на окупантів</description>
       <pubDate>Sun, 15 Feb 2026 12:08:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Наліт невідомих БПЛА у Моско</title>
+      <link>https://www.mandarinai.lt/post/88135</link>
+      <description>⚡️Наліт невідомих БПЛА у Московській області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-15_16-10-04.mp4" length="926234" type="video/mp4"/>
+      <pubDate>Sun, 15 Feb 2026 16:10:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
