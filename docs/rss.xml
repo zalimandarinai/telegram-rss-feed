@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 11:12:47 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥 В Краснодарському краї післ</title>
-      <link>https://www.mandarinai.lt/post/88118</link>
-      <description>💥🔥 В Краснодарському краї після атаки БпЛА палає резервуар із нафтопродуктами, пошкоджені склад і термінали в селищі Волна Темрюкського району, - губернатор
-
- Також про пошкодження інфраструктури заявили в Сочі та селі Юровка.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-15_08-33-54.jpg" length="13014" type="image/jpeg"/>
-      <pubDate>Sun, 15 Feb 2026 08:33:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 12:21:21 +0000</lastBuildDate>
     <item>
       <title>🔴У Мюнхені домовилися з лідера</title>
       <link>https://www.mandarinai.lt/post/88123</link>
@@ -119,6 +110,12 @@
 ▪️район зосередження живої сили окупантів на ТОТ Запоріжжя. </description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-15_11-05-55.jpg" length="174545" type="image/jpeg"/>
       <pubDate>Sun, 15 Feb 2026 11:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Покровську оператори 425-го </title>
+      <link>https://www.mandarinai.lt/post/88133</link>
+      <description>В Покровську оператори 425-го полку «Скеля» влаштували безпілотне сафарі на окупантів</description>
+      <pubDate>Sun, 15 Feb 2026 12:08:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
