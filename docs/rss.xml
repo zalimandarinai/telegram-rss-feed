@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 18:26:38 +0000</lastBuildDate>
-    <item>
-      <title>❗️ На Південно-Слобожанському </title>
-      <link>https://www.mandarinai.lt/post/88176</link>
-      <description>❗️ На Південно-Слобожанському напрямку прикордонники бригади «Форпост» навели порядок у ворожому автопарку, - знищили САУ, вантажівки та автівки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-02-16_14-57-55.mp4" length="15160484" type="video/mp4"/>
-      <pubDate>Mon, 16 Feb 2026 12:59:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 19:24:34 +0000</lastBuildDate>
     <item>
       <title>Військовослужбовець Сил оборон</title>
       <link>https://www.mandarinai.lt/post/88177</link>
@@ -94,6 +87,15 @@
 Але самогубство – не вихід. Завжди є інший варіант – здатися в полон. Бригада НГУ «Хартія» радить: «Вийдіть на відкриту місцевість, підніміть руки вгору, а ще краще – білий прапор чи будь-яку тканину. На відміну від РФ, ми гарантуємо гуманне ставлення та виконання міжнародного гуманітарного права».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/WhatsApp Video 2026-02-08 at 12.42.48.mp4" length="10143596" type="video/mp4"/>
       <pubDate>Mon, 16 Feb 2026 15:10:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Хорватія відмовилася транспо</title>
+      <link>https://www.mandarinai.lt/post/88194</link>
+      <description>⚡️Хорватія відмовилася транспортувати російську нафту для Угорщини та Словаччини
+
+Хорватія не дозволить транспортування російських енергоносіїв через Адріатичний трубопровід. Міністр економіки Анте Шушняр наголосив, що купівля нафти з росії підтримує війну проти України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-16_18-32-07.jpg" length="65348" type="image/jpeg"/>
+      <pubDate>Mon, 16 Feb 2026 18:32:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
