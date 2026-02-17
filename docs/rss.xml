@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 11:30:18 +0000</lastBuildDate>
-    <item>
-      <title>‼️ Нічна ракетно-дронова атака</title>
-      <link>https://www.mandarinai.lt/post/88213</link>
-      <description>‼️ Нічна ракетно-дронова атака росії закінчинась. ППО добиває залишки «шахедів».
-
-Що відбувалось:
-
-Агресор здійснив удар з бомбардувальників Ту-95МС та БПЛА «Shahed».
-
-Наслідки
-
-▫️ Дніпро: пожежа, пошкоджено адмінбудівлю та автомобіль.
-
-▫️ Одеса: пошкоджено об'єкт інфраструктури та цивільні споруди, пожежа в житловому будинку, 2 постраждалих.
-
-▫️ Бурштин, Івано-Франківщина: вибухи в районі ТЕС, наслідки уточнюються.
-
-▫️ Стрий, Львівщина: вибухи.
-
-✅ ППО спрацювала максимально ефективно</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-17_06-31-48.jpg" length="136136" type="image/jpeg"/>
-      <pubDate>Tue, 17 Feb 2026 06:31:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 12:32:28 +0000</lastBuildDate>
     <item>
       <title>❗️ Україна звільнила 201 км² з</title>
       <link>https://www.mandarinai.lt/post/88216</link>
@@ -100,6 +77,35 @@
 Ну, добре)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-17_10-42-34.jpg" length="63503" type="image/jpeg"/>
       <pubDate>Tue, 17 Feb 2026 10:42:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌ Мінус «пташка» – в ніч на 17</title>
+      <link>https://www.mandarinai.lt/post/88227</link>
+      <description>❌ Мінус «пташка» – в ніч на 17 лютого Сили оборони атакували корабельний багатоцільовий гелікоптер Ка-27 на території тимчасово окупованого Кримського півострова</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-17_11-39-13.jpg" length="71048" type="image/jpeg"/>
+      <pubDate>Tue, 17 Feb 2026 11:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Альфа» СБУ вдруге уразила наф</title>
+      <link>https://www.mandarinai.lt/post/88228</link>
+      <description>«Альфа» СБУ вдруге уразила нафтовий термінал «Таманьнафтогаз» у Краснодарському краї рф
+
+Порт Тамань є одним із найбільших у Чорноморському регіоні та забезпечує перевалку нафти, газу й аміаку. 
+
+Його резервуарний парк для зберігання нафтопродуктів і зрідженого газу перевищує 1 млн. м³.
+
+Попередня атака на термінал відбулася 22 січня. 
+
+Тоді безпілотники СБУ пошкодили технологічні трубопроводи на причалах та низку резервуарів із вакуумним газойлем і резервуари з мазутом. Орієнтовні збитки склали $50 млн.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6245.MP4" length="2681302" type="video/mp4"/>
+      <pubDate>Tue, 17 Feb 2026 11:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>475-ий полк «Code 9.2» наполег</title>
+      <link>https://www.mandarinai.lt/post/88229</link>
+      <description>475-ий полк «Code 9.2» наполегливо шукає ворожі штурмові групи та скорочує особовий склад окупаційної армії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6244.MP4" length="12525233" type="video/mp4"/>
+      <pubDate>Tue, 17 Feb 2026 12:31:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
