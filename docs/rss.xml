@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 18:39:03 +0000</lastBuildDate>
-    <item>
-      <title>475-ий полк «Code 9.2» наполег</title>
-      <link>https://www.mandarinai.lt/post/88229</link>
-      <description>475-ий полк «Code 9.2» наполегливо шукає ворожі штурмові групи та скорочує особовий склад окупаційної армії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6244.MP4" length="12525233" type="video/mp4"/>
-      <pubDate>Tue, 17 Feb 2026 12:31:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 19:38:31 +0000</lastBuildDate>
     <item>
       <title>В російській військовій коменд</title>
       <link>https://www.mandarinai.lt/post/88230</link>
@@ -102,6 +95,13 @@ https://rvv.com.ua/product/ukrayina-ta-susidni-zemli-v-xviii-st-podorozhi-barona
 ❗️Зеленський попросив представників європейських країн долучитись до тристоронніх переговорів між Україною, США та рф, – джерело РБК-Україна</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-17_18-26-24.jpg" length="76862" type="image/jpeg"/>
       <pubDate>Tue, 17 Feb 2026 18:26:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український народ відкине мирн</title>
+      <link>https://www.mandarinai.lt/post/88245</link>
+      <description>Український народ відкине мирну угоду, в якій умовою буде вихід ЗСУ з Донбасу та його передача російським силам, констатує Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-17_19-18-44.jpg" length="62609" type="image/jpeg"/>
+      <pubDate>Tue, 17 Feb 2026 19:18:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
