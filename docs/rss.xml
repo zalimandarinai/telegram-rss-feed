@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 06:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:41:31 +0000</lastBuildDate>
     <item>
       <title>😳 Поруч із українськими F-16 л</title>
       <link>https://www.mandarinai.lt/post/88202</link>
@@ -52,13 +52,6 @@ Intelligence Online уточнює: західні ветерани підпис
       <pubDate>Tue, 17 Feb 2026 05:10:18 +0000</pubDate>
     </item>
     <item>
-      <title>✅Минулого тижня ЗСУ звільнили </title>
-      <link>https://www.mandarinai.lt/post/88212</link>
-      <description>✅Минулого тижня ЗСУ звільнили понад 200 км² територій - це найбільше просування українських військ за такий короткий період з моменту контрнаступу в червні 2023, – France24.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-17_06-26-01.jpg" length="105858" type="image/jpeg"/>
-      <pubDate>Tue, 17 Feb 2026 06:26:01 +0000</pubDate>
-    </item>
-    <item>
       <title>‼️ Нічна ракетно-дронова атака</title>
       <link>https://www.mandarinai.lt/post/88213</link>
       <description>‼️ Нічна ракетно-дронова атака росії закінчинась. ППО добиває залишки «шахедів».
@@ -91,6 +84,13 @@ Intelligence Online уточнює: західні ветерани підпис
 📡 Сили оборони України, ймовірно, скористались відключенням «Starlink», - ISW</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-17_06-39-45.jpg" length="41855" type="image/jpeg"/>
       <pubDate>Tue, 17 Feb 2026 06:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Україні краще швидко сісти за</title>
+      <link>https://www.mandarinai.lt/post/88217</link>
+      <description>🔴Україні краще швидко сісти за стіл переговорів, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-17_07-24-40.mp4" length="1005819" type="video/mp4"/>
+      <pubDate>Tue, 17 Feb 2026 07:24:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
