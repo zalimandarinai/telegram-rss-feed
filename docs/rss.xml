@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 12:32:17 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Ільскій НПЗ в Краснодарськом</title>
-      <link>https://www.mandarinai.lt/post/88268</link>
-      <description>💥🔥Ільскій НПЗ в Краснодарському краї рф після атаки в понеділок продовжує горіти другу добу. Харашо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-18_10-06-18.mp4" length="364126" type="video/mp4"/>
-      <pubDate>Wed, 18 Feb 2026 10:06:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 13:59:12 +0000</lastBuildDate>
     <item>
       <title>Момент теракту у ТЦК в Коломиї</title>
       <link>https://www.mandarinai.lt/post/88270</link>
@@ -75,6 +68,28 @@
 До речі, цього росіянина взяли в полон не спецпризначенці, а оператори батальйону безпілотних систем «Мурчики» 57-ої ОМБР ім.Костя Гордієнка</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6269.MP4" length="27531279" type="video/mp4"/>
       <pubDate>Wed, 18 Feb 2026 11:56:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Спалили ворожий танк на північ</title>
+      <link>https://www.mandarinai.lt/post/88282</link>
+      <description>Спалили ворожий танк на північ від Сум, - 225-ий ОШП
+
+Під удар потрапив Т‑72Б. 
+
+Він, скоріше за все, потрапив сюди зі складів тривалого зберігання російської техніки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6272.MP4" length="29518152" type="video/mp4"/>
+      <pubDate>Wed, 18 Feb 2026 13:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>НРК «Ratel» стає мобільною точ</title>
+      <link>https://www.mandarinai.lt/post/88283</link>
+      <description>НРК «Ratel» стає мобільною точкою запуску FPV-дронів на оптоволокні.
+
+Рішення дає можливість  транспортувати та запускати безпілотники без фізичної присутності оператора на стартовій позиції.
+
+Поки це експериментальний варіант.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6273.MP4" length="4013876" type="video/mp4"/>
+      <pubDate>Wed, 18 Feb 2026 13:53:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
