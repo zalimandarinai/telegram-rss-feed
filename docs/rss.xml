@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 09:33:47 +0000</lastBuildDate>
-    <item>
-      <title>💥В Маріуполі вночі вибухи і сп</title>
-      <link>https://www.mandarinai.lt/post/88255</link>
-      <description>💥В Маріуполі вночі вибухи і спалахи в районі порту</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_05-02-57.jpg" length="30925" type="image/jpeg"/>
-      <pubDate>Wed, 18 Feb 2026 05:02:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐 ЄС тисне на Україну щодо рем</title>
-      <link>https://www.mandarinai.lt/post/88257</link>
-      <description>😐 ЄС тисне на Україну щодо ремонту трубопроводу «Дружба» для відновлення трансферу нафти з росії до Угорщини й Словаччини, – Радіо Свобода.
-
-Єврокомісія хоче отримати від Києва графік ремонту нафтопроводу, який був пошкоджений внаслідок російської атаки в січні цього року.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_07-05-51.jpg" length="136844" type="image/jpeg"/>
-      <pubDate>Wed, 18 Feb 2026 07:05:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 10:31:10 +0000</lastBuildDate>
     <item>
       <title>Віткофф заявив про «значний пр</title>
       <link>https://www.mandarinai.lt/post/88258</link>
@@ -109,6 +93,20 @@
 @elpix_ua</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_09-28-32.jpg" length="219165" type="image/jpeg"/>
       <pubDate>Wed, 18 Feb 2026 09:28:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Ільскій НПЗ в Краснодарськом</title>
+      <link>https://www.mandarinai.lt/post/88268</link>
+      <description>💥🔥Ільскій НПЗ в Краснодарському краї рф після атаки в понеділок продовжує горіти другу добу. Харашо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-18_10-06-18.mp4" length="364126" type="video/mp4"/>
+      <pubDate>Wed, 18 Feb 2026 10:06:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент теракту у ТЦК в Коломиї</title>
+      <link>https://www.mandarinai.lt/post/88270</link>
+      <description>Момент теракту у ТЦК в Коломиї на потрапив на камеру відеоспостереження – внаслідок вибуху пошкоджено приміщення та вибиті вікна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-18_10-19-20.mp4" length="887960" type="video/mp4"/>
+      <pubDate>Wed, 18 Feb 2026 10:19:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
