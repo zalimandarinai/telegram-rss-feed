@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 13:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 14:41:15 +0000</lastBuildDate>
     <item>
       <title>Момент теракту у ТЦК в Коломиї</title>
       <link>https://www.mandarinai.lt/post/88270</link>
@@ -90,6 +90,15 @@
 Поки це експериментальний варіант.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6273.MP4" length="4013876" type="video/mp4"/>
       <pubDate>Wed, 18 Feb 2026 13:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇭🇺⛽️ Угорщина зупинила постача</title>
+      <link>https://www.mandarinai.lt/post/88284</link>
+      <description>🇭🇺⛽️ Угорщина зупинила постачання дизеля Україні
+
+Глава МЗС Угорщини Петер Сійярто заявив, що його країна припиняє постачання дизельного пального до України до відновлення роботи нафтопроводу "Дружба".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_14-20-15.jpg" length="40266" type="image/jpeg"/>
+      <pubDate>Wed, 18 Feb 2026 14:20:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
