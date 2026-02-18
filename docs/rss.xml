@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 21:24:58 +0000</lastBuildDate>
-    <item>
-      <title>💪ЗСУ відкинули росіян поблизу </title>
-      <link>https://www.mandarinai.lt/post/88280</link>
-      <description>💪ЗСУ відкинули росіян поблизу трьох населених пунктів Дніпропетровської області — DeepState
-
-Зокрема біля Вишневого, Вербового та Тернового</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_11-41-18.jpg" length="34027" type="image/jpeg"/>
-      <pubDate>Wed, 18 Feb 2026 11:41:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупант під Вовчанськом не одр</title>
-      <link>https://www.mandarinai.lt/post/88281</link>
-      <description>Окупант під Вовчанськом не одразу зрозумів, що потрапив в полон.
-
-Спочатку він думав, що це російські спецпризначенці, та просив «комбату зателефонувати».
-
-Але, коли почув українську мову, до нього почало доходити, що щось не так.
-
-Напевно, в найближчі місяці, в нього буде шанс вивчити українську в таборі. 
-
-До речі, цього росіянина взяли в полон не спецпризначенці, а оператори батальйону безпілотних систем «Мурчики» 57-ої ОМБР ім.Костя Гордієнка</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6269.MP4" length="27531279" type="video/mp4"/>
-      <pubDate>Wed, 18 Feb 2026 11:56:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Спалили ворожий танк на північ</title>
-      <link>https://www.mandarinai.lt/post/88282</link>
-      <description>Спалили ворожий танк на північ від Сум, - 225-ий ОШП
-
-Під удар потрапив Т‑72Б. 
-
-Він, скоріше за все, потрапив сюди зі складів тривалого зберігання російської техніки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6272.MP4" length="29518152" type="video/mp4"/>
-      <pubDate>Wed, 18 Feb 2026 13:04:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 22:20:06 +0000</lastBuildDate>
     <item>
       <title>НРК «Ratel» стає мобільною точ</title>
       <link>https://www.mandarinai.lt/post/88283</link>
@@ -139,6 +104,13 @@
 Вона також наголосила, що США продовжують продавати озброєння країнам НАТО, яке згодом передають Україні для захисту її свободи та кордонів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_20-04-43.jpg" length="79936" type="image/jpeg"/>
       <pubDate>Wed, 18 Feb 2026 20:04:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥НПЗ у Псковській області пала</title>
+      <link>https://www.mandarinai.lt/post/88296</link>
+      <description>🔥НПЗ у Псковській області палає після атаки повітряних санкцій</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-18_22-12-41.mp4" length="1082486" type="video/mp4"/>
+      <pubDate>Wed, 18 Feb 2026 22:12:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
