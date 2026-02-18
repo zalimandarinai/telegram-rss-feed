@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 14:41:15 +0000</lastBuildDate>
-    <item>
-      <title>Момент теракту у ТЦК в Коломиї</title>
-      <link>https://www.mandarinai.lt/post/88270</link>
-      <description>Момент теракту у ТЦК в Коломиї потрапив на камеру відеоспостереження – внаслідок вибуху пошкоджено приміщення та вибиті вікна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-18_10-19-20.mp4" length="887960" type="video/mp4"/>
-      <pubDate>Wed, 18 Feb 2026 10:19:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 15:38:29 +0000</lastBuildDate>
     <item>
       <title>В Харкові 17-річна дівчина гот</title>
       <link>https://www.mandarinai.lt/post/88273</link>
@@ -99,6 +92,24 @@
 Глава МЗС Угорщини Петер Сійярто заявив, що його країна припиняє постачання дизельного пального до України до відновлення роботи нафтопроводу "Дружба".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_14-20-15.jpg" length="40266" type="image/jpeg"/>
       <pubDate>Wed, 18 Feb 2026 14:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴 Розмова була непростою, але </title>
+      <link>https://www.mandarinai.lt/post/88285</link>
+      <description>🥴 Розмова була непростою, але важливою, – Буданов про переговори у Женеві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-18_14-56-52.jpg" length="90723" type="image/jpeg"/>
+      <pubDate>Wed, 18 Feb 2026 14:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пес, схожий на вовка, долучивс</title>
+      <link>https://www.mandarinai.lt/post/88286</link>
+      <description>Пес, схожий на вовка, долучився до Олімпійських змагань лижниць - неочікувано вистрибнувши на трасу
+
+Як пізніше з’ясували, це дворічний чехословацький вовкодав на прізвисько Назгул, який втік від власників. Що відчували лижниці, за якими гнався звір схожий на вовка, достеменно невідомо 
+
+Відео: Eurosport</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-18_15-23-55.mp4" length="4122605" type="video/mp4"/>
+      <pubDate>Wed, 18 Feb 2026 15:23:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
