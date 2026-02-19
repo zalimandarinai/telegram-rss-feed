@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 16:37:12 +0000</lastBuildDate>
-    <item>
-      <title>🇩🇪 Не бачу майже жодних шансів</title>
-      <link>https://www.mandarinai.lt/post/88311</link>
-      <description>🇩🇪 Не бачу майже жодних шансів на швидке завершення війни шляхом переговорів, - Мерц зробив песимістичну заяву щодо закінчення війни в Україні
-
-⚖️ Мерц вважає, що війна закінчиться лише тоді, коли одна з двох сторін буде виснажена.
-
-🇪🇺 Думку Мерца поділяють керівники розвідок 5 європейських держав, які поспілкувались з Reuters на умовах анонімності.
-
-💵 Четверо з них заявили, що Москва використовує переговори за участю США для просування теми зняття санкцій і встановлення бізнесових відносин.
-
-🎭 Те, що відбувалося в Женеві цього тижня, є не переговорами, а «театром переговорів», заявив один із керівників європейської розвідки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-19_10-51-24.jpg" length="20964" type="image/jpeg"/>
-      <pubDate>Thu, 19 Feb 2026 10:51:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Feb 2026 17:40:32 +0000</lastBuildDate>
     <item>
       <title>Підрозділ розвідки «Аскольд» з</title>
       <link>https://www.mandarinai.lt/post/88312</link>
@@ -100,6 +85,13 @@
 ⏯️ https://m.youtube.com/watch?v=S50umaVOC5A</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6319.MP4" length="3610274" type="video/mp4"/>
       <pubDate>Thu, 19 Feb 2026 16:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шок, - ворог дронами системно </title>
+      <link>https://www.mandarinai.lt/post/88326</link>
+      <description>Шок, - ворог дронами системно розбирає житловий сектор в прифронтових містах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQPok_7jODNeHaU_cgYpEcNR_KsvPIrLG5XEfzFYizEsK_pd_6xljyLM_2XEhgNuxv68DeKOrqICB.mp4" length="2438398" type="video/mp4"/>
+      <pubDate>Thu, 19 Feb 2026 17:14:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
