@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 19:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 20:19:12 +0000</lastBuildDate>
     <item>
       <title>❗️ЗСУ почали контратакувати, щ</title>
       <link>https://www.mandarinai.lt/post/88323</link>
@@ -81,6 +81,21 @@
 Там, до речі, багато про стосунки між російськими генералами, які дійсно схожі на «тераріум однодумців».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-19_19-30-14.jpg" length="84284" type="image/jpeg"/>
       <pubDate>Thu, 19 Feb 2026 19:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Солнцепьок», «Піони», командн</title>
+      <link>https://www.mandarinai.lt/post/88335</link>
+      <description>«Солнцепьок», «Піони», командно-штабна машина, - підрозділ Lasar’s Group НГУ добряче покрошив російський парк техніки, завдавши ударів по 13 одиницях під час спецоперації
+
+Ворожі засоби були сховані глибоко в тилу за ЛБЗ на Луганщині. В результаті спецоперації нацгвардійці завдали точних ударів по таких цілях:
+▫️ САУ 2С7 «Піон» — 3 од.;
+▫️ ТОС-1А «Солнцепьок» — 1 од.;
+▫️ ТЗМ-Т — 1 од.;
+▫️ КШМ — 1 од.;
+▫️ ББМ — 7 од.
+
+Ретельно спланована спецоперація «Lasar’s Group» знизила кількість обстрілів українських позицій.</description>
+      <pubDate>Thu, 19 Feb 2026 19:37:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
