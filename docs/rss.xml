@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 21:12:57 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Вчора ЗСУ збили російський в</title>
-      <link>https://www.mandarinai.lt/post/88360</link>
-      <description>⚡️Вчора ЗСУ збили російський винищувач Су-34 в Запорізькій області. Екіпажу вдалося вижити, — росЗМІ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_16-14-24.jpg" length="101770" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 16:14:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 22:12:17 +0000</lastBuildDate>
     <item>
       <title>Ворожий безпілотник атакував е</title>
       <link>https://www.mandarinai.lt/post/88361</link>
@@ -109,6 +102,13 @@ https://rvv.com.ua/product/ukrayina-nash-ridnyj-kraj-stepan-rudnyczqqkyj-2025/</
       <description>💥Удмуртія. Приліт по військовому підприємству, де виробляють Іскандери і міжконтинентальні ракети Тополь-М. 1400 км від України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-20_20-48-52.mp4" length="1490563" type="video/mp4"/>
       <pubDate>Fri, 20 Feb 2026 20:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Виробник опублікував відео пу</title>
+      <link>https://www.mandarinai.lt/post/88377</link>
+      <description>🔥Виробник опублікував відео пусків " Фламінго" і пообіцяв деталі згодом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-20_21-45-01.mp4" length="2173660" type="video/mp4"/>
+      <pubDate>Fri, 20 Feb 2026 21:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
