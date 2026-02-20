@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 16:23:19 +0000</lastBuildDate>
-    <item>
-      <title>110-а бригада помстилася за дв</title>
-      <link>https://www.mandarinai.lt/post/88351</link>
-      <description>110-а бригада помстилася за двох дівчат з позивними «Кара» і «Лайза», які служили в підрозділі наземних роботів «Триглав». Вони загинули внаслідок удару російських окупантів. 
-
-Батальйон безпілотних систем 110-ої ОМБР намагається знайти «конкретного оператора, який запустив той дрон. Але відплата — це процес, а не емоція. Вона триває щодня: у кожному вильоті, у кожному точному влучанні. Кожен, хто приніс сльози на нашу землю, неминуче відповість».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_11-16-51.jpg" length="55765" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 11:16:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 17:27:38 +0000</lastBuildDate>
     <item>
       <title>🔴Міністр закордонних справ Ізр</title>
       <link>https://www.mandarinai.lt/post/88353</link>
@@ -114,6 +105,13 @@
 https://rvv.com.ua/product/ukrayina-nash-ridnyj-kraj-stepan-rudnyczqqkyj-2025/</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_16-20-20.jpg" length="191440" type="image/jpeg"/>
       <pubDate>Fri, 20 Feb 2026 16:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Авіаносець USS «Gerald Ford</title>
+      <link>https://www.mandarinai.lt/post/88366</link>
+      <description>⚡️ Авіаносець USS «Gerald Ford» вже пройшов Гібралтарську протоку і може прибути до регіону потенційних бойових дій вже на вихідних, - тож ймовірність війни США з Іраном стає ще вищою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_17-23-26.jpg" length="103335" type="image/jpeg"/>
+      <pubDate>Fri, 20 Feb 2026 17:23:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
