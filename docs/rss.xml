@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 18:29:23 +0000</lastBuildDate>
-    <item>
-      <title>Одна людина загинула, дві — по</title>
-      <link>https://www.mandarinai.lt/post/88354</link>
-      <description>Одна людина загинула, дві — постраждали на Харківщині внаслідок російської атаки БпЛА по території Малинівської громади, - ДСНС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_11-58-23.jpg" length="100932" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 11:58:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогодні вночі Сили безпілотни</title>
-      <link>https://www.mandarinai.lt/post/88355</link>
-      <description>Сьогодні вночі Сили безпілотних Систем знищили три ЗРК «Тор» в Запорізькій області. Всі три «Тори» за одну ніч, - потужний результат. 
-
-Операція 1-го окремого центру Сил безпілотних систем за координації КЦ Middle Strike СБС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6361.MP4" length="19183002" type="video/mp4"/>
-      <pubDate>Fri, 20 Feb 2026 12:58:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці 3-ої ОШБР, яка допомогла</title>
-      <link>https://www.mandarinai.lt/post/88356</link>
-      <description>Бійці 3-ої ОШБР, яка допомогла розібратися з поштою заступника командувача 20-ої армії рф Романа Дємурчієва, показали, як вибивають солдатів Дємурчієва з Харківської області.
-
-Ударно-пошукова група Третього армійського корпусу зайшла вглиб позицій противника в районі Харківщини.
-
-Задача бійців Третьої штурмової — зачистити позицію впритул до ворога.
-
-«Сдаемся», - кричали окупанти з 20-ої армії.
-
-Відео від бійців 3-ї роти «Karakurt Colony»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6362.MP4" length="19347483" type="video/mp4"/>
-      <pubDate>Fri, 20 Feb 2026 13:37:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 19:28:48 +0000</lastBuildDate>
     <item>
       <title>Дрони 475-го полку «Code 9.2» </title>
       <link>https://www.mandarinai.lt/post/88357</link>
@@ -118,6 +87,13 @@ https://rvv.com.ua/product/ukrayina-nash-ridnyj-kraj-stepan-rudnyczqqkyj-2025/</
 Посадовці попереджають, що реалізація таких планів вимагає колосальних розвідувальних ресурсів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_18-23-51.jpg" length="80602" type="image/jpeg"/>
       <pubDate>Fri, 20 Feb 2026 18:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Мені дозволено знищити країну</title>
+      <link>https://www.mandarinai.lt/post/88369</link>
+      <description>👀Мені дозволено знищити країну. Мені навіть дозволено ввести руйнівне ембарго проти іноземної країни. Я можу робити все, що захочу, — Трамп.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-20_18-48-54.mp4" length="2401163" type="video/mp4"/>
+      <pubDate>Fri, 20 Feb 2026 18:48:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
