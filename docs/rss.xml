@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 09:29:05 +0000</lastBuildDate>
-    <item>
-      <title>«Солнцепьок», «Піони», командн</title>
-      <link>https://www.mandarinai.lt/post/88335</link>
-      <description>«Солнцепьок», «Піони», командно-штабна машина, - підрозділ Lasar’s Group НГУ добряче покрошив російський парк техніки, завдавши ударів по 13 одиницях під час спецоперації
-
-Ворожі засоби були сховані глибоко в тилу за ЛБЗ на Луганщині. В результаті спецоперації нацгвардійці завдали точних ударів по таких цілях:
-▫️ САУ 2С7 «Піон» — 3 од.;
-▫️ ТОС-1А «Солнцепьок» — 1 од.;
-▫️ ТЗМ-Т — 1 од.;
-▫️ КШМ — 1 од.;
-▫️ ББМ — 7 од.
-
-Ретельно спланована спецоперація «Lasar’s Group» знизила кількість обстрілів українських позицій.</description>
-      <pubDate>Thu, 19 Feb 2026 19:37:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 10:24:43 +0000</lastBuildDate>
     <item>
       <title>- Репортер: Обама сказав, що і</title>
       <link>https://www.mandarinai.lt/post/88336</link>
@@ -108,6 +93,17 @@
       <description>❗️ рф атакувала нафтогазовий об’єкт на Полтавщині, є значні руйнування, а рятувальники наразі намагаються приборкати вогонь.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_09-05-08.jpg" length="76894" type="image/jpeg"/>
       <pubDate>Fri, 20 Feb 2026 09:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Орбан йде ва-банк. Відчуваючи,</title>
+      <link>https://www.mandarinai.lt/post/88349</link>
+      <description>Орбан йде ва-банк. Відчуваючи, що може програти вибори 12 квітня, він будує свою кампанію на антиукраїнских наративах, зокрема, лякає угорців вторгненням української армії.
+
+Ось він випускає антиукраїнський передвиборчий ролик, де використані кадри з Зеленським, в якому угорський премʼєр звинувачує Київ у спробах заблокувати постачання нафти і дестабілізувати Угорщину зсередини.
+
+Парламентські вибори призначені на 12 квітня, і згідно з соціологічними опитуваннями, правляча партія Fidesz вперше за довгий час відстає від опозиційної партії Tisza, яку очолює Петер Мадяр.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6347.MP4" length="14020209" type="video/mp4"/>
+      <pubDate>Fri, 20 Feb 2026 09:35:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
