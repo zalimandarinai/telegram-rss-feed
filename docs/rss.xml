@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 13:51:24 +0000</lastBuildDate>
-    <item>
-      <title>‼️росія готувала серію вбивств</title>
-      <link>https://www.mandarinai.lt/post/88343</link>
-      <description>‼️росія готувала серію вбивств військових та журналістів в Україні
-
-Поліцейські затримали агентурно-бойову групу, яка готувала серію замовних вбивств.
-
-Кремль підготував цілий «червоний список» цілей. 
-
-Серед потенційних «об'єктів» були:
-
-▫️ Відомий журналіст, якого в рф оголосили в розшук.
-
- ▫️ Керівник стратегічного державного підприємства.
-
- ▫️ Топ-військові: діючі офіцери ГУР МО (зокрема бійці «Інтернаціонального Легіону») та Сил спеціальних операцій.
-
- ▫️ Громадський активіст, який переїхав з рф та займає активну проукраїнську позицію.
-
-Для вбивств залучали громадян Молдови, щоб відвести підозру від російського сліду.
-
-Агенти прибували в Україну, збирали дані про місця проживання, роботи та маршрути пересування цілей.
-
-Координував групу 34-річний громадянин Молдови. Його біографія є класичною для російського агента: раніше сидів у в'язниці в рф, де й був завербований. У 2022–2023 роках він брав участь у спробах дестабілізувати ситуацію в самій Молдові, організовуючи проросійські протести.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_08-14-02.jpg" length="174959" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 08:14:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 14:31:01 +0000</lastBuildDate>
     <item>
       <title>Представник ГУР Андрій Юсов бу</title>
       <link>https://www.mandarinai.lt/post/88345</link>
@@ -119,6 +92,13 @@
 Відео від бійців 3-ї роти «Karakurt Colony»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6362.MP4" length="19347483" type="video/mp4"/>
       <pubDate>Fri, 20 Feb 2026 13:37:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрони 475-го полку «Code 9.2» </title>
+      <link>https://www.mandarinai.lt/post/88357</link>
+      <description>Дрони 475-го полку «Code 9.2» мають унікальні властивості, - про них щойно дізналась ця «двійка» російських штурмовиків, яку FPV-дрон уразив, можна сказати, в безконтактній спосіб, з певної дистанції, направленим боєприпасом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6363.MP4" length="26691978" type="video/mp4"/>
+      <pubDate>Fri, 20 Feb 2026 14:07:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
