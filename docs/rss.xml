@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 13:34:07 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Агенти рф орендували кварти</title>
-      <link>https://www.mandarinai.lt/post/88385</link>
-      <description>❗️ Агенти рф орендували квартири біля Офісу президента перед вторгнення, щоб ліквідувати Зеленського, — CNN
-
-Ліквідація президента була ключовим пунктом плану рф із військового та політичного захоплення України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-21_08-54-42.jpg" length="169768" type="image/jpeg"/>
-      <pubDate>Sat, 21 Feb 2026 08:54:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 14:14:46 +0000</lastBuildDate>
     <item>
       <title>🔥🔥Супутникові дані НАСА фіксую</title>
       <link>https://www.mandarinai.lt/post/88386</link>
@@ -101,6 +92,13 @@
 Також через публікацію відео гелікоптера Ка-52 з реєстраційним номером RF13834 і бортовим 17, знятого пропагандистом Олександром Коцем, виявилося, що місця тимчасового базування цих машин знаходяться в зоні досяжності українських ракет.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6404.MP4" length="6172216" type="video/mp4"/>
       <pubDate>Sat, 21 Feb 2026 12:46:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Штурм російських байкерів пози</title>
+      <link>https://www.mandarinai.lt/post/88399</link>
+      <description>Штурм російських байкерів позицій 110-ої бригади закінчився повним розгромом штурмової групи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6405.MP4" length="16140100" type="video/mp4"/>
+      <pubDate>Sat, 21 Feb 2026 13:37:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
