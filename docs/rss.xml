@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 23:17:04 +0000</lastBuildDate>
-    <item>
-      <title>Ворожий безпілотник атакував е</title>
-      <link>https://www.mandarinai.lt/post/88361</link>
-      <description>Ворожий безпілотник атакував евакуаційний підрозділ «Білі Янголи» на Куп’янщині: загинули двоє поліцейських. За даними поліції, Юлії Келеберді було 23 роки, у неї залишилися батьки. Євгену Калгану було 39 років, у нього залишилися дружина, мати, 16-річний син та семирічна донька. В цьому матеріалі поліцейська Юлія Келеберда працює на Сумщині і рятує мирних українців https://www.youtube.com/watch?v=MZy5o0Ppczk Світла пам'ять нашим героям</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-20_16-16-08.jpg" length="68516" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 16:16:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 00:57:56 +0000</lastBuildDate>
     <item>
       <title>🐻Трамп назвав ганьбою рішення </title>
       <link>https://www.mandarinai.lt/post/88363</link>
@@ -109,6 +102,13 @@ https://rvv.com.ua/product/ukrayina-nash-ridnyj-kraj-stepan-rudnyczqqkyj-2025/</
       <description>🔥Виробник опублікував відео пусків " Фламінго" і пообіцяв деталі згодом</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-20_21-45-01.mp4" length="2173660" type="video/mp4"/>
       <pubDate>Fri, 20 Feb 2026 21:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог атакував Одесу безпілотн</title>
+      <link>https://www.mandarinai.lt/post/88378</link>
+      <description>Ворог атакував Одесу безпілотнмками, є влучання в житлові будинки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-21_00-22-35.mp4" length="571640" type="video/mp4"/>
+      <pubDate>Sat, 21 Feb 2026 00:22:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
