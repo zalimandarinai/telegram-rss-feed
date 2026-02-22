@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 19:15:17 +0000</lastBuildDate>
-    <item>
-      <title>🤬Угорщина блокуватиме 20-й пак</title>
-      <link>https://www.mandarinai.lt/post/88459</link>
-      <description>🤬Угорщина блокуватиме 20-й пакет санкцій ЄС проти рф, поки Україна не відновить транзит нафтопроводом «Дружба», — МЗС країни 
-
-Він заявив, що Будапешт не дозволить просувати прийняття важливих для Києва рішень у зв'язку з зупинкою постачання російської нафти</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_15-43-22.jpg" length="116310" type="image/jpeg"/>
-      <pubDate>Sun, 22 Feb 2026 15:43:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Feb 2026 20:12:08 +0000</lastBuildDate>
     <item>
       <title>Бійці ДПСУ проїхались на мотоц</title>
       <link>https://www.mandarinai.lt/post/88461</link>
@@ -84,6 +75,13 @@
 На дорогах бойовики підпалюють випадкові автомобілі, намагаючись створити хаос на вулицях.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-22_18-58-53.mp4" length="3100707" type="video/mp4"/>
       <pubDate>Sun, 22 Feb 2026 18:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳 Заступниця голови ОП Ірина В</title>
+      <link>https://www.mandarinai.lt/post/88481</link>
+      <description>😳 Заступниця голови ОП Ірина Верещук пропонує обмежити Telegram через теракт у Львові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_19-38-41.jpg" length="150876" type="image/jpeg"/>
+      <pubDate>Sun, 22 Feb 2026 19:38:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
