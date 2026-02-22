@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 09:18:24 +0000</lastBuildDate>
-    <item>
-      <title>Нічний жах. Прильоти по житлов</title>
-      <link>https://www.mandarinai.lt/post/88422</link>
-      <description>Нічний жах. Прильоти по житлових будинках на Софіївській Борщагівці в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6421.MP4" length="2932879" type="video/mp4"/>
-      <pubDate>Sun, 22 Feb 2026 05:03:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Feb 2026 10:12:59 +0000</lastBuildDate>
     <item>
       <title>росія вдарила по бізнесу США в</title>
       <link>https://www.mandarinai.lt/post/88424</link>
@@ -61,6 +54,20 @@
       <description>На Київщині внаслідок російської атаки загинула одна людина. Значні руйнування житлових будинків</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_08-38-00.jpg" length="248503" type="image/jpeg"/>
       <pubDate>Sun, 22 Feb 2026 08:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлене, як фото підозрюваної</title>
+      <link>https://www.mandarinai.lt/post/88437</link>
+      <description>Заявлене, як фото підозрюваної в здійсненні теракту у центрі Львова, - публікують медіа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_09-50-41.jpg" length="175373" type="image/jpeg"/>
+      <pubDate>Sun, 22 Feb 2026 09:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Руйнування внаслідок нічного т</title>
+      <link>https://www.mandarinai.lt/post/88438</link>
+      <description>Руйнування внаслідок нічного терору зафіксовано в низці регіонів, зокрема на залізниці, але рух поїздів не зупинявся</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_09-59-31.jpg" length="201182" type="image/jpeg"/>
+      <pubDate>Sun, 22 Feb 2026 09:59:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
