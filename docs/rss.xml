@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 14:14:59 +0000</lastBuildDate>
-    <item>
-      <title>Заявлене, як фото підозрюваної</title>
-      <link>https://www.mandarinai.lt/post/88437</link>
-      <description>Заявлене, як фото підозрюваної в здійсненні теракту у центрі Львова, - публікують медіа.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_09-50-41.jpg" length="175373" type="image/jpeg"/>
-      <pubDate>Sun, 22 Feb 2026 09:50:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Feb 2026 15:13:13 +0000</lastBuildDate>
     <item>
       <title>Руйнування внаслідок нічного т</title>
       <link>https://www.mandarinai.lt/post/88438</link>
@@ -119,9 +112,18 @@
 
 ▫️ Посланець Трампа, ймовірно, відкидає концепцію суверенітету України, адже для українців в цьому контексті «гідність» дорівнює «суверенітет». 
 
-▫️ Американці «заходять» прості пояснення і прості рішення щодо країни, яка знаходиться за тисячі кілометрів від них, не заглиблюючись, на основі поверхневих вражень, тому успіх посередництва США при такому підході, малоймовірний</description>
+▫️ Американцям «заходять» прості пояснення і прості рішення щодо країни, яка знаходиться за тисячі кілометрів від них, не заглиблюючись, на основі поверхневих вражень, тому успіх посередництва США при такому підході, малоймовірний</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-22_13-28-22.mp4" length="29797666" type="video/mp4"/>
       <pubDate>Sun, 22 Feb 2026 13:28:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Я хочу бути першим міністром</title>
+      <link>https://www.mandarinai.lt/post/88453</link>
+      <description>⚡️Я хочу бути першим міністром, який відправить війська в Україну, — міністр оборони Великої Британії Джон Гіллі
+
+"Це означатиме, що війна закінчилася. Ця війна показала нам — і Путіну — одну важливу річ: ніколи не недооцінюйте волю українського народу. Я віддаю данину поваги народу України. Слава Україні", — заявив він.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_14-52-32.jpg" length="77669" type="image/jpeg"/>
+      <pubDate>Sun, 22 Feb 2026 14:52:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
