@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 11:31:07 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥В Татарстані після атаки дро</title>
-      <link>https://www.mandarinai.lt/post/88492</link>
-      <description>💥🔥В Татарстані після атаки дронів палає нафтоперекачувальна станція (НПС) "Калейкіно", яка є ключовим вузлом для забезпечення роботи експортного нафтопроводу "Дружба".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_05-34-24.mp4" length="161052" type="video/mp4"/>
-      <pubDate>Mon, 23 Feb 2026 05:34:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 12:33:42 +0000</lastBuildDate>
     <item>
       <title>20-річна дівчина та чоловік за</title>
       <link>https://www.mandarinai.lt/post/88495</link>
@@ -109,6 +102,13 @@
       <description>✌️🔥ЗСУ успішно проводять наступальну операцію на півдні: з січня відновлено контроль над 400 кв. км території, — Сирський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-23_11-09-26.jpg" length="27902" type="image/jpeg"/>
       <pubDate>Mon, 23 Feb 2026 11:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Фрагмент балістичної ракети</title>
+      <link>https://www.mandarinai.lt/post/88506</link>
+      <description>❗️ Фрагмент балістичної ракети «Іскандер-М» знайшли на даху закладу «McDonald’s», той, що на Дарниці, у Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-23_11-43-21.jpg" length="88848" type="image/jpeg"/>
+      <pubDate>Mon, 23 Feb 2026 11:43:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
