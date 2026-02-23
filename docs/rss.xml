@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 09:40:05 +0000</lastBuildDate>
-    <item>
-      <title>🔥Підстанція "Фрунзенська" в Бє</title>
-      <link>https://www.mandarinai.lt/post/88488</link>
-      <description>🔥Підстанція "Фрунзенська" в Бєлгороді після прильоту</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-22_21-38-53.jpg" length="48079" type="image/jpeg"/>
-      <pubDate>Sun, 22 Feb 2026 21:38:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 10:37:20 +0000</lastBuildDate>
     <item>
       <title>Заявлено, як момент влучання п</title>
       <link>https://www.mandarinai.lt/post/88489</link>
@@ -123,6 +116,13 @@
       <description>💥🔥Наразі не можуть локалізувати  пожежу після атаки на ключовий вузол перекачки нафти в Татарстані, - росЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_09-15-44.mp4" length="294544" type="video/mp4"/>
       <pubDate>Mon, 23 Feb 2026 09:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Надання допомоги пораненому бі</title>
+      <link>https://www.mandarinai.lt/post/88503</link>
+      <description>Надання допомоги пораненому бійцю під час евакуації. Він отримав кульове поранення, тож бойові медики стабілізують його в евакуаційній машині. В районі Покровська бригада Нацгвардії «Рубіж» намагається втримати логістичні маршрути, щоб мати можливість забезпечити евакуацію своїх бійців з вогневих позицій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6459.MP4" length="8189162" type="video/mp4"/>
+      <pubDate>Mon, 23 Feb 2026 10:31:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
