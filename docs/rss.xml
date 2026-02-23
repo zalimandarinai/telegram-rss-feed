@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 15:42:40 +0000</lastBuildDate>
-    <item>
-      <title>💔23.02.2022. Останній ранок ми</title>
-      <link>https://www.mandarinai.lt/post/88500</link>
-      <description>💔23.02.2022. Останній ранок мирного життя. В мережі з'явилось відео одного з останніх цивільних авіарейсів з Києва напередодні широкомасштабного вторгнення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_08-44-01.mp4" length="5030401" type="video/mp4"/>
-      <pubDate>Mon, 23 Feb 2026 08:44:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Наразі не можуть локалізуват</title>
-      <link>https://www.mandarinai.lt/post/88501</link>
-      <description>💥🔥Наразі не можуть локалізувати  пожежу після атаки на ключовий вузол перекачки нафти в Татарстані, - росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_09-15-44.mp4" length="294544" type="video/mp4"/>
-      <pubDate>Mon, 23 Feb 2026 09:15:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 16:40:08 +0000</lastBuildDate>
     <item>
       <title>Надання допомоги пораненому бі</title>
       <link>https://www.mandarinai.lt/post/88503</link>
@@ -129,6 +115,21 @@
       <description>Угорщина все ж таки заблокувала 20-й пакет санкцій проти росії та кредит ЄС для Україніи на €90 млрд. через зупинку перекачки російської нафти трубопроводом «Дружба», — глава МЗС Угорщини Петер Сіярто</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-23_14-33-49.jpg" length="116674" type="image/jpeg"/>
       <pubDate>Mon, 23 Feb 2026 14:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️У школі Дніпра стався вибух:</title>
+      <link>https://www.mandarinai.lt/post/88514</link>
+      <description>❗️У школі Дніпра стався вибух: дітям показували муляжі боєприпасів. Є постраждалі, - Національна поліція.
+
+Постраждали двоє школярів - у них легкі тілесні ушкодження</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_16-02-00.mp4" length="372043" type="video/mp4"/>
+      <pubDate>Mon, 23 Feb 2026 16:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одного з чорношкірих найманців</title>
+      <link>https://www.mandarinai.lt/post/88515</link>
+      <description>Одного з чорношкірих найманців, які, ймовірно, завербовані російськими агентами в Африці, знайшли Сили безпілотних систем, - «Мадяр»</description>
+      <pubDate>Mon, 23 Feb 2026 16:37:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
