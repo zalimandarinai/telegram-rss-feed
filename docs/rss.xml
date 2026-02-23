@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 05:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 06:55:58 +0000</lastBuildDate>
     <item>
       <title>😳 Заступниця голови ОП Ірина В</title>
       <link>https://www.mandarinai.lt/post/88481</link>
@@ -95,8 +95,24 @@
       <title>💥🔥В Татарстані після атаки дро</title>
       <link>https://www.mandarinai.lt/post/88492</link>
       <description>💥🔥В Татарстані після атаки дронів палає нафтоперекачувальна станція (НПС) "Калейкіно", яка є ключовим вузлом для забезпечення роботи експортного нафтопроводу "Дружба".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-23_05-34-24.jpg" length="68595" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_05-34-24.mp4" length="161052" type="video/mp4"/>
       <pubDate>Mon, 23 Feb 2026 05:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>20-річна дівчина та чоловік за</title>
+      <link>https://www.mandarinai.lt/post/88495</link>
+      <description>20-річна дівчина та чоловік загинули внаслідок ворожого обстрілу Одещини, — ОВА
+
+Також госпіталізовано троє людей, двоє з них перебувають у тяжкому стані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-23_06-17-11.jpg" length="197204" type="image/jpeg"/>
+      <pubDate>Mon, 23 Feb 2026 06:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🔥Ранкове задимлення в Альмєть</title>
+      <link>https://www.mandarinai.lt/post/88496</link>
+      <description>🔥🔥Ранкове задимлення в Альмєтьєвську(Татарстан) після нічного візиту дронів демократії на ключову нафтоперекачувальну станцію регіону.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_06-34-03.mp4" length="645672" type="video/mp4"/>
+      <pubDate>Mon, 23 Feb 2026 06:34:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
