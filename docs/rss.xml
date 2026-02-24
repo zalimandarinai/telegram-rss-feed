@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 17:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 18:42:40 +0000</lastBuildDate>
     <item>
       <title>💥ЗСУ застосували балістичні ра</title>
       <link>https://www.mandarinai.lt/post/88566</link>
@@ -106,6 +106,15 @@
 За резолюцію проголосувало 107 країн, проти - 12 (РФ, Білорусь), утрималося - 51 (США, Китай, Угорщина).</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-24_17-34-54.jpg" length="205474" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 17:34:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴росіяни прагнуть захопити Хер</title>
+      <link>https://www.mandarinai.lt/post/88579</link>
+      <description>🔴росіяни прагнуть захопити Херсон, Миколаїв, Одесу та Запоріжжя до кінця 2026 року.
+
+Також планують повністю окупувати Донеччину до кінця березня, – заявив заступник керівника Офісу президента Павло Паліса</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-24_18-37-02.mp4" length="2968218" type="video/mp4"/>
+      <pubDate>Tue, 24 Feb 2026 18:37:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
