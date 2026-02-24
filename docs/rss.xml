@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 05:15:41 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Пожежа в Альметьевску на ата</title>
-      <link>https://www.mandarinai.lt/post/88523</link>
-      <description>💥🔥Пожежа в Альметьевску на атакованій нафтоперекачувальній станції «Дружба-1» під вечір набирає обертів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_18-26-18.mp4" length="424202" type="video/mp4"/>
-      <pubDate>Mon, 23 Feb 2026 18:26:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Telegram заборонити повніст</title>
-      <link>https://www.mandarinai.lt/post/88524</link>
-      <description>⚡️ Telegram заборонити повністю неможливо, а ось обмежити можемо, — голова МВС Ігор Клименко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-23_18-33-42.jpg" length="23723" type="image/jpeg"/>
-      <pubDate>Mon, 23 Feb 2026 18:33:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 06:43:40 +0000</lastBuildDate>
     <item>
       <title>На Харківщині росіяни вдарили </title>
       <link>https://www.mandarinai.lt/post/88525</link>
@@ -72,6 +58,37 @@
       <description>В результаті вибуху поліцейського авто в Москві загинув один співробітник ДПС, ще один отримав поранення, -  росЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_21-52-03.mp4" length="906408" type="video/mp4"/>
       <pubDate>Mon, 23 Feb 2026 21:52:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чотири роки незламності. Ми є.</title>
+      <link>https://www.mandarinai.lt/post/88535</link>
+      <description>Чотири роки незламності. Ми є. Ми разом. І ми вистоїмо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-23_22-56-23.mp4" length="2601213" type="video/mp4"/>
+      <pubDate>Mon, 23 Feb 2026 22:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Президентка Єврокомісії Урсула</title>
+      <link>https://www.mandarinai.lt/post/88536</link>
+      <description>Президентка Єврокомісії Урсула фон дер Ляєн прибула до Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-24_05-46-49.mp4" length="438330" type="video/mp4"/>
+      <pubDate>Tue, 24 Feb 2026 05:46:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна людина загинула на Запорі</title>
+      <link>https://www.mandarinai.lt/post/88537</link>
+      <description>Одна людина загинула на Запоріжжі через удари рф упродовж ночі. Поранені шестеро людей, серед них дитина, - ДСНС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-24_06-11-43.mp4" length="2321259" type="video/mp4"/>
+      <pubDate>Tue, 24 Feb 2026 06:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Сьогодні рівно чотири роки, я</title>
+      <link>https://www.mandarinai.lt/post/88540</link>
+      <description>"Сьогодні рівно чотири роки, як путін бере Київ за три дні", - Президент Зеленський звернувся до українців
+
+Ми захистили незалежність, ми не програли державність, путін не досягнув своїх цілей. Не зламав українців, не переміг у цій війні. Ми зберегли Україну
+
+Я даю наказ нашій переговорній команді — не обнулити всі ці роки, не знецінити всю боротьбу та відвагу, не можна зрадити людей, має бути боротьба за кожне слово, мирна угода має бути сильною</description>
+      <pubDate>Tue, 24 Feb 2026 06:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
