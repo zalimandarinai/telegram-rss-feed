@@ -6,31 +6,22 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 07:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 08:33:28 +0000</lastBuildDate>
     <item>
       <title>🇺🇦Ейфелеву вежу підсвітили син</title>
-      <link>https://www.mandarinai.lt/post/88585</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🇺🇦Ейфелеву вежу підсвітили синьо-жовтими кольорами - на знак солідарності з Україною та в пам'ять про чотири роки з початку повномасштабної агресії рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-24_21-48-06.mp4" length="681291" type="video/mp4"/>
       <pubDate>Tue, 24 Feb 2026 21:48:06 +0000</pubDate>
     </item>
     <item>
       <title>Стівен Кінг записав відеозверн</title>
-      <link>https://www.mandarinai.lt/post/88586</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Стівен Кінг записав відеозвернення до українців
 
 Американський письменник висловив підтримку Україні та наголосив, що був із українцями раніше й залишається з ними зараз, завершивши звернення словами «Слава Україні».
 
 Відео: ukrainewow</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-24_22-02-15.mp4" length="1260081" type="video/mp4"/>
       <pubDate>Tue, 24 Feb 2026 22:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Принц Гаррі записав звернення </title>
-      <link>https://www.mandarinai.lt/post/88588</link>
-      <description>Принц Гаррі записав звернення для українців щодо 4-ї річниці повномасштабного вторгнення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-24_22-08-32.mp4" length="5227949" type="video/mp4"/>
-      <pubDate>Tue, 24 Feb 2026 22:08:32 +0000</pubDate>
     </item>
     <item>
       <title>На Майдані Незалежності  вшану</title>
@@ -51,13 +42,6 @@
       <pubDate>Wed, 25 Feb 2026 07:02:48 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥У Смоленській області рф, ат</title>
-      <link>https://www.mandarinai.lt/post/88597</link>
-      <description>💥🔥У Смоленській області рф, атаковано хімічне підприємство "Дорогобуж", де виробляють речовини, що використовують в російському ВПК</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_07-09-07.jpg" length="81005" type="image/jpeg"/>
-      <pubDate>Wed, 25 Feb 2026 07:09:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Звільнена українськими війська</title>
       <link>https://www.mandarinai.lt/post/88600</link>
       <description>Звільнена українськими військами територія Запорізької області може бути більше, аніж демонструють карти західних аналітичних ресурсів.
@@ -67,6 +51,22 @@
 На відео 210-ий штурмовий полк перетворює російську гармату на металобрухт в Запорізькій області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6544.MP4" length="8456988" type="video/mp4"/>
       <pubDate>Wed, 25 Feb 2026 07:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Одеса та Одещина готуються до</title>
+      <link>https://www.mandarinai.lt/post/88602</link>
+      <description>🔴Одеса та Одещина готуються до можливих загроз: триває розбудова кругової оборони для протидії атакам із суші та моря. В області облаштовують протитанкові рови та інші інженерні елементи, — глава сил ТрО «Південь»
+
+«Попри заяви рф про “руський город”, Одеса готова дати відсіч»,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-25_08-23-05.mp4" length="5366793" type="video/mp4"/>
+      <pubDate>Wed, 25 Feb 2026 08:23:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Смоленській області рф, ат</title>
+      <link>https://www.mandarinai.lt/post/88604</link>
+      <description>💥🔥У Смоленській області рф, атаковано хімічне підприємство "Дорогобуж", де виробляють речовини, які використовують в російському ВПК</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_08-26-04.jpg" length="81005" type="image/jpeg"/>
+      <pubDate>Wed, 25 Feb 2026 08:26:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
