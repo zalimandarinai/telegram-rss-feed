@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 14:00:36 +0000</lastBuildDate>
-    <item>
-      <title>💥 Момент прильоту «Фламінго» п</title>
-      <link>https://www.mandarinai.lt/post/88607</link>
-      <description>💥 Момент прильоту «Фламінго» по заводу «Іскандерів» та ядерних пускових установках в російському Воткінську, — росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-25_08-56-09.mp4" length="1561614" type="video/mp4"/>
-      <pubDate>Wed, 25 Feb 2026 08:56:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 15:46:38 +0000</lastBuildDate>
     <item>
       <title>🤡російське чмо Небензя на засі</title>
       <link>https://www.mandarinai.lt/post/88608</link>
@@ -98,6 +91,13 @@
 Перший український оборонний завод в Британії. Але вже не перше українське військове підприємство за кордоном.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_13-38-00.jpg" length="90582" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 13:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ заявила про затримання вла</title>
+      <link>https://www.mandarinai.lt/post/88621</link>
+      <description>СБУ заявила про затримання власного високопосадовця, начальника УСБУ в Житомирській області, а також керівника логістики Повітряних Сил, вони підозрюються в нецільовому використанні грошей, виділених на оборонні споруди, а також отриманні хабаря $320 тисяч.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_14-33-01.jpg" length="165984" type="image/jpeg"/>
+      <pubDate>Wed, 25 Feb 2026 14:33:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
