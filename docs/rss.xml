@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 05:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:43:26 +0000</lastBuildDate>
     <item>
       <title>Своїх найманців з росії забира</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -22,23 +22,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>‼️🇺🇦🇺🇸Зараз відбувається телефонна розмова між Зеленським та Трампом, — ЗМІ</description>
       <pubDate>Wed, 25 Feb 2026 18:25:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Проти України в складі російсь</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Проти України в складі російської армії воюють понад 1780 громадян із країн Африки, повідомив Сибіга на спільній пресконференції із міністром закордонних справ Гани.</description>
-      <pubDate>Wed, 25 Feb 2026 19:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬У Харкові вперше зафіксували </title>
-      <link>https://www.mandarinai.lt/post/88645</link>
-      <description>🤬У Харкові вперше зафіксували застосування російського FPV-дрона на оптоволокні, — обласна прокуратура 
-
-Дрон влучив у дерево в Київському районі міста.
-
-Також російські пабліки  опублікували відео, де інший FPV-дрон нібито атакує автівку на вʼїзді до Харкова</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_21-04-48.jpg" length="114134" type="image/jpeg"/>
-      <pubDate>Wed, 25 Feb 2026 21:04:48 +0000</pubDate>
     </item>
     <item>
       <title>В Запоріжжі після обстрілу спа</title>
@@ -58,8 +41,24 @@
       <title>❗️У Харкові внаслідок ворожої </title>
       <link>https://www.mandarinai.lt/post/88654</link>
       <description>❗️У Харкові внаслідок ворожої атаки постраждали 14 людей, серед них дитина</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_04-42-40.jpg" length="96086" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_04-42-40.jpg" length="197957" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 04:42:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Трамп у розмові із Зеленським</title>
+      <link>https://www.mandarinai.lt/post/88658</link>
+      <description>🥴Трамп у розмові із Зеленським заявив, що хоче, щоб війна в Україні закінчилася через місяць, - Axios</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_05-42-35.jpg" length="76953" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 05:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Цілі удару ворога— підстанції,</title>
+      <link>https://www.mandarinai.lt/post/88660</link>
+      <description>Цілі удару ворога— підстанції, ТЕЦ, ТЕС, промислові об'єкти. Внаслідрк атаки одна людина загинула. Понад 20 отримали поранення 
+
+Основні напрямки — Харків, Харківська область, Миколаївська область, Вінниця та передмістя, Полтава,Запоріжжя, Київ, Київська область, Кривий Ріг, прифронтові території Донеччини,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_05-55-01.jpg" length="301462" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 05:55:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
