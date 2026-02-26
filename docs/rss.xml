@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 15:40:38 +0000</lastBuildDate>
-    <item>
-      <title>🤬Момент влучання шахеда у бага</title>
-      <link>https://www.mandarinai.lt/post/88679</link>
-      <description>🤬Момент влучання шахеда у багатоповерхівку в Кривому Розі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-26_09-40-23.mp4" length="339789" type="video/mp4"/>
-      <pubDate>Thu, 26 Feb 2026 09:40:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Дрон-почекун на покровському</title>
-      <link>https://www.mandarinai.lt/post/88680</link>
-      <description>⚡️Дрон-почекун на покровському напрямку дочекався ціль</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-26_10-16-54.mp4" length="1019891" type="video/mp4"/>
-      <pubDate>Thu, 26 Feb 2026 10:16:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 16:42:27 +0000</lastBuildDate>
     <item>
       <title>На Дніпропетровщині масштабний</title>
       <link>https://www.mandarinai.lt/post/88681</link>
@@ -127,6 +113,15 @@
 ▪️ командно-спостережний пункт в районі н.п. Ясноє Солнце Брянської області рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_14-12-51.jpg" length="146896" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 14:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Підтвердження результатів влу</title>
+      <link>https://www.mandarinai.lt/post/88693</link>
+      <description>💥Підтвердження результатів влучання у Смоленській області 
+
+Хімзавод "Дорогобуж" - основна автотермічна установка синтезу в контурі азотної кислоти/амміаку — фактично ключовий вузол усієї азотної хімії підприємства — була повністю знищена. Харашо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_16-42-20.jpg" length="83461" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 16:42:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
