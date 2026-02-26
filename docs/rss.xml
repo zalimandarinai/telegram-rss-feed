@@ -6,31 +6,22 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 00:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 03:31:47 +0000</lastBuildDate>
     <item>
       <title>Своїх найманців з росії забира</title>
-      <link>https://www.mandarinai.lt/post/88630</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Своїх найманців з росії забирає Південна Африка.
 
 Президент Південно-Африканської Республіки Сиріл Рамафоса заявив, що його уряду вдалося забезпечити звільнення з лав зс рф кількох громадян країни. 
 
 Йдеться про тих самих 17 чоловіків віком від 20 до 39 років, до вербування яких була причетна донька колишнього президента ПАР Дудузіле Зума.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_17-40-28.jpg" length="50914" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 17:40:28 +0000</pubDate>
     </item>
     <item>
       <title>‼️🇺🇦🇺🇸Зараз відбувається телеф</title>
-      <link>https://www.mandarinai.lt/post/88631</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>‼️🇺🇦🇺🇸Зараз відбувається телефонна розмова між Зеленським та Трампом, — ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_18-25-25.jpg" length="52059" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 18:25:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Оператор наземного роботизован</title>
-      <link>https://www.mandarinai.lt/post/88633</link>
-      <description>Оператор наземного роботизованого комплексу з ударним кулеметним модулем зупинив просування ворожої штурмової групи, бій з російськими окупантами виграв робот 32-ої бригади</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6561.MP4" length="19393147" type="video/mp4"/>
-      <pubDate>Wed, 25 Feb 2026 18:46:45 +0000</pubDate>
     </item>
     <item>
       <title>Проти України в складі російсь</title>
@@ -79,6 +70,13 @@
 Також російські пабліки  опублікували відео, де інший FPV-дрон нібито атакує автівку на вʼїзді до Харкова</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-25_21-04-48.jpg" length="114134" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 21:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Запоріжжі після обстрілу спа</title>
+      <link>https://www.mandarinai.lt/post/88651</link>
+      <description>В Запоріжжі після обстрілу спалахнув «Епіцентр»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_02-31-38.jpg" length="74443" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 02:31:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
