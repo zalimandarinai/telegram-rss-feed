@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 17:49:41 +0000</lastBuildDate>
-    <item>
-      <title>👀 В Одесі сталася перестрілка </title>
-      <link>https://www.mandarinai.lt/post/88685</link>
-      <description>👀 В Одесі сталася перестрілка між військовослужбовцями ТЦК «в ході емоційного протистояння всередині колективу», — Одеський ТЦК та СП
-
-За даними відомства, постріл здійснив один із працівників, і конфлікт мав виключно внутрішній характер.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_13-07-32.jpg" length="243816" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 13:07:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦾 Китайські бойові роботи демо</title>
-      <link>https://www.mandarinai.lt/post/88686</link>
-      <description>🦾 Китайські бойові роботи демонструють елементи кунг-фу канцлеру Німеччини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-26_13-09-43.mp4" length="950164" type="video/mp4"/>
-      <pubDate>Thu, 26 Feb 2026 13:09:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 18:35:03 +0000</lastBuildDate>
     <item>
       <title>😱 ШІ у 95% військових симуляці</title>
       <link>https://www.mandarinai.lt/post/88689</link>
@@ -102,6 +86,17 @@
       <description>Український Ан-28 ефектно збив «шахед» бортовим кулеметом після цілевказівки лазером</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6577.MP4" length="1876636" type="video/mp4"/>
       <pubDate>Thu, 26 Feb 2026 17:25:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇦🇫 Афганістан розпочинає війсь</title>
+      <link>https://www.mandarinai.lt/post/88704</link>
+      <description>🇦🇫 Афганістан розпочинає військову операцію проти Пакистану по лінії Дюранда вздовж так званої «території племен федерального підпорядкування».
+
+Таліби кажуть, що відповідають ударами на «агресивні дії» сусідньої держави
+
+Бої тривають у шести прикордонних провінціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6583.MP4" length="1732293" type="video/mp4"/>
+      <pubDate>Thu, 26 Feb 2026 18:00:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
