@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 19:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 20:16:08 +0000</lastBuildDate>
     <item>
       <title>Книга, що відкриває темний бік</title>
       <link>https://www.mandarinai.lt/post/88750</link>
@@ -109,9 +109,18 @@ https://rvv.com.ua/product/materialy-z-demonolohii-ukrainskoho-narodu/ 📚🔥<
     <item>
       <title>Варварське знищення Костянтині</title>
       <link>https://www.mandarinai.lt/post/88767</link>
-      <description>Варварське знищення Костянтинівки ворожим вогнем, - безпілотного підрозділу ДПСУ «Фенікс»</description>
+      <description>Варварське знищення Костянтинівки ворожим вогнем, - відео безпілотного підрозділу ДПСУ «Фенікс»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6614.MP4" length="8232407" type="video/mp4"/>
       <pubDate>Fri, 27 Feb 2026 18:48:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Американцям важко зрозуміти р</title>
+      <link>https://www.mandarinai.lt/post/88768</link>
+      <description>🔴Американцям важко зрозуміти російський менталітет — коли вони брешуть, а коли говорять правду — базує президент Зеленський 
+
+Я колись сказав Джареду і Стіву, що, чесно кажучи, простіше визнати, що вони брешуть завжди — резюмував голова держави.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_19-28-21.mp4" length="2207814" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 19:28:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
