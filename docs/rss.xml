@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 05:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 06:36:33 +0000</lastBuildDate>
     <item>
       <title>Полювання на здичавілих веде 4</title>
       <link>https://www.mandarinai.lt/post/88706</link>
@@ -79,6 +79,22 @@ The Wall Street Journal пише, що переговори в Женеві за
       <description>💥🔥Вночі атакована нафтобаза в окупованому Луганську</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_04-33-31.mp4" length="793003" type="video/mp4"/>
       <pubDate>Fri, 27 Feb 2026 04:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅ МВФ схвалив фінансову програ</title>
+      <link>https://www.mandarinai.lt/post/88718</link>
+      <description>✅ МВФ схвалив фінансову програму для України на $8,1 млрд, розраховану на 4 роки, — прем’єр-міністерка Юлія Свириденко
+
+Кошти частково покриють дефіцит держбюджету, перший транш – близько $1,5 млрд – очікується найближчим часом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_04-35-42.jpg" length="171969" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 04:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Нафтобаза в окупованому Луган</title>
+      <link>https://www.mandarinai.lt/post/88719</link>
+      <description>🔥Нафтобаза в окупованому Луганську палає після нічної зустрічі з повітряними санкціями.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_06-23-23.mp4" length="1192967" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 06:23:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
