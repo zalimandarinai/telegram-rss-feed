@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 18:24:40 +0000</lastBuildDate>
-    <item>
-      <title>СБС вполювали сьогодні зенітни</title>
-      <link>https://www.mandarinai.lt/post/88746</link>
-      <description>СБС вполювали сьогодні зенітний ракетно-гарматний комплекс «Панцирь-С1» на територіі «Азовсталі» в Маріуполі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6609.MP4" length="6940832" type="video/mp4"/>
-      <pubDate>Fri, 27 Feb 2026 14:40:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 19:24:34 +0000</lastBuildDate>
     <item>
       <title>Книга, що відкриває темний бік</title>
       <link>https://www.mandarinai.lt/post/88750</link>
@@ -78,7 +71,7 @@ https://rvv.com.ua/product/materialy-z-demonolohii-ukrainskoho-narodu/ 📚🔥<
       <title>Ілон Маск відключив росіянам S</title>
       <link>https://www.mandarinai.lt/post/88759</link>
       <description>Ілон Маск відключив росіянам Starlink не після удару по потягу в Харківській області, як всі вважали, а після того, як «шахед» нібито наближався до Офісу Президента в кінці січня, - The Atlantic</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_17-40-20.jpg" length="83939" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_17-40-20.jpg" length="60939" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 17:40:20 +0000</pubDate>
     </item>
     <item>
@@ -96,6 +89,7 @@ https://rvv.com.ua/product/materialy-z-demonolohii-ukrainskoho-narodu/ 📚🔥<
 Швидка евакуація виграє час для лікування поранень, а подекуди є вирішальним фактором порятунку бійців.
 
 Так працює «Пінгвін», ординатор евакуаційного відділення , який врятував двох важкопоранених бійців на шляху до стабілізаційного пункту 3-ого армійського корпусу, в складі якого піхотинці 63-ої бригади прикривають Лиман.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6612.MP4" length="10072225" type="video/mp4"/>
       <pubDate>Fri, 27 Feb 2026 18:06:33 +0000</pubDate>
     </item>
     <item>
@@ -104,6 +98,20 @@ https://rvv.com.ua/product/materialy-z-demonolohii-ukrainskoho-narodu/ 📚🔥<
       <description>💥Вторинна детонація після вечірнього прильоту на Бєлгородщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_18-07-25.mp4" length="448811" type="video/mp4"/>
       <pubDate>Fri, 27 Feb 2026 18:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Ми, ймовірно, невдовзі може</title>
+      <link>https://www.mandarinai.lt/post/88766</link>
+      <description>💬 «Ми, ймовірно, невдовзі можемо побачити дружнє захоплення Куби», - Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_18-24-50.jpg" length="42659" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 18:24:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Варварське знищення Костянтині</title>
+      <link>https://www.mandarinai.lt/post/88767</link>
+      <description>Варварське знищення Костянтинівки ворожим вогнем, - безпілотного підрозділу ДПСУ «Фенікс»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6614.MP4" length="8232407" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 18:48:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
