@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 10:25:19 +0000</lastBuildDate>
-    <item>
-      <title>✅ МВФ схвалив фінансову програ</title>
-      <link>https://www.mandarinai.lt/post/88718</link>
-      <description>✅ МВФ схвалив фінансову програму для України на $8,1 млрд, розраховану на 4 роки, — прем’єр-міністерка Юлія Свириденко
-
-Кошти частково покриють дефіцит держбюджету, перший транш – близько $1,5 млрд – очікується найближчим часом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_04-35-42.jpg" length="171969" type="image/jpeg"/>
-      <pubDate>Fri, 27 Feb 2026 04:35:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Нафтобаза в окупованому Луган</title>
-      <link>https://www.mandarinai.lt/post/88719</link>
-      <description>🔥Нафтобаза в окупованому Луганську палає після нічної зустрічі з повітряними санкціями.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_06-23-23.mp4" length="1192967" type="video/mp4"/>
-      <pubDate>Fri, 27 Feb 2026 06:23:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 11:22:52 +0000</lastBuildDate>
     <item>
       <title>💬путін не погодиться на менше </title>
       <link>https://www.mandarinai.lt/post/88720</link>
@@ -80,6 +64,29 @@
 Крім того, українські сили завдали вогневого ураження по складах пально-мастильних матеріалів поблизу Маріуполя, Новоторецького, Коптєвого на тимчасово окупованій території Донецької області, а також по пункту управління ворожими безпілотниками неподалік Райського, що на ТОТ Херсонщини</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_10-23-20.jpg" length="99088" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 10:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱Сотні загиблих і поранених - </title>
+      <link>https://www.mandarinai.lt/post/88733</link>
+      <description>😱Сотні загиблих і поранених - Афганістан атакував ядерний обʼєкт у Пакистані. 
+
+Також було завдано удару по військовій базі в районі Абботтабада, – повідомив телеканал Ariana News.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_10-28-15.mp4" length="1602834" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 10:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Повітряні Сили України поча</title>
+      <link>https://www.mandarinai.lt/post/88734</link>
+      <description>⚡️ Повітряні Сили України почали використовувати французькі винищувачі «Mirage 2000» для ударів по позиціях окупантів, - перше відео</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6601.MP4" length="4060795" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 11:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент прильоту по готелю в це</title>
+      <link>https://www.mandarinai.lt/post/88735</link>
+      <description>Момент прильоту по готелю в центрі Сум</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6602.MP4" length="1954311" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 11:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
