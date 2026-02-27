@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 08:27:22 +0000</lastBuildDate>
-    <item>
-      <title>Стає гаряче, адже Іран відмови</title>
-      <link>https://www.mandarinai.lt/post/88710</link>
-      <description>Стає гаряче, адже Іран відмовився від угоди з США щодо ядерної програми
-
-The Wall Street Journal пише, що переговори в Женеві завершилися безрезультатно.
-
-Тегеран відмовився передавати запаси збагаченого урану за кордон, а також виступив проти припинення збагачення, демонтажу ядерних об’єктів і обмежень своєї програми.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_21-00-57.jpg" length="98833" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 21:00:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 09:28:33 +0000</lastBuildDate>
     <item>
       <title>Хімкомбінат у російському міст</title>
       <link>https://www.mandarinai.lt/post/88711</link>
@@ -91,8 +80,26 @@ The Wall Street Journal пише, що переговори в Женеві за
 Під час обшуків вилучено техніку, документацію та понад 19 млн грн готівки.
 
 Шістьом фігурантам повідомлено про підозру — їм загрожує до 12 років ув’язнення з конфіскацією майна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_08-11-03.jpg" length="222248" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_08-11-03.jpg" length="276933" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 08:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росіяни ймовірно повністю за</title>
+      <link>https://www.mandarinai.lt/post/88724</link>
+      <description>❗️росіяни ймовірно повністю захопили Покровськ, — ISW
+
+ Востаннє українські війська були зафіксовані у місті 28 січня, тож ISW оцінює, що окупанти завершили захоплення за останні тижні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_08-27-31.jpg" length="88004" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 08:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞Шокуючі кадри з Костянтинівки</title>
+      <link>https://www.mandarinai.lt/post/88726</link>
+      <description>🔞Шокуючі кадри з Костянтинівки 
+
+росіяни знищують місто, влаштовують справжнє полювання на мешканців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_09-19-56.mp4" length="2544829" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 09:19:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
