@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 03:28:39 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ В Україні вже зовсім скоро </title>
-      <link>https://www.mandarinai.lt/post/88702</link>
-      <description>⚡️ В Україні вже зовсім скоро з'являться Кіберсили Збройних Сил: проект Закону доопрацьовано</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-26_17-19-38.jpg" length="211760" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 17:19:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Український Ан-28 ефектно збив</title>
-      <link>https://www.mandarinai.lt/post/88703</link>
-      <description>Український Ан-28 ефектно збив «шахед» бортовим кулеметом після цілевказівки лазером</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6577.MP4" length="1876636" type="video/mp4"/>
-      <pubDate>Thu, 26 Feb 2026 17:25:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇦🇫 Афганістан розпочинає війсь</title>
-      <link>https://www.mandarinai.lt/post/88704</link>
-      <description>🇦🇫 Афганістан розпочинає військову операцію проти Пакистану по лінії Дюранда вздовж так званої «території племен федерального підпорядкування».
-
-Таліби кажуть, що відповідають ударами на «агресивні дії» сусідньої держави
-
-Бої тривають у шести прикордонних провінціях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6583.MP4" length="1732293" type="video/mp4"/>
-      <pubDate>Thu, 26 Feb 2026 18:00:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 05:08:29 +0000</lastBuildDate>
     <item>
       <title>Полювання на здичавілих веде 4</title>
       <link>https://www.mandarinai.lt/post/88706</link>
@@ -97,6 +72,13 @@ The Wall Street Journal пише, що переговори в Женеві за
       <description>💥Звуки і спалахи нічного Бєлгорода</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-26_21-38-18.mp4" length="4373815" type="video/mp4"/>
       <pubDate>Thu, 26 Feb 2026 21:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вночі атакована нафтобаза в </title>
+      <link>https://www.mandarinai.lt/post/88716</link>
+      <description>💥🔥Вночі атакована нафтобаза в окупованому Луганську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_04-33-31.mp4" length="793003" type="video/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 04:33:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
