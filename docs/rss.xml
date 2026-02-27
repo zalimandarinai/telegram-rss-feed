@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 06:36:33 +0000</lastBuildDate>
-    <item>
-      <title>Полювання на здичавілих веде 4</title>
-      <link>https://www.mandarinai.lt/post/88706</link>
-      <description>Полювання на здичавілих веде 425-ий полк «Скеля».</description>
-      <pubDate>Thu, 26 Feb 2026 18:48:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 07:37:23 +0000</lastBuildDate>
     <item>
       <title>В Україні понад 90 тисяч осіб </title>
       <link>https://www.mandarinai.lt/post/88708</link>
@@ -95,6 +89,15 @@ The Wall Street Journal пише, що переговори в Женеві за
       <description>🔥Нафтобаза в окупованому Луганську палає після нічної зустрічі з повітряними санкціями.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-27_06-23-23.mp4" length="1192967" type="video/mp4"/>
       <pubDate>Fri, 27 Feb 2026 06:23:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬путін не погодиться на менше </title>
+      <link>https://www.mandarinai.lt/post/88720</link>
+      <description>💬путін не погодиться на менше ніж повний контроль над Донеччиною та зміна влади в Україні, — The Independent
+
+За даними видання, інакше це стане визнанням краху його «проєкту» з ціною у 1,3 млн втрат для росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-27_07-04-49.jpg" length="94821" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 07:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
