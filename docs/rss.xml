@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 19:12:01 +0000</lastBuildDate>
-    <item>
-      <title>Момент прильоту в Дубаї</title>
-      <link>https://www.mandarinai.lt/post/88828</link>
-      <description>Момент прильоту в Дубаї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/clashreport-2027766640448868816-01.mp4" length="983522" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 15:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Feb 2026 20:12:03 +0000</lastBuildDate>
     <item>
       <title>🔥Уламки іранської ракети впали</title>
       <link>https://www.mandarinai.lt/post/88829</link>
@@ -122,6 +115,13 @@
       <description>Кадри зняті зсередини будинку в Бахрейні в момент удару іранського шахеда</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-28_18-48-49.mp4" length="359055" type="video/mp4"/>
       <pubDate>Sat, 28 Feb 2026 18:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Ця війна призведе до миру – с</title>
+      <link>https://www.mandarinai.lt/post/88843</link>
+      <description>🔴Ця війна призведе до миру – справжнього миру. У найближчі дні буде завдано удар по тисячам цілей, - Нетаньягу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-28_19-19-35.jpg" length="59750" type="image/jpeg"/>
+      <pubDate>Sat, 28 Feb 2026 19:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
