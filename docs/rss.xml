@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 14:11:08 +0000</lastBuildDate>
-    <item>
-      <title>🚀 Система «Patriot» перехоплює</title>
-      <link>https://www.mandarinai.lt/post/88808</link>
-      <description>🚀 Система «Patriot» перехоплює ракету, запущену Іраном, в Кувейті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/SHyx220I_5GPXjo_.mp4" length="282165" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 11:14:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🕶 В росії триває прихована моб</title>
-      <link>https://www.mandarinai.lt/post/88810</link>
-      <description>🕶 В росії триває прихована мобілізація вісімнадцятирічних студентів, - канал «Дождь» опублікував «злив» розмови керівництва одного з учбових закладів зі студентами
-
-💬 «Нову армію буде створено з тих студентів, які більше не можуть вважатися студентами. Це ви, і мені не шкода, що вас відрахували. Країні потрібні воїни», — у казанському коледжі студентів без пояснення причин запросили на збори, де директорка Юлія Хадіулліна оголосила їм, що вони «всі відраховані» і будуть відправлені воювати з Україною.
-
-👮 На розмові в коледжі були присутні представники силових структур.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQMmQtxHn0_oTahl6KQeo12agbPHv_HEXX5Xp0gEk7mtW_XKFm1X7filyw4ZGXnAF.mp4" length="3997949" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 11:29:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Feb 2026 15:10:19 +0000</lastBuildDate>
     <item>
       <title>💥В Тегерані повністю знищено р</title>
       <link>https://www.mandarinai.lt/post/88811</link>
@@ -115,6 +97,20 @@
 Не здивуюсь, якщо насправді вони живі. Як то кажуть, "туман війни"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-28_13-58-21.jpg" length="54170" type="image/jpeg"/>
       <pubDate>Sat, 28 Feb 2026 13:58:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Іран оголосив про блокуванн</title>
+      <link>https://www.mandarinai.lt/post/88822</link>
+      <description>⚡️ Іран оголосив про блокування Ормузької протоки та припинив рух нафтових танкерів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-28_14-49-09.jpg" length="65827" type="image/jpeg"/>
+      <pubDate>Sat, 28 Feb 2026 14:49:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Дубайські прильоти</title>
+      <link>https://www.mandarinai.lt/post/88823</link>
+      <description>👀Дубайські прильоти</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-28_14-49-58.mp4" length="272228" type="video/mp4"/>
+      <pubDate>Sat, 28 Feb 2026 14:49:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
