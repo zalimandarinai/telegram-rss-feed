@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 13:31:20 +0000</lastBuildDate>
-    <item>
-      <title>Навіть найкривавіши диктатори </title>
-      <link>https://www.mandarinai.lt/post/88875</link>
-      <description>Навіть найкривавіши диктатори платять за свої злочини, - Зеленський
-
-Українці живуть під тисячами російських ударів різними типами зброї. Лише за останній тиждень зими понад 1720 ударних дронів, майже 1300 керованих авіаційних бомб і більш ніж 100 ракет різних типів застосувала Росія проти України. 
-
-Але попри все українці пройшли цю складну зиму, коли Росія навіть не намагалася знайти виправдання своїм звірячим ударам по цивільній критичній інфраструктурі. За три місяці зими понад 14 670 КАБів, 738 ракет і майже 19 тис. ударних дронів, із яких більшість – це російсько-іранські «шахеди», росіяни випустили проти наших людей. Це ті самі дрони, які зараз іранський режим запускає по країнах на Близькому Сході.
-
-Злу потрібно протидіяти в будь-якій частині світу. Коли у Сполучених Штатів і партнерів є достатньо рішучості, навіть найкривавіші диктатори зрештою платять за свої злочини. Я дякую всім, хто допомагає Україні захищатися і зберігати життя.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_08-53-03.mp4" length="6189340" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 08:53:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 14:13:16 +0000</lastBuildDate>
     <item>
       <title>В Дубаї іранські ракети продов</title>
       <link>https://www.mandarinai.lt/post/88877</link>
@@ -102,6 +89,15 @@
 У ході останнього обстрілу Іран випустив 37 ракет у бік Ізраїлю.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_13-05-18.jpg" length="349195" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 13:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Іран атакує ВМС Франції – ра</title>
+      <link>https://www.mandarinai.lt/post/88891</link>
+      <description>❗️Іран атакує ВМС Франції – ракети летять по військово-морській базі в Абу-Дабі
+
+Тегеран також заявляє, що випустив чотири ракети по американському авіаносцю USS Abraham Lincoln</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_14-12-39.jpg" length="110572" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 14:12:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
