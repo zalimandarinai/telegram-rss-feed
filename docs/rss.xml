@@ -6,44 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 21:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 22:10:58 +0000</lastBuildDate>
     <item>
       <title>❗️ США та Ізраїль поспішають «</title>
-      <link>https://www.mandarinai.lt/post/88911</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ США та Ізраїль поспішають «добити» Іран, бо їхні запаси ракет ППО вичерпуються, — The Wall Street Journal
 
 Запаси ракет-перехоплювачів і високоточних боєприпасів у них швидко зменшуються.
 
 Затяжна війна загрожує залишити Захід без ППО на інших фронтах, а ситуація стає критичною.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_19-13-47.jpg" length="65730" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 19:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Епічне знищення ізраїльською </title>
-      <link>https://www.mandarinai.lt/post/88912</link>
-      <description>🔥Епічне знищення ізраїльською авіацією іранського ЗРК у районі міста Тебриз</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_19-14-38.mp4" length="986726" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 19:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>У лютому росіяни захопили вдві</title>
-      <link>https://www.mandarinai.lt/post/88913</link>
-      <description>У лютому росіяни захопили вдвічі менше території, ніж у січні, - DeepState
-
-За їхніми даними, у лютому російські війська захопили 126 кв. км території України. Це вдвічі менше, ніж у січні, і найнижчий показник з липня 2024 року. При цьому загальна кількість атак знизилася незначно - всього на 4%, хоча самі штурми стали менш масовими за кількістю залучених сил.
-
-Найбільше штурмових дій росіяни провели на Покровському напрямку - 31% всіх атак. Далі йдуть Гуляйпільське (21%), Константинівське (13%) і Лиманське (7%) напрямки. Структура атак практично не змінилася порівняно з січнем.
-
-Найбільше просування російських військ також зафіксовано на Покровському напрямку - 32% всіх захоплених ділянок. Значна частина просувань припала на Слов'янське і Краматорське напрямки, а також на Константинівський ділянку і Сумську область.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_19-25-47.jpg" length="75754" type="image/jpeg"/>
-      <pubDate>Sun, 01 Mar 2026 19:25:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Севастополі  частковий блека</title>
-      <link>https://www.mandarinai.lt/post/88914</link>
-      <description>У Севастополі  частковий блекаут через "аварійне відключення в мережах Кримської енергосистеми", — так кажуть гауляйтери</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_19-27-15.mp4" length="1371540" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 19:27:15 +0000</pubDate>
     </item>
     <item>
       <title>🔥Воїни 7-го корпусу ДШВ прорва</title>
@@ -80,6 +52,20 @@
 Зазначається, що один чоловік перебуває у важкому стані.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_21-08-09.mp4" length="1361295" type="video/mp4"/>
       <pubDate>Sun, 01 Mar 2026 21:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Новоросійську трєвожно</title>
+      <link>https://www.mandarinai.lt/post/88928</link>
+      <description>💥В Новоросійську трєвожно</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_21-25-11.mp4" length="810829" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 21:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Новоросійський порт переміг </title>
+      <link>https://www.mandarinai.lt/post/88929</link>
+      <description>💥🔥Новоросійський порт переміг у яскравості дубайський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_21-33-25.mp4" length="640074" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 21:33:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
