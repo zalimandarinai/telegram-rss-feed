@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 14:13:16 +0000</lastBuildDate>
-    <item>
-      <title>В Дубаї іранські ракети продов</title>
-      <link>https://www.mandarinai.lt/post/88877</link>
-      <description>В Дубаї іранські ракети продовжують влучати у хмарочоси</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_09-36-01.mp4" length="2064249" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 09:36:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 15:11:36 +0000</lastBuildDate>
     <item>
       <title>👀Після ліквідації лідера Ірану</title>
       <link>https://www.mandarinai.lt/post/88878</link>
@@ -98,6 +91,24 @@
 Тегеран також заявляє, що випустив чотири ракети по американському авіаносцю USS Abraham Lincoln</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_14-12-39.jpg" length="110572" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 14:12:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вбитий колишній президент Іран</title>
+      <link>https://www.mandarinai.lt/post/88892</link>
+      <description>Вбитий колишній президент Ірану Махмуд Ахмадінежад, - Bild
+
+В результаті авіаудару в Тегерані був убитий колишній президент Ірану Махмуд Ахмадінежад — про це повідомило державне інформаційне агентство Ilna.
+
+📌 Він був президентом Ірану з 2005 по 2013 рік. Під час свого правління Ахмадінежад заявляв, що Ізраїль має "зникнути з карти світу"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_14-35-16.jpg" length="58041" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 14:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Іран почав атакувати нафтовид</title>
+      <link>https://www.mandarinai.lt/post/88893</link>
+      <description>💥Іран почав атакувати нафтовидобувні морські платформи: КСІР заявляє про удар БПЛА по МСП ОАЕ в Перській затоці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_14-37-22.jpg" length="53836" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 14:37:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
