@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 22:10:58 +0000</lastBuildDate>
-    <item>
-      <title>❗️ США та Ізраїль поспішають «</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️ США та Ізраїль поспішають «добити» Іран, бо їхні запаси ракет ППО вичерпуються, — The Wall Street Journal
-
-Запаси ракет-перехоплювачів і високоточних боєприпасів у них швидко зменшуються.
-
-Затяжна війна загрожує залишити Захід без ППО на інших фронтах, а ситуація стає критичною.</description>
-      <pubDate>Sun, 01 Mar 2026 19:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Воїни 7-го корпусу ДШВ прорва</title>
-      <link>https://www.mandarinai.lt/post/88918</link>
-      <description>🔥Воїни 7-го корпусу ДШВ прорвали російську лінію оборони на Олександрівському напрямку. 
-
-У ході операції було зірвано плани ворога щодо подальшого наступу, що дозволило відкрити плацдарм для тактичного просування дружніх підрозділів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_20-18-08.mp4" length="1039883" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 20:18:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 23:12:24 +0000</lastBuildDate>
     <item>
       <title>Ісламісти, які підтримують Іра</title>
       <link>https://www.mandarinai.lt/post/88920</link>
@@ -61,11 +42,27 @@
       <pubDate>Sun, 01 Mar 2026 21:25:11 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Новоросійський порт переміг </title>
+      <title>💥🔥Новоросійський порт під успі</title>
       <link>https://www.mandarinai.lt/post/88929</link>
-      <description>💥🔥Новоросійський порт переміг у яскравості дубайський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_21-33-25.mp4" length="640074" type="video/mp4"/>
+      <description>💥🔥Новоросійський порт під успішною атакою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_21-33-25.mp4" length="161849" type="video/mp4"/>
       <pubDate>Sun, 01 Mar 2026 21:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳Ми звернулися до українців із</title>
+      <link>https://www.mandarinai.lt/post/88931</link>
+      <description>😳Ми звернулися до українців із проханням допомогти партнерам у Перській затоці збивати іранські дрони, — прем’єр Британії
+
+Скільки раз ми зверталися до партнерів допомогти нам збивати російські ракети?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_22-38-22.mp4" length="887425" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 22:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Україна готова допомогти Євр</title>
+      <link>https://www.mandarinai.lt/post/88932</link>
+      <description>❗️Україна готова допомогти Європі в захисті її повітряного простору на тлі загострення напруженості на Близькому Сході, — Моссад з посиланням на Зеленського</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_22-53-06.jpg" length="58255" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 22:53:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
