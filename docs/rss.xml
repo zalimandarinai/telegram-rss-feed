@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 05:42:33 +0000</lastBuildDate>
-    <item>
-      <title>Лідера Ірану Аятолу Хаменеї — </title>
-      <link>https://www.mandarinai.lt/post/88844</link>
-      <description>Лідера Ірану Аятолу Хаменеї — ліквідували: тіло дістали з руїн палацу, — «CGTN»
-
-На відео: емоції ізраїльтян та тегеранаців на цю новину</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-28_20-45-10.mp4" length="1935163" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 20:45:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 06:31:13 +0000</lastBuildDate>
     <item>
       <title>Іранська ракета, яку не змогли</title>
       <link>https://www.mandarinai.lt/post/88846</link>
@@ -85,11 +76,20 @@
       <pubDate>Sun, 01 Mar 2026 05:21:23 +0000</pubDate>
     </item>
     <item>
-      <title>Іранці в Ісфагані вийшли на ву</title>
+      <title>Іранці закликають до помсти пі</title>
       <link>https://www.mandarinai.lt/post/88858</link>
-      <description>Іранці в Ісфагані вийшли на вулиці з портретами загиблого Хаменеї та закликали до помсти, скандуючи «Смерть Америці»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_05-28-01.mp4" length="1858975" type="video/mp4"/>
+      <description>Іранці закликають до помсти після вбивства Хаменеї, скандуючи «Смерть Америці»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_05-28-01.mp4" length="2840521" type="video/mp4"/>
       <pubDate>Sun, 01 Mar 2026 05:28:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡російський дрон атакував гурт</title>
+      <link>https://www.mandarinai.lt/post/88859</link>
+      <description>😡російський дрон атакував гуртожиток у Харкові, — Терехов
+
+На місці удару пожежа, проводиться евакуація людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_06-22-13.mp4" length="2301926" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 06:22:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
