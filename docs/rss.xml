@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 06:31:13 +0000</lastBuildDate>
-    <item>
-      <title>Іранська ракета, яку не змогли</title>
-      <link>https://www.mandarinai.lt/post/88846</link>
-      <description>Іранська ракета, яку не змогли збити три залпи «Patriot»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-28_20-53-40.mp4" length="4002796" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 20:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Прильоти в Тель Авіві</title>
-      <link>https://www.mandarinai.lt/post/88847</link>
-      <description>💥Прильоти в Тель Авіві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-28_21-01-48.mp4" length="2598088" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 21:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴 Трамп вважає достовірними по</title>
-      <link>https://www.mandarinai.lt/post/88849</link>
-      <description>🔴 Трамп вважає достовірними повідомлення про загибель верховного лідера Ірану Алі Хаменеї, — ABC
-
-Президент США повідомив, що американо-ізраїльська операція «проходить дуже добре» і вже завдала нищівного удару. За його словами, значна частина іранського керівництва «виведена з ладу».
-
-Також він додав, що США мають «дуже хороше уявлення», хто може очолити Іран далі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-28_21-02-31.jpg" length="28247" type="image/jpeg"/>
-      <pubDate>Sat, 28 Feb 2026 21:02:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 07:24:23 +0000</lastBuildDate>
     <item>
       <title>Багатоповерхівка палає по всій</title>
       <link>https://www.mandarinai.lt/post/88850</link>
@@ -90,6 +65,31 @@
 На місці удару пожежа, проводиться евакуація людей</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_06-22-13.mp4" length="2301926" type="video/mp4"/>
       <pubDate>Sun, 01 Mar 2026 06:22:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Пакистані та Іраку натовп пр</title>
+      <link>https://www.mandarinai.lt/post/88860</link>
+      <description>В Пакистані та Іраку натовп проривається до американських дипустанов після оголошення про смерть аятоли Хаменеї.
+
+Нагадаємо, що влада Ірану офіційно підтвердила загибель верховного лідера Хаменеї, його дочки, онука, невістки, зятя, начальника Генерального штабу Збройних сил Ірану та глави Міністерства оборони країни</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_06-55-00.mp4" length="1626282" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 06:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окрім смерті верховного лідера</title>
+      <link>https://www.mandarinai.lt/post/88862</link>
+      <description>Окрім смерті верховного лідера Хаменеї, Іран також  офіційно  підтвердив загибель міністра оборони та ще трьох ключових високопоставлених військових
+
+Під час нічної атаки США та Ізраїлю загинули начальник штабу збройних сил Сейед Абдулрахім Мусаві, міністр оборони Алі Лариджані, головнокомандуючий КСІР Мохаммад Пакпур, а також секретар Ради оборони Алі Шамхані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_07-04-57.jpg" length="50084" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 07:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩русня занервувала</title>
+      <link>https://www.mandarinai.lt/post/88864</link>
+      <description>💩русня занервувала</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_07-18-23.mp4" length="2959073" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 07:18:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
