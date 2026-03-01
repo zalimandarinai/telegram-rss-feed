@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 04:10:22 +0000</lastBuildDate>
-    <item>
-      <title>Перший «шахед» долетів до Ізра</title>
-      <link>https://www.mandarinai.lt/post/88840</link>
-      <description>Перший «шахед» долетів до Ізраїлю і був перехоплений на маршруті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/0317b507-9494-4865-b920-02e6b8d682ed.mp4" length="15243700" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 18:31:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Влучання по складах ракет в І</title>
-      <link>https://www.mandarinai.lt/post/88841</link>
-      <description>💥Влучання по складах ракет в Ірані</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-28_18-46-48.mp4" length="1284794" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 18:46:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кадри зняті зсередини будинку </title>
-      <link>https://www.mandarinai.lt/post/88842</link>
-      <description>Кадри зняті зсередини будинку в Бахрейні в момент удару іранського шахеда</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-02-28_18-48-49.mp4" length="359055" type="video/mp4"/>
-      <pubDate>Sat, 28 Feb 2026 18:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Ця війна призведе до миру – с</title>
-      <link>https://www.mandarinai.lt/post/88843</link>
-      <description>🔴Ця війна призведе до миру – справжнього миру. У найближчі дні буде завдано удар по тисячам цілей, - Нетаньягу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-28_19-19-35.jpg" length="59750" type="image/jpeg"/>
-      <pubDate>Sat, 28 Feb 2026 19:19:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 05:42:33 +0000</lastBuildDate>
     <item>
       <title>Лідера Ірану Аятолу Хаменеї — </title>
       <link>https://www.mandarinai.lt/post/88844</link>
@@ -93,6 +65,31 @@
 Верховного лідера Ірану вбили на робочому місці в його резиденції, коли розпочалася американсько-ізраїльська атака</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6648.MP4" length="14667646" type="video/mp4"/>
       <pubDate>Sun, 01 Mar 2026 02:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Корпус вартових ісламської рев</title>
+      <link>https://www.mandarinai.lt/post/88854</link>
+      <description>Корпус вартових ісламської революції оголосив про атаки на 27 американських баз на Близькому Сході, — Al Jazeera
+
+КВІР заявляє, що здійснює шосту хвилю атак у відповідь на бомбардування Ірану США та Ізраїлем. За їхніми даними, було завдано ударів по 27 американських базах, а також по ізраїльській авіабазі Тель-Ноф, командному пунктові ізраїльської армії в Ха-Кір'ї в Тель-Авіві та великому ОПК в тому ж місті.
+
+КВІР також стверджують іранські сили «вживатимуть інших жорстких заходів помсти, завдаючи послідовних, руйнівних ударів»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_05-17-06.mp4" length="573932" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 05:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Дубаї зранку вибухи в район</title>
+      <link>https://www.mandarinai.lt/post/88855</link>
+      <description>💥В Дубаї зранку вибухи в районі аеропрту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_05-21-23.jpg" length="74682" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 05:21:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранці в Ісфагані вийшли на ву</title>
+      <link>https://www.mandarinai.lt/post/88858</link>
+      <description>Іранці в Ісфагані вийшли на вулиці з портретами загиблого Хаменеї та закликали до помсти, скандуючи «Смерть Америці»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_05-28-01.mp4" length="1858975" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 05:28:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
