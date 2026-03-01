@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 17:13:01 +0000</lastBuildDate>
-    <item>
-      <title>💥ЦАХАЛ оприлюднили кадри авіау</title>
-      <link>https://www.mandarinai.lt/post/88882</link>
-      <description>💥ЦАХАЛ оприлюднили кадри авіаударів ізраїльських ВПС по штаб-квартирі КВІР на півночі Тегерана.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_10-46-00.mp4" length="675299" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 10:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥👌Френдлі фаєр по - іранські.</title>
-      <link>https://www.mandarinai.lt/post/88884</link>
-      <description>💥🔥👌Френдлі фаєр по - іранські. КВІР в істериці гатить по всьому до чого дотягується, тож атакував власний нафтовий танкер ірано-російського тіньового флоту Skylight, який ходив під прапором Палау. 
-
-За попередніми даними, поранені чотири особи. 20 членів екіпажу евакуювали.
-Судно перевозило, зокрема, іранську нафту та перебуває під санкціями США та Європейського Союзу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_12-03-44.mp4" length="677002" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 12:03:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Протестувальники повалюють пам</title>
-      <link>https://www.mandarinai.lt/post/88886</link>
-      <description>Протестувальники повалюють пам’ятник колишньому верховному лідеру Ірану аятолі Рухоллі Хомейні після серії ударів з боку США та Ізраїлю.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6653.MP4" length="7183680" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 12:30:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 18:16:31 +0000</lastBuildDate>
     <item>
       <title>В Херсоні близько години тому </title>
       <link>https://www.mandarinai.lt/post/88887</link>
@@ -121,6 +97,22 @@
 https://rvv.com.ua/product/prysyaga-pryluczkogo-polku-1718-roku/</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_16-01-06.jpg" length="255141" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 16:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥США розпочали нову серію атак</title>
+      <link>https://www.mandarinai.lt/post/88899</link>
+      <description>💥США розпочали нову серію атак по Тегерану
+
+Мені одному здається, що атаку Ірану по американським базами в Перській затоці виглядають більш переконливо?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_17-58-04.jpg" length="65730" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 17:58:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗Армія оборони Ізраїлю заявила</title>
+      <link>https://www.mandarinai.lt/post/88902</link>
+      <description>❗Армія оборони Ізраїлю заявила про ліквідацію всіх високопоставлених керівників іранської терористичної мережі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_18-12-12.jpg" length="109652" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 18:12:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
