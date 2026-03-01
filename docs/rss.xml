@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 01:07:08 +0000</lastBuildDate>
-    <item>
-      <title>Близько двох сотень винищувачі</title>
-      <link>https://www.mandarinai.lt/post/88839</link>
-      <description>Близько двох сотень винищувачів Повітряних сил Ізраїлю здійснили масштабний удар по іранських ракетах та системах ППО.
-
-Це найбільший військовий авіаналіт в історії Ізраїлю. 
-
-Один із ударів був завданий по об’єкту в Тебризі на заході Ірану. Об’єкт використовувався підрозділом іранських ракет класу «земля-земля».
-
-Повітряні сили Ізраїлю продовжують діяти в Ірані. 
-
-Операцією керує генерал-майор Томер Бар, командувач Повітряних сил Ізраїлю.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-28_18-24-08.jpg" length="179294" type="image/jpeg"/>
-      <pubDate>Sat, 28 Feb 2026 18:24:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 04:10:22 +0000</lastBuildDate>
     <item>
       <title>Перший «шахед» долетів до Ізра</title>
       <link>https://www.mandarinai.lt/post/88840</link>
@@ -97,6 +82,17 @@
       <description>«Шахед» поцілив в аеропорт Дубая в Об'єднаних Арабських Еміратах, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-02-28_21-06-27.jpg" length="60914" type="image/jpeg"/>
       <pubDate>Sat, 28 Feb 2026 21:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранське державне телебачення </title>
+      <link>https://www.mandarinai.lt/post/88853</link>
+      <description>Іранське державне телебачення підтвердило загибель аятоли Алі Хаменеї
+
+Уряд Ірану оголосив 40-денну жалобу, пише Fars
+
+Верховного лідера Ірану вбили на робочому місці в його резиденції, коли розпочалася американсько-ізраїльська атака</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6648.MP4" length="14667646" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 02:01:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
