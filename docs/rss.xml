@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 10:13:04 +0000</lastBuildDate>
-    <item>
-      <title>В Дубаї сьогодні відпочивають </title>
-      <link>https://www.mandarinai.lt/post/88865</link>
-      <description>В Дубаї сьогодні відпочивають у бомбосховищах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_07-48-35.mp4" length="273625" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 07:48:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 11:10:39 +0000</lastBuildDate>
     <item>
       <title>«Ми всі цього чекали» — ірано-</title>
       <link>https://www.mandarinai.lt/post/88868</link>
@@ -83,6 +76,24 @@
       <description>Аятолла Арафі тимчасово виконуватиме обов’язки верховного лідера Ірану</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_10-00-03.jpg" length="75930" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 10:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡путін назвав смерть Хаменеї "</title>
+      <link>https://www.mandarinai.lt/post/88881</link>
+      <description>🤡путін назвав смерть Хаменеї "цинічним вбивством з порушенням усіх норм людської моралі та міжнародного права".
+
+За його словами, у росії Хаменеї будуть пам'ятати як "видатного державного діяча", який зробив "величезний внесок" у відносини між Іраном і рф.
+
+Ми теж пам'ятаємо цей "внесок" - тисячі шахедів, які вбивали мирних жителів України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_10-31-21.jpg" length="142403" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 10:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ЦАХАЛ оприлюднили кадри авіау</title>
+      <link>https://www.mandarinai.lt/post/88882</link>
+      <description>💥ЦАХАЛ оприлюднили кадри авіаударів ізраїльських ВПС по штаб-квартирі КВІР на півночі Тегерана.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_10-46-00.mp4" length="675299" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 10:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
