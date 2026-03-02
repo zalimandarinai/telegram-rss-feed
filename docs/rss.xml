@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 12:29:33 +0000</lastBuildDate>
-    <item>
-      <title>🫠«Якщо Іран мене вб’є — вони д</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🫠«Якщо Іран мене вб’є — вони дуже жорстко поплатяться. Усі інструкції я залишив», — Трамп
-
-Нагадаємо, що Тегеран відмовився вести переговори зі США</description>
-      <pubDate>Mon, 02 Mar 2026 06:09:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Іран повідомив про ураження</title>
-      <link>https://www.mandarinai.lt/post/88953</link>
-      <description>⚡️ Іран повідомив про ураження ядерного об'єкта в Натанзі. МАГАТЕ попереджає про небезпеку радіаційного витоку, — Times of India</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_09-36-33.jpg" length="92979" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 09:36:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇫🇷🗣 Франція готова долучитись </title>
-      <link>https://www.mandarinai.lt/post/88954</link>
-      <description>🇫🇷🗣 Франція готова долучитись до колективної оборони країн, які потрапили під атаки Ірану. 
-
-За словами глави МЗС країни, йдеться про Саудівську Аравію, ОАЕ, Катар, Ірак, Бахрейн, Кувейт, Оман та Йорданію, які були навмисно втягнуті у війну</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_09-47-30.mp4" length="2537261" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 09:47:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 13:50:18 +0000</lastBuildDate>
     <item>
       <title>Нічний удар по порту «Новоросі</title>
       <link>https://www.mandarinai.lt/post/88957</link>
@@ -71,6 +47,38 @@
 Сьогодні МВС Кіпру оголосило евакуацію одного з районів через загрозу повторних ударів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_11-59-30.mp4" length="1305676" type="video/mp4"/>
       <pubDate>Mon, 02 Mar 2026 11:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Сили оборони уразили центр да</title>
+      <link>https://www.mandarinai.lt/post/88966</link>
+      <description>💥Сили оборони уразили центр дальнього космічного звʼязку росіян в окупованому Криму, — Генштаб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_12-39-38.jpg" length="139341" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 12:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ізраїльські та американські уд</title>
+      <link>https://www.mandarinai.lt/post/88967</link>
+      <description>Ізраїльські та американські удари по Тегерану тривають</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6684.MP4" length="21784819" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 13:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні рф атакувала приміськ</title>
+      <link>https://www.mandarinai.lt/post/88969</link>
+      <description>Сьогодні рф атакувала приміський поїзд на Дніпропетровщині під час руху, одна людина загинула, семеро поранені, — міністр відновлення Кулеба</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_13-28-12.jpg" length="178112" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 13:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Газ в Європі може подорожчати </title>
+      <link>https://www.mandarinai.lt/post/88970</link>
+      <description>Газ в Європі може подорожчати на 130%, якщо закриється на місяць Ормузька протока.  
+
+Так стверджує інвестиційна компанія Goldman Sachs.
+
+Але поки що такий сценарій вважається гіпотетичним.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_13-34-43.jpg" length="129479" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 13:34:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
