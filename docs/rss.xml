@@ -6,20 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 22:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 23:14:10 +0000</lastBuildDate>
     <item>
       <title>Іранський «шахед» влетів у гот</title>
-      <link>https://www.mandarinai.lt/post/88982</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Іранський «шахед» влетів у готель у Бахрейні та поранив кількох працівників Пентагону, які там проживали</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_18-06-03.jpg" length="54248" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 18:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сили оборони України атакували</title>
-      <link>https://www.mandarinai.lt/post/88983</link>
-      <description>Сили оборони України атакували Євпаторійський авіаремонтний завод, - результат атаки на знімках</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6706.MP4" length="4523505" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 18:17:13 +0000</pubDate>
     </item>
     <item>
       <title>Окупанти скаржаться на німецьк</title>
@@ -70,6 +62,15 @@
       <description>Державний департамент США закликає американців терміново залишити всі держави Близького Сходу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_22-11-32.jpg" length="155534" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 22:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлене, як американська копі</title>
+      <link>https://www.mandarinai.lt/post/88997</link>
+      <description>Заявлене, як американська копія іранського «шахеда», яка не долетіла до цілі і впала десь в пустелі.
+
+Неофіційна назва дрона «Low-cost Uncrewed Combat Attack System», «Недорога безпілотна бойова ударна система». Експерти стверджують, що він побудований методом «зворотної інженерії», тобто за підсумками вивчення збитих або трофейних дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6718.MP4" length="3449381" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 22:24:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
