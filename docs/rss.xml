@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 04:01:07 +0000</lastBuildDate>
-    <item>
-      <title>💥Порт Новоросійська атакований</title>
-      <link>https://www.mandarinai.lt/post/88923</link>
-      <description>💥Порт Новоросійська атакований</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_21-03-00.mp4" length="301647" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 21:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>7 людей постраждали в Єрусалим</title>
-      <link>https://www.mandarinai.lt/post/88925</link>
-      <description>7 людей постраждали в Єрусалимі в результаті удару іранської ракети, — ізраїльські ЗМІ
-
-Зазначається, що один чоловік перебуває у важкому стані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-01_21-08-09.mp4" length="1361295" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 21:08:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 05:42:24 +0000</lastBuildDate>
     <item>
       <title>💥В Новоросійську трєвожно</title>
       <link>https://www.mandarinai.lt/post/88928</link>
@@ -67,6 +51,21 @@
 ⏯️ Про те, чи є шанс вийти зі стратегічного глухого кута, в якому опинились і ми, і росіяни, можна подивитись за посиланням наш репортаж повністю https://m.youtube.com/watch?v=gZQNccqhj5Y</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6673.MOV" length="30812066" type="video/mp4"/>
       <pubDate>Sun, 01 Mar 2026 23:30:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Іран не буде вести переговори</title>
+      <link>https://www.mandarinai.lt/post/88936</link>
+      <description>🔥Іран не буде вести переговори із США, заявив секретар Ради нацбезпеки Ірану.
+На фото Тегеран після нічної атаки США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_04-45-17.jpg" length="114998" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 04:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Винищувач Сполучених Штатів</title>
+      <link>https://www.mandarinai.lt/post/88938</link>
+      <description>⚡️ Винищувач Сполучених Штатів упав у Кувейті, пілот F-15 врятувався завдяки катапультуванню</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_05-41-38.mp4" length="1218282" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 05:41:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
