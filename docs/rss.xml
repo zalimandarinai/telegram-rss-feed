@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 18:29:28 +0000</lastBuildDate>
-    <item>
-      <title>Вже 9 населених пунктів на Оле</title>
-      <link>https://www.mandarinai.lt/post/88973</link>
-      <description>Вже 9 населених пунктів на Олександрівському напрямку звільнені угрупованням ДШВ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6695.MP4" length="15169250" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 15:37:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇫🇷☢️ Макрон наказав збільшити </title>
-      <link>https://www.mandarinai.lt/post/88975</link>
-      <description>🇫🇷☢️ Макрон наказав збільшити кількість ядерних боєголовок в арсеналі Франції, він також пропонує розмістити ядерні ракети в інших країнах НАТО 
-
-"Ми більше не будемо повідомляти про кількість нашого ядерного арсеналу Щоб бути вільними, нас мають боятися. Щоб нас боялися, ми повинні бути могутніми".
-Також президент повідомив, що Франція, Німеччина та Велика Британія будуть працювати разом над створенням ракет дальнього радіусу дії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_16-09-16.jpg" length="69986" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 16:09:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇩🇪 Німеччина не братиме участі</title>
-      <link>https://www.mandarinai.lt/post/88976</link>
-      <description>🇩🇪 Німеччина не братиме участі у війні проти Ірану, попри обстріли військовослужбовців Бундесверу та небезпеку, яку становить для неї іранський режим, — міністр закордонних справ Німеччини Йоганн Вадефуль в інтерв’ю «Deutschlandfunk».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_16-46-43.jpg" length="38689" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 16:46:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 19:28:08 +0000</lastBuildDate>
     <item>
       <title>СБУ викрила 16-річного підлітк</title>
       <link>https://www.mandarinai.lt/post/88977</link>
@@ -87,6 +63,33 @@
 ▫️автономне керування.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_18-26-52.jpg" length="29736" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 18:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знову спортсменам забороняють </title>
+      <link>https://www.mandarinai.lt/post/88987</link>
+      <description>Знову спортсменам забороняють українську символіку в Мілані.
+
+Форму з картою України в кордонах 1991-го року заборонили на Паралімпіаді-2026.
+
+На думку представників Міжнародного Паралімпійського комітету, форма команди є надто політичною: «Згідно з правилами МПК щодо форми для Паралімпійських ігор, тексти національних гімнів, мотиваційні слова, публічні чи політичні повідомлення, а також гасла, пов'язані з національною ідентичністю, заборонені».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_18-34-23.jpg" length="86215" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 18:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлене, як збита американськ</title>
+      <link>https://www.mandarinai.lt/post/88989</link>
+      <description>Заявлене, як збита американська льотчиця F-15E, якій житель Кувейту пропонує допомогу та промовляє слова підтримки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6712.MP4" length="1886775" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 18:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Десятки ракет Ірану атакують </title>
+      <link>https://www.mandarinai.lt/post/88990</link>
+      <description>💥Десятки ракет Ірану атакують штаб-квартиру 5-го оперативного флоту США у Манамі (столиця Бахрейну)
+
+Окрім того, іранські «шахеди» прицільно влучили по готелю у Бахрейні, в якому проживали офіційні особи Міноборони США – внаслідок атаки двоє постраждалих американських військових</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_18-43-19.mp4" length="3599676" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 18:43:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
