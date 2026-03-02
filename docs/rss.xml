@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 15:29:44 +0000</lastBuildDate>
-    <item>
-      <title>👀Кувейт випадково збив (!) три</title>
-      <link>https://www.mandarinai.lt/post/88960</link>
-      <description>👀Кувейт випадково збив (!) три американські винищувачі, прийнявши їх за ворожі, — Центральне командування США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_11-22-30.jpg" length="112216" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 11:22:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 16:28:56 +0000</lastBuildDate>
     <item>
       <title>❗️Греція після атакованої на К</title>
       <link>https://www.mandarinai.lt/post/88963</link>
@@ -68,6 +61,23 @@
       <description>Іранський безпілотник атакував нафтовий танкер MKD Fium, що ходить під прапором Маршаллових Островів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6689.MP4" length="2266722" type="video/mp4"/>
       <pubDate>Mon, 02 Mar 2026 15:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вже 9 населених пунктів на Оле</title>
+      <link>https://www.mandarinai.lt/post/88973</link>
+      <description>Вже 9 населених пунктів на Олександрівському напрямку звільнені угрупованням ДШВ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6695.MP4" length="15169250" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 15:37:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇫🇷☢️ Макрон наказав збільшити </title>
+      <link>https://www.mandarinai.lt/post/88975</link>
+      <description>🇫🇷☢️ Макрон наказав збільшити кількість ядерних боєголовок у арсеналі Франції, він також пропонує розмістити ядерні ракети в інших країнах НАТО 
+
+"Ми більше не будемо повідомляти про кількість нашого ядерного арсеналу Щоб бути вільними, нас мають боятися. Щоб нас боялися, ми повинні бути могутніми".
+Також президент повідомив, що Франція, Німеччина та Велика Британія будуть працювати разом над створенням ракет дальнього радіусу дії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_16-09-16.jpg" length="69986" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 16:09:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
