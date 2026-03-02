@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 14:33:53 +0000</lastBuildDate>
-    <item>
-      <title>Нічний удар по порту «Новоросі</title>
-      <link>https://www.mandarinai.lt/post/88957</link>
-      <description>Нічний удар по порту «Новоросійськ» це спільна операція Центру спецоперацій «Альфа» СБУ, ДПСУ, ГУР, СБС та ССО.
-
-За попередніми даними, безпілотники СБУ та інших українських формувань  уразили:
-
-▫️ військові кораблі, 
-▫️ радар наведення 30Н6Е2 комплексу С-300 ПМУ-2 «Фаворит», 
-▫️ ЗРГК «Панцир-С2», 
-▫️ шість із семи нафтоналивних стендерів на нафтовому терміналі «Шесхарис». 
-
-З ночі в порту палає масштабна пожежа.
-
-Цей термінал є одним із найбільших нафтоналивних комплексів із перевалки нафти й нафтопродуктів на півдні рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6681.MP4" length="525228" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 10:38:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 15:29:44 +0000</lastBuildDate>
     <item>
       <title>👀Кувейт випадково збив (!) три</title>
       <link>https://www.mandarinai.lt/post/88960</link>
@@ -79,6 +61,13 @@
 Але поки що такий сценарій вважається гіпотетичним.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_13-34-43.jpg" length="129479" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 13:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранський безпілотник атакував</title>
+      <link>https://www.mandarinai.lt/post/88971</link>
+      <description>Іранський безпілотник атакував нафтовий танкер MKD Fium, що ходить під прапором Маршаллових Островів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6689.MP4" length="2266722" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 15:03:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
