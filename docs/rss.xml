@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 23:12:24 +0000</lastBuildDate>
-    <item>
-      <title>Ісламісти, які підтримують Іра</title>
-      <link>https://www.mandarinai.lt/post/88920</link>
-      <description>Ісламісти, які підтримують Іран, намагаються штурмувати посольство США в Багдаді.
-
-Більшість арабів на території Іраку є послідовниками шиїтської гілки ісламу і через це Іран, шиїтська країна, має на сусідів дуже великий вплив.
-
-На території Іраку діють значні збройні формування під контролем Тегерана.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6667.MP4" length="4242887" type="video/mp4"/>
-      <pubDate>Sun, 01 Mar 2026 20:25:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 01:00:23 +0000</lastBuildDate>
     <item>
       <title>💥Порт Новоросійська атакований</title>
       <link>https://www.mandarinai.lt/post/88923</link>
@@ -63,6 +52,21 @@
       <description>❗️Україна готова допомогти Європі в захисті її повітряного простору на тлі загострення напруженості на Близькому Сході, — Моссад з посиланням на Зеленського</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-01_22-53-06.jpg" length="58255" type="image/jpeg"/>
       <pubDate>Sun, 01 Mar 2026 22:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪖 Єдиним дієвим вирішенням про</title>
+      <link>https://www.mandarinai.lt/post/88934</link>
+      <description>🪖 Єдиним дієвим вирішенням проблеми FPV-дронів, які атакують логістику, станом на сьогодні є мобільні групи стрільців вздовж доріг, озброєні автоматами та дробовиками.
+
+🧶 Ключова проблема - оптоволокно, яке не бачить РЕБ.
+
+⚔️ Одна з таких груп 93-ої бригади взяла нас з собою на полювання за російськими дронами, і хлопцям вдалось відбити атаку по автівці з військовими.
+
+⚠️ Дрони змінили характер бойових дій, важка зброя використовується дуже обмежено.
+
+⏯️ Про те, чи є шанс вийти зі стратегічного глухого кута, в якому опинились і ми, і росіяни, можна подивитись за посиланням наш репортаж повністю https://m.youtube.com/watch?v=gZQNccqhj5Y</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6673.MOV" length="30812066" type="video/mp4"/>
+      <pubDate>Sun, 01 Mar 2026 23:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
