@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 09:35:08 +0000</lastBuildDate>
-    <item>
-      <title>❗️Україна готова допомогти Євр</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️Україна готова допомогти Європі в захисті її повітряного простору на тлі загострення напруженості на Близькому Сході, — Моссад з посиланням на Зеленського</description>
-      <pubDate>Sun, 01 Mar 2026 22:53:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥В Новоросійську вночі було з</title>
-      <link>https://www.mandarinai.lt/post/88941</link>
-      <description>💥🔥В Новоросійську вночі було завдано удару по нафтовому терміналу. Досі горить.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_05-52-53.mp4" length="1283308" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 05:52:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 10:32:43 +0000</lastBuildDate>
     <item>
       <title>🫠«Якщо Іран мене вб’є — вони д</title>
       <link>https://www.mandarinai.lt/post/88943</link>
@@ -66,6 +53,29 @@
       <description>Іранський безпілотник вдарив по нафтовому об'єкту Саудівської Аравії — Saudi Aramco, що спричинило сильну пожежу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_08-41-01.mp4" length="4925172" type="video/mp4"/>
       <pubDate>Mon, 02 Mar 2026 08:41:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Іран повідомив про ураження</title>
+      <link>https://www.mandarinai.lt/post/88953</link>
+      <description>⚡️ Іран повідомив про ураження ядерного об'єкта в Натанзі. МАГАТЕ попереджає про небезпеку радіаційного витоку, — Times of India</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_09-36-33.jpg" length="92979" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 09:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇫🇷🗣 Франція готова долучитись </title>
+      <link>https://www.mandarinai.lt/post/88954</link>
+      <description>🇫🇷🗣 Франція готова долучитись до колективної оборони країн, які потрапили під атаки Ірану. 
+
+За словами глави МЗС країни, йдеться про Саудівську Аравію, ОАЕ, Катар, Ірак, Бахрейн, Кувейт, Оман та Йорданію, які були навмисно втягнуті у війну</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_09-47-30.mp4" length="2537261" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 09:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іран демонструє кадри ураження</title>
+      <link>https://www.mandarinai.lt/post/88956</link>
+      <description>Іран демонструє кадри ураження корабля ВМС США своєю ракетою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6676.MP4" length="6827641" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 10:05:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
