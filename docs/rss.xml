@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 17:34:40 +0000</lastBuildDate>
-    <item>
-      <title>Сьогодні рф атакувала приміськ</title>
-      <link>https://www.mandarinai.lt/post/88969</link>
-      <description>Сьогодні рф атакувала приміський поїзд на Дніпропетровщині під час руху, одна людина загинула, семеро поранені, — міністр відновлення Кулеба</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_13-28-12.jpg" length="178112" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 13:28:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Газ в Європі може подорожчати </title>
-      <link>https://www.mandarinai.lt/post/88970</link>
-      <description>Газ в Європі може подорожчати на 130%, якщо закриється на місяць Ормузька протока.  
-
-Так стверджує інвестиційна компанія Goldman Sachs.
-
-Але поки що такий сценарій вважається гіпотетичним.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_13-34-43.jpg" length="129479" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 13:34:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іранський безпілотник атакував</title>
-      <link>https://www.mandarinai.lt/post/88971</link>
-      <description>Іранський безпілотник атакував нафтовий танкер MKD Fium, що ходить під прапором Маршаллових Островів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6689.MP4" length="2266722" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 15:03:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 18:29:28 +0000</lastBuildDate>
     <item>
       <title>Вже 9 населених пунктів на Оле</title>
       <link>https://www.mandarinai.lt/post/88973</link>
@@ -82,6 +57,36 @@
       <description>Зеленський пропонує надати допомогу країнам Близького Сходу у боротьбі з «шахедами» в обмін на їхній вплив на росію для встановлення припинення вогню на фронті</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_17-26-57.jpg" length="99564" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 17:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранський «шахед» влетів у гот</title>
+      <link>https://www.mandarinai.lt/post/88982</link>
+      <description>Іранський «шахед» влетів у готель у Бахрейні та поранив кількох працівників Пентагону, які там проживали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_18-06-03.jpg" length="54248" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 18:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили оборони України атакували</title>
+      <link>https://www.mandarinai.lt/post/88983</link>
+      <description>Сили оборони України атакували Євпаторійський авіаремонтний завод, - результат атаки на знімках</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6706.MP4" length="4523505" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 18:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти скаржаться на німецьк</title>
+      <link>https://www.mandarinai.lt/post/88984</link>
+      <description>Окупанти скаржаться на німецький безпілотник HX-2 від компанії Helsing.
+
+Він виявився ефективним за рахунок багатьох переваг, і головна з них не тільки штучний інтелект, а можливість вимикати відеоканал перед атакою на ціль, таким чином, стандартні детектори не виявляють цей безпілотник.
+
+Його характеристики:
+▫️ вага 12 кг;
+▫️ дальність до 100 км;
+▫️ швидкість до 220 км/год.
+▫️ стійкість до засобів електронної боротьби; 
+▫️автономне керування.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_18-26-52.jpg" length="29736" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 18:26:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
