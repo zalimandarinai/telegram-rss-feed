@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 10:26:42 +0000</lastBuildDate>
-    <item>
-      <title>Державний департамент США закл</title>
-      <link>https://www.mandarinai.lt/post/88996</link>
-      <description>Державний департамент США закликає американців терміново залишити всі держави Близького Сходу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_22-11-32.jpg" length="155534" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 22:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заявлене, як американська копі</title>
-      <link>https://www.mandarinai.lt/post/88997</link>
-      <description>Заявлене, як американська копія іранського «шахеда», яка не долетіла до цілі і впала десь в пустелі.
-
-Неофіційна назва дрона «Low-cost Uncrewed Combat Attack System», «Недорога безпілотна бойова ударна система». Експерти стверджують, що він побудований методом «зворотної інженерії», тобто за підсумками вивчення збитих або трофейних дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6718.MP4" length="3449381" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 22:24:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐 США мають майже безмежні зап</title>
-      <link>https://www.mandarinai.lt/post/88999</link>
-      <description>😐 США мають майже безмежні запаси зброї, за допомогою якої можна вічно і дуже успішно вести війни, - Трамп
-
-Також Трамп знову звинуватив Байдена, що той витратив весь свій час і гроші на допомогу Україні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_06-34-19.jpg" length="78079" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 06:34:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 11:22:21 +0000</lastBuildDate>
     <item>
       <title>Іран будував підземні об'єкти,</title>
       <link>https://www.mandarinai.lt/post/89000</link>
@@ -91,6 +66,35 @@
       <description>"Дата-центр Amazon в ОАЕ вийшов з ладу через удари Ірану", - Reuters.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_10-24-41.jpg" length="113508" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 10:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️Іранські шахеди атакував наф</title>
+      <link>https://www.mandarinai.lt/post/89011</link>
+      <description>⚠️Іранські шахеди атакував нафтове родовище Фуджейра в ОАЕ, — Clash Report</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-03_10-27-18.mp4" length="1182824" type="video/mp4"/>
+      <pubDate>Tue, 03 Mar 2026 10:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Боєприпаси США та Ізраїлю мо</title>
+      <link>https://www.mandarinai.lt/post/89013</link>
+      <description>‼️Боєприпаси США та Ізраїлю можуть швидко закінчитися, якщо Іран продовжить інтенсивні атаки.
+
+Агентство Блумберг нагадує, що для перехоплення однієї цілі потрібні дві-три ракети ППО, а запаси, ймовірно, дуже низькі після протистояння з Іраном минулого літа.
+
+"Великим приводом для занепокоєння є ракетні перехоплювачі, особливо перехоплювачі балістичних ракет. Ми використовуємо їх швидше, ніж виробляємо їх", - цитує агентство фахівця американського аналітичного центру Стімсона Келлі Гріеко.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_10-38-39.jpg" length="154632" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 10:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Дрони-перехоплювачі знищили </title>
+      <link>https://www.mandarinai.lt/post/89014</link>
+      <description>🔥 Дрони-перехоплювачі знищили понад 1,5 тисячі російських БпЛА різних типів у минулому місяці, — Сирський 
+
+Головком повідомив, що ключова роль у протидії ворожим БпЛА вже переходить до саме таких дронів-перехоплювачів. Наприклад, у Києві та околицях, у лютому їхня частка в ураженні ворожих «шахедів» склала понад 70%.
+ 
+Працюємо з виробниками над підвищенням ефективності застосування різних моделей дронів-перехоплювачів. Продовжуємо формування та навчання екіпажів цих БпЛА. Комплектуємо дивізіони ППО безпілотних систем.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_10-43-43.jpg" length="92285" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 10:43:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
