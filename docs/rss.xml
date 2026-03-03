@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 06:34:34 +0000</lastBuildDate>
-    <item>
-      <title>Іранський «шахед» влетів у гот</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Іранський «шахед» влетів у готель у Бахрейні та поранив кількох працівників Пентагону, які там проживали</description>
-      <pubDate>Mon, 02 Mar 2026 18:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Знову спортсменам забороняють </title>
-      <link>https://www.mandarinai.lt/post/88987</link>
-      <description>Знову спортсменам забороняють українську символіку в Мілані.
-
-Форму з картою України в кордонах 1991-го року заборонили на Паралімпіаді-2026.
-
-На думку представників Міжнародного Паралімпійського комітету, форма команди є надто політичною: «Згідно з правилами МПК щодо форми для Паралімпійських ігор, тексти національних гімнів, мотиваційні слова, публічні чи політичні повідомлення, а також гасла, пов'язані з національною ідентичністю, заборонені».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_18-34-23.jpg" length="86215" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 18:34:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заявлене, як збита американськ</title>
-      <link>https://www.mandarinai.lt/post/88989</link>
-      <description>Заявлене, як збита американська льотчиця F-15E, якій житель Кувейту пропонує допомогу та промовляє слова підтримки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6712.MP4" length="1886775" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 18:41:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 07:33:56 +0000</lastBuildDate>
     <item>
       <title>💥Десятки ракет Ірану атакують </title>
       <link>https://www.mandarinai.lt/post/88990</link>
@@ -64,6 +40,43 @@
 Також Трамп знову звинуватив Байдена, що той витратив весь свій час і гроші на допомогу Україні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_06-34-19.jpg" length="78079" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 06:34:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іран будував підземні об'єкти,</title>
+      <link>https://www.mandarinai.lt/post/89000</link>
+      <description>Іран будував підземні об'єкти, які через кілька місяців зробили б його ракетну та ядерну програму недосяжною, — Нетаньяху
+
+За словами прем'єр-міністра Ізраїлю, Тегеран створював нові локації та бункери для розвитку балістичної програми та виробництва атомної бомби:
+
+«Якби заходи не були вжиті зараз, їх уже неможливо було б вжити в майбутньому».
+
+Раніше спецпредставник США Стів Віткофф повідомив, що на перших переговорах іранські представники "прямо і без сорому" заявили про наявність 460 кг урану, збагаченого до 60%:
+
+«Це було початком їхньої переговорної позиції. Вони пишалися тим, що обійшли протоколи нагляду і змогли наблизитися до створення 11 бомб».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-03_06-40-00.mp4" length="1120520" type="video/mp4"/>
+      <pubDate>Tue, 03 Mar 2026 06:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Іран копіює тактику рф під ч</title>
+      <link>https://www.mandarinai.lt/post/89002</link>
+      <description>❗️Іран копіює тактику рф під час ударів по країнам Близького Сходу, — WSJ 
+
+Тегеран застосовує принцип масованих комбінованих атак із залученням ракет та безпілотників, щоб перевантажити та подолати протиповітряну оборону країн-цілей, пише видання. 
+
+Аналітики зазначають, що тактика схожа на ту, що Росія роками застосовує проти України: б'є по ключовим об'єктам інфраструктури, намагається психологічно виснажити населення та завдає значних економічних збитків. 
+
+І хоча іранські безпілотники не здатні завдати такої шкоди як арсенал з тисяч ракет, їхня дешевизна та відносно простий процес виробництва стають складним випробовуванням для ППО країн Перської затоки. 
+
+За декілька днів іранські безпілотники та ракети успішно уразили цивільні аеропорти, морські порти та інші ключові об'єкти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_07-27-31.jpg" length="155502" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 07:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Україна отримала перший тран</title>
+      <link>https://www.mandarinai.lt/post/89004</link>
+      <description>‼️Україна отримала перший транш у $1,5 млрд від МВФ за новою чотирирічною програмою, — Свириденко.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_07-31-14.jpg" length="76061" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 07:31:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
