@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 09:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 10:26:42 +0000</lastBuildDate>
     <item>
       <title>Державний департамент США закл</title>
       <link>https://www.mandarinai.lt/post/88996</link>
@@ -84,6 +84,13 @@
       <description>⚡️ США готують нову хвилю ударів по Ірану впродовж 24 годин і планують атакувати виробництво ракет, дронів та морські об’єкти, — CNN.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_08-14-29.jpg" length="35393" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 08:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Дата-центр Amazon в ОАЕ вийшо</title>
+      <link>https://www.mandarinai.lt/post/89010</link>
+      <description>"Дата-центр Amazon в ОАЕ вийшов з ладу через удари Ірану", - Reuters.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_10-24-41.jpg" length="113508" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 10:24:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
