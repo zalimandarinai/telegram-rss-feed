@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 13:49:45 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ США готують нову хвилю удар</title>
-      <link>https://www.mandarinai.lt/post/89006</link>
-      <description>⚡️ США готують нову хвилю ударів по Ірану впродовж 24 годин і планують атакувати виробництво ракет, дронів та морські об’єкти, — CNN.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_08-14-29.jpg" length="35393" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 08:14:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 14:34:24 +0000</lastBuildDate>
     <item>
       <title>"Дата-центр Amazon в ОАЕ вийшо</title>
       <link>https://www.mandarinai.lt/post/89010</link>
@@ -64,7 +57,7 @@
     <item>
       <title>🚫🇺🇸Вони хочуть переговорів, ал</title>
       <link>https://www.mandarinai.lt/post/89017</link>
-      <description>🚫🇺🇸Вони хочуть переговорів, але же "занадто пізно" вести переговори з Іраном, — Трамп
+      <description>🚫🇺🇸Вони хочуть переговорів, але вже "занадто пізно" вести переговори з Іраном, — Трамп
 
 "Їх ППО, військово-повітряні сили, флот і керівництво знищені. Вони хочуть говорити, але вже занадто пізно", — написав президент США в соціальній мережі Truth.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_12-54-04.jpg" length="115006" type="image/jpeg"/>
@@ -85,6 +78,21 @@
       <link>https://www.mandarinai.lt/post/89019</link>
       <description>Ізраїльські літаки сьогодні здійснили 60 ударів по іранській території, спаливши транспорт, який перевозив балістичні ракети, та пускові установки.</description>
       <pubDate>Tue, 03 Mar 2026 13:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Іранська ракета обійшла сис</title>
+      <link>https://www.mandarinai.lt/post/89020</link>
+      <description>❗️ Іранська ракета обійшла системи протиповітряної оборони, - попередні висновки щодо випадку, коли шестеро військовослужбовців США стали жертвами прямого іранського удару по тимчасовому оперативному центру в Кувейті.
+
+Джерело, обізнане з ситуацією, повідомило, що це було пряме влучання близико 9:00 за місцевим часом в центр приміщення, яке описане, як пересувний офіс, зчеплений з трьох частин.
+
+За словами джерела, удар стався швидко без жодного попередження або сирен.
+
+Через кілька годин після атаки будівля ще горіла.
+
+Всередині імпровізованого оперативного центру все було почорніле від вогню, а стіни вибуховою хвилею вигнуло назовні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/recording-2026-03-01-181240.mp4" length="578478" type="video/mp4"/>
+      <pubDate>Tue, 03 Mar 2026 14:06:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
