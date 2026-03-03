@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 07:33:56 +0000</lastBuildDate>
-    <item>
-      <title>💥Десятки ракет Ірану атакують </title>
-      <link>https://www.mandarinai.lt/post/88990</link>
-      <description>💥Десятки ракет Ірану атакують штаб-квартиру 5-го оперативного флоту США у Манамі (столиця Бахрейну)
-
-Окрім того, іранські «шахеди» прицільно влучили по готелю у Бахрейні, в якому проживали офіційні особи Міноборони США – внаслідок атаки двоє постраждалих американських військових</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-02_18-43-19.mp4" length="3599676" type="video/mp4"/>
-      <pubDate>Mon, 02 Mar 2026 18:43:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 08:26:02 +0000</lastBuildDate>
     <item>
       <title>Державний департамент США закл</title>
       <link>https://www.mandarinai.lt/post/88996</link>
@@ -72,11 +63,27 @@
       <pubDate>Tue, 03 Mar 2026 07:27:31 +0000</pubDate>
     </item>
     <item>
+      <title>⚡️Війська Ізраїлю почали опера</title>
+      <link>https://www.mandarinai.lt/post/89003</link>
+      <description>⚡️Війська Ізраїлю почали операцію на півдні Лівану  – ізраїльська армія.
+
+Ізраїль завдає ударів по терористичній інфраструктурі «Хезболли», щоб усунути загрози та запобігти спробам проникнення на територію Ізраїлю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6719.MP4" length="7955136" type="video/mp4"/>
+      <pubDate>Tue, 03 Mar 2026 07:30:36 +0000</pubDate>
+    </item>
+    <item>
       <title>‼️Україна отримала перший тран</title>
       <link>https://www.mandarinai.lt/post/89004</link>
       <description>‼️Україна отримала перший транш у $1,5 млрд від МВФ за новою чотирирічною програмою, — Свириденко.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_07-31-14.jpg" length="76061" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 07:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ США готують нову хвилю удар</title>
+      <link>https://www.mandarinai.lt/post/89006</link>
+      <description>⚡️ США готують нову хвилю ударів по Ірану впродовж 24 годин і планують атакувати виробництво ракет, дронів та морські об’єкти, — CNN.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_08-14-29.jpg" length="35393" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 08:14:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
