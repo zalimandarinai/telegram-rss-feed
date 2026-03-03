@@ -6,28 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 05:39:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:34:34 +0000</lastBuildDate>
     <item>
       <title>Іранський «шахед» влетів у гот</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Іранський «шахед» влетів у готель у Бахрейні та поранив кількох працівників Пентагону, які там проживали</description>
       <pubDate>Mon, 02 Mar 2026 18:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти скаржаться на німецьк</title>
-      <link>https://www.mandarinai.lt/post/88984</link>
-      <description>Окупанти скаржаться на німецький безпілотник HX-2 від компанії Helsing.
-
-Він виявився ефективним за рахунок багатьох переваг, і головна з них не тільки штучний інтелект, а можливість вимикати відеоканал перед атакою на ціль, таким чином, стандартні детектори не виявляють цей безпілотник.
-
-Його характеристики:
-▫️ вага 12 кг;
-▫️ дальність до 100 км;
-▫️ швидкість до 220 км/год.
-▫️ стійкість до засобів електронної боротьби; 
-▫️автономне керування.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-02_18-26-52.jpg" length="29736" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 18:26:52 +0000</pubDate>
     </item>
     <item>
       <title>Знову спортсменам забороняють </title>
@@ -71,6 +55,15 @@
 Неофіційна назва дрона «Low-cost Uncrewed Combat Attack System», «Недорога безпілотна бойова ударна система». Експерти стверджують, що він побудований методом «зворотної інженерії», тобто за підсумками вивчення збитих або трофейних дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6718.MP4" length="3449381" type="video/mp4"/>
       <pubDate>Mon, 02 Mar 2026 22:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐 США мають майже безмежні зап</title>
+      <link>https://www.mandarinai.lt/post/88999</link>
+      <description>😐 США мають майже безмежні запаси зброї, за допомогою якої можна вічно і дуже успішно вести війни, - Трамп
+
+Також Трамп знову звинуватив Байдена, що той витратив весь свій час і гроші на допомогу Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-03_06-34-19.jpg" length="78079" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 06:34:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
