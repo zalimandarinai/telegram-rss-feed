@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Mar 2026 17:28:58 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Підводний човен потопив іра</title>
-      <link>https://www.mandarinai.lt/post/89066</link>
-      <description>⚡️ Підводний човен потопив іранський фрегат IRIS «Dena» за 40 міль від берегів Шрі-Ланки, місцеве телебачення повідомляє, що з борту корабля врятовані 32 іранські моряки
-
-Як він там опинився.
-
-Іранський фрегат брав участь у Міжнародному огляді флоту в Індії. Після огляду флоту 20 лютого корабель пришвартувався в індійському портовому місті Вішакапатнам. Того ж дня командувач іранських ВМС Шахрам Ірані, зустрівся з начальником штабу ВМС Індії Дінешем Тріпаті. Після початку бойових дій корабель був виведений в море, рухався на південь  і встиг дійти до Шри-Ланки.</description>
-      <pubDate>Wed, 04 Mar 2026 11:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫠 Великі мережі АЗС в Україні </title>
-      <link>https://www.mandarinai.lt/post/89067</link>
-      <description>🫠 Великі мережі АЗС в Україні підвищили ціни на паливо, скориставшись ситуацією на Близькому Сході, хоча насправді український ринок поки що ніяк не постраждав від цього, - DeepState
-
-Проект, посилаючись на джерела в паливних компаніях, пише, що у великих мереж залишаються запаси палива, придбаного за попередніми цінами, приблизно на місяць. Реальний вплив ситуації в Перській затоці на ринок може проявитися лише пізніше, однак найбільші гравці вже підвищили ціни і, за попередньою інформацією, не планують їх знижувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-04_11-19-36.mp4" length="958451" type="video/mp4"/>
-      <pubDate>Wed, 04 Mar 2026 11:19:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Mar 2026 18:30:30 +0000</lastBuildDate>
     <item>
       <title>Наші джерела в СБУ підтвердили</title>
       <link>https://www.mandarinai.lt/post/89068</link>
@@ -97,6 +78,32 @@
 Ракети PrSM запускають з пускових установок M142 HIMARS, також планується їх запускати з кораблів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6753.MP4" length="7546784" type="video/mp4"/>
       <pubDate>Wed, 04 Mar 2026 17:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>А наші десантники тим часом зн</title>
+      <link>https://www.mandarinai.lt/post/89080</link>
+      <description>А наші десантники тим часом знищили російський склад техніки на Курщині.
+
+Оператори ударних БпЛА 80-Ї окремої десантно-штурмової бригади провели розвідку на території росії.
+
+Поруч з кордоном виявили склад з «буханками», квадроциклом та позашляховиками. 
+
+Все це ворог використовував для транспортування своїх військових і необхідних припасів до Сумської області. 
+
+Тож оператори вирішили  зменшити наступальний потенціал противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6754.MP4" length="4342502" type="video/mp4"/>
+      <pubDate>Wed, 04 Mar 2026 17:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Українці допомагатимуть в с</title>
+      <link>https://www.mandarinai.lt/post/89081</link>
+      <description>⚡️ Українці допомагатимуть в стабілізації ситуації на Близькому Сході.
+
+💬 «Українські експерти працюватимуть на місці, і команди про це вже домовляються», - Зеленський
+
+➡️ Обіцяє «надати допомогу таким чином, щоб це не послабило наш власний захист тут, в Україні».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-04_18-04-32.jpg" length="139526" type="image/jpeg"/>
+      <pubDate>Wed, 04 Mar 2026 18:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
