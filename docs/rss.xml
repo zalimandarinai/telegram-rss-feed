@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 17:57:48 +0000</lastBuildDate>
-    <item>
-      <title>В СБУ розкрили деталі ураження</title>
-      <link>https://www.mandarinai.lt/post/89121</link>
-      <description>В СБУ розкрили деталі ураження фрегата «Адмірал Ессен»: корабель більше не може бити «Калібрами» по Україні
-
-Під час атаки на порт «Новоросійськ» у ніч на 2 березня СБУ разом із Силами оборони уразили фрегат «Адмірал Ессен» — носій восьми крилатих ракет «Калібр». Удар припав по середній надбудові корабля. Унаслідок цього:
-
-* Вибухнули гранатомети відстрілу теплових пасток і розсіювачів радіосигналу;
-* Пошкоджено комплекс радіоелектронної боротьби ТК-25, який виявляє радіолокаційне випромінювання та створює перешкоди;
-* Уражено радари підсвічування цілей ЗР-90 «Орєх», що входять до системи наведення корабельного зенітного ракетного комплексу;
-* Ймовірно пошкоджено основний оглядовий радар «Фрегат-М2М», який відповідає за дальнє виявлення повітряних і надводних цілей.
-
-Корабель отримав критичні пошкодження, які суттєво обмежують можливість застосування ним крилатих ракет «Калібр». Наразі фрегат не може завдавати ударів по території України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_11-48-55.jpg" length="146442" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 11:48:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 19:04:10 +0000</lastBuildDate>
     <item>
       <title>😳У Німеччині проходять масштаб</title>
       <link>https://www.mandarinai.lt/post/89124</link>
@@ -103,6 +87,20 @@ https://i.goit.global/vaue6</description>
 Платформу ворог використовував як пункт спостереження, розміщення засобів РЕБ та ППО ближньої дії для управління ударними БпЛА, які були націлені на удари по Одещині та Миколаївщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-05_17-26-27.mp4" length="2735481" type="video/mp4"/>
       <pubDate>Thu, 05 Mar 2026 17:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>путін готовий до угоди, а Зеле</title>
+      <link>https://www.mandarinai.lt/post/89136</link>
+      <description>путін готовий до угоди, а Зеленський є перешкодою для угоди, - Трамп знов генерує свої традиційні месіджи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_18-04-26.jpg" length="107754" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 18:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уряд Фінляндії повністю скасує</title>
+      <link>https://www.mandarinai.lt/post/89137</link>
+      <description>Уряд Фінляндії повністю скасує заборону на розміщення ядерної зброї на території північної країни, — Антті Хакканен, міністр оборони Фінляндії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_18-51-53.jpg" length="75185" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 18:51:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
