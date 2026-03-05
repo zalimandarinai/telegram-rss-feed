@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 12:31:18 +0000</lastBuildDate>
-    <item>
-      <title>Іранські бомбардувальники Су-2</title>
-      <link>https://www.mandarinai.lt/post/89112</link>
-      <description>Іранські бомбардувальники Су-24МК були в двох хвилинах від Аль-Удейд, найбільшої військової бази Сполучених Штатів на Близькому Сході, перш ніж їх збили катарські літаки, - CNN</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_09-41-33.jpg" length="79170" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 09:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Китай наказав своїм НПЗ приз</title>
-      <link>https://www.mandarinai.lt/post/89113</link>
-      <description>‼️Китай наказав своїм НПЗ призупинити експорт дизелю та бензину через загрозу порушення глобальних поставок</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_09-41-43.jpg" length="26982" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 09:41:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 13:52:42 +0000</lastBuildDate>
     <item>
       <title>Оператори дронів Сил спеціальн</title>
       <link>https://www.mandarinai.lt/post/89115</link>
@@ -102,6 +88,24 @@ AASM Hammer — комплект додаткового обладнання, щ
 👉Завдяки блоку наведення з інерціальним, супутниковим, лазерним або інфрачервоним типом наведення ці бомби влучають у ціль з відхиленням до 10 м. Прискорювач дозволяє знищувати ворожі об’єкти на відстані до 70 км. Тому літаки мають змогу скидати їх на безпечній відстані від зони ураження.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_12-29-04.jpg" length="56486" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 12:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🫠 Іран має вибачитися і поясни</title>
+      <link>https://www.mandarinai.lt/post/89126</link>
+      <description>🫠 Іран має вибачитися і пояснити атаку на аеророрт в Нахічевань Азербайджан не буде брати участь в операціях проти Ірану, — Алієв.
+
+В Тегерані стверджують, що аеропорт в Азербайджані атакував не іранський, а ізраїльський безпілотник</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_12-33-39.jpg" length="139444" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 12:33:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥹🇺🇦Наші вдома! З російського п</title>
+      <link>https://www.mandarinai.lt/post/89127</link>
+      <description>🥹🇺🇦Наші вдома! З російського полону сьогодні додому повернулись 200 українців
+
+Завтра другий етап обміну - ще 300 військових та цивільних чекаємо в Україні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_12-41-42.jpg" length="217354" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 12:41:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
