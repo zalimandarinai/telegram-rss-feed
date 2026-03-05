@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 08:26:10 +0000</lastBuildDate>
-    <item>
-      <title>💥НПЗ в Саратові атакують БпЛА</title>
-      <link>https://www.mandarinai.lt/post/89090</link>
-      <description>💥НПЗ в Саратові атакують БпЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-04_20-16-17.mp4" length="292429" type="video/mp4"/>
-      <pubDate>Wed, 04 Mar 2026 20:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Іран вдарить по ядерному реа</title>
-      <link>https://www.mandarinai.lt/post/89091</link>
-      <description>❗️Іран вдарить по ядерному реактору Дімона в Ізраїлі, якщо США та Ізраїль спробують змінити режим в країні, — Iran Nuances з посиланням на військових</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-04_20-22-00.jpg" length="49923" type="image/jpeg"/>
-      <pubDate>Wed, 04 Mar 2026 20:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥У Саратові вечірні розваги. Р</title>
-      <link>https://www.mandarinai.lt/post/89092</link>
-      <description>💥У Саратові вечірні розваги. Результати уточнюються</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-04_21-16-45.mp4" length="188543" type="video/mp4"/>
-      <pubDate>Wed, 04 Mar 2026 21:16:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 09:30:03 +0000</lastBuildDate>
     <item>
       <title>🔴Іран відігравав важливу роль </title>
       <link>https://www.mandarinai.lt/post/89096</link>
@@ -68,6 +47,48 @@
       <description>❗️ Ви ще не бачили, щоб «шахед» летів так низько. Буквально на рівні дахів 5-поверхових «хрущовок». Саме на таких низьких висотах противник атакує Миргород. Він намагається, щоб безпілотник подолав системи ППО, адже, поки він йде на такій висоті над містом, МВГ в нього стріляти не будуть.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6764.MP4" length="2097804" type="video/mp4"/>
       <pubDate>Thu, 05 Mar 2026 08:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴«Ми б'ємо їх, коли вони лежат</title>
+      <link>https://www.mandarinai.lt/post/89103</link>
+      <description>🔴«Ми б'ємо їх, коли вони лежать, і саме так і має бути» — міністр Хегсет
+
+Міністр війни США дав зрозуміти, що не варто очікувати швидкого завершення бойових дій. І це лише початок. 
+
+За його словами, вже досягнуті результати — «неймовірні, історичні». Американські та ізраїльські збройні сили завдають ударів вдень і вночі. Будуть нові хвилі ударів, і операція буде «прискорюватися, а не сповільнюватися»,
+
+«Бомбардувальники, безпілотники Predator і винищувачі контролюють повітряний простір, вибирають цілі і весь день несуть смерть і руйнування з неба. Ми не тягнемо час — ми граємо на перемогу. Військові можливості Ірану зменшуються з кожною годиною, тоді як американська сила зростає. Сьогодні прибувають нові бомбардувальники і винищувачі. Ми будемо застосовувати високоточні бомби з лазерним наведенням, запасів яких у нас майже необмежено», — сказав Хегсет.
+
+При цьому Хегсет дав зрозуміти, що пощади режиму мулл, який він назвав «терористичним», не буде: 
+
+«Це не мало бути чесним боєм, і це не чесний бій. Ми б'ємо їх, коли вони лежать, і саме так і має бути».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_08-32-51.jpg" length="88300" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 08:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранський ударний безпілотник </title>
+      <link>https://www.mandarinai.lt/post/89104</link>
+      <description>Іранський ударний безпілотник щойно вдарив по Нахічеваньському аеропорту в Азербайджані</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6765.MP4" length="6409710" type="video/mp4"/>
+      <pubDate>Thu, 05 Mar 2026 08:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Двоє людей поранені внаслідо</title>
+      <link>https://www.mandarinai.lt/post/89106</link>
+      <description>⚡️Двоє людей поранені внаслідок атаки БпЛА з Ірану на Азербайджан, — МЗС країни
+
+Один БПЛА влучив у будівлю терміналу аеропорту Нахічеваня, інший — впав поблизу будівлі школи в селі Шекерабад.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-05_08-55-44.mp4" length="458518" type="video/mp4"/>
+      <pubDate>Thu, 05 Mar 2026 08:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росія наразі виграє від війн</title>
+      <link>https://www.mandarinai.lt/post/89110</link>
+      <description>⚡️росія наразі виграє від війни з Іраном. Ціна на російську нафту Urals різко виросла до 70 доларів за барель
+
+Нагадаємо, що в бюджеті рф на 2026 рік закладена ціна на нафту на рівні 59 доларів за барель. У той же час, як зазначало агентство Reuters, щоб російський бюджет став бездефіцитним, ціна на нафту має перевищувати 90 доларів за барель.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_09-11-05.jpg" length="16922" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 09:11:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
