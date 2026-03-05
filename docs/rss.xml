@@ -6,41 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 09:30:03 +0000</lastBuildDate>
-    <item>
-      <title>🔴Іран відігравав важливу роль </title>
-      <link>https://www.mandarinai.lt/post/89096</link>
-      <description>🔴Іран відігравав важливу роль у підтримці військових зусиль росії проти України через постачання дронів, —  генсек НАТО Рютте
-
-За його словами, нинішній повноцінний наступ Ізраїлю та США на Іран може обмежити здатність Тегерана поширювати свій вплив і підтримку навіть для росії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-05_04-39-53.mp4" length="3566706" type="video/mp4"/>
-      <pubDate>Thu, 05 Mar 2026 04:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>😱У Польщі масово затримують та</title>
-      <link>https://www.mandarinai.lt/post/89098</link>
-      <description>😱У Польщі масово затримують та висилають українців, –  МВС Польщі Кервінського.
-
-Причина - злочини та порушення термінів перебування. Лише за одну ніч 91 українець отримав рішення про примусове повернення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_05-33-03.jpg" length="112372" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 05:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В російському Армавірі приліт</title>
-      <link>https://www.mandarinai.lt/post/89099</link>
-      <description>💥В російському Армавірі приліт по промзоні, результати уточнюються</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-05_05-33-39.mp4" length="475973" type="video/mp4"/>
-      <pubDate>Thu, 05 Mar 2026 05:33:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Пентагон і країни Перської з</title>
-      <link>https://www.mandarinai.lt/post/89100</link>
-      <description>❗️Пентагон і країни Перської затоки планують закупку українських дронів-перехоплювачів для захисту від "шахедів", - FT.
-
-Україна розробила дешеві серійні дрони-перехоплювачі вартістю кілька тисяч доларів, що значно дешевше ракет Patriot, якими зараз збивають "шахедів".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_05-36-30.jpg" length="56267" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 05:36:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 10:26:38 +0000</lastBuildDate>
     <item>
       <title>❗️ Ви ще не бачили, щоб «шахед</title>
       <link>https://www.mandarinai.lt/post/89101</link>
@@ -89,6 +55,27 @@
 Нагадаємо, що в бюджеті рф на 2026 рік закладена ціна на нафту на рівні 59 доларів за барель. У той же час, як зазначало агентство Reuters, щоб російський бюджет став бездефіцитним, ціна на нафту має перевищувати 90 доларів за барель.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_09-11-05.jpg" length="16922" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 09:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранські бомбардувальники Су-2</title>
+      <link>https://www.mandarinai.lt/post/89112</link>
+      <description>Іранські бомбардувальники Су-24МК були в двох хвилинах від Аль-Удейд, найбільшої військової бази Сполучених Штатів на Близькому Сході, перш ніж їх збили катарські літаки, - CNN</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_09-41-33.jpg" length="79170" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 09:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Китай наказав своїм НПЗ приз</title>
+      <link>https://www.mandarinai.lt/post/89113</link>
+      <description>‼️Китай наказав своїм НПЗ призупинити експорт дизелю та бензину через загрозу порушення глобальних поставок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_09-41-43.jpg" length="26982" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 09:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів Сил спеціальн</title>
+      <link>https://www.mandarinai.lt/post/89115</link>
+      <description>Оператори дронів Сил спеціальних операцій ЗСУ знищили базу комплексу ППО С-400 у тимчасово окупованому Криму та склади пального російських військових на Донеччині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6767.MP4" length="25567364" type="video/mp4"/>
+      <pubDate>Thu, 05 Mar 2026 10:16:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
