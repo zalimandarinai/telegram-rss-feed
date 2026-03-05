@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 20:25:37 +0000</lastBuildDate>
-    <item>
-      <title>‼️Безкоштовно спробуйте AI-про</title>
-      <link>https://www.mandarinai.lt/post/89130</link>
-      <description>‼️Безкоштовно спробуйте AI-професію за 3 дні!
-
-Перейти в нову сферу складно: багато інформації, незрозуміло з чого почати, важко оцінити свої сили.
-
-🤖AI-напрям зараз один із найперспективніших — і водночас доступний навіть без технічного бекграунду.
-
-Тому ми запрошуємо вас на 3х денний інтенсив "АІ-автоматизація без програмування"
-
-⏺День1: Зробите сучасний, стильний лендинг без коду 
-
-⏺День2: Створите з нуля сучасного АІ агента 
-
-⏺День3: Навчитесь монетизувати та розвивати отриманні навички 
-
-🎁 Бонус за реєстрацію: Гайд "Як інтегрувати АІ у своє життя"
-
-Скоріш реєструйся та безкоштовно спробуй себе у ролі АІ-фахівця
-
-https://i.goit.global/vaue6</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_14-33-49.jpg" length="103661" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 14:33:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 21:22:04 +0000</lastBuildDate>
     <item>
       <title>🔥ВМС спільно з ССО уразили під</title>
       <link>https://www.mandarinai.lt/post/89134</link>
@@ -97,6 +72,13 @@ https://i.goit.global/vaue6</description>
       <description>⚡️США направили на Близький Схід «літак Судного дня» E-6B Mercury, який використовується для зв'язку з підводними човнами, оснащеними ядерною зброєю</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_20-24-47.jpg" length="108175" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 20:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱Молитва за Трампа. Чому ніхто</title>
+      <link>https://www.mandarinai.lt/post/89146</link>
+      <description>😱Молитва за Трампа. Чому ніхто не здивований?)</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-05_21-15-45.mp4" length="2136153" type="video/mp4"/>
+      <pubDate>Thu, 05 Mar 2026 21:15:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
