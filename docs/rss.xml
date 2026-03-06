@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 19:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 20:17:59 +0000</lastBuildDate>
     <item>
       <title>Ризикована рятувальна операція</title>
       <link>https://www.mandarinai.lt/post/89188</link>
@@ -102,6 +102,19 @@
       <description>❗️ Влучне ураження російського гелікоптера Ка-27 під час спроби здійснити посадку на бурову платформу «Сиваш» в Чорному морі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6853.MP4" length="5334969" type="video/mp4"/>
       <pubDate>Fri, 06 Mar 2026 19:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Війна на Близькому Сході три</title>
+      <link>https://www.mandarinai.lt/post/89200</link>
+      <description>‼️Війна на Близькому Сході триватиме ще кілька тижнів, - Рубіо
+
+Держсекретар США Марко Рубіо в серії телефонних розмов з міністрами закордонних справ арабських країн  заявив, що війна, як очікується, триватиме ще кілька тижнів, повідомляє Axios з посиланням на джерела, безпосередньо знайомі з перебігом бесід.
+
+За словами співрозмовників видання, Рубіо підкреслив, що зараз основна увага військових зосереджена на іранських ракетних установках, складах і заводах.
+
+За словами джерел Axios, держсекретар заявив міністрам, що мета США — не зміна режиму. При цьому Рубіо чітко дав зрозуміти, що Вашингтон хоче бачити при владі в країні інших людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_19-28-07.jpg" length="51072" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 19:28:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
