@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 13:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 14:27:22 +0000</lastBuildDate>
     <item>
       <title>🫡 Українські військові за кіль</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -18,34 +18,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Росіяни захопили 19 жителів села Сопич на Сумщині, вивезли їх до Брянщини, а потім зняли з ними пропагандистський сюжет, який показали в новинах</description>
       <pubDate>Fri, 06 Mar 2026 09:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Серед затриманих Угорщиною вчо</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Серед затриманих Угорщиною вчора семи українських інкасаторів є ексгенерал української розвідки, який вийшов на пенсію, — Національна податково-митна служба країни</description>
-      <pubDate>Fri, 06 Mar 2026 10:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>росія передає Ірану розвідувал</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>росія передає Ірану розвідувальні дані, — чомусь дивується WP</description>
-      <pubDate>Fri, 06 Mar 2026 11:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Підрозділ ГУР «Примари» атакув</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Підрозділ ГУР «Примари» атакував цілі в тимчасово окупованому Криму.
-
-Було уражено:
-
-• сторожовий корабель проєкту 22460;
-• радіолокаційна станція зі складу комплексу С-400;
-• БПЛА «Форпост»;
-• морський буксир проєкту 1496М1;
-• корабель проєкту 16640;
-• десантний катер 02510 «БК-16»;
-• вертоліт Ка-27.</description>
-      <pubDate>Fri, 06 Mar 2026 11:28:40 +0000</pubDate>
     </item>
     <item>
       <title>Сьогодні відбувся ще один обмі</title>
@@ -64,6 +36,37 @@
       <description>Ізраїль заявляє, що 50 літаків скинули 100 бомб на підземний бункер в Тегерані, побудований для, того, щоб керівництво Ірану могло управляти обороною країни в критичних умовах.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6833.MP4" length="5722406" type="video/mp4"/>
       <pubDate>Fri, 06 Mar 2026 13:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Затримання українських інкасат</title>
+      <link>https://www.mandarinai.lt/post/89180</link>
+      <description>Затримання українських інкасаторів угорським спецпідрозділом. Для того, щоб затримати колишніх українських військових і машини з цінностями, які вони супроводжували, Орбан відправив цілий антитерористичний підрозділ. В фургонах $40 млн., €35 млн., 9 кг золота, де все це зараз знаходиться, невідомо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6835.MP4" length="11643211" type="video/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 13:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так сьогодні обміняли полонени</title>
+      <link>https://www.mandarinai.lt/post/89181</link>
+      <description>Так сьогодні обміняли полонених і повернули додому 300 військових.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6836.MP4" length="19931911" type="video/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 14:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти досі продовжують роби</title>
+      <link>https://www.mandarinai.lt/post/89182</link>
+      <description>Окупанти досі продовжують робити ставку на важкі механізовані штурми, але 3-ій армійський корпус практично доводить, що вони помиляються.
+
+Кілька підрозділів корпусу розвалили бронеколону росіян, академії намагалась наступати в бік Лимана.
+
+Спочатку колону бронетехніки ворога виявили оператори «KRAKEN¹⁶⁵⁴».
+
+Потім за ліквідацію ворога взялися дрони 3RD.BATT.  
+
+Щоб завадити піхоті противника спішитися, колону атакували дрони «Silver battalion» та арта. 
+
+За підтримки 3-ої ОШБР, 60-ої ОМБР та 63-ої ОМБР, вдалось нейтралізувати танк і три БМП.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6837.MP4" length="3939763" type="video/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 14:24:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
