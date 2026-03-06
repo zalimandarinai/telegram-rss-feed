@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 09:26:10 +0000</lastBuildDate>
-    <item>
-      <title>⚡️США направили на Близький Сх</title>
-      <link>https://www.mandarinai.lt/post/89144</link>
-      <description>⚡️США направили на Близький Схід «літак Судного дня» E-6B Mercury, який використовується для зв'язку з підводними човнами, оснащеними ядерною зброєю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-05_20-24-47.jpg" length="108175" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 20:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>😱Молитва за Трампа. Чому ніхто</title>
-      <link>https://www.mandarinai.lt/post/89146</link>
-      <description>😱Молитва за Трампа. Чому ніхто не здивований?)</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-05_21-15-45.mp4" length="2136153" type="video/mp4"/>
-      <pubDate>Thu, 05 Mar 2026 21:15:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 10:22:19 +0000</lastBuildDate>
     <item>
       <title>❗️🇭🇺 «Сьогодні в Будапешті уго</title>
       <link>https://www.mandarinai.lt/post/89147</link>
@@ -76,6 +62,20 @@
       <description>🫡 Українські військові за кілька днів почнуть допомагати США протидіяти іранським дронам на Близькому Сході, — Reuters</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_08-06-59.jpg" length="76236" type="image/jpeg"/>
       <pubDate>Fri, 06 Mar 2026 08:06:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіяни захопили 19 жителів се</title>
+      <link>https://www.mandarinai.lt/post/89159</link>
+      <description>Росіяни захопили 19 жителів села Сопич на Сумщині, вивезли їх до Брянщини, а потім зняли з ними пропагандистський сюжет, який показали в новинах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_09-56-02.jpg" length="64990" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 09:56:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Серед затриманих Угорщиною сем</title>
+      <link>https://www.mandarinai.lt/post/89161</link>
+      <description>Серед затриманих Угорщиною семи українських інкасаторів є колишній генерал української розвідки, який вийшов на пенсію, — Національна податково-митна служба країни</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_10-01-03.jpg" length="78400" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 10:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
