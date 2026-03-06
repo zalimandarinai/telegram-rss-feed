@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 17:24:38 +0000</lastBuildDate>
-    <item>
-      <title>Ізраїль заявляє, що 50 літаків</title>
-      <link>https://www.mandarinai.lt/post/89178</link>
-      <description>Ізраїль заявляє, що 50 літаків скинули 100 бомб на підземний бункер в Тегерані, побудований для, того, щоб керівництво Ірану могло управляти обороною країни в критичних умовах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6833.MP4" length="5722406" type="video/mp4"/>
-      <pubDate>Fri, 06 Mar 2026 13:10:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 18:27:19 +0000</lastBuildDate>
     <item>
       <title>Затримання українських інкасат</title>
       <link>https://www.mandarinai.lt/post/89180</link>
@@ -118,6 +111,13 @@
       <description>Збиття «шахеда» з феєрверком сьогодні продемонстрували бійці 208-ї зенітної ракетної Херсонської бригади</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6844.MP4" length="2993009" type="video/mp4"/>
       <pubDate>Fri, 06 Mar 2026 16:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>475-ий полк «Code 9.2» на Запо</title>
+      <link>https://www.mandarinai.lt/post/89192</link>
+      <description>475-ий полк «Code 9.2» на Запорізькому напрямку знищує двох російських окупантів, які не почули, що один дрон спостерігає за ними, а другий готується атакувати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6845.MP4" length="21580336" type="video/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 18:06:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
