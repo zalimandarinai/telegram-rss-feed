@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 14:27:22 +0000</lastBuildDate>
-    <item>
-      <title>🫡 Українські військові за кіль</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🫡 Українські військові за кілька днів почнуть допомагати США протидіяти іранським дронам на Близькому Сході, — Reuters</description>
-      <pubDate>Fri, 06 Mar 2026 08:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Росіяни захопили 19 жителів се</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Росіяни захопили 19 жителів села Сопич на Сумщині, вивезли їх до Брянщини, а потім зняли з ними пропагандистський сюжет, який показали в новинах</description>
-      <pubDate>Fri, 06 Mar 2026 09:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогодні відбувся ще один обмі</title>
-      <link>https://www.mandarinai.lt/post/89169</link>
-      <description>Сьогодні відбувся ще один обмін, додому з російського полону повернулись ще 300 українських захисників та двоє цивільних. 
-
-Серед них бійці рядового та офіцерського складу ЗСУ, НГУ, ДПСУ. Більшість із них були в полоні понад рік, деякі – з 2022 року. Є оборонці Маріуполя.
-
-Обмін проведено за посередництва США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_12-38-21.jpg" length="92900" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 12:38:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 15:24:56 +0000</lastBuildDate>
     <item>
       <title>Ізраїль заявляє, що 50 літаків</title>
       <link>https://www.mandarinai.lt/post/89178</link>
@@ -67,6 +44,33 @@
 За підтримки 3-ої ОШБР, 60-ої ОМБР та 63-ої ОМБР, вдалось нейтралізувати танк і три БМП.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6837.MP4" length="3939763" type="video/mp4"/>
       <pubDate>Fri, 06 Mar 2026 14:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔США зможуть користуватися тер</title>
+      <link>https://www.mandarinai.lt/post/89183</link>
+      <description>🤔США зможуть користуватися територією Литви для вирішення логістичних проблем у війні проти Ірану – президент балтійської республіки Науседа.
+
+Також стало відомо, що НАТО призвело системи ПРО в Європі у підвищену готовність через ескалацію на Близькому Сході</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_14-37-40.jpg" length="150727" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 14:37:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ось хто допомагав наводити КАБ</title>
+      <link>https://www.mandarinai.lt/post/89184</link>
+      <description>Ось хто допомагав наводити КАБи на Словʼянськ, - в прифронтовому місті СБУ затримала коригувальницю.
+
+Вона ходила по магазинах і приховано розпитувала військових про те, хто в яких хатах живе. 
+
+А потім по цих хатах летіло з неба російське залізо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_14-57-53.jpg" length="78115" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 14:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Сумах два прильоти по заправ</title>
+      <link>https://www.mandarinai.lt/post/89185</link>
+      <description>В Сумах два прильоти по заправці WOG і один по АЗС Motto, також «Молнія» вдарила по багатоповерхівці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6841.MP4" length="15415278" type="video/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 15:20:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
