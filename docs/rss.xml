@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 22:14:53 +0000</lastBuildDate>
-    <item>
-      <title>Збиття «шахеда» з феєрверком с</title>
-      <link>https://www.mandarinai.lt/post/89190</link>
-      <description>Збиття «шахеда» з феєрверком сьогодні продемонстрували бійці 208-ї зенітної ракетної Херсонської бригади</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6844.MP4" length="2993009" type="video/mp4"/>
-      <pubDate>Fri, 06 Mar 2026 16:30:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 23:16:18 +0000</lastBuildDate>
     <item>
       <title>475-ий полк «Code 9.2» на Запо</title>
       <link>https://www.mandarinai.lt/post/89192</link>
@@ -89,6 +82,13 @@
       <description>🔴 Військовий злочинець путін передає Ірану розвідувальні дані, чим вбиває американців, і росія має понести відповідальність за хаос і смерть, — республіканський конгресмен Джо Вілсон</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_21-46-42.jpg" length="44562" type="image/jpeg"/>
       <pubDate>Fri, 06 Mar 2026 21:46:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Через глобальну нестачу нафт</title>
+      <link>https://www.mandarinai.lt/post/89204</link>
+      <description>‼️Через глобальну нестачу нафти, Америка може скасувати санкції проти російської нафти, — Міністерство фінансів США.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-06_22-38-52.mp4" length="3764142" type="video/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 22:38:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
