@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 16:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 17:24:38 +0000</lastBuildDate>
     <item>
       <title>Ізраїль заявляє, що 50 літаків</title>
       <link>https://www.mandarinai.lt/post/89178</link>
@@ -111,6 +111,13 @@
 🔥Подивитися і замовити можна на сайті https://rvv.com.ua/product/vidomist-pro-zalinijni-poselennya-poltavskogo-polku-1762-roku-zbirnyk-dokumentiv/</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_15-58-05.jpg" length="212793" type="image/jpeg"/>
       <pubDate>Fri, 06 Mar 2026 15:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збиття «шахеда» з феєрверком с</title>
+      <link>https://www.mandarinai.lt/post/89190</link>
+      <description>Збиття «шахеда» з феєрверком сьогодні продемонстрували бійці 208-ї зенітної ракетної Херсонської бригади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6844.MP4" length="2993009" type="video/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 16:30:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
