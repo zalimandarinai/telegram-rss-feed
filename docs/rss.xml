@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 21:10:17 +0000</lastBuildDate>
-    <item>
-      <title>❗️ В Харкові кількість жертв р</title>
-      <link>https://www.mandarinai.lt/post/89256</link>
-      <description>❗️ В Харкові кількість жертв ракетного удару російських воєнних злочинців на цей момент вже збільшилася до 11 загиблих, - мер Терехов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_16-15-42.jpg" length="71263" type="image/jpeg"/>
-      <pubDate>Sat, 07 Mar 2026 16:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬 російський «шахед» посеред в</title>
-      <link>https://www.mandarinai.lt/post/89257</link>
-      <description>🤬 російський «шахед» посеред вихідного дня вдарив по центру міста Чугуїв.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6881.MP4" length="7119297" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 16:19:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Епічне збиття «шахеда», - «Сон</title>
-      <link>https://www.mandarinai.lt/post/89258</link>
-      <description>Епічне збиття «шахеда», - «Соняшник»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6882.MP4" length="1927669" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 16:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>В цьому відео багато вогню, - </title>
-      <link>https://www.mandarinai.lt/post/89259</link>
-      <description>В цьому відео багато вогню, - 92-а ОШБР розриває ворожу техніку разом з тими, хто на ній їде. Гармати, танки, евакуаційні тягачі, автомобілі, квадроцикли. Оператори дронів 92-ої бригади перетворюють на металобрухт все, чим ворог пробує прорвати ЛБЗ на стику Запорізької, Донецької та Дніпропетровської областей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6883.MP4" length="15908451" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 16:48:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 22:10:16 +0000</lastBuildDate>
     <item>
       <title>В стані війни, - президент ОАЕ</title>
       <link>https://www.mandarinai.lt/post/89260</link>
@@ -92,6 +64,20 @@
       <description>Жодного прогресу по ухваленню 20-го пакету економічних санкцій проти росії та наданню €90-мільярдного кредиту для України, - Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6892.MP4" length="1656864" type="video/mp4"/>
       <pubDate>Sat, 07 Mar 2026 21:06:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Ізраїль вперше атакував нафт</title>
+      <link>https://www.mandarinai.lt/post/89270</link>
+      <description>🔥 Ізраїль вперше атакував нафтову інфраструктуру в Тегерані. На відео — ймовірно, наслідки влучання по резервуарах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_21-18-06.mp4" length="415496" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 21:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Яскравий момент прильоту в р</title>
+      <link>https://www.mandarinai.lt/post/89273</link>
+      <description>💥🔥Яскравий момент прильоту в російському Армавірі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_21-47-56.mp4" length="1853295" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 21:47:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
