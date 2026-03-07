@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 20:11:28 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Незабаром і на Кубі відбуду</title>
-      <link>https://www.mandarinai.lt/post/89254</link>
-      <description>❗️ Незабаром і на Кубі відбудуться великі зміни, Куба наступна, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/clashreport-2030299774293770585-01.mp4" length="1883752" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 16:06:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Він знову про великий прекрасн</title>
-      <link>https://www.mandarinai.lt/post/89255</link>
-      <description>Він знову про великий прекрасний океан: «Ми неодноразово опинялися на межі угоди між Україною та рф, але завжди одна зі сторін відступала. Для нас це зовсім не має значення — між нами океан».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/ттт.mp4" length="4964288" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 16:09:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 21:10:17 +0000</lastBuildDate>
     <item>
       <title>❗️ В Харкові кількість жертв р</title>
       <link>https://www.mandarinai.lt/post/89256</link>
@@ -89,9 +75,23 @@
     <item>
       <title>Іранський безпілотник долетів </title>
       <link>https://www.mandarinai.lt/post/89267</link>
-      <description>Іранський безпілотник долетів до Ізраїля застряг в гілках дерева. Квест, з яким мали впоратись поліцейські сапери. Гусеничного робота для розмінування довелось піднімати на рівень верхніх гілок, щоб знешкодити безпілотник.</description>
+      <description>Іранський безпілотник долетів до Ізраїля і застряг в гілках дерева. Квест, з яким мали впоратись поліцейські сапери. Гусеничного робота для розмінування довелось піднімати на рівень верхніх гілок, щоб знешкодити безпілотник.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6890.MP4" length="17689401" type="video/mp4"/>
       <pubDate>Sat, 07 Mar 2026 20:08:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Телеканал Fox News виправився,</title>
+      <link>https://www.mandarinai.lt/post/89268</link>
+      <description>Телеканал Fox News виправився, показавши дрони «Wild Hornets» та правильно назвавши країну, яка ці перехоплювачі виробляє: «Україна є лідером антидронних технологій, захищаючись від початку путінського вторгнення від роїв іранських дронів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6891.MP4" length="4186914" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 20:14:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жодного прогресу по ухваленню </title>
+      <link>https://www.mandarinai.lt/post/89269</link>
+      <description>Жодного прогресу по ухваленню 20-го пакету економічних санкцій проти росії та наданню €90-мільярдного кредиту для України, - Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6892.MP4" length="1656864" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 21:06:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
