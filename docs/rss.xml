@@ -6,24 +6,22 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 06:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:20:07 +0000</lastBuildDate>
     <item>
       <title>На Словʼянському напрямку прот</title>
-      <link>https://www.mandarinai.lt/post/89198</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>На Словʼянському напрямку противник почав активно застосовувати аналоги українських дронів «Вампір», - 81-а бригада 7-го корпусу ДШВ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6852.MP4" length="2417185" type="video/mp4"/>
       <pubDate>Fri, 06 Mar 2026 19:11:58 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Влучне ураження російського</title>
-      <link>https://www.mandarinai.lt/post/89199</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ Влучне ураження російського гелікоптера Ка-27 під час спроби здійснити посадку на бурову платформу «Сиваш» в Чорному морі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6853.MP4" length="5334969" type="video/mp4"/>
       <pubDate>Fri, 06 Mar 2026 19:17:00 +0000</pubDate>
     </item>
     <item>
       <title>‼️Війна на Близькому Сході три</title>
-      <link>https://www.mandarinai.lt/post/89200</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>‼️Війна на Близькому Сході триватиме ще кілька тижнів, - Рубіо
 
 Держсекретар США Марко Рубіо в серії телефонних розмов з міністрами закордонних справ арабських країн  заявив, що війна, як очікується, триватиме ще кілька тижнів, повідомляє Axios з посиланням на джерела, безпосередньо знайомі з перебігом бесід.
@@ -31,29 +29,7 @@
 За словами співрозмовників видання, Рубіо підкреслив, що зараз основна увага військових зосереджена на іранських ракетних установках, складах і заводах.
 
 За словами джерел Axios, держсекретар заявив міністрам, що мета США — не зміна режиму. При цьому Рубіо чітко дав зрозуміти, що Вашингтон хоче бачити при владі в країні інших людей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_19-28-07.jpg" length="51072" type="image/jpeg"/>
       <pubDate>Fri, 06 Mar 2026 19:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці 225-го штурмового полку </title>
-      <link>https://www.mandarinai.lt/post/89201</link>
-      <description>Бійці 225-го штурмового полку знищили російський броньований транспорт, з якого  противник намагався висадитися на околиці Гуляйполя.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6854.MP4" length="22556670" type="video/mp4"/>
-      <pubDate>Fri, 06 Mar 2026 20:56:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴 Військовий злочинець путін п</title>
-      <link>https://www.mandarinai.lt/post/89202</link>
-      <description>🔴 Військовий злочинець путін передає Ірану розвідувальні дані, чим вбиває американців, і росія має понести відповідальність за хаос і смерть, — республіканський конгресмен Джо Вілсон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-06_21-46-42.jpg" length="44562" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 21:46:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Через глобальну нестачу нафт</title>
-      <link>https://www.mandarinai.lt/post/89204</link>
-      <description>‼️Через глобальну нестачу нафти, Америка може скасувати санкції проти російської нафти, — Міністерство фінансів США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-06_22-38-52.mp4" length="3764142" type="video/mp4"/>
-      <pubDate>Fri, 06 Mar 2026 22:38:52 +0000</pubDate>
     </item>
     <item>
       <title>У Харкові, внаслідок влучання </title>
@@ -63,6 +39,39 @@
 Під завалами ще є люди. Рятувальна операція триває.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_00-57-32.jpg" length="213244" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 00:57:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Харкові страшний удар по баг</title>
+      <link>https://www.mandarinai.lt/post/89212</link>
+      <description>В Харкові страшний удар по багатоповерхівці.
+
+Внаслідок влучання російської балістичної ракети вночі по багатоповерхівці в Харкові вже шестеро загиблих, серед жертв 13-річна дівчинка.
+
+Від влучання один підʼїзд пʼятиповерхівки у Київському районі зруйновано. Також зруйновані і два поверхи сусіднього будинку. 
+
+Серед постраждалих є діти, хлопчики 6-ти та 11-ти років, а також 17-річна дівчина.
+
+Пошуково-рятувальна операція триває.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6859.MP4" length="8045350" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 06:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Тіло ще однієї дитини дебло</title>
+      <link>https://www.mandarinai.lt/post/89216</link>
+      <description>❗️ Тіло ще однієї дитини деблокували з-під завалів в Харкові, загиблих вже семеро
+
+Русня нелюди</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_06-36-09.jpg" length="16912" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 06:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ 29 ракет, із них майже поло</title>
+      <link>https://www.mandarinai.lt/post/89217</link>
+      <description>⚡️ 29 ракет, із них майже половина – балістика, та 480 дронів застосувала РФ, — Зеленський.
+
+Вже 7 загиблих у Харкові з них 2 дітей дістали з-під завалів, — ОВА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_06-55-34.jpg" length="134954" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 06:55:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
