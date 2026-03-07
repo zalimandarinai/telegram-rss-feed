@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 14:12:58 +0000</lastBuildDate>
-    <item>
-      <title>🔥У районі Донецького аеропорту</title>
-      <link>https://www.mandarinai.lt/post/89236</link>
-      <description>🔥У районі Донецького аеропорту знищено пункт підготовки та запуску «шахедів», - Генеральний штаб Збройних сил України
-
-Об'єкт був атакований ракетами ATACMS і SCALP. Після удару зафіксовано масштабну пожежу та вторинну детонацію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_10-53-29.mp4" length="1857761" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 10:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ США офіційно звернулися до </title>
-      <link>https://www.mandarinai.lt/post/89237</link>
-      <description>‼️ США офіційно звернулися до України з проханням допомогти у перехопленні іранських дронів «Шахед», що надає Зеленському певний важіль впливу на Трампа, — Politico
-
-Джерело, близьке до президента США, підтвердило, що у Зеленського є «короткострокові інструменти впливу» на Вашингтон: він прагне отримати більше ракет для систем Patriot, і це може змусити США прискорити виконання деяких запитів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_11-02-15.jpg" length="135141" type="image/jpeg"/>
-      <pubDate>Sat, 07 Mar 2026 11:02:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 15:11:10 +0000</lastBuildDate>
     <item>
       <title>🔥В Україні зʼявиться агалог "м</title>
       <link>https://www.mandarinai.lt/post/89238</link>
@@ -88,6 +70,44 @@
       <description>Частина російської ракети, яку виявили сапери ДСНС біля Ніжина</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_13-43-00.jpg" length="246333" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 13:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрон «Ланцет» приземлився в ко</title>
+      <link>https://www.mandarinai.lt/post/89249</link>
+      <description>Дрон «Ланцет» приземлився в когось поруч з подвірʼям, і автор відео дуже ризиковано його оглядає.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6877.MP4" length="9947727" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 14:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ізраїль захищають від повітрян</title>
+      <link>https://www.mandarinai.lt/post/89251</link>
+      <description>Ізраїль захищають від повітряних атак 7 систем ППО, - BILD
+
+«Arrow-3»
+
+Найсучасніша ізраїльська система перехоплює балістичні ракети за межами земної атмосфери. Виявляє запуск ракет за сотні кілометрів. Перехоплювачі досягають надзвичайно високих швидкостей і знищують ракети ще до того, як вони входять до повітряного простору Ізраїлю. 
+
+«Arrow-2»
+
+Працює по цілі на висоті 50 км, якщо «Arrow-3» ракету пропускає.
+
+«Patriot»
+
+Перехоплює балістичні та крилаті ракети, а також літаки, на середніх висотах. 
+
+«Праща Давида»
+
+Система розроблена для боротьби з ракетами малої дальності з Лівану та Сирії. Перехоплює їх на середніх дистанціях. Проти іранських ракет вона не призначена.
+
+ «Залізний купол»
+
+Система призначена для перехоплення ракет та боєприпасів малої дальності, тобто засобів, які застосовують ХАМАС та «Хезболла». Проти іранських балістичних ракет вона має обмежені можливості.
+
+«Spyder» та «Shorad»
+
+Тактичні системи оборони проти літаків, гелікоптерів, а також дронів на малих дистанціях та висотах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_14-54-29.jpg" length="163106" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 14:54:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
