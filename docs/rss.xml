@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 08:15:24 +0000</lastBuildDate>
-    <item>
-      <title>На Словʼянському напрямку прот</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>На Словʼянському напрямку противник почав активно застосовувати аналоги українських дронів «Вампір», - 81-а бригада 7-го корпусу ДШВ</description>
-      <pubDate>Fri, 06 Mar 2026 19:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Харкові страшний удар по баг</title>
-      <link>https://www.mandarinai.lt/post/89212</link>
-      <description>В Харкові страшний удар по багатоповерхівці.
-
-Внаслідок влучання російської балістичної ракети вночі по багатоповерхівці в Харкові вже шестеро загиблих, серед жертв 13-річна дівчинка.
-
-Від влучання один підʼїзд пʼятиповерхівки у Київському районі зруйновано. Також зруйновані і два поверхи сусіднього будинку. 
-
-Серед постраждалих є діти, хлопчики 6-ти та 11-ти років, а також 17-річна дівчина.
-
-Пошуково-рятувальна операція триває.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6859.MP4" length="8045350" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 06:31:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 09:17:15 +0000</lastBuildDate>
     <item>
       <title>❗️ Тіло ще однієї дитини дебло</title>
       <link>https://www.mandarinai.lt/post/89216</link>
@@ -70,8 +49,41 @@
       <description>🥴Іран не завдаватиме більше ударів по країнах регіону, якщо немає атак з їх території, — рішення Тимчасової ради керівництва країни
 
 На відео: ранковий удар по аеропорту в Дубаї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_07-34-18.mp4" length="3553940" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6863.MP4" length="7730062" type="video/mp4"/>
       <pubDate>Sat, 07 Mar 2026 07:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти скинули 500-кг КАБ в </title>
+      <link>https://www.mandarinai.lt/post/89226</link>
+      <description>Окупанти скинули 500-кг КАБ в центр Краматорська, — мер міста Гончаренко
+
+ Поранено 6 людей, серед них — 3 дитини. Пошкоджено 12 (!) багатоповерхівок, 5 адміністративних будівель і 22 автомобілі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_08-29-03.jpg" length="298349" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 08:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>В місті Куп’янськ на Харківщин</title>
+      <link>https://www.mandarinai.lt/post/89227</link>
+      <description>В місті Куп’янськ на Харківщині полк «Скеля» відбив та зачистив будівлю районної лікарні, коледж та машинобудівний завод, - більше тут https://m.youtube.com/watch?v=XgCB59j2Yy8</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6864.MP4" length="7734509" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 08:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Україні створюють цифрови</title>
+      <link>https://www.mandarinai.lt/post/89228</link>
+      <description>⚡️ В Україні створюють цифровий реєстр військовослужбовців.
+
+Фіксуватимуть статуси: служить, СЗЧ, тимчасово не служить, зниклий безвісти, полонений, загиблий, померлий, звільнений, переведений.  
+
+Реєстр відстежуватиме службу, статус і кар’єрні зміни.  
+
+Кожному військовому присвоять унікальний електронний ID.  
+
+Дані про загиблих і померлих зберігатимуть 25 років, після чого видалятимуть.
+
+Реєстр дозволить отримувати виписки, підтверджувати статус і користуватися електронними послугами для військових та їхніх родин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_09-04-42.jpg" length="137893" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 09:04:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
