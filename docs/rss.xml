@@ -6,39 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 07:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 08:15:24 +0000</lastBuildDate>
     <item>
       <title>На Словʼянському напрямку прот</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>На Словʼянському напрямку противник почав активно застосовувати аналоги українських дронів «Вампір», - 81-а бригада 7-го корпусу ДШВ</description>
       <pubDate>Fri, 06 Mar 2026 19:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Влучне ураження російського</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️ Влучне ураження російського гелікоптера Ка-27 під час спроби здійснити посадку на бурову платформу «Сиваш» в Чорному морі</description>
-      <pubDate>Fri, 06 Mar 2026 19:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Війна на Близькому Сході три</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>‼️Війна на Близькому Сході триватиме ще кілька тижнів, - Рубіо
-
-Держсекретар США Марко Рубіо в серії телефонних розмов з міністрами закордонних справ арабських країн  заявив, що війна, як очікується, триватиме ще кілька тижнів, повідомляє Axios з посиланням на джерела, безпосередньо знайомі з перебігом бесід.
-
-За словами співрозмовників видання, Рубіо підкреслив, що зараз основна увага військових зосереджена на іранських ракетних установках, складах і заводах.
-
-За словами джерел Axios, держсекретар заявив міністрам, що мета США — не зміна режиму. При цьому Рубіо чітко дав зрозуміти, що Вашингтон хоче бачити при владі в країні інших людей</description>
-      <pubDate>Fri, 06 Mar 2026 19:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Харкові, внаслідок влучання </title>
-      <link>https://www.mandarinai.lt/post/89209</link>
-      <description>У Харкові, внаслідок влучання балістичноі ракети в багатоповерхівку вже 7 постраждалих, — Терехов
-
-Під завалами ще є люди. Рятувальна операція триває.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_00-57-32.jpg" length="213244" type="image/jpeg"/>
-      <pubDate>Sat, 07 Mar 2026 00:57:32 +0000</pubDate>
     </item>
     <item>
       <title>В Харкові страшний удар по баг</title>
@@ -72,6 +45,33 @@
 Вже 7 загиблих у Харкові з них 2 дітей дістали з-під завалів, — ОВА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_06-55-34.jpg" length="134954" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 06:55:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зранку під атакою тимчасово </title>
+      <link>https://www.mandarinai.lt/post/89221</link>
+      <description>⚡️Зранку під атакою тимчасово окупований Донецьк. Є прильоти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_07-23-18.mp4" length="408905" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 07:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час нічної атаки на Харків</title>
+      <link>https://www.mandarinai.lt/post/89224</link>
+      <description>Під час нічної атаки на Харків  загинула вчителька початкових класів та її син, учень другого класу, — Терехов
+
+Також разом зі своєю мамою загинула восьмикласниця.
+
+Пошуково-рятувальні роботи на місці удару по житловому будинку тривають</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_07-29-08.mp4" length="2324147" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 07:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Іран не завдаватиме більше уд</title>
+      <link>https://www.mandarinai.lt/post/89225</link>
+      <description>🥴Іран не завдаватиме більше ударів по країнах регіону, якщо немає атак з їх території, — рішення Тимчасової ради керівництва країни
+
+На відео: ранковий удар по аеропорту в Дубаї</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_07-34-18.mp4" length="3553940" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 07:34:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
