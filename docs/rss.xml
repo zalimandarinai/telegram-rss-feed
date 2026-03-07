@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 11:09:48 +0000</lastBuildDate>
-    <item>
-      <title>Під час нічної атаки на Харків</title>
-      <link>https://www.mandarinai.lt/post/89224</link>
-      <description>Під час нічної атаки на Харків  загинула вчителька початкових класів та її син, учень другого класу, — Терехов
-
-Також разом зі своєю мамою загинула восьмикласниця.
-
-Пошуково-рятувальні роботи на місці удару по житловому будинку тривають</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_07-29-08.mp4" length="2324147" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 07:29:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴Іран не завдаватиме більше уд</title>
-      <link>https://www.mandarinai.lt/post/89225</link>
-      <description>🥴Іран не завдаватиме більше ударів по країнах регіону, якщо немає атак з їх території, — рішення Тимчасової ради керівництва країни
-
-На відео: ранковий удар по аеропорту в Дубаї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6863.MP4" length="7730062" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 07:34:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 12:20:22 +0000</lastBuildDate>
     <item>
       <title>Окупанти скинули 500-кг КАБ в </title>
       <link>https://www.mandarinai.lt/post/89226</link>
@@ -126,7 +106,7 @@
     <item>
       <title>🔥У районі Донецького аеропорту</title>
       <link>https://www.mandarinai.lt/post/89236</link>
-      <description>🔥У районі Донецького аеропорту знищено пункт підготовки та запуску "Шахтерів", — Генеральний штаб Збройних сил України
+      <description>🔥У районі Донецького аеропорту знищено пункт підготовки та запуску «шахедів», - Генеральний штаб Збройних сил України
 
 Об'єкт був атакований ракетами ATACMS і SCALP. Після удару зафіксовано масштабну пожежу та вторинну детонацію.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_10-53-29.mp4" length="1857761" type="video/mp4"/>
@@ -140,6 +120,24 @@
 Джерело, близьке до президента США, підтвердило, що у Зеленського є «короткострокові інструменти впливу» на Вашингтон: він прагне отримати більше ракет для систем Patriot, і це може змусити США прискорити виконання деяких запитів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_11-02-15.jpg" length="135141" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 11:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Україні зʼявиться агалог "м</title>
+      <link>https://www.mandarinai.lt/post/89238</link>
+      <description>🔥В Україні зʼявиться агалог "мавіка" дрон «Славік» — роеращена версія DJI Mavic, - Мілітарний
+
+ Триває його активна розробка, інженери вже "навчили" дрон виконувати сучасні військові задачи. Наступного тижня почнуться бойові випробування «Славіка».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_11-19-15.jpg" length="78841" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 11:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Сьогодні Іран зазнає дуже сил</title>
+      <link>https://www.mandarinai.lt/post/89239</link>
+      <description>🔴Сьогодні Іран зазнає дуже сильного удару. Через погану поведінку розглядається повнe знищення та загибель районів і груп людей, які до цього моменту не вважалися цілями, — Трамп.
+
+Іран більше не "хуліган Близького Сходу", а "невдаха Близького Сходу", і таким він залишиться на десятиліття, поки не капітулює або не розвалиться, - заявив Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_11-26-15.jpg" length="134506" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 11:26:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
