@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 17:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 18:16:28 +0000</lastBuildDate>
     <item>
       <title>Дрон «Ланцет» приземлився в ко</title>
       <link>https://www.mandarinai.lt/post/89249</link>
@@ -107,6 +107,15 @@
       <description>В стані війни, - президент ОАЕ шейх Мухаммад бін Заїд Аль Нагян щойно заявив, що країна увійшла в «період війни»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_16-54-13.jpg" length="116625" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 16:54:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇦🇪 Іран знову б'є по Дубаю: пі</title>
+      <link>https://www.mandarinai.lt/post/89261</link>
+      <description>🇦🇪 Іран знову б'є по Дубаю: під атакою опинився 90-поверховий житловий хмарочос 23 Marina та міст Dubai Hills.
+
+8ранку презилент Ірану обіцяв не атакувати сусідні країни, якщо звідти не наноситимуть ударів по Ірану.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_18-00-31.mp4" length="1278404" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 18:00:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
