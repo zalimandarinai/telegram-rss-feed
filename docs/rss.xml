@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 13:30:53 +0000</lastBuildDate>
-    <item>
-      <title>🔥У районі Донецького аеропорту</title>
-      <link>https://www.mandarinai.lt/post/89231</link>
-      <description>🔥У районі Донецького аеропорту знищено пункт підготовки та запуску "Шахтерів", — Генеральний штаб Збройних сил України
-
-Об'єкт був атакований ракетами ATACMS і SCALP. Після удару зафіксовано масштабну пожежу та вторинну детонацію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_10-17-23.mp4" length="1857761" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 10:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Знайдено тіло восьмої загибл</title>
-      <link>https://www.mandarinai.lt/post/89232</link>
-      <description>❗️Знайдено тіло восьмої загиблої людини під завалами будинку в Харкові, — Терехов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_10-28-17.jpg" length="145544" type="image/jpeg"/>
-      <pubDate>Sat, 07 Mar 2026 10:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Цифра, яка змушує замислитися </title>
-      <link>https://www.mandarinai.lt/post/89233</link>
-      <description>Цифра, яка змушує замислитися про майбутнє в контексті війни США з Іраном.
-
-Україна витратила 700 ракет до комплексу Patriot за минулу зиму, — вважає Euronews
-
-Це дорівнює практично річному виробництву таких ракет у США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_10-31-10.jpg" length="31873" type="image/jpeg"/>
-      <pubDate>Sat, 07 Mar 2026 10:31:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>По Харкову вдарили ракетою «Из</title>
-      <link>https://www.mandarinai.lt/post/89234</link>
-      <description>По Харкову вдарили ракетою «Изделие-30», вважає обласна прокуратура.
-
-Нова  крилата ракета «Изделие-30» має розмах крил близько 3-х метрів, бойову частину масою 800 кг та дальність польоту щонайменше 1500 км.
-
-Фахівці ідентифікували виріб як розробку ОКБ «Звезда», яке входить до складу корпорації «Тактическое ракетное вооружение».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_10-37-32.jpg" length="122086" type="image/jpeg"/>
-      <pubDate>Sat, 07 Mar 2026 10:37:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 14:12:58 +0000</lastBuildDate>
     <item>
       <title>🔥У районі Донецького аеропорту</title>
       <link>https://www.mandarinai.lt/post/89236</link>
@@ -100,7 +62,7 @@
     <item>
       <title>❗️США та Катар вже ведуть пере</title>
       <link>https://www.mandarinai.lt/post/89242</link>
-      <description>❗️США та Катар вже ведуть переговори про покупку українських дронів P1-Sun для перехоплення "шахідів", - Reuters.
+      <description>❗️США та Катар вже ведуть переговори про покупку українських дронів «P1-Sun» для перехоплення іранських «шахедів», - Reuters.
 
 Виробники заявляють, що можуть випускати до 50 тисяч таких дронів на місяць, з яких 5-10 тисяч готові експортувати. Вартість одного перехоплювача становить близько 1000 доларів США, тоді як ракета Patriot може коштувати до 4 мільйонів доларів США</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_12-34-38.jpg" length="82010" type="image/jpeg"/>
@@ -112,6 +74,20 @@
       <description>У Швеції спецпризначенці берегової охорони затримали судно Caffa, яке перебуває під санкціями України. Судно прямувало до Санкт-Петербурга. Зараз перевіряється його причетність до «тіньового флоту» росії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_13-14-06.jpg" length="45138" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 13:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💯ℹ️ Більше 100 російських окуп</title>
+      <link>https://www.mandarinai.lt/post/89245</link>
+      <description>💯ℹ️ Більше 100 російських окупантів здались українським дронами впродовж зими, - Федоров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6873.MP4" length="5283888" type="video/mp4"/>
+      <pubDate>Sat, 07 Mar 2026 13:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Частина російської ракети, яку</title>
+      <link>https://www.mandarinai.lt/post/89246</link>
+      <description>Частина російської ракети, яку виявили сапери ДСНС біля Ніжина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_13-43-00.jpg" length="246333" type="image/jpeg"/>
+      <pubDate>Sat, 07 Mar 2026 13:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
