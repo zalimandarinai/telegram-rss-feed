@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 09:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 10:11:49 +0000</lastBuildDate>
     <item>
       <title>❗️ Тіло ще однієї дитини дебло</title>
       <link>https://www.mandarinai.lt/post/89216</link>
@@ -84,6 +84,16 @@
 Реєстр дозволить отримувати виписки, підтверджувати статус і користуватися електронними послугами для військових та їхніх родин</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_09-04-42.jpg" length="137893" type="image/jpeg"/>
       <pubDate>Sat, 07 Mar 2026 09:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 ГУР у взаємодії з Силами обо</title>
+      <link>https://www.mandarinai.lt/post/89229</link>
+      <description>🔥 ГУР у взаємодії з Силами оборони  зупинили наступ ворога на Запоріжжя у своїй смузі відповідальності
+
+В ході активних дій спецпризначенці ГУР ліквідували понад 300 окупантів вбитими та пораненими, ще 39 російських військовослужбовців взяли в полон.
+
+Точними ударами дронів та артилерії воєнні розвідники системно обмежують логістичні спроможності терористів – через брак забезпечення окупанти все частіше відмовляються від штурмових дій на напрямку.</description>
+      <pubDate>Sat, 07 Mar 2026 09:45:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
