@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 16:13:58 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Російська воєнна розвідка д</title>
-      <link>https://www.mandarinai.lt/post/89281</link>
-      <description>❗️ Російська воєнна розвідка допомагає Орбану на виборах в Угорщині.
-
-🕶️ Співробітники Головного управління генерального штабу зс рф, раніше відомого, як ГРУ, прибули до Будапешта, щоб вплинути на результати парламентських виборів.
-
-🗳️ Вони призначені на 12 квітня.
-
-🎙️ Про це повідомляє DW з посиланням на лідера партії ТІСА Петера Мадяра.
-
-💬 «Ми вимагаємо негайного припинення зовнішнього втручання у вибори!» — заявив він.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_10-09-58.jpg" length="66396" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 10:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥💥На атакованому зранку складі</title>
-      <link>https://www.mandarinai.lt/post/89282</link>
-      <description>💥💥На атакованому зранку складі шахедів в Донецьку вторинна детонація. Харашо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_10-12-58.jpg" length="251028" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 10:12:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 17:12:56 +0000</lastBuildDate>
     <item>
       <title>Окупанти з 40-ї бригади морськ</title>
       <link>https://www.mandarinai.lt/post/89284</link>
@@ -148,6 +126,13 @@
       <description>💥В окупованому Донецьку після атаки на склад окупантів, щось довго та гучно детонувало</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_14-54-07.mp4" length="2885680" type="video/mp4"/>
       <pubDate>Sun, 08 Mar 2026 14:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🔥Земля палає під ногами в Тег</title>
+      <link>https://www.mandarinai.lt/post/89295</link>
+      <description>🔥🔥Земля палає під ногами в Тегерані у прямому сенсі— вулиці буквально поринули у полумʼя через  розлив палива, який стався під час вчорашньої атаки на нафтосховища столиці Ірану</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_16-17-51.mp4" length="1540594" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 16:17:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
