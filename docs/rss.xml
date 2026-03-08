@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 09:17:20 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Детонація  складу біля порту</title>
-      <link>https://www.mandarinai.lt/post/89265</link>
-      <description>💥🔥Детонація  складу біля порту Бушир в Ірані після чергових американо-ізраїльських авіаударів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_19-39-24.mp4" length="1264541" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 19:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Доісторичними" радянськими ра</title>
-      <link>https://www.mandarinai.lt/post/89266</link>
-      <description>"Доісторичними" радянськими ракетами «Катюша» Іран обстріляв посольство США в Багдаді, — Hindustan Times</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-07_19-42-01.jpg" length="43568" type="image/jpeg"/>
-      <pubDate>Sat, 07 Mar 2026 19:42:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іранський безпілотник долетів </title>
-      <link>https://www.mandarinai.lt/post/89267</link>
-      <description>Іранський безпілотник долетів до Ізраїля і застряг в гілках дерева. Квест, з яким мали впоратись поліцейські сапери. Гусеничного робота для розмінування довелось піднімати на рівень верхніх гілок, щоб знешкодити безпілотник.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6890.MP4" length="17689401" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 20:08:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Телеканал Fox News виправився,</title>
-      <link>https://www.mandarinai.lt/post/89268</link>
-      <description>Телеканал Fox News виправився, показавши дрони «Wild Hornets» та правильно назвавши країну, яка ці перехоплювачі виробляє: «Україна є лідером антидронних технологій, захищаючись від початку путінського вторгнення від роїв іранських дронів».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6891.MP4" length="4186914" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 20:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 10:13:01 +0000</lastBuildDate>
     <item>
       <title>Жодного прогресу по ухваленню </title>
       <link>https://www.mandarinai.lt/post/89269</link>
@@ -80,6 +52,35 @@
 Попередньо без постраждалих</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_08-31-16.mp4" length="481011" type="video/mp4"/>
       <pubDate>Sun, 08 Mar 2026 08:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Донецьку атакован склад БПЛ</title>
+      <link>https://www.mandarinai.lt/post/89280</link>
+      <description>💥В Донецьку атакован склад БПЛА Герань-2</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_09-49-38.mp4" length="134495" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 09:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Російська воєнна розвідка д</title>
+      <link>https://www.mandarinai.lt/post/89281</link>
+      <description>❗️ Російська воєнна розвідка допомагає Орбану на виборах в Угорщині.
+
+🕶️ Співробітники Головного управління генерального штабу зс рф, раніше відомого, як ГРУ, прибули до Будапешта, щоб вплинути на результати парламентських виборів.
+
+🗳️ Вони призначені на 12 квітня.
+
+🎙️ Про це повідомляє DW з посиланням на лідера партії ТІСА Петера Мадяра.
+
+💬 «Ми вимагаємо негайного припинення зовнішнього втручання у вибори!» — заявив він.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_10-09-58.jpg" length="66396" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 10:09:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥💥На атакованому зранку складі</title>
+      <link>https://www.mandarinai.lt/post/89282</link>
+      <description>💥💥На атакованому зранку складі шахедів в Донецьку вторинна детонація. Харашо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_10-12-58.jpg" length="251028" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 10:12:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
