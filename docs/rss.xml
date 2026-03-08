@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 14:13:52 +0000</lastBuildDate>
-    <item>
-      <title>🙈США попросили росіян не перед</title>
-      <link>https://www.mandarinai.lt/post/89276</link>
-      <description>🙈США попросили росіян не передавати Ірану розвіддані для ударів по американських військах, – Віткофф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_06-52-19.mp4" length="1937326" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 06:52:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️російський БпЛА вранці влучи</title>
-      <link>https://www.mandarinai.lt/post/89278</link>
-      <description>❗️російський БпЛА вранці влучив у потяг Київ—Суми, у момент атаки в ньому перебували близько 200 пасажирів, — Суспільне
-
-Попередньо без постраждалих</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_08-31-16.mp4" length="481011" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 08:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В Донецьку атакован склад БПЛ</title>
-      <link>https://www.mandarinai.lt/post/89280</link>
-      <description>💥В Донецьку атакован склад БПЛА Герань-2</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_09-49-38.mp4" length="134495" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 09:49:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 15:12:19 +0000</lastBuildDate>
     <item>
       <title>❗️ Російська воєнна розвідка д</title>
       <link>https://www.mandarinai.lt/post/89281</link>
@@ -135,6 +112,42 @@
 🔻Найбільший міф роботодавців про ветеранів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_13-41-17.jpg" length="185006" type="image/jpeg"/>
       <pubDate>Sun, 08 Mar 2026 13:41:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вищій пілотаж НРК, - всліпу пі</title>
+      <link>https://www.mandarinai.lt/post/89291</link>
+      <description>Вищій пілотаж НРК, - всліпу підірвали роботом танк.
+
+Наземні комплекси з вибухівкою оператори підрозділу «NC13» майже довели до цілі. Але тут раптово почалась інтенсивна атака ворожих FPV-дронів. 
+
+Кілька ударів, і камери двох роботів майже одночасно вийшли з ладу.
+
+Оператори 3-ої ОШБР продовжували вести свої НРК, покладаючись тільки на стрім одного з «Мавіків» у повітрі.
+
+В них вийшло довести камікадзе впритул до танку, який окупанти використовували в якості укриття, і знести його.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6906.MP4" length="26241329" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 14:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Ізраїлі прильоті іранських р</title>
+      <link>https://www.mandarinai.lt/post/89292</link>
+      <description>В Ізраїлі прильоті іранських ракет в Тель-Авіві та місті Петах-Тіква</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_14-42-31.jpg" length="122863" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 14:42:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>💶 Нідерланди щороку надаватиму</title>
+      <link>https://www.mandarinai.lt/post/89293</link>
+      <description>💶 Нідерланди щороку надаватимуть Україні приблизно по €3 млрд. фінансової допомоги, — Зеленський на зустрічі з прем’єром Робом Єттеном</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_14-44-08.jpg" length="72351" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 14:44:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В окупованому Донецьку після </title>
+      <link>https://www.mandarinai.lt/post/89294</link>
+      <description>💥В окупованому Донецьку після атаки на склад окупантів, щось довго та гучно детонувало</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_14-54-07.mp4" length="2885680" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 14:54:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
