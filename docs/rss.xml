@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 05:08:05 +0000</lastBuildDate>
-    <item>
-      <title>🇦🇪 Іран знову б'є по Дубаю: пі</title>
-      <link>https://www.mandarinai.lt/post/89261</link>
-      <description>🇦🇪 Іран знову б'є по Дубаю: під атакою опинився 90-поверховий житловий хмарочос 23 Marina та міст Dubai Hills.
-
-8ранку презилент Ірану обіцяв не атакувати сусідні країни, якщо звідти не наноситимуть ударів по Ірану.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_18-00-31.mp4" length="1278404" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 18:00:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 06:27:40 +0000</lastBuildDate>
     <item>
       <title>Село Сопич в Сумській області </title>
       <link>https://www.mandarinai.lt/post/89264</link>
@@ -71,6 +62,15 @@
       <description>💥🔥Яскравий момент прильоту в російському Армавірі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_21-47-56.mp4" length="1853295" type="video/mp4"/>
       <pubDate>Sat, 07 Mar 2026 21:47:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Поки ви спали, дрони знищувал</title>
+      <link>https://www.mandarinai.lt/post/89275</link>
+      <description>🔥Поки ви спали, дрони знищували нафтопровідну інфраструктуру та резервуари з пальним в російському Армавірі
+
+ЛВДС «Армавір» — це ключовий вузол трубопровідної логістики нафтопродуктів на півдні рф, де паливо перекачується магістральним трубопроводом, накопичується в резервуарному парку та відвантажується залізницею.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_06-06-53.mp4" length="2430261" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 06:06:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
