@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 12:21:00 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Яскравий момент прильоту в р</title>
-      <link>https://www.mandarinai.lt/post/89273</link>
-      <description>💥🔥Яскравий момент прильоту в російському Армавірі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_21-47-56.mp4" length="1853295" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 21:47:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 13:32:14 +0000</lastBuildDate>
     <item>
       <title>🔥Поки ви спали, дрони знищувал</title>
       <link>https://www.mandarinai.lt/post/89275</link>
@@ -95,6 +88,38 @@
 За оцінками розвідки, в Ірані залишається щонайменше 450 кілограмів урану, збагаченого до 60%.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_11-28-10.jpg" length="131657" type="image/jpeg"/>
       <pubDate>Sun, 08 Mar 2026 11:28:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ізраїльські військові заявили </title>
+      <link>https://www.mandarinai.lt/post/89286</link>
+      <description>Ізраїльські військові заявили про те, що здійснили 400 ударів по іранській території впродовж доби</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6902.MP4" length="1375339" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 12:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Над Тегераном небо настільки з</title>
+      <link>https://www.mandarinai.lt/post/89287</link>
+      <description>Над Тегераном небо настільки затягнуте димом, що сонячні промені крізь нього майже не пробиваються.
+
+Горять нафтосховища, уражені американцями та ізраїльтянами.
+
+Вчора Ізраїль почав атакувати нафтосховища на території Ірану, зокрема по об’єктах у Тегерані, які розподіляють пальне для різних споживачів, зокрема, для військових потреб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6903.MP4" length="1984293" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 12:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Тегерані пішов «чорний дощ» </title>
+      <link>https://www.mandarinai.lt/post/89288</link>
+      <description>В Тегерані пішов «чорний дощ» через насиченість води згорілими нафтопродуктами, демонструє журналіст CNN, який зараз працює в іранській столиці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6904.MP4" length="10354300" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 12:37:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перша група українських військ</title>
+      <link>https://www.mandarinai.lt/post/89289</link>
+      <description>Перша група українських військових та фахівців завтра виїжджає на Близький Схід, щоб навчати країни Перської затоки протидіяти дронам, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6905.MP4" length="13461370" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 12:40:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
