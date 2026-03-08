@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 18:16:32 +0000</lastBuildDate>
-    <item>
-      <title>Іран намагається дістати збага</title>
-      <link>https://www.mandarinai.lt/post/89285</link>
-      <description>Іран намагається дістати збагачений уран із зруйнованих бункерів, — британська газета The Telegraph
-
-За даними розвідки США, після бомбардувань у червні 2025-го частина ядерних матеріалів опинилася під завалами підземних сховищ в Ісфахані, однак Тегеран може мати доступ до них через вузькі технічні тунелі.
-
-За оцінками розвідки, в Ірані залишається щонайменше 450 кілограмів урану, збагаченого до 60%.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_11-28-10.jpg" length="131657" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 11:28:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ізраїльські військові заявили </title>
-      <link>https://www.mandarinai.lt/post/89286</link>
-      <description>Ізраїльські військові заявили про те, що здійснили 400 ударів по іранській території впродовж доби</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6902.MP4" length="1375339" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 12:27:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Над Тегераном небо настільки з</title>
-      <link>https://www.mandarinai.lt/post/89287</link>
-      <description>Над Тегераном небо настільки затягнуте димом, що сонячні промені крізь нього майже не пробиваються.
-
-Горять нафтосховища, уражені американцями та ізраїльтянами.
-
-Вчора Ізраїль почав атакувати нафтосховища на території Ірану, зокрема по об’єктах у Тегерані, які розподіляють пальне для різних споживачів, зокрема, для військових потреб.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6903.MP4" length="1984293" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 12:34:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 19:14:27 +0000</lastBuildDate>
     <item>
       <title>В Тегерані пішов «чорний дощ» </title>
       <link>https://www.mandarinai.lt/post/89288</link>
@@ -90,9 +61,9 @@
       <pubDate>Sun, 08 Mar 2026 14:21:16 +0000</pubDate>
     </item>
     <item>
-      <title>В Ізраїлі прильоті іранських р</title>
+      <title>В Ізраїлі прильоти  іранських </title>
       <link>https://www.mandarinai.lt/post/89292</link>
-      <description>В Ізраїлі прильоті іранських ракет в Тель-Авіві та місті Петах-Тіква</description>
+      <description>В Ізраїлі прильоти  іранських ракет в Тель-Авіві та місті Петах-Тіква</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_14-42-31.jpg" length="122863" type="image/jpeg"/>
       <pubDate>Sun, 08 Mar 2026 14:42:31 +0000</pubDate>
     </item>
@@ -125,6 +96,26 @@
 Причина росту — скорочення видобутку нафти країнами Близького Сходу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_17-56-19.jpg" length="75905" type="image/jpeg"/>
       <pubDate>Sun, 08 Mar 2026 17:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вторгнення до України могло б </title>
+      <link>https://www.mandarinai.lt/post/89299</link>
+      <description>Вторгнення до України могло б вже зупинитися, якби Київ отримав такий рівень ППО, який розгорнутий в країнах Перської затоки протягом тижня війни, — президент Фінляндії Стубб
+
+Тиждень бойових дій в Ірані коштує 40 мільярдів доларів — це річні витрати ЄС на допомогу Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_18-25-14.jpg" length="33043" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 18:25:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это бунт!» - деякі російські </title>
+      <link>https://www.mandarinai.lt/post/89300</link>
+      <description>«Это бунт!» - деякі російські канали просто трясе від того, що ролик з невдалим привітанням жінок, на якому путін кашляє, був викладений в соцмережі. 
+
+Вчора російські офіційні ресурси опублікували невідмонтоване привітання путіна з восьмим березня, яке провисіло трохи більше чотирьох хвилин. 
+
+Але ті, хто розуміє, як працює російське телебачення, пишуть, що це не може бути випадком, бо все відео з диктатором проходить ретельні перевірки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2341.MP4" length="7395449" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 18:35:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
