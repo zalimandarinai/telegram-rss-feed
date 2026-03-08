@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 11:11:20 +0000</lastBuildDate>
-    <item>
-      <title>🔥 Ізраїль вперше атакував нафт</title>
-      <link>https://www.mandarinai.lt/post/89270</link>
-      <description>🔥 Ізраїль вперше атакував нафтову інфраструктуру в Тегерані. На відео — ймовірно, наслідки влучання по резервуарах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-07_21-18-06.mp4" length="415496" type="video/mp4"/>
-      <pubDate>Sat, 07 Mar 2026 21:18:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 12:21:00 +0000</lastBuildDate>
     <item>
       <title>💥🔥Яскравий момент прильоту в р</title>
       <link>https://www.mandarinai.lt/post/89273</link>
@@ -91,6 +84,17 @@
 До речі, на іншому напрямку штурмовики з 425-го полку «Скеля» взяли в полон морпіха з цієї ж самої тихоокеанської 40-ої бригади, і він розповів багато цікавого про дикі порядки в російській армії https://m.youtube.com/watch?v=HKL-kje4K2w</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6900.MP4" length="17266955" type="video/mp4"/>
       <pubDate>Sun, 08 Mar 2026 10:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іран намагається дістати збага</title>
+      <link>https://www.mandarinai.lt/post/89285</link>
+      <description>Іран намагається дістати збагачений уран із зруйнованих бункерів, — британська газета The Telegraph
+
+За даними розвідки США, після бомбардувань у червні 2025-го частина ядерних матеріалів опинилася під завалами підземних сховищ в Ісфахані, однак Тегеран може мати доступ до них через вузькі технічні тунелі.
+
+За оцінками розвідки, в Ірані залишається щонайменше 450 кілограмів урану, збагаченого до 60%.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_11-28-10.jpg" length="131657" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 11:28:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
