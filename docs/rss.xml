@@ -6,46 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 20:11:55 +0000</lastBuildDate>
-    <item>
-      <title>Ринок праці для ветерана: від </title>
-      <link>https://www.mandarinai.lt/post/89290</link>
-      <description>Ринок праці для ветерана: від ілюзій до реального становища 
-
-Новий випуск «ВЕТЕРАН ЗНАЄ» вже на YouTube
-📎Подивитись його можна тут!
-
-В гостях — Анастасія Розлуцька, керівниця проєкту «Назустріч» від Work.ua
-
-📎У випуску:
-
-🔻Чи реально знайти роботу паритетну по оплаті у війську?
-
-🔻Як компаніям знайти розуміння підходу до роботи з ветеранами?
-
-🔻Як ветеранам опанувати нову спеціальність, коли працювати потрібно вже зараз?
-
-🔻Переклали військові спеціальності мовою цивільного бізнесу так, щоб це звучало дорого
-
-🔻Найбільший міф роботодавців про ветеранів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_13-41-17.jpg" length="185006" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 13:41:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вищій пілотаж НРК, - всліпу пі</title>
-      <link>https://www.mandarinai.lt/post/89291</link>
-      <description>Вищій пілотаж НРК, - всліпу підірвали роботом танк.
-
-Наземні комплекси з вибухівкою оператори підрозділу «NC13» майже довели до цілі. Але тут раптово почалась інтенсивна атака ворожих FPV-дронів. 
-
-Кілька ударів, і камери двох роботів майже одночасно вийшли з ладу.
-
-Оператори 3-ої ОШБР продовжували вести свої НРК, покладаючись тільки на стрім одного з «Мавіків» у повітрі.
-
-В них вийшло довести камікадзе впритул до танку, який окупанти використовували в якості укриття, і знести його.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6906.MP4" length="26241329" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 14:21:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 21:11:58 +0000</lastBuildDate>
     <item>
       <title>В Ізраїлі прильоти  іранських </title>
       <link>https://www.mandarinai.lt/post/89292</link>
@@ -122,6 +83,19 @@
 C-RAM використовує  осколково-фугасно-запалювальні трасуючі боєприпаси з можливістю самознищення, розроблені для системи ППО M163 Vulcan. Ці снаряди вибухають при влучанні в ціль або під час вигоряння трасера, що значно зменшує ризик побічних пошкоджень, якщо снаряд не влучив.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0100.MP4" length="2265367" type="video/mp4"/>
       <pubDate>Sun, 08 Mar 2026 20:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Удар по Донецькому аеропорту</title>
+      <link>https://www.mandarinai.lt/post/89304</link>
+      <description>🔥 Удар по Донецькому аеропорту зірвав вильоти дронів ворога
+
+Сили оборони України завдали потужного удару по окупованому Донецькому аеропорту, знищивши техніку та зірвавши плани ворога щодо чергового обстрілу.
+
+Для атаки використали ракети ATACMS і Storm Shadow, а розвідку та коригування вогню забезпечував український безпілотник "Бунтар-3".
+
+У результаті нейтралізовано значне скупчення дронів, підготовлених до вильоту, масштаби втрат противника уточнюються.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_20-31-23.mp4" length="3535186" type="video/mp4"/>
+      <pubDate>Sun, 08 Mar 2026 20:31:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
