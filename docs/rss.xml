@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 13:32:14 +0000</lastBuildDate>
-    <item>
-      <title>🔥Поки ви спали, дрони знищувал</title>
-      <link>https://www.mandarinai.lt/post/89275</link>
-      <description>🔥Поки ви спали, дрони знищували нафтопровідну інфраструктуру та резервуари з пальним в російському Армавірі
-
-ЛВДС «Армавір» — це ключовий вузол трубопровідної логістики нафтопродуктів на півдні рф, де паливо перекачується магістральним трубопроводом, накопичується в резервуарному парку та відвантажується залізницею.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_06-06-53.mp4" length="2430261" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 06:06:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 14:13:52 +0000</lastBuildDate>
     <item>
       <title>🙈США попросили росіян не перед</title>
       <link>https://www.mandarinai.lt/post/89276</link>
@@ -120,6 +111,30 @@
       <description>Перша група українських військових та фахівців завтра виїжджає на Близький Схід, щоб навчати країни Перської затоки протидіяти дронам, — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6905.MP4" length="13461370" type="video/mp4"/>
       <pubDate>Sun, 08 Mar 2026 12:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ринок праці для ветерана: від </title>
+      <link>https://www.mandarinai.lt/post/89290</link>
+      <description>Ринок праці для ветерана: від ілюзій до реального становища 
+
+Новий випуск «ВЕТЕРАН ЗНАЄ» вже на YouTube
+📎Подивитись його можна тут!
+
+В гостях — Анастасія Розлуцька, керівниця проєкту «Назустріч» від Work.ua
+
+📎У випуску:
+
+🔻Чи реально знайти роботу паритетну по оплаті у війську?
+
+🔻Як компаніям знайти розуміння підходу до роботи з ветеранами?
+
+🔻Як ветеранам опанувати нову спеціальність, коли працювати потрібно вже зараз?
+
+🔻Переклали військові спеціальності мовою цивільного бізнесу так, щоб це звучало дорого
+
+🔻Найбільший міф роботодавців про ветеранів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_13-41-17.jpg" length="185006" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 13:41:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
