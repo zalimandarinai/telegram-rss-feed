@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 06:45:04 +0000</lastBuildDate>
-    <item>
-      <title>💶 Нідерланди щороку надаватиму</title>
-      <link>https://www.mandarinai.lt/post/89293</link>
-      <description>💶 Нідерланди щороку надаватимуть Україні приблизно по €3 млрд. фінансової допомоги, — Зеленський на зустрічі з прем’єром Робом Єттеном</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_14-44-08.jpg" length="72351" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 14:44:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В окупованому Донецьку після </title>
-      <link>https://www.mandarinai.lt/post/89294</link>
-      <description>💥В окупованому Донецьку після атаки на склад окупантів, щось довго та гучно детонувало</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_14-54-07.mp4" length="2885680" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 14:54:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 07:41:55 +0000</lastBuildDate>
     <item>
       <title>🔥🔥Земля палає під ногами в Тег</title>
       <link>https://www.mandarinai.lt/post/89295</link>
@@ -89,6 +75,23 @@ C-RAM використовує  осколково-фугасно-запалюв
 У результаті нейтралізовано значне скупчення дронів, підготовлених до вильоту, масштаби втрат противника уточнюються.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-08_20-31-23.mp4" length="3535186" type="video/mp4"/>
       <pubDate>Sun, 08 Mar 2026 20:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перші розбіжності між США та І</title>
+      <link>https://www.mandarinai.lt/post/89307</link>
+      <description>Перші розбіжності між США та Ізраїлем почали проявлятися.
+
+Сенатор Ліндсі Грем закликав Ізраїль не бити по нафтовій інфраструктурі Ірану після критики таких атак з боку деяких американських чиновників.
+
+За його словами, нафтова галузь може відіграти ключову роль у майбутньому країни та допомогти іранському народу побудувати «нове і краще життя» після зміни влади.
+
+«Будь ласка, будьте обережні при виборі цілей. Наша мета звільнити іранський народ так, щоб не позбавити його шансу на нове й краще життя після падіння режиму. Нафтова економіка Ірану матиме вирішальне значення для цього», — написав Грем.
+
+Атаки Ізраїлю по нафтовій інфраструктурі можуть обернутися стратегічними проблемами для США.
+
+Такі атаки можуть згуртувати іранське суспільство навколо влади. Крім того, це вже спровокувало зростання світових цін на нафту, яке поки не зупиняється.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6913.MP4" length="8729208" type="video/mp4"/>
+      <pubDate>Mon, 09 Mar 2026 06:58:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
