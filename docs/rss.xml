@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 11:25:55 +0000</lastBuildDate>
-    <item>
-      <title>«Ми закрили ворогу всі повітря</title>
-      <link>https://www.mandarinai.lt/post/89310</link>
-      <description>«Ми закрили ворогу всі повітряні коридори», - командир роти перехоплювачів 115 ОМБР Денис «Мер». Ворог літає швидше та вище, тому стрілецької зброї вже недостатньо. Підрозділ перейшов на дрони-перехоплювачі, які ліквідовують будь-які типи цілей.</description>
-      <pubDate>Mon, 09 Mar 2026 08:37:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Війна з Іраном буде набагато </title>
-      <link>https://www.mandarinai.lt/post/89311</link>
-      <description>«Війна з Іраном буде набагато довшою», - начальник Генштабу ізраїльської армії Еял Замір.
-
-«Але вона визначить наше майбутнє на багато років вперед».
-
-Схоже, і наше, адже довга затяжна війна проти іранського режиму негативно вплине на ситуацію в Україні. Зростання цін на пальне. Дефіцит засобів ППО. Такі можливі наслідки для України від довгої війни на Близькому Сході.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_08-45-07.jpg" length="13742" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 08:45:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 12:31:29 +0000</lastBuildDate>
     <item>
       <title>До 70% росіян виступають за за</title>
       <link>https://www.mandarinai.lt/post/89312</link>
@@ -113,6 +96,20 @@
       <description>В центрі Херсона збили ворожий безпілотник, він не здетонував</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_11-23-50.jpg" length="162953" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 11:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>США атакували та підпалили три</title>
+      <link>https://www.mandarinai.lt/post/89324</link>
+      <description>США атакували та підпалили три іранські танкери в Персидській затоці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6928.MP4" length="1484953" type="video/mp4"/>
+      <pubDate>Mon, 09 Mar 2026 12:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Війна з Іраном тільки розпо</title>
+      <link>https://www.mandarinai.lt/post/89325</link>
+      <description>⚡️ Війна з Іраном тільки розпочинається: вони будуть вимушені капітулювати, ми розгортаємо 50 000 військових, — Пентагон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_12-27-04.jpg" length="211914" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 12:27:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
