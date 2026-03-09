@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 09:35:01 +0000</lastBuildDate>
-    <item>
-      <title>Сім цивільних автівок переслід</title>
-      <link>https://www.mandarinai.lt/post/89302</link>
-      <description>Сім цивільних автівок переслідували мікроавтобус ТЦК на Волині, - обласний ТЦК та СП
-
-Військових підрізали, після чого їхній транспорт вилетів з дороги. Потім ті, хто їхав на автівках, вибили скло та силоміць забрали мобілізованого. Один військовий працівник ТЦК отримав травму голови.  Немає слів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-08_19-57-23.jpg" length="126594" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 19:57:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Посольство США в Іраку прикрив</title>
-      <link>https://www.mandarinai.lt/post/89303</link>
-      <description>Посольство США в Іраку прикриває система протиповітряної оборони C-RAM.  Вона являє собою керовану радаром 20-мм скорострільну гармату для захисту на близькій відстані від ракет.
-
-На системі встановлена тепловізійна камера FLIR та інші елементи.
-
-C-RAM використовує  осколково-фугасно-запалювальні трасуючі боєприпаси з можливістю самознищення, розроблені для системи ППО M163 Vulcan. Ці снаряди вибухають при влучанні в ціль або під час вигоряння трасера, що значно зменшує ризик побічних пошкоджень, якщо снаряд не влучив.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0100.MP4" length="2265367" type="video/mp4"/>
-      <pubDate>Sun, 08 Mar 2026 20:00:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 10:32:49 +0000</lastBuildDate>
     <item>
       <title>🔥 Удар по Донецькому аеропорту</title>
       <link>https://www.mandarinai.lt/post/89304</link>
@@ -114,6 +94,22 @@ C-RAM використовує  осколково-фугасно-запалюв
       <description>📢 Три борти Ту-22 курсом на Брянську область. Існує ймовірність пусків ракет Х-22 — у разі тривоги подбайте про власну безпеку.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_09-33-10.jpg" length="219989" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 09:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ізраїль атакував російський к</title>
+      <link>https://www.mandarinai.lt/post/89316</link>
+      <description>💥Ізраїль атакував російський культурний центр у Лівані: авіаудар по району Аль-Баяд у місті Набатія майже повністю зруйнував будівлю
+
+Відео: Rapptly / IRGC</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-09_10-05-42.mp4" length="5128671" type="video/mp4"/>
+      <pubDate>Mon, 09 Mar 2026 10:05:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Момент переслідування 7 автом</title>
+      <link>https://www.mandarinai.lt/post/89317</link>
+      <description>👀Момент переслідування 7 автомобілів за бусом ТЦК на Волині — в результаті авто військових з’їхало в кювет</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-09_10-27-32.mp4" length="489055" type="video/mp4"/>
+      <pubDate>Mon, 09 Mar 2026 10:27:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
