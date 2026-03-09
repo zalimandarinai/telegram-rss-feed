@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 12:31:29 +0000</lastBuildDate>
-    <item>
-      <title>До 70% росіян виступають за за</title>
-      <link>https://www.mandarinai.lt/post/89312</link>
-      <description>До 70% росіян виступають за завершення війни в Україні, такі дані соцопитувань публікує BILD.
-
-Вони досягли рекордних значень з початку повномасштабної агресії.
-
-А в якості ілюстрації сьогоднішній удар по хімічному підприємству в росії, - один з тих моментів, які змушують росіян передивитись свої погляди на вторгнення до сусідньої країни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_08-52-54.jpg" length="62529" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 08:52:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 13:56:27 +0000</lastBuildDate>
     <item>
       <title>📢 Три борти Ту-22 курсом на Бр</title>
       <link>https://www.mandarinai.lt/post/89315</link>
@@ -110,6 +99,17 @@
       <description>⚡️ Війна з Іраном тільки розпочинається: вони будуть вимушені капітулювати, ми розгортаємо 50 000 військових, — Пентагон</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_12-27-04.jpg" length="211914" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 12:27:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>«А украинцев всех, до младенце</title>
+      <link>https://www.mandarinai.lt/post/89328</link>
+      <description>«А украинцев всех, до младенцев, всех уничтожить», - мила тиха російська бабулька, яка виросла на великій російській культурі Пушкіна, Толстого, Єсеніна. 
+
+Невзоров, який першим опублікував це в себе, задає питання, а як же за кілька років, в XXI столітті, можна перетворити мільйони людей на канібалів. 
+
+Відповідь насправді ще жахливіша, ніж запитання: ніхто нікого не перетворював, вони і були такими, інакше б головний канібал не став би президентом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6932.MP4" length="18691078" type="video/mp4"/>
+      <pubDate>Mon, 09 Mar 2026 13:48:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
