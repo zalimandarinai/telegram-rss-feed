@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 19:31:20 +0000</lastBuildDate>
-    <item>
-      <title>путін, схоже, зараз лопне від </title>
-      <link>https://www.mandarinai.lt/post/89336</link>
-      <description>путін, схоже, зараз лопне від щастя, він зібрав своїх нафтовиків і наказав готуватися до повної зупинки постачання нафти через Ормузьку протоку. Це означає шалений стрибок світових цін на нафту, а російський бюджет та фінансування війни в Україні отримають потужне джерело грошей. Доки триває війна проти Ірану.</description>
-      <pubDate>Mon, 09 Mar 2026 16:34:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Китай, ймовірно,  готується </title>
-      <link>https://www.mandarinai.lt/post/89337</link>
-      <description>‼️Китай, ймовірно,  готується до ядерної війни та переводить ракети у стан бойової готовності, — The Washington Post
-
-Китай провів таємні випробування, внаслідок чого сейсмічні датчики зафіксували два підземні поштовхи за 12 секунд.
-
-За даними США, Китай використав «декуплінг», щоб приховати вибух і зробити його менш помітним для спостережень</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_16-43-45.jpg" length="213691" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 16:43:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 20:19:14 +0000</lastBuildDate>
     <item>
       <title>На 01:00 цього відео: російськ</title>
       <link>https://www.mandarinai.lt/post/89339</link>
@@ -125,6 +108,15 @@
       <description>В Харкові сильна пожежа внаслідок атаки безпілотника</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6945.MP4" length="1722537" type="video/mp4"/>
       <pubDate>Mon, 09 Mar 2026 19:29:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іран заявив про початок "важко</title>
+      <link>https://www.mandarinai.lt/post/89350</link>
+      <description>Іран заявив про початок "важкої" війни: Тегеран атакуватиме лише важкими ракетами з боєголовками 1000 кг – одна здатна знищити цілий міський квартал, вже не кажучи про бункер 
+
+Командувач КВІР Мусаві додав, що дальність атак, їх інтенсивність та тривалість теж зросте.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_19-36-47.jpg" length="86862" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 19:36:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
