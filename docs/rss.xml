@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 14:41:23 +0000</lastBuildDate>
-    <item>
-      <title>👀Момент переслідування 7 автом</title>
-      <link>https://www.mandarinai.lt/post/89317</link>
-      <description>👀Момент переслідування 7 автомобілів за бусом ТЦК на Волині — в результаті авто військових з’їхало в кювет</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-09_10-27-32.mp4" length="489055" type="video/mp4"/>
-      <pubDate>Mon, 09 Mar 2026 10:27:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 15:44:00 +0000</lastBuildDate>
     <item>
       <title>🗣Після загибелі Алі Хаменеї Ір</title>
       <link>https://www.mandarinai.lt/post/89318</link>
@@ -78,13 +71,6 @@
       <pubDate>Mon, 09 Mar 2026 12:13:39 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️ Війна з Іраном тільки розпо</title>
-      <link>https://www.mandarinai.lt/post/89325</link>
-      <description>⚡️ Війна з Іраном тільки розпочинається: вони будуть вимушені капітулювати, ми розгортаємо 50 000 військових, — Пентагон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_12-27-04.jpg" length="211914" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 12:27:04 +0000</pubDate>
-    </item>
-    <item>
       <title>«А украинцев всех, до младенце</title>
       <link>https://www.mandarinai.lt/post/89328</link>
       <description>«А украинцев всех, до младенцев, всех уничтожить», - мила тиха російська бабулька, яка виросла на великій російській культурі Пушкіна, Толстого, Єсеніна. 
@@ -130,6 +116,26 @@
 Глибокі співчуття рідним, близьким та побратимам пілота</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_14-27-53.jpg" length="100585" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 14:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 Україна не збирається відмов</title>
+      <link>https://www.mandarinai.lt/post/89331</link>
+      <description>💬 Україна не збирається відмовлятися від Донеччини в обмін на мирну угоду: поїздка Зеленського у цей регіон підтвердила це, — NYT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_15-08-37.jpg" length="144455" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 15:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Інкасаторів викрали на БТРах</title>
+      <link>https://www.mandarinai.lt/post/89332</link>
+      <description>❗️Інкасаторів викрали на БТРах під дулами кулемета, а далі тримали в кайданках 28 годин до втрати свідомості — МЗС України розповіло моторошні деталі поводження з інкасаторами «Ощадбанку» в Угорщині
+
+Працівників банку утримували з завʼязаними очима, без телефонів та навіть не дозволили зв’язатися з рідними, посольством, адвокатом чи роботодавцем.
+
+Один із постраждалих від цих «катувань» мав цукровий діабет і отримав допомогу лише після втрати свідомості. Чоловіку примусово ввели препарат, через який різко підвищився рівень цукру. Його довелося госпіталізувати.
+
+Попри повернення українців додому та заборону їм в’їзду до Шенгену на 3 роки, викрадені автівки з $40 млн, €35 млн і 9 кг золота — не повернули</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_15-28-38.jpg" length="201484" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 15:28:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
