@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 18:32:02 +0000</lastBuildDate>
-    <item>
-      <title>❗️Сьогодні під ракетним ударом</title>
-      <link>https://www.mandarinai.lt/post/89386</link>
-      <description>❗️Сьогодні під ракетним ударом російський обласний центр Брянськ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6962.MP4" length="443292" type="video/mp4"/>
-      <pubDate>Tue, 10 Mar 2026 15:07:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Нацполіція та СБУ викрили і</title>
-      <link>https://www.mandarinai.lt/post/89388</link>
-      <description>❗️ Нацполіція та СБУ викрили іранського генерала, який організував передачу росії технологій виробництва Shahed
-
-🇮🇷 Ключовий координатор справи Абдоллу Мехрабі, бригадний генерал КВІР.
-
-Етапи його залучення в російські воєнні злочини.
-
-▫️ В липні 2022 року росія домовилася з Іраном про закупівлю дронів Shahed-136.
-
-▫️ 19 січня 2023 року «Алабуга» та Sahara Thunder Company PJS уклали контракт на постачання щонайменше 2400 дронів Shahed-136 під назвою «Проєкт моторні лодки» і передачу технологій.
-
-▫️ В 2023–2024 роках за іранськими технологіями на підприємстві «Алабуга» виготовили щонайменше 13315 безпілотників «Герань-2», тобто, Shahed-136.
-
-Абдоллу Мехрабі отримав підозру. Йому загрожує 15 років.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-10_15-26-29.jpg" length="87987" type="image/jpeg"/>
-      <pubDate>Tue, 10 Mar 2026 15:26:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 19:29:37 +0000</lastBuildDate>
     <item>
       <title>💥🔥Удари по заводу російського </title>
       <link>https://www.mandarinai.lt/post/89390</link>
@@ -84,6 +58,19 @@ INSIDER UA – це еліта.  Канал читають у владних к
       <description>💥 Офіційно: Сили оборони ефективно поцілили ракетами Storm Shadow у брянський завод мікроелектроніки «Кремній Ел», - Генштаб</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-10_18-15-20.mp4" length="1528815" type="video/mp4"/>
       <pubDate>Tue, 10 Mar 2026 18:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перші хвилини після ударів рак</title>
+      <link>https://www.mandarinai.lt/post/89401</link>
+      <description>Перші хвилини після ударів ракет Storm Shadow по брянському заводу «Кремній Ел»</description>
+      <pubDate>Tue, 10 Mar 2026 18:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Версія удару від росЗМІ.  6 за</title>
+      <link>https://www.mandarinai.lt/post/89405</link>
+      <description>Версія удару від росЗМІ.  6 загиблих та 37 постраждалих. Ракети Storm Shadow розбили брянський завод мікроелектроніки, одна з ракет не долетіла до цілі та упала в центрі міста.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6972.MP4" length="3496775" type="video/mp4"/>
+      <pubDate>Tue, 10 Mar 2026 19:09:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
