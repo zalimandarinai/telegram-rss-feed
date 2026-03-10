@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 06:32:50 +0000</lastBuildDate>
-    <item>
-      <title>В Харкові сильна пожежа внаслі</title>
-      <link>https://www.mandarinai.lt/post/89349</link>
-      <description>В Харкові сильна пожежа внаслідок атаки безпілотника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6945.MP4" length="1722537" type="video/mp4"/>
-      <pubDate>Mon, 09 Mar 2026 19:29:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іран заявив про початок "важко</title>
-      <link>https://www.mandarinai.lt/post/89350</link>
-      <description>Іран заявив про початок "важкої" війни: Тегеран атакуватиме лише важкими ракетами з боєголовками 1000 кг – одна здатна знищити цілий міський квартал, вже не кажучи про бункер 
-
-Командувач КВІР Мусаві додав, що дальність атак, їх інтенсивність та тривалість теж зросте.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-09_19-36-47.jpg" length="86862" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 19:36:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 07:32:11 +0000</lastBuildDate>
     <item>
       <title>💬 Не хочу тут хвалитися. Але ж</title>
       <link>https://www.mandarinai.lt/post/89355</link>
@@ -58,11 +42,27 @@
       <pubDate>Tue, 10 Mar 2026 06:04:37 +0000</pubDate>
     </item>
     <item>
+      <title>Потужне влучання в російський </title>
+      <link>https://www.mandarinai.lt/post/89365</link>
+      <description>Потужне влучання в російський «шахед» зенітного комплексу «Стріла-10» в прифронтовій зоні. Саме там, де триває звільнення окупованих територій. 
+
+Чітко спрацювали бійці розрахунку зенітного ракетно-артилерійського дивізіону 92-ої ОШБР, завдяки якій, в тому числі, вдалось звільнити від ворога частину Дніпропетровщини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6947.MP4" length="4804050" type="video/mp4"/>
+      <pubDate>Tue, 10 Mar 2026 06:45:25 +0000</pubDate>
+    </item>
+    <item>
       <title>🔴 Майже всю територію Дніпропе</title>
-      <link>https://www.mandarinai.lt/post/89364</link>
+      <link>https://www.mandarinai.lt/post/89366</link>
       <description>🔴 Майже всю територію Дніпропетровщини вже звільнено від росіян. ЗСУ залишається завершити роботу у трьох невеликих населених пунктах та провести зачистку ще у двох, — начальник Головного оперативного управління Генерального штабу генерал-майор Комаренко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-10_06-30-11.jpg" length="21993" type="image/jpeg"/>
-      <pubDate>Tue, 10 Mar 2026 06:30:11 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-10_07-06-19.jpg" length="150780" type="image/jpeg"/>
+      <pubDate>Tue, 10 Mar 2026 07:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Є відео, де Трамп займається с</title>
+      <link>https://www.mandarinai.lt/post/89368</link>
+      <description>Є відео, де Трамп займається сексом з дітьми. Вони будуть опубліковані і покладуть край його президентству раз і назавжди, — канадський журналіст Марк Слапінскі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-10_07-22-09.jpg" length="80074" type="image/jpeg"/>
+      <pubDate>Tue, 10 Mar 2026 07:22:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
