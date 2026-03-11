@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 17:39:06 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Щойно русня вдарила КАБом по</title>
-      <link>https://www.mandarinai.lt/post/89434</link>
-      <description>⚡️Щойно русня вдарила КАБом по багатоповерхівці в Запоріжжі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_14-53-36.mp4" length="473067" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 14:53:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 18:37:04 +0000</lastBuildDate>
     <item>
       <title>🔥 Горять нафтосховища в омансь</title>
       <link>https://www.mandarinai.lt/post/89436</link>
@@ -76,8 +69,7 @@ https://rvv-kniga.com/product/yurij-legun-topografichnyj-opys-podilqqsqqkoyi-gub
     <item>
       <title>«Впав, зараз впаде», - шведськ</title>
       <link>https://www.mandarinai.lt/post/89441</link>
-      <description>«Впав, зараз впаде», - шведська 40-мм зенітна гармата Bofors L70 збиває
-«Shahed-136» в Харківській області.
+      <description>«Впав, зараз впаде», - шведська 40-мм зенітна гармата Bofors L70 збиває «Shahed-136» в Харківській області.
 
 Робота МВГ з 5-ї Слобожанської бригади «Скіф» Нацгвардії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6991.MP4" length="6863905" type="video/mp4"/>
@@ -98,6 +90,26 @@ https://rvv-kniga.com/product/yurij-legun-topografichnyj-opys-podilqqsqqkoyi-gub
       <description>💥У російській Тулі палає ПАО «Косогорский металлургический завод» після атаки БПЛА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_17-35-27.mp4" length="683813" type="video/mp4"/>
       <pubDate>Wed, 11 Mar 2026 17:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Антонівці, передмісті Херсон</title>
+      <link>https://www.mandarinai.lt/post/89448</link>
+      <description>В Антонівці, передмісті Херсона, російський дрон вбив чоловіка, тіло евакуювали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6988.MP4" length="19180673" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 18:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили Безпілотних Систем уразил</title>
+      <link>https://www.mandarinai.lt/post/89449</link>
+      <description>Сили Безпілотних Систем уразили ЗРК «Бук-М1» та низку військових цілей в ніч 10 березня .</description>
+      <pubDate>Wed, 11 Mar 2026 18:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Внаслідок атаки по Запоріжж</title>
+      <link>https://www.mandarinai.lt/post/89450</link>
+      <description>❗️ Внаслідок атаки по Запоріжжю 11 поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_18-28-17.jpg" length="277750" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 18:28:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
