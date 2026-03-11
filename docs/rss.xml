@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 08:25:42 +0000</lastBuildDate>
-    <item>
-      <title>🔴Трамп заявив, що американські</title>
-      <link>https://www.mandarinai.lt/post/89409</link>
-      <description>🔴Трамп заявив, що американські військові знищили десять іранських човнів, які могли використовуватися для встановлення морських мін
-
-«Я радий повідомити, що протягом останніх кількох годин ми вразили і повністю знищили 10 неактивних човнів або суден для встановлення мін. Більше – попереду», – написав президент США Дональд Трамп в соцмережі Truth Social. Коли саме і де були знищені ці судна, він не уточнив</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-10_20-39-59.jpg" length="41815" type="image/jpeg"/>
-      <pubDate>Tue, 10 Mar 2026 20:39:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 09:30:25 +0000</lastBuildDate>
     <item>
       <title>🔴"Я наляканий як ніколи": Сена</title>
       <link>https://www.mandarinai.lt/post/89410</link>
@@ -109,6 +100,17 @@
       <description>⚡️ Затримали ромів, які вчора з палицями напали на працівників ТЦК на Закарпатті: тепер цим чоловікам загрожує від 3 до 7 років ув’язнення, — поліція</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_08-15-53.jpg" length="93338" type="image/jpeg"/>
       <pubDate>Wed, 11 Mar 2026 08:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴 Україна має «карти», які ран</title>
+      <link>https://www.mandarinai.lt/post/89424</link>
+      <description>🔴 Україна має «карти», які раніше не показувала, і це результат роботи наших військових, - Зеленський
+
+Співпраця росії та Ірану у виробництві дронів є одним із найбільших глобальних ризиків.    
+
+Світ поки не готовий до потенційної Третьої світової війни через нові технології, можливі союзи агресорів і слабку технічну готовність Заходу. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_08-51-30.jpg" length="55714" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 08:51:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
