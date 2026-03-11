@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 10:26:30 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦🇸🇦Саудівська Аравія планує з</title>
-      <link>https://www.mandarinai.lt/post/89412</link>
-      <description>🇺🇦🇸🇦Саудівська Аравія планує закупити велику кількість українських дронів-перехоплювачів та засобів РЕБ для боротьби з "шахедами", – WSJ з посиланням на джерела</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-10_21-31-19.jpg" length="160282" type="image/jpeg"/>
-      <pubDate>Tue, 10 Mar 2026 21:31:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 11:23:25 +0000</lastBuildDate>
     <item>
       <title>💥Ще один вдалий ракурс удару п</title>
       <link>https://www.mandarinai.lt/post/89413</link>
@@ -93,6 +86,13 @@
       <description>Дрон женеться за російською військовою вантажівкою і наздоганяє її. Для війни нічого незвичного. Крім того, що атака сталася біля населеного пункту Піски, за 50 кілометрів від лінії бойового зіткнення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6977.MP4" length="26432079" type="video/mp4"/>
       <pubDate>Wed, 11 Mar 2026 10:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥ЗСУ атакують Сочі вже майже д</title>
+      <link>https://www.mandarinai.lt/post/89428</link>
+      <description>🔥ЗСУ атакують Сочі вже майже добу, повідомив мер курорту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_10-36-03.jpg" length="65808" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 10:36:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
