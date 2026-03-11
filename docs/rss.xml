@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 11:23:25 +0000</lastBuildDate>
-    <item>
-      <title>💥Ще один вдалий ракурс удару п</title>
-      <link>https://www.mandarinai.lt/post/89413</link>
-      <description>💥Ще один вдалий ракурс удару по виробництву ключових компонентів російської ППО у Брянську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-10_21-42-43.mp4" length="4121664" type="video/mp4"/>
-      <pubDate>Tue, 10 Mar 2026 21:42:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 12:30:16 +0000</lastBuildDate>
     <item>
       <title>💥🔥Під Маріуполем вночі Сили об</title>
       <link>https://www.mandarinai.lt/post/89415</link>
@@ -93,6 +86,23 @@
       <description>🔥ЗСУ атакують Сочі вже майже добу, повідомив мер курорту</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_10-36-03.jpg" length="65808" type="image/jpeg"/>
       <pubDate>Wed, 11 Mar 2026 10:36:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Москва готується до вторгнення</title>
+      <link>https://www.mandarinai.lt/post/89429</link>
+      <description>Москва готується до вторгнення в сусідні балтійські країни.
+
+Про це говорить той факт, що Міноборони росії розробило законопроєкт, який розширює можливості використання збройних сил за межами росії «з метою захисту прав її громадян». 
+
+Як повідомляє агентство «Інтерфакс», вчора, 10 березня, відповідний документ для розгляду схвалила урядова комісія з законопроєктної діяльності.
+
+«Законопроєкт передбачає внесення змін до Федерального закону «Про громадянство Російської Федерації» та Федерального закону «Про оборону», які, передбачають екстериторіальне використання за рішенням президента рф формувань зс для захисту громадян Російської Федерації», — заявив «Інтерфакс».
+
+Найближчі громадяни, які кричать «путінпріді», в Естонії та Латвії.
+
+«Візантійська» система взаємодії в росії така, що без ухвалення самої ідеї війни проти сусідніх країн, а не тільки України, документ взагалі не зʼявився би в загальному доступі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_11-33-17.jpg" length="132793" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 11:33:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
