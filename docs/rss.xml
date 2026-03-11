@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 20:20:42 +0000</lastBuildDate>
-    <item>
-      <title>«Впав, зараз впаде», - шведськ</title>
-      <link>https://www.mandarinai.lt/post/89441</link>
-      <description>«Впав, зараз впаде», - шведська 40-мм зенітна гармата Bofors L70 збиває «Shahed-136» в Харківській області.
-
-Робота МВГ з 5-ї Слобожанської бригади «Скіф» Нацгвардії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6991.MP4" length="6863905" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 16:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡Українці погрожують моїй роди</title>
-      <link>https://www.mandarinai.lt/post/89442</link>
-      <description>🤡Українці погрожують моїй родині, дітям та онукам, — премʼєр Угорщини Орбан.
-
-Путінська підстилка, яка програє вибори в Угорщині, намагається втримати владу подібними передвиборчими виставами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6997.MP4" length="20494992" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 16:54:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 21:20:01 +0000</lastBuildDate>
     <item>
       <title>💥У російській Тулі палає ПАО «</title>
       <link>https://www.mandarinai.lt/post/89444</link>
@@ -79,6 +61,30 @@
       <description>Хезболла оголошує «СВО» Ізраїлю — ліванське угруповання, яке нині веде обстріл Ізраїлю, заявляє про початок спеціальної військової операції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_19-13-35.mp4" length="491056" type="video/mp4"/>
       <pubDate>Wed, 11 Mar 2026 19:13:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱 Іран показав свої підземні т</title>
+      <link>https://www.mandarinai.lt/post/89456</link>
+      <description>😱 Іран показав свої підземні тунелі, заповнені безпілотними катерами, протикорабельними ракетами та морськими мінами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_20-24-07.mp4" length="9693295" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 20:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ЄС припинить фінансування Ве</title>
+      <link>https://www.mandarinai.lt/post/89457</link>
+      <description>‼️ЄС припинить фінансування Венеційської бієнале в разі допуску росії
+
+Фонд Бієнале, який проводить престижний Венеційський фестиваль мистецтва, зазнав широкого засудження за рішення дозволити Росії брати участь у цьогорічному заході , який пройде в травні-листопаді — вперше з початку повномасштабного вторгнення в Україну. 
+
+У спільному листі (на фото), надісланому організаторам, міністри культури 22 європейських країн, зокрема Франції, Німеччини, Польщі та України, закликали Бієнале «переглянути участь рф»:
+
+Росія залишається під європейськими та міжнародними санкціями, зокрема в культурній сфері, накладеними за порушення міжнародного права та суверенітету України. 
+
+Також єврокомісарка з технологій Хенна Вірккунен та єврокомісар з культури Гленн Мікаллеф попередили, що якщо росії дозволять взяти участь, вони «розглянуть припинення поточного гранту ЄС для Фонду Бієнале», який організовує захід.
+
+Міністерство культури Італії також заявило, що виступає проти рішення фестивалю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_20-54-38.jpg" length="144310" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 20:54:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
