@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 05:05:14 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Конфлікт з Іраном може трив</title>
-      <link>https://www.mandarinai.lt/post/89398</link>
-      <description>❗️ Конфлікт з Іраном може тривати ще мінімум два тижні і, ймовірно, не призведе до падіння режиму в Тегерані, - визнає ізраїльське видання Ynet 
-
-За даними видання:
-
-▫️ Ейфорія перших днів операції в Ізраїлі поступово змінилася розчаруванням.
-
-▫️ Влада в Ірані демонструє стійкість, а очікування внутрішнього повстання чи колапсу режиму поки що не справджуються.
-
-▫️ Сценарій швидкої зміни влади в Тегерані виглядає малоймовірним.
-
-▫️ Прем’єр Ізраїлю вже готує суспільство до можливого завершення війни без повалення влади аятол в Ірані.
-
-Отже, у виграшу залишається росія зі зняттям санкцій, а також збільшенням цін на нафту і пальне.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6969.MP4" length="8800427" type="video/mp4"/>
-      <pubDate>Tue, 10 Mar 2026 17:44:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 Офіційно: Сили оборони ефект</title>
-      <link>https://www.mandarinai.lt/post/89399</link>
-      <description>💥 Офіційно: Сили оборони ефективно поцілили ракетами Storm Shadow у брянський завод мікроелектроніки «Кремній Ел», - Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-10_18-15-20.mp4" length="1528815" type="video/mp4"/>
-      <pubDate>Tue, 10 Mar 2026 18:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перші хвилини після ударів рак</title>
-      <link>https://www.mandarinai.lt/post/89401</link>
-      <description>Перші хвилини після ударів ракет Storm Shadow по брянському заводу «Кремній Ел»</description>
-      <pubDate>Tue, 10 Mar 2026 18:40:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 06:35:56 +0000</lastBuildDate>
     <item>
       <title>Версія удару від росЗМІ.  6 за</title>
       <link>https://www.mandarinai.lt/post/89405</link>
@@ -131,6 +99,20 @@
       <description>💥Ще один вдалий ракурс удару по виробництву ключових компонентів російської ППО у Брянську</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-10_21-42-43.mp4" length="4121664" type="video/mp4"/>
       <pubDate>Tue, 10 Mar 2026 21:42:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Під Маріуполем вночі Сили об</title>
+      <link>https://www.mandarinai.lt/post/89415</link>
+      <description>💥🔥Під Маріуполем вночі Сили оборони уразили великий склад БК окупантів, який досі детонує</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_05-37-10.mp4" length="2776715" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 05:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Зранку атаковано російське хі</title>
+      <link>https://www.mandarinai.lt/post/89417</link>
+      <description>💥Зранку атаковано російське хімічне підприємство ПАТ "КуйбишевАзот".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_05-39-04.jpg" length="108714" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 05:39:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
