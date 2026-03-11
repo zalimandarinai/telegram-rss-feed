@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 12:30:16 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Під Маріуполем вночі Сили об</title>
-      <link>https://www.mandarinai.lt/post/89415</link>
-      <description>💥🔥Під Маріуполем вночі Сили оборони уразили великий склад БК окупантів, який досі детонує</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_05-37-10.mp4" length="2776715" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 05:37:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Зранку атаковано російське хі</title>
-      <link>https://www.mandarinai.lt/post/89417</link>
-      <description>💥Зранку атаковано російське хімічне підприємство ПАТ "КуйбишевАзот".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_05-39-04.jpg" length="108714" type="image/jpeg"/>
-      <pubDate>Wed, 11 Mar 2026 05:39:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 13:56:13 +0000</lastBuildDate>
     <item>
       <title>Дві людини загинули та п'ять п</title>
       <link>https://www.mandarinai.lt/post/89420</link>
@@ -103,6 +89,34 @@
 «Візантійська» система взаємодії в росії така, що без ухвалення самої ідеї війни проти сусідніх країн, а не тільки України, документ взагалі не зʼявився би в загальному доступі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_11-33-17.jpg" length="132793" type="image/jpeg"/>
       <pubDate>Wed, 11 Mar 2026 11:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Потужний удар по іранському мі</title>
+      <link>https://www.mandarinai.lt/post/89430</link>
+      <description>Потужний удар по іранському місту Кум, де знаходилась резиденція аятол.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6984.MP4" length="8795689" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 12:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Взяли в полон групу штурмовикі</title>
+      <link>https://www.mandarinai.lt/post/89431</link>
+      <description>Взяли в полон групу штурмовиків дроном з гучномовцем.
+
+Аеророзвідники бригади ДПСУ «Гарт» помітили групу окупантів ще під час перетину кордону на Харківщині. 
+
+Після ударів дронів вцілілі штурмовики розгубилися. 
+
+Замість того щоб добивати ворога, оператори підняли в небо «Matrice» з гучномовцем. 
+
+Чіткі інструкції з повітря змусили чотирьох загарбників підняти руки та беззаперечно слідувати за нашою «пташкою».</description>
+      <pubDate>Wed, 11 Mar 2026 12:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Атака російського дрона по мар</title>
+      <link>https://www.mandarinai.lt/post/89432</link>
+      <description>Атака російського дрона по маршрутці в Херсоні, 19 постраждалих, серед них 17-річний підліток.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6986.MP4" length="20455658" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 12:49:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
