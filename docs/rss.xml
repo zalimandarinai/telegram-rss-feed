@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 06:35:56 +0000</lastBuildDate>
-    <item>
-      <title>Версія удару від росЗМІ.  6 за</title>
-      <link>https://www.mandarinai.lt/post/89405</link>
-      <description>Версія удару від росЗМІ.  6 загиблих та 37 постраждалих. Ракети Storm Shadow розбили брянський завод мікроелектроніки, одна з ракет не долетіла до цілі та упала в центрі міста.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6972.MP4" length="3496775" type="video/mp4"/>
-      <pubDate>Tue, 10 Mar 2026 19:09:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️росія розгортає військових н</title>
-      <link>https://www.mandarinai.lt/post/89406</link>
-      <description>❗️росія розгортає військових на танкерах «тіньового флоту», — Helsingin Sanomat
-
-До екіпажів суден, які в обхід санкцій перевозять російську нафту, почали включати військових, які контролюють команду та запобігають захопленню танкерів західними країнами, повідомила фінська газета. 
-
-Розслідувачі виявили 17 чоловіків, які не мали морської кваліфікації на суднах «тіньового флоту», що діяли в Фінській затоці. З них у 12 було встановлено зв'язки з ПВК «Вагнер» або в ГРУ РФ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-10_19-51-13.jpg" length="38786" type="image/jpeg"/>
-      <pubDate>Tue, 10 Mar 2026 19:51:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 07:35:06 +0000</lastBuildDate>
     <item>
       <title>‼️Трамп пригрозив безпрецедент</title>
       <link>https://www.mandarinai.lt/post/89407</link>
@@ -113,6 +95,22 @@
       <description>💥Зранку атаковано російське хімічне підприємство ПАТ "КуйбишевАзот".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_05-39-04.jpg" length="108714" type="image/jpeg"/>
       <pubDate>Wed, 11 Mar 2026 05:39:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дві людини загинули та п'ять п</title>
+      <link>https://www.mandarinai.lt/post/89420</link>
+      <description>Дві людини загинули та п'ять постраждали в результаті російського удару по Харкову, — місцева влада
+
+Безпілотник атакував цивільне підприємство у Шевченківському районі, стверджує мер міста Ігор Терехов.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_06-36-48.jpg" length="21283" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 06:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полк «Скеля» наступає на півдн</title>
+      <link>https://www.mandarinai.lt/post/89421</link>
+      <description>Полк «Скеля» наступає на півдні Дніпропетровської області. Прорив російської оборони і просування на 10 км. Звільнено Тернове.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6979.MP4" length="10168491" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 07:18:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
