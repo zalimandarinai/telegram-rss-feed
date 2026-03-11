@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 14:39:17 +0000</lastBuildDate>
-    <item>
-      <title>Дві людини загинули та п'ять п</title>
-      <link>https://www.mandarinai.lt/post/89420</link>
-      <description>Дві людини загинули та п'ять постраждали в результаті російського удару по Харкову, — місцева влада
-
-Безпілотник атакував цивільне підприємство у Шевченківському районі, стверджує мер міста Ігор Терехов.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-11_06-36-48.jpg" length="21283" type="image/jpeg"/>
-      <pubDate>Wed, 11 Mar 2026 06:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полк «Скеля» наступає на півдн</title>
-      <link>https://www.mandarinai.lt/post/89421</link>
-      <description>Полк «Скеля» наступає на півдні Дніпропетровської області. Прорив російської оборони і просування на 10 км. Звільнено Тернове.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6979.MP4" length="10168491" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 07:18:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Батальйон «Signum» спалив окуп</title>
-      <link>https://www.mandarinai.lt/post/89422</link>
-      <description>Батальйон «Signum» спалив окупантам більше десятка «буханок» біля Лимана</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6980.MP4" length="18854075" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 07:45:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 15:35:10 +0000</lastBuildDate>
     <item>
       <title>⚡️ Затримали ромів, які вчора </title>
       <link>https://www.mandarinai.lt/post/89423</link>
@@ -117,6 +94,30 @@
       <description>Атака російського дрона по маршрутці в Херсоні, 19 постраждалих, серед них 17-річний підліток.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6986.MP4" length="20455658" type="video/mp4"/>
       <pubDate>Wed, 11 Mar 2026 12:49:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Щойно русня вдарила КАБом по</title>
+      <link>https://www.mandarinai.lt/post/89434</link>
+      <description>⚡️Щойно русня вдарила КАБом по багатоповерхівці в Запоріжжі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_14-53-36.mp4" length="473067" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 14:53:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Горять нафтосховища в омансь</title>
+      <link>https://www.mandarinai.lt/post/89436</link>
+      <description>🔥 Горять нафтосховища в оманському порту Салала після атаки іранського безпілотник</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_15-06-40.mp4" length="1880623" type="video/mp4"/>
+      <pubDate>Wed, 11 Mar 2026 15:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪖 «Свои, выходи, свои за тобой</title>
+      <link>https://www.mandarinai.lt/post/89437</link>
+      <description>🪖 «Свои, выходи, свои за тобой пришли», - бійці 8-го полку Сил спеціальних операцій, майстерно прикинувшись росіянами, беруть у полон чотирьох окупантів на ворожій позиції «Космос» біля Лимана.
+
+📡 Але цьому передувала «радіоігра», в якій була використана реальна інформація про конкретних окупантів на позиції.
+
+⏯️ Детальніше про те, як відбувалась операція та підготовка до неї, дивіться за посиланням https://youtu.be/7OymMhd9SRc</description>
+      <pubDate>Wed, 11 Mar 2026 15:14:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
