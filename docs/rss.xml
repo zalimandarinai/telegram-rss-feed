@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 21:21:21 +0000</lastBuildDate>
-    <item>
-      <title>Батальйон «Карпатська Січ» дуж</title>
-      <link>https://www.mandarinai.lt/post/89507</link>
-      <description>Батальйон «Карпатська Січ» дуже розлютився на окупантів.
-
-Оператори дронів 49-го ОШБ знищують російський логістичний транспорт вже там, де раніше окупанти їздили «на розслабоні» і навіть на слідкували за небом.
-
-А приховати зброю від дронів не допомагає і якісне маскування.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7045.MP4" length="10122785" type="video/mp4"/>
-      <pubDate>Thu, 12 Mar 2026 16:18:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 22:13:05 +0000</lastBuildDate>
     <item>
       <title>🔴Українські дрони-перехоплювач</title>
       <link>https://www.mandarinai.lt/post/89508</link>
@@ -112,7 +101,7 @@ Saudi Aramco планує терміново придбати українськ
     <item>
       <title>Одна людина загинула, а ще дво</title>
       <link>https://www.mandarinai.lt/post/89519</link>
-      <description>Одна людина загинула, а ще двоє отримали поранення в результаті стрілянини у єврейській школі у Мічігані, — NBC News 
+      <description>Одна людина загинула, а ще двоє отримали поранення в результаті стрілянини в університеті міста Норфолк в штаті Вірджинія, — NBC News. Другий випадок атаки на навчальні заклади в США за день. Перший стався в єврейській школі у Мічігані. 
 
 Нападником виявився 36-річний Мохамед Бейлор Джалло, якого, за даними видання, засудили за надання матеріальної підтримки ІДІЛ у 2016 році. 
 
@@ -121,13 +110,22 @@ Saudi Aramco планує терміново придбати українськ
       <pubDate>Thu, 12 Mar 2026 20:25:32 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️ Іранські дрони-камікадзе ат</title>
+      <title>⚡️ Іранські шахеди атакували ф</title>
       <link>https://www.mandarinai.lt/post/89521</link>
-      <description>⚡️ Іранські дрони-камікадзе атакували французьку військову базу поблизу аеропорту Ербіля на півночі Іраку, — Clash Report
+      <description>⚡️ Іранські шахеди атакували французьку військову базу поблизу аеропорту Ербіля на півночі Іраку, — Clash Report
 
 Внаслідок атаки поранено шестеро французьких військових.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_21-13-58.mp4" length="210228" type="video/mp4"/>
       <pubDate>Thu, 12 Mar 2026 21:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>США втратили літак-заправник K</title>
+      <link>https://www.mandarinai.lt/post/89522</link>
+      <description>США втратили літак-заправник KC-135 у повітряному просторі Іраку, — Центральне командування США.
+
+У інциденті брали участь два літаки. Один з літаків розбився на заході Іраку, а другий безпечно приземлився. Заявляється, що це сталось не через ворожий чи дружній вогонь.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_22-01-10.jpg" length="56489" type="image/jpeg"/>
+      <pubDate>Thu, 12 Mar 2026 22:01:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
