@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 09:31:07 +0000</lastBuildDate>
-    <item>
-      <title>🤝Країни G7 не планують послабл</title>
-      <link>https://www.mandarinai.lt/post/89468</link>
-      <description>🤝Країни G7 не планують послаблювати санкції проти російської нафти, попри загострення на Близькому Сході, — DW
-
-Президент Франції Емманюель Макрон заявив, що нинішня ситуація не є підставою для скасування обмежень проти росії. Урсула фон дер Ляєн додала, що цінова стеля на російську нафту допомагає стабілізувати ринок і зменшує доходи кремля</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_07-20-28.jpg" length="130472" type="image/jpeg"/>
-      <pubDate>Thu, 12 Mar 2026 07:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥🔥🔥Українські повітряні санкці</title>
-      <link>https://www.mandarinai.lt/post/89469</link>
-      <description>🔥🔥🔥Українські повітряні санкції успішно застосовані. Пожежа вирує одразу на трьох локаціях стратегічної російської нафтобази у Краснодарському краї.
-
-Тихорецький нафтовий вузол є одним із найбільших перевалочних пунктів нафти на півдні рф, який постачає сировину в російські порти на Чорному морі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_07-28-19.mp4" length="2367807" type="video/mp4"/>
-      <pubDate>Thu, 12 Mar 2026 07:28:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 10:26:37 +0000</lastBuildDate>
     <item>
       <title>Один проти двох ворогів. 
 
@@ -82,7 +64,7 @@
 Там розташовані велика нафтобаза та термінал.
 
 Російська влада підтвердила атаку на НПС і повідомила, що до гасіння масштабної пожежі залучено 26 одиниць техніки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_09-15-39.mp4" length="4735719" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7019.MP4" length="824047" type="video/mp4"/>
       <pubDate>Thu, 12 Mar 2026 09:15:39 +0000</pubDate>
     </item>
     <item>
@@ -93,6 +75,31 @@
 Один іранці підпалили надводним дроном. Два інші зазнали атаки БПЛА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7015.MP4" length="10620106" type="video/mp4"/>
       <pubDate>Thu, 12 Mar 2026 09:23:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі птахи СБС знищили ще дв</title>
+      <link>https://www.mandarinai.lt/post/89487</link>
+      <description>💥Вночі птахи СБС знищили ще два ворожі ЗРК - комлекс С-300, - Мадяр 
+
+Від початку березня Силами безпілотних систем знищено вже 19 елементів протиповітряної оборони ворога</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_09-58-30.mp4" length="11317147" type="video/mp4"/>
+      <pubDate>Thu, 12 Mar 2026 09:58:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 ЗСУ знищили С-300, РЛС та ск</title>
+      <link>https://www.mandarinai.lt/post/89488</link>
+      <description>💥 ЗСУ знищили С-300, РЛС та склади боєприпасів окупантів на Донбасі та в Криму, — Генштаб
+
+Серед уражених цілей — пускова установка та РЛС С-300, командно-спостережний пункт, склади боєприпасів і МТЗ, ремонтний підрозділ артилерії, ешелон із паливом та понад 6000 одиниць снарядів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_10-02-59.jpg" length="136531" type="image/jpeg"/>
+      <pubDate>Thu, 12 Mar 2026 10:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупант вирішив присісти в укр</title>
+      <link>https://www.mandarinai.lt/post/89489</link>
+      <description>Окупант вирішив присісти в українській хаті, власників якої вигнала з неї війна. Підрозділ «Ptashka DoDo» 5-ої ОШБР подбав, щоб він звідти не вийшов. До речі, 5-а бригада була створена 12-го березня, рівно чотири роки тому, в 2022-му році.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7018.MP4" length="10030749" type="video/mp4"/>
+      <pubDate>Thu, 12 Mar 2026 10:10:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
