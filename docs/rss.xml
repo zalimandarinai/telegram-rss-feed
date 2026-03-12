@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 11:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 12:29:47 +0000</lastBuildDate>
     <item>
       <title>😐🔴Ми вже перемогли Іран! Там в</title>
       <link>https://www.mandarinai.lt/post/89483</link>
@@ -108,9 +108,29 @@
       <link>https://www.mandarinai.lt/post/89494</link>
       <description>😐 Білий дім оприлюднив мультфільм про війну з Іраном в стилі гри в боулінг 
 
-У ньому Ірані зображені у вигляді кеглів з плакатом "Ми не припинено створювати ядерну зброю"</description>
+У ньому іранці зображені у вигляді кеглів з плакатом "Ми не припинено створювати ядерну зброю"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_11-00-00.mp4" length="1184657" type="video/mp4"/>
       <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У російському Тихорецьку на к</title>
+      <link>https://www.mandarinai.lt/post/89495</link>
+      <description>🔥У російському Тихорецьку на ключовому нафтовому вузлі півдня росії пожежа набирає обертів.
+
+Українські повітряні санкції були успішно застосовані💥</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_11-26-07.mp4" length="8952322" type="video/mp4"/>
+      <pubDate>Thu, 12 Mar 2026 11:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 🇺🇸🇮🇷 Армія США знищила 16 ір</title>
+      <link>https://www.mandarinai.lt/post/89496</link>
+      <description>💥 🇺🇸🇮🇷 Армія США знищила 16 іранських мінних кораблів та катерів. 
+
+🛳️ Вони мали забезпечити мінування Ормузької протоки.
+
+❓ Можливо, тому раптове зростання цін на пальне трохи загальмувало?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7022.MP4" length="12418409" type="video/mp4"/>
+      <pubDate>Thu, 12 Mar 2026 12:07:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
