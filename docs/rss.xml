@@ -6,41 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 12:29:47 +0000</lastBuildDate>
-    <item>
-      <title>😐🔴Ми вже перемогли Іран! Там в</title>
-      <link>https://www.mandarinai.lt/post/89483</link>
-      <description>😐🔴Ми вже перемогли Іран! Там вже більше нема по чому наносити удари, - Трамп про війну з Іраном
-
-Ми так і подумали...</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_08-51-39.jpg" length="64764" type="image/jpeg"/>
-      <pubDate>Thu, 12 Mar 2026 08:51:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳ФБР попередило про можливу ат</title>
-      <link>https://www.mandarinai.lt/post/89484</link>
-      <description>😳ФБР попередило про можливу атаку Ірану дронами на Каліфорнію
-США, — ABC News
-
-Федеральне бюро розслідувань попередило правоохоронні органи штату Каліфорнія про можливу атаку безпілотників з боку Ірану, повідомляє телеканал ABC News з посиланням на лист відомства, направлений до поліцейських управлінь.
-
-«Нещодавно ми отримали інформацію про те, що Іран планував здійснити раптову атаку з використанням БПЛА з невідомого судна біля берегів США, зокрема, на неназвані цілі в Каліфорнії», — йдеться у листі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_08-56-41.jpg" length="100794" type="image/jpeg"/>
-      <pubDate>Thu, 12 Mar 2026 08:56:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Ключовий нафтовий вузол півдн</title>
-      <link>https://www.mandarinai.lt/post/89485</link>
-      <description>💥Ключовий нафтовий вузол півдня росії  «Тихорецьк» уразили дрони СБУ
-
-Тихорецький нафтовий вузол є одним із найбільших перевалочних пунктів нафти на півдні рф
-
-Там розташовані велика нафтобаза та термінал.
-
-Російська влада підтвердила атаку на НПС і повідомила, що до гасіння масштабної пожежі залучено 26 одиниць техніки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7019.MP4" length="824047" type="video/mp4"/>
-      <pubDate>Thu, 12 Mar 2026 09:15:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 13:53:37 +0000</lastBuildDate>
     <item>
       <title>Біля іракського узбережжя в Пе</title>
       <link>https://www.mandarinai.lt/post/89486</link>
@@ -131,6 +97,24 @@
 ❓ Можливо, тому раптове зростання цін на пальне трохи загальмувало?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7022.MP4" length="12418409" type="video/mp4"/>
       <pubDate>Thu, 12 Mar 2026 12:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Якщо хтось думає, що всі прос</title>
+      <link>https://www.mandarinai.lt/post/89497</link>
+      <description>«Якщо хтось думає, що всі просто скачають VPN і продовжать користуватися месенджером, то поспішаю вас засмутити: нічого не працюватиме», - радісно повідомив росіянам депутат держдуми Андрій Свинцов.
+
+«Роскомнагляд може все відстежити. Telegram нікого не обдурить, нічого не буде функціонувати», а, значить, в росії наступає цифровий ГУЛАГ.
+
+Росіяни не зможуть спілкуватися в Telegram, навіть використовуючи VPN-сервіси.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7040.MP4" length="6259851" type="video/mp4"/>
+      <pubDate>Thu, 12 Mar 2026 12:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гелікоптер збиває «шахед», і в</title>
+      <link>https://www.mandarinai.lt/post/89499</link>
+      <description>Гелікоптер збиває «шахед», і він падає на фоні вежі «Бурдж-Халіфа». В Еміратах тепер зовсім, як у нас. МВГ, гелікоптери, дрони-перехоплювачі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7042.MP4" length="5859282" type="video/mp4"/>
+      <pubDate>Thu, 12 Mar 2026 13:31:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
