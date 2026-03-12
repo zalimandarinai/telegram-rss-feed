@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 16:45:13 +0000</lastBuildDate>
-    <item>
-      <title>😐 Білий дім оприлюднив мультфі</title>
-      <link>https://www.mandarinai.lt/post/89494</link>
-      <description>😐 Білий дім оприлюднив мультфільм про війну з Іраном в стилі гри в боулінг 
-
-У ньому іранці зображені у вигляді кеглів з плакатом "Ми не припинено створювати ядерну зброю"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_11-00-00.mp4" length="1184657" type="video/mp4"/>
-      <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 17:39:31 +0000</lastBuildDate>
     <item>
       <title>🔥У російському Тихорецьку на к</title>
       <link>https://www.mandarinai.lt/post/89495</link>
@@ -144,6 +135,14 @@ https://i.goit.global/Uap5X</description>
 Saudi Aramco планує терміново придбати українські БпЛА для захисту нафтових об’єктів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_16-22-22.jpg" length="138499" type="image/jpeg"/>
       <pubDate>Thu, 12 Mar 2026 16:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Лиманському напрямку против</title>
+      <link>https://www.mandarinai.lt/post/89509</link>
+      <description>На Лиманському напрямку противник настільки щільно використовує дрони, що артилерія 63-ої бригади не може працювати, як раніше, на близькій відстані до лінії бойового зіткнення. Але вихід знайшли. Гармати на тимчасове зберігання. А самі артилеристи перенавчились на операторів безпілотних систем. Зрозумілий приклад того, як зміна характеру бойових дій змушує бійців адаптуватися.
+
+Хлопці почали літати лише цього року, але вже досягли вражаючих результатів – влучили в 4 танки, 13 гармат, міномети, автомобільну техніку, засоби зв’язку, генератори, купу складів, два десятки переправ і майже сотню бліндажів.</description>
+      <pubDate>Thu, 12 Mar 2026 17:23:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
