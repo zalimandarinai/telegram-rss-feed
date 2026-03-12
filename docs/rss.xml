@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 06:37:44 +0000</lastBuildDate>
-    <item>
-      <title>💥Момент прильоту Shahed-136 до</title>
-      <link>https://www.mandarinai.lt/post/89453</link>
-      <description>💥Момент прильоту Shahed-136 до резервуара з нафтою в порту Салала в Омані, знятий китайськими моряками.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_18-53-39.mp4" length="2050990" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 18:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Хезболла оголошує «СВО» Ізраїл</title>
-      <link>https://www.mandarinai.lt/post/89454</link>
-      <description>Хезболла оголошує «СВО» Ізраїлю — ліванське угруповання, яке нині веде обстріл Ізраїлю, заявляє про початок спеціальної військової операції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-11_19-13-35.mp4" length="491056" type="video/mp4"/>
-      <pubDate>Wed, 11 Mar 2026 19:13:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 07:37:41 +0000</lastBuildDate>
     <item>
       <title>😱 Іран показав свої підземні т</title>
       <link>https://www.mandarinai.lt/post/89456</link>
@@ -67,13 +53,31 @@
       <pubDate>Thu, 12 Mar 2026 05:59:55 +0000</pubDate>
     </item>
     <item>
+      <title>😐🔴Ми вже перемогли Іран! Там в</title>
+      <link>https://www.mandarinai.lt/post/89467</link>
+      <description>😐🔴Ми вже перемогли Іран! Там вже більше нема по чому наносити удари, - Трамп про війну з Іраном
+
+Ми так і подумали...</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_07-19-47.jpg" length="64764" type="image/jpeg"/>
+      <pubDate>Thu, 12 Mar 2026 07:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Країни G7 не планують послабл</title>
+      <link>https://www.mandarinai.lt/post/89468</link>
+      <description>🤝Країни G7 не планують послаблювати санкції проти російської нафти, попри загострення на Близькому Сході, — DW
+
+Президент Франції Емманюель Макрон заявив, що нинішня ситуація не є підставою для скасування обмежень проти росії. Урсула фон дер Ляєн додала, що цінова стеля на російську нафту допомагає стабілізувати ринок і зменшує доходи кремля</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-12_07-20-28.jpg" length="130472" type="image/jpeg"/>
+      <pubDate>Thu, 12 Mar 2026 07:20:28 +0000</pubDate>
+    </item>
+    <item>
       <title>🔥🔥🔥Українські повітряні санкці</title>
-      <link>https://www.mandarinai.lt/post/89465</link>
+      <link>https://www.mandarinai.lt/post/89469</link>
       <description>🔥🔥🔥Українські повітряні санкції успішно застосовані. Пожежа вирує одразу на трьох локаціях стратегічної російської нафтобази у Краснодарському краї.
 
- Тихорецький нафтовий вузол є одним із найбільших перевалочних пунктів нафти на півдні рф, який постачає сировину в російські порти на Чорному морі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_06-26-13.mp4" length="2367807" type="video/mp4"/>
-      <pubDate>Thu, 12 Mar 2026 06:26:13 +0000</pubDate>
+Тихорецький нафтовий вузол є одним із найбільших перевалочних пунктів нафти на півдні рф, який постачає сировину в російські порти на Чорному морі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-12_07-28-19.mp4" length="2367807" type="video/mp4"/>
+      <pubDate>Thu, 12 Mar 2026 07:28:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
