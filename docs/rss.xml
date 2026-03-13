@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 09:28:00 +0000</lastBuildDate>
-    <item>
-      <title>Угорщина планує чергову провок</title>
-      <link>https://www.mandarinai.lt/post/89530</link>
-      <description>Угорщина планує чергову провокацію проти України — Орбан дав відповідне завдання керівнику угорської «делегації», яка прибула в Україну без запрошення.  
-
-Дані, що потрапили в мережу, свідчать — Габор Чепек має вимагати отримання від МЗС України та СБУ дозволу на відвідування нафтопроводу «Дружба».  
-
-Відповідь угорцям очевидна — відмова. Візит не був погоджений, дипломатичний протокол порушено, а нафтопровід не є відкритим обʼєктом.  
-
-Мета Орбана — створити вигідний образ для виборців, а в результаті звинуватити Україну у нібито відмові від дипломатичного вирішення питання</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_07-27-42.jpg" length="29728" type="image/jpeg"/>
-      <pubDate>Fri, 13 Mar 2026 07:27:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 10:22:46 +0000</lastBuildDate>
     <item>
       <title>😱 Іран вночі намагався вдарити</title>
       <link>https://www.mandarinai.lt/post/89531</link>
@@ -81,13 +68,20 @@
       <link>https://www.mandarinai.lt/post/89538</link>
       <description>Командира 3-го АК Білецького намагались вбити, - СБУ
 
-Військова контррозвідка Служби безпеки затримала агента рф, який готував удар по командиру Третього армійського корпусу
+Військова контррозвідка Служби безпеки затримала агента рф, який готував замах на командира Третього армійського корпусу
 
 Агент завербований «крот», військовий, оператор БпЛА іншої бригади.
 
 Він намагався отримати інформацію про час та місце прибуття Білецького і скоригувати ракетно-бомбовий удар по місцю, де той мав знаходитись.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_09-13-00.jpg" length="89536" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 09:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ російська армія вдарила дро</title>
+      <link>https://www.mandarinai.lt/post/89544</link>
+      <description>❗️ російська армія вдарила дроном по маршрутному автобусу, який їхав із Харкова до Великого Бурлука — одна людина загинула, ще четверо поранені.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_09-57-43.jpg" length="53248" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 09:57:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
