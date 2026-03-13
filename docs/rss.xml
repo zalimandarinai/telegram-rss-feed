@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 15:31:23 +0000</lastBuildDate>
-    <item>
-      <title>А, кажуть, діти генералів не в</title>
-      <link>https://www.mandarinai.lt/post/89546</link>
-      <description>А, кажуть, діти генералів не воюють.
-
-На війні загинув старший лейтенант Микита Доценко - офіцер відділення безпілотних авіаційних комплексів 138-го центру спеціального призначення. Йому було лише 24 роки. 
-
-Він єдиний син генерала Данила Доненка, колишнього начальника ДЗНД СБУ. 
-
-В 22 роки добровільно пішов на фронт. Загинув поблизу Куп’янська внаслідок удару ворожої керованої авіабомби.
-
-Вічна пам’ять і слава Герою. Щирі співчуття близьким та побратимам офіцера.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Пам'яті Микити Доценка.mp4" length="16601000" type="video/mp4"/>
-      <pubDate>Fri, 13 Mar 2026 10:49:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 16:24:05 +0000</lastBuildDate>
     <item>
       <title>«47 років вони вбивали невинни</title>
       <link>https://www.mandarinai.lt/post/89547</link>
@@ -111,6 +96,15 @@
 Ну, ок</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_15-09-08.jpg" length="123533" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 15:09:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Вы – твари поганые, за копееч</title>
+      <link>https://www.mandarinai.lt/post/89560</link>
+      <description>«Вы – твари поганые, за копеечку родину продаете? Всех посадить или казнить!»: Соловйов пропонує всіх росіян, які розповсюджують  відео прильотів, карати смертю (за прикладом Бахрейну) 
+
+Він також хоче садити до вʼязниці тих, хто скаржиться на брянське ППО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-13_15-58-53.mp4" length="8245238" type="video/mp4"/>
+      <pubDate>Fri, 13 Mar 2026 15:58:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
