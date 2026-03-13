@@ -6,22 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 11:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:29:24 +0000</lastBuildDate>
     <item>
       <title>😱 Іран вночі намагався вдарити</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>😱 Іран вночі намагався вдарити балістикою по авіабазі НАТО «Інджирлік» у Туреччині, де розміщене сховище ядерних авіабомб</description>
       <pubDate>Fri, 13 Mar 2026 07:30:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>В той момент, коли США скасува</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>В той момент, коли США скасували нафтові санкції, шведи затримали танкер, який підозрюють у причетності до російського «тіньового флоту».
-
-Берегова охорона Швеції затримала танкер «Sea Owl I», про це повідомила пресслужба шведської берегової охорони.
-
-Вчора ввечері її співробітники піднялися на борт судна у Балтійському морі.</description>
-      <pubDate>Fri, 13 Mar 2026 07:40:00 +0000</pubDate>
     </item>
     <item>
       <title>❗️ російська армія вдарила дро</title>
@@ -74,11 +64,30 @@ Upd вже відомо про трьох загиблих</description>
       <link>https://www.mandarinai.lt/post/89550</link>
       <description>🦾Нарешті бійці НАТО воюватимуть в Україні, але є нюанс.
 
-В Україну передали гуманоїдних роботів Phantom MK-1 для тестування на фронті
+Україна отримала для випробування на фронті двох гуманоїдних роботів Phantom MK-1
 
 Їх планують використовувати для розвідки, доставки спорядження та роботи в укриттях.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_11-15-36.jpg" length="75143" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 11:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Іран має «козир», який ляка</title>
+      <link>https://www.mandarinai.lt/post/89553</link>
+      <description>⚡️ Іран має «козир», який лякає США, - видання The Wall Street Journal.
+
+💥 Йдеться про морські міни, створені для «асиметричної війни».
+
+💬 «Навіть якщо у країни слабкий флот, ці прості засоби можуть серйозно нашкодити», - коментує Джахангір Араслі, дослідник морських загроз.
+
+💣 Одна з таких мін «Maham-1», має круглі обриси, може спрацювати навіть на глибині всього близько метра.
+
+🤿 Іран має також магнітні міни, які водолази можуть кріпити прямо до корпусу судна.
+
+🚤 Тактика схожа на принцип «вовчої зграї». Міни закладають бойові водолази з десятків малих катерів та надувних човнів, які нагадують рибальські. Саме це робить загрозу особливо складною для виявлення.
+
+⚠️ Головне, щоб іранські міни, тактика і виконавці не опинились десь в Чорному морі біля українських берегів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_11-55-17.jpg" length="75641" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 11:55:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
