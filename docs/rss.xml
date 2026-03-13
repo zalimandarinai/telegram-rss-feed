@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 14:33:26 +0000</lastBuildDate>
-    <item>
-      <title>❗️ російська армія вдарила дро</title>
-      <link>https://www.mandarinai.lt/post/89544</link>
-      <description>❗️ російська армія вдарила дроном по маршрутному автобусу, який їхав із Харкова до Великого Бурлука — одна людина загинула, ще четверо поранені.
-
-Upd вже відомо про трьох загиблих</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_09-57-43.jpg" length="53248" type="image/jpeg"/>
-      <pubDate>Fri, 13 Mar 2026 09:57:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 15:31:23 +0000</lastBuildDate>
     <item>
       <title>А, кажуть, діти генералів не в</title>
       <link>https://www.mandarinai.lt/post/89546</link>
@@ -104,6 +95,22 @@ Upd вже відомо про трьох загиблих</description>
 Президент Франції додав, що обов’язок кожної нації «виконати обіцянки та політичні зобов'язання, які всі взяли на себе в грудні», натякнувши на Угорщину, яка блокує виплату коштів за кредитом, вимагаючи від України відновлення транзиту російської нафти трубопроводом «Дружба».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_13-45-06.jpg" length="60421" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 13:45:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>📉 Ринок нерухомості в Дубаї об</title>
+      <link>https://www.mandarinai.lt/post/89557</link>
+      <description>📉 Ринок нерухомості в Дубаї обвалився на 30% всього за два тижні конфлікту на Близькому Сході</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_14-34-11.jpg" length="56455" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 14:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Нам не потрібна допомога Укра</title>
+      <link>https://www.mandarinai.lt/post/89558</link>
+      <description>😐Нам не потрібна допомога України у захисті від іранських дронів, — Трамп
+
+Ну, ок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_15-09-08.jpg" length="123533" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 15:09:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
