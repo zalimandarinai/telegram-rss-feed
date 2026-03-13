@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 12:29:24 +0000</lastBuildDate>
-    <item>
-      <title>😱 Іран вночі намагався вдарити</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>😱 Іран вночі намагався вдарити балістикою по авіабазі НАТО «Інджирлік» у Туреччині, де розміщене сховище ядерних авіабомб</description>
-      <pubDate>Fri, 13 Mar 2026 07:30:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 13:50:30 +0000</lastBuildDate>
     <item>
       <title>❗️ російська армія вдарила дро</title>
       <link>https://www.mandarinai.lt/post/89544</link>
@@ -88,6 +82,28 @@ Upd вже відомо про трьох загиблих</description>
 ⚠️ Головне, щоб іранські міни, тактика і виконавці не опинились десь в Чорному морі біля українських берегів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_11-55-17.jpg" length="75641" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 11:55:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Військовий здавав дрони в лом</title>
+      <link>https://www.mandarinai.lt/post/89554</link>
+      <description>😡Військовий здавав дрони в ломбард на Одещині та продавав їх в інтернеті
+
+Сума збитків — 5.5 мільйонів грн. Начальник складу одного з прикордонних загонів в Одеській області за 2 роки служби викрав понад 60 дронів DJI Mavic, кілька відеокамер, ноутбуків та наземних станцій управління</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_13-00-22.jpg" length="189821" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 13:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>💶Кредит Україні на €90 млрд, о</title>
+      <link>https://www.mandarinai.lt/post/89556</link>
+      <description>💶Кредит Україні на €90 млрд, обіцяний ЄС, обов’язково буде виданий, — Макрон 
+
+Про це Еммануель Макрон заявив на спільній пресконференції із Володимиром Зеленським в Єлисейському палаці:
+
+Минулого грудня був узгоджений кредит на €90 млрд. Це зобов'язання буде виконано, і я висловлюю це тут з рішучістю та чіткістю. 
+
+Президент Франції додав, що обов’язок кожної нації «виконати обіцянки та політичні зобов'язання, які всі взяли на себе в грудні», натякнувши на Угорщину, яка блокує виплату коштів за кредитом, вимагаючи від України відновлення транзиту російської нафти трубопроводом «Дружба».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-13_13-45-06.jpg" length="60421" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 13:45:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
