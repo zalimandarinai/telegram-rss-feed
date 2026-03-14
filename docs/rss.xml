@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 11:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 12:23:03 +0000</lastBuildDate>
     <item>
       <title>Вночі і вранці збито та подавл</title>
       <link>https://www.mandarinai.lt/post/89595</link>
@@ -124,6 +124,13 @@
 За попередньою оцінкою, виробництво на підприємстві зупинено орієнтовно на шість місяців.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_11-06-00.jpg" length="110159" type="image/jpeg"/>
       <pubDate>Sat, 14 Mar 2026 11:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦩❗️Ми зараз можемо виробляти т</title>
+      <link>https://www.mandarinai.lt/post/89609</link>
+      <description>🦩❗️Ми зараз можемо виробляти три ракети "Фламінго" на день. Коли перейдемо на власний двигун – будемо випускати стільки, скільки замовлятимуть, – засновник FirePoint Штилерман</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_11-16-39.jpg" length="66464" type="image/jpeg"/>
+      <pubDate>Sat, 14 Mar 2026 11:16:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
