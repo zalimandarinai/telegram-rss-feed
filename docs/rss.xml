@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 14:17:18 +0000</lastBuildDate>
-    <item>
-      <title>🔥Нафтовий танкер, що належить </title>
-      <link>https://www.mandarinai.lt/post/89603</link>
-      <description>🔥Нафтовий танкер, що належить Об'єднаним Арабським Еміратам, був атакований Іраном у Шарджі, ОАЕ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_09-47-25.mp4" length="595376" type="video/mp4"/>
-      <pubDate>Sat, 14 Mar 2026 09:47:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪🔥 Сьогодні сили ППО збили ВСІ</title>
-      <link>https://www.mandarinai.lt/post/89604</link>
-      <description>💪🔥 Сьогодні сили ППО збили ВСІ ворожі крилаті ракети, — Юрій Ігнат</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_09-48-59.mp4" length="13917936" type="video/mp4"/>
-      <pubDate>Sat, 14 Mar 2026 09:48:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сполучені Штати відправляють н</title>
-      <link>https://www.mandarinai.lt/post/89605</link>
-      <description>Сполучені Штати відправляють на Близький Схід додаткові експедиційні сили в кількості до 5000 морських піхотинців, - пише The Wall Street Journal 
-
-Новина зовсім не позитивна.
-
-Вона означає підвищену ймовірність сухопутної операції в Ірані. Адже морпіхи насамперед піхотинці.
-
-А сухопутна операція в гірській 90-мільйонній країні з розвиненою індустрією та відсутністю навіть натяку на зміну правлячого режиму означає довгу затяжну війну. 
-
-З висадки в Данангу приблизно такого ж контингенту в 3500 морських піхотинців розпочалася Вʼєтнамська війна, через яку пройшли 2 мільйони 700 тисяч американців. І яка закінчилась програшом США.
-
-Ми не бажаємо програшу Америці, це не в наших інтересах. Навпаки. Але після Другої Світової жодну затяжну війну зі складною логістикою Америка не виграла. 
-
-Путін відкорковує шампанське. 
-
-Хотілося б помилятися.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_10-32-06.jpg" length="112414" type="image/jpeg"/>
-      <pubDate>Sat, 14 Mar 2026 10:32:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 15:15:18 +0000</lastBuildDate>
     <item>
       <title>⚔️ ЗСУ поступово просуваються </title>
       <link>https://www.mandarinai.lt/post/89607</link>
@@ -128,6 +93,22 @@
 В країні другий тиждень дефіциту палива, їжі та повний блекаут, люди без світла по 20 годин на добу і все це без перспективи на покращення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_13-15-06.mp4" length="1722108" type="video/mp4"/>
       <pubDate>Sat, 14 Mar 2026 13:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸Трамп закликав Китай, Франці</title>
+      <link>https://www.mandarinai.lt/post/89617</link>
+      <description>🇺🇸Трамп закликав Китай, Францію та Велику Британію надіслати свої військові кораблі до Ормузької протоки.
+
+Він також пообіцяв "незабаром" відкрити протоку для судноплавства.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_14-26-06.jpg" length="180538" type="image/jpeg"/>
+      <pubDate>Sat, 14 Mar 2026 14:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі бійці ГУР в результаті </title>
+      <link>https://www.mandarinai.lt/post/89618</link>
+      <description>💥Вночі бійці ГУР в результаті  зухвалої операції вивели з ладу два російські військові судна, які забезпечували доставку зброї та техніки через Керченську протоку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_14-28-36.jpg" length="143017" type="image/jpeg"/>
+      <pubDate>Sat, 14 Mar 2026 14:28:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
