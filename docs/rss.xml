@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 21:15:56 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Одна людина загинула, три по</title>
-      <link>https://www.mandarinai.lt/post/89621</link>
-      <description>⚡️Одна людина загинула, три поранені внаслідок удару росіян по житловому кварталу в Запоріжжі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_15-20-25.mp4" length="160487" type="video/mp4"/>
-      <pubDate>Sat, 14 Mar 2026 15:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪖 Україна збільшила дальність </title>
-      <link>https://www.mandarinai.lt/post/89622</link>
-      <description>🪖 Україна збільшила дальність ударів дронами майже втричі – з 50 до 150 км від фронту, – The Telegraph
-
-Це руйнує російську логістику та техніку. Важливу роль відіграють ударні дрони Nemesis («Баба Яга»), які ефективно нищать системи ППО та РЕБ рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_15-30-51.jpg" length="163531" type="image/jpeg"/>
-      <pubDate>Sat, 14 Mar 2026 15:30:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 22:12:39 +0000</lastBuildDate>
     <item>
       <title>💥🔥Повідомляють про атаку на ві</title>
       <link>https://www.mandarinai.lt/post/89623</link>
@@ -95,6 +79,15 @@
 Вся лінійка 70-мм ракет компанії Thales Belgium, наприклад, ракети з лазерним наведенням, уже брала участь у бойових діях.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_20-28-22.jpg" length="97236" type="image/jpeg"/>
       <pubDate>Sat, 14 Mar 2026 20:28:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥На окупованій Луганщині влуча</title>
+      <link>https://www.mandarinai.lt/post/89634</link>
+      <description>💥На окупованій Луганщині влучання по складу боєприпасів.
+
+Вибухи, детонація, феєрверк</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_21-16-56.mp4" length="215538" type="video/mp4"/>
+      <pubDate>Sat, 14 Mar 2026 21:16:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
