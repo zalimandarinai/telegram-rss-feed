@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 08:22:57 +0000</lastBuildDate>
-    <item>
-      <title>🇯🇵 Японія хоче закупити україн</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🇯🇵 Японія хоче закупити українські дрони та поставити їх собі на озброєння для оборони — Kyodo 
-
-Також Токіо розглядає можливість обміну дронів на ракети для "Patriot", які Японія виробляє по ліцензії</description>
-      <pubDate>Sat, 14 Mar 2026 18:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥На окупованій Луганщині влуча</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥На окупованій Луганщині влучання по складу боєприпасів.
-
-Вибухи, детонація, феєрверк</description>
-      <pubDate>Sat, 14 Mar 2026 21:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴 Україна має 100% докази того</title>
-      <link>https://www.mandarinai.lt/post/89642</link>
-      <description>🔴 Україна має 100% докази того, що іранський режим застосовував російські дрони для атак на американські бази, — заявив Зеленський
-
-Він також додав, що росія передає Ірану зброю та розвідувальні дані.
-
-«Колись Трамп відкриє очі, але не сьогодні», — зазначив президен</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_06-17-27.mp4" length="9677991" type="video/mp4"/>
-      <pubDate>Sun, 15 Mar 2026 06:17:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 09:21:46 +0000</lastBuildDate>
     <item>
       <title>💥 Вночі збито 90/97 ворожих Бп</title>
       <link>https://www.mandarinai.lt/post/89643</link>
@@ -71,6 +44,39 @@
 Ймовірно, такі атаки можуть ускладнити підготовку росії до весняно-літнього наступу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_07-51-12.mp4" length="196507" type="video/mp4"/>
       <pubDate>Sun, 15 Mar 2026 07:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>США затримують поставки зброї </title>
+      <link>https://www.mandarinai.lt/post/89655</link>
+      <description>США затримують поставки зброї Україні через Близький Схід, а мирні переговори "провалилися", — FT
+
+Вашингтон повідомив країнам ЄС, що поставки американської зброї можуть затриматися, оскільки зараз пріоритет віддається замовникам на Близькому Сході. Затримки можуть стосуватися як систем ППО, так і іншої важливої зброї.
+
+За словами джерел, війна США та Ізраїлю проти Ірану відвернула увагу Вашингтона від України, через що переговори про завершення війни фактично опинилися під загрозою:
+«Близький Схід серйозно переорієнтував політичну увагу з України. Для нас і для України це катастрофа», — сказав один з дипломатів ЄС.
+
+При цьому, як зазначає FT, Кремль не проявляє готовності до компромісів, а в США не видно бажання посилити тиск на Москву:
+«Я не думаю, що росіяни хочуть знову вести переговори найближчим часом. Тому що говорити немає про що», — сказав один з учасників неофіційних переговорів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_08-42-54.jpg" length="68788" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 08:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Україна хоче підписати з США </title>
+      <link>https://www.mandarinai.lt/post/89656</link>
+      <description>🔴Україна хоче підписати з США багаторічну угоду щодо виробництва дронів на $35-50 млрд, – Зеленський.
+
+"Чіткої відповіді від США щодо пропозиції поки немає, але вони дуже зацікавлені у цьому", - зазначив він</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_08-44-28.jpg" length="107547" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 08:44:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збиття ракетною установкою рос</title>
+      <link>https://www.mandarinai.lt/post/89657</link>
+      <description>Збиття ракетною установкою російської повітряної цілі, працює ПВК «Центр»
+
+🎥 Соняшник</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7134.MP4" length="3960865" type="video/mp4"/>
+      <pubDate>Sun, 15 Mar 2026 09:20:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
