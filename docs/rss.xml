@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 12:25:04 +0000</lastBuildDate>
-    <item>
-      <title>Двоє медиків загинули, ще один</title>
-      <link>https://www.mandarinai.lt/post/89646</link>
-      <description>Двоє медиків загинули, ще один поранений через удар РФ по «швидкій» на Харківщині, — поліція 
-
-Сьогодні вранці російські військові вдарили FPV-дроном по автомобілю швидкої медичної допомоги, який їхав дорогою в селищі Червона Хвиля Великобурлуцької громади Куп’янського району.
-
-Унаслідок атаки загинули медичний технік та 27-річний фельдшер. Ще один 53-річний медпрацівник отримав численні травми — його госпіталіщувади</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_07-34-18.jpg" length="203299" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 07:34:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 13:38:09 +0000</lastBuildDate>
     <item>
       <title>🔥ЗСУ посилили удари по обʼєкта</title>
       <link>https://www.mandarinai.lt/post/89651</link>
@@ -92,6 +81,24 @@
 Крім цього, підтверджене значне пошкодження радіолокаційного комплексу "Валдай", який уразили 10 березня.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_10-41-32.jpg" length="204516" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 10:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наймасштабніша з початку 2026 </title>
+      <link>https://www.mandarinai.lt/post/89661</link>
+      <description>Наймасштабніша з початку 2026 року атака дронами на Москву триває вже понад добу(!): ворог зі страху закрив усі аеропорти
+
+На жаль, отримувати відео з рф стає дедалі важче. За тими, хто викладає в мережу прильоти, в росії почали справжнє полювання. А пропагандисти на росканалах  закликають прирівняти розповсюдження відео українських атак до державної зради.🤡</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_12-31-59.jpg" length="246592" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 12:31:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни нанесли удар поблизу б</title>
+      <link>https://www.mandarinai.lt/post/89662</link>
+      <description>росіяни нанесли удар поблизу блокпоста на Чернігівщині: загинув військовий, — МВА
+
+Ще кілька бійців та поліцейський отримали поранення. На місці триває детонація невстановлених вибухових предметів, скинутих з безпілотника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_13-33-22.jpg" length="63511" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 13:33:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
