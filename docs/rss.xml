@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 05:58:19 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Повідомляють про атаку на ві</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥🔥Повідомляють про атаку на військовий аеродром "Ханская" полизу Майкопа в Краснодарському краї</description>
-      <pubDate>Sat, 14 Mar 2026 15:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Вы кто такие?»
-«Братан, мы ЗС</title>
-      <link>https://www.mandarinai.lt/post/89629</link>
-      <description>«Вы кто такие?»
-«Братан, мы ЗСУ, сдавайся, и все будет хорошо!»
-
-Зачистка будинку біля Покровська бійцями Сил Спеціальних Операцій
-
-В ході спеціальних дій взимку 2025 року поблизу Покровська група «Єгермейстер» 144-го центру ССО успішно провела зачистку будинку зайнятого ворогом.
-
-Під час планової зачистки хати оператори помітили в дзеркалі силует ворога.  Згідно настанов і тактик ближнього бою оператори застосували гранати та здійснили «простріл» свого сектору із зайнятих позицій.
-
-Проте ворог продовжував чинити опір, попри пропозиції здатися. У результаті послідовних дій групи «Єгермейстер» росіянин був ліквідований, будинок успішно зачищений, а група перейшла до зачистки інших будівель без втрат.</description>
-      <pubDate>Sat, 14 Mar 2026 18:09:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 06:51:21 +0000</lastBuildDate>
     <item>
       <title>🇯🇵 Японія хоче закупити україн</title>
       <link>https://www.mandarinai.lt/post/89630</link>
@@ -59,18 +37,38 @@
       <pubDate>Sat, 14 Mar 2026 21:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>🙄Я здивований, що Зеленський н</title>
-      <link>https://www.mandarinai.lt/post/89637</link>
-      <description>🙄Я здивований, що Зеленський не хоче укладати угоду. Скажіть Зеленському укласти угоду, тому що путін готовий до угоди. З Зеленським набагато складніше домовитися, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_05-31-50.jpg" length="92910" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 05:31:50 +0000</pubDate>
-    </item>
-    <item>
       <title>💥Вночі дрони атакували військо</title>
       <link>https://www.mandarinai.lt/post/89638</link>
-      <description>💥Вночі дрони атакували військові та енергетичні об'єкти у Краснодарському краї Волгогралській області та Белгороді. Результати уточнюються.</description>
+      <description>💥Вночі дрони атакували військові та енергетичні об'єкти у Краснодарському краї, Волгогралській області та Белгороді. Результати уточнюються.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_05-50-06.jpg" length="137317" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 05:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴 Україна має 100% докази того</title>
+      <link>https://www.mandarinai.lt/post/89642</link>
+      <description>🔴 Україна має 100% докази того, що іранський режим застосовував російські дрони для атак на американські бази, — заявив Зеленський
+
+Він також додав, що росія передає Ірану зброю та розвідувальні дані.
+
+«Колись Трамп відкриє очі, але не сьогодні», — зазначив президен</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_06-17-27.mp4" length="9677991" type="video/mp4"/>
+      <pubDate>Sun, 15 Mar 2026 06:17:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Вночі збито 90/97 ворожих Бп</title>
+      <link>https://www.mandarinai.lt/post/89643</link>
+      <description>💥 Вночі збито 90/97 ворожих БпЛА.
+
+Зафіксовано влучання  ударних дронів на 5 локаціях, влучання уламків на 2 локаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_06-24-07.jpg" length="86797" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 06:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Я здивований, що Зеленський н</title>
+      <link>https://www.mandarinai.lt/post/89644</link>
+      <description>🙄Я здивований, що Зеленський не хоче укладати угоду. Скажіть Зеленському укласти угоду, тому що путін готовий до угоди. З Зеленським набагато складніше домовитися, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_06-24-22.jpg" length="92910" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 06:24:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
