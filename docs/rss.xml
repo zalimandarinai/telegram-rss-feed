@@ -6,43 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 04:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:58:19 +0000</lastBuildDate>
     <item>
       <title>💥🔥Повідомляють про атаку на ві</title>
-      <link>https://www.mandarinai.lt/post/89623</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥Повідомляють про атаку на військовий аеродром "Ханская" полизу Майкопа в Краснодарському краї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_15-41-11.jpg" length="67305" type="image/jpeg"/>
       <pubDate>Sat, 14 Mar 2026 15:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ БПЛА вдарив по пасажирськом</title>
-      <link>https://www.mandarinai.lt/post/89624</link>
-      <description>❗️ БПЛА вдарив по пасажирському потягу на Сумщині, на щастя, люди не постраждали, їх вдалося безпечно евакуювати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_16-25-27.jpg" length="105887" type="image/jpeg"/>
-      <pubDate>Sat, 14 Mar 2026 16:25:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Знищення російського шахеда </title>
-      <link>https://www.mandarinai.lt/post/89625</link>
-      <description>🔥 Знищення російського шахеда над Дніпром сьогодні на околицях Києва під час комбінованої атаки та його піке у воду — в ГУР показали ексклюзивне відео</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_17-08-15.mp4" length="5006342" type="video/mp4"/>
-      <pubDate>Sat, 14 Mar 2026 17:08:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іран заявив про атаку на амери</title>
-      <link>https://www.mandarinai.lt/post/89626</link>
-      <description>Іран заявив про атаку на американські банки на Близькому Сході.
-
-Дронами нібито атаковано відділення Citibank у Дубаї.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_17-12-47.mp4" length="967029" type="video/mp4"/>
-      <pubDate>Sat, 14 Mar 2026 17:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐Ормузька протока відкрита, ал</title>
-      <link>https://www.mandarinai.lt/post/89627</link>
-      <description>😐Ормузька протока відкрита, але у країн, які атакують Іран, будуть проблеми з проходом, — голова МЗС Ірану</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_17-17-02.mp4" length="4326574" type="video/mp4"/>
-      <pubDate>Sat, 14 Mar 2026 17:17:02 +0000</pubDate>
     </item>
     <item>
       <title>«Вы кто такие?»
@@ -88,6 +57,20 @@
 Вибухи, детонація, феєрверк</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-14_21-16-56.mp4" length="215538" type="video/mp4"/>
       <pubDate>Sat, 14 Mar 2026 21:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Я здивований, що Зеленський н</title>
+      <link>https://www.mandarinai.lt/post/89637</link>
+      <description>🙄Я здивований, що Зеленський не хоче укладати угоду. Скажіть Зеленському укласти угоду, тому що путін готовий до угоди. З Зеленським набагато складніше домовитися, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_05-31-50.jpg" length="92910" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 05:31:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі дрони атакували військо</title>
+      <link>https://www.mandarinai.lt/post/89638</link>
+      <description>💥Вночі дрони атакували військові та енергетичні об'єкти у Краснодарському краї Волгогралській області та Белгороді. Результати уточнюються.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_05-50-06.jpg" length="137317" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 05:50:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
