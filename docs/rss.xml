@@ -6,26 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 06:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:36:30 +0000</lastBuildDate>
     <item>
       <title>🇯🇵 Японія хоче закупити україн</title>
-      <link>https://www.mandarinai.lt/post/89630</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🇯🇵 Японія хоче закупити українські дрони та поставити їх собі на озброєння для оборони — Kyodo 
 
 Також Токіо розглядає можливість обміну дронів на ракети для "Patriot", які Японія виробляє по ліцензії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_18-39-00.jpg" length="47830" type="image/jpeg"/>
       <pubDate>Sat, 14 Mar 2026 18:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Україні розгорнутий ще один </title>
-      <link>https://www.mandarinai.lt/post/89633</link>
-      <description>В Україні розгорнутий ще один важливий компонент ППО, а саме, бойові модулі FN DEFNDER на 5 ракет FZ275 та FZ123 калібром 70 мм для протидії російським дронам.
-
-Про це повідомив один з військових оглядачів з посиланням на заяву представника компанії Thales на військовій виставці BEDEX 2026, яка закінчилась сьогодні.
-
-Вся лінійка 70-мм ракет компанії Thales Belgium, наприклад, ракети з лазерним наведенням, уже брала участь у бойових діях.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-14_20-28-22.jpg" length="97236" type="image/jpeg"/>
-      <pubDate>Sat, 14 Mar 2026 20:28:22 +0000</pubDate>
     </item>
     <item>
       <title>💥На окупованій Луганщині влуча</title>
@@ -64,11 +52,22 @@
       <pubDate>Sun, 15 Mar 2026 06:24:07 +0000</pubDate>
     </item>
     <item>
-      <title>🙄Я здивований, що Зеленський н</title>
-      <link>https://www.mandarinai.lt/post/89644</link>
-      <description>🙄Я здивований, що Зеленський не хоче укладати угоду. Скажіть Зеленському укласти угоду, тому що путін готовий до угоди. З Зеленським набагато складніше домовитися, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_06-24-22.jpg" length="92910" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 06:24:22 +0000</pubDate>
+      <title>😐 Остання людина, від якої нам</title>
+      <link>https://www.mandarinai.lt/post/89645</link>
+      <description>😐 Остання людина, від якої нам потрібна допомога з Іраном — це Зеленський, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_06-53-43.jpg" length="91665" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 06:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Двоє медиків загинули, ще один</title>
+      <link>https://www.mandarinai.lt/post/89646</link>
+      <description>Двоє медиків загинули, ще один поранений через удар РФ по «швидкій» на Харківщині, — поліція 
+
+Сьогодні вранці російські військові вдарили FPV-дроном по автомобілю швидкої медичної допомоги, який їхав дорогою в селищі Червона Хвиля Великобурлуцької громади Куп’янського району.
+
+Унаслідок атаки загинули медичний технік та 27-річний фельдшер. Ще один 53-річний медпрацівник отримав численні травми — його госпіталіщувади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_07-34-18.jpg" length="203299" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 07:34:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
