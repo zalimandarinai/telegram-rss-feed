@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 17:17:00 +0000</lastBuildDate>
-    <item>
-      <title>🔴Україна хоче підписати з США </title>
-      <link>https://www.mandarinai.lt/post/89656</link>
-      <description>🔴Україна хоче підписати з США багаторічну угоду щодо виробництва дронів на $35-50 млрд, – Зеленський.
-
-"Чіткої відповіді від США щодо пропозиції поки немає, але вони дуже зацікавлені у цьому", - зазначив він</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_08-44-28.jpg" length="107547" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 08:44:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Збиття ракетною установкою рос</title>
-      <link>https://www.mandarinai.lt/post/89657</link>
-      <description>Збиття ракетною установкою російської повітряної цілі, працює ПВК «Центр»
-
-🎥 Соняшник</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7134.MP4" length="3960865" type="video/mp4"/>
-      <pubDate>Sun, 15 Mar 2026 09:20:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 18:21:15 +0000</lastBuildDate>
     <item>
       <title>«Он бухой, «Нотариус» бухой».
 </title>
@@ -149,10 +131,10 @@
       <title>⚡️ТЕРМІНОВИЙ ЗБІР⚡️
 
 Пікап 4X4</title>
-      <link>https://www.mandarinai.lt/post/89670</link>
+      <link>https://www.mandarinai.lt/post/89671</link>
       <description>⚡️ТЕРМІНОВИЙ ЗБІР⚡️
 
-Пікап 4X4 критично потрібен на Покровський напрямок. Бійці 152-ої  бригади з початку року не втратили жодної позиції. Але росіяни стали активно палити транспорт, обрізаючи логістику на передову. Ви донатите не на автівку - ви донатите на життя наших бійців. 
+Пікап 4X4 критично потрібен на Покровський напрямок. Бійці 152-ої  бригади з початку року не втратили жодної позиції. Але росіяни стали активно палити транспорт, обрізаючи логістику на передову. Ви донатите не на автівку - ви донатите на життя наших бійців. 
 
 🎯Ціль: 405 000.00 ₴
 
@@ -161,8 +143,17 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 
 💳Номер картки банки
 4874 1000 2660 6585</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_16-11-29.mp4" length="16535993" type="video/mp4"/>
-      <pubDate>Sun, 15 Mar 2026 16:11:29 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_17-31-38.mp4" length="16535993" type="video/mp4"/>
+      <pubDate>Sun, 15 Mar 2026 17:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 росіяни розгорнули мобільно</title>
+      <link>https://www.mandarinai.lt/post/89672</link>
+      <description>🇷🇺 росіяни розгорнули мобільно-вогневі групи навколо кремля,— росЗМІ
+
+Нагадаємо, що російську столицю дрони атакують вже другу добу, у Москві вже тричі за останні дні зупиняли роботу аеропорти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_18-07-42.mp4" length="752473" type="video/mp4"/>
+      <pubDate>Sun, 15 Mar 2026 18:07:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
