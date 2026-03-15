@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 10:16:39 +0000</lastBuildDate>
-    <item>
-      <title>😐 Остання людина, від якої нам</title>
-      <link>https://www.mandarinai.lt/post/89645</link>
-      <description>😐 Остання людина, від якої нам потрібна допомога з Іраном — це Зеленський, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_06-53-43.jpg" length="91665" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 06:53:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 11:15:31 +0000</lastBuildDate>
     <item>
       <title>Двоє медиків загинули, ще один</title>
       <link>https://www.mandarinai.lt/post/89646</link>
@@ -81,11 +74,24 @@
       <pubDate>Sun, 15 Mar 2026 09:31:46 +0000</pubDate>
     </item>
     <item>
-      <title>👀США планують влаштувати інцид</title>
+      <title>🤡США планують влаштувати інцид</title>
       <link>https://www.mandarinai.lt/post/89659</link>
-      <description>👀США планують влаштувати інцидент, подібний до подій 11 вересня, і звинуватити в цьому Іран, - секретар національної безпеки Ірану</description>
+      <description>🤡США планують влаштувати інцидент, подібний до подій 11 вересня, і звинуватити в цьому Іран, - секретар національної безпеки Ірану</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_10-08-19.jpg" length="122215" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 10:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Сили оборони уразили РЛС "Пр</title>
+      <link>https://www.mandarinai.lt/post/89660</link>
+      <description>🔥 Сили оборони уразили РЛС "Противник", РЛС "Пароль" та пускову установку ЗРК С-400 "Тріумф"
+
+Радіолокаційні станції 59Н6-Е "Противник" та 73Е6 "Пароль" були уражені в ніч на 15 березня у районі Лібкнехтівки у тимчасово окупованому Криму.
+
+Зафіксовано ураження пускової установки зі складу зенітного ракетного комплексу С-400 "Тріумф" поблизу Дальнього (ТОТ АР Крим).
+
+Крім цього, підтверджене значне пошкодження радіолокаційного комплексу "Валдай", який уразили 10 березня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_10-41-32.jpg" length="204516" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 10:41:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
