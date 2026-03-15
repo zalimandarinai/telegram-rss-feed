@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 14:19:18 +0000</lastBuildDate>
-    <item>
-      <title>🔥ЗСУ посилили удари по обʼєкта</title>
-      <link>https://www.mandarinai.lt/post/89651</link>
-      <description>🔥ЗСУ посилили удари по обʼєктах росіян на окупованих територіях, — ISW
-
-Як зазначають аналітики, українські війська посилюють свою ударну кампанію середньої дальності. Під вогнем опиняються обʼєкти логістики, військова техніка та жива сила противника.
-
-Ймовірно, такі атаки можуть ускладнити підготовку росії до весняно-літнього наступу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_07-51-12.mp4" length="196507" type="video/mp4"/>
-      <pubDate>Sun, 15 Mar 2026 07:51:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 15:17:18 +0000</lastBuildDate>
     <item>
       <title>США затримують поставки зброї </title>
       <link>https://www.mandarinai.lt/post/89655</link>
@@ -119,6 +108,30 @@
 💻Або подавай заявку на сайті: www.114tro.com</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7141.MP4" length="8916333" type="video/mp4"/>
       <pubDate>Sun, 15 Mar 2026 13:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Рік тому ми стали частиною</title>
+      <link>https://www.mandarinai.lt/post/89665</link>
+      <description>❗️ «Рік тому ми стали частиною спільної сили», - 14-ий АК
+
+🇺🇦 Один з найпотужніших українських корпусів вперше сьогодні показав разом командирів бригад, які в нього входять.
+
+▫️ 58-а ОМБР - Іван Шнир
+▫️ 50-а ОАБР - Андрій Гресько
+▫️ 92-а ОШБР - Віталій Нащубський
+▫️ 29-а ОВМБР - Тарас Мазурок
+▫️ 105-а ОБР ТРО - Анатолій Савич
+▫️ 42-а ОМБР - Олександр Портяненко
+▫️ 22-а ОМБР - Анатолій Шевченко
+▫️ 119-а ОБР ТРО - Павло Юрчук</description>
+      <pubDate>Sun, 15 Mar 2026 14:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱 Вулиці Дубаю буквально споро</title>
+      <link>https://www.mandarinai.lt/post/89667</link>
+      <description>😱 Вулиці Дубаю буквально спорожніли: подекуди лише поодинокі авто. Це при тому, що зараз в ОАЕ пік сезону</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_14-35-27.mp4" length="2461734" type="video/mp4"/>
+      <pubDate>Sun, 15 Mar 2026 14:35:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
