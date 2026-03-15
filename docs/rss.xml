@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 13:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 14:19:18 +0000</lastBuildDate>
     <item>
       <title>🔥ЗСУ посилили удари по обʼєкта</title>
       <link>https://www.mandarinai.lt/post/89651</link>
@@ -99,6 +99,26 @@
 Ще кілька бійців та поліцейський отримали поранення. На місці триває детонація невстановлених вибухових предметів, скинутих з безпілотника.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_13-33-22.jpg" length="63511" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 13:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Розрахунок дронів-перехоплювач</title>
+      <link>https://www.mandarinai.lt/post/89663</link>
+      <description>Розрахунок дронів-перехоплювачів 114-ої бригади ТРО виходить на позицію біля північного кордону України і збиває «шахед».
+
+Є чому повчитися дубайській та бахрейнській ППО.
+
+До підрозділу можна долучитися. Навчать, покажуть, мотивують.
+
+Долучитися можна: 
+— за мобілізацією 
+— або за контрактом від 1 до 5 років (у тому числі, «Контракт 18–24») 
+
+☎️Телефонуй:
++380 67 406 75 71 
+
+💻Або подавай заявку на сайті: www.114tro.com</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7141.MP4" length="8916333" type="video/mp4"/>
+      <pubDate>Sun, 15 Mar 2026 13:47:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
