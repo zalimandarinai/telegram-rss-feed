@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 20:14:33 +0000</lastBuildDate>
-    <item>
-      <title>❗️ «Рік тому ми стали частиною</title>
-      <link>https://www.mandarinai.lt/post/89665</link>
-      <description>❗️ «Рік тому ми стали частиною спільної сили», - 14-ий АК
-
-🇺🇦 Один з найпотужніших українських корпусів вперше сьогодні показав разом командирів бригад, які в нього входять.
-
-▫️ 58-а ОМБР - Іван Шнир
-▫️ 50-а ОАБР - Андрій Гресько
-▫️ 92-а ОШБР - Віталій Нащубський
-▫️ 29-а ОВМБР - Тарас Мазурок
-▫️ 105-а ОБР ТРО - Анатолій Савич
-▫️ 42-а ОМБР - Олександр Портяненко
-▫️ 22-а ОМБР - Анатолій Шевченко</description>
-      <pubDate>Sun, 15 Mar 2026 14:25:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 21:16:54 +0000</lastBuildDate>
     <item>
       <title>😱 Вулиці Дубаю буквально споро</title>
       <link>https://www.mandarinai.lt/post/89667</link>
@@ -101,6 +85,17 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 На вулиці вийшли тисячі прихильників опозиціонера Петера Мадяра. Орбан, в свою чергу, користуючись проросійськими методами — скликав «тітушок» в свою підтримку.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_19-00-26.mp4" length="2256003" type="video/mp4"/>
       <pubDate>Sun, 15 Mar 2026 19:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Іранські шахеди не лише зміни</title>
+      <link>https://www.mandarinai.lt/post/89684</link>
+      <description>💥Іранські шахеди не лише змінили правила сучасної війни, вони стали болючим сюрпризом для Пентагону, багатіїв Перської затоки і світового ринку енергоресурсів. Це вже не просто зброя, а геополітичний важель в руках наших ворогів.
+
+Про те, як українці навчились боротися з цим злом, ми зняли репортаж. Подивіться.
+
+https://m.youtube.com/watch?v=8PILfBdNnWQ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_20-36-36.jpg" length="172179" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 20:36:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
