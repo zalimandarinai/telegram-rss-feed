@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 12:40:13 +0000</lastBuildDate>
-    <item>
-      <title>🔥🔥 Ранкова російська нафтобаза</title>
-      <link>https://www.mandarinai.lt/post/89706</link>
-      <description>🔥🔥 Ранкова російська нафтобаза в Лабинську (Краснодарський край) після нічної зустрічі з українськими повітряними санкціями</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_09-20-47.mp4" length="607980" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 09:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>СБУ викрила ще одного агента ф</title>
-      <link>https://www.mandarinai.lt/post/89709</link>
-      <description>СБУ викрила ще одного агента фсб у лавах ЗСУ. Ним виявився завербований ворогом мобілізований, який самовільно залишив військову частину та коригував атаки рф по Дніпру. Погодившись працювати на фсб, агент обходив місто та його околиці, щоб виявити та зафіксувати координати об’єктів оборонної та критичної інфраструктури.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_09-32-38.jpg" length="101758" type="image/jpeg"/>
-      <pubDate>Mon, 16 Mar 2026 09:32:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 14:11:30 +0000</lastBuildDate>
     <item>
       <title>❗️путін готує напад на Естонію</title>
       <link>https://www.mandarinai.lt/post/89711</link>
@@ -94,6 +80,35 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 💬 «Нам потрібно пам’ятати, що Росія витрачає на свою армію, у перерахунку за паритетом купівельної спроможності, близько 85% від усього оборонного бюджету Європейського Союзу. Вона також готова використати від семи до дев’яти мільйонів дронів у 2026 році».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_12-09-11.jpg" length="50349" type="image/jpeg"/>
       <pubDate>Mon, 16 Mar 2026 12:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ССО уразили ворожі об'єкти в С</title>
+      <link>https://www.mandarinai.lt/post/89723</link>
+      <description>ССО уразили ворожі об'єкти в Севастополі та на південь від Запоріжжя
+
+Підрозділи Middle-strike Сил спеціальних операцій ЗСУ за три дні провели серію уражень військових об’єктів противника.
+
+На території Криму:
+
+склад МТЗ на аеродромі «Херсонес»;
+
+генератор разом з комутацією станцій РЕБ та РЕР в Севастополі. 
+
+На території Запорізької області:
+
+базу ремонту бронетехніки в Якимівці;
+
+базу технічного обслуговування та склад МТЗ в Андріївці;
+
+логістичний центр противника в населеному пункті  в Берестове.</description>
+      <pubDate>Mon, 16 Mar 2026 12:56:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Ми не починали війну з Іраном</title>
+      <link>https://www.mandarinai.lt/post/89724</link>
+      <description>🔴Ми не починали війну з Іраном, це не наша війна, Трамп почав її, а тепер просить нас допомогти, але ми не будемо цього робити, — міністр оборони Німеччини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_13-30-37.mp4" length="5710991" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 13:30:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
