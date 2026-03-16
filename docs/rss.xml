@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 20:25:20 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Бійці Чернігівського загону</title>
-      <link>https://www.mandarinai.lt/post/89735</link>
-      <description>❗️ Бійці Чернігівського загону ДПСУ «розібрали» мобільну вогневу групу ворога разом із РЕБ, кулеметом та боєприпасами, а бонусом стала знищена 152-мм гармата «Мста-Б»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7159.MP4" length="10647446" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 17:43:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Зараз пакистанська авіація </title>
-      <link>https://www.mandarinai.lt/post/89736</link>
-      <description>⚡️ Зараз пакистанська авіація та ракети бомблять центральні райони Кабула</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7163.MP4" length="211650" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 17:50:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 21:26:54 +0000</lastBuildDate>
     <item>
       <title>😐США не потрібно допомагати Ук</title>
       <link>https://www.mandarinai.lt/post/89740</link>
@@ -63,6 +49,26 @@
       <description>👀У центрі Львова раптово загорівся і вибухнув автобус. Попередньо без постраждалих</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_20-15-46.mp4" length="578832" type="video/mp4"/>
       <pubDate>Mon, 16 Mar 2026 20:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Міністерство енергетики Куби </title>
+      <link>https://www.mandarinai.lt/post/89750</link>
+      <description>👀Міністерство енергетики Куби повідомило про повний блекаут у країні, - Міненерго
+
+Це перше тотальне відключення електроенергії на Кубі після припинення поставок нафти на острів
+
+Раніше Куба підтвердила переговори з адміністрацією Трампа на тлі енергетичної кризи.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_21-17-00.jpg" length="27389" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 21:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐 Я думаю, що саме мені може в</title>
+      <link>https://www.mandarinai.lt/post/89751</link>
+      <description>😐 Я думаю, що саме мені може випасти честь узяти під контроль Кубу, — Трамп
+
+«Я здатен її звільнити або захопити — і, думаю, можу робити з нею все, що захочу».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_21-18-18.mp4" length="2804089" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 21:18:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
