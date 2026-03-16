@@ -6,54 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 16:49:15 +0000</lastBuildDate>
-    <item>
-      <title>❗️Україна переходить до тестов</title>
-      <link>https://www.mandarinai.lt/post/89721</link>
-      <description>❗️Україна переходить до тестових ударів новими балістичними ракетами FP-7 по РФ — це аналог американської ATACMS, — виробник ракет Fire Point
-
-Дальність ураження однакова — до 300 км.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_11-21-43.jpg" length="195968" type="image/jpeg"/>
-      <pubDate>Mon, 16 Mar 2026 11:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ росія може застосувати від </title>
-      <link>https://www.mandarinai.lt/post/89722</link>
-      <description>❗️ росія може застосувати від 7 до 9 мільйонів безпілотників у 2026 році, заявив єврокомісар із питань оборони й космосу Андрюс Кубілюс під час виступу на форумі Europa. 
-
-💬 «Нам потрібно пам’ятати, що Росія витрачає на свою армію, у перерахунку за паритетом купівельної спроможності, близько 85% від усього оборонного бюджету Європейського Союзу. Вона також готова використати від семи до дев’яти мільйонів дронів у 2026 році».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_12-09-11.jpg" length="50349" type="image/jpeg"/>
-      <pubDate>Mon, 16 Mar 2026 12:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ССО уразили ворожі об'єкти в С</title>
-      <link>https://www.mandarinai.lt/post/89723</link>
-      <description>ССО уразили ворожі об'єкти в Севастополі та на Запоріжжі
-
-Підрозділи Middle-strike Сил спеціальних операцій ЗСУ за три дні провели серію уражень військових об’єктів противника.
-
-На території Криму:
-
-склад МТЗ на аеродромі «Херсонес»;
-
-генератор разом з комутацією станцій РЕБ та РЕР в Севастополі. 
-
-На території Запорізької області:
-
-базу ремонту бронетехніки в Якимівці;
-
-базу технічного обслуговування та склад МТЗ в Андріївці;
-
-логістичний центр противника в населеному пункті  в Берестове.</description>
-      <pubDate>Mon, 16 Mar 2026 12:56:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Ми не починали війну з Іраном</title>
-      <link>https://www.mandarinai.lt/post/89724</link>
-      <description>🔴Ми не починали війну з Іраном, це не наша війна, Трамп почав її, а тепер просить нас допомогти, але ми не будемо цього робити, — міністр оборони Німеччини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_13-30-37.mp4" length="5710991" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 13:30:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 17:50:47 +0000</lastBuildDate>
     <item>
       <title>😱 Затримано заступника начальн</title>
       <link>https://www.mandarinai.lt/post/89727</link>
@@ -134,8 +87,22 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 
 💳Номер картки банки
 4874 1000 2660 6585</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_16-36-00.mp4" length="1022744" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7161.MP4" length="20533705" type="video/mp4"/>
       <pubDate>Mon, 16 Mar 2026 16:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Бійці Чернігівського загону</title>
+      <link>https://www.mandarinai.lt/post/89735</link>
+      <description>❗️ Бійці Чернігівського загону ДПСУ «розібрали» мобільну вогневу групу ворога разом із РЕБ, кулеметом та боєприпасами, а бонусом стала знищена 152-мм гармата «Мста-Б»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7159.MP4" length="10647446" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 17:43:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пакистанська авіація зараз бом</title>
+      <link>https://www.mandarinai.lt/post/89736</link>
+      <description>Пакистанська авіація зараз бомбить центральні райони Кабула</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7163.MP4" length="211650" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 17:50:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
