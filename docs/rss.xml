@@ -6,17 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 04:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 06:11:55 +0000</lastBuildDate>
     <item>
       <title>😡Офіційно: росія та Китай нада</title>
-      <link>https://www.mandarinai.lt/post/89668</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>😡Офіційно: росія та Китай надають військову підтримку Ірану у війні з США, — МЗС Ірану</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_15-32-38.jpg" length="108942" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 15:32:38 +0000</pubDate>
     </item>
     <item>
       <title>⚡️ Новий іранський лідер зараз</title>
-      <link>https://www.mandarinai.lt/post/89669</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️ Новий іранський лідер зараз в Москві, - газета «Аль Джаріда»
 
 🇮🇷 Аятола Моджтаба Хаменеї був поранений, і його таємно перевезли до росії.
@@ -32,36 +31,7 @@
 ▫️ Першу промову нового верховного лідера написав Алі Ларіджані, спікер Ісламської консультативної ради.
 
 ➡️ Потребує подальшої верифікації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_16-03-04.jpg" length="71900" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 16:03:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ТЕРМІНОВИЙ ЗБІР⚡️
-
-Пікап 4X4</title>
-      <link>https://www.mandarinai.lt/post/89671</link>
-      <description>⚡️ТЕРМІНОВИЙ ЗБІР⚡️
-
-Пікап 4X4 критично потрібен на Покровський напрямок. Бійці 152-ої  бригади з початку року не втратили жодної позиції. Але росіяни стали активно палити транспорт, обрізаючи логістику на передову. Ви донатите не на автівку - ви донатите на життя наших бійців. 
-
-🎯Ціль: 405 000.00 ₴
-
-🔗Посилання на банку
-https://send.monobank.ua/jar/6dhwYN4LRL
-
-💳Номер картки банки
-4874 1000 2660 6585</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_17-31-38.mp4" length="16535993" type="video/mp4"/>
-      <pubDate>Sun, 15 Mar 2026 17:31:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇷🇺 росіяни розгорнули мобільно</title>
-      <link>https://www.mandarinai.lt/post/89672</link>
-      <description>🇷🇺 росіяни розгорнули мобільно-вогневі групи навколо кремля,— росЗМІ
-
-Нагадаємо, що російську столицю дрони атакують вже другу добу, у Москві вже тричі за останні дні зупиняли роботу аеропорти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-15_18-07-42.mp4" length="752473" type="video/mp4"/>
-      <pubDate>Sun, 15 Mar 2026 18:07:42 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Іран вперше застосував двос</title>
@@ -89,6 +59,26 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 https://m.youtube.com/watch?v=8PILfBdNnWQ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-15_20-36-36.jpg" length="172179" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 20:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вночі дрони вдало атакували </title>
+      <link>https://www.mandarinai.lt/post/89686</link>
+      <description>💥🔥Вночі дрони вдало атакували нафтобазу у російському Лабинську Краснодарський край</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_05-56-19.mp4" length="299743" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 05:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Аеропорт Дубая закрили через </title>
+      <link>https://www.mandarinai.lt/post/89689</link>
+      <description>🔥Аеропорт Дубая закрили через пожежу після атаки дрону
+
+Уранці в міжнародному аеропорту Дубая тимчасово призупинили прийом і відправлення рейсів, повідомила влада емірату.
+
+За їхньою інформаціє, загорівся один із паливних резервуарів. Постраждалих у результаті інциденту немає
+
+Відео: WarMonitors.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_06-01-12.mp4" length="699634" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 06:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
