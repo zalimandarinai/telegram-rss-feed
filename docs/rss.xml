@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 17:50:47 +0000</lastBuildDate>
-    <item>
-      <title>😱 Затримано заступника начальн</title>
-      <link>https://www.mandarinai.lt/post/89727</link>
-      <description>😱 Затримано заступника начальника ГУ СБУ у Києві та Київській області Олега Токарчука та заступника начальника УСБУ в Рівненській області Ігоря Бріку.
-
-Полковників та їхнього посередника викрила внутрішня безпека СБУ в рамках ліквідації масштабної схеми вимагання грошей з видобувачів бурштину на Рівненщині.
-
-Їх підозрюють у вимаганні хабаря за отримання дозвільних документів на видобуток.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_14-15-18.jpg" length="169646" type="image/jpeg"/>
-      <pubDate>Mon, 16 Mar 2026 14:15:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>На атакованій вночі російській</title>
-      <link>https://www.mandarinai.lt/post/89728</link>
-      <description>На атакованій вночі російській нафтобазі в Лабинську, вітер змінив напрямок і почали вибухати сусідні резервуари
-
-Мінуси?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_14-46-05.mp4" length="7615430" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 14:46:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 18:43:18 +0000</lastBuildDate>
     <item>
       <title>СЗЧ - вчинок, за яким стоять р</title>
       <link>https://www.mandarinai.lt/post/89730</link>
@@ -98,11 +78,27 @@ https://send.monobank.ua/jar/6dhwYN4LRL
       <pubDate>Mon, 16 Mar 2026 17:43:25 +0000</pubDate>
     </item>
     <item>
-      <title>Пакистанська авіація зараз бом</title>
+      <title>⚡️ Зараз пакистанська авіація </title>
       <link>https://www.mandarinai.lt/post/89736</link>
-      <description>Пакистанська авіація зараз бомбить центральні райони Кабула</description>
+      <description>⚡️ Зараз пакистанська авіація та ракети бомблять центральні райони Кабула</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7163.MP4" length="211650" type="video/mp4"/>
       <pubDate>Mon, 16 Mar 2026 17:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐США не потрібно допомагати Ук</title>
+      <link>https://www.mandarinai.lt/post/89740</link>
+      <description>😐США не потрібно допомагати Україні: ми за тисячі миль від цієї країни, — Трамп
+
+«Люди живуть в Україні — хоча можна подумати, що там не будуть жити, але вони живуть. Я не знаю, чи я би так робив, але вони там живуть. І в Лівані теж».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_18-19-03.mp4" length="1362894" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 18:19:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩Біля кремля в москві знову по</title>
+      <link>https://www.mandarinai.lt/post/89741</link>
+      <description>💩Біля кремля в москві знову помітили мобільні вогневі групи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_18-25-02.jpg" length="70463" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 18:25:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
