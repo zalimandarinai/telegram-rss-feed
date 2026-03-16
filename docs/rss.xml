@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 11:37:11 +0000</lastBuildDate>
-    <item>
-      <title>😱Просто біля Монумента Незалеж</title>
-      <link>https://www.mandarinai.lt/post/89703</link>
-      <description>😱Просто біля Монумента Незалежності на Майдані впали уламки шахеда</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_07-55-26.mp4" length="176707" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 07:55:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 12:40:13 +0000</lastBuildDate>
     <item>
       <title>🔥🔥 Ранкова російська нафтобаза</title>
       <link>https://www.mandarinai.lt/post/89706</link>
@@ -61,14 +54,14 @@ https://send.monobank.ua/jar/6dhwYN4LRL
     <item>
       <title>🤬В Сумах шахед вдарив поруч з </title>
       <link>https://www.mandarinai.lt/post/89715</link>
-      <description>🤬В Сумах шахед вдарив поруч з трасою, пошкоджені авиівки та будинків поруч</description>
+      <description>🤬В Сумах шахед вдарив поруч з трасою, пошкоджені автівки та будинки поруч</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_10-22-22.mp4" length="2199392" type="video/mp4"/>
       <pubDate>Mon, 16 Mar 2026 10:22:22 +0000</pubDate>
     </item>
     <item>
       <title>🤬русня вперше атакувала Київ н</title>
       <link>https://www.mandarinai.lt/post/89716</link>
-      <description>🤬русня вперше атакувала Київ новим «Ланцетом» зі штучним інтелектом впав біля Монумента Незалежності у столиці. Можлива точка його пуску — Білорусь, — Defense Express</description>
+      <description>🤬русня вперше атакувала Київ новим «Ланцетом» зі штучним інтелектом, який впав біля Монумента Незалежності у столиці. Можлива точка його пуску — Білорусь, — Defense Express</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_10-25-25.jpg" length="318668" type="image/jpeg"/>
       <pubDate>Mon, 16 Mar 2026 10:25:25 +0000</pubDate>
     </item>
@@ -77,8 +70,8 @@ https://send.monobank.ua/jar/6dhwYN4LRL
       <link>https://www.mandarinai.lt/post/89720</link>
       <description>🔴Ірландський журналіст став свідком падіння російського дрону на Майдані Незалежності в Києві
 
-Це центр міста з ресторанами, готелями, зонами відпочинку тут нема жодних військових цілей, я хочу показати наскільки нерозбірливі удари росії. Коди весь світ прикидається і починає новий день, люди у Києві шукають бомбосховище 
-Нагадаємо, сьогодні біля Монументу Незалежності впали уламки новий російського дрон «Ланцет» із ШІ. 
+Це центр міста з ресторанами, готелями, зонами відпочинку тут нема жодних військових цілей, я хочу показати наскільки нерозбірливі удари росії. Коли весь світ прокидається і починає новий день, люди у Києві шукають бомбосховище 
+Нагадаємо, сьогодні біля Монументу Незалежності впали уламки нового російського дрону  «Ланцет» із ШІ. 
 
 Втім пізніше експерти зауважили, що такий дрон не далекобійний і не може "фізично" долетіти до Києва.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_11-19-11.mp4" length="3133352" type="video/mp4"/>
@@ -92,6 +85,15 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 Дальність ураження однакова — до 300 км.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_11-21-43.jpg" length="195968" type="image/jpeg"/>
       <pubDate>Mon, 16 Mar 2026 11:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ росія може застосувати від </title>
+      <link>https://www.mandarinai.lt/post/89722</link>
+      <description>❗️ росія може застосувати від 7 до 9 мільйонів безпілотників у 2026 році, заявив єврокомісар із питань оборони й космосу Андрюс Кубілюс під час виступу на форумі Europa. 
+
+💬 «Нам потрібно пам’ятати, що Росія витрачає на свою армію, у перерахунку за паритетом купівельної спроможності, близько 85% від усього оборонного бюджету Європейського Союзу. Вона також готова використати від семи до дев’яти мільйонів дронів у 2026 році».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_12-09-11.jpg" length="50349" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 12:09:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
