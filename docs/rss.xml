@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 10:41:51 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Ворог намагався вдарити по К</title>
-      <link>https://www.mandarinai.lt/post/89700</link>
-      <description>⚡️Ворог намагався вдарити по Києву новими ракетами рф «Іздєліє-30», їх збито на підльоті до столиці, - монітори</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_07-37-47.mp4" length="387459" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 07:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перед водієм в Харкові раптово</title>
-      <link>https://www.mandarinai.lt/post/89701</link>
-      <description>Перед водієм в Харкові раптово прилетів російський дрон, який поцілив по заправці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7150.MP4" length="4476555" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 07:46:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 11:37:11 +0000</lastBuildDate>
     <item>
       <title>😱Просто біля Монумента Незалеж</title>
       <link>https://www.mandarinai.lt/post/89703</link>
@@ -85,6 +71,27 @@ https://send.monobank.ua/jar/6dhwYN4LRL
       <description>🤬русня вперше атакувала Київ новим «Ланцетом» зі штучним інтелектом впав біля Монумента Незалежності у столиці. Можлива точка його пуску — Білорусь, — Defense Express</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_10-25-25.jpg" length="318668" type="image/jpeg"/>
       <pubDate>Mon, 16 Mar 2026 10:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Ірландський журналіст став св</title>
+      <link>https://www.mandarinai.lt/post/89720</link>
+      <description>🔴Ірландський журналіст став свідком падіння російського дрону на Майдані Незалежності в Києві
+
+Це центр міста з ресторанами, готелями, зонами відпочинку тут нема жодних військових цілей, я хочу показати наскільки нерозбірливі удари росії. Коди весь світ прикидається і починає новий день, люди у Києві шукають бомбосховище 
+Нагадаємо, сьогодні біля Монументу Незалежності впали уламки новий російського дрон «Ланцет» із ШІ. 
+
+Втім пізніше експерти зауважили, що такий дрон не далекобійний і не може "фізично" долетіти до Києва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_11-19-11.mp4" length="3133352" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 11:19:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Україна переходить до тестов</title>
+      <link>https://www.mandarinai.lt/post/89721</link>
+      <description>❗️Україна переходить до тестових ударів новими балістичними ракетами FP-7 по РФ — це аналог американської ATACMS, — виробник ракет Fire Point
+
+Дальність ураження однакова — до 300 км.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_11-21-43.jpg" length="195968" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 11:21:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
