@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 09:55:20 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Також зранку дрони атакували</title>
-      <link>https://www.mandarinai.lt/post/89698</link>
-      <description>⚡️Також зранку дрони атакували Харків. Є постраждалі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_07-24-28.mp4" length="524841" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 07:24:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Шахед щойно влучив у житловий</title>
-      <link>https://www.mandarinai.lt/post/89699</link>
-      <description>🤬Шахед щойно влучив у житловий будинок в Харкові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_07-27-13.mp4" length="848446" type="video/mp4"/>
-      <pubDate>Mon, 16 Mar 2026 07:27:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 10:41:51 +0000</lastBuildDate>
     <item>
       <title>⚡️Ворог намагався вдарити по К</title>
       <link>https://www.mandarinai.lt/post/89700</link>
@@ -85,6 +71,20 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 4874 1000 2660 6585</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_09-40-44.mp4" length="1403220" type="video/mp4"/>
       <pubDate>Mon, 16 Mar 2026 09:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬В Сумах шахед вдарив поруч з </title>
+      <link>https://www.mandarinai.lt/post/89715</link>
+      <description>🤬В Сумах шахед вдарив поруч з трасою, пошкоджені авиівки та будинків поруч</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-16_10-22-22.mp4" length="2199392" type="video/mp4"/>
+      <pubDate>Mon, 16 Mar 2026 10:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬русня вперше атакувала Київ н</title>
+      <link>https://www.mandarinai.lt/post/89716</link>
+      <description>🤬русня вперше атакувала Київ новим «Ланцетом» зі штучним інтелектом впав біля Монумента Незалежності у столиці. Можлива точка його пуску — Білорусь, — Defense Express</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-16_10-25-25.jpg" length="318668" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 10:25:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
