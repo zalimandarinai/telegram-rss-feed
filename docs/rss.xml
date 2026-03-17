@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 16:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Ізраїль заявив про ліквідацію </title>
-      <link>https://www.mandarinai.lt/post/89795</link>
-      <description>Ізраїль заявив про ліквідацію ще двох іранських лідерів
-
-Секретар Вищої Ради нацбезпеки Ірану Алі Ларіджані загинув під час точкового удару у неназваному місці поблизу Тегерана сьогодні вночі, повідомила Армія оборони Ізраїлю. Він був ключовим радником колишнього верховного лідера Ірану Алі Хаменеї. 
-
-Учора Ларіджані безпосередньо публічно звернувся до Дональда Трампа, заявивши: 
-
-Хоча почати війну легко, її не виграти кількома твітами. Ми не відступимо, поки не змусимо тебе пожалкувати про цю серйозну помилку.
-
-Також учора був ліквідований Голамреза Сулеймані, який протягом останніх 6 років був очолював підрозділу «Басідж». Це угруповання відповідальне за основні репресивні операції в Ірані. Члени «Басідж» здійснювали вбивства, масові арешти та жорстко подавляли мирні демонстрації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-17_12-50-50.jpg" length="54755" type="image/jpeg"/>
-      <pubDate>Tue, 17 Mar 2026 12:50:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 17:55:01 +0000</lastBuildDate>
     <item>
       <title>💥ССО завітали до Криму та ураз</title>
       <link>https://www.mandarinai.lt/post/89797</link>
@@ -133,8 +118,17 @@ https://send.monobank.ua/jar/6dhwYN4LRL
 
 💳Номер картки банки
 4874 1000 2660 6585</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-17_16-49-00.mp4" length="6508371" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-17_16-49-00.mp4" length="980674" type="video/mp4"/>
       <pubDate>Tue, 17 Mar 2026 16:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ось так зараз відбуваються рос</title>
+      <link>https://www.mandarinai.lt/post/89811</link>
+      <description>Ось так зараз відбуваються російські штурми в Запорізькій області. По відкритому полю випускають одного бійця і дивляться, чи прилетять дрони. Напевно, не треба пояснювати, чому таких російських солдатів командування називає «откривашками». 
+
+🎥 475-ий ОШП</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7197.MP4" length="23086840" type="video/mp4"/>
+      <pubDate>Tue, 17 Mar 2026 17:45:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
