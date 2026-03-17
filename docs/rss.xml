@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 19:45:39 +0000</lastBuildDate>
-    <item>
-      <title>Глава Національного контртерор</title>
-      <link>https://www.mandarinai.lt/post/89806</link>
-      <description>Глава Національного контртерористичного центру США, ставленик нинішнього президента, Джо Кент пішов у відставку, протестуючи проти війни з Іраном. Він перший із американських чиновників, хто це зробив
-
-«Я не можу з чистою совістю підтримувати війну в Ірані. Іран не являв безпосередньої загрози для нашої країни, і ясно, що ми розпочали цю війну під тиском Ізраїлю та його впливового американського лобі», — написав Кент у соцмережі Х.
-
-До посади він прикріпив копію заяви про відставку на ім'я Дональда Трампа.
-
-Як зазначає The New York Times, Кент — перший чиновник в адміністрації Трампа, який подав у відставку через війну з Іраном, і один із перших, хто публічно заявив про незгоду з політикою керівництва США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-17_15-17-12.jpg" length="71688" type="image/jpeg"/>
-      <pubDate>Tue, 17 Mar 2026 15:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬путін планує переселити понад</title>
-      <link>https://www.mandarinai.lt/post/89807</link>
-      <description>🤬путін планує переселити понад 100000 росіян на окуповані території України – за методикою Сталіна влада розробила "плани розвитку" Донецької, Луганської, Запорізької та Херсонської областей, - російське видання «Ведомости»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-17_15-22-50.jpg" length="175412" type="image/jpeg"/>
-      <pubDate>Tue, 17 Mar 2026 15:22:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 20:26:10 +0000</lastBuildDate>
     <item>
       <title>🔴США ще не готові залишити Іра</title>
       <link>https://www.mandarinai.lt/post/89808</link>
@@ -120,6 +100,32 @@ https://send.monobank.ua/jar/6dhwYN4LRL
       <description>❗️ Підрозділ «Aquila» бригади ДПСУ «Сталевий кордон» влаштував серію вибухів на Курщині. Бійці Держприкордонслужби знищили 2 точки запуску FPV, 7 польових складів та 5 антен. Також 11 укриттів окупантів розлетілись на друзки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7203.MP4" length="23617982" type="video/mp4"/>
       <pubDate>Tue, 17 Mar 2026 19:43:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тисячі жителів Молдови без вод</title>
+      <link>https://www.mandarinai.lt/post/89821</link>
+      <description>Тисячі жителів Молдови без води після російського удару по Дністровській ГЕС в Україні.  
+
+В річку потрапили нафтопродукти.
+
+У Молдові через забрудненість ріки почали відключати водопостачання. Найбільше постраждав північ країни — у Бельцах, другому за величиною місті, подачу води повністю зупинили.
+
+Воду туди доставляють цистернами, а школи перейшли на дистанційне навчання.
+
+Влада заявляє про серйозну загрозу, адже Дністер забезпечує близько 80% країни, включно з Кишиневом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7204.MP4" length="2307817" type="video/mp4"/>
+      <pubDate>Tue, 17 Mar 2026 20:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Індія затримала шістьох україн</title>
+      <link>https://www.mandarinai.lt/post/89822</link>
+      <description>Індія затримала шістьох українців та одного американця.
+
+Звинувачують в тероризмі.
+
+В ЗМІ повідомляють, що групі закидають участь у навчанні бойових формувань та контрабанді дронів, які могли бути задіяні терористами в М'янмі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7205.MP4" length="9269516" type="video/mp4"/>
+      <pubDate>Tue, 17 Mar 2026 20:25:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
