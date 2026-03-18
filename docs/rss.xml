@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 17:50:51 +0000</lastBuildDate>
-    <item>
-      <title>⚡️росіяни вдарили по будівлі Т</title>
-      <link>https://www.mandarinai.lt/post/89849</link>
-      <description>⚡️росіяни вдарили по будівлі ТЦК у Сумах.
-
-русня вже другий день поспіль завдають ударів по центрах комплектації.
-
-Вчора влучили у будівлю в Городні на Чернігівщині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_09-07-00.jpg" length="273502" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 09:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️«Они называют меня «чурка». </title>
-      <link>https://www.mandarinai.lt/post/89851</link>
-      <description>❗️«Они называют меня «чурка». П@зд@ли меня вчетвером. А командир приказал «обнулить». Не нужны нам, говорит, такие сотрудники», - українські військові захопили 19-річного гастарбайтера зі Средньої Азії, який підписав контракт з окупаційною армією.
-
-Повне відео https://youtu.be/OOfcm3cMUdo?si=cHfMLllYo80uCOOL</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7214.MP4" length="12893334" type="video/mp4"/>
-      <pubDate>Wed, 18 Mar 2026 10:35:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 18:40:18 +0000</lastBuildDate>
     <item>
       <title>У Єврозоні побоюються інфляції</title>
       <link>https://www.mandarinai.lt/post/89852</link>
@@ -119,6 +99,30 @@
 💶 Економічна реінтеграція відбуватиметься через запровадження єдиних фіскальних, митних та торговельних правил.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_17-25-53.jpg" length="93708" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 17:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Огидний маніпулятор Орбан не в</title>
+      <link>https://www.mandarinai.lt/post/89863</link>
+      <description>Огидний маніпулятор Орбан не вважає путіна агресором і звинувачує Захід в тому, що кремлівські війська вдерлись на територію України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7222.MP4" length="25883691" type="video/mp4"/>
+      <pubDate>Wed, 18 Mar 2026 18:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Розвідники 425-го полку «Скеля</title>
+      <link>https://www.mandarinai.lt/post/89864</link>
+      <description>Розвідники 425-го полку «Скеля» вивели бійців 30-ї бригади, які рік тримали оборону на позиції в оточенні.
+
+Група розвідників «Скелі» пройшла ворожим тилом, вийшла до бійців і витягнула їх із пастки. 
+
+Вихід тривав три доби і завершився успішно.</description>
+      <pubDate>Wed, 18 Mar 2026 18:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Залізли на дерево, - оператори</title>
+      <link>https://www.mandarinai.lt/post/89865</link>
+      <description>Залізли на дерево, - оператори бригади ДПСУ «Форпост», яка воює на Харківщині, виявили двох російських окупантів в той момент, коли вони на дереві намагались встановити обладнання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7224.MP4" length="5875555" type="video/mp4"/>
+      <pubDate>Wed, 18 Mar 2026 18:36:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
