@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 07:43:20 +0000</lastBuildDate>
-    <item>
-      <title>ДБР повідомило про підозру ком</title>
-      <link>https://www.mandarinai.lt/post/89825</link>
-      <description>ДБР повідомило про підозру командиру 43-ї окремої артилерійської бригади, який використовував підлеглих як будівельників.
-Командир залучив 7 військовослужбовців до ремонту приватного будинку своїх родичів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_04-44-11.jpg" length="40396" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 04:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В російському Краснодарі ППО </title>
-      <link>https://www.mandarinai.lt/post/89827</link>
-      <description>💥В російському Краснодарі ППО збивала дрони будинками</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_04-49-56.jpg" length="120434" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 04:49:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 08:33:41 +0000</lastBuildDate>
     <item>
       <title>💥США намагаються розблокувати </title>
       <link>https://www.mandarinai.lt/post/89830</link>
@@ -89,6 +74,37 @@
 Будинок у районі Аль-Башура, судячи з відео, зник буквально за секунди. Жителі отримали попередження від ЦАХАЛ перед ударом. Удар є частиною серії атак на інфраструктуру «Хезболли» у Бейруті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-18_07-35-43.mp4" length="868464" type="video/mp4"/>
       <pubDate>Wed, 18 Mar 2026 07:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>😔На Харків скасовуються потяги</title>
+      <link>https://www.mandarinai.lt/post/89841</link>
+      <description>😔На Харків скасовуються потяги через військові дії — з 18 березня сполучення з Києвом буде відсутнє. Інтерсіті курсуватимуть тільки до Полтави.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_07-51-38.jpg" length="135153" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 07:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вісім людей, серед них дві дит</title>
+      <link>https://www.mandarinai.lt/post/89842</link>
+      <description>Вісім людей, серед них дві дитини,  постраждали в результаті авіаудару по Краматорську, — місцева влада
+
+російська армія атакувала Краматорськ, застосувавши дві авіабомби ФАБ-250,
+
+Під удар потрапили приватний сектор і спальний район, в результаті чого було пошкоджено не менше трьох десятків приватних житлових будинків, а також дві багатоповерхові будівлі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_08-08-20.jpg" length="121802" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 08:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅Берлін планує встановити захи</title>
+      <link>https://www.mandarinai.lt/post/89844</link>
+      <description>✅Берлін планує встановити захист від дронів, - Bild
+
+Столиця Німеччини має намір підготуватися до атак із неба: особлива увага буде приділена захисту масових заходів, державних візитів і стратегічно важливих об'єктів. 
+
+Згідно з новим планом ХДС, для виявлення та відбиття атак дронів по всьому Берліну буде розгорнута мережа сенсорів, радарів та камер 
+
+«Ми працюємо над тим, щоб Берлін став безпечнішим. І є технологія, яка це забезпечить. Коаліція вже виділила кошти в бюджеті — більш ніж п'ять мільйонів євро»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_08-26-47.jpg" length="63986" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 08:26:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
