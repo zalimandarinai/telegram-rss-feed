@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 21:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:20:30 +0000</lastBuildDate>
     <item>
       <title>Гауляйтер «ДНР» Пушилін приїха</title>
       <link>https://www.mandarinai.lt/post/89860</link>
@@ -112,13 +112,6 @@
 Свідчення керівників розвідувальних служб відбулися в Сенаті вперше за три тижні з початку війни з Іраном, про що повідомляє CNN.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_21-08-44.jpg" length="103088" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 21:08:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Шахед, який атакував  львівсь</title>
-      <link>https://www.mandarinai.lt/post/89873</link>
-      <description>🤬Шахед, який атакував  львівське СБУ був під дистанційним керуванням — його запустили з південного напрямку і він пролетів до Львова 5 областей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_21-23-24.jpg" length="70817" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 21:23:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
