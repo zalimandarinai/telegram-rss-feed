@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 16:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:50:51 +0000</lastBuildDate>
     <item>
       <title>⚡️росіяни вдарили по будівлі Т</title>
       <link>https://www.mandarinai.lt/post/89849</link>
@@ -97,6 +97,28 @@
       <description>Гауляйтер «ДНР» Пушилін приїхав до зруйнованого Мирнограда і поспілкувався з місцевими «ждунамі».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7216.MP4" length="22906452" type="video/mp4"/>
       <pubDate>Wed, 18 Mar 2026 16:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українське селище було під рос</title>
+      <link>https://www.mandarinai.lt/post/89861</link>
+      <description>Українське селище було під російською окупацією приблизно 10 хвилин, демонструє 225-ий ОШП</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7217.MP4" length="15688288" type="video/mp4"/>
+      <pubDate>Wed, 18 Mar 2026 17:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇲🇩 Молдова офіційно заявила, щ</title>
+      <link>https://www.mandarinai.lt/post/89862</link>
+      <description>🇲🇩 Молдова офіційно заявила, що планує повертати Придністровʼя. Але виключно мирним шляхом.
+
+🇪🇺 Кишинів представив у Брюсселі документ щодо поступової реінтеграції придністровського регіону. План, розроблений у лютому, визначає основні етапи та принципи відновлення єдності країни.
+
+🪖 Ключовим пунктом є повна демілітаризація та демократизація захопленого Росією регіону.
+
+🤝 Міжнародна адміністрація повинна поступово передати повноваження в регіоні центральній владі Молдови.
+
+💶 Економічна реінтеграція відбуватиметься через запровадження єдиних фіскальних, митних та торговельних правил.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_17-25-53.jpg" length="93708" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 17:25:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
