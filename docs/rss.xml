@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 09:39:56 +0000</lastBuildDate>
-    <item>
-      <title>❗️Куба готова до війни з США, </title>
-      <link>https://www.mandarinai.lt/post/89834</link>
-      <description>❗️Куба готова до війни з США, – президент Мігель Діас-Канель.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_06-42-05.jpg" length="116125" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 06:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Одещині удар безпілотників </title>
-      <link>https://www.mandarinai.lt/post/89835</link>
-      <description>На Одещині удар безпілотників пошкодив обʼєкт критичної інфраструктури. Минулося без постраждалих, пожежу ліквідували.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_06-53-07.jpg" length="218092" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 06:53:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 10:38:36 +0000</lastBuildDate>
     <item>
       <title>❗️Іранські чиновники налякані </title>
       <link>https://www.mandarinai.lt/post/89838</link>
@@ -96,11 +82,20 @@
       <link>https://www.mandarinai.lt/post/89849</link>
       <description>⚡️росіяни вдарили по будівлі ТЦК у Сумах.
 
-Здичавілі вже другий день поспіль завдають ударів по центрах комплектації.
+русня вже другий день поспіль завдають ударів по центрах комплектації.
 
 Вчора влучили у будівлю в Городні на Чернігівщині.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_09-07-00.jpg" length="273502" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 09:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️«Они называют меня «чурка». </title>
+      <link>https://www.mandarinai.lt/post/89851</link>
+      <description>❗️«Они называют меня «чурка». П@зд@ли меня вчетвером. А командир приказал «обнулить». Не нужны нам, говорит, такие сотрудники», - українські військові захопили 19-річного гастарбайтера зі Средньої Азії, який підписав контракт з окупаційною армією.
+
+Повне відео https://youtu.be/OOfcm3cMUdo?si=cHfMLllYo80uCOOL</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7214.MP4" length="12893334" type="video/mp4"/>
+      <pubDate>Wed, 18 Mar 2026 10:35:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
