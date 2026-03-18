@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 11:35:30 +0000</lastBuildDate>
-    <item>
-      <title>🍞Українські дрони - перехоплюв</title>
-      <link>https://www.mandarinai.lt/post/89839</link>
-      <description>🍞Українські дрони - перехоплювачи, які хочуть придбати країни Перської затоки показало Reuters
-
-Журналісти агентства поговорили з представниками компанії Wild Hornets, які є одними з виробників таких перехоплювачів в Україні, а саме моделі під назвою STING. 
-За даними компанії, з моменту введення в експлуатацію в червні 2025 року STING збив понад 3000 російських «шахедів». Загалом щомісяця виробляється близько 10 000 таких перехоплювачів, вартість яких становить до 2000 тисяч доларів, або навіть менше.
-
-Зараз Wild Hornets працюють над наступною версією перехоплювача, яка має протидіяти вже реактивним російським «шахедам», адже ворог також постійно модернізує свої технології.
-
-Відео: Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-18_07-26-44.mp4" length="9747744" type="video/mp4"/>
-      <pubDate>Wed, 18 Mar 2026 07:26:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 12:39:18 +0000</lastBuildDate>
     <item>
       <title>❗️Повністю обвалилася багатопо</title>
       <link>https://www.mandarinai.lt/post/89840</link>
@@ -107,6 +93,21 @@
 Встановлено, що дзвінки надходили з території рф.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_11-00-15.jpg" length="135774" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 11:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поляки передадуть Україні росі</title>
+      <link>https://www.mandarinai.lt/post/89854</link>
+      <description>Поляки передадуть Україні російського археолога Олександра Бутягіна.
+
+Суд у Варшаві задовольнив запит на екстрадицію.
+
+Бутягіна звинувачують у незаконних розкопках у Криму. 
+
+Росіянину загрожує до десяти років ув’язнення.
+
+Співробітник Ермітажу попався через власну необережність, у Польщі він був проїздом із Нідерландів, де прочитав кілька  лекцій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_11-46-59.jpg" length="72711" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 11:46:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
