@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 12:39:18 +0000</lastBuildDate>
-    <item>
-      <title>❗️Повністю обвалилася багатопо</title>
-      <link>https://www.mandarinai.lt/post/89840</link>
-      <description>❗️Повністю обвалилася багатоповерхівка у центрі Бейрута після ізраїльського авіаудар, — ЗМІ
-
-Будинок у районі Аль-Башура, судячи з відео, зник буквально за секунди. Жителі отримали попередження від ЦАХАЛ перед ударом. Удар є частиною серії атак на інфраструктуру «Хезболли» у Бейруті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-18_07-35-43.mp4" length="868464" type="video/mp4"/>
-      <pubDate>Wed, 18 Mar 2026 07:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>😔На Харків скасовуються потяги</title>
-      <link>https://www.mandarinai.lt/post/89841</link>
-      <description>😔На Харків скасовуються потяги через військові дії — з 18 березня сполучення з Києвом буде відсутнє. Інтерсіті курсуватимуть тільки до Полтави.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_07-51-38.jpg" length="135153" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 07:51:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 14:12:24 +0000</lastBuildDate>
     <item>
       <title>Вісім людей, серед них дві дит</title>
       <link>https://www.mandarinai.lt/post/89842</link>
@@ -108,6 +92,24 @@
 Співробітник Ермітажу попався через власну необережність, у Польщі він був проїздом із Нідерландів, де прочитав кілька  лекцій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_11-46-59.jpg" length="72711" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 11:46:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Я не вважаю, що путін і росі</title>
+      <link>https://www.mandarinai.lt/post/89855</link>
+      <description>🤬 Я не вважаю, що путін і росія є агресорами у війні проти України, — Орбан</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_13-43-30.jpg" length="86484" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 13:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇸 Іспанія виділить новий паке</title>
+      <link>https://www.mandarinai.lt/post/89856</link>
+      <description>🇪🇸 Іспанія виділить новий пакет допомоги Україні на 1 млрд євро, - Педро Санчес 
+
+Частина цієї допомоги, що фінансується через інструмент Євросоюзу SAFE, буде спрямована на впровадження спільного виробництва в українській оборонній промисловості. 
+
+Санчес наголосив, що Іспанія підтримуватиме Україну стільки, скільки потрібно, доки не буде досягнуто справедливого і тривалого миру.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_13-44-39.jpg" length="53381" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 13:44:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
