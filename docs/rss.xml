@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 10:38:36 +0000</lastBuildDate>
-    <item>
-      <title>❗️Іранські чиновники налякані </title>
-      <link>https://www.mandarinai.lt/post/89838</link>
-      <description>❗️Іранські чиновники налякані та панічно побоюються за свою безпеку після вбивства секретаря Ради національної безпеки Алі Ларіджані, — пише NYT
-
-Як повідомляє видання, сьогодні всі іранські високопосадовці задаються питанням, хто з них стане наступною мішенню, оскільки Ізраїль не зупиниться, доки не буде вбито всіх іранських лідерів і не буде повалено Ісламську Республіку. Більше того, частина відмовляється займати вільні посади замість вбитих іранських посадовців, що призводить до втрати управління в державі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_07-23-00.jpg" length="78712" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 07:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 11:35:30 +0000</lastBuildDate>
     <item>
       <title>🍞Українські дрони - перехоплюв</title>
       <link>https://www.mandarinai.lt/post/89839</link>
@@ -96,6 +87,26 @@
 Повне відео https://youtu.be/OOfcm3cMUdo?si=cHfMLllYo80uCOOL</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7214.MP4" length="12893334" type="video/mp4"/>
       <pubDate>Wed, 18 Mar 2026 10:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Єврозоні побоюються інфляції</title>
+      <link>https://www.mandarinai.lt/post/89852</link>
+      <description>У Єврозоні побоюються інфляції через конфлікт на Близькому Сході
+
+З початку ірано-ізраїльського конфлікту ціни на нафту і газ у Європі різко виросли. Є побоювання, що після енергоносіїв можуть подорожчати й інші товари, що призведе до зростання інфляції. Завтра відбудеться засідання Ради Європейського центрального банку, на якому буде обговорюватися подальша грошово-кредитна політика.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_10-58-52.jpg" length="64188" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 10:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️СБУ викрила масштабну ІПСО р</title>
+      <link>https://www.mandarinai.lt/post/89853</link>
+      <description>⚡️СБУ викрила масштабну ІПСО росіян проти угорської громади на Закарпатті
+
+Окупанти здійснювали анонімні дзвінки з підміною номерів, погрожуючи людям та змушуючи їх залишити країну, представляючись нібито українськими активістами та правоохоронцями.
+
+Встановлено, що дзвінки надходили з території рф.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_11-00-15.jpg" length="135774" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 11:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
