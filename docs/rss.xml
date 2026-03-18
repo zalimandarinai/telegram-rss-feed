@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 20:23:18 +0000</lastBuildDate>
-    <item>
-      <title>🔥ЗСУ завдали ударів по двох ав</title>
-      <link>https://www.mandarinai.lt/post/89857</link>
-      <description>🔥ЗСУ завдали ударів по двох авіаоб’єктах рф, — Генштаб 
-
-16 березня уражено авіабудівний завод «Авіастар» в Ульяновську — пошкоджено кліматичне укриття та стоянки літаків, частина Іл-76МД-90А, Іл-78М-90А та Ан-124 «Руслан» отримала ушкодження.
-
-А 17 березня влучили по 123-му авіаремонтному заводу в Старій Руссі (Новгородська область) — уражено ангар для Іл-76 та Л-410.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_15-31-55.jpg" length="88795" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 15:31:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 21:23:30 +0000</lastBuildDate>
     <item>
       <title>Гауляйтер «ДНР» Пушилін приїха</title>
       <link>https://www.mandarinai.lt/post/89860</link>
@@ -105,6 +94,31 @@
 Відео: Reuters</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-18_20-21-24.mp4" length="8730128" type="video/mp4"/>
       <pubDate>Wed, 18 Mar 2026 20:21:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Пентагон підготував кілька </title>
+      <link>https://www.mandarinai.lt/post/89871</link>
+      <description>❗️ Пентагон підготував кілька варіантів сухопутної операції на території Ірану з метою захоплення ядерних матеріалів, однак Дональд Трамп поки вагається, - CBS News.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_20-59-37.jpg" length="95605" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 20:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸🕵️‍♂️🇮🇷 Розвідка США спросту</title>
+      <link>https://www.mandarinai.lt/post/89872</link>
+      <description>🇺🇸🕵️‍♂️🇮🇷 Розвідка США спростувала заяви Трампа про те, що Іран продовжує збагачувати уран в контексті військових ядерних програм.
+
+Директор Національної розвідки США Тулсі Габбард заявила, що Іран не робив спроб відновити свою програму зі збагачення урану після того, як вона була знищена внаслідок американської операції «Midnight Hammer» в 2025-му році.
+
+Свідчення керівників розвідувальних служб відбулися в Сенаті вперше за три тижні з початку війни з Іраном, про що повідомляє CNN.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_21-08-44.jpg" length="103088" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 21:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Шахед, який атакував  львівсь</title>
+      <link>https://www.mandarinai.lt/post/89873</link>
+      <description>🤬Шахед, який атакував  львівське СБУ був під дистанційним керуванням — його запустили з південного напрямку і він пролетів до Львова 5 областей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_21-23-24.jpg" length="70817" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 21:23:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
