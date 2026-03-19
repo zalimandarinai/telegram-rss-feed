@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 13:59:57 +0000</lastBuildDate>
-    <item>
-      <title>🔥Цієї ночі добрі дрони завдали</title>
-      <link>https://www.mandarinai.lt/post/89877</link>
-      <description>🔥Цієї ночі добрі дрони завдали удару по будівлі військового концерну "Алмаз-Антей" у Севастополі.
-
-Концерн ВКО "Алмаз-Антей" -  виробничо-технічна база з обслуговування та ремонту систем ППО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-19_07-37-37.jpg" length="98446" type="image/jpeg"/>
-      <pubDate>Thu, 19 Mar 2026 07:37:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 14:48:18 +0000</lastBuildDate>
     <item>
       <title>‼️Ціни на газ в Європі лише за</title>
       <link>https://www.mandarinai.lt/post/89879</link>
@@ -77,6 +68,26 @@
       <description>США можуть у найближчі дні послабити санкції проти іранської нафти, щоб викинути її на світовий ринок і утримати ціни, - міністр фінансів США Бессент.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-19_13-52-03.mp4" length="2414985" type="video/mp4"/>
       <pubDate>Thu, 19 Mar 2026 13:52:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🇪🇺 Європейська Рада очікує н</title>
+      <link>https://www.mandarinai.lt/post/89890</link>
+      <description>🇺🇦🇪🇺 Європейська Рада очікує на виділення першого траншу з 90 млрд євро Україні вже у березні
+
+Про це йдеться у заяві за підсумками обговорення лідерів ЄС за участі президента України Володимира Зеленського.
+
+"Європейська Рада сподівається на здійснення першого траншу на користь України до початку квітня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-19_14-08-43.jpg" length="23802" type="image/jpeg"/>
+      <pubDate>Thu, 19 Mar 2026 14:08:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Тим часом, у Москві підірвал</title>
+      <link>https://www.mandarinai.lt/post/89892</link>
+      <description>💥 Тим часом, у Москві підірвали відділення "Россєльхозбанка" 
+
+Свідки стверджують, що незадовго до вибуху з відділення вибіг невідомий чоловік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-19_14-41-40.mp4" length="3318884" type="video/mp4"/>
+      <pubDate>Thu, 19 Mar 2026 14:41:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
