@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 14:48:18 +0000</lastBuildDate>
-    <item>
-      <title>‼️Ціни на газ в Європі лише за</title>
-      <link>https://www.mandarinai.lt/post/89879</link>
-      <description>‼️Ціни на газ в Європі лише за добу зросли більш ніж на 30% (!) після атаки Ірану на газовий об'єкт у Катарі, – Bloomberg.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-19_08-44-51.jpg" length="53965" type="image/jpeg"/>
-      <pubDate>Thu, 19 Mar 2026 08:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>😱🏔 У горах Румунії знайшли мер</title>
-      <link>https://www.mandarinai.lt/post/89880</link>
-      <description>😱🏔 У горах Румунії знайшли мертвим 28-річного українця
-
-До служби порятунку звернувся його супутник, з яким вони разом застрягли на високогір'ї Марамуреша, незаконно перетнувши кордон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-19_08-52-19.jpg" length="179575" type="image/jpeg"/>
-      <pubDate>Thu, 19 Mar 2026 08:52:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 15:40:09 +0000</lastBuildDate>
     <item>
       <title>🤬Орбан приїхав на європейський</title>
       <link>https://www.mandarinai.lt/post/89881</link>
@@ -88,6 +72,15 @@
 Свідки стверджують, що незадовго до вибуху з відділення вибіг невідомий чоловік.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-19_14-41-40.mp4" length="3318884" type="video/mp4"/>
       <pubDate>Thu, 19 Mar 2026 14:41:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>💡 В Ізраїлі частковий блекаут </title>
+      <link>https://www.mandarinai.lt/post/89893</link>
+      <description>💡 В Ізраїлі частковий блекаут після того, як Іран завдав балістичного удару по нафтопереробному заводу в Хайфі
+
+Внаслідок атаки на об’єкті спалахнула масштабна пожежа, над районом піднявся густий дим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-19_15-16-10.jpg" length="84395" type="image/jpeg"/>
+      <pubDate>Thu, 19 Mar 2026 15:16:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
