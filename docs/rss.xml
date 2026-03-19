@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 05:49:08 +0000</lastBuildDate>
-    <item>
-      <title>Гауляйтер «ДНР» Пушилін приїха</title>
-      <link>https://www.mandarinai.lt/post/89860</link>
-      <description>Гауляйтер «ДНР» Пушилін приїхав до зруйнованого Мирнограда і поспілкувався з місцевими «ждунамі».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7216.MP4" length="22906452" type="video/mp4"/>
-      <pubDate>Wed, 18 Mar 2026 16:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українське селище було під рос</title>
-      <link>https://www.mandarinai.lt/post/89861</link>
-      <description>Українське селище було під російською окупацією приблизно 10 хвилин, демонструє 225-ий ОШП</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7217.MP4" length="15688288" type="video/mp4"/>
-      <pubDate>Wed, 18 Mar 2026 17:17:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 06:41:45 +0000</lastBuildDate>
     <item>
       <title>🇲🇩 Молдова офіційно заявила, щ</title>
       <link>https://www.mandarinai.lt/post/89862</link>
@@ -112,6 +98,22 @@
 Свідчення керівників розвідувальних служб відбулися в Сенаті вперше за три тижні з початку війни з Іраном, про що повідомляє CNN.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-18_21-08-44.jpg" length="103088" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 21:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱Невідомі дрони були зафіксова</title>
+      <link>https://www.mandarinai.lt/post/89874</link>
+      <description>😱Невідомі дрони були зафіксовані в Вашингтоні, на території, де розташовані будинки держсекретаря Марко Рубіо та глави Пентагону Піта Хегсета. Походження дронів поки що не встановлено, - WP
+
+Обговорюється можливість переселення високопоставлених осіб. Однак, за даними джерел, ні Рубіо, ні Хегсет поки що не планують змінювати місце проживання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-19_06-21-42.jpg" length="95218" type="image/jpeg"/>
+      <pubDate>Thu, 19 Mar 2026 06:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Моторошні кадри з Одеси. Внас</title>
+      <link>https://www.mandarinai.lt/post/89875</link>
+      <description>🤬Моторошні кадри з Одеси. Внаслідок ворожої атаки постраждали троє людей, пошкодженні десятки будинків— ДСНС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-19_06-24-17.mp4" length="4502523" type="video/mp4"/>
+      <pubDate>Thu, 19 Mar 2026 06:24:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
