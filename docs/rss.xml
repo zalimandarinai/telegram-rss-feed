@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 05:41:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 06:38:21 +0000</lastBuildDate>
     <item>
       <title>🇪🇺❌ Лідери ЄС півтори години н</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -14,14 +14,6 @@
 
 Більше того, за результатами саміту Євроради премʼєр Фіцо заявив, що Словаччина приєднується до блокування 💩</description>
       <pubDate>Thu, 19 Mar 2026 16:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦🇺🇸Українська делегація вируш</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🇺🇦🇺🇸Українська делегація вирушила у США на зустріч щодо мирних перемовин, яка відбудеться 21 березня, — Зеленський
-
-Президент повідомив, що "є сигнали від американської сторони" щодо готовності продовжити роботу в наявних форматах перемовин для закінчення війни рф проти України.</description>
-      <pubDate>Thu, 19 Mar 2026 18:27:20 +0000</pubDate>
     </item>
     <item>
       <title>В Україні можуть скоротити кіл</title>
@@ -70,6 +62,13 @@
 Пошкоджені доменна піч (ДП-3) та цех киснево-конвертерного виробництва (ККЦ)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_04-49-42.jpg" length="16832" type="image/jpeg"/>
       <pubDate>Fri, 20 Mar 2026 04:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🤝🇪🇺 Європа все ж таки  виділ</title>
+      <link>https://www.mandarinai.lt/post/89920</link>
+      <description>🇺🇦🤝🇪🇺 Європа все ж таки  виділить Україні кредит на 90 млрд євро, попри спротив Угорщини, — Урсула фон дер Ляєн</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-20_06-16-28.mp4" length="4887601" type="video/mp4"/>
+      <pubDate>Fri, 20 Mar 2026 06:16:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
