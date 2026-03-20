@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 15:31:38 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥руснявий гелікоптер Ка-52 за</title>
-      <link>https://www.mandarinai.lt/post/89932</link>
-      <description>💥🔥руснявий гелікоптер Ка-52 за $16 млн. в обʼєктиві FPV-дрона за момент до збиття в районі населеного пункту Межова.
-
-На другому фото гелікоптер догорає після вимушеної посадки.
-
-Пілоти, швидше за все, вижили. Але ж, як красиво спрацював малюк FPV💪 Хлопцям з однієї з найкращих бригад СБС наш респект 🤝</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7271.MP4" length="1007358" type="video/mp4"/>
-      <pubDate>Fri, 20 Mar 2026 11:49:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 16:28:02 +0000</lastBuildDate>
     <item>
       <title>А ось і екіпаж, з яким «все в </title>
       <link>https://www.mandarinai.lt/post/89934</link>
@@ -100,6 +89,24 @@
       <description>Удача на боці прикордонників. Ще один вдалий удар вглиб контрольованої ворогом території. Підрозділ «Фурія» бригади ДПСУ «Гарт» спалив росіянам танк, який ті намагались замаскувати.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7281.MP4" length="22215450" type="video/mp4"/>
       <pubDate>Fri, 20 Mar 2026 15:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Війна на Близькому Сході прине</title>
+      <link>https://www.mandarinai.lt/post/89945</link>
+      <description>Війна на Близькому Сході принесе Путіну до 250 мільярдів доларів, якщо вона затягнеться до вересня, — Der Spiegel
+
+Для порівняння: Україна під час війни отримала від своїх партнерів в середньому близько 100 мільярдів доларів у вигляді фінансової та військової допомоги.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_15-49-45.jpg" length="82037" type="image/jpeg"/>
+      <pubDate>Fri, 20 Mar 2026 15:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️У Слов'янську проведуть прим</title>
+      <link>https://www.mandarinai.lt/post/89946</link>
+      <description>⚠️У Слов'янську проведуть примусову евакуацію дітей із низки районів, - ОВА
+
+Мова йде про майже 30 вулиць, які є найбільш уразливими під час ворожих обстрілів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_15-58-11.jpg" length="84934" type="image/jpeg"/>
+      <pubDate>Fri, 20 Mar 2026 15:58:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
