@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 09:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:25:37 +0000</lastBuildDate>
     <item>
       <title>В Україні можуть скоротити кіл</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,19 +20,6 @@
 
  Також переглянуть систему «бронювання» — перевірять, чи потрібна така кількість відстрочок, як зараз.</description>
       <pubDate>Thu, 19 Mar 2026 18:55:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴 У Ірану більше немає можливо</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🔴 У Ірану більше немає можливості збагачувати уран або виробляти балістичні ракети, – Нетаньягу</description>
-      <pubDate>Thu, 19 Mar 2026 18:59:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Хлопці від 17 до 23 років підп</title>
-      <link>https://www.mandarinai.lt/post/89911</link>
-      <description>Хлопці від 17 до 23 років підпалювали автівки українських військових, - СБУ та Нацполіція затримали 6 підпалювачів, які діяли на замовлення російських спецслужб: по одному в Кропивницькому та Запоріжжі, а чотирьох в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-19_20-38-56.jpg" length="131769" type="image/jpeg"/>
-      <pubDate>Thu, 19 Mar 2026 20:38:56 +0000</pubDate>
     </item>
     <item>
       <title>💥В окупованому Алчевську щонай</title>
@@ -73,6 +60,26 @@
       <description>🇺🇦🤝🇪🇺 Європа все ж таки  виділить Україні кредит на 90 млрд євро, попри блокування рішення  Угорщиною, — Урсула фон дер Ляєн</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-20_08-18-56.mp4" length="4887601" type="video/mp4"/>
       <pubDate>Fri, 20 Mar 2026 08:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬путін боїться повтору сценарі</title>
+      <link>https://www.mandarinai.lt/post/89928</link>
+      <description>💬путін боїться повтору сценарію 1991 року, коли після війни в Афганістані Союз розвалився, спецслужби розкололися і це була катастрофа режиму — це одна з причин, чому росія тотально посилює контроль над Інтернетом, блокує соцмережі та робить цифрову завісу на кшталт КНДР, пише Reuters.
+
+Якщо війна в Україні затягнеться чи навпаки, скоро закінчиться — це все, по своєму, може ще більше підірвати підтримку населення, тому російська влада готується до будь-якого невдоволення.
+
+Згадаєм історію: закінчення війни в Афганістані в 1989 році викликало серйозні соціальні потрясіння в росії, коли повернені ветерани підживлювали хвилю беззаконня, яка накрила 1990-ті роки. Хаос посилився розпадом Радянського Союзу в 1991 році.
+
+Факт, що російські лідери та спецслужби пам'ятають 1991 рік — зараз вони намагаються створити ситуацію, при якій — якщо путін підпише мирну угоду або якщо путін піде на затяжну війну — це не зруйнує все.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_10-16-14.jpg" length="39783" type="image/jpeg"/>
+      <pubDate>Fri, 20 Mar 2026 10:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>росія готує великий наступ. За</title>
+      <link>https://www.mandarinai.lt/post/89930</link>
+      <description>росія готує великий наступ. Завдяки зростанню цін на нафту бюджет рф поповнився, а увага та ресурси Заходу розпорошилися через конфлікт з Іраном, — Associated Press</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_10-17-05.jpg" length="107130" type="image/jpeg"/>
+      <pubDate>Fri, 20 Mar 2026 10:17:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
