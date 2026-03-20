@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 14:34:21 +0000</lastBuildDate>
-    <item>
-      <title>росія готує великий наступ. За</title>
-      <link>https://www.mandarinai.lt/post/89930</link>
-      <description>росія готує великий наступ. Завдяки зростанню цін на нафту бюджет рф поповнився, а увага та ресурси Заходу розпорошилися через конфлікт з Іраном, — Associated Press</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_10-17-05.jpg" length="107130" type="image/jpeg"/>
-      <pubDate>Fri, 20 Mar 2026 10:17:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 15:31:38 +0000</lastBuildDate>
     <item>
       <title>💥🔥руснявий гелікоптер Ка-52 за</title>
       <link>https://www.mandarinai.lt/post/89932</link>
@@ -93,6 +86,20 @@
 Вони не захотіли брати участь у боротьбі з Іраном, тепер скаржаться на високі ціни на нафту, але не допомагають відкрити Ормузьку протоку — простий військовий маневр. Ми це запам'ятаємо.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_14-16-01.jpg" length="48030" type="image/jpeg"/>
       <pubDate>Fri, 20 Mar 2026 14:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бригада ДПСУ «Помста» дотягнул</title>
+      <link>https://www.mandarinai.lt/post/89943</link>
+      <description>Бригада ДПСУ «Помста» дотягнулася до російських окупантів за межами так званої «kill-zone», знищивши гармату на позиції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7280.MP4" length="16940548" type="video/mp4"/>
+      <pubDate>Fri, 20 Mar 2026 14:58:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удача на боці прикордонників. </title>
+      <link>https://www.mandarinai.lt/post/89944</link>
+      <description>Удача на боці прикордонників. Ще один вдалий удар вглиб контрольованої ворогом території. Підрозділ «Фурія» бригади ДПСУ «Гарт» спалив росіянам танк, який ті намагались замаскувати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7281.MP4" length="22215450" type="video/mp4"/>
+      <pubDate>Fri, 20 Mar 2026 15:21:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
