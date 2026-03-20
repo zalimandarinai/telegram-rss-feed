@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 11:21:14 +0000</lastBuildDate>
-    <item>
-      <title>В Україні можуть скоротити кіл</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>В Україні можуть скоротити кількість призовників та встановити місцезнаходження майже мільйона чоловіків, які не оновили військово-облікові дані — вони будуть у пріоритеті для ТЦК, — ТСН із посиланням на джерела у ВР
-
- Обговорюють запровадження жорсткіших механізмів контролю для військових, які самовільно залишили частини;
-
- Проаналізують потребу в нинішній кількості призовників — у разі надлишку можливе скорочення;
-
- Встановленню місцезнаходження може посприяти використання ідентифікаційного коду;
-
- Також переглянуть систему «бронювання» — перевірять, чи потрібна така кількість відстрочок, як зараз.</description>
-      <pubDate>Thu, 19 Mar 2026 18:55:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В окупованому Алчевську щонай</title>
-      <link>https://www.mandarinai.lt/post/89917</link>
-      <description>💥В окупованому Алчевську щонайменше чотири прильоти по металургійному комбінату 
-
-Пошкоджені доменна піч (ДП-3) та цех киснево-конвертерного виробництва (ККЦ)</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_04-49-42.jpg" length="16832" type="image/jpeg"/>
-      <pubDate>Fri, 20 Mar 2026 04:49:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Туман не врятував окупантів 
-</title>
-      <link>https://www.mandarinai.lt/post/89921</link>
-      <description>🔥Туман не врятував окупантів 
-
-Розвідка 31-ої ОМБР виявила на підступі до своїх передових позицій кілька піхотних груп противника. Спроба інфільтрації ворога провалилась.
-
-БпЛА 31-ої ОМБР провели успішні атаки по противнику з повітря. У результаті кількох годин злагодженої роботи знищено близько десятка окупантів. 
-
-Обмежена видимість триває, тож ризик масованих штурмів найближчим часом зберігається.</description>
-      <pubDate>Fri, 20 Mar 2026 07:05:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 12:29:59 +0000</lastBuildDate>
     <item>
       <title>👀Уперше в історії в Єрусалимі </title>
       <link>https://www.mandarinai.lt/post/89923</link>
@@ -80,6 +44,35 @@
       <description>росія готує великий наступ. Завдяки зростанню цін на нафту бюджет рф поповнився, а увага та ресурси Заходу розпорошилися через конфлікт з Іраном, — Associated Press</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_10-17-05.jpg" length="107130" type="image/jpeg"/>
       <pubDate>Fri, 20 Mar 2026 10:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥руснявий гелікоптер Ка-52 за</title>
+      <link>https://www.mandarinai.lt/post/89932</link>
+      <description>💥🔥руснявий гелікоптер Ка-52 за $16 млн. в обʼєктиві FPV-дрона за момент до збиття в районі населеного пункту Межова.
+
+На другому фото гелікоптер догорає після вимушеної посадки.
+
+Пілоти, швидше за все, вижили. Але ж, як красиво спрацював малюк FPV💪 Хлопцям з однієї з найкращих бригад СБС наш респект 🤝</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7271.MP4" length="1007358" type="video/mp4"/>
+      <pubDate>Fri, 20 Mar 2026 11:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>А ось і екіпаж, з яким «все в </title>
+      <link>https://www.mandarinai.lt/post/89934</link>
+      <description>А ось і екіпаж, з яким «все в порядке», як кажуть</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_12-20-24.jpg" length="158101" type="image/jpeg"/>
+      <pubDate>Fri, 20 Mar 2026 12:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повністю момент ураження ворож</title>
+      <link>https://www.mandarinai.lt/post/89936</link>
+      <description>Повністю момент ураження ворожого гелікоптера операторами 59-ої бригади Сил безпілотних систем.
+
+Екіпаж гелікоптера під час спроби відсунутися від машини та евакуюватися був уражений розрахунком дронів 414-ої бригади безпілотних систем.
+
+Також дрони цієї бригади спостерігали за тим, як їхні побратими з 59-ої ОШБР оптоволокном за $1 тис. дістали гелікоптер за $16 млн.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7274.MP4" length="28005771" type="video/mp4"/>
+      <pubDate>Fri, 20 Mar 2026 12:22:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
