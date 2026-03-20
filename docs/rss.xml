@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 17:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:29:51 +0000</lastBuildDate>
     <item>
       <title>Повністю момент ураження ворож</title>
       <link>https://www.mandarinai.lt/post/89936</link>
@@ -100,6 +100,13 @@
 Мова йде про майже 30 вулиць, які є найбільш уразливими під час ворожих обстрілів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_15-58-11.jpg" length="84934" type="image/jpeg"/>
       <pubDate>Fri, 20 Mar 2026 15:58:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🫡Бійців, які збили сьогодні Ка</title>
+      <link>https://www.mandarinai.lt/post/89949</link>
+      <description>🫡Бійців, які збили сьогодні Ка-52 FPV-дроном, Зеленський нагородив Орденом за мужність ІІ ступеня, указ підписано, - ПО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_18-24-03.jpg" length="38492" type="image/jpeg"/>
+      <pubDate>Fri, 20 Mar 2026 18:24:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
