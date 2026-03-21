@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 13:34:11 +0000</lastBuildDate>
-    <item>
-      <title>🚀Балістична атака Ірану на рек</title>
-      <link>https://www.mandarinai.lt/post/89979</link>
-      <description>🚀Балістична атака Ірану на рекордну відстань близько 4000 км по базі в Індійському океані виявилась невдалою, - Пентагон
-
-Були випущені 2 балістичні ракети середньої дальності, але жодна з них не потрапила в ціль. Одна ракета вийшла з ладу в польоті, а по другій американський корабель запустив перехоплювач SM-3.
-
-Втім сам факт застосування Іраном балістичних ракет  середньої дальності є беспрецедентним.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_08-37-05.jpg" length="145513" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 08:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>П’ять людей загинули, 14 – пор</title>
-      <link>https://www.mandarinai.lt/post/89980</link>
-      <description>П’ять людей загинули, 14 – поранені внаслідок російських ударів по Донеччині, - Нацполіція.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_08-52-08.jpg" length="192221" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 08:52:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 14:15:23 +0000</lastBuildDate>
     <item>
       <title>⚡️ Трамп вимагає від держав Пе</title>
       <link>https://www.mandarinai.lt/post/89983</link>
@@ -117,6 +99,17 @@
       <description>🔥 Збиття російського «шахеда», відомого під назвою «Герань-2», перехоплювачем «Генерал Черешня AIR» над Запорізькою областю</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7295.MP4" length="2067881" type="video/mp4"/>
       <pubDate>Sat, 21 Mar 2026 12:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>BILD опублікував карту планува</title>
+      <link>https://www.mandarinai.lt/post/89996</link>
+      <description>BILD опублікував карту планування вторгнення путіна до трьох країн Балтії.
+
+Понад чотири роки тому BILD оприлюднив карту майбутнього вторгнення путіна до України.
+
+Тоді в соцмережах він над нею сміялись і глузували.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_14-06-09.jpg" length="86195" type="image/jpeg"/>
+      <pubDate>Sat, 21 Mar 2026 14:06:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
