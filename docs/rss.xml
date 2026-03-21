@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 20:12:19 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ У Чехії на протести проти в</title>
-      <link>https://www.mandarinai.lt/post/90004</link>
-      <description>⚡️ У Чехії на протести проти влади вийшли майже пів мільйона людей, — місцеві ЗМІ.
-
-Учасники з гаслом «Ми не дозволимо вкрасти наше майбутнє» виступають проти послаблення антиросійської риторики уряду, посилення впливу олігархів і можливого закону «про іноагентів» за прикладом рф.
-
-Нагадаємо, що після перемоги на виборах новий прем'єр Чехії познімав з урядових будівель українські прапори, які висіли на знак солідарності з 2022 року. Також ж він виступає за припинення допомоги Україні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-21_16-31-18.mp4" length="3320471" type="video/mp4"/>
-      <pubDate>Sat, 21 Mar 2026 16:31:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Приліт іранської балістичної р</title>
-      <link>https://www.mandarinai.lt/post/90006</link>
-      <description>Приліт іранської балістичної ракети в місті Дімона (Ізраїль).
-
-Цей населений пункт відомий тим, що тут розташований головний ядерний об'єкт країни.
-
-Вважається, що об'єкт включає ядерний реактор та завод з виробництва плутонію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-21_17-18-38.mp4" length="958777" type="video/mp4"/>
-      <pubDate>Sat, 21 Mar 2026 17:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В Україні вперше за тривали</title>
-      <link>https://www.mandarinai.lt/post/90007</link>
-      <description>⚡️ В Україні вперше за тривалий період не відбудеться відключень</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_17-52-25.jpg" length="92767" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 17:52:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 21:13:43 +0000</lastBuildDate>
     <item>
       <title>"Роберт Мюллер щойно помер. До</title>
       <link>https://www.mandarinai.lt/post/90008</link>
@@ -95,13 +66,29 @@
     <item>
       <title>Ворог продовжує вперто розвішу</title>
       <link>https://www.mandarinai.lt/post/90015</link>
-      <description>Ворог продовжує вперто розвішувати своє обладнання, сподіваючись налагодити надійну мережу координації. 
+      <description>Ворог продовжує вперто розвішувати своє обладнання, сподіваючись налагодити надійну мережу координації після відключення «Starlink».
 
 Але для розрахунків БПЛА планомірний демонтаж таких систем це щоденна робота, яка не залишає шансів на стабільний зв'язок
 
 Одразу чотири ворожі антени перетворилися на брухт, окупанти перешли до режиму тривалої радіотиші, так працює Батальйон Безпілотних Систем «11:11» 152-ої окремої єгерської бригади.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7309.MP4" length="10758475" type="video/mp4"/>
       <pubDate>Sat, 21 Mar 2026 19:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳На американському телебаченні</title>
+      <link>https://www.mandarinai.lt/post/90019</link>
+      <description>😳На американському телебаченні відверто знущаються з приводу війни Трампа в Перській затоці
+
+Особливо стараються в популярному сатиричному шоу The Daily Show, до якого повернувся комік Джон Стюарт. Його повернення значно підвищило рейтинги шоу, випуски якого збирають біля екранів мільйони глядачів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-21_20-14-51.mp4" length="4421702" type="video/mp4"/>
+      <pubDate>Sat, 21 Mar 2026 20:14:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іран атакував ракетною зброєю </title>
+      <link>https://www.mandarinai.lt/post/90020</link>
+      <description>Іран атакував ракетною зброєю Арад в Ізраїлі, повідомляється про десятки поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7323.MP4" length="391263" type="video/mp4"/>
+      <pubDate>Sat, 21 Mar 2026 20:32:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
