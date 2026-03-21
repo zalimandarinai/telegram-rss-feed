@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 18:18:49 +0000</lastBuildDate>
-    <item>
-      <title>BILD опублікував карту планува</title>
-      <link>https://www.mandarinai.lt/post/89996</link>
-      <description>BILD опублікував карту планування вторгнення путіна до трьох країн Балтії.
-
-Понад чотири роки тому BILD оприлюднив карту майбутнього вторгнення путіна до України.
-
-Тоді в соцмережах над нею сміялись і глузували.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_14-06-09.jpg" length="86195" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 14:06:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українські військові збили кіл</title>
-      <link>https://www.mandarinai.lt/post/89998</link>
-      <description>Українські військові збили кілька іранських дронів типу «шахед» в неназваній країні Перської затоки, — джерела BBC</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_14-33-27.jpg" length="77304" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 14:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Село Покровка на Сумщині під к</title>
-      <link>https://www.mandarinai.lt/post/89999</link>
-      <description>Село Покровка на Сумщині під контролем ЗСУ, - 14-ий АК
-
-Воїни 14-го армійського корпусу встановили державний прапор України у населеному пункті і спростували заяви росіян про «захоплення» цієї території.
-
-Покровка практично вщент розбита, але село противнику не здали.
-
-🎥 14-ий армійський корпус</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7299.MP4" length="4034567" type="video/mp4"/>
-      <pubDate>Sat, 21 Mar 2026 14:42:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Масштабна пожежа в Запоріжжі п</title>
-      <link>https://www.mandarinai.lt/post/90000</link>
-      <description>Масштабна пожежа в Запоріжжі після атаки дронів на обʼєкти енергетичної інфраструктури</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7300.MP4" length="125208" type="video/mp4"/>
-      <pubDate>Sat, 21 Mar 2026 14:47:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 19:15:00 +0000</lastBuildDate>
     <item>
       <title>💵 10 млн. однією купюрою це тр</title>
       <link>https://www.mandarinai.lt/post/90001</link>
@@ -140,6 +102,24 @@
 #ЗАТЯГ #ЗСУ #Україна</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_18-07-59.jpg" length="122656" type="image/jpeg"/>
       <pubDate>Sat, 21 Mar 2026 18:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Фіцо пригрозив заблокувати </title>
+      <link>https://www.mandarinai.lt/post/90011</link>
+      <description>⚡️ Фіцо пригрозив заблокувати кредит Україні
+
+Прем’єр Словаччини Роберт Фіцо розкритикував Володимира Зеленського та заявив, що його країна може підтримати блокування фінансової допомоги Україні, як це вже робить Угорщина.
+
+Фіцо також звинуватив Україну в проблемах із постачанням нафти та заявив, що відновлення залежить від рішень Києва. У своїх заявах він різко висловився на адресу українського президента та політики ЄС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_18-50-18.jpg" length="90623" type="image/jpeg"/>
+      <pubDate>Sat, 21 Mar 2026 18:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна, ймовірно, тестує морс</title>
+      <link>https://www.mandarinai.lt/post/90012</link>
+      <description>Україна, ймовірно, тестує морські дрони американського виробництва. Один такий апарат втратив керування, і його винесло на північне узбережжя Туреччини, - видання SavunmaSanayiST . Морський безпілотник AEGIR-W, розроблений американською компанією Sierra Nevada, знайшли на березі в районі Уньє. Турецька влада повідомила, що дрон після огляду буде знищений за дві милі від берега. Дрон AEGIR-W має довжину приблизно 10 метрів, максимальну дальність ходу 900 кілометрів, а швидкість  понад 25 вузлів,  46 км/год. Безпілотник може брати до 300 кілограмів корисного навантаження та здатний працювати автономно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_18-53-59.jpg" length="174429" type="image/jpeg"/>
+      <pubDate>Sat, 21 Mar 2026 18:53:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
