@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 09:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 10:13:56 +0000</lastBuildDate>
     <item>
       <title>🔥Мінус ще один вертоліт в окуп</title>
       <link>https://www.mandarinai.lt/post/89969</link>
@@ -62,7 +62,7 @@
 
 Були випущені 2 балістичні ракети середньої дальності, але жодна з них не потрапила в ціль. Одна ракета вийшла з ладу в польоті, а по другій американський корабель запустив перехоплювач SM-3.
 
-Втім сам факт застосування Іраном балістичних ракет  середньої дальності є беспрецедентим.</description>
+Втім сам факт застосування Іраном балістичних ракет  середньої дальності є беспрецедентним.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_08-37-05.jpg" length="145513" type="image/jpeg"/>
       <pubDate>Sat, 21 Mar 2026 08:37:05 +0000</pubDate>
     </item>
@@ -72,6 +72,13 @@
       <description>П’ять людей загинули, 14 – поранені внаслідок російських ударів по Донеччині, - Нацполіція.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_08-52-08.jpg" length="192221" type="image/jpeg"/>
       <pubDate>Sat, 21 Mar 2026 08:52:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Трамп вимагає від держав Пе</title>
+      <link>https://www.mandarinai.lt/post/89983</link>
+      <description>⚡️ Трамп вимагає від держав Перської затоки $5 трлн за продовження війни з Іраном і $2,5 трлн за її завершення, — повідомляють оманські ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-21_10-03-40.mp4" length="2094844" type="video/mp4"/>
+      <pubDate>Sat, 21 Mar 2026 10:03:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
