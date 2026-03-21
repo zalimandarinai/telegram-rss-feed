@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 19:15:00 +0000</lastBuildDate>
-    <item>
-      <title>💵 10 млн. однією купюрою це тр</title>
-      <link>https://www.mandarinai.lt/post/90001</link>
-      <description>💵 10 млн. однією купюрою це трохи менше 10 доларів, - влада Ірану вивела на ринок нову банкноту номіналом 10 мільйонів ріалів, найбільшу в історії країни. 
-
-📈 Цей крок став вимушеною реакцією на стрімку інфляцію та панічний попит на готівку, що виник серед населення на тлі війни між США, Ізраїлем та Іраном. 
-
-📰 Про це повідомляє газета Financial Times.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_15-03-53.jpg" length="68544" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 15:03:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Парламент Молдови схвалив вихі</title>
-      <link>https://www.mandarinai.lt/post/90002</link>
-      <description>Парламент Молдови схвалив вихід з СНД у першому читанні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_16-17-50.jpg" length="148592" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 16:17:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️У Слов’янську затримали 50-р</title>
-      <link>https://www.mandarinai.lt/post/90003</link>
-      <description>‼️У Слов’янську затримали 50-річного чоловіка, який перебував у СЗЧ і підозрюється у вбивстві поліцейського, — Нацполіція.
-
-Він відкрив вогонь під час перевірки документів, унаслідок чого загинув дільничний Олег Захаренко.
-
-Підозрюваного затримали під час спецоперації, у нього вилучили зброю.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_16-26-04.jpg" length="217712" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 16:26:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 20:12:19 +0000</lastBuildDate>
     <item>
       <title>⚡️ У Чехії на протести проти в</title>
       <link>https://www.mandarinai.lt/post/90004</link>
@@ -120,6 +91,17 @@
       <description>Україна, ймовірно, тестує морські дрони американського виробництва. Один такий апарат втратив керування, і його винесло на північне узбережжя Туреччини, - видання SavunmaSanayiST . Морський безпілотник AEGIR-W, розроблений американською компанією Sierra Nevada, знайшли на березі в районі Уньє. Турецька влада повідомила, що дрон після огляду буде знищений за дві милі від берега. Дрон AEGIR-W має довжину приблизно 10 метрів, максимальну дальність ходу 900 кілометрів, а швидкість  понад 25 вузлів,  46 км/год. Безпілотник може брати до 300 кілограмів корисного навантаження та здатний працювати автономно.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_18-53-59.jpg" length="174429" type="image/jpeg"/>
       <pubDate>Sat, 21 Mar 2026 18:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог продовжує вперто розвішу</title>
+      <link>https://www.mandarinai.lt/post/90015</link>
+      <description>Ворог продовжує вперто розвішувати своє обладнання, сподіваючись налагодити надійну мережу координації. 
+
+Але для розрахунків БПЛА планомірний демонтаж таких систем це щоденна робота, яка не залишає шансів на стабільний зв'язок
+
+Одразу чотири ворожі антени перетворилися на брухт, окупанти перешли до режиму тривалої радіотиші, так працює Батальйон Безпілотних Систем «11:11» 152-ої окремої єгерської бригади.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7309.MP4" length="10758475" type="video/mp4"/>
+      <pubDate>Sat, 21 Mar 2026 19:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
