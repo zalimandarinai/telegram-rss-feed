@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 12:21:23 +0000</lastBuildDate>
-    <item>
-      <title>«Якщо не їв, хай дадуть йому п</title>
-      <link>https://www.mandarinai.lt/post/89978</link>
-      <description>«Якщо не їв, хай дадуть йому попити та поїсти», - 4-ий батальйон «Сила Свободи» бригади НГУ «Рубіж» показав, як бере в полон російських окупантів в районі Добропілля</description>
-      <pubDate>Sat, 21 Mar 2026 08:34:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 13:34:11 +0000</lastBuildDate>
     <item>
       <title>🚀Балістична атака Ірану на рек</title>
       <link>https://www.mandarinai.lt/post/89979</link>
@@ -116,6 +110,13 @@
       <description>На Південно-Слобожанському напрямку бригада ДПСУ «Форпост» відбила ворожі штурми.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7293.MP4" length="11623896" type="video/mp4"/>
       <pubDate>Sat, 21 Mar 2026 11:50:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Збиття російського «шахеда»,</title>
+      <link>https://www.mandarinai.lt/post/89995</link>
+      <description>🔥 Збиття російського «шахеда», відомого під назвою «Герань-2», перехоплювачем «Генерал Черешня AIR» над Запорізькою областю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7295.MP4" length="2067881" type="video/mp4"/>
+      <pubDate>Sat, 21 Mar 2026 12:34:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
