@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 23:17:14 +0000</lastBuildDate>
-    <item>
-      <title>🫡Бійців, які збили сьогодні Ка</title>
-      <link>https://www.mandarinai.lt/post/89949</link>
-      <description>🫡Бійців, які збили сьогодні Ка-52 FPV-дроном, Зеленський нагородив Орденом «За мужність» ІІ ступеня, указ підписано, відповідно до тексту указу, відзнаки удостоїли солдатів Юрія Андрусенка та Давида Нечипаса, а також молодших сержантів Сергія Слєпка і Вадима Шаповала, - ОП</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_18-24-03.jpg" length="38492" type="image/jpeg"/>
-      <pubDate>Fri, 20 Mar 2026 18:24:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Танкер російського тіньового ф</title>
-      <link>https://www.mandarinai.lt/post/89950</link>
-      <description>Танкер російського тіньового флоту дрейфує в Середземному морі між Мальтою, Італією і Лівією. На його борту немає екіпажу, зате є більше 60 тисяч тон зрідженого природного газу, і досі незрозуміло, на кому лежить відповідальність за ризик екологічної катастрофи. Екіпаж судна «Arctic Metagaz» евакуювали після ймовірної атаки морського безпілотника.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-20_18-49-21.jpg" length="44311" type="image/jpeg"/>
-      <pubDate>Fri, 20 Mar 2026 18:49:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 00:57:22 +0000</lastBuildDate>
     <item>
       <title>Швейцарія заявила сьогодні, що</title>
       <link>https://www.mandarinai.lt/post/89952</link>
@@ -83,6 +69,13 @@
       <description>💥Серія вибухів в окупованому Криму</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-20_22-33-53.mp4" length="756866" type="video/mp4"/>
       <pubDate>Fri, 20 Mar 2026 22:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Енгельс. Дуже гучно. Результа</title>
+      <link>https://www.mandarinai.lt/post/89963</link>
+      <description>💥Енгельс. Дуже гучно. Результати уточнюються</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-20_23-59-19.mp4" length="805449" type="video/mp4"/>
+      <pubDate>Fri, 20 Mar 2026 23:59:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
