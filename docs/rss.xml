@@ -6,44 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 23:13:27 +0000</lastBuildDate>
-    <item>
-      <title>"Роберт Мюллер щойно помер. До</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>"Роберт Мюллер щойно помер. Добре, я рад, що він помер", — президент США радіє смерті колишнього директора ФБР 
-
-Він розслідував втручання Росії у президентські вибори в США.</description>
-      <pubDate>Sat, 21 Mar 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Проблема, про яку не говорять </title>
-      <link>https://www.mandarinai.lt/post/90009</link>
-      <description>Проблема, про яку не говорять в армії.
-
-Це ЗАТЯГ.
-
-Коли рішення тягнуться.
-Коли система працює повільніше, ніж війна.
-Коли замість дій - “потерпіть”.
-
-У цьому відео пояснюю, що це означає і чому це важливо.
-
-Дивись:
-Проблема про яку мовчать в армії | Це ЗАТЯГ
-
-Планую далі робити повноцінні розбори реальних проблем в армії - і показувати можливі рішення.
-
-Підписуйся на Telegram канал:
-ЗАТЯГ
-
-Там буду публікувати короткі думки, відео і те, що не потрапляє на YouTube.
-
-Підтримайте переглядом і коментарем - це допомагає розвивати канал і піднімати ці теми.
-
-#ЗАТЯГ #ЗСУ #Україна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_18-07-59.jpg" length="122656" type="image/jpeg"/>
-      <pubDate>Sat, 21 Mar 2026 18:07:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 01:04:24 +0000</lastBuildDate>
     <item>
       <title>⚡️ Фіцо пригрозив заблокувати </title>
       <link>https://www.mandarinai.lt/post/90011</link>
@@ -88,6 +51,25 @@
       <description>Іран атакував ракетною зброєю Арад в Ізраїлі, повідомляється про десятки поранених</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7323.MP4" length="391263" type="video/mp4"/>
       <pubDate>Sat, 21 Mar 2026 20:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1 млрд на день: стільки витра</title>
+      <link>https://www.mandarinai.lt/post/90024</link>
+      <description>$1 млрд на день: стільки витрачає США на війну з Іраном, — Clash Report
+
+Орієнтовні витрати США на війну з Іраном, яка триває вже 21 день, зросли до $27 мільярдів й зараз становлять:
+$1 млрд на день
+
+За перші 6 днів США витратили $11,3 млрд, далі — приблизно по $1 млрд щодня, свідчать дані Пентагону</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-21_23-49-16.jpg" length="82663" type="image/jpeg"/>
+      <pubDate>Sat, 21 Mar 2026 23:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 загиблих, більше 100 поранен</title>
+      <link>https://www.mandarinai.lt/post/90025</link>
+      <description>5 загиблих, більше 100 поранених: Іран вдарив балістикою по ізраїльському Іраду, зруйновано 9 багатоповерхівок, під завалами можуть бути люди, — ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-22_00-54-18.mp4" length="1918520" type="video/mp4"/>
+      <pubDate>Sun, 22 Mar 2026 00:54:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
