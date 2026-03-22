@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 08:19:34 +0000</lastBuildDate>
-    <item>
-      <title>Україна, ймовірно, тестує морс</title>
-      <link>https://www.mandarinai.lt/post/90012</link>
-      <description>Україна, ймовірно, тестує морські дрони американського виробництва. Один такий апарат втратив керування, і його винесло на північне узбережжя Туреччини, - видання SavunmaSanayiST . Морський безпілотник AEGIR-W, розроблений американською компанією Sierra Nevada, знайшли на березі в районі Уньє. Турецька влада повідомила, що дрон після огляду буде знищений за дві милі від берега. Дрон AEGIR-W має довжину приблизно 10 метрів, максимальну дальність ходу 900 кілометрів, а швидкість  понад 25 вузлів,  46 км/год. Безпілотник може брати до 300 кілограмів корисного навантаження та здатний працювати автономно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7326.MP4" length="9810956" type="video/mp4"/>
-      <pubDate>Sat, 21 Mar 2026 18:53:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 09:20:33 +0000</lastBuildDate>
     <item>
       <title>Ворог продовжує вперто розвішу</title>
       <link>https://www.mandarinai.lt/post/90015</link>
@@ -68,6 +61,24 @@ $1 млрд на день
 «Якщо Іран не відкриє повністю, без загроз, Ормузьку протоку протягом 48 годин з цього точного моменту часу, США завдадуть ударів і знищать їх різні електростанції, починаючи з найбільшої з них в першу чергу», – написав американський президент у Truth Social.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_08-07-17.jpg" length="62983" type="image/jpeg"/>
       <pubDate>Sun, 22 Mar 2026 08:07:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Ситуація на заправках: Дизель</title>
+      <link>https://www.mandarinai.lt/post/90029</link>
+      <description>👀Ситуація на заправках: Дизель вже майже по 90 грн, бензин — до 85 грн</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_08-31-38.jpg" length="62655" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 08:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️У разі ударів по електропідс</title>
+      <link>https://www.mandarinai.lt/post/90030</link>
+      <description>❗️У разі ударів по електропідстанціям Ірану Тегеран уразить енергетичну, інформаційно-технологічну та опріснювальну інфраструктуру США на Близькому Сході, — пише The Times of Israel з посиланням на іранських військових 
+
+Весь Близький Схід порине у тотальний блекаут, буде без води та доступу в Інтернет — так Іран відповів на погрози Трампа вдарити по іранським енергообʼєктам.
+
+Нагадаємр, сьогодні президент США дав Ірану 48 годин на відкриття Ормурзької протоки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_08-33-44.jpg" length="174860" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 08:33:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
