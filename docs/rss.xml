@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 19:16:53 +0000</lastBuildDate>
-    <item>
-      <title>🥴Ормузька протока буде повніст</title>
-      <link>https://www.mandarinai.lt/post/90055</link>
-      <description>🥴Ормузька протока буде повністю закрита, якщо США завдадуть ударів по енергетичній інфраструктурі країни, - іранський «Корпус вартових ісламської революції» шантажує</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-22_14-46-18.mp4" length="2859931" type="video/mp4"/>
-      <pubDate>Sun, 22 Mar 2026 14:46:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 20:12:48 +0000</lastBuildDate>
     <item>
       <title>🇮🇷🚀 Іран може досягти ракетами</title>
       <link>https://www.mandarinai.lt/post/90056</link>
@@ -132,6 +125,13 @@
       <description>Близько 40 «шахедів» зараз рухаються у бік Кременчука Полтавської області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_19-00-47.jpg" length="243503" type="image/jpeg"/>
       <pubDate>Sun, 22 Mar 2026 19:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Ленінградська область під ат</title>
+      <link>https://www.mandarinai.lt/post/90069</link>
+      <description>⚡️Ленінградська область під атакою БпЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-22_19-25-40.mp4" length="850981" type="video/mp4"/>
+      <pubDate>Sun, 22 Mar 2026 19:25:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
