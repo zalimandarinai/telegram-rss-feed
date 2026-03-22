@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 14:16:54 +0000</lastBuildDate>
-    <item>
-      <title>🪖 Україна більше не відправлят</title>
-      <link>https://www.mandarinai.lt/post/90039</link>
-      <description>🪖 Україна більше не відправлятиме військових на підготовку за кордон
-
-Генштаб планує перенести підготовку нових військовослужбовців виключно на територію України.
-
-Таке рішення українського командування пов’язано із тим, що інструктори західних країн не мають сучасного бойового досвіду.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_12-48-27.jpg" length="152414" type="image/jpeg"/>
-      <pubDate>Sun, 22 Mar 2026 12:48:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀Лідер демократів у Палаті пре</title>
-      <link>https://www.mandarinai.lt/post/90040</link>
-      <description>👀Лідер демократів у Палаті представників Конгресу Джеффріс закликав до "зміни режиму" в США.
-
-"Трамп і республіканські екстремісти розпочали безрозсудну війну на Близькому Сході за власним бажанням. Ціни на бензин різко виросли, мільярди витрачаються даремно, а наша країна стала менш безпечною. Нам потрібна зміна режиму в Америці", - заявив Джеффріс.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_12-49-34.jpg" length="69469" type="image/jpeg"/>
-      <pubDate>Sun, 22 Mar 2026 12:49:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Ймовірний теракт в Чернігов</title>
-      <link>https://www.mandarinai.lt/post/90041</link>
-      <description>⚡️ Ймовірний теракт в Чернігові: в магазині АТБ вибухнув невідомий предмет, 4 людини постраждали, — МВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_12-54-27.jpg" length="79729" type="image/jpeg"/>
-      <pubDate>Sun, 22 Mar 2026 12:54:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Сили оборони України уразили </title>
-      <link>https://www.mandarinai.lt/post/90042</link>
-      <description>💥Сили оборони України уразили ЗРК «Бук» та низку важливих об’єктів окупантів, — Генштаб
-
-Минулої доби українські військові уразили зенітний ракетний комплекс «Бук-М1» у Брянській області РФ — зафіксовано пряме влучання. Також завдано удару по району зосередження ЗРК «Бук-М2» у Старопетриківці на тимчасово окупованій території Запорізької області.
-
-Крім цього, під удар потрапили логістичний хаб і район зосередження військ поблизу Великої Новосілки, командно-спостережні пункти, пункт управління БпЛА, а також скупчення живої сили противника на тимчасово окупованих територіях і в Бєлгородській області рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_12-56-24.jpg" length="101732" type="image/jpeg"/>
-      <pubDate>Sun, 22 Mar 2026 12:56:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 15:14:32 +0000</lastBuildDate>
     <item>
       <title>Вдалося збити рідкісний і нови</title>
       <link>https://www.mandarinai.lt/post/90045</link>
@@ -59,9 +21,9 @@
       <pubDate>Sun, 22 Mar 2026 13:36:49 +0000</pubDate>
     </item>
     <item>
-      <title>На Черкащині під час атаки рос</title>
+      <title>На Одеській залізниці під час </title>
       <link>https://www.mandarinai.lt/post/90050</link>
-      <description>На Черкащині під час атаки російських дронів по залізниці загинула 19-річна провідниця Ілона Вовк, дівчина проводила евакуацію пасажирів та отримала дуже важкі травми, попередньо, від зустрічного поїзду, який теж рухався в бік аварійної зупинки, —  Укрзалізниця</description>
+      <description>На Одеській залізниці під час атаки російських дронів по залізниці загинула 19-річна провідниця Ілона Вовк, дівчина проводила евакуацію пасажирів з потягу та отримала дуже важкі травми від зустрічного поїзду, який теж рухався в бік аварійної зупинки, —  Укрзалізниця</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_13-42-51.jpg" length="134328" type="image/jpeg"/>
       <pubDate>Sun, 22 Mar 2026 13:42:51 +0000</pubDate>
     </item>
@@ -96,6 +58,64 @@
 Атаки сталися після того, як ракета «Хезболли» сьогодні вбила ізраїльтянина. Перед ударом ізраїльська армія закликала ліванців евакуюватися з району мосту Касімія та переміститися на північ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/clashreport-2035705330647040443-01.mp4" length="1230330" type="video/mp4"/>
       <pubDate>Sun, 22 Mar 2026 14:14:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥російській ЗРК "Бук-М3" згор</title>
+      <link>https://www.mandarinai.lt/post/90053</link>
+      <description>💥🔥російській ЗРК "Бук-М3" згорів з екіпажем, а С-400 залишився без РЛС: руснявій ППО знову зробили дуже боляче 🔥
+
+☠️ Оператори СБС ЗСУ уразили ворожу радіолокаційну станцію "Тріумф" та два зенітно-ракетних комплекси</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_14-19-57.jpg" length="46506" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 14:19:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Лабінська нафтобаза в Краснод</title>
+      <link>https://www.mandarinai.lt/post/90054</link>
+      <description>👌Лабінська нафтобаза в Краснодарському краї після атаки БПЛА 16 березня. 
+
+За інформацією осінтерів було знищено/пошкоджено щонайменше 18 резервуарів із нафтопродуктами. Це означає що внаслідок атаки було уражено близько 70% ємностей для нафтопродуктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_14-41-38.jpg" length="101319" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 14:41:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Ормузька протока буде повніст</title>
+      <link>https://www.mandarinai.lt/post/90055</link>
+      <description>🥴Ормузька протока буде повністю закрита, якщо США завдадуть ударів по енергетичній інфраструктурі країни, - Іранська революційна гвардія</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-22_14-46-18.mp4" length="2859931" type="video/mp4"/>
+      <pubDate>Sun, 22 Mar 2026 14:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇮🇷🚀 Іран може досягти ракетами</title>
+      <link>https://www.mandarinai.lt/post/90056</link>
+      <description>🇮🇷🚀 Іран може досягти ракетами Лондона та Парижа, - The Times
+
+За даними дипломатичних та розвідувальних джерел видання, дві ракети, запущені Іраном по британській військовій базі в Дієго-Гарсії, стали попереджувальним сигналом для Європи. Це вважається найдальшим запуском ракет Ірану на сьогодні.
+
+Армія оборони Ізраїлю підтвердила, що ракета змогла подолати близько 4000 км. 
+
+"Іранський терористичний режим становить глобальну загрозу… з ракетами, здатними досягти Лондона, Парижа або Берліна", - заявили ізраїльські військові.
+
+Нагадаємо, шо Іран запустив балістичні ракети середньої дальності, втім вони не досягли цілей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_14-54-05.jpg" length="44558" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 14:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Друзі, новий подкаст на каналі</title>
+      <link>https://www.mandarinai.lt/post/90057</link>
+      <description>Друзі, новий подкаст на каналі ВЕТЕРАН ЗНАЄ!
+
+НАЦСПРОТИВ | Анастасія Римар: військова підготовка цивільних, зброя після навчання, підготовка у школах, та як держава має готувати громадян?
+
+В цьому відео ви дізнаєтесь:
+🔻Немає форми та екіпірування: чи можна прийти на тренування?
+🔻БпЛА, кібербезпека, такмед: які напрямки найпопулярніші?
+🔻Бюрократія та гроші: що заважає масштабувати центри підготовки?
+🔻Інструктор-ветеран: як підготовка цивільних вирішить питання працевлаштування.
+🔻Інтерактив: будуємо систему Нацспротиву від Кабміну до СМТ.
+
+Подивитись повний подкаст можна тут:</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_15-04-35.jpg" length="173353" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 15:04:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
