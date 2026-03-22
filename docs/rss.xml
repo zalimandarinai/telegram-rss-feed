@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 18:19:14 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥російській ЗРК "Бук-М3" згор</title>
-      <link>https://www.mandarinai.lt/post/90053</link>
-      <description>💥🔥російській ЗРК "Бук-М3" згорів з екіпажем, а С-400 залишився без РЛС: руснявій ППО знову зробили дуже боляче 🔥
-
-☠️ Оператори СБС ЗСУ уразили ворожу радіолокаційну станцію "Тріумф" та два зенітно-ракетних комплекси</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_14-19-57.jpg" length="46506" type="image/jpeg"/>
-      <pubDate>Sun, 22 Mar 2026 14:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>👌Лабінська нафтобаза в Краснод</title>
-      <link>https://www.mandarinai.lt/post/90054</link>
-      <description>👌Лабінська нафтобаза в Краснодарському краї після атаки БПЛА 16 березня. 
-
-За інформацією осінтерів було знищено/пошкоджено щонайменше 18 резервуарів із нафтопродуктами. Це означає що внаслідок атаки було уражено близько 70% ємностей для нафтопродуктів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_14-41-38.jpg" length="101319" type="image/jpeg"/>
-      <pubDate>Sun, 22 Mar 2026 14:41:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 19:16:53 +0000</lastBuildDate>
     <item>
       <title>🥴Ормузька протока буде повніст</title>
       <link>https://www.mandarinai.lt/post/90055</link>
@@ -143,6 +125,13 @@
 Триває знищення російських підрозділів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_18-09-17.jpg" length="178131" type="image/jpeg"/>
       <pubDate>Sun, 22 Mar 2026 18:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Близько 40 «шахедів» зараз рух</title>
+      <link>https://www.mandarinai.lt/post/90068</link>
+      <description>Близько 40 «шахедів» зараз рухаються у бік Кременчука Полтавської області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_19-00-47.jpg" length="243503" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 19:00:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
