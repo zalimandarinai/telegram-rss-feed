@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 11:13:15 +0000</lastBuildDate>
-    <item>
-      <title>😳На американському телебаченні</title>
-      <link>https://www.mandarinai.lt/post/90019</link>
-      <description>😳На американському телебаченні відверто знущаються з приводу війни Трампа в Перській затоці
-
-Особливо стараються в популярному сатиричному шоу The Daily Show, до якого повернувся комік Джон Стюарт. Його повернення значно підвищило рейтинги шоу, випуски якого збирають біля екранів мільйони глядачів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-21_20-14-51.mp4" length="4421702" type="video/mp4"/>
-      <pubDate>Sat, 21 Mar 2026 20:14:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іран атакував ракетною зброєю </title>
-      <link>https://www.mandarinai.lt/post/90020</link>
-      <description>Іран атакував ракетною зброєю Арад в Ізраїлі, повідомляється про десятки поранених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7323.MP4" length="391263" type="video/mp4"/>
-      <pubDate>Sat, 21 Mar 2026 20:32:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 12:22:29 +0000</lastBuildDate>
     <item>
       <title>$1 млрд на день: стільки витра</title>
       <link>https://www.mandarinai.lt/post/90024</link>
@@ -109,6 +93,31 @@ $1 млрд на день
 ➖ майбутнє JATEC (Спільний центр НАТО–Україна). Йдеться про завершення розгортання українських систем управління, розвиток аналітичних можливостей та масштабування навчальних програм.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_10-52-58.jpg" length="139072" type="image/jpeg"/>
       <pubDate>Sun, 22 Mar 2026 10:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Радіолокаційна станція до С-40</title>
+      <link>https://www.mandarinai.lt/post/90035</link>
+      <description>Радіолокаційна станція до С-400 та 2 зенітних ракетних комплекси «Бук» знищені Силами безпілотних систем.
+
+Сьогодні на Брянщини нейтралізовано високомобільні багатофункціональні ЗРК «Бук-М3» та заряджальна установка «Бук-М2». 
+
+По цілях відпрацював 413-ий полк «Рейд» СБС.
+
+Також оператори 1-го центру Сил Безпілотних Систем ліквідували РЛС «Тріумф».
+
+Виведення з ладу РЛС означає, що вся батарея комплексу С-400, до якого вона входить, стає небоєздатною.</description>
+      <pubDate>Sun, 22 Mar 2026 11:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрони-перехоплювачі України вж</title>
+      <link>https://www.mandarinai.lt/post/90037</link>
+      <description>Дрони-перехоплювачі України вже збили кілька безпілотників Ірану на Близькому Сході
+
+За даними BBC News Україна, вітчизняні фахівці вже здійснили кілька успішних збиттів іранських дронів в одній із країн регіону. Водночас, прямий продаж і, відповідно, покупка дронів українського виробництва заблоковані на рівні держави.
+
+Натомість виробники розповіли ВВС, що отримали десятки комерційних пропозицій від країн Перської затоки і Близького Сходу, а також посередників. Разом із тим вони готові їх купити за вищою ціною, ніж на ринку України. Частина виробників відмовилися від подальших перемовин, посилаючись на лист СБУ, який надіслали компаніям на початку березня. У ньому йшла мова про заборону експорту зброї на Близький Схід і про можливу кримінальну відповідальність за це.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_11-48-31.jpg" length="41154" type="image/jpeg"/>
+      <pubDate>Sun, 22 Mar 2026 11:48:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
