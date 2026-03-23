@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 10:40:41 +0000</lastBuildDate>
-    <item>
-      <title>💥Дрони атакують окупований Дон</title>
-      <link>https://www.mandarinai.lt/post/90070</link>
-      <description>💥Дрони атакують окупований Донецьк</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-22_20-24-01.mp4" length="893187" type="video/mp4"/>
-      <pubDate>Sun, 22 Mar 2026 20:24:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Дрони вдарили по морському п</title>
-      <link>https://www.mandarinai.lt/post/90071</link>
-      <description>💥🔥Дрони вдарили по морському порту в Приморську (Ленінградська область) — одному з ключових нафтових терміналів рф на Балтійському морі
-
-Приморськ забезпечує близько 60% морського експорту російської сирої нафти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-23_06-14-51.mp4" length="451864" type="video/mp4"/>
-      <pubDate>Mon, 23 Mar 2026 06:14:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 11:34:56 +0000</lastBuildDate>
     <item>
       <title>🔴Трамп разом із союзниками тис</title>
       <link>https://www.mandarinai.lt/post/90073</link>
@@ -60,13 +44,6 @@
       <pubDate>Mon, 23 Mar 2026 09:10:36 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Сили оборони уразили терміна</title>
-      <link>https://www.mandarinai.lt/post/90084</link>
-      <description>💥🔥Сили оборони уразили термінал «Транснефть – порт Приморськ» і завод «Башнефть-Уфанефтехим». На місцях виникли пожежі, - Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-23_10-27-59.mp4" length="618104" type="video/mp4"/>
-      <pubDate>Mon, 23 Mar 2026 10:27:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Нафтовий термінал «Приморськ»,</title>
       <link>https://www.mandarinai.lt/post/90085</link>
       <description>Нафтовий термінал «Приморськ», ключовий експортний хаб рф на Балтійському морі, уразили безпілотники ЦСО «Альфа» СБУ спільно з іншими підрозділами Сил оборони, СБС, ССО, ГУР та ДПСУ.
@@ -80,6 +57,35 @@
 На території нафтотерміналу почали горіти резервуари з нафтою та нафтопродуктами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_10-39-36.jpg" length="78060" type="image/jpeg"/>
       <pubDate>Mon, 23 Mar 2026 10:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вибухи в Бучі на Київщині орга</title>
+      <link>https://www.mandarinai.lt/post/90086</link>
+      <description>Вибухи в Бучі на Київщині організував 21-річний місцевий житель, — Нацполіція
+
+З його слів, він познайомився з невідомим в комп’ютерній грі.
+
+Через деякий час віртуальний знайомий почав шантажувати хлопця тим, що знає, де його мама, і що нібито веде спостереження за нею з безпілотника, тож, аби вона залишилась живою, йому необхідно закласти вибуховий пристрій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_10-43-16.jpg" length="78804" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 10:43:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Цієї ночі Сили оборони уразил</title>
+      <link>https://www.mandarinai.lt/post/90087</link>
+      <description>💥Цієї ночі Сили оборони уразили нафтовий термінал «Транснефть – порт Приморськ» у Ленінградській області, — Генштаб.
+
+Уражено резервуарний парк та нафтоналивну інфраструктуру. Наразі обʼєкт охоплює пожежа. Через цей порт щороку проходить близько 60 млн тонн нафти.
+
+Також уражено НПЗ «Башнефть-Уфанефтехим» в Уфі. Його потужність первинної переробки становить близько 6-8 млн тонн на рік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-23_10-58-42.mp4" length="962903" type="video/mp4"/>
+      <pubDate>Mon, 23 Mar 2026 10:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Після заяви Трампа про можли</title>
+      <link>https://www.mandarinai.lt/post/90089</link>
+      <description>‼️Після заяви Трампа про можливий мир з Іраном ф’ючерси на нафту миттєво пішли вниз</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_11-22-05.jpg" length="53695" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 11:22:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
