@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 16:41:55 +0000</lastBuildDate>
-    <item>
-      <title>‼️Після заяви Трампа про можли</title>
-      <link>https://www.mandarinai.lt/post/90089</link>
-      <description>‼️Після заяви Трампа про можливий мир з Іраном ф’ючерси на нафту миттєво пішли вниз</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_11-22-05.jpg" length="53695" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 11:22:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 17:40:55 +0000</lastBuildDate>
     <item>
       <title>Помер засновник і власник Only</title>
       <link>https://www.mandarinai.lt/post/90094</link>
@@ -97,6 +90,13 @@
 Reuters додають, що України стала майже повністю залежною від імпортного палива, постачаючи його із Західної, Центральної та Південної Європи після того, як російські удари зруйнували українські нафтопереробні потужності.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_16-36-48.jpg" length="268064" type="image/jpeg"/>
       <pubDate>Mon, 23 Mar 2026 16:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бригада НГУ «Хартія» показала </title>
+      <link>https://www.mandarinai.lt/post/90107</link>
+      <description>Бригада НГУ «Хартія» показала збиття 15-ти коштовних дронів «Князь віщий Олег», а також інших російських безпілотних систем</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7381.MP4" length="27407718" type="video/mp4"/>
+      <pubDate>Mon, 23 Mar 2026 17:26:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
