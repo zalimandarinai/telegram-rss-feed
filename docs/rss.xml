@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 12:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 14:05:25 +0000</lastBuildDate>
     <item>
       <title>⚡️Кадри наслідків теракту в Бу</title>
       <link>https://www.mandarinai.lt/post/90078</link>
@@ -59,8 +59,15 @@
       <pubDate>Mon, 23 Mar 2026 11:22:05 +0000</pubDate>
     </item>
     <item>
+      <title>Помер засновник і власник Only</title>
+      <link>https://www.mandarinai.lt/post/90094</link>
+      <description>Помер засновник і власник OnlyFans, американець українського походження Леонід Радвінський, йому було 43 роки, причина смерті — рак, — Bloomberg.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_12-35-51.jpg" length="11396" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 12:35:51 +0000</pubDate>
+    </item>
+    <item>
       <title>💥Reuters: найбільші нафтові по</title>
-      <link>https://www.mandarinai.lt/post/90092</link>
+      <link>https://www.mandarinai.lt/post/90095</link>
       <description>💥Reuters: найбільші нафтові порти рф на Балтиці — у Приморську та Усть-Лузі — призупинили експорт сирої нафти та палива через атаки безпілотників.
 
 Щонайменше чотири нафтові резервуари горять у терміналі порту Приморськ у Ленінградській області
@@ -72,15 +79,8 @@
 При цьому губернатор Ленінградської області Олександр Дрозденко повідомив, що горіло лише одне паливне сховище. За його словами, над регіоном було збито понад 70 БПЛА.
 
 Порт Приморськ — найбільший російський нафтовий порт на Балтійському морі, розташований у Виборзькому районі Ленінградської області, приблизно за 8 км від міста Приморськ на північно-східному узбережжі Фінської затоки. Він є кінцевою точкою Балтійської трубопровідної системи, що належить "Транснафті", і служить основним експортним терміналом для сирої нафти та нафтопродуктів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-23_12-10-38.mp4" length="8057493" type="video/mp4"/>
-      <pubDate>Mon, 23 Mar 2026 12:10:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Помер засновник і власник Only</title>
-      <link>https://www.mandarinai.lt/post/90094</link>
-      <description>Помер засновник і власник OnlyFans, американець українського походження Леонід Радвінський, йому було 43 роки, причина смерті — рак, — Bloomberg.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_12-35-51.jpg" length="11396" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 12:35:51 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-23_12-36-24.mp4" length="8057493" type="video/mp4"/>
+      <pubDate>Mon, 23 Mar 2026 12:36:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
