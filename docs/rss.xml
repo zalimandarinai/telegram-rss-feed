@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 09:50:21 +0000</lastBuildDate>
-    <item>
-      <title>Близько 40 «шахедів» зараз рух</title>
-      <link>https://www.mandarinai.lt/post/90068</link>
-      <description>Близько 40 «шахедів» зараз рухаються у бік Кременчука Полтавської області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-22_19-00-47.jpg" length="243503" type="image/jpeg"/>
-      <pubDate>Sun, 22 Mar 2026 19:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Ленінградська область під ат</title>
-      <link>https://www.mandarinai.lt/post/90069</link>
-      <description>⚡️Ленінградська область під атакою БпЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-22_19-25-40.mp4" length="850981" type="video/mp4"/>
-      <pubDate>Sun, 22 Mar 2026 19:25:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 10:40:41 +0000</lastBuildDate>
     <item>
       <title>💥Дрони атакують окупований Дон</title>
       <link>https://www.mandarinai.lt/post/90070</link>
@@ -72,6 +58,28 @@
       <description>⚡️Кадри наслідків теракту в Бучі на Київщині: на вулиці вибухнув невідомий предмет, потім здетонував ще один, поранено двох поліцейських, — ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_09-10-36.jpg" length="217587" type="image/jpeg"/>
       <pubDate>Mon, 23 Mar 2026 09:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Сили оборони уразили терміна</title>
+      <link>https://www.mandarinai.lt/post/90084</link>
+      <description>💥🔥Сили оборони уразили термінал «Транснефть – порт Приморськ» і завод «Башнефть-Уфанефтехим». На місцях виникли пожежі, - Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-23_10-27-59.mp4" length="618104" type="video/mp4"/>
+      <pubDate>Mon, 23 Mar 2026 10:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нафтовий термінал «Приморськ»,</title>
+      <link>https://www.mandarinai.lt/post/90085</link>
+      <description>Нафтовий термінал «Приморськ», ключовий експортний хаб рф на Балтійському морі, уразили безпілотники ЦСО «Альфа» СБУ спільно з іншими підрозділами Сил оборони, СБС, ССО, ГУР та ДПСУ.
+
+Приморськ у Ленінградській області найбільший нафтовий порт рф на Балтійському морі та ключовий експортний хаб. 
+
+Порт здійснює поставки нафти через «тіньовий флот». 
+
+Лише у 2025 році через нього перевалили понад 46,6 млн тонн нафти.
+
+На території нафтотерміналу почали горіти резервуари з нафтою та нафтопродуктами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_10-39-36.jpg" length="78060" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 10:39:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
