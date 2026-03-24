@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 20:28:46 +0000</lastBuildDate>
-    <item>
-      <title>‼️Сьогодні зранку ворог випуст</title>
-      <link>https://www.mandarinai.lt/post/90165</link>
-      <description>‼️Сьогодні зранку ворог випустив понад 550 ударних дронів. Наші захисники неба знищили 541 ворожу ціль, - ПС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_16-59-33.jpg" length="83470" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 16:59:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Горить старовинний Бернардинсь</title>
-      <link>https://www.mandarinai.lt/post/90166</link>
-      <description>Горить старовинний Бернардинський монастир у Львові, який разом з іншими спорудами міста був внесений до світової спадщини ЮНЕСКО. 
-
-🎥 Xenia Gerke на Facebook</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7411.MP4" length="652212" type="video/mp4"/>
-      <pubDate>Tue, 24 Mar 2026 17:09:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 21:26:15 +0000</lastBuildDate>
     <item>
       <title>Внаслідок удару рф по пологово</title>
       <link>https://www.mandarinai.lt/post/90169</link>
@@ -87,6 +71,25 @@
 Зростання цін обумовлено конфліктом на Близькому Сході, зокрема частковим послабленням обмежень з боку США та збільшенням попиту з боку Індії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_20-15-56.jpg" length="80725" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 20:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори українських безпілот</title>
+      <link>https://www.mandarinai.lt/post/90179</link>
+      <description>Оператори українських безпілотних перехоплювачів почали працювати «дистанційно» по ворожих цілях, використовуючи технології віддаленого керування, - повідомив  
+Олександр Камишин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7419.MP4" length="1666028" type="video/mp4"/>
+      <pubDate>Tue, 24 Mar 2026 20:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російські спецслужби встановил</title>
+      <link>https://www.mandarinai.lt/post/90181</link>
+      <description>Російські спецслужби встановили шпигунські пристрої в кабінеті головного інженера компанії українського ОПК, -  компанія TechEx, яка спеціалізується на виробництві БПЛА різних типів.
+
+Серед вилучених пристроїв, зокрема, була й прослушка.
+
+Департаментові контррозвідки СБУ разом з командою підприємства вдалося не допустити витоку чутливої інформації та захистити виробничі потужності.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_21-22-12.jpg" length="231960" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 21:22:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
