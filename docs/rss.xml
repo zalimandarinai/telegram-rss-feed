@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 15:53:06 +0000</lastBuildDate>
-    <item>
-      <title>👀Масштаби черги танкерів, забл</title>
-      <link>https://www.mandarinai.lt/post/90147</link>
-      <description>👀Масштаби черги танкерів, заблокоааних в Ормузький протоці, з борту пасажирського літака</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-24_12-53-29.mp4" length="611902" type="video/mp4"/>
-      <pubDate>Tue, 24 Mar 2026 12:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Атака шахедів на Тернопільщи</title>
-      <link>https://www.mandarinai.lt/post/90149</link>
-      <description>⚡️Атака шахедів на Тернопільщині, є прильоти</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-24_13-06-41.mp4" length="352318" type="video/mp4"/>
-      <pubDate>Tue, 24 Mar 2026 13:06:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 16:47:30 +0000</lastBuildDate>
     <item>
       <title>✈️Над Києвом на мінімальній ви</title>
       <link>https://www.mandarinai.lt/post/90150</link>
@@ -97,11 +83,22 @@
       <pubDate>Tue, 24 Mar 2026 15:31:07 +0000</pubDate>
     </item>
     <item>
-      <title>Попередньо, в Івано-Франківськ</title>
+      <title>❗️ Попередньо, в Івано-Франків</title>
       <link>https://www.mandarinai.lt/post/90160</link>
-      <description>Попередньо, в Івано-Франківську пошкоджений пологовий будинок, — місцеві ЗМІ</description>
+      <description>❗️ Попередньо, в Івано-Франківську від атаки дронів пошкоджений пологовий будинок, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7409.MP4" length="932175" type="video/mp4"/>
       <pubDate>Tue, 24 Mar 2026 15:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Безперервна дронова атака ві</title>
+      <link>https://www.mandarinai.lt/post/90163</link>
+      <description>‼️Безперервна дронова атака від учорашнього вечора - ворог застосував понад 800 БПЛА — сьогодні відбулася одна з найбільших за кількістю дронових атак за весь час.
+
+На мапі Орієнтовні траєкторії руху БПЛА.
+
+Основні напрямки ударів — Львів, Київ, Івано-Франківськ, Тернопіль, Вінниця, Дніпро, Одещина та прифронтові райони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_16-41-11.jpg" length="286225" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 16:41:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
