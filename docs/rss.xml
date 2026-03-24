@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 05:17:39 +0000</lastBuildDate>
-    <item>
-      <title>🤝Німеччина профінансує виробни</title>
-      <link>https://www.mandarinai.lt/post/90103</link>
-      <description>🤝Німеччина профінансує виробництво 15 тисяч українських дронів-перехоплювачів STRILA для підрозділів НГУ — цей дрон спеціально створений для ураження швидких і маневруючих повітряних цілей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_16-06-56.jpg" length="177861" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 16:06:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Дизпалива в Україні вистачит</title>
-      <link>https://www.mandarinai.lt/post/90104</link>
-      <description>‼️Дизпалива в Україні вистачить до кінця березня, але вже у квітні можуть виникнути проблеми з постачанням
-
-Агентство з посиланням на аналітиків консалтингової компанії Enkorr повідомляє, що щоденний імпорт дизелю зріс на 3%, але водночас невідомо, що буде з поставками у наступному місяці, адже ціни на пальне зростають.  
-
-Переговори тривають, але поки що ніхто не називає конкретних обсягів, гарантій, — зазначають у компанії.  
-
-Reuters додають, що України стала майже повністю залежною від імпортного палива, постачаючи його із Західної, Центральної та Південної Європи після того, як російські удари зруйнували українські нафтопереробні потужності.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_16-36-48.jpg" length="268064" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 16:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бригада НГУ «Хартія» показала </title>
-      <link>https://www.mandarinai.lt/post/90107</link>
-      <description>Бригада НГУ «Хартія» показала збиття 15-ти коштовних дронів «Князь віщий Олег», а також інших російських безпілотних систем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7381.MP4" length="27407718" type="video/mp4"/>
-      <pubDate>Mon, 23 Mar 2026 17:26:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 06:48:27 +0000</lastBuildDate>
     <item>
       <title>‼️ Залізничний вокзал Києва та</title>
       <link>https://www.mandarinai.lt/post/90110</link>
@@ -77,6 +50,37 @@ UPD: Найімовірніше, дрон прилетів із Білорусі
       <description>🇮🇷 Іран оголосив про умови припинення війни. Представник іранської влади Мохсен Резаї заявив, що «війна триватиме», доки Тегеран не отримає: a) компенсацію за завдані збитки; b) скасування санкцій; c) гарантії невтручання США у внутрішні справи країни. Попередня вимога прибрати бази США на Близькому Сході зі списку умов зникла.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/Іран.mp4" length="14373264" type="video/mp4"/>
       <pubDate>Mon, 23 Mar 2026 20:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нічна атака: в Запоріжжі було </title>
+      <link>https://www.mandarinai.lt/post/90120</link>
+      <description>Нічна атака: в Запоріжжі було влучання російського дрона в багатоквартирний будинок. 
+
+В Запоріжжі відомо про 1 загиблого та 3 поранених. 
+
+Пошкоджені житлові будинки.
+
+Полтава: також відомо про 2 загиблих.
+
+В місті 11 поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7383.MP4" length="5374424" type="video/mp4"/>
+      <pubDate>Tue, 24 Mar 2026 05:35:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Карта руху ворожих цілей цієї </title>
+      <link>https://www.mandarinai.lt/post/90121</link>
+      <description>Карта руху ворожих цілей цієї ночі над Україною.
+
+Основні удари спрямовані по енергетичній інфраструктурі в Полтаві, на Київщині, Калуші, Одесі, Південному та Запоріжжі. Ворог застосував КАБи, ≈ 33 ракет різних типів і 250–300 БпЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_05-56-06.jpg" length="228857" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 05:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Полтаві і Запоріжжі внаслідо</title>
+      <link>https://www.mandarinai.lt/post/90122</link>
+      <description>В Полтаві і Запоріжжі внаслідок ворожих атак загинуло троє людей та 15 отримали поранення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_06-37-08.jpg" length="203108" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 06:37:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
