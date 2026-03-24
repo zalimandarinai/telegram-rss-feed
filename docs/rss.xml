@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 17:44:47 +0000</lastBuildDate>
-    <item>
-      <title>Удар російського безпілотника </title>
-      <link>https://www.mandarinai.lt/post/90155</link>
-      <description>Удар російського безпілотника в центрі Івано-Франківська</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7397.MP4" length="5691132" type="video/mp4"/>
-      <pubDate>Tue, 24 Mar 2026 15:12:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 18:44:04 +0000</lastBuildDate>
     <item>
       <title>Пожежа в будинку у Львові післ</title>
       <link>https://www.mandarinai.lt/post/90156</link>
@@ -84,6 +77,15 @@
 🎥 Xenia Gerke на Facebook</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7411.MP4" length="652212" type="video/mp4"/>
       <pubDate>Tue, 24 Mar 2026 17:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Загинули нацгвардієць та його </title>
+      <link>https://www.mandarinai.lt/post/90169</link>
+      <description>Загинули нацгвардієць та його  маленька донька, яка народилася декілька днів тому, внаслідок удару рф по пологовому будинку в центрі Івано-Франківська , — мер міста Руслан Марцінків
+
+Нелюди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7412.MP4" length="7335667" type="video/mp4"/>
+      <pubDate>Tue, 24 Mar 2026 18:01:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
