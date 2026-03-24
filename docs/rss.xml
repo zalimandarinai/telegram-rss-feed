@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 08:36:20 +0000</lastBuildDate>
-    <item>
-      <title>🇮🇷 Іран оголосив про умови при</title>
-      <link>https://www.mandarinai.lt/post/90114</link>
-      <description>🇮🇷 Іран оголосив про умови припинення війни. Представник іранської влади Мохсен Резаї заявив, що «війна триватиме», доки Тегеран не отримає: a) компенсацію за завдані збитки; b) скасування санкцій; c) гарантії невтручання США у внутрішні справи країни. Попередня вимога прибрати бази США на Близькому Сході зі списку умов зникла.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Іран.mp4" length="14373264" type="video/mp4"/>
-      <pubDate>Mon, 23 Mar 2026 20:33:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 09:42:17 +0000</lastBuildDate>
     <item>
       <title>Нічна атака: в Запоріжжі було </title>
       <link>https://www.mandarinai.lt/post/90120</link>
@@ -74,6 +67,15 @@
 ▪️2/4 ракет Х-59/69.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_07-22-42.jpg" length="111605" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 07:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Реактивний «шахед» щойно ат</title>
+      <link>https://www.mandarinai.lt/post/90131</link>
+      <description>⚡️ Реактивний «шахед» щойно атакував багатоповерхівку у Дніпрі: інформація щодо постраждалих уточнюється, — місцеві ЗМІ
+
+Ворог зранку запустив ударні БпЛА , наразі над Україною близько 40 шахедів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-24_08-38-26.mp4" length="715413" type="video/mp4"/>
+      <pubDate>Tue, 24 Mar 2026 08:38:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
