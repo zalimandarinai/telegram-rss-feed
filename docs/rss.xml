@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 06:48:27 +0000</lastBuildDate>
-    <item>
-      <title>‼️ Залізничний вокзал Києва та</title>
-      <link>https://www.mandarinai.lt/post/90110</link>
-      <description>‼️ Залізничний вокзал Києва та «Львів-Приміський» у Львові можуть сьогодні опинитися під атакою рф, - монітори
-
-Водночас в Укрзалізниці заявили, що центральнм вокзал столиці був пріорітетною ціллю ворога від початку вторгення і закликали зберігати спокій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-23_18-45-32.jpg" length="25869" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 18:45:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇱🇹❗️У Литві зафіксовано приліт</title>
-      <link>https://www.mandarinai.lt/post/90111</link>
-      <description>🇱🇹❗️У Литві зафіксовано приліт дрону невідомого типу, — речник Збройних сил Литви майор Гінтавтаус Цюніс
-
-Наразі встановлюється його тип, походження та можливий маршрут.
-
-UPD: Найімовірніше, дрон прилетів із Білорусі, уточнив речник ЗС Литви.
-
-Радари його не зафіксували, прикордонники також не помітили.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-23_19-09-27.mp4" length="893816" type="video/mp4"/>
-      <pubDate>Mon, 23 Mar 2026 19:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Сумщині внаслідок російсько</title>
-      <link>https://www.mandarinai.lt/post/90112</link>
-      <description>На Сумщині внаслідок російського удару сьогодні постраждали чоловік та дитина. 
-
-Також в Тростянецькій громаді під ударами ворога опинився склад із зерном. Під час гасіння пожежі окупанти завдали повторний удар, рятувальники, на щастя, встигли відійти до безпечного місця.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-03-23_22-16-53.mp4" length="4074106" type="video/mp4"/>
-      <pubDate>Mon, 23 Mar 2026 20:18:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 07:44:31 +0000</lastBuildDate>
     <item>
       <title>⚡️ Сили безпілотних систем ней</title>
       <link>https://www.mandarinai.lt/post/90113</link>
@@ -81,6 +50,36 @@ UPD: Найімовірніше, дрон прилетів із Білорусі
       <description>В Полтаві і Запоріжжі внаслідок ворожих атак загинуло троє людей та 15 отримали поранення</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_06-37-08.jpg" length="203108" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 06:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>FPV-дрон вдарив по електричці </title>
+      <link>https://www.mandarinai.lt/post/90125</link>
+      <description>FPV-дрон вдарив по електричці Слатине-Харків: загинув чоловік, — прокуратура
+
+Також постраждали машиніст потяга та його помічник</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_06-56-27.jpg" length="161173" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 06:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀За 15 хвилин до публікації Тр</title>
+      <link>https://www.mandarinai.lt/post/90126</link>
+      <description>👀За 15 хвилин до публікації Трампа про "успішні переговори" з Іраном трейдери здійснили угоди з нафтовими ф'ючерсами на 580 мільйонів доларів, - FT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_07-19-08.jpg" length="71939" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 07:19:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ППО за ніч знищила 390 ворож</title>
+      <link>https://www.mandarinai.lt/post/90127</link>
+      <description>⚡️ППО за ніч знищила 390 ворожих цілей — 25 ракет і 365 БпЛА, — Повітряні сили
+
+На жаль, жодну з балістичних ракет сбити не вдалося:
+
+▪️0/7 балістичних Іскандер-М/С-400.
+▪️18/18 крилатих ракет Х-101.
+▪️5/5 крилатих ракет Іскандер-К.
+▪️2/4 ракет Х-59/69.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_07-22-42.jpg" length="111605" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 07:22:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
