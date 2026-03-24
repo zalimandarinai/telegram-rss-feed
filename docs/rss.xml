@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 11:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 12:39:46 +0000</lastBuildDate>
     <item>
       <title>⚡️ППО за ніч знищила 390 ворож</title>
       <link>https://www.mandarinai.lt/post/90127</link>
@@ -76,13 +76,6 @@
       <pubDate>Tue, 24 Mar 2026 10:39:39 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Десятки військових та поліце</title>
-      <link>https://www.mandarinai.lt/post/90139</link>
-      <description>⚡️Десятки військових та поліцейських оточили Урядовий квартал — депутати ВРУ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_11-08-37.jpg" length="324332" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 11:08:37 +0000</pubDate>
-    </item>
-    <item>
       <title>👀Ось таке попередження від зах</title>
       <link>https://www.mandarinai.lt/post/90140</link>
       <description>👀Ось таке попередження від захисників неба. русня налаштована цілодобово запускати зграї дронів</description>
@@ -104,6 +97,15 @@
 ​Прем'єр країни повідомив, що літальний об'єкт, який упав у понеділок на півдні Литви, — це український БпЛА. Він мав атакувати цілі в Ленінградській області рф, проте впав на території союзника</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_11-34-22.jpg" length="93920" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 11:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🟢✈️Рекордна кількість дронів з</title>
+      <link>https://www.mandarinai.lt/post/90143</link>
+      <description>🟢✈️Рекордна кількість дронів за добу очікується протягом дня — пуски з різних локацій не припиняються, - монітори 
+
+Шахеди хоч і знищуються, але менше їх не стає через нові табуни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_11-40-03.jpg" length="217992" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 11:40:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
