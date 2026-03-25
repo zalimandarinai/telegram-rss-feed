@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 10:36:02 +0000</lastBuildDate>
-    <item>
-      <title>Російські спецслужби встановил</title>
-      <link>https://www.mandarinai.lt/post/90181</link>
-      <description>Російські спецслужби встановили шпигунські пристрої в кабінеті головного інженера компанії українського ОПК, -  компанія TechEx, яка спеціалізується на виробництві БПЛА різних типів.
-
-Серед вилучених пристроїв, зокрема, була й прослушка.
-
-Департаментові контррозвідки СБУ разом з командою підприємства вдалося не допустити витоку чутливої інформації та захистити виробничі потужності.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_21-22-12.jpg" length="231960" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 21:22:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥У Ленінградській області(Виб</title>
-      <link>https://www.mandarinai.lt/post/90182</link>
-      <description>💥🔥У Ленінградській області(Виборг) прильоти у порту та біля будівлі ФСБ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_05-03-10.jpg" length="117911" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 05:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Знищення «Шахеда» стрілецькою</title>
-      <link>https://www.mandarinai.lt/post/90185</link>
-      <description>💥Знищення «Шахеда» стрілецькою зброєю з борта літака Як-52 у небі над Україною.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_05-05-56.mp4" length="409093" type="video/mp4"/>
-      <pubDate>Wed, 25 Mar 2026 05:05:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 11:32:15 +0000</lastBuildDate>
     <item>
       <title>🔥🔥Порт Усть-Луга в Ленінградсь</title>
       <link>https://www.mandarinai.lt/post/90186</link>
@@ -107,6 +82,33 @@
 Під удар потрапив патрульний криголам проєкту 23550 «Пурга», який призначався для Прикордонної служби ФСБ рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_10-12-14.jpg" length="99086" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 10:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳 Дрони з росії проникли до Ес</title>
+      <link>https://www.mandarinai.lt/post/90195</link>
+      <description>😳 Дрони з росії проникли до Естонії та Латвії
+
+У Естонії безпілотник врізався у димову трубу електростанції в Аувері. За попередніми даними, немає ні пошкоджень, ні постраждалих. Влада вважає, що дрон, ймовірно, не був націлений на країну, розслідування триває.
+
+У Латвії в районі Краслави зафіксували звук вибуху і виявили обломки БПЛА. Немає ні пошкоджень, ні постраждалих.
+
+На тлі цього інциденту міністр оборони Латвії перервав візит до України і терміново повернувся</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_10-39-17.jpg" length="37171" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 10:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴 Тіньовий ринок «білого квитк</title>
+      <link>https://www.mandarinai.lt/post/90196</link>
+      <description>🔴 Тіньовий ринок «білого квитка», відмазок і ТЦК становить €2-3 млрд, що приблизно дорівнює 110-160 млрд грн, — нардеп Разумков</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_10-48-18.mp4" length="2064509" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 10:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Також вночі було уражено заво</title>
+      <link>https://www.mandarinai.lt/post/90198</link>
+      <description>💥Також вночі було уражено завод найбільшого російського виробника скрапленого газу «НОВАТЄК» в Ленінградській області, - Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_11-03-12.mp4" length="510841" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 11:03:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
