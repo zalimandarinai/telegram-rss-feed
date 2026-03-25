@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 18:39:34 +0000</lastBuildDate>
-    <item>
-      <title>🔴 Тіньовий ринок «білого квитк</title>
-      <link>https://www.mandarinai.lt/post/90196</link>
-      <description>🔴 Тіньовий ринок «білого квитка», відмазок і ТЦК становить €2-3 млрд, що приблизно дорівнює 110-160 млрд грн, — нардеп Разумков</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_10-48-18.mp4" length="2064509" type="video/mp4"/>
-      <pubDate>Wed, 25 Mar 2026 10:48:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Також вночі було уражено заво</title>
-      <link>https://www.mandarinai.lt/post/90198</link>
-      <description>💥Також вночі було уражено завод найбільшого російського виробника скрапленого газу «НОВАТЄК» в Ленінградській області, - Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_11-03-12.mp4" length="510841" type="video/mp4"/>
-      <pubDate>Wed, 25 Mar 2026 11:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥💥Вранці стратегічні об'єкти в</title>
-      <link>https://www.mandarinai.lt/post/90200</link>
-      <description>💥💥Вранці стратегічні об'єкти в Ленінградській області атакували авіабомбами, скинутими з легкомоторних літаків А-22
-
-Авіабомби падали на Ленінградську область вперше з часів Другої Світової війни. "СВО" іде за планом...</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_11-33-40.jpg" length="77190" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 11:33:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 19:36:53 +0000</lastBuildDate>
     <item>
       <title>❗️До 35% «шахедів» вже збивают</title>
       <link>https://www.mandarinai.lt/post/90202</link>
@@ -115,6 +92,26 @@ https://rvv.com.ua/product/spohady-z-odesy-yedysanu-i-budzhaku/</description>
       <description>⚡️ 94,6% дронів знищено: за добу по Україні було випущено 999 «шахедів» — Міноборони</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_17-49-56.jpg" length="151891" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 17:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴«Трамп не блефує і готовий ро</title>
+      <link>https://www.mandarinai.lt/post/90210</link>
+      <description>🔴«Трамп не блефує і готовий розв’язати пекло», — Білий дім про Іран
+
+У Білому домі заявили, що президент США Дональд Трамп налаштований рішуче щодо Ірану і готовий до жорстких дій</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_19-05-38.mp4" length="226851" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 19:05:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відключення «Старлінк» призвел</title>
+      <link>https://www.mandarinai.lt/post/90214</link>
+      <description>Відключення «Старлінк» призвело до того, що росіяни стали розвішувати скрізь так звані wi-fi-мости та ретранслятори, а це так собі задоволення, особливо, коли треба лізти на ЛЕП на очах в операторів українських дронів.
+
+Але російські командири не шкодують одноразових солдатів для таких завдань.
+
+Підрозділ «Black Raven» 93-ої бригади демонструє, що після відключення «Старлінк» для українських БПЛА стало більше цілей, таких, як на відео.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7443.MP4" length="6497780" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 19:28:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
