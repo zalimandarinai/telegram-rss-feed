@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 20:25:56 +0000</lastBuildDate>
-    <item>
-      <title>❗️До 35% «шахедів» вже збивают</title>
-      <link>https://www.mandarinai.lt/post/90202</link>
-      <description>❗️До 35% «шахедів» вже збиваються дронами-перехоплювачами. Цей показник може зрости до 90%, - «Флеш».
-
-За його словами, це видно в реальному часі, оскільки частина дронів просто «зникає» в повітрі, навіть на висотах, недоступних для мобільних вогневих груп, і без участі авіації.
-
-«Якщо «шахеди» знаходяться на великій висоті і авіація не працює, але вони зникають - значить, це працюють наші перехоплювачі. І це дуже ефективно. Я думаю, з часом ми досягнемо 50-70%, а потім і 90%», - зазначив він.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_13-19-33.jpg" length="177861" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 13:19:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 21:25:23 +0000</lastBuildDate>
     <item>
       <title>⚡️ Відтепер чоловіки можуть об</title>
       <link>https://www.mandarinai.lt/post/90203</link>
@@ -119,6 +108,13 @@ https://rvv.com.ua/product/spohady-z-odesy-yedysanu-i-budzhaku/</description>
       <description>🇺🇦🌍❗️ Україна вперше розробляє стратегію розширення відносин і присутності на Африканському континенті, – глава ОП Буданов</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_20-08-16.jpg" length="93679" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 20:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Щойно в Одесі група невідоми</title>
+      <link>https://www.mandarinai.lt/post/90216</link>
+      <description>⚡️Щойно в Одесі група невідомих на білих «Жигулях» розстріляли автомобіль поліцейських з автомата, є поранені, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_20-47-46.mp4" length="5145877" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 20:47:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
