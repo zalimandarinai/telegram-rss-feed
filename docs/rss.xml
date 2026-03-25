@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 12:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 14:08:15 +0000</lastBuildDate>
     <item>
       <title>⚡️ США перекинули 2200 морпіхі</title>
       <link>https://www.mandarinai.lt/post/90189</link>
@@ -111,6 +111,17 @@
 Авіабомби падали на Ленінградську область вперше з часів Другої Світової війни. "СВО" іде за планом...</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_11-33-40.jpg" length="77190" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 11:33:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️До 35% "Шахедів" вже збивают</title>
+      <link>https://www.mandarinai.lt/post/90202</link>
+      <description>❗️До 35% "Шахедів" вже збиваються дронами-перехоплювачами. Цей показник може зрости до 90%, - "Флеш".
+
+За його словами, це видно в реальному часі, оскільки частина дронів просто "зникає" в повітрі, навіть на висотах, недоступних для мобільних вогневих груп, і без участі авіації.
+
+"Якщо "шахеди" знаходяться на великій висоті і авіація не працює, але вони зникають - значить, це працюють наші перехоплювачі. І це дуже ефективно. Я думаю, з часом ми досягнемо 50-70%, а потім і 90%", - зазначив він.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_13-19-33.jpg" length="177861" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 13:19:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
