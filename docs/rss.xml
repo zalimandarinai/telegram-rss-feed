@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 07:43:33 +0000</lastBuildDate>
-    <item>
-      <title>❤️‍🩹 У лікарнях Львова вже 26 </title>
-      <link>https://www.mandarinai.lt/post/90175</link>
-      <description>❤️‍🩹 У лікарнях Львова вже 26 постраждалих після російської атаки, –  Садовий</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_20-00-52.jpg" length="217192" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 20:00:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 08:34:57 +0000</lastBuildDate>
     <item>
       <title>Ціна російської нафти в індійс</title>
       <link>https://www.mandarinai.lt/post/90178</link>
@@ -64,6 +57,22 @@
       <description>🔥🔥Порт Усть-Луга в Ленінградській області атакували дрони — горить найбільший на заході росії термінал з перекачування нафти</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_05-10-32.mp4" length="740244" type="video/mp4"/>
       <pubDate>Wed, 25 Mar 2026 05:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ США перекинули 2200 морпіхі</title>
+      <link>https://www.mandarinai.lt/post/90189</link>
+      <description>⚡️ США перекинули 2200 морпіхів до Ормузької протоки
+
+США направили близько 2200 морських піхотинців на Близький Схід для посилення своєї присутності в районі Ормузької протоки. Перекидання військ відбувається на тлі дедлайну, встановленого президентом Трампом для Ірану, який має відновити судноплавство до 27 березня</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_07-46-11.jpg" length="87976" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 07:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Гарно влучили. Понад 6 годин </title>
+      <link>https://www.mandarinai.lt/post/90190</link>
+      <description>💥Гарно влучили. Понад 6 годин плає нафтоналивний термінал в Ленінградській області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_07-52-58.mp4" length="1562200" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 07:52:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
