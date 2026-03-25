@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 17:47:38 +0000</lastBuildDate>
-    <item>
-      <title>😳 Дрони з росії проникли до Ес</title>
-      <link>https://www.mandarinai.lt/post/90195</link>
-      <description>😳 Дрони з росії проникли до Естонії та Латвії
-
-У Естонії безпілотник врізався у димову трубу електростанції в Аувері. За попередніми даними, немає ні пошкоджень, ні постраждалих. Влада вважає, що дрон, ймовірно, не був націлений на країну, розслідування триває.
-
-У Латвії в районі Краслави зафіксували звук вибуху і виявили обломки БПЛА. Немає ні пошкоджень, ні постраждалих.
-
-На тлі цього інциденту міністр оборони Латвії перервав візит до України і терміново повернувся</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_10-39-17.jpg" length="37171" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 10:39:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 18:39:34 +0000</lastBuildDate>
     <item>
       <title>🔴 Тіньовий ринок «білого квитк</title>
       <link>https://www.mandarinai.lt/post/90196</link>
@@ -121,6 +108,13 @@ https://rvv.com.ua/product/spohady-z-odesy-yedysanu-i-budzhaku/</description>
 Пожежа поширилася на більшу частину комплексу. Відвантаження нафти на експорт призупинено.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_16-31-24.jpg" length="122654" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 16:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ 94,6% дронів знищено: за до</title>
+      <link>https://www.mandarinai.lt/post/90209</link>
+      <description>⚡️ 94,6% дронів знищено: за добу по Україні було випущено 999 «шахедів» — Міноборони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_17-49-56.jpg" length="151891" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 17:49:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
