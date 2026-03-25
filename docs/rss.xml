@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 08:34:57 +0000</lastBuildDate>
-    <item>
-      <title>Ціна російської нафти в індійс</title>
-      <link>https://www.mandarinai.lt/post/90178</link>
-      <description>Ціна російської нафти в індійських портах сягає рекордних показників
-
-Вартість нафти марки Urals піднялася до $121,65 за барель.
-
-Зростання цін обумовлено конфліктом на Близькому Сході, зокрема частковим послабленням обмежень з боку США та збільшенням попиту з боку Індії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-24_20-15-56.jpg" length="80725" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 20:15:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Оператори українських безпілот</title>
-      <link>https://www.mandarinai.lt/post/90179</link>
-      <description>Оператори українських безпілотних перехоплювачів почали працювати «дистанційно» по ворожих цілях, використовуючи технології віддаленого керування, - повідомив  
-Олександр Камишин</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7419.MP4" length="1666028" type="video/mp4"/>
-      <pubDate>Tue, 24 Mar 2026 20:39:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 09:40:08 +0000</lastBuildDate>
     <item>
       <title>Російські спецслужби встановил</title>
       <link>https://www.mandarinai.lt/post/90181</link>
@@ -73,6 +54,52 @@
       <description>💥Гарно влучили. Понад 6 годин плає нафтоналивний термінал в Ленінградській області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_07-52-58.mp4" length="1562200" type="video/mp4"/>
       <pubDate>Wed, 25 Mar 2026 07:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥ЗСУ отримали новий українськи</title>
+      <link>https://www.mandarinai.lt/post/90191</link>
+      <description>🔥ЗСУ отримали новий український перехоплювач JEDI
+
+Головною особливістю JEDI є його повна інтеграція в систему ППО. Дрон в автоматичному режимі отримує дані від радіолокаційних станцій (РЛС) та самостійно наводиться на ціль. Це мінімізує людський фактор і час реакції.
+
+ Ефективно відпрацьовує по «Shahed», «Герань» та «Гербера»;
+ Перехоплює важковловимі «Zala» та «Supercam».
+
+ Один комплекс прикриває небо в радіусі до 40 км.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_09-04-11.jpg" length="36576" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 09:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Запорізькій області росіяни </title>
+      <link>https://www.mandarinai.lt/post/90192</link>
+      <description>В Запорізькій області росіяни нарощують кількість атак на українські позиції. На Гуляйпільському напрямку впродовж доби було 18 спроб штурмів, повідомляється в офіційних релізах.
+
+А так це виглядає на моніторі українського безпілотника 475-го полку «Code 9.2».
+
+Похмурий російський солдат приречено шкандибає по полю допоки його не зупинить скид з «Вампіра». 
+
+В російських штурмовиків явно відсутня мотивація для наступу, і саме це передає кадр, який зняв безпілотник «Code 9.2». 
+
+І підвищенням зарплат їм мотивацію вже не підняти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7431.MP4" length="29999925" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 09:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так відбувається російський на</title>
+      <link>https://www.mandarinai.lt/post/90193</link>
+      <description>Так відбувається російський наступ на Сумщині.
+
+Оператори ударних дронів 80-ї Галицької десантно-штурмової бригади вилетіли назустріч російському військовому, який самотньо рухався в бік наших позицій. 
+
+Ворог намагався збити дрон з автомата, але безпілотник все ж  спрацював прицільніше.
+
+У наступну мить окупант вирішив достроково покинути цей світ і спробував застрелитися. 
+
+Але лише даремно облизав гарячий ствол автомата, бо ж хвалена російська зброя спіймала клин.
+
+🎥 80-а ОДШБР</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7432.MP4" length="4066658" type="video/mp4"/>
+      <pubDate>Wed, 25 Mar 2026 09:34:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
