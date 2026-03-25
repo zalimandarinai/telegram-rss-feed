@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 09:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 10:36:02 +0000</lastBuildDate>
     <item>
       <title>Російські спецслужби встановил</title>
       <link>https://www.mandarinai.lt/post/90181</link>
@@ -78,9 +78,7 @@
 
 Похмурий російський солдат приречено шкандибає по полю допоки його не зупинить скид з «Вампіра». 
 
-В російських штурмовиків явно відсутня мотивація для наступу, і саме це передає кадр, який зняв безпілотник «Code 9.2». 
-
-І підвищенням зарплат їм мотивацію вже не підняти.</description>
+В російських штурмовиків явно відсутня мотивація для наступу, і саме це передає кадр, який зняв безпілотник «Code 9.2».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7431.MP4" length="29999925" type="video/mp4"/>
       <pubDate>Wed, 25 Mar 2026 09:14:45 +0000</pubDate>
     </item>
@@ -100,6 +98,15 @@
 🎥 80-а ОДШБР</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7432.MP4" length="4066658" type="video/mp4"/>
       <pubDate>Wed, 25 Mar 2026 09:34:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Вночі Сили оборони уразили </title>
+      <link>https://www.mandarinai.lt/post/90194</link>
+      <description>⚡️ Вночі Сили оборони уразили російський бойовий криголам у Ленінградській області — Генштаб
+​
+Під удар потрапив патрульний криголам проєкту 23550 «Пурга», який призначався для Прикордонної служби ФСБ рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_10-12-14.jpg" length="99086" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 10:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
