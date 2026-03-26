@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 19:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:24:06 +0000</lastBuildDate>
     <item>
       <title>🕌 Зеленський приїхав на Близьк</title>
       <link>https://www.mandarinai.lt/post/90248</link>
@@ -93,17 +93,19 @@
     </item>
     <item>
       <title>💥🔥Сили Оборони завдали удару п</title>
-      <link>https://www.mandarinai.lt/post/90261</link>
-      <description>💥🔥Сили Оборони завдали удару по Смоленському авіаційному заводу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_19-41-10.mp4" length="38424" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 19:41:10 +0000</pubDate>
+      <link>https://www.mandarinai.lt/post/90262</link>
+      <description>💥🔥Сили Оборони завдали удару по Смоленському авіаційному заводу.
+
+Він спеціалізується на виробництві та модернізації авіаційних і ракетних систем. Також збирає та обслуговує високоточне озброєння, разом з крилатими ракетами та компонентами для авіаційних комплексів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_19-42-47.mp4" length="283298" type="video/mp4"/>
+      <pubDate>Thu, 26 Mar 2026 19:42:47 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Сили Оборони завдали удару п</title>
-      <link>https://www.mandarinai.lt/post/90262</link>
-      <description>💥🔥Сили Оборони завдали удару по Смоленському авіаційному заводу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_19-42-47.mp4" length="38424" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 19:42:47 +0000</pubDate>
+      <title>🔴США призупиняють удари по ене</title>
+      <link>https://www.mandarinai.lt/post/90263</link>
+      <description>🔴США призупиняють удари по енергооб'єктах Ірану на 10 днів — до 6 квітня 2026 року, — заява Трампа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-26_20-21-05.jpg" length="96547" type="image/jpeg"/>
+      <pubDate>Thu, 26 Mar 2026 20:21:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
