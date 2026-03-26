@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 21:20:19 +0000</lastBuildDate>
-    <item>
-      <title>Парашут над Харковом, - в міст</title>
-      <link>https://www.mandarinai.lt/post/90249</link>
-      <description>Парашут над Харковом, - в місті пролунало кілька потужних вибухів, і після цього свідки зняли момент спуску парашуту зі збитим БПЛА на багатоповерхівки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7457.MP4" length="5987481" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 15:19:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заявлене, як величезна кількіс</title>
-      <link>https://www.mandarinai.lt/post/90251</link>
-      <description>Заявлене, як величезна кількість танкерів, які застрягли в Ормузькій протоці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7445.MP4" length="3097903" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 15:23:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 22:15:33 +0000</lastBuildDate>
     <item>
       <title>❗️ Ми вчимося в українців мето</title>
       <link>https://www.mandarinai.lt/post/90252</link>
@@ -101,6 +87,13 @@
 Таким чином Трамп продовжив свій раніше оголошений 48-годинний мораторій</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-26_20-21-05.jpg" length="96547" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 20:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥російська Усть Луга знову пі</title>
+      <link>https://www.mandarinai.lt/post/90267</link>
+      <description>💥🔥російська Усть Луга знову під атакою у вогні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_21-48-39.mp4" length="2915066" type="video/mp4"/>
+      <pubDate>Thu, 26 Mar 2026 21:48:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
