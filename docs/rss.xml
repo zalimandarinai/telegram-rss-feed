@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 09:48:56 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦🌍❗️ Україна вперше розробляє</title>
-      <link>https://www.mandarinai.lt/post/90215</link>
-      <description>🇺🇦🌍❗️ Україна вперше розробляє стратегію розширення відносин і присутності на Африканському континенті, – глава ОП Буданов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_20-08-16.jpg" length="93679" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 20:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Щойно в Одесі група невідоми</title>
-      <link>https://www.mandarinai.lt/post/90216</link>
-      <description>⚡️Щойно в Одесі група невідомих на білих «Жигулях» розстріляли автомобіль поліцейських з автомата, є поранені, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-25_20-47-46.mp4" length="5145877" type="video/mp4"/>
-      <pubDate>Wed, 25 Mar 2026 20:47:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 10:40:11 +0000</lastBuildDate>
     <item>
       <title>⚡️Наземна операція США в Ірані</title>
       <link>https://www.mandarinai.lt/post/90217</link>
@@ -90,6 +76,45 @@
 Попередньо, пошкоджена палуба, місток, а в машинне відділення почала потрапляти вода.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-26_09-08-44.jpg" length="31940" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 09:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Бійці Сумського прикордонно</title>
+      <link>https://www.mandarinai.lt/post/90230</link>
+      <description>❗️ Бійці Сумського прикордонного загону завдали точного удару по російських військових.
+
+🚩 Знищено: 
+▫️ 152-мм гармату «Гіацинт-Б»; 
+▫️ склад із БК для ворожих ударних БпЛА;
+▫️ автівки противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7447.MP4" length="18013733" type="video/mp4"/>
+      <pubDate>Thu, 26 Mar 2026 10:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог провів добре підготовлен</title>
+      <link>https://www.mandarinai.lt/post/90231</link>
+      <description>Ворог провів добре підготовлену атаку Костянтинівки с 4 напрямків.
+
+Але 28-а ОМБР за підтримки СБУ, НГУ та інших підрозділів сухопутних військ відбилась від штурмів.
+
+Перебіг подій.
+
+▫️ Спочатку росіяни запустили в якості «відволікаючого маневру» 2 замангалених танки зі сторони Торецька.
+
+▫️ Але штурмувати мали 3 групи піхоти з різних напрямків. 
+
+▫️ Перша рухалась в районі Іванопілля.
+
+▫️ Друга їхала на мотоциклах по трасі на Покровськ.
+
+▫️ Третя, «спецпризначенці в кікіморах», просувалась вздовж залізничного полотна. 
+
+Один танк та дві основні групи знищили оператори ББпС «Спалах», Kurt&amp;Company, R.V. 3-го батальйону та 1-го МБ спільно з СБУ, НГУ та підрозділами СВ. 
+
+А в третій штурмовій групі один зі спецпризначенців здався в полон до української піхоти. 
+
+🎥 28-а ОМБР</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7448.MP4" length="25580923" type="video/mp4"/>
+      <pubDate>Thu, 26 Mar 2026 10:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
