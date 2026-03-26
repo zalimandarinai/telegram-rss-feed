@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 06:04:32 +0000</lastBuildDate>
-    <item>
-      <title>🇮🇷↔️🇺🇸 Тегеран відмовився від </title>
-      <link>https://www.mandarinai.lt/post/90204</link>
-      <description>🇮🇷↔️🇺🇸 Тегеран відмовився від умов припинення вогню, які запропонували Сполучені Штати Америки, - видання «Аль Маядін»
-
-💬 «Тегеран повідомив дружню державу Пакистан, що не може прийняти 15 пунктів, з яких складається американська пропозиція щодо переговорів».
-
-📝 Так написали журналісти видання з посиланням на неназваних чиновників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_15-14-06.jpg" length="115405" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 15:14:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ В порту Усть-Луга досі гори</title>
-      <link>https://www.mandarinai.lt/post/90205</link>
-      <description>❗️ В порту Усть-Луга досі горить, пожежу не можуть загасити</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-25_15-16-31.jpg" length="58247" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 15:16:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 07:52:13 +0000</lastBuildDate>
     <item>
       <title>Обстріл 24-го березня став най</title>
       <link>https://www.mandarinai.lt/post/90206</link>
@@ -115,6 +97,30 @@ https://rvv.com.ua/product/spohady-z-odesy-yedysanu-i-budzhaku/</description>
       <description>⚡️Наземна операція США в Ірані розпочнеться найближчим часом, — WSJ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-26_04-32-48.jpg" length="156642" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 04:32:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Росія втратила 40% потужност</title>
+      <link>https://www.mandarinai.lt/post/90218</link>
+      <description>❗️Росія втратила 40% потужностей для експорту нафти через атаки та санкції, — Reuters
+
+Це наймасштабніший збій у постачанні нафти в сучасній історії рф — другого за величиною експортера у світі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-26_07-34-18.jpg" length="289367" type="image/jpeg"/>
+      <pubDate>Thu, 26 Mar 2026 07:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «В перший раз промазав», - </title>
+      <link>https://www.mandarinai.lt/post/90219</link>
+      <description>❗️ «В перший раз промазав», - на фронті нова хвиля  «епідемії» самогубств на полі бою серед російської піхоти. 
+
+▫️ Одна з причин - ідеологічна «накрутка» солдатів, яка напередодні спланованого росіянами весняного наступу лише підсилюється.
+
+▫️ Зокрема, полонений 18-річний контрактник розповів нам, що під час підготовки їм показують відеоматеріали, на яких нібито українські військові катують російських полонених.
+
+▫️ З іншого боку, працює й система покарань за «самовільне залишення позицій», включно з позасудовими стратами. 
+
+▫️ Враховуючи те, що поранених не евакуюють, російська система залишає окупантам тільки ось такий варіант, - який фіксують українські дрони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7446.MP4" length="983337" type="video/mp4"/>
+      <pubDate>Thu, 26 Mar 2026 07:50:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
