@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 22:15:33 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Ми вчимося в українців мето</title>
-      <link>https://www.mandarinai.lt/post/90252</link>
-      <description>❗️ Ми вчимося в українців методам використання систем Patriot, — командувач НАТО в Європі Крістофер Каволі
-
-💬 «[Patriot] складна система. Ми дуже довго тренуємо бійців, щоб вони могли нею керувати. А українці залучили до цього своїх найкращих людей, і от вони освоїли систему дуже швидко і тепер, як риба у воді.
-
-Зараз ми вчимося у них деяким методам використання цих систем».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7459.MP4" length="6373253" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 15:49:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Глава Німеччини сказав «Іран —</title>
-      <link>https://www.mandarinai.lt/post/90253</link>
-      <description>Глава Німеччини сказав «Іран — це не наша війна». Я відповів: «Добре, тоді Україна — це не наша війна», — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7460.MP4" length="10194054" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 16:48:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 23:18:29 +0000</lastBuildDate>
     <item>
       <title>⚔ ЗСУ звільнили село Березове </title>
       <link>https://www.mandarinai.lt/post/90254</link>
@@ -94,6 +76,13 @@
       <description>💥🔥російська Усть Луга знову під атакою у вогні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_21-48-39.mp4" length="2915066" type="video/mp4"/>
       <pubDate>Thu, 26 Mar 2026 21:48:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 Ми не погоджуємося зі звинув</title>
+      <link>https://www.mandarinai.lt/post/90271</link>
+      <description>🤡 Ми не погоджуємося зі звинуваченнями в тому, що ми допомагаємо Ірану, надаючи розвідувальні дані. Координати американських військових баз у регіоні відомі всім — це відкрита інформація,— Лавров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_22-24-50.mp4" length="3871973" type="video/mp4"/>
+      <pubDate>Thu, 26 Mar 2026 22:24:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
