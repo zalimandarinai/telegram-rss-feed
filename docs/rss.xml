@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 15:39:25 +0000</lastBuildDate>
-    <item>
-      <title>На Південно-Слобожанському нап</title>
-      <link>https://www.mandarinai.lt/post/90298</link>
-      <description>На Південно-Слобожанському напрямку бригада ДПСУ «Форпост» майстерно знищує ворожу техніку, навіть в замаскованному укритті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9426.MP4" length="12031312" type="video/mp4"/>
-      <pubDate>Fri, 27 Mar 2026 12:36:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Так виглядає житловий будинок </title>
-      <link>https://www.mandarinai.lt/post/90299</link>
-      <description>Так виглядає житловий будинок у Корабельному районі Херсона, по якому зранку вдарили російські окупанти</description>
-      <pubDate>Fri, 27 Mar 2026 12:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці пошуково-ударного угрупо</title>
-      <link>https://www.mandarinai.lt/post/90301</link>
-      <description>Бійці пошуково-ударного угруповання «Хартія» змогли вийти з позицій в районі Купʼянська разом з трьома полоненими росіянами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7471.MP4" length="22382265" type="video/mp4"/>
-      <pubDate>Fri, 27 Mar 2026 13:14:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Двоє військових у СЗЧ розстріл</title>
-      <link>https://www.mandarinai.lt/post/90302</link>
-      <description>Двоє військових у СЗЧ розстріляли людей на Харківщині
-
-Чоловіки 38 та 26 років самовільно залишили військову частину зі зброєю в руках. 
-
-Обидва з кримінальним минулим.
-
-Дезертири причетні до подвійного вбивства на Харківщині, де виявили тіла двох чоловіків: один з них  — військовослужбовець НГУ, який теж був в СЗЧ
-
-Поліція розшукала підозрюваних у Коростені і провела затримання за участю спецпризначенців КОРД.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_13-15-10.jpg" length="170022" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 13:15:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 16:39:31 +0000</lastBuildDate>
     <item>
       <title>Український дрон-перехоплювач </title>
       <link>https://www.mandarinai.lt/post/90304</link>
@@ -110,6 +75,31 @@
 У ДПСУ повідомили виданню, що 24 особи направили до ТЦК, бо вони були у розшуку за ухилення від призову.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_15-29-05.jpg" length="178636" type="image/jpeg"/>
       <pubDate>Fri, 27 Mar 2026 15:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Головний тренер збірної Укр</title>
+      <link>https://www.mandarinai.lt/post/90313</link>
+      <description>⚡️ Головний тренер збірної України Сергій Ребров може залишити посаду після поразки та втрати шансів на вихід на чемпіонат світу-2026, — ЗМІ
+
+В УАФ розглядають дві кандидатури на його заміну.
+
+Товариський матч з Албанією 31 березня стане для Реброва останнім у ролі головного тренера</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_16-23-41.jpg" length="68128" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 16:23:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳Іранські хакери зламали пошту</title>
+      <link>https://www.mandarinai.lt/post/90314</link>
+      <description>😳Іранські хакери зламали пошту директора ФБР і отримали дані за 10 років, — Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_16-25-21.jpg" length="176408" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 16:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🔥Атаковані двічі протягом дво</title>
+      <link>https://www.mandarinai.lt/post/90315</link>
+      <description>🔥🔥Атаковані двічі протягом двох днів порти в Ленінградській області ніяк не можуть загасити, попри цілодобову роботу десятків пожежних розрахунків</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_16-30-53.mp4" length="603247" type="video/mp4"/>
+      <pubDate>Fri, 27 Mar 2026 16:30:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
