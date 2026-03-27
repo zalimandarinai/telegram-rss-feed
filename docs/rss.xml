@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 19:33:41 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Ціни на дизель вже по 91 грн</title>
-      <link>https://www.mandarinai.lt/post/90307</link>
-      <description>⚡️Ціни на дизель вже по 91 грн/л: АЗС різко підняли вартість на пальне </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_14-40-33.jpg" length="101483" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 14:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ США вперше в Ірані використ</title>
-      <link>https://www.mandarinai.lt/post/90308</link>
-      <description>❗️ США вперше в Ірані використали морські безпілотники.
-
-🛳️ Але поки що лише для патрулювання, що, в принципі, відображено в їхній назві GARC, Global Autonomous Reconnaissance Craft.
-
-⏯️ Чи є в програмі «Глобальних Автономних Розвідувальних Кораблів» елементи українських напрацювань, можна подивитись, порівнявши концепції https://m.youtube.com/watch?v=SBeRylGi_NA</description>
-      <pubDate>Fri, 27 Mar 2026 14:41:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Двох російських військових бій</title>
-      <link>https://www.mandarinai.lt/post/90309</link>
-      <description>Двох російських військових бійці Держприкордонслужби захопили в селі Кругле на півночі Харківщини.
-
-В смузі оборони бригади ДПСУ «Гарт» відновилися активні штурмові дії. Командування противника регулярно заявляє про «взяття» села Кругле в кілометрі від кордону з росією. 
-
-Але це – черговий випадок, коли росіяни видають бажане за дійсне.
-
-Обидвох російських окупантів взяли в полон саме під час одного з таких «захоплень» Круглого. 
-
-Безпілотні системи бригади «Гарт» вели їх від кордону просто в руки прикордонників.</description>
-      <pubDate>Fri, 27 Mar 2026 14:58:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 20:23:37 +0000</lastBuildDate>
     <item>
       <title>🪖 Із 45 українських чоловіків,</title>
       <link>https://www.mandarinai.lt/post/90311</link>
@@ -89,6 +58,33 @@
 Це брехня, і я бачив, як він це казав, і прикро, що він це сказав, бо знає, що це неправда! Йому не це сказали, – заявив держсекретар США.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_19-24-20.mp4" length="5947888" type="video/mp4"/>
       <pubDate>Fri, 27 Mar 2026 19:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тепер поляки офіційно можуть с</title>
+      <link>https://www.mandarinai.lt/post/90323</link>
+      <description>Тепер поляки офіційно можуть служити у ЗСУ — президент Польщі Кароль Навроцький підписав закон про амністію поляків, які воюють на боці України. Раніше за це їм загрожувало 3-5 років в’язниці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_19-42-41.jpg" length="33043" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 19:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴путін почав вимагати гроші у </title>
+      <link>https://www.mandarinai.lt/post/90324</link>
+      <description>🥴путін почав вимагати гроші у російських олігархів для продовження війни, – FT
+
+Під час зустрічі з бізнесменами у четвер він дав зрозуміти, що збирається довести війну до «переможного кінця». Сьогодні 3 російські олігархи заявили, що виділять у бюджет 430 млрд рублів на розвиток так званих «нових проектів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_20-01-03.jpg" length="67184" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 20:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іран, імовірно, ракетним ударо</title>
+      <link>https://www.mandarinai.lt/post/90325</link>
+      <description>Іран, імовірно, ракетним ударом знищив щонайменше ще один літак Повітряних Сил США на аеродромі в Саудівській Аравії, про це повідомляє «Мілітарний» за результатами аналізу супутникових знімків сервісу Copernicus.
+
+Який саме літак на авіабазі «Принц Султан» потрапив під удар, наразі достеменно невідомо.
+
+Можливо, це був один із літаків-заправників KC-135, що базуються на цій авіабазі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_20-23-12.jpg" length="17528" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 20:23:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
