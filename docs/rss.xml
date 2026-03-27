@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 09:41:16 +0000</lastBuildDate>
-    <item>
-      <title>Нічні глядачі в Ленінградській</title>
-      <link>https://www.mandarinai.lt/post/90273</link>
-      <description>Нічні глядачі в Ленінградській області зараз намагаються вирахувати напрямок польоту українських дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7464.MP4" length="3191742" type="video/mp4"/>
-      <pubDate>Fri, 27 Mar 2026 00:44:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Третю ніч поспіль дрони СБУ</title>
-      <link>https://www.mandarinai.lt/post/90274</link>
-      <description>⚡️ Третю ніч поспіль дрони СБУ завдають ударів по Ленінградській області
-
-Уражено нафтові порти «Усть-Луга» та «Приморськ». Обидва є найбільшими в регіоні й забезпечують значну частку експорту нафтопродуктів рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_06-04-57.mp4" length="3212169" type="video/mp4"/>
-      <pubDate>Fri, 27 Mar 2026 06:04:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 10:35:28 +0000</lastBuildDate>
     <item>
       <title>В російському місті Череповец </title>
       <link>https://www.mandarinai.lt/post/90277</link>
@@ -74,6 +58,31 @@
       <description>⚔️❗️З початку операції на Півдні Сили Оборони відновили контроль над близько 470 км² і знешкодили понад 11 000 окупантів, — Головком Сирський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_09-28-09.jpg" length="109420" type="image/jpeg"/>
       <pubDate>Fri, 27 Mar 2026 09:28:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Порт в Усть Лугє атакували "ш</title>
+      <link>https://www.mandarinai.lt/post/90286</link>
+      <description>🔥Порт в Усть Лугє атакували "шахєдоподібні" українські дрони, - росЗМІ 
+
+На канал русні істерика, що українці створили свій "шахед"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_09-42-35.jpg" length="21507" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 09:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Ормузькій протоці горить тай</title>
+      <link>https://www.mandarinai.lt/post/90287</link>
+      <description>У Ормузькій протоці горить тайський контейнеровоз, який намагався пройти без дозволу
+
+У Корпусі вартових Ісламської революції заявили, що будь-які спроби проходу через протоку будуть припинені "жорсткою відповіддю".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_09-47-09.mp4" length="788770" type="video/mp4"/>
+      <pubDate>Fri, 27 Mar 2026 09:47:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Уражено радіолокаційний комп</title>
+      <link>https://www.mandarinai.lt/post/90288</link>
+      <description>💥 Уражено радіолокаційний комплекс “Валдай”,  пункти управління та склади противника, - Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_10-06-48.jpg" length="168279" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 10:06:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
