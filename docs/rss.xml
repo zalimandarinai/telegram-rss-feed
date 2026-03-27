@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 04:22:28 +0000</lastBuildDate>
-    <item>
-      <title>Оператори 425-го полку «Скеля»</title>
-      <link>https://www.mandarinai.lt/post/90256</link>
-      <description>Оператори 425-го полку «Скеля» розносять ворожу техніку в Мирнограді: влучили в російську гаубицю Д-20 та військовий автомобіль «Урал».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Урал і гармата++.mp4" length="19357620" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 17:57:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 06:04:58 +0000</lastBuildDate>
     <item>
       <title>🇮🇷 Президент Ірану заявив, що </title>
       <link>https://www.mandarinai.lt/post/90257</link>
@@ -74,6 +67,15 @@
       <description>Нічні глядачі в Ленінградській області зараз намагаються вирахувати напрямок польоту українських дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7464.MP4" length="3191742" type="video/mp4"/>
       <pubDate>Fri, 27 Mar 2026 00:44:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Третю ніч поспіль дрони СБУ</title>
+      <link>https://www.mandarinai.lt/post/90274</link>
+      <description>⚡️ Третю ніч поспіль дрони СБУ завдають ударів по Ленінградській області
+
+Уражено нафтові порти «Усть-Луга» та «Приморськ». Обидва є найбільшими в регіоні й забезпечують значну частку експорту нафтопродуктів рф.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_06-04-57.mp4" length="3212169" type="video/mp4"/>
+      <pubDate>Fri, 27 Mar 2026 06:04:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
