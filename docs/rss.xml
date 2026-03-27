@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 08:36:40 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Сили Оборони завдали удару п</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥🔥Сили Оборони завдали удару по Смоленському авіаційному заводу.
-
-Він спеціалізується на виробництві та модернізації авіаційних і ракетних систем. Також збирає та обслуговує високоточне озброєння, разом з крилатими ракетами та компонентами для авіаційних комплексів.</description>
-      <pubDate>Thu, 26 Mar 2026 19:42:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥російська Усть Луга знову пі</title>
-      <link>https://www.mandarinai.lt/post/90267</link>
-      <description>💥🔥російська Усть Луга знову під атакою у вогні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_21-48-39.mp4" length="2915066" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 21:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡 Ми не погоджуємося зі звинув</title>
-      <link>https://www.mandarinai.lt/post/90271</link>
-      <description>🤡 Ми не погоджуємося зі звинуваченнями в тому, що ми допомагаємо Ірану, надаючи розвідувальні дані. Координати американських військових баз у регіоні відомі всім — це відкрита інформація,— Лавров</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-26_22-24-50.mp4" length="3871973" type="video/mp4"/>
-      <pubDate>Thu, 26 Mar 2026 22:24:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 09:41:16 +0000</lastBuildDate>
     <item>
       <title>Нічні глядачі в Ленінградській</title>
       <link>https://www.mandarinai.lt/post/90273</link>
@@ -62,6 +40,40 @@
 Пляшки влучили у вікна бібліотеки, але не вибухнули.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_07-56-26.jpg" length="156867" type="image/jpeg"/>
       <pubDate>Fri, 27 Mar 2026 07:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>👊❗️ЗСУ "каскадом" повалили нас</title>
+      <link>https://www.mandarinai.lt/post/90281</link>
+      <description>👊❗️ЗСУ "каскадом" повалили наступ ворога на напрямках Гуляйполя та Олександрівки і зламали плани рф щодо захоплення "Поясу фортець",  — ISW
+
+Через успішні українські контратаки окупанти змушені перекидати сили з Донеччини на південь України, щоб втримати займані позиції на тлі просування українських військ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_08-58-52.jpg" length="244456" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 08:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅Киришський НПЗ призупинив роб</title>
+      <link>https://www.mandarinai.lt/post/90282</link>
+      <description>✅Киришський НПЗ призупинив роботу після атак українських дронів, - Reuters
+
+За словами джерел, після неодноразових атак безпілотників загорілися дві основні та кілька допоміжних установок. Одне з джерел зазначило, що важко оцінити, скільки часу знадобиться на ремонт.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_09-19-56.jpg" length="32272" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 09:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️🤝 Україна та Саудівська Арав</title>
+      <link>https://www.mandarinai.lt/post/90283</link>
+      <description>⚡️🤝 Україна та Саудівська Аравія уклали угоду про оборонне співробітництво, — Зеленський
+
+Документ — це основа для подальших контрактів, зокрема, в сфері технологій та інвестицій, і посилює міжнародну роль України, як безпекового донора.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_09-26-46.jpg" length="203309" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 09:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚔️❗️З початку операції на Півд</title>
+      <link>https://www.mandarinai.lt/post/90285</link>
+      <description>⚔️❗️З початку операції на Півдні Сили Оборони відновили контроль над близько 470 км² і знешкодили понад 11 000 окупантів, — Головком Сирський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_09-28-09.jpg" length="109420" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 09:28:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
