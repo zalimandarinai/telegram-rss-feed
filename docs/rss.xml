@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 06:04:58 +0000</lastBuildDate>
-    <item>
-      <title>🇮🇷 Президент Ірану заявив, що </title>
-      <link>https://www.mandarinai.lt/post/90257</link>
-      <description>🇮🇷 Президент Ірану заявив, що Путін та російський народ «надихають нас у цій війні». Своє повідомлення в соцмережі «X» він написав російською. 
-
-💬 «Повідомлення президента Путіна та підтримка російського народу надихають нас у цій війні. Від імені народу Ірану дякую уряду і народу росії», — написав Масуд Пезешкіан. 
-
-➡️ Схоже, США та Ізраїль не хочуть визнавати, що першопричина глобального хаосу сидить не в Тегерані, а в Москві.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-26_18-35-28.jpg" length="28682" type="image/jpeg"/>
-      <pubDate>Thu, 26 Mar 2026 18:35:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Словаччині почали розслідува</title>
-      <link>https://www.mandarinai.lt/post/90259</link>
-      <description>У Словаччині почали розслідування проти Фіцо. Друга путіна перевіряють на факт державної зради.
-
-Підставою стала заява лідера опозиційної партії «Свобода і солідарність» Браніслава Ґрьолінга, яку підтримали понад 13 тисяч людей. Йдеться про рішення Фіцо зупинити постачання електроенергії до України, а також можливі зловживання владою.
-
-Ґрьолінг стверджує, що справу вже передано з прокуратури до поліції і обіцяє докласти зусиль, щоб її не закрили.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-26_19-25-43.jpg" length="53507" type="image/jpeg"/>
-      <pubDate>Thu, 26 Mar 2026 19:25:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 07:50:40 +0000</lastBuildDate>
     <item>
       <title>💥🔥Сили Оборони завдали удару п</title>
       <link>https://www.mandarinai.lt/post/90262</link>
@@ -76,6 +54,13 @@
 Уражено нафтові порти «Усть-Луга» та «Приморськ». Обидва є найбільшими в регіоні й забезпечують значну частку експорту нафтопродуктів рф.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_06-04-57.mp4" length="3212169" type="video/mp4"/>
       <pubDate>Fri, 27 Mar 2026 06:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>В російському місті Череповец </title>
+      <link>https://www.mandarinai.lt/post/90277</link>
+      <description>В російському місті Череповец прилетіло по АТ «Апатит» найбільшому у Європі виробнику фосфорвмісних добрив, сірчаної та фосфорної кислот, а також провідному виробнику аміачної селітри, яку використовують також для виробництва вибухових речовин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7465.MP4" length="1319377" type="video/mp4"/>
+      <pubDate>Fri, 27 Mar 2026 07:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
