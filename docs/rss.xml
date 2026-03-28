@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 14:21:06 +0000</lastBuildDate>
-    <item>
-      <title>Вперше українці можуть побачит</title>
-      <link>https://www.mandarinai.lt/post/90340</link>
-      <description>Вперше українці можуть побачити вбивць мирного населення в той момент, коли ці злочинці готуються до вбивства.
-
-Пілоти 1-го окремого центру СБС завдали удару по операторах «шахедів» та їхніх пускових установках.
-
-Просто в момент запуску «шахедів» по них прилетіла українська лють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7500.MP4" length="22425972" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 08:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заявлене, як нічні запуски FP-</title>
-      <link>https://www.mandarinai.lt/post/90341</link>
-      <description>Заявлене, як нічні запуски FP-5 «Flamingo»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7501.MP4" length="2196809" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 08:53:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 15:19:00 +0000</lastBuildDate>
     <item>
       <title>🇺🇦🇦🇪 Україна та ОАЕ домовилися</title>
       <link>https://www.mandarinai.lt/post/90342</link>
@@ -106,6 +88,13 @@
       <link>https://www.mandarinai.lt/post/90353</link>
       <description>«Здаємося, ми без зброї», - розвідка 12-ї бригади спеціального призначення НГУ «Азов» під час зачистки позиції  бере в полон російських окупантів поблизу Добропілля</description>
       <pubDate>Sat, 28 Mar 2026 13:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 Для підняття настрою операто</title>
+      <link>https://www.mandarinai.lt/post/90356</link>
+      <description>📈 Для підняття настрою оператори ударних БПЛА 210-го штурмового полку пропонують трохи помилуватися ефектною ліквідацією російських дронів-«ждунів» на Дніпропетровщині. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7515.MP4" length="4900338" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 15:15:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
