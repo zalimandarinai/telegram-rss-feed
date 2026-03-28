@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 11:16:59 +0000</lastBuildDate>
-    <item>
-      <title>🤬 російські  мразі вночі гатил</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤬 російські  мразі вночі гатили по житловим будинками в Одесі. Наразі відомо про одного загиблого</description>
-      <pubDate>Sat, 28 Mar 2026 05:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>росія вбила чотирьох людей сьо</title>
-      <link>https://www.mandarinai.lt/post/90337</link>
-      <description>росія вбила чотирьох людей сьогодні вночі.
-
-Дві людини в Одесі і дві людини у Кривому Розі загинули внаслідок нічної атаки рашистів. Поранено 16 осіб серед них двоє дітей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7507.MP4" length="17550753" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 07:55:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 12:26:42 +0000</lastBuildDate>
     <item>
       <title>Вперше українці можуть побачит</title>
       <link>https://www.mandarinai.lt/post/90340</link>
@@ -66,6 +51,36 @@
 Внаслідок однієї з атак загинув 55-річний оператор технологічних установок. Це вже друга смерть працівника «Нафтогазу» за цей тиждень.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_10-37-10.jpg" length="110346" type="image/jpeg"/>
       <pubDate>Sat, 28 Mar 2026 10:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Сьогодні зранку прикордонники</title>
+      <link>https://www.mandarinai.lt/post/90348</link>
+      <description>💥Сьогодні зранку прикордонники   ліквідували над морем 9 ворожих «шахедів»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_11-17-38.mp4" length="7244372" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 11:17:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ніхто не атакував українців в </title>
+      <link>https://www.mandarinai.lt/post/90349</link>
+      <description>Ніхто не атакував українців в Дубаї. Іранський режим часто проводить подібні дезінформаційні операції — і в цьому нічим не відрізняється від росіян, — речник МЗС Тихий</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_11-40-44.jpg" length="48070" type="image/jpeg"/>
+      <pubDate>Sat, 28 Mar 2026 11:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Розбирають наш бліндаж», - пі</title>
+      <link>https://www.mandarinai.lt/post/90350</link>
+      <description>«Розбирають наш бліндаж», - підрозділ 23F3 бригади ДПСУ «Помста» показав, як виживає під ударами FPV-дронів та артилерії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7512.MP4" length="30019269" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 12:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡Тепер принц Саудівської Араві</title>
+      <link>https://www.mandarinai.lt/post/90351</link>
+      <description>🤡Тепер принц Саудівської Аравії мусить цілувати мені дупу, — Трамп.
+
+«Він не думав, що війна з Іраном станеться. Він не думав, що йому доведеться цілувати мою дупу. Він дійсно не думав. … Тепер він повинен бути милим зі мною».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_12-24-02.mp4" length="7176475" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 12:24:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
