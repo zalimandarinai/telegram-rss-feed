@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 04:06:42 +0000</lastBuildDate>
-    <item>
-      <title>😳Іранські хакери зламали пошту</title>
-      <link>https://www.mandarinai.lt/post/90314</link>
-      <description>😳Іранські хакери зламали пошту директора ФБР і отримали дані за 10 років, — Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_16-25-21.jpg" length="176408" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 16:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥🔥Атаковані двічі протягом дво</title>
-      <link>https://www.mandarinai.lt/post/90315</link>
-      <description>🔥🔥Атаковані двічі протягом двох днів порти в Ленінградській області ніяк не можуть загасити, попри цілодобову роботу десятків пожежних розрахунків</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_16-30-53.mp4" length="603247" type="video/mp4"/>
-      <pubDate>Fri, 27 Mar 2026 16:30:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 05:46:59 +0000</lastBuildDate>
     <item>
       <title>🔥Дим від палаючого порту посту</title>
       <link>https://www.mandarinai.lt/post/90320</link>
@@ -79,6 +65,20 @@
       <description>💥Понад 250 українських безпілотників зараз атакують росію та тимчасово окуповані території.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_22-10-41.jpg" length="132411" type="image/jpeg"/>
       <pubDate>Fri, 27 Mar 2026 22:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🔥В російському Ярославлі влуч</title>
+      <link>https://www.mandarinai.lt/post/90329</link>
+      <description>🔥🔥В російському Ярославлі влучання по НПЗ "Янос"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_05-17-53.jpg" length="63274" type="image/jpeg"/>
+      <pubDate>Sat, 28 Mar 2026 05:17:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 російські  мразі вночі гатил</title>
+      <link>https://www.mandarinai.lt/post/90331</link>
+      <description>🤬 російські  мразі вночі гатили по житловим будинками в Одесі. Наразі відомо про одного загиблого</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_05-20-29.mp4" length="328381" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 05:20:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
