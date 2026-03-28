@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 08:24:23 +0000</lastBuildDate>
-    <item>
-      <title>🔥Гарні супутникові знімки трет</title>
-      <link>https://www.mandarinai.lt/post/90326</link>
-      <description>🔥Гарні супутникові знімки третьої доби пожеж в російських портах (Ленінградська область) після атаки українських дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_20-27-38.jpg" length="247975" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 20:27:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 09:25:00 +0000</lastBuildDate>
     <item>
       <title>💥Понад 250 українських безпіло</title>
       <link>https://www.mandarinai.lt/post/90328</link>
@@ -65,9 +58,27 @@
       <link>https://www.mandarinai.lt/post/90337</link>
       <description>росія вбила чотирьох людей сьогодні вночі.
 
-Дві людини в Одесі і дві людини у Кривому Розі загинули внаслідок нічної атаки рашистів. Поранено 16 осіб серед них двоє дітей</description>
+Дві людини в Одесі і дві людини у Кривому Розі загинули внаслідок нічної атаки рашистів. Поранено 16 осіб серед них двоє дітей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_07-55-39.jpg" length="140953" type="image/jpeg"/>
       <pubDate>Sat, 28 Mar 2026 07:55:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вперше українці можуть побачит</title>
+      <link>https://www.mandarinai.lt/post/90340</link>
+      <description>Вперше українці можуть побачити вбивць мирного населення в той момент, коли ці злочинці готуються до вбивства.
+
+Пілоти 1-го окремого центру СБС завдали удару по операторах «шахедів» та їхніх пускових установках.
+
+Просто в момент запуску «шахедів» по них прилетіла українська лють.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7500.MP4" length="22425972" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 08:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заявлене, як нічні запуски FP-</title>
+      <link>https://www.mandarinai.lt/post/90341</link>
+      <description>Заявлене, як нічні запуски FP-5 «Flamingo»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7501.MP4" length="2196809" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 08:53:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
