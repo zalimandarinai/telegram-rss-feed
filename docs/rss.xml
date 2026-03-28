@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 12:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 13:41:28 +0000</lastBuildDate>
     <item>
       <title>Вперше українці можуть побачит</title>
       <link>https://www.mandarinai.lt/post/90340</link>
@@ -81,6 +81,31 @@
 «Він не думав, що війна з Іраном станеться. Він не думав, що йому доведеться цілувати мою дупу. Він дійсно не думав. … Тепер він повинен бути милим зі мною».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_12-24-02.mp4" length="7176475" type="video/mp4"/>
       <pubDate>Sat, 28 Mar 2026 12:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні зранку наші відбили ш</title>
+      <link>https://www.mandarinai.lt/post/90352</link>
+      <description>Сьогодні зранку наші відбили штурм в Запорізькій області.
+
+Ворог рухався на позиції 118-ої ОМБР великою кількістю техніки.
+
+Близько 8-ї години ранку росіяни пішли вперед за допомогою танка-їжака, БМП та двох автомобілів. Сподівалися зайти в Малу Токмачку. Не вийшло.
+
+Противник стверджує, що Мала Токмачка під ним ще з літа 2025 року. Але це не так.
+
+Ворожу колону вдалося зупинити і знищити спільним вогнем підрозділів 118-ої ОМБР і 108-ої бригади ТРО. 
+
+Окрім техніки, ліквідовано й 10 штурмовиків, ще стільки ж — поранено.
+
+Штурм виявився повністю проваленим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7513.MP4" length="26110264" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 12:38:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Здаємося, ми без зброї», - ро</title>
+      <link>https://www.mandarinai.lt/post/90353</link>
+      <description>«Здаємося, ми без зброї», - розвідка 12-ї бригади спеціального призначення НГУ «Азов» під час зачистки позиції  бере в полон російських окупантів поблизу Добропілля</description>
+      <pubDate>Sat, 28 Mar 2026 13:21:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
