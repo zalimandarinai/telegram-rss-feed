@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 21:18:34 +0000</lastBuildDate>
-    <item>
-      <title>«Здаємося, ми без зброї», - ро</title>
-      <link>https://www.mandarinai.lt/post/90353</link>
-      <description>«Здаємося, ми без зброї», - розвідка 12-ї бригади спеціального призначення НГУ «Азов» під час зачистки позиції  бере в полон російських окупантів поблизу Добропілля</description>
-      <pubDate>Sat, 28 Mar 2026 13:21:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 22:15:03 +0000</lastBuildDate>
     <item>
       <title>📈 Для підняття настрою операто</title>
       <link>https://www.mandarinai.lt/post/90356</link>
@@ -95,6 +89,13 @@
       <description>💥В Брянській області звуки інакші ніж вибухи дронів. 🦩?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_20-09-25.mp4" length="1272498" type="video/mp4"/>
       <pubDate>Sat, 28 Mar 2026 20:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Масштабна мобілізація, ймо</title>
+      <link>https://www.mandarinai.lt/post/90368</link>
+      <description>❗️ «Масштабна мобілізація, ймовірно, може стати реальністю», -  резервістам морської піхоти США наказали перевірити свою готовність до операцій в Ірані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_21-20-49.jpg" length="69040" type="image/jpeg"/>
+      <pubDate>Sat, 28 Mar 2026 21:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
