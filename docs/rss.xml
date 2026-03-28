@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 06:42:06 +0000</lastBuildDate>
-    <item>
-      <title>🔥Дим від палаючого порту посту</title>
-      <link>https://www.mandarinai.lt/post/90320</link>
-      <description>🔥Дим від палаючого порту поступово накриває родіну путіна.
-
-МНС Санкт-Петербурга попередило про ризик забруднення повітря на тлі атак дронів на порти в Ленінградській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_19-00-24.jpg" length="56029" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 19:00:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 07:36:43 +0000</lastBuildDate>
     <item>
       <title>«Це брехня»: Рубіо відреагував</title>
       <link>https://www.mandarinai.lt/post/90322</link>
@@ -79,6 +70,31 @@
       <description>🤬 російські  мразі вночі гатили по житловим будинками в Одесі. Наразі відомо про одного загиблого</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_05-20-29.mp4" length="328381" type="video/mp4"/>
       <pubDate>Sat, 28 Mar 2026 05:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Окремий центр СБС (14 полк) </title>
+      <link>https://www.mandarinai.lt/post/90332</link>
+      <description>1 Окремий центр СБС (14 полк) береже ваш сон. Особливо той, де горить росія – такі сни не можна переривати.
+
+Ми знаємо, як важко було цього тижня. Ворог серед білого дня знову б’є по мирних людях і містах – руйнує українські мрії, вбиває наших людей.
+
+Але за кожен такий удар буде у стократ сильніша відповідь.
+
+Відплата не змусила себе чекати.
+Ми зупинили ворога ще до того, як у небо піднялись «шахеди». Тепер менше дронів полетять у наші міста, де не будуть лунати сигнали повітряних тривог.
+
+Спіть спокійно. Ми працюємо, щоб ви прокидались у безпечній країні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1692.MP4" length="22193702" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 06:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Добрі дрони вночі завітали до</title>
+      <link>https://www.mandarinai.lt/post/90333</link>
+      <description>💥Добрі дрони вночі завітали до АТ «Апатит» - ключового російського виробника  аміачної селітри, яку використовують також для вибухових речовин.
+
+Також успішні влучання по НПЗ в Ярославлі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_07-01-35.mp4" length="1321261" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 07:01:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
