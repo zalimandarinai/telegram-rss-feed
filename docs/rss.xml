@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 16:18:28 +0000</lastBuildDate>
-    <item>
-      <title>🔥Суботній ранок в Ленінградськ</title>
-      <link>https://www.mandarinai.lt/post/90343</link>
-      <description>🔥Суботній ранок в Ленінградській області. Третя доба дії українських повітряних санкцій в північних російських портах Приморськ та Усть Луга 💥</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_10-13-09.mp4" length="2990149" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 10:13:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 17:18:43 +0000</lastBuildDate>
     <item>
       <title>⚡️ рф намагається залишити Укр</title>
       <link>https://www.mandarinai.lt/post/90346</link>
@@ -99,6 +92,31 @@
 "Ярославський НПЗ - стратегічно важливе підприємство і один з ключових об'єктів російської нафтопереробної промисловості. Потужність переробки - близько 15 мільйонів тонн нафти на рік. Продукція Ярославського НПЗ включає бензин, дизель, реактивне паливо і має критично важливе значення для логістики ворожої армії"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_15-42-41.jpg" length="97000" type="image/jpeg"/>
       <pubDate>Sat, 28 Mar 2026 15:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 «Захист України — це жіноча </title>
+      <link>https://www.mandarinai.lt/post/90358</link>
+      <description>👀 «Захист України — це жіноча справа»: такі білборди зараз з'являються в Україні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_16-37-04.mp4" length="10353029" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 16:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳Натовп на кордоні. Українці м</title>
+      <link>https://www.mandarinai.lt/post/90359</link>
+      <description>😳Натовп на кордоні. Українці масово повертаються додому з-за кордону на Великодневі свята</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_16-39-58.mp4" length="408259" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 16:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Орбана освистали на передви</title>
+      <link>https://www.mandarinai.lt/post/90360</link>
+      <description>⚡️ Орбана освистали на передвиборчому мітингу, угорські ЗМІ
+
+Орбан зіштовхнувся з протестами під час виступу в місті Дьєр - його освистали активісти опозиції. У відповідь він емоційно звинуватив присутніх у "роботі на Україну"
+
+ Попри те, що Дьєр вважався опорою партії Орбана, підтримка, його там помітно падає</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_16-50-19.mp4" length="1009280" type="video/mp4"/>
+      <pubDate>Sat, 28 Mar 2026 16:50:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
