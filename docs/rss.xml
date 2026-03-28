@@ -6,22 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 11:16:59 +0000</lastBuildDate>
     <item>
       <title>🤬 російські  мразі вночі гатил</title>
-      <link>https://www.mandarinai.lt/post/90331</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🤬 російські  мразі вночі гатили по житловим будинками в Одесі. Наразі відомо про одного загиблого</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_05-20-29.mp4" length="328381" type="video/mp4"/>
       <pubDate>Sat, 28 Mar 2026 05:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Добрі дрони вночі завітали до</title>
-      <link>https://www.mandarinai.lt/post/90333</link>
-      <description>💥Добрі дрони вночі завітали до АТ «Апатит» - ключового російського виробника  аміачної селітри, яку використовують також для вибухових речовин.
-
-Також успішні влучання по НПЗ в Ярославлі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_07-01-35.mp4" length="1321261" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 07:01:35 +0000</pubDate>
     </item>
     <item>
       <title>росія вбила чотирьох людей сьо</title>
@@ -64,9 +54,18 @@
     <item>
       <title>🔥Суботній ранок в Ленінградськ</title>
       <link>https://www.mandarinai.lt/post/90343</link>
-      <description>🔥Суботній ранок в Ленінградській області. Третя доба дії українських повітряних санкцій в північних російських портах Приморсь та Усть Луга 💥</description>
+      <description>🔥Суботній ранок в Ленінградській області. Третя доба дії українських повітряних санкцій в північних російських портах Приморськ та Усть Луга 💥</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_10-13-09.mp4" length="2990149" type="video/mp4"/>
       <pubDate>Sat, 28 Mar 2026 10:13:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ рф намагається залишити Укр</title>
+      <link>https://www.mandarinai.lt/post/90346</link>
+      <description>⚡️ рф намагається залишити Україну без газу: вже три доби поспіль тривають удари по газовим об'єктам у Полтавській області, — «Нафтогаз»
+
+Внаслідок однієї з атак загинув 55-річний оператор технологічних установок. Це вже друга смерть працівника «Нафтогазу» за цей тиждень.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_10-37-10.jpg" length="110346" type="image/jpeg"/>
+      <pubDate>Sat, 28 Mar 2026 10:37:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
