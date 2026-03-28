@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 07:36:43 +0000</lastBuildDate>
-    <item>
-      <title>«Це брехня»: Рубіо відреагував</title>
-      <link>https://www.mandarinai.lt/post/90322</link>
-      <description>«Це брехня»: Рубіо відреагував на заяву Зеленського про те, що США вимагають від України відмовитися від Донбасу в обмін на гарантії безпеки. 
-
-Це брехня, і я бачив, як він це казав, і прикро, що він це сказав, бо знає, що це неправда! Йому не це сказали, – заявив держсекретар США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-27_19-24-20.mp4" length="5947888" type="video/mp4"/>
-      <pubDate>Fri, 27 Mar 2026 19:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тепер поляки офіційно можуть с</title>
-      <link>https://www.mandarinai.lt/post/90323</link>
-      <description>Тепер поляки офіційно можуть служити у ЗСУ — президент Польщі Кароль Навроцький підписав закон про амністію поляків, які воюють на боці України. Раніше за це їм загрожувало 3-5 років в’язниці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_19-42-41.jpg" length="33043" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 19:42:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴путін почав вимагати гроші у </title>
-      <link>https://www.mandarinai.lt/post/90324</link>
-      <description>🥴путін почав вимагати гроші у російських олігархів для продовження війни, – FT
-
-Під час зустрічі з бізнесменами у четвер він дав зрозуміти, що збирається довести війну до «переможного кінця». Сьогодні 3 російські олігархи заявили, що виділять у бюджет 430 млрд рублів на розвиток так званих «нових проектів».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_20-01-03.jpg" length="67184" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 20:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іран, імовірно, ракетним ударо</title>
-      <link>https://www.mandarinai.lt/post/90325</link>
-      <description>Іран, імовірно, ракетним ударом знищив щонайменше ще один літак Повітряних Сил США на аеродромі в Саудівській Аравії, про це повідомляє «Мілітарний» за результатами аналізу супутникових знімків сервісу «Copernicus».
-
-Який саме літак на авіабазі «Принц Султан» потрапив під удар, наразі достеменно невідомо.
-
-Можливо, це був один із тих літаків-заправників KC-135, що базуються на цій авіабазі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-27_20-23-12.jpg" length="17528" type="image/jpeg"/>
-      <pubDate>Fri, 27 Mar 2026 20:23:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 08:24:23 +0000</lastBuildDate>
     <item>
       <title>🔥Гарні супутникові знімки трет</title>
       <link>https://www.mandarinai.lt/post/90326</link>
@@ -95,6 +59,15 @@
 Також успішні влучання по НПЗ в Ярославлі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_07-01-35.mp4" length="1321261" type="video/mp4"/>
       <pubDate>Sat, 28 Mar 2026 07:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>росія вбила чотирьох людей сьо</title>
+      <link>https://www.mandarinai.lt/post/90337</link>
+      <description>росія вбила чотирьох людей сьогодні вночі.
+
+Дві людини в Одесі і дві людини у Кривому Розі загинули внаслідок нічної атаки рашистів. Поранено 16 осіб серед них двоє дітей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_07-55-39.jpg" length="140953" type="image/jpeg"/>
+      <pubDate>Sat, 28 Mar 2026 07:55:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
