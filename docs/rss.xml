@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 15:19:00 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦🇦🇪 Україна та ОАЕ домовилися</title>
-      <link>https://www.mandarinai.lt/post/90342</link>
-      <description>🇺🇦🇦🇪 Україна та ОАЕ домовилися про співпрацю у сфері безпеки та оборони.
-
-✅ Україна вже вибудувала систему захисту, яка дає змогу ефективно збивати ворожі дрони та ракети. 
-
-➡️ Саме цей досвід і комплексний підхід Київ пропонує партнерам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7506.MP4" length="4668569" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 09:47:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 16:18:28 +0000</lastBuildDate>
     <item>
       <title>🔥Суботній ранок в Ленінградськ</title>
       <link>https://www.mandarinai.lt/post/90343</link>
@@ -95,6 +84,21 @@
       <description>📈 Для підняття настрою оператори ударних БПЛА 210-го штурмового полку пропонують трохи помилуватися ефектною ліквідацією російських дронів-«ждунів» на Дніпропетровщині. </description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7515.MP4" length="4900338" type="video/mp4"/>
       <pubDate>Sat, 28 Mar 2026 15:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Генштаб підтвердив атаки на о</title>
+      <link>https://www.mandarinai.lt/post/90357</link>
+      <description>💥Генштаб підтвердив атаки на оборонний завод у Чапаєвську та НПЗ у Ярославській області
+
+Українські ракети "Фламінго" атакували завод "Промсинтез" у Чапаєвську Самарської області цієї ночі, підтвердили у Генштабі
+
+"Це підприємство спеціалізується на виробництві компонентів вибухових речовин, які використовуються для оснащення боєприпасів - бомб, ракет тощо. Воно виробляє понад 30 тисяч тонн вибухових речовин військового призначення на рік", - заявили у відомстві. 
+
+Також там повідомили про удар по нафтопереробному заводу "Ярославський" у Ярославській області.
+
+"Ярославський НПЗ - стратегічно важливе підприємство і один з ключових об'єктів російської нафтопереробної промисловості. Потужність переробки - близько 15 мільйонів тонн нафти на рік. Продукція Ярославського НПЗ включає бензин, дизель, реактивне паливо і має критично важливе значення для логістики ворожої армії"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_15-42-41.jpg" length="97000" type="image/jpeg"/>
+      <pubDate>Sat, 28 Mar 2026 15:42:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
