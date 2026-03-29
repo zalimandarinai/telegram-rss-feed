@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 18:23:38 +0000</lastBuildDate>
-    <item>
-      <title>Хто жив на Чернігівщині 300 ро</title>
-      <link>https://www.mandarinai.lt/post/90400</link>
-      <description>Хто жив на Чернігівщині 300 років тому ❓
-
-У видавництва РВВ вийшло оновлене друге видання книги «Переписи Чернігівщини 1638 та 1713 років».
-
-Це рідкісна можливість побачити Чернігівщину XVII–XVIII століть через реальні документи: імена людей, назви сіл, ремесла, адміністративний поділ, землеволодіння та економіку поселень.
-
-🔥У центрі видання – два великі джерела.
-
-✔️Перше – перепис посполитих Чернігівського полку 1713 року. Він дає змогу побачити, хто саме жив у тогочасних селах і містах, імена та прізвища людей, чим вони займалися.
-
-✔️Друге – подимний реєстр Чернігівського воєводства 1638 року. Це масштабний документ, який дозволяє зрозуміти адміністративний поділ, структуру землеволодіння та економічну спроможність поселень. Для багатьох сіл це ще й перша письмова згадка про їхнє існування.
-
-Книга вже вийшла.
-ДІЄ АКЦІЙНА ЦІНА 📢
-
-ПОДИВИТИСЯ І ЗАМОВИТИ 👇
-
-https://rvv.com.ua/product/perepysy-chernigivshhyny-1638-ta-1713-rokiv-onovlene-druge-vydannya/</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_14-59-52.jpg" length="213355" type="image/jpeg"/>
-      <pubDate>Sun, 29 Mar 2026 14:59:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Повітряні сили Фінляндії заяви</title>
-      <link>https://www.mandarinai.lt/post/90401</link>
-      <description>Повітряні сили Фінляндії заявили, що один з об'єктів, який порушив повітряний простір країни в неділю вдень – це український дрон Ан-196 "Лютий". 
-
-У Міноборони Фінляндії раніше повідомляли, що два дрони впали поблизу міста Коувола, що знаходиться приблизно за 50 кілометрів від кордону з Росією. 
-
-Під час останніх ударів України по російських портах довкола портів Петербурга кілька безпілотників  також"заблукали" на територію країн Балтії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_15-49-41.jpg" length="217948" type="image/jpeg"/>
-      <pubDate>Sun, 29 Mar 2026 15:49:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 19:23:25 +0000</lastBuildDate>
     <item>
       <title>👌Саудівська Аравія запустила н</title>
       <link>https://www.mandarinai.lt/post/90402</link>
@@ -108,6 +73,20 @@ https://rvv.com.ua/product/perepysy-chernigivshhyny-1638-ta-1713-rokiv-onovlene-
 Раніше поляки заявляли, що саме тут нібито масово вбивали поляків під час УПА (Волинська трагедія 1943–1944 років).</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_18-10-17.jpg" length="84679" type="image/jpeg"/>
       <pubDate>Sun, 29 Mar 2026 18:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вечірній Таганрог на зв'язку</title>
+      <link>https://www.mandarinai.lt/post/90414</link>
+      <description>💥Вечірній Таганрог на зв'язку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_18-37-29.mp4" length="929181" type="video/mp4"/>
+      <pubDate>Sun, 29 Mar 2026 18:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щойно невідомий дрон ледь не в</title>
+      <link>https://www.mandarinai.lt/post/90416</link>
+      <description>Щойно невідомий дрон ледь не врізався у літак Дональда Трампа, — Fox News</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_18-47-10.mp4" length="304044" type="video/mp4"/>
+      <pubDate>Sun, 29 Mar 2026 18:47:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
