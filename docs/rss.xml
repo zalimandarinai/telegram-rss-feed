@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 08:26:11 +0000</lastBuildDate>
-    <item>
-      <title>💥В Брянській області звуки іна</title>
-      <link>https://www.mandarinai.lt/post/90367</link>
-      <description>💥В Брянській області звуки інакші ніж вибухи дронів. 🦩?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-28_20-09-25.mp4" length="1272498" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 20:09:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ «Масштабна мобілізація, ймо</title>
-      <link>https://www.mandarinai.lt/post/90368</link>
-      <description>❗️ «Масштабна мобілізація, ймовірно, може стати реальністю», -  резервістам морської піхоти США наказали перевірити свою готовність до операцій в Ірані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-28_21-20-49.jpg" length="69040" type="image/jpeg"/>
-      <pubDate>Sat, 28 Mar 2026 21:20:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 09:24:56 +0000</lastBuildDate>
     <item>
       <title>💥🔥Уночі дрони знову атакували </title>
       <link>https://www.mandarinai.lt/post/90370</link>
@@ -78,6 +64,28 @@
 Є постраждалі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_07-59-05.jpg" length="206271" type="image/jpeg"/>
       <pubDate>Sun, 29 Mar 2026 07:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Залізниця через атаку «шахе</title>
+      <link>https://www.mandarinai.lt/post/90381</link>
+      <description>❗️ Залізниця через атаку «шахедів» зупиняє поїзди, людей заради безпеки виводять з вагонів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_08-32-59.jpg" length="71796" type="image/jpeg"/>
+      <pubDate>Sun, 29 Mar 2026 08:32:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори СБС знищили в Криму </title>
+      <link>https://www.mandarinai.lt/post/90383</link>
+      <description>Оператори СБС знищили в Криму три РСЗВ «Смерч» та самохідну транспортно-заряджальну машину до них.</description>
+      <pubDate>Sun, 29 Mar 2026 08:39:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Україна нищить нафтову індус</title>
+      <link>https://www.mandarinai.lt/post/90384</link>
+      <description>💥 Україна нищить нафтову індустрію рф, позбавляючи Кремль воєнних прибутків, — CNN
+​
+ЗСУ перейшли до системних ударів по енергетичному сектору ворога. Лише за останній місяць здійснено 10 масштабних атак на стратегічні об'єкти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_09-23-20.jpg" length="73548" type="image/jpeg"/>
+      <pubDate>Sun, 29 Mar 2026 09:23:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
