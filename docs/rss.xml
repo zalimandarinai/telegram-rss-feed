@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 16:20:21 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Іран ракетним ударом знищив </title>
-      <link>https://www.mandarinai.lt/post/90390</link>
-      <description>⚡️Іран ракетним ударом знищив літак ДРЛВ Boeing E-3G Sentry ВПС США на авіабазі «Prince Sultan» в Саудівській Аравії.
-
-Це перша бойова втрата літака E-3 в історії. У США було лише 16 таких літаків, а їхнє виробництво було припинено у 1992. Його вартість оцінюється в ~$600 млн.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_10-01-57.jpg" length="113056" type="image/jpeg"/>
-      <pubDate>Sun, 29 Mar 2026 10:01:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 17:19:55 +0000</lastBuildDate>
     <item>
       <title>🕯В лікарні померла 13-річна ді</title>
       <link>https://www.mandarinai.lt/post/90393</link>
@@ -132,6 +123,29 @@ https://rvv.com.ua/product/perepysy-chernigivshhyny-1638-ta-1713-rokiv-onovlene-
 В країні триває масове розгортання сил та підготовка цивільного населення, включаючи дітей, до відбиття ймовірної висадки американських військ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_16-13-24.jpg" length="225008" type="image/jpeg"/>
       <pubDate>Sun, 29 Mar 2026 16:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «WhatsApp помер, Telegram по</title>
+      <link>https://www.mandarinai.lt/post/90404</link>
+      <description>💬 «WhatsApp помер, Telegram помре в найближчі дні, MAX зростає, все добре», – голова «Ростелеком» з посмішкою проголошує еру цифрової диктатури</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7539.MP4" length="1286469" type="video/mp4"/>
+      <pubDate>Sun, 29 Mar 2026 16:27:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранські хакери з групи Handal</title>
+      <link>https://www.mandarinai.lt/post/90405</link>
+      <description>Іранські хакери з групи Handala Hack Team зламали Google Disc директора ФБР Кеша Пателя та оприлюднили відео з особистого архіву чиновника, Міністерство юстиції США підтвердило факт злому і заявило, що оприлюднені матеріали є справжніми.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7540.MP4" length="5278891" type="video/mp4"/>
+      <pubDate>Sun, 29 Mar 2026 16:31:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸Під час ефіру Fox News ведуч</title>
+      <link>https://www.mandarinai.lt/post/90406</link>
+      <description>🇺🇸Під час ефіру Fox News ведуча запитала Трампа про становище людей в Ірані - зокрема, чи мають вони доступ до їжі та води.
+
+Натомість у відповідь президент США почав робити компліменти ведучій, згадав їхню давню зустріч і зазначив, що вона гарно виглядає.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_16-43-44.mp4" length="1980881" type="video/mp4"/>
+      <pubDate>Sun, 29 Mar 2026 16:43:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
