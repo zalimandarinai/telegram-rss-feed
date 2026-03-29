@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 20:17:53 +0000</lastBuildDate>
-    <item>
-      <title>💬 «WhatsApp помер, Telegram по</title>
-      <link>https://www.mandarinai.lt/post/90404</link>
-      <description>💬 «WhatsApp помер, Telegram помре в найближчі дні, MAX зростає, все добре», – голова «Ростелеком» з посмішкою проголошує еру цифрової диктатури</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7539.MP4" length="1286469" type="video/mp4"/>
-      <pubDate>Sun, 29 Mar 2026 16:27:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 21:19:59 +0000</lastBuildDate>
     <item>
       <title>Іранські хакери з групи Handal</title>
       <link>https://www.mandarinai.lt/post/90405</link>
@@ -61,13 +54,11 @@
       <pubDate>Sun, 29 Mar 2026 18:47:10 +0000</pubDate>
     </item>
     <item>
-      <title>Несподівано: на ринках ЄС фікс</title>
-      <link>https://www.mandarinai.lt/post/90417</link>
-      <description>Несподівано: на ринках ЄС фіксують появу вареників і пельменів російського виробництва, оформлених у стилі української продукції 
-
-На упаковці в наявності державна символіка, напис українською мовою та зображенням українки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_19-55-21.mp4" length="14802764" type="video/mp4"/>
-      <pubDate>Sun, 29 Mar 2026 19:55:21 +0000</pubDate>
+      <title>Ще прильоти в російському Тага</title>
+      <link>https://www.mandarinai.lt/post/90420</link>
+      <description>Ще прильоти в російському Таганрозі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_20-24-03.mp4" length="396620" type="video/mp4"/>
+      <pubDate>Sun, 29 Mar 2026 20:24:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
