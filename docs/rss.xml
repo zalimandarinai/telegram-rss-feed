@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 14:22:42 +0000</lastBuildDate>
-    <item>
-      <title>🕯20-річна мешканка Сумщини заг</title>
-      <link>https://www.mandarinai.lt/post/90385</link>
-      <description>🕯20-річна мешканка Сумщини загинула від російського удару, прикривши собою маленьку сестру. 
-
-У суботу, 28 березня, окупанти вдарили по житловому сектору села Очкине. Снаряд влучив в один з будинків — загибла Даша Сергієнко закрила собою молодшу сестру, шестирічну Євгенію.
-
-Дитину ушпиталили у тяжкому стані, за її життя борються лікарі. Поранення також отримали обоє батьків дівчат. Очкине розташоване у прикордонній смузі, яка щоденно перебуває під обстрілами російської артилерії та мінометів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_09-26-51.jpg" length="180117" type="image/jpeg"/>
-      <pubDate>Sun, 29 Mar 2026 09:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥русня знову пише, що порти в </title>
-      <link>https://www.mandarinai.lt/post/90386</link>
-      <description>💥русня знову пише, що порти в Ленінградській області атакували українські аналоги «шахедів»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_09-28-02.mp4" length="556719" type="video/mp4"/>
-      <pubDate>Sun, 29 Mar 2026 09:28:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 15:19:23 +0000</lastBuildDate>
     <item>
       <title>🔥8 мільйонів американців вийшл</title>
       <link>https://www.mandarinai.lt/post/90387</link>
@@ -96,6 +78,30 @@
 ➡️ Хоча походження дронів офіційно ще не встановлено, інцидент пов'язують із посиленням ударів Києва по російській нафтовій інфраструктурі на узбережжі Балтійського моря.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_13-01-57.jpg" length="26211" type="image/jpeg"/>
       <pubDate>Sun, 29 Mar 2026 13:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Хто жив на Чернігівщині 300 ро</title>
+      <link>https://www.mandarinai.lt/post/90400</link>
+      <description>Хто жив на Чернігівщині 300 років тому ❓
+
+У видавництва РВВ вийшло оновлене друге видання книги «Переписи Чернігівщини 1638 та 1713 років».
+
+Це рідкісна можливість побачити Чернігівщину XVII–XVIII століть через реальні документи: імена людей, назви сіл, ремесла, адміністративний поділ, землеволодіння та економіку поселень.
+
+🔥У центрі видання – два великі джерела.
+
+✔️Перше – перепис посполитих Чернігівського полку 1713 року. Він дає змогу побачити, хто саме жив у тогочасних селах і містах, імена та прізвища людей, чим вони займалися.
+
+✔️Друге – подимний реєстр Чернігівського воєводства 1638 року. Це масштабний документ, який дозволяє зрозуміти адміністративний поділ, структуру землеволодіння та економічну спроможність поселень. Для багатьох сіл це ще й перша письмова згадка про їхнє існування.
+
+Книга вже вийшла.
+ДІЄ АКЦІЙНА ЦІНА 📢
+
+ПОДИВИТИСЯ І ЗАМОВИТИ 👇
+
+https://rvv.com.ua/product/perepysy-chernigivshhyny-1638-ta-1713-rokiv-onovlene-druge-vydannya/</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_14-59-52.jpg" length="213355" type="image/jpeg"/>
+      <pubDate>Sun, 29 Mar 2026 14:59:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
