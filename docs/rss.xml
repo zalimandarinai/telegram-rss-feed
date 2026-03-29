@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 11:17:56 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Залізниця через атаку «шахе</title>
-      <link>https://www.mandarinai.lt/post/90381</link>
-      <description>❗️ Залізниця через атаку «шахедів» зупиняє поїзди, людей заради безпеки виводять з вагонів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_08-32-59.jpg" length="71796" type="image/jpeg"/>
-      <pubDate>Sun, 29 Mar 2026 08:32:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 12:27:09 +0000</lastBuildDate>
     <item>
       <title>Оператори СБС знищили в Криму </title>
       <link>https://www.mandarinai.lt/post/90383</link>
@@ -73,6 +66,31 @@
 Просто уявіть скільки цього руснявого лайна щодня літає над Україною.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_10-44-40.mp4" length="686978" type="video/mp4"/>
       <pubDate>Sun, 29 Mar 2026 10:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безпілотники СБУ вдруге за тиж</title>
+      <link>https://www.mandarinai.lt/post/90396</link>
+      <description>Безпілотники СБУ вдруге за тиждень уразили нафтотермінал «Усть-Луга» на Балтиці
+
+Цієї ночі далекобійні безпілотники Центру спецоперацій «Альфа» СБУ успішно відпрацювали по інфраструктурі нафтового термінала порту «Усть-Луга» в Ленінградській області рф.
+
+Це ключовий морський порт рф на Балтиці. Через нього здійснюється експорт нафти, у тому числі з використанням суден так званого тіньового флоту.
+
+В результаті сьогоднішньої атаки зафіксовано серйозні ураження та пожежу.
+
+Нагадаємо, що СБУ вже чотири рази за останній тиждень успішно уразила нафтову інфраструктуру ворога на Балтійському морі.
+Попередні операції відбулись у тісній взаємодії з ГУР, ССО, СБС та Держприкордонслужби.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7537.MP4" length="876939" type="video/mp4"/>
+      <pubDate>Sun, 29 Mar 2026 11:34:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Три людини загинули внаслідок </title>
+      <link>https://www.mandarinai.lt/post/90397</link>
+      <description>Три людини загинули внаслідок російського удару по Краматорську. Серед убитих — 13-річний хлопець
+
+Сьогодні в обід росіяни скинули на місто авіабомбу. Щонайменше сім людей поранені.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_12-08-24.jpg" length="138454" type="image/jpeg"/>
+      <pubDate>Sun, 29 Mar 2026 12:08:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
