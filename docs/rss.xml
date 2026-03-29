@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 12:27:09 +0000</lastBuildDate>
-    <item>
-      <title>Оператори СБС знищили в Криму </title>
-      <link>https://www.mandarinai.lt/post/90383</link>
-      <description>Оператори СБС знищили в Криму три РСЗВ «Смерч» та самохідну транспортно-заряджальну машину до них.</description>
-      <pubDate>Sun, 29 Mar 2026 08:39:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 13:43:13 +0000</lastBuildDate>
     <item>
       <title>🕯20-річна мешканка Сумщини заг</title>
       <link>https://www.mandarinai.lt/post/90385</link>
@@ -91,6 +85,17 @@
 Сьогодні в обід росіяни скинули на місто авіабомбу. Щонайменше сім людей поранені.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_12-08-24.jpg" length="138454" type="image/jpeg"/>
       <pubDate>Sun, 29 Mar 2026 12:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇫🇮 У Фінляндії впали невідомі </title>
+      <link>https://www.mandarinai.lt/post/90398</link>
+      <description>🇫🇮 У Фінляндії впали невідомі дрони, — Reuters
+
+БпЛА зафіксували над морською акваторією та на південному сході Фінляндії. Об'єкти рухалися на низькій висоті. 
+
+➡️ Хоча походження дронів офіційно ще не встановлено, інцидент пов'язують із посиленням ударів Києва по російській нафтовій інфраструктурі на узбережжі Балтійського моря.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-29_13-01-57.jpg" length="26211" type="image/jpeg"/>
+      <pubDate>Sun, 29 Mar 2026 13:01:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
