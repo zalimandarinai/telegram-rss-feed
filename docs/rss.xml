@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 16:49:36 +0000</lastBuildDate>
-    <item>
-      <title>☎️ По всій країні надійшло 121</title>
-      <link>https://www.mandarinai.lt/post/90444</link>
-      <description>☎️ По всій країні надійшло 1216 повідомлень про замінування держустанов.
-
-🔎 Йде перевірка по всіх повідомленнях, які надійшли, - такий існує безпековий протокол. 
-
-➡️ Але, ймовірно, росіяни намагаються «заспамити» українські структури безпеки, щоб відволікти їхню увагу від виконання інших завдань.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7563.MP4" length="1038749" type="video/mp4"/>
-      <pubDate>Mon, 30 Mar 2026 12:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ось звідки запускають «Молнії»</title>
-      <link>https://www.mandarinai.lt/post/90445</link>
-      <description>Ось звідки запускають «Молнії».
-
-На Південно-Слобожанському напрямку бійці  роти безпілотних систем «СТРІКС» Держприкордонслужби знищили пункти зберігання, підготовки та запуску російських БПЛА, які несуть протитанкові міни та логістичні вантажі.
-
-Також знищено склад з «Молніями» і «место отдыха» російських операторів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7564.MP4" length="13107387" type="video/mp4"/>
-      <pubDate>Mon, 30 Mar 2026 12:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 ЦСО «Альфа» СБУ вперше показ</title>
-      <link>https://www.mandarinai.lt/post/90446</link>
-      <description>💥 ЦСО «Альфа» СБУ вперше показав нам свої «middle-strikes» та ударні безпілотники, які називають аналогами російських «Ланцетів».
-
-⏯️ Більше за посиланням https://www.youtube.com/watch?v=_I2hgFpsg38</description>
-      <pubDate>Mon, 30 Mar 2026 12:50:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 17:41:50 +0000</lastBuildDate>
     <item>
       <title>🥣 Боєць штурмового батальйону </title>
       <link>https://www.mandarinai.lt/post/90447</link>
@@ -129,6 +99,24 @@
 Ще одна ракета також влучила поряд з цехом, ймовірно, завдавши незначних пошкоджень.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_16-21-49.jpg" length="95586" type="image/jpeg"/>
       <pubDate>Mon, 30 Mar 2026 16:21:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>У ніч на 30 березня українські</title>
+      <link>https://www.mandarinai.lt/post/90459</link>
+      <description>У ніч на 30 березня українські сили завдали удару по двох оборонних підприємствах у Таганрозі.
+
+Під ураження потрапили виробництво безпілотників «Атлант-АЭРО» та авіаційне підприємство «Таганрогский авиационный научно-технический комплекс им. Бериева».
+
+Підприємство «Атлант-АЭРО» займається розробкою та виробництвом БПЛА «Молнія», а також надає комплектуючі для БПЛА «Оріон».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7572.MP4" length="1891853" type="video/mp4"/>
+      <pubDate>Mon, 30 Mar 2026 17:04:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна та Болгарія відтепер с</title>
+      <link>https://www.mandarinai.lt/post/90460</link>
+      <description>Україна та Болгарія відтепер союзники, підписано безпекову угоду щонайменше на 10 років</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7582.MP4" length="19173998" type="video/mp4"/>
+      <pubDate>Mon, 30 Mar 2026 17:40:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
