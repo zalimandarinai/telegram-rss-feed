@@ -6,29 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 04:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:22:14 +0000</lastBuildDate>
     <item>
       <title>Іранські хакери з групи Handal</title>
-      <link>https://www.mandarinai.lt/post/90405</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Іранські хакери з групи Handala Hack Team зламали Google Disc директора ФБР Кеша Пателя та оприлюднили відео з особистого архіву чиновника, Міністерство юстиції США підтвердило факт злому і заявило, що оприлюднені матеріали є справжніми.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7540.MP4" length="5278891" type="video/mp4"/>
       <pubDate>Sun, 29 Mar 2026 16:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸Під час ефіру Fox News ведуч</title>
-      <link>https://www.mandarinai.lt/post/90406</link>
-      <description>🇺🇸Під час ефіру Fox News ведуча запитала Трампа про становище людей в Ірані - зокрема, чи мають вони доступ до їжі та води.
-
-Натомість у відповідь президент США почав робити компліменти ведучій, згадав їхню давню зустріч і зазначив, що вона гарно виглядає.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_16-43-44.mp4" length="1980881" type="video/mp4"/>
-      <pubDate>Sun, 29 Mar 2026 16:43:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴На росії сьогодні "бунтували"</title>
-      <link>https://www.mandarinai.lt/post/90408</link>
-      <description>🥴На росії сьогодні "бунтували" проти блокування месенжерів і соціальних мереж. "мітинги"  тривали по декілька хвилин, після чого активістів методично спакували в автозаки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_18-02-10.mp4" length="747143" type="video/mp4"/>
-      <pubDate>Sun, 29 Mar 2026 18:02:10 +0000</pubDate>
     </item>
     <item>
       <title>🫤Поляки не виявили масових пох</title>
@@ -59,6 +42,24 @@
       <description>Ще прильоти в російському Таганрозі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-29_20-24-03.mp4" length="396620" type="video/mp4"/>
       <pubDate>Sun, 29 Mar 2026 20:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Дрони атакували російські стр</title>
+      <link>https://www.mandarinai.lt/post/90422</link>
+      <description>💥Дрони атакували російські стратегічний хімзавод у Тольятті 
+
+Під атакою був «КуйбишевАзот» повідомляють моніторингові пабліки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_06-11-20.jpg" length="132656" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 06:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Дрони атакували російські стр</title>
+      <link>https://www.mandarinai.lt/post/90425</link>
+      <description>💥Дрони атакували російські стратегічний хімзавод у Тольятті 
+
+Під атакою був «КуйбишевАзот» повідомляють моніторингові пабліки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_06-21-58.jpg" length="132656" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 06:21:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
