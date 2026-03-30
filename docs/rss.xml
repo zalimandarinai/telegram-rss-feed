@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 19:44:55 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Це «Сократ», кадровий спецп</title>
-      <link>https://www.mandarinai.lt/post/90452</link>
-      <description>❗️ Це «Сократ», кадровий спецпризначенець, діючий керівник ЦСО «А» СБУ. Саме він став т.в.о. начальника «Альфи» після того, як Євген Хмара, попередній начальник ЦСО «А», був призначений головою Служби безпеки України.
-
-📈 «Сократ» вважає, що Україна має продовжувати збільшувати ціну війни для росії, бо саме це може змусити росію сісти за стіл переговорів.   
-
-💬 «За 2025-ий рік силами ЦСО «Альфа» в складі Служби безпеки України нанесено ураження противнику на $24,2 млрд.», - сказав нам «Сократ».
-
-💥  І це лише СБУ. А є ще СБС, ГУР, ДПСУ та інші складові Сил оборони України. 
-
-▶️ Як це робить «Сократ» разом з підлеглими, можна подивитися за посиланням тут https://www.youtube.com/watch?v=_I2hgFpsg38&amp;t=24s</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/SH_1.mp4" length="18958398" type="video/mp4"/>
-      <pubDate>Mon, 30 Mar 2026 15:00:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 20:32:12 +0000</lastBuildDate>
     <item>
       <title>Танкер Arctic Metagaz, уражени</title>
       <link>https://www.mandarinai.lt/post/90453</link>
@@ -112,6 +97,17 @@
 "Дуже хотілось би більше і якості підготовки, і більше отримувати мотивованих людей, які не залишають військової частини та виконують всі поставлені завдання".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-30_19-20-54.mp4" length="5142130" type="video/mp4"/>
       <pubDate>Mon, 30 Mar 2026 19:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп опублікував фрагмент сво</title>
+      <link>https://www.mandarinai.lt/post/90466</link>
+      <description>Трамп опублікував фрагмент свого інтерв'ю майже сорокарічної давнини, в якому він закликає США захопити нафтові об'єкти Ірану.
+
+Тим часом рейтинг його підтримки оновив антирекорд, знизившись до 33% на тлі зростання цін і операції проти Ірану.
+
+Такі дані наводить опитування Массачусетського університету.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-30_20-05-11.mp4" length="521275" type="video/mp4"/>
+      <pubDate>Mon, 30 Mar 2026 20:05:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
