@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 10:04:00 +0000</lastBuildDate>
-    <item>
-      <title>💥Дрони атакували російськи стр</title>
-      <link>https://www.mandarinai.lt/post/90425</link>
-      <description>💥Дрони атакували російськи стратегічний хімзавод у Тольятті. 
-
-Під атакою був «КуйбишевАзот» повідомляють моніторингові пабліки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_06-21-58.jpg" length="132656" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 06:21:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Польща побудує електронний бар</title>
-      <link>https://www.mandarinai.lt/post/90426</link>
-      <description>Польща побудує електронний бар’єр на кордоні з Україною для запобігання незаконному перетину, — RMF24
-
-Завдяки онлайн-моніторингу та тепловізорам відстежуватимуть усі спроби незаконного перетину кордону.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_08-46-06.jpg" length="225363" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 08:46:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 11:44:16 +0000</lastBuildDate>
     <item>
       <title>‼️ ЄС готує 5 сценаріїв на вип</title>
       <link>https://www.mandarinai.lt/post/90427</link>
@@ -91,6 +73,38 @@
       <description>‼️УВАГА Можливі пуски з МіГ-31К по всій території України‼️</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_09-57-16.jpg" length="45833" type="image/jpeg"/>
       <pubDate>Mon, 30 Mar 2026 09:57:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрон «Азова» знайшов окупантів</title>
+      <link>https://www.mandarinai.lt/post/90436</link>
+      <description>Дрон «Азова» знайшов окупантів в трубі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7560.MP4" length="3302967" type="video/mp4"/>
+      <pubDate>Mon, 30 Mar 2026 10:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Сили оборони вдарили по Алчев</title>
+      <link>https://www.mandarinai.lt/post/90437</link>
+      <description>🔥Сили оборони вдарили по Алчевському металургійному комбінаті, який виробляє боєприпаси великого калібру, - Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_10-33-05.jpg" length="153024" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 10:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Краса! Український дрон-перех</title>
+      <link>https://www.mandarinai.lt/post/90438</link>
+      <description>🔥Краса! Український дрон-перехоплювач P1-Sun наздогнав і знищив російський "Шахєд"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-30_11-22-24.mp4" length="891467" type="video/mp4"/>
+      <pubDate>Mon, 30 Mar 2026 11:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Двоє монахів УПЦ МП підозрюють</title>
+      <link>https://www.mandarinai.lt/post/90441</link>
+      <description>Двоє монахів УПЦ МП підозрюються у злочинах проти дітей
+
+Їх затримали СБУ та Нацполіція в Харкові.
+
+Вони діяли окремо, однак були обізнані про злочини один одного.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_11-44-02.jpg" length="112048" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 11:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
