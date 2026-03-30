@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 18:42:12 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Перехоплювач STING знімає, я</title>
-      <link>https://www.mandarinai.lt/post/90449</link>
-      <description>💥🔥Перехоплювач STING знімає, як інший STING знищує шахед</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-30_14-14-51.mp4" length="765148" type="video/mp4"/>
-      <pubDate>Mon, 30 Mar 2026 14:14:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Трамп стверджує, що веде перем</title>
-      <link>https://www.mandarinai.lt/post/90450</link>
-      <description>Трамп стверджує, що веде перемовини з Іраном, але знову пригрозив повністю знищити нафтову та енергетичну інфраструктуру країни
-
-За його словами, США ведуть серйозні переговори з «новим режимом» Ірану. Однак якщо найближчим часом не буде досягнуто угоди і Ормузьку протоку не відкриють для судноплавства, Вашингтон готовий «повністю знищити» електростанції, нафтові свердловини, острів Харг і, можливо, опріснювальні заводи.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_14-35-23.jpg" length="76178" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 14:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іран запустив балістичну ракет</title>
-      <link>https://www.mandarinai.lt/post/90451</link>
-      <description>Іран запустив балістичну ракету по Туреччині — Міноборони країни повідомляє про збиття.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_14-44-09.jpg" length="126170" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 14:44:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 19:44:55 +0000</lastBuildDate>
     <item>
       <title>❗️ Це «Сократ», кадровий спецп</title>
       <link>https://www.mandarinai.lt/post/90452</link>
@@ -117,6 +94,24 @@
 Активи майже не змінилися: $595 000 готівкою, 342 631€ в швейцарському банку та кошти на рахунках у різних валютах.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_18-32-49.jpg" length="104530" type="image/jpeg"/>
       <pubDate>Mon, 30 Mar 2026 18:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>МіГ-31к в повітрі вчетверте за</title>
+      <link>https://www.mandarinai.lt/post/90464</link>
+      <description>МіГ-31к в повітрі вчетверте за день. Тривога по всій країні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_18-58-53.jpg" length="45833" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 18:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪖🗣Сирський оцінив поточний ста</title>
+      <link>https://www.mandarinai.lt/post/90465</link>
+      <description>🪖🗣Сирський оцінив поточний стан мобілізації в Україні на 6-7 балів із 10
+
+Як зазначив Головком ЗСУ, якщо два роки тому командири потребували насамперед боєприпасів і ракет, то нині головним запитом є підготовлені та навчені військовослужбовці.
+
+"Дуже хотілось би більше і якості підготовки, і більше отримувати мотивованих людей, які не залишають військової частини та виконують всі поставлені завдання".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-30_19-20-54.mp4" length="5142130" type="video/mp4"/>
+      <pubDate>Mon, 30 Mar 2026 19:20:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
