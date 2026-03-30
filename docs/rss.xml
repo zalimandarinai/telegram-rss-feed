@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 17:41:50 +0000</lastBuildDate>
-    <item>
-      <title>🥣 Боєць штурмового батальйону </title>
-      <link>https://www.mandarinai.lt/post/90447</link>
-      <description>🥣 Боєць штурмового батальйону «Карпатська Січ» нагодував російського полоненого з ложки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7566.MP4" length="28664639" type="video/mp4"/>
-      <pubDate>Mon, 30 Mar 2026 13:50:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ «Приватна ППО» вже працює і</title>
-      <link>https://www.mandarinai.lt/post/90448</link>
-      <description>❗️ «Приватна ППО» вже працює і показує перші результати, — Федоров
-
-⚡️ Одна з компаній, яка бере участь в експериментальному проєкті уряду, сформувала власну групу ППО. 
-
-🛫 Вона збила кілька ворожих «шахедів» у Харківській області.
-
-📡 Паралельно ще більш, ніж десяток підприємств, які отримали дозвіл у Міноборони, формують нові групи ППО.
-
-💬 «Наша мета — побудувати багаторівневу систему ППО, яка забезпечить максимальне покриття та ефективне перехоплення повітряних загроз», — зазначив Федоров.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Дизайн без названия (6).mp4" length="13739259" type="video/mp4"/>
-      <pubDate>Mon, 30 Mar 2026 14:08:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 18:42:12 +0000</lastBuildDate>
     <item>
       <title>💥🔥Перехоплювач STING знімає, я</title>
       <link>https://www.mandarinai.lt/post/90449</link>
@@ -117,6 +95,28 @@
       <description>Україна та Болгарія відтепер союзники, підписано безпекову угоду щонайменше на 10 років</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7582.MP4" length="19173998" type="video/mp4"/>
       <pubDate>Mon, 30 Mar 2026 17:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Франція розгорнула ударні гелі</title>
+      <link>https://www.mandarinai.lt/post/90461</link>
+      <description>Франція розгорнула ударні гелікоптери «Tiger» на Близькому Сході для протидії БПЛА, - П’єр Шилл, начальник штабу сухопутних військ Франції .
+
+Йдеться про чотири машини, інтегровані в сили, які підтримують Сполучені Штати.
+
+Ймовірно, використовують український досвід.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_18-22-59.jpg" length="131686" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 18:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>💸Зарплата Володимира Зеленсько</title>
+      <link>https://www.mandarinai.lt/post/90462</link>
+      <description>💸Зарплата Володимира Зеленського становить 28 000 грн на місяць, — декларація
+
+У 2025 році доходи сім’ї складалися із зарплати, банківських відсотків та орендних надходжень і загалом сягнули 7 млн грн.
+
+Активи майже не змінилися: $595 000 готівкою, 342 631€ в швейцарському банку та кошти на рахунках у різних валютах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_18-32-49.jpg" length="104530" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 18:32:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
