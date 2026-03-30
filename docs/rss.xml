@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 15:57:30 +0000</lastBuildDate>
-    <item>
-      <title>Двоє монахів УПЦ МП підозрюють</title>
-      <link>https://www.mandarinai.lt/post/90441</link>
-      <description>Двоє монахів УПЦ МП підозрюються у злочинах проти дітей
-
-Їх затримали СБУ та Нацполіція в Харкові.
-
-Вони діяли окремо, однак були обізнані про злочини один одного.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_11-44-02.jpg" length="112048" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 11:44:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 16:49:36 +0000</lastBuildDate>
     <item>
       <title>☎️ По всій країні надійшло 121</title>
       <link>https://www.mandarinai.lt/post/90444</link>
@@ -125,6 +114,21 @@
 Це стеження могло бути підготовкою до подальших операцій проти бійця ЗСУ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_15-38-54.jpg" length="50645" type="image/jpeg"/>
       <pubDate>Mon, 30 Mar 2026 15:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Результати атаки на хімзавод у</title>
+      <link>https://www.mandarinai.lt/post/90456</link>
+      <description>Результати атаки на хімзавод українськими «Промсинтез» у Чапаєвську ракетами FP-5 «Фламінго» - досліджує Dnipro OSINT
+
+Всього запустили 3 ракети.
+
+ППО росіян збила одну з них.
+
+Одна ракета, на підльоті до підприємства, влучила у стовп та здетонувала, не досягнувши цеху, який раніше вже атакували українські дрони.
+
+Ще одна ракета також влучила поряд з цехом, ймовірно, завдавши незначних пошкоджень.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-30_16-21-49.jpg" length="95586" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 16:21:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
