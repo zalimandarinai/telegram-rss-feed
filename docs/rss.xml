@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 15:56:03 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Вдала евакуація пораненого,</title>
-      <link>https://www.mandarinai.lt/post/90496</link>
-      <description>❗️ Вдала евакуація пораненого, - за допомогою наземного роботизованого комплексу 210-ий штурмовий полк врятував українського бійця з передової позиції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7599.MP4" length="8208565" type="video/mp4"/>
-      <pubDate>Tue, 31 Mar 2026 11:19:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐США більше не допомагатимуть </title>
-      <link>https://www.mandarinai.lt/post/90497</link>
-      <description>😐США більше не допомагатимуть країнам, які не можуть отримати паливо через блокаду Ормузької протоки. Порада: купуйте у США або будьте сміливими та самі захоплюйте протоку. Іран вже фактично знищено — найважче позаду, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-31_11-21-51.jpg" length="51882" type="image/jpeg"/>
-      <pubDate>Tue, 31 Mar 2026 11:21:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 16:46:41 +0000</lastBuildDate>
     <item>
       <title>Іще один унікальний страйк: бі</title>
       <link>https://www.mandarinai.lt/post/90498</link>
@@ -101,6 +87,13 @@
       <description>🔴Наразі в мене немає хороших новин щодо 90 мільярдів євро допомоги Україні, і я не можу повідомити, що цей кредит буде наданий, — глава дипломатичного відомства ЄС Кая Каллас</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-31_15-15-20.mp4" length="1048723" type="video/mp4"/>
       <pubDate>Tue, 31 Mar 2026 15:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Громадянин Білорусі, який добр</title>
+      <link>https://www.mandarinai.lt/post/90510</link>
+      <description>Громадянин Білорусі, який добровільно здався українській армії в районі Юнаківки на Сумщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7626.MP4" length="20610720" type="video/mp4"/>
+      <pubDate>Tue, 31 Mar 2026 16:14:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
