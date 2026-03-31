@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 16:46:41 +0000</lastBuildDate>
-    <item>
-      <title>Іще один унікальний страйк: бі</title>
-      <link>https://www.mandarinai.lt/post/90498</link>
-      <description>Іще один унікальний страйк: бійці батареї перехоплювачів «СТАФ» зі 158-ої ОМБР збили іранський безпілотник «Mohajer-6».
-
-Його призначення - розвідка, та високоточні удари. Дрон «Mohajer-6» багаторазовий, може нести до 100 кг, включно з 4 авіабомбами або ракетами класу «повітря-земля». 
-
-Вартість такого безпілотника від $1,5 млн. до $4 млн.
-
-Дрон-перехоплювач «LITAVR» від української компанії «F-Drones» коштує $2 тис., тобто, як мінімум, в 750 разів менше, аніж нейтралізована загроза.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7611.MP4" length="655476" type="video/mp4"/>
-      <pubDate>Tue, 31 Mar 2026 11:36:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 17:44:53 +0000</lastBuildDate>
     <item>
       <title>Стратегічно важливе місто Слов</title>
       <link>https://www.mandarinai.lt/post/90499</link>
@@ -94,6 +81,13 @@
       <description>Громадянин Білорусі, який добровільно здався українській армії в районі Юнаківки на Сумщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7626.MP4" length="20610720" type="video/mp4"/>
       <pubDate>Tue, 31 Mar 2026 16:14:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Після атак на балтійські порти</title>
+      <link>https://www.mandarinai.lt/post/90512</link>
+      <description>Після атак на балтійські порти обсяг морського експорту російської нафти різко впав з 4,1 до 2,3 млн барелів на добу. У Приморську відвантажилося 4 танкери замість 10, а в Усть-Лузі – 2 замість 8.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-31_16-48-27.jpg" length="175697" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 16:48:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
