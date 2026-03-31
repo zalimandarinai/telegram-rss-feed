@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 09:56:17 +0000</lastBuildDate>
-    <item>
-      <title>До Києва прибула глава європей</title>
-      <link>https://www.mandarinai.lt/post/90476</link>
-      <description>До Києва прибула глава європейської дипломатії Кая Каллас та урядовці держав-членів ЄС, — МЗС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-03-31_05-15-52.mp4" length="2131507" type="video/mp4"/>
-      <pubDate>Tue, 31 Mar 2026 05:15:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 10:43:55 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 Частка долара США у світови</title>
       <link>https://www.mandarinai.lt/post/90477</link>
@@ -125,6 +118,23 @@
 📈 Минулого року було досягнуто максимуму, 3879 заявок з відмовами від служби в армії, повідомила речниця «Bundesamt für Familie und zivilgesellschaftliche Aufgaben», Федерального відомства у справах сім'ї та громадянського суспільства. Тож «ухилянти» можуть стати проблемою і для Німеччини.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-31_09-05-28.jpg" length="297000" type="image/jpeg"/>
       <pubDate>Tue, 31 Mar 2026 09:05:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Унікальна операція: українс</title>
+      <link>https://www.mandarinai.lt/post/90491</link>
+      <description>⚡️ Унікальна операція: український штурмовий полк дотягнувся до російської системи ППО.
+
+🔥 475-ий окремий штурмовий полк «Code 9.2» спалив росіянам ЗРК 9К317 «Бук М2».
+
+➡️ Ексклюзивність полягає в тому, що такі системи ППО знаходяться на відстані до 100 кілометрів від лінії бойового зіткнення. 
+
+ℹ️ В військових термінах удари від 50 до 150 кілометрів умовно називаються «middle-strike», і у штурмових підрозділів, як правило, немає засобів дістати цілі на такій відстані.
+
+💵 Але 475-ий ОШП зміг уразити установку за $25 млн.
+
+🕶️ Яким дроном вони це зробили, полк не розкриває, втім, дякує виробникам за наданий виріб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7601.MP4" length="21578218" type="video/mp4"/>
+      <pubDate>Tue, 31 Mar 2026 10:13:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
