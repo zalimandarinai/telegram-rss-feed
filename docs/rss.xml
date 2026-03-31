@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 20:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 21:25:44 +0000</lastBuildDate>
     <item>
       <title>🔴Наразі в мене немає хороших н</title>
       <link>https://www.mandarinai.lt/post/90509</link>
@@ -100,6 +100,36 @@
 У грошовому вираженні за тиждень доходи рф від експорту нафти впали від $2,45 млрд до $1,44 млрд — незважаючи на зростання цін на російський сорт Urals — з $11,3 до $73,24 за барель.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-31_19-06-52.jpg" length="144797" type="image/jpeg"/>
       <pubDate>Tue, 31 Mar 2026 19:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Над Кримом втрачено звʼязок з </title>
+      <link>https://www.mandarinai.lt/post/90521</link>
+      <description>Над Кримом втрачено звʼязок з транспортним літаком Ан-26 російської реєстрації, — ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-31_20-28-39.jpg" length="91586" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 20:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>27 березня повернувся на щиті </title>
+      <link>https://www.mandarinai.lt/post/90522</link>
+      <description>27 березня повернувся на щиті оператор ТСН Євгеній Соловей, який в 2022-му році пішов добровольцем на фронт.
+
+Але жах і руйнування, які принесла російська агресія, він документував з 2014-го, коли з кореспондентами ТСН працював в найбільш гарячих точках АТО/ООС
+
+Його трагічна загибель це біль для усіх, хто з ним працював, хто його знав.
+
+Щира та весела людина. Сильна. Надійна. Дуже професійна. 
+І по-справжньому героїчна.
+
+ Світла памʼять.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-31_20-45-41.jpg" length="143103" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 20:45:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вперше з 2022 року ціни на бен</title>
+      <link>https://www.mandarinai.lt/post/90524</link>
+      <description>Вперше з 2022 року ціни на бензин у США перевищили $4 за галон (приблизно 3,8 літра), а у деяких містах штату Каліфорнія ціни вже перевищують $6, — The Independent</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-03-31_20-59-43.jpg" length="106975" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 20:59:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
