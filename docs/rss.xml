@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 15:59:14 +0000</lastBuildDate>
-    <item>
-      <title>❗️Щойно на Закарпатті Шахед пр</title>
-      <link>https://www.mandarinai.lt/post/90551</link>
-      <description>❗️Щойно на Закарпатті Шахед прилетів по електропідстанції, — повідомив журналіст Глагола.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-01_11-33-50.mp4" length="272614" type="video/mp4"/>
-      <pubDate>Wed, 01 Apr 2026 11:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Стратегія України полягає в то</title>
-      <link>https://www.mandarinai.lt/post/90553</link>
-      <description>Стратегія України полягає в тому, щоб знищити або поранити більше російських солдатів, ніж Москва здатна набрати, як поповнення, поступово послаблюючи її здатність вести наступальні операції та створюючи можливості для контратак, - видання «Bloomberg» проконсультувалось в «Капітана Очевидність».
-
-Українські ресурси, цитуючи вказану статтю, пишуть, що «Bloomberg» вважає, що війна триватиме рік або навіть два, - за умови відсутності прогресу в перемовинах.
-
-Насправді «Bloomberg» нічого не вважає, а цитує думку неназваних анонімних особистостей, які нібито ознайомлені з ходом переговорів.
-
-В даному випадку можна було б назвати будь-які цифри.
-
-До речі, Джон Гербст, колишній посол США в Україні, сказав ще 2022-му році, у вересні, що війна може затягнутися на 5 чи 10 років без належної підтримки союзників, що схоже на реальність.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_12-18-56.jpg" length="75738" type="image/jpeg"/>
-      <pubDate>Wed, 01 Apr 2026 12:18:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 16:53:03 +0000</lastBuildDate>
     <item>
       <title>Через атаку БПЛА російських те</title>
       <link>https://www.mandarinai.lt/post/90554</link>
@@ -122,6 +100,25 @@
 Ці гроші підуть на ЗСУ та основні державні видатки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_15-30-42.jpg" length="57460" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 15:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Ніякого мирного часу бути не </title>
+      <link>https://www.mandarinai.lt/post/90565</link>
+      <description>«Ніякого мирного часу бути не може. Ми готуємося до війни», – Лукашенко на нараді за підсумками комплексної перевірки Збройних сил РБ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7662.MP4" length="8304506" type="video/mp4"/>
+      <pubDate>Wed, 01 Apr 2026 16:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мобілізацію у великих містах н</title>
+      <link>https://www.mandarinai.lt/post/90566</link>
+      <description>Мобілізацію у великих містах необхідно посилити, — Веніславський
+
+У Києві, Одесі, Харкові та інших великих містах життя військовозобов'язаних зараз "протікає мирно", вважає член комітету з національної безпеки Федор Веніславський. Це створює дисбаланс у порівнянні з іншими регіонами.
+
+За його словами, "є села, де не залишилося жодного чоловіка", тоді як у столиці "немає відчуття, що йде війна":
+«У ході реформування системи мобілізації хочуть досягти двох ключових завдань — мінімізувати кількість конфліктів між громадянами та військовими ТЦК і зробити мобілізацію справедливою».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-01_16-37-28.mp4" length="4290557" type="video/mp4"/>
+      <pubDate>Wed, 01 Apr 2026 16:37:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
