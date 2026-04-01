@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 19:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 20:31:59 +0000</lastBuildDate>
     <item>
       <title>❗️Четверо людей загинули в Чер</title>
       <link>https://www.mandarinai.lt/post/90562</link>
@@ -97,13 +97,26 @@
       <pubDate>Wed, 01 Apr 2026 19:27:42 +0000</pubDate>
     </item>
     <item>
-      <title>🤡Схоже Тамп "закінчив" чергову</title>
+      <title>🇺🇸🗣Трамп готує офіційну заяву </title>
       <link>https://www.mandarinai.lt/post/90575</link>
-      <description>🤡Схоже Тамп "закінчив" чергову війну. Сьогодні він звернеться до нації і оголосить про закінчення війни з Іраном, - Politico 
+      <description>🇺🇸🗣Трамп готує офіційну заяву про згортання активної фази конфлікту з Іраном, – Politico
 
-За прогнозами, він представить це як перемогу та перекладе відповідальність за забезпечення судноплавства в Ормузькій протоці на європейських та арабських партнерів.</description>
+Як стверджує видання, після серії військових ударів у березні 2026 року адміністрація вважає цілі досягнутими – про це Трамп заявить вночі (04:00 за Києвом).
+
+Трамп переконаний, що охорона торгових шляхів, якими проходить п'ята частина світової нафти, тепер є обов'язком держав, що безпосередньо залежать від цих ресурсів.
+
+💥Фактично Вашингтон висуватиме ультиматум: або союзники та регіональні гравці відправляють власні військові кораблі для ескорту танкерів, або вони мають фінансово компенсувати американську присутність</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_19-45-01.jpg" length="86713" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 19:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 ОАЕ терміново просять в ООН </title>
+      <link>https://www.mandarinai.lt/post/90576</link>
+      <description>👀 ОАЕ терміново просять в ООН схвалити заходи, включаючи можливе застосування військової сили, для відновлення судноплавства в Ормузькій протоці
+
+Раніше WSJ писала, що країна готується приєднатися до союзників для розблокування Ормузької протоки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_20-23-37.jpg" length="23132" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 20:23:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
