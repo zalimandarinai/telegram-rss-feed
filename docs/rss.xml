@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 14:22:45 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Ми зробимо це дуже скоро». </title>
-      <link>https://www.mandarinai.lt/post/90549</link>
-      <description>💬 «Ми зробимо це дуже скоро». 
-
-🪖 Президент США заявив про швидке завершення операції проти Ірану.
-
-🇺🇸🆚🇮🇷 Трамп каже, що військова операція проти режиму в Тегерані може завершитися вже найближчими тижнями. 
-
-А може і не завершитися, вже як піде 
-
-🎙️ За його словами, американська армія «виконає свою роботу» впродовж двох–трьох тижнів, після чого США почнуть виведення сил.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_10-52-26.jpg" length="61189" type="image/jpeg"/>
-      <pubDate>Wed, 01 Apr 2026 10:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Через атаку дронів в Україн</title>
-      <link>https://www.mandarinai.lt/post/90550</link>
-      <description>‼️ Через атаку дронів в Україні затримуються потяги
-Подекуди затримки сягають 3-4 годин.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_11-24-52.jpg" length="104202" type="image/jpeg"/>
-      <pubDate>Wed, 01 Apr 2026 11:24:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 15:59:14 +0000</lastBuildDate>
     <item>
       <title>❗️Щойно на Закарпатті Шахед пр</title>
       <link>https://www.mandarinai.lt/post/90551</link>
@@ -120,6 +97,31 @@
 📷 Фото з російських джерел</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_14-20-49.jpg" length="83670" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 14:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Четверо людей загинули в Чер</title>
+      <link>https://www.mandarinai.lt/post/90562</link>
+      <description>❗️Четверо людей загинули в Черкаській області через те, що з цікавості підійшли до місця падіння «шахеда», і він здетонував в цей момент, – джерела в прокуратурі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_14-30-17.jpg" length="93284" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 14:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ЗСУ завдали удару по підприєм</title>
+      <link>https://www.mandarinai.lt/post/90563</link>
+      <description>💥ЗСУ завдали удару по підприємству з виробництва компонентів для крилатих ракет — АТ "Стрела" в Брянській області
+
+Удари були нанесені також по пунктам управління БПЛА в Запорізькій області та командно-спостережному пункту біля Успенівки на Дніпропетровщині. А також по живій силі та техніці російських військ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_14-58-44.jpg" length="143643" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 14:58:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺ЄС передасть Україні 1,4 млр</title>
+      <link>https://www.mandarinai.lt/post/90564</link>
+      <description>🇪🇺ЄС передасть Україні 1,4 млрд євро доходів від заморожених російських активів, — Урсула фон дер Ляйен
+
+Ці гроші підуть на ЗСУ та основні державні видатки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_15-30-42.jpg" length="57460" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 15:30:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
