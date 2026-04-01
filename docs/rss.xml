@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 17:39:49 +0000</lastBuildDate>
-    <item>
-      <title>❗️Близько 650 (!) Шахедів атак</title>
-      <link>https://www.mandarinai.lt/post/90556</link>
-      <description>❗️Близько 650 (!) Шахедів атакували Україну протягом 20 годин, — монітори
-
-Масована атака розпочалася в 21:00 31 березня та тривала до 16:00 1 квітня. 
-
-Під атаку потрапили:
-Луцьк, Івано-Франківськ, Хмельницький, Житомир, Чернівці, Стрий та агломерація, Новодністровськ, Хуст, Бурштин, Калуш, Одеса та область, Дніпро, Павлоград, Самар, Камʼянське, Кривий Ріг, Миргород, Суми, Шостка та інші міста / населені пункти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_13-26-58.jpg" length="274123" type="image/jpeg"/>
-      <pubDate>Wed, 01 Apr 2026 13:26:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Підрозділ «Фурія» бригади ДПСУ</title>
-      <link>https://www.mandarinai.lt/post/90557</link>
-      <description>Підрозділ «Фурія» бригади ДПСУ «Гарт» спалив російським військовим, які проводять операції на Харківщині: 
-▫️ три авто;
-▫️ автоматичний гранатомет;
-▫️ міномет.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7651.MP4" length="19039136" type="video/mp4"/>
-      <pubDate>Wed, 01 Apr 2026 13:36:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Ефектне збиття іранського "Ша</title>
-      <link>https://www.mandarinai.lt/post/90558</link>
-      <description>💥Ефектне збиття іранського "Шахеда" українським дроном-перехоплювачем на Близькому Сході.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-01_14-03-19.mp4" length="358672" type="video/mp4"/>
-      <pubDate>Wed, 01 Apr 2026 14:03:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 18:41:47 +0000</lastBuildDate>
     <item>
       <title>Радник міністра оборони Сергій</title>
       <link>https://www.mandarinai.lt/post/90559</link>
@@ -118,6 +89,20 @@
       <description>🔴 «Я б робив атаку на москву»: українська балістика до 850 км буде ось-ось готова, до середини 2026-го, — співвласник і головний конструктор Fire Point Денис Штілерман</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_17-36-27.jpg" length="29136" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 17:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Ніколи не перебивай ворога, к</title>
+      <link>https://www.mandarinai.lt/post/90571</link>
+      <description>«Ніколи не перебивай ворога, коли він робить помилку» – нова обкладинка The Economist із Трампом та Сі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_17-46-59.jpg" length="188980" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 17:46:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡«Якщо російську сторону хочут</title>
+      <link>https://www.mandarinai.lt/post/90572</link>
+      <description>🤡«Якщо російську сторону хочуть бачити посередником у врегулюванні навколо Ірану, то Москва готова», — Лавров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_17-48-38.jpg" length="40482" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 17:48:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
