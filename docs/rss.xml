@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 18:41:47 +0000</lastBuildDate>
-    <item>
-      <title>Радник міністра оборони Сергій</title>
-      <link>https://www.mandarinai.lt/post/90559</link>
-      <description>Радник міністра оборони Сергій Стерненко звинуватив 425-ий полк «Скеля» в тому, що той відправив людей на «мʼясний штурм» 31-го березня, і стверджує, що штурмовики в Покровську понесли великі втрати https://t.me/ssternenko/56937
-
-Уражено 1 «Abrams» - DeepState
-
-Тут відповідь «Скелі» https://t.me/skala425/827
-
-Якщо стисло, тези «Скелі»:
-
-▫️ 425-ий ОШП та 155-а ОМБР виконували наказ на утримання позицій в місті Покровськ;
-▫️ Контратака на відбиття позиції була успішною;
-▫️Ворожі дрони вразили чотири одиниці бронетехніки вже біля самої цілі атаки;
-▫️ Усі екіпажі були евакуйовані на п’ятій бойовій машині;
-▫️ Штурмова група успішно висадилася;
-▫️  Втрати у бою 31 березня двоє воїнів під час десантування;
-▫️ Штурмовики продовжують виконувати завдання на обʼєкті;
-▫️ Стерненка запросили відвідати КСП 425-ого ОШП та, в разі, якщо він знає, як організувати штурмові дії в районі Покровська, долучитися до лав «Скелі».
-
-Полк обіцяє провести аналіз та оприлюднити висновки. 
-
-📷 Фото з російських джерел</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_14-20-49.jpg" length="83670" type="image/jpeg"/>
-      <pubDate>Wed, 01 Apr 2026 14:20:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 19:49:00 +0000</lastBuildDate>
     <item>
       <title>❗️Четверо людей загинули в Чер</title>
       <link>https://www.mandarinai.lt/post/90562</link>
@@ -103,6 +77,33 @@
       <description>🤡«Якщо російську сторону хочуть бачити посередником у врегулюванні навколо Ірану, то Москва готова», — Лавров</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_17-48-38.jpg" length="40482" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 17:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Трамп погрожує припинити пост</title>
+      <link>https://www.mandarinai.lt/post/90573</link>
+      <description>🤬Трамп погрожує припинити постачання зброї Україні, якщо Європа не приєднається до коаліції в Ормузькій протоці, — FT.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_18-03-17.jpg" length="91120" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 18:03:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Працівник ТЦК очолив рейтин</title>
+      <link>https://www.mandarinai.lt/post/90574</link>
+      <description>⚡️ Працівник ТЦК очолив рейтинг за обсягом задекларованої кріптовалюти Ethereum серед українських посадовців
+
+Першу позицію в рейтингу посів офіцер відділу цивільно-військового співробітництва Київського ТЦК Роман Данилишин. У його декларації зазначено 4716 ETH (що наразі дорівнює приблизно 10,14 млн доларів США або близько 450 млн гривень).  
+
+Водночас у документі вартість цих активів вказана на рівні трохи більше ніж 195 000 гривень. Причини такої різниці — із декларації не зрозуміло.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_19-27-42.jpg" length="56945" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 19:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡Схоже Тамп "закінчив" чергову</title>
+      <link>https://www.mandarinai.lt/post/90575</link>
+      <description>🤡Схоже Тамп "закінчив" чергову війну. Сьогодні він звернеться до нації і оголосить про закінчення війни з Іраном, - Politico 
+
+За прогнозами, він представить це як перемогу та перекладе відповідальність за забезпечення судноплавства в Ормузькій протоці на європейських та арабських партнерів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_19-45-01.jpg" length="86713" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 19:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
