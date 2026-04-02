@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 10:39:54 +0000</lastBuildDate>
-    <item>
-      <title>👀 ОАЕ терміново просять в ООН </title>
-      <link>https://www.mandarinai.lt/post/90576</link>
-      <description>👀 ОАЕ терміново просять в ООН схвалити заходи, включаючи можливе застосування військової сили, для відновлення судноплавства в Ормузькій протоці
-
-Раніше WSJ писала, що країна готується приєднатися до союзників для розблокування Ормузької протоки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-01_20-23-37.jpg" length="23132" type="image/jpeg"/>
-      <pubDate>Wed, 01 Apr 2026 20:23:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳Винищувач США переслідував ір</title>
-      <link>https://www.mandarinai.lt/post/90577</link>
-      <description>😳Винищувач США переслідував іранський безпілотник, але не зміг збити його</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-01_21-54-43.mp4" length="2187628" type="video/mp4"/>
-      <pubDate>Wed, 01 Apr 2026 21:54:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 11:36:06 +0000</lastBuildDate>
     <item>
       <title>🌕🚀Історичний момент: NASA запу</title>
       <link>https://www.mandarinai.lt/post/90579</link>
@@ -108,6 +92,52 @@
 ✅ Якщо США дистанціюються від НАТО, це може послабити стримування росії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_09-49-58.jpg" length="105896" type="image/jpeg"/>
       <pubDate>Thu, 02 Apr 2026 09:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Нищимо ворожі V2U», - 38-и</title>
+      <link>https://www.mandarinai.lt/post/90593</link>
+      <description>❗️ «Нищимо ворожі V2U», - 38-ий зенітний ракетний полк
+
+🛬 Що таке V2U: новий російський безпілотник-камікадзе, оснащений штучним інтелектом для автоматичного розпізнавання та ураження цілей та системою комп’ютерного зору, що робить його стійким до засобів РЕБ.
+
+➡️ Але 38-ий полк навчився їх нейтралізувати.
+
+✅ В полку є вакансії:
+▫️ командир екіпажу;
+▫️ оператор;
+▫️ майстер відділення;
+▫️ механік відділення;
+▫️ водій екіпажу.
+
+☎️ Телефонувати:
++380679666801
++380667176386</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7671.MP4" length="6772069" type="video/mp4"/>
+      <pubDate>Thu, 02 Apr 2026 10:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Третя штурмова бригада спросто</title>
+      <link>https://www.mandarinai.lt/post/90594</link>
+      <description>Третя штурмова бригада спростовує заяви рф про повне захоплення Луганщини
+
+Першого квітня міноборони рф заявило про повне захоплення Луганської області. 
+
+Але на території області залишаються підрозділи Третьої штурмової бригади.
+
+Район населених пунктів Надії, Греківки та Новоєгорівки під контролем бригади
+
+В Надії та Новоєгорівці за півроку противник здійснив 144 спроби штурмових із залученням 19 одиниць мототехніки та понад 360 солдатів рф, з яких 340 поповнили безповоротні втрати росії.
+
+Сили бригади утримують оборону попри всі спроби росіян захопити область військовим і віртуальним шляхом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7675.MP4" length="12061595" type="video/mp4"/>
+      <pubDate>Thu, 02 Apr 2026 11:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків зараз під атакою реакти</title>
+      <link>https://www.mandarinai.lt/post/90595</link>
+      <description>Харків зараз під атакою реактивних «шахедів», російські дрони залітають сьогодні до міста періодично з 2-ої години ночі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_11-12-12.jpg" length="86006" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 11:12:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
