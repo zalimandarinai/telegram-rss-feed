@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 14:13:24 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Українські повітряні санкції</title>
-      <link>https://www.mandarinai.lt/post/90587</link>
-      <description>💥🔥Українські повітряні санкції долетіли до «Башнефть-УНПЗ» — атакований великий російський нафтопереробний завод в Уфі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_05-03-37.mp4" length="80522" type="video/mp4"/>
-      <pubDate>Thu, 02 Apr 2026 05:03:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 15:47:15 +0000</lastBuildDate>
     <item>
       <title>На Сумщині був штурм, який спр</title>
       <link>https://www.mandarinai.lt/post/90589</link>
@@ -135,6 +128,12 @@
       <description>⚡️Жах у Харкові — пряме влучання реактивного дрона по будинку, є поранені, — ОВА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_13-23-10.mp4" length="789501" type="video/mp4"/>
       <pubDate>Thu, 02 Apr 2026 13:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Справжня російська опозиція, </title>
+      <link>https://www.mandarinai.lt/post/90601</link>
+      <description>«Справжня російська опозиція, зубаста і озброєна», - підрозділ аеророзвідки Легіону «Свобода Росії» показав, як воює проти путіна.</description>
+      <pubDate>Thu, 02 Apr 2026 15:33:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
