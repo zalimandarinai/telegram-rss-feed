@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 17:39:23 +0000</lastBuildDate>
-    <item>
-      <title>Нищівний удар Сил оборони по а</title>
-      <link>https://www.mandarinai.lt/post/90598</link>
-      <description>Нищівний удар Сил оборони по аеродрому Кіровське на ТОТ Криму 🔥
-
-💥 Під приціл потрапила база та пункт передполітної підготовки високовартісних ударно-розвідувальних БПЛА "Оріон". Унаслідок атаки лігво ворога знищено вщент.
-
-✅ Знищено чотири "Оріони". За компанію з ними на брухт пішли російський військово-транспортний літак Ан-72П та радіолокаційна станція "Меч".
-
-Операцію блискуче реалізували за допомогою українських засобів ураження 🇺🇦</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_13-07-48.mp4" length="17940947" type="video/mp4"/>
-      <pubDate>Thu, 02 Apr 2026 13:07:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Жах у Харкові — пряме влучан</title>
-      <link>https://www.mandarinai.lt/post/90599</link>
-      <description>⚡️Жах у Харкові — пряме влучання реактивного дрона по будинку, є поранені, — ОВА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_13-23-10.mp4" length="789501" type="video/mp4"/>
-      <pubDate>Thu, 02 Apr 2026 13:23:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 18:38:08 +0000</lastBuildDate>
     <item>
       <title>«Справжня російська опозиція, </title>
       <link>https://www.mandarinai.lt/post/90601</link>
@@ -99,9 +79,23 @@
     <item>
       <title>🇲🇬 Військова хунта Мадагаскару</title>
       <link>https://www.mandarinai.lt/post/90611</link>
-      <description>🇲🇬 Військова хунта Мадагаскару секретно отримує від росії БМП-3, ПЗРК та боєприпаси, - «Мілітарний»</description>
+      <description>🇲🇬 Військова хунта Мадагаскару секретно отримує від росії озброєння: БМП-3, переносні зенітні комплекси та боєприпаси, - «Мілітарний»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_17-37-14.jpg" length="106738" type="image/jpeg"/>
       <pubDate>Thu, 02 Apr 2026 17:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Харкові низка влучань ворожи</title>
+      <link>https://www.mandarinai.lt/post/90612</link>
+      <description>У Харкові низка влучань ворожими дронами. На місцях деяких з них - пожежі, повідомив мер міста.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_17-50-30.mp4" length="617581" type="video/mp4"/>
+      <pubDate>Thu, 02 Apr 2026 17:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Коротко про залізні нерви укр</title>
+      <link>https://www.mandarinai.lt/post/90613</link>
+      <description>👀Коротко про залізні нерви українців</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_18-23-03.mp4" length="922841" type="video/mp4"/>
+      <pubDate>Thu, 02 Apr 2026 18:23:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
