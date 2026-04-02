@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 12:41:44 +0000</lastBuildDate>
-    <item>
-      <title>🚀Так стартував перший політ лю</title>
-      <link>https://www.mandarinai.lt/post/90585</link>
-      <description>🚀Так стартував перший політ людей до Місяця за понад 50 років.
-
-Їхня максимальна відстань від Землі сягне 407 тисяч км – це рекорд для пілотованих польотів.
-
-Екіпаж складається з Ріда Вайзмена, Віктора Гловера, Крістіни Кук і Джеремі Гансена.
-
-🇺🇸 Рід Вайзмен — командир місії, колишній льотчик-випробувач ВМС США та колишній керівник загону астронавтів NASA.
-
-🇺🇸 Віктор Гловер — пілот місії, ветеран польоту Crew-1 до МКС. Він стане першим темношкірим астронавтом, який вирушить до Місяця.
-
-🇺🇸 Крістіна Кук — інженерка та астронавтка NASA, яка встановила рекорд найдовшого безперервного польоту жінки в космосі — 328 днів. Вона стане першою жінкою, яка полетить до Місяця.
-
-🇨🇦 Джеремі Гансен — астронавт Канадського космічного агентства та колишній військовий пілот. Він стане першим канадцем, який вирушить до Місяця.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_04-56-56.mp4" length="3589111" type="video/mp4"/>
-      <pubDate>Thu, 02 Apr 2026 04:56:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 14:13:24 +0000</lastBuildDate>
     <item>
       <title>💥🔥Українські повітряні санкції</title>
       <link>https://www.mandarinai.lt/post/90587</link>
@@ -127,6 +108,33 @@
       <description>Харків зараз під атакою реактивних «шахедів», російські дрони залітають сьогодні до міста періодично з 2-ої години ночі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_11-12-12.jpg" length="86006" type="image/jpeg"/>
       <pubDate>Thu, 02 Apr 2026 11:12:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Кілька хвилин тому затримали</title>
+      <link>https://www.mandarinai.lt/post/90597</link>
+      <description>⚡️Кілька хвилин тому затримали нападника на працівника ТЦК, — журналіст Глагола</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_13-04-47.jpg" length="50692" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 13:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нищівний удар Сил оборони по а</title>
+      <link>https://www.mandarinai.lt/post/90598</link>
+      <description>Нищівний удар Сил оборони по аеродрому Кіровське на ТОТ Криму 🔥
+
+💥 Під приціл потрапила база та пункт передполітної підготовки високовартісних ударно-розвідувальних БПЛА "Оріон". Унаслідок атаки лігво ворога знищено вщент.
+
+✅ Знищено чотири "Оріони". За компанію з ними на брухт пішли російський військово-транспортний літак Ан-72П та радіолокаційна станція "Меч".
+
+Операцію блискуче реалізували за допомогою українських засобів ураження 🇺🇦</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_13-07-48.mp4" length="17940947" type="video/mp4"/>
+      <pubDate>Thu, 02 Apr 2026 13:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Жах у Харкові — пряме влучан</title>
+      <link>https://www.mandarinai.lt/post/90599</link>
+      <description>⚡️Жах у Харкові — пряме влучання реактивного дрона по будинку, є поранені, — ОВА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_13-23-10.mp4" length="789501" type="video/mp4"/>
+      <pubDate>Thu, 02 Apr 2026 13:23:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
