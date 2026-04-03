@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 06:04:17 +0000</lastBuildDate>
-    <item>
-      <title>🇲🇬 Військова хунта Мадагаскару</title>
-      <link>https://www.mandarinai.lt/post/90611</link>
-      <description>🇲🇬 Військова хунта Мадагаскару секретно отримує від росії озброєння: БМП-3, переносні зенітні комплекси та боєприпаси, - «Мілітарний»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_17-37-14.jpg" length="106738" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 17:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Харкові низка влучань ворожи</title>
-      <link>https://www.mandarinai.lt/post/90612</link>
-      <description>У Харкові низка влучань ворожими дронами. На місцях деяких з них - пожежі, повідомив мер міста.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_17-50-30.mp4" length="617581" type="video/mp4"/>
-      <pubDate>Thu, 02 Apr 2026 17:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀Коротко про залізні нерви укр</title>
-      <link>https://www.mandarinai.lt/post/90613</link>
-      <description>👀Коротко про залізні нерви українців</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-02_18-23-03.mp4" length="922841" type="video/mp4"/>
-      <pubDate>Thu, 02 Apr 2026 18:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Ключовий російський порт на Б</title>
-      <link>https://www.mandarinai.lt/post/90616</link>
-      <description>🔥Ключовий російський порт на Балтиці Приморськ втратив 40% сховищ через атаки дронів, — Reuters
-
-Супутникові знімки, зроблені наприкінці березня засвідчили, що було пошкоджено щонайменше вісім резервуарів місткістю 50 000 кубічних метрів кожен</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_20-41-03.jpg" length="55888" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 20:41:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 07:53:36 +0000</lastBuildDate>
     <item>
       <title>«Де вихід?»: Журнал Time вийшо</title>
       <link>https://www.mandarinai.lt/post/90617</link>
@@ -66,13 +36,28 @@
       <pubDate>Thu, 02 Apr 2026 22:58:29 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Жінка з немовлям отримали ро</title>
+      <title>⚡️Жінка з немовлям отримали по</title>
       <link>https://www.mandarinai.lt/post/90624</link>
-      <description>⚡️Жінка з немовлям отримали роранення внаслідок нічних ударів рф по Харкову
+      <description>⚡️Жінка з немовлям отримали поранення внаслідок нічних ударів рф по Харкову
 
 З ранку Харків знову атакують дрони.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_05-26-00.jpg" length="165242" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 05:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У повітряному просторі ~90 Б</title>
+      <link>https://www.mandarinai.lt/post/90626</link>
+      <description>⚡️У повітряному просторі ~90 БпЛА
+Більшість дронів з півдня прямують на Київщину.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_06-56-20.jpg" length="271649" type="image/jpeg"/>
+      <pubDate>Fri, 03 Apr 2026 06:56:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔄Південь Київської області в о</title>
+      <link>https://www.mandarinai.lt/post/90630</link>
+      <description>🔄Південь Київської області в облозі шахедів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-03_07-46-00.mp4" length="1240301" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 07:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
