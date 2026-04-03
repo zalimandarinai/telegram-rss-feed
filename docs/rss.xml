@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 09:41:07 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Жінка з немовлям отримали по</title>
-      <link>https://www.mandarinai.lt/post/90624</link>
-      <description>⚡️Жінка з немовлям отримали поранення внаслідок нічних ударів рф по Харкову
-
-З ранку Харків знову атакують дрони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_05-26-00.jpg" length="165242" type="image/jpeg"/>
-      <pubDate>Fri, 03 Apr 2026 05:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 10:31:46 +0000</lastBuildDate>
     <item>
       <title>⚡️У повітряному просторі ~90 Б</title>
       <link>https://www.mandarinai.lt/post/90626</link>
@@ -80,6 +71,19 @@
       <description>«Шахед» над містом, знижується і влучає між дитячим садком та житловим будинком. Сьогоднішня атака спрямована саме на цивільних. Просто відвертий неприхований тероризм</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7701.MP4" length="4368374" type="video/mp4"/>
       <pubDate>Fri, 03 Apr 2026 09:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>До Угорщини перед виборами у в</title>
+      <link>https://www.mandarinai.lt/post/90638</link>
+      <description>До Угорщини перед виборами у вівторок приїде віце-президент Венс, - схоже, Трамп не наважився сам відвідати Будапешт, щоб підтримати Орбана.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_09-57-49.jpg" length="111921" type="image/jpeg"/>
+      <pubDate>Fri, 03 Apr 2026 09:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці Lasar’s Group НГУ за під</title>
+      <link>https://www.mandarinai.lt/post/90639</link>
+      <description>Бійці Lasar’s Group НГУ за підтримки бригади артилерійської розвідки «Чорний ліс» знищили один із найпотужніших російських комплексів РЕБ «Палантин» за $20 млн.</description>
+      <pubDate>Fri, 03 Apr 2026 10:03:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
