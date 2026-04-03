@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 20:21:29 +0000</lastBuildDate>
-    <item>
-      <title>«Птахи Мадяра» знищили окупант</title>
-      <link>https://www.mandarinai.lt/post/90641</link>
-      <description>«Птахи Мадяра» знищили окупантам ЗРК «Бук-М1», цистерни з паливом та склади на території Луганської області.</description>
-      <pubDate>Fri, 03 Apr 2026 12:39:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 21:21:21 +0000</lastBuildDate>
     <item>
       <title>Дрон «Карпатської Січі» ліквід</title>
       <link>https://www.mandarinai.lt/post/90643</link>
@@ -75,7 +69,7 @@
       <link>https://www.mandarinai.lt/post/90649</link>
       <description>🌍😍 Місія Artemis II: астронавти показали перші знімки Землі
 
-"Ми отримали вражаючі нові зображення нашої рідної планети з високою роздільною здатністю, на які ми всі дивимося крізь вікно капсули "Оріон" з нашими астронавтами "Артеміди II", які продовжують свою подорож до Місяця", – йдеться в дописі NASA.</description>
+💬 «Ми отримали вражаючі нові зображення нашої рідної планети з високою роздільною здатністю, на які ми всі дивимося крізь вікно капсули «Оріон» з нашими астронавтами «Артеміди II», які продовжують свою подорож до Місяця», – йдеться в дописі NASA.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_16-16-30.jpg" length="164604" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 16:16:30 +0000</pubDate>
     </item>
@@ -92,7 +86,7 @@
 
 Другий об’єкт - база для запуску повітряних та морських дронів у місті Зауія за 50 км від столиці.
 
-Третій об’єкт - штабі 111-ї бригади в районі аеропорту Триполі, використовується для координаційних зустрічей між українськими та лівійськими військовими.</description>
+Третій об’єкт - штаб 111-ї бригади в районі аеропорту Триполі, використовується для координаційних зустрічей між українськими та лівійськими військовими.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_16-51-23.jpg" length="23587" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 16:51:23 +0000</pubDate>
     </item>
@@ -117,6 +111,13 @@
 Тепер для виїзду за кордон понад три місяці німцям потрібно отримати дозвіл у Центрі кар’єри Бундесверу. Обмеження стосуватимуться поїздок на навчання, роботу або тривалі подорожі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_18-56-05.jpg" length="197901" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 18:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Атаковано підстанцію у тимчас</title>
+      <link>https://www.mandarinai.lt/post/90655</link>
+      <description>💥Атаковано підстанцію у тимчасово окупованому Мелітополі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-03_20-40-03.mp4" length="85513" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 20:40:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
