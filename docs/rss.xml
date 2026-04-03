@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 07:53:36 +0000</lastBuildDate>
-    <item>
-      <title>«Де вихід?»: Журнал Time вийшо</title>
-      <link>https://www.mandarinai.lt/post/90617</link>
-      <description>«Де вихід?»: Журнал Time вийшов із обкладинкою, на якій Трамп шукає спосіб припинити війну з Іраном.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_21-41-49.jpg" length="91318" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 21:41:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 08:38:29 +0000</lastBuildDate>
     <item>
       <title>🤬Харків у вогні. росіяни з сам</title>
       <link>https://www.mandarinai.lt/post/90618</link>
@@ -58,6 +51,13 @@
       <description>🔄Південь Київської області в облозі шахедів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-03_07-46-00.mp4" length="1240301" type="video/mp4"/>
       <pubDate>Fri, 03 Apr 2026 07:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Влучання в багатоповерхівку</title>
+      <link>https://www.mandarinai.lt/post/90631</link>
+      <description>⚡️ Влучання в багатоповерхівку в Обухові на Київщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-03_08-02-32.mp4" length="665091" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 08:02:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
