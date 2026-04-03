@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 15:30:50 +0000</lastBuildDate>
-    <item>
-      <title>Харків вже три доби поспіль пі</title>
-      <link>https://www.mandarinai.lt/post/90635</link>
-      <description>Харків вже три доби поспіль під ударами російських дронів. Ворожі літаки сьогодні також скинули кілька бомб на місто.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7696.MP4" length="3709505" type="video/mp4"/>
-      <pubDate>Fri, 03 Apr 2026 09:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нове звільнення в Штатах. Міні</title>
-      <link>https://www.mandarinai.lt/post/90636</link>
-      <description>Нове звільнення в Штатах. Міністр оборони США Піт Гегсет вимагає негайної відставки начальника штабу сухопутних військ генерала Ренді Джорджа.
-
-Очільник Пентагона хоче бачити на цій посаді людину, яка буде «реалізовувати бачення армії, сформульоване ним і президентом Дональдом Трампом».
-
-Джордж обіймає посаду з 2023 року, зазвичай термін повноважень становить чотири роки, тож він мав залишатися на посаді до 2027 року, але Гегсет не хоче чекати.
-
-Генерала Джорджа замінить його заступник, генерал Крістофер Ла Нів, який раніше працював військовим радником Гегсета. 
-
-Міністр оборони вже звільнив понад десяток високопоставлених військових, включно з головою Об’єднаного комітету начальників штабів Чарльзом Брауном та очільницею ВМС США Лізою Франкетті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_09-25-31.jpg" length="100660" type="image/jpeg"/>
-      <pubDate>Fri, 03 Apr 2026 09:25:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 16:25:12 +0000</lastBuildDate>
     <item>
       <title>«Шахед» над містом, знижується</title>
       <link>https://www.mandarinai.lt/post/90637</link>
@@ -90,7 +68,7 @@
       <link>https://www.mandarinai.lt/post/90646</link>
       <description>Підписуйтесь на сторінкцу бійця підрозділу ГУР МО «Химера» з позивним «Тірен».
 
-Тірен пише про реальний стан справ на півдні — без телемарафону і прикрас. Інсайди про колаборантів і ситуацію на місцях. Відверто про проблеми, які нас чекають із мобілізацією та на фронті.</description>
+Тірен пише про реальний стан справ на півдні — без прикрас. Інсайди про колаборантів і ситуацію на місцях. Відверто про проблеми, які нас чекають із мобілізацією та на фронті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_14-36-23.jpg" length="120649" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 14:36:23 +0000</pubDate>
     </item>
@@ -120,6 +98,15 @@
 
 Зброю видали лише перед виходом на завдання, задум якого не розумів навіть його командир.</description>
       <pubDate>Fri, 03 Apr 2026 15:18:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌍😍 Місія Artemis II: астронавт</title>
+      <link>https://www.mandarinai.lt/post/90649</link>
+      <description>🌍😍 Місія Artemis II: астронавти показали перші знімки Землі
+
+"Ми отримали вражаючі нові зображення нашої рідної планети з високою роздільною здатністю, на які ми всі дивимося крізь вікно капсули "Оріон" з нашими астронавтами "Артеміди II", які продовжують свою подорож до Місяця", – йдеться в дописі NASA.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_16-16-30.jpg" length="164604" type="image/jpeg"/>
+      <pubDate>Fri, 03 Apr 2026 16:16:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
