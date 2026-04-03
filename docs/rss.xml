@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 08:38:29 +0000</lastBuildDate>
-    <item>
-      <title>🤬Харків у вогні. росіяни з сам</title>
-      <link>https://www.mandarinai.lt/post/90618</link>
-      <description>🤬Харків у вогні. росіяни з самого ранку атакують місто дронами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_21-46-35.jpg" length="35402" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 21:46:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Удари України по портовій ін</title>
-      <link>https://www.mandarinai.lt/post/90620</link>
-      <description>❗️Удари України по портовій інфраструктурі, трубопроводам і нафтопереробним заводам зменшили експортні можливості РФ на 20%, - Reuters.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_22-02-52.jpg" length="97104" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 22:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Окупована Луганщина під атако</title>
-      <link>https://www.mandarinai.lt/post/90622</link>
-      <description>💥Окупована Луганщина під атакою БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-02_22-58-29.jpg" length="130515" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 22:58:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 09:41:07 +0000</lastBuildDate>
     <item>
       <title>⚡️Жінка з немовлям отримали по</title>
       <link>https://www.mandarinai.lt/post/90624</link>
@@ -58,6 +37,49 @@
       <description>⚡️ Влучання в багатоповерхівку в Обухові на Київщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-03_08-02-32.mp4" length="665091" type="video/mp4"/>
       <pubDate>Fri, 03 Apr 2026 08:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Приліт безпілотника по багатоп</title>
+      <link>https://www.mandarinai.lt/post/90632</link>
+      <description>Приліт безпілотника по багатоповерхівці на Київщині зафільмували сусіди</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7694.MP4" length="834818" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 08:54:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>БПЛА заходить на житловий буди</title>
+      <link>https://www.mandarinai.lt/post/90634</link>
+      <description>БПЛА заходить на житловий будинок в Обухові і влучає в нього, - на відео помітно, що саме цивільна будівля була обрана в якості цілі для удару «шахеда»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7695.MP4" length="3178042" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 09:03:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Харків вже три доби поспіль пі</title>
+      <link>https://www.mandarinai.lt/post/90635</link>
+      <description>Харків вже три доби поспіль під ударами російських дронів. Ворожі літаки сьогодні також скинули кілька бомб на місто.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7696.MP4" length="3709505" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 09:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нове звільнення в Штатах. Міні</title>
+      <link>https://www.mandarinai.lt/post/90636</link>
+      <description>Нове звільнення в Штатах. Міністр оборони США Піт Гегсет вимагає негайної відставки начальника штабу сухопутних військ генерала Ренді Джорджа.
+
+Очільник Пентагона хоче бачити на цій посаді людину, яка буде «реалізовувати бачення армії, сформульоване ним і президентом Дональдом Трампом».
+
+Джордж обіймає посаду з 2023 року, зазвичай термін повноважень становить чотири роки, тож він мав залишатися на посаді до 2027 року, але Гегсет не хоче чекати.
+
+Генерала Джорджа замінить його заступник, генерал Крістофер Ла Нів, який раніше працював військовим радником Гегсета. 
+
+Міністр оборони вже звільнив понад десяток високопоставлених військових, включно з головою Об’єднаного комітету начальників штабів Чарльзом Брауном та очільницею ВМС США Лізою Франкетті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_09-25-31.jpg" length="100660" type="image/jpeg"/>
+      <pubDate>Fri, 03 Apr 2026 09:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Шахед» над містом, знижується</title>
+      <link>https://www.mandarinai.lt/post/90637</link>
+      <description>«Шахед» над містом, знижується і влучає між дитячим садком та житловим будинком. Сьогоднішня атака спрямована саме на цивільних. Просто відвертий неприхований тероризм</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7701.MP4" length="4368374" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 09:32:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
