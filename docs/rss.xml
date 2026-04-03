@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 12:34:11 +0000</lastBuildDate>
-    <item>
-      <title>⚡️У повітряному просторі ~90 Б</title>
-      <link>https://www.mandarinai.lt/post/90626</link>
-      <description>⚡️У повітряному просторі ~90 БпЛА
-Більшість дронів з півдня прямують на Київщину.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_06-56-20.jpg" length="271649" type="image/jpeg"/>
-      <pubDate>Fri, 03 Apr 2026 06:56:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 13:54:12 +0000</lastBuildDate>
     <item>
       <title>🔄Південь Київської області в о</title>
       <link>https://www.mandarinai.lt/post/90630</link>
@@ -93,6 +85,19 @@
 Зафіксовано попадання 11 ракет і 27 ударних БПЛА на 20 локаціях</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_11-41-52.jpg" length="109959" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 11:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Птахи Мадяра» знищили окупант</title>
+      <link>https://www.mandarinai.lt/post/90641</link>
+      <description>«Птахи Мадяра» знищили окупантам ЗРК «Бук-М1», цистерни з паливом та склади на території Луганської області.</description>
+      <pubDate>Fri, 03 Apr 2026 12:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрон «Карпатської Січі» ліквід</title>
+      <link>https://www.mandarinai.lt/post/90643</link>
+      <description>Дрон «Карпатської Січі» ліквідовує штурмовика російської армії в той момент, коли він намагається пройти крізь «зуби дракона»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7707.MP4" length="6329825" type="video/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 13:49:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
