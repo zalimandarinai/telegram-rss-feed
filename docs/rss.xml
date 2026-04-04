@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 09:26:27 +0000</lastBuildDate>
-    <item>
-      <title>Атмосфера. Харків. Підбитий ро</title>
-      <link>https://www.mandarinai.lt/post/90653</link>
-      <description>Атмосфера. Харків. Підбитий російський «шахед» безкоштовно відмивають на автомийці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7715.MP4" length="3336611" type="video/mp4"/>
-      <pubDate>Fri, 03 Apr 2026 17:33:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 10:21:19 +0000</lastBuildDate>
     <item>
       <title>👀Німеччина запровадить обмежен</title>
       <link>https://www.mandarinai.lt/post/90654</link>
@@ -101,6 +94,23 @@
       <description>❗️ Щойно російські війська обстріляли ринок у Нікополі на Дніпропетровщині, 5 загиблих, є поранені, серед яких 14-річна дівчинка.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_09-07-08.jpg" length="164371" type="image/jpeg"/>
       <pubDate>Sat, 04 Apr 2026 09:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час удару по танкеру росій</title>
+      <link>https://www.mandarinai.lt/post/90667</link>
+      <description>Під час удару по танкеру російського «тіньового флоту» Qendil загинув генерал ГРУ, який курував диверсії та вбивства за кордоном, - так стверджує RFI
+
+На борту танкера російського «тіньового флоту» Qendil у грудні 2025 року знаходився генерал Головного розвідувального управління Андрій Авер’янов, який відповідав за диверсії та вбивства за кордоном. Про це повідомляє французька радіостанція RFI з посиланням на обізнані джерела.
+
+За даними журналістів, за операцією могли стояти українські військові, які діяли з території Лівія у координації з офіційним Триполі.
+
+На борту танкера, окрім екіпажу, перебували близько десяти високопоставлених співробітників російської розвідки, переодягнених у моряків. 
+
+Внаслідок удару загинули двоє людей, ще семеро дістали поранення. Серед загиблих був Авер’янов, каже RFI
+
+Проте, наші власні джерела не підтвердили інформацію французького радіо, і, за даними, які ми нещодавно отримали, генерал Аверʼянов все ж таки живий та знаходиться на російській території.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_09-41-54.jpg" length="21222" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 09:41:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
