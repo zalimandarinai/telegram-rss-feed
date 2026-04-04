@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 06:43:42 +0000</lastBuildDate>
-    <item>
-      <title>Дрон «Карпатської Січі» ліквід</title>
-      <link>https://www.mandarinai.lt/post/90643</link>
-      <description>Дрон «Карпатської Січі» ліквідовує штурмовика російської армії в той момент, коли він намагався пройти крізь «зуби дракона»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7707.MP4" length="6329825" type="video/mp4"/>
-      <pubDate>Fri, 03 Apr 2026 13:49:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 07:39:58 +0000</lastBuildDate>
     <item>
       <title>Сьогодні росіяни знесли цілу в</title>
       <link>https://www.mandarinai.lt/post/90644</link>
@@ -125,6 +118,13 @@
       <description>👀В аеропорту Дубаї сотні американських військових</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-03_22-29-18.mp4" length="3685548" type="video/mp4"/>
       <pubDate>Fri, 03 Apr 2026 22:29:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Сумах ворожий дрон влучив </title>
+      <link>https://www.mandarinai.lt/post/90657</link>
+      <description>⚡️В Сумах ворожий дрон влучив у 16-ти поверхівку - поранено 7 людей, серед них одна дитина, — ДСНС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-04_06-43-55.mp4" length="4322676" type="video/mp4"/>
+      <pubDate>Sat, 04 Apr 2026 06:43:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
