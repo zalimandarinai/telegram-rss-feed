@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 14:23:23 +0000</lastBuildDate>
-    <item>
-      <title>⚡️В Сумах ворожий дрон влучив </title>
-      <link>https://www.mandarinai.lt/post/90657</link>
-      <description>⚡️В Сумах ворожий дрон влучив у 16-ти поверхівку - поранено 7 людей, серед них одна дитина, — ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-04_06-43-55.mp4" length="4322676" type="video/mp4"/>
-      <pubDate>Sat, 04 Apr 2026 06:43:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Через українські атаки Кремль </title>
-      <link>https://www.mandarinai.lt/post/90658</link>
-      <description>Через українські атаки Кремль переносить ракетні заводи вглиб росії, — The Telegraph</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_07-41-47.jpg" length="86255" type="image/jpeg"/>
-      <pubDate>Sat, 04 Apr 2026 07:41:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 15:18:54 +0000</lastBuildDate>
     <item>
       <title>Загальний рахунок підбитих літ</title>
       <link>https://www.mandarinai.lt/post/90659</link>
@@ -118,6 +104,17 @@
 
 Два склади з «шахедами» та точки запуску в Курській та Брянській областях.</description>
       <pubDate>Sat, 04 Apr 2026 13:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрони СБУ зупинили виробництво</title>
+      <link>https://www.mandarinai.lt/post/90672</link>
+      <description>Дрони СБУ зупинили виробництво на Алчевському меткомбінаті, який знаходиться в Луганській області.
+
+Продукція підприємства постачається на російський «Уралвагонзавод», де виготовляють танки Т-90М «Прорив» та гаубиці «Мста-С».
+
+Пошкоджено доменні печі, виробничі цехи, дистиляційні колони, газопроводи та електропідстанції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7744.MP4" length="21168535" type="video/mp4"/>
+      <pubDate>Sat, 04 Apr 2026 15:11:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
