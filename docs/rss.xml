@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 16:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 17:20:10 +0000</lastBuildDate>
     <item>
       <title>✅ Батальйон безпілотних систем</title>
       <link>https://www.mandarinai.lt/post/90665</link>
@@ -95,6 +95,22 @@
       <description>Іранський БПЛА знищив американський транспортний гелікоптер CH-47 «Chinook» у Кувейті</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_15-37-57.jpg" length="116820" type="image/jpeg"/>
       <pubDate>Sat, 04 Apr 2026 15:37:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літаки Су-27 з 39-ої бригади т</title>
+      <link>https://www.mandarinai.lt/post/90677</link>
+      <description>Літаки Су-27 з 39-ої бригади тактичної авіації скинули авіабомби по локації, де накопичувалася ворожа піхота.
+
+🎥 «Соняшник»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7748.MP4" length="10714237" type="video/mp4"/>
+      <pubDate>Sat, 04 Apr 2026 17:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ердоган запропонував провести </title>
+      <link>https://www.mandarinai.lt/post/90678</link>
+      <description>Ердоган запропонував провести мирні переговори в Стамбулі, і Зеленський погодився</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7749.MP4" length="7542718" type="video/mp4"/>
+      <pubDate>Sat, 04 Apr 2026 17:13:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
