@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 22:15:59 +0000</lastBuildDate>
-    <item>
-      <title>Оператори дронів 82-ої ОДШБР а</title>
-      <link>https://www.mandarinai.lt/post/90673</link>
-      <description>Оператори дронів 82-ої ОДШБР атакували російські військові автомобілі в укритті та піхоту в полі.</description>
-      <pubDate>Sat, 04 Apr 2026 15:34:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іранський БПЛА знищив американ</title>
-      <link>https://www.mandarinai.lt/post/90674</link>
-      <description>Іранський БПЛА знищив американський транспортний гелікоптер CH-47 «Chinook» у Кувейті</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_15-37-57.jpg" length="116820" type="image/jpeg"/>
-      <pubDate>Sat, 04 Apr 2026 15:37:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 23:19:12 +0000</lastBuildDate>
     <item>
       <title>Літаки Су-27 з 39-ої бригади т</title>
       <link>https://www.mandarinai.lt/post/90677</link>
@@ -83,11 +70,29 @@
 
 ▫️ Один російський «Панцир С1» було уражено.
 
-⚠️ Важливо. Звіти спростовують російські тези про те, що для ударів по портам українські безпілотники використовували повітряний простір Естонії. 
+⚠️ Важливо. Звіти спростовують російські тези про те, що для ударів по портах українські безпілотники використовували повітряний простір Естонії. 
 
-➡️ Судячи по даних документах, росіяни відслідковували рух дронів виключно через російську територію. І це варто розуміти для того, що росія намагається, користуючись моментом, залякати наших партнерів з країн Балтії.</description>
+➡️ Судячи з даних документів, росіяни відслідковували рух дронів виключно через російську територію. І це варто розуміти для усвідомлення того, що росія намагається, користуючись моментом, залякати наших партнерів з країн Балтії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_20-47-28.jpg" length="101905" type="image/jpeg"/>
       <pubDate>Sat, 04 Apr 2026 20:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>З'явилися повідомлення про мож</title>
+      <link>https://www.mandarinai.lt/post/90687</link>
+      <description>З'явилися повідомлення про можливу госпіталізацію Трампа, водночас у Білому домі заявили, що сьогодні до кінця дня він не з’являтиметься на публіці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_22-28-40.jpg" length="140348" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 22:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>На передвиборчому мітингу Орба</title>
+      <link>https://www.mandarinai.lt/post/90689</link>
+      <description>На передвиборчому мітингу Орбана люди гуртом скандують  «Ruszkik haza», тобто, «Росіяни, додому».
+
+«Ruszkik haza» - гасло Угорського повстання 1956 року проти радянських військ.
+
+Схоже, угорці розуміють, хто стоїть за Орбаном, для якого виборча кампанія пішла трохи не за планом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7761.MP4" length="4011762" type="video/mp4"/>
+      <pubDate>Sat, 04 Apr 2026 22:41:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
