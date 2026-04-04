@@ -6,40 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 15:18:54 +0000</lastBuildDate>
-    <item>
-      <title>Загальний рахунок підбитих літ</title>
-      <link>https://www.mandarinai.lt/post/90659</link>
-      <description>Загальний рахунок підбитих літаків США в Ірані, нажаль, збільшився.
-
-Два американські винищувачі на цей момент були збиті над Іраном. 
-
-Один член екіпажу винищувача F-15E Strike Eagle досі вважається зниклим безвісти, тривають драматичні пошуки, оскільки іранці теж шукають екіпажі збитих ними літаків. 
-
-За даними NBC News і The Washington Post, також були уражені два вертольоти Black Hawk, які брали участь у пошуково-рятувальних операціях.
-
-Раніше Трамп заявив, що ППО в Ірані повністю розгромлена, але, очевидно, це не так.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_08-00-17.jpg" length="200063" type="image/jpeg"/>
-      <pubDate>Sat, 04 Apr 2026 08:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 Вночі уражено дві пускові ба</title>
-      <link>https://www.mandarinai.lt/post/90660</link>
-      <description>💥 Вночі уражено дві пускові бази Shahed у Брянській та Курській областях РФ - на аеродромах Навля та Халіно, - Мадяр</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_08-05-13.jpg" length="241122" type="image/jpeg"/>
-      <pubDate>Sat, 04 Apr 2026 08:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ На Краматорськ росіяни скин</title>
-      <link>https://www.mandarinai.lt/post/90661</link>
-      <description>❗️ На Краматорськ росіяни скинули 12 авіабомб.
-
-Шість людей в місті загинуло від російських ударів, серед жертв 16-річний хлопець. Ще 8 людей постраждали. 
-
-Пошкоджено 20 багатоповерхових будинків, три заклади освіти, готель, СТО, котельню, адмінбудівлю, гаражі та 16 цивільних авто.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_08-15-40.jpg" length="89752" type="image/jpeg"/>
-      <pubDate>Sat, 04 Apr 2026 08:15:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 16:19:59 +0000</lastBuildDate>
     <item>
       <title>✅ Батальйон безпілотних систем</title>
       <link>https://www.mandarinai.lt/post/90665</link>
@@ -115,6 +82,19 @@
 Пошкоджено доменні печі, виробничі цехи, дистиляційні колони, газопроводи та електропідстанції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7744.MP4" length="21168535" type="video/mp4"/>
       <pubDate>Sat, 04 Apr 2026 15:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів 82-ої ОДШБР а</title>
+      <link>https://www.mandarinai.lt/post/90673</link>
+      <description>Оператори дронів 82-ої ОДШБР атакували російські військові автомобілі в укритті та піхоту в полі.</description>
+      <pubDate>Sat, 04 Apr 2026 15:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іранський БПЛА знищив американ</title>
+      <link>https://www.mandarinai.lt/post/90674</link>
+      <description>Іранський БПЛА знищив американський транспортний гелікоптер CH-47 «Chinook» у Кувейті</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_15-37-57.jpg" length="116820" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 15:37:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
