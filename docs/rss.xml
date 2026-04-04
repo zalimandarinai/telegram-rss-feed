@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 08:26:35 +0000</lastBuildDate>
-    <item>
-      <title>На території Лівії перебувають</title>
-      <link>https://www.mandarinai.lt/post/90651</link>
-      <description>На території Лівії перебувають українські військові, які, ймовірно, атакували російський танкер «Arctic Metagaz», стверджує «Radio France Internationale».
-
-Версія RFI
-
-Українські військові, за погодженням із урядом Триполі, очолюваним Абдельхамідом Дбейбою, присутні на трьох об’єктах.
-
-Перший обʼєкт - академія ВПС у Місураті. Там знаходяться також турецькі, італійські військові та AFRICOM США. Там же розташований британський розвідувальний центр.
-
-Другий об’єкт - база для запуску повітряних та морських дронів у місті Зауія за 50 км від столиці.
-
-Третій об’єкт - штаб 111-ї бригади в районі аеропорту Триполі, використовується для координаційних зустрічей між українськими та лівійськими військовими.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-03_16-51-23.jpg" length="23587" type="image/jpeg"/>
-      <pubDate>Fri, 03 Apr 2026 16:51:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Оператори 78-ї ДШБР виявили, щ</title>
-      <link>https://www.mandarinai.lt/post/90652</link>
-      <description>Оператори 78-ї ДШБР виявили, що за 11 км від кордону з Україною була розташована РСЗВ невідомого походження, і знищили її.</description>
-      <pubDate>Fri, 03 Apr 2026 17:29:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 09:26:27 +0000</lastBuildDate>
     <item>
       <title>Атмосфера. Харків. Підбитий ро</title>
       <link>https://www.mandarinai.lt/post/90653</link>
@@ -106,6 +83,24 @@
 Пошкоджено 20 багатоповерхових будинків, три заклади освіти, готель, СТО, котельню, адмінбудівлю, гаражі та 16 цивільних авто.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_08-15-40.jpg" length="89752" type="image/jpeg"/>
       <pubDate>Sat, 04 Apr 2026 08:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅ Батальйон безпілотних систем</title>
+      <link>https://www.mandarinai.lt/post/90665</link>
+      <description>✅ Батальйон безпілотних систем «Лава» бригади НГУ «Хартія» реорганізували в полк у складі 2-го корпусу Національної гвардії України.
+
+🛫 На рахунку підрозділу сотні успішних місій – і ударних, і логістичних. Серед них проведення операцій «middle-strike» на глибину до 100 кілометрів.
+
+💬 «З масштабуванням до полку зростають і кількість, і глибина, і складність завдань.  Це схоже на гру в шахи з дуже розумним противником, кінцевим результатом якої є знекровлення ворога та перехоплення ініціативи», – командир «Лави» Володимир Мірчук.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7724.MP4" length="24433624" type="video/mp4"/>
+      <pubDate>Sat, 04 Apr 2026 08:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Щойно російські війська обс</title>
+      <link>https://www.mandarinai.lt/post/90666</link>
+      <description>❗️ Щойно російські війська обстріляли ринок у Нікополі на Дніпропетровщині, 5 загиблих, є поранені, серед яких 14-річна дівчинка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_09-07-08.jpg" length="164371" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 09:07:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
