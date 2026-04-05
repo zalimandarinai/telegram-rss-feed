@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 16:21:36 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥НПЗ "Лукойл" в Ніжегородські</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥🔥НПЗ "Лукойл" в Ніжегородській області вночі зустрівся з добрими дронами. Пожежа набирає обертів.</description>
-      <pubDate>Sun, 05 Apr 2026 06:11:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 17:19:49 +0000</lastBuildDate>
     <item>
       <title>В районі окупованої Дворічної </title>
       <link>https://www.mandarinai.lt/post/90694</link>
@@ -72,6 +66,32 @@
 Тим часом у місті оголосили про закриття ринків, людей просять не перебувати на відкритих майданчиках.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_14-04-40.jpg" length="215359" type="image/jpeg"/>
       <pubDate>Sun, 05 Apr 2026 14:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇭🇺 Опозиція Угорщини обіцяє зм</title>
+      <link>https://www.mandarinai.lt/post/90706</link>
+      <description>🇭🇺 Опозиція Угорщини обіцяє змінити курс щодо рф
+
+Головний опонент прем’єра Віктора Орбана, Петер Мадяр, заявив, що у разі приходу до влади його уряд дотримуватиметься прагматичного підходу у відносинах з росією - взаємне невтручання та суверенітет без лояльності чи симпатій.
+
+Мадяр також наголосив на необхідності зменшити енергетичну залежність від рф, диверсифікуючи постачання нафти та газу через ресурси ЄС, проте швидка відмова від російських ресурсів неможлива.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_16-38-10.jpg" length="72957" type="image/jpeg"/>
+      <pubDate>Sun, 05 Apr 2026 16:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рідкісна РЛС «Зоопарк» та 3 РС</title>
+      <link>https://www.mandarinai.lt/post/90707</link>
+      <description>Рідкісна РЛС «Зоопарк» та 3 РСЗВ спалені операторами українських дронів.
+
+Оператори підрозділу «Фенікс»  3-го прикордонного загону «Помста» в районі Гуляйполя виявили та знищили вкрай рідкісну ціль – РЛС «Зоопарк». 
+
+З початку повномасштабного вторгнення було уражено до 15 одиниць цієї техніки. 
+
+Окрім цього, знищено два «гради» та один «ураган». 
+
+Загальна вартість знищеної техніки $28 млн.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7773.MP4" length="8571703" type="video/mp4"/>
+      <pubDate>Sun, 05 Apr 2026 16:48:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
