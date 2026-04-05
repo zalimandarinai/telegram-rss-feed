@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 12:28:25 +0000</lastBuildDate>
-    <item>
-      <title>Іран відкрив Ормузьку протоку,</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Іран відкрив Ормузьку протоку, але тільки для гуманітарних вантажів
-
-Судна з товарами першої необхідності та допомогою отримали дозвіл на вхід портів Оманського моря.
-
-Іранська організація портів і морського транспорту надаватиме дозволи на прохід конкретних кораблів.</description>
-      <pubDate>Sat, 04 Apr 2026 18:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>З'явилися повідомлення про мож</title>
-      <link>https://www.mandarinai.lt/post/90687</link>
-      <description>З'явилися повідомлення про можливу госпіталізацію Трампа, водночас у Білому домі заявили, що сьогодні до кінця дня він не з’являтиметься на публіці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-04_22-28-40.jpg" length="140348" type="image/jpeg"/>
-      <pubDate>Sat, 04 Apr 2026 22:28:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 13:44:07 +0000</lastBuildDate>
     <item>
       <title>На передвиборчому мітингу Орба</title>
       <link>https://www.mandarinai.lt/post/90689</link>
@@ -74,6 +57,24 @@
 Попри втрати, російські сили не зупиняють наступ і намагаються створити так звану «буферну зону» на Дніпропетровщині.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_11-58-40.jpg" length="86278" type="image/jpeg"/>
       <pubDate>Sun, 05 Apr 2026 11:58:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗСУ уразили НПЗ «Лукойл-Нижего</title>
+      <link>https://www.mandarinai.lt/post/90700</link>
+      <description>ЗСУ уразили НПЗ «Лукойл-Нижегороднефтеоргсинтез»: на території підприємства виникла масштабна пожежа
+
+Він займає стратегічне місце в нафтопереробній галузі рф, зокрема, забезпечуючи пальним критично важливий московський регіон (майже 30% загальноросійського споживання бензину) та російську армію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_12-38-38.jpg" length="127040" type="image/jpeg"/>
+      <pubDate>Sun, 05 Apr 2026 12:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Канал бойового офіцера Глущенк</title>
+      <link>https://www.mandarinai.lt/post/90702</link>
+      <description>Канал бойового офіцера Глущенко. Пише про війну такою, якою бачить її щодня. Відверто говорить про мобілізацію, проблеми у війську та корупцію.
+
+Підписуйтесь тут</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_13-09-28.jpg" length="259557" type="image/jpeg"/>
+      <pubDate>Sun, 05 Apr 2026 13:09:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
