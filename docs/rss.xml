@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 21:19:40 +0000</lastBuildDate>
-    <item>
-      <title>😡Окупанти засипають Нікополь л</title>
-      <link>https://www.mandarinai.lt/post/90704</link>
-      <description>😡Окупанти засипають Нікополь листівками з погрозами про наступ 
-
-Тим часом у місті оголосили про закриття ринків, людей просять не перебувати на відкритих майданчиках.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_14-04-40.jpg" length="215359" type="image/jpeg"/>
-      <pubDate>Sun, 05 Apr 2026 14:04:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 22:17:05 +0000</lastBuildDate>
     <item>
       <title>🇭🇺 Опозиція Угорщини обіцяє зм</title>
       <link>https://www.mandarinai.lt/post/90706</link>
@@ -109,6 +100,20 @@
       <description>Атака на порт в місті Новоросійськ триває</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7787.MP4" length="2985942" type="video/mp4"/>
       <pubDate>Sun, 05 Apr 2026 21:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зараз палає нафтовий термінал </title>
+      <link>https://www.mandarinai.lt/post/90718</link>
+      <description>Зараз палає нафтовий термінал в порту Новоросійськ, місцевий народний кореспондент його знімає з боку меморіалу «Мала Земля».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7788.MP4" length="2947401" type="video/mp4"/>
+      <pubDate>Sun, 05 Apr 2026 21:23:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Один з дронів влетів в багаток</title>
+      <link>https://www.mandarinai.lt/post/90719</link>
+      <description>Один з дронів влетів в багатоквартирний будинок в Новоросійську, не виключено, БПЛА відхилився від курсу під впливом засобів радіоелектронної боротьби.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7785.MP4" length="728709" type="video/mp4"/>
+      <pubDate>Sun, 05 Apr 2026 21:28:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
