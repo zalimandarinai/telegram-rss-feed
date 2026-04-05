@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 18:25:15 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ ЗСУ звільнили 480 км² і 12 </title>
-      <link>https://www.mandarinai.lt/post/90697</link>
-      <description>⚡️ ЗСУ звільнили 480 км² і 12 населених пунктів на Олександрівському напрямку з кінця січня, — Сирський
-
-Під контроль повернули 8 населених пунктів на Дніпропетровщині  та ще 4 — у Запорізькій області. Бої тривають у районах кількох населених пунктів і на ключових напрямках просування ворога.
-
-Попри втрати, російські сили не зупиняють наступ і намагаються створити так звану «буферну зону» на Дніпропетровщині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_11-58-40.jpg" length="86278" type="image/jpeg"/>
-      <pubDate>Sun, 05 Apr 2026 11:58:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 19:25:39 +0000</lastBuildDate>
     <item>
       <title>ЗСУ уразили НПЗ «Лукойл-Нижего</title>
       <link>https://www.mandarinai.lt/post/90700</link>
@@ -100,6 +89,13 @@
       <description>⚡️ Український FP-9 планують перетворити на аналог «Кинджала» та запускати з літаків для ударів на велику дальність, — співвласник та головний інженер Fire Point Штілерман</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_17-49-23.jpg" length="134995" type="image/jpeg"/>
       <pubDate>Sun, 05 Apr 2026 17:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ввечері вирубило світло у Доне</title>
+      <link>https://www.mandarinai.lt/post/90712</link>
+      <description>Ввечері вирубило світло у Донецьку, Маріуполі, Макіївці та сусідніх містах через атаку БПЛА по Старобешівській ТЕС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7780.MP4" length="7283132" type="video/mp4"/>
+      <pubDate>Sun, 05 Apr 2026 19:03:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
