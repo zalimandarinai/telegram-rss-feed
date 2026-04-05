@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 20:18:20 +0000</lastBuildDate>
-    <item>
-      <title>Канал бойового офіцера Глущенк</title>
-      <link>https://www.mandarinai.lt/post/90702</link>
-      <description>Канал бойового офіцера Глущенко. Пише про війну такою, якою бачить її щодня. Відверто говорить про мобілізацію, проблеми у війську та корупцію.
-
-Підписуйтесь тут</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_13-09-28.jpg" length="259557" type="image/jpeg"/>
-      <pubDate>Sun, 05 Apr 2026 13:09:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 21:19:40 +0000</lastBuildDate>
     <item>
       <title>😡Окупанти засипають Нікополь л</title>
       <link>https://www.mandarinai.lt/post/90704</link>
@@ -94,6 +85,30 @@
       <description>🔥Порт в Новоросійську палає після атаки БпЛА, — моніторингові пабліки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_20-13-22.jpg" length="28870" type="image/jpeg"/>
       <pubDate>Sun, 05 Apr 2026 20:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Откуда?» «Из Саратова» «Да го</title>
+      <link>https://www.mandarinai.lt/post/90715</link>
+      <description>«Откуда?» «Из Саратова» «Да говор у тебя не такой».
+
+Бійці 425-го полку «Скеля», повертаючись з району Покровська, натрапили на бліндаж окупантів.
+
+Ввести в оману росіян не вийшло, і двоє українських бійців вступили в рукопашну сутичку, в підсумку якої захопили двох російський військових у полон.</description>
+      <pubDate>Sun, 05 Apr 2026 20:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повітряні удари на 100 кіломет</title>
+      <link>https://www.mandarinai.lt/post/90716</link>
+      <description>Повітряні удари на 100 кілометрів, в тому числі, по російській території, - в корпусі НГУ «Хартія» показали, як відбувається бойова робота аналогами російських дронів «Ланцет» по системах протиповітряної оборони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7784.MP4" length="28081863" type="video/mp4"/>
+      <pubDate>Sun, 05 Apr 2026 21:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Атака на порт в місті Новоросі</title>
+      <link>https://www.mandarinai.lt/post/90717</link>
+      <description>Атака на порт в місті Новоросійськ триває</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7787.MP4" length="2985942" type="video/mp4"/>
+      <pubDate>Sun, 05 Apr 2026 21:16:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
