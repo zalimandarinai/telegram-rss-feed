@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 19:25:39 +0000</lastBuildDate>
-    <item>
-      <title>ЗСУ уразили НПЗ «Лукойл-Нижего</title>
-      <link>https://www.mandarinai.lt/post/90700</link>
-      <description>ЗСУ уразили НПЗ «Лукойл-Нижегороднефтеоргсинтез»: на території підприємства виникла масштабна пожежа
-
-Він займає стратегічне місце в нафтопереробній галузі рф, зокрема, забезпечуючи пальним критично важливий московський регіон (майже 30% загальноросійського споживання бензину) та російську армію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_12-38-38.jpg" length="127040" type="image/jpeg"/>
-      <pubDate>Sun, 05 Apr 2026 12:38:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 20:18:20 +0000</lastBuildDate>
     <item>
       <title>Канал бойового офіцера Глущенк</title>
       <link>https://www.mandarinai.lt/post/90702</link>
@@ -96,6 +87,13 @@
       <description>Ввечері вирубило світло у Донецьку, Маріуполі, Макіївці та сусідніх містах через атаку БПЛА по Старобешівській ТЕС.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7780.MP4" length="7283132" type="video/mp4"/>
       <pubDate>Sun, 05 Apr 2026 19:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Порт в Новоросійську палає пі</title>
+      <link>https://www.mandarinai.lt/post/90713</link>
+      <description>🔥Порт в Новоросійську палає після атаки БпЛА, — моніторингові пабліки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-05_20-13-22.jpg" length="28870" type="image/jpeg"/>
+      <pubDate>Sun, 05 Apr 2026 20:13:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
