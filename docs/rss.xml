@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 12:40:45 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Сил оборони здійснили просув</title>
-      <link>https://www.mandarinai.lt/post/90731</link>
-      <description>⚡️Сил оборони здійснили просування в бік Мілового північніше Дворічної.
-
-Вдалі контрнаступальні дії та відбиття території змогла провести 129-а важка механізована бригада.
-
-Підрозділи 129-ої ОВМБР продовжують виконання бойових завдань, поступово витісняючи противника з української території.
-
-Просування вперед дається ціною надзвичайних зусиль, мужності та професійної роботи штурмових підрозділів, операторів БПЛА та артилерії.
-
-Вмілі дії бригади позбавляють російські окупаційні підрозділи можливості відновити втрачені позиції, а також закріпитися на тих нових рубежах, на які вони відкотилися.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7794.MP4" length="17140629" type="video/mp4"/>
-      <pubDate>Mon, 06 Apr 2026 08:49:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 14:02:47 +0000</lastBuildDate>
     <item>
       <title>✅ Як Україні вдалось не допуст</title>
       <link>https://www.mandarinai.lt/post/90732</link>
@@ -134,6 +119,13 @@
 Мобільна вогнева група ДФТГ збиває «шахед» в Черкаській області.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7791.MP4" length="1030046" type="video/mp4"/>
       <pubDate>Mon, 06 Apr 2026 11:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Серед бійців 425-го полку «Ске</title>
+      <link>https://www.mandarinai.lt/post/90748</link>
+      <description>Серед бійців 425-го полку «Скеля», які брали участь у спробах зачистки Гришиного біля Покровська, були й іноземні добровольці, - повне відео https://m.youtube.com/watch?v=PYNf7fSQVBo&amp;ra=m</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7809.MP4" length="4709839" type="video/mp4"/>
+      <pubDate>Mon, 06 Apr 2026 12:52:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
