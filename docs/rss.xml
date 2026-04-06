@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 20:26:16 +0000</lastBuildDate>
-    <item>
-      <title>Серед бійців 425-го полку «Ске</title>
-      <link>https://www.mandarinai.lt/post/90748</link>
-      <description>Серед бійців 425-го полку «Скеля», які брали участь у спробах зачистки Гришиного біля Покровська, були й іноземні добровольці, - повне відео https://m.youtube.com/watch?v=PYNf7fSQVBo&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7809.MP4" length="4709839" type="video/mp4"/>
-      <pubDate>Mon, 06 Apr 2026 12:52:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 21:26:28 +0000</lastBuildDate>
     <item>
       <title>💥 Україна вперше за час війни </title>
       <link>https://www.mandarinai.lt/post/90750</link>
@@ -101,6 +94,13 @@
       <description>Екіпаж космічного корабля «Артеміда II» встановив рекорд дальності польоту від Землі — 406,773 km</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7827.MP4" length="8207307" type="video/mp4"/>
       <pubDate>Mon, 06 Apr 2026 19:57:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Воронезькій області дрони а</title>
+      <link>https://www.mandarinai.lt/post/90763</link>
+      <description>💥В Воронезькій області дрони атакували один із ключових хімзаводів рф, де виробляють аміак, азотну кислоту та аміачну селітру — базові компоненти для вибухових речовин.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-06_21-10-48.mp4" length="2661931" type="video/mp4"/>
+      <pubDate>Mon, 06 Apr 2026 21:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
