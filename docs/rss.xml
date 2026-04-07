@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 22:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 23:26:41 +0000</lastBuildDate>
     <item>
       <title>🛢💥Один із найбільших НПЗ Росії</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -14,15 +14,6 @@
 
 За даними джерел агентства, пошкодження настільки серйозні, що завод не може продовжувати переробку нафти 🔥</description>
       <pubDate>Tue, 07 Apr 2026 16:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Американські бомбардувальник</title>
-      <link>https://www.mandarinai.lt/post/90789</link>
-      <description>⚡️Американські бомбардувальники нещодавно вилетіли з Великої Британії, схоже, в напрямку Ірану 
-
-Якщо напрямок польоту туди – орієнтовний час польоту становить близько 7 годин, що збігається з дедлайном ультиматуму щодо нищівної атаки по Ірану</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-07_19-14-52.mp4" length="821521" type="video/mp4"/>
-      <pubDate>Tue, 07 Apr 2026 19:14:52 +0000</pubDate>
     </item>
     <item>
       <title>👀 Ви — справжні клоуни, — Біли</title>
@@ -60,6 +51,13 @@
       <description>💥🔥Нам своє робити. У тимчасово окупованому Луганську чисельні влучання добрих дроніа.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_20-48-09.jpg" length="143672" type="image/jpeg"/>
       <pubDate>Tue, 07 Apr 2026 20:48:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Повідомляють про ураження наф</title>
+      <link>https://www.mandarinai.lt/post/90803</link>
+      <description>💥Повідомляють про ураження нафтобази у Феодосії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_22-36-59.jpg" length="86304" type="image/jpeg"/>
+      <pubDate>Tue, 07 Apr 2026 22:36:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
