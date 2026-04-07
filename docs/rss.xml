@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 10:44:25 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Усть Лугу вночі та зранку зн</title>
-      <link>https://www.mandarinai.lt/post/90764</link>
-      <description>💥🔥Усть Лугу вночі та зранку знову атакують дрони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-07_04-13-13.mp4" length="534671" type="video/mp4"/>
-      <pubDate>Tue, 07 Apr 2026 04:13:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 11:42:17 +0000</lastBuildDate>
     <item>
       <title>Репортер: Чому ви кажете, що з</title>
       <link>https://www.mandarinai.lt/post/90768</link>
@@ -96,6 +89,21 @@
 🔥 Підбитий безпілотник вибухнув і згорів в полі, не заподіявши шкоди ані населенню, ані інфраструктурі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7829.MP4" length="10746312" type="video/mp4"/>
       <pubDate>Tue, 07 Apr 2026 10:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Спалили росіянам установку «Па</title>
+      <link>https://www.mandarinai.lt/post/90780</link>
+      <description>Спалили росіянам установку «Панцирь-С1», - оператори 23-ої бригади НГУ «Хортиця»
+
+Зенітний комплекс виявили в глибокому тилу противника в Запорізькій області.
+
+Орієнтовна вартість такого комплексу близько $15 млн.
+
+Системна робота БПЛА зменшує бойові можливості противника.
+
+Та, головне, вона не дає йому збивати нашу авіацію в районі Запоріжжя.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7836.MP4" length="8472555" type="video/mp4"/>
+      <pubDate>Tue, 07 Apr 2026 11:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
