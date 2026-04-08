@@ -6,44 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 08:04:22 +0000</lastBuildDate>
-    <item>
-      <title>💥 Розпочалися удари США та Ізр</title>
-      <link>https://www.mandarinai.lt/post/90801</link>
-      <description>💥 Розпочалися удари США та Ізраїлю по Ірану: в Араке уражено металурнійний завод, у Махшаре — нафтохімічний комплекс</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_20-45-35.jpg" length="57461" type="image/jpeg"/>
-      <pubDate>Tue, 07 Apr 2026 20:45:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Нам своє робити. У тимчасово</title>
-      <link>https://www.mandarinai.lt/post/90802</link>
-      <description>💥🔥Нам своє робити. У тимчасово окупованому Луганську чисельні влучання добрих дроніа.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_20-48-09.jpg" length="143672" type="image/jpeg"/>
-      <pubDate>Tue, 07 Apr 2026 20:48:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Повідомляють про ураження наф</title>
-      <link>https://www.mandarinai.lt/post/90803</link>
-      <description>💥Повідомляють про ураження нафтобази у Феодосії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_22-36-59.jpg" length="86304" type="image/jpeg"/>
-      <pubDate>Tue, 07 Apr 2026 22:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Офіційний представник США пові</title>
-      <link>https://www.mandarinai.lt/post/90804</link>
-      <description>Офіційний представник США повідомив, що всі військові операції проти Ірану зараз припинено, — Al Jazeera, NYT та інші міжнародні видання</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_23-37-09.jpg" length="38957" type="image/jpeg"/>
-      <pubDate>Tue, 07 Apr 2026 23:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Впродовж двох тижнів буде можл</title>
-      <link>https://www.mandarinai.lt/post/90805</link>
-      <description>Впродовж двох тижнів буде можливий безпечний прохід через Ормузьку протоку за умови координації зі Збройними силами Ірану та з урахуванням технічних обмежень, — міністр закордонних справ Ірану Аббас Арагчі
-
-Ціни на нафту одразу пішли вниз</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_23-39-11.jpg" length="108721" type="image/jpeg"/>
-      <pubDate>Tue, 07 Apr 2026 23:39:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 09:55:42 +0000</lastBuildDate>
     <item>
       <title>🇮🇷 Іран повідомив, що США пого</title>
       <link>https://www.mandarinai.lt/post/90806</link>
@@ -97,6 +60,24 @@
       <description>🔥Феодосія. АТ "Морський нафтовий термінал" - пожежа після нічної атаки дронів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_07-45-48.jpg" length="297233" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 07:45:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Увага, Херсон! Групою вибухоте</title>
+      <link>https://www.mandarinai.lt/post/90814</link>
+      <description>Увага, Херсон! Групою вибухотехніків УВТС виявлена нова міна. Окупанти дистанційно мінують житлові райони Херсона. 
+
+Боєприпас виглядає, як щось замотане в ганчірку. Має електронне керування. Для ураження як людей, так і техніки. 
+
+Будьте обережні. Нажаль, в місті небезпеку несуть всі предмети, які викликають цікавість.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_08-24-06.jpg" length="246248" type="image/jpeg"/>
+      <pubDate>Wed, 08 Apr 2026 08:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Ціни на АЗС незабаром підут</title>
+      <link>https://www.mandarinai.lt/post/90819</link>
+      <description>⚡️ Ціни на АЗС незабаром підуть вниз, — прем’єрка Свириденко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_09-38-47.jpg" length="50551" type="image/jpeg"/>
+      <pubDate>Wed, 08 Apr 2026 09:38:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
