@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 04:25:12 +0000</lastBuildDate>
-    <item>
-      <title>🔥 Україна знову вдарила по наф</title>
-      <link>https://www.mandarinai.lt/post/90795</link>
-      <description>🔥 Україна знову вдарила по нафтовому терміналу "Усть-Луга Ойл", - Генштаб
-
-"Попередньо підтверджено ураження трьох резервуарів, які належать підприємству "Транснефть-Балтика", - йдеться в повідомленні Генштабу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_19-41-53.jpg" length="150912" type="image/jpeg"/>
-      <pubDate>Tue, 07 Apr 2026 19:41:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 06:13:20 +0000</lastBuildDate>
     <item>
       <title>💥 Розпочалися удари США та Ізр</title>
       <link>https://www.mandarinai.lt/post/90801</link>
@@ -72,6 +63,33 @@
 🇵🇰 А, тим часом, переговори між Іраном та США призначені на 10 квітня в Ісламабаді.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-07_23-44-02.jpg" length="265900" type="image/jpeg"/>
       <pubDate>Tue, 07 Apr 2026 23:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Трамп заявив, що США розрахов</title>
+      <link>https://www.mandarinai.lt/post/90807</link>
+      <description>🙄Трамп заявив, що США розраховують сприяти проходу суден через Ормузьку протоку.
+
+Великий день для миру у всьому світі! Іран цього хоче — вони втомилися від цього! Як, втім, і всі інші! Сполучені Штати Америки допоможуть вирішити транспортний колапс в Ормузькій протоці. Нас чекає багато позитивних дій! Буде зароблено величезне багатство. Іран зможе приступити до відновлення. Ми почнемо накопичувати запаси всіх видів і просто будемо знаходитися поруч, щоб переконатися: все йде так, як треба. Я впевнений, що так і буде. Прямо як у нас в Америці, це може стати Золотим віком Близького Сходу!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_05-31-11.jpg" length="49192" type="image/jpeg"/>
+      <pubDate>Wed, 08 Apr 2026 05:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ росія планує наступ з новог</title>
+      <link>https://www.mandarinai.lt/post/90808</link>
+      <description>⚡️ росія планує наступ з нового напрямку: кремль хоче створити «буферну зону» у Вінницькій області з боку Придністров'я, хоча наразі не має для цього ресурсів — заступник голови ОП Паліса</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_05-33-18.jpg" length="153904" type="image/jpeg"/>
+      <pubDate>Wed, 08 Apr 2026 05:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп оголосив "повну та остат</title>
+      <link>https://www.mandarinai.lt/post/90810</link>
+      <description>Трамп оголосив "повну та остаточну перемогу" США після угоди про двотижневе припинення вогню
+
+"Повна та остаточна перемога. 100 відсотків. Без сумніву", — зазначив американський президент.
+
+У свою чергу, в Ірані також заявили про "перемогу" на тлі припинення вогню.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_06-07-08.jpg" length="69372" type="image/jpeg"/>
+      <pubDate>Wed, 08 Apr 2026 06:07:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
