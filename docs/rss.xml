@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 11:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:50:28 +0000</lastBuildDate>
     <item>
       <title>🇮🇷 Іран повідомив, що США пого</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -36,33 +36,9 @@
     </item>
     <item>
       <title>⚡️ Ціни на АЗС незабаром підут</title>
-      <link>https://www.mandarinai.lt/post/90819</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️ Ціни на АЗС незабаром підуть вниз, — прем’єрка Свириденко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_09-38-47.jpg" length="50551" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 09:38:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Противник продовжує нарощувати</title>
-      <link>https://www.mandarinai.lt/post/90820</link>
-      <description>Противник продовжує нарощувати інтенсивність на Запорізькому напрямку, не дивлячись на серйозні втрати особового складу і техніки.
-
-Лише в операційній зоні 17-го армійського корпусу за березень противник втратив 6917 військових:
-
-знищено - 3655;
-поранено - 3247;
-полон - 15.
-
-По втратам техніки та складів картина теж виглядає переконливо:
-
-танки - 12;
-ББМ - 90;
-артсистеми - 343;
-мотоавтотехніка - 1179;
-БПЛА крило - 153;
-Пускові установки БПЛА - 431;
-склади ПММ - 101;
-склади боєприпасів  - 34.</description>
-      <pubDate>Wed, 08 Apr 2026 10:21:21 +0000</pubDate>
     </item>
     <item>
       <title>Готували теракт в центрі Харко</title>
@@ -109,6 +85,15 @@
 🎁 Бонус: щомісяця до кінця 2026 року серед усіх учасників обиратимуть 3 переможці, які отримають мерч «Ми однієї крові» на знак подяки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_11-30-53.jpg" length="105893" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 11:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Ізраїльські сили завдали най</title>
+      <link>https://www.mandarinai.lt/post/90834</link>
+      <description>⚡️Ізраїльські сили завдали найбільший в історії удар по Лівану, — Clash 
+
+За 10 хвилин було уражено близько 100 цілей у Бейруті, долині Бекаа та на півдні країни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-08_12-00-02.mp4" length="502364" type="video/mp4"/>
+      <pubDate>Wed, 08 Apr 2026 12:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
