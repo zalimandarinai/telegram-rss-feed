@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 12:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 14:25:20 +0000</lastBuildDate>
     <item>
       <title>🇮🇷 Іран повідомив, що США пого</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -42,23 +42,13 @@
     </item>
     <item>
       <title>Готували теракт в центрі Харко</title>
-      <link>https://www.mandarinai.lt/post/90821</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Готували теракт в центрі Харкова, - СБУ затримала подружжя агентів рф 
 
 Пара виготовила саморобну бомбу, яку мала закласти у центральній частині Харкова та дистанційно підірвати під час найбільшого скупчення людей.
 
 Співробітники СБУ затримали агентів на етапі спорядження бомби в орендованій квартирі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_10-26-05.jpg" length="99040" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 10:26:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>😵‍💫💥 Перемирʼя не протрималось</title>
-      <link>https://www.mandarinai.lt/post/90825</link>
-      <description>😵‍💫💥 Перемирʼя не протрималось і дня: США та Ізраїль атакували нафтопереробний завод на півдні Ірану на острові Лаван, — телеканал Press TV
-
-А Іран вдарив по цілям у Кувейті, Бахрейні та ОАЕ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_11-26-27.jpg" length="119187" type="image/jpeg"/>
-      <pubDate>Wed, 08 Apr 2026 11:26:27 +0000</pubDate>
     </item>
     <item>
       <title>Скіни, які рятують життя 🩸
@@ -94,6 +84,13 @@
 За 10 хвилин було уражено близько 100 цілей у Бейруті, долині Бекаа та на півдні країни.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-08_12-00-02.mp4" length="502364" type="video/mp4"/>
       <pubDate>Wed, 08 Apr 2026 12:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Нафтобаза у Феодосії, атакова</title>
+      <link>https://www.mandarinai.lt/post/90840</link>
+      <description>🔥Нафтобаза у Феодосії, атакована вночі, продовжує палати, так, що видно з космосу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_13-13-55.jpg" length="74487" type="image/jpeg"/>
+      <pubDate>Wed, 08 Apr 2026 13:13:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
