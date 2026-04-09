@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 06:12:58 +0000</lastBuildDate>
-    <item>
-      <title>Нові задушевні розмови Лаврова</title>
-      <link>https://www.mandarinai.lt/post/90857</link>
-      <description>Нові задушевні розмови Лаврова та Сійярто: угорець  координував з росіянином дії, щоб загальмувати переговори про приєднання України до ЄС, — VSquare.org 
-
-Нинішня правляча верхівка Угорщини використовувала проблеми прав угорської меншини в якості головного приводу для гальмування переговорів про вступ до ЄС, узгоджуючи позиції з Лавровим.
-
-Глава МЗС рф та міністр закордонних справ Угорщини Сійярто домовляються про формулювання щодо «прав національних меншин» і про передачу відповідних документів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7884.MP4" length="19962263" type="video/mp4"/>
-      <pubDate>Wed, 08 Apr 2026 16:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупант дуже довго бігав, як к</title>
-      <link>https://www.mandarinai.lt/post/90858</link>
-      <description>Окупант дуже довго бігав, як кінь, і грамотно ухилявся від дронів 475-го окремого штурмового полку «Code 9.2». Але, як кажуть в підрозділі, «наступає момент, коли навіть найшвидший кінь теж втомлюється». Саме такого моменту й дочекались оператори дронів, щоб припинити безпорадний хаотичний біг окупанта по полю в Запорізькій області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7885.MP4" length="18123463" type="video/mp4"/>
-      <pubDate>Wed, 08 Apr 2026 16:28:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 08:08:09 +0000</lastBuildDate>
     <item>
       <title>Троє людей загинули, ще 12 отр</title>
       <link>https://www.mandarinai.lt/post/90859</link>
@@ -96,11 +78,31 @@
       <pubDate>Thu, 09 Apr 2026 05:29:01 +0000</pubDate>
     </item>
     <item>
+      <title>🔴ЗСУ перехопили стратегічну ін</title>
+      <link>https://www.mandarinai.lt/post/90871</link>
+      <description>🔴ЗСУ перехопили стратегічну ініціативу на фронті і не дають рф відновити масштабний наступ, — Сирський 
+
+💪 Нарощують потужність підрозділи безпілотних систем: у березні, порівняно з лютим, показник загальних втрат особового складу ворога зріс на 29%.
+
+💪 Не відстають і засоби Middle Strike: уражено 143 об’єкти логістики РФ, 52 пункти управління російської армії, 20 об’єктів нафтової й енергетичної галузі ворога та багато іншого</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_05-31-29.jpg" length="67406" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 05:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 НАТО не було поруч, коли ми </title>
+      <link>https://www.mandarinai.lt/post/90874</link>
+      <description>👀 НАТО не було поруч, коли ми їх потребували, і їх не буде поруч, якщо вони знадобляться нам знову, — Трамп
+
+Згадайте Гренландію — цей великий, погано керований шматок льоду!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_06-34-49.jpg" length="70715" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 06:34:49 +0000</pubDate>
+    </item>
+    <item>
       <title>🔥Добрі дрони вночі атакували е</title>
-      <link>https://www.mandarinai.lt/post/90872</link>
+      <link>https://www.mandarinai.lt/post/90875</link>
       <description>🔥Добрі дрони вночі атакували електропідстанцію "Кримська" Краснодарському краї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_05-40-48.mp4" length="136319" type="video/mp4"/>
-      <pubDate>Thu, 09 Apr 2026 05:40:48 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_06-35-06.mp4" length="136319" type="video/mp4"/>
+      <pubDate>Thu, 09 Apr 2026 06:35:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
