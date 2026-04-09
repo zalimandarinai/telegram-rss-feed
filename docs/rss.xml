@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 19:55:29 +0000</lastBuildDate>
-    <item>
-      <title>Трамп продовжить скасовувати с</title>
-      <link>https://www.mandarinai.lt/post/90896</link>
-      <description>Трамп продовжить скасовувати санкції проти Росії, щоб уникнути подальшого підвищення цін на паливо, — Semafor</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_12-37-30.jpg" length="165087" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 12:37:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 20:37:56 +0000</lastBuildDate>
     <item>
       <title>Оператори перехоплювачів 210-г</title>
       <link>https://www.mandarinai.lt/post/90898</link>
@@ -112,6 +105,20 @@ https://i.goit.global/JakWT</description>
 Воно триватиме з 16:00 11 квітня до кінця дня 12 квітня. Тобто трохи більше доби.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_19-50-32.jpg" length="132078" type="image/jpeg"/>
       <pubDate>Thu, 09 Apr 2026 19:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Приліт у Перевальську на окуп</title>
+      <link>https://www.mandarinai.lt/post/90911</link>
+      <description>💥Приліт у Перевальську на окупованій Луганщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_20-12-03.mp4" length="331575" type="video/mp4"/>
+      <pubDate>Thu, 09 Apr 2026 20:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Тим часом "сво" докотилось д</title>
+      <link>https://www.mandarinai.lt/post/90913</link>
+      <description>⚡️Тим часом "сво" докотилось до далекої російської Казані. Там вперше звучить сирена повітряної тривоги і очікують дебютний придіт дронів демократії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_20-14-21.mp4" length="1507929" type="video/mp4"/>
+      <pubDate>Thu, 09 Apr 2026 20:14:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
