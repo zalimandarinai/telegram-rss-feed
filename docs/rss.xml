@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 14:47:26 +0000</lastBuildDate>
-    <item>
-      <title>🔴Американські війська збережут</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🔴Американські війська збережуть присутність навколо Ірану до виконання угоди.
-
-У разі відмови чи порушення, битимуть по Ірану ще масштабніше</description>
-      <pubDate>Thu, 09 Apr 2026 05:29:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Загроза сильніших обстрілів:</title>
-      <link>https://www.mandarinai.lt/post/90884</link>
-      <description>❗️Загроза сильніших обстрілів: росія тепер бʼє керованим реактивним дроном «Герань-5», швидкість яких в 3  рази більша за «шахеди» – він за конструкцією ближче навіть до міні-крилатої ракети
-
-• Крейсерська швидкість дрона становить 450–600 км/год, а максимальна може сягати 650 км/год — що ускладнює роботу ППО та МВГ. 
-• Дальність польоту: До 950–1000 км.
-• Бойова частина: Вага складає близько 90 кг.
-
-На відео окупанти хизуються ударом по енергетичній інфраструктурі Сумщини цим самим реактивним дроном.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_09-27-13.mp4" length="1301708" type="video/mp4"/>
-      <pubDate>Thu, 09 Apr 2026 09:27:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 16:09:16 +0000</lastBuildDate>
     <item>
       <title>❗️СБУ викрила російського аген</title>
       <link>https://www.mandarinai.lt/post/90886</link>
@@ -84,6 +63,38 @@
       <description>Трамп продовжить скасовувати санкції проти Росії, щоб уникнути подальшого підвищення цін на паливо, — Semafor</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_12-37-30.jpg" length="165087" type="image/jpeg"/>
       <pubDate>Thu, 09 Apr 2026 12:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори перехоплювачів 210-г</title>
+      <link>https://www.mandarinai.lt/post/90898</link>
+      <description>Оператори перехоплювачів 210-го ОШП збили 6 дронів типу «шахед» на підльоті до Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7911.MP4" length="8933388" type="video/mp4"/>
+      <pubDate>Thu, 09 Apr 2026 15:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Безкоштовно спробуйте AI-про</title>
+      <link>https://www.mandarinai.lt/post/90899</link>
+      <description>‼️Безкоштовно спробуйте AI-професію за 3 дні!
+
+Перейти в нову сферу складно: багато інформації, незрозуміло з чого почати, важко оцінити свої сили.
+
+🤖AI-напрям зараз один із найперспективніших — і водночас доступний навіть без технічного бекграунду.
+
+Тому ми запрошуємо вас на 3х денний інтенсив "АІ-автоматизація без програмування"
+
+⏺День1: Зробите сучасний, стильний лендинг без коду 
+
+⏺День2: Створите з нуля сучасного АІ агента 
+
+⏺День3: Навчитесь монетизувати та розвивати отриманні навички 
+
+🎁 Бонус за реєстрацію: Гайд "Як інтегрувати АІ у своє життя"
+
+Скоріш реєструйся та безкоштовно спробуй себе у ролі АІ-фахівця
+
+https://i.goit.global/JakWT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_15-47-56.jpg" length="102939" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 15:47:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
