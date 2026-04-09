@@ -6,68 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 08:08:09 +0000</lastBuildDate>
-    <item>
-      <title>Троє людей загинули, ще 12 отр</title>
-      <link>https://www.mandarinai.lt/post/90859</link>
-      <description>Троє людей загинули, ще 12 отримали поранення
-
-Ворог атакував FPV-дроном міський автобус у самому центрі Нікополя, коли він під’їжджав до зупинки – люди були як у салоні, так і на зупинці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_17-44-14.jpg" length="363356" type="image/jpeg"/>
-      <pubDate>Wed, 08 Apr 2026 17:44:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥🔥 Рекордні понад 33 000 ворож</title>
-      <link>https://www.mandarinai.lt/post/90860</link>
-      <description>🔥🔥 Рекордні понад 33 000 ворожих БпЛА різного типу знищили дрони-перехоплювачі в березні, — Федоров. 
-
-Це вдвічі більше, ніж минулого місяця. Міністр оборони заявив, що ключовий виклик зараз – реактивні шахеди. Ворог масштабує їх застосування, швидкість зростає, перехоплення ускладнюється.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_17-48-02.jpg" length="80731" type="image/jpeg"/>
-      <pubDate>Wed, 08 Apr 2026 17:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳 Ізраїль ледь не вбив главу М</title>
-      <link>https://www.mandarinai.lt/post/90861</link>
-      <description>😳 Ізраїль ледь не вбив главу МЗС Бельгії під час його візиту до Лівану — саме в той момент обговорювали можливості припинення вогню 
-
-Ізраїльські ракети влучили всього за кілька метрів від місця, де Прево перебував із делегацією</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_17-55-07.jpg" length="69822" type="image/jpeg"/>
-      <pubDate>Wed, 08 Apr 2026 17:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬лавров давав вказівки главі М</title>
-      <link>https://www.mandarinai.lt/post/90862</link>
-      <description>🤬лавров давав вказівки главі МЗС Угорщини Сійярто, щоб той гальмував переговори про вступ України до ЄС, — розслідування</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-08_17-57-27.mp4" length="5967504" type="video/mp4"/>
-      <pubDate>Wed, 08 Apr 2026 17:57:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Трамп на зустрічі з Рютте обг</title>
-      <link>https://www.mandarinai.lt/post/90863</link>
-      <description>🤬Трамп на зустрічі з Рютте обговорить можливість виходу з Альянсу та виведення військ США, — Білий дім
-
-Зустріч розпочнеться за кілька годин</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-08_18-29-58.mp4" length="2383976" type="video/mp4"/>
-      <pubDate>Wed, 08 Apr 2026 18:29:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐 Трамп розглядає виведення ві</title>
-      <link>https://www.mandarinai.lt/post/90864</link>
-      <description>😐 Трамп розглядає виведення військ США з частини країн НАТО через відмову підтримати кампанію проти Ірану, — WSJ 
-
-Серед можливих напрямків для скорочення присутності називають бази в Іспанії та Німеччині. Війська планують перемістити до країн, які підтримали Вашингтон.
-
-Сам Трамп розглядає це як «покарання» для союзників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-08_20-44-59.jpg" length="86728" type="image/jpeg"/>
-      <pubDate>Wed, 08 Apr 2026 20:44:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥У районі окупованих Алчевськ</title>
-      <link>https://www.mandarinai.lt/post/90865</link>
-      <description>💥🔥У районі окупованих Алчевська/Перевальська на Луганщині прильоти по базах ремонту та обслуговування техніки рашистів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_04-53-05.jpg" length="110170" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 04:53:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 10:00:23 +0000</lastBuildDate>
     <item>
       <title>🔴Американські війська збережут</title>
       <link>https://www.mandarinai.lt/post/90870</link>
@@ -100,9 +39,40 @@
     <item>
       <title>🔥Добрі дрони вночі атакували е</title>
       <link>https://www.mandarinai.lt/post/90875</link>
-      <description>🔥Добрі дрони вночі атакували електропідстанцію "Кримська" Краснодарському краї</description>
+      <description>🔥Добрі дрони вночі атакували електропідстанцію "Кримська" в Краснодарському краї</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_06-35-06.mp4" length="136319" type="video/mp4"/>
       <pubDate>Thu, 09 Apr 2026 06:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺🇯🇵 Кремль істерить - рф викл</title>
+      <link>https://www.mandarinai.lt/post/90876</link>
+      <description>🇷🇺🇯🇵 Кремль істерить - рф викликала японського посла та звинуватила Токіо у ворожих діях через інвестиції в українські безпілотні технології, — Bloomberg
+
+Йдеться про інвестицію "Terra Drone" в українську компанію "Amazing Drones LLC", яка займається розробкою дронів-перехоплювачів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_08-32-51.jpg" length="56717" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 08:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯 У США підозрюваного у вбивст</title>
+      <link>https://www.mandarinai.lt/post/90882</link>
+      <description>🤯 У США підозрюваного у вбивстві українки Ірини Заруцької визнали психічно неспроможним постати перед судом: розгляд справи призупинено, — Daily Wire
+
+Нагадаюємо, 23-річну киянку минулоріч вбив 34-річний ДеКарлос Браун. Він наніс їй смертельні ножові поранення в шию.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_08-54-18.jpg" length="198072" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 08:54:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Загроза сильніших обстрілів:</title>
+      <link>https://www.mandarinai.lt/post/90884</link>
+      <description>❗️Загроза сильніших обстрілів: росія тепер бʼє керованим реактивним дроном «Герань-5», швидкість яких в 3  рази більша за «шахеди» – він за конструкцією ближче навіть до міні-крилатої ракети
+
+• Крейсерська швидкість дрона становить 450–600 км/год, а максимальна може сягати 650 км/год — що ускладнює роботу ППО та МВГ. 
+• Дальність польоту: До 950–1000 км.
+• Бойова частина: Вага складає близько 90 кг.
+
+На відео окупанти хизуються ударом по енергетичній інфраструктурі Сумщини цим самим реактивним дроном.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_09-27-13.mp4" length="1301708" type="video/mp4"/>
+      <pubDate>Thu, 09 Apr 2026 09:27:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
