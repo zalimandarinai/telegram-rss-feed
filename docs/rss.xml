@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 15:38:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 16:37:43 +0000</lastBuildDate>
     <item>
       <title>🤬Окупанти вдарили дроном по ре</title>
       <link>https://www.mandarinai.lt/post/90932</link>
@@ -184,7 +184,7 @@ ________________________________________
 Агресор скерував удар по житловій багатоповерхівці в Ковпаківському районі міста.
 
 Над містом ще літають російські безпілотники, попереджає міська військова адміністрація.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-10_15-08-14.jpg" length="163118" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7935.MP4" length="1181009" type="video/mp4"/>
       <pubDate>Fri, 10 Apr 2026 15:08:14 +0000</pubDate>
     </item>
   </channel>
