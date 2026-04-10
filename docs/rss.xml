@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 10:44:00 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Україна продовжує отримувати</title>
-      <link>https://www.mandarinai.lt/post/90920</link>
-      <description>⚡️Україна продовжує отримувати ракети до Patriot, — Зеленський
-
-Зокрема, цими днями надійшла нова партія.
-
- Ми продовжуємо працювати з усіма партнерами, щоб посилювати ППО , — заявив президент</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-10_07-31-28.jpg" length="49605" type="image/jpeg"/>
-      <pubDate>Fri, 10 Apr 2026 07:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Знищено ворожу РСЗВ 9К51М «Тор</title>
-      <link>https://www.mandarinai.lt/post/90921</link>
-      <description>Знищено ворожу РСЗВ 9К51М «Торнадо-Г», - спрацювали оператори підрозділу Р.У.Г. та 72-ої ОМБР
-
-Система коштує $2,7 млн., виробництво займає до 12 місяців, тому втрату «Торнадо-Г»  неможливо швидко компенсувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7919.MP4" length="13696654" type="video/mp4"/>
-      <pubDate>Fri, 10 Apr 2026 07:43:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Apr 2026 11:37:54 +0000</lastBuildDate>
     <item>
       <title>🔥В російському Волгограді пала</title>
       <link>https://www.mandarinai.lt/post/90922</link>
@@ -100,6 +80,38 @@
 Правильна і схвальна тенденція</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-10_10-21-16.jpg" length="92681" type="image/jpeg"/>
       <pubDate>Fri, 10 Apr 2026 10:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Громадянин Білорусі, якого </title>
+      <link>https://www.mandarinai.lt/post/90935</link>
+      <description>❗️ Громадянин Білорусі, якого зовуть Юрий Мальщицький, добровільно здався в полон 47-ій ОМБР «Маґура» на Сумщині. 
+
+➡️ Під час виходу його довелось рятувати. Поки білоруський найманець намагався виходити з позиції – підірвався на міні. По криках його знайшли бійці 47-ої ОМБР. Один з українських воїнів ніс окупанта на собі 10 км по замінованій території. 
+
+💬 «Ніс його для того, щоб обміняти на когось із наших хлопців. Їх чимало в полоні. Можна сказати, одне життя я врятував», - каже боєць з позивним «Лють», який врятував найманця.  
+
+⚔️ 18-ий армійський корпус 
+
+🎥 47-а ОМБР «Маґура»</description>
+      <pubDate>Fri, 10 Apr 2026 11:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛬 Масштабне спільне полювання </title>
+      <link>https://www.mandarinai.lt/post/90936</link>
+      <description>🛬 Масштабне спільне полювання на російські системи ППО С-300, - «Lasar’s Group» НГУ, Повітряні Сили ЗСУ та 15-а бригада артилерійської розвідки показали результат. 
+
+Було сплановано кілька етапів. На кожному було уражено важливі цілі.
+
+📍 Перший етап: знищення російського комплексу РЕБ «Палантин». 
+
+📍 Другий етап: удари «Lasar's Group» по ЗРК С-300 за підтримки 15 ОбрАР «Чорний ліс».   
+
+Завдяки спільним аналітичним діям завдали ударів по:
+🔺 пусковій установці системи С-300В;
+🔺 багатоканальній станції наведення ракет системи С-300В.
+
+📍 Третій етап: після того, як були нейтралізовані ворожі комплекси ППО, літаки ОК «Південь» знищили пункт управління російських БПЛА.</description>
+      <pubDate>Fri, 10 Apr 2026 11:22:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
