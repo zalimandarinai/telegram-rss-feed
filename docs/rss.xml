@@ -6,52 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 04:35:25 +0000</lastBuildDate>
-    <item>
-      <title>‼️Безкоштовно спробуйте AI-про</title>
-      <link>https://www.mandarinai.lt/post/90899</link>
-      <description>‼️Безкоштовно спробуйте AI-професію за 3 дні!
-
-Перейти в нову сферу складно: багато інформації, незрозуміло з чого почати, важко оцінити свої сили.
-
-🤖AI-напрям зараз один із найперспективніших — і водночас доступний навіть без технічного бекграунду.
-
-Тому ми запрошуємо вас на 3х денний інтенсив "АІ-автоматизація без програмування"
-
-⏺День1: Зробите сучасний, стильний лендинг без коду 
-
-⏺День2: Створите з нуля сучасного АІ агента 
-
-⏺День3: Навчитесь монетизувати та розвивати отриманні навички 
-
-🎁 Бонус за реєстрацію: Гайд "Як інтегрувати АІ у своє життя"
-
-Скоріш реєструйся та безкоштовно спробуй себе у ролі АІ-фахівця
-
-https://i.goit.global/JakWT</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_15-47-56.jpg" length="102939" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 15:47:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Не думаю, що Україна вступить</title>
-      <link>https://www.mandarinai.lt/post/90900</link>
-      <description>«Не думаю, що Україна вступить до НАТО найближчим часом», — Рютте
-
-Про це генсек НАТО Марк Рютте заявив під час дискусії в Інституті Рональда Рейгана. Він додав, що це поки що неможливо політично, водночас НАТО вивчає всі уроки з російсько-української війни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-09_16-22-30.mp4" length="1832727" type="video/mp4"/>
-      <pubDate>Thu, 09 Apr 2026 16:22:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 російське ППО не справляєтьс</title>
-      <link>https://www.mandarinai.lt/post/90902</link>
-      <description>💥 російське ППО не справляється: результативність українських ударів у тилу ворога різко зросла, - BBC
-
-З кінця березня Україна масштабно атакує нафтову інфраструктуру РФ, зокрема термінали в Усть-Лузі та Новоросійську. 
-
-Через дефіцит зенітних ракет та величезну територію російська ППО фактично втратила ініціативу, не маючи змоги прикрити всі стратегічні об'єкти від масових нальотів дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_16-45-42.jpg" length="84751" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 16:45:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Apr 2026 06:24:17 +0000</lastBuildDate>
     <item>
       <title>🔥На нафтобазі в Феодосії після</title>
       <link>https://www.mandarinai.lt/post/90903</link>
@@ -119,6 +74,20 @@ https://i.goit.global/JakWT</description>
       <description>Зеленський підтвердив Великоднє перемир’я: ми готові до дзеркальних кроків</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-09_21-33-18.jpg" length="131024" type="image/jpeg"/>
       <pubDate>Thu, 09 Apr 2026 21:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴 Настав момент, коли військов</title>
+      <link>https://www.mandarinai.lt/post/90915</link>
+      <description>🔴 Настав момент, коли військові повинні допомагати ТЦК проводити мобілізацію. Ми маємо створити ухилянтам максимально незручні умови для існування, — офіцер Третього армійського корпусу Дмитро Савченко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-10_05-34-27.mp4" length="995325" type="video/mp4"/>
+      <pubDate>Fri, 10 Apr 2026 05:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вночі дрони демократії навід</title>
+      <link>https://www.mandarinai.lt/post/90916</link>
+      <description>💥🔥Вночі дрони демократії навідались у Волгоградську та Ростовську області рф (результати уточнюються), а також зруйнували ремонту базу окупантів на Луганщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-10_05-40-52.mp4" length="387826" type="video/mp4"/>
+      <pubDate>Fri, 10 Apr 2026 05:40:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
