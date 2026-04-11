@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 14:25:51 +0000</lastBuildDate>
-    <item>
-      <title>В Єрусалимі зійшов Благодатний</title>
-      <link>https://www.mandarinai.lt/post/90994</link>
-      <description>В Єрусалимі зійшов Благодатний вогонь.
-
-Святиню з Храму Гробу Господнього вже починають розвозити країнами світу. Традиційно вогонь доправлять і до України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-11_11-49-15.mp4" length="791520" type="video/mp4"/>
-      <pubDate>Sat, 11 Apr 2026 11:49:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 15:21:44 +0000</lastBuildDate>
     <item>
       <title>✅ Динаміка цін на пальне в Укр</title>
       <link>https://www.mandarinai.lt/post/90996</link>
@@ -80,7 +71,10 @@
       <link>https://www.mandarinai.lt/post/91000</link>
       <description>🤷‍♂️ Ось воно що. Іран не відкриває транзит через Ормузьку протоку, тому що не може знайти всі встановлені ним міни в  протоці, — New York Times
 
-💣Тегеран хаотично заміновував протоку і тепер не може точно визначити розташування всіх протикорабельних мін.           ⛴Частина з них могла дрейфувати або змінювати позицію, а їхня точна кількість та місця розташування залишаються невідомими. ⛽️ Не дуже позитивна новина для цін на пальне.</description>
+💣Тегеран хаотично заміновував протоку і тепер не може точно визначити розташування всіх протикорабельних мін.           
+
+⛴Частина з них могла дрейфувати або змінювати позицію, а їхня точна кількість та місця розташування залишаються невідомими. 
+⛽️ Не дуже позитивна новина для цін на пальне.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_13-03-33.jpg" length="169749" type="image/jpeg"/>
       <pubDate>Sat, 11 Apr 2026 13:03:33 +0000</pubDate>
     </item>
@@ -110,6 +104,27 @@
 🤷‍♂️ Мінуси?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_14-15-59.jpg" length="83387" type="image/jpeg"/>
       <pubDate>Sat, 11 Apr 2026 14:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Друзі, якщо ви хотіли почути і</title>
+      <link>https://www.mandarinai.lt/post/91008</link>
+      <description>Друзі, якщо ви хотіли почути інсайди від командира підрозділу ГУР МОУ. Про те, чи варто чекати навіть на поганий мир або готуватись до постійної війни.
+
+Тоді залітайте на канал друга Каппи, який він веде у вільний час особисто. Без скопійованих новин та з тверезим аналізом ситуації.
+https://t.me/+vBYyeNTJBVswYzM0</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_14-27-46.jpg" length="83792" type="image/jpeg"/>
+      <pubDate>Sat, 11 Apr 2026 14:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Для того, щоб допомогти другу </title>
+      <link>https://www.mandarinai.lt/post/91009</link>
+      <description>Для того, щоб допомогти другу Орбану, путінська воєнна розвідка направила до Будапешта своїх пропагандистів та політтехнологів, - The Insider.
+
+Також для підтримки огидного проросійського персонажа залучена адміністрація Кремля.
+
+Створення цифрового контенту фейків контролює референтка Управління АП з розвитку інформаційних технологій Софія Захарова, з якою працюють приватні підрядники, головним з яких є Агентство соціального проєктування, контрольоване Іллею Гамбашидзе, та пов’язана з ним група компаній «Структура».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_14-57-13.jpg" length="79267" type="image/jpeg"/>
+      <pubDate>Sat, 11 Apr 2026 14:57:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
