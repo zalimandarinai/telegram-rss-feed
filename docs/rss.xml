@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 08:28:55 +0000</lastBuildDate>
-    <item>
-      <title>🤬Щойно в Сумах приліт «Шахеда»</title>
-      <link>https://www.mandarinai.lt/post/90952</link>
-      <description>🤬Щойно в Сумах приліт «Шахеда» по багатоповерхівці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-10_19-49-16.jpg" length="56664" type="image/jpeg"/>
-      <pubDate>Fri, 10 Apr 2026 19:49:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Повідомляють про поранених вна</title>
-      <link>https://www.mandarinai.lt/post/90954</link>
-      <description>Повідомляють про поранених внаслідок влучання ворожого БпЛА в багатоповерхівку в Сумах. Серед постраждалих діти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-10_20-29-43.jpg" length="114957" type="image/jpeg"/>
-      <pubDate>Fri, 10 Apr 2026 20:29:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 09:29:24 +0000</lastBuildDate>
     <item>
       <title>На Донеччині закриють антидрон</title>
       <link>https://www.mandarinai.lt/post/90956</link>
@@ -90,6 +76,22 @@
       <description>В російській Твері вночі були «прильоти». Місцеві чули три вибухи в районі «Перемерки». Там знаходиться промислова зона. Офіційних коментарів російської влади немає. Відстань від Твері до найближчого кордону з Україною 800 кілометрів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7948.MP4" length="6044344" type="video/mp4"/>
       <pubDate>Sat, 11 Apr 2026 07:53:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нічна атака «шахедів» по Сумах</title>
+      <link>https://www.mandarinai.lt/post/90968</link>
+      <description>Нічна атака «шахедів» по Сумах демонструє зміну тактики російських терористів.
+
+Тепер «шахеди» можуть заходити на ціль тихо. Виявити наближення безпілотника в такому випадку вкрай складно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7949.MP4" length="14011560" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 08:47:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>1883 зустрічі дронів з російсь</title>
+      <link>https://www.mandarinai.lt/post/90969</link>
+      <description>1883 зустрічі дронів з російськими окупантами. Таку кількість влучань забезпечив Центр спецоперацій «А» СБУ за тиждень. Про роботу «Альфи» детальніше можна дізнатися з нашого матеріалу, який ми зняли в районі Покровська https://m.youtube.com/watch?v=_I2hgFpsg38</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7950.MP4" length="28394088" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 09:10:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
