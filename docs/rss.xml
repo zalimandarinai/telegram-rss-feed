@@ -6,35 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 12:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 13:45:14 +0000</lastBuildDate>
     <item>
       <title>В російській Твері вночі були </title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>В російській Твері вночі були «прильоти». Місцеві чули три вибухи в районі «Перемерки». Там знаходиться промислова зона. Офіційних коментарів російської влади немає. Відстань від Твері до найближчого кордону з Україною 800 кілометрів.</description>
       <pubDate>Sat, 11 Apr 2026 07:53:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нічна атака «шахедів» по Сумах</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Нічна атака «шахедів» по Сумах демонструє зміну тактики російських терористів.
-
-Тепер «шахеди» можуть заходити на ціль тихо. Виявити наближення безпілотника в такому випадку вкрай складно.</description>
-      <pubDate>Sat, 11 Apr 2026 08:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦🇬🇧 Борис Джонсон таємно приї</title>
-      <link>https://www.mandarinai.lt/post/90987</link>
-      <description>🇺🇦🇬🇧 Борис Джонсон таємно приїхав на фронт і заявив, що Україна неодмінно знову стане вільною.
-
-📍 Джонсон провів на Запорізькому напрямку два дні разом з бійцями славетної 65-ої бригади.
-
-💬 «Причина мого приїзду до Запоріжжя в тому, що путін відчайдушно, проте, безуспішно, намагається захопити його», - так написав Джонсон в статті для Daily Mail
-
-💬 «Після 48 годин на фронті я ще більше переконаний, що українці переможуть. Настане день, і вони позбудуться орків армії путіна, а ця прекрасна і благодатна країна стане вільною».
-
-🤝 Дякуємо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_11-35-42.jpg" length="186162" type="image/jpeg"/>
-      <pubDate>Sat, 11 Apr 2026 11:35:42 +0000</pubDate>
     </item>
     <item>
       <title>В Єрусалимі зійшов Благодатний</title>
@@ -103,6 +80,22 @@
 ▫️ стале припинення вогню.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_12-20-01.jpg" length="112159" type="image/jpeg"/>
       <pubDate>Sat, 11 Apr 2026 12:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂️ Ось воно що. Іран не відк</title>
+      <link>https://www.mandarinai.lt/post/91000</link>
+      <description>🤷‍♂️ Ось воно що. Іран не відкриває транзит через Ормузьку протоку, тому що не може знайти всі встановлені ним міни в  протоці, — New York Times
+
+💣Тегеран хаотично заміновував протоку і тепер не може точно визначити розташування всіх протикорабельних мін.           ⛴Частина з них могла дрейфувати або змінювати позицію, а їхня точна кількість та місця розташування залишаються невідомими. ⛽️ Не дуже позитивна новина для цін на пальне.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_13-03-33.jpg" length="169749" type="image/jpeg"/>
+      <pubDate>Sat, 11 Apr 2026 13:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ О 15:30, за півгодини до ре</title>
+      <link>https://www.mandarinai.lt/post/91001</link>
+      <description>⚡️ О 15:30, за півгодини до режиму припинення вогню, росіяни атакували з дрона тролейбус в Херсоні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_13-08-15.jpg" length="175113" type="image/jpeg"/>
+      <pubDate>Sat, 11 Apr 2026 13:08:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
