@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 10:21:33 +0000</lastBuildDate>
-    <item>
-      <title>❗Вночі «шахед»  
-влетів у квар</title>
-      <link>https://www.mandarinai.lt/post/90962</link>
-      <description>❗Вночі «шахед»  
-влетів у квартиру на 10 поверсі в Одесі і не вибухнув, а залишився лежати просто посеред кімнати</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_07-29-16.jpg" length="170595" type="image/jpeg"/>
-      <pubDate>Sat, 11 Apr 2026 07:29:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Корабельному районі Херсона </title>
-      <link>https://www.mandarinai.lt/post/90964</link>
-      <description>В Корабельному районі Херсона росіяни скинули вибухівку з дрона в житловому кварталі. 
-
-Також в Корабельному районі виявили тіло 50-річного чоловіка. Очевидно, він загинув, опинившись під обстрілом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7945.MP4" length="6497482" type="video/mp4"/>
-      <pubDate>Sat, 11 Apr 2026 07:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кадри входження в атмосферу Зе</title>
-      <link>https://www.mandarinai.lt/post/90965</link>
-      <description>Кадри входження в атмосферу Землі до моменту посадки, зняті екіпажем «Артеміди II» з борту посадкового модуля</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7946.MP4" length="5440712" type="video/mp4"/>
-      <pubDate>Sat, 11 Apr 2026 07:42:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 11:19:56 +0000</lastBuildDate>
     <item>
       <title>В російській Твері вночі були </title>
       <link>https://www.mandarinai.lt/post/90966</link>
@@ -89,6 +64,38 @@
 📌 Делегація приземлилася на авіабазі неподалік від Ісламабада.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_10-18-00.jpg" length="77678" type="image/jpeg"/>
       <pubDate>Sat, 11 Apr 2026 10:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇬🇧 Велика Британія першою на З</title>
+      <link>https://www.mandarinai.lt/post/90976</link>
+      <description>🇬🇧 Велика Британія першою на Заході розробляє загальнонаціональний план переходу країни до воєнного стану, - керівник Збройних сил сер Річард Найтон в інтерв'ю Sky News.
+
+Масштабний план, над яким працює уряд, передбачає можливий перехід всієї країни на воєнні рейки.
+
+План поєднує в одну систему не лише військових, а й поліцію, медиків, виробництво та цивільне населення.
+
+Британці демонструють системний підхід.
+
+Треба готуватися до війни, і це дає шанс її уникнути.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_10-36-47.jpg" length="62786" type="image/jpeg"/>
+      <pubDate>Sat, 11 Apr 2026 10:36:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Наші вдома! Зеленський підтв</title>
+      <link>https://www.mandarinai.lt/post/90978</link>
+      <description>⚡️Наші вдома! Зеленський підтвердив обмін полоненими за формулою 175 на 175
+
+Серед повернених в Україну — солдати Збройних сил, нацгвардійці, прикордонники, а також сім цивільних осіб.
+
+«Наші воїни захищали Україну на різних напрямках: у Маріуполі, на ЧАЕС, на донецькому, луганському, харківському, херсонському, запорізькому, сумському, київському, курському напрямках. Серед них є поранені. Більшість перебували у полоні з 2022 року. І нарешті — вдома», — написав президент України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-11_10-57-26.mp4" length="15426133" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 10:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ой, як невдобно вийшло! Москов</title>
+      <link>https://www.mandarinai.lt/post/90979</link>
+      <description>Ой, як невдобно вийшло! Московський Z-пропагандист Віктор Олевич, який в програмі «Место встречи» лякав росіян про плани Америки розвалити росію, втік на Захід. Більше того, в нього виявився паспорт США. Зараз він в Греції і просить допомоги в Держдепу Сполучених Штатів. Тобто, брехати це була просто його робота, нічого особистого.</description>
+      <pubDate>Sat, 11 Apr 2026 11:19:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
