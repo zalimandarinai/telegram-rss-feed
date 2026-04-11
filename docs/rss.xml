@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 17:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 18:25:11 +0000</lastBuildDate>
     <item>
       <title>Обмін з іншого боку. «Вот что </title>
       <link>https://www.mandarinai.lt/post/91006</link>
@@ -95,6 +95,44 @@ https://t.me/+vBYyeNTJBVswYzM0</description>
       <description>🤷‍♂️ Мужик із сокирою накинувся на військово-транспортний літак США в Ірландії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/gsQmkXBuPpB40Oy4.mp4" length="5574686" type="video/mp4"/>
       <pubDate>Sat, 11 Apr 2026 17:19:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нарешті. Молдова офіційно вийш</title>
+      <link>https://www.mandarinai.lt/post/91018</link>
+      <description>Нарешті. Молдова офіційно вийшла з «СНГ»
+
+Документи опубліковані. Всі угоди припинятимуться поетапно.
+
+Через рік країна повністю вийде зі «Співдружності» з росією.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_17-40-41.jpg" length="101137" type="image/jpeg"/>
+      <pubDate>Sat, 11 Apr 2026 17:40:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯У Луцьку підлітки напали на п</title>
+      <link>https://www.mandarinai.lt/post/91019</link>
+      <description>🤯У Луцьку підлітки напали на працівників ТЦК під час перевірки документів.
+​
+Один із військовозобов'язаних мав відстрочку, а інший — відмовився пред'явити документи та спробував утекти.
+
+​У конфлікт втрутилися неповнолітні, які були поруч: вони почали поводитися агресивно та завдали військовим ударів, намагаючись завадити їхній роботі.
+
+​Наразі поліція встановлює особи підлітків,їх розшукують.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-11_17-59-05.mp4" length="2878472" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 17:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Три нафтові танкери пройшли </title>
+      <link>https://www.mandarinai.lt/post/91020</link>
+      <description>⚡️Три нафтові танкери пройшли через Ормузьку протоку вперше після припинення вогню між Іраном і США, - Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_18-06-30.jpg" length="146135" type="image/jpeg"/>
+      <pubDate>Sat, 11 Apr 2026 18:06:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥✌️Український дрон "Вампір" с</title>
+      <link>https://www.mandarinai.lt/post/91021</link>
+      <description>💥✌️Український дрон "Вампір" самостійно знищує російську штурмову групу з шести(!) осіб біля Гуляйполя в Запорізькій області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-11_18-16-40.mp4" length="1749308" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 18:16:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
