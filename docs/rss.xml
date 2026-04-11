@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 16:21:35 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ О 15:30, за півгодини до ре</title>
-      <link>https://www.mandarinai.lt/post/91001</link>
-      <description>⚡️ О 15:30, за півгодини до режиму припинення вогню, росіяни атакували з дрона тролейбус в Херсоні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_13-08-15.jpg" length="175113" type="image/jpeg"/>
-      <pubDate>Sat, 11 Apr 2026 13:08:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 17:21:29 +0000</lastBuildDate>
     <item>
       <title>Обмін з іншого боку. «Вот что </title>
       <link>https://www.mandarinai.lt/post/91006</link>
@@ -95,6 +88,13 @@ https://t.me/+vBYyeNTJBVswYzM0</description>
 За інформацією місцевої влади, внаслідок удару на території нафтобази виникла пожежа. Зафіксовано ураження інфраструктури.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-11_15-56-07.jpg" length="197480" type="image/jpeg"/>
       <pubDate>Sat, 11 Apr 2026 15:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂️ Мужик із сокирою накинувс</title>
+      <link>https://www.mandarinai.lt/post/91017</link>
+      <description>🤷‍♂️ Мужик із сокирою накинувся на військово-транспортний літак США в Ірландії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/gsQmkXBuPpB40Oy4.mp4" length="5574686" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 17:19:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
