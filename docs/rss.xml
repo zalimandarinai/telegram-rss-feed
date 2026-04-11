@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 20:18:38 +0000</lastBuildDate>
-    <item>
-      <title>🪖 Двох російських окупантів шт</title>
-      <link>https://www.mandarinai.lt/post/91011</link>
-      <description>🪖 Двох російських окупантів штурмовики 425-го полку «Скеля» взяли в полон, просто увірвавшись на позицію, яку ті намагались утримувати.
-
-💥 А перед тим українські бійці опинилися під масованим ударом противника.
-
-⏯️ Про те, як вони евакуювались разом з полоненими, можна дізнатись тут https://m.youtube.com/watch?v=He-O7oOHnoM&amp;feature=youtu.be</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7991.MP4" length="3727141" type="video/mp4"/>
-      <pubDate>Sat, 11 Apr 2026 15:26:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 21:20:54 +0000</lastBuildDate>
     <item>
       <title>Сьогодні російські терористи з</title>
       <link>https://www.mandarinai.lt/post/91013</link>
@@ -123,6 +112,15 @@
 До речі, рекомендуємо документальну стрічку про Ігоря Пархоменка, пілота 299-ої БТА, який літає і воює за свого загиблого в повітряному бою сина Сергія, - вона називається «Небесні вартові/The Guardians of the sky»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7997.MP4" length="8218550" type="video/mp4"/>
       <pubDate>Sat, 11 Apr 2026 19:48:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час оголошеного великодньо</title>
+      <link>https://www.mandarinai.lt/post/91026</link>
+      <description>Під час оголошеного великоднього перемир'я росіяни вбили українську евакуаційну групу, — DeepState 
+
+Це сталося поблизу Гуляйпільського близько 17:30. Окупанти застосували FPV-дрони, внаслідок чого загинули українські поранені військові, що є воєнним злочином.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9423.MP4" length="22824584" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 20:19:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
