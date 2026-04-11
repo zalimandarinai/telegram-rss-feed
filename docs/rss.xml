@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 07:40:58 +0000</lastBuildDate>
-    <item>
-      <title>Джей Ді Венс, здається, лише з</title>
-      <link>https://www.mandarinai.lt/post/90949</link>
-      <description>Джей Ді Венс, здається, лише зіпсував передвиборчу кампанію. Тисячі людей вийшли сьогодні на Майдан Героїв у Будапешті з протестом проти Орбана. Фото Bernadett Szabo для Reuters.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-10_18-09-18.jpg" length="243793" type="image/jpeg"/>
-      <pubDate>Fri, 10 Apr 2026 18:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇪🇺🌍🇺🇦 Європа могла б допомагат</title>
-      <link>https://www.mandarinai.lt/post/90951</link>
-      <description>🇪🇺🌍🇺🇦 Європа могла б допомагати країнам Перської затоки у війні проти Ірану, але ЄС не робить цього, оскільки країни Перської затоки не допомагали ЄС та Україні протидіяти російській агресії, — Кая Каллас</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7977.mp4" length="1800433" type="video/mp4"/>
-      <pubDate>Fri, 10 Apr 2026 18:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 08:28:55 +0000</lastBuildDate>
     <item>
       <title>🤬Щойно в Сумах приліт «Шахеда»</title>
       <link>https://www.mandarinai.lt/post/90952</link>
@@ -90,6 +76,20 @@
 Також в Корабельному районі виявили тіло 50-річного чоловіка. Очевидно, він загинув, опинившись під обстрілом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7945.MP4" length="6497482" type="video/mp4"/>
       <pubDate>Sat, 11 Apr 2026 07:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кадри входження в атмосферу Зе</title>
+      <link>https://www.mandarinai.lt/post/90965</link>
+      <description>Кадри входження в атмосферу Землі до моменту посадки, зняті екіпажем «Артеміди II» з борту посадкового модуля</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7946.MP4" length="5440712" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 07:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>В російській Твері вночі були </title>
+      <link>https://www.mandarinai.lt/post/90966</link>
+      <description>В російській Твері вночі були «прильоти». Місцеві чули три вибухи в районі «Перемерки». Там знаходиться промислова зона. Офіційних коментарів російської влади немає. Відстань від Твері до найближчого кордону з Україною 800 кілометрів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7948.MP4" length="6044344" type="video/mp4"/>
+      <pubDate>Sat, 11 Apr 2026 07:53:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
