@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 17:24:39 +0000</lastBuildDate>
-    <item>
-      <title>🇭🇺 Рекордна явка на виборах в </title>
-      <link>https://www.mandarinai.lt/post/91045</link>
-      <description>🇭🇺 Рекордна явка на виборах в Угорщині.
-
-📈 Станом на 12:00 понад 38% громадян Угорщини вже проголосували.
-
-🗳️ На голосуванні у 2022 році на цей же час явка становила лише 25,77%.
-
-Тримаємо кулаки, аби ворог України не переміг в Угорщині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_11-05-23.jpg" length="35983" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 11:05:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Apr 2026 18:29:09 +0000</lastBuildDate>
     <item>
       <title>❗️Громадянська війна у Сирії: </title>
       <link>https://www.mandarinai.lt/post/91047</link>
@@ -105,6 +92,15 @@
       <description>🗳️ Виборчі дільниці в Угорщині закриваються з рекордною явкою, - на 18:30 вона складала 77,8%</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_17-06-25.jpg" length="54855" type="image/jpeg"/>
       <pubDate>Sun, 12 Apr 2026 17:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>✊Дуже важливі для нас вибори в</title>
+      <link>https://www.mandarinai.lt/post/91062</link>
+      <description>✊Дуже важливі для нас вибори в Угорщині, в розпалі підрахунок голосів. У Будапешті прихильники опозиції вийшли на масовий мітинг у очікуванні результатів.
+
+Водночас опонент Орбана проєвропейський політик Петер Мадяр вже заявив про свою перемогу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_18-02-34.mp4" length="732049" type="video/mp4"/>
+      <pubDate>Sun, 12 Apr 2026 18:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
