@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 06:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:55:26 +0000</lastBuildDate>
     <item>
       <title>Нарешті. Молдова офіційно вийш</title>
       <link>https://www.mandarinai.lt/post/91018</link>
@@ -100,13 +100,6 @@
       <pubDate>Sun, 12 Apr 2026 05:01:27 +0000</pubDate>
     </item>
     <item>
-      <title>Перемирʼя по-російському: дрон</title>
-      <link>https://www.mandarinai.lt/post/91029</link>
-      <description>Перемирʼя по-російському: дрон атакував машину «швидкої допомоги» на Сумщині, поранено троє медиків</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_05-25-17.jpg" length="145337" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 05:25:17 +0000</pubDate>
-    </item>
-    <item>
       <title>🕊 Ворожий солдат виліз із нори</title>
       <link>https://www.mandarinai.lt/post/91030</link>
       <description>🕊 Ворожий солдат виліз із нори та помахав руками без зброї. 
@@ -125,9 +118,18 @@
       <link>https://www.mandarinai.lt/post/91031</link>
       <description>❗️🙅🏼‍♂️ США та Іран не досягли угоди щодо припинення війни, ми повертаємося ні з чим, — Джей Ді Венс
 
-За словами віцепрезидента, США не бачать готовності Ірану відмовитися від можливості розроблення ядерної зброї. Також Венс додав, що іранські чиновники відмовилися прийняти умови угоди, які були "досить гнучкими".</description>
+За словами віцепрезидента, США не бачать готовності Ірану відмовитися від можливості розроблення ядерної зброї. Також Венс додав, що іранські чиновники відмовилися прийняти умови угоди, які були «досить гнучкими».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_05-56-45.mp4" length="2813826" type="video/mp4"/>
       <pubDate>Sun, 12 Apr 2026 05:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перемирʼя по-російськи: дрон а</title>
+      <link>https://www.mandarinai.lt/post/91033</link>
+      <description>Перемирʼя по-російськи: дрон атакував машину «швидкої допомоги» на Сумщині, поранено троє медиків
+
+Нагадаємо, що вчора під час перемир’я, російські виродки вбили українську евакуаційну групу з пораненими бійцями.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_06-32-08.jpg" length="179607" type="image/jpeg"/>
+      <pubDate>Sun, 12 Apr 2026 06:32:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
