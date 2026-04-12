@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 19:31:02 +0000</lastBuildDate>
-    <item>
-      <title>⚡️В Україні запрацювали приват</title>
-      <link>https://www.mandarinai.lt/post/91051</link>
-      <description>⚡️В Україні запрацювали приватні системи ППО на базі дистанційно керованих кулеметів Browning М2, — Флеш
-
-Подібні турелі працюють на відстані до 2 км і захищають об'єкти критичної інфраструктури. Будь-який бізнес може замовити послуги приватної ППО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_12-38-05.jpg" length="106559" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 12:38:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Apr 2026 20:21:11 +0000</lastBuildDate>
     <item>
       <title>😐США готують блокаду Ормузької</title>
       <link>https://www.mandarinai.lt/post/91053</link>
@@ -52,7 +43,9 @@
       <link>https://www.mandarinai.lt/post/91056</link>
       <description>🤷росіяни вбили своїх військових в Часовому Яру на Донеччині 
 
-Трьох російських військових перевдягли в нейтральну форму, та відправили в самостійну евакуацію, для перевірки дотримання умов «Великоднього перемирʼя». 
+Трьом російським військовим дозволили самостійну евакуацію. 
+
+Але їхнє командування вирішило атакувати їх FPV-дронами.
 
 Дані вбитих за наказом російського командира.
 
@@ -60,8 +53,8 @@
 рядовой Чошев Алєксандр Алєксєєвіч; 
 мл.сержант Загрєбін Андрєй Вячеславович. 
 
-Окупанти прийняли своїх людей за українських військових та атакували їх FPV-дронами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_15-46-02.mp4" length="6012168" type="video/mp4"/>
+Також близько 17:00 росіяни ліквідували ще двох своїх військових в районі Добропілля.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8053.MOV" length="29134544" type="video/mp4"/>
       <pubDate>Sun, 12 Apr 2026 15:46:02 +0000</pubDate>
     </item>
     <item>
@@ -99,6 +92,15 @@
       <description>⚡️За першими даними після підрахунку 14,72%  бюлетенів опозиційна партія «Тиса» значно випереджає «Фідес» Орбана!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_18-35-34.jpg" length="76590" type="image/jpeg"/>
       <pubDate>Sun, 12 Apr 2026 18:35:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Угорщина обрала Європу. Країна</title>
+      <link>https://www.mandarinai.lt/post/91065</link>
+      <description>Угорщина обрала Європу. Країна повертається на свій європейський шлях, — написала президентка Єврокомісії Урсула фон дер Ляєн
+
+Мадяра вже привітали деякі світові лідери. Зокрема, президент Франції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_20-17-56.jpg" length="27515" type="image/jpeg"/>
+      <pubDate>Sun, 12 Apr 2026 20:17:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
