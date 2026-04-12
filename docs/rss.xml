@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 13:51:19 +0000</lastBuildDate>
-    <item>
-      <title>😳Тварини, птахи,  іграшки, НМТ</title>
-      <link>https://www.mandarinai.lt/post/91036</link>
-      <description>😳Тварини, птахи,  іграшки, НМТ і пиво. Чого тільки не освячували українці у великодній ранок</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_08-47-59.jpg" length="259109" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 08:47:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Apr 2026 14:31:07 +0000</lastBuildDate>
     <item>
       <title>Окупанти розстріляли чотирьох </title>
       <link>https://www.mandarinai.lt/post/91040</link>
@@ -85,6 +78,13 @@
 Подібні турелі працюють на відстані до 2 км і захищають об'єкти критичної інфраструктури. Будь-який бізнес може замовити послуги приватної ППО.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_12-38-05.jpg" length="106559" type="image/jpeg"/>
       <pubDate>Sun, 12 Apr 2026 12:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐США готують блокаду Ормузької</title>
+      <link>https://www.mandarinai.lt/post/91053</link>
+      <description>😐США готують блокаду Ормузької протоки й погрожують суднам, що платять Ірану, – Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_13-57-26.jpg" length="139374" type="image/jpeg"/>
+      <pubDate>Sun, 12 Apr 2026 13:57:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
