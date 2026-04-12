@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 09:34:16 +0000</lastBuildDate>
-    <item>
-      <title>Су-25 з 299-ої бригади тактичн</title>
-      <link>https://www.mandarinai.lt/post/91025</link>
-      <description>Су-25 з 299-ої бригади тактичної авіації заходить на противника, скидаючи дві високоточні французькі бомби AASM HAMMER
-
-🎥 «Соняшник»
-
-До речі, рекомендуємо документальну стрічку про Ігоря Пархоменка, пілота 299-ої БТА, який літає і воює за свого загиблого в повітряному бою сина Сергія, - вона називається «Небесні вартові/The Guardians of the sky»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7997.MP4" length="8218550" type="video/mp4"/>
-      <pubDate>Sat, 11 Apr 2026 19:48:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Під час оголошеного великодньо</title>
-      <link>https://www.mandarinai.lt/post/91026</link>
-      <description>Під час оголошеного великоднього перемир'я росіяни вбили українську евакуаційну групу, — DeepState 
-
-Це сталося поблизу Гуляйпільського близько 17:30. Окупанти застосували FPV-дрони, внаслідок чого загинули українські поранені військові, що є воєнним злочином.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9423.MP4" length="22824584" type="video/mp4"/>
-      <pubDate>Sat, 11 Apr 2026 20:19:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Apr 2026 10:26:57 +0000</lastBuildDate>
     <item>
       <title>💬 «Христос Воскрес! Україна пе</title>
       <link>https://www.mandarinai.lt/post/91027</link>
@@ -97,6 +77,19 @@
 
 Воєнний злочин було скоєно в районі села Ветеринарне на півночі Харківщини.</description>
       <pubDate>Sun, 12 Apr 2026 09:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Трамп дивився бої під час пер</title>
+      <link>https://www.mandarinai.lt/post/91042</link>
+      <description>😐Трамп дивився бої під час переговорів з Іраном
+
+Поки тривали переговори між США та Іраном у Пакистані, Дональд Трамп відвідав турнір UFC у Флориді.
+
+Там він потиснув руку відомому подкастеру Джо Рогану, який раніше критикував його дії щодо Ірану.
+
+Сам Трамп заявив, що йому "байдуже" до результату переговорів - за його словами, США "переможуть за будь-яких обставин".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_09-46-21.mp4" length="1996108" type="video/mp4"/>
+      <pubDate>Sun, 12 Apr 2026 09:46:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
