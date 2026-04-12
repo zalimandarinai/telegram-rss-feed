@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 18:29:09 +0000</lastBuildDate>
-    <item>
-      <title>❗️Громадянська війна у Сирії: </title>
-      <link>https://www.mandarinai.lt/post/91047</link>
-      <description>❗️Громадянська війна у Сирії: в Ес-Сувейді почалися бої між друзьким ополченням та армією нового режиму
-
-Почалося все з масштабних протестів в місті — люди вимагали розриву зв'язків з Дамаском і отримання незалежності. Раніше частина сирійських друзів вже зверталася до Ізраїлю з проханням приєднати їхні села до себе.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_11-30-13.mp4" length="992163" type="video/mp4"/>
-      <pubDate>Sun, 12 Apr 2026 11:30:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Apr 2026 19:31:02 +0000</lastBuildDate>
     <item>
       <title>⚡️В Україні запрацювали приват</title>
       <link>https://www.mandarinai.lt/post/91051</link>
@@ -101,6 +92,13 @@
 Водночас опонент Орбана проєвропейський політик Петер Мадяр вже заявив про свою перемогу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_18-02-34.mp4" length="732049" type="video/mp4"/>
       <pubDate>Sun, 12 Apr 2026 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️За першими даними після підр</title>
+      <link>https://www.mandarinai.lt/post/91063</link>
+      <description>⚡️За першими даними після підрахунку 14,72%  бюлетенів опозиційна партія «Тиса» значно випереджає «Фідес» Орбана!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_18-35-34.jpg" length="76590" type="image/jpeg"/>
+      <pubDate>Sun, 12 Apr 2026 18:35:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
