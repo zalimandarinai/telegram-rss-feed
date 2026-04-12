@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 15:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 16:23:57 +0000</lastBuildDate>
     <item>
       <title>Окупанти розстріляли чотирьох </title>
       <link>https://www.mandarinai.lt/post/91040</link>
@@ -89,7 +89,7 @@
     <item>
       <title>❗️ Командувати одним з ключови</title>
       <link>https://www.mandarinai.lt/post/91054</link>
-      <description>❗️ Командувати одним з ключових напрямків буде генерал Олексій Майстренко, він замінює Сергія Сірченка на посаді командира 11-ого АК, - джерела в Генштабі, «УП», «Hromadske»
+      <description>❗️ Командувати одним з ключових напрямків буде Олексій Майстренко, він замінює Сергія Сірченка на посаді командира 11-ого АК, - джерела в Генштабі, «УП», «Hromadske»
 
 ▫️ Однією з причин зняття Сірченка з посади командира, ймовірно, могла бути втрата Сіверська.
 
@@ -100,6 +100,26 @@
 ▫️ Після того керував 169-им навчальним центром «Десна».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_15-21-39.jpg" length="156009" type="image/jpeg"/>
       <pubDate>Sun, 12 Apr 2026 15:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Я не хочу 90%, я не хочу 95%</title>
+      <link>https://www.mandarinai.lt/post/91055</link>
+      <description>👀 Я не хочу 90%, я не хочу 95%. Я сказав їм: я хочу все, а в іранців немає козирів, — Трамп 
+
+Президент США вважає, що Іран повернеться за стіл переговорів і погодиться на всі вимоги США. Він пригрозив, що може розгромити Іран на один день.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_15-44-03.jpg" length="86302" type="image/jpeg"/>
+      <pubDate>Sun, 12 Apr 2026 15:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷росіяни вбили своїх військови</title>
+      <link>https://www.mandarinai.lt/post/91056</link>
+      <description>🤷росіяни вбили своїх військових в Часовому Яру на Донеччині 
+
+Трьох російських військових перевдягли в нейтральну форму, та відправили в самостійну евакуацію, для перевірки дотримання умов «Великоднього перемирʼя». 
+
+Окупанти прийняли своїх людей за українських військових та атакували їх FPV-дронами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_15-46-02.mp4" length="6012168" type="video/mp4"/>
+      <pubDate>Sun, 12 Apr 2026 15:46:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
