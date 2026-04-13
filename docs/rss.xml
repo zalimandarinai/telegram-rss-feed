@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 17:48:48 +0000</lastBuildDate>
-    <item>
-      <title>Я не боюся адміністрації Трамп</title>
-      <link>https://www.mandarinai.lt/post/91083</link>
-      <description>Я не боюся адміністрації Трампа й  продовжуватиму голосно виступати проти війни, — Папа Римський Лев XIV відповів Трампу
-
-Я не думаю, що послання Євангелія має використовуватися для зловживань так, як це роблять деякі люди… Я продовжуватиму голосно виступати проти війни, прагнучи зміцнювати мир, сприяти діалогу та багатостороннім відносинам між державами для пошуку справедливих рішень проблем.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_12-12-22.jpg" length="87359" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 12:12:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 18:56:50 +0000</lastBuildDate>
     <item>
       <title>Темпи набору контрактників до </title>
       <link>https://www.mandarinai.lt/post/91085</link>
@@ -132,6 +123,13 @@
 "Окупанти здалися в полон, і цю операцію виконали без участі піхоти і без втрат із нашого боку".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_17-37-19.jpg" length="113294" type="image/jpeg"/>
       <pubDate>Mon, 13 Apr 2026 17:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>На відео - останній вихід раке</title>
+      <link>https://www.mandarinai.lt/post/91098</link>
+      <description>На відео - останній вихід ракетного крейсера «Москва». Корабель виходить з Севастопольської бухти і бере курс на о.Зміїний. Але до острова, як відомо, він не дійде.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8081.MP4" length="19798199" type="video/mp4"/>
+      <pubDate>Mon, 13 Apr 2026 18:47:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
