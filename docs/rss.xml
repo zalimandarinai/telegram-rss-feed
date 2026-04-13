@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 09:23:23 +0000</lastBuildDate>
-    <item>
-      <title>Угорщина обрала Європу. Країна</title>
-      <link>https://www.mandarinai.lt/post/91065</link>
-      <description>Угорщина обрала Європу. Країна повертається на свій європейський шлях, — написала президентка Єврокомісії Урсула фон дер Ляєн
-
-Мадяра вже привітали деякі світові лідери. Зокрема, президент Франції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_20-17-56.jpg" length="27515" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 20:17:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 11:06:17 +0000</lastBuildDate>
     <item>
       <title>🇭🇺🍾 Кадри святкувань прихильни</title>
       <link>https://www.mandarinai.lt/post/91066</link>
@@ -110,6 +101,17 @@
 ☎️  +380667176386</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8065.MP4" length="8354813" type="video/mp4"/>
       <pubDate>Mon, 13 Apr 2026 09:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сійярто, угорський міністр зак</title>
+      <link>https://www.mandarinai.lt/post/91079</link>
+      <description>Сійярто, угорський міністр закордонних справ, який працював на росіян, зник з публічного простору, звернули увагу місцеві медіа.
+
+Кажуть, що вже за межами Угорщини.
+
+В Ростові?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_10-12-26.jpg" length="86046" type="image/jpeg"/>
+      <pubDate>Mon, 13 Apr 2026 10:12:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
