@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 23:22:21 +0000</lastBuildDate>
-    <item>
-      <title>🐵Біля резиденції путіна на Вал</title>
-      <link>https://www.mandarinai.lt/post/91057</link>
-      <description>🐵Біля резиденції путіна на Валдаї встановили ще 7 башт ППО, — «Радіо Свобода» з посиланням на супутникові знімки
-
-Тепер їхня загальна кількість сягнула 27.
-
-Будівництво нових об’єктів розпочали 17 березня. Частину з них уже обладнали зенітно-ракетними комплексами.
-
-За даними журналістів, система ППО довкола резиденції вибудувана у два кільця — за аналогією до оборони москви.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_16-59-28.jpg" length="109164" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 16:59:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 01:17:55 +0000</lastBuildDate>
     <item>
       <title>🗳️ Виборчі дільниці в Угорщині</title>
       <link>https://www.mandarinai.lt/post/91061</link>
@@ -74,6 +61,15 @@
       <description>Зеленський привітав Мадяра</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_20-52-35.jpg" length="43871" type="image/jpeg"/>
       <pubDate>Sun, 12 Apr 2026 20:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Партія «Тиса» може отримати 13</title>
+      <link>https://www.mandarinai.lt/post/91071</link>
+      <description>Партія «Тиса» може отримати 138 зі 199 мандатів. Це означає більшість, яка може впливати на кардинальні зміни в Угорщині.
+
+В той час, коли Мадяр проголошує повернення до Європи, натовп на майдані скандує «Ruszkik haza», «Росіяни, йдіть додому!» - гасло угорського повстання в 1956 році.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8061.MP4" length="26672215" type="video/mp4"/>
+      <pubDate>Mon, 13 Apr 2026 00:52:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
