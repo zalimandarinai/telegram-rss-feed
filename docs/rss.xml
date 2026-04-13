@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 07:06:05 +0000</lastBuildDate>
-    <item>
-      <title>🗳️ Виборчі дільниці в Угорщині</title>
-      <link>https://www.mandarinai.lt/post/91061</link>
-      <description>🗳️ Виборчі дільниці в Угорщині закриваються з рекордною явкою, - на 18:30 вона складала 77,8%</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_17-06-25.jpg" length="54855" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 17:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>✊Дуже важливі для нас вибори в</title>
-      <link>https://www.mandarinai.lt/post/91062</link>
-      <description>✊Дуже важливі для нас вибори в Угорщині, в розпалі підрахунок голосів. У Будапешті прихильники опозиції вийшли на масовий мітинг у очікуванні результатів.
-
-Водночас опонент Орбана проєвропейський політик Петер Мадяр вже заявив про свою перемогу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-12_18-02-34.mp4" length="732049" type="video/mp4"/>
-      <pubDate>Sun, 12 Apr 2026 18:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️За першими даними після підр</title>
-      <link>https://www.mandarinai.lt/post/91063</link>
-      <description>⚡️За першими даними після підрахунку 14,72%  бюлетенів опозиційна партія «Тиса» значно випереджає «Фідес» Орбана!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-12_18-35-34.jpg" length="76590" type="image/jpeg"/>
-      <pubDate>Sun, 12 Apr 2026 18:35:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 09:23:23 +0000</lastBuildDate>
     <item>
       <title>Угорщина обрала Європу. Країна</title>
       <link>https://www.mandarinai.lt/post/91065</link>
@@ -103,6 +80,36 @@
  Україна під час війни з транспортного літака на висоті приблизно 8 тис. м здійснила запуск ракетоносія, який потенційно може також бути використаний для виводу на орбіту різного роду космічних апаратів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_05-46-03.jpg" length="170179" type="image/jpeg"/>
       <pubDate>Mon, 13 Apr 2026 05:46:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Це було епічно! ВМС оприлюдни</title>
+      <link>https://www.mandarinai.lt/post/91076</link>
+      <description>🔥Це було епічно! ВМС оприлюднили відео до 4-ї річниці знищення крейсера "Москва"
+
+Флагман ЧФ рф пішов на дно, забравши із собою міф про "непереможність" російського флоту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-13_08-49-11.mp4" length="1694780" type="video/mp4"/>
+      <pubDate>Mon, 13 Apr 2026 08:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤩Поствиборча ейфорія! У метро </title>
+      <link>https://www.mandarinai.lt/post/91077</link>
+      <description>🤩Поствиборча ейфорія! У метро Будапешта люди скандують: «росіяни, додому!»
+
+Містяни прямують до центру угорської столиці, аби відзначити поразку Віктора Орбана.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-13_08-53-02.mp4" length="805549" type="video/mp4"/>
+      <pubDate>Mon, 13 Apr 2026 08:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ 20-ть «шахедів» за добу - с</title>
+      <link>https://www.mandarinai.lt/post/91078</link>
+      <description>❗️ 20-ть «шахедів» за добу - стільки збив 38-ий зенітний ракетний полк ім. Ю.Тютюнника
+
+🛬 Якщо комусь подобається, як «шахеди» горять і падають, полк запрошує долучатися і стати частиною команди
+
+📞  +380679666801
+☎️  +380667176386</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8065.MP4" length="8354813" type="video/mp4"/>
+      <pubDate>Mon, 13 Apr 2026 09:07:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
