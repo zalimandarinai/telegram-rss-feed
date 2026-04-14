@@ -6,32 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 14:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 15:58:28 +0000</lastBuildDate>
     <item>
       <title>Далекобійне ураження російсько</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Далекобійне ураження російської військової вантажівки разом з водієм на кільцевій міста Донецьк - з камери дрона оператора підрозділу Ivan Franko Group</description>
       <pubDate>Tue, 14 Apr 2026 07:14:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀У Львові проводять обшуки в м</title>
-      <link>https://www.mandarinai.lt/post/91119</link>
-      <description>👀У Львові проводять обшуки в магазинах U420, які підозрюють у продажі наркотиків під виглядом сувенірної продукції
-
-За даними місцевих ЗМІ, правоохоронці здійснюють масштабні слідчі дії та затримують причетних осіб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-14_08-00-16.mp4" length="7298476" type="video/mp4"/>
-      <pubDate>Tue, 14 Apr 2026 08:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>👉 Кремль приховує паніку через</title>
-      <link>https://www.mandarinai.lt/post/91120</link>
-      <description>👉 Кремль приховує паніку через програш Орбана — ISW
-
-Поразка головного союзника в ЄС позбавляє рф можливості ветувати рішення по підтримці України. 
-
-Москва навмисне применшує масштаби втрати, щоб продемонструвати фальшиву впевненість</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_08-04-59.jpg" length="32531" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 08:04:59 +0000</pubDate>
     </item>
     <item>
       <title>🇺🇦🇩🇪 Президент Зеленський приб</title>
@@ -78,6 +58,32 @@
 🎥 «Соняшник»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8096.MP4" length="8264545" type="video/mp4"/>
       <pubDate>Tue, 14 Apr 2026 14:14:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪 Україна перехопила ініціатив</title>
+      <link>https://www.mandarinai.lt/post/91134</link>
+      <description>💪 Україна перехопила ініціативу на фронті завдяки дронам нового покоління з ШІ, які ефективно нищать ППО та енергооб'єкти в тилу рф, — Fortune.
+
+Постійний розвиток безпілотних технологій дозволяє ЗСУ не лише отримувати перевагу на полі бою, а й підривати економіку агресора ударами по нафтотерміналах. 
+
+Аналітики зазначають, що український темп інновацій значно випереджає російський, перетворюючи Україну на одного з лідерів ВПК.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_14-51-36.jpg" length="82577" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 14:51:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Історія українського пілота, я</title>
+      <link>https://www.mandarinai.lt/post/91136</link>
+      <description>Історія українського пілота, який встановив рекорд зі знищення “Шахедів”.
+
+У ніч із 6 на 7 вересня 2025 року боєць 1020-го ЗРАП “Мігель” збив 24 російські “Шахеди” — це рекордний показник для української ППО. 
+
+Сайт про українські оборонні технології Defender Media поспілкувався з ним про те, як влаштована робота пілота перехоплювача, чим відрізняються українські дрони і чому швидкість — не головне.
+
+У матеріалі також є можливість долучитися до посилення підрозділу засобами перехоплення російських “Шахедів”
+
+Підписуйтеся на “Зброярі x Defender Media” — профільний канал Української Ради Зброярів і Defender Media про український defence tech: дрони, ШІ, РЕБ, інвестиції в military та dual-use стартапи, вакансії та аналітику ринку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_15-23-50.jpg" length="180873" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 15:23:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
