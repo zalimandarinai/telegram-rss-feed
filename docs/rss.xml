@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 01:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 04:34:40 +0000</lastBuildDate>
     <item>
       <title>«На характері» - Двоє бійців 1</title>
       <link>https://www.mandarinai.lt/post/91089</link>
@@ -110,17 +110,6 @@
       <description>💥Момент сьогоднішньої атаки на хімзавод в російському Череповці</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-13_20-02-44.mp4" length="1966203" type="video/mp4"/>
       <pubDate>Mon, 13 Apr 2026 20:02:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Серед різних видів озброєння у</title>
-      <link>https://www.mandarinai.lt/post/91104</link>
-      <description>Серед різних видів озброєння українських виробників Зеленський показав нову ракету, яка схожа на радянські ракети 9М33, - помітив «Мілітарний»
-
-Оскільки 9М33 використовуються для ЗРК «Оса-АКМ», то можна припустити, що новий виріб призначений поповнити запас боєприпасів для збиття крилатих ракет. Адже «Оса», попри свій вік, продемонструвала свою ефективність саме проти цих видів повітряних загроз.
-
-Втім, незрозуміло, чи нова ракета є копією 9М33 або має інші характеристики. Зараз через нестачу штатних боєприпасів на «Осі» часто використовують модифіковані ракети Р-73 «повітря-повітря».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_20-31-55.jpg" length="66460" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 20:31:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
