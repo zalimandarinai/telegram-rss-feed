@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 11:48:13 +0000</lastBuildDate>
-    <item>
-      <title>Ціна російської нафти марки Ur</title>
-      <link>https://www.mandarinai.lt/post/91111</link>
-      <description>Ціна російської нафти марки Urals на біржах різко зросла до $114 за барель
-
-Інші світові марки нафти, включаючи основний сорт Brent, залишилися на своїх позиціях, не демонструючи ніякої різкої динаміки і торгуючись трохи нижче 100 доларів за барель.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_06-12-56.jpg" length="54445" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 06:12:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Сумській області спроба масо</title>
-      <link>https://www.mandarinai.lt/post/91112</link>
-      <description>В Сумській області спроба масованого штурму, - знову через газогін.
-
-29 окупантів здійснили спробу інфільтрації в тил позицій 71-ої бригади ДШВ, - йшли по газовій трубі.
-
-Противник уже раніше використовував цей самий маршрут.
-
-Завдяки злагодженій роботі підрозділів розвідки, екіпажів БпЛА та артилерії рух противника було своєчасно виявлено, всю групу окупантів нейтралізовано
-
-71-а аеромобільна бригада Десантно-штурмових військ: https://71dshv.mil.gov.ua</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8090.MP4" length="11637249" type="video/mp4"/>
-      <pubDate>Tue, 14 Apr 2026 06:34:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 12:54:35 +0000</lastBuildDate>
     <item>
       <title>Далекобійне ураження російсько</title>
       <link>https://www.mandarinai.lt/post/91114</link>
@@ -95,6 +71,18 @@
 Відео: Ірина Кондрачук/ТСН</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-14_08-51-09.mp4" length="1349077" type="video/mp4"/>
       <pubDate>Tue, 14 Apr 2026 08:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворожих «шахедів» буде менше.
+</title>
+      <link>https://www.mandarinai.lt/post/91130</link>
+      <description>Ворожих «шахедів» буде менше.
+
+⚡️⚡️Ракети SCALP вдарили по місцю зберігання ударних БпЛА у районі аеропорту «Донецьк».
+
+Атака, яку підтверджує Генштаб, сталася в ніч на сьогодні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8095.MP4" length="1681753" type="video/mp4"/>
+      <pubDate>Tue, 14 Apr 2026 12:08:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
