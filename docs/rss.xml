@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 08:17:50 +0000</lastBuildDate>
-    <item>
-      <title>Нічне пекло в Ізмаїлі - ворог </title>
-      <link>https://www.mandarinai.lt/post/91108</link>
-      <description>Нічне пекло в Ізмаїлі - ворог атакував Ізмаїльський порт дронами.
-
-На території порту пошкоджено цивільне судно під прапором Панами, причал, баржу. 
-
-Внаслідок влучань зруйновано будівлю техстанції, знищено 2 пасажирські автобуси, 7 легкових автомобілів, під удар потрапила і автівка «швидкої допомоги».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_05-45-57.jpg" length="70770" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 05:45:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 10:04:01 +0000</lastBuildDate>
     <item>
       <title>Ціна російської нафти марки Ur</title>
       <link>https://www.mandarinai.lt/post/91111</link>
@@ -95,6 +84,17 @@
 Москва навмисне применшує масштаби втрати, щоб продемонструвати фальшиву впевненість</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_08-04-59.jpg" length="32531" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 08:04:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🇩🇪 Президент Зеленський приб</title>
+      <link>https://www.mandarinai.lt/post/91124</link>
+      <description>🇺🇦🇩🇪 Президент Зеленський прибув до Берліна, де зустрінеться з канцлером ФРН Фрідріхом Мерцом.
+
+З Німеччини українська делегація розпочинає дипломатичний тиждень у Європі.
+
+Відео: Ірина Кондрачук/ТСН</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-14_08-51-09.mp4" length="1349077" type="video/mp4"/>
+      <pubDate>Tue, 14 Apr 2026 08:51:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
