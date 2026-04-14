@@ -6,75 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 06:23:24 +0000</lastBuildDate>
-    <item>
-      <title>В мавзолеї на Красной площі ст</title>
-      <link>https://www.mandarinai.lt/post/91096</link>
-      <description>В мавзолеї на Красной площі студент напав на саркофаг з тілом Леніна. Молодий чоловік кілька разів ударив по склепу, а потім кинув у нього мокасином.
-
-Свій вчинок він пояснив незгодою з політичними поглядами Леніна. Студента затримали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_16-39-12.jpg" length="80506" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 16:39:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪖🤖 Вперше в історії цієї війни</title>
-      <link>https://www.mandarinai.lt/post/91097</link>
-      <description>🪖🤖 Вперше в історії цієї війни ворожу позицію захопили без піхоти — наземними роботизованими комплексами та дронами, — Зеленський
-
-"Окупанти здалися в полон, і цю операцію виконали без участі піхоти і без втрат із нашого боку".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_17-37-19.jpg" length="113294" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 17:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>На відео - останній вихід раке</title>
-      <link>https://www.mandarinai.lt/post/91098</link>
-      <description>На відео - останній вихід ракетного крейсера «Москва». Корабель виходить з Севастопольської бухти і бере курс на о.Зміїний. Але до острова, як відомо, він не дійде.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8081.MP4" length="19798199" type="video/mp4"/>
-      <pubDate>Mon, 13 Apr 2026 18:47:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇪🇺 ЄС висунув Мадяру 27 умов д</title>
-      <link>https://www.mandarinai.lt/post/91099</link>
-      <description>🇪🇺 ЄС висунув Мадяру 27 умов для розморожування €35 млрд субсидій для Угорщини, — Financial Times
-
-Як стверджує видання, однією з умов є розблокування кредиту для України на суму €90 млрд 🇺🇦
-
-Також ЄС вимагає від Угорщини проведення антикорупційних перевірок і скасування рішень за часів Орбана, визнаних такими, що порушують правила ЄС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_19-14-21.jpg" length="145649" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 19:14:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴 Європа втрачає контроль над </title>
-      <link>https://www.mandarinai.lt/post/91100</link>
-      <description>🔴 Європа втрачає контроль над своєю ідентичністю, заражена глибокою моральною слабкістю, - прем'єр-міністр Ізраїлю Нетаньягу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-13_19-34-24.mp4" length="4112570" type="video/mp4"/>
-      <pubDate>Mon, 13 Apr 2026 19:34:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ще один дід. Ердоган пригрозив</title>
-      <link>https://www.mandarinai.lt/post/91101</link>
-      <description>Ще один дід. Ердоган пригрозив можливим вторгненням до Ізраїлю, — The Jerusalem Post
-
-Президент Туреччини заявив, що Анкара може застосувати армію проти Ізраїлю, як це було в Лівії або в Карабасі. 
-
-Цікаво, що в Карабасі турецькі військові не воювали. Принаймні офіційно. Але якщо воювали, це вже ляпас діду з Кремля.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-13_19-39-16.jpg" length="64748" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 19:39:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Момент сьогоднішньої атаки на</title>
-      <link>https://www.mandarinai.lt/post/91102</link>
-      <description>💥Момент сьогоднішньої атаки на хімзавод в російському Череповці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-13_20-02-44.mp4" length="1966203" type="video/mp4"/>
-      <pubDate>Mon, 13 Apr 2026 20:02:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В окупованому Мелітополі післ</title>
-      <link>https://www.mandarinai.lt/post/91106</link>
-      <description>💥В окупованому Мелітополі після атаки дронів блекаут і пожежа на підстанції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_04-36-40.jpg" length="71240" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 04:36:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 08:17:50 +0000</lastBuildDate>
     <item>
       <title>Нічне пекло в Ізмаїлі - ворог </title>
       <link>https://www.mandarinai.lt/post/91108</link>
@@ -94,6 +26,75 @@
 Інші світові марки нафти, включаючи основний сорт Brent, залишилися на своїх позиціях, не демонструючи ніякої різкої динаміки і торгуючись трохи нижче 100 доларів за барель.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_06-12-56.jpg" length="54445" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 06:12:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Сумській області спроба масо</title>
+      <link>https://www.mandarinai.lt/post/91112</link>
+      <description>В Сумській області спроба масованого штурму, - знову через газогін.
+
+29 окупантів здійснили спробу інфільтрації в тил позицій 71-ої бригади ДШВ, - йшли по газовій трубі.
+
+Противник уже раніше використовував цей самий маршрут.
+
+Завдяки злагодженій роботі підрозділів розвідки, екіпажів БпЛА та артилерії рух противника було своєчасно виявлено, всю групу окупантів нейтралізовано
+
+71-а аеромобільна бригада Десантно-штурмових військ: https://71dshv.mil.gov.ua</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8090.MP4" length="11637249" type="video/mp4"/>
+      <pubDate>Tue, 14 Apr 2026 06:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Далекобійне ураження російсько</title>
+      <link>https://www.mandarinai.lt/post/91114</link>
+      <description>Далекобійне ураження російської військової вантажівки разом з водієм на кільцевій міста Донецьк - з камери дрона оператора підрозділу Ivan Franko Group</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8092.MP4" length="30770404" type="video/mp4"/>
+      <pubDate>Tue, 14 Apr 2026 07:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Для військових і тих, хто пере</title>
+      <link>https://www.mandarinai.lt/post/91115</link>
+      <description>Для військових і тих, хто перебуває на військовому обліку‼️
+
+Військова правова допомога - це юристи, які не беруть гроші за повітря. Консультації повністю безкоштовні для військових і їхніх родин.
+
+▪️ Допомагають розібратись із законами без нервів.
+▪️ Захищають від безпідставних “перегинів”.
+▪️ Підтримують військовозобов’язаних у складних ситуаціях на всіх етапах. 
+▪️Без перебільшень, одне з найкращих оскаржень ВЛК в Україні - працюють дійсно професіонали своєї справи. 
+
+⚖️ Закон працює, коли за нього є кому постояти.
+
+Тут більше корисного:  https://t.me/vpd24</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-14_07-18-36.mp4" length="783770" type="video/mp4"/>
+      <pubDate>Tue, 14 Apr 2026 07:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Величезна діра в стіні: в Д</title>
+      <link>https://www.mandarinai.lt/post/91116</link>
+      <description>❗️ Величезна діра в стіні: в ДСНС показали наслідки удару РФ по багатоповерхівці в Шевченківському районі Харкова.
+
+На місці виникла пожежа. Відомо про щонайменше одну постраждалу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_07-49-12.jpg" length="147852" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 07:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀У Львові проводять обшуки в м</title>
+      <link>https://www.mandarinai.lt/post/91119</link>
+      <description>👀У Львові проводять обшуки в магазинах U420, які підозрюють у продажі наркотиків під виглядом сувенірної продукції
+
+За даними місцевих ЗМІ, правоохоронці здійснюють масштабні слідчі дії та затримують причетних осіб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-14_08-00-16.mp4" length="7298476" type="video/mp4"/>
+      <pubDate>Tue, 14 Apr 2026 08:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>👉 Кремль приховує паніку через</title>
+      <link>https://www.mandarinai.lt/post/91120</link>
+      <description>👉 Кремль приховує паніку через програш Орбана — ISW
+
+Поразка головного союзника в ЄС позбавляє рф можливості ветувати рішення по підтримці України. 
+
+Москва навмисне применшує масштаби втрати, щоб продемонструвати фальшиву впевненість</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-14_08-04-59.jpg" length="32531" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 08:04:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
