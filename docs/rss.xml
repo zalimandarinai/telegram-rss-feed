@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 15:56:26 +0000</lastBuildDate>
-    <item>
-      <title>Депутат Тячівської районної ра</title>
-      <link>https://www.mandarinai.lt/post/91192</link>
-      <description>Депутат Тячівської районної ради на Закарпатті за $8 тисяч переправляв «ухилянтів» через держкордон, його викрила Служба безпеки України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_11-18-29.jpg" length="29453" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 11:18:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 16:52:56 +0000</lastBuildDate>
     <item>
       <title>🤦‍♂️ Трамп написав, що назавжд</title>
       <link>https://www.mandarinai.lt/post/91196</link>
@@ -76,6 +69,20 @@
       <description>💶💵💷 Рютте обіцяє Україні, що НАТО в цьому році надасть військової підтримки на $60 млрд. на додаток до кредиту €90 млрд., якщо Угорщина скасує блокування</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_15-40-49.jpg" length="83019" type="image/jpeg"/>
       <pubDate>Wed, 15 Apr 2026 15:40:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Сумах з БПЛА русня розкидала</title>
+      <link>https://www.mandarinai.lt/post/91206</link>
+      <description>У Сумах з БПЛА русня розкидала листівки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-15_16-21-15.mp4" length="243763" type="video/mp4"/>
+      <pubDate>Wed, 15 Apr 2026 16:21:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Жахливе влучання російськог</title>
+      <link>https://www.mandarinai.lt/post/91209</link>
+      <description>❗️ Жахливе влучання російського дрона в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8125.MP4" length="1752170" type="video/mp4"/>
+      <pubDate>Wed, 15 Apr 2026 16:49:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
