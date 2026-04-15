@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 08:19:19 +0000</lastBuildDate>
-    <item>
-      <title>‼️ Зеленський і глава уряду Но</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>‼️ Зеленський і глава уряду Норвегії Йонас Гар Стере підписали декларацію про посилення оборонної співпраці</description>
-      <pubDate>Tue, 14 Apr 2026 18:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>США знову впровадили нафтові с</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>США знову впровадили нафтові санкції проти рф, - Politico. Щоправда, з нюансами. Серед російських компаній є і такі, які отримали послаблення санкцій, тож росії буде нескладно їх обійти.</description>
-      <pubDate>Tue, 14 Apr 2026 19:46:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥На Бєлгородщині уражено склад</title>
-      <link>https://www.mandarinai.lt/post/91168</link>
-      <description>💥На Бєлгородщині уражено склади ПММ та логістику ворога в населеному пункті Валуйки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-15_06-30-20.mp4" length="1227836" type="video/mp4"/>
-      <pubDate>Wed, 15 Apr 2026 06:30:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 10:04:55 +0000</lastBuildDate>
     <item>
       <title>🙄Припинення фінансування Украї</title>
       <link>https://www.mandarinai.lt/post/91171</link>
@@ -55,6 +36,31 @@
 Під атакою, ймовірно, підприємства хімічної та нафтохімічної промисловості, які виробляють компоненти до авіаційної та ракетної техніки, а також вибухових речовин</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-15_08-11-04.mp4" length="286962" type="video/mp4"/>
       <pubDate>Wed, 15 Apr 2026 08:11:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іран під час бойових дій викор</title>
+      <link>https://www.mandarinai.lt/post/91182</link>
+      <description>Іран під час бойових дій використовував китайський супутник для розвідки та наведення ракет на військові бази США, - Financial Times.
+
+Супутник TEE-01B, розроблений китайською компанією Earth Eye Co, був виведений на орбіту в 2024 році.
+
+Після запуску він перейшов у розпорядження Корпусу вартових Ісламської революції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_08-37-36.jpg" length="53939" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 08:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡 рф почала бити по гуртожитка</title>
+      <link>https://www.mandarinai.lt/post/91183</link>
+      <description>😡 рф почала бити по гуртожитках: цієї ночі нанесено прямі удари по будівлях двох вишах Дніпра — «Дніпровській політехніці» та УДУНТ, — мер Борис Філатов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_08-57-29.jpg" length="143335" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 08:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чеченці Кадирова знімають себе</title>
+      <link>https://www.mandarinai.lt/post/91186</link>
+      <description>Чеченці Кадирова знімають себе на фоні руїн Бахмута. Все, на що здатен «рускій мір» - зруйнувати міста вщент, зробити їх «живописним» фоном для селфі, а потім оголосити це звільненням. Саме таку долю вони готують для інших міст Донецької області, які захищають українські солдати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8115.MP4" length="5828295" type="video/mp4"/>
+      <pubDate>Wed, 15 Apr 2026 09:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
