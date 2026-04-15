@@ -6,31 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 16:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 17:56:42 +0000</lastBuildDate>
     <item>
       <title>🤦‍♂️ Трамп написав, що назавжд</title>
-      <link>https://www.mandarinai.lt/post/91196</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🤦‍♂️ Трамп написав, що назавжди відчиняє Ормузску протоку заради Китаю.
 
 Президент Сі обійме мене міцно-міцно, коли я з ним зустрінусь за два тижні, - сказав Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_13-03-43.jpg" length="69033" type="image/jpeg"/>
       <pubDate>Wed, 15 Apr 2026 13:03:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴росія зараз втрачає 254 солда</title>
-      <link>https://www.mandarinai.lt/post/91197</link>
-      <description>🔴росія зараз втрачає 254 солдати на кожен квадратний кілометр, — Федоров</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_13-17-30.jpg" length="120300" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 13:17:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Україну з Німеччини екстраду</title>
-      <link>https://www.mandarinai.lt/post/91198</link>
-      <description>В Україну з Німеччини екстрадували організатора корупційної схеми, через яку державне підприємство агропромислового сектору зазнало 13,4 млн грн збитків.
-
-За даними слідства, йдеться про приватного підприємця Ігоря Трушенка</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_13-19-45.jpg" length="86044" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 13:19:45 +0000</pubDate>
     </item>
     <item>
       <title>Не просто подзьобати  хробачий</title>
@@ -73,7 +56,7 @@
     <item>
       <title>У Сумах з БПЛА русня розкидала</title>
       <link>https://www.mandarinai.lt/post/91206</link>
-      <description>У Сумах з БПЛА русня розкидала листівки</description>
+      <description>У Сумах з БПЛА русня розкидала листівки, в тексті нічого нового, щось із закликом до «Майдану 3.0»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-15_16-21-15.mp4" length="243763" type="video/mp4"/>
       <pubDate>Wed, 15 Apr 2026 16:21:15 +0000</pubDate>
     </item>
@@ -83,6 +66,17 @@
       <description>❗️ Жахливе влучання російського дрона в Одесі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8125.MP4" length="1752170" type="video/mp4"/>
       <pubDate>Wed, 15 Apr 2026 16:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Впроваджується нова модель </title>
+      <link>https://www.mandarinai.lt/post/91212</link>
+      <description>❗️ Впроваджується нова модель ведення бойових дій, а саме дроново-штурмові підрозділи, які поєднують повітряні та наземні безпілотники з піхотою в єдину систему, - Міноборони 
+
+Тактика вже показала результат на півдні, де з лютого були звільнені від росіян відносно значні території.
+
+Одним з таких підрозділів, які показали свою ефективність в Запорізькій області, став 475-ий полк «Code 9.2», але цей комбінований підхід відіграв свою роль і раніше, під час операції з блокування російських окупантів в районі Купʼянська.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-15_17-49-45.jpg" length="134401" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 17:49:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
