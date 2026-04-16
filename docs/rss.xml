@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 14:51:00 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Під час атаки росіяни засто</title>
-      <link>https://www.mandarinai.lt/post/91256</link>
-      <description>❗️ Під час атаки росіяни застосували 19 балістичних ракет, переважно «Іскандер-М», більшість летіла на Київ, - Ігнат
-
-▫️ Атака тривала майже безперервно впродовж доби.
-
-▫️ В першій хвилі були запущені крилаті ракети, в другій — балістика. 
-
-▫️ Росіяни змінили тактику атак і почали розтягувати їх у часі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8138.MP4" length="14793514" type="video/mp4"/>
-      <pubDate>Thu, 16 Apr 2026 09:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Вщент вигоріла парковка автос</title>
-      <link>https://www.mandarinai.lt/post/91257</link>
-      <description>🤬Вщент вигоріла парковка автосалону Mercedes у Києві.
-
-росіяни також обстріляли автосалони Kia і Ducati, є загиблі серед працівників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-16_09-46-26.mp4" length="1298697" type="video/mp4"/>
-      <pubDate>Thu, 16 Apr 2026 09:46:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Бєлгороді прилетіло по елект</title>
-      <link>https://www.mandarinai.lt/post/91258</link>
-      <description>В Бєлгороді прилетіло по електропідстанції «Южная», в місті виникають перебої з електрикою</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8139.MP4" length="1082047" type="video/mp4"/>
-      <pubDate>Thu, 16 Apr 2026 09:50:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Apr 2026 16:14:14 +0000</lastBuildDate>
     <item>
       <title>❗️ Дим від пожеж в Києві після</title>
       <link>https://www.mandarinai.lt/post/91259</link>
@@ -152,6 +123,24 @@ FPV-2.
 Підсудними стануть представники вищого політичного та військового керівництва росії за злочин агресії, тобто, саме рішення вести війну проти України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_14-46-32.jpg" length="100496" type="image/jpeg"/>
       <pubDate>Thu, 16 Apr 2026 14:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар дронів по Туапсе: пожежа </title>
+      <link>https://www.mandarinai.lt/post/91272</link>
+      <description>Удар дронів по Туапсе: пожежа в порту триває, постраждав нафтовий танкер під прапором Ліберії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8158.MP4" length="4893162" type="video/mp4"/>
+      <pubDate>Thu, 16 Apr 2026 15:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>На російські «шахеди» встановл</title>
+      <link>https://www.mandarinai.lt/post/91274</link>
+      <description>На російські «шахеди» встановлюють американські компоненти, які майже одразу після сходу з конвеєра у США потрапляють до російських заводів, - уповноважений з питань санкційної політики Владислав Власюк під час візиту до США.
+
+Американцям Власюк надав докази того, що шлях західних компонентів до рф максимально скоротився.
+
+Очевидно, що без цих компонентів виробництво дронів в росії було б неможливим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_15-16-18.jpg" length="25995" type="image/jpeg"/>
+      <pubDate>Thu, 16 Apr 2026 15:16:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
