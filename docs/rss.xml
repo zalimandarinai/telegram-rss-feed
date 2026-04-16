@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 11:48:45 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥У Бєлгороді приліт по підста</title>
-      <link>https://www.mandarinai.lt/post/91247</link>
-      <description>💥🔥У Бєлгороді приліт по підстанції "Южная"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_07-30-59.jpg" length="341593" type="image/jpeg"/>
-      <pubDate>Thu, 16 Apr 2026 07:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Майже вся балістика летіла на</title>
-      <link>https://www.mandarinai.lt/post/91248</link>
-      <description>🔴Майже вся балістика летіла на Київ, – речник ПС Юрій Ігнат
-
-росіяни атакували у дві хвилі – крилатими та балістичними ракетам. За добу рф завдала два масовані удари: спочатку крилатими ракетами, вночі – балістичними, паралельно запускали сотні ударних дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_07-33-56.jpg" length="239102" type="image/jpeg"/>
-      <pubDate>Thu, 16 Apr 2026 07:33:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Apr 2026 12:58:21 +0000</lastBuildDate>
     <item>
       <title>💥🔥НПЗ в російському Туапсе пал</title>
       <link>https://www.mandarinai.lt/post/91249</link>
@@ -117,6 +101,28 @@
 Але проблема не в популістах, а в виборцях, які за них голосують. Людьми на Заході, виявляється, дуже легко маніпулювати, запропонувавши заправляти їх дешевим російським пальним і прогнати геть з їхніх вулиць темношкірих іноземців.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_11-00-41.jpg" length="94218" type="image/jpeg"/>
       <pubDate>Thu, 16 Apr 2026 11:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генерала Дмитра Братішка перем</title>
+      <link>https://www.mandarinai.lt/post/91262</link>
+      <description>Генерала Дмитра Братішка переміщають з посади командувача ОК «Схід», а на його місце призначили командира 20-го АК генерала Віктора Ніколюка.
+
+Головна причина та ж сама, що і заміна командира 11-го АК на генерала Олексія Майстренка, тобто, втрата Сіверська в грудні 2025-го, стверджують джерела в командуванні ЗСУ та СВ.
+
+Цікаво, що і Ніколюк, і Майстренко, а також заступник командира 11-ого АК Герой України Павло Федосенко свого  часу пройшли через командування 92-ою ОШБР, одним з найбільш успішних підрозділів українських Збройних Сил.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_12-11-19.jpg" length="68182" type="image/jpeg"/>
+      <pubDate>Thu, 16 Apr 2026 12:11:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>В лікарні помер чоловік, який </title>
+      <link>https://www.mandarinai.lt/post/91263</link>
+      <description>В лікарні помер чоловік, який зазнав критичних поранень під час нічної атаки росіян на Дніпро.
+
+Ворожий удар по місту забрав чотири життя.
+
+Загалом по Україні внаслідок атаки росіян загинуло вже 18 цивільних.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_12-20-17.jpg" length="211947" type="image/jpeg"/>
+      <pubDate>Thu, 16 Apr 2026 12:20:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
