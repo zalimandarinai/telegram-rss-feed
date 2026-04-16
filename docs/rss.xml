@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 20:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 21:32:41 +0000</lastBuildDate>
     <item>
       <title>На російські «шахеди» встановл</title>
       <link>https://www.mandarinai.lt/post/91274</link>
@@ -92,6 +92,21 @@
       <link>https://www.mandarinai.lt/post/91287</link>
       <description>🇺🇦🇳🇱 Україна від Нідерландів отримає в червні протимінний корабель «Генічеськ», - Зеленський</description>
       <pubDate>Thu, 16 Apr 2026 19:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Війну в Україні можна закінчит</title>
+      <link>https://www.mandarinai.lt/post/91288</link>
+      <description>Війну в Україні можна закінчити за рік навіть без допомоги США, - генерал Пекка Товері, євродепутат, колишній очільник фінської розвідки.
+
+Для цього Європа має прокинутися та потроїти свої зусилля з підтримки України, тим більше, що вони є у європейських країн.  
+
+Вони можуть впоратись і без США, тим більше, що на думку євродепутата, розрахунок на Сполучені Штати це марна трата часу, оскільки ані Трамп, ані Венс не розуміють довгострокових інтересів власної держави. 
+
+Тобто, розвідник фактично звинуватив керівництво США в непрофесіоналізмі. 
+
+Генерал заперечив твердження, що Європа не впорається без Сполучених Штатів з російською армією, адже, попри деякі проблемні моменти, в європейських армій - значна перевага над росією щодо конвенційних видів озброєння.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-16_20-51-35.jpg" length="6332" type="image/jpeg"/>
+      <pubDate>Thu, 16 Apr 2026 20:51:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
