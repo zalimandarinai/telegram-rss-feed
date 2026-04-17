@@ -6,41 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 11:39:59 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Під час нічної атаки російс</title>
-      <link>https://www.mandarinai.lt/post/91300</link>
-      <description>⚡️ Під час нічної атаки російський безпілотник залетів в повітряний простір Румунії на 16 кілометрів, - сьогоднішня заява румунського міноборони 
-
-З дроном втрачено радіолокаційний контакт, тобто, ймовірно, він впав. 
-
-Румунські військовослужбовці вже розпочали пошукову операцію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_08-10-05.jpg" length="98747" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 08:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳 ТЦК «зцілює»: чоловік із пал</title>
-      <link>https://www.mandarinai.lt/post/91301</link>
-      <description>😳 ТЦК «зцілює»: чоловік із палицею важко виходить з автомобіля, але раптом стрімко тікає від ТЦК</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-17_08-46-32.mp4" length="6885038" type="video/mp4"/>
-      <pubDate>Fri, 17 Apr 2026 08:46:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Сили оборони атакували РЛС «Н</title>
-      <link>https://www.mandarinai.lt/post/91302</link>
-      <description>💥Сили оборони атакували РЛС «Небо-М» і «Подльот» та пункти управління ворога, — Генштаб
-
-Серед підтверджених цілей:
-▪️ радіолокаційні станції «Небо-М» та «Подльот»;
-▪️ командно-спостережні пункти та пункти управління БпЛА;
-▪️ база ремонту техніки та логістичний хаб;
-▪️склад десантно-штурмових катерів у Криму;
-▪️ склади боєприпасів і пального.
-
-Удари завдавалися, зокрема, по цілях на ТОТ Луганщини, Донеччини, Запоріжжя та Херсонщини, а також у Курській, Бєлгородській і Ростовській областях рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_08-49-56.jpg" length="139643" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 08:49:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 12:50:03 +0000</lastBuildDate>
     <item>
       <title>🔥ССО уразили нафтотермінал “Ро</title>
       <link>https://www.mandarinai.lt/post/91303</link>
@@ -133,6 +99,24 @@
       <description>Цього року українські пілоти почнуть тренування на шведських літаках,  - Зеленський і король Швеції Карл XVI Густав</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_11-35-38.jpg" length="70392" type="image/jpeg"/>
       <pubDate>Fri, 17 Apr 2026 11:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Харківщині приватна ППО впе</title>
+      <link>https://www.mandarinai.lt/post/91317</link>
+      <description>На Харківщині приватна ППО вперше збила реактивний «шахед» на швидкості 400 км/год, — міністр оборони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8189.MP4" length="9766098" type="video/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 11:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Ми повинні вірити в нашу пе</title>
+      <link>https://www.mandarinai.lt/post/91319</link>
+      <description>💬 «Ми повинні вірити в нашу перемогу», - Марта Бліхар, 101-річна звʼязкова УПА, нагороджена командувачем Сил спеціальних операцій.
+
+⏯️ Більше тут https://m.youtube.com/watch?v=7H61c1hyf9Y
+ 
+🔗  Долучитися до «Руху опору» на opir.org.ua</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8193.MOV" length="4357548" type="video/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 12:38:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
