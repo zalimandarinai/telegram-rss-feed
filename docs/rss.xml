@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 21:30:12 +0000</lastBuildDate>
-    <item>
-      <title>⛽️ Ціни на нафту почали різко </title>
-      <link>https://www.mandarinai.lt/post/91325</link>
-      <description>⛽️ Ціни на нафту почали різко  падати, - Bild
-
-Ціни на нафту пішли вниз: барель марки Brent в даний момент (близько 15:00 за центральноєвропейським часом) коштує більш ніж на 7% менше, ніж напередодні, і котирується приблизно на рівні 91 долара (вчора це становило близько 100 доларів). Аналогічна картина спостерігається і з нафтою марки WTI.
-
-Таким чином, ринки, ймовірно, реагують на заяву Ірану про пропуск суден через Ормузьку протоку під час перемир'я між Ізраїлем і Ліваном</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_13-50-37.jpg" length="64531" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 13:50:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Влада в росії, схоже, шукає сп</title>
-      <link>https://www.mandarinai.lt/post/91326</link>
-      <description>Влада в росії, схоже, шукає спосіб заповнити нестачу особового складу в армії іноземцями, - СЗР України 
-
-Держдума, поки непублічно, розглядає посилення міграційного законодавства, яке може опосередковано вплинути на залучення іноземців до армії.
-
-Зокрема, вона готує законопроєкт, який передбачає обов’язкове видворення іноземних громадян за низкою додаткових статей адміністративного кодексу. 
-
-Йдеться приблизно про 20 правопорушень: хуліганство, участь у несанкціонованих акціях, демонстрація забороненої символіки.
-
-Депортація - замість штрафів. Водночас виняток пропонується зробити для іноземців, які укладуть контракт на службу в російській армії.
-
-Фактично це створює ситуацію, за якої мігранти через незначні правопорушення можуть опинитися перед вибором: видворення з країни або військова служба.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_16-03-14.jpg" length="32653" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 16:03:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 22:25:31 +0000</lastBuildDate>
     <item>
       <title>Екіпаж літака Як-52 перехоплює</title>
       <link>https://www.mandarinai.lt/post/91327</link>
@@ -103,6 +75,13 @@
 🤝 Дякуємо, 57-а!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8205.MP4" length="3349543" type="video/mp4"/>
       <pubDate>Fri, 17 Apr 2026 20:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вибухає і палає на окупованих</title>
+      <link>https://www.mandarinai.lt/post/91341</link>
+      <description>💥Вибухає і палає на окупованих територіях Запорізької та Донецької областей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-17_22-13-53.mp4" length="1450350" type="video/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 22:13:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
