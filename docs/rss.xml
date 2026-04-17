@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 16:39:33 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Питання в мазуті, який гори</title>
-      <link>https://www.mandarinai.lt/post/91314</link>
-      <description>💬 «Питання в мазуті, який горить», - підсумовує народний кореспондент в Туапсе</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-04-17_14-14-46.mp4" length="10879030" type="video/mp4"/>
-      <pubDate>Fri, 17 Apr 2026 11:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Коротка вікторина для російськ</title>
-      <link>https://www.mandarinai.lt/post/91315</link>
-      <description>Коротка вікторина для російського полоненого, яку провів 225-ий ОШП
-
-Відповіді шокують. Проте, саме так має виглядати ідеальний путінський солдат.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/225_captive.mp4" length="29296518" type="video/mp4"/>
-      <pubDate>Fri, 17 Apr 2026 11:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Цього року українські пілоти п</title>
-      <link>https://www.mandarinai.lt/post/91316</link>
-      <description>Цього року українські пілоти почнуть тренування на шведських літаках,  - Зеленський і король Швеції Карл XVI Густав</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_11-35-38.jpg" length="70392" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 11:35:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 17:38:07 +0000</lastBuildDate>
     <item>
       <title>На Харківщині приватна ППО впе</title>
       <link>https://www.mandarinai.lt/post/91317</link>
@@ -140,6 +117,26 @@
       <description>Спроба русні атакувати мобільну вогневу групу керованою «Герберою» була невдалою, - Сергій Флеш</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8201.MP4" length="2258365" type="video/mp4"/>
       <pubDate>Fri, 17 Apr 2026 16:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Білорусь готується до війни</title>
+      <link>https://www.mandarinai.lt/post/91329</link>
+      <description>⚡️ Білорусь готується до війни з Україною, - Зеленський
+
+➡️ За даними розвідки, відбувається розбудова доріг до території України та налагодження артилерійських позицій. 
+
+💬 «Доручив відповідними каналами застерегти фактичне керівництво Білорусі щодо готовності України захищати свою землю та незалежність. Характер та наслідки нещодавніх подій у Венесуелі повинні стримувати керівництво Білорусі від помилок».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_16-39-53.jpg" length="67391" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 16:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Україні нарешті почали зн</title>
+      <link>https://www.mandarinai.lt/post/91331</link>
+      <description>⚡️ В Україні нарешті почали знижуватись ціни на пальне, — ЕП
+
+За останні дні середня гуртова вартість бензину знизилася на 0,95 грн/л, дизпального – на 3,91 грн/л.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_17-11-26.jpg" length="72151" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 17:11:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
