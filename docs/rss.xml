@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 15:45:29 +0000</lastBuildDate>
-    <item>
-      <title>Ось цей офіцер російської розв</title>
-      <link>https://www.mandarinai.lt/post/91309</link>
-      <description>Ось цей офіцер російської розвідки вербував коригувальників для удару по Бурштинській ТЕС
-
-Підполковник Марат Цевелев служить у 317-му морському центрі сил спеціальних операцій російського гру в Севастополі.
-
-Цей підрозділ здійснює збір інформації для визначення цілей ракетних і бомбових ударів на території Україні.
-
-Для ударів по Бурштинській ТЕС Цевелев завербував 17-річну випускницю місцевого технікуму, яка шукала грошей.
-
-Від СБУ цей покидьок отримав підозру, поки що заочну, але, оскільки вербування неповнолітньої може вважатися воєнним злочином, то, ймовірно, ним зацікавиться і міжнародний спецтрибунал в Нідерландах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_10-48-52.jpg" length="74674" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 10:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤴Король Швеції Карл XVI Густав</title>
-      <link>https://www.mandarinai.lt/post/91312</link>
-      <description>🤴Король Швеції Карл XVI Густав уперше за 14 років приїхав в Україну. Наразі він перебуває у Львові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-17_11-06-44.mp4" length="8690872" type="video/mp4"/>
-      <pubDate>Fri, 17 Apr 2026 11:06:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 16:39:33 +0000</lastBuildDate>
     <item>
       <title>💬 «Питання в мазуті, який гори</title>
       <link>https://www.mandarinai.lt/post/91314</link>
@@ -131,6 +109,37 @@
 Таким чином, ринки, ймовірно, реагують на заяву Ірану про пропуск суден через Ормузьку протоку під час перемир'я між Ізраїлем і Ліваном</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_13-50-37.jpg" length="64531" type="image/jpeg"/>
       <pubDate>Fri, 17 Apr 2026 13:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Влада в росії, схоже, шукає сп</title>
+      <link>https://www.mandarinai.lt/post/91326</link>
+      <description>Влада в росії, схоже, шукає спосіб заповнити нестачу особового складу в армії іноземцями, - СЗР України 
+
+Держдума, поки непублічно, розглядає посилення міграційного законодавства, яке може опосередковано вплинути на залучення іноземців до армії.
+
+Зокрема, вона готує законопроєкт, який передбачає обов’язкове видворення іноземних громадян за низкою додаткових статей адміністративного кодексу. 
+
+Йдеться приблизно про 20 правопорушень: хуліганство, участь у несанкціонованих акціях, демонстрація забороненої символіки.
+
+Депортація - замість штрафів. Водночас виняток пропонується зробити для іноземців, які укладуть контракт на службу в російській армії.
+
+Фактично це створює ситуацію, за якої мігранти через незначні правопорушення можуть опинитися перед вибором: видворення з країни або військова служба.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_16-03-14.jpg" length="32653" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 16:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Екіпаж літака Як-52 перехоплює</title>
+      <link>https://www.mandarinai.lt/post/91327</link>
+      <description>Екіпаж літака Як-52 перехоплює та збиває «шахеди» в районі Одеси.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8200.MP4" length="18856476" type="video/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 16:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Спроба русні атакувати мобільн</title>
+      <link>https://www.mandarinai.lt/post/91328</link>
+      <description>Спроба русні атакувати мобільну вогневу групу керованою «Герберою» була невдалою, - Сергій Флеш</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8201.MP4" length="2258365" type="video/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 16:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
