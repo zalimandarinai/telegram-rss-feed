@@ -6,47 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 20:32:23 +0000</lastBuildDate>
-    <item>
-      <title>🇲🇩 Молдова поступово блокує Пр</title>
-      <link>https://www.mandarinai.lt/post/91321</link>
-      <description>🇲🇩 Молдова поступово блокує Придністровʼя.
-
-🪖 Командування групи російських військ в «ПМР» потрапило до списку небажаних осіб у Республіці Молдова.
-
-📃 До нього внесені:
-
-▫️ командувач ОГРВ Дмитро Зеленков;
-▫️ заступник командувача ОГРВ Дмитро Опалєв;
-▫️ НШ ОГРВ Марат Ярулін і Олексій Богомолов;
-▫️ Сергій Машенко та Сергій Ширшов.
-
-🗾 Тобто, виїхати з так званої «ПМР» до РМ в них більше немає можливості. 
-
-↔️ Альтернативний варіант до України вони навряд чи розглядають.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_13-14-11.jpg" length="55404" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 13:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️США продовжать блокаду морсь</title>
-      <link>https://www.mandarinai.lt/post/91322</link>
-      <description>❗️США продовжать блокаду морських портів Ірану, незважаючи на відкриття Ормузької протоки, — Трамп
-
-Блокада діятиме до повної реалізації мирної угоди</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_13-36-29.jpg" length="70320" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 13:36:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫠Трамп подякував Ірану за відк</title>
-      <link>https://www.mandarinai.lt/post/91324</link>
-      <description>🫠Трамп подякував Ірану за відкриття Ормузької протоки
-
-Президент США Дональд Трамп відреагував на оголошене відкриття Ормузької протоки і в пості на своїй платформі Truth Social подякував іранському керівництву. При цьому він назвав протоку "протокою Ірану":
-
-«Іран тільки що оголосив, що протока Ірану повністю відкрита і готова до вільного проходу. Дякую!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_13-50-22.jpg" length="38031" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 13:50:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 21:30:12 +0000</lastBuildDate>
     <item>
       <title>⛽️ Ціни на нафту почали різко </title>
       <link>https://www.mandarinai.lt/post/91325</link>
@@ -128,6 +88,21 @@
       <description>❗️ «Мене зовуть Дарина, мені шістнадцять років, і вже в наступному році я буду заробляти 150 тисяч рублів на місяць»: ці російські підлітки допомагають вбивати українських дітей, - підприємство з виробництва «шахедів» випустило рекламний ролик, в якому неповнолітні зізнаються в тому, що збирають ударні безпілотники.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/Z_каналы_начали_публиковать_рекламные_ролики_экономической_зоны.mp4" length="10374179" type="video/mp4"/>
       <pubDate>Fri, 17 Apr 2026 17:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Гарні новини з Харківщини: </title>
+      <link>https://www.mandarinai.lt/post/91337</link>
+      <description>⚡️ Гарні новини з Харківщини: 57-а ОМБР, яка більше 700 днів тримає Вовчанський напрямок, відновила контроль над частиною вулиць міста Вовчанськ,- про це повідомив командир бригади Віталій Попович на Facebook
+
+ℹ️ До речі, Віталій Попович один з тих, хто прийшов добровольцем до лав ЗСУ ще на початку російського вторгнення в 2014 році.
+
+⚔️ В складі 93-ої ОМБР він під псевдо «Вітер» керував обороною шахти «Бутівка», ще тоді проявивши себе талановитим командиром. 
+
+На 📷: командир 57-ої ОМБР на шахті «Бутівка» в 2015 році.
+
+🤝 Дякуємо, 57-а!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8205.MP4" length="3349543" type="video/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 20:48:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
