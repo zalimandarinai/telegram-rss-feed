@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 17:38:07 +0000</lastBuildDate>
-    <item>
-      <title>На Харківщині приватна ППО впе</title>
-      <link>https://www.mandarinai.lt/post/91317</link>
-      <description>На Харківщині приватна ППО вперше збила реактивний «шахед» на швидкості 400 км/год, — міністр оборони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8189.MP4" length="9766098" type="video/mp4"/>
-      <pubDate>Fri, 17 Apr 2026 11:42:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 18:39:13 +0000</lastBuildDate>
     <item>
       <title>💬 «Ми повинні вірити в нашу пе</title>
       <link>https://www.mandarinai.lt/post/91319</link>
@@ -137,6 +130,26 @@
 За останні дні середня гуртова вартість бензину знизилася на 0,95 грн/л, дизпального – на 3,91 грн/л.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_17-11-26.jpg" length="72151" type="image/jpeg"/>
       <pubDate>Fri, 17 Apr 2026 17:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳 Українку не пустили до Польщ</title>
+      <link>https://www.mandarinai.lt/post/91332</link>
+      <description>😳 Українку не пустили до Польщі через 100-доларову купюру, рівень радіаційного випромінювання якої перевищував норму більш ніж у 1900 разів, — RMF24
+
+Інцидент стався на пункті пропуску «Медика», де під час перевірки спрацювали радіаційні датчики. 
+
+За даними перевірки, на банкноті виявили ізотоп, який використовують у медицині. Купюру помістили у спеціальний контейнер і передали на додаткову експертизу.
+
+Жінка пояснила, що везла близько 10 тисяч доларів для купівлі авто. У підсумку їй відмовили у в’їзді та повернули в Україну.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-17_17-49-51.jpg" length="222489" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 17:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Мене зовуть Дарина, мені ш</title>
+      <link>https://www.mandarinai.lt/post/91333</link>
+      <description>❗️ «Мене зовуть Дарина, мені шістнадцять років, і вже в наступному році я буду заробляти 150 тисяч рублів на місяць»: ці російські підлітки допомагають вбивати українських дітей, - підприємство з виробництва «шахедів» випустило рекламний ролик, в якому неповнолітні зізнаються в тому, що збирають ударні безпілотники.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Z_каналы_начали_публиковать_рекламные_ролики_экономической_зоны.mp4" length="10374179" type="video/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 17:53:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
