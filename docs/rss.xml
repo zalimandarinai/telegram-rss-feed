@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 09:35:50 +0000</lastBuildDate>
-    <item>
-      <title>🔥Тим часом палаючий  Сизранськ</title>
-      <link>https://www.mandarinai.lt/post/91344</link>
-      <description>🔥Тим часом палаючий  Сизранській НПЗ переконливо доводить, що зло не переможе</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-18_06-18-00.mp4" length="510078" type="video/mp4"/>
-      <pubDate>Sat, 18 Apr 2026 06:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥В Сизрані на НПЗ після атаки</title>
-      <link>https://www.mandarinai.lt/post/91345</link>
-      <description>💥🔥В Сизрані на НПЗ після атаки дронів палає вже дві(!) локації - резервуарний парк та установка з переробки нафти</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_06-30-45.jpg" length="162546" type="image/jpeg"/>
-      <pubDate>Sat, 18 Apr 2026 06:30:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 10:28:42 +0000</lastBuildDate>
     <item>
       <title>😡 Вночі російські війська безп</title>
       <link>https://www.mandarinai.lt/post/91350</link>
@@ -84,6 +70,13 @@
       <description>❗️Екіпаж спортивного Як-52 збиває російський «шахед» над Одещиною: пілот наздоганяє безпілотник, стрілець уражає його зі звичайної штурмової гвинтівки UAR-15, - 11-а бригада армійської авіації</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8211.MP4" length="5999234" type="video/mp4"/>
       <pubDate>Sat, 18 Apr 2026 09:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Неймовірно: оператор керува</title>
+      <link>https://www.mandarinai.lt/post/91363</link>
+      <description>❗️ Неймовірно: оператор керував перехоплювачем STING «Wild Hornet» і збив дрон над Україною, знаходячись далеко за кордоном.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8212.MP4" length="12568284" type="video/mp4"/>
+      <pubDate>Sat, 18 Apr 2026 10:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
