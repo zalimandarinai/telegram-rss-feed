@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 08:34:34 +0000</lastBuildDate>
-    <item>
-      <title>💥Вибухає і палає на окупованих</title>
-      <link>https://www.mandarinai.lt/post/91341</link>
-      <description>💥Вибухає і палає на окупованих територіях Запорізької та Донецької областей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-17_22-13-53.mp4" length="1450350" type="video/mp4"/>
-      <pubDate>Fri, 17 Apr 2026 22:13:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 09:35:50 +0000</lastBuildDate>
     <item>
       <title>🔥Тим часом палаючий  Сизранськ</title>
       <link>https://www.mandarinai.lt/post/91344</link>
@@ -64,6 +57,33 @@
 На місце події прибули правоохоронці, які затримали двох учасників нападу. Ще один фігурант нападу розшукується.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_08-25-56.jpg" length="119917" type="image/jpeg"/>
       <pubDate>Sat, 18 Apr 2026 08:25:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡США не дотрималися своїх зобо</title>
+      <link>https://www.mandarinai.lt/post/91357</link>
+      <description>😡США не дотрималися своїх зобов'язань, тому Ормузька протока знову закрита (!), і для проходу потрібна згода Ірану, — Центр командування Ірану</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_08-32-52.jpg" length="93236" type="image/jpeg"/>
+      <pubDate>Sat, 18 Apr 2026 08:32:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В окупованому Севастополі три</title>
+      <link>https://www.mandarinai.lt/post/91358</link>
+      <description>🔥В окупованому Севастополі триває  "плановоє горєніє" по плану путіна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-18_09-03-23.mp4" length="229067" type="video/mp4"/>
+      <pubDate>Sat, 18 Apr 2026 09:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві попрощалися з 11-річни</title>
+      <link>https://www.mandarinai.lt/post/91359</link>
+      <description>В Києві попрощалися з 11-річним Максимом Веремчуком, який загинув під час ракетного удару росіян по столиці 16 квітня, — журналіст «Україна Сейчас»</description>
+      <pubDate>Sat, 18 Apr 2026 09:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Екіпаж спортивного Як-52 зби</title>
+      <link>https://www.mandarinai.lt/post/91360</link>
+      <description>❗️Екіпаж спортивного Як-52 збиває російський «шахед» над Одещиною: пілот наздоганяє безпілотник, стрілець уражає його зі звичайної штурмової гвинтівки UAR-15, - 11-а бригада армійської авіації</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8211.MP4" length="5999234" type="video/mp4"/>
+      <pubDate>Sat, 18 Apr 2026 09:17:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
