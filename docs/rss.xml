@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 18:29:49 +0000</lastBuildDate>
-    <item>
-      <title>Вже 6 загиблих у Києві: в ліка</title>
-      <link>https://www.mandarinai.lt/post/91407</link>
-      <description>Вже 6 загиблих у Києві: в лікарні померла жінка, яка була серед поранених, – Кличко
-
-4-місячна дитина отруїлася чадним газом від пожежі в квартирі терориста</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_16-24-27.jpg" length="328386" type="image/jpeg"/>
-      <pubDate>Sat, 18 Apr 2026 16:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Одна з жінок, яка була в заруч</title>
-      <link>https://www.mandarinai.lt/post/91408</link>
-      <description>Одна з жінок, яка була в заручниках стрілка</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0879.MP4" length="7369803" type="video/mp4"/>
-      <pubDate>Sat, 18 Apr 2026 16:25:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 19:31:56 +0000</lastBuildDate>
     <item>
       <title>🔴Терорист не висував жодних ви</title>
       <link>https://www.mandarinai.lt/post/91409</link>
@@ -95,6 +79,30 @@
 Також зазначається, що він — військовий пенсіонер України. У 2024 році суд у Києві звільнив його від кримінальної відповідальності у справі про тілесні ушкодження після примирення з потерпілим.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_17-56-57.jpg" length="71550" type="image/jpeg"/>
       <pubDate>Sat, 18 Apr 2026 17:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Рютте: вихід США з НАТО мал</title>
+      <link>https://www.mandarinai.lt/post/91422</link>
+      <description>⚡️ Рютте: вихід США з НАТО малоймовірний, але Альянс має посилюватися
+
+Генсек НАТО Марк Рютте заявив, що не бачить реальних ризиків виходу США з Альянсу, попри критику з боку Дональда Трампа. За його словами, Вашингтон залишається ключовим гарантом безпеки Європи.
+
+Водночас Рютте визнав розчарування Трампа окремими членами НАТО та закликав країни ЄС активніше інвестувати в оборону й оборонну промисловість.
+
+Він також наголосив, що ядерна "парасолька" США залишається основою стримування Альянсу, хоча внесок Франції та Британії також важливий для спільної безпеки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_19-12-09.jpg" length="40821" type="image/jpeg"/>
+      <pubDate>Sat, 18 Apr 2026 19:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Україна кардинально змінила п</title>
+      <link>https://www.mandarinai.lt/post/91423</link>
+      <description>🔴Україна кардинально змінила підхід до ведення воєн, — міністр армії США Дрісколл
+
+За його словами, український підхід, зокрема у сфері інновацій, уже впровжується в американській армії: 
+
+«Вони докорінно змінили те, як люди ведуть війну. Вони виконали абсолютно приголомшливу роботу в галузі інновацій, і я публічно заявляв, що ми багато чому вчимося у них і впроваджуємо багато уроків, які вони нам дали».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-18_19-13-01.mp4" length="2129192" type="video/mp4"/>
+      <pubDate>Sat, 18 Apr 2026 19:13:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
