@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 07:51:06 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Гарні новини з Харківщини: </title>
-      <link>https://www.mandarinai.lt/post/91337</link>
-      <description>⚡️ Гарні новини з Харківщини: 57-а ОМБР, яка більше 700 днів тримає Вовчанський напрямок, відновила контроль над частиною вулиць міста Вовчанськ,- про це повідомив командир бригади Віталій Попович на Facebook
-
-ℹ️ До речі, Віталій Попович один з тих, хто прийшов добровольцем до лав ЗСУ ще на початку російського вторгнення в 2014 році.
-
-⚔️ В складі 93-ої ОМБР він під псевдо «Вітер» керував обороною шахти «Бутівка», ще тоді проявивши себе талановитим командиром. 
-
-На 📷: командир 57-ої ОМБР на шахті «Бутівка» в 2015 році.
-
-🤝 Дякуємо, 57-а!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8205.MP4" length="3349543" type="video/mp4"/>
-      <pubDate>Fri, 17 Apr 2026 20:48:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 08:34:34 +0000</lastBuildDate>
     <item>
       <title>💥Вибухає і палає на окупованих</title>
       <link>https://www.mandarinai.lt/post/91341</link>
@@ -63,6 +48,22 @@
       <description>💥🔥Ранковий Севастополь нагадав окупантам чий Крим.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_07-48-56.jpg" length="69431" type="image/jpeg"/>
       <pubDate>Sat, 18 Apr 2026 07:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вісім російських «шахедів» не </title>
+      <link>https://www.mandarinai.lt/post/91355</link>
+      <description>Вісім російських «шахедів» не пролетіли через ЛБЗ вглиб Запорізької області, - розрахунок перехоплювачів «Койот» 153-ої ОМБР</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8208.MP4" length="1928758" type="video/mp4"/>
+      <pubDate>Sat, 18 Apr 2026 08:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯Троє чоловіків увірвалися до </title>
+      <link>https://www.mandarinai.lt/post/91356</link>
+      <description>🤯Троє чоловіків увірвалися до будівлі Яворівського ТЦК на  Львівщині і побили військових взводу охорони
+
+На місце події прибули правоохоронці, які затримали двох учасників нападу. Ще один фігурант нападу розшукується.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_08-25-56.jpg" length="119917" type="image/jpeg"/>
+      <pubDate>Sat, 18 Apr 2026 08:25:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
