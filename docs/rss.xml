@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 19:31:56 +0000</lastBuildDate>
-    <item>
-      <title>🔴Терорист не висував жодних ви</title>
-      <link>https://www.mandarinai.lt/post/91409</link>
-      <description>🔴Терорист не висував жодних вимог, операція із затримання розпочалася після того, як було вбито одного із заручників, — Клименко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_16-25-50.jpg" length="236016" type="image/jpeg"/>
-      <pubDate>Sat, 18 Apr 2026 16:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤔 Фото у військовій формі та д</title>
-      <link>https://www.mandarinai.lt/post/91410</link>
-      <description>🤔 Фото у військовій формі та дані про службу в рф щодо стрілка — під питанням, наразі без підтвердження, — журналіст Глагола частково спростовує власну заяву
-
-Очікуємо офіційної інформації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_16-43-41.jpg" length="84697" type="image/jpeg"/>
-      <pubDate>Sat, 18 Apr 2026 16:43:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 20:22:07 +0000</lastBuildDate>
     <item>
       <title>«Він такий дядько інтелігентни</title>
       <link>https://www.mandarinai.lt/post/91411</link>
@@ -103,6 +87,13 @@
 «Вони докорінно змінили те, як люди ведуть війну. Вони виконали абсолютно приголомшливу роботу в галузі інновацій, і я публічно заявляв, що ми багато чому вчимося у них і впроваджуємо багато уроків, які вони нам дали».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-18_19-13-01.mp4" length="2129192" type="video/mp4"/>
       <pubDate>Sat, 18 Apr 2026 19:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В російському Єйську (Краснод</title>
+      <link>https://www.mandarinai.lt/post/91424</link>
+      <description>💥В російському Єйську (Краснодарський край) вибухи а районі порту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-18_19-58-33.jpg" length="141574" type="image/jpeg"/>
+      <pubDate>Sat, 18 Apr 2026 19:58:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
