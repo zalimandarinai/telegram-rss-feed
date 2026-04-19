@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 06:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:58:52 +0000</lastBuildDate>
     <item>
       <title>⚡️ Рютте: вихід США з НАТО мал</title>
       <link>https://www.mandarinai.lt/post/91422</link>
@@ -74,6 +74,15 @@
       <description>‼️Буде проведено службове розслідування щодо дій поліцейських під час теракту, - глава МВС Клименко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_06-11-21.mp4" length="1005694" type="video/mp4"/>
       <pubDate>Sun, 19 Apr 2026 06:11:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Вперше в історії «шахед» зби</title>
+      <link>https://www.mandarinai.lt/post/91433</link>
+      <description>💥 Вперше в історії «шахед» збили дроном-перехоплювачем, запущеним із безпілотної надводної платформи.
+
+Це вдалося дивізіону безпілотних надводних комплексів у складі 412-ї бригади Nemesis СБС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_07-29-16.mp4" length="2126339" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 07:29:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
