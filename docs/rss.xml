@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 19:32:40 +0000</lastBuildDate>
-    <item>
-      <title>🔞 Командування окупаційної арм</title>
-      <link>https://www.mandarinai.lt/post/91445</link>
-      <description>🔞 Командування окупаційної армії схильне надавати перевагу не НРК, а одноразовим солдатам, називаючи їх «верблюдами».
-
-Саме вони несуть на собі їжу, медикаменти і боєкомплект до російських позицій. 
-
-Вони вважаються найнижчою кастою російської армії. 
-
-Переважно носіями стають «зеки» або військовослужбовці, які провинилися, тож часто їх відправляють без зброї на позиції, чим перетворюють на мішені для дронів.
-
-Так, одного з них ліквідували оператори 414-ої бригади СБС «Птахи Мадяра».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8243.MP4" length="12488784" type="video/mp4"/>
-      <pubDate>Sun, 19 Apr 2026 12:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Трамп розлютився і погрожує зн</title>
-      <link>https://www.mandarinai.lt/post/91446</link>
-      <description>Трамп розлютився і погрожує знищити в Ірані кожну атомну електростанцію та кожен міст, якщо Тегеран і Вашингтон не укладуть угоду так, як господар Білого дому її бачить.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_13-04-46.jpg" length="169460" type="image/jpeg"/>
-      <pubDate>Sun, 19 Apr 2026 13:04:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 20:23:08 +0000</lastBuildDate>
     <item>
       <title>❗️ Начальник департаменту патр</title>
       <link>https://www.mandarinai.lt/post/91447</link>
@@ -127,20 +105,42 @@
       <link>https://www.mandarinai.lt/post/91458</link>
       <description>Не повірите — знову труба. 
 
-Чергова спроба прориву в Сумській області через газову трубу та на легкій техніці – не вперше і не вдруге, але з тим самим результатом.
+Чергова спроба прориву в Сумській області через газову трубу та на техніці – не вперше і не вдруге, але з тим самим результатом.
 
 Противник намагався здійснити інфільтрацію, використовуючи газогін «Уренгой-Помари-Ужгород», а також маневр на квадроциклах і мотоциклах.
 
 Завдяки злагодженій роботі бійців 71-ої ОАЕМБР та суміжних підрозділів ці дії були вчасно виявлені та припинені.
 
-Втрати противника:
-- ліквідовано: 35
-- поранено: 17
-- знищено: 3 мотоцикли, 4 квадроцикли
+Втрати противника: 
+ліквідовано: 35
+поранено: 17
+знищено: 3 мотоцикли, 4 квадроцикли
 
-Приєднуйся до лав 71 окремої аеромобільної бригади ДШВ: https://71dshv.mil.gov.ua</description>
+Долучитися до лав 71 окремої аеромобільної бригади ДШВ: https://71dshv.mil.gov.ua</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8258.MP4" length="17630985" type="video/mp4"/>
       <pubDate>Sun, 19 Apr 2026 18:44:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Схоже на якусь епідемію психіч</title>
+      <link>https://www.mandarinai.lt/post/91459</link>
+      <description>Схоже на якусь епідемію психічних захворювань.
+
+В Шривпорті в США чоловік розстріляв вісім дітей віком від 1 до 14 років, — NBC. 
+
+Злочинець вчинив стрілянину одразу в трьох житлових будинках, у тому числі і у власному. Повідомляють, що частина загиблих дітей була його родичами.
+
+На краденій машині він спробував втекти від поліції. Під час погоні його ліквідували поліцейські.
+
+Шривпорт провінційне місто в штаті Луїзіана, і, як стверджує мер, подібних ситуацій тут ніколи до того не було.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8260.MP4" length="4362655" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 19:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⏯️ Кремль готує велику мобіліз</title>
+      <link>https://www.mandarinai.lt/post/91460</link>
+      <description>⏯️ Кремль готує велику мобілізацію, тому обмежує соцмережі — щоб уникнути «бунтів», — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8261.MP4" length="8841937" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 19:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
