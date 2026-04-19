@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 12:31:46 +0000</lastBuildDate>
-    <item>
-      <title>‼️Буде проведено службове розс</title>
-      <link>https://www.mandarinai.lt/post/91431</link>
-      <description>‼️Буде проведено службове розслідування щодо дій поліцейських під час теракту, - глава МВС Клименко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_06-11-21.mp4" length="1005694" type="video/mp4"/>
-      <pubDate>Sun, 19 Apr 2026 06:11:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 13:51:00 +0000</lastBuildDate>
     <item>
       <title>💥 ⚠️Вперше в історії «шахед» з</title>
       <link>https://www.mandarinai.lt/post/91433</link>
@@ -92,6 +85,28 @@
       <description>Дрони FP-2 атакували місце дислокації російських військових</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8240.MP4" length="1303048" type="video/mp4"/>
       <pubDate>Sun, 19 Apr 2026 12:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞 Командування окупаційної арм</title>
+      <link>https://www.mandarinai.lt/post/91445</link>
+      <description>🔞 Командування окупаційної армії схильне надавати перевагу не НРК, а одноразовим солдатам, називаючи їх «верблюдами».
+
+Саме вони несуть на собі їжу, медикаменти і боєкомплект до російських позицій. 
+
+Вони вважаються найнижчою кастою російської армії. 
+
+Переважно носіями стають «зеки» або військовослужбовці, які провинилися, тож часто їх відправляють без зброї на позиції, чим перетворюють на мішені для дронів.
+
+Так, одного з них ліквідували оператори 414-ої бригади СБС «Птахи Мадяра».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8243.MP4" length="12488784" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 12:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп розлютився і погрожує зн</title>
+      <link>https://www.mandarinai.lt/post/91446</link>
+      <description>Трамп розлютився і погрожує знищити в Ірані кожну атомну електростанцію та кожен міст, якщо Тегеран і Вашингтон не укладуть угоду так, як господар Білого дому її бачить.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_13-04-46.jpg" length="169460" type="image/jpeg"/>
+      <pubDate>Sun, 19 Apr 2026 13:04:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
