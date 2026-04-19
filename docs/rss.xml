@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 21:23:32 +0000</lastBuildDate>
-    <item>
-      <title>❗️ У Чернігові було щойно затр</title>
-      <link>https://www.mandarinai.lt/post/91451</link>
-      <description>❗️ У Чернігові було щойно затримано чоловіка за стрілянину на вулицях міста, стрільцю 23 роки, - Нацполіція</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_15-38-24.jpg" length="142490" type="image/jpeg"/>
-      <pubDate>Sun, 19 Apr 2026 15:38:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 22:21:31 +0000</lastBuildDate>
     <item>
       <title>Ірландія готується заплатити у</title>
       <link>https://www.mandarinai.lt/post/91452</link>
@@ -123,6 +116,13 @@
 Партія виступає проти поставок зброї Україні та за повернення поставок російської нафти до ЄС. Після поразки Орбана лідер партії Румен Радєв позиціонує себе як єдиного лідера Євросоюзу, готового до зближення з москвою.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_21-01-53.jpg" length="84711" type="image/jpeg"/>
       <pubDate>Sun, 19 Apr 2026 21:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Кортеж путіна посеред ночі н</title>
+      <link>https://www.mandarinai.lt/post/91465</link>
+      <description>❗️Кортеж путіна посеред ночі несеться до Кремля. Чому так пізно, невідомо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_21-48-27.mp4" length="895320" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 21:48:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
