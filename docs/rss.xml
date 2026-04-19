@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 07:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 08:51:14 +0000</lastBuildDate>
     <item>
       <title>⚡️ Рютте: вихід США з НАТО мал</title>
       <link>https://www.mandarinai.lt/post/91422</link>
@@ -57,7 +57,7 @@
     <item>
       <title>Перші хвилини вчорашнього тера</title>
       <link>https://www.mandarinai.lt/post/91429</link>
-      <description>Перші хвилини вчорашнього теракту - поліцейські не намагались нейтралізувати стрільця нібито тікали від терориста, залишивши поранених на вулиці, — місцеві ЗМІ</description>
+      <description>Перші хвилини вчорашнього теракту - поліцейські не намагались нейтралізувати стрільця, нібито тікали від терориста, залишивши поранених на вулиці, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_05-58-00.mp4" length="1005694" type="video/mp4"/>
       <pubDate>Sun, 19 Apr 2026 05:58:00 +0000</pubDate>
     </item>
@@ -76,13 +76,37 @@
       <pubDate>Sun, 19 Apr 2026 06:11:21 +0000</pubDate>
     </item>
     <item>
-      <title>💥 Вперше в історії «шахед» зби</title>
+      <title>💥 ⚠️Вперше в історії «шахед» з</title>
       <link>https://www.mandarinai.lt/post/91433</link>
-      <description>💥 Вперше в історії «шахед» збили дроном-перехоплювачем, запущеним із безпілотної надводної платформи.
+      <description>💥 ⚠️Вперше в історії «шахед» збили дроном-перехоплювачем, запущеним із безпілотної надводної платформи.
 
 Це вдалося дивізіону безпілотних надводних комплексів у складі 412-ї бригади Nemesis СБС.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_07-29-16.mp4" length="2126339" type="video/mp4"/>
       <pubDate>Sun, 19 Apr 2026 07:29:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Водій у Кропивницькому повози</title>
+      <link>https://www.mandarinai.lt/post/91434</link>
+      <description>👀Водій у Кропивницькому повозив на капоті працівника ТЦК, який хотів перевірити документи у Кропивницькому.
+
+Чоловіка затримали. Йому загрожує тюремне ув'язнення від 3 до 5 років.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_08-01-03.mp4" length="1516543" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 08:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Болгарський Орбан може перемог</title>
+      <link>https://www.mandarinai.lt/post/91435</link>
+      <description>Болгарський Орбан може перемогти на виборах
+
+На парламентських виборах у Болгарії, які відбуваються сьогодні, опитування прогнозують, що 35% голосів може взяти партія колишнього проросійського президента Румена Радєва.
+
+Колишній командувач болгарських ВПС, Радєв на посаді президента став євроскептиком, а також він виступає проти військової допомоги Україні.
+
+Через це його вже порівнюють із Віктором Орбаном і побоюються, що Болгарія може почати гальмувати рішення ЄС, наприклад щодо санкцій або підтримки Києва.
+
+Але для того, щоб виграти парламентські вибори, всередині країни він йде з антикорупційною повісткою та обіцяє «розібратися з олігархами».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_08-42-54.jpg" length="21740" type="image/jpeg"/>
+      <pubDate>Sun, 19 Apr 2026 08:42:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
