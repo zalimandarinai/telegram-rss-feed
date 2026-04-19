@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 11:25:06 +0000</lastBuildDate>
-    <item>
-      <title>В Чернігові внаслідок нічної а</title>
-      <link>https://www.mandarinai.lt/post/91428</link>
-      <description>В Чернігові внаслідок нічної атаки рф загинув 16-річний хлопець і ще 4 людини зазнали поранень, - МВА
-
-Також через обстріл пошкоджено 7 будинків, адмінбудівля та заклад освіти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8231.MP4" length="24635539" type="video/mp4"/>
-      <pubDate>Sun, 19 Apr 2026 05:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перші хвилини вчорашнього тера</title>
-      <link>https://www.mandarinai.lt/post/91429</link>
-      <description>Перші хвилини вчорашнього теракту - поліцейські не намагались нейтралізувати стрільця, нібито тікали від терориста, залишивши поранених на вулиці, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_05-58-00.mp4" length="1005694" type="video/mp4"/>
-      <pubDate>Sun, 19 Apr 2026 05:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥У Севастополі другу добу післ</title>
-      <link>https://www.mandarinai.lt/post/91430</link>
-      <description>🔥У Севастополі другу добу після влучання дронів  догорають резервуари з пальним.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_06-02-21.mp4" length="831075" type="video/mp4"/>
-      <pubDate>Sun, 19 Apr 2026 06:02:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 12:31:46 +0000</lastBuildDate>
     <item>
       <title>‼️Буде проведено службове розс</title>
       <link>https://www.mandarinai.lt/post/91431</link>
@@ -108,6 +85,13 @@
       <description>У складі 414-ої бригади безпілотних систем теж створили дивізіон надводних дронів, який залучатимуть до проведення морських операцій, -  командувач СБС ЗСУ Роберт «Мадяр» Бровді</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_10-42-27.jpg" length="43268" type="image/jpeg"/>
       <pubDate>Sun, 19 Apr 2026 10:42:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрони FP-2 атакували місце дис</title>
+      <link>https://www.mandarinai.lt/post/91442</link>
+      <description>Дрони FP-2 атакували місце дислокації російських військових</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8240.MP4" length="1303048" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 12:14:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
