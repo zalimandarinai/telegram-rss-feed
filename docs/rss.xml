@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 17:25:31 +0000</lastBuildDate>
-    <item>
-      <title>Дрони FP-2 атакували місце дис</title>
-      <link>https://www.mandarinai.lt/post/91442</link>
-      <description>Дрони FP-2 атакували місце дислокації російських військових</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8240.MP4" length="1303048" type="video/mp4"/>
-      <pubDate>Sun, 19 Apr 2026 12:14:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 18:30:14 +0000</lastBuildDate>
     <item>
       <title>🔞 Командування окупаційної арм</title>
       <link>https://www.mandarinai.lt/post/91445</link>
@@ -115,6 +108,17 @@
       <description>Оптоволоконні дрони батальйону SIGNUM 59-ї бригади СБС ганяють окупантів серед дерев Серебрянського лісництва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8256.MP4" length="23677443" type="video/mp4"/>
       <pubDate>Sun, 19 Apr 2026 16:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇧🇬 Погані новини з Болгарії.Та</title>
+      <link>https://www.mandarinai.lt/post/91457</link>
+      <description>🇧🇬 Погані новини з Болгарії.Там пройшли дострокові парламентські вибори. За результатами екзит-полу суспільного мовника B.TV, партія проросійського експрезидента Радєва «Прогресивна Болгарія» отримує перше місце і набирає понад 38% голосів
+
+Радєєв - євроскептик, називає Крим російським і виступає проти допомоги Україні
+
+🤬Тобто Орбан 2.0 на підході</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_18-14-01.jpg" length="104592" type="image/jpeg"/>
+      <pubDate>Sun, 19 Apr 2026 18:14:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
