@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 22:21:31 +0000</lastBuildDate>
-    <item>
-      <title>Ірландія готується заплатити у</title>
-      <link>https://www.mandarinai.lt/post/91452</link>
-      <description>Ірландія готується заплатити українцям за повернення додому, оскільки планує згорнути програму розміщення, йдеться про суми до €2500 на особу або до €10000 на сім'ю, але для українців пакет обіцяють зробити «пропорційним до тієї щедрості, з якою їх раніше приймали».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-19_16-10-45.jpg" length="34823" type="image/jpeg"/>
-      <pubDate>Sun, 19 Apr 2026 16:10:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤯🪖12 км під обстрілами: на Кос</title>
-      <link>https://www.mandarinai.lt/post/91453</link>
-      <description>🤯🪖12 км під обстрілами: на Костянтинівському напрямку бійці бригади Нацполіції «Лють» провели надскладну евакуацію пораненого бійця, який підірвався на міні
-
-Під час руху групу неодноразово виявляв ворог, тож доводилося постійно шукати укриття. Бійці несли пораненого протягом 2 діб, подолавши понад 12 км під вогнем. На щастя, операцію вдалося завершити успішно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_16-11-47.mp4" length="31409612" type="video/mp4"/>
-      <pubDate>Sun, 19 Apr 2026 16:11:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 23:24:53 +0000</lastBuildDate>
     <item>
       <title>💬 «В Криму дітей вчать, що вби</title>
       <link>https://www.mandarinai.lt/post/91454</link>
@@ -123,6 +107,13 @@
       <description>❗️Кортеж путіна посеред ночі несеться до Кремля. Чому так пізно, невідомо</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_21-48-27.mp4" length="895320" type="video/mp4"/>
       <pubDate>Sun, 19 Apr 2026 21:48:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Гучна ніч в російському Туапс</title>
+      <link>https://www.mandarinai.lt/post/91466</link>
+      <description>💥Гучна ніч в російському Туапсе</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-19_22-53-16.mp4" length="645702" type="video/mp4"/>
+      <pubDate>Sun, 19 Apr 2026 22:53:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
