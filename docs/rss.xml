@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 11:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:59:13 +0000</lastBuildDate>
     <item>
       <title>💥🔥Порт в російському Туапсе ус</title>
       <link>https://www.mandarinai.lt/post/91479</link>
@@ -102,6 +102,13 @@
 ​Зокрема, на нафтопереробному заводі зафіксовано приліт у резервуарний парк, що спричинив потужну пожежу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-20_10-53-50.jpg" length="108477" type="image/jpeg"/>
       <pubDate>Mon, 20 Apr 2026 10:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪🔥Момент падіння російського а</title>
+      <link>https://www.mandarinai.lt/post/91492</link>
+      <description>💪🔥Момент падіння російського аеробалістичного «Кинджала», збитого з курсу українським РЕБом «Ліма», – Оборонка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-20_12-46-38.mp4" length="1767486" type="video/mp4"/>
+      <pubDate>Mon, 20 Apr 2026 12:46:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
