@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 18:46:53 +0000</lastBuildDate>
-    <item>
-      <title>💪🔥Момент падіння російського а</title>
-      <link>https://www.mandarinai.lt/post/91492</link>
-      <description>💪🔥Момент падіння російського аеробалістичного «Кинджала», збитого з курсу українським РЕБом «Ліма», – Оборонка
-
-Український РЕБ «Ліма» лише з початку 2026 року збив 26 «Кинджалів» та відбив 33 крилаті ракети і понад 10 000 БпЛА.
-
-За словами розробника системи, вона також знешкоджує понад 98% КАБів, напевно, в тому сенсі, що вони не влучають туди, куди летять.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-20_12-46-38.mp4" length="1767486" type="video/mp4"/>
-      <pubDate>Mon, 20 Apr 2026 12:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Копіюють і масштабують - до ро</title>
-      <link>https://www.mandarinai.lt/post/91494</link>
-      <description>Копіюють і масштабують - до російської армії почали надходити дрони-перехоплювачі «Лис-2», які здатні збивати українські БПЛА.
-
-Безпілотник має функцію автоматичного захоплення цілі, що дозволяє йому уражати інші дрони в повітрі.
-
-Проте, російський перехоплювач виконаний за аеродинамічною схемою «крило», тобто не тримається в повітрі на місці, як коптер, а за рахунок руху здатний набирати більшу висоту і швидкість.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-20_13-58-48.jpg" length="116951" type="image/jpeg"/>
-      <pubDate>Mon, 20 Apr 2026 13:58:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Apr 2026 19:51:29 +0000</lastBuildDate>
     <item>
       <title>Збито реактивний «шахед» в при</title>
       <link>https://www.mandarinai.lt/post/91496</link>
@@ -142,9 +120,42 @@
 
 🤝 Це ваш внесок в наближення перемоги, яка точно буде, якщо ми разом на неї будемо працювати. 
 
-🔂 Хлопці, яким так потрібна ця автівка, не дали ворогу просунутись в районі Удачного і Котлиного, тож ми бажаємо їм, щоб кількість виїздів на ній дорівнювала кількості повернень.</description>
+🔂 Хлопці, яким так потрібна ця автівка, не дали ворогу просунутись в районі Удачного і Котлиного, тож ми бажаємо їм, щоб кількість виїздів на ній дорівнювала кількості повернень.
+
+🇺🇦 Слава Україні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8287.MOV" length="17289163" type="video/mp4"/>
       <pubDate>Mon, 20 Apr 2026 18:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝В британському Портленді підг</title>
+      <link>https://www.mandarinai.lt/post/91507</link>
+      <description>🤝В британському Портленді підготували німецький гелікоптер Sea King Mk41 до передачі Україні. 
+
+Гелікоптер вже літає без німецьких розпізнавальних знаків.
+
+В 2024 році Німеччина завершила експлуатацію морських гелікоптерів Sea King і оголосила, що передасть їх Україні.
+
+Німеччина придбала 22 гелікоптери Sea King, побудовані у Великій Британії компанією Westland Helicopters.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-20_19-03-16.jpg" length="91790" type="image/jpeg"/>
+      <pubDate>Mon, 20 Apr 2026 19:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>1️⃣ Перша безпілотна евакуація</title>
+      <link>https://www.mandarinai.lt/post/91508</link>
+      <description>1️⃣ Перша безпілотна евакуація побратима, на щастя, пройшла для бригади успішно, - рота наземних роботів 153-ої бригади, яка обороняє Запоріжжя, починає проводити операції з евакуації поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8290.MP4" length="16474207" type="video/mp4"/>
+      <pubDate>Mon, 20 Apr 2026 19:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знайшли і спалили «ФранкенТанк</title>
+      <link>https://www.mandarinai.lt/post/91510</link>
+      <description>Знайшли і спалили «ФранкенТанк» в районі Гуляйполя.
+
+Оператори 225-го штурмового полку оцінили, скільки праці було покладено російськими окупантами, щоб зі старого Т-55 зробити сарай на гусеницях.
+
+Тому й запустили кілька FPV-дронів, щоб розвалити цей витвір інженерного мистецтва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8291.MP4" length="23266917" type="video/mp4"/>
+      <pubDate>Mon, 20 Apr 2026 19:42:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
