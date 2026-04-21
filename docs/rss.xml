@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 08:24:08 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Масована нічна і ранкова ат</title>
-      <link>https://www.mandarinai.lt/post/91516</link>
-      <description>⚡️ Масована нічна і ранкова атака на Суми, в Зарічному районі зафіксовано мінімум 5 влучань, горять автомобілі, пошкоджено медзаклад.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8294.MP4" length="2388860" type="video/mp4"/>
-      <pubDate>Tue, 21 Apr 2026 04:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українські дрони з ночі атакую</title>
-      <link>https://www.mandarinai.lt/post/91517</link>
-      <description>Українські дрони з ночі атакують залізничну інфраструктуру міста Новочеркаськ в Ростовській області.
-
-Також повідомляють про влучання в районі військової частини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-21_04-43-39.mp4" length="1027734" type="video/mp4"/>
-      <pubDate>Tue, 21 Apr 2026 04:43:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 10:07:56 +0000</lastBuildDate>
     <item>
       <title>Віцепрезидент США Джей Ді Венс</title>
       <link>https://www.mandarinai.lt/post/91520</link>
@@ -82,14 +66,46 @@
 
 💬Я б усіх працівників поліції на місяць-два перекидав якщо не на фронт, то хоча б у прифронтову зону, – заявив  голова МВС Клименко 
 
-▪️Стрілець постійно записував усе на диктофон – це допомогло слідству відновити події похвилинно;
-▪️Дії патрульних, які втекли, є великим соромом. Вони мали зайняти позицію, підготувати зброю і намагатися зупинити стрільця;
-▪️Тимчасово обов’язки начальника Департаменту патрульної поліції виконуватиме Олександр Фацевич;
-▪️Завдання –посилити та осучаснити підготовку поліцейських. Патрульні будуть по черзі жити на полігонах;
-▪️Спочатку зміни торкнуться патрульної служби, згодом – райвідділків;
-▪️Потрібен закон про цивільну зброю з чіткою класифікацією (мисливська, гладкоствольна, нарізна тощо). Вже розпочато діалог із нардепами.</description>
+ℹ️ В Нацполіції воює кілька різних підрозділів, зокрема:
+
+• Об'єднана штурмова бригада «Лють»
+
+• Бригада патрульної поліції «Хижак»
+
+• Також до бойових дій залучається КОРД, тобто Корпус оперативно-раптової дії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-21_08-14-36.jpg" length="124522" type="image/jpeg"/>
       <pubDate>Tue, 21 Apr 2026 08:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>😞У Слов'янську на маршрутки вс</title>
+      <link>https://www.mandarinai.lt/post/91530</link>
+      <description>😞У Слов'янську на маршрутки встановили антидронові сітки для захисту від постійних атак БпЛА
+
+Страшні реалії життя в прифронтових містах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-21_08-39-53.mp4" length="580253" type="video/mp4"/>
+      <pubDate>Tue, 21 Apr 2026 08:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безпілотники підрозділу «Фенік</title>
+      <link>https://www.mandarinai.lt/post/91531</link>
+      <description>Безпілотники підрозділу «Фенікс» прикордонної бригади «Помста» зафіксували приліт 3-тонної авіабомби по Костянтинівці, - і в цьому вся сутність путінської росії, яка вміє виключно руйнувати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8301.MP4" length="18810030" type="video/mp4"/>
+      <pubDate>Tue, 21 Apr 2026 08:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ уразила ворожу нафтостанці</title>
+      <link>https://www.mandarinai.lt/post/91532</link>
+      <description>СБУ уразила ворожу нафтостанцію «Самара», яка формує експортний сорт нафти Urals
+
+Цієї ночі безпілотники Центру спецоперацій «Альфа» СБУ спричинили масштабну пожежу на лінійно-виробничо-диспетчерській станції «Самара» у н.п. Просвєт Самарської області рф. 
+
+На цій станції відбувається змішування високо- та низькосірчаної нафти з різних родовищ для формування експортного сорту Urals. 
+
+Станція є важливою складовою нафтотранспортної інфраструктури рф.
+
+За попередніми даними, безпілотники СБУ пошкодили 5 резервуарів ємністю по 20 тисяч кубометрів із сирою нафтою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-21_09-57-08.jpg" length="148704" type="image/jpeg"/>
+      <pubDate>Tue, 21 Apr 2026 09:57:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
