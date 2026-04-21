@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 17:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:52:49 +0000</lastBuildDate>
     <item>
       <title>Чоловік, у якого одеські ТЦК «</title>
       <link>https://www.mandarinai.lt/post/91543</link>
@@ -106,6 +106,13 @@
 Це політичне рішення, а не економічне. Однак економічні обмеження та санкції впливають на те, які військові можливості Росія може мобілізувати і наскільки швидко.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-21_17-35-09.jpg" length="39653" type="image/jpeg"/>
       <pubDate>Tue, 21 Apr 2026 17:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Так виглядає запуск українськ</title>
+      <link>https://www.mandarinai.lt/post/91557</link>
+      <description>🔥Так виглядає запуск українських дронів FP-1 (FP-2), оснащених терміналами Starlink</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-21_18-43-32.mp4" length="4914390" type="video/mp4"/>
+      <pubDate>Tue, 21 Apr 2026 18:43:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
