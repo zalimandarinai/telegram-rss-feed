@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 11:51:28 +0000</lastBuildDate>
-    <item>
-      <title>Віцепрезидент США Джей Ді Венс</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Віцепрезидент США Джей Ді Венс сьогодні вранці вирушить до Ісламабада для участі в мирних переговорах з представниками Ірану, - Axios.</description>
-      <pubDate>Tue, 21 Apr 2026 05:35:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 12:54:00 +0000</lastBuildDate>
     <item>
       <title>❗️ Голова патрульної поліції Ж</title>
       <link>https://www.mandarinai.lt/post/91528</link>
@@ -90,6 +84,15 @@
  Разом із працівниками ТЦК затримали дільничного поліцейського Суворовського районного відділу, пише «Думська»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-21_11-49-56.mp4" length="390057" type="video/mp4"/>
       <pubDate>Tue, 21 Apr 2026 11:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В Туапсе палаючий третій ден</title>
+      <link>https://www.mandarinai.lt/post/91544</link>
+      <description>💥🔥В Туапсе палаючий третій день після влучання резервуарний парк стає популярною фотозоною.
+
+Пожежники не можуть загасити, натомість фотографуються</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-21_11-56-55.jpg" length="173040" type="image/jpeg"/>
+      <pubDate>Tue, 21 Apr 2026 11:56:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
