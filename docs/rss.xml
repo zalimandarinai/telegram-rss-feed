@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 16:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:55:23 +0000</lastBuildDate>
     <item>
       <title>Нафтовий дощ в Туапсе після то</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -50,21 +50,6 @@ https://send.monobank.ua/jar/63hbroYaRU
       <pubDate>Wed, 22 Apr 2026 08:56:49 +0000</pubDate>
     </item>
     <item>
-      <title>🇺🇦 Спецпідрозділ «ДОЗОР» разом</title>
-      <link>https://www.mandarinai.lt/post/91607</link>
-      <description>🇺🇦 Спецпідрозділ «ДОЗОР» разом з сімʼями полеглих бійців сьогодні за сприяння голови Дарницької держадміністраціі Києва О.Ковтунова відкрили перший в столиці меморіальний стінопис спецпризначенцям ДПСУ, трьом полковникам, загиблим під час операцій:
-
-⚔️ Герою України Юрію ЮРЧИКУ;
-
-⚔️ Лицарю ордена Богдана Хмельницького ІІ ст. Сергію ДОПІРЯКУ;
-
-⚔️ Лицарю ордена Богдана Хмельницького ІІІ ст. п»Олександру ОЧЕРЕТНЮКУ⁠.
-
-🔷 Полковник Юрій Юрчик загинув під час оборони Соледара, полковник Сергій Допіряк викликав вогонь на себе, щоб зупинити росіян в Сумській області, полковник Олександр Очеретнюк повернувся на щиті, виконуючи завдання в Запорізькій області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_14-33-30.jpg" length="260954" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 14:33:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Окупанти спробували прорватися</title>
       <link>https://www.mandarinai.lt/post/91613</link>
       <description>Окупанти спробували прорватися на пікапах до Костянтинівки зі сторони Бахмутської траси. 
@@ -102,6 +87,14 @@ https://send.monobank.ua/jar/63hbroYaRU
 Про це в ексклюзивному коментарі АрміяInform повідомив речник ВМС ЗСУ Дмитро Плетенчук.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_16-23-45.jpg" length="98897" type="image/jpeg"/>
       <pubDate>Wed, 22 Apr 2026 16:23:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 Зняття з росії санкцій на пр</title>
+      <link>https://www.mandarinai.lt/post/91623</link>
+      <description>💬 Зняття з росії санкцій на продаж нафти дає Кремлю додаткові $150 млн. на день, щоб вбивати українців, тож навіщо ви тоді зняли ці санкції? - сенатор Кріс Кунс 
+
+💬 Не думаю, що зняття санкцій дає росії додаткові фінанси, до того ж, десяток країн просять нас про зняття цих санкцій з росії, - міністр фінансів Скотт Бессент</description>
+      <pubDate>Wed, 22 Apr 2026 17:54:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
