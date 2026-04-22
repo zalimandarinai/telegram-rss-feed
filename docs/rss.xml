@@ -6,106 +6,75 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 06:27:23 +0000</lastBuildDate>
-    <item>
-      <title>Евакуація бійця 210-го штурмов</title>
-      <link>https://www.mandarinai.lt/post/91559</link>
-      <description>Евакуація бійця 210-го штурмового полку відбулась завдяки якісній взаємодії операторів «Terrain Modular Infantry Transporter», українського НРК, призначеного для логістичних завдань та транспортування.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8310.MP4" length="8014898" type="video/mp4"/>
-      <pubDate>Tue, 21 Apr 2026 19:25:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤯Італія викликала російського </title>
-      <link>https://www.mandarinai.lt/post/91560</link>
-      <description>🤯Італія викликала російського посла після образ Соловйова в бік Джорджії Мелоні 
-
-Міністр закордонних справ Італії Антоніо Таяні повідомив про виклик російського посла, якому висловили протест після «дуже серйозних і образливих» заяв російського пропагандиста Володимира Соловйова.
-
-Соловйов в етері своєї програми «Повний контакт», звертаючись безпосередньо до Мелоні», назвав її «італійською ганьбою людства», «дикою твариною», «сертифікованою ідіоткою», «Джорджією-шльондрою», «потворною маленькою підлою жінкою», а також «фашистською істотою». 
-
-Пропагандист додав, що Мелоні зрадила своїх виборців, а також Трампа, «якому раніше присягала на вірність».
-
-Істерика Соловйова сталася на тлі нових домовленостей з Італією щодо військової підтримки України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-21_19-28-13.mp4" length="2830888" type="video/mp4"/>
-      <pubDate>Tue, 21 Apr 2026 19:28:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Два російські НПЗ припинили </title>
-      <link>https://www.mandarinai.lt/post/91561</link>
-      <description>🔥 Два російські НПЗ припинили роботу після ударів БПЛА, - Reuters
-
-Агентство повідомляє, що Туапсинський і Новокуйбишевський заводи "Роснєфті” припинили роботу. Перший не працює з 16 квітня через пошкодження порту і резервуарів, другий зупинився 18 квітня після атаки, вийшли з ладу ключові установки.
-
-На тлі ударів по інфраструктурі рф також скоротила видобуток нафти - це може стати найрізкішим падінням за останні шість років.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-21_19-30-48.mp4" length="469282" type="video/mp4"/>
-      <pubDate>Tue, 21 Apr 2026 19:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Поліцейська Анна Дудіна, як</title>
-      <link>https://www.mandarinai.lt/post/91562</link>
-      <description>❗️ Поліцейська Анна Дудіна, яку звинувачують у втечі під час стрілянини в Києві, не працює патрульною, - «Слідство.Інфо».
-
-Вона заявила в суді, що не працює патрульною з 2019 року. 
-
-Її залучили до чергування на підсилення, бо Києву не вистачає патрульних.
-
-Її декларація підтверджує, що вона працює не патрульною, а старшою інспекторкою з питань житлового забезпечення в столичному Управлінні патрульної поліції.
-
-Жінка на Майдані виконувала функції медикині, адже за першою освітою вона реабілітолог.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-21_19-44-56.jpg" length="92655" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 19:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нас попросили відкласти наступ</title>
-      <link>https://www.mandarinai.lt/post/91563</link>
-      <description>Нас попросили відкласти наступ на Іран до моменту, коли їхні лідери зможуть узгодити спільну позицію, — Трамп
-
-За словами президента США, іранське керівництво наразі серйозно розділене, тому на прохання пакистанської сторони Вашингтон тимчасово утримується від ескалації та зберігає режим припинення вогню.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-21_20-28-07.jpg" length="112440" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 20:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛢 Україна відновить транзит на</title>
-      <link>https://www.mandarinai.lt/post/91565</link>
-      <description>🛢 Україна відновить транзит нафти через «Дружбу» вже сьогодні, – Reuters
-
- «Прокачування нафти має розпочатися завтра під час обідньої перерви. MOL вже подала запити на перші обсяги, які будуть поставлені в рівних пропорціях до Угорщини та Словаччини», — йдеться у повідомленні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_04-37-53.jpg" length="261044" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 04:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Іранці готові до наступного </title>
-      <link>https://www.mandarinai.lt/post/91568</link>
-      <description>❗️Іранці готові до наступного етапу війни, — Центр військових повідомлень Ірану
-
-"У період затишшя наша швидкість оновлення пускових платформ ракет і дронів навіть вища, ніж до війни. Ворог не здатний створити такі ж умови і змушений доставляти боєприпаси крапля за краплею з іншого кінця світу. Вони програли цей етап війни", — йдеться у заяві.
-
-На відео — один із підземних тунелів, у яких виготовляють і зберігають іранські ракети та БПЛА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-22_05-03-14.mp4" length="3922704" type="video/mp4"/>
-      <pubDate>Wed, 22 Apr 2026 05:03:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Сизрані ППО збивала дрони бу</title>
-      <link>https://www.mandarinai.lt/post/91569</link>
-      <description>В Сизрані ППО збивала дрони будинками, досягнуті цілі "сво" - людей шукають під завалами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-22_05-03-30.mp4" length="457822" type="video/mp4"/>
-      <pubDate>Wed, 22 Apr 2026 05:03:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Одна людина загинула в Запоріж</title>
-      <link>https://www.mandarinai.lt/post/91574</link>
-      <description>Одна людина загинула в Запоріжжі внаслідок атаки ворога по залізничній інфраструктурі
-
-На Одещиніі ворог масовано атакував портову інфраструктуру - значні руйнування, люди не постражлали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_05-56-27.jpg" length="227272" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 05:56:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 08:22:01 +0000</lastBuildDate>
     <item>
       <title>Донецьк після атаки БпЛА</title>
       <link>https://www.mandarinai.lt/post/91577</link>
       <description>Донецьк після атаки БпЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-22_05-58-00.mp4" length="2089151" type="video/mp4"/>
       <pubDate>Wed, 22 Apr 2026 05:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Як виглядає сучасна українська</title>
+      <link>https://www.mandarinai.lt/post/91578</link>
+      <description>Як виглядає сучасна українська техніка, яка вже показала себе на фронті?
+
+«Українська бронетехніка» виготовляє бронеавтомобілі «Новатор» та «Варта», найбільший логістичний НРК «Protector» та ударні дрони «UB60D» — усе це вже використовують військові.
+
+Кожне рішення створюється та доопрацьовується разом із підрозділами на основі реального бойового досвіду.
+
+У каналі розповідаємо про нові розробки компанії, застосування техніки на фронті та детальні огляди українського озброєння.
+
+Підписуйтесь: @UkrainianArmor</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_07-03-58.jpg" length="263738" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 07:03:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Агентка фсб готувала ліквідаці</title>
+      <link>https://www.mandarinai.lt/post/91584</link>
+      <description>Агентка фсб готувала ліквідацію командира підрозділу Сил спеціальних операцій, - СБУ встигла випередити замах.
+
+Підготовкою замаху займалася колишня мешканка Кіровоградщини, яка 15 років проживала в рф. 
+
+Вона звернулася до московського офісу Медведчука, і представники екснардепа «передали» фігурантку співробітникам фсб.
+
+Далі зрадницю «відрядили» до Одеси для підготовки замаху на командира підрозділу ССО.
+
+Агентка встигла встановити під капот автомобіля українського воїна GPS-трекер, який отримала від фсб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_07-34-02.jpg" length="76559" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 07:34:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>33 людини постраждало через ма</title>
+      <link>https://www.mandarinai.lt/post/91589</link>
+      <description>33 людини постраждало через масовану атаку ворога на Сумщині — Нацполіція</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_07-34-31.jpg" length="170136" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 07:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Сили оборони уразили пункт </title>
+      <link>https://www.mandarinai.lt/post/91590</link>
+      <description>⚡️ Сили оборони уразили пункт управління флотом РФ у Севастополі та знищили низку пунктів БпЛА у трьох областях, — Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_07-50-19.jpg" length="80880" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 07:50:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Біля Харкова сьогодні вранці</title>
+      <link>https://www.mandarinai.lt/post/91591</link>
+      <description>‼️Біля Харкова сьогодні вранці ворожий безпілотник влучив у цивільне авто.
+
+Автомобіль рухався від села Черкаські Тишки в напрямку села Циркуни і був атакований приблизно о 06:10. 
+
+Внаслідок удару чоловік, ще один дістав поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_08-00-47.jpg" length="202308" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 08:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Боєць 92-ої бригади із засідки</title>
+      <link>https://www.mandarinai.lt/post/91592</link>
+      <description>Боєць 92-ої бригади із засідки впритул, буквально з кількох метрів, ліквідовує двох російських окупантів, які на байках заблукали в тумані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8316.MP4" length="4566639" type="video/mp4"/>
+      <pubDate>Wed, 22 Apr 2026 08:15:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
