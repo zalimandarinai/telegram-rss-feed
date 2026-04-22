@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 10:07:50 +0000</lastBuildDate>
-    <item>
-      <title>33 людини постраждало через ма</title>
-      <link>https://www.mandarinai.lt/post/91589</link>
-      <description>33 людини постраждало через масовану атаку ворога на Сумщині — Нацполіція</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_07-34-31.jpg" length="170136" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 07:34:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Сили оборони уразили пункт </title>
-      <link>https://www.mandarinai.lt/post/91590</link>
-      <description>⚡️ Сили оборони уразили пункт управління флотом РФ у Севастополі та знищили низку пунктів БпЛА у трьох областях, — Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_07-50-19.jpg" length="80880" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 07:50:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Біля Харкова сьогодні вранці</title>
-      <link>https://www.mandarinai.lt/post/91591</link>
-      <description>‼️Біля Харкова сьогодні вранці ворожий безпілотник влучив у цивільне авто.
-
-Автомобіль рухався від села Черкаські Тишки в напрямку села Циркуни і був атакований приблизно о 06:10. 
-
-Внаслідок удару чоловік, ще один дістав поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_08-00-47.jpg" length="202308" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 08:00:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 11:49:04 +0000</lastBuildDate>
     <item>
       <title>Боєць 92-ої бригади із засідки</title>
       <link>https://www.mandarinai.lt/post/91592</link>
@@ -115,6 +90,31 @@ https://send.monobank.ua/jar/63hbroYaRU
 
 В центрі злочинного угруповання, яке діяло в Україні, стояв російський бандюк на прізвисько «Мексиканець».</description>
       <pubDate>Wed, 22 Apr 2026 09:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Головним іноземним військовим </title>
+      <link>https://www.mandarinai.lt/post/91602</link>
+      <description>Головним іноземним військовим радником Сирського став британський генерал Річард Ширреф.
+
+Колишній заступник Верховного головнокомандувача Об'єднаних збройних сил НАТО в Європі Річард Ширреф також очолив Воєнну експертну раду ARES при Головкомі.   
+
+Генштаб підтвердив.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8337.MP4" length="491717" type="video/mp4"/>
+      <pubDate>Wed, 22 Apr 2026 10:09:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щойно Україна розпочала перегі</title>
+      <link>https://www.mandarinai.lt/post/91603</link>
+      <description>Щойно Україна розпочала перегін нафти через нафтопровід «Дружба», - словацька міністерка Деніса Сакова</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-22_10-11-58.jpg" length="33245" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 10:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Запоріжжі сьогодні було кіль</title>
+      <link>https://www.mandarinai.lt/post/91604</link>
+      <description>В Запоріжжі сьогодні було кілька «прильотів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8340.MOV" length="51152" type="video/mp4"/>
+      <pubDate>Wed, 22 Apr 2026 10:54:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
