@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 11:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 12:53:51 +0000</lastBuildDate>
     <item>
       <title>🇮🇳 В Індії родини тих, хто вою</title>
       <link>https://www.mandarinai.lt/post/91648</link>
@@ -80,6 +80,15 @@
 Жінку затримали, матеріали передали до СБУ. Їй інкримінують державну зраду, за що загрожує до довічного ув’язнення з конфіскацією майна.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-23_11-49-52.jpg" length="41497" type="image/jpeg"/>
       <pubDate>Thu, 23 Apr 2026 11:49:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯Третя(!) стрілянина за сьогод</title>
+      <link>https://www.mandarinai.lt/post/91663</link>
+      <description>🤯Третя(!) стрілянина за сьогодні, цього разу в Івано-Франківську: чоловік відкрив вогонь по іншій людині
+
+Між двома водіями виник конфлікт, під час якого один із них погрожував іншому пістолетом і вистрілив, після чого сів за кермо і поїхав. Стрілявшого затримали і передали слідчим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_12-34-55.mp4" length="11624725" type="video/mp4"/>
+      <pubDate>Thu, 23 Apr 2026 12:34:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
