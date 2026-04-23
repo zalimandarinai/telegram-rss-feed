@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 20:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:34:48 +0000</lastBuildDate>
     <item>
       <title>💥 Сили безпілотних систем розг</title>
       <link>https://www.mandarinai.lt/post/91673</link>
@@ -109,6 +109,17 @@
 🎥 A.I.R.T.E.A.M_UA</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8379.MP4" length="15894166" type="video/mp4"/>
       <pubDate>Thu, 23 Apr 2026 19:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Журналіст: «Чи застосували б </title>
+      <link>https://www.mandarinai.lt/post/91686</link>
+      <description>👀Журналіст: «Чи застосували б ви ядерну зброю проти Ірану?»
+
+Трамп: «Ні. Що за дурне запитання — навіщо мені це?... Нікому не можна дозволяти застосовувати ядерну зброю».
+
+Днями ширилась інформація у ЗМІ, що Трамп хотів отримати коди від ядерної зброї, але йому завадив генерал Збройних Сил США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_21-09-43.mp4" length="2476436" type="video/mp4"/>
+      <pubDate>Thu, 23 Apr 2026 21:09:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
