@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 08:26:03 +0000</lastBuildDate>
-    <item>
-      <title>🫅Неанонсований візит. Принц Га</title>
-      <link>https://www.mandarinai.lt/post/91629</link>
-      <description>🫅Неанонсований візит. Принц Гаррі прибув до Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_06-08-50.mp4" length="1500288" type="video/mp4"/>
-      <pubDate>Thu, 23 Apr 2026 06:08:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Вночі було уражено нафтобазу</title>
-      <link>https://www.mandarinai.lt/post/91630</link>
-      <description>💥🔥Вночі було уражено нафтобазу в Феодосії. Сьогоднішній весняний ранок нагадав окупантам чий Крим.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_06-11-26.mp4" length="1732553" type="video/mp4"/>
-      <pubDate>Thu, 23 Apr 2026 06:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Дніпрі вже відомо про 10 п</title>
-      <link>https://www.mandarinai.lt/post/91632</link>
-      <description>⚡️У Дніпрі вже відомо про 10 постраждалих. Дві людини загинули, - ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-23_06-23-34.jpg" length="318556" type="image/jpeg"/>
-      <pubDate>Thu, 23 Apr 2026 06:23:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Ранкові прильоти по НПЗ та Н</title>
-      <link>https://www.mandarinai.lt/post/91633</link>
-      <description>💥🔥Ранкові прильоти по НПЗ та НПС русні у Самарській та Ніжегородскій областях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_06-28-03.mp4" length="4320688" type="video/mp4"/>
-      <pubDate>Thu, 23 Apr 2026 06:28:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 10:11:21 +0000</lastBuildDate>
     <item>
       <title>Новітній ворожий дрон Zala Z-2</title>
       <link>https://www.mandarinai.lt/post/91638</link>
@@ -90,7 +62,7 @@
       <title>В Дніпрі вже троє загиблих піс</title>
       <link>https://www.mandarinai.lt/post/91641</link>
       <description>В Дніпрі вже троє загиблих після удару «шахеда», серед девʼятьох поранених двоє дітей, - дівчатка 9 та 14 років</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8360.MP4" length="9755632" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_07-59-11.mp4" length="2405863" type="video/mp4"/>
       <pubDate>Thu, 23 Apr 2026 07:59:11 +0000</pubDate>
     </item>
     <item>
@@ -99,6 +71,22 @@
       <description>🔥🔥Четвертые сутки пылают станицы🎸 Четверту добу в Туапсе не можуть загасити пожежу після атаки українських БпЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_08-22-00.mp4" length="1138817" type="video/mp4"/>
       <pubDate>Thu, 23 Apr 2026 08:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯 В соцмережах поширили фото в</title>
+      <link>https://www.mandarinai.lt/post/91643</link>
+      <description>🤯 В соцмережах поширили фото виснажених військових з 14 бригади 2 механізованого батальйону. Військові на позиціях сидять без їжі, води та звʼязку
+
+В Міноборони вже відреагували на ситуацію, запевняючи, що питання взято на контроль.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-23_08-29-35.jpg" length="58427" type="image/jpeg"/>
+      <pubDate>Thu, 23 Apr 2026 08:29:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Працівники ТЦК скинули чолов</title>
+      <link>https://www.mandarinai.lt/post/91646</link>
+      <description>🤬 Працівники ТЦК скинули чоловіка з даху і потягли його за ноги до буса: військкоми діяли у приватному подвірʼї на Волині, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-23_08-54-54.mp4" length="3746723" type="video/mp4"/>
+      <pubDate>Thu, 23 Apr 2026 08:54:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
