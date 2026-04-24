@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 16:42:26 +0000</lastBuildDate>
-    <item>
-      <title>👌В Туапсе нафту тепер можна до</title>
-      <link>https://www.mandarinai.lt/post/91734</link>
-      <description>👌В Туапсе нафту тепер можна добувати з моря... лопатами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-24_14-11-37.mp4" length="3294479" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 14:11:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 17:40:56 +0000</lastBuildDate>
     <item>
       <title>⚡️ Дата-аналітика — одна з най</title>
       <link>https://www.mandarinai.lt/post/91738</link>
@@ -122,6 +115,12 @@ https://i.goit.global/7axjR</description>
       <description>❗️ Біля Покровська рознесли автівки, БК і піхоту рф, - 3 БРОП НГУ «Спартан»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-04-24_19-33-59.mp4" length="21627923" type="video/mp4"/>
       <pubDate>Fri, 24 Apr 2026 16:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 Європа відкрито оголосила на</title>
+      <link>https://www.mandarinai.lt/post/91748</link>
+      <description>🤡 Європа відкрито оголосила нам війну. Добивається стратегічної поразки росії. А «київський режим» використовується в якості «наконечника», — нервує Лавров</description>
+      <pubDate>Fri, 24 Apr 2026 17:04:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
