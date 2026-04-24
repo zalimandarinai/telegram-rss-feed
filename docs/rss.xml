@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 11:49:57 +0000</lastBuildDate>
-    <item>
-      <title>💥 В захопленому росіянами сели</title>
-      <link>https://www.mandarinai.lt/post/91708</link>
-      <description>💥 В захопленому росіянами селищі Дворічна український дрон склав будівлю, і вісім окупантів всередині неї вже навряд чи поділяться враженнями</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8405.MP4" length="8066747" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 09:40:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 12:52:26 +0000</lastBuildDate>
     <item>
       <title>Масова втеча російських військ</title>
       <link>https://www.mandarinai.lt/post/91709</link>
@@ -97,10 +90,30 @@
     <item>
       <title>⚡️ Зеленський знову приїхав до</title>
       <link>https://www.mandarinai.lt/post/91721</link>
-      <description>⚡️ Зеленський знову приїхав до Саудівської Аравії і зустрівся зі Спадкоємним принцом Мухаммадом бін Салманом Аль Саудом
-Теми перемовин військове співробітництво та енергетична безпека</description>
+      <description>⚡️ Зеленський знову приїхав до Саудівської Аравії і зустрівся зі Спадкоємним принцом Мухаммадом бін Салманом Аль Саудом.
+Тема переговорів - військове співробітництво та енергетична безпека.
+
+Ми не знаємо, про що велись з саудитами розмови за зачиненими дверима, але розуміємо, що Саудівська Аравія і росія прямі конкуренти в багатьох сферах. Особливо, в нафтовій. Тож безпекове співробітництво виглядає природним і, безумовно, логічним рішенням.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-24_11-25-29.mp4" length="1389763" type="video/mp4"/>
       <pubDate>Fri, 24 Apr 2026 11:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Макрон заявив, що піде з полі</title>
+      <link>https://www.mandarinai.lt/post/91722</link>
+      <description>🔴Макрон заявив, що піде з політики після завершення каденції у 2027 році
+
+Президент Франції повідомив, що не планує займатись політикою після завершення свого другого терміну. Тобто після виборів у квітні наступного року Україна може втратити важливого союзника. 
+
+Завдяки Макрону Україна отримала значну військову допомогу, включаючи:
+▶️ Далекобійні крилаті ракети SCALP-EG.
+▶️ Самохідні артилерійські установки CAESAR.
+▶️ Бронетехніка AMX-10 RC та бронетранспортери VAB.
+▶️ Протитанкові ракети MILAN.
+▶️ Зенітні ракетні комплекси Crotale та системи ППО.
+▶️ Винищувачі Mirage 2000 та підготовка українських пілотів.
+▶️ Радіолокаційні системи і боєприпаси, зокрема 155-мм снаряди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_12-27-09.jpg" length="37336" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 12:27:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
