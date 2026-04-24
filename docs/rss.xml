@@ -6,76 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 10:13:57 +0000</lastBuildDate>
-    <item>
-      <title>Канал для справжніх рибалок!
-Т</title>
-      <link>https://www.mandarinai.lt/post/91699</link>
-      <description>Канал для справжніх рибалок!
-Тут кожного дня виходять поради, снасті, робочі фішки та реальні трофеї
-Канал для тих, хто живе риболовлею.
-https://t.me/+Jm2xPE0R6Y01OTFi
-
-Приєднуйтесь — будете задоволені 🎣</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_06-37-13.jpg" length="120790" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 06:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Київ атакують «шахеди», один п</title>
-      <link>https://www.mandarinai.lt/post/91702</link>
-      <description>Київ атакують «шахеди», один пролітає просто над дахами багатоповерхівок
-
-UPD. Вже чисто
-
-💬 «Уламки БПЛА впали на двох локаціях у Соломʼянському районі, на територію нежитлової забудови та у водойму», - мер Кличко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8394.MP4" length="2107537" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 07:07:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>СБУ затримала агента гру рф, я</title>
-      <link>https://www.mandarinai.lt/post/91703</link>
-      <description>СБУ затримала агента гру рф, який коригував обстріли Краматорська та підпалив бронетранспортер ЗСУ
-
-Агент передав координати для нових обстрілів Краматорська та відстежував бронетехніку для підпалу.
-
-Він учасник місцевого угруповання, яке займалося мародерством на місцях «прильотів».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_07-19-54.jpg" length="153543" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 07:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀 Ракета ППО влетіла в авто пі</title>
-      <link>https://www.mandarinai.lt/post/91704</link>
-      <description>👀 Ракета ППО влетіла в авто після бойової роботи по дронах у Дніпрі
-
-Її вже витягли, а місце оточили.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_07-51-06.jpg" length="160745" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 07:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀У Києві "шахед" впав в озеро </title>
-      <link>https://www.mandarinai.lt/post/91705</link>
-      <description>👀У Києві "шахед" впав в озеро і вибухнув, пролетівши буквально над головами людей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-24_07-52-50.mp4" length="910069" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 07:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Мережам АЗС дали 10 днів для</title>
-      <link>https://www.mandarinai.lt/post/91706</link>
-      <description>‼️Мережам АЗС дали 10 днів для обгрунтування цінової політики і перегляду цін, — Антимонопольний комітет</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_08-53-16.jpg" length="169440" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 08:53:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔞 Після «скиду» з українського</title>
-      <link>https://www.mandarinai.lt/post/91707</link>
-      <description>🔞 Після «скиду» з українського безпілотника російський окупант вирішив не мучитися і пустив собі кулю, - 425-ий ОШП «Скеля»
-
-Кількість зафіксованих самогубств серед росіян на полі бою сягає трьохсот випадків. 
-
-Окупантів інструктують вчиняти самогубства, - іноді після вбивств своїх поранених товаришів, - щоб не здаватися в полон українським військовим.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8403.MP4" length="15568791" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 09:08:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 11:49:57 +0000</lastBuildDate>
     <item>
       <title>💥 В захопленому росіянами сели</title>
       <link>https://www.mandarinai.lt/post/91708</link>
@@ -97,13 +28,79 @@ UPD. Вже чисто
     <item>
       <title>⚡️ Уточнено результати удару 1</title>
       <link>https://www.mandarinai.lt/post/91714</link>
-      <description>⚡️ Уточнено результати удару 19 квітня 2026 року українськими крилатими ракетами "Нептун" по підприємству "Атлант Аеро" в Таганрозі, - Генштаб підтверджує знищення 2-х та пошкодження  4-х  виробничих приміщень.
+      <description>⚡️ Уточнено результати удару 19 квітня 2026 року українськими крилатими ракетами «Нептун» по підприємству «Атлант Аеро» в Таганрозі, - Генштаб підтверджує знищення 2-х та пошкодження  4-х  виробничих приміщень.
 
-ℹ️ Підприємтсво "Атлант Аеро" виготовляє дрони "Молнія" та комплектуючі до БПЛА "Оріон". 
+ℹ️ Підприємтсво «Атлант Аеро» виготовляє дрони «Молнія» та комплектуючі до БПЛА «Оріон». 
 
 ⛴ Також підтверджено, що в Севастополі в результаті ураження 22 квітня 2026 року корабля проєкту 22460 прикордонної служби рф  пошкоджена бойова рубка.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_10-08-02.jpg" length="133235" type="image/jpeg"/>
       <pubDate>Fri, 24 Apr 2026 10:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Воїнам, які залишились на п</title>
+      <link>https://www.mandarinai.lt/post/91715</link>
+      <description>⚡️ Воїнам, які залишились на позиції без продуктів та голодували, їжу доправили логістичним дроном, - комбриг 14-ої ОМБР Максимов обіцяє, що буде "вирівнювати ситуацію"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNMVHwXINWcbrnLU4rtYG1bC41G9V_O06Wa83Ti8QOsjF4jdhAlaMLJosHi9CM0xaa.mp4" length="8893239" type="video/mp4"/>
+      <pubDate>Fri, 24 Apr 2026 10:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Ударні «крила» над Донецько</title>
+      <link>https://www.mandarinai.lt/post/91716</link>
+      <description>❗️ Ударні «крила» над Донецьком: для протидії українським повітряним атакам окупанти підтягнули засоби ППО та мобільні вогневі групи, але несподівано самі стали цілями для дронів 1-го корпусу НГУ «Азов».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/08.MP4" length="17020343" type="video/mp4"/>
+      <pubDate>Fri, 24 Apr 2026 10:32:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>💫 «Збиття є! Красава!» - украи</title>
+      <link>https://www.mandarinai.lt/post/91717</link>
+      <description>💫 «Збиття є! Красава!» - украинский зенітник Максим, який вперше збив російську крилату ракету, не стримує емоції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/ssstwitter.com_1777026168603.mp4" length="1827170" type="video/mp4"/>
+      <pubDate>Fri, 24 Apr 2026 10:36:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Банк росії восьмий раз посп</title>
+      <link>https://www.mandarinai.lt/post/91718</link>
+      <description>❗️ Банк росії восьмий раз поспіль знизив ключову ставку, з 15% до 14,5%, - новина не дуже позитивна для України, адже означає, що економіка росії стабілізується  
+
+📉 Перед тим 20 березня її було знижено - з 15,5% до 15%.
+
+📝 «Динаміка внутрішнього попиту наблизилася до можливостей розширення пропозиції товарів та послуг. При цьому показники сталого зростання цін поки не знижуються і, за оцінкою Банку росії, залишаються в діапазоні 4–5% у перерахунку на рік», — йдеться у прес-релізі ЦБ.
+
+⤵️ Центробанк нашого ворога передбачає, що у 2026 році середня ключова ставка буде в діапазоні 14,0 - 14,5%, а в 2027-му 8,0 - 10,0%.
+
+ℹ️ Процентна ставка банку - це встановлений розмір плати за користування наданими кредитами, тобто, клієнт сплачує її банку за отриманий кредит.
+
+➡️ На покращення ситуації вплинуло зростання цін на нафту в результаті війни Трампа проти режиму в Тегерані, що допомогло росії уникнути фінансової кризи.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_10-51-15.jpg" length="132508" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 10:51:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Я не запрошував путіна на G20,</title>
+      <link>https://www.mandarinai.lt/post/91719</link>
+      <description>Я не запрошував путіна на G20, але якби він приїхав — це, ймовірно, було б дуже корисно, — Трамп
+
+Напередодні WP повідомляло, що президент США нібито запросив російського диктатора на саміт, який має відбутися у грудні на його гольф-курорті в Маямі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_11-06-11.jpg" length="45356" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 11:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬NYT: Верховний лідер Ірану Мо</title>
+      <link>https://www.mandarinai.lt/post/91720</link>
+      <description>💬NYT: Верховний лідер Ірану Моджтаба Хаменеї чекає на протез ноги та пластичну операцію.
+
+Він змінив на посаді свого батька, Алі Хаменеї, який загинув в авіаударі під час операції США та Ізраїлю. У цьому ж авіаударі Моджтаба Хаменеї був поранений. Він не з’являвся на публіці з моменту призначення. Аналітики повідомили Times, що формально він є лідером, але не повністю контролює ситуацію.
+
+За даними газети, щоденні повноваження перейшли до високопосадовців та Корпусу вартових ісламської революції. Останніми днями ЗМІ та політики говорять про зростання розбіжностей в іранській владі щодо переговорів зі США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_11-21-45.jpg" length="57503" type="image/jpeg"/>
+      <pubDate>Fri, 24 Apr 2026 11:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Зеленський знову приїхав до</title>
+      <link>https://www.mandarinai.lt/post/91721</link>
+      <description>⚡️ Зеленський знову приїхав до Саудівської Аравії і зустрівся зі Спадкоємним принцом Мухаммадом бін Салманом Аль Саудом
+Теми перемовин військове співробітництво та енергетична безпека</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-24_11-25-29.mp4" length="1389763" type="video/mp4"/>
+      <pubDate>Fri, 24 Apr 2026 11:25:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
