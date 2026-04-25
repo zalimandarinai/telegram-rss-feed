@@ -6,60 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 20:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 21:25:04 +0000</lastBuildDate>
     <item>
       <title>Дрон атакує дрон: український </title>
-      <link>https://www.mandarinai.lt/post/91803</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Дрон атакує дрон: український гексакоптер "Вампір" гвинтами збиває російський безпілотник "Молнія" в Запорізькій області, - 153-тя бригада.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/MOLNIYA_ZBUTTYA_4.mp4" length="14016929" type="video/mp4"/>
       <pubDate>Sat, 25 Apr 2026 15:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>На український бік перейшов оп</title>
-      <link>https://www.mandarinai.lt/post/91804</link>
-      <description>На український бік перейшов оператор безпілотника зі 150-ої дивізії, стверджує роспропагандист Філатов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_15-15-23.jpg" length="35196" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 15:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Контрольований підрив виявлено</title>
-      <link>https://www.mandarinai.lt/post/91805</link>
-      <description>Контрольований підрив виявленого фрагмента БпЛА в Румунії. 
-
-В Бухаресті викликали російського посла через уламки БпЛА
-
-25 квітня в Румунії виявили деталі двох БпЛА. Перший знайшли в муніципалітеті Галац, другий — поблизу села Векерень у повіті Тулча, повідомили в Міністерстві оборони країни.
-
-Після цього Міністерство закордонних справ Румунії викликало російського посла.
-
-«РФ порушила суверенітет повітряного простору Румунії внаслідок нової безвідповідальної акції, яка могла поставити під загрозу безпеку населення. Це безвідповідальний і провокаційний акт, що порушує основні принципи міжнародного права», — йдеться в повідомленні МЗС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/БПЛА Румыния.mp4" length="2865728" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 15:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Херсонській області росіяни </title>
-      <link>https://www.mandarinai.lt/post/91806</link>
-      <description>В Херсонській області росіяни вбили цивільних під час евакуації
-
-Волонтери знайшли тіла чоловіка і жінки на польовій дорозі. Судячи з кадрів, люди їхали на мопеді, коли потрапили під обстріл.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5572.mp4" length="30630047" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 15:26:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Момент влучання по АЗС в Дніп</title>
-      <link>https://www.mandarinai.lt/post/91807</link>
-      <description>🤬Момент влучання по АЗС в Дніпрі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_16-50-22.mp4" length="9144858" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 16:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Дніпрі кількість загиблих зр</title>
-      <link>https://www.mandarinai.lt/post/91808</link>
-      <description>У Дніпрі кількість загиблих зросла до восьми осіб, ще одне тіло було витягнуто з-під завалів будинку. 
-
-Також після сьогоднішнього обстрілу 49 людей отримали поранення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_16-52-25.jpg" length="206997" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 16:52:25 +0000</pubDate>
     </item>
     <item>
       <title>🔥В Нижньогородській області рф</title>
@@ -88,6 +40,20 @@
       <description>Бійці групи «Хантер» з 208-ї зенітної ракетної бригади показали, як приземлили сім російських дронів на Херсонщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9962.MP4" length="4771292" type="video/mp4"/>
       <pubDate>Sat, 25 Apr 2026 19:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥На Бєлгородщині та Тамбовщині</title>
+      <link>https://www.mandarinai.lt/post/91821</link>
+      <description>💥На Бєлгородщині та Тамбовщині повідомляють про атаку БПЛА по енергетичним об'єктам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_20-36-43.jpg" length="64332" type="image/jpeg"/>
+      <pubDate>Sat, 25 Apr 2026 20:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Севастополь. Свідки Анкоріджа</title>
+      <link>https://www.mandarinai.lt/post/91825</link>
+      <description>💥Севастополь. Свідки Анкоріджа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_21-17-19.mp4" length="362357" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 21:17:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
