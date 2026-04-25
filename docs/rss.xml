@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 17:28:17 +0000</lastBuildDate>
-    <item>
-      <title>«Бабуся, сідай!» — Третій армі</title>
-      <link>https://www.mandarinai.lt/post/91796</link>
-      <description>«Бабуся, сідай!» — Третій армійський корпус евакуював цивільних за допомогою наземного робота
-
-Літню жінку, яка рухалася біля Лимана під обстрілами росіян, виявила 60-а ОМБР.
-
-Вона йшла повз вирви від снарядів і тіла односельців, допоки за нею не прибув робот.
-
-За справу взялися бійці роти безпілотних наземних систем «Cerberus». 
-
-Щоб не налякати жінку, наземний роботизований комплекс накрили ковдрою з посланням: «Бабуся, сідай!».
-
-Ще трьох цивільних, які виходили пішки, дрони супроводжували до точки евакуації.</description>
-      <pubDate>Sat, 25 Apr 2026 11:48:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Якщо суверенітет Греції буде </title>
-      <link>https://www.mandarinai.lt/post/91797</link>
-      <description>«Якщо суверенітет Греції буде під загрозою, ми станемо поруч», - заявив Макрон в Афінах, відповідаючи на запитання, що буде робити Франція, якщо Греції загрожуватиме сусід.
-
-Під «сусідом», швидше за все, мається на увазі Туреччина.
-
-Сподіваємося, до військового конфлікту між членами Альянсу не дійде.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8452.MP4" length="30965747" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 11:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Вже відомо про 46 поранених ч</title>
-      <link>https://www.mandarinai.lt/post/91798</link>
-      <description>🔴Вже відомо про 46 поранених через масовану атаку росіян на Дніпро. Серед них п’ятеро дітей, - ОВА
-
-П'ятеро людей загинуло.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_12-25-21.jpg" length="205870" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 12:25:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 18:32:10 +0000</lastBuildDate>
     <item>
       <title>На російський «Африканський ко</title>
       <link>https://www.mandarinai.lt/post/91800</link>
@@ -103,6 +67,20 @@
 Також після сьогоднішнього обстрілу 49 людей отримали поранення</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_16-52-25.jpg" length="206997" type="image/jpeg"/>
       <pubDate>Sat, 25 Apr 2026 16:52:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Нижньогородській області рф</title>
+      <link>https://www.mandarinai.lt/post/91811</link>
+      <description>🔥В Нижньогородській області рф продовжує палати НПС Горький після атаки 23 квітня безпілотників Центру спецоперацій «Альфа» СБУ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_17-28-51.jpg" length="325563" type="image/jpeg"/>
+      <pubDate>Sat, 25 Apr 2026 17:28:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Стрілець мобільної вогневої гр</title>
+      <link>https://www.mandarinai.lt/post/91814</link>
+      <description>Стрілець мобільної вогневої групи збиває російський «Шахед» з кулемета M2 Browning.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9395.MP4" length="1342570" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 18:19:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
