@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 18:32:10 +0000</lastBuildDate>
-    <item>
-      <title>На російський «Африканський ко</title>
-      <link>https://www.mandarinai.lt/post/91800</link>
-      <description>На російський «Африканський корпус» в Малі наступають повстанці туареги.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8453.MP4" length="9173301" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 12:49:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 19:36:10 +0000</lastBuildDate>
     <item>
       <title>Дрон атакує дрон: український </title>
       <link>https://www.mandarinai.lt/post/91803</link>
@@ -81,6 +74,20 @@
       <description>Стрілець мобільної вогневої групи збиває російський «Шахед» з кулемета M2 Browning.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9395.MP4" length="1342570" type="video/mp4"/>
       <pubDate>Sat, 25 Apr 2026 18:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів 210-го ОШП за</title>
+      <link>https://www.mandarinai.lt/post/91815</link>
+      <description>Оператори дронів 210-го ОШП зачищають прикордоння Сумщині від російської піхоти та техніки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-04-25_22-07-54.mp4" length="7307342" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 19:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці групи «Хантер» з 208-ї з</title>
+      <link>https://www.mandarinai.lt/post/91816</link>
+      <description>Бійці групи «Хантер» з 208-ї зенітної ракетної бригади показали, як приземлили сім російських дронів на Херсонщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9962.MP4" length="4771292" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 19:11:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
