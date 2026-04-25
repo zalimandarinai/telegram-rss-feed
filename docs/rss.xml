@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 01:12:56 +0000</lastBuildDate>
-    <item>
-      <title>СБУ викрила 4-х проросійських </title>
-      <link>https://www.mandarinai.lt/post/91745</link>
-      <description>СБУ викрила 4-х проросійських агітаторів, один із них анітував катувати українських полонених, другий закликав путіна завдавати ракетних ударів по Україні
-
-🔹 На Київщині диякон Київської митрополії УПЦ МП в чатах Телеграм-каналів агітував росіян до катування українських військовополонених.
-
-🔹 В Черкаській області місцевий безробітний вихваляв путіна та закликав його вдарити по Києву «Орєшніком».
-
-🔹 В Дніпропетровській області колишній настоятель храму Сіверськодонецької єпархії УПЦ МП виправдовував злочини російської армії та чекав на повну окупацію України.
-
-🔹 В Івано-Франківській області СБУ спільно з Нацполіцією затримали уродженку Косівського району, яка закликала в соцмережах до відродження СРСР.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_16-14-17.jpg" length="116603" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 16:14:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 04:25:14 +0000</lastBuildDate>
     <item>
       <title>❗️ Біля Покровська рознесли ав</title>
       <link>https://www.mandarinai.lt/post/91747</link>
@@ -90,6 +75,13 @@
       <description>❗️ В Дніпрі спалахнули пожежі внаслідок ударів дронів, які атакують мегаполіс</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8436.MP4" length="1108791" type="video/mp4"/>
       <pubDate>Fri, 24 Apr 2026 23:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ударом склало цілий під’їзд жи</title>
+      <link>https://www.mandarinai.lt/post/91761</link>
+      <description>Ударом склало цілий під’їзд житлового будинку в Дніпрі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8437.MP4" length="2089878" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 01:30:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
