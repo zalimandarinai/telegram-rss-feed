@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 10:32:22 +0000</lastBuildDate>
-    <item>
-      <title>💥Збиття шахеда над Дніпром сьо</title>
-      <link>https://www.mandarinai.lt/post/91775</link>
-      <description>💥Збиття шахеда над Дніпром сьогодні зранку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_07-54-31.mp4" length="725242" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 07:54:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Двоє загиблих і 7 поранених вн</title>
-      <link>https://www.mandarinai.lt/post/91776</link>
-      <description>Двоє загиблих і 7 поранених внаслідок атаки рф на три райони Чернігівської області – ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_07-58-38.jpg" length="72211" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 07:58:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️🇫🇮Росіяни погрожують атакува</title>
-      <link>https://www.mandarinai.lt/post/91780</link>
-      <description>❗️🇫🇮Росіяни погрожують атакувати Фінляндію: країна стане мішенню, якщо туди завезуть і будуть зберігати ядерну зброю, – погрожують війною в держдумі рф  
-
-Для довідки: у квітні уряд Фінляндії вніс до парламенту «дозвільні» зміни щодо ввезення та зберігання «ядерки».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_08-03-12.jpg" length="77420" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 08:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українські дрони вперше долеті</title>
-      <link>https://www.mandarinai.lt/post/91781</link>
-      <description>Українські дрони вперше долетіли до Уралу. Дальність польоту 1700-1800 кілометрів, — росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_08-04-09.mp4" length="656298" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 08:04:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 11:29:23 +0000</lastBuildDate>
     <item>
       <title>Вже 4 загиблих у Дніпрі внаслі</title>
       <link>https://www.mandarinai.lt/post/91782</link>
@@ -87,6 +57,33 @@ Mulțumesc</description>
 Новоєгорівка, Надія, а також Греківка — н.п. під контролем українських військ на Луганщині, які продовжують утримувати бійці Третьої штурмової бригади</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_10-12-42.mp4" length="14468168" type="video/mp4"/>
       <pubDate>Sat, 25 Apr 2026 10:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Троє дітей постраждали через</title>
+      <link>https://www.mandarinai.lt/post/91790</link>
+      <description>⚡️Троє дітей постраждали через повторну атаку на житловий квартал у Дніпрі, — ОВА 
+
+Хлопець 15 років та дівчина 16 років госпіталізовані у стані середньої тяжкості. Ще один хлопець 16 років лікуватиметься амбулаторно.
+
+Загалом через повторний удар  постраждали 7 людей. З них п'ятеро — у лікарні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_10-41-10.mp4" length="422317" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 10:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Сили оборони уразили склади Б</title>
+      <link>https://www.mandarinai.lt/post/91791</link>
+      <description>💥Сили оборони уразили склади БК та бази окупантів у районах Білолуцька, Бойківського, Гуляйполя, Лисичанська та Тьоткіно (рф), — Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_10-44-51.jpg" length="143761" type="image/jpeg"/>
+      <pubDate>Sat, 25 Apr 2026 10:44:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 загиблих та 34 поранених — т</title>
+      <link>https://www.mandarinai.lt/post/91792</link>
+      <description>5 загиблих та 34 поранених — такі наслідки нічної та ранкової атак росії на Дніпро
+
+На місці події тривають пошуково-рятувальні роботи, служби працюють над розбором завалів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_10-47-23.jpg" length="343873" type="image/jpeg"/>
+      <pubDate>Sat, 25 Apr 2026 10:47:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
