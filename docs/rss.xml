@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 11:29:23 +0000</lastBuildDate>
-    <item>
-      <title>Вже 4 загиблих у Дніпрі внаслі</title>
-      <link>https://www.mandarinai.lt/post/91782</link>
-      <description>Вже 4 загиблих у Дніпрі внаслідок російської атаки. - Суспільне
-
-Тим часом в місті знову лунають вибухи</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_08-09-13.mp4" length="1016913" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 08:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Румунським пілотам вночі був в</title>
-      <link>https://www.mandarinai.lt/post/91784</link>
-      <description>Румунським пілотам вночі був вперше наданий наказ збивати російські дрони, які зайшли в повітряний простір Румунії, атакуючи український порт Рені.
-
-Mulțumesc</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_08-16-21.jpg" length="84644" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 08:16:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 12:33:41 +0000</lastBuildDate>
     <item>
       <title>🤬 росіяни знову вдарили по Дні</title>
       <link>https://www.mandarinai.lt/post/91786</link>
@@ -84,6 +66,42 @@ Mulțumesc</description>
 На місці події тривають пошуково-рятувальні роботи, служби працюють над розбором завалів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_10-47-23.jpg" length="343873" type="image/jpeg"/>
       <pubDate>Sat, 25 Apr 2026 10:47:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Бабуся, сідай!» — Третій армі</title>
+      <link>https://www.mandarinai.lt/post/91796</link>
+      <description>«Бабуся, сідай!» — Третій армійський корпус евакуював цивільних за допомогою наземного робота
+
+Літню жінку, яка рухалася біля Лимана під обстрілами росіян, виявила 60-а ОМБР.
+
+Вона йшла повз вирви від снарядів і тіла односельців, допоки за нею не прибув робот.
+
+За справу взялися бійці роти безпілотних наземних систем «Cerberus». 
+
+Щоб не налякати жінку, наземний роботизований комплекс накрили ковдрою з посланням: «Бабуся, сідай!».
+
+Ще трьох цивільних, які виходили пішки, дрони супроводжували до точки евакуації.</description>
+      <pubDate>Sat, 25 Apr 2026 11:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Якщо суверенітет Греції буде </title>
+      <link>https://www.mandarinai.lt/post/91797</link>
+      <description>«Якщо суверенітет Греції буде під загрозою, ми станемо поруч», - заявив Макрон в Афінах, відповідаючи на запитання, що буде робити Франція, якщо Греції загрожуватиме сусід.
+
+Під «сусідом», швидше за все, мається на увазі Туреччина.
+
+Сподіваємося, до військового конфлікту між членами Альянсу не дійде.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8452.MP4" length="30965747" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 11:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Вже відомо про 46 поранених ч</title>
+      <link>https://www.mandarinai.lt/post/91798</link>
+      <description>🔴Вже відомо про 46 поранених через масовану атаку росіян на Дніпро. Серед них п’ятеро дітей, - ОВА
+
+П'ятеро людей загинуло.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_12-25-21.jpg" length="205870" type="image/jpeg"/>
+      <pubDate>Sat, 25 Apr 2026 12:25:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
