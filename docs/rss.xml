@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 08:43:23 +0000</lastBuildDate>
-    <item>
-      <title>Тіла двох загиблих людей діста</title>
-      <link>https://www.mandarinai.lt/post/91770</link>
-      <description>Тіла двох загиблих людей дістали з під завалів будинку в Дніпрі.
-
-Імовірно, під завалами ще можуть перебувати 5 людей. Аварійно-рятувальні роботи продовжуються. 
-
-21 людина дістала поранень. Медики надають усім необхідну допомогу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_06-00-12.mp4" length="1230312" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 06:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже троє загиблих внаслідок уд</title>
-      <link>https://www.mandarinai.lt/post/91772</link>
-      <description>Вже троє загиблих внаслідок удару по житловому будинку в Дніпрі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8439.MP4" length="22090060" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 07:14:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 09:40:06 +0000</lastBuildDate>
     <item>
       <title>Стрілянина в Бучі під Києвом: </title>
       <link>https://www.mandarinai.lt/post/91774</link>
@@ -79,6 +61,15 @@
 Mulțumesc</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_08-16-21.jpg" length="84644" type="image/jpeg"/>
       <pubDate>Sat, 25 Apr 2026 08:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯 «Покропить слов'янську землю</title>
+      <link>https://www.mandarinai.lt/post/91787</link>
+      <description>🤯 «Покропить слов'янську землю єврейською кров'ю», «Хохол, швайне, зиг хайль»: 
+
+відеозаписи з телефону київського терориста та записи його розмов безпосередньо під час теракту доводять, що людина була схиблена на ідеях російського нацизму</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_09-32-05.mp4" length="1247037" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 09:32:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
