@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 09:40:06 +0000</lastBuildDate>
-    <item>
-      <title>Стрілянина в Бучі під Києвом: </title>
-      <link>https://www.mandarinai.lt/post/91774</link>
-      <description>Стрілянина в Бучі під Києвом: поліцейські затримали чоловіка в тактичному одязі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8443.MP4" length="4456265" type="video/mp4"/>
-      <pubDate>Sat, 25 Apr 2026 07:40:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 10:32:22 +0000</lastBuildDate>
     <item>
       <title>💥Збиття шахеда над Дніпром сьо</title>
       <link>https://www.mandarinai.lt/post/91775</link>
@@ -63,6 +56,15 @@ Mulțumesc</description>
       <pubDate>Sat, 25 Apr 2026 08:16:21 +0000</pubDate>
     </item>
     <item>
+      <title>🤬 росіяни знову вдарили по Дні</title>
+      <link>https://www.mandarinai.lt/post/91786</link>
+      <description>🤬 росіяни знову вдарили по Дніпру. І знову пошкоджений житловий будинок, - ОВА
+
+Відомо про 7-х поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_08-36-37.mp4" length="819053" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 08:36:37 +0000</pubDate>
+    </item>
+    <item>
       <title>🤯 «Покропить слов'янську землю</title>
       <link>https://www.mandarinai.lt/post/91787</link>
       <description>🤯 «Покропить слов'янську землю єврейською кров'ю», «Хохол, швайне, зиг хайль»: 
@@ -70,6 +72,21 @@ Mulțumesc</description>
 відеозаписи з телефону київського терориста та записи його розмов безпосередньо під час теракту доводять, що людина була схиблена на ідеях російського нацизму</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_09-32-05.mp4" length="1247037" type="video/mp4"/>
       <pubDate>Sat, 25 Apr 2026 09:32:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чергова заява рф про взяття Лу</title>
+      <link>https://www.mandarinai.lt/post/91789</link>
+      <description>Чергова заява рф про взяття Луганщини — фейк: Третя штурмова контролює населені пункти області!
+
+Це кадри ударно-пошукових дій, які здійснюють підрозділи Третьої штурмової бригади у смузі Третього корпусу поблизу н.п. Новоєгорівка на Луганщині.
+
+І тут — ані окупаційних військ, ані інфільтрованих російських солдатів. Бо тих, що виявили, — успішно ліквідували бійці «Karakurt Colony» 2-го мехбату.
+
+Генеральний штаб та міноборони рф неодноразово заявляли про «повне захоплення» чи «встановлення контролю» над усією територією Луганської області. Але кожну заяву противника вчергове множать на нуль підрозділи Трійки.
+
+Новоєгорівка, Надія, а також Греківка — н.п. під контролем українських військ на Луганщині, які продовжують утримувати бійці Третьої штурмової бригади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_10-12-42.mp4" length="14468168" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 10:12:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
