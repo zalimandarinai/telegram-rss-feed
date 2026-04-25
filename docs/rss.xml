@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 06:13:14 +0000</lastBuildDate>
-    <item>
-      <title>📰 Диктатора путіна усуне його </title>
-      <link>https://www.mandarinai.lt/post/91756</link>
-      <description>📰 Диктатора путіна усуне його ж власне оточення, — глава МЗС Польщі Радослав Сікорський для італійської газети «Corriere della Sera»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-24_19-25-27.jpg" length="31910" type="image/jpeg"/>
-      <pubDate>Fri, 24 Apr 2026 19:25:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ В Дніпрі спалахнули пожежі </title>
-      <link>https://www.mandarinai.lt/post/91758</link>
-      <description>❗️ В Дніпрі спалахнули пожежі внаслідок ударів дронів, які атакують мегаполіс</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8436.MP4" length="1108791" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 23:16:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 07:57:32 +0000</lastBuildDate>
     <item>
       <title>Ударом склало цілий під’їзд жи</title>
       <link>https://www.mandarinai.lt/post/91761</link>
@@ -62,9 +48,41 @@
     <item>
       <title>Тіла двох загиблих людей діста</title>
       <link>https://www.mandarinai.lt/post/91770</link>
-      <description>Тіла двох загиблих людей дістали з під завалів будинку в Дніпрі.</description>
+      <description>Тіла двох загиблих людей дістали з під завалів будинку в Дніпрі.
+
+Імовірно, під завалами ще можуть перебувати 5 людей. Аварійно-рятувальні роботи продовжуються. 
+
+21 людина дістала поранень. Медики надають усім необхідну допомогу.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_06-00-12.mp4" length="1230312" type="video/mp4"/>
       <pubDate>Sat, 25 Apr 2026 06:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вже троє загиблих внаслідок уд</title>
+      <link>https://www.mandarinai.lt/post/91772</link>
+      <description>Вже троє загиблих внаслідок удару по житловому будинку в Дніпрі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8439.MP4" length="22090060" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 07:14:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські дрони вперше долеті</title>
+      <link>https://www.mandarinai.lt/post/91773</link>
+      <description>Українські дрони вперше долетіли до Уралу. Дальність польоту 1700-1800 кілометрів, — росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_07-16-51.mp4" length="656298" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 07:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Стрілянина в Бучі під Києвом: </title>
+      <link>https://www.mandarinai.lt/post/91774</link>
+      <description>Стрілянина в Бучі під Києвом: поліцейські затримали чоловіка в тактичному одязі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8443.MP4" length="4456265" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 07:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Збиття шахеда над Дніпром сьо</title>
+      <link>https://www.mandarinai.lt/post/91775</link>
+      <description>💥Збиття шахеда над Дніпром сьогодні зранку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_07-54-31.mp4" length="725242" type="video/mp4"/>
+      <pubDate>Sat, 25 Apr 2026 07:54:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
