@@ -6,25 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 06:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 08:08:54 +0000</lastBuildDate>
     <item>
       <title>Дрон атакує дрон: український </title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Дрон атакує дрон: український гексакоптер "Вампір" гвинтами збиває російський безпілотник "Молнія" в Запорізькій області, - 153-тя бригада.</description>
       <pubDate>Sat, 25 Apr 2026 15:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Стрілець мобільної вогневої гр</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Стрілець мобільної вогневої групи збиває російський «Шахед» з кулемета M2 Browning.</description>
-      <pubDate>Sat, 25 Apr 2026 18:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥На Бєлгородщині та Тамбовщині</title>
-      <link>https://www.mandarinai.lt/post/91821</link>
-      <description>💥На Бєлгородщині та Тамбовщині повідомляють про атаку БПЛА по енергетичним об'єктам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_20-36-43.jpg" length="64332" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 20:36:43 +0000</pubDate>
     </item>
     <item>
       <title>💥Севастополь. Свідки Анкоріджа</title>
@@ -61,6 +48,20 @@
 Сусід стрільця припустив наявність у нього розладу аутистичного спектру. Аллен мав дробовик, пістолет і кілька ножів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_06-42-18.jpg" length="93210" type="image/jpeg"/>
       <pubDate>Sun, 26 Apr 2026 06:42:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Армія путіна просунулась поб</title>
+      <link>https://www.mandarinai.lt/post/91835</link>
+      <description>⚡️Армія путіна просунулась поблизу Синьківки в напрямку Куп’янська Харківської області, — DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_06-52-54.jpg" length="47958" type="image/jpeg"/>
+      <pubDate>Sun, 26 Apr 2026 06:52:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥На російському НПЗ "СлавНєфт</title>
+      <link>https://www.mandarinai.lt/post/91836</link>
+      <description>💥🔥На російському НПЗ "СлавНєфть-ЯНОС" після атаки БПЛА горить установка вакуумної перегонки нафти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-26_07-06-02.mp4" length="594308" type="video/mp4"/>
+      <pubDate>Sun, 26 Apr 2026 07:06:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
