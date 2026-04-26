@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 01:21:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 04:48:44 +0000</lastBuildDate>
     <item>
       <title>Дрон атакує дрон: український </title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Дрон атакує дрон: український гексакоптер "Вампір" гвинтами збиває російський безпілотник "Молнія" в Запорізькій області, - 153-тя бригада.</description>
       <pubDate>Sat, 25 Apr 2026 15:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В Нижньогородській області рф</title>
-      <link>https://www.mandarinai.lt/post/91811</link>
-      <description>🔥В Нижньогородській області рф продовжує палати НПС Горький після атаки 23 квітня безпілотників Центру спецоперацій «Альфа» СБУ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-25_17-28-51.jpg" length="325563" type="image/jpeg"/>
-      <pubDate>Sat, 25 Apr 2026 17:28:51 +0000</pubDate>
     </item>
     <item>
       <title>Стрілець мобільної вогневої гр</title>
@@ -54,6 +47,13 @@
       <description>💥Севастополь. Свідки Анкоріджа.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-25_21-17-19.mp4" length="362357" type="video/mp4"/>
       <pubDate>Sat, 25 Apr 2026 21:17:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Вашингтоні стріляли на зах</title>
+      <link>https://www.mandarinai.lt/post/91828</link>
+      <description>⚡️В Вашингтоні стріляли на заході, де був присутній Трамп. Вечеря на честь Асоціації Вашингтонських кореспондентів. В лоббі було чутно серію пострілів, на відео шоста секунда. Охорона евакуювала Трампа, його дружину Меланію, Джей Ді Венса та спікера Палати представників Майка Джонсона. CNN повідомляє, що стрільця ліквідовано. Трамп пише, що затримано.⚡️⚡️</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_01-45-12.jpg" length="110105" type="image/jpeg"/>
+      <pubDate>Sun, 26 Apr 2026 01:45:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
