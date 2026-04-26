@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 09:41:03 +0000</lastBuildDate>
-    <item>
-      <title>😳Посол України в США Ольга Сте</title>
-      <link>https://www.mandarinai.lt/post/91831</link>
-      <description>😳Посол України в США Ольга Стефанішина ховалася під столом під час стрілянини на вечері за участю Трампа 
-
-Дипломатка опублікувала фото за хвилину до та після подій. Вона заявила, що стрілка знешкодили в момент, коли він намагався увірватися до кімнати. Президент і Перша леді США не постраждали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_06-29-55.jpg" length="163813" type="image/jpeg"/>
-      <pubDate>Sun, 26 Apr 2026 06:29:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Apr 2026 10:33:48 +0000</lastBuildDate>
     <item>
       <title>🤯Чоловік, який влаштував стріл</title>
       <link>https://www.mandarinai.lt/post/91832</link>
@@ -83,6 +74,20 @@
 Тож над «еліксиром молодості» для путіна працює його дочка - секрети імперії не віддають в чужі руки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_09-39-13.jpg" length="148545" type="image/jpeg"/>
       <pubDate>Sun, 26 Apr 2026 09:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Посол України в США Ольга Стеф</title>
+      <link>https://www.mandarinai.lt/post/91845</link>
+      <description>Посол України в США Ольга Стефанішина стала свідком стрілянини на вечері за участі президента Трампа і встигла зробити селфі з-під столу, за яким сховалася разом з іншими гостями.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_09-51-22.jpg" length="50949" type="image/jpeg"/>
+      <pubDate>Sun, 26 Apr 2026 09:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Малі повстанці збили гелікоп</title>
+      <link>https://www.mandarinai.lt/post/91846</link>
+      <description>В Малі повстанці збили гелікоптер коаліції сил хунти та російських найманців</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-04-26_11-56-03.mp4" length="1405633" type="video/mp4"/>
+      <pubDate>Sun, 26 Apr 2026 09:56:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
