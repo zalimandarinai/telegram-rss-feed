@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 14:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 15:31:48 +0000</lastBuildDate>
     <item>
       <title>🤝До Києва  прибула президентка</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -28,21 +28,6 @@
 
 💬 «Проросійські партії дедалі більше втрачають свій вплив», – підкреслила Кольк.</description>
       <pubDate>Sun, 26 Apr 2026 10:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇲🇱 Місто Кідаль в Малі, де зна</title>
-      <link>https://www.mandarinai.lt/post/91852</link>
-      <description>🇲🇱 Місто Кідаль в Малі, де знаходиться база російських найманців з «Африканського корпусу» міноборони РФ, захоплене повстанцями.
-
-Перед тим російський військовий персонал отримав ультиматум віддати базу повстанцям.
-
-Отже, з території російської бази поспіхом виїжджають машини.
-
-Найманцям російського так званого «Африканського корпусу» довелося домовлятися про безперешкодний вихід своїх підрозділів із Кідаля.
-
-На сторінці «Африканського корпусу» в соцмережах уточнюється, що росіяни розпочали виведення сил, а гарнізон малійських військових здається у полон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8463.MP4" length="2399418" type="video/mp4"/>
-      <pubDate>Sun, 26 Apr 2026 12:11:29 +0000</pubDate>
     </item>
     <item>
       <title>⚡️ Три військові кораблі, вини</title>
@@ -83,6 +68,13 @@
       <description>Сім «шахедів» знищили за три години, - результат роботи батареї перехоплювачів БпЛА 92-ої окремої штурмової бригади</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8473.MP4" length="7028328" type="video/mp4"/>
       <pubDate>Sun, 26 Apr 2026 14:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Відео сьогоднішніх прильотів </title>
+      <link>https://www.mandarinai.lt/post/91866</link>
+      <description>💥Відео сьогоднішніх прильотів по Ярославському НПЗ та істеричної роботи російської ППО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-26_14-54-02.mp4" length="3170260" type="video/mp4"/>
+      <pubDate>Sun, 26 Apr 2026 14:54:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
