@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 13:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 14:36:47 +0000</lastBuildDate>
     <item>
       <title>🤝До Києва  прибула президентка</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -30,20 +30,6 @@
       <pubDate>Sun, 26 Apr 2026 10:59:17 +0000</pubDate>
     </item>
     <item>
-      <title>😡«шахед» влучив в АЗС у Шостці</title>
-      <link>https://www.mandarinai.lt/post/91850</link>
-      <description>😡«шахед» влучив в АЗС у Шостці на Сумщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-26_11-09-20.mp4" length="1053356" type="video/mp4"/>
-      <pubDate>Sun, 26 Apr 2026 11:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>☠Головного сюзника росіян в Ма</title>
-      <link>https://www.mandarinai.lt/post/91851</link>
-      <description>☠Головного сюзника росіян в Малі - міністра оборони Садіо Камара вбито, повідомляють місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_11-30-50.jpg" length="139712" type="image/jpeg"/>
-      <pubDate>Sun, 26 Apr 2026 11:30:50 +0000</pubDate>
-    </item>
-    <item>
       <title>🇲🇱 Місто Кідаль в Малі, де зна</title>
       <link>https://www.mandarinai.lt/post/91852</link>
       <description>🇲🇱 Місто Кідаль в Малі, де знаходиться база російських найманців з «Африканського корпусу» міноборони РФ, захоплене повстанцями.
@@ -52,7 +38,7 @@
 
 Отже, з території російської бази поспіхом виїжджають машини.
 
-Найманцям «Африканського корпусу» довелося домовлятися про безперешкодний вихід своїх підрозділів із Кідаля.
+Найманцям російського так званого «Африканського корпусу» довелося домовлятися про безперешкодний вихід своїх підрозділів із Кідаля.
 
 На сторінці «Африканського корпусу» в соцмережах уточнюється, що росіяни розпочали виведення сил, а гарнізон малійських військових здається у полон.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8463.MP4" length="2399418" type="video/mp4"/>
@@ -79,6 +65,24 @@
 🕶️ За твердженням джерел в СБУ, завдання було поставлено Зеленським</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_12-29-04.jpg" length="47243" type="image/jpeg"/>
       <pubDate>Sun, 26 Apr 2026 12:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Вже 2 людини загинули через </title>
+      <link>https://www.mandarinai.lt/post/91863</link>
+      <description>‼️Вже 2 людини загинули через негоду в Україні, ще двоє постраждали, — ДСНС
+
+У Черкасах загинула людина — дерево впало на квадроцикл під час руху. Ще один чоловік загинув у Закарпатті через падіння дерева. У Полтаві дерево травмувало дитину.
+
+Без електрики залишилися 1121 населений пункт</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-26_14-01-36.jpg" length="223780" type="image/jpeg"/>
+      <pubDate>Sun, 26 Apr 2026 14:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сім «шахедів» знищили за три г</title>
+      <link>https://www.mandarinai.lt/post/91865</link>
+      <description>Сім «шахедів» знищили за три години, - результат роботи батареї перехоплювачів БпЛА 92-ої окремої штурмової бригади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8473.MP4" length="7028328" type="video/mp4"/>
+      <pubDate>Sun, 26 Apr 2026 14:07:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
