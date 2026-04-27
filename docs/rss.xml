@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 20:47:22 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Мерц допустив втрату Україн</title>
-      <link>https://www.mandarinai.lt/post/91909</link>
-      <description>⚡️ Мерц допустив втрату Україною частини території.
-
-💬 «У якийсь момент Україна підпише угоду про припинення вогню; у якийсь момент, сподіваюся, — мирний договір із Росією. Тоді може статися так, що частина території України перестане бути українською», — сказав Мерц, виступаючи перед учнями гімназії в Марсберзі сьогодні.
-
-💬 «Якщо президент Зеленський хоче донести це до свого населення й заручитися підтримкою більшості, і йому необхідно провести референдум із цього питання, то він має одночасно сказати народу, я відкрив вам шлях до Європи», — додав Мерц.
-
-Вступ України до ЄС найближчим часом неможливий, вважає Мерц
-
-💬 «У Зеленського була ідея приєднатися до ЄС 1 січня 2027 року. Це не спрацює. Навіть 1 січня 2028 року — нереалістично», — цитує Reuters Мерца.
-
-➡️ Схоже, нам потрібно створювати нові альянси, наприклад, між Україною, з одного боку, та Туреччиною, Норвегією та Британією, з іншого, - країнами, які близькі до ЄС, але не є його членами.
-
-До того ж, ці країни мають потужні економіку та Збройні Сили.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-27_15-25-17.jpg" length="47935" type="image/jpeg"/>
-      <pubDate>Mon, 27 Apr 2026 15:25:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 21:42:43 +0000</lastBuildDate>
     <item>
       <title>⚡️ Бійці бригади ДПСУ «Сталеви</title>
       <link>https://www.mandarinai.lt/post/91910</link>
@@ -109,6 +90,15 @@
 В місті Кідаль, де розміщувалася російська база, повстанці захопили станцію управління дронами  Bayraktar TB2, які Малі придбала ще за попередньої прозахідної влади.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-27_20-28-30.jpg" length="93057" type="image/jpeg"/>
       <pubDate>Mon, 27 Apr 2026 20:28:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇬🇧 Король Британії Чарльз III </title>
+      <link>https://www.mandarinai.lt/post/91923</link>
+      <description>🇬🇧 Король Британії Чарльз III прилетів до США 
+
+Це перший візит британського монарха до США з 2007 року. Він відбувається на тлі напружених відносин між Британією та США, після відмови Лондона брати участь у війні проти Ірану.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-27_20-49-35.mp4" length="7340748" type="video/mp4"/>
+      <pubDate>Mon, 27 Apr 2026 20:49:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
