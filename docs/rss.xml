@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 14:52:57 +0000</lastBuildDate>
-    <item>
-      <title>425-ий полк «Скеля» атакує з п</title>
-      <link>https://www.mandarinai.lt/post/91892</link>
-      <description>425-ий полк «Скеля» атакує з повітря окупантів на вулицях Покровська</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8482.MP4" length="23382934" type="video/mp4"/>
-      <pubDate>Mon, 27 Apr 2026 07:39:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Тонни олії розтеклися по морю</title>
-      <link>https://www.mandarinai.lt/post/91893</link>
-      <description>😡Тонни олії розтеклися по морю та утворили величезну пляму — витік стався через руйнівний російський удар по порту біля Одеси.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-27_09-29-02.mp4" length="1968062" type="video/mp4"/>
-      <pubDate>Mon, 27 Apr 2026 09:29:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 16:16:26 +0000</lastBuildDate>
     <item>
       <title>⚡️Україна та Норвегія запускаю</title>
       <link>https://www.mandarinai.lt/post/91896</link>
@@ -124,6 +110,32 @@
       <description>До Ізраїлю прибуло судно «Panoramitis» з українським зерном, вивезеним з тимчасово окупованих територій, — Axios.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-27_14-17-34.jpg" length="55365" type="image/jpeg"/>
       <pubDate>Mon, 27 Apr 2026 14:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Мерц допустив втрату Україн</title>
+      <link>https://www.mandarinai.lt/post/91909</link>
+      <description>⚡️ Мерц допустив втрату Україною частини території.
+
+💬 «У якийсь момент Україна підпише угоду про припинення вогню; у якийсь момент, сподіваюся, — мирний договір із Росією. Тоді може статися так, що частина території України перестане бути українською», — сказав Мерц, виступаючи перед учнями гімназії в Марсберзі сьогодні.
+
+💬 «Якщо президент Зеленський хоче донести це до свого населення й заручитися підтримкою більшості, і йому необхідно провести референдум із цього питання, то він має одночасно сказати народу, я відкрив вам шлях до Європи», — додав Мерц.
+
+Вступ України до ЄС найближчим часом неможливий, вважає Мерц
+
+💬 «У Зеленського була ідея приєднатися до ЄС 1 січня 2027 року. Це не спрацює. Навіть 1 січня 2028 року — нереалістично», — цитує Reuters Мерца.
+
+➡️ Схоже, нам потрібно створювати нові альянси, наприклад, між Україною, з одного боку, та Туреччиною, Норвегією та Британією, з іншого, - країнами, які близькі до ЄС, але не є його членами.
+
+До того ж, ці країни мають потужні економіку та Збройні Сили.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-27_15-25-17.jpg" length="47935" type="image/jpeg"/>
+      <pubDate>Mon, 27 Apr 2026 15:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Бійці бригади ДПСУ «Сталеви</title>
+      <link>https://www.mandarinai.lt/post/91910</link>
+      <description>⚡️ Бійці бригади ДПСУ «Сталевий кордон» знищили 7 укриттів, 4 окупантів, 1 автомобіль та 3 антени зв'язку, в тому числі на території Курської області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8495.MP4" length="16009116" type="video/mp4"/>
+      <pubDate>Mon, 27 Apr 2026 15:35:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
