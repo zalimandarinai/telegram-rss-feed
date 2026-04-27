@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 07:29:19 +0000</lastBuildDate>
-    <item>
-      <title>Розкішне весілля моделі з Харк</title>
-      <link>https://www.mandarinai.lt/post/91878</link>
-      <description>Розкішне весілля моделі з Харкова та мільйонера з Києва пройшло у Каннах. Ведучим був Максим Галкін.
-
-▪️Дружина — 25-річна колишня учасниця конкурсу «Міс Україна» Ніка, яка зараз живе в Європі.
-▪️Чоловік — підприємець з компанією в Києві та Варшаві, яка займається казино-іграми.
-▪️На сцені виступали Галкін (отримав гонорар $140 тис), Меладзе (гонорар $170 тис) та Рікі Мартін (гонорар $1,5 млн).</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-27_02-31-55.mp4" length="420580" type="video/mp4"/>
-      <pubDate>Mon, 27 Apr 2026 02:31:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤷‍♂Блогери з російського Туапс</title>
-      <link>https://www.mandarinai.lt/post/91880</link>
-      <description>🤷‍♂Блогери з російського Туапсе вимагають правду про наслідки атаки на НПЗ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-27_02-38-39.mp4" length="1299488" type="video/mp4"/>
-      <pubDate>Mon, 27 Apr 2026 02:38:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 10:02:03 +0000</lastBuildDate>
     <item>
       <title>⚡️ Ворог масовано атакував Оде</title>
       <link>https://www.mandarinai.lt/post/91882</link>
@@ -61,10 +43,8 @@
 
 Приватне підприємство отримало більше 2,5 мільярдів гривень на ремонт і обслуговування військової техніки ЗСУ. Майже 580 мільйонів гривень вивели через фіктивні фірми.
 
-На папері компанії нібито закуповували запчастини, а насправді гроші обналичивали і передавали учасникам схеми.
-
-Сімом учасникам організації повідомили про підозру, п'ятьох затримали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-27_07-11-35.jpg" length="175340" type="image/jpeg"/>
+На папері компанії нібито закуповували запчастини, а насправді гроші передавали учасникам схеми</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-27_07-11-35.jpg" length="177446" type="image/jpeg"/>
       <pubDate>Mon, 27 Apr 2026 07:11:35 +0000</pubDate>
     </item>
     <item>
@@ -87,6 +67,31 @@
 Тож, очевидно, що це корейцям для пропаганди і мотивації передали московські партнери.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8481.MP4" length="23432696" type="video/mp4"/>
       <pubDate>Mon, 27 Apr 2026 07:14:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>425-ий полк «Скеля» атакує з п</title>
+      <link>https://www.mandarinai.lt/post/91892</link>
+      <description>425-ий полк «Скеля» атакує з повітря окупантів на вулицях Покровська</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8482.MP4" length="23382934" type="video/mp4"/>
+      <pubDate>Mon, 27 Apr 2026 07:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Тонни олії розтеклися по морю</title>
+      <link>https://www.mandarinai.lt/post/91893</link>
+      <description>😡Тонни олії розтеклися по морю та утворили величезну пляму — витік стався через руйнівний російський удар по порту біля Одеси.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-27_09-29-02.mp4" length="1968062" type="video/mp4"/>
+      <pubDate>Mon, 27 Apr 2026 09:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Україна та Норвегія запускаю</title>
+      <link>https://www.mandarinai.lt/post/91896</link>
+      <description>⚡️Україна та Норвегія запускають спільне виробництво дронів, — Міноборони
+
+Йдеться про виготовлення кількох тисяч дронів типу mid-strike на території Норвегії, які Сили оборони отримають вже до літа цього року 
+
+Загалом Норвегія планує цьогоріч спрямувати понад $1,5 млрд на закупівлю озброєння українського виробництва для українського війська</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-27_09-50-40.jpg" length="130719" type="image/jpeg"/>
+      <pubDate>Mon, 27 Apr 2026 09:50:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
