@@ -6,79 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 12:17:41 +0000</lastBuildDate>
-    <item>
-      <title>❗️ СБУ затримала ІТ-фахівця, я</title>
-      <link>https://www.mandarinai.lt/post/91939</link>
-      <description>❗️ СБУ затримала ІТ-фахівця, який створював вербувальні канали для фсб рф
-
-Як це працює.
-
-📱 Програміст з Черкащини реєстрував мобільні номери українських операторів для створення фейкових акаунтів в соцмережах.
-
-➡️ Облікові записи «айтішник» передавав російській спецслужбі.
-
-💥 Через них проводилось вербування агентури і коригувальників.
-
-💳 Паралельно з цим агент відкрив рахунки для прихованого фінансуванні агентурних мереж.
-
-Цінного російського агента затримали разом з коригувальником, якого йому вдалось завербувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_09-33-17.jpg" length="151176" type="image/jpeg"/>
-      <pubDate>Tue, 28 Apr 2026 09:33:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Замах на генерала, Героя Украї</title>
-      <link>https://www.mandarinai.lt/post/91941</link>
-      <description>Замах на генерала, Героя України, - кілерів затримано.
-
-❗️ Агентів рф викрили СБУ і Нацполіція
-
-Двоє «виконавців» провели дорозвідку біля оселі військового на Житомирщині
-
-Далі вони чекали від куратора з рф геолокацію схрону, з якого мали забрати стрілецьку зброю.
-
-В цей момент їх вдалося затримати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_09-45-00.jpg" length="67259" type="image/jpeg"/>
-      <pubDate>Tue, 28 Apr 2026 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Україна будує ешелоновану с</title>
-      <link>https://www.mandarinai.lt/post/91944</link>
-      <description>❗️ Україна будує ешелоновану суцільну лінію оборони від Київського водосховища до Сум, - начальник інженерних військ Сиротенко.
-
-🪖 Головне, щоб вистачило особового складу для утримання лінії оборони. 
-➡️ Щоб не побачити в побудованих спорудах російських військових замість українських, як це сталося в районі Покровська.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8523.MP4" length="16965072" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 10:08:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Так російська армія тікає в</title>
-      <link>https://www.mandarinai.lt/post/91945</link>
-      <description>❗️ Так російська армія тікає в Малі від хлопців з «калашами», в тюрбанах і капцях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8524.MP4" length="3574937" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 10:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥🔥Портал у пекло в Туапсе розш</title>
-      <link>https://www.mandarinai.lt/post/91946</link>
-      <description>🔥🔥Портал у пекло в Туапсе розширюється. Після нічної атаки українських сил пожежа на НПЗ спалахує новими хвилями, полум'я перекинулося ще на 3  резервуари</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-28_11-09-24.mp4" length="730716" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 11:09:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Вибухи в Києві, ППО працює по</title>
-      <link>https://www.mandarinai.lt/post/91948</link>
-      <description>🤬Вибухи в Києві, ППО працює по шахедах, можливо є приліт</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-28_11-24-41.mp4" length="255375" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 11:24:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент влучання по багатоповер</title>
-      <link>https://www.mandarinai.lt/post/91950</link>
-      <description>Момент влучання по багатоповерхівці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/1.MOV" length="5791666" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 11:32:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 15:12:25 +0000</lastBuildDate>
     <item>
       <title>❗️ В російському Туапсе просто</title>
       <link>https://www.mandarinai.lt/post/91953</link>
@@ -89,6 +17,109 @@
 💬 «Чоловік, який мене схопив, виявився ініціативним місцевим жителем. Йому не сподобалося, що фотографую. Повз їхали поліцейські і зупинилися розібратися. Мене посадили в поліцейську машину та відвезли до відділення, забрали лише мене. Розмовляли ввічливо, але цікавилися моєю роботою. Як я зрозуміла, зараз у всьому Туапсе шукають людей, які постять у соцмережах зйомки пожежі».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8528.MP4" length="12495058" type="video/mp4"/>
       <pubDate>Tue, 28 Apr 2026 11:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂️ Польща все ж таки передал</title>
+      <link>https://www.mandarinai.lt/post/91954</link>
+      <description>🤷‍♂️ Польща все ж таки передала росії археолога Бутягіна, який займався незаконними розкопками в Криму.
+
+🛂 Він катався по Європі і по запиту України був затриманий в Польщі.
+
+🇺🇦 Україна сподівалася, що його засудять в українському суді. 
+
+📄 В росії фсб вже радісно оприлюднила реліз.
+
+💬 «В результаті обміну на білорусько-польській ділянці, повернуто двох громадян нашої країни, російського вченого Олександра Бутягіна і дружини російського військовослужбовця, який проходить службу в пмр».
+
+ℹ️ Поміняли, як заявлено, на офіцерів молдавської спецслужби.
+
+Що між рядків.
+
+▫️ Цінних для України бранців Кремля ми не отримали, хоча змогли б.
+
+▫️Згадана в релізі дружина російського військового, яка не могла через блокаду Придністровʼя потрапити додому, безкоштовно доїхала до росії.
+
+▫️ Не виключено, що саме про обмін просили молдавани під час несподіваного візиту Санду до Києва. 
+
+▫️ Бутягін не став першим росіянином, виданим Україні за злочини в Криму.
+
+➡️ І знову росія за загальним підрахунком в виграші.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_12-17-57.jpg" length="32005" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 12:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>БПЛА застряг у дереві над клад</title>
+      <link>https://www.mandarinai.lt/post/91955</link>
+      <description>БПЛА застряг у дереві над кладовищем у Соломʼянському районі Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_12-22-37.jpg" length="127028" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 12:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Проліт «шахеда» просто над дер</title>
+      <link>https://www.mandarinai.lt/post/91956</link>
+      <description>Проліт «шахеда» просто над деревами в Києві і приліт поруч з будинком, - емоційна реакція людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8532.MP4" length="1547421" type="video/mp4"/>
+      <pubDate>Tue, 28 Apr 2026 12:24:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фахівець читання по губах: «пу</title>
+      <link>https://www.mandarinai.lt/post/91957</link>
+      <description>Фахівець читання по губах: «путін хоче війни. Він хоче ще більше. У мене таке відчуття, якщо він зробить те, про що каже, то знищить все населення», — нібито так Трамп сказав королю Британії під час зустрічі. Є запитання. Якщо знаєш, то чого не зупиняєш?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_13-25-36.jpg" length="129228" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 13:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Щодо вкраденого росією укра</title>
+      <link>https://www.mandarinai.lt/post/91958</link>
+      <description>❗️ Щодо вкраденого росією українського зерна, яке розвантажують в Ізраїлі, - адресовано ізраїльтянам.
+
+▫️ Подивіться на це фото, зроблене за часів Асада в Сирії. На мотиваційних білбордах поруч - сам Асад, кремлівський упир путін, лідер Ірану Хаменеї і лідер Хезболли Насрала.
+
+▫️ Знайдіть інформацію про те, що дві третини зброї, якою вбивають ізраїльських солдатів, зроблено в росії.
+
+▫️ Пригадайте, як після 7.10.2023 путін фактично виправдав дії ХАМАС, а в Кремлі приймали делегацію терористів. (На 25'22'' https://www.youtube.com/watch?v=S6tD-3WXJ3Q&amp;t=2s)
+
+❓ І спробуйте запитати, – хто ваш друг, а хто ворог? - якщо не ваших урядовців, то принаймні себе.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_13-58-06.jpg" length="214746" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 13:58:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Траса Костянтинівка — Краматор</title>
+      <link>https://www.mandarinai.lt/post/91959</link>
+      <description>Траса Костянтинівка — Краматорськ вкрита антидроновими сітками. Уздовж дороги спалена техніка, гільзи та тіла цивільних, які хотіли евакуюватися або дістатися в інший населений пункт, щоб придбати їжу. 
+
+Тут російські дрони знищують усе, що рухається. Чим ближче до Костянтинівки — тим більше загиблих. Це реальність, яку російська армія приносить на українську землю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_14-24-31.jpg" length="228315" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 14:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ССО уразили базу «Іскандерів»</title>
+      <link>https://www.mandarinai.lt/post/91964</link>
+      <description>💥ССО уразили базу «Іскандерів» на Кримському півострові 
+
+В ніч на 28 квітня, безпілотники «middle-strike» ССО уразили місце зберігання оперативно-тактичних ракет.
+
+Прихована техніка була розташована на території колишньої ракетної бази біля селища Овражки за 40 км на схід від окупованого Сімферополя.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8536.MP4" length="14176799" type="video/mp4"/>
+      <pubDate>Tue, 28 Apr 2026 14:42:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞 Окупант заліз під антидронни</title>
+      <link>https://www.mandarinai.lt/post/91965</link>
+      <description>🔞 Окупант заліз під антидронний плащ і вирішив пустити собі кулю в лоба, щойно почувши український дрон, - аеророзвідка біля Вовчанська</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8537.MP4" length="11990435" type="video/mp4"/>
+      <pubDate>Tue, 28 Apr 2026 14:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩"Віка, у нас война ідьот!
+
+Пр</title>
+      <link>https://www.mandarinai.lt/post/91966</link>
+      <description>💩"Віка, у нас война ідьот!
+
+Пропагандист Соловйов  кричить на блогершу з Монако, що в росії триває справжня війна і регулярно відбуваються прильоти дронів по території рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-28_14-56-20.mp4" length="1321334" type="video/mp4"/>
+      <pubDate>Tue, 28 Apr 2026 14:56:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
