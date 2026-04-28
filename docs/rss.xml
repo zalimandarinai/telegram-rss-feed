@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 19:14:05 +0000</lastBuildDate>
-    <item>
-      <title>💥ССО уразили базу «Іскандерів»</title>
-      <link>https://www.mandarinai.lt/post/91964</link>
-      <description>💥ССО уразили базу «Іскандерів» на Кримському півострові 
-
-В ніч на 28 квітня, безпілотники «middle-strike» ССО уразили місце зберігання оперативно-тактичних ракет.
-
-Прихована техніка була розташована на території колишньої ракетної бази біля селища Овражки за 40 км на схід від окупованого Сімферополя.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8536.MP4" length="14176799" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 14:42:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔞 Окупант заліз під антидронни</title>
-      <link>https://www.mandarinai.lt/post/91965</link>
-      <description>🔞 Окупант заліз під антидронний плащ і вирішив пустити собі кулю в лоба, щойно почувши український дрон, - аеророзвідка біля Вовчанська</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8537.MP4" length="11990435" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 14:55:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 20:56:11 +0000</lastBuildDate>
     <item>
       <title>💩"Віка, у нас война ідьот!
 
@@ -85,15 +67,26 @@
       <pubDate>Tue, 28 Apr 2026 18:35:55 +0000</pubDate>
     </item>
     <item>
+      <title>😰 У Львові 42-річний австраліє</title>
+      <link>https://www.mandarinai.lt/post/91978</link>
+      <description>😰 У Львові 42-річний австралієць вистрибнув з оглядового майданчика вежі Ратуші, — міськрада
+
+На оглядовому майданчику знайдено прощальну записку. У ній іноземець вибачився за майбутній безлад та закликав нікого не звинувачувати у скоєному.
+
+Краще б допоміг нам зупинити зло.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_19-32-57.jpg" length="346370" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 19:32:57 +0000</pubDate>
+    </item>
+    <item>
       <title>🇺🇸⚡️Посол США в Україні Джулі </title>
-      <link>https://www.mandarinai.lt/post/91977</link>
+      <link>https://www.mandarinai.lt/post/91980</link>
       <description>🇺🇸⚡️Посол США в Україні Джулі Девіс йде з посади через розбіжність у поглядах з Трампом на відносини між країнами, — Financial Times
 
-Видання пише, що Девіс розчарована відсутністю підтримки Києва з боку президента
+Видання пише, що Девіс розчарована відсутністю підтримки Києва з боку президента США
 
-Нагадаємо, що її попередниця посол Бриджет Бринк, також пішла з посади посла США в Україні в квітні 2025 року, бо була не згода з політикою адміністрації Трампа. Тоді Бринк висловила принципову незгоду з позицією Білого дрму до України, вважаючи, що агресор - росія не отримує достатнього тиску. Її відставка був актом принципової позиції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_19-02-55.jpg" length="77398" type="image/jpeg"/>
-      <pubDate>Tue, 28 Apr 2026 19:02:55 +0000</pubDate>
+Нагадаємо, що її попередниця посол Бриджет Бринк, також пішла з посади посла США в Україні в квітні 2025 року, бо була не згода з політикою адміністрації Трампа. Тоді Бринк висловила принципову незгоду з позицією Білого дому до України, вважаючи, що агресор - росія не отримує достатнього тиску. Її відставка був актом принципової позиції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_20-08-35.jpg" length="77416" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 20:08:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
