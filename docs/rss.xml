@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 20:56:11 +0000</lastBuildDate>
-    <item>
-      <title>💩"Віка, у нас война ідьот!
-
-Пр</title>
-      <link>https://www.mandarinai.lt/post/91966</link>
-      <description>💩"Віка, у нас война ідьот!
-
-Пропагандист Соловйов  кричить на блогершу з Монако, що в росії триває справжня війна і регулярно відбуваються прильоти дронів по території рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-28_14-56-20.mp4" length="1321334" type="video/mp4"/>
-      <pubDate>Tue, 28 Apr 2026 14:56:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 21:49:33 +0000</lastBuildDate>
     <item>
       <title>Група російських військових за</title>
       <link>https://www.mandarinai.lt/post/91968</link>
@@ -87,6 +76,17 @@
 Нагадаємо, що її попередниця посол Бриджет Бринк, також пішла з посади посла США в Україні в квітні 2025 року, бо була не згода з політикою адміністрації Трампа. Тоді Бринк висловила принципову незгоду з позицією Білого дому до України, вважаючи, що агресор - росія не отримує достатнього тиску. Її відставка був актом принципової позиції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-04-28_20-08-35.jpg" length="77416" type="image/jpeg"/>
       <pubDate>Tue, 28 Apr 2026 20:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴 Король Чарльз III в конгресі</title>
+      <link>https://www.mandarinai.lt/post/91982</link>
+      <description>🔴 Король Чарльз III в конгресі США:
+
+«Одразу після подій 11 вересня 2001 року, коли НАТО вперше задіяло статтю 5, а Рада Безпеки ООН виступила єдиним фронтом перед обличчям терору, ми разом відповіли на цей виклик — так само, як наші народи робили це понад століття. Пліч-о-пліч через дві світові війни, холодну війну, Афганістан і моменти, що визначили нашу спільну безпеку.
+
+Сьогодні така ж непохитна рішучість потрібна для захисту України та її найвідважнішого народу».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-28_20-58-44.mp4" length="6715415" type="video/mp4"/>
+      <pubDate>Tue, 28 Apr 2026 20:58:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
