@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 10:00:12 +0000</lastBuildDate>
-    <item>
-      <title>🔥Жителі Уралу бурхливо реагуют</title>
-      <link>https://www.mandarinai.lt/post/92062</link>
-      <description>🔥Жителі Уралу бурхливо реагують на нову реальність і українські повітряні санкції. Тим часом в Пермі щось знову вибухнуло і з'явився білий дим.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-30_06-02-49.mp4" length="7374764" type="video/mp4"/>
-      <pubDate>Thu, 30 Apr 2026 06:02:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 11:28:21 +0000</lastBuildDate>
     <item>
       <title>🔥🔥В Пермі прокинувся другий ву</title>
       <link>https://www.mandarinai.lt/post/92066</link>
@@ -75,6 +68,24 @@
       <description>🔥🔥На "Лукойлпермьнефтеоргсінтез" лопнув ще один резервуар. Евакуація.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-30_09-35-50.mp4" length="2793441" type="video/mp4"/>
       <pubDate>Thu, 30 Apr 2026 09:35:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Дрони СБУ уразили один із най</title>
+      <link>https://www.mandarinai.lt/post/92077</link>
+      <description>🔥Дрони СБУ уразили один із найбільших НПЗ у Росії — "Лукойл-Пермнафтооргсинтез", що знаходиться у Пермі
+
+Завод забезпечує паливом як цивільний сектор, так і потреби армії РФ. Попередньо, на НПЗ уражено установку АВТ-4 — ключовий вузол первинної переробки нафти. 
+
+❗️Також повторно уражено лінійну виробничо-диспетчерську станцію "Пермь", яка забезпечує постачання нафти на НПЗ "Лукойл-Пермнафтооргсинтез".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8580.MP4" length="3204780" type="video/mp4"/>
+      <pubDate>Thu, 30 Apr 2026 10:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴рф може завдати удар тактично</title>
+      <link>https://www.mandarinai.lt/post/92078</link>
+      <description>🔴рф може завдати удар тактичною ядерною зброєю по Україні, якщо ми почнемо завдавати удари по ній балістичними ракетами, — Єлизаров, заступник командувача Військово-повітряними силами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-04-30_10-04-41.mp4" length="5243755" type="video/mp4"/>
+      <pubDate>Thu, 30 Apr 2026 10:04:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
