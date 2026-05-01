@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 12:59:13 +0000</lastBuildDate>
-    <item>
-      <title>БПЛА масово атакують Тернопіль</title>
-      <link>https://www.mandarinai.lt/post/92139</link>
-      <description>БПЛА масово атакують Тернопіль. Вони заходять на атаку один за одним. Лунають вибухи.  Можуть бути жертви.
-
-Тим часом в храмі триває богослужіння.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-01_11-08-27.mp4" length="818668" type="video/mp4"/>
-      <pubDate>Fri, 01 May 2026 11:08:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>В росії «вікно можливостей» дл</title>
-      <link>https://www.mandarinai.lt/post/92141</link>
-      <description>В росії «вікно можливостей» для агресії проти НАТО до 2030-го, - командувач збройних сил Латвії. Готовність рф до нової широкомасштабної війни лише питання часу, сказав генерал-майор Каспарс Пуданс. Він, зокрема, нагадав про будівництво військових споруд на півночі росії, а також про те, що Кремль «не захоче проблем, які можуть принести із собою демобілізовані».
-
-💬 «Таким чином, найбільш імовірний сценарій - перекидання сил до наших східних кордонів. Якби я сидів у Кремлі, я б сказав, що вікно моїх можливостей це 2027–2029 роки. Поки НАТО не готове. Оскільки після 2030-го це вікно може закритися, росія хоч і стане сильнішою, але те саме стосується і Європи, і НАТО».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-01_11-23-39.jpg" length="32494" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 11:23:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 14:15:45 +0000</lastBuildDate>
     <item>
       <title>«Авто подходят: ТЦК, с шеврона</title>
       <link>https://www.mandarinai.lt/post/92142</link>
@@ -82,6 +64,46 @@
 ㅤ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-01_12-12-06.jpg" length="176706" type="image/jpeg"/>
       <pubDate>Fri, 01 May 2026 12:12:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Наслідки масованого удару рф</title>
+      <link>https://www.mandarinai.lt/post/92153</link>
+      <description>⚡️Наслідки масованого удару рф по Тернополю
+
+Основною ціллю дронів стали об’єкти у промисловій зоні міста.
+
+Внаслідок влучань пошкоджено торговельний центр, його складські приміщення, а також інші виробничі об’єкти</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-01_13-16-28.jpg" length="108715" type="image/jpeg"/>
+      <pubDate>Fri, 01 May 2026 13:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Оператори СБС провели опера</title>
+      <link>https://www.mandarinai.lt/post/92154</link>
+      <description>❗️ Оператори СБС провели операції middle-strike та уразили:
+
+▫️ РЛС «Небо-М» в н.п. Уколово Білгородської області;
+
+▫️ ЗРК «Бук-М3» в н.п. Новоорлівка, ТОТ Донецької області;
+
+▫️ склади БК в н.п. Роздольне, ТОТ Донецької області;
+
+▫️ сховок понад 30 одиниць техніки в н.п. Бахмут;
+
+▫️ ПТД підрозділу БПЛА в н.п. Інженерне, ТОТ Запорізької області;
+
+▫️ склад БК, н.п. Ровеньки, ТОТ Луганської області;
+
+▫️ ПТД особового складу противника у н.п. Гюнівка, ТОТ Херсонської області.</description>
+      <pubDate>Fri, 01 May 2026 13:52:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вдень окупанти випустили 409 у</title>
+      <link>https://www.mandarinai.lt/post/92155</link>
+      <description>Вдень окупанти випустили 409 ударних дронів по Україні
+
+Збито 388 БПЛА. Влучання - 16 дронів на 6 точках, уламки впали на 11 точках.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-01_13-56-37.jpg" length="74493" type="image/jpeg"/>
+      <pubDate>Fri, 01 May 2026 13:56:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
