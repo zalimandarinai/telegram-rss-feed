@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 19:58:04 +0000</lastBuildDate>
-    <item>
-      <title>росія здійснила масовану атаку</title>
-      <link>https://www.mandarinai.lt/post/92161</link>
-      <description>росія здійснила масовану атаку на Тернопіль посеред дня, випустивши понад 50 дронів. Ворог цілеспрямовано вдарив по цивільній інфраструктурі: пошкоджено торговельний центр, склади та енергооб’єкти, де спалахнули масштабні пожежі. 
-
-Внаслідок влучань 10 людей отримали поранення, рятувальники евакуювали 39 мешканців, а частина міста наразі залишається без електроенергії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-01_14-54-12.jpg" length="144604" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 14:54:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 20:44:34 +0000</lastBuildDate>
     <item>
       <title>Що страшніше для держави: воро</title>
       <link>https://www.mandarinai.lt/post/92162</link>
@@ -94,6 +85,16 @@ https://rvv.com.ua/product/zrada-abo-yak-staty-volodarem-raisa-ivanchenko-2026/<
       <description>🇷🇺Привіт із безпечного Туапсе</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-01_19-10-47.mp4" length="990723" type="video/mp4"/>
       <pubDate>Fri, 01 May 2026 19:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 🇺🇦💬  «Чому ми так кидаємо У</title>
+      <link>https://www.mandarinai.lt/post/92176</link>
+      <description>🇺🇸 🇺🇦💬  «Чому ми так кидаємо Україну?» - сенатор Ангус Кінг прямо запитав представників Пентагону, чи відповідає дійсності, що бюджетний запит на 2027 рік не передбачає фінансування програми допомоги Україні.
+
+💬 «Так, це правда. У цьому бюджеті немає фінансування USAI», — відповів виконувач обов’язків фінансового директора Міністерства оборони США Джулс Герст.
+
+💬 «Ми хочемо, щоб Європа фінансувала і брала на себе цей тягар. Якщо це настільки важливо для Європи, а я розумію, чому це важливо, з огляду на вторгнення росії та мужність українців, тоді європейські країни повинні це оплачувати», — заявив міністр оборони США Піт Гегсет.</description>
+      <pubDate>Fri, 01 May 2026 20:26:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
