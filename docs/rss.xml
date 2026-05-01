@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 18:52:35 +0000</lastBuildDate>
-    <item>
-      <title>🔥В Пермі вечірня пінна дискоте</title>
-      <link>https://www.mandarinai.lt/post/92157</link>
-      <description>🔥В Пермі вечірня пінна дискотека</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-01_14-32-38.mp4" length="6144201" type="video/mp4"/>
-      <pubDate>Fri, 01 May 2026 14:32:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️На,Рівненщині сильні пожежі </title>
-      <link>https://www.mandarinai.lt/post/92159</link>
-      <description>⚡️На,Рівненщині сильні пожежі після атаки рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-01_14-43-08.mp4" length="192862" type="video/mp4"/>
-      <pubDate>Fri, 01 May 2026 14:43:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 19:58:04 +0000</lastBuildDate>
     <item>
       <title>росія здійснила масовану атаку</title>
       <link>https://www.mandarinai.lt/post/92161</link>
@@ -92,6 +78,22 @@ https://rvv.com.ua/product/zrada-abo-yak-staty-volodarem-raisa-ivanchenko-2026/<
 Хай би старий там собі говорив всю цю маячню. Але в натовпі журналістів стоїть хтось молодий і красивий, схвально киваючи «Right».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3100.MP4" length="12586382" type="video/mp4"/>
       <pubDate>Fri, 01 May 2026 17:54:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐 Трамп повідомив Конгрес, що </title>
+      <link>https://www.mandarinai.lt/post/92173</link>
+      <description>😐 Трамп повідомив Конгрес, що війна з Іраном завершилася, — Politico
+
+Білий дім виклав свою аргументацію у листі, з яким ознайомилося видання, на тлі того, як конфлікт на Близькому Сході досяг 60-денного юридичного терміну, після якого операції мають бути припинені, якщо законодавці не санкціонують застосування військової сили.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-01_19-05-57.jpg" length="69499" type="image/jpeg"/>
+      <pubDate>Fri, 01 May 2026 19:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺Привіт із безпечного Туапсе</title>
+      <link>https://www.mandarinai.lt/post/92174</link>
+      <description>🇷🇺Привіт із безпечного Туапсе</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-01_19-10-47.mp4" length="990723" type="video/mp4"/>
+      <pubDate>Fri, 01 May 2026 19:10:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
