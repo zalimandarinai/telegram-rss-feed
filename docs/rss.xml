@@ -6,41 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 18:38:55 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ В Харкові сьогодні уражені </title>
-      <link>https://www.mandarinai.lt/post/92195</link>
-      <description>⚡️ В Харкові сьогодні уражені 4 заправки, - Синєгубов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8656.MP4" length="13724642" type="video/mp4"/>
-      <pubDate>Sat, 02 May 2026 13:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Україна починає створювати </title>
-      <link>https://www.mandarinai.lt/post/92196</link>
-      <description>❗️ Україна починає створювати комплекси активного захисту для різних видів озброєння та військової техніки, включно з НРК, - заступник головкома бригадний генерал Андрій Лебеденко
-
-💬 «Сьогодні напрямок від ворожих ударних дронів є критично важливим. Маємо рухатися шляхом інтелектуальних систем захисту, а не просто нарощувати броню на важкій техніці», - Лебеденко на конференції «Drone Autonomy 2026»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_14-11-38.jpg" length="108752" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 14:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Влучання «шахеда» в локомотив</title>
-      <link>https://www.mandarinai.lt/post/92197</link>
-      <description>🤬Влучання «шахеда» в локомотив у Кривому Розі сьогодні вранці. Працівники депо ледь встигли відбігти від місця удару</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-02_14-41-09.mp4" length="1310028" type="video/mp4"/>
-      <pubDate>Sat, 02 May 2026 14:41:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧐Жодна мирна угода з рф не мож</title>
-      <link>https://www.mandarinai.lt/post/92198</link>
-      <description>🧐Жодна мирна угода з рф не можлива без згоди української сторони, — Фіцо 
-
-Прем’єр Словаччини також заявив, що країна підтримує прагнення України вступити до ЄС.
-
-З чим пов'язана зміна традиційно агресивної до України риторики Фіцо, наразі невідомо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_14-48-40.jpg" length="43817" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 14:48:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 19:44:25 +0000</lastBuildDate>
     <item>
       <title>Нове передзамовлення від видав</title>
       <link>https://www.mandarinai.lt/post/92200</link>
@@ -96,6 +62,20 @@
       <description>👌Колишній заступник міністра природних ресурсів втік з росії і, ймовірно, знаходиться в США. Це перший випадок втечі з рф чиновника такого рівня</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_18-10-33.jpg" length="77441" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 18:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В небі під Києвом пролетів р</title>
+      <link>https://www.mandarinai.lt/post/92212</link>
+      <description>⚡️В небі під Києвом пролетів російський дрон, який світився</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8660.MP4" length="297745" type="video/mp4"/>
+      <pubDate>Sat, 02 May 2026 19:36:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️До 30х БпЛА на Київщину/Київ</title>
+      <link>https://www.mandarinai.lt/post/92213</link>
+      <description>⚡️До 30х БпЛА на Київщину/Київ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_19-42-53.jpg" length="150023" type="image/jpeg"/>
+      <pubDate>Sat, 02 May 2026 19:42:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
