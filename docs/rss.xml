@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 10:38:57 +0000</lastBuildDate>
-    <item>
-      <title>😐 Трамп повідомив Конгрес, що </title>
-      <link>https://www.mandarinai.lt/post/92173</link>
-      <description>😐 Трамп повідомив Конгрес, що війна з Іраном завершилася, — Politico
-
-Білий дім виклав свою аргументацію у листі, з яким ознайомилося видання, на тлі того, як конфлікт на Близькому Сході досяг 60-денного юридичного терміну, після якого операції мають бути припинені, якщо законодавці не санкціонують застосування військової сили.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-01_19-05-57.jpg" length="69499" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 19:05:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇷🇺Привіт із безпечного Туапсе</title>
-      <link>https://www.mandarinai.lt/post/92174</link>
-      <description>🇷🇺Привіт із безпечного Туапсе</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-01_19-10-47.mp4" length="990723" type="video/mp4"/>
-      <pubDate>Fri, 01 May 2026 19:10:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 11:34:21 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 🇺🇦💬  «Чому ми так кидаємо У</title>
       <link>https://www.mandarinai.lt/post/92176</link>
@@ -111,6 +95,29 @@
 Йдеться про порт Бремергафен на узбережжі Північного моря. У проєкт інвестують 1,35 млрд євро, і ці кошти спрямовують не на розширення цивільної логістики, а на посилення військової інфраструктури.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_09-51-37.jpg" length="162711" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 09:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Евакуація з Костянтинівки.
+
+Пе</title>
+      <link>https://www.mandarinai.lt/post/92187</link>
+      <description>Евакуація з Костянтинівки.
+
+Перший удар FPV  — у борт штурмана з позивним «Грек». Другий — у ліву сторону, там, де сидів водій-механік «Рибак»
+
+Машина втратила передні колеса, але водій тримав курс на «докатках».
+
+Поранених вдалось доправити до медиків на стабпункт.
+
+Так працює 49-ий ОШБ «Карпатська Січ».</description>
+      <pubDate>Sat, 02 May 2026 11:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Харкові росіяни продовжують </title>
+      <link>https://www.mandarinai.lt/post/92188</link>
+      <description>В Харкові росіяни продовжують бити по заправках</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8645.MP4" length="4786038" type="video/mp4"/>
+      <pubDate>Sat, 02 May 2026 11:25:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
