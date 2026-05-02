@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 06:54:15 +0000</lastBuildDate>
-    <item>
-      <title>🔥 Українські захисники уразили</title>
-      <link>https://www.mandarinai.lt/post/92164</link>
-      <description>🔥 Українські захисники уразили 4 літака Су-57 та Су-34 у Челябінській області, - "Мадяр"
-
-"Вполювання багатоцільових винищувачів-бомбардувальників Су-34 та винищувачів п'ятого покоління Су-57 має критичне значення для зменшення ударного потенціалу противника", - написав командувач СБС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-01_15-32-05.mp4" length="785927" type="video/mp4"/>
-      <pubDate>Fri, 01 May 2026 15:32:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 08:15:25 +0000</lastBuildDate>
     <item>
       <title>🥴 Відео з палаючою нафтою в Ту</title>
       <link>https://www.mandarinai.lt/post/92166</link>
@@ -90,6 +81,15 @@
       <description>⚡️ рф вдарила БпЛА по маршрутці в Херсоні вранці: на місці загинули двоє людей, ще 7 поранені</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_05-57-52.jpg" length="197461" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 05:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️США планують вивести до 5000</title>
+      <link>https://www.mandarinai.lt/post/92179</link>
+      <description>‼️США планують вивести до 5000 військових з Німеччини, — Reuters
+
+За даними джерел видання, рішення пов’язане з невдоволенням Трампа позицією європейських союзників щодо війни США проти Ірану та їхньою, на його думку, недостатньою підтримкою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_07-10-47.jpg" length="100615" type="image/jpeg"/>
+      <pubDate>Sat, 02 May 2026 07:10:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
