@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 15:35:08 +0000</lastBuildDate>
-    <item>
-      <title>Бойовики «Хезболла», ймовірно,</title>
-      <link>https://www.mandarinai.lt/post/92190</link>
-      <description>Бойовики «Хезболла», ймовірно, підбили перший танк «Merkava Mk4» за допомогою FPV-дрона в Лівані. Все зроблено, як вчили російські інструктори. На відео, яке опублікувало терористичне угруповання, видно, що стрім для дорозвідки і координації забезпечував «Мавік».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8646.MP4" length="12996380" type="video/mp4"/>
-      <pubDate>Sat, 02 May 2026 11:42:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 16:33:25 +0000</lastBuildDate>
     <item>
       <title>На Смоленщині дідусь провів ко</title>
       <link>https://www.mandarinai.lt/post/92191</link>
@@ -121,6 +114,20 @@
 В указі йдеться, що їхні дії загрожують національним інтересам, безпеці, суверенітету й територіальній цілісності.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_15-31-52.jpg" length="130136" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 15:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нічна евакуація одразу двох ві</title>
+      <link>https://www.mandarinai.lt/post/92203</link>
+      <description>Нічна евакуація одразу двох військових на наземній безпілотній платформі 210-го полку, попри удари дронів, пройшла успішно</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-05-02_18-38-42.mp4" length="7394396" type="video/mp4"/>
+      <pubDate>Sat, 02 May 2026 15:42:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Пермський "Лукойлнефтьоргсінт</title>
+      <link>https://www.mandarinai.lt/post/92204</link>
+      <description>🔥Пермський "Лукойлнефтьоргсінтез" дограє 4 добу і чекає на нові влучання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_16-00-05.jpg" length="103102" type="image/jpeg"/>
+      <pubDate>Sat, 02 May 2026 16:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
