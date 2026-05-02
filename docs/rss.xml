@@ -6,46 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 17:34:21 +0000</lastBuildDate>
-    <item>
-      <title>На Смоленщині дідусь провів ко</title>
-      <link>https://www.mandarinai.lt/post/92191</link>
-      <description>На Смоленщині дідусь провів коротку політінформацію для онуки, яка злякалася збитих дронів.
-
-Дівчинка: «Я хочу додому, мамо!»
-Мати: «А додому там ще страшніше. Ти що, дурепа?»
-Дівчинка: «Діду, йди сюди! 
-Подивися!»
-Дід: «Та що мені дивитися? Путіна, під@р@са, на мило треба»
-Мати: «До чого тут Путін?»
-Дід: «А хто? Г@нд@н він, нах@й. Розбомбив Україну цю».
-
-«Старий х@йні не скаже» ©</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8651.MP4" length="8790480" type="video/mp4"/>
-      <pubDate>Sat, 02 May 2026 12:22:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Вот такое у нас первое мая в </title>
-      <link>https://www.mandarinai.lt/post/92192</link>
-      <description>«Вот такое у нас первое мая в городе Туапсе. С праздником, товарищи», - від «Київ за три дні» до «Путіна на мило» росія пройшла довгий шлях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8652.MP4" length="6885547" type="video/mp4"/>
-      <pubDate>Sat, 02 May 2026 12:29:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Уражено тактичну групу ОТРК </title>
-      <link>https://www.mandarinai.lt/post/92194</link>
-      <description>⚡️Уражено тактичну групу ОТРК “Искандер”, РЛС і склади боєприпасів, - Генштаб
-
-Військові об’єкти ворога, по яких відпрацювали в ніч на 2 травня:
-
-▫️ місце розташування тактичної групи оперативно-тактичних ракетних комплексів “Іскандер” (Дружне, ТОТ АР Крим);
-
-▫️ засоби радіолокації, а саме берегову радіолокаційну станцію “МИС-М1” (Маяк) та радіолокаційну станцію “Подльот” (Євпаторія);
-
-▫️ три пункти управління БпЛА противника (Георгіївка, ТОТ Донецької обл.) та склад БпЛА (Новопетриківка, ТОТ Донецька обл.).</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_12-54-03.jpg" length="122888" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 12:54:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 18:38:55 +0000</lastBuildDate>
     <item>
       <title>⚡️ В Харкові сьогодні уражені </title>
       <link>https://www.mandarinai.lt/post/92195</link>
@@ -128,6 +89,13 @@
       <description>🔥Пермський «Лукойлнефтьоргсінтез» дограє 4 добу і чекає на нові влучання.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_16-00-05.jpg" length="103102" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 16:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Колишній заступник міністра п</title>
+      <link>https://www.mandarinai.lt/post/92205</link>
+      <description>👌Колишній заступник міністра природних ресурсів втік з росії і, ймовірно, знаходиться в США. Це перший випадок втечі з рф чиновника такого рівня</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_18-10-33.jpg" length="77441" type="image/jpeg"/>
+      <pubDate>Sat, 02 May 2026 18:10:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
