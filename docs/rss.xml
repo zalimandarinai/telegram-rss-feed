@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 12:39:53 +0000</lastBuildDate>
-    <item>
-      <title>‼️США планують вивести до 5000</title>
-      <link>https://www.mandarinai.lt/post/92179</link>
-      <description>‼️США планують вивести до 5000 військових з Німеччини, — Reuters
-
-За даними джерел видання, рішення пов’язане з невдоволенням Трампа позицією європейських союзників щодо війни США проти Ірану та їхньою, на його думку, недостатньою підтримкою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_07-10-47.jpg" length="100615" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 07:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ В Україні можуть частково с</title>
-      <link>https://www.mandarinai.lt/post/92180</link>
-      <description>❗️ В Україні можуть частково скасувати бронювання, щоб поповнити мобілізаційний ресурс, влада це розглядає, — нардеп Сергій Нагорняк.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8636.MP4" length="6788813" type="video/mp4"/>
-      <pubDate>Sat, 02 May 2026 08:42:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вдруге за сьогоднішній ранок р</title>
-      <link>https://www.mandarinai.lt/post/92181</link>
-      <description>Вдруге за сьогоднішній ранок росіяни атакують дроном маршрутку в Херсоні, — ОВА
-
-Постраждав водій. Його госпіталізували</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_08-46-52.jpg" length="120604" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 08:46:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 14:02:46 +0000</lastBuildDate>
     <item>
       <title>Харків зранку під масованою ат</title>
       <link>https://www.mandarinai.lt/post/92182</link>
@@ -121,6 +96,28 @@
       <description>«Вот такое у нас первое мая в городе Туапсе. С праздником, товарищи», - від «Київ за три дні» до «Путіна на мило» росія пройшла довгий шлях</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8652.MP4" length="6885547" type="video/mp4"/>
       <pubDate>Sat, 02 May 2026 12:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Уражено тактичну групу ОТРК </title>
+      <link>https://www.mandarinai.lt/post/92194</link>
+      <description>⚡️Уражено тактичну групу ОТРК “Искандер”, РЛС і склади боєприпасів, - Генштаб
+
+Військові об’єкти ворога, по яких відпрацювали в ніч на 2 травня:
+
+▫️ місце розташування тактичної групи оперативно-тактичних ракетних комплексів “Іскандер” (Дружне, ТОТ АР Крим);
+
+▫️ засоби радіолокації, а саме берегову радіолокаційну станцію “МИС-М1” (Маяк) та радіолокаційну станцію “Подльот” (Євпаторія);
+
+▫️ три пункти управління БпЛА противника (Георгіївка, ТОТ Донецької обл.) та склад БпЛА (Новопетриківка, ТОТ Донецька обл.).</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_12-54-03.jpg" length="122888" type="image/jpeg"/>
+      <pubDate>Sat, 02 May 2026 12:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Харкові сьогодні уражені </title>
+      <link>https://www.mandarinai.lt/post/92195</link>
+      <description>⚡️ В Харкові сьогодні уражені 4 заправки, - Синєгубов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8656.MP4" length="13724642" type="video/mp4"/>
+      <pubDate>Sat, 02 May 2026 13:09:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
