@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 19:44:25 +0000</lastBuildDate>
-    <item>
-      <title>Нове передзамовлення від видав</title>
-      <link>https://www.mandarinai.lt/post/92200</link>
-      <description>Нове передзамовлення від видавництва «Стилет і стилос» – «Чорноморська доктрина» Юрія Липи. 
-
-Де проходять етнографічні кордони України? Які країни та народи є нашими природними союзниками? Як дивилися на майбутню роль України в Європі напередодні Другої світової? На ці та багато інших питань дає відповідь ця книга. 
-
-Юрій Липа (1900-1944) – є однією із центральних постатей в історії української політичної думки. Ветеран збройних сил УНР, в еміграції він став відомим письменником та публіцистом. Та вінцем його доробку стала трилогія творів: «Призначення України», «Чорноморська доктрина» і «Розподіл Росії». 
-
-Власне, ці праці можна вважати вступом до української геополітики.
-
-Ціна за передзамовленням – 330 (400) гривень.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_15-01-12.jpg" length="119097" type="image/jpeg"/>
-      <pubDate>Sat, 02 May 2026 15:01:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 20:28:24 +0000</lastBuildDate>
     <item>
       <title>Рішення про виведення військ С</title>
       <link>https://www.mandarinai.lt/post/92201</link>
@@ -76,6 +61,13 @@
       <description>⚡️До 30х БпЛА на Київщину/Київ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-02_19-42-53.jpg" length="150023" type="image/jpeg"/>
       <pubDate>Sat, 02 May 2026 19:42:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬В Києві зараз так. ППО працює</title>
+      <link>https://www.mandarinai.lt/post/92215</link>
+      <description>🤬В Києві зараз так. ППО працює по «шахедах».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-02_20-05-49.mp4" length="3493691" type="video/mp4"/>
+      <pubDate>Sat, 02 May 2026 20:05:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
