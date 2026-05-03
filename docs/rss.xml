@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 15:35:07 +0000</lastBuildDate>
-    <item>
-      <title>🍒В Туапсе пожежу майже загасил</title>
-      <link>https://www.mandarinai.lt/post/92243</link>
-      <description>🍒В Туапсе пожежу майже загасили, тим часом нафтопереробний завод вийшов з чату.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_10-37-09.mp4" length="1808299" type="video/mp4"/>
-      <pubDate>Sun, 03 May 2026 10:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥У ворога мінус ще один носій </title>
-      <link>https://www.mandarinai.lt/post/92245</link>
-      <description>💥У ворога мінус ще один носій «Калібрів», — Зеленський посилаючись на доповідь генерал-майора Євгенія Хмари про успішне ураження обʼєктів порту Приморськ
-
-Також уражено сторожовий катер та ще один танкер тіньового нафтового флоту. Значних ушкоджень досягнуто також і в інфраструктурі нафтоналивного порту</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_11-09-57.jpg" length="81154" type="image/jpeg"/>
-      <pubDate>Sun, 03 May 2026 11:09:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 16:33:54 +0000</lastBuildDate>
     <item>
       <title>🤬рф вдарила по Дніпру - 4 раке</title>
       <link>https://www.mandarinai.lt/post/92246</link>
@@ -79,6 +63,22 @@
       <description>🔥В окупованому Маріуполі раптово спалахнуло щось в районі Азовсталі, де базується техніка окупантів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_15-23-04.jpg" length="203390" type="image/jpeg"/>
       <pubDate>Sun, 03 May 2026 15:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Тато, повертайся додому з пер</title>
+      <link>https://www.mandarinai.lt/post/92257</link>
+      <description>"Тато, повертайся додому з перемогою", - дитячий малюнок біля тіла загиблого українського воїна.
+
+Клята росія, кінчені російські виродки, горіть у пеклі!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_15-43-33.mp4" length="2152626" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 15:43:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Швеція затримала судно Jin </title>
+      <link>https://www.mandarinai.lt/post/92258</link>
+      <description>⚡️ Швеція затримала судно Jin Hui — це вже п’ятий борт «тіньового флоту» рф, зупинений владою за останній час.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_15-50-30.jpg" length="91108" type="image/jpeg"/>
+      <pubDate>Sun, 03 May 2026 15:50:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
