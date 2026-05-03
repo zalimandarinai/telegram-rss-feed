@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 19:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 20:29:33 +0000</lastBuildDate>
     <item>
       <title>"Тато, повертайся додому з пер</title>
       <link>https://www.mandarinai.lt/post/92257</link>
@@ -61,7 +61,7 @@
       <title>💥Серія вибухів на окупованій Л</title>
       <link>https://www.mandarinai.lt/post/92266</link>
       <description>💥Серія вибухів на окупованій Луганщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_18-44-34.mp4" length="468554" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_18-44-34.mp4" length="541672" type="video/mp4"/>
       <pubDate>Sun, 03 May 2026 18:44:34 +0000</pubDate>
     </item>
     <item>
@@ -72,6 +72,15 @@
 Він також припустив, що найближчим часом на ринок знову надходитиме нафта, яка застрягла на Близькому Сході через блокаду Ормузької протоки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_19-10-37.mp4" length="7728815" type="video/mp4"/>
       <pubDate>Sun, 03 May 2026 19:10:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪Україна впроваджує технологію</title>
+      <link>https://www.mandarinai.lt/post/92269</link>
+      <description>💪Україна впроваджує технологію, що дозволяє знищувати ворожі повітряні цілі на відстані понад 1 000 кілометрів, повністю змінюючи архітектуру сучасної ППО. 
+
+Віддалене керування перехоплювачами забезпечує максимальну безпеку операторів і дозволяє масштабувати захист неба без прив’язки до лінії фронту. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_20-04-01.mp4" length="101672" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 20:04:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
