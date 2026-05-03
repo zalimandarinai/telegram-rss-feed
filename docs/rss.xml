@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 05:18:38 +0000</lastBuildDate>
-    <item>
-      <title>⚡️В небі під Києвом пролетів р</title>
-      <link>https://www.mandarinai.lt/post/92212</link>
-      <description>⚡️В небі під Києвом пролетів російський дрон, який світився</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8660.MP4" length="297745" type="video/mp4"/>
-      <pubDate>Sat, 02 May 2026 19:36:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 07:42:59 +0000</lastBuildDate>
     <item>
       <title>⚡️До 30х БпЛА на Київщину/Київ</title>
       <link>https://www.mandarinai.lt/post/92213</link>
@@ -69,6 +62,44 @@
 Також є влучання балістичної ракети по одній з локацій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_05-13-35.jpg" length="72191" type="image/jpeg"/>
       <pubDate>Sun, 03 May 2026 05:13:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Добрі дрони завітали до російс</title>
+      <link>https://www.mandarinai.lt/post/92222</link>
+      <description>Добрі дрони завітали до російського порту в Приморську. Результати утрчнюються</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_05-33-36.mp4" length="1344861" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 05:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вполювали рідкісного звіра, ст</title>
+      <link>https://www.mandarinai.lt/post/92225</link>
+      <description>Вполювали рідкісного звіра, станцію РЕБ Р-330Ж «Житель», - доповідає «Lasar’s Group» Нацгвардії
+
+Противник використовує такі станції, щоб створювати перешкоди для роботи українських БПЛА.
+
+Операція проведена на Харківщині. 
+
+Аналітики Lasar’s Group визначили ймовірний район, де могла перебувати станція РЕБ. Після цього була проведена розвідка дронами.
+
+Далі за роботу взялися екіпажі ударних бортів та знищили дві цілі:
+
+✅ Р-330Ж «Житель»;
+✅ командно-штабну машину.
+
+Завдяки такій роботі противник не встигає закривати коридори для прольоту українських БПЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8666.MP4" length="24020739" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 06:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські морські дрони засто</title>
+      <link>https://www.mandarinai.lt/post/92226</link>
+      <description>Українські морські дрони застосували санкції проти двох танкерів тіньового нафтового флоту росії. 
+
+На бортовому відео одного з безекіпажних катерів помітно, як він атакує танкер з корми.
+
+За проведення операції Зеленський подякував начальнику Генштабу Андрію Гнатову, контррозвідникам СБУ та Військово-Морським Силам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8667.MP4" length="2663149" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 07:16:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
