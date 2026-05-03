@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 18:39:12 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Момент удару російської раке</title>
-      <link>https://www.mandarinai.lt/post/92252</link>
-      <description>⚡️Момент удару російської ракети в річку під час сьогоднішньої атаки на Дніпро</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_15-17-23.mp4" length="1168695" type="video/mp4"/>
-      <pubDate>Sun, 03 May 2026 15:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ ЗСУ знищили техніки ППО рф </title>
-      <link>https://www.mandarinai.lt/post/92253</link>
-      <description>⚡️ ЗСУ знищили техніки ППО рф на понад $1 млрд за квітень
-
-Сили безпілотних систем уразили 38 цілей, зокрема ЗРК "Бук", "Тор", "Панцир" та інші.
-
-Також виведено з ладу 13 радарів і засобів РЕБ.
-
-Операція триває - удари поглиблюються в тил ворога</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_15-21-39.mp4" length="6850988" type="video/mp4"/>
-      <pubDate>Sun, 03 May 2026 15:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В окупованому Маріуполі рапто</title>
-      <link>https://www.mandarinai.lt/post/92254</link>
-      <description>🔥В окупованому Маріуполі раптово спалахнуло щось в районі Азовсталі, де базується техніка окупантів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_15-23-04.jpg" length="203390" type="image/jpeg"/>
-      <pubDate>Sun, 03 May 2026 15:23:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 19:43:30 +0000</lastBuildDate>
     <item>
       <title>"Тато, повертайся додому з пер</title>
       <link>https://www.mandarinai.lt/post/92257</link>
@@ -83,6 +56,22 @@
 🤦‍♂️ Так працює російська пропаганда. Знайти пропитого актора, а краще двох, і через них запустити таку брехню, в яку неможливо повірити. Учні Гебельса, які перевершили свого вчителя.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8674.MP4" length="4132622" type="video/mp4"/>
       <pubDate>Sun, 03 May 2026 18:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Серія вибухів на окупованій Л</title>
+      <link>https://www.mandarinai.lt/post/92266</link>
+      <description>💥Серія вибухів на окупованій Луганщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_18-44-34.mp4" length="468554" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 18:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢📉 Ціни на нафту почнуть знижу</title>
+      <link>https://www.mandarinai.lt/post/92268</link>
+      <description>🛢📉 Ціни на нафту почнуть знижуватися через три місяці, — міністр фінансів США Скотт Бессент
+
+Він також припустив, що найближчим часом на ринок знову надходитиме нафта, яка застрягла на Близькому Сході через блокаду Ормузької протоки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_19-10-37.mp4" length="7728815" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 19:10:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
