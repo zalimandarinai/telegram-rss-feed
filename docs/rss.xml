@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 16:33:54 +0000</lastBuildDate>
-    <item>
-      <title>🤬рф вдарила по Дніпру - 4 раке</title>
-      <link>https://www.mandarinai.lt/post/92246</link>
-      <description>🤬рф вдарила по Дніпру - 4 ракети за 10 (!) хвилин. Влучання сталися по житлових кварталах. Над містом піднімається густий дим, — місцеві ЗМІ повідомляють, що одна з ракет потрапила у річку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_12-35-38.jpg" length="23052" type="image/jpeg"/>
-      <pubDate>Sun, 03 May 2026 12:35:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Внаслідок ракетного удару рф п</title>
-      <link>https://www.mandarinai.lt/post/92249</link>
-      <description>Внаслідок ракетного удару рф по Дніпру пошкоджено гуртожиток. - ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_12-55-40.jpg" length="103535" type="image/jpeg"/>
-      <pubDate>Sun, 03 May 2026 12:55:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>😢 Кількість постраждалих через</title>
-      <link>https://www.mandarinai.lt/post/92250</link>
-      <description>😢 Кількість постраждалих через удар РФ по Дніпру зросла до 8 — ОВА
-
-Серед них – 9-річна дівчинка.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_13-50-10.mp4" length="641905" type="video/mp4"/>
-      <pubDate>Sun, 03 May 2026 13:50:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 17:36:21 +0000</lastBuildDate>
     <item>
       <title>☠🔥Масовий суїцид русні. Орда н</title>
       <link>https://www.mandarinai.lt/post/92251</link>
@@ -79,6 +56,29 @@
       <description>⚡️ Швеція затримала судно Jin Hui — це вже п’ятий борт «тіньового флоту» рф, зупинений владою за останній час.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_15-50-30.jpg" length="91108" type="image/jpeg"/>
       <pubDate>Sun, 03 May 2026 15:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У Башкортостані, недалеко від</title>
+      <link>https://www.mandarinai.lt/post/92260</link>
+      <description>💥У Башкортостані, недалеко від Уфи, раптово стався вибух на нафтобазі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_16-42-12.mp4" length="177020" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 16:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔 Трудових мігрантів в Україні</title>
+      <link>https://www.mandarinai.lt/post/92262</link>
+      <description>🤔 Трудових мігрантів в Україні стає все більше: темношкірих працівників «Нової пошти» сьогодні зафіксували в АТБ, — ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_17-28-03.mp4" length="469977" type="video/mp4"/>
+      <pubDate>Sun, 03 May 2026 17:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Від російського удару в Дніпрі</title>
+      <link>https://www.mandarinai.lt/post/92264</link>
+      <description>Від російського удару в Дніпрі загинув 19-річний студент Дніпровського національного університету.
+
+Він жив у гуртожитку, в який поцілила ракета</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_17-32-12.jpg" length="161792" type="image/jpeg"/>
+      <pubDate>Sun, 03 May 2026 17:32:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
