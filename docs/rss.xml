@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 16:44:28 +0000</lastBuildDate>
-    <item>
-      <title>👀Вперше від початку перемирʼя </title>
-      <link>https://www.mandarinai.lt/post/92291</link>
-      <description>👀Вперше від початку перемирʼя в Дубаї оголосили ракетну загрозу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_13-27-37.jpg" length="80226" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 13:27:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Кількість загиблих після уда</title>
-      <link>https://www.mandarinai.lt/post/92292</link>
-      <description>⚡️Кількість загиблих після удару росіян по Мерефі в Харківській області зросла до 6, поранених досягла 24</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-04_13-32-47.mp4" length="11518121" type="video/mp4"/>
-      <pubDate>Mon, 04 May 2026 13:32:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 18:08:00 +0000</lastBuildDate>
     <item>
       <title>🤝Берлін повністю заборонить ра</title>
       <link>https://www.mandarinai.lt/post/92295</link>
@@ -80,6 +66,39 @@
       <description>Україна та Вірменія підписали договір про дострокове співробітництво</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8684.MP4" length="5900185" type="video/mp4"/>
       <pubDate>Mon, 04 May 2026 16:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Роботи ще не можуть виграти ві</title>
+      <link>https://www.mandarinai.lt/post/92303</link>
+      <description>Роботи ще не можуть виграти війну, але вже виграють бої. 
+
+Бійці «Хартії» роботами «на удальонке» знищили 10 окупантів, які в Купʼянську тримали позицію.
+
+Ракети били з НРК, а ще сотні кілограмів вибухівки заїхали на камікадзе, і вщент рознесли позиції загарбників.</description>
+      <pubDate>Mon, 04 May 2026 17:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴​«Іран буде «стертий з лиця З</title>
+      <link>https://www.mandarinai.lt/post/92305</link>
+      <description>🔴​«Іран буде «стертий з лиця Землі», якщо нападе на наші кораблі» — Трамп в ефірі Fox News.
+
+Про обстріли ОАЕ, на кшталт сьогоднішнього удару по НПЗ, мова не йде?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_17-18-46.jpg" length="90092" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 17:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Цивільне населення Києва та </title>
+      <link>https://www.mandarinai.lt/post/92307</link>
+      <description>❗️Цивільне населення Києва та співробітники іноземних диппредставництв мають своєчасно залишити місто Київ у разі «спроб зірвати парад», — попереджають в МО рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_17-41-46.jpg" length="66963" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 17:41:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Так напередодні парада в Моск</title>
+      <link>https://www.mandarinai.lt/post/92308</link>
+      <description>🥴Так напередодні парада в Москві російський вертоліт намагається наздогнати український дрон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-04_18-03-18.mp4" length="279844" type="video/mp4"/>
+      <pubDate>Mon, 04 May 2026 18:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
