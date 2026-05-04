@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 23:32:14 +0000</lastBuildDate>
-    <item>
-      <title>"Тато, повертайся додому з пер</title>
-      <link>https://www.mandarinai.lt/post/92257</link>
-      <description>"Тато, повертайся додому з перемогою", - дитячий малюнок біля тіла загиблого українського воїна.
-
-Клята росія, кінчені російські виродки, горіть у пеклі!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_15-43-33.mp4" length="2152626" type="video/mp4"/>
-      <pubDate>Sun, 03 May 2026 15:43:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Швеція затримала судно Jin </title>
-      <link>https://www.mandarinai.lt/post/92258</link>
-      <description>⚡️ Швеція затримала судно Jin Hui — це вже п’ятий борт «тіньового флоту» рф, зупинений владою за останній час.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-03_15-50-30.jpg" length="91108" type="image/jpeg"/>
-      <pubDate>Sun, 03 May 2026 15:50:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 01:26:56 +0000</lastBuildDate>
     <item>
       <title>💥У Башкортостані, недалеко від</title>
       <link>https://www.mandarinai.lt/post/92260</link>
@@ -81,6 +65,15 @@
 Віддалене керування перехоплювачами забезпечує максимальну безпеку операторів і дозволяє масштабувати захист неба без прив’язки до лінії фронту. </description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_20-04-01.mp4" length="101672" type="video/mp4"/>
       <pubDate>Sun, 03 May 2026 20:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Дрони атакували Москву за кіл</title>
+      <link>https://www.mandarinai.lt/post/92271</link>
+      <description>💥Дрони атакували Москву за кілька днів до параду путіна.
+
+Безпілотник впав на вулиці Мосфільмівській за 5 км від Кремля.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_01-14-09.jpg" length="136732" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 01:14:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
