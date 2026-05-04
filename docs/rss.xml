@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 18:08:00 +0000</lastBuildDate>
-    <item>
-      <title>🤝Берлін повністю заборонить ра</title>
-      <link>https://www.mandarinai.lt/post/92295</link>
-      <description>🤝Берлін повністю заборонить радянські, російські та білоруські прапори на 8 і 9 травня
-
-❌Прапори СРСР, росії, Білорусі та Чечні;
-Георгіївські стрічки;
- Символи «Z» і «V»;
-Зображення путіна, Лукашенка та Кадирова;
-Російські та радянські військові марші та пісні;
-Військову форму та знаки розрізнення;
- Символіку, що прославляє війну проти України.
-
-✅Заборона на політичну пропаганду не поширюється на символіку України. Таке рішення стало можливим завдяки позову українських громадських організацій, які домоглися чіткого винятку для прапорів країни, що є жертвою агресії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_14-05-28.jpg" length="143262" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 14:05:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Вибухи в Дубаї, працює ППО вп</title>
-      <link>https://www.mandarinai.lt/post/92296</link>
-      <description>💥Вибухи в Дубаї, працює ППО вперше після перемир'я.
-
-Перед цим Іран зухвало виклав відео із запуском ракет</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-04_15-25-27.mp4" length="1209966" type="video/mp4"/>
-      <pubDate>Mon, 04 May 2026 15:25:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 20:08:06 +0000</lastBuildDate>
     <item>
       <title>💥Іран завдав ракетного удару п</title>
       <link>https://www.mandarinai.lt/post/92298</link>
@@ -99,6 +73,28 @@
       <description>🥴Так напередодні парада в Москві російський вертоліт намагається наздогнати український дрон.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-04_18-03-18.mp4" length="279844" type="video/mp4"/>
       <pubDate>Mon, 04 May 2026 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Москві знайшли застреленим</title>
+      <link>https://www.mandarinai.lt/post/92309</link>
+      <description>⚡️У Москві знайшли застреленим генерала-полковника Станіслава Пєтрова, який раніше командував військами радіаційного, хімічного та біологічного захисту ЗС рф, — росЗМІ
+
+Поруч з його тілом знайшли пістолет.
+
+Останні роки Пєтров був головним науковим співробітником відділу, який займався бойовими хімічними речовини і який пов'язують з отруєнням Навального</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_18-31-59.jpg" length="164901" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 18:31:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗣путін "дуже переживає за свій</title>
+      <link>https://www.mandarinai.lt/post/92310</link>
+      <description>🗣путін "дуже переживає за свій парад" у Москві, а тому не лише оголосив "перемир’я", а ще й лякає ударами по Києву, — керівник ЦПД Коваленко
+
+"Таке враження, що раніше вони не наносили ударів по столиці України, по цивільному населенню. Щодня удари по цивільних містах, постійні атаки, ракети, дрони запускають по Києву, вбивають людей, дітей, і вічно брешуть".
+
+🔗 Сайт</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_18-43-07.jpg" length="178508" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 18:43:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
