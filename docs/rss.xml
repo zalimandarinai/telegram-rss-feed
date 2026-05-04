@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 01:26:56 +0000</lastBuildDate>
-    <item>
-      <title>💥У Башкортостані, недалеко від</title>
-      <link>https://www.mandarinai.lt/post/92260</link>
-      <description>💥У Башкортостані, недалеко від Уфи, раптово стався вибух на нафтобазі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-03_16-42-12.mp4" length="177020" type="video/mp4"/>
-      <pubDate>Sun, 03 May 2026 16:42:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 05:21:09 +0000</lastBuildDate>
     <item>
       <title>🤔 Трудових мігрантів в Україні</title>
       <link>https://www.mandarinai.lt/post/92262</link>
@@ -74,6 +67,13 @@
 Безпілотник впав на вулиці Мосфільмівській за 5 км від Кремля.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_01-14-09.jpg" length="136732" type="image/jpeg"/>
       <pubDate>Mon, 04 May 2026 01:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛬 В Москві триває евакуація з </title>
+      <link>https://www.mandarinai.lt/post/92274</link>
+      <description>🛬 В Москві триває евакуація з місця падіння безпілотника, на крилі якого написано «Не чіпати».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-04_02-33-21.jpg" length="109904" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 02:33:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
