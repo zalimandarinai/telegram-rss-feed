@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 09:48:44 +0000</lastBuildDate>
-    <item>
-      <title>💥Момент влучання українського </title>
-      <link>https://www.mandarinai.lt/post/92344</link>
-      <description>💥Момент влучання українського «Фламінго» по заводу російському оборонного заводу ВНИИР-Прогресс</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-05_06-00-49.mp4" length="1612731" type="video/mp4"/>
-      <pubDate>Tue, 05 May 2026 06:00:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 11:07:30 +0000</lastBuildDate>
     <item>
       <title>🤬росія почала нищівні атаки по</title>
       <link>https://www.mandarinai.lt/post/92346</link>
@@ -59,6 +52,22 @@
       <description>💥Україна атакувала обʼєкти ВПК рф у Чебоксарах: ракети «Flamingo» подолали понад 1500 км, – Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-05_09-46-19.mp4" length="1612791" type="video/mp4"/>
       <pubDate>Tue, 05 May 2026 09:46:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ситуація наступна - російські </title>
+      <link>https://www.mandarinai.lt/post/92356</link>
+      <description>Ситуація наступна - російські дрони залітають до Краматорська і палять перші тачки, які трапляються на їхньому маршруті.
+
+🎥 Ірина Рибакова, прес-офіцер 93-ої ОМБР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8690.MP4" length="16847509" type="video/mp4"/>
+      <pubDate>Tue, 05 May 2026 10:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Агентка рф готувала теракт у Ж</title>
+      <link>https://www.mandarinai.lt/post/92357</link>
+      <description>Агентка рф готувала теракт у Житомирі, видаючи себе за поштового кур’єра. Вибуховий пристрій був наповнений цвяхами і болтами для збільшення кількості жертв. Жінку затримали СБУ та Нацполіція.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_11-01-21.jpg" length="130334" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 11:01:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
