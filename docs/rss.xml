@@ -6,68 +6,100 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 13:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:09:59 +0000</lastBuildDate>
     <item>
-      <title>Пуски ракет «Фламінго» по війс</title>
-      <link>https://www.mandarinai.lt/post/92354</link>
-      <description>Пуски ракет «Фламінго» по військовому заводу в Чебоксарах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8693.MP4" length="7041649" type="video/mp4"/>
-      <pubDate>Tue, 05 May 2026 09:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Україна атакувала обʼєкти ВПК</title>
-      <link>https://www.mandarinai.lt/post/92355</link>
-      <description>💥Україна атакувала обʼєкти ВПК рф у Чебоксарах: ракети «Flamingo» подолали понад 1500 км, – Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-05_09-46-19.mp4" length="1612791" type="video/mp4"/>
-      <pubDate>Tue, 05 May 2026 09:46:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ситуація наступна - російські </title>
-      <link>https://www.mandarinai.lt/post/92356</link>
-      <description>Ситуація наступна - російські дрони залітають до Краматорська і палять перші тачки, які трапляються на їхньому маршруті.
+      <title>🔥 Історія Київської Русі у фор</title>
+      <link>https://www.mandarinai.lt/post/92371</link>
+      <description>🔥 Історія Київської Русі у форматі епічного серіалу
+«The First Crown» — це пілотна серія майбутнього історичного серіалу про зародження Київської Русі.
 
-🎥 Ірина Рибакова, прес-офіцер 93-ої ОМБР.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8690.MP4" length="16847509" type="video/mp4"/>
-      <pubDate>Tue, 05 May 2026 10:29:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Агентка рф готувала теракт у Ж</title>
-      <link>https://www.mandarinai.lt/post/92357</link>
-      <description>Агентка рф готувала теракт у Житомирі, видаючи себе за поштового кур’єра. Вибуховий пристрій був наповнений цвяхами і болтами для збільшення кількості жертв. Жінку затримали СБУ та Нацполіція.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_11-01-21.jpg" length="130334" type="image/jpeg"/>
-      <pubDate>Tue, 05 May 2026 11:01:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Бійці «Альфи» СБУ спільно ССО</title>
-      <link>https://www.mandarinai.lt/post/92360</link>
-      <description>🔥Бійці «Альфи» СБУ спільно ССО та СБС уразили НПЗ «Кірішінафтооргсинтез» і нафтоперекачувальну станцію «Кіріши» в Ленінградській області
+Проєкт натхненний реальними подіями української історії та поєднує масштаб, драматургію й атмосферу великих світових саг у стилі Game of Thrones.
 
-Підприємство належить до трійки найбільших нафтопереробних заводів рф та має потужність 21 000 000 нафти на рік — понад 6% від загального обсягу всієї нафтопереробки рф. 
+Українсько-американська команда вже створила незалежний англомовний короткометражний фільм, знятий у Києві. Він демонструє бачення майбутнього серіалу та показує, яким може бути сучасний український історичний проєкт міжнародного рівня.
 
-Триває пожежа. На території нафтоперекачувальної станції пошкоджено резервуар із нафтопродуктами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_11-08-19.jpg" length="52510" type="image/jpeg"/>
-      <pubDate>Tue, 05 May 2026 11:08:19 +0000</pubDate>
+Цього літа команда подає проєкт на фінансування Держкіно, а також представлятиме його на міжнародних кінофестивалях, щоб знайти партнерів для створення повноцінного серіалу.
+
+🎬 Мета — розповісти світові історію Київської Русі як частину української культурної спадщини та показати глибину й силу нашого минулого.
+
+Підтримайте проєкт — підписка, лайк і поширення допомагають українському кіно звучати голосніше у світі 🇺🇦
+👉 https://www.instagram.com/thefirstcrown_series</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_14-05-30.jpg" length="146349" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 14:05:30 +0000</pubDate>
     </item>
     <item>
-      <title>В українців вчаться - ізраїльс</title>
-      <link>https://www.mandarinai.lt/post/92363</link>
-      <description>В українців вчаться - ізраїльський оператор безпілотника наздоганяє FPV-дроном байкерів «Хезболли» в Лівані</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8692.MP4" length="1507898" type="video/mp4"/>
-      <pubDate>Tue, 05 May 2026 11:51:11 +0000</pubDate>
+      <title>⚡️ Іран почав масовану комбіно</title>
+      <link>https://www.mandarinai.lt/post/92372</link>
+      <description>⚡️ Іран почав масовану комбіновану атаку на ОАЕ: одночасно запустив балістику, крилаті ракети і дрони, — ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_14-35-35.jpg" length="98140" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 14:35:35 +0000</pubDate>
     </item>
     <item>
-      <title>😳У Вінниці чоловік втік від ТЦ</title>
-      <link>https://www.mandarinai.lt/post/92364</link>
-      <description>😳У Вінниці чоловік втік від ТЦК на дах магазину і вимагає викликати поліцію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-05_12-26-49.mp4" length="235912" type="video/mp4"/>
-      <pubDate>Tue, 05 May 2026 12:26:49 +0000</pubDate>
+      <title>🤬рф вдарила КАБом по Запоріжжю</title>
+      <link>https://www.mandarinai.lt/post/92373</link>
+      <description>🤬рф вдарила КАБом по Запоріжжю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-05_14-45-45.mp4" length="357434" type="video/mp4"/>
+      <pubDate>Tue, 05 May 2026 14:45:45 +0000</pubDate>
     </item>
     <item>
-      <title>💥В російському Оренбурзі рапто</title>
-      <link>https://www.mandarinai.lt/post/92365</link>
-      <description>💥В російському Оренбурзі раптово вибухнула ТЕЦ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-05_12-30-23.mp4" length="921805" type="video/mp4"/>
-      <pubDate>Tue, 05 May 2026 12:30:23 +0000</pubDate>
+      <title>🤬русня скаженіє - щойно вдарил</title>
+      <link>https://www.mandarinai.lt/post/92374</link>
+      <description>🤬русня скаженіє - щойно вдарили авіаційною бомбою по центру Краматорська, є загиблі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-05_14-48-38.mp4" length="502198" type="video/mp4"/>
+      <pubDate>Tue, 05 May 2026 14:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кремлівський диктатор дедалі с</title>
+      <link>https://www.mandarinai.lt/post/92376</link>
+      <description>Кремлівський диктатор дедалі слабшає і ховається таємному бункері на території Краснодарського краю від свого оточення, в якому він бачить загрозу для себе, — доповідь однієї з європейських розвідкок, опублікована CNN та іншими агентствами.
+
+Зазначається, що на путінське крісло претендує Сергій Шойгу, що виглядає щонайменше дивно, враховуючи близькі стосунки.
+
+Схоже, росіяни знову проводять якусь інформаційну психологічну операцію з метою виявити нелояльних персонажів в російській політиці, а «вкид» про путіна і шойгу є її частиною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_15-25-12.jpg" length="113857" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 15:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️5 загиблих: у Краматорську н</title>
+      <link>https://www.mandarinai.lt/post/92377</link>
+      <description>❗️5 загиблих: у Краматорську на Донеччині триває рятувальна операція на місці російського удару авіабомбами, — Зеленський
+
+⁃ Вдарили просто по центру міста, по людях. Станом на зараз відомо щонайменше про п’ятьох поранених та п’ятьох убитих людей. Щирі співчуття рідним і близьким. На жаль, кількість жертв може стати більшою. Зараз на місці працюють усі служби: рятувальники, медики – надають допомогу людям</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_15-51-51.jpg" length="264048" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 15:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наступ росіян на позиції 37-ої</title>
+      <link>https://www.mandarinai.lt/post/92380</link>
+      <description>Наступ росіян на позиції 37-ої бригади морської піхоти в районі Олександрівки не досяг жодних результатів, просування ворожої армії за квітень 0.0 км². 
+
+Ціна спроб наступу для ворога склала 274 окупанти, 3 танки, 3 артсистеми, БМП та 16 одиниць техніки. 
+
+Збито та подавлено 135 БПЛА противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8704.MP4" length="22673473" type="video/mp4"/>
+      <pubDate>Tue, 05 May 2026 16:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️❗️❗️ «На жаль, кількість заг</title>
+      <link>https://www.mandarinai.lt/post/92381</link>
+      <description>❗️❗️❗️ «На жаль, кількість загиблих через ворожу атаку зросла, росіяни обірвали життя 12 людей. Щирі співчуття рідним загиблих», - глава Запорізької ОВА Федоров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_16-15-36.jpg" length="136765" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 16:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Шостий день горить атакована </title>
+      <link>https://www.mandarinai.lt/post/92382</link>
+      <description>🔥Шостий день горить атакована нафтоперекачувальна станція під Перм'ю
+
+Згідно зі супутниковими знімками, опублікованими "Радіо Свобода" станом на 13:00 5 травня, шість резервуарів з нафтою були знищені вогнем. Чотири резервуари в південній частині станції залишилися неушкодженими.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_16-27-04.jpg" length="156879" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 16:27:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Польща планує побудувати пла</title>
+      <link>https://www.mandarinai.lt/post/92384</link>
+      <description>❗️Польща планує побудувати платну трасу до Львова, гроші з якої забиратимуть до свого бюджету, — Forsal</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-05_16-47-22.jpg" length="123934" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 16:47:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
