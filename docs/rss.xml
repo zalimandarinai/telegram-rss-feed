@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 19:16:12 +0000</lastBuildDate>
-    <item>
-      <title>🔴Навколо Москви посилюють кіль</title>
-      <link>https://www.mandarinai.lt/post/92428</link>
-      <description>🔴Навколо Москви посилюють кільця ППО, стягуючи системи з регіонів — у РФ більше переживають за парад, ніж за всю країну — це відкриває додаткові можливості для наших далекобійних санкцій. Будуть визначені відповідні наші пріоритети, — Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-06_13-53-39.jpg" length="268732" type="image/jpeg"/>
-      <pubDate>Wed, 06 May 2026 13:53:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 20:59:43 +0000</lastBuildDate>
     <item>
       <title>Є телеграм-канал «Жити назустр</title>
       <link>https://www.mandarinai.lt/post/92429</link>
@@ -37,7 +30,7 @@
 
 TikTok заблокував офіційний акаунт коледжу "Алабуга-Політех" при заводі з виробництва дронів "шахід". Також було видалено кілька відео інших авторів, які рекламували збирання дронів у цьому коледжі, звернули увагу в проекті "AlabugaGate", який займався складанням списку таких інтеграцій. 
 
-Раніше Twitch щаблокував як мінімум 15 російських стримерів із загальною аудиторією близько 5 мільйонів людей за рекламу кіберспортивного турніру, пов'язаного з "Алабуга-Політех". Після цього Україна заявила, що чекає аналогічних дій від YouTube і Google.</description>
+Раніше Twitch заблокував як мінімум 15 російських стримерів із загальною аудиторією близько 5 мільйонів людей за рекламу кіберспортивного турніру, пов'язаного з "Алабуга-Політех". Після цього Україна заявила, що чекає аналогічних дій від YouTube і Google.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-06_15-41-29.jpg" length="42215" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 15:41:29 +0000</pubDate>
     </item>
@@ -126,6 +119,13 @@ TikTok заблокував офіційний акаунт коледжу "Ал
       <description>❗️МЗС рф закликало іноземні держави заздалегідь евакуювати (!) з Києва своїх громадян і дипломатів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-06_19-10-42.mp4" length="7596240" type="video/mp4"/>
       <pubDate>Wed, 06 May 2026 19:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>В тимчасово окупованому Армянс</title>
+      <link>https://www.mandarinai.lt/post/92443</link>
+      <description>В тимчасово окупованому Армянську в Криму після нічного удару дронів пошкоджено будівлю, яку пов’язують із фсб росії, - «Мілітарний»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-06_19-58-53.jpg" length="30237" type="image/jpeg"/>
+      <pubDate>Wed, 06 May 2026 19:58:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
