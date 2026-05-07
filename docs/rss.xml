@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 10:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 12:24:01 +0000</lastBuildDate>
     <item>
       <title>⚡️ Рустем Умєров цього тижня в</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,13 +20,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>😐 Я думав, що ціни на нафту злетять до 200–250 доларів за барель. Зараз вони на рівні 100 доларів, але навіть 200 доларів були б того варті, — Трамп.</description>
       <pubDate>Thu, 07 May 2026 07:12:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥У російській Пермі знову ата</title>
-      <link>https://www.mandarinai.lt/post/92458</link>
-      <description>💥🔥У російській Пермі знову атакована нафтоперекачувальна станція</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-07_07-55-43.mp4" length="369638" type="video/mp4"/>
-      <pubDate>Thu, 07 May 2026 07:55:43 +0000</pubDate>
     </item>
     <item>
       <title>‼️Трамп і Сі Цзіньпін можуть у</title>
@@ -65,6 +58,15 @@
 🔹 Чернігівщина - один персонаж поширив координати блокпостів та маршрути переміщення поліцейських патрулів, а інший розповсюджував напрямки руху мобільних груп ТЦК.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-07_10-10-35.jpg" length="153371" type="image/jpeg"/>
       <pubDate>Thu, 07 May 2026 10:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩русня по федеральних каналах </title>
+      <link>https://www.mandarinai.lt/post/92475</link>
+      <description>💩русня по федеральних каналах вже розповідає, куди скерує ракети, у разі атаки ЗСУ на парад в Москві 9 травня.
+
+Погрожують вдарити по урядовому кварталу на Печерських пагорбах, де знаходяться будівлі Кабміну, Верховної Ради, Офісу президента, а також дипломатичні представництва багатьох країн.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-07_11-16-24.mp4" length="6120029" type="video/mp4"/>
+      <pubDate>Thu, 07 May 2026 11:16:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
