@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 17:28:45 +0000</lastBuildDate>
-    <item>
-      <title>💩русня по федеральних каналах </title>
-      <link>https://www.mandarinai.lt/post/92475</link>
-      <description>💩русня по федеральних каналах вже розповідає, куди скерує ракети, у разі атаки ЗСУ на парад в Москві 9 травня.
-
-Погрожують вдарити по урядовому кварталу на Печерських пагорбах, де знаходяться будівлі Кабміну, Верховної Ради, Офісу президента, а також дипломатичні представництва багатьох країн.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-07_11-16-24.mp4" length="6120029" type="video/mp4"/>
-      <pubDate>Thu, 07 May 2026 11:16:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 19:21:13 +0000</lastBuildDate>
     <item>
       <title>Двох колишніх міністрів оборон</title>
       <link>https://www.mandarinai.lt/post/92477</link>
@@ -77,6 +68,19 @@
       <description>Московські аеропорти паралізовані дронами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2528.mp4" length="5705176" type="video/mp4"/>
       <pubDate>Thu, 07 May 2026 17:21:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛫❗️➡️  Дрон "Лютий" летить над</title>
+      <link>https://www.mandarinai.lt/post/92490</link>
+      <description>🛫❗️➡️  Дрон "Лютий" летить над мисом Фіолент біля окупованого Севастополя в напрямку Балаклави</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5022.MOV" length="2805865" type="video/mp4"/>
+      <pubDate>Thu, 07 May 2026 18:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «Ваша країна вбила 30 цивіл</title>
+      <link>https://www.mandarinai.lt/post/92491</link>
+      <description>❗️ «Ваша країна вбила 30 цивільних за останні 24 години. Чому ви використовуєте мистецтво, щоб прикрити свої злочини?» – журналіст Каолан Робертсон атакував запитаннями російського посла на Венеціанській бієнале</description>
+      <pubDate>Thu, 07 May 2026 18:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
