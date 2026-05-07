@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 15:22:27 +0000</lastBuildDate>
-    <item>
-      <title>🤬На Чернігівщині через обстріл</title>
-      <link>https://www.mandarinai.lt/post/92470</link>
-      <description>🤬На Чернігівщині через обстріли масштабна пожежа в лісах на кордоні з рф. Горить вже понад 2400 гектарів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-07_09-29-43.mp4" length="1520697" type="video/mp4"/>
-      <pubDate>Thu, 07 May 2026 09:29:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Три «блогери» зливали позиції </title>
-      <link>https://www.mandarinai.lt/post/92471</link>
-      <description>Три «блогери» зливали позиції Сил оборони у соцмережах, їх затримано СБУ 
-
-🔹 Краматорськ - місцевий житель на власній сторінці у ТікТок «підсвічував» маршрути руху військових колон.
-
-🔹 Чернігівщина - один персонаж поширив координати блокпостів та маршрути переміщення поліцейських патрулів, а інший розповсюджував напрямки руху мобільних груп ТЦК.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-07_10-10-35.jpg" length="153371" type="image/jpeg"/>
-      <pubDate>Thu, 07 May 2026 10:10:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 17:28:45 +0000</lastBuildDate>
     <item>
       <title>💩русня по федеральних каналах </title>
       <link>https://www.mandarinai.lt/post/92475</link>
@@ -72,6 +54,29 @@
       <description>⚡️ Уражено малий ракетний корабель проєкту 22800 «Каракурт», який має можливості для запуску ракет «‎Калібр», він знаходився в районі пункту базування в Дагестані на Каспійському морі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-07_13-18-52.jpg" length="73894" type="image/jpeg"/>
       <pubDate>Thu, 07 May 2026 13:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>💔 У Краматорську мати з дитино</title>
+      <link>https://www.mandarinai.lt/post/92485</link>
+      <description>💔 У Краматорську мати з дитиною ховаються під деревом, поки над містом літають ворожі FPV-дрони.
+
+А наприкінці — ще й три КАБи пролетіли просто над головою…
+
+Відео Ян Доброносов</description>
+      <pubDate>Thu, 07 May 2026 15:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Деякі країни, близькі до росії</title>
+      <link>https://www.mandarinai.lt/post/92486</link>
+      <description>Деякі країни, близькі до росії, збираються приїхати на парад до Москви. Ми не рекомендуємо, – заінтригував Зеленський у вечірньому зверненні</description>
+      <pubDate>Thu, 07 May 2026 16:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Московські аеропорти паралізов</title>
+      <link>https://www.mandarinai.lt/post/92487</link>
+      <description>Московські аеропорти паралізовані дронами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2528.mp4" length="5705176" type="video/mp4"/>
+      <pubDate>Thu, 07 May 2026 17:21:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
