@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 20:54:15 +0000</lastBuildDate>
-    <item>
-      <title>❗️ росія вже розпочала свій ве</title>
-      <link>https://www.mandarinai.lt/post/92481</link>
-      <description>❗️ росія вже розпочала свій весняно-літній наступ, бронетехніка майже не використовується, — начальник управління комунікації Об’єднаних сил Трегубов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-07_13-13-02.jpg" length="168509" type="image/jpeg"/>
-      <pubDate>Thu, 07 May 2026 13:13:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 21:42:59 +0000</lastBuildDate>
     <item>
       <title>⚡️ Уражено малий ракетний кора</title>
       <link>https://www.mandarinai.lt/post/92483</link>
@@ -62,6 +55,13 @@
       <link>https://www.mandarinai.lt/post/92494</link>
       <description>В Краматорську рятувальники врятували жінку з-під уламків будинку після російського авіаудару по житловій забудові міста</description>
       <pubDate>Thu, 07 May 2026 20:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔 Схоже, Україна не збирається</title>
+      <link>https://www.mandarinai.lt/post/92495</link>
+      <description>🤔 Схоже, Україна не збирається дотримуватися «путінського перемир’я», яке щойно почалося: прямо зараз у бік Москви та регіонів рф летить друга хвиля з близько 270 ударних БПЛА.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-07_21-01-44.jpg" length="132618" type="image/jpeg"/>
+      <pubDate>Thu, 07 May 2026 21:01:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
