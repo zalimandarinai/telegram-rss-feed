@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 20:00:58 +0000</lastBuildDate>
-    <item>
-      <title>💥 Реактивна система «HIMARS» з</title>
-      <link>https://www.mandarinai.lt/post/92547</link>
-      <description>💥 Реактивна система «HIMARS» завдала удар по «Ростов-Контроль» - диспетчерському центру управління повітряним рухом в Ростовські області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-08_16-12-38.mp4" length="3224307" type="video/mp4"/>
-      <pubDate>Fri, 08 May 2026 16:12:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 May 2026 21:45:17 +0000</lastBuildDate>
     <item>
       <title>💥Генштаб підтвердив удар по “З</title>
       <link>https://www.mandarinai.lt/post/92552</link>
@@ -92,9 +85,20 @@
     <item>
       <title>«А нам не потрібен ніякий дозв</title>
       <link>https://www.mandarinai.lt/post/92561</link>
-      <description>«А нам не потрібен ніякий дозвіл, щоб пишатися днем перемоги», - вуси речника Пєскова сумно обвисли</description>
+      <description>«А нам не потрібен ніякий дозвіл, щоб пишатися днем перемоги», - пєсков, судячи з червоної пики, схоже, вже почав святкувати.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8759.MP4" length="6153465" type="video/mp4"/>
       <pubDate>Fri, 08 May 2026 19:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Франції затримали уродженця </title>
+      <link>https://www.mandarinai.lt/post/92563</link>
+      <description>У Франції затримали уродженця Донецька Євгенія Бражникова, якого Україна підозрює у роботі на «МДБ ДНР» та участі у тортурах в катівні «Ізоляція».
+
+В 2017-2019 роках він був помічником керівника катівні, де утримувались військовополонені та противники окупації.
+
+Бражников чомусь потрапив у списки полонених і опинився на підконтрольній території під час обміну в 2019-му році, був під домашнім арештом, а в 2021-му році виїхав до Франції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-08_21-04-14.jpg" length="29976" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 21:04:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
