@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 04:45:27 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Уражено малий ракетний кора</title>
-      <link>https://www.mandarinai.lt/post/92483</link>
-      <description>⚡️ Уражено малий ракетний корабель проєкту 22800 «Каракурт», який має можливості для запуску ракет «‎Калібр», він знаходився в районі пункту базування в Дагестані на Каспійському морі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-07_13-18-52.jpg" length="73894" type="image/jpeg"/>
-      <pubDate>Thu, 07 May 2026 13:18:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>💔 У Краматорську мати з дитино</title>
-      <link>https://www.mandarinai.lt/post/92485</link>
-      <description>💔 У Краматорську мати з дитиною ховаються під деревом, поки над містом літають ворожі FPV-дрони.
-
-А наприкінці — ще й три КАБи пролетіли просто над головою…
-
-Відео Ян Доброносов</description>
-      <pubDate>Thu, 07 May 2026 15:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Деякі країни, близькі до росії</title>
-      <link>https://www.mandarinai.lt/post/92486</link>
-      <description>Деякі країни, близькі до росії, збираються приїхати на парад до Москви. Ми не рекомендуємо, – заінтригував Зеленський у вечірньому зверненні</description>
-      <pubDate>Thu, 07 May 2026 16:30:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 May 2026 06:25:43 +0000</lastBuildDate>
     <item>
       <title>Московські аеропорти паралізов</title>
       <link>https://www.mandarinai.lt/post/92487</link>
@@ -62,6 +39,29 @@
       <description>🤔 Схоже, Україна не збирається дотримуватися «путінського перемир’я», яке щойно почалося: прямо зараз у бік Москви та регіонів рф летить друга хвиля з близько 270 ударних БПЛА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-07_21-01-44.jpg" length="132618" type="image/jpeg"/>
       <pubDate>Thu, 07 May 2026 21:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Іраном — керують лунатики, ц</title>
+      <link>https://www.mandarinai.lt/post/92496</link>
+      <description>👀 Іраном — керують лунатики, це ненормальна країна. Підписати угоду треба швидко, — Трамп відреагував на взаємні атаки між країнами
+
+Також президент США традиційно заявив, що якби у Тегерана була ядерна зброя, то він би її використав.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-08_05-01-37.jpg" length="240069" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 05:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В російському Ярославлі було </title>
+      <link>https://www.mandarinai.lt/post/92498</link>
+      <description>💥В російському Ярославлі було атаковано НПЗ "ЯНОС" — один з найбільших нафтопереробних заводів рф.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-08_05-06-35.mp4" length="604197" type="video/mp4"/>
+      <pubDate>Fri, 08 May 2026 05:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 У Ростові удар атакований ЗА</title>
+      <link>https://www.mandarinai.lt/post/92500</link>
+      <description>🔥 У Ростові удар атакований ЗАТ "Ростовагропромзапчасть", яке займається виробництвом і ремонтом технічного  обладнання для ВПК рф.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-08_05-11-30.jpg" length="95597" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 05:11:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
