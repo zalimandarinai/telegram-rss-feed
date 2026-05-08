@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 06:25:43 +0000</lastBuildDate>
-    <item>
-      <title>Московські аеропорти паралізов</title>
-      <link>https://www.mandarinai.lt/post/92487</link>
-      <description>Московські аеропорти паралізовані дронами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2528.mp4" length="5705176" type="video/mp4"/>
-      <pubDate>Thu, 07 May 2026 17:21:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛫❗️➡️  Дрон "Лютий" летить над</title>
-      <link>https://www.mandarinai.lt/post/92490</link>
-      <description>🛫❗️➡️  Дрон "Лютий" летить над мисом Фіолент біля окупованого Севастополя в напрямку Балаклави</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5022.MOV" length="2805865" type="video/mp4"/>
-      <pubDate>Thu, 07 May 2026 18:03:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ «Ваша країна вбила 30 цивіл</title>
-      <link>https://www.mandarinai.lt/post/92491</link>
-      <description>❗️ «Ваша країна вбила 30 цивільних за останні 24 години. Чому ви використовуєте мистецтво, щоб прикрити свої злочини?» – журналіст Каолан Робертсон атакував запитаннями російського посла на Венеційській бієнале</description>
-      <pubDate>Thu, 07 May 2026 18:59:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 May 2026 08:15:29 +0000</lastBuildDate>
     <item>
       <title>В Краматорську рятувальники вр</title>
       <link>https://www.mandarinai.lt/post/92494</link>
@@ -57,11 +37,29 @@
       <pubDate>Fri, 08 May 2026 05:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>🔥 У Ростові удар атакований ЗА</title>
+      <title>🔥 У Ростові атакований ЗАТ "Ро</title>
       <link>https://www.mandarinai.lt/post/92500</link>
-      <description>🔥 У Ростові удар атакований ЗАТ "Ростовагропромзапчасть", яке займається виробництвом і ремонтом технічного  обладнання для ВПК рф.</description>
+      <description>🔥 У Ростові атакований ЗАТ "Ростовагропромзапчасть", яке займається виробництвом і ремонтом технічного  обладнання для ВПК рф.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-08_05-11-30.jpg" length="95597" type="image/jpeg"/>
       <pubDate>Fri, 08 May 2026 05:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡У Чорнобильській зоні спалахн</title>
+      <link>https://www.mandarinai.lt/post/92502</link>
+      <description>😡У Чорнобильській зоні спалахнула масштабна лісова пожежа: вогонь уже охопив понад 1100 га, — ДСНС. 
+
+Через сильний вітер полум’я швидко поширюється, рятувальники працюють у посиленому режимі.
+
+Вітер і дим зараз в бік Білорусі, там вже радять одягати респіратор.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-08_07-35-07.jpg" length="242366" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 07:35:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У Грозному українські безпіло</title>
+      <link>https://www.mandarinai.lt/post/92505</link>
+      <description>💥У Грозному українські безпілотники атакували район Ханкали, де розташована одна з найбільших російських військових баз, а також площу біля залізничного вокзалу поруч із будівлею УФСБ по Чечні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-08_07-36-39.mp4" length="1587701" type="video/mp4"/>
+      <pubDate>Fri, 08 May 2026 07:36:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
