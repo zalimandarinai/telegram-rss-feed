@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 18:40:42 +0000</lastBuildDate>
-    <item>
-      <title>🤡🔴У тристоронніх переговорах щ</title>
-      <link>https://www.mandarinai.lt/post/92589</link>
-      <description>🤡🔴У тристоронніх переговорах щодо України взята пауза, Київ знає, "що потрібно зробити для того, щоб наступний раунд був успішним", — Ушаков
-
-«Поки що взята пауза. І про наступний раунд не досягнуто згоди... Переговори, напевно, відновляться, але коли — поки незрозуміло. Зрозуміло, що кожна сторона повинна зробити перед наступним раундом переговорів. Кожна сторона, я маю на увазі в першу чергу, звичайно, українська сторона. І вона знає, що потрібно зробити для того, щоб наступний раунд був успішним», — заявив ушаков</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_11-30-12.jpg" length="80395" type="image/jpeg"/>
-      <pubDate>Sat, 09 May 2026 11:30:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🕯Внаслідок російської атаки 8 </title>
-      <link>https://www.mandarinai.lt/post/92590</link>
-      <description>🕯Внаслідок російської атаки 8 травня загинув заступник голови Краматорської РДА Роман Сімашов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_14-12-50.jpg" length="21078" type="image/jpeg"/>
-      <pubDate>Sat, 09 May 2026 14:12:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 09 May 2026 19:47:28 +0000</lastBuildDate>
     <item>
       <title>🤦‍♂️ Сьогодні в німецькому міс</title>
       <link>https://www.mandarinai.lt/post/92593</link>
@@ -65,6 +49,23 @@
       <description>🤬путін намагається зірвати обмін полоненими, перекладаючи провину на Україну та заявляючи про її «неготовність»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8776.MP4" length="14976152" type="video/mp4"/>
       <pubDate>Sat, 09 May 2026 18:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐵 "Мы же договорились с украин</title>
+      <link>https://www.mandarinai.lt/post/92603</link>
+      <description>🐵 "Мы же договорились с украинцами в 2022 году в Стамбуле. Макрон позвонил мне в 2022 году и сказал, что Украина не может подписывать документы в Стамбуле “с пистолетом у виска”, у нас запись разговора сохранена, и попросил отвести войска от Киева", — путін.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-09_18-47-52.mp4" length="3714761" type="video/mp4"/>
+      <pubDate>Sat, 09 May 2026 18:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>— Это мой сын, он без вести пр</title>
+      <link>https://www.mandarinai.lt/post/92605</link>
+      <description>— Это мой сын, он без вести пропал в Украине.
+— Так у вас получается двойной праздник. Поздравляю! 
+
+Двойной празднік! В єбанаріумі все стабільно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-09_19-35-12.mp4" length="5718553" type="video/mp4"/>
+      <pubDate>Sat, 09 May 2026 19:35:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
