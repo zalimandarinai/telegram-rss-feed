@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 16:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 17:38:59 +0000</lastBuildDate>
     <item>
       <title>❗️Українські військові беруть </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,13 +20,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Чорношкірий найманець зустрівся не з путіним на Червоній площі, а з українським дроном біля Покровська.</description>
       <pubDate>Sat, 09 May 2026 09:09:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Ліквідувати високопосадовця В</title>
-      <link>https://www.mandarinai.lt/post/92584</link>
-      <description>😡Ліквідувати високопосадовця ВМС ЗСУ до «річниці 9 травня» намагався агент рф — СБУ зірвала теракт в Одесі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_10-44-20.jpg" length="106738" type="image/jpeg"/>
-      <pubDate>Sat, 09 May 2026 10:44:20 +0000</pubDate>
     </item>
     <item>
       <title>Російський флаговтик проти укр</title>
@@ -57,6 +50,15 @@
       <description>🤦‍♂️ Сьогодні в німецькому місті Аугсбург пропагандистських акція «Безсмертний полк» пройшла з.... портретами Степана Бандери, Василя Малюка і Миколи Хвильового, - «зачьотний тролінг» організувала моя неймовірна однокласниця Olga Kotlytska та група українських активістів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_14-52-49.jpg" length="123606" type="image/jpeg"/>
       <pubDate>Sat, 09 May 2026 14:52:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ліквідація «ждуна» на сільські</title>
+      <link>https://www.mandarinai.lt/post/92599</link>
+      <description>Ліквідація «ждуна» на сільській дорозі в Сумській області, - 210-ий полк.
+
+Чисто. Можна їхати</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8774.MP4" length="16794382" type="video/mp4"/>
+      <pubDate>Sat, 09 May 2026 17:09:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
