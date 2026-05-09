@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 04:57:39 +0000</lastBuildDate>
-    <item>
-      <title>💥Генштаб підтвердив удар по “З</title>
-      <link>https://www.mandarinai.lt/post/92552</link>
-      <description>💥Генштаб підтвердив удар по “Заводу ім. Я.М. Свердлова” у Дзержинську
-
-Підприємство здійснює спорядження практично всіх видів боєприпасів – авіаційних та артилерійських снарядів, бойових частин протитанкових керованих ракет, боєприпасів для інженерних військ тощо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-08_16-55-23.jpg" length="223798" type="image/jpeg"/>
-      <pubDate>Fri, 08 May 2026 16:55:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 09 May 2026 07:03:34 +0000</lastBuildDate>
     <item>
       <title>Київський режим сьогодні здійс</title>
       <link>https://www.mandarinai.lt/post/92553</link>
@@ -99,6 +90,24 @@
 Бражников чомусь потрапив у списки полонених і опинився на підконтрольній території під час обміну в 2019-му році, був під домашнім арештом, а в 2021-му році виїхав до Франції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-08_21-04-14.jpg" length="29976" type="image/jpeg"/>
       <pubDate>Fri, 08 May 2026 21:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Попри оголошене перемир'я, рос</title>
+      <link>https://www.mandarinai.lt/post/92566</link>
+      <description>Попри оголошене перемир'я, росія завдала удару по Україні балістичною ракетою "Іскандер-М" та 43 ударними дронами — Повітряні сили оприлюднюють звіт за ніч
+
+Зафіксовано влучання ракети і 9 ударних дронів на 6 локаціях, а також падіння збитих уламків на 2 локаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_05-51-36.jpg" length="80501" type="image/jpeg"/>
+      <pubDate>Sat, 09 May 2026 05:51:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Двоє людей загинули, ще є по</title>
+      <link>https://www.mandarinai.lt/post/92567</link>
+      <description>⚡️Двоє людей загинули, ще є поранені. Майже 20 разів ворог атакував два райони області артилерією та безпілотниками, — ОВА
+
+При цьому не уточнюється, сталося це до чи після онолошеного перемир’я</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_06-04-47.jpg" length="107410" type="image/jpeg"/>
+      <pubDate>Sat, 09 May 2026 06:04:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
