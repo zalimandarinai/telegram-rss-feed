@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 17:38:59 +0000</lastBuildDate>
-    <item>
-      <title>❗️Українські військові беруть </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️Українські військові беруть участь у масштабних навчаннях Aurora 2026 у Швеції разом із представниками 18 країн та НАТО.
-
-🔸Особливо цікавить партнерів викликає бойовий досвід Сил оборони України у застосуванні FPV-дронів, протидії повітряним загрозам та сучасній тактиці бою. У Міноборони Швеції заявили, що знання українських операторів БПЛА вже знаходять практичне застосування.</description>
-      <pubDate>Sat, 09 May 2026 09:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Чорношкірий найманець зустрівс</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Чорношкірий найманець зустрівся не з путіним на Червоній площі, а з українським дроном біля Покровська.</description>
-      <pubDate>Sat, 09 May 2026 09:09:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російський флаговтик проти укр</title>
-      <link>https://www.mandarinai.lt/post/92588</link>
-      <description>Російський флаговтик проти українського дрона - результат передбачуваний, особливо, якщо оператор знайомий з інженерією будівництва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQOXqFkf0bjuEC1WA3t201DwS5v33EKEJuq4C4ydU1ymT0TjyVopNRORORhZhE1.mp4" length="16863093" type="video/mp4"/>
-      <pubDate>Sat, 09 May 2026 11:25:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 09 May 2026 18:40:42 +0000</lastBuildDate>
     <item>
       <title>🤡🔴У тристоронніх переговорах щ</title>
       <link>https://www.mandarinai.lt/post/92589</link>
@@ -59,6 +38,33 @@
 Чисто. Можна їхати</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8774.MP4" length="16794382" type="video/mp4"/>
       <pubDate>Sat, 09 May 2026 17:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Роми штурмують ТЦК на Закарпа</title>
+      <link>https://www.mandarinai.lt/post/92600</link>
+      <description>👀Роми штурмують ТЦК на Закарпатті — працівники відкрили вогонь
+
+Інцидент стався в Міжгір'ї (Закарпатська область). ТЦК мобілізував місцевого представника ромської громади, після чого 30 людей зібралися біля будівлі, почали виламувати двері і намагалися проникнути всередину ТЦК. 
+
+Було чутно щонайменше  4 постріли</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-09_17-43-52.mp4" length="1564532" type="video/mp4"/>
+      <pubDate>Sat, 09 May 2026 17:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ймовірність припинення вогню в</title>
+      <link>https://www.mandarinai.lt/post/92601</link>
+      <description>Ймовірність припинення вогню в Україні у 2026 році оцінюється майже в 99%, — Polymarket
+
+Ще вчора прогноз був на рівні 28%.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_18-02-20.jpg" length="38004" type="image/jpeg"/>
+      <pubDate>Sat, 09 May 2026 18:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬путін намагається зірвати обм</title>
+      <link>https://www.mandarinai.lt/post/92602</link>
+      <description>🤬путін намагається зірвати обмін полоненими, перекладаючи провину на Україну та заявляючи про її «неготовність»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8776.MP4" length="14976152" type="video/mp4"/>
+      <pubDate>Sat, 09 May 2026 18:20:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
