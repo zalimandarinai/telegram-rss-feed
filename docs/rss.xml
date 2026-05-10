@@ -6,41 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 14:14:01 +0000</lastBuildDate>
-    <item>
-      <title>Ймовірність припинення вогню в</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Ймовірність припинення вогню в Україні у 2026 році оцінюється майже в 99%, — Polymarket
-
-Ще вчора прогноз був на рівні 28%.</description>
-      <pubDate>Sat, 09 May 2026 18:02:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤯 У Львові чоловік, побачивши </title>
-      <link>https://www.mandarinai.lt/post/92607</link>
-      <description>🤯 У Львові чоловік, побачивши ТЦК, взяв у заручники 13-річну дівчинку, приставивши ніж до її шиї, — Нацполіція
-
-43-річний львів’янин розпилив сльозогінний газ та схопив дівчинку. Поліція і ТЦК затримали чоловіка. 
-
-Дитина не постраждала.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_20-44-42.jpg" length="240492" type="image/jpeg"/>
-      <pubDate>Sat, 09 May 2026 20:44:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡росія знову порушила перемир'</title>
-      <link>https://www.mandarinai.lt/post/92610</link>
-      <description>😡росія знову порушила перемир'я:
-
-Запоріжжя — 780 ударів росіян по 33 населених пунктах. Загинула одна людина, ще троє поранені.
-
-На Сумщині — внаслідок обстрілів поранена людина.
-
-Дніпропетровщина — під ударом Нікопольщина та Синельниківський район. Постраждала 3-річна дитина.
-
-У Херсоні — атака дрона травмувала 19-річного хлопця (вибухова травма та численні поранення)</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_05-22-40.jpg" length="213152" type="image/jpeg"/>
-      <pubDate>Sun, 10 May 2026 05:22:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 May 2026 15:40:09 +0000</lastBuildDate>
     <item>
       <title>В росії швидко масштабують вир</title>
       <link>https://www.mandarinai.lt/post/92614</link>
@@ -78,6 +44,33 @@
       <description>💥Українські дрони перехоплювачі з безвідкатним дробовиком завзято полює на ворожі БПЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-10_09-34-29.mp4" length="1647325" type="video/mp4"/>
       <pubDate>Sun, 10 May 2026 09:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳🔥В Дубаї з невідомих причин с</title>
+      <link>https://www.mandarinai.lt/post/92623</link>
+      <description>😳🔥В Дубаї з невідомих причин спалахнули одночасно дві розкішні яхти.
+
+Іран ракети не запускав</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_14-53-09.jpg" length="149368" type="image/jpeg"/>
+      <pubDate>Sun, 10 May 2026 14:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>❤️‍🩹'Не візьмуть тебе в штурмо</title>
+      <link>https://www.mandarinai.lt/post/92625</link>
+      <description>❤️‍🩹'Не візьмуть тебе в штурмовікі"
+
+Через постійні російські обстріли українських міст страждають і люди, і тварини. У моменти атак людина стає єдиним захистом для наляканих чотирилапих.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-10_15-15-25.mp4" length="1065532" type="video/mp4"/>
+      <pubDate>Sun, 10 May 2026 15:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️росії знадобляться десятиліт</title>
+      <link>https://www.mandarinai.lt/post/92626</link>
+      <description>❗️росії знадобляться десятиліття, щоб захопити Донбас за нинішніх темпів, — Black Bird Group
+​
+Темпи просування ворога за останні три місяці стали найгіршими з 2023 року. Аналітики вважають, що через брак воєнних успіхів Кремль зміщує фокус на виснаження та політичний тиск.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_15-17-48.jpg" length="47195" type="image/jpeg"/>
+      <pubDate>Sun, 10 May 2026 15:17:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
