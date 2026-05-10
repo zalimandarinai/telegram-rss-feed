@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 15:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 16:38:43 +0000</lastBuildDate>
     <item>
       <title>В росії швидко масштабують вир</title>
       <link>https://www.mandarinai.lt/post/92614</link>
@@ -71,6 +71,13 @@
 Темпи просування ворога за останні три місяці стали найгіршими з 2023 року. Аналітики вважають, що через брак воєнних успіхів Кремль зміщує фокус на виснаження та політичний тиск.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_15-17-48.jpg" length="47195" type="image/jpeg"/>
       <pubDate>Sun, 10 May 2026 15:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺Людину, яка завзято  розпові</title>
+      <link>https://www.mandarinai.lt/post/92628</link>
+      <description>🇷🇺Людину, яка завзято  розповідала путіну в центрі  авиаційних систем про російське виробництво дронів та перспективи конкуренції з Китаєм, екс-гендиректора компанії "Транспорт майбутнього" Юрія Козаренка арештували за шахрайство у великих розмірах, - росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_16-26-24.jpg" length="184978" type="image/jpeg"/>
+      <pubDate>Sun, 10 May 2026 16:26:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
