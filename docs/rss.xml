@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 01:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 05:24:55 +0000</lastBuildDate>
     <item>
       <title>Ліквідація «ждуна» на сільські</title>
       <link>https://www.mandarinai.lt/post/92599</link>
@@ -70,6 +70,21 @@
 Дитина не постраждала.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-09_20-44-42.jpg" length="240492" type="image/jpeg"/>
       <pubDate>Sat, 09 May 2026 20:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡росія знову порушила перемир'</title>
+      <link>https://www.mandarinai.lt/post/92610</link>
+      <description>😡росія знову порушила перемир'я:
+
+Запоріжжя — 780 ударів росіян по 33 населених пунктах. Загинула одна людина, ще троє поранені.
+
+На Сумщині — внаслідок обстрілів поранена людина.
+
+Дніпропетровщина — під ударом Нікопольщина та Синельниківський район. Постраждала 3-річна дитина.
+
+У Херсоні — атака дрона травмувала 19-річного хлопця (вибухова травма та численні поранення)</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_05-22-40.jpg" length="213152" type="image/jpeg"/>
+      <pubDate>Sun, 10 May 2026 05:22:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
