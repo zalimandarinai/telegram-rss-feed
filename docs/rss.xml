@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 05:24:55 +0000</lastBuildDate>
-    <item>
-      <title>Ліквідація «ждуна» на сільські</title>
-      <link>https://www.mandarinai.lt/post/92599</link>
-      <description>Ліквідація «ждуна» на сільській дорозі в Сумській області, - 210-ий полк.
-
-Чисто. Можна їхати</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8774.MP4" length="16794382" type="video/mp4"/>
-      <pubDate>Sat, 09 May 2026 17:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀Роми штурмують ТЦК на Закарпа</title>
-      <link>https://www.mandarinai.lt/post/92600</link>
-      <description>👀Роми штурмують ТЦК на Закарпатті — працівники відкрили вогонь
-
-Інцидент стався в Міжгір'ї (Закарпатська область). ТЦК мобілізував місцевого представника ромської громади, після чого 30 людей зібралися біля будівлі, почали виламувати двері і намагалися проникнути всередину ТЦК. 
-
-Було чутно щонайменше  4 постріли</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-09_17-43-52.mp4" length="1564532" type="video/mp4"/>
-      <pubDate>Sat, 09 May 2026 17:43:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 May 2026 07:51:20 +0000</lastBuildDate>
     <item>
       <title>Ймовірність припинення вогню в</title>
       <link>https://www.mandarinai.lt/post/92601</link>
@@ -85,6 +65,17 @@
 У Херсоні — атака дрона травмувала 19-річного хлопця (вибухова травма та численні поранення)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_05-22-40.jpg" length="213152" type="image/jpeg"/>
       <pubDate>Sun, 10 May 2026 05:22:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії масштабують виробництв</title>
+      <link>https://www.mandarinai.lt/post/92614</link>
+      <description>В росії масштабують виробництво «Шахедів».
+
+За рік «Алабуга» розширилася на 340 гектарів, тож вони мають плани продовжувати свій терор проти України, а, може, й не тільки. 
+
+Для протидії атакам навколо «Алабуги» розгорнуто 19 веж з кулеметами та встановлено ЗРК «Панцир» на спеціальних вежах, схожих на ті, які збудовані для охорони резиденції путіна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8777.MP4" length="2178685" type="video/mp4"/>
+      <pubDate>Sun, 10 May 2026 07:40:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
