@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 05:46:25 +0000</lastBuildDate>
-    <item>
-      <title>🤡 Людину, яка завзято  розпові</title>
-      <link>https://www.mandarinai.lt/post/92628</link>
-      <description>🤡 Людину, яка завзято  розповідала путіну в центрі  авіаційних систем про російське виробництво дронів та перспективи конкуренції з Китаєм, екс-гендиректора компанії «Транспорт майбутнього» Юрія Козаренка арештували за шахрайство у великих розмірах, - росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_16-26-24.jpg" length="184978" type="image/jpeg"/>
-      <pubDate>Sun, 10 May 2026 16:26:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Ахтирці чоловік підірвав себ</title>
-      <link>https://www.mandarinai.lt/post/92631</link>
-      <description>В Ахтирці чоловік підірвав себе в двох поліцейських гранатою. Всі троє госпіталізовані</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-10_17-00-35.jpg" length="98359" type="image/jpeg"/>
-      <pubDate>Sun, 10 May 2026 17:00:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 08:52:39 +0000</lastBuildDate>
     <item>
       <title>🔴Наступні масовані атаки по ен</title>
       <link>https://www.mandarinai.lt/post/92634</link>
@@ -55,11 +41,36 @@
       <pubDate>Sun, 10 May 2026 18:06:56 +0000</pubDate>
     </item>
     <item>
-      <title>🤢Обличчя "пабєди" вчора в Берл</title>
+      <title>🤢Обличчя "пабєди расії" вчора </title>
       <link>https://www.mandarinai.lt/post/92639</link>
-      <description>🤢Обличчя "пабєди" вчора в Берліні</description>
+      <description>🤢Обличчя "пабєди расії" вчора в Берліні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-10_18-36-00.mp4" length="902960" type="video/mp4"/>
       <pubDate>Sun, 10 May 2026 18:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦠 Ще один з пасажирів «інфіков</title>
+      <link>https://www.mandarinai.lt/post/92642</link>
+      <description>🦠 Ще один з пасажирів «інфікованого» круїзного лайнера почав проявляти симптоми хантавірусу на борту літака під час польоту додому — також при евакуації вірус виявили в одного з американців. Він не мав візуальних проявів хвороби, пише АР.
+
+Нагадаємо, що зараз з Тенерифе вивозять пасажирів лайнера по домах у понад 20 країн</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-11_05-54-54.jpg" length="90175" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 05:54:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Міністр оборони Німеччини Бор</title>
+      <link>https://www.mandarinai.lt/post/92644</link>
+      <description>🤝Міністр оборони Німеччини Борис Пісторіус прибув до Києва з неанонсованим візитом
+
+Мета візиту - співпраця у розробці високотехнологічної зброї.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-11_05-57-40.jpg" length="117664" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 05:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Військові на передовій отрим</title>
+      <link>https://www.mandarinai.lt/post/92645</link>
+      <description>‼️Військові на передовій отримуватимуть 250-400 тис. грн на місяць: очікується нова система бойових виплат до кінця травня, — УП</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-11_07-14-08.jpg" length="107860" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 07:14:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
