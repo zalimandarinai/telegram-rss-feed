@@ -6,29 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 01:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 05:27:51 +0000</lastBuildDate>
     <item>
       <title>Український телеведучий Андрій</title>
-      <link>https://www.mandarinai.lt/post/92658</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Український телеведучий Андрій Доманський, який зник з радарів ще на початку війни, перебрався до рф та отримав російський паспорт у 2022-му році, - допис у Facebook журналіста «Радіо Свобода» Георгія Шабаєва.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-11_13-05-53.jpg" length="13619" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 13:05:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥ЄС планує розпочати переговор</title>
-      <link>https://www.mandarinai.lt/post/92659</link>
-      <description>🔥ЄС планує розпочати переговори з Україною про членство вже в червні, — заявила єврокомісарка Марта Кос
-
-Угорщина також висловила «позитивний сигнал» від Петера Мадяра з цього питання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-11_14-00-10.jpg" length="32280" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 14:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Україна і Німеччина запускаю</title>
-      <link>https://www.mandarinai.lt/post/92660</link>
-      <description>⚡️Україна і Німеччина запускають спільне виробництво дронів дальністю до 1500 км, заявив міністр оборони ФРН у Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-11_14-17-34.jpg" length="76500" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 14:17:34 +0000</pubDate>
     </item>
     <item>
       <title>В 2023 році аеророзвідка зафік</title>
@@ -66,6 +49,21 @@
       <description>⚡️Німеччина профінансує «сотні ракет» ЗРК Patriot для України,  — каже Федоров. Але залишається питання в тому, де їх купити, якщо постачальники відмовляться продавати.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-11_17-52-15.jpg" length="87000" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 17:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 росіяни вдарили по дитячому </title>
+      <link>https://www.mandarinai.lt/post/92673</link>
+      <description>🤬 росіяни вдарили по дитячому садку на Київщині. Також пошкоджені житлові будинки.
+
+У Києві пошкоджено дах 16-поверхівки, виникла пожежа.
+
+ Харкові через удар дрона по даху багатоповерхівки постраждала одна людина.
+
+У Дніпрі пошкоджена транспортна інфраструктура, одна людина дістала поранення.
+
+У Херсоні внаслідок нічного артобстрілу є поранені.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-12_05-06-13.jpg" length="289700" type="image/jpeg"/>
+      <pubDate>Tue, 12 May 2026 05:06:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
