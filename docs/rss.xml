@@ -6,44 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 18:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 20:22:41 +0000</lastBuildDate>
     <item>
       <title>В СБУ знайшли «крота»: Внутріш</title>
-      <link>https://www.mandarinai.lt/post/92699</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>В СБУ знайшли «крота»: Внутрішня безпека Служби затримала агентку фсб у одному з прифронтових підрозділів
 
 Зрадниця певний час «зливала» до фсб інформацію про оперативні розробки та кримінальні провадження української спецслужби щодо викриття російських агентурних мереж.
 
 Її завербували через батька, який мешкає в окупованому Бердянську та співпрацює з ворогом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-12_12-23-17.jpg" length="122792" type="image/jpeg"/>
       <pubDate>Tue, 12 May 2026 12:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌳 Пішла «зеленка», але в прико</title>
-      <link>https://www.mandarinai.lt/post/92701</link>
-      <description>🌳 Пішла «зеленка», але в прикордонників підрозділу «Фенікс» є свої способи, як шукати замасковані гармати та позиції. 
-
-📍 Гуляйпільський напрямок   
-
-🏍️ Під ударами опиняються й ворожі мотоциклісти, які знову повиповзали зі своїх сховків.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8808.MP4" length="28582960" type="video/mp4"/>
-      <pubDate>Tue, 12 May 2026 13:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Ракетний комплекс «Орєшнік»</title>
-      <link>https://www.mandarinai.lt/post/92702</link>
-      <description>❗️ Ракетний комплекс «Орєшнік» може бути оснащений ядерними боєголовками, — путін, як справжня хижа істота, скористався інформаційними вибухами в українському суспільстві і погрожує «ядеркою». Розрахунок - на нестабільну ситуацію всередині України. І, також, на переляк наших союзників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8809.MP4" length="5997752" type="video/mp4"/>
-      <pubDate>Tue, 12 May 2026 14:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Коли путін програє - одразу вм</title>
-      <link>https://www.mandarinai.lt/post/92703</link>
-      <description>Коли путін програє - одразу вмикає ядерну лякачку.
-
-Зараз русня активно розповсюджує тренування ядерних сил -  випробовування новітньої балістичної ракети Сармат, яка начебто має суборбітальну траєкторію і  може подолати 35 тисяч кілометрів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-12_15-03-33.mp4" length="1350005" type="video/mp4"/>
-      <pubDate>Tue, 12 May 2026 15:03:33 +0000</pubDate>
     </item>
     <item>
       <title>Ми готуємося до війни, — лукаш</title>
@@ -80,6 +52,24 @@
       <description>🤷‍♂️ Доброволець з Норвегії, який приєднався до штурмового підрозділу «Примари» 63-ої бригади, щиро не розуміє, чому Україну захищають далеко не всі українці. 
  </description>
       <pubDate>Tue, 12 May 2026 17:52:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нелюди з краіни-вбивці запусти</title>
+      <link>https://www.mandarinai.lt/post/92714</link>
+      <description>Нелюди з краіни-вбивці запустили «шахед» по житловому будинку в Кривому Розі. 
+
+Загинули двоє людей. 
+
+В немовляти вибухом відірвало ніжку, за її життя зараз борються медики.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8817.MP4" length="4604178" type="video/mp4"/>
+      <pubDate>Tue, 12 May 2026 18:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>За кілька днів травня 475-ий п</title>
+      <link>https://www.mandarinai.lt/post/92717</link>
+      <description>За кілька днів травня 475-ий полк «Code 9.2» в Запорізькій області розібрав батальйон 40-ої бригади Тихоокеанського флоту, практично повністю знищивши цілу роту морпіхів, від якої залишилось лише три військовослужбовці. Окупанти були змушені відступити. Весняний наступ на Запоріжжя пішов не за планом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-12_19-49-45.jpg" length="124727" type="image/jpeg"/>
+      <pubDate>Tue, 12 May 2026 19:49:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
