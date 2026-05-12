@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 20:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 21:59:54 +0000</lastBuildDate>
     <item>
       <title>В СБУ знайшли «крота»: Внутріш</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,20 +16,6 @@
 
 Її завербували через батька, який мешкає в окупованому Бердянську та співпрацює з ворогом.</description>
       <pubDate>Tue, 12 May 2026 12:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ми готуємося до війни, — лукаш</title>
-      <link>https://www.mandarinai.lt/post/92706</link>
-      <description>Ми готуємося до війни, — лукашенко заявив, що Білорусь розпочинає «точкову» мобілізацію чоловіків.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7498.MP4" length="4998675" type="video/mp4"/>
-      <pubDate>Tue, 12 May 2026 16:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пуск некерованої авіаційної ра</title>
-      <link>https://www.mandarinai.lt/post/92707</link>
-      <description>Пуск некерованої авіаційної ракети з борту українського дрона FP-2 по російській мобільній вогневій групі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-12_16-33-22.jpg" length="236957" type="image/jpeg"/>
-      <pubDate>Tue, 12 May 2026 16:33:22 +0000</pubDate>
     </item>
     <item>
       <title>За весь час перебування в Запо</title>
@@ -70,6 +56,24 @@
       <description>За кілька днів травня 475-ий полк «Code 9.2» в Запорізькій області розібрав батальйон 40-ої бригади Тихоокеанського флоту, практично повністю знищивши цілу роту морпіхів, від якої залишилось лише три військовослужбовці. Окупанти були змушені відступити. Весняний наступ на Запоріжжя пішов не за планом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-12_19-49-45.jpg" length="124727" type="image/jpeg"/>
       <pubDate>Tue, 12 May 2026 19:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Пентагон розглядає можливіст</title>
+      <link>https://www.mandarinai.lt/post/92721</link>
+      <description>⚡️Пентагон розглядає можливість перейменування війни в Ірані на "Операція Молот" у разі, якщо перемир'я зірветься, і Трамп відновить великі бойові дії, - NBC</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-12_21-11-17.jpg" length="330845" type="image/jpeg"/>
+      <pubDate>Tue, 12 May 2026 21:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пожежа на території кремля, — </title>
+      <link>https://www.mandarinai.lt/post/92722</link>
+      <description>Пожежа на території кремля, — росЗМІ 
+
+Вогонь охопив дах адмінбудівлі.
+
+Щоправда, йдеться не про Кремль в центрі москви, а Ізмайловський кремль, розташований на околиці Москви.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-12_21-30-10.jpg" length="99165" type="image/jpeg"/>
+      <pubDate>Tue, 12 May 2026 21:30:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
