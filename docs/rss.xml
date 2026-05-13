@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 20:24:46 +0000</lastBuildDate>
-    <item>
-      <title>⚡️24 влучання відбулося по об'</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️24 влучання відбулося по об'єктах залізниці за добу, є загиблі та поранені, — радник президента Литвин
-
-У Здолбунові на Рівненщині загинули 2 залізничників, які не перебували на роботі, також 1 поранений.</description>
-      <pubDate>Wed, 13 May 2026 15:43:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 22:01:57 +0000</lastBuildDate>
     <item>
       <title>ССО захопили двох окупантів</title>
       <link>https://www.mandarinai.lt/post/92775</link>
@@ -81,6 +73,21 @@
 Вже зафіксовано влучання у 2 районах міста</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-13_20-20-08.mp4" length="307255" type="video/mp4"/>
       <pubDate>Wed, 13 May 2026 20:20:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чотири українські оператори Бп</title>
+      <link>https://www.mandarinai.lt/post/92785</link>
+      <description>Чотири українські оператори БпЛА «знищили» сили НАТО на навчаннях: сценарій тричі ставили на паузу, бо Альянс не розумів, як діяти проти тактики ЗСУ, — Associated Press 
+
+▪️НАТО спеціально запросило українських бійців на навчання у Швеції, де відпрацьовували сценарій нападу рф.
+
+▪️В підсумку український загін буквально «розвалив» шведські сили — у реальному бою всі шведські солдати були б уже мертві.
+
+▪️НАТО терміново треба переймати український досвід, бо Захід досі не розуміє реальної війни дронів.
+
+▪️Командувач ЗС Швеції генерал Міхаель Классон заявив, що найшвидший спосіб навчитися сучасній війні - вчитися в українців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8838.MP4" length="16947963" type="video/mp4"/>
+      <pubDate>Wed, 13 May 2026 20:24:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
