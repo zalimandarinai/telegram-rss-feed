@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 18:25:56 +0000</lastBuildDate>
-    <item>
-      <title>Бойова робота перехоплювачами </title>
-      <link>https://www.mandarinai.lt/post/92831</link>
-      <description>Бойова робота перехоплювачами «P1SUN» під час відбиття російської сьогоднішньої масованої атаки.
-
-Українські захисники знешкодили за допомогою перехоплювачів «P1SUN» сотні ворожих «шахедів» та «гербер», якими країна-терорист атакувала нашу столицю та інші міста. 
-
-На відео — серія перехоплень та уражень повітряних цілей, зокрема із застосуванням системи віддаленого керування SkyFall.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8862.MP4" length="5798711" type="video/mp4"/>
-      <pubDate>Thu, 14 May 2026 15:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Удар по заправці в Києві сього</title>
-      <link>https://www.mandarinai.lt/post/92832</link>
-      <description>Удар по заправці в Києві сьогодні вночі.
-
-Внаслідок нічної атаки ворога в столиці вже відомо про 9 загиблих</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-14_15-35-53.mp4" length="1241904" type="video/mp4"/>
-      <pubDate>Thu, 14 May 2026 15:35:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Повітряні сили показали бойов</title>
-      <link>https://www.mandarinai.lt/post/92833</link>
-      <description>🔥Повітряні сили показали бойову роботу під час масованого комбінованого удару противника сьогодні вночі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-14_15-39-22.mp4" length="3892979" type="video/mp4"/>
-      <pubDate>Thu, 14 May 2026 15:39:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 20:21:16 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🇨🇳📞 Сі Цзіньпін може закінчи</title>
       <link>https://www.mandarinai.lt/post/92834</link>
@@ -98,9 +71,9 @@
       <pubDate>Thu, 14 May 2026 17:18:15 +0000</pubDate>
     </item>
     <item>
-      <title>путін, дякуючи,Трампу знову п'</title>
+      <title>⛽️ путін, дякуючи,Трампу знову</title>
       <link>https://www.mandarinai.lt/post/92843</link>
-      <description>путін, дякуючи,Трампу знову п'є шампанське -  нафта Urals подорожчала до максимуму з 2023 року, — Bloomberg
+      <description>⛽️ путін, дякуючи,Трампу знову п'є шампанське -  нафта Urals подорожчала до максимуму з 2023 року, — Bloomberg
 
 У травні ціна на Urals виросла до 94,87 доларів за барель — це на 18% більше, ніж у квітні, і найвищий показник з жовтня 2023 року</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-14_18-06-10.jpg" length="63682" type="image/jpeg"/>
@@ -120,6 +93,26 @@
 В «Code 9.2» під час контактних боїв без втрат.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8885.MOV" length="4474697" type="video/mp4"/>
       <pubDate>Thu, 14 May 2026 18:07:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент влучання дронів по авті</title>
+      <link>https://www.mandarinai.lt/post/92847</link>
+      <description>Момент влучання дронів по автівках ООН в Херсоні — під час доставки гуманітарної допомоги до району Острів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-14_18-41-52.mp4" length="4663510" type="video/mp4"/>
+      <pubDate>Thu, 14 May 2026 18:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>💔Болючі кадри вилучення тіла д</title>
+      <link>https://www.mandarinai.lt/post/92848</link>
+      <description>💔Болючі кадри вилучення тіла дитини з-під завалів будинку в Дарницькому районі Києва
+
+Наразі відомо про 13 загиблих внаслідок російського удару по столиці в ніч на 14 травня, з них — 2 дітей. 
+
+Розбір завалів та пошук людей триває безперервно.
+
+путінська росія - біологічне сміття</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-14_19-17-47.mp4" length="1618754" type="video/mp4"/>
+      <pubDate>Thu, 14 May 2026 19:17:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
