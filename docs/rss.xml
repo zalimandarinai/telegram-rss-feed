@@ -6,85 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 05:43:25 +0000</lastBuildDate>
-    <item>
-      <title>Оператор 475-ого штурмового по</title>
-      <link>https://www.mandarinai.lt/post/92844</link>
-      <description>Оператор 475-ого штурмового полку «Code 9.2» наздоганяє в Гуляйполі російського окупанта по дуже несподіваній траєкторії. 
-
-Бійці полку просуваються вперед повільно, але методично.
-
-На деяких ділянках біля Гуляйполя відбуваються не тільки обміни дроновими ударами, а й вогневі контакти.
-
-В стрілецьких боях з «Code 9.2» за 24 години окупанти втратили не менше шести військовослужбовців. 
-
-В «Code 9.2» під час контактних боїв без втрат.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8885.MOV" length="4474697" type="video/mp4"/>
-      <pubDate>Thu, 14 May 2026 18:07:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент влучання дронів по авті</title>
-      <link>https://www.mandarinai.lt/post/92847</link>
-      <description>Момент влучання дронів по автівках ООН в Херсоні — під час доставки гуманітарної допомоги до району Острів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-14_18-41-52.mp4" length="4663510" type="video/mp4"/>
-      <pubDate>Thu, 14 May 2026 18:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>💔Болючі кадри вилучення тіла д</title>
-      <link>https://www.mandarinai.lt/post/92848</link>
-      <description>💔Болючі кадри вилучення тіла дитини з-під завалів будинку в Дарницькому районі Києва
-
-Наразі відомо про 13 загиблих внаслідок російського удару по столиці в ніч на 14 травня, з них — 2 дітей. 
-
-Розбір завалів та пошук людей триває безперервно.
-
-путінська росія - біологічне сміття</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-14_19-17-47.mp4" length="1618754" type="video/mp4"/>
-      <pubDate>Thu, 14 May 2026 19:17:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>У зруйнованому будинку в Дарни</title>
-      <link>https://www.mandarinai.lt/post/92849</link>
-      <description>У зруйнованому будинку в Дарницькому районі Києва жив захисник Євген Яковлєв («Рижий»), який загинув на фронті у 2023 році.
-
-Після російського удару з-під завалів дістали загиблою його доньку Любаву 2013 року народження. Пошуки ще однієї його дитини тривають.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-14_20-25-36.jpg" length="66792" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 20:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кількість жертв у Києві збільш</title>
-      <link>https://www.mandarinai.lt/post/92850</link>
-      <description>Кількість жертв у Києві збільшилась до 21, серед них троє дітей, — ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8891.MP4" length="5672464" type="video/mp4"/>
-      <pubDate>Fri, 15 May 2026 02:47:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Ранок в російській Рязані пі</title>
-      <link>https://www.mandarinai.lt/post/92851</link>
-      <description>💥🔥Ранок в російській Рязані після атаки дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_02-55-40.mp4" length="565296" type="video/mp4"/>
-      <pubDate>Fri, 15 May 2026 02:55:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Києві вже 24 вбитих вчора ро</title>
-      <link>https://www.mandarinai.lt/post/92856</link>
-      <description>В Києві вже 24 вбитих вчора росією людей, серед них — троє дітей, 
-
-Ще 48 людей дістали поранення. Сьогодні у столиці оголошено День жалоби.
-
-Аварійно-пошукові роботи тривають.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_04-54-46.mp4" length="5458635" type="video/mp4"/>
-      <pubDate>Fri, 15 May 2026 04:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥🔥На Рязанському НПЗ після ата</title>
-      <link>https://www.mandarinai.lt/post/92857</link>
-      <description>🔥🔥На Рязанському НПЗ після атаки пожежі на 4(!) локаціях.
-
-Це одне з найбільших нафтопереробних підприємств рф. Його потужність становить близько 17 мільйонів тонн нафти на рік.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_05-05-11.jpg" length="99692" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 05:05:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 08:34:41 +0000</lastBuildDate>
     <item>
       <title>В Дарницькому районі столиці з</title>
       <link>https://www.mandarinai.lt/post/92859</link>
@@ -99,6 +21,75 @@
 48 травмованих.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_05-41-13.jpg" length="187373" type="image/jpeg"/>
       <pubDate>Fri, 15 May 2026 05:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Звільнено село на Харківщині.</title>
+      <link>https://www.mandarinai.lt/post/92860</link>
+      <description>🔥Звільнено село на Харківщині.
+
+Бійці 129-ої окремої важкої механізованої бригади повністю вибили ворога з села Одрадне біля кордону з росією.
+
+Село вдалось звільнити в результаті якісно спланованої та реалізованої операції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8894.MP4" length="22663917" type="video/mp4"/>
+      <pubDate>Fri, 15 May 2026 05:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі безпілотники атакували в</title>
+      <link>https://www.mandarinai.lt/post/92861</link>
+      <description>Вночі безпілотники атакували військовий аеродром біля Єйська.
+
+На аеродромі у Єйську дислокується 859-й Центр перенавчання льотного складу морської авіації рф.
+
+Також з авіабази здійснюють вильоти російські літаки для ударів по Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_06-13-50.jpg" length="94345" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 06:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Рязані пішов нафтовий дощ, </title>
+      <link>https://www.mandarinai.lt/post/92864</link>
+      <description>🔥В Рязані пішов нафтовий дощ, на атакованому НПЗ вирує пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_06-41-21.mp4" length="694217" type="video/mp4"/>
+      <pubDate>Fri, 15 May 2026 06:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Уражено російський літак-амфі</title>
+      <link>https://www.mandarinai.lt/post/92867</link>
+      <description>💥Уражено російський літак-амфібію Бе-200 «Альтаір», гвинтокрил Ка-27, корабель-сухогруз із БК, а також системи ППО армії рф та їхній навчальний центр, – Мадяр.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_06-55-13.mp4" length="9643237" type="video/mp4"/>
+      <pubDate>Fri, 15 May 2026 06:55:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪖Не виплачують бойові? Не дают</title>
+      <link>https://www.mandarinai.lt/post/92870</link>
+      <description>🪖Не виплачують бойові? Не дають УБД? Проблеми з ВЛК? Це можна вирішити!
+
+❓Не виплачують бойові
+❓Не дають переведення
+❓Проблеми з ВЛК
+❓Потрібне УБД, звільнення або відстрочка
+❓Командування не реагує на рапорти
+
+✅ Більшість цих проблем можна вирішити правильно підготовленою заявою — через правильно підготовлені документи, адвокатські запити, скарги та супровід справи.
+
+📲Дізнатися про ваші права у нашому каналі: https://t.me/+Hqdbm-fGdEtiODYy
+
+Не чекайте, поки ваша проблема «вирішиться сама собою». Дійте правильно.
+
+📩 Отримати безкоштону консультацію: 
+@PROmilitary_lawyer</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_07-00-06.jpg" length="68117" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 07:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>❤️‍🩹Перший етап обміну «1000 н</title>
+      <link>https://www.mandarinai.lt/post/92873</link>
+      <description>❤️‍🩹Перший етап обміну «1000 на 1000»: з російського полону повернулися 205 українців
+
+Додому повернулися воїни ЗСУ, Нацгвардії та Держприкордонслужби.
+
+Серед звільнених — рядові, сержанти й офіцери, більшість із яких перебували в полоні з 2022 року.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_07-58-41.jpg" length="192907" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 07:58:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
