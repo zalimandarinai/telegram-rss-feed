@@ -6,88 +6,64 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 13:22:08 +0000</lastBuildDate>
-    <item>
-      <title>🫂"Я вдома, мамо": Зворушливі к</title>
-      <link>https://www.mandarinai.lt/post/92878</link>
-      <description>🫂"Я вдома, мамо": Зворушливі кадри зі звільненими з полону захисниками
-
-Вони не стримують емоцій - сльози, радість, обмійми</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_09-02-43.mp4" length="2559077" type="video/mp4"/>
-      <pubDate>Fri, 15 May 2026 09:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Чиновник мерії працював на </title>
-      <link>https://www.mandarinai.lt/post/92879</link>
-      <description>⚡️ Чиновник мерії працював на фсб, за що суд відправив його на 15 років за ґрати 
-
-➡️ Руслан Бітюков був цінним персонажем для фсб.
-
-Професійний рівень: навчався в Московському технічному університеті ім. Баумана
-
-Доступ до інформації: працював начальником відділу програмного забезпечення в одному з управлінь Хмельницької міськради.
-
-Передавав росіянам все, до чого міг дотягнутися:
-
-▫️ координати прихованих військових обʼєктів;
-▫️ місця збірки БПЛА;
-▫️ особисті дані військовослужбовців СБУ, ССО, ракетних частин.
-
-Саме під час передачі інформації про одного зі співробітників СБУ чиновника  й «накрили» контррозвідники управління Служби на Хмельниччині.
-
-Альтернатива: буде сидіти всю «пятнашку» або піде не обмін.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_09-55-27.jpg" length="63463" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 09:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Індії російський міністр пог</title>
-      <link>https://www.mandarinai.lt/post/92882</link>
-      <description>В Індії російський міністр погрожував зброєю індійському журналісту на прес-конференції.
-
-«Якщо ви не віддасте свій телефон, вони дістануть зброю», — зірвався Лавров на журналіста, який двічі перебив його.
-
-Варто зауважити «чудове» володіння англійською головного російського дипломата</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8905.MP4" length="29692057" type="video/mp4"/>
-      <pubDate>Fri, 15 May 2026 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Посилення  мобілізації: на 40%</title>
-      <link>https://www.mandarinai.lt/post/92883</link>
-      <description>Посилення  мобілізації: на 40% збільшена кількість груп ТЦК по столиці, -  заступник начальника Київського ТЦК Кравченко.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_10-58-14.jpg" length="77922" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 10:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Вчора ввечері по Україні завд</title>
-      <link>https://www.mandarinai.lt/post/92884</link>
-      <description>🔴Вчора ввечері по Україні завдали великого удару, хоча до цього все виглядало добре, — Трамп про розмову з Сі Цзіньпіном
-
-Президент США заявив, що обговорював українське питання з лідером Китаю і вони хотіли б бачити його вирішеним. Проте остання масована атака рф знову погіршила ситуацію</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_11-32-37.mp4" length="4904498" type="video/mp4"/>
-      <pubDate>Fri, 15 May 2026 11:32:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 У Генеральному штабі підтвер</title>
-      <link>https://www.mandarinai.lt/post/92885</link>
-      <description>🔥 У Генеральному штабі підтвердили ураження  НПЗ "Рязанський": на об'єкті сталися масштабні пожежі
-
-Це один з найбільших НПЗ Росії, з пропускною здатністю близько 17 мільйонів тонн нафти на рік, який виробляє паливо для російської армії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_11-49-19.mp4" length="3936217" type="video/mp4"/>
-      <pubDate>Fri, 15 May 2026 11:49:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥В окупованому Шахтарську знищ</title>
-      <link>https://www.mandarinai.lt/post/92888</link>
-      <description>💥В окупованому Шахтарську знищено лігво рашистів - атаковано будівлю, де був розташований командний пункт окупаційних військ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_12-36-57.jpg" length="235543" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 12:36:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 15:52:43 +0000</lastBuildDate>
     <item>
       <title>💥А ось так українські сили вив</title>
       <link>https://www.mandarinai.lt/post/92890</link>
       <description>💥А ось так українські сили вивели сьогодні з ладу один з найбільших російських НПЗ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_12-37-30.mp4" length="5107504" type="video/mp4"/>
       <pubDate>Fri, 15 May 2026 12:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️рф готує нові ракетно-дронов</title>
+      <link>https://www.mandarinai.lt/post/92893</link>
+      <description>⚠️рф готує нові ракетно-дронові удари по Україні, зокрема по так званих «центрах ухвалення рішень», — Зеленський.
+
+За словами президента, ГУР отримало документи щодо підготовки атак. 
+
+Серед цілей майже два десятки політичних центрів та військових об’єктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_13-26-20.jpg" length="164315" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 13:26:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 США влаштували  «зачистку» </title>
+      <link>https://www.mandarinai.lt/post/92895</link>
+      <description>🇺🇸 США влаштували  «зачистку» усього китайського
+
+Кореспондентка The New York Post розповіла, що на борт літака Трампа не пропустили жодного предмету, отриманого от китайських чиновників.
+
+Перепустки, телефони, навіть значки делегації, які видала китайська сторона, відправились у смітник перед трапом літака.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_14-18-41.jpg" length="58596" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 14:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти підтвердили удар по г</title>
+      <link>https://www.mandarinai.lt/post/92896</link>
+      <description>Окупанти підтвердили удар по гуманітарній колоні ООН в Херсоні та заявили, що такі удари будуть продовжуватись, в тому числі по евакуаційних машинах «швидкої допомоги» та рятувальних командах.
+
+Що сказати? Тварі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_14-27-53.jpg" length="74692" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 14:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Друзі, батальйон «Сила Своб</title>
+      <link>https://www.mandarinai.lt/post/92897</link>
+      <description>❗️ Друзі, батальйон «Сила Свободи» 4-оі бригади НГУ дякує вам за швидко проведений збір на нічний дрон. Сьогодні БПЛА вже  доправили хлопцям для виконання завдань. Вистоїмо тільки разом.</description>
+      <pubDate>Fri, 15 May 2026 14:39:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Збили</title>
+      <link>https://www.mandarinai.lt/post/92902</link>
+      <description>💥Збили</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_15-37-18.jpg" length="96791" type="image/jpeg"/>
+      <pubDate>Fri, 15 May 2026 15:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Момент розстрілу поліцейськи</title>
+      <link>https://www.mandarinai.lt/post/92904</link>
+      <description>🤬 Момент розстрілу поліцейських чоловіком з машини на Хмельниччині опублікувала Нацполіція</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_15-44-02.mp4" length="5638712" type="video/mp4"/>
+      <pubDate>Fri, 15 May 2026 15:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
