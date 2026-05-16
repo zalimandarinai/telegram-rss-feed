@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 17:44:02 +0000</lastBuildDate>
-    <item>
-      <title>Дрони бригади ДПСУ «Сталевий к</title>
-      <link>https://www.mandarinai.lt/post/92952</link>
-      <description>Дрони бригади ДПСУ «Сталевий кордон» заходять в повітряний простір росії. На Курському та Північно-Слобожанському напрямках оператори бригади знищили два укриття. Також вони підбили 2 машини, антену та квадроцикл ворога.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8279.MP4" length="22933488" type="video/mp4"/>
-      <pubDate>Sat, 16 May 2026 11:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Три старих маразматика тримают</title>
-      <link>https://www.mandarinai.lt/post/92954</link>
-      <description>Три старих маразматика тримають за горло весь світ
-
-Вибачте за ейджизм</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_12-04-39.jpg" length="126796" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 12:04:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 18:44:34 +0000</lastBuildDate>
     <item>
       <title>👉У Трампа психічний розлад, ал</title>
       <link>https://www.mandarinai.lt/post/92955</link>
@@ -65,6 +49,31 @@
       <description>Такий вигляд має центральна частина Херсона після серії атак, включно з тією, що була сьогодні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_15-59-15.jpg" length="191133" type="image/jpeg"/>
       <pubDate>Sat, 16 May 2026 15:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🇬🇧 Українські вертолітники п</title>
+      <link>https://www.mandarinai.lt/post/92968</link>
+      <description>🇺🇦🇬🇧 Українські вертолітники проходять навчання у Великій Британії в рамках ініціативи Interstorm
+
+🚁 Курс підготовки інструкторів гелікоптерів організували Королівські повітряні сили та партнери по НАТО.
+
+ℹ️ Operation Interstorm — назва британської навчальної місії для українських льотчиків, через яку проходять пілоти F-16 та Mirage 2000.</description>
+      <pubDate>Sat, 16 May 2026 18:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генсек НАТО терміново збирає в</title>
+      <link>https://www.mandarinai.lt/post/92969</link>
+      <description>Генсек НАТО терміново збирає в Брюсселі керівників європейських оборонних концернів, - Financial Times 
+
+Очікують, що будуть, зокрема, представники Rheinmetall, Safran, Airbus, SAAB, Leonardo, MBDA
+
+Ймовірно, що Рютте проситиме їх самих інвестувати у власні потужності, не чекаючи державних замовлень.
+
+Очевидно, зустріч відбувається в «авральному режимі», щоб встигнути до саміту НАТО в Анкарі. 
+
+Її організатори, можливо, мають намір продемонструвати Трампу, що рішення підвищити оборонні витрати на оборону до 5% ВВП вже виконується.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_18-42-44.jpg" length="92697" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 18:42:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
