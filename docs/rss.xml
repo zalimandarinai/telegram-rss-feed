@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 01:44:29 +0000</lastBuildDate>
-    <item>
-      <title>❗️Офіційно! Ліквідовано озброє</title>
-      <link>https://www.mandarinai.lt/post/92918</link>
-      <description>❗️Офіційно! Ліквідовано озброєного злочинця, котрий розстріляв поліцейського на Хмельниччині – тікаючи, він кинув гранату
-
-Як повідомляють в поліції, йому було вже байдуже, кого позбавляти життя. Коли нападник побачив бронеавтомобіль поліції, він знову стріляв. У відповідь поліцейські діяли професійно - стрільця ліквідовано</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_17-00-41.jpg" length="249693" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 17:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російська воєнна розвідка отри</title>
-      <link>https://www.mandarinai.lt/post/92919</link>
-      <description>Російська воєнна розвідка отримала доступ до мережі «Київстар» через агента всередині компанії, - про це заявив керівник хакерської групи 4bid Євген Карпюк на YouTube-каналі «ЛУНЬКОВА».
-
-Атака такого масштабу навряд чи була результатом виключно зовнішнього злому, каже хакер
-
-💬 «ГРУ не зламало «Київстар», воно просто купило співробітника», — заявив Карпюк.
-
-Він вважає, що російські спецслужби могли роками «вирощувати консерву» з доступом до критичної інфраструктури оператора. 
-
-Якщо так, сподіваємось, що агента знайдуть.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_17-18-07.jpg" length="45426" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 17:18:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 05:16:03 +0000</lastBuildDate>
     <item>
       <title>❗️ Троє поранених сьогодні в З</title>
       <link>https://www.mandarinai.lt/post/92920</link>
@@ -105,6 +81,27 @@
       <description>🔥Кадри роботи ЗРК IRIS-T під час масованого російського обстрілу 13-14 травня.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-15_21-12-24.mp4" length="2019558" type="video/mp4"/>
       <pubDate>Fri, 15 May 2026 21:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Трамп після візиту до Китаю р</title>
+      <link>https://www.mandarinai.lt/post/92929</link>
+      <description>👀Трамп після візиту до Китаю раптово застеріг Тайвань від проголошення незалежності. Водночас очільник Білого дому відмовився дати чітку відповідь щодо того, чи підпише він давно відкладений пакет американської зброї для Тайваню.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_04-02-18.jpg" length="40324" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 04:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Набережній Челнах рф горить</title>
+      <link>https://www.mandarinai.lt/post/92930</link>
+      <description>🔥В Набережній Челнах рф горить підприємство по виробництву електротехнічного обладнання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_04-04-38.jpg" length="109630" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 04:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У Ставропольському краї атако</title>
+      <link>https://www.mandarinai.lt/post/92932</link>
+      <description>💥У Ставропольському краї атаковано хімічне підприємство, пов'язане з ВПК рф.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_04-06-28.jpg" length="74282" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 04:06:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
