@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 19:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 20:35:35 +0000</lastBuildDate>
     <item>
       <title>👉У Трампа психічний розлад, ал</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,13 +16,6 @@
 
 Не треба бути психіатром, щоб це побачити</description>
       <pubDate>Sat, 16 May 2026 12:39:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дві народні кореспондентки ком</title>
-      <link>https://www.mandarinai.lt/post/92960</link>
-      <description>Дві народні кореспондентки коментують вибух АЗС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8932.MP4" length="1312442" type="video/mp4"/>
-      <pubDate>Sat, 16 May 2026 15:47:16 +0000</pubDate>
     </item>
     <item>
       <title>Такий вигляд має центральна ча</title>
@@ -71,6 +64,13 @@
 Військові значно посилили оборону на цій ділянці: на Поліссі збудували кілометри фортифікацій, облаштували капоніри для техніки, вогневі точки та мінні загородження</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_18-53-03.jpg" length="217961" type="image/jpeg"/>
       <pubDate>Sat, 16 May 2026 18:53:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Слава Україні», - так заверши</title>
+      <link>https://www.mandarinai.lt/post/92976</link>
+      <description>«Слава Україні», - так завершила свій виступ «Leleka» на Євробаченні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8954.MP4" length="2131792" type="video/mp4"/>
+      <pubDate>Sat, 16 May 2026 20:10:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
