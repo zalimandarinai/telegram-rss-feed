@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 05:16:03 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Троє поранених сьогодні в З</title>
-      <link>https://www.mandarinai.lt/post/92920</link>
-      <description>❗️ Троє поранених сьогодні в Запоріжжі - російські дрони атакували приватний сектор міста</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-15_17-50-24.jpg" length="147785" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 17:50:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Лубінець повідомив про перемов</title>
-      <link>https://www.mandarinai.lt/post/92923</link>
-      <description>Лубінець повідомив про перемовини щодо евакуації з Олешок
-
-Ситуація в Олешках критична. 
-
-Також потерпають люди в окупованих Голій Пристані, Старій Збур’ївці та Новій Збур’ївці.
-
-Там проживають 6 тисяч людей, серед яких сотні дітей.
-
-Тривають переговори щодо евакуації мешканців і повернення українських дітей.</description>
-      <pubDate>Fri, 15 May 2026 18:21:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 07:45:00 +0000</lastBuildDate>
     <item>
       <title>🚗 Виробник танків KNDS розгляд</title>
       <link>https://www.mandarinai.lt/post/92924</link>
@@ -102,6 +81,40 @@
       <description>💥У Ставропольському краї атаковано хімічне підприємство, пов'язане з ВПК рф.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_04-06-28.jpg" length="74282" type="image/jpeg"/>
       <pubDate>Sat, 16 May 2026 04:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥"Пе-ве-о вабще на работаєт", </title>
+      <link>https://www.mandarinai.lt/post/92934</link>
+      <description>🔥"Пе-ве-о вабще на работаєт", - росіяни вночі зустрічали дрони демократії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_05-52-05.mp4" length="1237735" type="video/mp4"/>
+      <pubDate>Sat, 16 May 2026 05:52:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>путін відвідає Китай 19 травня</title>
+      <link>https://www.mandarinai.lt/post/92935</link>
+      <description>путін відвідає Китай 19 травня, — кремль</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_06-46-03.jpg" length="108915" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 06:46:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>☄️ Завдяки новій тактиці Украї</title>
+      <link>https://www.mandarinai.lt/post/92936</link>
+      <description>☄️ Завдяки новій тактиці Україна зупинила наступ РФ — The Washington Times
+
+Як зазначає видання, одним із головних чинників стало активне сучасних бойових технологій.
+
+Так, фронт досі перебуває під сильним тиском, однак ситуація вже не виглядає настільки критичною, як під час виснажливих зимових боїв.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_07-16-27.jpg" length="81346" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 07:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Трамп дав зрозуміти, що амери</title>
+      <link>https://www.mandarinai.lt/post/92937</link>
+      <description>🥴Трамп дав зрозуміти, що американці не захищатимуть Тайвань у разі війни з Китаєм.
+
+Я не хочу, щоб хтось став незалежним. І, знаєте, ми маємо проїхати 9500 миль, щоб вести війну? Я не хочу цього. Постачання зброї Тайваню поки що "на паузі"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_07-19-34.mp4" length="4935473" type="video/mp4"/>
+      <pubDate>Sat, 16 May 2026 07:19:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
