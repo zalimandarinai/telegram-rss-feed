@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 20:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 21:36:45 +0000</lastBuildDate>
     <item>
       <title>👉У Трампа психічний розлад, ал</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,13 +16,6 @@
 
 Не треба бути психіатром, щоб це побачити</description>
       <pubDate>Sat, 16 May 2026 12:39:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Такий вигляд має центральна ча</title>
-      <link>https://www.mandarinai.lt/post/92962</link>
-      <description>Такий вигляд має центральна частина Херсона після серії атак, включно з тією, що була сьогодні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_15-59-15.jpg" length="191133" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 15:59:15 +0000</pubDate>
     </item>
     <item>
       <title>🇺🇦🇬🇧 Українські вертолітники п</title>
@@ -71,6 +64,13 @@
       <description>«Слава Україні», - так завершила свій виступ «Leleka» на Євробаченні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8954.MP4" length="2131792" type="video/mp4"/>
       <pubDate>Sat, 16 May 2026 20:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Якась істерика в севастопольс</title>
+      <link>https://www.mandarinai.lt/post/92977</link>
+      <description>👀Якась істерика в севастопольської ППО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_21-09-50.mp4" length="2056257" type="video/mp4"/>
+      <pubDate>Sat, 16 May 2026 21:09:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
