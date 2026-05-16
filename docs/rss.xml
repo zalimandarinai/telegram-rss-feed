@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 11:40:32 +0000</lastBuildDate>
-    <item>
-      <title>🥴Трамп дав зрозуміти, що амери</title>
-      <link>https://www.mandarinai.lt/post/92937</link>
-      <description>🥴Трамп дав зрозуміти, що американці не захищатимуть Тайвань у разі війни з Китаєм.
-
-Я не хочу, щоб хтось став незалежним. І, знаєте, ми маємо проїхати 9500 миль, щоб вести війну? Я не хочу цього. Постачання зброї Тайваню поки що "на паузі"
-
-Тепер, завдяки Трампу,  шампанське відкроковує Сі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_07-19-34.mp4" length="4935473" type="video/mp4"/>
-      <pubDate>Sat, 16 May 2026 07:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛡Світ котиться до масштабної в</title>
-      <link>https://www.mandarinai.lt/post/92938</link>
-      <description>🛡Світ котиться до масштабної війни, тому Mercedes-Benz переходить на виробництво оборонки – спорткари та «геліки» залишаються в минулому
-
-Як пише WSJ з посиланням на голову компанії Ола Каленіуса, виробництво повернеться на воєнні рейки, бо «Європі необхідно нарощувати оборонний потенціал»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_08-17-49.jpg" length="176916" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 08:17:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 12:51:50 +0000</lastBuildDate>
     <item>
       <title>Розкол між союзниками? Тайвань</title>
       <link>https://www.mandarinai.lt/post/92939</link>
@@ -108,6 +88,26 @@
       <description>Дрони бригади ДПСУ «Сталевий кордон» заходять в повітряний простір росії. На Курському та Північно-Слобожанському напрямках оператори бригади знищили два укриття. Також вони підбили 2 машини, антену та квадроцикл ворога.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8279.MP4" length="22933488" type="video/mp4"/>
       <pubDate>Sat, 16 May 2026 11:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Три старих маразматика тримают</title>
+      <link>https://www.mandarinai.lt/post/92954</link>
+      <description>Три старих маразматика тримають за горло весь світ
+
+Вибачте за ейджизм</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_12-04-39.jpg" length="126796" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 12:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>👉У Трампа психічне розлам, але</title>
+      <link>https://www.mandarinai.lt/post/92955</link>
+      <description>👉У Трампа психічне розлам, але офіційного діагнозу немає, — Zeit
+
+Фахівці переконані, що психічний стан Трампа погіршується, про що свідчать його хаотичний стиль виступів, різкі зміни політичної позиції, проблеми з концентрацією уваги, нарцисизм та патологічна  імпульсивність.
+
+Не треба бути психіатром, щоб це побачити</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_12-39-06.jpg" length="107255" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 12:39:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
