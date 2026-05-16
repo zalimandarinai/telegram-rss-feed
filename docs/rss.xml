@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 10:52:02 +0000</lastBuildDate>
-    <item>
-      <title>🔥"Пе-ве-о вабще на работаєт", </title>
-      <link>https://www.mandarinai.lt/post/92934</link>
-      <description>🔥"Пе-ве-о вабще на работаєт", - росіяни вночі зустрічали дрони демократії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_05-52-05.mp4" length="1237735" type="video/mp4"/>
-      <pubDate>Sat, 16 May 2026 05:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>путін відвідає Китай 19 травня</title>
-      <link>https://www.mandarinai.lt/post/92935</link>
-      <description>путін відвідає Китай 19 травня, — кремль</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_06-46-03.jpg" length="108915" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 06:46:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>☄️ Завдяки новій тактиці Украї</title>
-      <link>https://www.mandarinai.lt/post/92936</link>
-      <description>☄️ Завдяки новій тактиці Україна зупинила наступ РФ — The Washington Times
-
-Як зазначає видання, одним із головних чинників стало активне впровадження сучасних бойових технологій.
-
-Так, фронт досі перебуває під сильним тиском, однак ситуація вже не виглядає настільки критичною, як під час виснажливих зимових боїв.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-16_07-16-27.jpg" length="81346" type="image/jpeg"/>
-      <pubDate>Sat, 16 May 2026 07:16:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 11:40:32 +0000</lastBuildDate>
     <item>
       <title>🥴Трамп дав зрозуміти, що амери</title>
       <link>https://www.mandarinai.lt/post/92937</link>
@@ -110,6 +85,29 @@
       <description>Момент удару російської ракети по житловому будинку в Києві в ніч на 14 травня. Внаслідок обстрілу зруйновано цілий під'їзд - росіяни вбили 24 людини</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_10-47-26.mp4" length="5914812" type="video/mp4"/>
       <pubDate>Sat, 16 May 2026 10:47:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳«Мігрантам — повістка, паранд</title>
+      <link>https://www.mandarinai.lt/post/92947</link>
+      <description>😳«Мігрантам — повістка, паранджа — феміністкам»
+
+На Майдані зараз проходить мітинг за традиційні цінності</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_10-56-24.mp4" length="2064587" type="video/mp4"/>
+      <pubDate>Sat, 16 May 2026 10:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В російському Пятигорську з н</title>
+      <link>https://www.mandarinai.lt/post/92948</link>
+      <description>💥В російському Пятигорську з невідомих причин ефектно вибухнула АЗС. Харашо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-16_10-57-39.mp4" length="4707141" type="video/mp4"/>
+      <pubDate>Sat, 16 May 2026 10:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрони бригади ДПСУ «Сталевий к</title>
+      <link>https://www.mandarinai.lt/post/92952</link>
+      <description>Дрони бригади ДПСУ «Сталевий кордон» заходять в повітряний простір росії. На Курському та Північно-Слобожанському напрямках оператори бригади знищили два укриття. Також вони підбили 2 машини, антену та квадроцикл ворога.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8279.MP4" length="22933488" type="video/mp4"/>
+      <pubDate>Sat, 16 May 2026 11:39:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
