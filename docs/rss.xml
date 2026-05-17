@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 11:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:48:34 +0000</lastBuildDate>
     <item>
       <title>Вночі рф ударила по Сумах. Ата</title>
       <link>https://www.mandarinai.lt/post/92991</link>
@@ -141,6 +141,21 @@ https://i.goit.global/xan5T</description>
       <description>Окупант помилково прийняв бійця 142-ї ОМБр за «свого» та одразу був ліквідований автоматним вогнем</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8970.MP4" length="10506982" type="video/mp4"/>
       <pubDate>Sun, 17 May 2026 11:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трофей, захоплений в лікарні К</title>
+      <link>https://www.mandarinai.lt/post/93006</link>
+      <description>Трофей, захоплений в лікарні Купʼянська, підтверджує майстерність штурмовиків 425-го полку «Скеля».
+
+Автомат АКМС зразка 1959 калібру 7,62 мм, в відмінному стані, з барабаном на 75 набоїв і 8-кратним оптичним прицілом.
+
+Такими була озброєна група російських спецпризначенців, якій вдалось просочитися до міста.
+
+Але 3-їй штурмовий  батальйон зумів блокувати їх в зруйнованій лікарні і не дав їм можливості вийти, попри підтримку російської авіації та артилерії.
+
+За посиланням можна подивитися інтерв’ю з «Алдо Апачем», командиром батальйону, який проводить операцію із зачистки Купʼянська https://m.youtube.com/watch?v=cTucx5xi2pQ&amp;ra=m</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_12-39-55.jpg" length="146312" type="image/jpeg"/>
+      <pubDate>Sun, 17 May 2026 12:39:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
