@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 16:41:28 +0000</lastBuildDate>
-    <item>
-      <title>Трофей, захоплений в лікарні К</title>
-      <link>https://www.mandarinai.lt/post/93006</link>
-      <description>Трофей, захоплений в лікарні Купʼянська, підтверджує майстерність штурмовиків 425-го полку «Скеля».
-
-Автомат АКМС зразка 1959 калібру 7,62 мм, в відмінному стані, з барабаном на 75 набоїв і 8-кратним оптичним прицілом.
-
-Такими була озброєна група російських спецпризначенців, якій вдалось просочитися до міста.
-
-Але 3-їй штурмовий  батальйон зумів блокувати їх в зруйнованій лікарні і не дав їм можливості вийти, попри підтримку російської авіації та артилерії.
-
-За посиланням можна подивитися інтерв’ю з «Алдо Апачем», командиром батальйону, який проводить операцію із зачистки Купʼянська https://m.youtube.com/watch?v=cTucx5xi2pQ&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_12-39-55.jpg" length="146312" type="image/jpeg"/>
-      <pubDate>Sun, 17 May 2026 12:39:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бригада ДПСУ «Форпост» захопил</title>
-      <link>https://www.mandarinai.lt/post/93007</link>
-      <description>Бригада ДПСУ «Форпост» захопила в районі Вовчанська трьох полонених.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8976.MOV" length="6768031" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 12:53:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Чорний дим від масштабної пож</title>
-      <link>https://www.mandarinai.lt/post/93008</link>
-      <description>🔥Чорний дим від масштабної пожежі після гучного вибуху, який почули в Москві, починає вкривати житлові квартали російської столиці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_13-25-33.mp4" length="907691" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 13:25:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 17:44:42 +0000</lastBuildDate>
     <item>
       <title>❗️ Спалах лихоманки Ебола в Ко</title>
       <link>https://www.mandarinai.lt/post/93010</link>
@@ -104,6 +75,31 @@
       <description>🇷🇺Кацапи скаржаться на когнітивний дисонанс. Можемо чимось допомогти?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_16-14-27.mp4" length="2730741" type="video/mp4"/>
       <pubDate>Sun, 17 May 2026 16:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії на фоні ударів дронів </title>
+      <link>https://www.mandarinai.lt/post/93021</link>
+      <description>В росії на фоні ударів дронів затягують кораблі антидронними сітками, почали зі сторожових кораблів проєкту 22460 «Охотник» фсб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_16-54-35.jpg" length="205470" type="image/jpeg"/>
+      <pubDate>Sun, 17 May 2026 16:54:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Переможниця Євробачення болгар</title>
+      <link>https://www.mandarinai.lt/post/93023</link>
+      <description>Переможниця Євробачення болгарка Дарина Йотова, виявляється, пітримує вбивць українських жінок та дітей, вона ще в 2025-му році малювала Z-ки на своїх сторінках.  Пропутінський співак Філіп Кіркоров публічно заявив, що він та його команда безпосередньо причетні до підготовки співчаки. Її трек «Bangaranga» був написаний у співавторстві з грецьким композитором Дімітрісом Контопулосом, який давно працює в російському шоубізнесі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_17-05-03.jpg" length="113190" type="image/jpeg"/>
+      <pubDate>Sun, 17 May 2026 17:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Собчак поскаржилася, що росЗМІ</title>
+      <link>https://www.mandarinai.lt/post/93024</link>
+      <description>Собчак поскаржилася, що росЗМІ заборонили публікувати відео прильотів
+
+За її словами, через це росіяни масово пішли дивитися українські медіа та канали російської опозиції.
+
+Насправді кількість підписників в нас та інших українських каналів трохи збільшилась.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_17-17-44.jpg" length="135834" type="image/jpeg"/>
+      <pubDate>Sun, 17 May 2026 17:17:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
