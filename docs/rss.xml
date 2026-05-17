@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 15:47:32 +0000</lastBuildDate>
-    <item>
-      <title>Пуски некерованих авіаційних р</title>
-      <link>https://www.mandarinai.lt/post/93003</link>
-      <description>Пуски некерованих авіаційних ракет з борту українського безпілотника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8962.MP4" length="22479399" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 10:07:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>По цілях в Москві та на Кримсь</title>
-      <link>https://www.mandarinai.lt/post/93004</link>
-      <description>По цілях в Москві та на Кримському півострові сьогодні били дрони СБУ.
-
-Також в атаці брали участь підрозділи Сил оборони
-
-У Московській області було уражено:
-
- • завод «Ангстрем», який постачає напівпровідники для воєнно-промислового комплексу рф і перебуває під санкціями США;
- • Московський НПЗ;
- • нафтоперекачувальну станцію «Сонєчногорська»;
- • нафтоперекачувальну станцію «Володарськоє».
-
-В Криму було уражено:
-
- • зенітний комплекс «Панцирь-С2»;
- • ангар із радаром до комплексу С-400;
- • систему керування БпЛА «Орион» та наземну станцію керування БпЛА «Форпост»;
- • пункт передачі даних «земля–повітря»;
- • диспетчерську вишку та ангар на аеродромі «Бельбек».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8969.MP4" length="25842410" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 11:15:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупант помилково прийняв бійц</title>
-      <link>https://www.mandarinai.lt/post/93005</link>
-      <description>Окупант помилково прийняв бійця 142-ї ОМБр за «свого» та одразу був ліквідований автоматним вогнем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8970.MP4" length="10506982" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 11:39:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 16:41:28 +0000</lastBuildDate>
     <item>
       <title>Трофей, захоплений в лікарні К</title>
       <link>https://www.mandarinai.lt/post/93006</link>
@@ -116,6 +78,32 @@
 Однак використовувати дрони Куба планує лише у випадку атаки на острів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_15-26-32.jpg" length="70437" type="image/jpeg"/>
       <pubDate>Sun, 17 May 2026 15:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Компанія «Монокристалл», росій</title>
+      <link>https://www.mandarinai.lt/post/93017</link>
+      <description>Компанія «Монокристалл», російський лідер з виробництва синтетичних сапфірів, оголошує про банкрутство
+
+В 2022-му році підприємство займало третину світового ринку штучних сапфірів. Продукція підприємства використовується у ВПК, зокрема, для виробництва дронів та ракет окупантів.
+
+Причин кілька. Пошкодження виробничих потужностей, втрата ринків в Європі та перебої в постачанні сировини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_15-59-47.jpg" length="85276" type="image/jpeg"/>
+      <pubDate>Sun, 17 May 2026 15:59:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Московській області під веч</title>
+      <link>https://www.mandarinai.lt/post/93018</link>
+      <description>🔥В Московській області під вечір стає ще красивіше. ЛПДС "Солнечногорская" схоже, не збирається зупиняти "планове" горіння.
+Падмасковниє вєєєчєєраааа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_16-07-43.mp4" length="1516197" type="video/mp4"/>
+      <pubDate>Sun, 17 May 2026 16:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺Кацапи скаржаться на когніти</title>
+      <link>https://www.mandarinai.lt/post/93020</link>
+      <description>🇷🇺Кацапи скаржаться на когнітивний дисонанс. Можемо чимось допомогти?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_16-14-27.mp4" length="2730741" type="video/mp4"/>
+      <pubDate>Sun, 17 May 2026 16:14:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
