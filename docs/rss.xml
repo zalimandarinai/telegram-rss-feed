@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 18:48:52 +0000</lastBuildDate>
-    <item>
-      <title>✌️Пара українських ударних FP-</title>
-      <link>https://www.mandarinai.lt/post/93012</link>
-      <description>✌️Пара українських ударних FP-1 летить проривати московське ППО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_14-25-47.mp4" length="653873" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 14:25:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Під Москвою після зустрічі з </title>
-      <link>https://www.mandarinai.lt/post/93013</link>
-      <description>🔥Під Москвою після зустрічі з добрими дронами відкриваються нові фотозони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_14-32-00.mp4" length="671110" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 14:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 19:57:34 +0000</lastBuildDate>
     <item>
       <title>Українські дрони також розвали</title>
       <link>https://www.mandarinai.lt/post/93015</link>
@@ -96,6 +82,15 @@
       <description>Пожежники в Московській області сховались і чекають, поки догорить</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8987.MP4" length="11809891" type="video/mp4"/>
       <pubDate>Sun, 17 May 2026 17:47:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔🔴Проіграть Українє нє позорно</title>
+      <link>https://www.mandarinai.lt/post/93030</link>
+      <description>🤔🔴Проіграть Українє нє позорно!
+
+На росії пропагандисти вже почали виходити з ладу</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_19-12-15.mp4" length="1052045" type="video/mp4"/>
+      <pubDate>Sun, 17 May 2026 19:12:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
