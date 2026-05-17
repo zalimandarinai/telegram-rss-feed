@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 10:14:49 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺«Moscow never sleeps»: Мадяр</title>
-      <link>https://www.mandarinai.lt/post/92988</link>
-      <description>🇷🇺«Moscow never sleeps»: Мадяр показав дрони, які сьогодні атакували рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-17_06-56-37.jpg" length="201967" type="image/jpeg"/>
-      <pubDate>Sun, 17 May 2026 06:56:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 11:51:31 +0000</lastBuildDate>
     <item>
       <title>Вночі рф ударила по Сумах. Ата</title>
       <link>https://www.mandarinai.lt/post/92991</link>
@@ -69,7 +62,7 @@ https://i.goit.global/xan5T</description>
       <link>https://www.mandarinai.lt/post/92996</link>
       <description>В Херсоні та області ворог край доріг почав розкидати ось такі саморобні вибухові пристрої. 
 
-Їх знайшли та знешкодили сьогодні вранці.
+Їх знайшли та знешкодили сьогодні вранці бійці 34-го полку Нацгвардії. 
 
 Розраховані переважно на ураження мирного населення.
 
@@ -117,6 +110,37 @@ https://i.goit.global/xan5T</description>
       <description>Пуски некерованих авіаційних ракет з борту українського безпілотника</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8962.MP4" length="22479399" type="video/mp4"/>
       <pubDate>Sun, 17 May 2026 10:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>По цілях в Москві та на Кримсь</title>
+      <link>https://www.mandarinai.lt/post/93004</link>
+      <description>По цілях в Москві та на Кримському півострові сьогодні били дрони СБУ.
+
+Також в атаці брали участь підрозділи Сил оборони
+
+У Московській області було уражено:
+
+ • завод «Ангстрем», який постачає напівпровідники для воєнно-промислового комплексу рф і перебуває під санкціями США;
+ • Московський НПЗ;
+ • нафтоперекачувальну станцію «Сонєчногорська»;
+ • нафтоперекачувальну станцію «Володарськоє».
+
+В Криму було уражено:
+
+ • зенітний комплекс «Панцирь-С2»;
+ • ангар із радаром до комплексу С-400;
+ • систему керування БпЛА «Орион» та наземну станцію керування БпЛА «Форпост»;
+ • пункт передачі даних «земля–повітря»;
+ • диспетчерську вишку та ангар на аеродромі «Бельбек».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8969.MP4" length="25842410" type="video/mp4"/>
+      <pubDate>Sun, 17 May 2026 11:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупант помилково прийняв бійц</title>
+      <link>https://www.mandarinai.lt/post/93005</link>
+      <description>Окупант помилково прийняв бійця 142-ї ОМБр за «свого» та одразу був ліквідований автоматним вогнем</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8970.MP4" length="10506982" type="video/mp4"/>
+      <pubDate>Sun, 17 May 2026 11:39:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
