@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 10:52:40 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Приліт шахеда по багатопове</title>
-      <link>https://www.mandarinai.lt/post/93032</link>
-      <description>⚡️ Приліт шахеда по багатоповерхівці в центрі Дніпра</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-17_21-45-04.mp4" length="591559" type="video/mp4"/>
-      <pubDate>Sun, 17 May 2026 21:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росіяни вдарили по Дніпру ра</title>
-      <link>https://www.mandarinai.lt/post/93033</link>
-      <description>⚡️росіяни вдарили по Дніпру ракетами. Попередньо, є влучання по житловому кварталу. Загроза триває, – ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_00-10-16.jpg" length="236327" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 00:10:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Кількість поранених у Дніпрі</title>
-      <link>https://www.mandarinai.lt/post/93035</link>
-      <description>⚡️Кількість поранених у Дніпрі зросла до 18-ти. Серед них – 2-річна дівчинка та 10-річний хлопець.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-18_04-48-50.mp4" length="3815302" type="video/mp4"/>
-      <pubDate>Mon, 18 May 2026 04:48:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴 Тим часом в соцмережі презид</title>
-      <link>https://www.mandarinai.lt/post/93036</link>
-      <description>🥴 Тим часом в соцмережі президента США.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_05-09-09.jpg" length="66446" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 05:09:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 14:21:32 +0000</lastBuildDate>
     <item>
       <title>За Єрмака внесли вже повну сум</title>
       <link>https://www.mandarinai.lt/post/93040</link>
@@ -81,6 +53,40 @@
 За даними каналу, через Ормузьку протоку проходять найважливіші лінії зв'язку між Європою, Азією і країнами Перської затоки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_09-01-27.jpg" length="48373" type="image/jpeg"/>
       <pubDate>Mon, 18 May 2026 09:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гауляйтер Скадовська потрапив </title>
+      <link>https://www.mandarinai.lt/post/93046</link>
+      <description>Гауляйтер Скадовська потрапив під удар «доброго дрона»
+
+Зрадник і порушник присяги Олександр Дудка з вибуховою травмою та осколковим пораненням голови перебуває в лікарні. Про це повідомив колаборант Володимир Сальдо.
+
+«Головою» Скадовська Дудка став у жовтні 2023 року. Прославився, зокрема, тим, що публічно погрожував позбавити інсуліну та інших ліків усіх мешканців Лазурного,  які не отримують паспорт РФ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8999.MP4" length="20252147" type="video/mp4"/>
+      <pubDate>Mon, 18 May 2026 11:09:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Україні випробують нову дал</title>
+      <link>https://www.mandarinai.lt/post/93049</link>
+      <description>🔥В Україні випробують нову далекобійну ракету RUTA Block 3 з дальністю до 2000 км і бойовою частиною ракети у 250 кг.
+
+Компанія Destinus спільно з Rheinmetall оголосила про розробку нової крилатої ракети, до якої долучиться й Україна. Льотні випробування RUTA Block 3 заплановані на 2027 рік. Скоріш за все це буде зразу випробування у бойових умовах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_12-42-50.jpg" length="128603" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 12:42:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ На Чернігівщині фіксують по</title>
+      <link>https://www.mandarinai.lt/post/93050</link>
+      <description>⚡️ На Чернігівщині фіксують посилення активності російських ДРГ у прикордонні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_12-52-28.jpg" length="48543" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 12:52:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В російському Кстово горить п</title>
+      <link>https://www.mandarinai.lt/post/93051</link>
+      <description>🔥В російському Кстово горить після атаки БПЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-18_13-22-57.mp4" length="1111909" type="video/mp4"/>
+      <pubDate>Mon, 18 May 2026 13:22:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
