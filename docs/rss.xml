@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 01:57:44 +0000</lastBuildDate>
-    <item>
-      <title>🔥В Україні випробують нову дал</title>
-      <link>https://www.mandarinai.lt/post/93049</link>
-      <description>🔥В Україні випробують нову далекобійну ракету RUTA Block 3 з дальністю до 2000 км і бойовою частиною ракети у 250 кг.
-
-Компанія Destinus спільно з Rheinmetall оголосила про розробку нової крилатої ракети, до якої долучиться й Україна. Льотні випробування RUTA Block 3 заплановані на 2027 рік. Скоріш за все це буде зразу випробування у бойових умовах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_12-42-50.jpg" length="128603" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 12:42:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ На Чернігівщині фіксують по</title>
-      <link>https://www.mandarinai.lt/post/93050</link>
-      <description>⚡️ На Чернігівщині фіксують посилення активності російських ДРГ у прикордонні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_12-52-28.jpg" length="48543" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 12:52:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В російському Кстово горить п</title>
-      <link>https://www.mandarinai.lt/post/93051</link>
-      <description>🔥В російському Кстово горить після атаки БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-18_13-22-57.mp4" length="1111909" type="video/mp4"/>
-      <pubDate>Mon, 18 May 2026 13:22:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 06:01:15 +0000</lastBuildDate>
     <item>
       <title>🐷Білорусь закрила доступ до лі</title>
       <link>https://www.mandarinai.lt/post/93052</link>
@@ -98,6 +75,29 @@
 Але Трамп все ж наказав тримати американські війська в повній готовності до "масштабного наступу" на Іран, якщо домовитися не вдасться.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-18_19-16-33.jpg" length="101667" type="image/jpeg"/>
       <pubDate>Mon, 18 May 2026 19:16:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Троє людей постраждали в рез</title>
+      <link>https://www.mandarinai.lt/post/93062</link>
+      <description>⚡️Троє людей постраждали в результаті російських ударів по Харкову. Один чоловік може бути під завалами. Пошкоджено 25 приватних будинків і один багатоквартирний будинок, повідомили місцеві власті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_03-35-25.jpg" length="179393" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 03:35:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сі Цзіньпін заявив Трампу, що </title>
+      <link>https://www.mandarinai.lt/post/93063</link>
+      <description>Сі Цзіньпін заявив Трампу, що путін може пожалкувати про вторгнення в Україну , - FT
+
+Крім того, за даними джерел, під час саміту з Сі Цзіньпіном Трамп запропонував США, Китаю та росії об'єднати зусилля у боротьбі з Міжнародним кримінальним судом, заявивши, що їхні інтереси збігаються.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_03-44-22.jpg" length="94681" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 03:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥НПЗ в російському Ярослвлі зн</title>
+      <link>https://www.mandarinai.lt/post/93064</link>
+      <description>💥НПЗ в російському Ярослвлі знову зазнав атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-19_03-50-23.mp4" length="416126" type="video/mp4"/>
+      <pubDate>Tue, 19 May 2026 03:50:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
