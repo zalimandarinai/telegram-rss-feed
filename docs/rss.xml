@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 13:46:32 +0000</lastBuildDate>
-    <item>
-      <title>❗️ росіяни вдарили по Прилуках</title>
-      <link>https://www.mandarinai.lt/post/93070</link>
-      <description>❗️ росіяни вдарили по Прилуках балістикою: двоє загиблих, серед 17 поранених є дитина</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_09-24-58.jpg" length="181784" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 09:24:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 16:41:37 +0000</lastBuildDate>
     <item>
       <title>Рівно рік тому 38-ий зенітний </title>
       <link>https://www.mandarinai.lt/post/93073</link>
@@ -71,6 +64,44 @@
 Не зовсім логічно виглядає те, що багато військовозобов’язаних чоловіків, які не мають права залишати Україну, лише перетинають кордон — можливо, навіть нелегально — одразу отримують тимчасовий захист.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_13-01-56.jpg" length="77767" type="image/jpeg"/>
       <pubDate>Tue, 19 May 2026 13:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Евакуація цивільних на роботиз</title>
+      <link>https://www.mandarinai.lt/post/93083</link>
+      <description>Евакуація цивільних на роботизованій платформі: успішна місія 57-ої бригади біля Вовчанська.
+
+Командування оперативно прийняло рішення про порятунок 85-річної хворої жінки у важкому стані та її сина.
+
+Завдяки злагодженій роботі піхоти, медиків, операторів НРК та управління цивільні в безпеці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8997.MP4" length="16308935" type="video/mp4"/>
+      <pubDate>Tue, 19 May 2026 15:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Диктатор путін прилетів до Кит</title>
+      <link>https://www.mandarinai.lt/post/93084</link>
+      <description>Диктатор путін прилетів до Китаю.
+
+Божевільні діди продовжують розхитувати світ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_15-39-50.jpg" length="49305" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 15:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Німеччина готується до можл</title>
+      <link>https://www.mandarinai.lt/post/93085</link>
+      <description>🇩🇪 Німеччина готується до можливої війни з росією і виділить €10 млрд на цивільну оборону, —  Bild
+
+Кошти планують спрямувати на закупівлю 1000 спецавтомобілів, посилення захисних споруд та створення мобільного табору на 110 тисяч місць.
+
+Також проведуть загальнонаціональний аудит укриттів, зокрема бункерів, тунелів і підземних паркінгів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_16-31-50.jpg" length="136699" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 16:31:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Сирський підтвердив загрозу </title>
+      <link>https://www.mandarinai.lt/post/93086</link>
+      <description>⚡️Сирський підтвердив загрозу розширення фронту з боку Білорусі — це реально, ми знаємо ці дані, про те що Генштаб рф активно прораховує й планує операції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-19_16-35-25.mp4" length="2023534" type="video/mp4"/>
+      <pubDate>Tue, 19 May 2026 16:35:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
