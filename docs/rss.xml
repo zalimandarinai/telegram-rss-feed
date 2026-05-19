@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 22:02:36 +0000</lastBuildDate>
-    <item>
-      <title>🔴В Європі можуть позбавити укр</title>
-      <link>https://www.mandarinai.lt/post/93082</link>
-      <description>🔴В Європі можуть позбавити українських чоловіків права на захист, — спецпредставниця по Україні у ЄС Йоханссон
-
-Не зовсім логічно виглядає те, що багато військовозобов’язаних чоловіків, які не мають права залишати Україну, лише перетинають кордон — можливо, навіть нелегально — одразу отримують тимчасовий захист.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_13-01-56.jpg" length="77767" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 13:01:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 23:51:19 +0000</lastBuildDate>
     <item>
       <title>Евакуація цивільних на роботиз</title>
       <link>https://www.mandarinai.lt/post/93083</link>
@@ -94,6 +85,13 @@
       <description>💥В окупованому Сніжному БпЛА атакують об’єкти рашистів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-19_20-18-16.mp4" length="431465" type="video/mp4"/>
       <pubDate>Tue, 19 May 2026 20:18:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Московський НПЗ зупинив робот</title>
+      <link>https://www.mandarinai.lt/post/93097</link>
+      <description>💥Московський НПЗ зупинив роботу після "українських санкцій", - Reuters.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_22-17-32.jpg" length="49300" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 22:17:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
