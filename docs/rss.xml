@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 18:29:18 +0000</lastBuildDate>
-    <item>
-      <title>В Києві затримали іноземця, як</title>
-      <link>https://www.mandarinai.lt/post/93076</link>
-      <description>В Києві затримали іноземця, який працював на російські спецслужби та підпалював автомобілі.
-
-Але він не став шукати військові машини, а підпалював цивільні автомобілі. 
-
-Для звітів перед кураторами, він заздалегідь наклеював символіку Сил оборони на автівки. 
-ㅤ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9031.MP4" length="23023041" type="video/mp4"/>
-      <pubDate>Tue, 19 May 2026 11:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ В російській держдумі публі</title>
-      <link>https://www.mandarinai.lt/post/93080</link>
-      <description>❗️ В російській держдумі публічно вперше (!) закликали припинити війну через економічну ситуацію. 
-
-📉 Депутат від Новосибірської області Ренат Сулейманов вважає, що російська економіка не витримає тривалої війни в Україні і що її потрібно закінчувати якнайшвидше. 
-
-💬 «Офіційно 40 % федерального бюджету це оборона і безпека. Про який розвиток, інвестиції, капіталовкладення можна говорити? Ні танки, ні снаряди не мають споживчої вартості: економіка їх виробляє, але населенням вони спожиті бути не можуть. Це чисті витрати», - щось насмілився сказав він.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_12-15-40.jpg" length="86918" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 12:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Сили оборони уразили ворожий </title>
-      <link>https://www.mandarinai.lt/post/93081</link>
-      <description>💥Сили оборони уразили ворожий КП в рф, дві понтонні переправи, пункти управління БпЛА та живу силу окупантів, — Генштаб.
-
-СОУ проводять уже більше активних дій, ніж ЗС рф.Паралельно з цим у росії фіксується падіння кількості новоприбулих контрактників приблизно на 30%.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_12-47-56.jpg" length="81619" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 12:47:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 20:21:06 +0000</lastBuildDate>
     <item>
       <title>🔴В Європі можуть позбавити укр</title>
       <link>https://www.mandarinai.lt/post/93082</link>
@@ -112,6 +80,20 @@
       <description>«Жоден президент не зробив більше для того, щоб Україна вистояла під час російського вторгнення», - якщо що, це Венс про Трампа</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9042.MP4" length="6853850" type="video/mp4"/>
       <pubDate>Tue, 19 May 2026 18:28:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Під Москвою знову вирує масшт</title>
+      <link>https://www.mandarinai.lt/post/93092</link>
+      <description>🔥Під Москвою знову вирує масштабна пожежа. Цього разу палають склади.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-19_19-25-24.mp4" length="246343" type="video/mp4"/>
+      <pubDate>Tue, 19 May 2026 19:25:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В окупованому Сніжному БпЛА а</title>
+      <link>https://www.mandarinai.lt/post/93095</link>
+      <description>💥В окупованому Сніжному БпЛА атакують об’єкти рашистів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-19_20-18-16.mp4" length="431465" type="video/mp4"/>
+      <pubDate>Tue, 19 May 2026 20:18:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
