@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 23:51:19 +0000</lastBuildDate>
-    <item>
-      <title>Евакуація цивільних на роботиз</title>
-      <link>https://www.mandarinai.lt/post/93083</link>
-      <description>Евакуація цивільних на роботизованій платформі: успішна місія 57-ої бригади біля Вовчанська.
-
-Командування оперативно прийняло рішення про порятунок 85-річної хворої жінки у важкому стані та її сина.
-
-Завдяки злагодженій роботі піхоти, медиків, операторів НРК та управління цивільні в безпеці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8997.MP4" length="16308935" type="video/mp4"/>
-      <pubDate>Tue, 19 May 2026 15:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Диктатор путін прилетів до Кит</title>
-      <link>https://www.mandarinai.lt/post/93084</link>
-      <description>Диктатор путін прилетів до Китаю.
-
-Божевільні діди продовжують розхитувати світ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_15-39-50.jpg" length="49305" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 15:39:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 01:57:29 +0000</lastBuildDate>
     <item>
       <title>🇩🇪 Німеччина готується до можл</title>
       <link>https://www.mandarinai.lt/post/93085</link>
@@ -92,6 +72,24 @@
       <description>💥Московський НПЗ зупинив роботу після "українських санкцій", - Reuters.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_22-17-32.jpg" length="49300" type="image/jpeg"/>
       <pubDate>Tue, 19 May 2026 22:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Внаслідок атаки на Одесу гор</title>
+      <link>https://www.mandarinai.lt/post/93098</link>
+      <description>⚡️Внаслідок атаки на Одесу горить житловий будинок.
+
+Повідомляють що в місті частково пропало світло.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_01-34-34.jpg" length="256244" type="image/jpeg"/>
+      <pubDate>Wed, 20 May 2026 01:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Частина багатоповерхівки зру</title>
+      <link>https://www.mandarinai.lt/post/93099</link>
+      <description>⚡️Частина багатоповерхівки зруйнована у Конотопі на Сумщині через атаку рф, — міський голова Артем Семеніхін
+
+Наразі точна кількість постраждалих невідома.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_01-54-37.jpg" length="58923" type="image/jpeg"/>
+      <pubDate>Wed, 20 May 2026 01:54:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
