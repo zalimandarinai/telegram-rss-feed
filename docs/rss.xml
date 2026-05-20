@@ -6,33 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 10:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 13:26:06 +0000</lastBuildDate>
     <item>
       <title>«Жоден президент не зробив біл</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>«Жоден президент не зробив більше для того, щоб Україна вистояла під час російського вторгнення», - якщо що, це Венс про Трампа</description>
       <pubDate>Tue, 19 May 2026 18:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Під Москвою знову вирує масшт</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🔥Під Москвою знову вирує масштабна пожежа. Цього разу палають склади.</description>
-      <pubDate>Tue, 19 May 2026 19:25:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>СБУ, ОГП та Департамент внутрі</title>
-      <link>https://www.mandarinai.lt/post/93109</link>
-      <description>СБУ, ОГП та Департамент внутрішньої безпеки Нацполіціі «закрили» високопоставлених поліцейських: керівників кількох обласних управлінь поліції підозрюють у «кришуванні» онлайн-порно.
-
-Серед затриманих:
-
-▫️ начальник ГУНП в Івано-Франківській області;
-▫️ заступник начальника ГУНП в Івано-Франківській області;
-▫️ перший заступник начальника ГУНП у Тернопільській області;
-▫️ заступник начальника ГУНП у Житомирській області;
-▫️ водій автогосподарства ДУ «Центр обслуговування підрозділів МВС», який виконував роль посередника-кур’єра.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_08-24-18.jpg" length="167506" type="image/jpeg"/>
-      <pubDate>Wed, 20 May 2026 08:24:18 +0000</pubDate>
     </item>
     <item>
       <title>⚡️ Скорочення військ США в Євр</title>
@@ -82,9 +61,27 @@
 
 Йдеться про ракету Р-60, встановлену на дроні «шахед», залишки якоі було знайдено поблизу селища Камка.
 
-Поруч з уламками ворожого безпілотника з ракетою зафіксовано рівень γ-випромінювання 12 мкЗв/год, що суттєво перевищує звичайний фон.</description>
+Поруч з уламками ворожого безпілотника з ракетою зафіксовано суттєво підвищений рівень γ-випромінювання, який становив 12 мкЗв/год, що суттєво перевищує звичайний фон.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_10-08-37.jpg" length="217812" type="image/jpeg"/>
       <pubDate>Wed, 20 May 2026 10:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Знищують ще до старту: бійц</title>
+      <link>https://www.mandarinai.lt/post/93123</link>
+      <description>❗️ Знищують ще до старту: бійці підрозділу «Апекс» бригади ДПСУ «Форпост» завдають ударів по стартових позиціях окупантів, звідки ворог запускає FPV-дрони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9062.MP4" length="14586780" type="video/mp4"/>
+      <pubDate>Wed, 20 May 2026 11:27:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зараз дуже важливо на Півночі </title>
+      <link>https://www.mandarinai.lt/post/93126</link>
+      <description>Зараз дуже важливо на Півночі виявляти і нейтралізувати ворожі антени, ретранслятори, засоби спостереження та РЕБ. 
+
+Саме це не дозволить окупантам в разі наступальних дій швидко добитися переваги в дронах. 
+
+Отже, 210-ий штурмовий полк зараз виконує саме цю роботу на Сумщині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9063.MP4" length="8327730" type="video/mp4"/>
+      <pubDate>Wed, 20 May 2026 12:35:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
