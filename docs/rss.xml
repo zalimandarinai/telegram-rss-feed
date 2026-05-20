@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 01:57:29 +0000</lastBuildDate>
-    <item>
-      <title>🇩🇪 Німеччина готується до можл</title>
-      <link>https://www.mandarinai.lt/post/93085</link>
-      <description>🇩🇪 Німеччина готується до можливої війни з росією і виділить €10 млрд на цивільну оборону, —  Bild
-
-Кошти планують спрямувати на закупівлю 1000 спецавтомобілів, посилення захисних споруд та створення мобільного табору на 110 тисяч місць.
-
-Також проведуть загальнонаціональний аудит укриттів, зокрема бункерів, тунелів і підземних паркінгів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_16-31-50.jpg" length="136699" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 16:31:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Сирський підтвердив загрозу </title>
-      <link>https://www.mandarinai.lt/post/93086</link>
-      <description>⚡️Сирський підтвердив загрозу розширення фронту з боку Білорусі — це реально, ми знаємо ці дані, про те що Генштаб рф активно прораховує й планує операції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-19_16-35-25.mp4" length="2023534" type="video/mp4"/>
-      <pubDate>Tue, 19 May 2026 16:35:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀США розривають 80-річну оборо</title>
-      <link>https://www.mandarinai.lt/post/93087</link>
-      <description>👀США розривають 80-річну оборонну програму з Канадою через невиконання нею зобов'язань
-
-Адміністрація Дональда Трампа звинуватила Оттаву в порожній риториці, відсутності реальних інвестицій у власну армію та надмірній залежності від потужності США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_18-08-01.jpg" length="50161" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 18:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Україні створили новий тип о</title>
-      <link>https://www.mandarinai.lt/post/93088</link>
-      <description>В Україні створили новий тип озброєння ППО, а саме, морський дрон, який може збивати повітряні цілі.
-
-Надводний безпілотник «Katran X1.2» має на борту 27 перехоплювачів MAC Dead Fly, і його продемонстрували іноземним журналістам, йдеться у матеріалі німецького видання WELT.
-
-Дрон «Katran X1.2» є модульною платформою, яка, на вибір, виконує функції камікадзе, несе дві ракети Р-73 малої дальності або різні типи повітряних БПЛА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-19_18-25-22.jpg" length="31468" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 18:25:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 06:01:04 +0000</lastBuildDate>
     <item>
       <title>«Жоден президент не зробив біл</title>
       <link>https://www.mandarinai.lt/post/93089</link>
@@ -90,6 +52,22 @@
 Наразі точна кількість постраждалих невідома.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_01-54-37.jpg" length="58923" type="image/jpeg"/>
       <pubDate>Wed, 20 May 2026 01:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі добрі дрони завітали на</title>
+      <link>https://www.mandarinai.lt/post/93101</link>
+      <description>💥Вночі добрі дрони завітали на хімічне підприємство в Ставропольському краї.
+
+Зараз БПЛА атакують  нафтопереробноий завод в Ніжєгородській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-20_03-37-32.mp4" length="700873" type="video/mp4"/>
+      <pubDate>Wed, 20 May 2026 03:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Дніпрі через удар рф загин</title>
+      <link>https://www.mandarinai.lt/post/93104</link>
+      <description>⚡️У Дніпрі через удар рф загинули дві людини, шестеро поран</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_05-45-10.jpg" length="291018" type="image/jpeg"/>
+      <pubDate>Wed, 20 May 2026 05:45:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
