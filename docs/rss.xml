@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 01:56:44 +0000</lastBuildDate>
-    <item>
-      <title>🪙 Трамп отримав «довічний» іму</title>
-      <link>https://www.mandarinai.lt/post/93117</link>
-      <description>🪙 Трамп отримав «довічний» імунітет від податкових перевірок, — Reuters
-
-⚖️ Міністерство юстиції США заборонило Податковій службі проводити будь-які перевірки податкових декларацій Дональда Трампа, його родини та його компаній.
-
-💵 Заборона стосується всіх податкових періодів до травня 2026 року та навіть питань, які «могли бути порушені» під час можливих перевірок.
-
-🗽 Рішення було ухвалено після того, як Трамп відкликав позов на $10 млрд. через витік даних його податкових декларацій.
-
-🤦‍♂️ А ще він зупинив вісім воєн, його люблять в Гренландії, а Венесуелу він зробить 52 штатом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_09-43-02.jpg" length="80383" type="image/jpeg"/>
-      <pubDate>Wed, 20 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Противник, можливо, почав проб</title>
-      <link>https://www.mandarinai.lt/post/93118</link>
-      <description>Противник, можливо, почав пробувати застосувати «брудну» радіоактивну зброю проти Украіни: СБУ виявила підвищений радіаційний фон на уламках російського ударного дрона, яким ворог атакував Чернігівську область
-
-Йдеться про ракету Р-60, встановлену на дроні «шахед», залишки якоі було знайдено поблизу селища Камка.
-
-Поруч з уламками ворожого безпілотника з ракетою зафіксовано суттєво підвищений рівень γ-випромінювання, який становив 12 мкЗв/год, що суттєво перевищує звичайний фон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-20_10-08-37.jpg" length="217812" type="image/jpeg"/>
-      <pubDate>Wed, 20 May 2026 10:08:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 06:02:10 +0000</lastBuildDate>
     <item>
       <title>❗️ Знищують ще до старту: бійц</title>
       <link>https://www.mandarinai.lt/post/93123</link>
@@ -118,6 +92,31 @@
 
 На окупованих територіях залишилося лише два центри з подібними завданнями.</description>
       <pubDate>Wed, 20 May 2026 18:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Всі великі НПЗ у центральній </title>
+      <link>https://www.mandarinai.lt/post/93133</link>
+      <description>💥Всі великі НПЗ у центральній росії призупинили або скоротили виробництво палива після атак українських безпілотників останніми днями, — Reuters
+
+Сукупна потужність цих НПЗ перевищує 238 тисяч тонн на добу. Це становить приблизно четверту частину всіх нафтопереробних потужностей РФ. На ці заводи припадає більше 30% російського виробництва бензину та близько 25% виробництва дизельного палива. 
+
+Москва вже ввела заборону на експорт бензину з квітня до кінця липня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-21_02-39-30.jpg" length="51337" type="image/jpeg"/>
+      <pubDate>Thu, 21 May 2026 02:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️путін лякає ядеркою з Білору</title>
+      <link>https://www.mandarinai.lt/post/93134</link>
+      <description>❗️путін лякає ядеркою з Білорусі — російське Міноборони демонстративно звітує, що «ядерні боєприпаси доставлені в польові пункти зберігання ракетної бригади в РБ».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-21_05-01-23.mp4" length="5882342" type="video/mp4"/>
+      <pubDate>Thu, 21 May 2026 05:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В російській Сизрані було ата</title>
+      <link>https://www.mandarinai.lt/post/93135</link>
+      <description>💥В російській Сизрані було атаковано місцевий НПЗ, після чого виникла масштабна пожежа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-21_05-03-13.jpg" length="78557" type="image/jpeg"/>
+      <pubDate>Thu, 21 May 2026 05:03:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
