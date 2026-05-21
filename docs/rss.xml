@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 13:50:17 +0000</lastBuildDate>
-    <item>
-      <title>«Не треба лякати людей», - Ігн</title>
-      <link>https://www.mandarinai.lt/post/93138</link>
-      <description>«Не треба лякати людей», - Ігнат про підвищений рівень радіації на уламках безпілотника з ракетою
-
-Безпілотник ніс стару радянську авіаційну ракету Р-60, бойова частина якої має сердечник зі збідненим ураном.
-
-«Це стандартний сплав», - зазначив начальник управління комунікацій Командування Повітряних Сил</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9072.MP4" length="10031311" type="video/mp4"/>
-      <pubDate>Thu, 21 May 2026 07:46:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 16:30:58 +0000</lastBuildDate>
     <item>
       <title>Греція вимагає вибачень від Ук</title>
       <link>https://www.mandarinai.lt/post/93140</link>
@@ -142,6 +131,22 @@
 ▪️зв'язок – через Starlink.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-21_13-12-05.jpg" length="85109" type="image/jpeg"/>
       <pubDate>Thu, 21 May 2026 13:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент прильоту по багатоповер</title>
+      <link>https://www.mandarinai.lt/post/93152</link>
+      <description>Момент прильоту по багатоповерхівці в Дніпрі показали місцеві ЗМІ.
+
+Постраждалих та поранених 11. Серед них 13-річний хлопчик.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9090.MP4" length="3287094" type="video/mp4"/>
+      <pubDate>Thu, 21 May 2026 14:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Окупанти скинули міну типу </title>
+      <link>https://www.mandarinai.lt/post/93153</link>
+      <description>❗️ Окупанти скинули міну типу «Паштет» в центральній частині Херсона на перехресті Незалежності і Залізничної.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-21_15-15-42.jpg" length="92492" type="image/jpeg"/>
+      <pubDate>Thu, 21 May 2026 15:15:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
