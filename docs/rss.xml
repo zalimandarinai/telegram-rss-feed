@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 18:25:39 +0000</lastBuildDate>
-    <item>
-      <title>В Москві путін закликає помсти</title>
-      <link>https://www.mandarinai.lt/post/93180</link>
-      <description>В Москві путін закликає помститися за удар по будівлі коледжу на Луганщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9112.MP4" length="14421125" type="video/mp4"/>
-      <pubDate>Fri, 22 May 2026 14:49:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Результати прильотів в окупова</title>
-      <link>https://www.mandarinai.lt/post/93181</link>
-      <description>Результати прильотів в окупованому місті Старобільськ, яке вважалося найменш постраждалим в ході бойових дій на Луганщині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9113.MP4" length="13725674" type="video/mp4"/>
-      <pubDate>Fri, 22 May 2026 14:58:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 20:25:44 +0000</lastBuildDate>
     <item>
       <title>Оператори дронів 105-го загону</title>
       <link>https://www.mandarinai.lt/post/93188</link>
@@ -60,8 +46,12 @@
     <item>
       <title>Голова нацрозвідки США Тулсі Г</title>
       <link>https://www.mandarinai.lt/post/93193</link>
-      <description>Голова нацрозвідки США Тулсі Габбард, яка займала відверто проросійську позицію, йде у відставку, - що ж відтепер буде з розслідуванням щодо «біолабораторій ЦРУ» в Украіні?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_17-50-39.jpg" length="32164" type="image/jpeg"/>
+      <description>Голова нацрозвідки США Тулсі Габбард, яка займала відверто проросійську позицію, подала у відставку, - що ж відтепер буде з розслідуванням щодо «біолабораторій ЦРУ» в Украіні, на яких в неї зʼїхав дах?
+
+Одну з українських лабораторій, які вижили завдяки фінансуванню США, в цей день шість років тому я мав нагоду відвідати.
+
+Символічно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_17-50-39.jpg" length="59866" type="image/jpeg"/>
       <pubDate>Fri, 22 May 2026 17:50:39 +0000</pubDate>
     </item>
     <item>
@@ -70,6 +60,30 @@
       <description>Франція, Британія та Німеччина разом будуть виробляти крилаті та гіперзвукові ракети для гіпотетичних ударів по тилу росіі, їх дальність сягатиме понад дві тисячі кілометрів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_18-18-47.jpg" length="83755" type="image/jpeg"/>
       <pubDate>Fri, 22 May 2026 18:18:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Є попередня домовленість про в</title>
+      <link>https://www.mandarinai.lt/post/93195</link>
+      <description>Є попередня домовленість про вивезення з окупованого міста Олешки близько 6000 людей на підконтрольну територію, - омбудсмен Лубінець.
+
+Триває узгодження дати припинення вогню для рятувальної операції. 
+
+Олешки для Херсона це, як район Дарниці для Києва, - місто розташоване на лівому березі Дніпра майже одразу за Антонівським мостом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9133.MP4" length="15819305" type="video/mp4"/>
+      <pubDate>Fri, 22 May 2026 19:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Дрони ЗСУ успішно ріжуть лог</title>
+      <link>https://www.mandarinai.lt/post/93197</link>
+      <description>⚡️Дрони ЗСУ успішно ріжуть логістику ворогу на т.о. територіях
+
+Найбільше бʼють по Донецьку та трасах на Маріуполь і Покровськ. Також логістика ворога активно страждає і на Бєлгородщині. На деяких відео окупанти ниють, що їх атакують незвичайні FPV зі збільшеною дальністю та БЧ.
+
+Гауляйтер Херсонщини нещодавно заявив про заборону руху вантажівок на важливій логістичній трасі Р-280 на ділянці Ростов–Джанкой. 
+
+Тільки з початку року було геолоковано 64 удари по логістиці – неоприлюднених та негеолокованих в рази більше. Через активний атаки СОУ армії рф все важче забезпечувати свій о/с, що підтверджує фактична зупинка лінії фронту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-22_19-47-36.mp4" length="2098321" type="video/mp4"/>
+      <pubDate>Fri, 22 May 2026 19:47:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
