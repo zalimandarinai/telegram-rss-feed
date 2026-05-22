@@ -6,78 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 16:11:15 +0000</lastBuildDate>
-    <item>
-      <title>‼️Україна звільнила близько 40</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>‼️Україна звільнила близько 400 км² територій після масового відключення Starlink у Росії, — Bloomberg
-
-У звіті для Конгресу США зазначено, що російські можливості були "тимчасово, але значно підірвані", а Збройні сили України змогли провести перші успішні наступальні дії з 2023 року.
-
-Ситуацію для окупантів погіршило те, що Кремль паралельно почав блокувати Telegram. Відмінно спрацювало</description>
-      <pubDate>Fri, 22 May 2026 06:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Дата-аналітика — одна з най</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️ Дата-аналітика — одна з найперспективніших професій у 2026 році
-
-Бізнеси сьогодні приймають рішення на основі даних. Саме тому дата-аналітики потрібні в IT, маркетингу, e-commerce, фінансах, логістиці та десятках інших сфер.
-
-🔥 За даними DOU, медіанна зарплата українських Data Analysts уже перевищує $1700, і попит на таких спеціалістів тільки зростає.
-
-Хочете зрозуміти, чи підходить вам ця професія?
-
-Реєструйтесь на безкоштовний онлайн-марафон з Data Analytics - де ви познайомитесь з професією та зробите перші практичні кроки.
-
-На марафоні ви дізнаєтесь:
-🗣 як аналітики працюють з даними в реальних компаніях
-🗣 які інструменти використовують (SQL, Excel, BI)
-🗣 як новачку увійти в сферу Data Analytics
-
-🕓 Онлайн | Безкоштовно
-
-👉 Реєстрація:
-https://i.goit.global/2aQFR</description>
-      <pubDate>Fri, 22 May 2026 06:12:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Українські біженці почали ма</title>
-      <link>https://www.mandarinai.lt/post/93176</link>
-      <description>⚡️Українські біженці почали масово повертатися додому, за рік додому повернулися близько 1,7 мільйона українців, — Business Insider</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_12-51-46.jpg" length="148248" type="image/jpeg"/>
-      <pubDate>Fri, 22 May 2026 12:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Наступ з Білорусі можливий:</title>
-      <link>https://www.mandarinai.lt/post/93177</link>
-      <description>‼️ Наступ з Білорусі можливий: кремль готує декілька сценаріїв, — РБК-Україна з посиланням на джерела в Силах оборони
-
- Найбільш реалістичним варіантом наразі називають спробу росіян створити «буферну зону» завглибшки 10–20 км у Чернігівській області. Найменш імовірним наразі вважається повторний штурм столиці України через брак ресурсів).
-
- Початок будь-яких активних дій на цьому напрямку можливий не раніше осені 2026 року.
-
-Станом на кінець травня рівень загрози оцінюється як низький. У ворога немає достатнього угруповання військ біля кордону. З боку Білорусі фіксується присутність лише близько 1900 місцевих військових на ротації (це 4 батальйони).
-
- Для реалізації майбутніх планів на північних рубежах кремль планує залучити до армії ще 100 тисяч осіб.
-
-Така операція має на меті:
-
- Сковування резервів ЗСУ та недопущення їхнього перекидання на інші ділянки фронту.
-
- Примус українського командування послабити угруповання військ на Донеччині
-
- Створення контрольованої «санітарної зони» на українській території.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_12-59-31.jpg" length="62968" type="image/jpeg"/>
-      <pubDate>Fri, 22 May 2026 12:59:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Переговори за участі РФ, США т</title>
-      <link>https://www.mandarinai.lt/post/93179</link>
-      <description>Переговори за участі РФ, США та України тимчасово зупинені, - Марко Рубіо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9110.MP4" length="30993684" type="video/mp4"/>
-      <pubDate>Fri, 22 May 2026 14:25:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 18:25:39 +0000</lastBuildDate>
     <item>
       <title>В Москві путін закликає помсти</title>
       <link>https://www.mandarinai.lt/post/93180</link>
@@ -91,6 +20,56 @@ https://i.goit.global/2aQFR</description>
       <description>Результати прильотів в окупованому місті Старобільськ, яке вважалося найменш постраждалим в ході бойових дій на Луганщині.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9113.MP4" length="13725674" type="video/mp4"/>
       <pubDate>Fri, 22 May 2026 14:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори дронів 105-го загону</title>
+      <link>https://www.mandarinai.lt/post/93188</link>
+      <description>Оператори дронів 105-го загону ДПСУ ім. Володимира Великого активно розбирають російські позиції на північ від Чернігівщини і дають сигнал сусіднім білорусам, що з ними буде те ж саме, якщо послухаються росіян і нападуть на українців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9111.MP4" length="25164809" type="video/mp4"/>
+      <pubDate>Fri, 22 May 2026 16:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>НАТО провело підземні навчання</title>
+      <link>https://www.mandarinai.lt/post/93189</link>
+      <description>НАТО провело підземні навчання на покинутій платформі станції Charing Cross у лондонському метро на випадок війни з росією.
+
+Військові моделювали можливий напад рф на країни Балтії. 
+
+В рамках операції НАТО відпрацьовувало дальні удари, радіоелектронну боротьбу та протидію дронам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_17-05-01.jpg" length="138504" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 17:05:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤨 США офіційно призупинили три</title>
+      <link>https://www.mandarinai.lt/post/93191</link>
+      <description>🤨 США офіційно призупинили тристоронні переговори з Україною та рф про завершення війни, — Рубіо
+
+Вашингтон не бачить сенсу продовжувати зустрічі, які не дають результату. Ми не зацікавлені в тому, щоб втягуватися у безкінечний цикл переговорів, які ні до чого не призводять.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-22_17-23-57.mp4" length="2452112" type="video/mp4"/>
+      <pubDate>Fri, 22 May 2026 17:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Рютте анонсував участь Зеле</title>
+      <link>https://www.mandarinai.lt/post/93192</link>
+      <description>❗️ Рютте анонсував участь Зеленського у саміті НАТО в Туреччині
+
+Генcек НАТО заявив, що запросив президента України Володимира Зеленського взяти участь у саміті лідерів Альянсу в Анкарі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_17-25-39.jpg" length="41523" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 17:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Голова нацрозвідки США Тулсі Г</title>
+      <link>https://www.mandarinai.lt/post/93193</link>
+      <description>Голова нацрозвідки США Тулсі Габбард, яка займала відверто проросійську позицію, йде у відставку, - що ж відтепер буде з розслідуванням щодо «біолабораторій ЦРУ» в Украіні?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_17-50-39.jpg" length="32164" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 17:50:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Франція, Британія та Німеччина</title>
+      <link>https://www.mandarinai.lt/post/93194</link>
+      <description>Франція, Британія та Німеччина разом будуть виробляти крилаті та гіперзвукові ракети для гіпотетичних ударів по тилу росіі, їх дальність сягатиме понад дві тисячі кілометрів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_18-18-47.jpg" length="83755" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 18:18:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
