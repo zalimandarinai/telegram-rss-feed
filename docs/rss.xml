@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 10:12:25 +0000</lastBuildDate>
-    <item>
-      <title>Над Чорним морем британський л</title>
-      <link>https://www.mandarinai.lt/post/93158</link>
-      <description>Над Чорним морем британський літак РЕР RC-135W Rivet Joint був перехоплений російськими Су-27 і Су-35, заявляє Британія</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9099.MP4" length="2849250" type="video/mp4"/>
-      <pubDate>Thu, 21 May 2026 19:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>⛽️ Пальне не буде дешевшати, н</title>
-      <link>https://www.mandarinai.lt/post/93159</link>
-      <description>⛽️ Пальне не буде дешевшати, навіть, якщо буде укладена мирна угода США з Іраном найближчим часом.
-
-🇮🇷 Іран вводить плату до $2 млн. за проходження через Ормузьку протоку.
-
-🇴🇲 Про це він домовляється з Оманом.
-
-🛳️ Це може спричинити значні витрати для судноплавних компаній. 
-
-💬 «Іран і Оман мають мобілізувати всі свої ресурси для забезпечення безпеки та ефективного управління судноплавством», — заявив посол Ірану у Франції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-21_20-13-32.jpg" length="71404" type="image/jpeg"/>
-      <pubDate>Thu, 21 May 2026 20:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️США схвалили продаж Україні </title>
-      <link>https://www.mandarinai.lt/post/93161</link>
-      <description>⚡️США схвалили продаж Україні обладнання для  зенітно
--ракетних комплексів HAWK</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_03-15-23.jpg" length="334002" type="image/jpeg"/>
-      <pubDate>Fri, 22 May 2026 03:15:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 13:18:21 +0000</lastBuildDate>
     <item>
       <title>‼️Україна звільнила близько 40</title>
       <link>https://www.mandarinai.lt/post/93163</link>
@@ -124,6 +94,36 @@ https://i.goit.global/2aQFR</description>
 Компанія MOL пов'язана з Україною через транзит нафти по нафтопроводу "Дружба"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_09-07-32.jpg" length="187469" type="image/jpeg"/>
       <pubDate>Fri, 22 May 2026 09:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Українські біженці почали ма</title>
+      <link>https://www.mandarinai.lt/post/93176</link>
+      <description>⚡️Українські біженці почали масово повертатися додому, за рік додому повернулися близько 1,7 мільйона українців, — Business Insider</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_12-51-46.jpg" length="148248" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 12:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Наступ з Білорусі можливий:</title>
+      <link>https://www.mandarinai.lt/post/93177</link>
+      <description>‼️ Наступ з Білорусі можливий: кремль готує декілька сценаріїв, — РБК-Україна з посиланням на джерела в Силах оборони
+
+ Найбільш реалістичним варіантом наразі називають спробу росіян створити «буферну зону» завглибшки 10–20 км у Чернігівській області. Найменш імовірним наразі вважається повторний штурм столиці України через брак ресурсів).
+
+ Початок будь-яких активних дій на цьому напрямку можливий не раніше осені 2026 року.
+
+Станом на кінець травня рівень загрози оцінюється як низький. У ворога немає достатнього угруповання військ біля кордону. З боку Білорусі фіксується присутність лише близько 1900 місцевих військових на ротації (це 4 батальйони).
+
+ Для реалізації майбутніх планів на північних рубежах кремль планує залучити до армії ще 100 тисяч осіб.
+
+Така операція має на меті:
+
+ Сковування резервів ЗСУ та недопущення їхнього перекидання на інші ділянки фронту.
+
+ Примус українського командування послабити угруповання військ на Донеччині
+
+ Створення контрольованої «санітарної зони» на українській території.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-22_12-59-31.jpg" length="62968" type="image/jpeg"/>
+      <pubDate>Fri, 22 May 2026 12:59:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
