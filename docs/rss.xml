@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 18:50:43 +0000</lastBuildDate>
-    <item>
-      <title>Помстилися за Херсон, - бійці </title>
-      <link>https://www.mandarinai.lt/post/93218</link>
-      <description>Помстилися за Херсон, - бійці 34-ої бригади морської піхоти жорстко накрили будівлю в окупованому місті Олешки, з якої ворог запускав БПЛА
-
-Удари по ній розпочались, коли на позицію завезли нових операторів та пальне для генераторів.
-
-Ресурсі противника кажуть про великі втрати загиблими та пораненими.</description>
-      <pubDate>Sat, 23 May 2026 11:48:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти біля Покровська масов</title>
-      <link>https://www.mandarinai.lt/post/93219</link>
-      <description>Окупанти біля Покровська масово підриваються на стежках, замінованих українськими саперами та операторами дронів, кадри візуального контролю 14-оі бригади НГУ ім. Івана Богуна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9148.MP4" length="11487727" type="video/mp4"/>
-      <pubDate>Sat, 23 May 2026 12:06:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 19:58:50 +0000</lastBuildDate>
     <item>
       <title>⚡️ ЗСУ влучили у фрегат «Адмір</title>
       <link>https://www.mandarinai.lt/post/93221</link>
@@ -106,6 +89,12 @@
       <description>❗️ Вибухи в Києві, столицю атакують ударні БПЛА, робота ППО</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_18-31-36.jpg" length="64262" type="image/jpeg"/>
       <pubDate>Sat, 23 May 2026 18:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Вже 14 постраждалих та один </title>
+      <link>https://www.mandarinai.lt/post/93232</link>
+      <description>❗️Вже 14 постраждалих та один загиблий через ворожий удар безпілотника по похоронній ході в Сумах. Один чоловік отримав важкі поранення і помер в лікарні. Поранений священик, — Сумська МВА і «Суспільне»</description>
+      <pubDate>Sat, 23 May 2026 18:35:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
