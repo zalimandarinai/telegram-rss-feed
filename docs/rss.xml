@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 16:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 17:51:19 +0000</lastBuildDate>
     <item>
       <title>Зеленський висловив подяку СБУ</title>
       <link>https://www.mandarinai.lt/post/93214</link>
@@ -93,6 +93,15 @@
 🇬🇧В Міністерстві закордонних справ Великої Британії заявили: «Ми підтримуємо родину британського громадянина, який загинув в Україні, і перебуваємо на зв’язку з українською владою».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_15-50-34.jpg" length="109640" type="image/jpeg"/>
       <pubDate>Sat, 23 May 2026 15:50:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Посольство США в Києві попе</title>
+      <link>https://www.mandarinai.lt/post/93228</link>
+      <description>⚡️ Посольство США в Києві попереджає про ймовірний удар росії по місту протягом наступних 24 годин.
+
+Також стало відомо, що РФ перекинула до Курської області ракетні установки «Онікс» і «Циркон».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_17-10-59.jpg" length="85346" type="image/jpeg"/>
+      <pubDate>Sat, 23 May 2026 17:10:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
