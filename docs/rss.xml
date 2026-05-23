@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 22:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 23:44:33 +0000</lastBuildDate>
     <item>
       <title>💬«Мене обманули; я йшов туди, </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -20,19 +20,6 @@
       <pubDate>Sat, 23 May 2026 15:47:18 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ Вибухи в Києві, столицю ата</title>
-      <link>https://www.mandarinai.lt/post/93231</link>
-      <description>❗️ Вибухи в Києві, столицю атакують ударні БПЛА, робота ППО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_18-31-36.jpg" length="64262" type="image/jpeg"/>
-      <pubDate>Sat, 23 May 2026 18:31:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Вже 14 постраждалих та один </title>
-      <link>https://www.mandarinai.lt/post/93232</link>
-      <description>❗️Вже 14 постраждалих та один загиблий через ворожий удар безпілотника по похоронній ході в Сумах. Один чоловік отримав важкі поранення і помер в лікарні. Поранений священик, — Сумська МВА і «Суспільне»</description>
-      <pubDate>Sat, 23 May 2026 18:35:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Через покидьків в Кремлі та не</title>
       <link>https://www.mandarinai.lt/post/93240</link>
       <description>Через покидьків в Кремлі та нелюдів, які тиснуть на кнопки пускових установок, мирні жителі Києва змушені ховатися в метро</description>
@@ -43,15 +30,31 @@
       <title>❗️ Щойно зʼявилася інформація </title>
       <link>https://www.mandarinai.lt/post/93241</link>
       <description>❗️ Щойно зʼявилася інформація нібито про приліт «Орєшніка» по Білій Церкві, - потребує верифікації</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9165.MP4" length="2572991" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9167.MP4" length="1112871" type="video/mp4"/>
       <pubDate>Sat, 23 May 2026 22:28:42 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ Відео прильотів боєголовок,</title>
+      <title>❗️ Відео прильотів суббоєприпа</title>
       <link>https://www.mandarinai.lt/post/93244</link>
-      <description>❗️ Відео прильотів боєголовок, ймовірно, «Орєшніка» з відеокамер в Білій Церкві</description>
+      <description>❗️ Відео прильотів суббоєприпасів, ймовірно, «Орєшніка» з відеокамер в Білій Церкві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9166.MP4" length="2597713" type="video/mp4"/>
       <pubDate>Sat, 23 May 2026 22:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥇🇺🇦🆚🇳🇱 Наш Усик переміг Верхов</title>
+      <link>https://www.mandarinai.lt/post/93246</link>
+      <description>🥇🇺🇦🆚🇳🇱 Наш Усик переміг Верховена в 11-му раунді технічним нокаутом, відправивши його спочатку в нокдаун, хоча впродовж двобою голландець був більш активний в атаках.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9168.MP4" length="3645280" type="video/mp4"/>
+      <pubDate>Sat, 23 May 2026 23:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Київ, попри удари, кричить з в</title>
+      <link>https://www.mandarinai.lt/post/93247</link>
+      <description>Київ, попри удари, кричить з вікон «Усик, Усик, Усик!» «Слава Україні!» «Героям слава!» 
+
+Більше, ніш просто перемога в боксі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9169.MP4" length="17612574" type="video/mp4"/>
+      <pubDate>Sat, 23 May 2026 23:27:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
