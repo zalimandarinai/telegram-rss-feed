@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 17:51:19 +0000</lastBuildDate>
-    <item>
-      <title>Зеленський висловив подяку СБУ</title>
-      <link>https://www.mandarinai.lt/post/93214</link>
-      <description>Зеленський висловив подяку СБУ за удар по підприємству російської військової індустрії «Метафракс Кемікалс», яке знаходиться в Пермському краї на відстані 1700 км від українських кордонів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9142.MP4" length="1103411" type="video/mp4"/>
-      <pubDate>Sat, 23 May 2026 09:59:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>До Латвії прилетів ще один дро</title>
-      <link>https://www.mandarinai.lt/post/93215</link>
-      <description>До Латвії прилетів ще один дрон. 
-
-Він упав в озеро в озеро Дрідзіс у Краславському краї і вибухнув. Озеро знаходиться на південному сході країни неподалік кордону з Білоруссю.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_10-07-19.jpg" length="185240" type="image/jpeg"/>
-      <pubDate>Sat, 23 May 2026 10:07:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полонений громадянин Кенії пор</title>
-      <link>https://www.mandarinai.lt/post/93217</link>
-      <description>Полонений громадянин Кенії порозумнішав в украінському таборі, тож звертається до своїх співвітчизників з закликом не звʼязуватись з російськими рекрутерами</description>
-      <pubDate>Sat, 23 May 2026 11:28:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 18:50:43 +0000</lastBuildDate>
     <item>
       <title>Помстилися за Херсон, - бійці </title>
       <link>https://www.mandarinai.lt/post/93218</link>
@@ -99,9 +77,35 @@
       <link>https://www.mandarinai.lt/post/93228</link>
       <description>⚡️ Посольство США в Києві попереджає про ймовірний удар росії по місту протягом наступних 24 годин.
 
-Також стало відомо, що РФ перекинула до Курської області ракетні установки «Онікс» і «Циркон».</description>
+Раніше обидва рази попередження від США публікували за день до атаки, після таких застережень росія запускала «Орєшнік»: 21 листопада 2024 року по Дніпру, 9 січня 2026 року по Львову.
+
+Також стало відомо, що рф перекинула до Курської області пускові установки для ракет «Циркон».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_17-10-59.jpg" length="85346" type="image/jpeg"/>
       <pubDate>Sat, 23 May 2026 17:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Депутат Бундестагу звинувач</title>
+      <link>https://www.mandarinai.lt/post/93229</link>
+      <description>🇩🇪 Депутат Бундестагу звинувачує партію «AfD» в тому, що вона є путінською проксі та агентурою: «путін шкодить німецькому народу. путін шкодить Європі. путін убиває людей у Європі». 
+
+➡️ Представник ХДС Юрген Гардт наголосив, що партія «Альтернатива для Німеччини» відкрито займає проросійську позицію та виправдовує дії Кремля.
+
+💬 «Через несправність безпілотника путіна вчора громадянам ЄС уперше в історії Євросоюзу довелося ховатися в бункері. А потім вони заявляють «путін хороший хлопець, а німецький уряд і Україна погані». Вони абсолютно не при тямі», - так намагався розбудити колег Юрген Гардт.</description>
+      <pubDate>Sat, 23 May 2026 18:10:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Атака по Балаклеї на Харків</title>
+      <link>https://www.mandarinai.lt/post/93230</link>
+      <description>❗️ Атака по Балаклеї на Харківщині: пожежа в навчальному закладі та згоріла автівка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_18-29-27.jpg" length="187168" type="image/jpeg"/>
+      <pubDate>Sat, 23 May 2026 18:29:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Вибухи в Києві, столицю ата</title>
+      <link>https://www.mandarinai.lt/post/93231</link>
+      <description>❗️ Вибухи в Києві, столицю атакують ударні БПЛА, робота ППО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_18-31-36.jpg" length="64262" type="image/jpeg"/>
+      <pubDate>Sat, 23 May 2026 18:31:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
