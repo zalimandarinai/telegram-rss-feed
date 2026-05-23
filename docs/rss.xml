@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 01:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 05:29:35 +0000</lastBuildDate>
     <item>
       <title>Оператори дронів 105-го загону</title>
       <link>https://www.mandarinai.lt/post/93188</link>
@@ -84,6 +84,26 @@
 Тільки з початку року було геолоковано 64 удари по логістиці – неоприлюднених та негеолокованих в рази більше. Через активний атаки СОУ армії рф все важче забезпечувати свій о/с, що підтверджує фактична зупинка лінії фронту.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-22_19-47-36.mp4" length="2098321" type="video/mp4"/>
       <pubDate>Fri, 22 May 2026 19:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Трамп мусив особисто втрутити</title>
+      <link>https://www.mandarinai.lt/post/93200</link>
+      <description>🥴Трамп мусив особисто втрутитися для перекидання військ до Польщі — WSJ
+
+Президент США Дональд Трамп у четвер заявив, що планує направити 5 тисяч військових до Польщі. Цей крок має заспокоїти союзника, але не означає відмову Білого дому від намірів скорочувати американську військову присутність у Європі, пише The Wall Street Journal.
+
+Рішення Трампа стало реакцією на несподіваний крок міністра війни США Піта Гегсета, який цього місяця скасував дев’ятимісячну ротацію бронетанкової бригади з Форт-Гуда, штат Техас, до Польщі.
+
+Гегсета розкритикували у Конгресі як республіканці, так і демократи. Польські посадовці також були занепокоєні, адже з ними дії США не погоджували.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_02-29-42.jpg" length="75990" type="image/jpeg"/>
+      <pubDate>Sat, 23 May 2026 02:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Новоросійську вночі атаков</title>
+      <link>https://www.mandarinai.lt/post/93201</link>
+      <description>💥🔥У Новоросійську вночі атаковані порт і нафтобаза</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-23_02-35-19.mp4" length="3586481" type="video/mp4"/>
+      <pubDate>Sat, 23 May 2026 02:35:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
