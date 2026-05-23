@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 11:51:39 +0000</lastBuildDate>
-    <item>
-      <title>Харків та ще 17 населених пунк</title>
-      <link>https://www.mandarinai.lt/post/93204</link>
-      <description>Харків та ще 17 населених пунктів області були під російськими ударами, загинуло троє цивільних людей в с.Ківшарівка та біля с.Борова</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_06-40-05.jpg" length="241936" type="image/jpeg"/>
-      <pubDate>Sat, 23 May 2026 06:40:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 12:52:57 +0000</lastBuildDate>
     <item>
       <title>Сенатори США з обох партій вим</title>
       <link>https://www.mandarinai.lt/post/93207</link>
@@ -78,6 +71,13 @@
 
 Ресурсі противника кажуть про великі втрати загиблими та пораненими.</description>
       <pubDate>Sat, 23 May 2026 11:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти біля Покровська масов</title>
+      <link>https://www.mandarinai.lt/post/93219</link>
+      <description>Окупанти біля Покровська масово підриваються на стежках, замінованих українськими саперами та операторами дронів, кадри візуального контролю 14-оі бригади НГУ ім. Івана Богуна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9148.MP4" length="11487727" type="video/mp4"/>
+      <pubDate>Sat, 23 May 2026 12:06:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
