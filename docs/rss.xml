@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 10:18:43 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥У Новоросійську вночі атаков</title>
-      <link>https://www.mandarinai.lt/post/93201</link>
-      <description>💥🔥У Новоросійську вночі атаковані порт і нафтобаза</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-23_02-35-19.mp4" length="3586481" type="video/mp4"/>
-      <pubDate>Sat, 23 May 2026 02:35:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Іркутську горить науковий це</title>
-      <link>https://www.mandarinai.lt/post/93203</link>
-      <description>В Іркутську горить науковий центр «Иргиредмет», який спеціалізується на технологіях переробки дорогоцінних та рідкісних металів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9135.MP4" length="6159362" type="video/mp4"/>
-      <pubDate>Sat, 23 May 2026 06:20:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 11:51:39 +0000</lastBuildDate>
     <item>
       <title>Харків та ще 17 населених пунк</title>
       <link>https://www.mandarinai.lt/post/93204</link>
@@ -76,6 +62,22 @@
 Він упав в озеро в озеро Дрідзіс у Краславському краї і вибухнув. Озеро знаходиться на південному сході країни неподалік кордону з Білоруссю.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-23_10-07-19.jpg" length="185240" type="image/jpeg"/>
       <pubDate>Sat, 23 May 2026 10:07:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полонений громадянин Кенії пор</title>
+      <link>https://www.mandarinai.lt/post/93217</link>
+      <description>Полонений громадянин Кенії порозумнішав в украінському таборі, тож звертається до своїх співвітчизників з закликом не звʼязуватись з російськими рекрутерами</description>
+      <pubDate>Sat, 23 May 2026 11:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Помстилися за Херсон, - бійці </title>
+      <link>https://www.mandarinai.lt/post/93218</link>
+      <description>Помстилися за Херсон, - бійці 34-ої бригади морської піхоти жорстко накрили будівлю в окупованому місті Олешки, з якої ворог запускав БПЛА
+
+Удари по ній розпочались, коли на позицію завезли нових операторів та пальне для генераторів.
+
+Ресурсі противника кажуть про великі втрати загиблими та пораненими.</description>
+      <pubDate>Sat, 23 May 2026 11:48:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
