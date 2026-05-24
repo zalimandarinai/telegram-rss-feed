@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 12:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 14:22:37 +0000</lastBuildDate>
     <item>
       <title>😳Фото дня: поки Київ оговтуєть</title>
       <link>https://www.mandarinai.lt/post/93276</link>
@@ -78,6 +78,22 @@
       <description>😱Ховатися в паркінгах тепер небезпечно: нові кадри пробитого ракетою підземної парковки одного з ЖК Києва – її прошило буквально наскрізь, є понівечені автівки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-24_12-50-23.mp4" length="4869645" type="video/mp4"/>
       <pubDate>Sun, 24 May 2026 12:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Кадри ударів по спец.батальйо</title>
+      <link>https://www.mandarinai.lt/post/93290</link>
+      <description>💥Кадри ударів по спец.батальйону «Ахмат» на Курщині
+
+Десятки 200 у ворога</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-24_13-12-31.mp4" length="2069560" type="video/mp4"/>
+      <pubDate>Sun, 24 May 2026 13:12:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂️ Місце удару «Орєшніка» в </title>
+      <link>https://www.mandarinai.lt/post/93291</link>
+      <description>🤷‍♂️ Місце удару «Орєшніка» в Білій Церкві - гаражний кооператив спеціального призначення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9192.MP4" length="8502930" type="video/mp4"/>
+      <pubDate>Sun, 24 May 2026 13:38:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
