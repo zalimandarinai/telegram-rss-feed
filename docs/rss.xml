@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 17:48:28 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Жахливі кадри одного з приль</title>
-      <link>https://www.mandarinai.lt/post/93286</link>
-      <description>⚡️Жахливі кадри одного з прильотів до Києва цієї ночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-24_12-13-45.mp4" length="2188981" type="video/mp4"/>
-      <pubDate>Sun, 24 May 2026 12:13:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 May 2026 18:55:53 +0000</lastBuildDate>
     <item>
       <title>Тим часом росіяни завезли до о</title>
       <link>https://www.mandarinai.lt/post/93287</link>
@@ -42,7 +35,15 @@
     <item>
       <title>😱Ховатися в паркінгах тепер не</title>
       <link>https://www.mandarinai.lt/post/93288</link>
-      <description>😱Ховатися в паркінгах тепер небезпечно: нові кадри пробитого ракетою підземної парковки одного з ЖК Києва – її прошило буквально наскрізь, є понівечені автівки</description>
+      <description>😱Ховатися в паркінгах тепер небезпечно: нові кадри пробитого ракетою підземної парковки одного з ЖК Києва – її прошило буквально наскрізь, є понівечені автівки
+
+Але разом з цим паркінги залишаються найбільш захищеним місцем в будинках. 
+
+Жодна крилата ракета чи дрон неспроможні пробити таке  укриття, тільки балістика.
+
+Справжніх надійних укриттів в столиці не так багато.
+
+Паркінг в монолітно-каркасній новобудові набагато краще, ніж шкільний підвал.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-24_12-50-23.mp4" length="4869645" type="video/mp4"/>
       <pubDate>Sun, 24 May 2026 12:50:23 +0000</pubDate>
     </item>
@@ -94,6 +95,20 @@
       <link>https://www.mandarinai.lt/post/93297</link>
       <description>Момент прольоту ракети над Софією Київською перед ударом по музею «Чорнобиль»</description>
       <pubDate>Sun, 24 May 2026 17:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Виявляють постріл гаубиці, </title>
+      <link>https://www.mandarinai.lt/post/93298</link>
+      <description>❗️ Виявляють постріл гаубиці, уточнюють координати, а потім завдають удар, - бійці 210-го штурмового полку скорочують арсенал окупантів в Запорізькій області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9203.MP4" length="11461547" type="video/mp4"/>
+      <pubDate>Sun, 24 May 2026 17:55:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дорога з росіі по окупованих т</title>
+      <link>https://www.mandarinai.lt/post/93300</link>
+      <description>Дорога з росіі по окупованих територіях через Маріуполь до Кримського півострова все більше потрапляє під вогневий контроль українських дронів.,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9204.MP4" length="6040258" type="video/mp4"/>
+      <pubDate>Sun, 24 May 2026 18:18:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
