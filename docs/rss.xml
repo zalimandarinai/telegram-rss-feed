@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 11:56:12 +0000</lastBuildDate>
-    <item>
-      <title>Частина боєприпасу на одній з </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Частина боєприпасу на одній з вулиць Києва</description>
-      <pubDate>Sun, 24 May 2026 01:50:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>➡️ Трохи про цілі, уражені «Ор</title>
-      <link>https://www.mandarinai.lt/post/93271</link>
-      <description>➡️ Трохи про цілі, уражені «Орєшніком» в Білій Церкві
-
-💸 Ракета вартістю $100 млн. прилетіла по гаражному кооперативу на околиці міста.
-
-🤦‍♂️ Внаслідок влучання пошкоджено 3 гаражі стратегічного призначення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-24_09-45-34.jpg" length="120061" type="image/jpeg"/>
-      <pubDate>Sun, 24 May 2026 09:45:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ще одна страшна ніч, влаштован</title>
-      <link>https://www.mandarinai.lt/post/93272</link>
-      <description>Ще одна страшна ніч, влаштована країною виродків, позаду. Ми є, Ми разом. І ми вистоїмо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-24_10-01-41.jpg" length="100992" type="image/jpeg"/>
-      <pubDate>Sun, 24 May 2026 10:01:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 May 2026 12:58:51 +0000</lastBuildDate>
     <item>
       <title>😳Фото дня: поки Київ оговтуєть</title>
       <link>https://www.mandarinai.lt/post/93276</link>
@@ -63,6 +39,45 @@
       <description>⚡️Повністю зруйнований руснею музей Чорнобилю в Києві</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-24_11-41-12.jpg" length="245240" type="image/jpeg"/>
       <pubDate>Sun, 24 May 2026 11:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Жахливі кадри одного з приль</title>
+      <link>https://www.mandarinai.lt/post/93286</link>
+      <description>⚡️Жахливі кадри одного з прильотів до Києва цієї ночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-24_12-13-45.mp4" length="2188981" type="video/mp4"/>
+      <pubDate>Sun, 24 May 2026 12:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тим часом росіяни завезли до о</title>
+      <link>https://www.mandarinai.lt/post/93287</link>
+      <description>Тим часом росіяни завезли до окупованого міста Старобільськ так званих іноземних «журналістів», ймовірно, для того, щоб легітимізувати і виправдати удари по цивільних в Києві.
+
+На фоні цієї пропагандистської кампанії міноборони рф заявило, що завдавало ударів по «військових об’єктах».
+
+Ось перелік цих обʼєктів:
+
+▫️ будівля МЗС України; 
+▫️ музей «Чорнобиль»;
+▫️ інститут релігійних наук; 
+▫️ театр опери та балету на Подолі,
+▫️ будівля податкової служби; 
+▫️ Київська школа економіки; 
+▫️ супермаркет «Квадрат»; 
+▫️ ринок біля станції «Лукʼянівська»;
+▫️ школи;
+▫️ багатоповерхівки;
+▫️ цивільна інфраструктура водопостачання.
+
+Знищення цих обʼєктів російські нацисти в Москві назвали відповіддю на атаки України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9189.MP4" length="8995930" type="video/mp4"/>
+      <pubDate>Sun, 24 May 2026 12:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱Ховатися в паркінгах тепер не</title>
+      <link>https://www.mandarinai.lt/post/93288</link>
+      <description>😱Ховатися в паркінгах тепер небезпечно: нові кадри пробитого ракетою підземної парковки одного з ЖК Києва – її прошило буквально наскрізь, є понівечені автівки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-24_12-50-23.mp4" length="4869645" type="video/mp4"/>
+      <pubDate>Sun, 24 May 2026 12:50:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
