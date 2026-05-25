@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 18:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:16:40 +0000</lastBuildDate>
     <item>
       <title>Бригада «Азов» дістає своїми б</title>
       <link>https://www.mandarinai.lt/post/93328</link>
@@ -66,6 +66,13 @@
       <description>❗️ Все йде до війни між Європою та рф, — екс-глава МЗС Кулеба</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9236.MP4" length="3236325" type="video/mp4"/>
       <pubDate>Mon, 25 May 2026 15:50:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Момент перехоплення крилатої </title>
+      <link>https://www.mandarinai.lt/post/93339</link>
+      <description>🔥Момент перехоплення крилатої ракети Х-101 прямо над головою очевидця вчора на Київщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-25_19-54-30.mp4" length="460315" type="video/mp4"/>
+      <pubDate>Mon, 25 May 2026 19:54:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
