@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 23:47:10 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Сапери вилучили бойову част</title>
-      <link>https://www.mandarinai.lt/post/93292</link>
-      <description>❗️ Сапери вилучили бойову частину ракети Х-101, яка не здетонувала, в одній з нежитлових будівель в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9193.MP4" length="12551193" type="video/mp4"/>
-      <pubDate>Sun, 24 May 2026 15:16:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 May 2026 02:01:54 +0000</lastBuildDate>
     <item>
       <title>Понівечена Лукʼянівка зараз</title>
       <link>https://www.mandarinai.lt/post/93293</link>
@@ -86,6 +79,13 @@ https://t.me/Thelifeofthefree</description>
       <description>⚡️ Президент Макрон набрав Лукашенка по телефону та застеріг його від участі у війні проти України, — телеканал TF1</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-24_19-52-12.jpg" length="14862" type="image/jpeg"/>
       <pubDate>Sun, 24 May 2026 19:52:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ЛВДС «Второво» у Володимирськ</title>
+      <link>https://www.mandarinai.lt/post/93306</link>
+      <description>💥ЛВДС «Второво» у Володимирській області після рейду дронів глибинного ураження Центру спецоперацій «Альфа» СБУ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-25_01-54-08.mp4" length="268451" type="video/mp4"/>
+      <pubDate>Mon, 25 May 2026 01:54:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
