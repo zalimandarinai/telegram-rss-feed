@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 02:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 06:40:14 +0000</lastBuildDate>
     <item>
       <title>рф рекомендує іноземцям якнайш</title>
       <link>https://www.mandarinai.lt/post/93331</link>
@@ -76,6 +76,17 @@
 Міністр наголосив, що росія намагається впливати на західне сприйняття подій, однак ці спроби, на його переконання, не матимуть успіху</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_02-28-54.jpg" length="46922" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 02:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴«Терор путіна не знає меж»: В</title>
+      <link>https://www.mandarinai.lt/post/93344</link>
+      <description>🔴«Терор путіна не знає меж»: Вадефуль закликав країни НАТО надати Україні ще €90 мільярдів допомоги
+
+"Смерть і руйнування в Україні, зокрема лікарень і телестудій, показують: терор путіна не знає меж – ми повинні вказати йому на них", - написав Вадефуль.
+
+Німецький урядовець зазначив, що пропозицію Німеччини щодо подальшої підтримки України, яку він раніше особисто представив на зустрічі глава МЗС країн-членів НАТО, Берлін прагне повністю реалізувати</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_03-30-00.jpg" length="21616" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 03:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
