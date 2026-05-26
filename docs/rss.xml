@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 23:59:10 +0000</lastBuildDate>
-    <item>
-      <title>Бригада «Азов» дістає своїми б</title>
-      <link>https://www.mandarinai.lt/post/93328</link>
-      <description>Бригада «Азов» дістає своїми безпілотниками техніку противника біля околиць Маріуполя і навіть на кордоні з росією.
-
-Траси Маріуполь-Таганрог та Маріуполь-Волноваха стають небезпечними логістичними шляхами для росіян. 
-
-Відстань значно більше 100 кілометрів до лінії зіткнення по прямій.</description>
-      <pubDate>Mon, 25 May 2026 12:06:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 02:57:27 +0000</lastBuildDate>
     <item>
       <title>рф рекомендує іноземцям якнайш</title>
       <link>https://www.mandarinai.lt/post/93331</link>
@@ -73,6 +63,19 @@
       <description>🔥Момент перехоплення крилатої ракети Х-101 прямо над головою очевидця вчора на Київщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-25_19-54-30.mp4" length="460315" type="video/mp4"/>
       <pubDate>Mon, 25 May 2026 19:54:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сибіга відреагував на погрози </title>
+      <link>https://www.mandarinai.lt/post/93343</link>
+      <description>Сибіга відреагував на погрози рф "системно" бити по Києву
+
+Україна не очікує, що заяви росії про можливі нові удари зможуть вплинути на роботу іноземних дипломатів у Києві.
+
+Коментуючи російські погрози нових атак на Київ, міністр зазначив, що їхня мета полягає у створенні страху, зокрема серед представників іноземного дипломатичного корпусу.
+
+Міністр наголосив, що росія намагається впливати на західне сприйняття подій, однак ці спроби, на його переконання, не матимуть успіху</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_02-28-54.jpg" length="46922" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 02:28:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
