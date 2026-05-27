@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 11:25:13 +0000</lastBuildDate>
-    <item>
-      <title>😱Шахед вибухнув за кілька метр</title>
-      <link>https://www.mandarinai.lt/post/93373</link>
-      <description>😱Шахед вибухнув за кілька метрів від фермера на Чернігівщині
-
-Чоловік дивом не постраждав.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-27_05-13-39.mp4" length="461191" type="video/mp4"/>
-      <pubDate>Wed, 27 May 2026 05:13:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 14:48:31 +0000</lastBuildDate>
     <item>
       <title>‼️рф може готувати атаки дроні</title>
       <link>https://www.mandarinai.lt/post/93375</link>
@@ -94,6 +85,37 @@
       <description>❗️ На Чернігівщині «шахед» летів на трактор, який працював в полі, і вибухнув за кілька метрів від нього.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9276.MP4" length="1789712" type="video/mp4"/>
       <pubDate>Wed, 27 May 2026 10:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂️ Вітрильник «Дружба» був а</title>
+      <link>https://www.mandarinai.lt/post/93387</link>
+      <description>🤷‍♂️ Вітрильник «Дружба» був атакований російським морським дроном, - невідомо, для чого і з якою стратегічною метою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_11-45-46.jpg" length="29359" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 11:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар «шахеда» в Павлограді пос</title>
+      <link>https://www.mandarinai.lt/post/93388</link>
+      <description>Удар «шахеда» в Павлограді посеред білого дня в людному місці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9278.MP4" length="991671" type="video/mp4"/>
+      <pubDate>Wed, 27 May 2026 12:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚙 Підібрати авто ВИГІДНО можна</title>
+      <link>https://www.mandarinai.lt/post/93389</link>
+      <description>🚙 Підібрати авто ВИГІДНО можна з чат-ботом!
+
+Що може цей бот❔
+
+▫️ Підбір авто з аукціонів США, Канади 
+▫️ Розрахунок повної вартості «під ключ»
+▫️ Підбір авто в наявності
+▫️ Безкоштовний CARFAX
+▫️ Орієнтовна вартість авто з доставкою
+
+Обирай ідеальне авто в боті вже зараз ➡️ БЕЗКОШТОВНА ПІДБІРКА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-27_13-33-21.mp4" length="1608282" type="video/mp4"/>
+      <pubDate>Wed, 27 May 2026 13:33:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
