@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 14:48:31 +0000</lastBuildDate>
-    <item>
-      <title>‼️рф може готувати атаки дроні</title>
-      <link>https://www.mandarinai.lt/post/93375</link>
-      <description>‼️рф може готувати атаки дронів на трасу Київ-Чоп через територію Білорусі — ISW
-
-Мета - порушити логістичні маршрути на заході України. Йдеться про трасу М-06 і залізничне сполучення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_05-27-01.jpg" length="165484" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 05:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥У Севастополі дрони пошкодили</title>
-      <link>https://www.mandarinai.lt/post/93376</link>
-      <description>💥У Севастополі дрони пошкодили адмінбудівлю окупаційної влади</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_05-32-06.jpg" length="42928" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 05:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️⚡️Вперше за довгий час на За</title>
-      <link>https://www.mandarinai.lt/post/93377</link>
-      <description>⚡️⚡️Вперше за довгий час на Запорізькому та Дніпровському напрямках фіксується відступ армії рф, — начальник Ради резервістів Сухопутних військ ЗСУ Тимочко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_08-36-40.jpg" length="138101" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 08:36:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 17:48:38 +0000</lastBuildDate>
     <item>
       <title>💥Туапсе вже вп'яте під ударом </title>
       <link>https://www.mandarinai.lt/post/93378</link>
@@ -116,6 +93,39 @@
 Обирай ідеальне авто в боті вже зараз ➡️ БЕЗКОШТОВНА ПІДБІРКА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-27_13-33-21.mp4" length="1608282" type="video/mp4"/>
       <pubDate>Wed, 27 May 2026 13:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Зеленський написав Трампу т</title>
+      <link>https://www.mandarinai.lt/post/93390</link>
+      <description>❗️ Зеленський написав Трампу та Конгресу США листа, в якому заявив про нестачу систем протиповітряної оборони.
+
+📃 Текст опублікував журналіст Axios Барак Равід.
+
+➡️ В листі говориться, що Україна досягла значних успіхів у захисті від БПЛА, але поки не може виробляти власні системи ПРО.
+
+💬 «В питаннях протиповітряної оборони від ракет ми покладаємося на наших друзів і партнерів у всьому світі. А в питаннях захисту від балістичних ракет ми покладаємося майже виключно на Сполучені Штати», — заявив Зеленський.
+
+🇺🇸 Він зазначив, що системи Patriot «залишаються найефективнішим захистом від усіх типів російських балістичних ракет».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_14-55-43.jpg" length="142543" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 14:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рекордна дальність: оператор п</title>
+      <link>https://www.mandarinai.lt/post/93391</link>
+      <description>Рекордна дальність: оператор підрозділу ДПСУ «Фенікс» загнав свій FPV-дрон на 103 кілометри і завдав удару по вантажівці окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9281.MP4" length="8525943" type="video/mp4"/>
+      <pubDate>Wed, 27 May 2026 15:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рух «Талібан» підписав з росіє</title>
+      <link>https://www.mandarinai.lt/post/93392</link>
+      <description>Рух «Талібан» підписав з росією угоду про військово-технічне співробітництво, - росЗМІ. 
+
+Значить, найманців з Афганістану в російській армії буде більше. 
+
+До речі, на початку 2025 року видання The Insider писало про те, що Головне управління Генштабу рф платило гроші бойовикам руху «Талібан» за вбивство американських громадян.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_17-47-15.jpg" length="58531" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 17:47:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
