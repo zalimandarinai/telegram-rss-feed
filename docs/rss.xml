@@ -6,51 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 23:59:47 +0000</lastBuildDate>
-    <item>
-      <title>🤔Декілька каналів написали, що</title>
-      <link>https://www.mandarinai.lt/post/93352</link>
-      <description>🤔Декілька каналів написали, що Китай просить росію втриматись від ударів по столиці України, але, схоже, вони бачать те, що хочуть  бачити.
-
-Китай не згадував Київ, МЗС країни у відповідь на погрози Москви масованими ударами по столиці України традиційно закликало «відповідні сторони» до стриманості.
-
-Запитання журналістів щодо можливої евакуації дипломатів речниця МЗС Мао Нін фактично залишила без відповіді.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_09-32-02.jpg" length="46237" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 09:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>✌️Дрони Збройних сил України в</title>
-      <link>https://www.mandarinai.lt/post/93353</link>
-      <description>✌️Дрони Збройних сил України все глибше проникають у російський тил і вже завдають ударів по російській логістиці в районі Генічеська, - російські військори</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_10-14-37.jpg" length="244966" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 10:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥У Генштабі ЗСУ підтвердили зу</title>
-      <link>https://www.mandarinai.lt/post/93354</link>
-      <description>💥У Генштабі ЗСУ підтвердили зупинку роботи Сизранського НПЗ у росії після атаки 21 травня
-
-Напередодні Reuters із посиланням на джерела повідомляло, що на заводі зупинили установку первинної переробки, яка забезпечує понад 70% потужності підприємства. Ремонт, за оцінками, може тривати більше місяця.
-
-Практично всі великі нафтопереробні заводи и у центральній Росії були змушені зупинити чи скоротити виробництво після ударів українських безпілотників останніми днями.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_10-35-59.jpg" length="42855" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 10:35:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Тримайтеся в Криму подалі в</title>
-      <link>https://www.mandarinai.lt/post/93355</link>
-      <description>❗️ Тримайтеся в Криму подалі від військових об’єктів російської федерації, - звернувся до кримчан глава Меджлісу Рефат Чубаров.
-
-💬 «З огляду на останні заяви москви, а також істерику лаврова перед Рубіо, мешканці кремля остаточно збожеволіли. 
-
-Як наслідок — очікується ескалація взаємних ракетно-дронових ударів... При цьому окупований Крим через високу насиченість російськими військовими об’єктами є територією, яка в пріоритетному порядку підлягає ударам з боку ЗСУ», — так наголосив він.
-
-💬 «Заради власної безпеки з 26 травня і на тиждень перемістіться якомога далі від місць розташування військових об’єктів російських окупантів Бережіть себе й тримайтеся подалі від окупантів — і фізично, і ментально. 
-
-Звільнення Криму невідворотне, як схід і захід сонця».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_10-39-31.jpg" length="57949" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 10:39:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 03:48:31 +0000</lastBuildDate>
     <item>
       <title>🤡🔴"рф не буде атакувати Верхов</title>
       <link>https://www.mandarinai.lt/post/93356</link>
@@ -135,6 +91,13 @@
       <description>❗️Майбутнє чеської ініціативи з закупівлі боєприпасів для України стане однією з тем липневого саміту НАТО в Анкарі, оскільки кількість країн, які беруть участь у фінансуванні проекту, скоротилася вдвічі - з 18 до 9</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-26_20-26-57.jpg" length="79059" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 20:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Воронеж, Таганрог та окупован</title>
+      <link>https://www.mandarinai.lt/post/93366</link>
+      <description>💥Воронеж, Таганрог та окуповані території вночі атакували ракети та дрони різних типів. Результат уточнюється.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_02-56-56.jpg" length="39248" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 02:56:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
