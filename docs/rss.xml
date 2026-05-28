@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 01:46:08 +0000</lastBuildDate>
-    <item>
-      <title>❗️ На Чернігівщині «шахед» лет</title>
-      <link>https://www.mandarinai.lt/post/93386</link>
-      <description>❗️ На Чернігівщині «шахед» летів на трактор, який працював в полі, і вибухнув за кілька метрів від нього.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9276.MP4" length="1789712" type="video/mp4"/>
-      <pubDate>Wed, 27 May 2026 10:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤷‍♂️ Вітрильник «Дружба» був а</title>
-      <link>https://www.mandarinai.lt/post/93387</link>
-      <description>🤷‍♂️ Вітрильник «Дружба» був атакований російським морським дроном, - невідомо, для чого і з якою стратегічною метою</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_11-45-46.jpg" length="29359" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 11:45:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Удар «шахеда» в Павлограді пос</title>
-      <link>https://www.mandarinai.lt/post/93388</link>
-      <description>Удар «шахеда» в Павлограді посеред білого дня в людному місці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9278.MP4" length="991671" type="video/mp4"/>
-      <pubDate>Wed, 27 May 2026 12:48:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 05:57:14 +0000</lastBuildDate>
     <item>
       <title>🚙 Підібрати авто ВИГІДНО можна</title>
       <link>https://www.mandarinai.lt/post/93389</link>
@@ -110,12 +89,19 @@
     </item>
     <item>
       <title>🤝Швеція готує передачу Україні</title>
-      <link>https://www.mandarinai.lt/post/93399</link>
+      <link>https://www.mandarinai.lt/post/93402</link>
       <description>🤝Швеція готує передачу Україні винищувачів Gripen JAS 39 C/D, — ЗМІ.
 
 Кількість літаків наразі невідома, проте прем'єр-міністр Швеції вже запланував на завтра пресконференцію, на якій, як очікується, офіційно оголосять про цю допомогу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-28_01-15-48.jpg" length="128542" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 01:15:48 +0000</pubDate>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-28_04-42-57.jpg" length="128542" type="image/jpeg"/>
+      <pubDate>Thu, 28 May 2026 04:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Нижньому Новгороді дрон вріз</title>
+      <link>https://www.mandarinai.lt/post/93403</link>
+      <description>У Нижньому Новгороді дрон врізався в будівлю обласного суду після роботи російської РЕБ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-28_05-09-05.mp4" length="1414624" type="video/mp4"/>
+      <pubDate>Thu, 28 May 2026 05:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
