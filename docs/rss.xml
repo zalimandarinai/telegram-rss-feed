@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 09:49:59 +0000</lastBuildDate>
-    <item>
-      <title>Боснійський серб Давор Савичич</title>
-      <link>https://www.mandarinai.lt/post/93397</link>
-      <description>Боснійський серб Давор Савичич, який відзначився катуванням українців під час окупації Бучи, отримав підозру від Служби безпеки України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_19-36-49.jpg" length="65683" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 19:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️⚠️Крилаті ракети та дрони ат</title>
-      <link>https://www.mandarinai.lt/post/93398</link>
-      <description>❗️⚠️Крилаті ракети та дрони атакують москву — подібну комбіновану атаку на столицю рф фіксують уперше</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_20-38-30.jpg" length="150890" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 20:38:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 12:58:03 +0000</lastBuildDate>
     <item>
       <title>🤝Швеція готує передачу Україні</title>
       <link>https://www.mandarinai.lt/post/93402</link>
@@ -90,6 +76,38 @@
 🧡 Пошкоджено російські засоби ППО, зокрема РЛС «Небо-СВ» та елементи комплексу «Бук-М2».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-28_09-11-32.jpg" length="155053" type="image/jpeg"/>
       <pubDate>Thu, 28 May 2026 09:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Новий рівень російської опе</title>
+      <link>https://www.mandarinai.lt/post/93413</link>
+      <description>⚡️ Новий рівень російської операції «Киів-за-три-дні»: кремлівський режим почав встановлювати вертольотами системи ППО на хмарочосах бізнес-центрів у Москві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9291.MP4" length="11715839" type="video/mp4"/>
+      <pubDate>Thu, 28 May 2026 10:26:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Друга армія» встановлює антид</title>
+      <link>https://www.mandarinai.lt/post/93414</link>
+      <description>«Друга армія» встановлює антидронові сітки на підводних човнах через страх перед українськими дронами, - так помітили Defense Express</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-28_10-46-17.jpg" length="143623" type="image/jpeg"/>
+      <pubDate>Thu, 28 May 2026 10:46:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ 🇸🇪 🇺🇦Зеленський сьогодні в </title>
+      <link>https://www.mandarinai.lt/post/93415</link>
+      <description>⚡️ 🇸🇪 🇺🇦Зеленський сьогодні в Швеції. 
+
+💬 «Готуємо великий оборонний пакет для України та сильний крок щодо винищувачів Gripen, який точно зробить нашу бойову авіацію ефективнішою».
+
+Винищувач JAS 39 Gripen, враховуючи його ціну та операційні можливості, наразі має всі шанси на те, щоб стати основним тактичним літаком українських Повітряних Сил.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9293.MP4" length="5802013" type="video/mp4"/>
+      <pubDate>Thu, 28 May 2026 10:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Швеція передає Україні перш</title>
+      <link>https://www.mandarinai.lt/post/93416</link>
+      <description>⚡️ Швеція передає Україні перші 16 винищувачів Gripen C/D, — повідомив прем'єр країни</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9294.MP4" length="6410284" type="video/mp4"/>
+      <pubDate>Thu, 28 May 2026 11:27:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
