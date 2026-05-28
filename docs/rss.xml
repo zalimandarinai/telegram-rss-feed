@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 23:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:46:08 +0000</lastBuildDate>
     <item>
       <title>❗️ На Чернігівщині «шахед» лет</title>
       <link>https://www.mandarinai.lt/post/93386</link>
@@ -107,6 +107,15 @@
       <description>❗️⚠️Крилаті ракети та дрони атакують москву — подібну комбіновану атаку на столицю рф фіксують уперше</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-27_20-38-30.jpg" length="150890" type="image/jpeg"/>
       <pubDate>Wed, 27 May 2026 20:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Швеція готує передачу Україні</title>
+      <link>https://www.mandarinai.lt/post/93399</link>
+      <description>🤝Швеція готує передачу Україні винищувачів Gripen JAS 39 C/D, — ЗМІ.
+
+Кількість літаків наразі невідома, проте прем'єр-міністр Швеції вже запланував на завтра пресконференцію, на якій, як очікується, офіційно оголосять про цю допомогу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-28_01-15-48.jpg" length="128542" type="image/jpeg"/>
+      <pubDate>Thu, 28 May 2026 01:15:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
