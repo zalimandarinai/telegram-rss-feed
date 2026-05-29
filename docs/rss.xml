@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 23:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 01:54:58 +0000</lastBuildDate>
     <item>
       <title>💥 Туапсе 5.0 . Після атаки пал</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -24,13 +24,6 @@
 
 🧡 Пошкоджено російські засоби ППО, зокрема РЛС «Небо-СВ» та елементи комплексу «Бук-М2».</description>
       <pubDate>Thu, 28 May 2026 09:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Траса Луганськ-Дебальцеве. Зар</title>
-      <link>https://www.mandarinai.lt/post/93423</link>
-      <description>Траса Луганськ-Дебальцеве. Зараз окупована територія. Результат атаки українських дронів по російській військовій логістиці більш, ніж за 50 кілометрів від лінії зіткнення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9295.MP4" length="24460963" type="video/mp4"/>
-      <pubDate>Thu, 28 May 2026 16:27:23 +0000</pubDate>
     </item>
     <item>
       <title>В будь-який момент росія може </title>
@@ -83,6 +76,16 @@
 🎙️ Про це він сказав в Києві на сьогоднішній пресконференції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-28_18-46-25.jpg" length="75104" type="image/jpeg"/>
       <pubDate>Thu, 28 May 2026 18:46:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Румунії російський шахед в</title>
+      <link>https://www.mandarinai.lt/post/93440</link>
+      <description>⚡️В Румунії російський шахед врізався в будинок.
+Дрон влетів прямо в квартиру у місті Галац. Сталася сильна пожежа.
+
+Унаслідок вибуху поранені двоє людей. Постраждалим надають медичну допомогу на місці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_01-21-50.jpg" length="83530" type="image/jpeg"/>
+      <pubDate>Fri, 29 May 2026 01:21:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
