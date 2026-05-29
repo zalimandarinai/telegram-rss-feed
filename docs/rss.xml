@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 06:00:55 +0000</lastBuildDate>
-    <item>
-      <title>В будь-який момент росія може </title>
-      <link>https://www.mandarinai.lt/post/93425</link>
-      <description>В будь-який момент росія може завдати ударів по столиці України, а попередження іноземним дипломатам залишити місто є серйозним та усвідомленим, - так заявив секретар кремлівської ради безпеки Шойгу на запитання російського державного агентства ТАСС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-28_16-59-01.jpg" length="69429" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 16:59:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 10:36:26 +0000</lastBuildDate>
     <item>
       <title>🔴 Reuters: Рекордні $100 млрд </title>
       <link>https://www.mandarinai.lt/post/93429</link>
@@ -75,6 +68,33 @@
       <description>💥У Волгограді дрони успішно атакували НПЗ Лукойл.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_04-40-02.jpg" length="60952" type="image/jpeg"/>
       <pubDate>Fri, 29 May 2026 04:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Є загроза вторгнення з Білор</title>
+      <link>https://www.mandarinai.lt/post/93443</link>
+      <description>⚡️Є загроза вторгнення з Білорусі — заявили в Держприкордонслужбі України 
+
+Військова активність у глибині країни прямо вказує — росія посилила тиск на Білорусь.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_06-28-26.jpg" length="134130" type="image/jpeg"/>
+      <pubDate>Fri, 29 May 2026 06:28:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇴 У Румунії виявили ще один д</title>
+      <link>https://www.mandarinai.lt/post/93444</link>
+      <description>🇷🇴 У Румунії виявили ще один дрон.
+
+На півночі країни, в районі комуни Бесешть, знайдено ще одного безпілотника. Як повідомляє телеканал TVR, дрон не мав вибухового пристрою. 
+
+За словами місцевого мера, апарат має великі розміри – розмах його крил сягає близько трьох метрів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9308.MP4" length="2282759" type="video/mp4"/>
+      <pubDate>Fri, 29 May 2026 06:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Ділянки траси між тимчасово</title>
+      <link>https://www.mandarinai.lt/post/93445</link>
+      <description>❗️ Ділянки траси між тимчасово окупованими Бердянськом, Мелітополем та Джанкоєм перебувають під вогневим контролем українських дронів, - ГУР МО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9309.MP4" length="20637938" type="video/mp4"/>
+      <pubDate>Fri, 29 May 2026 07:44:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
