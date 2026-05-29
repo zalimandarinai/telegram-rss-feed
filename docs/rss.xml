@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 01:54:58 +0000</lastBuildDate>
-    <item>
-      <title>💥 Туапсе 5.0 . Після атаки пал</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥 Туапсе 5.0 . Після атаки палає НПЗ: у Генштабі підтвердили серію успішних уражень 
-
-Сили оборони України в ніч на 27 травня 2026 року відпрацювали по низці військових та інфраструктурних об’єктів РФ.
-
-🧡 Уражено нафтопереробний завод «Туапсинский» у Краснодарському краї. На території виникла пожежа, масштаби збитків уточнюються. Завод є одним із великих у регіоні та забезпечує паливом, зокрема армію РФ.
-
-🧡 Ракетами Storm Shadow уражено елементи систем розвідки ВПС РФ у районах Воронежа, Таганрога та Севастополя.
-
-🧡 Завдано ударів по командних пунктах російських підрозділів у Луганській області.
-
-🧡 Також уражено склад матеріально-технічного забезпечення та виробництво БпЛА.
-
-🧡 Пошкоджено російські засоби ППО, зокрема РЛС «Небо-СВ» та елементи комплексу «Бук-М2».</description>
-      <pubDate>Thu, 28 May 2026 09:11:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 06:00:55 +0000</lastBuildDate>
     <item>
       <title>В будь-який момент росія може </title>
       <link>https://www.mandarinai.lt/post/93425</link>
@@ -86,6 +68,13 @@
 Унаслідок вибуху поранені двоє людей. Постраждалим надають медичну допомогу на місці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_01-21-50.jpg" length="83530" type="image/jpeg"/>
       <pubDate>Fri, 29 May 2026 01:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У Волгограді дрони успішно ат</title>
+      <link>https://www.mandarinai.lt/post/93442</link>
+      <description>💥У Волгограді дрони успішно атакували НПЗ Лукойл.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_04-40-02.jpg" length="60952" type="image/jpeg"/>
+      <pubDate>Fri, 29 May 2026 04:40:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
