@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 18:54:44 +0000</lastBuildDate>
-    <item>
-      <title>😀 Ухилянта з Києва зупинила ве</title>
-      <link>https://www.mandarinai.lt/post/93505</link>
-      <description>😀 Ухилянта з Києва зупинила ведмедиця (!) на кордоні з Румунією — ДПСУ повідомляє, що чоловіку довелося викликати допомогу з дерева</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_11-06-48.mp4" length="1980259" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 11:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ США хочуть, щоб Україна мог</title>
-      <link>https://www.mandarinai.lt/post/93506</link>
-      <description>❗️ США хочуть, щоб Україна могла себе захистити, і ми знайдемо спосіб допомогти їй, — міністр війни США Хегсет</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_12-12-08.mp4" length="4449720" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 12:12:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Вщент знищено залізничний вок</title>
-      <link>https://www.mandarinai.lt/post/93507</link>
-      <description>🤬Вщент знищено залізничний вокзал на Сумщині: десятки «Шахедів» атакували його у Шостці, — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_12-37-05.jpg" length="106323" type="image/jpeg"/>
-      <pubDate>Sat, 30 May 2026 12:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Традиційний випускний вальс в </title>
-      <link>https://www.mandarinai.lt/post/93508</link>
-      <description>Традиційний випускний вальс в Україні для багатьох сучасних підлітків став символом  непоправної втрати і глибокої скорботи.
-
-У Києві випускниця станцювала останній танець свого дитинства перед портретом загиблого батька на Алеї Героїв.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_14-06-54.mp4" length="20476832" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 14:06:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 20:00:32 +0000</lastBuildDate>
     <item>
       <title>⚡️Пасажирів потяга Львів – Киї</title>
       <link>https://www.mandarinai.lt/post/93510</link>
@@ -100,6 +70,13 @@
 Правоохоронців закидають камінням та обстрілюють піротехнікою</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_18-10-01.mp4" length="4493968" type="video/mp4"/>
       <pubDate>Sat, 30 May 2026 18:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$26 мільярдів потрачено в росі</title>
+      <link>https://www.mandarinai.lt/post/93519</link>
+      <description>$26 мільярдів потрачено в росіі на наукові дослідження, мета яких продовження віку путіна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_18-55-31.jpg" length="98679" type="image/jpeg"/>
+      <pubDate>Sat, 30 May 2026 18:55:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
