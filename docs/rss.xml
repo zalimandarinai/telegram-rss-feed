@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 14:24:15 +0000</lastBuildDate>
-    <item>
-      <title>⛽️ На території окупованого Кр</title>
-      <link>https://www.mandarinai.lt/post/93497</link>
-      <description>⛽️ На території окупованого Кримського півострова від сьогодні пальне дають по талонах, - в результаті численних атак БПЛА по трасі Маріуполь-Джанкой пальне не можуть завести до Криму в потрібній кількості.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9332.MP4" length="6883779" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 10:38:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 15:56:22 +0000</lastBuildDate>
     <item>
       <title>👌Бензин по талонах в Криму - р</title>
       <link>https://www.mandarinai.lt/post/93498</link>
@@ -75,6 +68,13 @@
       <pubDate>Sat, 30 May 2026 14:06:54 +0000</pubDate>
     </item>
     <item>
+      <title>⚡️Пасажирів потяга Львів – Киї</title>
+      <link>https://www.mandarinai.lt/post/93510</link>
+      <description>⚡️Пасажирів потяга Львів – Київ сьогодні евакуювали через дронову загрозу на Житомирщині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9339.MP4" length="4392632" type="video/mp4"/>
+      <pubDate>Sat, 30 May 2026 14:13:13 +0000</pubDate>
+    </item>
+    <item>
       <title>⚡️ ЗСУ тестують роботів-гумано</title>
       <link>https://www.mandarinai.lt/post/93511</link>
       <description>⚡️ ЗСУ тестують роботів-гуманоїдів на передовій, — CNBC.
@@ -82,6 +82,23 @@
 Їх передав американський стартап, пов'язаний із Трампом. Поки що вони допомагають із логістикою в небезпечних зонах, але компанія вже готує нову версію із вдвічі більшою вантажопідйомністю.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_14-14-34.jpg" length="149493" type="image/jpeg"/>
       <pubDate>Sat, 30 May 2026 14:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Розгромили лігво бригади, яка</title>
+      <link>https://www.mandarinai.lt/post/93512</link>
+      <description>💥Розгромили лігво бригади, яка брала участь у звірствах у Бучі, - СБС 
+
+Підтверджено 21 результативне влучення, серед них: 
+
+🔥 Полігон 3-ї армії у селі Кряківка, Луганської області – удар завдав 9 батальйон "Кайрос" 414 ОБР;
+
+🔥Газові сховища в Єнакієвому, Донецькій області –  удар завдала 20 окрема бригада "К-2" СБС;
+
+🔥Ворожа логістика в Донецькій та Луганській областях - удар завдав загін "13" 414 ОБР;
+
+🔥Полігон 36-ї армії, який використовували окупанти із 64 ОМСБр у Запорізькій області – удар завдав 413 окремий полк "Рейд".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9340.MP4" length="12007878" type="video/mp4"/>
+      <pubDate>Sat, 30 May 2026 14:50:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
