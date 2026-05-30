@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 23:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 03:23:22 +0000</lastBuildDate>
     <item>
       <title>🔥 Волгоградський НПЗ зупинив в</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -50,12 +50,6 @@ https://youtu.be/_iyNyh7V0hQ?si=fMfaIlz2B-a3XHDx
       <pubDate>Fri, 29 May 2026 13:38:50 +0000</pubDate>
     </item>
     <item>
-      <title>🗺️ Результат удару авіаційними</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🗺️ Результат удару авіаційними ракетами «Storm Shadow» по аеродрому «Таганрог Центральний» 27 травня, — «Кіберборошно»</description>
-      <pubDate>Fri, 29 May 2026 16:03:11 +0000</pubDate>
-    </item>
-    <item>
       <title>ЄС розморозив 16 мільярдів євр</title>
       <link>https://www.mandarinai.lt/post/93466</link>
       <description>ЄС розморозив 16 мільярдів євро для Угорщини після зміни влади
@@ -77,6 +71,13 @@ https://youtu.be/_iyNyh7V0hQ?si=fMfaIlz2B-a3XHDx
       <description>Намагалися переправити до Одеси дрон з вибухівкою для терактів, - СБУ затримала чотирьох покидьків, які діяли на замовлення фсб</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_18-56-27.jpg" length="97802" type="image/jpeg"/>
       <pubDate>Fri, 29 May 2026 18:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кияни облаштовують наметове мі</title>
+      <link>https://www.mandarinai.lt/post/93479</link>
+      <description>Кияни облаштовують наметове містечко в метро на тлі тривожних попереджень</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_00-58-18.jpg" length="202185" type="image/jpeg"/>
+      <pubDate>Sat, 30 May 2026 00:58:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
