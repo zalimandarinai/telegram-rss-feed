@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 17:54:14 +0000</lastBuildDate>
-    <item>
-      <title>🤡Медведєв опублікував відео з </title>
-      <link>https://www.mandarinai.lt/post/93502</link>
-      <description>🤡Медведєв опублікував відео з штучним інтелектом, на якому зображені налякані Макрон, Мерц, Штайнмайєр і фон дер Ляйен. З коментарем "Это еще цветочки"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_10-45-17.mp4" length="2622826" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 10:45:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>До України прибув спадкоємець </title>
-      <link>https://www.mandarinai.lt/post/93504</link>
-      <description>До України прибув спадкоємець іранського престолу опозиціонер Реза Пехлеві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9337.MP4" length="5329327" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 10:57:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 18:54:44 +0000</lastBuildDate>
     <item>
       <title>😀 Ухилянта з Києва зупинила ве</title>
       <link>https://www.mandarinai.lt/post/93505</link>
@@ -105,6 +91,15 @@
 
 Особливої уваги заслуговує ураження рідкісної системи, ймовірно, Type-63 китайського виробництва або Type-75 північнокорейського. Це легка 107-мм РСЗВ з 12 стволами, яка створена для швидких ударів по площинних цілях.</description>
       <pubDate>Sat, 30 May 2026 17:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳 У Парижі під час фіналу Ліги</title>
+      <link>https://www.mandarinai.lt/post/93517</link>
+      <description>😳 У Парижі під час фіналу Ліги Чемпіонів спалахнули заворушення. 
+
+Правоохоронців закидають камінням та обстрілюють піротехнікою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_18-10-01.mp4" length="4493968" type="video/mp4"/>
+      <pubDate>Sat, 30 May 2026 18:10:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
