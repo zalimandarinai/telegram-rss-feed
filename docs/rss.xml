@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 12:56:46 +0000</lastBuildDate>
-    <item>
-      <title>💔 Українські військові несподі</title>
-      <link>https://www.mandarinai.lt/post/93493</link>
-      <description>💔 Українські військові несподівано приїхали з фронту на випускні церемонії своїх дочок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_10-13-07.mp4" length="8002106" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 10:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤔 рф тестує “рої” дронів із об</title>
-      <link>https://www.mandarinai.lt/post/93495</link>
-      <description>🤔 рф тестує “рої” дронів із обміном даними в повітрі
-
-Військовий експерт Храпчинський розповів, що росія розвиває концепцію “розумних” роїв БпЛА.
-
-Йдеться про дрони, які можуть:
-▪️ обмінюватися інформацією прямо в польоті
-▪️ коригувати маршрути після виявлення ППО
-▪️ діяти більш узгоджено під час атаки
-
-За словами експерта, якщо один дрон фіксує позиції ППО, інші одразу змінюють траєкторію руху</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_10-14-38.jpg" length="51019" type="image/jpeg"/>
-      <pubDate>Sat, 30 May 2026 10:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>В районі Вовчанська окупанти н</title>
-      <link>https://www.mandarinai.lt/post/93496</link>
-      <description>В районі Вовчанська окупанти намагалися винахідливо обдурити українських бійців. Вантажівка зі зрізаним дахом та причепом була перероблена під понтон та мала стати переправою через річку.  Але план швидко розкусили, і оператори дронів 2-го батальйону разом з іншими підрозділами 57-ої бригади не залишили противнику шансів.</description>
-      <pubDate>Sat, 30 May 2026 10:33:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 14:24:15 +0000</lastBuildDate>
     <item>
       <title>⛽️ На території окупованого Кр</title>
       <link>https://www.mandarinai.lt/post/93497</link>
@@ -93,6 +64,24 @@
       <description>🤬Вщент знищено залізничний вокзал на Сумщині: десятки «Шахедів» атакували його у Шостці, — ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_12-37-05.jpg" length="106323" type="image/jpeg"/>
       <pubDate>Sat, 30 May 2026 12:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Традиційний випускний вальс в </title>
+      <link>https://www.mandarinai.lt/post/93508</link>
+      <description>Традиційний випускний вальс в Україні для багатьох сучасних підлітків став символом  непоправної втрати і глибокої скорботи.
+
+У Києві випускниця станцювала останній танець свого дитинства перед портретом загиблого батька на Алеї Героїв.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_14-06-54.mp4" length="20476832" type="video/mp4"/>
+      <pubDate>Sat, 30 May 2026 14:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ ЗСУ тестують роботів-гумано</title>
+      <link>https://www.mandarinai.lt/post/93511</link>
+      <description>⚡️ ЗСУ тестують роботів-гуманоїдів на передовій, — CNBC.
+
+Їх передав американський стартап, пов'язаний із Трампом. Поки що вони допомагають із логістикою в небезпечних зонах, але компанія вже готує нову версію із вдвічі більшою вантажопідйомністю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_14-14-34.jpg" length="149493" type="image/jpeg"/>
+      <pubDate>Sat, 30 May 2026 14:14:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
