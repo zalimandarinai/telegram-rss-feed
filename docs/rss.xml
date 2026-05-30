@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 15:56:22 +0000</lastBuildDate>
-    <item>
-      <title>👌Бензин по талонах в Криму - р</title>
-      <link>https://www.mandarinai.lt/post/93498</link>
-      <description>👌Бензин по талонах в Криму - результат СВО
-
-На тимчасово окупованому півострові — величезні черги на заправках через проблеми з паливом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_10-39-09.jpg" length="76778" type="image/jpeg"/>
-      <pubDate>Sat, 30 May 2026 10:39:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 16:51:31 +0000</lastBuildDate>
     <item>
       <title>🔥В районі окупованого н.п. Сал</title>
       <link>https://www.mandarinai.lt/post/93501</link>
@@ -84,9 +75,9 @@
       <pubDate>Sat, 30 May 2026 14:14:34 +0000</pubDate>
     </item>
     <item>
-      <title>💥Розгромили лігво бригади, яка</title>
+      <title>💥Розгромили лігво 64-ої бригад</title>
       <link>https://www.mandarinai.lt/post/93512</link>
-      <description>💥Розгромили лігво бригади, яка брала участь у звірствах у Бучі, - СБС 
+      <description>💥Розгромили лігво 64-ої бригади, яка брала участь у звірствах у Бучі, - СБС 
 
 Підтверджено 21 результативне влучення, серед них: 
 
@@ -99,6 +90,13 @@
 🔥Полігон 36-ї армії, який використовували окупанти із 64 ОМСБр у Запорізькій області – удар завдав 413 окремий полк "Рейд".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9340.MP4" length="12007878" type="video/mp4"/>
       <pubDate>Sat, 30 May 2026 14:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Естонія встановила перші стаці</title>
+      <link>https://www.mandarinai.lt/post/93513</link>
+      <description>Естонія встановила перші стаціонарні системи виявлення БПЛА і протидії дронам на кордоні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_16-42-53.jpg" length="60557" type="image/jpeg"/>
+      <pubDate>Sat, 30 May 2026 16:42:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
