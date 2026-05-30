@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 11:08:41 +0000</lastBuildDate>
-    <item>
-      <title>👌Естонія встановила перші прот</title>
-      <link>https://www.mandarinai.lt/post/93490</link>
-      <description>👌Естонія встановила перші протидронові системи на кордоні з рф
-
-Комплекси моніторингу БпЛА запрацювали на трьох ділянках сухопутного кордону на південному сході Естонії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_09-50-12.jpg" length="95630" type="image/jpeg"/>
-      <pubDate>Sat, 30 May 2026 09:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡 Ракету «Орєшнік», якою росія</title>
-      <link>https://www.mandarinai.lt/post/93491</link>
-      <description>🤡 Ракету «Орєшнік», якою росія атакувала Україну в січні цього року, виготовили ще у 2017 році, — Reuters
-
-За даними українських експертів, балістична ракета, яка вдарила по Львову, складалась лише з російських і білоруських компонентів. Фахівці також заявляють, що через санкції рф дедалі частіше замінює західну електроніку китайськими аналогами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_09-56-19.jpg" length="233438" type="image/jpeg"/>
-      <pubDate>Sat, 30 May 2026 09:56:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 12:56:46 +0000</lastBuildDate>
     <item>
       <title>💔 Українські військові несподі</title>
       <link>https://www.mandarinai.lt/post/93493</link>
@@ -97,6 +79,20 @@
       <description>😀 Ухилянта з Києва зупинила ведмедиця (!) на кордоні з Румунією — ДПСУ повідомляє, що чоловіку довелося викликати допомогу з дерева</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_11-06-48.mp4" length="1980259" type="video/mp4"/>
       <pubDate>Sat, 30 May 2026 11:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ США хочуть, щоб Україна мог</title>
+      <link>https://www.mandarinai.lt/post/93506</link>
+      <description>❗️ США хочуть, щоб Україна могла себе захистити, і ми знайдемо спосіб допомогти їй, — міністр війни США Хегсет</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_12-12-08.mp4" length="4449720" type="video/mp4"/>
+      <pubDate>Sat, 30 May 2026 12:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Вщент знищено залізничний вок</title>
+      <link>https://www.mandarinai.lt/post/93507</link>
+      <description>🤬Вщент знищено залізничний вокзал на Сумщині: десятки «Шахедів» атакували його у Шостці, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_12-37-05.jpg" length="106323" type="image/jpeg"/>
+      <pubDate>Sat, 30 May 2026 12:37:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
