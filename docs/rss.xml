@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 03:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:38:06 +0000</lastBuildDate>
     <item>
       <title>🔥 Волгоградський НПЗ зупинив в</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -51,26 +51,17 @@ https://youtu.be/_iyNyh7V0hQ?si=fMfaIlz2B-a3XHDx
     </item>
     <item>
       <title>ЄС розморозив 16 мільярдів євр</title>
-      <link>https://www.mandarinai.lt/post/93466</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>ЄС розморозив 16 мільярдів євро для Угорщини після зміни влади
 
 Європейська комісія вирішила розблокувати понад 16 мільярдів євро коштів, раніше заморожених для Угорщини. Про це було оголошено після зустрічі голови Єврокомісії Урсули фон дер Ляйен з новим прем'єр-міністром країни Петером Мадьяром.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_17-19-06.jpg" length="93886" type="image/jpeg"/>
       <pubDate>Fri, 29 May 2026 17:19:06 +0000</pubDate>
     </item>
     <item>
       <title>Фрегат «Адмірал Ессен» в Новор</title>
-      <link>https://www.mandarinai.lt/post/93468</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Фрегат «Адмірал Ессен» в Новоросійській бухті все ж таки було пошкоджено, - розвідка</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_18-03-40.jpg" length="47646" type="image/jpeg"/>
       <pubDate>Fri, 29 May 2026 18:03:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Намагалися переправити до Одес</title>
-      <link>https://www.mandarinai.lt/post/93469</link>
-      <description>Намагалися переправити до Одеси дрон з вибухівкою для терактів, - СБУ затримала чотирьох покидьків, які діяли на замовлення фсб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-29_18-56-27.jpg" length="97802" type="image/jpeg"/>
-      <pubDate>Fri, 29 May 2026 18:56:27 +0000</pubDate>
     </item>
     <item>
       <title>Кияни облаштовують наметове мі</title>
@@ -78,6 +69,13 @@ https://youtu.be/_iyNyh7V0hQ?si=fMfaIlz2B-a3XHDx
       <description>Кияни облаштовують наметове містечко в метро на тлі тривожних попереджень</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_00-58-18.jpg" length="202185" type="image/jpeg"/>
       <pubDate>Sat, 30 May 2026 00:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Армавір, Таганрог вночі атаку</title>
+      <link>https://www.mandarinai.lt/post/93480</link>
+      <description>💥Армавір, Таганрог вночі атакували БПЛА. Також другу добу догорає нафтобаза Лукойл у Ярославлі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_04-34-17.jpg" length="42451" type="image/jpeg"/>
+      <pubDate>Sat, 30 May 2026 04:34:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
