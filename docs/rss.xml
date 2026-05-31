@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 22:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 23:52:58 +0000</lastBuildDate>
     <item>
       <title>Випадок унікальний - так бійці</title>
       <link>https://www.mandarinai.lt/post/93553</link>
@@ -65,6 +65,15 @@
       <description>В Одесі російський безпілотник влучив у 9-поверховий будинок, виникла пожежа на першому та другому поверхах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9388.MP4" length="3740657" type="video/mp4"/>
       <pubDate>Sun, 31 May 2026 21:23:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Четверо людей постраждало вн</title>
+      <link>https://www.mandarinai.lt/post/93567</link>
+      <description>⚡️Четверо людей постраждало внаслідок нічної атаки на Одесу, — МВА
+
+Також сталося займання двох одноповерхових будинків. На місцях розгорнуті оперативні штаби, працюють відповідні служби та благодійники.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_23-30-30.jpg" length="197941" type="image/jpeg"/>
+      <pubDate>Sun, 31 May 2026 23:30:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
