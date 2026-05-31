@@ -6,27 +6,11 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 13:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:07:48 +0000</lastBuildDate>
     <item>
-      <title>За 70 вильотів дронами «Dovbus</title>
-      <link>https://www.mandarinai.lt/post/93532</link>
-      <description>За 70 вильотів дронами «Dovbush T20» і «DARTS» підрозділи 475-го полку «Code 9.2» знищили російські ЗРК «Бук» і «ТОР», артсистему «Піон», РЛС «Терек» та десятки інших цілей. 
-
-Дрони «Code 9.2» зараз долітають на відстань до 150 км від лінії бойового зіткнення. До того, щоб пальне в Криму відпускалось по талонах, доклали свою руку і оператори «Code 9.2».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9359.MP4" length="15427194" type="video/mp4"/>
-      <pubDate>Sun, 31 May 2026 07:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Сильний приліт у Дніпрі — пі</title>
-      <link>https://www.mandarinai.lt/post/93533</link>
-      <description>⚡️Сильний приліт у Дніпрі — після удару місто затягує чорним димом, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_08-33-50.mp4" length="457445" type="video/mp4"/>
-      <pubDate>Sun, 31 May 2026 08:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Палає рісдя атаки російська </title>
+      <title>💥🔥Палає після атаки російська </title>
       <link>https://www.mandarinai.lt/post/93534</link>
-      <description>💥🔥Палає рісдя атаки російська ЛПДС «Лазарево», Кіровська область.
+      <description>💥🔥Палає після атаки російська ЛПДС «Лазарево», Кіровська область.
 1.200 км від Державного кордону.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_08-38-40.jpg" length="138077" type="image/jpeg"/>
       <pubDate>Sun, 31 May 2026 08:38:40 +0000</pubDate>
@@ -78,6 +62,29 @@
 💬 «У відповідь на заяви ворога про повне захоплення Луганської області оголошуємо операцію з контролю логістичних маршрутів на Луганщині та Східній Слобожанщині. Луганськ, Старобільськ, Алчевськ, Брянка, Кадіївка — тепер перебувають під контролем БПЛА Третього армійського корпусу», - Білецький.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9367.MP4" length="25837824" type="video/mp4"/>
       <pubDate>Sun, 31 May 2026 11:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>В окупованому Севастополі ситу</title>
+      <link>https://www.mandarinai.lt/post/93547</link>
+      <description>В окупованому Севастополі ситуація з пальним ускладнюється. Там продають 95-й бензин тільки по талонах, а 92-й - по 20 літрів в руки. Обмеження вводять для того, щоб мінімізувати ефект скорочення обсягів пального для потреб російської армії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_13-46-23.jpg" length="120374" type="image/jpeg"/>
+      <pubDate>Sun, 31 May 2026 13:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Винищувач F-15, збитий над Іра</title>
+      <link>https://www.mandarinai.lt/post/93548</link>
+      <description>Винищувач F-15, збитий над Іраном, імовірно, був уражений ракетою з ПЗРК китайського виробництва, - NBC News</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_14-01-41.jpg" length="47863" type="image/jpeg"/>
+      <pubDate>Sun, 31 May 2026 14:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна завдала удару по нафто</title>
+      <link>https://www.mandarinai.lt/post/93549</link>
+      <description>Україна завдала удару по нафтопереробному заводу у Саратові та військовому об’єкту на Каспійському морі, – Зеленський.
+
+За тиждень цілі були уражені в Ярославському, Рязанському, Воронезькому, Волгоградському, Ростовському, Новгородському, Нижньогородському та Краснодарському регіонах на відстанях від 300 до 1200 км від державного кордону України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_14-01-45.mp4" length="1464614" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 14:01:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
