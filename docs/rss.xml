@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 20:03:49 +0000</lastBuildDate>
-    <item>
-      <title>Винищувач F-15, збитий над Іра</title>
-      <link>https://www.mandarinai.lt/post/93548</link>
-      <description>Винищувач F-15, збитий над Іраном, імовірно, був уражений ракетою з ПЗРК китайського виробництва, - NBC News</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_14-01-41.jpg" length="47863" type="image/jpeg"/>
-      <pubDate>Sun, 31 May 2026 14:01:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Україна завдала удару по нафто</title>
-      <link>https://www.mandarinai.lt/post/93549</link>
-      <description>Україна завдала удару по нафтопереробному заводу у Саратові та військовому об’єкту на Каспійському морі, – Зеленський.
-
-За тиждень цілі були уражені в Ярославському, Рязанському, Воронезькому, Волгоградському, Ростовському, Новгородському, Нижньогородському та Краснодарському регіонах на відстанях від 300 до 1200 км від державного кордону України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_14-01-45.mp4" length="1464614" type="video/mp4"/>
-      <pubDate>Sun, 31 May 2026 14:01:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 21:44:27 +0000</lastBuildDate>
     <item>
       <title>😡Дрон знищив відділення №1 "Но</title>
       <link>https://www.mandarinai.lt/post/93550</link>
@@ -70,6 +54,24 @@
       <description>🇷🇴 Міноборони Румунії після аналізу уламків офіційно підтвердило, що до житлової багатоповерхівки в місті Галац влетів російський ударний безпілотник «Герань-2», копія іранського БПЛА «Shahed».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_19-51-52.jpg" length="85729" type="image/jpeg"/>
       <pubDate>Sun, 31 May 2026 19:51:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡 Президент Румунії на BBC поп</title>
+      <link>https://www.mandarinai.lt/post/93564</link>
+      <description>😡 Президент Румунії на BBC попросив росіян не завдавати шкоди румунам, коли вони обстрілюють українців.
+
+💬 «Це стало небезпечним для румунських громадян. І коли росіяни атакують та обстрілюють [українські] міста по той бік Дунаю, вони повинні бути впевнені, що не завдадуть травм румунським громадянам», - так сказав він.
+
+🤦‍♂️ Тобто, ви там, коли вбиваєте українських громадян, будь ласка, будьте обережнішими, а решта нас, румунів, не стосується.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_20-15-28.jpg" length="49456" type="image/jpeg"/>
+      <pubDate>Sun, 31 May 2026 20:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Одесі російський безпілотник</title>
+      <link>https://www.mandarinai.lt/post/93565</link>
+      <description>В Одесі російський безпілотник влучив у 9-поверховий будинок, виникла пожежа на першому та другому поверхах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9388.MP4" length="3740657" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 21:23:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
