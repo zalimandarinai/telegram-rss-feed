@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 09:39:16 +0000</lastBuildDate>
-    <item>
-      <title>🔥🔥В Саратові пожежі на територ</title>
-      <link>https://www.mandarinai.lt/post/93525</link>
-      <description>🔥🔥В Саратові пожежі на території НПЗ набирають обертів, тим часом на місто летять нові дрони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_03-27-09.mp4" length="320387" type="video/mp4"/>
-      <pubDate>Sun, 31 May 2026 03:27:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥У Матвєєвому Кургані Ростовсь</title>
-      <link>https://www.mandarinai.lt/post/93528</link>
-      <description>🔥У Матвєєвому Кургані Ростовської області після прильоту спалахнула нафтобаза.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_05-28-35.mp4" length="178167" type="video/mp4"/>
-      <pubDate>Sun, 31 May 2026 05:28:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 11:23:26 +0000</lastBuildDate>
     <item>
       <title>Ворог із самого ранку знову ат</title>
       <link>https://www.mandarinai.lt/post/93530</link>
@@ -58,6 +44,36 @@
       <description>Пошук і ліквідація ворожих сил в Запорізькій області, - 210-ий полк</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9338.MP4" length="6894725" type="video/mp4"/>
       <pubDate>Sun, 31 May 2026 09:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡Мосфільм представляє🇷🇺</title>
+      <link>https://www.mandarinai.lt/post/93541</link>
+      <description>🤡Мосфільм представляє🇷🇺</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_09-45-00.mp4" length="4604027" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴У нас є одна ціль із серйозни</title>
+      <link>https://www.mandarinai.lt/post/93543</link>
+      <description>🔴У нас є одна ціль із серйозними координатами неподалік Білорусі, і вони це також усвідомлюють, — Лукашенко, коментуючи заяву про «500 цілей у Білорусі»
+
+Ми ніколи не нападатимемо на Україну, — додав брехлий бульбафюрер</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_09-55-58.mp4" length="13166154" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 09:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент удару російського безпі</title>
+      <link>https://www.mandarinai.lt/post/93544</link>
+      <description>Момент удару російського безпілотника по відділенню «Нової Пошти» в Дніпрі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9365.MP4" length="11180734" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 10:37:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так виглядає український центр</title>
+      <link>https://www.mandarinai.lt/post/93545</link>
+      <description>Так виглядає український центр управління далекобійними безпілотниками, які завдають ударів по території росіі, - телеканал CNN</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9366.MP4" length="12985191" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 11:10:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
