@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 06:43:54 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Пасажирів потяга Львів – Киї</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️Пасажирів потяга Львів – Київ сьогодні евакуювали через дронову загрозу на Житомирщині.</description>
-      <pubDate>Sat, 30 May 2026 14:13:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳 У Парижі під час фіналу Ліги</title>
-      <link>https://www.mandarinai.lt/post/93517</link>
-      <description>😳 У Парижі під час фіналу Ліги Чемпіонів спалахнули заворушення. 
-
-Правоохоронців закидають камінням та обстрілюють піротехнікою</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-30_18-10-01.mp4" length="4493968" type="video/mp4"/>
-      <pubDate>Sat, 30 May 2026 18:10:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>$26 мільярдів потрачено в росі</title>
-      <link>https://www.mandarinai.lt/post/93519</link>
-      <description>$26 мільярдів потрачено в росіі на наукові дослідження, мета яких продовження віку путіна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-30_18-55-31.jpg" length="98679" type="image/jpeg"/>
-      <pubDate>Sat, 30 May 2026 18:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Саратовський НПЗ під повітря</title>
-      <link>https://www.mandarinai.lt/post/93523</link>
-      <description>💥🔥Саратовський НПЗ під повітряними санкціями</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_02-41-03.jpg" length="51745" type="image/jpeg"/>
-      <pubDate>Sun, 31 May 2026 02:41:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 09:39:16 +0000</lastBuildDate>
     <item>
       <title>🔥🔥В Саратові пожежі на територ</title>
       <link>https://www.mandarinai.lt/post/93525</link>
@@ -56,6 +27,37 @@
       <description>Ворог із самого ранку знову атакує Рівненщину: як і вчора, поблизу Рівного після вибухів здіймається дим.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_05-32-11.mp4" length="302806" type="video/mp4"/>
       <pubDate>Sun, 31 May 2026 05:32:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>За 70 вильотів дронами «Dovbus</title>
+      <link>https://www.mandarinai.lt/post/93532</link>
+      <description>За 70 вильотів дронами «Dovbush T20» і «DARTS» підрозділи 475-го полку «Code 9.2» знищили російські ЗРК «Бук» і «ТОР», артсистему «Піон», РЛС «Терек» та десятки інших цілей. 
+
+Дрони «Code 9.2» зараз долітають на відстань до 150 км від лінії бойового зіткнення. До того, щоб пальне в Криму відпускалось по талонах, доклали свою руку і оператори «Code 9.2».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9359.MP4" length="15427194" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 07:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Сильний приліт у Дніпрі — пі</title>
+      <link>https://www.mandarinai.lt/post/93533</link>
+      <description>⚡️Сильний приліт у Дніпрі — після удару місто затягує чорним димом, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_08-33-50.mp4" length="457445" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 08:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Палає рісдя атаки російська </title>
+      <link>https://www.mandarinai.lt/post/93534</link>
+      <description>💥🔥Палає рісдя атаки російська ЛПДС «Лазарево», Кіровська область.
+1.200 км від Державного кордону.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_08-38-40.jpg" length="138077" type="image/jpeg"/>
+      <pubDate>Sun, 31 May 2026 08:38:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пошук і ліквідація ворожих сил</title>
+      <link>https://www.mandarinai.lt/post/93538</link>
+      <description>Пошук і ліквідація ворожих сил в Запорізькій області, - 210-ий полк</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9338.MP4" length="6894725" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 09:03:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
