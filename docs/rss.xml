@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 11:23:26 +0000</lastBuildDate>
-    <item>
-      <title>Ворог із самого ранку знову ат</title>
-      <link>https://www.mandarinai.lt/post/93530</link>
-      <description>Ворог із самого ранку знову атакує Рівненщину: як і вчора, поблизу Рівного після вибухів здіймається дим.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-05-31_05-32-11.mp4" length="302806" type="video/mp4"/>
-      <pubDate>Sun, 31 May 2026 05:32:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 13:05:57 +0000</lastBuildDate>
     <item>
       <title>За 70 вильотів дронами «Dovbus</title>
       <link>https://www.mandarinai.lt/post/93532</link>
@@ -74,6 +67,17 @@
       <description>Так виглядає український центр управління далекобійними безпілотниками, які завдають ударів по території росіі, - телеканал CNN</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9366.MP4" length="12985191" type="video/mp4"/>
       <pubDate>Sun, 31 May 2026 11:10:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Дістали до самого КПП «Ізва</title>
+      <link>https://www.mandarinai.lt/post/93546</link>
+      <description>❗️ Дістали до самого КПП «Ізварине», а це понад 205 км углиб окупованої території, - оператори батальйону безпілотних систем 3-ої ОШБР встановлюють «вогневий контроль» над шляхами логістики окупантів в Луганській області
+
+➡️ Під час операції пілоти ББС уразили бронетехніку та склади боєприпасів противника.
+
+💬 «У відповідь на заяви ворога про повне захоплення Луганської області оголошуємо операцію з контролю логістичних маршрутів на Луганщині та Східній Слобожанщині. Луганськ, Старобільськ, Алчевськ, Брянка, Кадіївка — тепер перебувають під контролем БПЛА Третього армійського корпусу», - Білецький.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9367.MP4" length="25837824" type="video/mp4"/>
+      <pubDate>Sun, 31 May 2026 11:39:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
