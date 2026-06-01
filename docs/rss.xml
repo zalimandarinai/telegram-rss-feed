@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 02:11:34 +0000</lastBuildDate>
-    <item>
-      <title>Випадок унікальний - так бійці</title>
-      <link>https://www.mandarinai.lt/post/93553</link>
-      <description>Випадок унікальний - так бійці Чернігівського прикордонного загону звичайною стрілецькою зброєю збивають російський «шахед», який перетнув кордон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9373.MP4" length="8114275" type="video/mp4"/>
-      <pubDate>Sun, 31 May 2026 15:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Основний логістичний шлях від </title>
-      <link>https://www.mandarinai.lt/post/93555</link>
-      <description>Основний логістичний шлях від росіі суходолом до окупованого Кримського півострова хтось мінує мініатюрними антитранспортними мінами, - і хто б це міг бути?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_17-29-17.jpg" length="106779" type="image/jpeg"/>
-      <pubDate>Sun, 31 May 2026 17:29:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 08:17:33 +0000</lastBuildDate>
     <item>
       <title>🤷‍♂️ «Ура!» - так сьогодні на </title>
       <link>https://www.mandarinai.lt/post/93559</link>
@@ -74,6 +60,42 @@
 Також сталося займання двох одноповерхових будинків. На місцях розгорнуті оперативні штаби, працюють відповідні служби та благодійники.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-05-31_23-30-30.jpg" length="197941" type="image/jpeg"/>
       <pubDate>Sun, 31 May 2026 23:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Військово-морські сили Фран</title>
+      <link>https://www.mandarinai.lt/post/93569</link>
+      <description>⚡️ Військово-морські сили Франції затримали в Атлантичному океані нафтовий  танкер Tagor, що прямував із росії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-01_05-48-50.mp4" length="552154" type="video/mp4"/>
+      <pubDate>Mon, 01 Jun 2026 05:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Над Рівненщиною МіГ-29 наздога</title>
+      <link>https://www.mandarinai.lt/post/93571</link>
+      <description>Над Рівненщиною МіГ-29 наздоганяє та збиває російський «шахед».
+
+Одна з масованих атак росіян була значною мірою спрямована на Рівненський регіон. 
+
+Ймовірно, вони тестують українські можливості із захисту північних кордонів поруч з Білоруссю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9391.MP4" length="10864820" type="video/mp4"/>
+      <pubDate>Mon, 01 Jun 2026 06:36:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Протягом доби Сили безпілотн</title>
+      <link>https://www.mandarinai.lt/post/93573</link>
+      <description>💥 Протягом доби Сили безпілотних систем уразили 1650 цілей противника
+
+Підрозділи СБС за добу відпрацювали по цілях ворога, зокрема:
+
+ 401 військовослужбовець (180 ліквідовано);
+ 61 точка запуску дронів;
+19 засобів РЕБ;
+ 74 одиниці автотехніки;
+40 мотоциклів та багі;
+ 350 БпЛА типу «коптер» та «крило».
+
+З початку травня (01–31.05) уражено 45 321 ціль противника, з них 9633 — особовий склад.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-01_07-57-29.jpg" length="144269" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jun 2026 07:57:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
