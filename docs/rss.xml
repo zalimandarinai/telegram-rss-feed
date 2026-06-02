@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 17:57:10 +0000</lastBuildDate>
-    <item>
-      <title>🤡 Генерал російської армії, де</title>
-      <link>https://www.mandarinai.lt/post/93675</link>
-      <description>🤡 Генерал російської армії, депутат Держдуми Андрій Гурульов, проговорився про мобілізацію, яку в росії готують на осінь, але тут же дав задню і почав розповідати, що його Телеграм зламали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-02_16-03-31.jpg" length="98739" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 16:03:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 20:36:15 +0000</lastBuildDate>
     <item>
       <title>❗️ Прильоти один за одним - та</title>
       <link>https://www.mandarinai.lt/post/93679</link>
@@ -65,9 +58,22 @@
     <item>
       <title>Було спалено 2 бензовози на Ме</title>
       <link>https://www.mandarinai.lt/post/93687</link>
-      <description>Було спалено 2 бензовози на Мелітопольській трасі - 422-ий полк безпілотних систем</description>
+      <description>Було спалено 2 бензовози на Мелітопольській трасі, - 422-ий полк безпілотних систем</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9449.MOV" length="4286524" type="video/mp4"/>
       <pubDate>Tue, 02 Jun 2026 17:55:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили безпілотних систем завдал</title>
+      <link>https://www.mandarinai.lt/post/93688</link>
+      <description>Сили безпілотних систем завдали серію ударів по військових об’єктах росіян у Криму і на Донеччині: уражено ЗРГК «Панцирь-С1» поблизу населеного пункту Видне в Криму, а також  берегові РЛС «Нева-Б» та «Нева-Б2М» в районі Маріуполя.</description>
+      <pubDate>Tue, 02 Jun 2026 18:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>З території Литви розпочалося </title>
+      <link>https://www.mandarinai.lt/post/93689</link>
+      <description>З території Литви розпочалося виведення більше 1000 американських військовослужбовців та їхньої техніки, повідомляє литовське національне радіо і телебачення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-02_18-17-06.jpg" length="92031" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 18:17:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
