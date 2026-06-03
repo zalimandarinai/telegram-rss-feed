@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 00:21:30 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Прильоти один за одним - та</title>
-      <link>https://www.mandarinai.lt/post/93679</link>
-      <description>❗️ Прильоти один за одним - така була пекельна ніч в Києві.
-
-Країна людожерів може здійснювати такі атаки, як сьогодні, до 4 разів на місяць, — заявляє авіаексперт Романенко
-
-Коментуючи удари, Зеленський стверджує, що росіяни націлилися на заводи, які роблять ракети.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9443.MP4" length="20713674" type="video/mp4"/>
-      <pubDate>Tue, 02 Jun 2026 16:07:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Повітряні сили показали, як </title>
-      <link>https://www.mandarinai.lt/post/93681</link>
-      <description>🔥 Повітряні сили показали, як сьогодні вночі збивали російські ракети і дрони
-
-Цієї ночі ворог застосував понад 700 засобів повітряного нападу</description>
-      <pubDate>Tue, 02 Jun 2026 16:38:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 05:52:36 +0000</lastBuildDate>
     <item>
       <title>🔥👁 Економія людського ресурсу </title>
       <link>https://www.mandarinai.lt/post/93682</link>
@@ -74,6 +55,38 @@
       <description>З території Литви розпочалося виведення більше 1000 американських військовослужбовців та їхньої техніки, повідомляє литовське національне радіо і телебачення</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-02_18-17-06.jpg" length="92031" type="image/jpeg"/>
       <pubDate>Tue, 02 Jun 2026 18:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Повідомляють про одночасну п</title>
+      <link>https://www.mandarinai.lt/post/93690</link>
+      <description>⚡️Повідомляють про одночасну повітряну атаку Ірану на Кувейт, Бахрейн, Ірак та ОАЕ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_01-35-51.mp4" length="953846" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 01:35:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Прильоти і пожежі у районі по</title>
+      <link>https://www.mandarinai.lt/post/93691</link>
+      <description>💥Прильоти і пожежі у районі порту в російському Санкт-Петербурзі в результаті атаки українських сил</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_03-02-14.mp4" length="1526739" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 03:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Так виглядає Санкт-Петербург</title>
+      <link>https://www.mandarinai.lt/post/93694</link>
+      <description>💥🔥Так виглядає Санкт-Петербург за дві години до відкриття міжнародного економічного форуму (ПМЕФ) та виступу на ньому путіна.
+
+Дрони атакувати петербурзький нафтовий термінал — один з найбільших морських терміналів на Балтиці. 
+
+Відомо, що Трамп направив на петербужський форум свого представника</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_04-16-01.mp4" length="6082918" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 04:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Момент атаки на один з резерв</title>
+      <link>https://www.mandarinai.lt/post/93695</link>
+      <description>💥Момент атаки на один з резервуарів найбільшого на Балтиці нафтового терміналу у Санкт Петербурзі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_05-32-02.mp4" length="753242" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 05:32:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
