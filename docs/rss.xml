@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 19:38:51 +0000</lastBuildDate>
-    <item>
-      <title>Катер річкової флотилії ВМС гу</title>
-      <link>https://www.mandarinai.lt/post/93709</link>
-      <description>Катер річкової флотилії ВМС гучно збиває «шахед» над Київським морем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9463.MP4" length="2303492" type="video/mp4"/>
-      <pubDate>Wed, 03 Jun 2026 13:35:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚀 Випробувальний пуск українсь</title>
-      <link>https://www.mandarinai.lt/post/93710</link>
-      <description>🚀 Випробувальний пуск української зенітної ракети FP-7.X, яка стане основою для міжнародного проєкту протиракетної оборони FREYJA.
-
-🇩🇰 Про цей проєкт ми напряму запитували премʼєр-міністра Данії пані Метте Фредеріксен.
-
-⏯️ Як прокоментувала цей протибалістичний проект пані премʼєр, дивимося тут:
-
-🇺🇦 Українською https://m.youtube.com/watch?v=_iyNyh7V0hQ&amp;pp=iggCQAE%3D&amp;ra=m
-
-🇬🇧 Англійською https://m.youtube.com/watch?v=MJzJlXLeFiU&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9464.MP4" length="8428884" type="video/mp4"/>
-      <pubDate>Wed, 03 Jun 2026 14:06:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Можуть бути жертви: рф вдари</title>
-      <link>https://www.mandarinai.lt/post/93711</link>
-      <description>⚡️Можуть бути жертви: рф вдарила касетною балістичною ракетою по Дніпру, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_14-23-36.mp4" length="569395" type="video/mp4"/>
-      <pubDate>Wed, 03 Jun 2026 14:23:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 22:20:12 +0000</lastBuildDate>
     <item>
       <title>⚡️Щонайменше 3 людей загинули,</title>
       <link>https://www.mandarinai.lt/post/93713</link>
@@ -72,6 +43,26 @@
       <description>Генсек НАТО Рютте відвідав місце удару рф по Лукьянівці</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_19-27-58.mp4" length="6386646" type="video/mp4"/>
       <pubDate>Wed, 03 Jun 2026 19:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Ідея можливого скасування а</title>
+      <link>https://www.mandarinai.lt/post/93723</link>
+      <description>❗️ Ідея можливого скасування або обмеження тимчасового захисту ЄС для українських чоловіків призовного віку нібито могла бути ініційована з Києва, — Politico
+
+У ЄС частина країн підтримує такі підходи, але більшість вважає їх надто жорсткими та політично складними.
+
+Водночас Україна заперечує свою причетність до таких пропозицій. Рішення щодо подальшого статусу українських біженців після 2027 року очікується пізніше.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-03_19-42-52.jpg" length="133713" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 19:42:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни влучили у п'ятиповер</title>
+      <link>https://www.mandarinai.lt/post/93724</link>
+      <description>⚡️росіяни влучили у п'ятиповерхівку у Павлограді
+
+Місто під атакою безпілотників.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_19-48-25.mp4" length="1581925" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 19:48:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
