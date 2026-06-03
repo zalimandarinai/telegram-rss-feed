@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 15:21:50 +0000</lastBuildDate>
-    <item>
-      <title>Таке фото сьогодні публікує Ро</title>
-      <link>https://www.mandarinai.lt/post/93704</link>
-      <description>Таке фото сьогодні публікує Роберт «Мадяр»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-03_10-04-16.jpg" length="100660" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 10:04:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️ Ми будемо просуватися далі </title>
-      <link>https://www.mandarinai.lt/post/93706</link>
-      <description>🎙️ Ми будемо просуватися далі на Схід, а росіяни повертатися до своїх кордонів, - Білецький в ефірі ТСН
-
-💬 «росія провалила зимову та весняну кампанії. За травень противник захопив найменше територій від 2023 року, приблизно 10 км². Здобутки України в травні будуть більшими, ніж росіян».
-
-ℹ️ Білецький також підтвердив, що  вогневий контроль Третього армійського корпусу над логістикою ворога на Луганщині зростатиме.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9460.MP4" length="16293968" type="video/mp4"/>
-      <pubDate>Wed, 03 Jun 2026 11:10:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Дрони били нас без перерви </title>
-      <link>https://www.mandarinai.lt/post/93707</link>
-      <description>💬 «Дрони били нас без перерви дві доби», - штурмовики 475-го полку «Code 9.2» про те, як було забезпечено просування в Запорізькій області.
-
-❗️ На деяких ділянках полк відкинув противника на 15 кілометрів.
-
-⏯️ Повний матеріал тут https://m.youtube.com/watch?v=iHxsEpLvLHY&amp;pp=0gcJCUACo7VqN5tDiggCQAE%3D&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9461.MP4" length="3492036" type="video/mp4"/>
-      <pubDate>Wed, 03 Jun 2026 12:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Противник намагається випалити</title>
-      <link>https://www.mandarinai.lt/post/93708</link>
-      <description>Противник намагається випалити захисників Костянтинівки, - бригада патрульної поліції «Хижак»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9462.MP4" length="10127352" type="video/mp4"/>
-      <pubDate>Wed, 03 Jun 2026 12:56:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 19:38:51 +0000</lastBuildDate>
     <item>
       <title>Катер річкової флотилії ВМС гу</title>
       <link>https://www.mandarinai.lt/post/93709</link>
@@ -87,6 +51,27 @@
       <description>❗️Масштабна пожежа в Дніпрі після ударів балістикою — росія «денацифікувала» склади АТБ, уточнює мер Філатов</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_14-44-07.mp4" length="3105976" type="video/mp4"/>
       <pubDate>Wed, 03 Jun 2026 14:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Ось він летить, схоже! Навіть</title>
+      <link>https://www.mandarinai.lt/post/93716</link>
+      <description>«Ось він летить, схоже! Навіть в магаз не сходиш!» - реакція народних кореспондентів на дрони в небі над економічним форумом в північній російській столиці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9465.MP4" length="20009257" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 16:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Новий підрозділ на лінії бо</title>
+      <link>https://www.mandarinai.lt/post/93719</link>
+      <description>❗️ Новий підрозділ на лінії бойового зіткнення: 8-ма артилерійська бригада «Гармаш», нещодавно сформована в складі 1-го корпусу НГУ «Азов», вже почала валити з РСЗВ і 155-мм гаубиць в бік російських окупантів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9467.MP4" length="24305798" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 17:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генсек НАТО Рютте відвідав міс</title>
+      <link>https://www.mandarinai.lt/post/93721</link>
+      <description>Генсек НАТО Рютте відвідав місце удару рф по Лукьянівці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_19-27-58.mp4" length="6386646" type="video/mp4"/>
+      <pubDate>Wed, 03 Jun 2026 19:27:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
