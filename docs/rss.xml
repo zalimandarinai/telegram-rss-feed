@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 12:34:29 +0000</lastBuildDate>
-    <item>
-      <title>🎙️ Штілерман з «Fire Point» об</title>
-      <link>https://www.mandarinai.lt/post/93736</link>
-      <description>🎙️ Штілерман з «Fire Point» обіцяє, що вже влітку українські балістичні ракети будуть спроможні завдавати ударів по Москві: «Перші удари можливі влітку, максимум – на початку осені».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9479.MP4" length="15022433" type="video/mp4"/>
-      <pubDate>Thu, 04 Jun 2026 08:38:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Оператори FPV-дронів 49-го </title>
-      <link>https://www.mandarinai.lt/post/93737</link>
-      <description>❗️ Оператори FPV-дронів 49-го окремого штурмового батальйону «Карпатська Січ» намагаються переконати окупантів в тому, що пересуватися на автівках зараз неактуально</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9480.MP4" length="8539417" type="video/mp4"/>
-      <pubDate>Thu, 04 Jun 2026 09:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окуповане Єнакієве дуже заціка</title>
-      <link>https://www.mandarinai.lt/post/93740</link>
-      <description>Окуповане Єнакієве дуже зацікавило операторів українських дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9483.MP4" length="1103352" type="video/mp4"/>
-      <pubDate>Thu, 04 Jun 2026 09:38:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 16:13:53 +0000</lastBuildDate>
     <item>
       <title>МАГАТЕ повідомило про сильний </title>
       <link>https://www.mandarinai.lt/post/93741</link>
@@ -88,6 +67,33 @@
 Обмеження діятимуть з 10 червня</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-04_12-05-48.jpg" length="154008" type="image/jpeg"/>
       <pubDate>Thu, 04 Jun 2026 12:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рідкісна здобич прикордонників</title>
+      <link>https://www.mandarinai.lt/post/93752</link>
+      <description>Рідкісна здобич прикордонників: бійці підрозділу «Стрікс» знищили ворожий розвідувальний БПЛА «Скат 450М» вартістю $400000.
+
+За весь час Силами оборони було збито не більше 20 таких апаратів. На рахунку прикордонників це другий подібний безпілотник.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9488.MP4" length="2159610" type="video/mp4"/>
+      <pubDate>Thu, 04 Jun 2026 14:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>В лобове скло хлопців з підроз</title>
+      <link>https://www.mandarinai.lt/post/93753</link>
+      <description>В лобове скло хлопців з підрозділу «Братство» влетів дрон, але всі залишились неушкоджені, - дійсно унікальний випадок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9489.MP4" length="29176898" type="video/mp4"/>
+      <pubDate>Thu, 04 Jun 2026 14:33:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Двигуни німецької компанії MAN</title>
+      <link>https://www.mandarinai.lt/post/93754</link>
+      <description>Двигуни німецької компанії MAN продовжують надходити до росії, це показало розслідування Центру «Досье» та Süddeutsche Zeitung.
+
+Вони постачаються через турецьку компанію до росіі, де встановлюються на прикордонні катери «Соболь».
+
+Компанія з Туреччини не вказує  росію в якості кінцевого покупця, тож виробник може і не знати, куди йде продукція, але фахівці стверджують, що без інженерів підприємства-виробника двигуни неможливо встановити на російські катери.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-04_15-06-17.jpg" length="63998" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jun 2026 15:06:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
