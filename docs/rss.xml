@@ -6,22 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 00:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:29:55 +0000</lastBuildDate>
     <item>
       <title>⚡️Щонайменше 3 людей загинули,</title>
-      <link>https://www.mandarinai.lt/post/93713</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️Щонайменше 3 людей загинули, ще одна  поранена внаслідок обстрілу Краматорська, — ОВА
 
 Росіяни двічі атакували житлову забудову міста. Триває пошуково-рятувальна операція. Точну кількість жертв та обсяги завданої шкоди встановлюють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-03_14-32-39.jpg" length="241791" type="image/jpeg"/>
       <pubDate>Wed, 03 Jun 2026 14:32:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Масштабна пожежа в Дніпрі пі</title>
-      <link>https://www.mandarinai.lt/post/93715</link>
-      <description>❗️Масштабна пожежа в Дніпрі після ударів балістикою — росія «денацифікувала» склади АТБ, уточнює мер Філатов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_14-44-07.mp4" length="3105976" type="video/mp4"/>
-      <pubDate>Wed, 03 Jun 2026 14:44:07 +0000</pubDate>
     </item>
     <item>
       <title>«Ось він летить, схоже! Навіть</title>
@@ -63,6 +55,13 @@
 Місто під атакою безпілотників.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-03_19-48-25.mp4" length="1581925" type="video/mp4"/>
       <pubDate>Wed, 03 Jun 2026 19:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Сили Оборони ефектно знищили </title>
+      <link>https://www.mandarinai.lt/post/93728</link>
+      <description>💥Сили Оборони ефектно знищили великий склад БК росіян на окупованій Донеччині,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-04_02-14-50.mp4" length="1575829" type="video/mp4"/>
+      <pubDate>Thu, 04 Jun 2026 02:14:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
