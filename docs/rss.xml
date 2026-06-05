@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 15:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 17:43:45 +0000</lastBuildDate>
     <item>
       <title>Перші кадри після удару по мол</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,12 +16,6 @@
 
 Ще люди можуть бути під завалами.</description>
       <pubDate>Fri, 05 Jun 2026 07:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Схожий на приліт «шахеда», - п</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Схожий на приліт «шахеда», - працівник відділення пошти на київській Оболоні про вибух посилки на конвеєрі.</description>
-      <pubDate>Fri, 05 Jun 2026 07:31:56 +0000</pubDate>
     </item>
     <item>
       <title>38 зенітно-ракетний полка : 1 </title>
@@ -67,6 +61,13 @@
 І далі звернення до своїх військових «працюйте, браття», тобто, продовжуйте тероризувати українців.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9534.MP4" length="22000164" type="video/mp4"/>
       <pubDate>Fri, 05 Jun 2026 15:40:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Криму зростають черги не тіл</title>
+      <link>https://www.mandarinai.lt/post/93812</link>
+      <description>В Криму зростають черги не тільки за бензином, а й за так званими «соціальними продуктами»: за свідченням самих кримчан, люди, як навіжені, скупляють цукор, крупи, борошно, олію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9535.MP4" length="4843948" type="video/mp4"/>
+      <pubDate>Fri, 05 Jun 2026 15:47:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
