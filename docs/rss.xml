@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 00:01:57 +0000</lastBuildDate>
-    <item>
-      <title>Двигуни німецької компанії MAN</title>
-      <link>https://www.mandarinai.lt/post/93754</link>
-      <description>Двигуни німецької компанії MAN продовжують надходити до росії, це показало розслідування Центру «Досье» та Süddeutsche Zeitung.
-
-Вони постачаються через турецьку компанію до росіі, де встановлюються на прикордонні катери «Соболь».
-
-Компанія з Туреччини не вказує  росію в якості кінцевого покупця, тож виробник може і не знати, куди йде продукція, але фахівці стверджують, що без інженерів підприємства-виробника двигуни неможливо встановити на російські катери.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-04_15-06-17.jpg" length="63998" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jun 2026 15:06:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Просто тварі: FPV-дрон на Херс</title>
-      <link>https://www.mandarinai.lt/post/93756</link>
-      <description>Просто тварі: FPV-дрон на Херсонщині цілеспрямовано атакує цивільну машину «швидкої допомоги»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9494.MP4" length="2917841" type="video/mp4"/>
-      <pubDate>Thu, 04 Jun 2026 16:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Корвет «Бойкий» після удару Си</title>
-      <link>https://www.mandarinai.lt/post/93757</link>
-      <description>Корвет «Бойкий» після удару Сил Безпілотних Систем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9495.MP4" length="4391870" type="video/mp4"/>
-      <pubDate>Thu, 04 Jun 2026 16:38:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 05:06:13 +0000</lastBuildDate>
     <item>
       <title>Безпілотник полку «Рейд» СБС в</title>
       <link>https://www.mandarinai.lt/post/93758</link>
@@ -94,6 +69,24 @@
 Висновок: «Загалом можна сказати, що виробництво БПЛА та ракет у РФ не дозволяє формувати великі запаси і майже все йде на фронт».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-04_20-47-28.jpg" length="156261" type="image/jpeg"/>
       <pubDate>Thu, 04 Jun 2026 20:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Палата представників США схв</title>
+      <link>https://www.mandarinai.lt/post/93768</link>
+      <description>‼️Палата представників США схвалила нову допомогу Україні
+
+Передбачається надання Україні військових позик на суму до 8 мільярдів доларів. 
+
+Базовий законопроєкт також включає допомогу у післявоєнній відбудові України та нові санкції проти Росії, підтверджуючи при цьому важливість НАТО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-05_01-21-03.jpg" length="157431" type="image/jpeg"/>
+      <pubDate>Fri, 05 Jun 2026 01:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі дрони атакували нафтоба</title>
+      <link>https://www.mandarinai.lt/post/93769</link>
+      <description>💥Вночі дрони атакували нафтобазу в окупованому Луганську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-05_04-04-44.jpg" length="67525" type="image/jpeg"/>
+      <pubDate>Fri, 05 Jun 2026 04:04:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
