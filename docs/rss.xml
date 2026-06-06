@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 15:02:50 +0000</lastBuildDate>
-    <item>
-      <title>➡️ Екіпаж Су-27 двома бомбами </title>
-      <link>https://www.mandarinai.lt/post/93844</link>
-      <description>➡️ Екіпаж Су-27 двома бомбами GBU на Сході знищив місця скупчення ворога, боєкомплект, 2 мотобайки, 4 самокати, - «Соняшник»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9565.MP4" length="12426701" type="video/mp4"/>
-      <pubDate>Sat, 06 Jun 2026 08:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Позиції ворожих операторів д</title>
-      <link>https://www.mandarinai.lt/post/93846</link>
-      <description>❗️Позиції ворожих операторів дронів виявлено та нейтралізовано, - 210-ий полк активно протидіє безпілотним операціям противника в Запорізькій та Сумській областях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9567.MP4" length="14794733" type="video/mp4"/>
-      <pubDate>Sat, 06 Jun 2026 09:09:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Кількість повітряних атак р</title>
-      <link>https://www.mandarinai.lt/post/93847</link>
-      <description>❗️ Кількість повітряних атак росіі через територію Білорусі збільшується, - речник Держприкондонслужби Андрій Демченко
-
-💬 «Більшість дронів, які запускає росія для масованих атак по Україні, заходять на територію Білорусі і йдуть її територією, щоб в подальшому &lt;…&gt; залетіти в Україну. &lt;…&gt; Фіксується збільшення такої тактики», - попереджає полковник Демченко
-
-Інші месіджи:
-
-▫️ Москва намагається втягнути Білорусь у війну, однак скупчення військ на кордоні немає;
-
-▫️ на території Білорусі немає додаткових підрозділів росії, які б становили зростаючу загрозу для України;
-
-▫️ кількість ворожих диверсійно-розвідувальних груп на північному кордоні з росією не збільшується.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-06_09-31-23.jpg" length="93534" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 09:31:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 16:54:49 +0000</lastBuildDate>
     <item>
       <title>Зеленський нагородив 37 україн</title>
       <link>https://www.mandarinai.lt/post/93850</link>
@@ -195,6 +164,24 @@ https://www.youtube.com/watch?v=wYbhqL_Ntg0&amp;t=4s
 Косиняк-Камиш нагадав про важливість пам'яті жертв Волинської трагедії для Польщі, підкресливши, що «є межі, які не можна перетинати».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-06_14-28-19.jpg" length="52959" type="image/jpeg"/>
       <pubDate>Sat, 06 Jun 2026 14:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 рф почала системно бити по л</title>
+      <link>https://www.mandarinai.lt/post/93861</link>
+      <description>🤬 рф почала системно бити по логістиці між Харковом і Сумами в районі Богодухова, за ~20 км від кордону, — Флеш.
+
+За словами Бескрестнова, потрібні нові рішення для захисту маршрутів, адже однієї обережності водіїв недостатньо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-06_15-51-08.mp4" length="5659221" type="video/mp4"/>
+      <pubDate>Sat, 06 Jun 2026 15:51:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори 3-го механізованого </title>
+      <link>https://www.mandarinai.lt/post/93863</link>
+      <description>Оператори 3-го механізованого батальйону 110-ої бригади опанували новий для себе безпілотник «Дартс» і вже активно застосовують його проти російських окупантів.
+
+Головна перевага цього FPV-дрона — можливість заходити за горизонт та самостійно доводити себе до цілі завдяки автонаведенню. Цього разу «Дартс» відпрацював саме так, як і має працювати сучасна зброя — швидко, точно та прямо в ціль.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/ТГ.mp4" length="6909925" type="video/mp4"/>
+      <pubDate>Sat, 06 Jun 2026 16:44:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
