@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 11:39:41 +0000</lastBuildDate>
-    <item>
-      <title>❗️російські війська вдарили по</title>
-      <link>https://www.mandarinai.lt/post/93867</link>
-      <description>❗️російські війська вдарили по двох катерах Морської пошуково-рятувальної служби, які виконували гуманітарну місію в межах українського морського коридору, повідомив міністр розвитку громад та територій України Олексій Кулеба.
-
-Повідомляється про постраждалих. Нині триває евакуація силами ВМС ЗСУ.
-
-За словами міністра, судна мають спеціальний захист відповідно до міжнародного гуманітарного права, таким чином РФ, заявляє Кулеба, порушила ці норми. Обставини удару уточнюються</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-06_20-00-54.jpg" length="99630" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 20:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Китай оголосив про початок спе</title>
-      <link>https://www.mandarinai.lt/post/93868</link>
-      <description>Китай оголосив про початок спеціальної морської операції на схід від Тайваню. 
-
-Цей крок Пекіна спровокований рішенням Токіо та Маніли розпочати переговори про демаркацію морських кордонів, повідомляє Bloomberg. 
-
-Організація, яка проводить розгортання: міністерство транспорту КНР. 
-
-Назва: «спеціальна операція із забезпечення дотримання правил морського руху». 
-
-Головна мета: встановлення правоохоронного контролю над судноплавством у міжнародних водах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-06_20-48-33.jpg" length="137593" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 20:48:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 13:13:37 +0000</lastBuildDate>
     <item>
       <title>💥🔥Окупована Луганщині вночі бу</title>
       <link>https://www.mandarinai.lt/post/93870</link>
@@ -94,6 +68,35 @@ FPV-дрони знаходять ворога всюди: в окопах, ук
       <description>В Запоріжжі ППО збила «шахед‎» під час фотосесії молодят</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9595.MP4" length="3184477" type="video/mp4"/>
       <pubDate>Sun, 07 Jun 2026 10:41:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Пілоти 12-ої бригади армійс</title>
+      <link>https://www.mandarinai.lt/post/93881</link>
+      <description>❗️ Пілоти 12-ої бригади армійської авіації розпочала комунікаційну кампанію «Тримаймо небо разом».
+
+▫️ Мета: максимально забезпечити екіпажі гелікоптерів всіма можливостями для збиття російських «шахедів».
+
+▫️ Хедлайнери: пілоти вертольотів Мі-8 та Мі-24 з позивними «Apostol», «Qunesko», «Bubi», «Hunter», «Bin».
+
+▫️ Один екіпаж 12-оі бригади може збити до 10 «шахедів» за ротацію.
+
+▫️ В результаті комунікаційної компанії збитих дронів може стати більше.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9598.MP4" length="5846854" type="video/mp4"/>
+      <pubDate>Sun, 07 Jun 2026 12:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Херсонщині патрульні врятув</title>
+      <link>https://www.mandarinai.lt/post/93882</link>
+      <description>На Херсонщині патрульні врятували поранених після атаки російського дрона на АЗС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9599.MP4" length="17574274" type="video/mp4"/>
+      <pubDate>Sun, 07 Jun 2026 12:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺З п'ятниці аеропорт Сочі пра</title>
+      <link>https://www.mandarinai.lt/post/93883</link>
+      <description>🇷🇺З п'ятниці аеропорт Сочі працював лише 8 хвилин. Тисячі росіян застрягли та не можуть вилетіти через атаки українських БпЛА, — росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-07_13-11-12.mp4" length="1853714" type="video/mp4"/>
+      <pubDate>Sun, 07 Jun 2026 13:11:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
