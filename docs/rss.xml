@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 13:13:37 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Окупована Луганщині вночі бу</title>
-      <link>https://www.mandarinai.lt/post/93870</link>
-      <description>💥🔥Окупована Луганщині вночі була під атакою БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-07_05-23-04.mp4" length="625562" type="video/mp4"/>
-      <pubDate>Sun, 07 Jun 2026 05:23:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Момент вибуху на поштовому те</title>
-      <link>https://www.mandarinai.lt/post/93872</link>
-      <description>😡Момент вибуху на поштовому терміналі Києва
-
-Нагадаємо, що внаслідок теракту 5 червня загинула людина, ще двоє отримали поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-07_06-08-42.mp4" length="411691" type="video/mp4"/>
-      <pubDate>Sun, 07 Jun 2026 06:08:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 15:15:39 +0000</lastBuildDate>
     <item>
       <title>Дрони батальйону SIGNUM грають</title>
       <link>https://www.mandarinai.lt/post/93873</link>
@@ -97,6 +81,24 @@ FPV-дрони знаходять ворога всюди: в окопах, ук
       <description>🇷🇺З п'ятниці аеропорт Сочі працював лише 8 хвилин. Тисячі росіян застрягли та не можуть вилетіти через атаки українських БпЛА, — росЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-07_13-11-12.mp4" length="1853714" type="video/mp4"/>
       <pubDate>Sun, 07 Jun 2026 13:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡СБУ кваліфікує удар рф по об’</title>
+      <link>https://www.mandarinai.lt/post/93884</link>
+      <description>😡СБУ кваліфікує удар рф по об’єкту з відпрацьованим ядерним паливом біля ЧАЕС як воєнний злочин.
+
+Пошкоджено технічні будівлі та корпус МАГАТЕ. 
+
+Радіаційний фон у нормі, постраждалих немає.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-07_13-17-30.jpg" length="235089" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 13:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пошук і знешкодження окупанта </title>
+      <link>https://www.mandarinai.lt/post/93886</link>
+      <description>Пошук і знешкодження окупанта в кущах біля Покровська у виконанні спецпризначенців «Альфи»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9606.MP4" length="23809692" type="video/mp4"/>
+      <pubDate>Sun, 07 Jun 2026 13:54:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
