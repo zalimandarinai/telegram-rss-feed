@@ -6,53 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 02:08:13 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Сьогодні російські терорист</title>
-      <link>https://www.mandarinai.lt/post/93855</link>
-      <description>❗️ Сьогодні російські терористи атакували Запоріжжя - двоє поранених, у тому числі дитина 
-Приліт був по даху супермаркету. Також виникла пожежа у квартирі будинку, розташованого навпроти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-06_13-05-13.jpg" length="111983" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 13:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Сили оборони вдарили по нафт</title>
-      <link>https://www.mandarinai.lt/post/93856</link>
-      <description>🔥 Сили оборони вдарили по нафтобазах і ракетному арсеналу під Петербургом
-
-У ніч на 6 червня українські військові уразили нафтобази "Петергофская" та "Несте" в Ленінградській області рф. На об’єктах зафіксовано вибухи та пожежі.
-
-Також під удар потрапив арсенал 1060-го Центру матеріально-технічного забезпечення у Великій Іжорі, де зберігалися ракети, боєприпаси та військове майно. Повідомляється про детонацію та масштабне займання.
-
-Крім того, Сили оборони завдали ударів по пунктах управління дронами, складах і місцях зосередження російських військ на фронті та в прикордонних регіонах рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-06_13-28-48.jpg" length="111655" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 13:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦 Валентин Коренчук, пілот Мі</title>
-      <link>https://www.mandarinai.lt/post/93857</link>
-      <description>🇺🇦 Валентин Коренчук, пілот МіГ-29 з позивним «Бджоляр», отримав Зірку Героя України. Посмертно.
-
-Ось указ
-
-https://www.president.gov.ua/documents/4752026-59793
-
-На нього довго чекала вся авіаційна спільнота. 
-
-Кожен повітряний бій є унікальним поєднанням досвіду, професіоналізму та випадкових обставин. 
-
-Але двобій, який Коренчук провів в небі над Вишгородом з ворожим Су-25 в лютому 2022-го, є дійсно винятковим та увійшов в історію, як єдиний доведений випадок, коли перемога була здобута без жодного пострілу: Валентин змусив літак противника врізатися в землю.
-
-Нажаль, через два роки «Бджоляр» загинув, повертаючись на аеродром з бойового завдання.
-
-Тут повністю наш матеріал про унікальний повітряний двобій і про легендарного українського льотчика
-
-https://www.youtube.com/watch?v=wYbhqL_Ntg0&amp;t=4s
-
-Честь і слава Герою!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9586.MOV" length="16711265" type="video/mp4"/>
-      <pubDate>Sat, 06 Jun 2026 14:07:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 06:54:52 +0000</lastBuildDate>
     <item>
       <title>3-й окремий полк ССО повідомив</title>
       <link>https://www.mandarinai.lt/post/93858</link>
@@ -121,6 +75,22 @@ https://www.youtube.com/watch?v=wYbhqL_Ntg0&amp;t=4s
 Головна мета: встановлення правоохоронного контролю над судноплавством у міжнародних водах.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-06_20-48-33.jpg" length="137593" type="image/jpeg"/>
       <pubDate>Sat, 06 Jun 2026 20:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Окупована Луганщині вночі бу</title>
+      <link>https://www.mandarinai.lt/post/93870</link>
+      <description>💥🔥Окупована Луганщині вночі була під атакою БПЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-07_05-23-04.mp4" length="625562" type="video/mp4"/>
+      <pubDate>Sun, 07 Jun 2026 05:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Момент вибуху на поштовому те</title>
+      <link>https://www.mandarinai.lt/post/93872</link>
+      <description>😡Момент вибуху на поштовому терміналі Києва
+
+Нагадаємо, що внаслідок теракту 5 червня загинула людина, ще двоє отримали поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-07_06-08-42.mp4" length="411691" type="video/mp4"/>
+      <pubDate>Sun, 07 Jun 2026 06:08:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
