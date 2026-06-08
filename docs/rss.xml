@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 19:11:50 +0000</lastBuildDate>
-    <item>
-      <title>🤷‍♂️ Лист Зеленського путіну б</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤷‍♂️ Лист Зеленського путіну було розіслано по всьому світу, ввічливі люди так не роблять, — Лавров поскаржився на Зеленського главі уряду Бангладеш</description>
-      <pubDate>Mon, 08 Jun 2026 11:50:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Світогляд перевернувся післ</title>
-      <link>https://www.mandarinai.lt/post/93953</link>
-      <description>💬 «Світогляд перевернувся після того, як потрапив в полон», - 425-ий полк «Скеля» захопив двох росіян, і вони досі шоковані тим, як їм брехали командири про нібито жорстоке поводження з боку українських військових.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9650.MP4" length="25360462" type="video/mp4"/>
-      <pubDate>Mon, 08 Jun 2026 16:52:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Король Чарльз III зустрівся з </title>
-      <link>https://www.mandarinai.lt/post/93954</link>
-      <description>Король Чарльз III зустрівся з Зеленським у Великій Британії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_16-58-15.jpg" length="212662" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 16:58:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 21:30:06 +0000</lastBuildDate>
     <item>
       <title>В Криму російські окупанти ува</title>
       <link>https://www.mandarinai.lt/post/93955</link>
@@ -58,6 +38,41 @@
       <description>💥В Новоросійську знову вибухи і пожежа</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_18-39-46.jpg" length="151767" type="image/jpeg"/>
       <pubDate>Mon, 08 Jun 2026 18:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Зеленський провів розмову з </title>
+      <link>https://www.mandarinai.lt/post/93962</link>
+      <description>❗️Зеленський провів розмову з Віткоффом та Кушнером, представниками Трампа, - пише Барак Равид, аналітик CNN і Axios</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_19-13-55.jpg" length="59123" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jun 2026 19:13:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент атаки російських терори</title>
+      <link>https://www.mandarinai.lt/post/93963</link>
+      <description>Момент атаки російських терористів по Запоріжжю, є жертви та поранені</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9659.MP4" length="16629470" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 19:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>За тиждень оператори FPV-дроні</title>
+      <link>https://www.mandarinai.lt/post/93965</link>
+      <description>За тиждень оператори FPV-дронів Центру спецоперацій «Альфа» СБУ знищили близько 2 тисяч російських окупантів на різних напрямках.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9661.MP4" length="30195828" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 19:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літак Як-52 збиває «шахед» в н</title>
+      <link>https://www.mandarinai.lt/post/93966</link>
+      <description>Літак Як-52 збиває «шахед» в небі над Одещиною</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9662.MP4" length="8209413" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 20:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вибухи в окупованому Алчевську</title>
+      <link>https://www.mandarinai.lt/post/93967</link>
+      <description>Вибухи в окупованому Алчевську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-08_20-53-16.mp4" length="8548166" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 20:53:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
