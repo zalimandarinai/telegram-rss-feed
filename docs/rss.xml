@@ -6,133 +6,106 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 12:17:45 +0000</lastBuildDate>
-    <item>
-      <title>🎁 Подарунок, який вона покаже </title>
-      <link>https://www.mandarinai.lt/post/93913</link>
-      <description>🎁 Подарунок, який вона покаже всім подругам
-
-Портрет на полотні — саме такий подарунок 💜
-
-Він створений особисто для неї.
-Він викликає справжні емоції.
-І він залишається на пам'ять на довгі роки.
-
-Все просто:
-
-📸 Надішліть улюблене фото
-🎨 Ми створимо портрет всього за 2 дні
-🎁 Красиво запакуємо та доставимо 
-
-❗ Якщо результат не сподобається — повернемо гроші
-
-Зараз для підписників каналу діє знижка ➖4️⃣0️⃣🔤
-
-
-👇 Натискайте та дізнайтесь вартість вашого портрета</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_07-01-57.jpg" length="113689" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 07:01:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Студент, завербований рф, кори</title>
-      <link>https://www.mandarinai.lt/post/93914</link>
-      <description>Студент, завербований рф, коригував удари по Дніпропетровщині
-
-Контррозвідники СБУ затримали російського агента після того, як стало зрозуміло, що студент коригував обстріли Нікополя.
-
-Він наводив ворожий вогонь по місцях базування військових.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_07-32-27.jpg" length="99292" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 07:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зеленський попередив путіна, щ</title>
-      <link>https://www.mandarinai.lt/post/93915</link>
-      <description>Зеленський попередив путіна, що Україна може почати завдавати ударів по території рф балістичними ракетами, — The Telegraph
-
-В Україні створюється власне балістичне озброєння. 
-
-Тож у разі продовження війни Україна буде відповідати всіма доступними засобами, доки росія не відмовиться від бойових дій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_07-34-53.jpg" length="119640" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 07:34:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Момент сьогоднішнього удару</title>
-      <link>https://www.mandarinai.lt/post/93917</link>
-      <description>❗️ Момент сьогоднішнього удару «шахеда» по житловому будинку в Чорноморську біля Одеси</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9621.MP4" length="3996108" type="video/mp4"/>
-      <pubDate>Mon, 08 Jun 2026 07:50:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Авіація НАТО вперше збила Б</title>
-      <link>https://www.mandarinai.lt/post/93918</link>
-      <description>❗️ Авіація НАТО вперше збила БПЛА, який незаконно перетнув повітряний простір Латвії, по невідомому безпілотнику «спрацював» французький літак.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_08-19-09.jpg" length="31395" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 08:19:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В Києві Нацполіція затримал</title>
-      <link>https://www.mandarinai.lt/post/93919</link>
-      <description>⚡️ В Києві Нацполіція затримала російського агента, який готував вбивство Андрія Юсова, представника ГУР. Так стверджує Офіс Генпрокурора.
-
-Що відомо.
-
-▫️ Кілер колишній військовий із досвідом розвідувальних дій.
-
-▫️ Для вбивства планувалося застосувати дрон.
-
-▫️ За «виконання завдання» вбивця мав отримати $100000.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_08-45-07.jpg" length="74595" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 08:45:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ 500 км від України: дрон ат</title>
-      <link>https://www.mandarinai.lt/post/93923</link>
-      <description>❗️ 500 км від України: дрон атакує технічні споруди на аеродромі «Протасове» в Рязанській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9626.MP4" length="2687280" type="video/mp4"/>
-      <pubDate>Mon, 08 Jun 2026 10:28:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛑 Після атаки «добрих дронів» </title>
-      <link>https://www.mandarinai.lt/post/93924</link>
-      <description>🛑 Після атаки «добрих дронів» зупинено рух потягів в окупованому Криму на ділянках Армянськ - Джанкой; Сімферополь - Джанкой;
-Яркая - Армянськ - Джанкой; 
-Сімферополь - Джанкой;
-Яркая - Сімферополь. 
-
-.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_10-37-26.jpg" length="98702" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 10:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Нептуни» нагадують про себе. </title>
-      <link>https://www.mandarinai.lt/post/93925</link>
-      <description>«Нептуни» нагадують про себе. Удар ракет знищив дві установки на Новошахтинському НПЗ. В ВМС України підтверджують застосування «Нептуна» по цілях в Ростовській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_11-02-26.jpg" length="42442" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 11:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥ССО запалюють: уразили страте</title>
-      <link>https://www.mandarinai.lt/post/93926</link>
-      <description>💥ССО запалюють: уразили стратегічний вузол нафтопроводів в Волгоградській області та нафтобазу в Криму
-
-Сили спеціальних операцій у серії дронових ударів уразили вузол двох російських магістральних нафтопроводів в Волгоградській області рф, радіолокаційну станцію в Краснодарському краї рф, та нафтобазу в окупованому Криму у ніч проти 8 червня. 
-
-Сьогодні внаслідок атаки безпілотників підрозділів Deep-strike ССО на лінійній виробничо-диспетчерській станції (ЛВДС) "Красний Яр" у Волгоградській області виникла пожежа. 
-
-Станція є ключовим вузлом нафтопроводів на двох стратегічних для противника напрямках: на Волгоградський НПЗ та потужний експортний термінал "Шесхаріс" у чорноморському Новоросійську.
-
-Також Deep-strike ССО уразили радіолокаційну станцію на території військової частини ППО у передмісті Новоросійська.
-
-РЛС відповідала за безперервний контроль неба в прибережній зоні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_11-28-28.jpg" length="218448" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 11:28:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 16:40:52 +0000</lastBuildDate>
     <item>
       <title>🤷‍♂️ Лист Зеленського путіну б</title>
       <link>https://www.mandarinai.lt/post/93927</link>
       <description>🤷‍♂️ Лист Зеленського путіну було розіслано по всьому світу, ввічливі люди так не роблять, — Лавров поскаржився на Зеленського главі уряду Бангладеш</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9630.MP4" length="12554490" type="video/mp4"/>
       <pubDate>Mon, 08 Jun 2026 11:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські дрони вже автономно</title>
+      <link>https://www.mandarinai.lt/post/93929</link>
+      <description>Українські дрони вже автономно збивають Shahed, - Федоров
+
+Учасник Brave1 створив технологію, яка автоматизує 95% усього процесу перехоплення — від запуску дрона до знищення Shahed. 
+
+Розробка успішно пройшла бойове випробування на Харківщині.
+
+Оператор вибирає ціль та дає команду на ураження. Далі система самостійно веде дрон до цілі, автономно розпізнає та наводиться на Shahed.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9631.MP4" length="5883531" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 12:41:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБС вносять корективи в графік</title>
+      <link>https://www.mandarinai.lt/post/93930</link>
+      <description>СБС вносять корективи в графік руху російських потягів.
+
+На території Брянської області поблизу населеного пункту Пантусов оператори 413-го полку СБС «Рейд» уразили локомотив.
+
+Його використовували для перевезення військових вантажів.
+
+Удар завдано приблизно за 40 км від державного кордону України. 
+
+Це вже третій локомотив противника, уражений «Рейдом» за чотири дні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9632.MP4" length="6941769" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 12:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У Бєлгороді скаржаться на най</title>
+      <link>https://www.mandarinai.lt/post/93931</link>
+      <description>💥У Бєлгороді скаржаться на найсильніші вибухи за весь період війни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_13-17-51.jpg" length="151453" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jun 2026 13:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>На території Молдови впав безп</title>
+      <link>https://www.mandarinai.lt/post/93935</link>
+      <description>На території Молдови впав безпілотник з позначками українською мовою.
+
+Безпілотник перетнув кордон Молдови в ніч на 8 червня приблизно о 00:20, повідомили в Міноборони країни.
+
+Його фрагменти пізніше знайшли на відкритій місцевості в Оргіївському районі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_13-32-27.jpg" length="78242" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jun 2026 13:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Причиною вибухів в Бєлгороді м</title>
+      <link>https://www.mandarinai.lt/post/93936</link>
+      <description>Причиною вибухів в Бєлгороді міг стати російський літак, який, ймовірно, через несправність або помилково, скинув КАБ на місто, - військові експерти. Чекаємо на детальнішу інформацію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9634.MP4" length="4645081" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 13:47:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Сьогодні російський дрон ат</title>
+      <link>https://www.mandarinai.lt/post/93937</link>
+      <description>⚡️ Сьогодні російський дрон атакував маршрутку та зупинку в Запоріжжі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9635.MP4" length="10480511" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 13:53:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎣 РИБАЛЬСЬКИЙ ДЗЕН — це твій л</title>
+      <link>https://www.mandarinai.lt/post/93939</link>
+      <description>🎣 РИБАЛЬСЬКИЙ ДЗЕН — це твій легальний спосіб втекти від усього світу на кілька хвилин на день.
+
+​Ми не постимо політику чи спам. 
+Тільки:
+📍 Естетика української риболовлі.
+📍 Моменти, коли час зупиняється.
+📍 Спільнота тих, хто цінує тишу.
+
+​Підписуйся, якщо риболовля для тебе — це релігія:</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-08_14-47-39.mp4" length="720055" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 14:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Епічна детонація в Бєлгороді</title>
+      <link>https://www.mandarinai.lt/post/93940</link>
+      <description>💥🔥Епічна детонація в Бєлгороді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-08_15-13-25.mp4" length="1640702" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 15:13:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Противник на Покровському напр</title>
+      <link>https://www.mandarinai.lt/post/93941</link>
+      <description>Противник на Покровському напрямку штурмував позиції  71-ї бригади, але опинився в полоні. 
+
+Після того, як але українські FPV-дрони оперативно зупинили спробу штурму, до них долучився «Mavic» з гучномовцем і запропонував скласти зброю.
+
+Ворожі штурмовики погодились і слухняно рушили за пташкою прямо в безпечний полон до українських десантників.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9639.MP4" length="17874601" type="video/mp4"/>
+      <pubDate>Mon, 08 Jun 2026 15:34:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
