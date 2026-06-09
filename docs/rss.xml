@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 17:49:22 +0000</lastBuildDate>
-    <item>
-      <title>Вже 9-а група добровольців Укр</title>
-      <link>https://www.mandarinai.lt/post/93987</link>
-      <description>Вже 9-а група добровольців Українського легіону в Польщі 26 червня підпише контракти в Любліні.
-
-До групі входять кількадесят громадян України, які проживають на даний момент у Польщі, Нідерландах, Німеччині, Італії.
-
-Вік добровольців від 20 до 44 років, серед них тільки чоловіки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_10-14-45.jpg" length="73902" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 10:14:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Дальність до 2000 км, - Сир</title>
-      <link>https://www.mandarinai.lt/post/93988</link>
-      <description>❗️ Дальність до 2000 км, - Сирський затвердив «Концепцію розвитку ракетних військ і артилерії»
-
-➡️ Якщо стисло, то важливі два моменти.
-
-📌 Зараз в Силах оборони України найбільший в світі за кількістю найменувань парк артилерійських систем. Це створює цілий спектр логістичних проблем.
-
-✅ Тож основою української артилерії мають в майбутньому стати гармати вітчизняного виробництва. Приклад - 2С22 «Богдана», виробництво якої вдалося масштабувати за рахунок «Датської моделі».
-
-📌 Також буде приділятися особлива увага створенню власного балістичного та іншого ракетного озброєння. В комбінації з розвитком безпілотних засобів українська армія отримає можливість діставати противника на дистанції до 2000 кілометрів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_12-31-49.jpg" length="67045" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 12:31:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 19:51:42 +0000</lastBuildDate>
     <item>
       <title>🤦‍♂️ Вони там йобнулись всі.
 
@@ -121,6 +95,13 @@
       <description>‼️ Біля Дергачів армія рф дроном вдарила по цивільній "Хонді". Одна людина загинула, чотири - поранені</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_17-07-03.jpg" length="147624" type="image/jpeg"/>
       <pubDate>Tue, 09 Jun 2026 17:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Три потужні вибухи сталися н</title>
+      <link>https://www.mandarinai.lt/post/94001</link>
+      <description>💥 Три потужні вибухи сталися на магістральному газопроводів в Дагестані</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-09_18-21-11.mp4" length="4966674" type="video/mp4"/>
+      <pubDate>Tue, 09 Jun 2026 18:21:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
