@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 09:26:07 +0000</lastBuildDate>
-    <item>
-      <title>❗️Зеленський провів розмову з </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️Зеленський провів розмову з Віткоффом та Кушнером, представниками Трампа, - пише Барак Равид, аналітик CNN і Axios</description>
-      <pubDate>Mon, 08 Jun 2026 19:13:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент атаки російських терори</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Момент атаки російських терористів по Запоріжжю, є жертви та поранені</description>
-      <pubDate>Mon, 08 Jun 2026 19:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 12:28:08 +0000</lastBuildDate>
     <item>
       <title>💥ЗСУ знищують Чонгарський міст</title>
       <link>https://www.mandarinai.lt/post/93974</link>
@@ -71,6 +59,49 @@
       <description>⚡️ Момент вибуху в Підмосковʼї. Водій машини, яку підірвали, загинув, повідомляють, що він був військовим. До машини був закладений вибуховий пристрій 500 грамів в тротиловому еквіваленті.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9673.MP4" length="1680483" type="video/mp4"/>
       <pubDate>Tue, 09 Jun 2026 08:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бригада ДПСУ «Сталевий кордон»</title>
+      <link>https://www.mandarinai.lt/post/93985</link>
+      <description>Бригада ДПСУ «Сталевий кордон» знищила 1 гармату, 3 укриття та 2 авто російських військових в Курській області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9675.MP4" length="23893222" type="video/mp4"/>
+      <pubDate>Tue, 09 Jun 2026 09:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️ Добре, якби гроші, які Абра</title>
+      <link>https://www.mandarinai.lt/post/93986</link>
+      <description>🎙️ Добре, якби гроші, які Абрамович отримав від продажу команди «Челсі», пішли на придбання ракет для української ППО, - Зеленський в розмові з журналістами The Guardian 
+
+💬 «Це було б справедливо між нами. Тому що росія розпочала цю війну. Чому б не використати російські гроші?»
+
+💷 Він сказав, що Абрамович не привіз із собою грошей, коли вони зустрілися в Києві минулого місяця. 
+
+💬 «Він не привіз цих грошей. Я сказав, нам потрібні ваші гроші».
+
+ℹ️ Передісторія футбольних грошей Абрамовича.
+
+▫️ Олігарх офіційно продав футбольний клуб «Челсі» 30 травня 2022 року. 
+
+▫️ Процес продажу розпочався на початку березня 2022 року, і уряд Великої Британії наклав на росіянина санкції.
+
+▫️ Сума угоди становила £4,25 млрд., і, після сплати податків, чистий виторг £2,5 млрд. перевели на заморожений банківський рахунок. 
+
+▫️ Гроші мають переказати Україні, але все ще не переказали.
+
+▫️Юристи Абрамовича тривалий час «бодаються» в судах з урядом Його Величності щодо переказу цієї суми.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_09-56-09.jpg" length="99445" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 09:56:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вже 9-а група добровольців Укр</title>
+      <link>https://www.mandarinai.lt/post/93987</link>
+      <description>Вже 9-а група добровольців Українського легіону в Польщі 26 червня підпише контракти в Любліні.
+
+До групі входять кількадесят громадян України, які проживають на даний момент у Польщі, Нідерландах, Німеччині, Італії.
+
+Вік добровольців від 20 до 44 років, серед них тільки чоловіки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_10-14-45.jpg" length="73902" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 10:14:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
