@@ -6,67 +6,18 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 05:57:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:26:07 +0000</lastBuildDate>
     <item>
       <title>❗️Зеленський провів розмову з </title>
-      <link>https://www.mandarinai.lt/post/93962</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️Зеленський провів розмову з Віткоффом та Кушнером, представниками Трампа, - пише Барак Равид, аналітик CNN і Axios</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-08_19-13-55.jpg" length="59123" type="image/jpeg"/>
       <pubDate>Mon, 08 Jun 2026 19:13:55 +0000</pubDate>
     </item>
     <item>
       <title>Момент атаки російських терори</title>
-      <link>https://www.mandarinai.lt/post/93963</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Момент атаки російських терористів по Запоріжжю, є жертви та поранені</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9659.MP4" length="16629470" type="video/mp4"/>
       <pubDate>Mon, 08 Jun 2026 19:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>За тиждень оператори FPV-дроні</title>
-      <link>https://www.mandarinai.lt/post/93965</link>
-      <description>За тиждень оператори FPV-дронів Центру спецоперацій «Альфа» СБУ знищили близько 2 тисяч російських окупантів на різних напрямках.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9661.MP4" length="30195828" type="video/mp4"/>
-      <pubDate>Mon, 08 Jun 2026 19:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Літак Як-52 збиває «шахед» в н</title>
-      <link>https://www.mandarinai.lt/post/93966</link>
-      <description>Літак Як-52 збиває «шахед» в небі над Одещиною</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9662.MP4" length="8209413" type="video/mp4"/>
-      <pubDate>Mon, 08 Jun 2026 20:50:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вибухи в окупованому Алчевську</title>
-      <link>https://www.mandarinai.lt/post/93967</link>
-      <description>Вибухи в окупованому Алчевську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-08_20-53-16.mp4" length="8548166" type="video/mp4"/>
-      <pubDate>Mon, 08 Jun 2026 20:53:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ У Харкові триває ліквідація</title>
-      <link>https://www.mandarinai.lt/post/93969</link>
-      <description>⚡️ У Харкові триває ліквідація наслідків ударів ворожих БпЛА. Серед постраждалих є діти, — ОВА
-
-Внаслідок «прильотів» спалахнули пожежі, пошкоджено щонайменше 18 автомобілів, у житлових багатоповерхових будинках вибиті вікна та пошкоджено фасади будівель.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_00-13-02.jpg" length="161725" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 00:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вночі росіяни влаштували мешка</title>
-      <link>https://www.mandarinai.lt/post/93970</link>
-      <description>Вночі росіяни влаштували мешканцям Харкова і Харківщини пекло.
-
-Харків атакували 11 дронів, є влучання в житлові будинки
-
-Під ударом опинилися Шевченківський і Холодногірський райони. 
-
-Пошкоджено багатоповерхівки, підприємства, бізнес-центр, кафе, церкву та десятки автомобілів. 
-
-Один із безпілотників влучив у житловий будинок, ще один застряг між 8-м і 9-м поверхами та не вибухнув — мешканців евакуювали.
-
-Також під ударом опинився Чугуїв за 20 км від Харкова. Внаслідок ракетної атаки в Чугуєві загинуло п’ятеро людей, ще троє дістали поранення. Пошкоджено близько восьми багатоквартирних та понад десять приватних будинків.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9663.MP4" length="31386802" type="video/mp4"/>
-      <pubDate>Tue, 09 Jun 2026 03:59:34 +0000</pubDate>
     </item>
     <item>
       <title>💥ЗСУ знищують Чонгарський міст</title>
@@ -74,6 +25,52 @@
       <description>💥ЗСУ знищують Чонгарський міст — сьогодні завдано повторні удари, рух зупинено, жаліється в соцмережах гауляйтер Сальдо</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_05-44-22.jpg" length="115526" type="image/jpeg"/>
       <pubDate>Tue, 09 Jun 2026 05:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прокурора Міжнародного криміна</title>
+      <link>https://www.mandarinai.lt/post/93975</link>
+      <description>Прокурора Міжнародного кримінального суду, який домігся ордеру на арешт путіна, відсторонено від посади.
+
+Каріма Хана відсторонено від виконання обов’язків до завершення розслідування у зв’язку зі звинуваченнями в домаганнях до юристки з Малайзії.
+
+Адвокати Каріма Хана назвали рішення про відсторонення незаконним і заявили, що воно не підкріплене доказами.
+
+Карім Хан відкидає звинувачення на свою адресу. Він стверджує, що це ізраїльська спецоперація, адже МКС на вимогу Хана видав ордер на арешт Нетаньягу, звинувативши його у воєнних злочинах в Секторі Газа.
+
+Але, якщо це й була спецоперація, то, ймовірно, російська. Адже росія має тісні звʼязки з багатьма топ-чиновниками Малайзії. До того ж, росіяни особливо витончені у використанні того, що називається «медова пастка»
+
+В росії Московський міський суд заочно засудив Хана до 15 років позбавлення волі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-09_06-14-20.jpg" length="71281" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 06:14:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підірвали автомобіль у Підмоск</title>
+      <link>https://www.mandarinai.lt/post/93977</link>
+      <description>Підірвали автомобіль у Підмосковʼї 
+
+Вибух стався в Балашисі.
+
+Авто вибухнуло в момент, коли водій сів у салон і збирався від'їжджати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9668.MP4" length="12232953" type="video/mp4"/>
+      <pubDate>Tue, 09 Jun 2026 06:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Вони знищили за травень бри</title>
+      <link>https://www.mandarinai.lt/post/93981</link>
+      <description>❗️ Вони знищили за травень бригаду окупантів.
+
+➡️ Підтверджена кількість: близько 8000 російських військових, а також 15 танків, 47 бронемашин, 35 систем ППО, 101 гармату, було нейтралізовано Центром спеціальних операцій «А» СБУ впродовж місяця.
+
+📈 «Альфа» СБУ третій місяць поспіль ТОП-1 серед підрозділів Сил оборони України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9672.MP4" length="15637705" type="video/mp4"/>
+      <pubDate>Tue, 09 Jun 2026 07:18:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Момент вибуху в Підмосковʼї</title>
+      <link>https://www.mandarinai.lt/post/93983</link>
+      <description>⚡️ Момент вибуху в Підмосковʼї. Водій машини, яку підірвали, загинув, повідомляють, що він був військовим. До машини був закладений вибуховий пристрій 500 грамів в тротиловому еквіваленті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9673.MP4" length="1680483" type="video/mp4"/>
+      <pubDate>Tue, 09 Jun 2026 08:09:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
