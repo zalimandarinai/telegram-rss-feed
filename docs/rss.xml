@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 06:54:50 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺Сочі. Пляжний сезон - 2026</title>
-      <link>https://www.mandarinai.lt/post/94008</link>
-      <description>🇷🇺Сочі. Пляжний сезон - 2026</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-10_03-52-43.mp4" length="6090183" type="video/mp4"/>
-      <pubDate>Wed, 10 Jun 2026 03:52:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 10:45:23 +0000</lastBuildDate>
     <item>
       <title>💥Момент прильоту «Фламінго» у </title>
       <link>https://www.mandarinai.lt/post/94012</link>
@@ -94,9 +87,35 @@
 
 Важливо, що окупаційна влада намагається забезпечити пальним в першу чергу військових, і тому обмежує продаж пального цивільним.
 
-Їм продають бензин тільки по 20 літрів і тільки по спеціальних QR-кодах, які отримають не всі.</description>
+Їм продають бензин тільки по 20 л і тільки по спеціальних QR-кодах, які отримають не всі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-10_06-54-49.jpg" length="36597" type="image/jpeg"/>
       <pubDate>Wed, 10 Jun 2026 06:54:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Спецслужби рф вербують непо</title>
+      <link>https://www.mandarinai.lt/post/94024</link>
+      <description>❗️ Спецслужби рф вербують неповнолітніх дівчат для вбивств українських військових, — голова Нацполіціі Іван Виговський
+
+Лише від початку 2026 року зафіксовано шість таких випадків, зокрема у Харкові та на Житомирщині, повідомив він. Один інцидент вдалося попередити.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-10_08-52-03.jpg" length="67618" type="image/jpeg"/>
+      <pubDate>Wed, 10 Jun 2026 08:52:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ СБУ пробує обмежити перегон</title>
+      <link>https://www.mandarinai.lt/post/94025</link>
+      <description>❗️ СБУ пробує обмежити перегонку нафтопродуктів до  Москві та атакувала дронами нафтоперекачувальні станції «Второво» та «Лобково», через які здійснювалося постачання до російської столиці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-10_09-12-05.jpg" length="163892" type="image/jpeg"/>
+      <pubDate>Wed, 10 Jun 2026 09:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти втратили можливість в</title>
+      <link>https://www.mandarinai.lt/post/94026</link>
+      <description>Окупанти втратили можливість використовувати порт Маріуполя.
+
+В результаті спільної операції, яку провели 1-й корпус НГУ «Азов», ГУ СБУ в Донецькій та Луганській областях, ЦСО «А» та СБС, було знищено об'єкти критичної інфраструктури Маріупольського торговельного порту. 
+
+Уражено електропідстанції, радіолокаційне обладнання, ремонтну інфраструктуру, башту управління та ємності з паливно-мастильними матеріалами, а також підсанкційний суховантаж «Lady Augusta», який є частиною тіньового флоту рф.</description>
+      <pubDate>Wed, 10 Jun 2026 10:30:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
