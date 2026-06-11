@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 00:05:51 +0000</lastBuildDate>
-    <item>
-      <title>Збиралася надати росіянам дост</title>
-      <link>https://www.mandarinai.lt/post/94032</link>
-      <description>Збиралася надати росіянам доступ до камер спостереження в Запоріжжі.
-
-Бухгалтерка одного з місцевих агропідприємств вирішила працювати на росіян. 
-
-Для того, щоб наводити ракети і дрони на власне місто, вона вирішила поділитися паролями від відеокамер з російською воєнною розвідкою.
-
-Але СБУ затримала її.
-
-В процесі «оперативної гри» стало відомо, що з російською спецслужбою жінку сконтактував власний син, який, до речі, живе в Євросоюзі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-10_13-24-48.jpg" length="133946" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jun 2026 13:24:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ «Шахед» впав на платформу в</title>
-      <link>https://www.mandarinai.lt/post/94033</link>
-      <description>❗️ «Шахед» впав на платформу в Сумах, коли пасажири сідали на потяг, - на вокзалі четверо поранених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9722.MP4" length="5798391" type="video/mp4"/>
-      <pubDate>Wed, 10 Jun 2026 14:29:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Силовики в місті Чебоксари доп</title>
-      <link>https://www.mandarinai.lt/post/94034</link>
-      <description>Силовики в місті Чебоксари допомагають українським військовим провести дорозвідку після влучання «Фламінго».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-10_14-41-26.jpg" length="142420" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jun 2026 14:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Африканський найманець в го</title>
-      <link>https://www.mandarinai.lt/post/94037</link>
-      <description>❗️ Африканський найманець в гостях у прикордонників бригади ДПСУ «Помста» був змушений проходити прискорені курси української мови.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9727.MP4" length="27414890" type="video/mp4"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 05:17:16 +0000</lastBuildDate>
     <item>
       <title>Сербія допомагає обходити санк</title>
       <link>https://www.mandarinai.lt/post/94038</link>
@@ -99,6 +63,13 @@
       <description>⚡️ Те, що відбувається зараз на місці атаки в Сумах, - «Суспільне»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9733.MP4" length="9946807" type="video/mp4"/>
       <pubDate>Wed, 10 Jun 2026 20:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі в Краснодарі літало і в</title>
+      <link>https://www.mandarinai.lt/post/94052</link>
+      <description>💥Вночі в Краснодарі літало і вибухало. Результат уточнюється</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-11_02-59-15.jpg" length="54830" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 02:59:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
