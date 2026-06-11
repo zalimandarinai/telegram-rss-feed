@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 17:30:04 +0000</lastBuildDate>
-    <item>
-      <title>Пожежа на «Панорамі оборони Се</title>
-      <link>https://www.mandarinai.lt/post/94067</link>
-      <description>Пожежа на «Панорамі оборони Севастополя»: сьогодні її загасили.
-
-Вчора під час атаки українських БПЛА по ній прилетіло. Зрозуміло, що серед планових цілей для ударів панорами не було. Приліт, ймовірно, стався випадково.
-
-Директор «Панорами» Михайло Смородкін не є кримчанином. До призначення на окупований півострів служив директором двох цирків в Сочі та Петербурзі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9744.MP4" length="1672928" type="video/mp4"/>
-      <pubDate>Thu, 11 Jun 2026 09:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ росія змінила пріоритет нас</title>
-      <link>https://www.mandarinai.lt/post/94070</link>
-      <description>❗️ росія змінила пріоритет наступу на Донеччині, - ISW
-
-На думку аналітиків Інституту вивчення війни, російські війська змінили свої пріоритети в наступі на "пояс фортець" у Донецькій області та змістили зусилля на захоплення Костянтинівки після невдалих спроб просування на Слов’янськ. Тож тепер саме Костянтинівка є головним пунктом наступу росії навесні-влітку 2026 року</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-11_09-41-48.jpg" length="143596" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 09:41:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 20:05:26 +0000</lastBuildDate>
     <item>
       <title>Що робити, коли зворотнього зв</title>
       <link>https://www.mandarinai.lt/post/94071</link>
@@ -142,6 +122,30 @@
       <description>Українські морські ракетники запустили «Нептун» по військовій цілі в бухті Севастополя і уразили склад з озброєнням росіян.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9758.MP4" length="1131718" type="video/mp4"/>
       <pubDate>Thu, 11 Jun 2026 16:41:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Добре, що переговори керівн</title>
+      <link>https://www.mandarinai.lt/post/94083</link>
+      <description>❗️ Добре, що переговори керівництва США з росією та Україною призупинені, - колишній представник Трампа генерал Кіт Келлог для «Суспільне»
+
+💬 «Пам'ятаєте двох переговірників, які працюють над Іраном, Віткофф та Джаред Кушнер також є переговірниками між Україною та росією, і ви не можете бути в двох місцях одночасно. Тож, добре, що вони зараз працюють з Іраном, і я думаю, що процес переговорів фактично призупинено. Це непогано. Це насправді добре», — сказав Кіт Келлог.
+
+➡️ Він зазначив, що концентрація США на війні проти Ірану «залишає Україну саму виконувати свою роботу», і Келлог вважає, що «Україна справді добре справляється із росією».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-11_18-53-19.jpg" length="17363" type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 18:53:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Командира російського батальйо</title>
+      <link>https://www.mandarinai.lt/post/94084</link>
+      <description>Командира російського батальйону, героя росії калмицького походження  Нарана Очір-Горяєва, ліквідував підрозділ, який курувала дівчина, - 20-а бригада безпілотних систем «К-2».</description>
+      <pubDate>Thu, 11 Jun 2026 19:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Народний кореспондент на вулиц</title>
+      <link>https://www.mandarinai.lt/post/94085</link>
+      <description>Народний кореспондент на вулиці в Євпаторії дякує українцям за можливість прогулятися пішки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9767.MP4" length="6406404" type="video/mp4"/>
+      <pubDate>Thu, 11 Jun 2026 19:20:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
