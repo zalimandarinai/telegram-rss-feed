@@ -6,69 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 16:08:39 +0000</lastBuildDate>
-    <item>
-      <title>‼️Офіційно! Про намір ворога з</title>
-      <link>https://www.mandarinai.lt/post/94107</link>
-      <description>‼️Офіційно! Про намір ворога застосувати «Орєшнік» протягом дня — попереджають Повітряні сили
-
-Не ігноруйте сигнали повітряної тривоги!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_09-19-56.jpg" length="139785" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 09:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф вдарила по терміналу Ново</title>
-      <link>https://www.mandarinai.lt/post/94108</link>
-      <description>⚡️рф вдарила по терміналу Нової Пошти в Запоріжжі, — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-12_11-09-28.mp4" length="845260" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 11:09:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Петербурзі запровадили обмеж</title>
-      <link>https://www.mandarinai.lt/post/94109</link>
-      <description>В Петербурзі запровадили обмеження на продаж бензину. На деяких АЗС дозволяють купити до 20 літрів на один автомобіль. 
-
-В Нижньокамську, третьому за чисельністю населення місті Татарстану, розпочався паливний ажіотаж після того, як на кількох АЗС ввели обмеження на пальне.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9775.MP4" length="5485890" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 11:35:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ Келлог заявив, що призупине</title>
-      <link>https://www.mandarinai.lt/post/94110</link>
-      <description>⚠️ Келлог заявив, що призупинення переговорного процесу між Україною, США та рф можна вважати позитивним розвитком подій
-
-Він додав, що США наразі зосереджені на Ірані, а Україна продовжує самостійно ефективно протистояти росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_12-39-43.jpg" length="63837" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 12:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪Оборонний гігант Німеччини Di</title>
-      <link>https://www.mandarinai.lt/post/94112</link>
-      <description>💪Оборонний гігант Німеччини Diehl веде переговори з українською компанією Fire Point щодо спільного виробництва крилатої ракети "Фламінго", — FT
-
-Гендиректор Diehl Раух заявив, що сторони проведуть серію зустрічей найближчими тижнями та обговорять можливість запуску виробництва ракети в Німеччині
-
-Німеччина шукає альтернативу американським ракетам "Томагавк" після того, як Трамп скасував рішення про їхнє розміщення в Німеччині
-
-Diehl, яка постачає Україні системи ППО IRIS-T, розраховує посилити проєкт власними технологіями наведення та досвідом розробки ракетних систем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_12-46-52.jpg" length="201893" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 12:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українська компанія SkyFall ра</title>
-      <link>https://www.mandarinai.lt/post/94113</link>
-      <description>Українська компанія SkyFall разом із світовим гігантом Airbus формують стратегічний альянс.
-
-Сьогодні вони підписали меморандум про стратегічне партнерство під час найбільшої аерокосмічної виставки Європи ILA Berlin Air Show.
-
-На підписанні був присутній міністр оборони Німеччини Пісторіус. 
-
-Партнерство SkyFall із Airbus спрямоване на посилення захисту повітряного простору України від атак безпілотників і ракет.
-
-Ключовий напрямок співпраці: інтеграція дронів-перехоплювачів P1-SUN із комплексом управління Airbus Air C2.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_12-48-35.jpg" length="78109" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 12:48:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 18:55:22 +0000</lastBuildDate>
     <item>
       <title>«Дивись ось, як вони його зама</title>
       <link>https://www.mandarinai.lt/post/94115</link>
@@ -112,6 +50,50 @@ Diehl, яка постачає Україні системи ППО IRIS-T, ро
       <description>Як уразили російський комплекс ППО С-400 на Бєлгородщині, - 92-а окрема штурмова бригада</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9790.MP4" length="17126664" type="video/mp4"/>
       <pubDate>Fri, 12 Jun 2026 15:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Ворог продовжує бити по заліз</title>
+      <link>https://www.mandarinai.lt/post/94124</link>
+      <description>😡Ворог продовжує бити по залізниці.
+
+У Харківській області після евакуації дрон вдарив поруч із потягом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-12_17-13-05.mp4" length="22206111" type="video/mp4"/>
+      <pubDate>Fri, 12 Jun 2026 17:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Керівниця Національної розвідк</title>
+      <link>https://www.mandarinai.lt/post/94125</link>
+      <description>Керівниця Національної розвідки США видала доповідь про «біолабораторії США в Україні». 
+
+Під свій дємбель, який призначений на 30 червня, Тулсі Габбард вирішила хоч чимось підтвердити свою основну проросійську маячню, з якою вона носилася ще до обрання Трампа президентом. 
+
+Понад 40 лабораторій в Україні нібито «‎проводили небезпечні експерименти з посилення функцій вірусів».
+
+Однак насправді в документах чітко вказано, що метою програми було безпечне зберігання патогенів радянської епохи, навчання українських вчених методам біологічної безпеки та запобігання витокам вірусів.
+
+Також фінансування лабораторій стосувалися цивільного моніторингу діагностики пташиного грипу та поширення африканської чуми свиней серед диких кабанів.
+
+Але причиною її звільнення стала не проросійська маячня, а те, що Трамп втратив до неї довіру і перестав вважати лояльною.
+
+Задовго до призначення Габбард, в 2020-му році, ми вирішили подивитися на «американську біолабораторію».
+
+https://m.youtube.com/watch?v=jmW8L0-ZwV0&amp;ra=m</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_17-15-48.jpg" length="61678" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 17:15:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️⚡️Країни ЄС схвалили початок</title>
+      <link>https://www.mandarinai.lt/post/94127</link>
+      <description>⚡️⚡️Країни ЄС схвалили початок переговорів про приєднання України та Молдови до ЄС, — голова Європейського Парламенту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_17-27-01.jpg" length="57066" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 17:27:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪Проліт українського ударного </title>
+      <link>https://www.mandarinai.lt/post/94128</link>
+      <description>💪Проліт українського ударного БПЛА над логістичними маршрутами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-12_18-25-18.mp4" length="804877" type="video/mp4"/>
+      <pubDate>Fri, 12 Jun 2026 18:25:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
