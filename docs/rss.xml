@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 09:51:04 +0000</lastBuildDate>
-    <item>
-      <title>❗В Сумах росіяни завдали удару</title>
-      <link>https://www.mandarinai.lt/post/94095</link>
-      <description>❗В Сумах росіяни завдали удару БПЛА по гуртожитку на рівні 6 поверху, є постраждалі
-
-На Сумщині російські «шахеди» атакували об’єкти Укрзалізниці.
-
-Під удар потрапили станції, вокзали, підстанції та енергетичне обладнання, одна залізничниця загинула, ще одна дістала поранень.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9768.MP4" length="19417751" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 05:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇪🇪 На фоні успіхів України, пу</title>
-      <link>https://www.mandarinai.lt/post/94096</link>
-      <description>🇪🇪 На фоні успіхів України, путін може інсценувати окупацію Естонії, а потім виведення військ з естонської території, щоб дискредитувати НАТО та показати Європі, що Трамп не підтримує її, -  Bloomberg.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_05-42-35.jpg" length="103431" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 05:42:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 12:46:00 +0000</lastBuildDate>
     <item>
       <title>🔥 Оператори угруповання «Курсь</title>
       <link>https://www.mandarinai.lt/post/94097</link>
@@ -100,6 +82,31 @@
 Не ігноруйте сигнали повітряної тривоги!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_09-19-56.jpg" length="139785" type="image/jpeg"/>
       <pubDate>Fri, 12 Jun 2026 09:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф вдарила по терміналу Ново</title>
+      <link>https://www.mandarinai.lt/post/94108</link>
+      <description>⚡️рф вдарила по терміналу Нової Пошти в Запоріжжі, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-12_11-09-28.mp4" length="845260" type="video/mp4"/>
+      <pubDate>Fri, 12 Jun 2026 11:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Петербурзі запровадили обмеж</title>
+      <link>https://www.mandarinai.lt/post/94109</link>
+      <description>В Петербурзі запровадили обмеження на продаж бензину. На деяких АЗС дозволяють купити до 20 літрів на один автомобіль. 
+
+В Нижньокамську, третьому за чисельністю населення місті Татарстану, розпочався паливний ажіотаж після того, як на кількох АЗС ввели обмеження на пальне.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9775.MP4" length="5485890" type="video/mp4"/>
+      <pubDate>Fri, 12 Jun 2026 11:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Келлог заявив, що призупине</title>
+      <link>https://www.mandarinai.lt/post/94110</link>
+      <description>⚠️ Келлог заявив, що призупинення переговорного процесу між Україною, США та рф можна вважати позитивним розвитком подій
+
+Він додав, що США наразі зосереджені на Ірані, а Україна продовжує самостійно ефективно протистояти росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-12_12-39-43.jpg" length="63837" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 12:39:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
