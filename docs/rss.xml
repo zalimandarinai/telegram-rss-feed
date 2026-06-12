@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 18:55:22 +0000</lastBuildDate>
-    <item>
-      <title>«Дивись ось, як вони його зама</title>
-      <link>https://www.mandarinai.lt/post/94115</link>
-      <description>«Дивись ось, як вони його замаскували», - росіяни намагаються навісити щось на бензовози, щоб вони були схожі на цивільні вантажівки з лісом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9786.MP4" length="1567555" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 14:17:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>💩Обстрілів стане більше: путін</title>
-      <link>https://www.mandarinai.lt/post/94116</link>
-      <description>💩Обстрілів стане більше: путін погрожує збільшенням кількості ударів по інфраструктурі «у відповідь на атаки по рф»
-
-💩Інші заяви російського диктатора
-
- Не так швидко як хотілось би, але рф рухається в Україні.
-
-Низка країн після 2022 року вступили до НАТО, щоб отримати «частину пирога» у разі поразки росії.
-
- Треба віддати належне рівню розвитку країн НАТО, але й вони зрозуміли, що завдати поразки росії неможливо
-
- Противник збільшує використання БПЛА з метою внести розкол у російське суспільство та завдати економічних збитків.
-
- Росія 8 років вмовляла мирно вирішити питання Донбасу.
-
- У війні з Україною беруть участь 700 тис військових.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-12_14-33-08.mp4" length="1746253" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 14:33:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 20:58:00 +0000</lastBuildDate>
     <item>
       <title>На лінії зіткнення оператори п</title>
       <link>https://www.mandarinai.lt/post/94118</link>
@@ -94,6 +66,13 @@ https://m.youtube.com/watch?v=jmW8L0-ZwV0&amp;ra=m</description>
       <description>💪Проліт українського ударного БПЛА над логістичними маршрутами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-12_18-25-18.mp4" length="804877" type="video/mp4"/>
       <pubDate>Fri, 12 Jun 2026 18:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Московській області колишньо</title>
+      <link>https://www.mandarinai.lt/post/94129</link>
+      <description>В Московській області колишньому «міністру держбезпеки ДНР» доставили посилку, яка вибухнула в нього в домі, воєнний злочинець вцілів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9796.MP4" length="493094" type="video/mp4"/>
+      <pubDate>Fri, 12 Jun 2026 19:17:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
