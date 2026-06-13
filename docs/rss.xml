@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 00:10:02 +0000</lastBuildDate>
-    <item>
-      <title>На лінії зіткнення оператори п</title>
-      <link>https://www.mandarinai.lt/post/94118</link>
-      <description>На лінії зіткнення оператори противника частіше стали використовувати гексакоптери, схожі на наші дрони «Вампір», які активно доправляють логістику українським бійцям.
-
-Один з таких дронів знищили в повітрі оператори підрозділу ДПСУ «Шквал». Крім того, вони ліквідували два укриття противника, польовий склад та пошкодили самохідну артилерійську установку ворога.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9789.MOV" length="11258323" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 15:10:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Як уразили російський комплекс</title>
-      <link>https://www.mandarinai.lt/post/94119</link>
-      <description>Як уразили російський комплекс ППО С-400 на Бєлгородщині, - 92-а окрема штурмова бригада</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9790.MP4" length="17126664" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Ворог продовжує бити по заліз</title>
-      <link>https://www.mandarinai.lt/post/94124</link>
-      <description>😡Ворог продовжує бити по залізниці.
-
-У Харківській області після евакуації дрон вдарив поруч із потягом</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-12_17-13-05.mp4" length="22206111" type="video/mp4"/>
-      <pubDate>Fri, 12 Jun 2026 17:13:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 05:11:50 +0000</lastBuildDate>
     <item>
       <title>Керівниця Національної розвідк</title>
       <link>https://www.mandarinai.lt/post/94125</link>
@@ -73,6 +48,29 @@ https://m.youtube.com/watch?v=jmW8L0-ZwV0&amp;ra=m</description>
       <description>В Московській області колишньому «міністру держбезпеки ДНР» доставили посилку, яка вибухнула в нього в домі, воєнний злочинець вцілів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9796.MP4" length="493094" type="video/mp4"/>
       <pubDate>Fri, 12 Jun 2026 19:17:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Бійка між громадянами Індії т</title>
+      <link>https://www.mandarinai.lt/post/94132</link>
+      <description>👀Бійка між громадянами Індії та місцевими жителями відбулася у Дрогобичі на Львівщині 
+
+Причиною конфлікту стало зауваження від старших чоловіків через гучну лайку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-13_02-09-02.mp4" length="370425" type="video/mp4"/>
+      <pubDate>Sat, 13 Jun 2026 02:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Усик зустрівся з Трампом, ві</title>
+      <link>https://www.mandarinai.lt/post/94137</link>
+      <description>👀 Усик зустрівся з Трампом, відвідав Вашингтон та прогулявся Пентагоном</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-13_03-00-53.jpg" length="222064" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jun 2026 03:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вночі вибухало в окупованому </title>
+      <link>https://www.mandarinai.lt/post/94139</link>
+      <description>💥Вночі вибухало в окупованому Мелітополі. Результати уточнюються</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-13_03-01-19.mp4" length="512965" type="video/mp4"/>
+      <pubDate>Sat, 13 Jun 2026 03:01:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
