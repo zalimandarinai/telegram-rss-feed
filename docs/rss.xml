@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 15:23:09 +0000</lastBuildDate>
-    <item>
-      <title>🔥Дрони атакували «Таманьнефтег</title>
-      <link>https://www.mandarinai.lt/post/94155</link>
-      <description>🔥Дрони атакували «Таманьнефтегаз» — один із ключових нафтових терміналів на півдні рф
-
-Повідомляється про ураження резервуарів із нафтопродуктами, інфраструктури термінала</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-13_11-44-48.jpg" length="141387" type="image/jpeg"/>
-      <pubDate>Sat, 13 Jun 2026 11:44:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 17:05:54 +0000</lastBuildDate>
     <item>
       <title>❗️ Крим перерізаний по суходол</title>
       <link>https://www.mandarinai.lt/post/94157</link>
@@ -103,6 +94,13 @@
 🩺 В МЗС України  наголосили, що всі лабораторії, які брали участь у міжнародних програмах, працювали в цивільній сфері і відповідали вимогам Конвенції про заборону біологічної зброї.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-13_14-52-58.jpg" length="49441" type="image/jpeg"/>
       <pubDate>Sat, 13 Jun 2026 14:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>русня погрожує застосувати яде</title>
+      <link>https://www.mandarinai.lt/post/94177</link>
+      <description>русня погрожує застосувати ядерну зброю по Львівській, Волинській, Закарпатській, Івано-Франківській та Чернівецькій областях, щоб «створити зону 404 з підвищеним рівнем радіації та відрізати її від Польщі, Словаччини й Румунії»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-13_15-27-49.jpg" length="73624" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jun 2026 15:27:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
