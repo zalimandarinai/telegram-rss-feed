@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 20:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:01:49 +0000</lastBuildDate>
     <item>
       <title>Стратегічний резерв пального н</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -48,27 +48,29 @@
       <pubDate>Sun, 14 Jun 2026 14:28:33 +0000</pubDate>
     </item>
     <item>
-      <title>🔴путін відмовляється завершува</title>
-      <link>https://www.mandarinai.lt/post/94225</link>
-      <description>🔴путін відмовляється завершувати війну і тому Україна застосовує далекобійні санкції по важливих об’єктах на території рф — Зеленський 
-
-Президент додав, що воїни СБУ дронами уразили нафтовий обʼєкт, що мав значення для резерву держави-агресора на відстані — більш ніж 700 кілометрів від нашого державного кордону. Також підтверджено влучання в хімзавод «Азот», від діяльності якого залежать спроможності з виробництва вибухових речовин</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-14_17-03-00.mp4" length="3452591" type="video/mp4"/>
-      <pubDate>Sun, 14 Jun 2026 17:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇩🇪🇱🇹🕸️ Антидронні сітки вже на</title>
-      <link>https://www.mandarinai.lt/post/94228</link>
-      <description>🇩🇪🇱🇹🕸️ Антидронні сітки вже на бронетехніці НАТО: 45-та бронетанкова бригада Німеччини, яку розгортають у Литві на постійній основі, додала на БТРи Fuchs та танки Leopard 2 антидроновий захист</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-14_18-14-45.jpg" length="181626" type="image/jpeg"/>
-      <pubDate>Sun, 14 Jun 2026 18:14:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Кияни вже готуються до ночі в </title>
       <link>https://www.mandarinai.lt/post/94232</link>
       <description>Кияни вже готуються до ночі в метро</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-14_20-03-47.mp4" length="2462585" type="video/mp4"/>
       <pubDate>Sun, 14 Jun 2026 20:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трамп оголосив про закінчення </title>
+      <link>https://www.mandarinai.lt/post/94237</link>
+      <description>Трамп оголосив про закінчення війни з Іраном
+
+💬 «Вітаю всіх! Я повністю відкриваю Ормузьку протоку і припиняю морську блокаду. Судна всього світу, запускайте двигуни. Нехай нафта тече!»
+
+Але все може помінятися до 19 числа, на яке в Швейцарії призначене підписання мирної угоди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-14_21-44-37.jpg" length="22188" type="image/jpeg"/>
+      <pubDate>Sun, 14 Jun 2026 21:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Терористи, дикуни і окупанти а</title>
+      <link>https://www.mandarinai.lt/post/94238</link>
+      <description>Терористи, дикуни і окупанти атакували Харківський художній музей, де раніше зберігалася одна з найголовніших реліквій українського мистецтва, варіант картини Іллі Репіна «Запорожці пишуть листа турецькому султанові».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9887.MP4" length="3526809" type="video/mp4"/>
+      <pubDate>Sun, 14 Jun 2026 21:48:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
