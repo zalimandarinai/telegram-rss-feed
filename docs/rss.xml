@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 16:46:17 +0000</lastBuildDate>
-    <item>
-      <title>💩Довоювались. москва — санкт-п</title>
-      <link>https://www.mandarinai.lt/post/94344</link>
-      <description>💩Довоювались. москва — санкт-петербург: заправки в чергах. По всій росії обмежили продаж пального</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_11-18-18.mp4" length="1290188" type="video/mp4"/>
-      <pubDate>Tue, 16 Jun 2026 11:18:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 19:59:09 +0000</lastBuildDate>
     <item>
       <title>росіяни вбили FPV-дроном людей</title>
       <link>https://www.mandarinai.lt/post/94347</link>
@@ -37,8 +30,8 @@
       <link>https://www.mandarinai.lt/post/94349</link>
       <description>Зеленський розповів, чи часто він плаче, відповідаючи на запитання, коли це було в останній раз.
 
-"Між нами кажучи, я нормальна людина. І в мене бувають різні моменти, майже кожен день. Втрати на полі бою, цивільні особи, абсолютно божевільні атаки на нас... Мені завжди важко, коли я віддаю накази, а матері та батьки втрачають своїх дітей. У такі моменти я часто плачу"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_14-27-32.mp4" length="19108405" type="video/mp4"/>
+💬 «Між нами кажучи, я нормальна людина. І в мене бувають різні моменти, майже кожен день. Втрати на полі бою, цивільні особи, абсолютно божевільні атаки на нас... Мені завжди важко, коли я вручаю нагороди матерям та батькам, які втратили своїх дітей. У такі моменти я часто плачу».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9984.MP4" length="13026414" type="video/mp4"/>
       <pubDate>Tue, 16 Jun 2026 14:27:32 +0000</pubDate>
     </item>
     <item>
@@ -83,9 +76,29 @@
     <item>
       <title>Авіакатастрофа у Хмельницькій </title>
       <link>https://www.mandarinai.lt/post/94356</link>
-      <description>Авіакатастрофа у Хмельницькій області. За попередніми даними, розбився МіГ-29</description>
+      <description>Авіакатастрофа у Хмельницькій області. За попередніми даними, розбився МіГ-29
+
+UPD. Повідомляють, що трагедія сталася з літаком Су-24, а не МіГ-29.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_16-42-45.mp4" length="332525" type="video/mp4"/>
       <pubDate>Tue, 16 Jun 2026 16:42:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>➡️ Ситуація навколо Костянтині</title>
+      <link>https://www.mandarinai.lt/post/94358</link>
+      <description>➡️ Ситуація навколо Костянтинівки «розгортається найважчим сценарієм», противник з усіх сторін на околицях зруйнованого міста, він здійснює активний тиск та намагається просочитися в центральні райони, - DeepState</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_19-24-45.jpg" length="123622" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 19:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Стало відомо, хто уразив НПЗ в</title>
+      <link>https://www.mandarinai.lt/post/94359</link>
+      <description>Стало відомо, хто уразив НПЗ в Москві.
+
+До заводу долетіли безпілотники Центру спецоперацій «Альфа» СБУ та інших підрозділів Сил оборони.
+
+Відстань близько 500 кілометрів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9955.MP4" length="298952" type="video/mp4"/>
+      <pubDate>Tue, 16 Jun 2026 19:42:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
