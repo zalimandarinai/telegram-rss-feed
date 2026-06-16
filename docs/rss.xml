@@ -6,69 +6,86 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 11:59:11 +0000</lastBuildDate>
-    <item>
-      <title>«Алла Володимирівна, я, по ход</title>
-      <link>https://www.mandarinai.lt/post/94335</link>
-      <description>«Алла Володимирівна, я, по ходу, сьогодні не поїду на роботу». Є поважна причина. Дрони атакували Московський НПЗ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9944.MP4" length="1126317" type="video/mp4"/>
-      <pubDate>Tue, 16 Jun 2026 05:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ В Москві дрон завдає удару </title>
-      <link>https://www.mandarinai.lt/post/94336</link>
-      <description>❗️ В Москві дрон завдає удару по НПЗ, - приліт відзняли мешканці багатоповерхівок</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9945.MP4" length="4402994" type="video/mp4"/>
-      <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Велика Британія постачатиме Ук</title>
-      <link>https://www.mandarinai.lt/post/94337</link>
-      <description>Велика Британія постачатиме Україні збагачений уран для АЕС впродовж двох років, — Стармер</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_06-22-35.jpg" length="93578" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 06:22:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫠 Трамп, Зеленський та Макрон </title>
-      <link>https://www.mandarinai.lt/post/94338</link>
-      <description>🫠 Трамп, Зеленський та Макрон прибули на зустріч лідерів G7</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_08-48-00.mp4" length="1585255" type="video/mp4"/>
-      <pubDate>Tue, 16 Jun 2026 08:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Одна з найбільших російських</title>
-      <link>https://www.mandarinai.lt/post/94339</link>
-      <description>⚡️Одна з найбільших російських нафтових компаній, «Татнєфть», ввела обмеження на продаж бензину та дизельного палива по всій території рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_08-49-00.jpg" length="100206" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 08:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Розпочалися удари по російськ</title>
-      <link>https://www.mandarinai.lt/post/94340</link>
-      <description>💥Розпочалися удари по російському бізнесу: БпЛА влучили у великий склад Wildberries у передмісті Москви — будівля горить, співробітників терміново евакуюють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_08-50-28.mp4" length="2387920" type="video/mp4"/>
-      <pubDate>Tue, 16 Jun 2026 08:50:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Трамп сказав, що росіянам ва</title>
-      <link>https://www.mandarinai.lt/post/94341</link>
-      <description>‼️Трамп сказав, що росіянам варто укласти угоду, а також анонсував зустріч із Зеленським сьогодні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_09-57-43.jpg" length="105198" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 09:57:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴«Завжди важливо координувати </title>
-      <link>https://www.mandarinai.lt/post/94342</link>
-      <description>🔴«Завжди важливо координувати позиції» — Зеленський коротко про зустріч з Трампом на G7</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_11-01-46.jpg" length="165470" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 11:01:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 16:46:17 +0000</lastBuildDate>
     <item>
       <title>💩Довоювались. москва — санкт-п</title>
       <link>https://www.mandarinai.lt/post/94344</link>
       <description>💩Довоювались. москва — санкт-петербург: заправки в чергах. По всій росії обмежили продаж пального</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_11-18-18.mp4" length="1290188" type="video/mp4"/>
       <pubDate>Tue, 16 Jun 2026 11:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни вбили FPV-дроном людей</title>
+      <link>https://www.mandarinai.lt/post/94347</link>
+      <description>росіяни вбили FPV-дроном людей у Нікополі, які йшли дорогою. Один із загиблих був в інвалідному візку</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_13-49-49.jpg" length="314674" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 13:49:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱Збитки від російського удару </title>
+      <link>https://www.mandarinai.lt/post/94348</link>
+      <description>😱Збитки від російського удару по Києво-Печерській лаврі вже перевищили 500 млн грн, остаточну суму ще підраховують
+
+Пошкоджено понад 80% даху, однак фундамент уцілів, а вогонь не дістався внутрішніх приміщень. Найцінніші експонати евакуювали в першу годину після влучання.
+
+Відновлення святині може тривати до двох років, частково відновити богослужіння планують уже за кілька місяців після встановлення тимчасового укриття.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_14-19-25.jpg" length="73965" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 14:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зеленський розповів, чи часто </title>
+      <link>https://www.mandarinai.lt/post/94349</link>
+      <description>Зеленський розповів, чи часто він плаче, відповідаючи на запитання, коли це було в останній раз.
+
+"Між нами кажучи, я нормальна людина. І в мене бувають різні моменти, майже кожен день. Втрати на полі бою, цивільні особи, абсолютно божевільні атаки на нас... Мені завжди важко, коли я віддаю накази, а матері та батьки втрачають своїх дітей. У такі моменти я часто плачу"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_14-27-32.mp4" length="19108405" type="video/mp4"/>
+      <pubDate>Tue, 16 Jun 2026 14:27:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Україні створили дрон, який </title>
+      <link>https://www.mandarinai.lt/post/94350</link>
+      <description>В Україні створили дрон, який може стріляти з автомата по російських окупантах
+
+Окрім цього, він здатен скидати мінометні міни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_14-52-10.jpg" length="70773" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 14:52:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>*❗Ми зняли санкції з російсько</title>
+      <link>https://www.mandarinai.lt/post/94351</link>
+      <description>*❗Ми зняли санкції з російської нафти, тому що не хотіли перешкоджати потоку нафти на ринки. Але тепер, коли Ормузька протока знову відкрита і нафта тече, ми маємо змогу повернути санкції найближчим часом* , — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_14-53-35.jpg" length="60967" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 14:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥СБС уразили ЗРК «Оса», берего</title>
+      <link>https://www.mandarinai.lt/post/94352</link>
+      <description>💥СБС уразили ЗРК «Оса», берегові РЛС, місця базування, укриття з ОВТ, майстерню та склад БпЛА противника</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_15-12-14.mp4" length="27557350" type="video/mp4"/>
+      <pubDate>Tue, 16 Jun 2026 15:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Російський корабель "Адмірал</title>
+      <link>https://www.mandarinai.lt/post/94354</link>
+      <description>❗️Російський корабель "Адмірал Григорович" відкрив вогонь по британській яхті в протоці Ла-Манш – відомо, що корабель росіяни використовують для супроводу танкерів "тіньового флоту"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_15-35-10.jpg" length="93091" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 15:35:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Московський НПЗ призупинив ро</title>
+      <link>https://www.mandarinai.lt/post/94355</link>
+      <description>🔥Московський НПЗ призупинив роботу після сьогоднішньої атаки, — Reuters
+
+За даними агентства, пошкоджено установку, яка забезпечувала понад половину переробки нафти на підприємстві.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-16_15-35-48.jpg" length="100080" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 15:35:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Авіакатастрофа у Хмельницькій </title>
+      <link>https://www.mandarinai.lt/post/94356</link>
+      <description>Авіакатастрофа у Хмельницькій області. За попередніми даними, розбився МіГ-29</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-16_16-42-45.mp4" length="332525" type="video/mp4"/>
+      <pubDate>Tue, 16 Jun 2026 16:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
