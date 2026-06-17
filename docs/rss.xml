@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 14:20:26 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Ввечері рф атакувала Запорі</title>
-      <link>https://www.mandarinai.lt/post/94360</link>
-      <description>⚡️ Ввечері рф атакувала Запоріжжя, загорівся житловий будинок та ТЦ у центрі міста, один загиблий, троє поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9986.MP4" length="3090123" type="video/mp4"/>
-      <pubDate>Tue, 16 Jun 2026 20:39:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 17:40:44 +0000</lastBuildDate>
     <item>
       <title>🤝Лідери G7 оголосили  про збіл</title>
       <link>https://www.mandarinai.lt/post/94362</link>
@@ -102,6 +95,17 @@
 У спільній заяві акцент зробили на підтримці України та посиленні тиску на росію, без згадок про переговори чи припинення вогню</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-17_13-34-55.jpg" length="155370" type="image/jpeg"/>
       <pubDate>Wed, 17 Jun 2026 13:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Я розглядаю запровадження санк</title>
+      <link>https://www.mandarinai.lt/post/94374</link>
+      <description>Я розглядаю запровадження санкцій проти росії. Також розглядаю можливість надання Україні американських ракет, – заявив Трамп
+
+Журналіст: Чи вважаєте ви, що Путін несе більшу відповідальність за триваючу війну в Україні?
+
+Трамп: Я не хочу це коментувати, бо намагаюся врегулювати цю ситуацію. Це не полегшує справу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-17_14-29-51.mp4" length="728484" type="video/mp4"/>
+      <pubDate>Wed, 17 Jun 2026 14:29:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
