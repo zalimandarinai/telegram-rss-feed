@@ -6,58 +6,13 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 14:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 17:50:57 +0000</lastBuildDate>
     <item>
-      <title>СБУ перехопила російський доку</title>
-      <link>https://www.mandarinai.lt/post/94404</link>
-      <description>СБУ перехопила російський документ, який заперечує удар українських БПЛА по автобусу з громадянами Білорусі у Брянській області рф
-
-Йдеться про інформаційну довідку від моніторингового центру «Безопасный регион».
-
-У зведенні зазначається, що на момент інциденту з автобусом у повітряному просторі району не було українських БПЛА. 
-
-Зокрема, у перехопленій довідці повідомляється, що:
-
-▪️ Регіональний сегмент оперативного штабу Єдиного національного центру не фіксував БПЛА в районі інциденту;
-
-▪️ наявність дронів у повітряному просторі  не підтвердив черговий по радіолокаційному батальйону в Супонево;
-
-▪️черговий 32-ї дивізії окупаційних військ не підтвердив польоти БПЛА у відповідний час. 
-
-Таким чином, є підстави вважати, що удар по автобусу з громадянами Білорусі у Брянській області рф є операцією російських спецслужб.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-18_09-43-59.jpg" length="161985" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 09:43:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українські безпілотники, атаку</title>
-      <link>https://www.mandarinai.lt/post/94405</link>
-      <description>Українські безпілотники, атакувавши НПЗ, викликали нафтовий дощ в Москві</description>
-      <pubDate>Thu, 18 Jun 2026 11:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Намагаються полегшити ситуа</title>
-      <link>https://www.mandarinai.lt/post/94408</link>
-      <description>❗️ Намагаються полегшити ситуацію на дорогах Сумщини, - так 210-ий штурмовий полк знищує дрони «ждуни» на оптоволокні, які полюють на автомобілі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0041.MP4" length="17455610" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 11:19:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Їх було троє. Вижив один — той</title>
-      <link>https://www.mandarinai.lt/post/94410</link>
-      <description>Їх було троє. Вижив один — той, у кого вистачило розуму здатися. Воїни 49-го ОШБ «Карпатська Січ» взяли в полон військовослужбовця РФ з позивним «Курорт».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0042.MP4" length="16373083" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 13:13:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ціна на пальне в Україні знижу</title>
-      <link>https://www.mandarinai.lt/post/94411</link>
-      <description>Ціна на пальне в Україні знижується і може впасти до 60 грн. за літр: нафта сорту Brent подешевшала до $78,07 за барель.
-
-Причиною падіння цін на пальне стала підписана угода між США та Іраном, - Reuters
-
-Але поки що вона трохи зменшилася - буквально на дві гривні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-18_13-22-03.jpg" length="84808" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 13:22:03 +0000</pubDate>
+      <title>😡 росія буде завдавати регуляр</title>
+      <link>https://www.mandarinai.lt/post/94413</link>
+      <description>😡 росія буде завдавати регулярні масовані удари по цілях в Україні у відповідь на атаки Києва по своїй териорії, — Лавров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0052.MP4" length="12994941" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 13:30:51 +0000</pubDate>
     </item>
     <item>
       <title>Нарешті: перші F-16, які обіця</title>
@@ -67,9 +22,9 @@
       <pubDate>Thu, 18 Jun 2026 13:44:02 +0000</pubDate>
     </item>
     <item>
-      <title>📽️ Народний кореспондент робит</title>
+      <title>🎦 Народний кореспондент робить</title>
       <link>https://www.mandarinai.lt/post/94417</link>
-      <description>📽️ Народний кореспондент робить контент з місця подій в Москві.</description>
+      <description>🎦 Народний кореспондент робить контент з місця подій в Москві.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0047.MP4" length="22905517" type="video/mp4"/>
       <pubDate>Thu, 18 Jun 2026 14:02:56 +0000</pubDate>
     </item>
@@ -79,6 +34,66 @@
       <description>Судячи з цих кадрів, висотний кран на будмайданчику в Москві виявився більш ефективним засобом ППО, аніж «Панцир».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0048.MP4" length="1002982" type="video/mp4"/>
       <pubDate>Thu, 18 Jun 2026 14:16:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мені боляче!»
+«Не ворушіться!</title>
+      <link>https://www.mandarinai.lt/post/94419</link>
+      <description>«Мені боляче!»
+«Не ворушіться!»
+Поліція надає термінову допомогу пораненим на місці російського удару в Херсоні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0053.MP4" length="29077024" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 14:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бригада ДПСУ «Сталевий Кордон»</title>
+      <link>https://www.mandarinai.lt/post/94421</link>
+      <description>Бригада ДПСУ «Сталевий Кордон» до Москви поки що не дістає, але до Курщини легко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0054.MP4" length="23332972" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 14:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кришка нафтосховища була зірва</title>
+      <link>https://www.mandarinai.lt/post/94422</link>
+      <description>Кришка нафтосховища була зірвана не дроном, а ракетою, яка по ньому промазала, - так пишуть соцмережі 
+
+На кадрах видно, як ракета влучає у місце зберігання нафтопродуктів, після чого відбувається детонація, яка підкинула кришку резервуара в повітря.
+
+Також на відео помітно характерний слід від зенітної ракети.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0055.MP4" length="1089641" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 15:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>📽️ Результати ударів по Москві</title>
+      <link>https://www.mandarinai.lt/post/94424</link>
+      <description>📽️ Результати ударів по Москві сьогодні демонструвалися  в Парижі під час виставки Eurosatory-2026 на екрані, перед яким лежали ракети Fire Point</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0056.MP4" length="2423415" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 16:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>США вперше видали попередження</title>
+      <link>https://www.mandarinai.lt/post/94427</link>
+      <description>США вперше видали попередження своїм громадянам через атаки українських БПЛА - не їхати до Росії, а тим, хто вже там, - шукати укриття.
+
+рф  присвоєно четвертий (найвищий) рівень небезпеки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-18_16-59-53.jpg" length="63868" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jun 2026 16:59:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ажіотаж серед гостей російсько</title>
+      <link>https://www.mandarinai.lt/post/94428</link>
+      <description>Ажіотаж серед гостей російської столиці, викликаний ракетами і безпілотниками.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0057.MP4" length="2376726" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 17:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>На засіданні «Рамштайн» для Ук</title>
+      <link>https://www.mandarinai.lt/post/94429</link>
+      <description>На засіданні «Рамштайн» для України анонсували близько $4 млрд допомоги, — Федоров.
+
+Серед іншого, партнери оголосили $1 млрд у межах механізму PURL та понад $500 млн на далекобійну артилерію, українські дрони і ракети. Окремо Нідерланди передадуть близько 700 крилатих ракет, а фінальна сума допомоги може ще зрости.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-18_17-02-20.mp4" length="5612801" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 17:02:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
