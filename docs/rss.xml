@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 20:04:07 +0000</lastBuildDate>
-    <item>
-      <title>Нарешті: перші F-16, які обіця</title>
-      <link>https://www.mandarinai.lt/post/94415</link>
-      <description>Нарешті: перші F-16, які обіцяла Бельгія, українські пілоти отримають вже в цьому році, - Зеленський після бесіди із прем'єр-міністром Бельгії Бартом де Вевером.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0045.MP4" length="4569749" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 13:44:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 22:48:35 +0000</lastBuildDate>
     <item>
       <title>🎦 Народний кореспондент робить</title>
       <link>https://www.mandarinai.lt/post/94417</link>
@@ -87,6 +80,13 @@
 Серед іншого, партнери оголосили $1 млрд у межах механізму PURL та понад $500 млн на далекобійну артилерію, українські дрони і ракети. Окремо Нідерланди передадуть близько 700 крилатих ракет, а фінальна сума допомоги може ще зрости.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-18_17-02-20.mp4" length="5612801" type="video/mp4"/>
       <pubDate>Thu, 18 Jun 2026 17:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Підрив резервуару московськог</title>
+      <link>https://www.mandarinai.lt/post/94431</link>
+      <description>💥Підрив резервуару московського нафтосховища спричинила саме російська ракета ППО, - росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-18_20-13-56.mp4" length="1416866" type="video/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 20:13:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
