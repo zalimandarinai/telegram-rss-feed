@@ -6,56 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 00:17:20 +0000</lastBuildDate>
-    <item>
-      <title>🎦 Народний кореспондент робить</title>
-      <link>https://www.mandarinai.lt/post/94417</link>
-      <description>🎦 Народний кореспондент робить контент з місця подій в Москві.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0047.MP4" length="22905517" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 14:02:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Судячи з цих кадрів, висотний </title>
-      <link>https://www.mandarinai.lt/post/94418</link>
-      <description>Судячи з цих кадрів, висотний кран на будмайданчику в Москві виявився більш ефективним засобом ППО, аніж «Панцир».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0048.MP4" length="1002982" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 14:16:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Мені боляче!»
-«Не ворушіться!</title>
-      <link>https://www.mandarinai.lt/post/94419</link>
-      <description>«Мені боляче!»
-«Не ворушіться!»
-Поліція надає термінову допомогу пораненим на місці російського удару в Херсоні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0053.MP4" length="29077024" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 14:44:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бригада ДПСУ «Сталевий Кордон»</title>
-      <link>https://www.mandarinai.lt/post/94421</link>
-      <description>Бригада ДПСУ «Сталевий Кордон» до Москви поки що не дістає, але до Курщини легко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0054.MP4" length="23332972" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 14:51:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кришка нафтосховища була зірва</title>
-      <link>https://www.mandarinai.lt/post/94422</link>
-      <description>Кришка нафтосховища була зірвана не дроном, а ракетою, яка по ньому промазала, - так пишуть соцмережі 
-
-На кадрах видно, як ракета влучає у місце зберігання нафтопродуктів, після чого відбувається детонація, яка підкинула кришку резервуара в повітря.
-
-Також на відео помітно характерний слід від зенітної ракети.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0055.MP4" length="1089641" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 15:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>📽️ Результати ударів по Москві</title>
-      <link>https://www.mandarinai.lt/post/94424</link>
-      <description>📽️ Результати ударів по Москві сьогодні демонструвалися  в Парижі під час виставки Eurosatory-2026 на екрані, перед яким лежали ракети Fire Point</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0056.MP4" length="2423415" type="video/mp4"/>
-      <pubDate>Thu, 18 Jun 2026 16:25:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jun 2026 06:03:50 +0000</lastBuildDate>
     <item>
       <title>США вперше видали попередження</title>
       <link>https://www.mandarinai.lt/post/94427</link>
@@ -87,6 +38,45 @@
       <description>💥Підрив резервуару московського нафтосховища спричинила саме російська ракета ППО, - росЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-18_20-13-56.mp4" length="1416866" type="video/mp4"/>
       <pubDate>Thu, 18 Jun 2026 20:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Шість людей постраждало внас</title>
+      <link>https://www.mandarinai.lt/post/94434</link>
+      <description>⚡️Шість людей постраждало внаслідок удару по Харкову, — Терехов
+
+Також пошкоджено понад 40 приватних будинків.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_02-42-39.jpg" length="64855" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jun 2026 02:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Павлограді внаслідок російсь</title>
+      <link>https://www.mandarinai.lt/post/94440</link>
+      <description>У Павлограді внаслідок російської атаки загинула 8-річна дівчинка, — Ганжа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_05-36-35.jpg" length="369540" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jun 2026 05:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺По російській Пензі почали ї</title>
+      <link>https://www.mandarinai.lt/post/94441</link>
+      <description>🇷🇺По російській Пензі почали їздити буси, які забирають чоловіків з вулиць, а також виставляють блокпости для перевірок із залученням військових, поліції та «ДПС». Після перевірок документів, людей «пакують» прямо з авто.
+
+Крім того, в мережі місцеві пишуть про «план» в «700 і більше людей», яких треба набрати з цього міста.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-19_05-39-29.mp4" length="325302" type="video/mp4"/>
+      <pubDate>Fri, 19 Jun 2026 05:39:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄ЄС виключив із підсумкової за</title>
+      <link>https://www.mandarinai.lt/post/94443</link>
+      <description>🙄ЄС виключив із підсумкової заяви пункт про прискорене вступ України, — прем'єр-міністр Угорщини Мадьяр
+
+Схоже, наступник  Орбана вирішив швидко освоїтися у своїй новій ролі і похвалився у Facebook:
+«За моєю ініціативою в останній момент з тексту було видалено положення про прискорення інтеграції України. Це було непросто».
+
+Більше того, прем'єр-міністр Угорщини заявив, що за кілька тижнів підготовки декларацію "суттєво доопрацювали" на основі угорських пропозицій.
+
+При цьому сам документ щодо України лідери ЄС вперше за півтора року змогли прийняти одноголосно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_05-40-45.jpg" length="149473" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jun 2026 05:40:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
