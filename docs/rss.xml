@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 17:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:20:40 +0000</lastBuildDate>
     <item>
       <title>В Чехії на базі Інституту ядер</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,34 +16,6 @@
 
 Доступ до чеських лабораторій ядерного захисту китайські військові експерти отримували неодноразово.</description>
       <pubDate>Fri, 19 Jun 2026 10:24:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Підрозділи «Української Доб</title>
-      <link>https://www.mandarinai.lt/post/94458</link>
-      <description>❗️ Підрозділи «Української Добровольчої Армії» інтегровані до ЗСУ, ГУР МО, СБУ, - Дмитро Ярош на Facebook
-
-💬 «Ми не піаримося, не афішуємо свою роботу, не возвеличуємо себе, ми - просто виконуємо бойові розпорядження Українського Командування».
-
-«Це ми й робимо на всіх напрямах: 
-
-✅ від Навчальних центрів УДА до ударно-пошукових і штурмових дій; 
-
-✅ від порятунку життів воїнів нашими медичними підрозділами до малої ППО; 
-
-✅ від допомоги у контррозвідувальному захисті та агентурно-диверсійній роботі в тилу ворога до військово-інформаційної співпраці; 
-
-✅ від ефективної роботи служби безпілотної авіації до артилерії; від розробки інноваційних боєприпасів до створення найрізноманітніших дронів»
-
-✅ «Врешті, ми обовʼязково переможемо».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_10-50-36.jpg" length="30178" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jun 2026 10:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Москві «найкраща ППО» сьогод</title>
-      <link>https://www.mandarinai.lt/post/94459</link>
-      <description>В Москві «найкраща ППО» сьогодні знову зустрічає українські повітряні санкції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0066.MP4" length="7720835" type="video/mp4"/>
-      <pubDate>Fri, 19 Jun 2026 11:00:01 +0000</pubDate>
     </item>
     <item>
       <title>€250 тисяч за ідею, - міноборо</title>
@@ -84,6 +56,22 @@
 Раніше виділення цих коштів відкладалося до вересня.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0074.MP4" length="2434575" type="video/mp4"/>
       <pubDate>Fri, 19 Jun 2026 13:12:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Тривають масові атаки по «Но</title>
+      <link>https://www.mandarinai.lt/post/94473</link>
+      <description>❗️Тривають масові атаки по «Новій пошті» - лише за сьогодні (!) ворог атакував логістичні центри в Сумах та Запоріжжі. Є постраждалі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-19_17-43-13.mp4" length="833484" type="video/mp4"/>
+      <pubDate>Fri, 19 Jun 2026 17:43:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗСУ вивели Московський НПЗ з л</title>
+      <link>https://www.mandarinai.lt/post/94474</link>
+      <description>ЗСУ вивели Московський НПЗ з ладу — завод припинив переробку нафти на невизначений термін, — Генштаб
+
+18 червня уразили комплексну установку переробки нафти, три резервуари РВС-10000 та один резервуар РВС-30000. Удар виявився настільки точним і потужним, що завод повністю зупинив переробку нафти — терміни відновлення роботи наразі невідомі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_17-43-59.jpg" length="47535" type="image/jpeg"/>
+      <pubDate>Fri, 19 Jun 2026 17:43:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
