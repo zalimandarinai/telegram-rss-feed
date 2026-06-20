@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 02:11:55 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Щойно був приліт у «Нову По</title>
-      <link>https://www.mandarinai.lt/post/94470</link>
-      <description>❗️ Щойно був приліт у «Нову Пошту» в Запоріжжі.
-
-Терористи Московії продовжують знищувати відділення та термінали з посилками.
-
-Також рф сьогодні вдарила по відділенню в Сумах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_14-42-39.jpg" length="95213" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jun 2026 14:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Тривають масові атаки по «Но</title>
-      <link>https://www.mandarinai.lt/post/94473</link>
-      <description>❗️Тривають масові атаки по «Новій пошті» - лише за сьогодні (!) ворог атакував логістичні центри в Сумах та Запоріжжі. Є постраждалі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-19_17-43-13.mp4" length="833484" type="video/mp4"/>
-      <pubDate>Fri, 19 Jun 2026 17:43:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ЗСУ вивели Московський НПЗ з л</title>
-      <link>https://www.mandarinai.lt/post/94474</link>
-      <description>ЗСУ вивели Московський НПЗ з ладу — завод припинив переробку нафти на невизначений термін, — Генштаб
-
-18 червня уразили комплексну установку переробки нафти, три резервуари РВС-10000 та один резервуар РВС-30000. Удар виявився настільки точним і потужним, що завод повністю зупинив переробку нафти — терміни відновлення роботи наразі невідомі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_17-43-59.jpg" length="47535" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jun 2026 17:43:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 06:51:27 +0000</lastBuildDate>
     <item>
       <title>Сибіга відмовився від Командор</title>
       <link>https://www.mandarinai.lt/post/94476</link>
@@ -72,6 +45,40 @@
 Перший сигнал про початок центробіжних процесів в росії - Татарстан фактично продає пальне москвичам за готівку поза банківською системою.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-19_20-48-59.jpg" length="118157" type="image/jpeg"/>
       <pubDate>Fri, 19 Jun 2026 20:48:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф вдарила КАБами по Холодно</title>
+      <link>https://www.mandarinai.lt/post/94483</link>
+      <description>⚡️рф вдарила КАБами по Холодногірському районі Харкова
+
+"Внаслідок удару постраждали 5 людей, серед них - дитина"
+
+На Сумщині 14 постраждалих через нічну атаку росіян</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_02-58-24.jpg" length="87230" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 02:58:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩У Москві за "планом СВО" висо</title>
+      <link>https://www.mandarinai.lt/post/94484</link>
+      <description>💩У Москві за "планом СВО" висотки прикрашають системами ППО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-20_03-10-48.mp4" length="4456004" type="video/mp4"/>
+      <pubDate>Sat, 20 Jun 2026 03:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна людина загинула: під зава</title>
+      <link>https://www.mandarinai.lt/post/94485</link>
+      <description>Одна людина загинула: під завалами зруйнованого росіянами будинку у Харкові виявили тіло, — мер</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_04-29-33.jpg" length="282352" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 04:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Криму цієї ночі під атакою </title>
+      <link>https://www.mandarinai.lt/post/94487</link>
+      <description>🔥У Криму цієї ночі під атакою були Таврійська ТЕС, газорозподільна станція та нафтогазові сховища
+
+У кількох районах півострова зникло світло. На території ТЕС фіксується пожежа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_06-15-49.jpg" length="58023" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 06:15:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
