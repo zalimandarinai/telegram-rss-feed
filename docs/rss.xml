@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 15:26:15 +0000</lastBuildDate>
-    <item>
-      <title>Атаковані російські далекобійн</title>
-      <link>https://www.mandarinai.lt/post/94510</link>
-      <description>Атаковані російські далекобійні перевезення, 422-ий полк LUFTWAFFE стверджує, що машинами «Wildberries» здійснюється логістика для військових підрозділів агресорів: «Жоден цивільний не постраждав».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_11-48-58.jpg" length="93407" type="image/jpeg"/>
-      <pubDate>Sat, 20 Jun 2026 11:48:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬росія продовжує пуски безпіло</title>
-      <link>https://www.mandarinai.lt/post/94511</link>
-      <description>🤬росія продовжує пуски безпілотників, які «змійкою» літають на Київським водосховищем та тримають курс західний, — моніторингові канали
-
-Не виключено, що таким чином ворог прокладає маршрут для подальшої атаки ракет та Ш
-шахедів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_12-05-37.jpg" length="243668" type="image/jpeg"/>
-      <pubDate>Sat, 20 Jun 2026 12:05:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 17:11:50 +0000</lastBuildDate>
     <item>
       <title>💥Дрони Збройних сил України ат</title>
       <link>https://www.mandarinai.lt/post/94514</link>
@@ -91,6 +74,30 @@
       <description>⚡️рф атакує Запоріжжя касетними бомбами: під ударом — ГЕС і цивільна інфраструктура, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-20_15-03-25.mp4" length="1118766" type="video/mp4"/>
       <pubDate>Sat, 20 Jun 2026 15:03:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Британія проводить випробува</title>
+      <link>https://www.mandarinai.lt/post/94524</link>
+      <description>⚡️Британія проводить випробування нових далекобійних ракет для ударів ЗСУ по рф, — The Telegraph.
+
+Нові ракети будуть виробляти без американських компонентів.
+
+Три британські компанії MBDA UK, MGI Engineering та Rotron Aerospace працюють над створенням дешевших аналогів Storm Shadow.
+
+Нові ракети можуть летіти на відстань до 500 км і нести боєголовку вагою щонайменше 225 кг. Вартість однієї ракети без боєголовки становитиме близько $530 тисяч.
+
+Влада Британії розраховує передати перші системи за рік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_15-54-52.jpg" length="220654" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 15:54:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Кучма відмовився від польсь</title>
+      <link>https://www.mandarinai.lt/post/94525</link>
+      <description>❗️ Кучма відмовився від польського ордена Білого Орла в знак солідарності з нинішнім керівництвом України
+
+🏅Другий президент України заявив, що цей крок не повинен зруйнувати багаторічну дружбу між Україною та Польщею.     🇺🇦🤝🇵🇱 А спільна загроза з боку росії має залишатися важливішою за історичні суперечки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_16-28-09.jpg" length="85259" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 16:28:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
