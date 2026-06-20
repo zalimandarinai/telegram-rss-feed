@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 17:11:50 +0000</lastBuildDate>
-    <item>
-      <title>💥Дрони Збройних сил України ат</title>
-      <link>https://www.mandarinai.lt/post/94514</link>
-      <description>💥Дрони Збройних сил України атакували Тюменський НПЗ, розташований більш ніж за 2000 км від кордону з Україною.
-
-Місцева влада заявила про "обломкі" і аварійне зниження тиску на НПЗ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_12-10-58.jpg" length="117058" type="image/jpeg"/>
-      <pubDate>Sat, 20 Jun 2026 12:10:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 19:04:44 +0000</lastBuildDate>
     <item>
       <title>⚡️Поки одні переплачують за Ec</title>
       <link>https://www.mandarinai.lt/post/94517</link>
@@ -95,9 +86,25 @@
       <link>https://www.mandarinai.lt/post/94525</link>
       <description>❗️ Кучма відмовився від польського ордена Білого Орла в знак солідарності з нинішнім керівництвом України
 
-🏅Другий президент України заявив, що цей крок не повинен зруйнувати багаторічну дружбу між Україною та Польщею.     🇺🇦🤝🇵🇱 А спільна загроза з боку росії має залишатися важливішою за історичні суперечки.</description>
+🏅Другий президент України заявив, що цей крок не повинен зруйнувати багаторічну дружбу між Україною та Польщею.     
+
+🇺🇦🤝🇵🇱 А спільна загроза з боку росії має залишатися важливішою за історичні суперечки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_16-28-09.jpg" length="85259" type="image/jpeg"/>
       <pubDate>Sat, 20 Jun 2026 16:28:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>☢️ Російська крилата ракета 9М</title>
+      <link>https://www.mandarinai.lt/post/94528</link>
+      <description>☢️ Російська крилата ракета 9М730 «Буревестник» використовує прямоточну реактивну ядерну установку, яка залишає за собою радіоактивний слід, - MIT, Массачусеттський технологічний інститут.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_18-49-50.jpg" length="101669" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 18:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зеленський: «Сьогодні були зас</title>
+      <link>https://www.mandarinai.lt/post/94529</link>
+      <description>Зеленський: «Сьогодні були застосовані нові модернізовані дрони FP, які можуть долати відстань до 3000 км. Саме вони атакували НПЗ у Тюмені. Я вдячний інженерам Fire Point». Він дав також час демонтувати ретранслятори у Гомельській та Брестській областях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-20_18-58-53.jpg" length="107689" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 18:58:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
