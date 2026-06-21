@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 17:14:27 +0000</lastBuildDate>
-    <item>
-      <title>Ормузьку протоку не відкриють </title>
-      <link>https://www.mandarinai.lt/post/94555</link>
-      <description>Ормузьку протоку не відкриють доти, доки не буде припинення вогню в Лівані, — Reuters з посиланням на Тегеран</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-21_13-07-27.jpg" length="13049" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jun 2026 13:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Дідуля був трьохсотим», - п</title>
-      <link>https://www.mandarinai.lt/post/94556</link>
-      <description>💬 «Дідуля був трьохсотим», - підрозділ НРК «Кара» 60-ї ОМБр евакуював з Лимана двох цивільних за допомогою наземного робота.</description>
-      <pubDate>Sun, 21 Jun 2026 13:27:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сили оборони кожного дня завда</title>
-      <link>https://www.mandarinai.lt/post/94557</link>
-      <description>Сили оборони кожного дня завдають ударів по «сухопутному коридору» путіна до Кримського півострова, автодорозі Маріуполь-Джанкой</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0147.MP4" length="9789711" type="video/mp4"/>
-      <pubDate>Sun, 21 Jun 2026 13:56:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Jun 2026 19:09:00 +0000</lastBuildDate>
     <item>
       <title>США готові «фундаментально змі</title>
       <link>https://www.mandarinai.lt/post/94559</link>
@@ -102,6 +82,35 @@
 🎁 28 червня бот випадково обере 14 щасливчиків, які отримають подарунки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-21_16-59-17.jpg" length="159163" type="image/jpeg"/>
       <pubDate>Sun, 21 Jun 2026 16:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳Дешевого пального не буде❓
+
+🇺</title>
+      <link>https://www.mandarinai.lt/post/94570</link>
+      <description>😳Дешевого пального не буде❓
+
+🇺🇸🇮🇷 Переговори США та Ірану провалилися, адже іранська делегація покинула залу на знак протесту проти погроз Трампа.
+
+🛳️ Він заявив, що в іранців не буде країни, якщо вони не дозволять вільний прохід суден Ормузькою протокою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0157.MP4" length="1098872" type="video/mp4"/>
+      <pubDate>Sun, 21 Jun 2026 17:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>До Криму зі своїм паливом зара</title>
+      <link>https://www.mandarinai.lt/post/94571</link>
+      <description>До Криму зі своїм паливом зараз їздять так</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0156.MP4" length="2231796" type="video/mp4"/>
+      <pubDate>Sun, 21 Jun 2026 17:36:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Хай Лукашенко залишить собі с</title>
+      <link>https://www.mandarinai.lt/post/94572</link>
+      <description>🔴Хай Лукашенко залишить собі своє «вибачаюсь». Україна неодноразово вимагала прибрати ретранслятори з Білорусі, які сприяють дронам рф атакувати наші міста, — заявив Зеленський.
+
+««Вибачаюсь» не діє після першого дня війни. Я йому пояснював: перший крок — жодної технічної підтримки російських ретрансляторів», — додав президент.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-21_18-35-28.mp4" length="7253203" type="video/mp4"/>
+      <pubDate>Sun, 21 Jun 2026 18:35:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
