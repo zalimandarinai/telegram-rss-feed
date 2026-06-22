@@ -6,48 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 00:02:58 +0000</lastBuildDate>
-    <item>
-      <title>💥Люди тікають з Криму, після н</title>
-      <link>https://www.mandarinai.lt/post/94560</link>
-      <description>💥Люди тікають з Криму, після нічної атаки Сил оборони — на Керченському мосту утворилася гігантська черга понад 650 авто.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-21_14-39-17.mp4" length="623137" type="video/mp4"/>
-      <pubDate>Sun, 21 Jun 2026 14:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Севастополі через дії радіое</title>
-      <link>https://www.mandarinai.lt/post/94561</link>
-      <description>В Севастополі через дії радіоелектронної боротьби український безпілотник впав на дах багатоповерхівки, - так пояснює окупаційна влада</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-21_14-48-44.jpg" length="106026" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jun 2026 14:48:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полонений з Бурунді не в захва</title>
-      <link>https://www.mandarinai.lt/post/94562</link>
-      <description>Полонений з Бурунді не в захваті від досвіду бойових дій</description>
-      <pubDate>Sun, 21 Jun 2026 14:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Керченській протоці горять а</title>
-      <link>https://www.mandarinai.lt/post/94563</link>
-      <description>В Керченській протоці горять автомобільні пороми</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0154.MP4" length="3081370" type="video/mp4"/>
-      <pubDate>Sun, 21 Jun 2026 15:12:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Ще вечірнього Криму вам у стр</title>
-      <link>https://www.mandarinai.lt/post/94564</link>
-      <description>🔥Ще вечірнього Криму вам у стрічку</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-21_15-50-11.mp4" length="1199196" type="video/mp4"/>
-      <pubDate>Sun, 21 Jun 2026 15:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>👌Кримський вайб 2026</title>
-      <link>https://www.mandarinai.lt/post/94566</link>
-      <description>👌Кримський вайб 2026</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-21_15-54-43.mp4" length="557829" type="video/mp4"/>
-      <pubDate>Sun, 21 Jun 2026 15:54:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 06:15:25 +0000</lastBuildDate>
     <item>
       <title>🔥Траса поблизу Маріуполя перек</title>
       <link>https://www.mandarinai.lt/post/94567</link>
@@ -122,6 +81,31 @@
 ℹ️ Україна виявила чотири російські ретранслятори у Гомельській та Брестській областях, які сприяють ударам дронів по українській території.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-21_20-33-32.jpg" length="19914" type="image/jpeg"/>
       <pubDate>Sun, 21 Jun 2026 20:33:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В російському Брянську вночі </title>
+      <link>https://www.mandarinai.lt/post/94575</link>
+      <description>💥В російському Брянську вночі було гучно</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-22_01-57-07.mp4" length="1455948" type="video/mp4"/>
+      <pubDate>Mon, 22 Jun 2026 01:57:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Московській області відбиваю</title>
+      <link>https://www.mandarinai.lt/post/94578</link>
+      <description>В Московській області відбиваються від дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0161.MP4" length="6534749" type="video/mp4"/>
+      <pubDate>Mon, 22 Jun 2026 04:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚢 Три цивільні кораблі, які пр</title>
+      <link>https://www.mandarinai.lt/post/94580</link>
+      <description>🚢 Три цивільні кораблі, які прямували до українських портів, були атаковані росіянами.
+
+Внаслідок удару по судну «Victress» загинув громадянин Єгипту, ще вісьмох моряків евакуювали.
+
+Два інші торгові судна зазнали пошкоджень.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0162.MP4" length="1204789" type="video/mp4"/>
+      <pubDate>Mon, 22 Jun 2026 05:29:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
