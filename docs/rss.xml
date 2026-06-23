@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 23:57:19 +0000</lastBuildDate>
-    <item>
-      <title>Бійці департаменту активних ді</title>
-      <link>https://www.mandarinai.lt/post/94621</link>
-      <description>Бійці департаменту активних дій ГУР знищили «Панцир-С2» в Запорізькій області.
-
-Окупанти намагалися сховати свій ЗРГК у підземному укритті. Але безпілотники ДАД ГУР відпрацювали так, що техніка вигоріла вщент.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0212.MP4" length="8627188" type="video/mp4"/>
-      <pubDate>Mon, 22 Jun 2026 16:00:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 02:35:48 +0000</lastBuildDate>
     <item>
       <title>⚡️Німеччина розмістить 5000 ві</title>
       <link>https://www.mandarinai.lt/post/94622</link>
@@ -120,6 +111,15 @@
       <description>Водії на Маріупольській трасі щиро діляться емоціями від дорожніх вражень.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0225.MP4" length="14155396" type="video/mp4"/>
       <pubDate>Mon, 22 Jun 2026 20:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Троє людей поранені внаслідок </title>
+      <link>https://www.mandarinai.lt/post/94636</link>
+      <description>Троє людей поранені внаслідок авіаційного удару по Сумах, — ДСНС
+
+Також у Запорізькому районі відомо про двох постраждалих</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-23_00-33-16.jpg" length="53886" type="image/jpeg"/>
+      <pubDate>Tue, 23 Jun 2026 00:33:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
