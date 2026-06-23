@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 02:35:48 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Німеччина розмістить 5000 ві</title>
-      <link>https://www.mandarinai.lt/post/94622</link>
-      <description>⚡️Німеччина розмістить 5000 військових у Литві поблизу кордону з Білоруссю.
-
-Вони перебуватимуть там на постійній основі та мають бути повністю готовими до захисту НАТО до 2027 року.
-
-Також неподалік білоруського кордону стартували військові навчання НАТО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-22_16-45-17.jpg" length="120441" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jun 2026 16:45:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 06:36:25 +0000</lastBuildDate>
     <item>
       <title>Під час ракетного удару по зав</title>
       <link>https://www.mandarinai.lt/post/94624</link>
@@ -120,6 +109,15 @@
 Також у Запорізькому районі відомо про двох постраждалих</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-23_00-33-16.jpg" length="53886" type="image/jpeg"/>
       <pubDate>Tue, 23 Jun 2026 00:33:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Криму частковий блекаут: </title>
+      <link>https://www.mandarinai.lt/post/94637</link>
+      <description>⚡️ В Криму частковий блекаут: дрони атакували ТЕЦ у Керчі, вона зараз масштабно палає зі «шлейфом» диму майже в 50 (!) кілометрів
+
+Влада розповідає людям, що світла нема через «аварію на мережах». Ми так і подумали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-23_06-25-42.jpg" length="75483" type="image/jpeg"/>
+      <pubDate>Tue, 23 Jun 2026 06:25:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
