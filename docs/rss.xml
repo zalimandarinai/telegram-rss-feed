@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 13:59:51 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Нічний удар від прикордонни</title>
-      <link>https://www.mandarinai.lt/post/94700</link>
-      <description>❗️ Нічний удар від прикордонників бригади  «Помста»: РСЗВ RAK-SA-12 підрозділу «Unit-A» випалює ворога на Харківщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0271.MP4" length="14060674" type="video/mp4"/>
-      <pubDate>Wed, 24 Jun 2026 10:27:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Сьогодні росіяни двічі удари</title>
-      <link>https://www.mandarinai.lt/post/94702</link>
-      <description>❗️Сьогодні росіяни двічі ударили дронами по кінотеатру «Мир» в центрі Конотопа, всередині могли перебувати люди</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0274.MP4" length="1085986" type="video/mp4"/>
-      <pubDate>Wed, 24 Jun 2026 10:32:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Під ударом сьогодні зранку зав</title>
-      <link>https://www.mandarinai.lt/post/94705</link>
-      <description>Під ударом сьогодні зранку завод «Електрокабель НН» біля Нижнього Новгорода.
-
-Двоє людей загинули, ще двоє постраждали внаслідок української атаки на промисловий об’єкт у Нижньогородській області, —  стверджує губернатор Нікітін.
-
-В Кстовському районі Нижньогородської області після української атаки загорівся приватний будинок за 1 км від підприємства. 
-
-Водночас місцеві жителі повідомляли, що дрони летіли у напрямку НПЗ «Лукойл-Нижньогороднафтооргсинтез» в Кстові. 
-
-Він теж неодноразово зазнавав атак раніше.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-24_10-46-39.jpg" length="143509" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jun 2026 10:46:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 16:21:12 +0000</lastBuildDate>
     <item>
       <title>Рідкісна ціль в зоні, де майже</title>
       <link>https://www.mandarinai.lt/post/94706</link>
@@ -82,6 +53,40 @@
       <description>❗️ Нелюди щойно завдали удар по пляжу в Запоріжжі, де в спекотний день було багато людей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0282.MP4" length="407024" type="video/mp4"/>
       <pubDate>Wed, 24 Jun 2026 13:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Легіон «Свобода Росії» пров</title>
+      <link>https://www.mandarinai.lt/post/94717</link>
+      <description>⚡️ Легіон «Свобода Росії» провів агентурну операцію на території противника.
+
+➡️ Результат - шість знищених газорозподільчих станцій «Газпрому» та понад $6 млн. збитків для російської енергетики.
+
+📍 Операцію проводили на території Московської та Тверської областей за активної участі одного з легіонерів.</description>
+      <pubDate>Wed, 24 Jun 2026 14:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⛽️ Дизель в столиці країни-бен</title>
+      <link>https://www.mandarinai.lt/post/94722</link>
+      <description>⛽️ Дизель в столиці країни-бензоколонки продають вже за 136 руб/л, скаржиться російська жіночка за кермом, яка щиро не розуміє, чому так сталося.
+
+🤷‍♂️ А ми щиро не розуміємо, чому в Москві досі працюють АЗС «Shell», хоча транснаціональний британсько-голландській нафтовий гігант оголосив, що йде з росії. 
+
+🤔 Версії:
+
+▫️ «Лукойл» купив заправку, але забув зняти вивіску «Shell».
+
+▫️ Відео зняте в Казахстані, а ціни в тенге.
+
+▫️ Це все українське ІПСО, «ви всьо врьоте».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0286.MP4" length="11223720" type="video/mp4"/>
+      <pubDate>Wed, 24 Jun 2026 15:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️❗️Рада оборони Чернігівщини </title>
+      <link>https://www.mandarinai.lt/post/94724</link>
+      <description>❗️❗️Рада оборони Чернігівщини оголосила  про обовʼязкову евакуацію з 12 прикордонних н.п. з 1 липня. Це був запит від військових, - ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-24_15-22-59.jpg" length="89311" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 15:22:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
