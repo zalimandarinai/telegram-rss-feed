@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 13:01:06 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Мешканці Костянтинівки в об</title>
-      <link>https://www.mandarinai.lt/post/94810</link>
-      <description>❗️ Мешканці Костянтинівки в об'єктивах російської пропаганди, - ресурс «Типичная Константиновка»
-
-💬 «Багато людей зараз розшукують своїх родичів та знайомих, які залишалися в охопленій бойовими діями Костянтинівці.
-
-​На оприлюднених кадрах — обличчя тих мешканців, яких російські військові вивезли на підконтрольну їм територію для зйомок у своїх пропагандистських сюжетах. 
-
-У цих роликах людей змушують або спонукають говорити неправду про Україну та ЗСУ. 
-
-За власною волею вони це роблять чи під тиском — наразі невідомо, проте ця публікація створена виключно з метою допомогти впізнати та знайти зниклих».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-26_08-48-35.jpg" length="162859" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 08:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>СБУ уразила два російські судн</title>
-      <link>https://www.mandarinai.lt/post/94811</link>
-      <description>СБУ уразила два російські судна військового забезпечення та засоби ППО в Керчі
-
-Кораблі перебували на території суднобудівного заводу «Залив».
-
-Безпілотники ЦСО «Альфа» СБУ вдарили по кораблях проєкту 15310 «Волга» та «Вятка», а також по вантажопасажирському порому «Петропавловск», готовність якого становила 96%.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-26_09-01-32.jpg" length="183273" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 09:01:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 16:04:07 +0000</lastBuildDate>
     <item>
       <title>👌У Криму та Севастополі запров</title>
       <link>https://www.mandarinai.lt/post/94814</link>
@@ -97,6 +71,32 @@
 Наразі відомо про одну загиблу жінку та трьох постраждалих.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-26_12-38-30.mp4" length="1529109" type="video/mp4"/>
       <pubDate>Fri, 26 Jun 2026 12:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💔 «Покажись мені, як ти виріс,</title>
+      <link>https://www.mandarinai.lt/post/94824</link>
+      <description>💔 «Покажись мені, як ти виріс, я тебе не впізнав», - прикордонник після довгого та жорстокого полону вперше за довгий час побачив свого сина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0362.MP4" length="10138587" type="video/mp4"/>
+      <pubDate>Fri, 26 Jun 2026 13:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Якщо ви втомилися від каналів,</title>
+      <link>https://www.mandarinai.lt/post/94826</link>
+      <description>Якщо ви втомилися від каналів, які щогодини публікують десятки однакових постів, вигадують гучні заголовки та женуться за переглядами, то вам до «Чорного Лебедя». Тут пишуть круту аналітику в одному місці — без інформаційного сміття, без клікбейту. 
+
+Лише важливі події, оперативна інформація та факти без зайвих слів. Якщо хочете бачити суть, а не витрачати час на спам, вам варто підписатися на «Чорного Лебедя».
+#промо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-26_13-46-37.jpg" length="79153" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 13:46:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Верхівка в рф вимагає від пу</title>
+      <link>https://www.mandarinai.lt/post/94827</link>
+      <description>❗️Верхівка в рф вимагає від путіна застосувати ядерну зброю, - Reuters пише, що прихильники жорстких дій закликають його відмовитись від дипломатії після українських ударів та вдатись до крайнощів 
+
+Їх також підбурює те, що США, на їхню думку, не виступили посередником і домоглися до припинення війни на умовах, вигідних росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-26_15-28-35.jpg" length="145867" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 15:28:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
