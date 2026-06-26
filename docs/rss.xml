@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 18:19:33 +0000</lastBuildDate>
-    <item>
-      <title>Момент влучання шахеда у багат</title>
-      <link>https://www.mandarinai.lt/post/94823</link>
-      <description>Момент влучання шахеда у багатоповерхівку в Ізюмі на Харківщині.
-
-Наразі відомо про одну загиблу жінку та трьох постраждалих.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-26_12-38-30.mp4" length="1529109" type="video/mp4"/>
-      <pubDate>Fri, 26 Jun 2026 12:38:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 20:24:05 +0000</lastBuildDate>
     <item>
       <title>💔 «Покажись мені, як ти виріс,</title>
       <link>https://www.mandarinai.lt/post/94824</link>
@@ -85,6 +76,17 @@
       <link>https://www.mandarinai.lt/post/94834</link>
       <description>Реактивні системи 93-ої бригади «Холодний Яр» стримують наступ ворога в районі Костянтинівки і Дружківки. Отримавши координати цілі, реактивники максимально швидко випускають кілька пристрілювальних снарядів. Далі аеророзвідка проводить коригування вогню установки.</description>
       <pubDate>Fri, 26 Jun 2026 17:33:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Ворог не зможе керувати дрона</title>
+      <link>https://www.mandarinai.lt/post/94836</link>
+      <description>🔴Ворог не зможе керувати дронами в режимі реального часу навколо Києва та західних регіонів, — радник Міноборони 
+
+За словами Флеша, у разі відключення ретрансляторів у Білорусі атаки переходять у режим роботи за GPS-координатами.
+
+Крім того, росіяни позбавлені можливості використовувати безпілотники для розвідувальних цілей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-26_18-33-42.jpg" length="30409" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 18:33:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
