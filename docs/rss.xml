@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 15:56:43 +0000</lastBuildDate>
-    <item>
-      <title>«Дівчатка, стаємо, нікуди ви н</title>
-      <link>https://www.mandarinai.lt/post/94860</link>
-      <description>«Дівчатка, стаємо, нікуди ви не поїдете», - невдоволення в росіі зростає напередодні оголошення мобілізації.
-
-В Свердловській області жінки та родички військових перекрили дорогу автобусу з солдатами, яких раніше оголосили дезертирами. 
-
-Жінки стверджують, що військові готові піти за ґрати, тільки щоб не повертатися на фронт до війська.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0380.MP4" length="26517398" type="video/mp4"/>
-      <pubDate>Sat, 27 Jun 2026 10:06:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Сьогодні вночі під час бойов</title>
-      <link>https://www.mandarinai.lt/post/94861</link>
-      <description>❗️Сьогодні вночі під час бойового завдання розбився винищувач МіГ-29 на Полтавщині. Пілоту, на щастя, вдалось катапультуватися, – ПС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_11-25-58.jpg" length="106869" type="image/jpeg"/>
-      <pubDate>Sat, 27 Jun 2026 11:25:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Харківській області російськ</title>
-      <link>https://www.mandarinai.lt/post/94862</link>
-      <description>В Харківській області російські дрони майже одночасно атакували кілька заправок</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-27_12-01-41.mp4" length="3769901" type="video/mp4"/>
-      <pubDate>Sat, 27 Jun 2026 12:01:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 16:58:32 +0000</lastBuildDate>
     <item>
       <title>Німеччина розглядає можливість</title>
       <link>https://www.mandarinai.lt/post/94865</link>
@@ -61,6 +36,42 @@
       <description>❗️ЗРК Patriot одним пострілом перехоплює дві балістичні ракети</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0386.MP4" length="2051534" type="video/mp4"/>
       <pubDate>Sat, 27 Jun 2026 15:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>В районі Шебекиного на Білгоро</title>
+      <link>https://www.mandarinai.lt/post/94873</link>
+      <description>В районі Шебекиного на Білгородщині російській армії не вдалося приховати від українських дронів склад ПММ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0387.MP4" length="8744795" type="video/mp4"/>
+      <pubDate>Sat, 27 Jun 2026 16:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ На одному з каналів російсь</title>
+      <link>https://www.mandarinai.lt/post/94875</link>
+      <description>❗️ На одному з каналів російського міноборони публікують відео ударів по українських АЗС, які знаходяться в межах цивільної забудови. Звичайний тероризм. Напевно, готується відповідь.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0388.MP4" length="6248918" type="video/mp4"/>
+      <pubDate>Sat, 27 Jun 2026 16:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поліція обшукала будинок росій</title>
+      <link>https://www.mandarinai.lt/post/94876</link>
+      <description>Поліція обшукала будинок російського військового Олександра Луніна, який записав звернення до путіна, пообіцявши, що армія поверне зброю проти Кремля.
+
+Про обшук повідомила дружина в TikTok. 
+
+Щоправда, там вона пізніше видалила це відео, яке є в доступі на інших ресурсах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0390.MP4" length="13547836" type="video/mp4"/>
+      <pubDate>Sat, 27 Jun 2026 16:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Україні представили морський</title>
+      <link>https://www.mandarinai.lt/post/94877</link>
+      <description>В Україні представили морський дрон MOBIDIK із дальністю до 1400 км, автономним ходом до 120 годин та максимальною швидкістю до 65 км/год, - так повідомив «Мілітарний»
+
+Надводний безпілотник включає шість модифікацій: для протиповітряної оборони, запуску ударних і реактивних дронів, ураження повітряних та надводних цілей, а також може і сам бути ударним безекіпажним катером з бойовою частиною до 300 кг.
+
+Напевно, такі дрони зможуть виконувати завдання із контролю судноплавства та блокування російських портів в Чорному морі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_16-56-24.jpg" length="79473" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 16:56:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
