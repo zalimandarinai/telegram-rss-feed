@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 08:22:11 +0000</lastBuildDate>
-    <item>
-      <title>💥У Волгограді ракети "Фламінго</title>
-      <link>https://www.mandarinai.lt/post/94838</link>
-      <description>💥У Волгограді ракети "Фламінго" вдарили по одному з найважливіших російських оборонних заводів – "Титан-Баррикади".
-
-Підприємство виробляє пускові установки, артилерійські системи та компоненти для ракетних комплексів, зокрема "Искандер-М", "Ярс" і "Тополь-М".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-27_05-07-04.mp4" length="431144" type="video/mp4"/>
-      <pubDate>Sat, 27 Jun 2026 05:07:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Сльози, бійки та крадіжки. Ро</title>
-      <link>https://www.mandarinai.lt/post/94845</link>
-      <description>🔥Сльози, бійки та крадіжки. Росіяни скаженіють в чергах за бензином</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-27_06-05-22.mp4" length="1386985" type="video/mp4"/>
-      <pubDate>Sat, 27 Jun 2026 06:05:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 10:50:40 +0000</lastBuildDate>
     <item>
       <title>💥Так сьогодні вночі запускали </title>
       <link>https://www.mandarinai.lt/post/94849</link>
@@ -68,6 +52,35 @@
       <description>⚡️ Противник вночі ударив по обʼєктах «Нафтогазу» на Полтавщини та Харківщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_07-50-19.jpg" length="104050" type="image/jpeg"/>
       <pubDate>Sat, 27 Jun 2026 07:50:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Сумщині загинула одна людин</title>
+      <link>https://www.mandarinai.lt/post/94856</link>
+      <description>На Сумщині загинула одна людина, - ДСНС
+
+Влучання в житловому секторі, по інфраструктурі та нежитлових приміщеннях. Кількість постраждалих уточнюється.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_08-28-29.jpg" length="126038" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 08:28:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Зруйновано важливий логістичн</title>
+      <link>https://www.mandarinai.lt/post/94857</link>
+      <description>🔥Зруйновано важливий логістичний перехід окупантів - після атаки дрона обвалився Генічеський міст через Арабатську стрілку
+
+Саме він був однією з ключових транспортно-логістичних артерій росіян</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_09-15-36.jpg" length="258767" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 09:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Дівчатка, стаємо, нікуди ви н</title>
+      <link>https://www.mandarinai.lt/post/94860</link>
+      <description>«Дівчатка, стаємо, нікуди ви не поїдете», - невдоволення в росіі зростає напередодні оголошення мобілізації.
+
+В Свердловській області жінки та родички військових перекрили дорогу автобусу з солдатами, яких раніше оголосили дезертирами. 
+
+Жінки стверджують, що військові готові піти за ґрати, тільки щоб не повертатися на фронт до війська.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0380.MP4" length="26517398" type="video/mp4"/>
+      <pubDate>Sat, 27 Jun 2026 10:06:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
