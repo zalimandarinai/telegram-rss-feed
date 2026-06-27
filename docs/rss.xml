@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 16:58:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:58:32 +0000</lastBuildDate>
     <item>
       <title>Німеччина розглядає можливість</title>
       <link>https://www.mandarinai.lt/post/94865</link>
@@ -72,6 +72,13 @@
 Напевно, такі дрони зможуть виконувати завдання із контролю судноплавства та блокування російських портів в Чорному морі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_16-56-24.jpg" length="79473" type="image/jpeg"/>
       <pubDate>Sat, 27 Jun 2026 16:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти відзняли зустріч свог</title>
+      <link>https://www.mandarinai.lt/post/94879</link>
+      <description>Окупанти відзняли зустріч свого автомобіля з українським дроном «Хорнет».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0389.MP4" length="2639518" type="video/mp4"/>
+      <pubDate>Sat, 27 Jun 2026 17:24:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
