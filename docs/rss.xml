@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 10:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 12:03:27 +0000</lastBuildDate>
     <item>
       <title>💥Так сьогодні вночі запускали </title>
       <link>https://www.mandarinai.lt/post/94849</link>
@@ -81,6 +81,20 @@
 Жінки стверджують, що військові готові піти за ґрати, тільки щоб не повертатися на фронт до війська.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0380.MP4" length="26517398" type="video/mp4"/>
       <pubDate>Sat, 27 Jun 2026 10:06:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Сьогодні вночі під час бойов</title>
+      <link>https://www.mandarinai.lt/post/94861</link>
+      <description>❗️Сьогодні вночі під час бойового завдання розбився винищувач МіГ-29 на Полтавщині. Пілоту, на щастя, вдалось катапультуватися, – ПС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_11-25-58.jpg" length="106869" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 11:25:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Харківській області російськ</title>
+      <link>https://www.mandarinai.lt/post/94862</link>
+      <description>В Харківській області російські дрони майже одночасно атакували кілька заправок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-27_12-01-41.mp4" length="3769901" type="video/mp4"/>
+      <pubDate>Sat, 27 Jun 2026 12:01:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
