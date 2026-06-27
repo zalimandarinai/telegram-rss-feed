@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 17:58:32 +0000</lastBuildDate>
-    <item>
-      <title>Німеччина розглядає можливість</title>
-      <link>https://www.mandarinai.lt/post/94865</link>
-      <description>Німеччина розглядає можливість повернення обов'язкового військового призову вже до 2027 року</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_12-49-38.jpg" length="175312" type="image/jpeg"/>
-      <pubDate>Sat, 27 Jun 2026 12:49:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 19:15:19 +0000</lastBuildDate>
     <item>
       <title>😡русня публікує кадри ураження</title>
       <link>https://www.mandarinai.lt/post/94867</link>
@@ -79,6 +72,19 @@
       <description>Окупанти відзняли зустріч свого автомобіля з українським дроном «Хорнет».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0389.MP4" length="2639518" type="video/mp4"/>
       <pubDate>Sat, 27 Jun 2026 17:24:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф перетворює Краматорськ на</title>
+      <link>https://www.mandarinai.lt/post/94882</link>
+      <description>❗️рф перетворює Краматорськ на руїни, намагаючись зробити місто непридатним для життя, - Bloomberg
+
+Агентство пише, що російська армія різко посилила удари по Краматорську, активно застосовуючи КАБи, артилерію та дрони. За словами українських військових, мета Москви - не стільки захопити місто, скільки знищити його та змусити людей покинути його.
+
+Протягом останніх тижнів місто перебувало під постійними обстрілами. Багато мирних жителів почали евакуюватися, а військові кажуть, що для цивільного життя там "уже не залишилося місця".
+
+При цьому експерти відзначають, що у Росії поки немає сил для захоплення Краматорська. Однак поступове просування на сході дозволило їй тримати місто під все більш інтенсивним вогнем, перетворюючи його на чергове місто-привид.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-27_18-44-55.jpg" length="154255" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 18:44:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
