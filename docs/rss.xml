@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 15:07:50 +0000</lastBuildDate>
-    <item>
-      <title>😡Вісім поранених через атаку р</title>
-      <link>https://www.mandarinai.lt/post/94903</link>
-      <description>😡Вісім поранених через атаку росіян на Запоріжжя.  Серед них двоє дітей, 5-річний хлопчик у важкому стані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-28_10-23-40.mp4" length="440593" type="video/mp4"/>
-      <pubDate>Sun, 28 Jun 2026 10:23:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Jun 2026 16:54:21 +0000</lastBuildDate>
     <item>
       <title>😡На Запоріжжі через обстріли о</title>
       <link>https://www.mandarinai.lt/post/94906</link>
@@ -90,6 +83,15 @@
 Тут складно не погодитися.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0442.MP4" length="14252516" type="video/mp4"/>
       <pubDate>Sun, 28 Jun 2026 14:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кір Стармер, після відставки з</title>
+      <link>https://www.mandarinai.lt/post/94917</link>
+      <description>Кір Стармер, після відставки з посади прем'єра Великої Британії, може стати генсекретарем НАТО, — The Observer
+
+Але не зараз. Посада Генерального секретаря НАТО має стати вакантною у 2028 році.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-28_15-36-27.jpg" length="25589" type="image/jpeg"/>
+      <pubDate>Sun, 28 Jun 2026 15:36:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
