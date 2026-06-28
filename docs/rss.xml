@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 13:07:44 +0000</lastBuildDate>
-    <item>
-      <title>🔥Традиційний ранок після нічно</title>
-      <link>https://www.mandarinai.lt/post/94900</link>
-      <description>🔥Традиційний ранок після нічного чергування за бензином у країні-бензоколонці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-28_06-30-29.mp4" length="3186452" type="video/mp4"/>
-      <pubDate>Sun, 28 Jun 2026 06:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці бригади «Хижак» розчищаю</title>
-      <link>https://www.mandarinai.lt/post/94901</link>
-      <description>Бійці бригади «Хижак» розчищають дорогу до Костянтинівки від «ждунів» перед тим, як до міста вирушить українська бронетехніка.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0418.MP4" length="23531581" type="video/mp4"/>
-      <pubDate>Sun, 28 Jun 2026 06:50:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Jun 2026 15:07:50 +0000</lastBuildDate>
     <item>
       <title>😡Вісім поранених через атаку р</title>
       <link>https://www.mandarinai.lt/post/94903</link>
@@ -69,6 +55,41 @@
       <description>У Запоріжжі одна людина загинула, ще 14 поранені унаслідок удару авіабомбами, — ДСНС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-28_11-26-05.jpg" length="259703" type="image/jpeg"/>
       <pubDate>Sun, 28 Jun 2026 11:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ АЗС в Харкові після удару р</title>
+      <link>https://www.mandarinai.lt/post/94914</link>
+      <description>❗️ АЗС в Харкові після удару російського безпілотника</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-28_13-42-24.jpg" length="152079" type="image/jpeg"/>
+      <pubDate>Sun, 28 Jun 2026 13:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сайт підприємства, яке випуска</title>
+      <link>https://www.mandarinai.lt/post/94915</link>
+      <description>Сайт підприємства, яке випускає «шахеди», зламаний, на ньому повідомлення, нібито підписане повстанським рухом «Чорна іскра».
+
+На сайті особливої економічної зони «Алабуга» було оприлюднено ось таке повідомлення: 
+
+«Підпільна організація «Чорна іскра» проникла на виробництво БПЛА «Герань-2» і «Герань-3». Кілька місяців ми працювали всередині системи. За цей час вивантажили базу даних усіх співробітників, їхніх родичів, місць проживання, ланцюгів постачання та іншої інформації».
+
+Також в повідомленні стверджують, що в останніх партіях «шахедів» закладені «сотні сюрпризів», і вони будуть вибухати.
+
+Так це чи ні, можна перевірити лише по результатах роботи ППО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-28_13-58-11.jpg" length="81606" type="image/jpeg"/>
+      <pubDate>Sun, 28 Jun 2026 13:58:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Він знов піднімає ставки.
+
+«Ро</title>
+      <link>https://www.mandarinai.lt/post/94916</link>
+      <description>Він знов піднімає ставки.
+
+«Росія може бути тільки сильною, або не буде ніякої росії», — путін
+
+Тут складно не погодитися.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0442.MP4" length="14252516" type="video/mp4"/>
+      <pubDate>Sun, 28 Jun 2026 14:04:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
