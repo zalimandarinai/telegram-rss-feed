@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 13:00:40 +0000</lastBuildDate>
-    <item>
-      <title>💥Московський регіон обстановка</title>
-      <link>https://www.mandarinai.lt/post/95009</link>
-      <description>💥Московський регіон обстановка</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-30_04-55-02.jpg" length="88452" type="image/jpeg"/>
-      <pubDate>Tue, 30 Jun 2026 04:55:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 16:12:40 +0000</lastBuildDate>
     <item>
       <title>❗️путін наближається до свого </title>
       <link>https://www.mandarinai.lt/post/95012</link>
@@ -74,6 +67,13 @@
       <description>😱Народився у сорочці - у  Запоріжжі безпілотник вибухнув за кілька метрів від проїжджаючого авто, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-30_12-16-09.mp4" length="1363001" type="video/mp4"/>
       <pubDate>Tue, 30 Jun 2026 12:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺У Слов'янську-на-Кубані післ</title>
+      <link>https://www.mandarinai.lt/post/95023</link>
+      <description>🇷🇺У Слов'янську-на-Кубані після атаки дронів -гірський пейзаж.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-30_13-03-16.jpg" length="163149" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jun 2026 13:03:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
