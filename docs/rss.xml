@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 23:55:13 +0000</lastBuildDate>
-    <item>
-      <title>Бізнесмена Єрмолаєва підірвали</title>
-      <link>https://www.mandarinai.lt/post/95019</link>
-      <description>Бізнесмена Єрмолаєва підірвали через розбірки на так званому ринку шахрайських колл-центрів у Дніпрі, — УП</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-06-30_12-11-53.jpg" length="101493" type="image/jpeg"/>
-      <pubDate>Tue, 30 Jun 2026 12:11:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 02:05:04 +0000</lastBuildDate>
     <item>
       <title>😱Народився у сорочці - у  Запо</title>
       <link>https://www.mandarinai.lt/post/95022</link>
@@ -90,6 +83,13 @@
       <description>🔥Красиві кадри влучання двох крилатих ракет FP-5 «Фламінго» по воєнному заводу у Волгограді зблизька.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-06-30_19-00-45.mp4" length="2781711" type="video/mp4"/>
       <pubDate>Tue, 30 Jun 2026 19:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вночі в Донецьку лунали вибу</title>
+      <link>https://www.mandarinai.lt/post/95035</link>
+      <description>💥🔥Вночі в Донецьку лунали вибухи на стоянці логістичного транспорту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_01-32-30.jpg" length="56193" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 01:32:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
