@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 22:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 23:59:00 +0000</lastBuildDate>
     <item>
       <title>😐росіяни воюють з туалетним па</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -26,17 +26,6 @@
 
 ​Підписуйся, якщо риболовля для тебе — це релігія:</description>
       <pubDate>Wed, 01 Jul 2026 15:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Китай та росія спільно проводи</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Китай та росія спільно проводили в 2025 році секретні військові навчання в контексті війни з Україною, — Reuters
-
-Навчання відбулися у Пекіні за участю високопоставлених військових з обох країн.
-Китаю.
-
-Зокрема, учасники відпрацьовували радіаційний, хімічний та біологічний захист.</description>
-      <pubDate>Wed, 01 Jul 2026 16:54:58 +0000</pubDate>
     </item>
     <item>
       <title>😡Ворог завдав удару по складу </title>
@@ -67,6 +56,13 @@
       <description>🤬Приліт біля готелю Premier Palace у ценирі Києва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_21-21-50.jpg" length="126654" type="image/jpeg"/>
       <pubDate>Wed, 01 Jul 2026 21:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Житловий багатоповерховий буди</title>
+      <link>https://www.mandarinai.lt/post/95094</link>
+      <description>Житловий багатоповерховий будинок в Києві після удару росіян загорівся</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0590.MP4" length="5474331" type="video/mp4"/>
+      <pubDate>Wed, 01 Jul 2026 23:10:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
