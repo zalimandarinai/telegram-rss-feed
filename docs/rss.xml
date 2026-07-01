@@ -6,63 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 10:41:48 +0000</lastBuildDate>
-    <item>
-      <title>На трасі Суми-Харків атакована</title>
-      <link>https://www.mandarinai.lt/post/95043</link>
-      <description>На трасі Суми-Харків атакована дроном заправка в населеному пункті Вільшани</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0555.MP4" length="3440072" type="video/mp4"/>
-      <pubDate>Wed, 01 Jul 2026 05:33:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Від першого липня «старий» бен</title>
-      <link>https://www.mandarinai.lt/post/95045</link>
-      <description>Від першого липня «старий» бензин в Україні не буде продаватися.
-
-Згідно з міжнародними правилами, на заправках буде бензин з додаванням 5% або 10% етилового спирту.
-
-Але буде виняток, бензин марок А-98 та А-100, куди спирт не додають з технічних причин.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_06-43-41.jpg" length="89674" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 06:43:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Міст на трасі Донецьк-Маріупол</title>
-      <link>https://www.mandarinai.lt/post/95046</link>
-      <description>Міст на трасі Донецьк-Маріуполь в районі Кременівки після атаки обвалився.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_06-48-16.jpg" length="130121" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 06:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Понад 1100 знищених і подавлен</title>
-      <link>https://www.mandarinai.lt/post/95047</link>
-      <description>Понад 1100 знищених і подавлених ворожих БПЛА, сотні уражених фортифікацій, а також знищена російська техніка  – результат бойової роботи бригади «Хартія» за місяць</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0561.MP4" length="19860625" type="video/mp4"/>
-      <pubDate>Wed, 01 Jul 2026 06:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Удари на 600 та 1300 кіломет</title>
-      <link>https://www.mandarinai.lt/post/95048</link>
-      <description>❗️Удари на 600 та 1300 кілометрів від державного кордону — президент Зеленський повідомив про влучання наших дронів в оборонний завод у Пензі та НПЗ в Уфі
-
-Уражене пензенське підприємство займається розробкою та виготовленням компонентів для ракетного озброєння. А НПЗ в Уфі рахується одним з найбільших російських виробників мастил.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-01_07-00-30.mp4" length="886318" type="video/mp4"/>
-      <pubDate>Wed, 01 Jul 2026 07:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Танкери російського «тіньового</title>
-      <link>https://www.mandarinai.lt/post/95050</link>
-      <description>Танкери російського «тіньового флоту» частіше обирають маршрути ближче до Німеччини
-
-З початку березня цими маршрутами скористалися 136 танкерів, свідчить Greenpeace. 
-
-При цьому 31 судно «тіньового флоту» заходило до дванадцятимильної зони Німеччини.
-
-Кораблі часто вимикають транспондери або рухаються без прапорів.
-
-Причиною, через яку застарілі танкери почали обирати довший маршрут, стали дії Швеції, яка зупинила чотири судна, два з яких були затримані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_08-36-13.jpg" length="87077" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 08:36:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 13:29:59 +0000</lastBuildDate>
     <item>
       <title>🔥Сили Оборони знищили логістич</title>
       <link>https://www.mandarinai.lt/post/95051</link>
@@ -118,6 +62,36 @@
       <description>🇩🇪 Бундесвер планує розгорнути на флоті лазерні системи для ураження малих і малопомітних цілей на ближніх та надближніх відстанях, - «Hartpunkt.de»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_09-59-03.jpg" length="90517" type="image/jpeg"/>
       <pubDate>Wed, 01 Jul 2026 09:59:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Щойно аковано окуповану трасу</title>
+      <link>https://www.mandarinai.lt/post/95059</link>
+      <description>🔥Щойно аковано окуповану трасу Донецьк-Старобешеве, палають вантажівки
+
+Ще більш вражаючі відео та фото з 20 спаленими фурами на стоянці в Донецьку, куди вночі прилетіли дрони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_10-48-23.jpg" length="274110" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 10:48:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перуанець Амеріго Валдіріа Тек</title>
+      <link>https://www.mandarinai.lt/post/95063</link>
+      <description>Перуанець Амеріго Валдіріа Тека розповів, як приїхав до охороняти російські нафтові підприємства, але, натомість, опинився в армії та, зрештою, в полоні.
+
+Після короткої підготовки його відправили на штурм в Харківській області. 
+
+Він був дезорієнтований, довго йшов пішки на українські позиції.
+
+Добровільно здався в полон.
+
+Амеріко сподівається, що рідні побачать, з ним усе добре, а інші латиноамериканці не дадуть себе ошукати росіянам і не потраплять в таку історію.</description>
+      <pubDate>Wed, 01 Jul 2026 11:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌рф розпочала купувати  бензин</title>
+      <link>https://www.mandarinai.lt/post/95065</link>
+      <description>👌рф розпочала купувати  бензин в Індії на тлі паливної кризи, — Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_12-21-37.jpg" length="32985" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 12:21:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
