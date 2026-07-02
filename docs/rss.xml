@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 09:55:05 +0000</lastBuildDate>
-    <item>
-      <title>Відома кількість жертв обстріл</title>
-      <link>https://www.mandarinai.lt/post/95116</link>
-      <description>Відома кількість жертв обстрілу столиці на цей момент 11 загиблих, 56 поранених, серед них двоє дітей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_05-19-16.jpg" length="153058" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 05:19:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>В окупованому Бердянську попер</title>
-      <link>https://www.mandarinai.lt/post/95117</link>
-      <description>В окупованому Бердянську попередньо приліт по АЗС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_05-39-49.jpg" length="158807" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 05:39:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴З-під завалів девʼятиповерхів</title>
-      <link>https://www.mandarinai.lt/post/95118</link>
-      <description>🔴З-під завалів девʼятиповерхівки вперше в Україні вдалося деблокувати 7 людей, але є інформація про зниклих, рятувальна операція продовжується, — глава МВС Клименко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_06-16-43.mp4" length="4965603" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 06:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже відомо про 13 загиблих та </title>
-      <link>https://www.mandarinai.lt/post/95119</link>
-      <description>Вже відомо про 13 загиблих та 86 постраждалих у столиці внаслідок нічної атаки ворога.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_06-19-04.jpg" length="265431" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 06:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>❤️‍🩹Незламний Київ пережив ще </title>
-      <link>https://www.mandarinai.lt/post/95122</link>
-      <description>❤️‍🩹Незламний Київ пережив ще одну страшну ніч атак від країни біосміття.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_06-25-36.jpg" length="26326" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 06:25:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 11:59:41 +0000</lastBuildDate>
     <item>
       <title>⚡️Наймасованіша атака рф за ос</title>
       <link>https://www.mandarinai.lt/post/95126</link>
@@ -71,6 +36,49 @@
       <description>⚡️Кількість загиблих у Києві зросла до 17 осіб, — ДСНС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_08-58-25.mp4" length="23529147" type="video/mp4"/>
       <pubDate>Thu, 02 Jul 2026 08:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Києві відомо про 17 загиблих</title>
+      <link>https://www.mandarinai.lt/post/95130</link>
+      <description>У Києві відомо про 17 загиблих і понад 90 поранених.
+
+Також під ударом були Дніпро, Черкаси, Запоріжжя, Харківщина, Донеччина, Сумщина. Сили оборони збили значну кількість цілей, але на жаль не всі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_10-03-31.mp4" length="10034845" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 10:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️52 500 осіб, з них майже 4 5</title>
+      <link>https://www.mandarinai.lt/post/95131</link>
+      <description>⚡️52 500 осіб, з них майже 4 500 дітей, ховалися в метро під час атаки на Київ
+
+Це найвищий показник кількості людей, які перебували в укриттях під час нічної повітряної тривоги за останні роки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_10-14-11.jpg" length="137754" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 10:14:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬русня оскаженіло руйнує пошто</title>
+      <link>https://www.mandarinai.lt/post/95136</link>
+      <description>🤬русня оскаженіло руйнує поштові відділення: в Запоріжжі зафіксовано ще одну атаку на термінал «Нової пошти», – ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_11-15-14.jpg" length="123774" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 11:15:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Для ЗСУ розроблятимуть робот</title>
+      <link>https://www.mandarinai.lt/post/95137</link>
+      <description>⚡️Для ЗСУ розроблятимуть роботів-гуманоїдів
+
+Основна ідея ініціативи — максимально автоматизувати дії на передовій та знизити ризики для військових, зменшивши їхню участь у найбільш небезпечних завданнях завдяки роботам.
+
+Відповідний грантовий конкурс скоро стартує.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_11-29-23.jpg" length="117106" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 11:29:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Києві станом на зараз відомо</title>
+      <link>https://www.mandarinai.lt/post/95138</link>
+      <description>У Києві станом на зараз відомо про 20 загиблих.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_11-45-35.mp4" length="740293" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 11:45:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
