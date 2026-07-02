@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 21:55:18 +0000</lastBuildDate>
-    <item>
-      <title>🔴Війна в Україні увійшла в пот</title>
-      <link>https://www.mandarinai.lt/post/95156</link>
-      <description>🔴Війна в Україні увійшла в потенційно вирішальну фазу, — Пісторіус
- 
-Про це міністр оборони Німеччини Борис Пісторіус заявив в інтерв’ю Der Spiegel. За його словами, союзники мають використати цей імпульс і надати Україні кошти для виробництва озброєнь і захисту від російських атак.
- 
-Для цього на саміті НАТО в Анкарі планується створити фонд у розмірі €40 млрд. З них близько €12 млрд надасть Німеччина, повідомив Пісторіус.
- 
-Німецький міністр також розповів, що вдома тримає запас їжі на кілька днів та величезний обсяг питної води на випадок війни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_16-41-58.jpg" length="36130" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 16:41:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Легіон «Свобода Росії» заявляє</title>
-      <link>https://www.mandarinai.lt/post/95157</link>
-      <description>Легіон «Свобода Росії» заявляє, що нібито учасник антипутінського руху спротиву знищив обладнання РЕБ поруч з арсеналом боєприпасів в Свердловській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0607.MP4" length="8255532" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 16:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Результат повітряних санкцій -</title>
-      <link>https://www.mandarinai.lt/post/95158</link>
-      <description>Результат повітряних санкцій - так виглядає з висоти одна з черг за пальним в росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0608.MP4" length="7582780" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 16:52:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 22:53:21 +0000</lastBuildDate>
     <item>
       <title>Доцент провідної військової ак</title>
       <link>https://www.mandarinai.lt/post/95159</link>
@@ -114,6 +87,20 @@
       <description>Момент удару ракети в Києві по будинку в Дарницькому районі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0619.MP4" length="584661" type="video/mp4"/>
       <pubDate>Thu, 02 Jul 2026 19:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Після удару рф водій фури на х</title>
+      <link>https://www.mandarinai.lt/post/95170</link>
+      <description>Після удару рф водій фури на ходу намагався відчепити палаючий причіп, щоб врятувати тягач.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-07-02_20-25-13.mp4" length="12351966" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 22:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії пишуть про втрату гелі</title>
+      <link>https://www.mandarinai.lt/post/95171</link>
+      <description>В росії пишуть про втрату гелікоптера Ка-52, який коштує $16 млн.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_22-21-04.jpg" length="34711" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 22:21:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
