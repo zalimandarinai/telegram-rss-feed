@@ -6,42 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 13:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 16:03:07 +0000</lastBuildDate>
     <item>
       <title>У Києві відомо про 17 загиблих</title>
-      <link>https://www.mandarinai.lt/post/95130</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>У Києві відомо про 17 загиблих і понад 90 поранених.
 
 Також під ударом були Дніпро, Черкаси, Запоріжжя, Харківщина, Донеччина, Сумщина. Сили оборони збили значну кількість цілей, але на жаль не всі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_10-03-31.mp4" length="10034845" type="video/mp4"/>
       <pubDate>Thu, 02 Jul 2026 10:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️52 500 осіб, з них майже 4 5</title>
-      <link>https://www.mandarinai.lt/post/95131</link>
-      <description>⚡️52 500 осіб, з них майже 4 500 дітей, ховалися в метро під час атаки на Київ
-
-Це найвищий показник кількості людей, які перебували в укриттях під час нічної повітряної тривоги за останні роки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_10-14-11.jpg" length="137754" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 10:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬русня оскаженіло руйнує пошто</title>
-      <link>https://www.mandarinai.lt/post/95136</link>
-      <description>🤬русня оскаженіло руйнує поштові відділення: в Запоріжжі зафіксовано ще одну атаку на термінал «Нової пошти», – ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_11-15-14.jpg" length="123774" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 11:15:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Для ЗСУ розроблятимуть робот</title>
-      <link>https://www.mandarinai.lt/post/95137</link>
-      <description>⚡️Для ЗСУ розроблятимуть роботів-гуманоїдів
-
-Основна ідея ініціативи — максимально автоматизувати дії на передовій та знизити ризики для військових, зменшивши їхню участь у найбільш небезпечних завданнях завдяки роботам.
-
-Відповідний грантовий конкурс скоро стартує.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_11-29-23.jpg" length="117106" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 11:29:23 +0000</pubDate>
     </item>
     <item>
       <title>У Києві станом на зараз відомо</title>
@@ -70,6 +42,27 @@
 Сьогодні вже 16 центрів мережі ПОВЕРНЕННЯ, заснованої Віктором та Оленою Пінчуками, працюють у Вінниці, Дніпрі, Житомирі, Івано-Франківську, Києві, Київській області, Кропивницькому, Луцьку, Одесі, Полтаві, Рівному, Тернополі, Ужгороді, Хмельницькому, Черкасах та Чернігові</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_13-09-06.jpg" length="118522" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 13:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Жахливий момент прильоту в ба</title>
+      <link>https://www.mandarinai.lt/post/95148</link>
+      <description>🤬Жахливий момент прильоту в басейн у Запоріжжі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_14-34-58.mp4" length="6040828" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 14:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ спільно із іншими складови</title>
+      <link>https://www.mandarinai.lt/post/95149</link>
+      <description>СБУ спільно із іншими складовими Сил оборони уразила Нижньогородський НПЗ та нафтоперекачувальну станцію «Старолікєєво» в тилу противника за 850 кілометрів від точок пусків.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_15-37-58.jpg" length="127592" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 15:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лікарня в Херсоні, яку сьогодн</title>
+      <link>https://www.mandarinai.lt/post/95154</link>
+      <description>Лікарня в Херсоні, яку сьогодні безжально атакували росіяни, загинув лікар, ще одна медична працівниця отримала поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0605.MP4" length="27454407" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 15:42:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
