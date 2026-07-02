@@ -6,42 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 23:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:20:50 +0000</lastBuildDate>
     <item>
       <title>😐росіяни воюють з туалетним па</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>😐росіяни воюють з туалетним папером: рф вдарила по виробництву «Сніжна Панда» на Одещині, — місцеві канали</description>
       <pubDate>Wed, 01 Jul 2026 14:39:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎣 РИБАЛЬСЬКИЙ ДЗЕН — це твій л</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🎣 РИБАЛЬСЬКИЙ ДЗЕН — це твій легальний спосіб втекти від усього світу на кілька хвилин на день.
-
-​Ми не постимо політику чи спам. 
-Тільки:
-📍 Естетика української риболовлі.
-📍 Моменти, коли час зупиняється.
-📍 Спільнота тих, хто цінує тишу.
-
-​Підписуйся, якщо риболовля для тебе — це релігія:</description>
-      <pubDate>Wed, 01 Jul 2026 15:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Ворог завдав удару по складу </title>
-      <link>https://www.mandarinai.lt/post/95078</link>
-      <description>😡Ворог завдав удару по складу Наша Ряба у Запоріжжі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-01_18-37-42.mp4" length="1545997" type="video/mp4"/>
-      <pubDate>Wed, 01 Jul 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️русня стверджує, що збила пе</title>
-      <link>https://www.mandarinai.lt/post/95079</link>
-      <description>❗️русня стверджує, що збила першу українську балістичну ракету FP-9
-
-Міністерство оборони РФ сьогодні повідомило, що над Московською областю була збита українська оперативно-тактична ракета великої дальності.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-01_18-43-03.jpg" length="112893" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 18:43:03 +0000</pubDate>
     </item>
     <item>
       <title>💥Момент збиття ворожого БпЛА н</title>
@@ -63,6 +33,29 @@
       <description>Житловий багатоповерховий будинок в Києві після удару росіян загорівся</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0590.MP4" length="5474331" type="video/mp4"/>
       <pubDate>Wed, 01 Jul 2026 23:10:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Києві прильоти у житловій </title>
+      <link>https://www.mandarinai.lt/post/95097</link>
+      <description>⚡️В Києві прильоти у житловій забудові в центрі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_00-44-33.jpg" length="140232" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 00:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Після ракетного удару поруч </title>
+      <link>https://www.mandarinai.lt/post/95102</link>
+      <description>⚡️Після ракетного удару поруч почала сипатись стеля станції метро</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_00-57-05.mp4" length="449309" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 00:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Масштабна пожежа після приль</title>
+      <link>https://www.mandarinai.lt/post/95103</link>
+      <description>⚡️Масштабна пожежа після прильоту в районі Борщагівки.
+
+В Києві вже відомо про одного загиблого та 11 постраждалих</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_00-59-04.mp4" length="402560" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 00:59:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
