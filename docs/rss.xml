@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 06:57:23 +0000</lastBuildDate>
-    <item>
-      <title>Момент прильоту ракети біля ст</title>
-      <link>https://www.mandarinai.lt/post/95115</link>
-      <description>Момент прильоту ракети біля станції метро «Нивки» в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0597.MP4" length="467673" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 04:57:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 09:55:05 +0000</lastBuildDate>
     <item>
       <title>Відома кількість жертв обстріл</title>
       <link>https://www.mandarinai.lt/post/95116</link>
@@ -57,6 +50,27 @@
 Протиповітряній обороні вдалося знищити 524 повітряні цілі — 48 ракет та 476 БПЛА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_06-30-04.jpg" length="123170" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 06:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Турецькі ЗМІ оприлюднили майже</title>
+      <link>https://www.mandarinai.lt/post/95127</link>
+      <description>Турецькі ЗМІ оприлюднили майже 8 хвилинне відео з прильотами по Києву.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_08-10-29.mp4" length="27056596" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 08:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙏Малюк спокійно спить під час </title>
+      <link>https://www.mandarinai.lt/post/95128</link>
+      <description>🙏Малюк спокійно спить під час нічної атаки на Київ: батьки поділилися таким відео</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_08-46-38.mp4" length="1352907" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 08:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Кількість загиблих у Києві з</title>
+      <link>https://www.mandarinai.lt/post/95129</link>
+      <description>⚡️Кількість загиблих у Києві зросла до 17 осіб, — ДСНС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_08-58-25.mp4" length="23529147" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 08:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
