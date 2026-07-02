@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 18:20:59 +0000</lastBuildDate>
-    <item>
-      <title>СБУ спільно із іншими складови</title>
-      <link>https://www.mandarinai.lt/post/95149</link>
-      <description>СБУ спільно із іншими складовими Сил оборони уразила Нижньогородський НПЗ та нафтоперекачувальну станцію «Старолікєєво» в тилу противника за 850 кілометрів від точок пусків.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_15-37-58.jpg" length="127592" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 15:37:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Лікарня в Херсоні, яку сьогодн</title>
-      <link>https://www.mandarinai.lt/post/95154</link>
-      <description>Лікарня в Херсоні, яку сьогодні безжально атакували росіяни, загинув лікар, ще одна медична працівниця отримала поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0605.MP4" length="27454407" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 15:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогодні рф атакувала КАБами ш</title>
-      <link>https://www.mandarinai.lt/post/95155</link>
-      <description>Сьогодні рф атакувала КАБами школу в Сумах, 11 людей постраждали, серед них троє дітей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_16-41-44.jpg" length="82133" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 16:41:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 20:12:24 +0000</lastBuildDate>
     <item>
       <title>🔴Війна в Україні увійшла в пот</title>
       <link>https://www.mandarinai.lt/post/95156</link>
@@ -86,6 +65,55 @@
       <description>В росії розпочались навчання з протидії висадці українського десанту на Кримському півострові</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_18-19-51.jpg" length="162447" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 18:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зона «Алабуга» в Татарстані з </title>
+      <link>https://www.mandarinai.lt/post/95163</link>
+      <description>Зона «Алабуга» в Татарстані з виробництва «шахедів» розширюється, будівництво відбувається на площі в 340 гектарів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_18-42-27.jpg" length="84803" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 18:42:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент повітряного удару з кам</title>
+      <link>https://www.mandarinai.lt/post/95164</link>
+      <description>Момент повітряного удару з камер поліцейських в Харкові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0615.MP4" length="14948595" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 18:45:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чотирикілометрова автомобільна</title>
+      <link>https://www.mandarinai.lt/post/95165</link>
+      <description>Чотирикілометрова автомобільна черга за пальним в Читі: проїзд вздовж машин, щоб не казали, що все це створено штучним інтелектом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0616.MP4" length="19474338" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 18:50:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺Типове обличчя русні в свяще</title>
+      <link>https://www.mandarinai.lt/post/95166</link>
+      <description>🇷🇺Типове обличчя русні в священій битві за бензин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_19-03-42.mp4" length="4758341" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 19:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>росія почала готуватися до вис</title>
+      <link>https://www.mandarinai.lt/post/95167</link>
+      <description>росія почала готуватися до висадки українського десанту в Криму: військові провели спеціальні навчання «Крымская побудка», — росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_19-07-01.jpg" length="208440" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 19:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна не отримає від Польщі </title>
+      <link>https://www.mandarinai.lt/post/95168</link>
+      <description>Україна не отримає від Польщі обіцяні літаки МіГ-29, оскільки Варшава не отримала від Києва дрони, - міністр оборони Владислав Косиняк-Камиш</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_19-12-41.jpg" length="23853" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 19:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент удару ракети в Києві по</title>
+      <link>https://www.mandarinai.lt/post/95169</link>
+      <description>Момент удару ракети в Києві по будинку в Дарницькому районі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0619.MP4" length="584661" type="video/mp4"/>
+      <pubDate>Thu, 02 Jul 2026 19:33:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
