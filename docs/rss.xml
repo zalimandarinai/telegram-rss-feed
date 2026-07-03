@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 20:09:59 +0000</lastBuildDate>
-    <item>
-      <title>Український дрон ліквідував чо</title>
-      <link>https://www.mandarinai.lt/post/95217</link>
-      <description>Український дрон ліквідував чорношкірого найманця, який воював на боці росії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2645.MP4" length="4985270" type="video/mp4"/>
-      <pubDate>Fri, 03 Jul 2026 17:57:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Внаслідок російського удару по</title>
-      <link>https://www.mandarinai.lt/post/95218</link>
-      <description>Внаслідок російського удару по Запоріжжю — 17 поранених і двоє загиблих, серед постраждалих — 11-річний хлопчик.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_17-59-43.jpg" length="146349" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 17:59:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 21:53:13 +0000</lastBuildDate>
     <item>
       <title>ℹ️ Відсутність пального і кіло</title>
       <link>https://www.mandarinai.lt/post/95221</link>
@@ -44,7 +30,7 @@
     <item>
       <title>❗️ Перші хвилини після жахливо</title>
       <link>https://www.mandarinai.lt/post/95226</link>
-      <description>❗️ Перші хвилини після жахливого удару по АЗС в Харкові</description>
+      <description>❗️ Перші хвилини після жахливого удару по АЗС в Харкові. Начальник департаменту надзвичайних ситуацій Богдан Гладких намагається загасити вогонь на машині. Він практично завжди приїжджає першим, якщо в місті внаслідок російських атак трапляються такі ситуації.</description>
       <pubDate>Fri, 03 Jul 2026 18:42:04 +0000</pubDate>
     </item>
     <item>
@@ -60,6 +46,41 @@
       <description>В Сумах троє загиблих станом на 22:45</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_19-45-28.jpg" length="75907" type="image/jpeg"/>
       <pubDate>Fri, 03 Jul 2026 19:45:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ввечері Суми атакували російсь</title>
+      <link>https://www.mandarinai.lt/post/95229</link>
+      <description>Ввечері Суми атакували російські літаки і скинули шість КАБів, три з них вибухнули в центрі міста</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0679.MP4" length="3284898" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 20:12:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти знов вдарили по Запор</title>
+      <link>https://www.mandarinai.lt/post/95230</link>
+      <description>Окупанти знов вдарили по Запоріжжю сьогодні ввечері, є поранені</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_20-13-19.jpg" length="235453" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 20:13:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кремлівський упир напнув війсь</title>
+      <link>https://www.mandarinai.lt/post/95231</link>
+      <description>Кремлівський упир напнув військовий однострій і заявив про взяття Костянтинівки. Так нібито доповідають генерали. Приблизно те ж саме вони говорили про взяття Купʼянська навесні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0681.MP4" length="6715240" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 20:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Масовані удари по Україні мают</title>
+      <link>https://www.mandarinai.lt/post/95232</link>
+      <description>Масовані удари по Україні мають бути продовжені, — путін</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_20-37-08.jpg" length="28663" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 20:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Білгороді загорілась електро</title>
+      <link>https://www.mandarinai.lt/post/95233</link>
+      <description>В Білгороді загорілась електростанція після атаки на неї</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_20-50-54.jpg" length="50758" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 20:50:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
