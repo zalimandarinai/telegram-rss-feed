@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 05:39:08 +0000</lastBuildDate>
-    <item>
-      <title>Момент повітряного удару з кам</title>
-      <link>https://www.mandarinai.lt/post/95164</link>
-      <description>Момент повітряного удару з камер поліцейських в Харкові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0615.MP4" length="14948595" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 18:45:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Чотирикілометрова автомобільна</title>
-      <link>https://www.mandarinai.lt/post/95165</link>
-      <description>Чотирикілометрова автомобільна черга за пальним в Читі: проїзд вздовж машин, щоб не казали, що все це створено штучним інтелектом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0616.MP4" length="19474338" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 18:50:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇷🇺Типове обличчя русні в свяще</title>
-      <link>https://www.mandarinai.lt/post/95166</link>
-      <description>🇷🇺Типове обличчя русні в священій битві за бензин</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-02_19-03-42.mp4" length="4758341" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 19:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>росія почала готуватися до вис</title>
-      <link>https://www.mandarinai.lt/post/95167</link>
-      <description>росія почала готуватися до висадки українського десанту в Криму: військові провели спеціальні навчання «Крымская побудка», — росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_19-07-01.jpg" length="208440" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 19:07:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 08:42:51 +0000</lastBuildDate>
     <item>
       <title>Україна не отримає від Польщі </title>
       <link>https://www.mandarinai.lt/post/95168</link>
@@ -80,6 +52,24 @@
 У столиці сьогодні День жалоби.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_04-17-24.jpg" length="219058" type="image/jpeg"/>
       <pubDate>Fri, 03 Jul 2026 04:17:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Четверо загиблих на Сумщині</title>
+      <link>https://www.mandarinai.lt/post/95178</link>
+      <description>❗️ Четверо загиблих на Сумщині, - ворог атакував ударним БПЛА житловий будинок в Роменській громаді.
+
+Загинули дві жінки, літній чоловік і маленька дитина, дівчинка, якій не було й двох років, російський удар забрав її життя разом із мамою.
+
+Ще троє чоловіків поранено внаслідок цієї атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_06-05-15.jpg" length="93803" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 06:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Курській області підірвали а</title>
+      <link>https://www.mandarinai.lt/post/95180</link>
+      <description>В Курській області підірвали автомобіль голови Рильського району, він і ще троє чиновників поранені, - губернатор</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_08-15-44.jpg" length="256033" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 08:15:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
