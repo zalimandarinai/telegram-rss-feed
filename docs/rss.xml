@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 22:51:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 23:53:10 +0000</lastBuildDate>
     <item>
       <title>ℹ️ Відсутність пального і кіло</title>
       <link>https://www.mandarinai.lt/post/95221</link>
@@ -81,6 +81,17 @@
       <description>В Білгороді загорілась електростанція після атаки на неї</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_20-50-54.jpg" length="50758" type="image/jpeg"/>
       <pubDate>Fri, 03 Jul 2026 20:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок атаки КАБами по Сума</title>
+      <link>https://www.mandarinai.lt/post/95234</link>
+      <description>Внаслідок атаки КАБами по Сумах постраждали 27 людей, серед них семеро дітей
+
+Медики боролись за життя 5-ти річної дівчини, - на жаль врятувати не вдалось. Загинула і її мати. 
+
+Старша донька цієї жінки у лікарні з травмами середньої тяжкості.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_23-26-19.jpg" length="180026" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 23:26:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
