@@ -6,62 +6,81 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 13:27:35 +0000</lastBuildDate>
-    <item>
-      <title>💥Після прильоту в російському </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥Після прильоту в російському Бєлгороді зникли світло та вода
-
-Ймовірно, постраждала Мічуринська ТЕЦ. За іншими даними, був атакований завод "Енергомаш".</description>
-      <pubDate>Fri, 03 Jul 2026 04:13:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Найближчими місяцями рф здій</title>
-      <link>https://www.mandarinai.lt/post/95184</link>
-      <description>❗️Найближчими місяцями рф здійснить атаку на Польщу, – про це країну офіційно (!) попереджає США, пише The Telegraph 
-
-Представлено такі варіанти подій – удар дронами по критичній інфраструктурі (до прикладу, по електростанціях) або імітація авіаударів, щоб перевірити системи ППО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_09-41-58.jpg" length="274620" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 09:41:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Збили тараном російський безпі</title>
-      <link>https://www.mandarinai.lt/post/95188</link>
-      <description>Збили тараном російський безпілотник, - 210-ий полк в Сумській області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0631.MP4" length="10075152" type="video/mp4"/>
-      <pubDate>Fri, 03 Jul 2026 11:27:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Харкові FPV-дрони на оптовол</title>
-      <link>https://www.mandarinai.lt/post/95190</link>
-      <description>У Харкові FPV-дрони на оптоволокні все частіше атакують багатоповерхові будинки, — прокуратура.
-
-Жителів просять не нехтувати заходами безпеки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_11-34-46.jpg" length="309079" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 11:34:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пошук та знищення китайської Р</title>
-      <link>https://www.mandarinai.lt/post/95191</link>
-      <description>Пошук та знищення китайської РСЗВ на озброєнні росіян, - 68-а бригада</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0634.MP4" length="9906603" type="video/mp4"/>
-      <pubDate>Fri, 03 Jul 2026 11:37:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Дарницькому районі в зруйнов</title>
-      <link>https://www.mandarinai.lt/post/95192</link>
-      <description>В Дарницькому районі в зруйнованій 9-поверхівці, завершили пошукові роботи. Деблоковано 10 тіл загиблих.
-
-Ще за трьома адресами в Дарницькому районі тривають роботи з ліквідації наслідків масованої атаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_12-54-37.jpg" length="159670" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 12:54:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 15:46:00 +0000</lastBuildDate>
     <item>
       <title>В центрі Харкова дрон влучив в</title>
       <link>https://www.mandarinai.lt/post/95198</link>
       <description>В центрі Харкова дрон влучив в АЗС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0641.MOV" length="9150369" type="video/mp4"/>
       <pubDate>Fri, 03 Jul 2026 13:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прем’єр Польщі Туск перед самі</title>
+      <link>https://www.mandarinai.lt/post/95200</link>
+      <description>Прем’єр Польщі Туск перед самітом НАТО в Анкарі закликав делегації бути «обережними» у заявах щодо фінансової допомоги Україні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0643.MP4" length="20265510" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 13:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>В умовах паливної кризи росія </title>
+      <link>https://www.mandarinai.lt/post/95201</link>
+      <description>В умовах паливної кризи росія готується імпортувати авіаційне паливо з Азії, — ексклюзив Reuters
+
+За словами видання, у першій половині липня в Японії планується завантажити щонайменше 200 000 барелів авіаційного палива, яке спочатку буде відправлено до Південної Кореї.
+
+В ланцюжку угоди задіяно кілька трейдерів.
+
+Потім вантаж, як очікується, буде перевантажено на інший танкер, ймовірно, біля порту Йосу в Південній Кореї, і після того вирушить до рф. 
+
+Як там партнерам, гроші не пахнуть?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_13-46-21.jpg" length="102911" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 13:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ На одному з промислових під</title>
+      <link>https://www.mandarinai.lt/post/95202</link>
+      <description>⚡️ На одному з промислових підприємств у Смоленській області сталася пожежа внаслідок атаки українських дронів, - губернатор</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_14-14-14.jpg" length="51242" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 14:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оператори 413 полку СБС «Рейд»</title>
+      <link>https://www.mandarinai.lt/post/95204</link>
+      <description>Оператори 413 полку СБС «Рейд» знищили підстанції в Криму в районах міст Білогірськ і Старий Крим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0646.MP4" length="5103546" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 14:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ «За Київ! Постріл! Від 425-</title>
+      <link>https://www.mandarinai.lt/post/95205</link>
+      <description>❗️ «За Київ! Постріл! Від 425-го ОШП!» - ствольна та реактивна артилерія полку «Скеля» помстилася ворогу за удари по мирному населенню столиці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0647.MP4" length="12206255" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 14:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці ССО з трофейною зброєю, </title>
+      <link>https://www.mandarinai.lt/post/95206</link>
+      <description>Бійці ССО з трофейною зброєю, яку захопили в противника</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_15-04-05.jpg" length="330950" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 15:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щойно рф повторно вдарила по З</title>
+      <link>https://www.mandarinai.lt/post/95207</link>
+      <description>Щойно рф повторно вдарила по Запоріжжю, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0649.MP4" length="1666984" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 15:17:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺 Те, що Штати роблять з Євро</title>
+      <link>https://www.mandarinai.lt/post/95208</link>
+      <description>🇪🇺 Те, що Штати роблять з Європою, виявляється, має свою назву - «НАТО 3.0». 
+
+🇺🇸 Так виходить з посту в соцмережі заступника міністра оборони США з питань політики Елбриджа Колбі. 
+
+💬 «Під далекоглядним керівництвом президента Трампа та секретаря Хегсета ми рухаємося до «НАТО 3.0», в якому Європа бере на себе головну відповідальність за свою оборону за допомогою звичайних збройних сил. Багато хто стверджував, що це неможливо — що Європа не зможе або не захоче активізувати свої зусилля. Це твердження спростовується на наших очах».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_15-30-35.jpg" length="86876" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 15:30:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
