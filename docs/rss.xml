@@ -6,46 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 01:29:18 +0000</lastBuildDate>
-    <item>
-      <title>Доцент провідної військової ак</title>
-      <link>https://www.mandarinai.lt/post/95159</link>
-      <description>Доцент провідної військової академії виявився агентом російської воєнної розвідки.
-
-Він намагався «злити» інформацію про розробки українських дронів, а також документував їх, як безперспективні, щоб загальмувати їхнє впровадження.
-
-Військові контррозвідники СБУ затримали російського «крота» на робочому місці в академії Міноборони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_17-12-32.jpg" length="139723" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 17:12:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>До 23 людей зросла кількість з</title>
-      <link>https://www.mandarinai.lt/post/95160</link>
-      <description>До 23 людей зросла кількість загиблих у Києві через російський обстріл</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_17-16-52.jpg" length="183640" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 17:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бригада ДПСУ «Гарт» знищила на</title>
-      <link>https://www.mandarinai.lt/post/95161</link>
-      <description>Бригада ДПСУ «Гарт» знищила на Південно-Слобожанському напрямку транспорт противника, впізнавши його по мітці, адже на капоті був намальований герб держави-агресора.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0611.MP4" length="14671900" type="video/mp4"/>
-      <pubDate>Thu, 02 Jul 2026 18:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>В росії розпочались навчання з</title>
-      <link>https://www.mandarinai.lt/post/95162</link>
-      <description>В росії розпочались навчання з протидії висадці українського десанту на Кримському півострові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_18-19-51.jpg" length="162447" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 18:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зона «Алабуга» в Татарстані з </title>
-      <link>https://www.mandarinai.lt/post/95163</link>
-      <description>Зона «Алабуга» в Татарстані з виробництва «шахедів» розширюється, будівництво відбувається на площі в 340 гектарів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_18-42-27.jpg" length="84803" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 18:42:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 05:39:08 +0000</lastBuildDate>
     <item>
       <title>Момент повітряного удару з кам</title>
       <link>https://www.mandarinai.lt/post/95164</link>
@@ -101,6 +62,24 @@
       <description>В росії пишуть про втрату гелікоптера Ка-52, який коштує $16 млн.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-02_22-21-04.jpg" length="34711" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 22:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Після прильоту в російському </title>
+      <link>https://www.mandarinai.lt/post/95173</link>
+      <description>💥Після прильоту в російському Бєлгороді зникли світло та вода
+
+Ймовірно, постраждала Мічуринська ТЕЦ. За іншими даними, був атакований завод "Енергомаш".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-03_04-13-14.mp4" length="636412" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 04:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кількість жертв удару рф по Ки</title>
+      <link>https://www.mandarinai.lt/post/95175</link>
+      <description>Кількість жертв удару рф по Києву зросла до 30 — з-під завалів будинку деблокували ще трьох загиблих
+
+У столиці сьогодні День жалоби.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_04-17-24.jpg" length="219058" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 04:17:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
