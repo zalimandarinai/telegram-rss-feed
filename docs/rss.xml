@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 18:56:34 +0000</lastBuildDate>
-    <item>
-      <title>В Сумах через авіаційні удари </title>
-      <link>https://www.mandarinai.lt/post/95213</link>
-      <description>В Сумах через авіаційні удари 1 людина загинула, 4  травмовано — ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_17-52-50.jpg" length="329632" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 17:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ворог КАБами знищив найбільшу </title>
-      <link>https://www.mandarinai.lt/post/95214</link>
-      <description>Ворог КАБами знищив найбільшу птахофабрику Європи в Чорнобаївці на Херсонщині. Росіяни вже вдруге знищують цю птахофабрику — вперше її зруйнували під час вторгнення та окупації Херсонської області у 2022 році. Збитки тоді оцінили у $330 млн, а загибель 4 000 000 курей спричинила значний дефіцит і підвищення цін на курятину та яйця по всій країні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7537.MP4" length="5308828" type="video/mp4"/>
-      <pubDate>Fri, 03 Jul 2026 17:55:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 20:09:59 +0000</lastBuildDate>
     <item>
       <title>Український дрон ліквідував чо</title>
       <link>https://www.mandarinai.lt/post/95217</link>
@@ -60,6 +46,20 @@
       <link>https://www.mandarinai.lt/post/95226</link>
       <description>❗️ Перші хвилини після жахливого удару по АЗС в Харкові</description>
       <pubDate>Fri, 03 Jul 2026 18:42:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Майже в центрі Сум влучання</title>
+      <link>https://www.mandarinai.lt/post/95227</link>
+      <description>❗️ Майже в центрі Сум влучання КАБ по житловій багатоповерхівці, дані по жертвах уточнюються, багато поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0677.MP4" length="12060383" type="video/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 19:36:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Сумах троє загиблих станом н</title>
+      <link>https://www.mandarinai.lt/post/95228</link>
+      <description>В Сумах троє загиблих станом на 22:45</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_19-45-28.jpg" length="75907" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 19:45:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
