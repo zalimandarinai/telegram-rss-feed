@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 17:52:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 18:50:20 +0000</lastBuildDate>
     <item>
       <title>😡Жах на пляжі! Міна вибухнула </title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -22,45 +22,47 @@
       <pubDate>Sat, 04 Jul 2026 12:04:39 +0000</pubDate>
     </item>
     <item>
-      <title>Ракетна установка «Стріла-10» </title>
-      <link>https://www.mandarinai.lt/post/95253</link>
-      <description>Ракетна установка «Стріла-10» 14-го АК досі влучно збиває російські дрони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0701.MP4" length="1018472" type="video/mp4"/>
-      <pubDate>Sat, 04 Jul 2026 13:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴росія готується до нових масо</title>
-      <link>https://www.mandarinai.lt/post/95254</link>
-      <description>🔴росія готується до нових масованих ударів по Україні, — головнокомандувач ЗСУ Олександр Сирський
-
-Рф накопичує сили та збільшує кількість реактивних безпілотників і дронів-камікадзе. Україна у відповідь посилює ППО, мобільні групи, РЕБ та удари по військових об’єктах рф у глибокому тилу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_13-08-17.jpg" length="81035" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 13:08:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡Нова смуга безпеки в Україні </title>
-      <link>https://www.mandarinai.lt/post/95255</link>
-      <description>🤡Нова смуга безпеки в Україні пройде територією Сумської, Дніпропетровської та Харківської областей, — Медведєв</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_14-51-10.jpg" length="16768" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 14:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Днями у Києві сапери ДСНС вияв</title>
-      <link>https://www.mandarinai.lt/post/95256</link>
-      <description>Днями у Києві сапери ДСНС виявили та знищили касетні елементи від бойової частини ракети Х-69
-
-Знищення провели за допомогою роботизованого комплексу Avenger.
-
-Бойові елементи зроблені у вигляді металевої кульки. При виході з бойової частини вони є автоматично зведеними та готовими до детонації, тож будьте уважні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0702.MP4" length="13873333" type="video/mp4"/>
-      <pubDate>Sat, 04 Jul 2026 15:31:23 +0000</pubDate>
-    </item>
-    <item>
       <title>🇺🇸 Від «Джавелінів» до «Патріо</title>
       <link>https://www.mandarinai.lt/post/95261</link>
       <description>🇺🇸 Від «Джавелінів» до «Патріотів»: Зеленський привітав США із 250-річчям Незалежності  та подякував за підтримку України</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_15-34-07.jpg" length="196343" type="image/jpeg"/>
       <pubDate>Sat, 04 Jul 2026 15:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Проросійське чмо, яке зовуть В</title>
+      <link>https://www.mandarinai.lt/post/95269</link>
+      <description>Проросійське чмо, яке зовуть Володя, приїхало до Москви з Дюссельдорфа.
+
+Чому б йому там не залишитися. Але ж поїде назад, бо в Європі комфортніше і краще.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0703.MP4" length="25804268" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 18:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥ЗСУ завдали найбільший удар п</title>
+      <link>https://www.mandarinai.lt/post/95272</link>
+      <description>💥ЗСУ завдали найбільший удар по Білгородській області за весь час "СВО", — глава регіону Шуваєв. 
+
+Серйозно пошкоджені об'єкти інфраструктури, 353 ліфти у 90 будинках Бєлгорода не працюють.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_18-28-06.jpg" length="67104" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 18:28:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Так зараз виглядає російська </title>
+      <link>https://www.mandarinai.lt/post/95275</link>
+      <description>🔥Так зараз виглядає російська логістика на Донеччині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-04_18-30-22.mp4" length="3947655" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 18:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Авіаудар по магазину в Крама</title>
+      <link>https://www.mandarinai.lt/post/95276</link>
+      <description>‼️Авіаудар по магазину в Краматорську, щонайменше 5 людей постраждали, серед них дитина
+
+Виникла масштабна пожежа.
+
+Під час приборкування вогню рятувальники ДСНС неодноразово переходили до укриття через повітряні загрози.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0705.MP4" length="30052501" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 18:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
