@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 05:32:42 +0000</lastBuildDate>
-    <item>
-      <title>🚁 Командувач армійської авіаці</title>
-      <link>https://www.mandarinai.lt/post/95224</link>
-      <description>🚁 Командувач армійської авіації ЗСУ Павло Бардаков відсьогодні бригадний генерал. Зеленський присвоїв йому звання з нагоди Дня армійської авіації та враховуючи масштаб тих операцій, які проводять пілоти гелікоптерів Сухопутних Військ. Наш матеріал про них можна подивитися тут https://www.youtube.com/watch?v=8PILfBdNnWQ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_18-31-51.jpg" length="98174" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 18:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Перші хвилини після жахливо</title>
-      <link>https://www.mandarinai.lt/post/95226</link>
-      <description>❗️ Перші хвилини після жахливого удару по АЗС в Харкові. Начальник департаменту надзвичайних ситуацій Богдан Гладких намагається загасити вогонь на машині. Він практично завжди приїжджає першим, якщо в місті внаслідок російських атак трапляються такі ситуації.</description>
-      <pubDate>Fri, 03 Jul 2026 18:42:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 08:17:01 +0000</lastBuildDate>
     <item>
       <title>❗️ Майже в центрі Сум влучання</title>
       <link>https://www.mandarinai.lt/post/95227</link>
@@ -91,8 +78,37 @@
       <title>💥Прильоти у Санкт-Петербурзі —</title>
       <link>https://www.mandarinai.lt/post/95236</link>
       <description>💥Прильоти у Санкт-Петербурзі — масштабні влучання безпілотників по порту та одному із найбільших нафтових терміналів, який за 1100 км від кордону з Україною.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_05-20-45.jpg" length="106629" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_05-20-45.jpg" length="57801" type="image/jpeg"/>
       <pubDate>Sat, 04 Jul 2026 05:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>В районі Куп'янська українські</title>
+      <link>https://www.mandarinai.lt/post/95238</link>
+      <description>В районі Куп'янська українські БПЛА не дають російським окупантам накопичити сили і провести великомасштабні операції на лівому березі річки Оскіл. Зараз українські війська контратакують поблизу Курилівки та Куп’янська-Вузлового. Армія рф досягла певних результатів у спробі розсікти плацдарм на схід від Куп’янська, повідомляв оглядач групи «InfoResist» Костянтин Машовець.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQOCH32zf7SF5NXeWtn1OxUUE10Glns_DrQcHy7c1s7Y0Tm_bETzqb7V401A9XtGUWcF2.mp4" length="4251888" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 07:55:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Перехожі в Санкт-Петербурзі</title>
+      <link>https://www.mandarinai.lt/post/95239</link>
+      <description>❗️ Перехожі в Санкт-Петербурзі допомагають ЗСУ дорозвідкою. 
+
+➡️ Рекордні 42,74% нафтопереробки втрачені рф.
+
+➡️ Впродовж місяця успішно атаковано вісім НПЗ.
+
+➡️ Ліквідовано або критично пошкоджено понад 60 резервуарів, 58% з нафтопродуктами, 42% із нафтою.
+
+➡️ За рік збитки галузі сягнули майже $14 млрд.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNEC_ViAGoIn48l360anbbcXadfZmUXvcSe0kuI4vM3s8aCyRZ_fiJcaSrdMqM.mp4" length="2795296" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 08:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф атакує Дніпро балістикою</title>
+      <link>https://www.mandarinai.lt/post/95240</link>
+      <description>⚡️рф атакує Дніпро балістикою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_08-13-13.jpg" length="50916" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 08:13:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
