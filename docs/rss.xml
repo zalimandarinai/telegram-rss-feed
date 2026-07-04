@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 10:45:34 +0000</lastBuildDate>
-    <item>
-      <title>Внаслідок атаки КАБами по Сума</title>
-      <link>https://www.mandarinai.lt/post/95234</link>
-      <description>Внаслідок атаки КАБами по Сумах постраждали 27 людей, серед них семеро дітей
-
-Медики боролись за життя 5-ти річної дівчини, - на жаль врятувати не вдалось. Загинула і її мати. 
-
-Старша донька цієї жінки у лікарні з травмами середньої тяжкості.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_23-26-19.jpg" length="110528" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 23:26:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В Белгороді після ракетного у</title>
-      <link>https://www.mandarinai.lt/post/95235</link>
-      <description>🔥В Белгороді після ракетного удару загорілася електропідстанція "Луч"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_00-00-48.jpg" length="64401" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 00:00:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 11:59:15 +0000</lastBuildDate>
     <item>
       <title>💥Прильоти у Санкт-Петербурзі —</title>
       <link>https://www.mandarinai.lt/post/95236</link>
@@ -102,6 +84,22 @@
       <description>Зеленський: «Якщо Костянтинівка зараз під контролем росії, то, мабуть, у путіна не буде проблеми там зі мною зустрітись і знайти дипломатичні рішення, щоб війну нарешті закінчити».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_10-26-45.jpg" length="68383" type="image/jpeg"/>
       <pubDate>Sat, 04 Jul 2026 10:26:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Мінус російський МіГ-29 на ае</title>
+      <link>https://www.mandarinai.lt/post/95249</link>
+      <description>🔥Мінус російський МіГ-29 на ае «Бельбек» у Криму, — ГУР
+
+Також спецпризначенці спалили аеродромну пускову установку. В момент ураження вона саме обслуговувала бойовий літак ворога.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-04_11-22-15.mp4" length="2392856" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 11:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Жах на пляжі! Міна вибухнула </title>
+      <link>https://www.mandarinai.lt/post/95250</link>
+      <description>😡Жах на пляжі! Міна вибухнула просто під час відпочинку людей на Одещині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-04_11-45-08.mp4" length="685686" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 11:45:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
