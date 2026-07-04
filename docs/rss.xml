@@ -6,56 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 08:17:01 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Майже в центрі Сум влучання</title>
-      <link>https://www.mandarinai.lt/post/95227</link>
-      <description>❗️ Майже в центрі Сум влучання КАБ по житловій багатоповерхівці, дані по жертвах уточнюються, багато поранених.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0677.MP4" length="12060383" type="video/mp4"/>
-      <pubDate>Fri, 03 Jul 2026 19:36:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Сумах троє загиблих станом н</title>
-      <link>https://www.mandarinai.lt/post/95228</link>
-      <description>В Сумах троє загиблих станом на 22:45</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_19-45-28.jpg" length="75907" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 19:45:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ввечері Суми атакували російсь</title>
-      <link>https://www.mandarinai.lt/post/95229</link>
-      <description>Ввечері Суми атакували російські літаки і скинули шість КАБів, три з них вибухнули в центрі міста</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0679.MP4" length="3284898" type="video/mp4"/>
-      <pubDate>Fri, 03 Jul 2026 20:12:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти знов вдарили по Запор</title>
-      <link>https://www.mandarinai.lt/post/95230</link>
-      <description>Окупанти знов вдарили по Запоріжжю сьогодні ввечері, є поранені</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_20-13-19.jpg" length="235453" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 20:13:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кремлівський упир напнув війсь</title>
-      <link>https://www.mandarinai.lt/post/95231</link>
-      <description>Кремлівський упир напнув військовий однострій і заявив про взяття Костянтинівки. Так нібито доповідають генерали. Приблизно те ж саме вони говорили про взяття Купʼянська навесні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0681.MP4" length="6715240" type="video/mp4"/>
-      <pubDate>Fri, 03 Jul 2026 20:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Масовані удари по Україні мают</title>
-      <link>https://www.mandarinai.lt/post/95232</link>
-      <description>Масовані удари по Україні мають бути продовжені, — путін</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_20-37-08.jpg" length="28663" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 20:37:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Білгороді загорілась електро</title>
-      <link>https://www.mandarinai.lt/post/95233</link>
-      <description>В Білгороді загорілась електростанція після атаки на неї</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-03_20-50-54.jpg" length="50758" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 20:50:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 10:45:34 +0000</lastBuildDate>
     <item>
       <title>Внаслідок атаки КАБами по Сума</title>
       <link>https://www.mandarinai.lt/post/95234</link>
@@ -91,15 +42,7 @@
     <item>
       <title>❗️ Перехожі в Санкт-Петербурзі</title>
       <link>https://www.mandarinai.lt/post/95239</link>
-      <description>❗️ Перехожі в Санкт-Петербурзі допомагають ЗСУ дорозвідкою. 
-
-➡️ Рекордні 42,74% нафтопереробки втрачені рф.
-
-➡️ Впродовж місяця успішно атаковано вісім НПЗ.
-
-➡️ Ліквідовано або критично пошкоджено понад 60 резервуарів, 58% з нафтопродуктами, 42% із нафтою.
-
-➡️ За рік збитки галузі сягнули майже $14 млрд.</description>
+      <description>❗️ Перехожі в Санкт-Петербурзі допомагають ЗСУ дорозвідкою</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNEC_ViAGoIn48l360anbbcXadfZmUXvcSe0kuI4vM3s8aCyRZ_fiJcaSrdMqM.mp4" length="2795296" type="video/mp4"/>
       <pubDate>Sat, 04 Jul 2026 08:00:16 +0000</pubDate>
     </item>
@@ -109,6 +52,56 @@
       <description>⚡️рф атакує Дніпро балістикою</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_08-13-13.jpg" length="50916" type="image/jpeg"/>
       <pubDate>Sat, 04 Jul 2026 08:13:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Майже половина! Українські Б</title>
+      <link>https://www.mandarinai.lt/post/95242</link>
+      <description>🔥 Майже половина! Українські БПЛА вивели з ладу вже 42,7% нафтопереробних потужностей Росії, - Генеральний штаб
+
+За останній місяць Сили оборони атакували 8 російських НПЗ і знищили або серйозно пошкодили більше 60 резервуарів з нафтою і нафтопродуктами.
+
+З серпня 2025 року збиток російській нафтопереробній промисловості досяг 13,5 мільярдів доларів США.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_08-20-05.jpg" length="160532" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 08:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Сили оборони уразили нафтов</title>
+      <link>https://www.mandarinai.lt/post/95244</link>
+      <description>⚡️ Сили оборони уразили нафтовий термінал «Санкт-Петербург», базу «Кронштадт», вертоліт в Азовському морі, а також низку складів, пунктів управління та мостів ворога, — Генштаб</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_09-19-06.jpg" length="101969" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 09:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генштаб спростував заяву про з</title>
+      <link>https://www.mandarinai.lt/post/95245</link>
+      <description>Генштаб спростував заяву про захоплення Костянтинівки
+
+У Генеральному штабі повідомили, що Костянтинівка залишається під контролем українських сил оборони. Українські підрозділи продовжують утримувати свої позиції як у місті, так і на його околицях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_09-27-33.jpg" length="70464" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 09:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Офіційно! На території нафтот</title>
+      <link>https://www.mandarinai.lt/post/95246</link>
+      <description>💥Офіційно! На території нафтотерміналу на Балтиці зафіксовано щонайменше три осередки пожеж.
+
+ ПНТ — один із найбільших комплексів із перевалки нафти та нафтопродуктів на північному заході рф. Він займає площу 37 га, має 21 резервуар для зберігання нафтопродуктів, а його пропускна спроможність становить — 12,5 млн тонн на рік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-04_09-29-05.mp4" length="594586" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 09:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Залізничне сполучення на Кримс</title>
+      <link>https://www.mandarinai.lt/post/95247</link>
+      <description>Залізничне сполучення на Кримському півострові скорочується, в Севастополі закривають каси</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_10-24-04.jpg" length="46283" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 10:24:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зеленський: «Якщо Костянтинівк</title>
+      <link>https://www.mandarinai.lt/post/95248</link>
+      <description>Зеленський: «Якщо Костянтинівка зараз під контролем росії, то, мабуть, у путіна не буде проблеми там зі мною зустрітись і знайти дипломатичні рішення, щоб війну нарешті закінчити».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_10-26-45.jpg" length="68383" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 10:26:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
