@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 11:59:15 +0000</lastBuildDate>
-    <item>
-      <title>💥Прильоти у Санкт-Петербурзі —</title>
-      <link>https://www.mandarinai.lt/post/95236</link>
-      <description>💥Прильоти у Санкт-Петербурзі — масштабні влучання безпілотників по порту та одному із найбільших нафтових терміналів, який за 1100 км від кордону з Україною.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_05-20-45.jpg" length="57801" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 05:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>В районі Куп'янська українські</title>
-      <link>https://www.mandarinai.lt/post/95238</link>
-      <description>В районі Куп'янська українські БПЛА не дають російським окупантам накопичити сили і провести великомасштабні операції на лівому березі річки Оскіл. Зараз українські війська контратакують поблизу Курилівки та Куп’янська-Вузлового. Армія рф досягла певних результатів у спробі розсікти плацдарм на схід від Куп’янська, повідомляв оглядач групи «InfoResist» Костянтин Машовець.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQOCH32zf7SF5NXeWtn1OxUUE10Glns_DrQcHy7c1s7Y0Tm_bETzqb7V401A9XtGUWcF2.mp4" length="4251888" type="video/mp4"/>
-      <pubDate>Sat, 04 Jul 2026 07:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Перехожі в Санкт-Петербурзі</title>
-      <link>https://www.mandarinai.lt/post/95239</link>
-      <description>❗️ Перехожі в Санкт-Петербурзі допомагають ЗСУ дорозвідкою</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNEC_ViAGoIn48l360anbbcXadfZmUXvcSe0kuI4vM3s8aCyRZ_fiJcaSrdMqM.mp4" length="2795296" type="video/mp4"/>
-      <pubDate>Sat, 04 Jul 2026 08:00:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 13:20:57 +0000</lastBuildDate>
     <item>
       <title>⚡️рф атакує Дніпро балістикою</title>
       <link>https://www.mandarinai.lt/post/95240</link>
@@ -100,6 +79,38 @@
       <description>😡Жах на пляжі! Міна вибухнула просто під час відпочинку людей на Одещині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-04_11-45-08.mp4" length="685686" type="video/mp4"/>
       <pubDate>Sat, 04 Jul 2026 11:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺Яхта путіна вкрита антидроно</title>
+      <link>https://www.mandarinai.lt/post/95251</link>
+      <description>🇷🇺Яхта путіна вкрита антидроновою сіткою буквально тікала від українських дронів аж до Арктики, — The Telegraph
+
+82-метрове судно Graceful за ~130 млн доларів рухалося ще й в супроводі двох російських військово-морських кораблів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-04_12-04-39.mp4" length="683150" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 12:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Перехоплення «шахедів» сяга</title>
+      <link>https://www.mandarinai.lt/post/95252</link>
+      <description>❗️ Перехоплення «шахедів» сягає 95% - міністр Федоров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0700.MP4" length="3498805" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 12:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ракетна установка «Стріла-10» </title>
+      <link>https://www.mandarinai.lt/post/95253</link>
+      <description>Ракетна установка «Стріла-10» 14-го АК досі влучно збиває російські дрони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0701.MP4" length="1018472" type="video/mp4"/>
+      <pubDate>Sat, 04 Jul 2026 13:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴росія готується до нових масо</title>
+      <link>https://www.mandarinai.lt/post/95254</link>
+      <description>🔴росія готується до нових масованих ударів по Україні, — головнокомандувач ЗСУ Олександр Сирський
+
+Рф накопичує сили та збільшує кількість реактивних безпілотників і дронів-камікадзе. Україна у відповідь посилює ППО, мобільні групи, РЕБ та удари по військових об’єктах рф у глибокому тилу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_13-08-17.jpg" length="81035" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 13:08:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
