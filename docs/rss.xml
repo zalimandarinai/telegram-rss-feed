@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 01:28:53 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Не хочу повертатися до рф»,</title>
-      <link>https://www.mandarinai.lt/post/95222</link>
-      <description>💬 «Не хочу повертатися до рф», - російський солдат Сергій Усленков з Оренбурга «в гостях» у 110-ої ОМБР здивував речника Івана Секача, який за чотири роки бачив різних полонених</description>
-      <pubDate>Fri, 03 Jul 2026 18:14:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 05:32:42 +0000</lastBuildDate>
     <item>
       <title>🚁 Командувач армійської авіаці</title>
       <link>https://www.mandarinai.lt/post/95224</link>
@@ -92,6 +86,13 @@
       <description>🔥В Белгороді після ракетного удару загорілася електропідстанція "Луч"</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_00-00-48.jpg" length="64401" type="image/jpeg"/>
       <pubDate>Sat, 04 Jul 2026 00:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Прильоти у Санкт-Петербурзі —</title>
+      <link>https://www.mandarinai.lt/post/95236</link>
+      <description>💥Прильоти у Санкт-Петербурзі — масштабні влучання безпілотників по порту та одному із найбільших нафтових терміналів, який за 1100 км від кордону з Україною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_05-20-45.jpg" length="106629" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 05:20:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
