@@ -6,28 +6,13 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 22:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:52:23 +0000</lastBuildDate>
     <item>
       <title>🇲🇨🇺🇦 Автор польського економіч</title>
-      <link>https://www.mandarinai.lt/post/95306</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🇲🇨🇺🇦 Автор польського економічного дива Лешек Бальцерович назвав підлістю та дурістю прояв антиукраїнських настроїв у Польщі:
 💬 «Підлість – тому що вона спрямована проти жертв агресії Путіна. Дурість – тому що українці, захищаючи себе, опосередковано захищають й поялків», – написав він у Facebook</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_15-04-31.jpg" length="30601" type="image/jpeg"/>
       <pubDate>Sun, 05 Jul 2026 15:04:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мілітарний гламур. Єгипет побу</title>
-      <link>https://www.mandarinai.lt/post/95307</link>
-      <description>Мілітарний гламур. Єгипет побудував найбільше в світі приміщення штабу власних Збройних Сил. Варто було б проконсультуватися з українцями, скільки потрібно операторів БПЛА, щоб ізолювати цю будівлю.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0722.MP4" length="18194290" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 16:19:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>⛽️ На заправках в Криму бензин</title>
-      <link>https://www.mandarinai.lt/post/95308</link>
-      <description>⛽️ На заправках в Криму бензин вже коштує 290 рублів за літр</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_16-33-17.jpg" length="72024" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 16:33:17 +0000</pubDate>
     </item>
     <item>
       <title>⚡️ Наступальні операції майже </title>
@@ -64,6 +49,20 @@
       <description>Момент пуску ракет «Калібр» з російських кораблів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0738.MP4" length="1668337" type="video/mp4"/>
       <pubDate>Sun, 05 Jul 2026 21:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Подільському районі Києва </title>
+      <link>https://www.mandarinai.lt/post/95324</link>
+      <description>⚡️В Подільському районі Києва часткове руйнування в житловому будинку. На рівні 7-9 поверхів заблоковані люди, — Кличко.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_23-18-47.jpg" length="95048" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 23:18:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Моторошні кадри зруйнованого н</title>
+      <link>https://www.mandarinai.lt/post/95326</link>
+      <description>Моторошні кадри зруйнованого нелюдями будинку в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_23-42-51.jpg" length="240209" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 23:42:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
