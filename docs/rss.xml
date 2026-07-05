@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 20:04:33 +0000</lastBuildDate>
-    <item>
-      <title>На території Покровська україн</title>
-      <link>https://www.mandarinai.lt/post/95303</link>
-      <description>На території Покровська українська авіація підірвала частину багатоповерхівки, яку для своєї позиції облаштували російські оператори дронів підрозділу «Рубікон», - 7-ий корпус ДШВ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0720.MP4" length="4340043" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 12:46:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪Україна випробовує нову зброю</title>
-      <link>https://www.mandarinai.lt/post/95304</link>
-      <description>💪Україна випробовує нову зброю за кілька днів, в той час як Захід витрачає на це роки, - Business Insider з посиланням на представників НАТО.
-
-Український виробник дронів заявляє, що може почати працювати над новими побажаннями військових буквально через кілька хвилин після їх отримання, а оновлену версію продукту передати підрозділам уже протягом тижня</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_13-50-08.jpg" length="175776" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 13:50:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 21:46:52 +0000</lastBuildDate>
     <item>
       <title>⚡️ Сьогодні знов був удар по т</title>
       <link>https://www.mandarinai.lt/post/95305</link>
