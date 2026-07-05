@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 21:46:52 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Сьогодні знов був удар по т</title>
-      <link>https://www.mandarinai.lt/post/95305</link>
-      <description>⚡️ Сьогодні знов був удар по терміналу «‎Нової пошти», цього разу на Чернігівщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_14-47-36.jpg" length="96654" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 14:47:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 22:45:21 +0000</lastBuildDate>
     <item>
       <title>🇲🇨🇺🇦 Автор польського економіч</title>
       <link>https://www.mandarinai.lt/post/95306</link>
@@ -64,6 +57,13 @@
       <description>На АЗС в Краснодарському краї сьогодні припинили наливати бензин кримчанам</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0735.MP4" length="29168127" type="video/mp4"/>
       <pubDate>Sun, 05 Jul 2026 19:42:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент пуску ракет «Калібр» з </title>
+      <link>https://www.mandarinai.lt/post/95320</link>
+      <description>Момент пуску ракет «Калібр» з російських кораблів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0738.MP4" length="1668337" type="video/mp4"/>
+      <pubDate>Sun, 05 Jul 2026 21:47:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
