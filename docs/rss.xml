@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 12:06:47 +0000</lastBuildDate>
-    <item>
-      <title>🙄Ми дуже скоро полетимо на Мар</title>
-      <link>https://www.mandarinai.lt/post/95287</link>
-      <description>🙄Ми дуже скоро полетимо на Марс. Спочатку ми полетимо на Місяць, а потім - на Марс, — Трамп під час виступу на честь Дня незалежності США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-05_05-26-37.mp4" length="1253671" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 05:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫤Бруклінський міст у Нью-Йорку</title>
-      <link>https://www.mandarinai.lt/post/95288</link>
-      <description>🫤Бруклінський міст у Нью-Йорку спалахнув через феєрверки на святкуванні Дня незалежності США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-05_05-27-33.mp4" length="2477269" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 05:27:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Немає жодної вцілілої  АЗС по</title>
-      <link>https://www.mandarinai.lt/post/95289</link>
-      <description>😡Немає жодної вцілілої  АЗС по дорозі з Дніпра до Харкова — всі зруйнвані: заправлятися треба заздалегідь у Дніпрі, — соцмережі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-05_05-34-25.mp4" length="1413974" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 05:34:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 14:22:16 +0000</lastBuildDate>
     <item>
       <title>‼️Костянтинівка залишається пі</title>
       <link>https://www.mandarinai.lt/post/95290</link>
@@ -91,11 +70,34 @@
     <item>
       <title>🤬У Павлограді на Дніпропетровщ</title>
       <link>https://www.mandarinai.lt/post/95301</link>
-      <description>🤬У Павлограді на Дніпропетровщині масштаьна пожежа після атаки росіян, — ОВА
+      <description>🤬У Павлограді на Дніпропетровщині масштабна пожежа після атаки росіян, — ОВА
 
 Зайнялися вантажівки на СТО. Попередньо, без постраждалих.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_11-53-39.jpg" length="84186" type="image/jpeg"/>
       <pubDate>Sun, 05 Jul 2026 11:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Сумщині ворог планує атакув</title>
+      <link>https://www.mandarinai.lt/post/95302</link>
+      <description>На Сумщині ворог планує атакувати АЗС, - розвідка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_12-43-31.jpg" length="33612" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 12:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>На території Покровська україн</title>
+      <link>https://www.mandarinai.lt/post/95303</link>
+      <description>На території Покровська українська авіація підірвала частину багатоповерхівки, яку для своєї позиції облаштували російські оператори дронів підрозділу «Рубікон», - 7-ий корпус ДШВ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0720.MP4" length="4340043" type="video/mp4"/>
+      <pubDate>Sun, 05 Jul 2026 12:46:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪Україна випробовує нову зброю</title>
+      <link>https://www.mandarinai.lt/post/95304</link>
+      <description>💪Україна випробовує нову зброю за кілька днів, в той час як Захід витрачає на це роки, - Business Insider з посиланням на представників НАТО.
+
+Український виробник дронів заявляє, що може почати працювати над новими побажаннями військових буквально через кілька хвилин після їх отримання, а оновлену версію продукту передати підрозділам уже протягом тижня</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_13-50-08.jpg" length="175776" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 13:50:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
