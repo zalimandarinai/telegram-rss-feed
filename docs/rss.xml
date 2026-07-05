@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 17:02:12 +0000</lastBuildDate>
-    <item>
-      <title>Винищувачі Су-27 знищили міст,</title>
-      <link>https://www.mandarinai.lt/post/95297</link>
-      <description>Винищувачі Су-27 знищили міст, через який окупанти перекидали техніку та штурмовиків</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0718.MP4" length="5158756" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 10:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡 «СВО» стала «справжньою війн</title>
-      <link>https://www.mandarinai.lt/post/95299</link>
-      <description>🤡 «СВО» стала «справжньою війною», оскільки за спиною Києва стоїть Захід, — речник кремля Пєсков</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_11-33-00.jpg" length="22390" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 11:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬У Павлограді на Дніпропетровщ</title>
-      <link>https://www.mandarinai.lt/post/95301</link>
-      <description>🤬У Павлограді на Дніпропетровщині масштабна пожежа після атаки росіян, — ОВА
-
-Зайнялися вантажівки на СТО. Попередньо, без постраждалих.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_11-53-39.jpg" length="84186" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 11:53:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 18:55:05 +0000</lastBuildDate>
     <item>
       <title>На Сумщині ворог планує атакув</title>
       <link>https://www.mandarinai.lt/post/95302</link>
@@ -81,6 +58,28 @@
       <description>⛽️ На заправках в Криму бензин вже коштує 290 рублів за літр</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_16-33-17.jpg" length="72024" type="image/jpeg"/>
       <pubDate>Sun, 05 Jul 2026 16:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Наступальні операції майже </title>
+      <link>https://www.mandarinai.lt/post/95314</link>
+      <description>⚡️ Наступальні операції майже нічого не приносять росії, вона не може досягнути результатів на полі бою, а успіхи України допомагають створити такі умови, які необхідні для завершення війни, — Венс.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_17-43-14.jpg" length="105095" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Самохідна артилерійська уст</title>
+      <link>https://www.mandarinai.lt/post/95315</link>
+      <description>⚡️ Самохідна артилерійська установка RCH155, найновітніша німецька гаубиця, уже пройшла випробування в бойових умовах.
+
+🛜 Про це повідомив радник компанії KNDS Ніколас Драммонд
+
+💬 «Задоволений повідомити, що відтепер до характеристики Boxer RCH155 можна додати два нові слова: обкатана боєм».
+
+🕶️ Де саме RCH155 пройшла бойові випробування, Драммонд не уточнив. 
+
+🇺🇦 Однак, зрозуміло, що йдеться не про Конго і не про Іран.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_18-40-48.jpg" length="154236" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 18:40:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
