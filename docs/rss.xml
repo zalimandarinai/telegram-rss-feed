@@ -6,49 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 01:44:16 +0000</lastBuildDate>
-    <item>
-      <title>😡Жах на пляжі! Міна вибухнула </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>😡Жах на пляжі! Міна вибухнула просто під час відпочинку людей на Одещині</description>
-      <pubDate>Sat, 04 Jul 2026 11:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Проросійське чмо, яке зовуть В</title>
-      <link>https://www.mandarinai.lt/post/95269</link>
-      <description>Проросійське чмо, яке зовуть Володя, приїхало до Москви з Дюссельдорфа.
-
-Чому б йому там не залишитися. Але ж поїде назад, бо в Європі комфортніше і краще.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0703.MP4" length="25804268" type="video/mp4"/>
-      <pubDate>Sat, 04 Jul 2026 18:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥ЗСУ завдали найбільший удар п</title>
-      <link>https://www.mandarinai.lt/post/95272</link>
-      <description>💥ЗСУ завдали найбільший удар по Білгородській області за весь час "СВО", — глава регіону Шуваєв. 
-
-Серйозно пошкоджені об'єкти інфраструктури, 353 ліфти у 90 будинках Бєлгорода не працюють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_18-28-06.jpg" length="67104" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 18:28:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Так зараз виглядає російська </title>
-      <link>https://www.mandarinai.lt/post/95275</link>
-      <description>🔥Так зараз виглядає російська логістика на Донеччині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-04_18-30-22.mp4" length="3947655" type="video/mp4"/>
-      <pubDate>Sat, 04 Jul 2026 18:30:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Авіаудар по магазину в Крама</title>
-      <link>https://www.mandarinai.lt/post/95276</link>
-      <description>‼️Авіаудар по магазину в Краматорську, щонайменше 5 людей постраждали, серед них дитина
-
-Виникла масштабна пожежа.
-
-Під час приборкування вогню рятувальники ДСНС неодноразово переходили до укриття через повітряні загрози.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0705.MP4" length="30052501" type="video/mp4"/>
-      <pubDate>Sat, 04 Jul 2026 18:34:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 05:51:00 +0000</lastBuildDate>
     <item>
       <title>Ввечері росіяни вдарили по баг</title>
       <link>https://www.mandarinai.lt/post/95278</link>
@@ -64,6 +22,54 @@
 За наявними повідомленнями, уражено близько 25 підстанцій, також повідомляють про дефіцит бензину, через що виникли проблеми із заправкою генераторів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-04_23-58-33.jpg" length="76117" type="image/jpeg"/>
       <pubDate>Sat, 04 Jul 2026 23:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В Криму пожежі на атакованих</title>
+      <link>https://www.mandarinai.lt/post/95281</link>
+      <description>💥🔥В Криму пожежі на атакованих підстанціях</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_04-58-35.jpg" length="56248" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 04:58:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Троє людей поранені внаслідо</title>
+      <link>https://www.mandarinai.lt/post/95284</link>
+      <description>⚡️Троє людей поранені внаслідок російських обстрілів Сумщини
+
+Упродовж минулої доби ворог 28 разів обстріляв 21 населений пункт Сумської області, повідомляє поліція регіону.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_05-07-09.jpg" length="146481" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 05:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄Ми дуже скоро полетимо на Мар</title>
+      <link>https://www.mandarinai.lt/post/95287</link>
+      <description>🙄Ми дуже скоро полетимо на Марс. Спочатку ми полетимо на Місяць, а потім - на Марс, — Трамп під час виступу на честь Дня незалежності США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-05_05-26-37.mp4" length="1253671" type="video/mp4"/>
+      <pubDate>Sun, 05 Jul 2026 05:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🫤Бруклінський міст у Нью-Йорку</title>
+      <link>https://www.mandarinai.lt/post/95288</link>
+      <description>🫤Бруклінський міст у Нью-Йорку спалахнув через феєрверки на святкуванні Дня незалежності США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-05_05-27-33.mp4" length="2477269" type="video/mp4"/>
+      <pubDate>Sun, 05 Jul 2026 05:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Немає жодної вцілілої  АЗС по</title>
+      <link>https://www.mandarinai.lt/post/95289</link>
+      <description>😡Немає жодної вцілілої  АЗС по дорозі з Дніпра до Харкова — всі зруйнвані: заправлятися треба заздалегідь у Дніпрі, — соцмережі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-05_05-34-25.mp4" length="1413974" type="video/mp4"/>
+      <pubDate>Sun, 05 Jul 2026 05:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Костянтинівка залишається пі</title>
+      <link>https://www.mandarinai.lt/post/95290</link>
+      <description>‼️Костянтинівка залишається під контролем Сил оборони України, — 19 армійський корпус
+
+Заяви росіян про нібито захоплення міста українські воїни назвали черговим інформаційним фейком.
+
+Військові оприлюднили відео з різних районів Костянтинівки, яке підтверджує, що місто контролюють Сили оборони України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-05_05-36-07.mp4" length="8548569" type="video/mp4"/>
+      <pubDate>Sun, 05 Jul 2026 05:36:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
