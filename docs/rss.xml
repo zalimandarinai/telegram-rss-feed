@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 15:57:48 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Кілька вдалих «middle-strik</title>
-      <link>https://www.mandarinai.lt/post/95294</link>
-      <description>⚡️ Кілька вдалих «middle-strike» СБУ
-
-🔥 Оператори безпілотних систем знищили:
-
-▫️ Пункт управління одного із ударних безпілотних авіаційних комплексів в Миколаївській області;
-▫️ Склади пально-мастильних матеріалів в Криму;
-▫️ Важливий вузол зв’язку на одному з напрямків ворожого удару в районі Гуляйполя.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0714.MP4" length="8321754" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 09:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уряд Польщі, як виявилось, тає</title>
-      <link>https://www.mandarinai.lt/post/95295</link>
-      <description>Уряд Польщі, як виявилось, таємно відправив до України ракети для «Patriot», які вкрай необхідні для ППО, — віцеспікер Сейму Польщі Босак</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0716.MP4" length="14683796" type="video/mp4"/>
-      <pubDate>Sun, 05 Jul 2026 09:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ракети TAURUS більше не потріб</title>
-      <link>https://www.mandarinai.lt/post/95296</link>
-      <description>Ракети TAURUS більше не потрібні Україні, а рф може становити загрозу для НАТО вже у 2029 році, — заявив міністр оборони Німеччини Борис Пісторіус.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_10-33-07.jpg" length="111227" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 10:33:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 17:02:12 +0000</lastBuildDate>
     <item>
       <title>Винищувачі Су-27 знищили міст,</title>
       <link>https://www.mandarinai.lt/post/95297</link>
@@ -94,6 +67,20 @@
 💬 «Підлість – тому що вона спрямована проти жертв агресії Путіна. Дурість – тому що українці, захищаючи себе, опосередковано захищають й поялків», – написав він у Facebook</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_15-04-31.jpg" length="30601" type="image/jpeg"/>
       <pubDate>Sun, 05 Jul 2026 15:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мілітарний гламур. Єгипет побу</title>
+      <link>https://www.mandarinai.lt/post/95307</link>
+      <description>Мілітарний гламур. Єгипет побудував найбільше в світі приміщення штабу власних Збройних Сил. Варто було б проконсультуватися з українцями, скільки потрібно операторів БПЛА, щоб ізолювати цю будівлю.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0722.MP4" length="18194290" type="video/mp4"/>
+      <pubDate>Sun, 05 Jul 2026 16:19:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⛽️ На заправках в Криму бензин</title>
+      <link>https://www.mandarinai.lt/post/95308</link>
+      <description>⛽️ На заправках в Криму бензин вже коштує 290 рублів за літр</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_16-33-17.jpg" length="72024" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 16:33:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
