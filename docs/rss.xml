@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 10:55:03 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Троє людей поранені внаслідо</title>
-      <link>https://www.mandarinai.lt/post/95284</link>
-      <description>⚡️Троє людей поранені внаслідок російських обстрілів Сумщини
-
-Упродовж минулої доби ворог 28 разів обстріляв 21 населений пункт Сумської області, повідомляє поліція регіону.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_05-07-09.jpg" length="146481" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 05:07:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 12:06:47 +0000</lastBuildDate>
     <item>
       <title>🙄Ми дуже скоро полетимо на Мар</title>
       <link>https://www.mandarinai.lt/post/95287</link>
@@ -89,6 +80,22 @@
       <description>Винищувачі Су-27 знищили міст, через який окупанти перекидали техніку та штурмовиків</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0718.MP4" length="5158756" type="video/mp4"/>
       <pubDate>Sun, 05 Jul 2026 10:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡 «СВО» стала «справжньою війн</title>
+      <link>https://www.mandarinai.lt/post/95299</link>
+      <description>🤡 «СВО» стала «справжньою війною», оскільки за спиною Києва стоїть Захід, — речник кремля Пєсков</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_11-33-00.jpg" length="22390" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬У Павлограді на Дніпропетровщ</title>
+      <link>https://www.mandarinai.lt/post/95301</link>
+      <description>🤬У Павлограді на Дніпропетровщині масштаьна пожежа після атаки росіян, — ОВА
+
+Зайнялися вантажівки на СТО. Попередньо, без постраждалих.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_11-53-39.jpg" length="84186" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 11:53:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
