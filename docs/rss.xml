@@ -6,55 +6,89 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 01:50:32 +0000</lastBuildDate>
-    <item>
-      <title>⚡️В Подільському районі Києва </title>
-      <link>https://www.mandarinai.lt/post/95324</link>
-      <description>⚡️В Подільському районі Києва часткове руйнування в житловому будинку. На рівні 7-9 поверхів заблоковані люди, — Кличко.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_23-18-47.jpg" length="95048" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 23:18:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Моторошні кадри зруйнованого н</title>
-      <link>https://www.mandarinai.lt/post/95326</link>
-      <description>Моторошні кадри зруйнованого нелюдями будинку в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-05_23-42-51.jpg" length="240209" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 23:42:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Приліт шахеда в житловий буди</title>
-      <link>https://www.mandarinai.lt/post/95330</link>
-      <description>🤬Приліт шахеда в житловий будинок в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_00-04-54.jpg" length="74365" type="image/jpeg"/>
-      <pubDate>Mon, 06 Jul 2026 00:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Чоловік, заблокований у зруйн</title>
-      <link>https://www.mandarinai.lt/post/95333</link>
-      <description>🤬Чоловік, заблокований у зруйнованому будинку, зняв відео своєї квартири</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_00-19-41.mp4" length="1331259" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 00:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Києві влучання в будівлю «</title>
-      <link>https://www.mandarinai.lt/post/95334</link>
-      <description>⚡️У Києві влучання в будівлю «Roshen»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_00-53-17.mp4" length="1980672" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 00:53:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Масштабні пожежі у ЖК на лів</title>
-      <link>https://www.mandarinai.lt/post/95335</link>
-      <description>⚡️Масштабні пожежі у ЖК на лівому березі Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_00-55-03.mp4" length="872860" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 00:55:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 06:14:19 +0000</lastBuildDate>
     <item>
       <title>⚡️Момент влучання у багатопове</title>
       <link>https://www.mandarinai.lt/post/95337</link>
       <description>⚡️Момент влучання у багатоповерхівку в столиці</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_00-55-50.mp4" length="275076" type="video/mp4"/>
       <pubDate>Mon, 06 Jul 2026 00:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві підтверджено 9 загибли</title>
+      <link>https://www.mandarinai.lt/post/95338</link>
+      <description>В Києві підтверджено 9 загиблих та 46 постраждалих внаслідок російської атаки. Роботи з порятунку людей ще тривають.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_04-45-22.mp4" length="395788" type="video/mp4"/>
+      <pubDate>Mon, 06 Jul 2026 04:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі на окупованому Бердянськ</title>
+      <link>https://www.mandarinai.lt/post/95339</link>
+      <description>Вночі на окупованому Бердянську було атаковано завод "Азовкабель". Наразі територія підприємства використовується для розміщення особового складу російської армії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_04-55-19.jpg" length="84994" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 04:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>В київському передмісті Вишнев</title>
+      <link>https://www.mandarinai.lt/post/95340</link>
+      <description>В київському передмісті Вишневе загроза повторної детонації.
+
+Жителів Вишневого просять не залишати домівки та утриматися від поїздок на роботу, — міська влада
+
+В деяких районах Вишневого проводять евакуацію, влада наполягає, щоб люди поки що залишалися в укриттях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_04-56-27.jpg" length="110739" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 04:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Ярославлі атаковано НПЗ "ЯН</title>
+      <link>https://www.mandarinai.lt/post/95342</link>
+      <description>💥В Ярославлі атаковано НПЗ "ЯНОС"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_04-56-35.jpg" length="115133" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 04:56:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Києві відомо про 10 загибл</title>
+      <link>https://www.mandarinai.lt/post/95344</link>
+      <description>⚡️У Києві відомо про 10 загиблих внаслідок атаки нелюдів на столицю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_05-09-29.jpg" length="165474" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 05:09:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна з наймасовіших атак по ст</title>
+      <link>https://www.mandarinai.lt/post/95345</link>
+      <description>Одна з наймасовіших атак по столиці: росія випустила по Києву близько 40 ракет, 20 з них балістичні, відомо про 10 загиблих  і 43 поранених, серед них — двоє дітей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0742.MP4" length="6664425" type="video/mp4"/>
+      <pubDate>Mon, 06 Jul 2026 05:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент нічного удару російськи</title>
+      <link>https://www.mandarinai.lt/post/95346</link>
+      <description>Момент нічного удару російських терористів по столиці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_05-29-44.mp4" length="430444" type="video/mp4"/>
+      <pubDate>Mon, 06 Jul 2026 05:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час удару виродків  по Киє</title>
+      <link>https://www.mandarinai.lt/post/95347</link>
+      <description>Під час удару виродків  по Києву загинула ціла сім'я, — місцеві ЗМІ
+
+Сьогодні вранці рятувальники знайшли тіла сина, матері та батька в під'їзді житлового будинку в Подільському районі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_05-42-16.jpg" length="262181" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 05:42:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії повідомляють про втрат</title>
+      <link>https://www.mandarinai.lt/post/95348</link>
+      <description>В росії повідомляють про втрату гелікоптера Ка-52 під час відбиття української атаки БПЛА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_05-51-06.jpg" length="61872" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 05:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Збито 37 ракет із 68 та 326 Бп</title>
+      <link>https://www.mandarinai.lt/post/95349</link>
+      <description>Збито 37 ракет із 68 та 326 БпЛА з 351.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_05-59-09.jpg" length="84910" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 05:59:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
