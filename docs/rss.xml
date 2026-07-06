@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 21:17:00 +0000</lastBuildDate>
-    <item>
-      <title>Майже всі балістичні ракети вл</title>
-      <link>https://www.mandarinai.lt/post/95398</link>
-      <description>Майже всі балістичні ракети влучили у свої цілі. Якщо так триватиме й надалі, росія зруйнує всю критичну інфраструктуру України, — Флеш</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_15-12-26.mp4" length="7362669" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 15:12:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ігор Ласточкін, - зірка програ</title>
-      <link>https://www.mandarinai.lt/post/95400</link>
-      <description>Ігор Ласточкін, - зірка програм «Ліга сміху» та «Розсміши коміка» - командир взводу аеророзвідників бригади «Холодний Яр».
-
-Він вражає своєю щирістю та професіоналізмом. Не акторським, бо це в минулому, а військовим.
-
-Колишній ведучий своїм літаком шукає в посадках техніку противника, і коли її знаходить, то по ній відпрацьовує 93-я бригада «Холодний Яр». 
-
-Пішов на фронт добровольцем. Брав участь в обороні Покровська – вибивав окупантів FPV-дронами.
-
-В росії теж мав зірковий статус - знімався там в телешоу. 
-
-Про те, через яку трансформацію він пройшов, Ігор говорить відверто. І, можна сказати, вмотивовано.
-
-Рекомендую повну версію https://m.youtube.com/watch?v=-3yL4LytoXU&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0785.MP4" length="17650194" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 15:58:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 22:53:38 +0000</lastBuildDate>
     <item>
       <title>СБС знищили одну з установок С</title>
       <link>https://www.mandarinai.lt/post/95401</link>
@@ -89,6 +63,35 @@
       <description>😡Після атаки рф термінал «Нової пошти» на Дніпропетровщині охопила масштабна пожежа</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_19-40-59.mp4" length="1963148" type="video/mp4"/>
       <pubDate>Mon, 06 Jul 2026 19:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>В столиці рятувальники знайшли</title>
+      <link>https://www.mandarinai.lt/post/95412</link>
+      <description>В столиці рятувальники знайшли в руїнах багатоповерхівки ще 2 тіла. Кількість загиблих внаслідок російського удару по столиці зросла до 18 людей. Роботи тривають.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_21-19-32.jpg" length="184373" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 21:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Польща розсекретила дані про в</title>
+      <link>https://www.mandarinai.lt/post/95413</link>
+      <description>Польща розсекретила дані про військову допомогу Україні.
+
+З початку повномасштабної війни Варшава надала Києву військову допомогу на 16,55 млрд злотих.
+
+Це дорівнює $4,5 млрд.
+
+Близько 15 млрд злотих припало на 2022–2023 роки, ще 1,55 млрд — на 2024–2026 роки.
+
+Було поставлено — танки Т-72, PT-91, Leopard 2A4, БМП, винищувачі МіГ-29, гелікоптери Мі-24, САУ AHS Krab, боєприпаси, безпілотники, системи ППО та ракети PAC-3 для Patriot.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_21-26-01.jpg" length="124278" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 21:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>По аеропорту та електростанції</title>
+      <link>https://www.mandarinai.lt/post/95414</link>
+      <description>По аеропорту та електростанції в Білгороді завдано ракетного удару, місто частково знеструмлено</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0793.MP4" length="6411056" type="video/mp4"/>
+      <pubDate>Mon, 06 Jul 2026 21:30:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
