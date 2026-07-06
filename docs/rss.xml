@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 17:31:46 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸 Зеленський і Трамп на саміт</title>
-      <link>https://www.mandarinai.lt/post/95391</link>
-      <description>🇺🇸 Зеленський і Трамп на саміті НАТО можуть обговорити нові пропозиції щодо завершення війни, — Kyiv Independent.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_14-08-51.jpg" length="40457" type="image/jpeg"/>
-      <pubDate>Mon, 06 Jul 2026 14:08:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кількість жертв в Києві збільш</title>
-      <link>https://www.mandarinai.lt/post/95392</link>
-      <description>Кількість жертв в Києві збільшилася до 15, рятувальники виявили ще одного загиблого в Подільському районі, - ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_14-26-26.jpg" length="219426" type="image/jpeg"/>
-      <pubDate>Mon, 06 Jul 2026 14:26:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 19:26:58 +0000</lastBuildDate>
     <item>
       <title>Майже всі балістичні ракети вл</title>
       <link>https://www.mandarinai.lt/post/95398</link>
@@ -67,6 +53,35 @@
       <description>Ударні дрони воєнної розвідки знищили два російські ударно-розвідувальні безпілотники «Орион» на території аеропорту Керчі, - ГУР МО.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0788.MP4" length="10107242" type="video/mp4"/>
       <pubDate>Mon, 06 Jul 2026 17:27:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Найбільші руйнування житловог</title>
+      <link>https://www.mandarinai.lt/post/95406</link>
+      <description>😡Найбільші руйнування житлового сектору за весь час повномасштабного вторгнення зафіксовано у Вишневому Київської області унаслідок російської атаки, – прем'єрка.
+
+Пошкоджено 13 гектарів житлової забудови.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_18-26-18.mp4" length="2503534" type="video/mp4"/>
+      <pubDate>Mon, 06 Jul 2026 18:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Київ увійшов до десятки наймен</title>
+      <link>https://www.mandarinai.lt/post/95407</link>
+      <description>Київ увійшов до десятки найменш придатних для життя міст світу, — The Economist
+
+У щорічному рейтингу українська столиця посіла 166-те місце зі 173, опустившись на одну позицію порівняно з минулим роком.
+
+Індекс оцінює міста за п’ятьма критеріями: стабільність, охорона здоров’я, культура та навколишнє середовище, освіта й інфраструктура.
+
+Найкомфортнішим містом світу другий рік поспіль визнали Копенгаген. Останнє місце зберіг Дамаск</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-06_18-32-36.jpg" length="73407" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 18:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Вечірній рілс з далекого росі</title>
+      <link>https://www.mandarinai.lt/post/95409</link>
+      <description>💥Вечірній рілс з далекого російського Омська - автор повідомляє про 11 влучань</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_18-46-32.mp4" length="782485" type="video/mp4"/>
+      <pubDate>Mon, 06 Jul 2026 18:46:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
