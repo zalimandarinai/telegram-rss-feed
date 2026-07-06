@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 19:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:17:00 +0000</lastBuildDate>
     <item>
       <title>Майже всі балістичні ракети вл</title>
       <link>https://www.mandarinai.lt/post/95398</link>
@@ -82,6 +82,13 @@
       <description>💥Вечірній рілс з далекого російського Омська - автор повідомляє про 11 влучань</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_18-46-32.mp4" length="782485" type="video/mp4"/>
       <pubDate>Mon, 06 Jul 2026 18:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Після атаки рф термінал «Ново</title>
+      <link>https://www.mandarinai.lt/post/95411</link>
+      <description>😡Після атаки рф термінал «Нової пошти» на Дніпропетровщині охопила масштабна пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_19-40-59.mp4" length="1963148" type="video/mp4"/>
+      <pubDate>Mon, 06 Jul 2026 19:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
