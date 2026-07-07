@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 15:37:29 +0000</lastBuildDate>
-    <item>
-      <title>Впродовж ночі «Птахи Мадяра» а</title>
-      <link>https://www.mandarinai.lt/post/95426</link>
-      <description>Впродовж ночі «Птахи Мадяра» атакували вісім російських нафтових танкерів в Азовському морі.
-
-Назви суден
-
-№1 «Венера-3»
-№2 «Санар-1»
-№3 «Санар-17»
-№4 «Климена»
-№5 «Теті»
-№6 «Алексей Саврасов»
-№7 «Пенелопа»
-
-Назва танкеру №8 уточнюється 
-
-Також ударів СБС зазнали ще один корабель і один пором.</description>
-      <pubDate>Tue, 07 Jul 2026 09:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>рф вбила 50 людей у Києві лише</title>
-      <link>https://www.mandarinai.lt/post/95427</link>
-      <description>рф вбила 50 людей у Києві лише за один тиждень
-
-6 липня загинули 19 осіб, серед яких — 1 дитина. Перед цим 2 липня в Києві була 31 жертва російського обстрілу</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_09-09-25.mp4" length="1671621" type="video/mp4"/>
-      <pubDate>Tue, 07 Jul 2026 09:09:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 17:48:24 +0000</lastBuildDate>
     <item>
       <title>На території Курщини бійці бри</title>
       <link>https://www.mandarinai.lt/post/95428</link>
@@ -140,6 +111,16 @@
 Для того, ймовірно, щоб мати хоч якийсь привід бити по заправках SOCAR в прифронтових районах.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_15-25-02.jpg" length="132138" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 15:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полонені бангладешці довірилис</title>
+      <link>https://www.mandarinai.lt/post/95440</link>
+      <description>Полонені бангладешці довірились посереднику, який пообіцяв їх доправити до Європи, але замість цього організував їм тур до російської армії.
+
+Або брешуть, або дійсно їм бракує логіки зрозуміти, куди їх везуть.
+
+Бо посередник заробляє двічі: отримує гроші і від потенційних нелегалів, і від міністерства оборони росії за якісно проведений рекрутинг.</description>
+      <pubDate>Tue, 07 Jul 2026 16:01:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
