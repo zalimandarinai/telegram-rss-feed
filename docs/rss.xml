@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 23:54:48 +0000</lastBuildDate>
-    <item>
-      <title>СБС знищили одну з установок С</title>
-      <link>https://www.mandarinai.lt/post/95401</link>
-      <description>СБС знищили одну з установок С-400, які обстрілювали Київ, - так заявив 413-ий полк</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0787.MP4" length="8464147" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 16:23:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Противник намагається активізу</title>
-      <link>https://www.mandarinai.lt/post/95402</link>
-      <description>Противник намагається активізуватися там, де сходяться Дніпропетровська, Донецька та Запорізька області, але попри те, що він кидає туди нові сили, успіх розвинути не може, - речник 148-ої бригади ДШВ Сергій Колесниченко для ЦАПЛІЄНКО_UKRAINE FIGHTS</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0786.MP4" length="6880652" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 16:57:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 01:47:51 +0000</lastBuildDate>
     <item>
       <title>Ударні дрони воєнної розвідки </title>
       <link>https://www.mandarinai.lt/post/95403</link>
@@ -92,6 +78,13 @@
       <description>По аеропорту та електростанції в Білгороді завдано ракетного удару, місто частково знеструмлено</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0793.MP4" length="6411056" type="video/mp4"/>
       <pubDate>Mon, 06 Jul 2026 21:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Після ракетного удару горить</title>
+      <link>https://www.mandarinai.lt/post/95416</link>
+      <description>💥🔥Після ракетного удару горить белгородське лінійне виробниче управління магістральних газопроводів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_00-26-42.mp4" length="843940" type="video/mp4"/>
+      <pubDate>Tue, 07 Jul 2026 00:26:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
