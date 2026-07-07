@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 17:48:24 +0000</lastBuildDate>
-    <item>
-      <title>На території Курщини бійці бри</title>
-      <link>https://www.mandarinai.lt/post/95428</link>
-      <description>На території Курщини бійці бригади ДПСУ «Сталевий кордон» знищили танк, гармату, укриття, квадроцикл.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0801.MP4" length="26843434" type="video/mp4"/>
-      <pubDate>Tue, 07 Jul 2026 10:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦💶 Україні дають €140 млрд., </title>
-      <link>https://www.mandarinai.lt/post/95429</link>
-      <description>🇺🇦💶 Україні дають €140 млрд., оскільки вважають, що вона може чинити опір та завдавати серйозних ударів по росії.
-
-🇩🇪🇹🇷 Так можна зрозуміти промову глави МЗС Німеччини Вадефуля в Анкарі
-
-💬 «На цьому саміті НАТО ми знову висловимо підтримку Україні».
-
-«Це буде €140 млрд на цей і наступний роки, які ми зможемо пообіцяти».
-
-«Ми не дозволимо Росії виграти цю агресивну війну. І цей саміт ще раз це підтвердить. Європейці розуміють, що їм потрібно робити».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_11-24-53.jpg" length="44535" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 11:24:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 19:28:55 +0000</lastBuildDate>
     <item>
       <title>💬 «Зараз ми щомісяця знищуємо </title>
       <link>https://www.mandarinai.lt/post/95432</link>
@@ -121,6 +99,13 @@
 
 Бо посередник заробляє двічі: отримує гроші і від потенційних нелегалів, і від міністерства оборони росії за якісно проведений рекрутинг.</description>
       <pubDate>Tue, 07 Jul 2026 16:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Удар балістичною ракетою по </title>
+      <link>https://www.mandarinai.lt/post/95443</link>
+      <description>❗️Удар балістичною ракетою по інфраструктурі в Одесі. На місці удару – масштабний пожежа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_18-01-44.jpg" length="161468" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 18:01:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
