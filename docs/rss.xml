@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 01:47:51 +0000</lastBuildDate>
-    <item>
-      <title>Ударні дрони воєнної розвідки </title>
-      <link>https://www.mandarinai.lt/post/95403</link>
-      <description>Ударні дрони воєнної розвідки знищили два російські ударно-розвідувальні безпілотники «Орион» на території аеропорту Керчі, - ГУР МО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0788.MP4" length="10107242" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 17:27:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Найбільші руйнування житловог</title>
-      <link>https://www.mandarinai.lt/post/95406</link>
-      <description>😡Найбільші руйнування житлового сектору за весь час повномасштабного вторгнення зафіксовано у Вишневому Київської області унаслідок російської атаки, – прем'єрка.
-
-Пошкоджено 13 гектарів житлової забудови.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-06_18-26-18.mp4" length="2503534" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 18:26:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 05:55:15 +0000</lastBuildDate>
     <item>
       <title>Київ увійшов до десятки наймен</title>
       <link>https://www.mandarinai.lt/post/95407</link>
@@ -85,6 +69,31 @@
       <description>💥🔥Після ракетного удару горить белгородське лінійне виробниче управління магістральних газопроводів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_00-26-42.mp4" length="843940" type="video/mp4"/>
       <pubDate>Tue, 07 Jul 2026 00:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Києві кількість загиблих вна</title>
+      <link>https://www.mandarinai.lt/post/95418</link>
+      <description>У Києві кількість загиблих внаслідок російської атаки зросла до 19 осіб, - ДСНС
+
+Рятувальники деблокували ще три тіла з-під завалів будинку в Дарницькому районі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_04-20-13.jpg" length="129450" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 04:20:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡рф вдарила по терміналу «Ново</title>
+      <link>https://www.mandarinai.lt/post/95419</link>
+      <description>😡рф вдарила по терміналу «Нової Пошти» у Кривому Розі. Він вигорів вщент.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_05-38-23.mp4" length="1424584" type="video/mp4"/>
+      <pubDate>Tue, 07 Jul 2026 05:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Серед загиблих від атаки у Киє</title>
+      <link>https://www.mandarinai.lt/post/95420</link>
+      <description>Серед загиблих від атаки у Києві — 12-річний хлопчик
+
+Кількість загиблих — 19, постраждали ще 58 людей, серед яких 6 маленьких дітей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_05-54-58.jpg" length="290744" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 05:54:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
