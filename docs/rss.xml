@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 22:48:28 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Зараз ми щомісяця знищуємо </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💬 «Зараз ми щомісяця знищуємо близько 30 000 російських солдатів. В червні було знищено близько 28 тисяч, в нас є відеопідтвердження кожного з них. Переважна більшість була знищена дронами», — Зеленський на саміті НАТО в Анкарі
-
-➡️ Рівень перехоплення російських «Шахедів» зріс до 90% — щотижня Україна збиває тисячі дронів.
-
-➡️ Українські морські дрони стали платформами, здатними уражати цілі на морі, на суші та в повітрі.
-
-➡️ На сьогодні Україна має найпотужніші дронові спроможності у світі.
-
-➡️ В росії не залишилося жодного великого НПЗ, який би не був атакований Україною.</description>
-      <pubDate>Tue, 07 Jul 2026 11:43:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 23:42:29 +0000</lastBuildDate>
     <item>
       <title>В росії хтось наполегливо розк</title>
       <link>https://www.mandarinai.lt/post/95439</link>
@@ -75,6 +61,19 @@
       <description>Масштабна пожежа в Києві після удару ракети, тип якої невизначений</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0817.MP4" length="969832" type="video/mp4"/>
       <pubDate>Tue, 07 Jul 2026 21:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Деснянському районі, внаслід</title>
+      <link>https://www.mandarinai.lt/post/95452</link>
+      <description>У Деснянському районі, внаслідок влучання ракети, палають складські приміщення.
+
+У Святошинському районі — загоряння в нежитловій будівлі.
+
+Відомо про двох постражлалих 
+
+Мер Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_21-57-37.mp4" length="314223" type="video/mp4"/>
+      <pubDate>Tue, 07 Jul 2026 21:57:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
