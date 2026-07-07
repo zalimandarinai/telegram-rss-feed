@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 19:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:11:38 +0000</lastBuildDate>
     <item>
       <title>💬 «Зараз ми щомісяця знищуємо </title>
       <link>https://www.mandarinai.lt/post/95432</link>
@@ -106,6 +106,26 @@
       <description>❗️Удар балістичною ракетою по інфраструктурі в Одесі. На місці удару – масштабний пожежа.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_18-01-44.jpg" length="161468" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 18:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Вишневе: склад, де сталися </title>
+      <link>https://www.mandarinai.lt/post/95444</link>
+      <description>❗️ Вишневе: склад, де сталися вибухи, не перебуває у сфері управління Збройних сил України та не підпорядковується армії. 
+
+🎙️ Про це заявив речник Генерального штабу Дмитро Лиховій.
+
+💬 «Залишається чинним розпорядження Головнокомандувача Збройних сил України, яким заборонено розміщення складів боєприпасів та інших подібних об'єктів поруч із цивільною забудовою та місцями перебування мирних жителів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_19-55-50.jpg" length="56785" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 19:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Україна відправила путіну р</title>
+      <link>https://www.mandarinai.lt/post/95445</link>
+      <description>⚡️ Україна відправила путіну розумну пропозицію щодо завершення війни, — Сибіга 
+
+💬 «Це шанс для його режиму уникнути колапсу. Путін повинен визнати, що ніколи не досягне своїх цілей в Україні на полі бою».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_19-57-50.jpg" length="60294" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 19:57:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
