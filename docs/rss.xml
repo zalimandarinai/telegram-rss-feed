@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 09:17:55 +0000</lastBuildDate>
-    <item>
-      <title>По аеропорту та електростанції</title>
-      <link>https://www.mandarinai.lt/post/95414</link>
-      <description>По аеропорту та електростанції в Білгороді завдано ракетного удару, місто частково знеструмлено</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0793.MP4" length="6411056" type="video/mp4"/>
-      <pubDate>Mon, 06 Jul 2026 21:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Після ракетного удару горить</title>
-      <link>https://www.mandarinai.lt/post/95416</link>
-      <description>💥🔥Після ракетного удару горить белгородське лінійне виробниче управління магістральних газопроводів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_00-26-42.mp4" length="843940" type="video/mp4"/>
-      <pubDate>Tue, 07 Jul 2026 00:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Києві кількість загиблих вна</title>
-      <link>https://www.mandarinai.lt/post/95418</link>
-      <description>У Києві кількість загиблих внаслідок російської атаки зросла до 19 осіб, - ДСНС
-
-Рятувальники деблокували ще три тіла з-під завалів будинку в Дарницькому районі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_04-20-13.jpg" length="129450" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 04:20:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 12:19:05 +0000</lastBuildDate>
     <item>
       <title>😡рф вдарила по терміналу «Ново</title>
       <link>https://www.mandarinai.lt/post/95419</link>
@@ -111,6 +88,43 @@
 6 липня загинули 19 осіб, серед яких — 1 дитина. Перед цим 2 липня в Києві була 31 жертва російського обстрілу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_09-09-25.mp4" length="1671621" type="video/mp4"/>
       <pubDate>Tue, 07 Jul 2026 09:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>На території Курщини бійці бри</title>
+      <link>https://www.mandarinai.lt/post/95428</link>
+      <description>На території Курщини бійці бригади ДПСУ «Сталевий кордон» знищили танк, гармату, укриття, квадроцикл.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0801.MP4" length="26843434" type="video/mp4"/>
+      <pubDate>Tue, 07 Jul 2026 10:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦💶 Україні дають €140 млрд., </title>
+      <link>https://www.mandarinai.lt/post/95429</link>
+      <description>🇺🇦💶 Україні дають €140 млрд., оскільки вважають, що вона може чинити опір та завдавати серйозних ударів по росії.
+
+🇩🇪🇹🇷 Так можна зрозуміти промову глави МЗС Німеччини Вадефуля в Анкарі
+
+💬 «На цьому саміті НАТО ми знову висловимо підтримку Україні».
+
+«Це буде €140 млрд на цей і наступний роки, які ми зможемо пообіцяти».
+
+«Ми не дозволимо Росії виграти цю агресивну війну. І цей саміт ще раз це підтвердить. Європейці розуміють, що їм потрібно робити».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_11-24-53.jpg" length="44535" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 11:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Зараз ми щомісяця знищуємо </title>
+      <link>https://www.mandarinai.lt/post/95432</link>
+      <description>💬 «Зараз ми щомісяця знищуємо близько 30 000 російських солдатів. В червні було знищено близько 28 тисяч, в нас є відеопідтвердження кожного з них. Переважна більшість була знищена дронами», — Зеленський на саміті НАТО в Анкарі
+
+➡️ Рівень перехоплення російських «Шахедів» зріс до 90% — щотижня Україна збиває тисячі дронів.
+
+➡️ Українські морські дрони стали платформами, здатними уражати цілі на морі, на суші та в повітрі.
+
+➡️ На сьогодні Україна має найпотужніші дронові спроможності у світі.
+
+➡️ В росії не залишилося жодного великого НПЗ, який би не був атакований Україною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0805.MP4" length="17484447" type="video/mp4"/>
+      <pubDate>Tue, 07 Jul 2026 11:43:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
