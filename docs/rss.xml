@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 10:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 12:10:45 +0000</lastBuildDate>
     <item>
       <title>В росії хтось наполегливо розк</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -22,19 +22,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️Удар балістичною ракетою по інфраструктурі в Одесі. На місці удару – масштабний пожежа.</description>
       <pubDate>Tue, 07 Jul 2026 18:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>За ніч Сили безпілотних систем</title>
-      <link>https://www.mandarinai.lt/post/95475</link>
-      <description>За ніч Сили безпілотних систем підпалили ще 9 російських танкерів в морі між Кримом і Краснодарським краєм</description>
-      <pubDate>Wed, 08 Jul 2026 07:41:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупант намагався збити FPV-др</title>
-      <link>https://www.mandarinai.lt/post/95476</link>
-      <description>Окупант намагався збити FPV-дрон 210-го полку, а, замість цього, поцілив у свого напарника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0820.MP4" length="8194762" type="video/mp4"/>
-      <pubDate>Wed, 08 Jul 2026 08:00:52 +0000</pubDate>
     </item>
     <item>
       <title>За уточненими даними, по багат</title>
@@ -56,6 +43,24 @@
       <description>СБУ повідомила про підозру ексдиректору департаменту Міноборони, який причетний до закупівлі 250 бракованих мінометів на загальну суму 182 мільйони гривень.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_09-14-35.jpg" length="73519" type="image/jpeg"/>
       <pubDate>Wed, 08 Jul 2026 09:14:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ уразила нафтоперекачувальн</title>
+      <link>https://www.mandarinai.lt/post/95489</link>
+      <description>СБУ уразила нафтоперекачувальну станцію «Черкаси» у Башкортостані, яка є одним із ключових об'єктів системи «Транснефть – Урал»
+
+По об'єкту відпрацювали щонайменше вісім БПЛА
+
+Об'єкт розташований за 1500 кілометрів від державного кордону України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_10-23-33.jpg" length="100246" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 10:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Після падіння БпЛА у Києі поту</title>
+      <link>https://www.mandarinai.lt/post/95491</link>
+      <description>Після падіння БпЛА у Києі потужна пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0834.MP4" length="3022898" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 10:48:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
