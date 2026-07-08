@@ -6,27 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 23:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 01:19:45 +0000</lastBuildDate>
     <item>
       <title>В росії хтось наполегливо розк</title>
-      <link>https://www.mandarinai.lt/post/95439</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>В росії хтось наполегливо розкручує наратив про те, що для ударів по Омському НПЗ, сусідній Азербайджан надав свій повітряний простір українським БПЛА.
 
 Для чого це робиться?
 
 Для того, ймовірно, щоб мати хоч якийсь привід бити по заправках SOCAR в прифронтових районах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_15-25-02.jpg" length="132138" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 15:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полонені бангладешці довірилис</title>
-      <link>https://www.mandarinai.lt/post/95440</link>
-      <description>Полонені бангладешці довірились посереднику, який пообіцяв їх доправити до Європи, але замість цього організував їм тур до російської армії.
-
-Або брешуть, або дійсно їм бракує логіки зрозуміти, куди їх везуть.
-
-Бо посередник заробляє двічі: отримує гроші і від потенційних нелегалів, і від міністерства оборони росії за якісно проведений рекрутинг.</description>
-      <pubDate>Tue, 07 Jul 2026 16:01:14 +0000</pubDate>
     </item>
     <item>
       <title>❗️Удар балістичною ракетою по </title>
@@ -74,6 +63,13 @@
 Мер Кличко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-07_21-57-37.mp4" length="314223" type="video/mp4"/>
       <pubDate>Tue, 07 Jul 2026 21:57:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥НПЗ в Саратові горить після </title>
+      <link>https://www.mandarinai.lt/post/95454</link>
+      <description>💥🔥НПЗ в Саратові горить після атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_00-35-37.jpg" length="76307" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 00:35:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
