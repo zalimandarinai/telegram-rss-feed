@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 15:04:46 +0000</lastBuildDate>
-    <item>
-      <title>В росії хтось наполегливо розк</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>В росії хтось наполегливо розкручує наратив про те, що для ударів по Омському НПЗ, сусідній Азербайджан надав свій повітряний простір українським БПЛА.
-
-Для чого це робиться?
-
-Для того, ймовірно, щоб мати хоч якийсь привід бити по заправках SOCAR в прифронтових районах.</description>
-      <pubDate>Tue, 07 Jul 2026 15:25:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 17:14:59 +0000</lastBuildDate>
     <item>
       <title>СБУ уразила нафтоперекачувальн</title>
       <link>https://www.mandarinai.lt/post/95489</link>
@@ -74,6 +64,24 @@
 Танкер «Blue» перебуває під санкціями Європейського Союзу, Великої Британії, Канади, Австралії та України за участь у транспортуванні російської нафти в обхід міжнародних санкцій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0836.MP4" length="7589615" type="video/mp4"/>
       <pubDate>Wed, 08 Jul 2026 14:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна з українських компаній ро</title>
+      <link>https://www.mandarinai.lt/post/95499</link>
+      <description>Одна з українських компаній розробила та провела випробування повністю автономного перехоплювача.
+
+Такий дрон сам обирає необхідну траєкторію перехоплення, наздоганяє повітряну ціль та здійснює її автоматичне захоплення. 
+
+За кілька сотень метрів до об’єкта безпілотник уповільнюється і супроводжує його до моменту підтвердження влучання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0838.MP4" length="21075953" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 16:32:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росіянка зі Ставрополя плаче, </title>
+      <link>https://www.mandarinai.lt/post/95500</link>
+      <description>Росіянка зі Ставрополя плаче, що через дефіцит бензину не може вести бізнес і навіть доїхати додому, адже на АЗС закінчилося пальне.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0839.MP4" length="19671671" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 16:50:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
