@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 01:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 04:54:27 +0000</lastBuildDate>
     <item>
       <title>В росії хтось наполегливо розк</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -19,30 +19,9 @@
     </item>
     <item>
       <title>❗️Удар балістичною ракетою по </title>
-      <link>https://www.mandarinai.lt/post/95443</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️Удар балістичною ракетою по інфраструктурі в Одесі. На місці удару – масштабний пожежа.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_18-01-44.jpg" length="161468" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 18:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Вишневе: склад, де сталися </title>
-      <link>https://www.mandarinai.lt/post/95444</link>
-      <description>❗️ Вишневе: склад, де сталися вибухи, не перебуває у сфері управління Збройних сил України та не підпорядковується армії. 
-
-🎙️ Про це заявив речник Генерального штабу Дмитро Лиховій.
-
-💬 «Залишається чинним розпорядження Головнокомандувача Збройних сил України, яким заборонено розміщення складів боєприпасів та інших подібних об'єктів поруч із цивільною забудовою та місцями перебування мирних жителів».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_19-55-50.jpg" length="56785" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 19:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Україна відправила путіну р</title>
-      <link>https://www.mandarinai.lt/post/95445</link>
-      <description>⚡️ Україна відправила путіну розумну пропозицію щодо завершення війни, — Сибіга 
-
-💬 «Це шанс для його режиму уникнути колапсу. Путін повинен визнати, що ніколи не досягне своїх цілей в Україні на полі бою».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-07_19-57-50.jpg" length="60294" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 19:57:50 +0000</pubDate>
     </item>
     <item>
       <title>Масштабна пожежа в Києві після</title>
@@ -70,6 +49,26 @@
       <description>💥🔥НПЗ в Саратові горить після атаки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_00-35-37.jpg" length="76307" type="image/jpeg"/>
       <pubDate>Wed, 08 Jul 2026 00:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Уночі було завдано ударів по</title>
+      <link>https://www.mandarinai.lt/post/95455</link>
+      <description>💥🔥Уночі було завдано ударів по авіабазі «Борисоглєбськ», а також по Саратовському та Нижньокамському нафтопереробних заводах
+
+Наймасштабніша пожежа, за попередніми даними, спалахнула на Нижньокамському НПЗ у Татарстані — одному з найбільших і найсучасніших нафтопереробних комплексів росії. Підприємство спеціалізується на виробництві автомобільних бензинів, дизельного пального стандарту Євро-5 та інших нафтопродуктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-08_04-34-39.mp4" length="5938269" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 04:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Уночі було завдано ударів по</title>
+      <link>https://www.mandarinai.lt/post/95462</link>
+      <description>💥🔥Уночі було завдано ударів по авіабазі «Борисоглєбськ», а також по Саратовському та Нижньокамському нафтопереробних заводах
+
+Наймасштабніша пожежа, за попередніми даними, спалахнула на Нижньокамському НПЗ у Татарстані — одному з найбільших і найсучасніших нафтопереробних комплексів росії.
+
+ Підприємство спеціалізується на виробництві автомобільних бензинів, дизельного пального стандарту Євро-5 та інших нафтопродуктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-08_04-51-39.mp4" length="5938269" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 04:51:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
