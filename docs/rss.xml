@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 17:14:59 +0000</lastBuildDate>
-    <item>
-      <title>СБУ уразила нафтоперекачувальн</title>
-      <link>https://www.mandarinai.lt/post/95489</link>
-      <description>СБУ уразила нафтоперекачувальну станцію «Черкаси» у Башкортостані, яка є одним із ключових об'єктів системи «Транснефть – Урал»
-
-По об'єкту відпрацювали щонайменше вісім БПЛА
-
-Об'єкт розташований за 1500 кілометрів від державного кордону України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_10-23-33.jpg" length="100246" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 10:23:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 19:00:56 +0000</lastBuildDate>
     <item>
       <title>Після падіння БпЛА у Києі поту</title>
       <link>https://www.mandarinai.lt/post/95491</link>
@@ -82,6 +71,24 @@
       <description>Росіянка зі Ставрополя плаче, що через дефіцит бензину не може вести бізнес і навіть доїхати додому, адже на АЗС закінчилося пальне.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0839.MP4" length="19671671" type="video/mp4"/>
       <pubDate>Wed, 08 Jul 2026 16:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Виробник «Фламінго» розробляє </title>
+      <link>https://www.mandarinai.lt/post/95502</link>
+      <description>Виробник «Фламінго» розробляє власний турбореактивний двигун на заміну радянським АІ-25 від  L-39 «Альбатрос», який використовується в ракетах компанії Fire Point</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_17-18-04.jpg" length="22677" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 17:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Київ та область, особливу ув</title>
+      <link>https://www.mandarinai.lt/post/95503</link>
+      <description>❗️Київ та область, особливу увагу під час наступного обстрілу приділіть районам, позначеним на карті. Ворог проводив там розвідку.
+
+Однак, у разі загрози всім без винятку слід реагувати на сигнали тривоги. У бойовій готовності знаходяться до 24 типів ракетних комплексів, включаючи до 6 "Цирконів". Вони можуть бути застосовані в будь-який момент.
+
+Карта: AirGuard.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_18-52-34.jpg" length="119990" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 18:52:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
