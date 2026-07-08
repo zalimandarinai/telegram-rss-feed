@@ -6,54 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 19:00:56 +0000</lastBuildDate>
-    <item>
-      <title>Після падіння БпЛА у Києі поту</title>
-      <link>https://www.mandarinai.lt/post/95491</link>
-      <description>Після падіння БпЛА у Києі потужна пожежа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0834.MP4" length="3022898" type="video/mp4"/>
-      <pubDate>Wed, 08 Jul 2026 10:48:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент атаки на Київ - шахед н</title>
-      <link>https://www.mandarinai.lt/post/95492</link>
-      <description>Момент атаки на Київ - шахед на наднизькій висоті</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-08_12-13-09.mp4" length="1203319" type="video/mp4"/>
-      <pubDate>Wed, 08 Jul 2026 12:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Збито російський багатоцільов</title>
-      <link>https://www.mandarinai.lt/post/95493</link>
-      <description>💥Збито російський багатоцільовий винищувач Cу-35 на східному напрямку, - Повітряні Сили</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_12-40-38.jpg" length="67415" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 12:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>71-а аеромобільна бригада дяку</title>
-      <link>https://www.mandarinai.lt/post/95497</link>
-      <description>71-а аеромобільна бригада дякує за пікап, який ми нещодавно передали хлопцям.
-
-На цей момент три новенькі пікапи, які ми змогли придбати завдяки допомозі датських друзів, крім 71-ої ОАЕМБР, виконують бойові завдання в 148-ій артилерійській бригаді та в 4-ій бригаді НГУ, а саме в батальйоні «Сила Свободи».
-
-В подальшому, в рамках нашої спільної датсько-української ініціативи, ми готуємося придбати ще кілька автомобілів для Сил оборони України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0835.MP4" length="6501028" type="video/mp4"/>
-      <pubDate>Wed, 08 Jul 2026 14:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогодні морський дрон СБУ «Se</title>
-      <link>https://www.mandarinai.lt/post/95498</link>
-      <description>Сьогодні морський дрон СБУ «Sea Baby» уразив танкер «тіньового флоту» рф «Blue» у Чорному морі
- 
-На момент удару судно перебувало поблизу тимчасово окупованої Ялти, тобто, за міжнародним морським правом, у виключній економічній зоні України. 
-
-Надводний безпилотник, як помітно на відео бортової камери, завдав удару по кормовій частині танкера, після чого судно зазнало суттєвих пошкоджень. 
-
-Проти морського дрона СБУ намагалась працювати ворожа авіація, але без результатів.
- 
-Танкер «Blue» перебуває під санкціями Європейського Союзу, Великої Британії, Канади, Австралії та України за участь у транспортуванні російської нафти в обхід міжнародних санкцій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0836.MP4" length="7589615" type="video/mp4"/>
-      <pubDate>Wed, 08 Jul 2026 14:16:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 20:52:29 +0000</lastBuildDate>
     <item>
       <title>Одна з українських компаній ро</title>
       <link>https://www.mandarinai.lt/post/95499</link>
@@ -89,6 +42,41 @@
 Карта: AirGuard.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_18-52-34.jpg" length="119990" type="image/jpeg"/>
       <pubDate>Wed, 08 Jul 2026 18:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱У Вишневому на Київщині внасл</title>
+      <link>https://www.mandarinai.lt/post/95506</link>
+      <description>😱У Вишневому на Київщині внаслідок російської атаки вщент вигоріло навіть укрірлене підземне укриття</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-08_19-40-39.mp4" length="4984025" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 19:40:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Агресори опублікували стрім з </title>
+      <link>https://www.mandarinai.lt/post/95507</link>
+      <description>Агресори опублікували стрім з бортової камери безпілотника, який атакував АЗС «Укрнафта» на Клочківській в Харкові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0843.MP4" length="6461010" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 19:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шанс завершити війну та уникну</title>
+      <link>https://www.mandarinai.lt/post/95508</link>
+      <description>Шанс завершити війну та уникнути колапсу - ось що дають путіну пропозиції України, - міністр закордонних справ Сибіга</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0844.MP4" length="3345226" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 19:46:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Львові масштабний конфлікт ч</title>
+      <link>https://www.mandarinai.lt/post/95509</link>
+      <description>У Львові масштабний конфлікт через затримання чоловіка працівниками ТЦК</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-08_19-57-43.mp4" length="1187718" type="video/mp4"/>
+      <pubDate>Wed, 08 Jul 2026 19:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄США знову почали завдавати уд</title>
+      <link>https://www.mandarinai.lt/post/95512</link>
+      <description>🙄США знову почали завдавати ударів по Ірану, — CENTCOM.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_20-24-29.jpg" length="60688" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 20:24:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
