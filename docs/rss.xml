@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 06:30:25 +0000</lastBuildDate>
-    <item>
-      <title>🙄США знову почали завдавати уд</title>
-      <link>https://www.mandarinai.lt/post/95512</link>
-      <description>🙄США знову почали завдавати ударів по Ірану, — CENTCOM.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_20-24-29.jpg" length="60688" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 20:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Успішно атакована нафтобаза в</title>
-      <link>https://www.mandarinai.lt/post/95513</link>
-      <description>💥Успішно атакована нафтобаза в Ставропольському краї рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-09_01-19-34.mp4" length="819842" type="video/mp4"/>
-      <pubDate>Thu, 09 Jul 2026 01:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В Твєрі теж палає нафтобаза п</title>
-      <link>https://www.mandarinai.lt/post/95514</link>
-      <description>🔥В Твєрі теж палає нафтобаза після прильотів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-09_01-23-43.mp4" length="165100" type="video/mp4"/>
-      <pubDate>Thu, 09 Jul 2026 01:23:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 10:15:53 +0000</lastBuildDate>
     <item>
       <title>🔥Ранок на нафтобазі "Лукойл- Ю</title>
       <link>https://www.mandarinai.lt/post/95516</link>
@@ -80,11 +59,51 @@
       <pubDate>Thu, 09 Jul 2026 06:24:29 +0000</pubDate>
     </item>
     <item>
-      <title>🔥🔥Пожежі на атакованих вночі р</title>
-      <link>https://www.mandarinai.lt/post/95524</link>
-      <description>🔥🔥Пожежі на атакованих вночі російських нафтобазах, набирають обертів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-09_06-24-43.mp4" length="283661" type="video/mp4"/>
-      <pubDate>Thu, 09 Jul 2026 06:24:43 +0000</pubDate>
+      <title>Після вчорашньої бійки у Львов</title>
+      <link>https://www.mandarinai.lt/post/95526</link>
+      <description>Після вчорашньої бійки у Львові буде проведено розслідування.
+
+Правоохоронні структури: мають ідентифікувати всіх причетних, в тому числі, і тих, чиї дії перешкоджали військовослужбовцям.
+
+ТЦК: мають дати оцінку правомірності дій своїх військовослужбовців</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_06-34-17.jpg" length="75613" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 06:34:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок ракетного удару по О</title>
+      <link>https://www.mandarinai.lt/post/95527</link>
+      <description>Внаслідок ракетного удару по Одещині загинули 4 людини, ще 7 отримали поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0850.MP4" length="7013225" type="video/mp4"/>
+      <pubDate>Thu, 09 Jul 2026 07:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Влучні удари по двох нафтоба</title>
+      <link>https://www.mandarinai.lt/post/95528</link>
+      <description>❗️Влучні удари по двох нафтобазах у Ставрополі та Твері, приблизно за 500 кілометрів від лінії фронту — Зеленський про відмінні результати роботи воїнів СБУ
+
+Також підрозділи Сил оборони України уразили:
+• резервне сховище для накопичення та зберігання пального. Відстань від лінії фронту – близько 800 кілометрів. 
+• в російській Уфі застосували санкції по нафтоперекачувальній станції майже за 1500 кілометрів від нашого кордону. 
+• уражено нафтоналивний термінал у Ростовському регіоні, що приблизно за 200 кілометрів від лінії фронту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-09_08-30-13.mp4" length="2664316" type="video/mp4"/>
+      <pubDate>Thu, 09 Jul 2026 08:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Яхта путіна «Graceful» перебаз</title>
+      <link>https://www.mandarinai.lt/post/95529</link>
+      <description>Яхта путіна «Graceful» перебазувалася з Балтійського моря до порту «Североморськ», де базується Північний флот рф.
+
+Про це повідомляє датська телерадіокомпанія DR, вивчивши супутникові знімки та навігаційні дані MarineTraffic.
+
+Яхта «Graceful» пройшла через датські води в супроводі судна проєкту «Воевода» та есмінця «Североморськ».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_08-44-54.jpg" length="81793" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 08:44:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сили безпілотних систем цієї н</title>
+      <link>https://www.mandarinai.lt/post/95530</link>
+      <description>Сили безпілотних систем цієї ночі знищили 14 танкерів «тіньового флоту» в Азовському морі, а загалом за 4 доби зазнали атак 35 російських суден</description>
+      <pubDate>Thu, 09 Jul 2026 09:18:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
