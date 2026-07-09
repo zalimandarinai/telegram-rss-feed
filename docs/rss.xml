@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 10:15:53 +0000</lastBuildDate>
-    <item>
-      <title>🔥Ранок на нафтобазі "Лукойл- Ю</title>
-      <link>https://www.mandarinai.lt/post/95516</link>
-      <description>🔥Ранок на нафтобазі "Лукойл- Югнефтепродукт" після атаки БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_04-51-48.jpg" length="95359" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 04:51:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Також розгорається на нафтоба</title>
-      <link>https://www.mandarinai.lt/post/95517</link>
-      <description>🔥Також розгорається на нафтобазі в Твєрі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-09_05-17-05.mp4" length="712616" type="video/mp4"/>
-      <pubDate>Thu, 09 Jul 2026 05:17:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 13:39:58 +0000</lastBuildDate>
     <item>
       <title>Збитий російський Су-35 - в см</title>
       <link>https://www.mandarinai.lt/post/95518</link>
@@ -104,6 +90,22 @@
       <link>https://www.mandarinai.lt/post/95530</link>
       <description>Сили безпілотних систем цієї ночі знищили 14 танкерів «тіньового флоту» в Азовському морі, а загалом за 4 доби зазнали атак 35 російських суден</description>
       <pubDate>Thu, 09 Jul 2026 09:18:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳путін і Трамп не розмовляли в</title>
+      <link>https://www.mandarinai.lt/post/95531</link>
+      <description>😳путін і Трамп не розмовляли вчора по телефону, Трамп йому так і не зателефонував, — речник кремля Пєсков</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_11-14-38.jpg" length="97678" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 11:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Рашисти вбили останню (!) жи</title>
+      <link>https://www.mandarinai.lt/post/95533</link>
+      <description>❗️Рашисти вбили останню (!) жительку села Токарівка на прикордонні Харківщини, — МВА
+
+57-річна жінка працювала в Дергачівській центральній лікарні — вчора в неї поцілив російський FPV-дрон, коли жінка йшла пішки вздовж дороги</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_13-35-57.jpg" length="69119" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 13:35:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
