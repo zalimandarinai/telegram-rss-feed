@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 23:57:01 +0000</lastBuildDate>
-    <item>
-      <title>Одна з українських компаній ро</title>
-      <link>https://www.mandarinai.lt/post/95499</link>
-      <description>Одна з українських компаній розробила та провела випробування повністю автономного перехоплювача.
-
-Такий дрон сам обирає необхідну траєкторію перехоплення, наздоганяє повітряну ціль та здійснює її автоматичне захоплення. 
-
-За кілька сотень метрів до об’єкта безпілотник уповільнюється і супроводжує його до моменту підтвердження влучання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0838.MP4" length="21075953" type="video/mp4"/>
-      <pubDate>Wed, 08 Jul 2026 16:32:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Росіянка зі Ставрополя плаче, </title>
-      <link>https://www.mandarinai.lt/post/95500</link>
-      <description>Росіянка зі Ставрополя плаче, що через дефіцит бензину не може вести бізнес і навіть доїхати додому, адже на АЗС закінчилося пальне.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0839.MP4" length="19671671" type="video/mp4"/>
-      <pubDate>Wed, 08 Jul 2026 16:50:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 02:08:50 +0000</lastBuildDate>
     <item>
       <title>Виробник «Фламінго» розробляє </title>
       <link>https://www.mandarinai.lt/post/95502</link>
@@ -77,6 +59,20 @@
       <description>🙄США знову почали завдавати ударів по Ірану, — CENTCOM.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-08_20-24-29.jpg" length="60688" type="image/jpeg"/>
       <pubDate>Wed, 08 Jul 2026 20:24:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Успішно атакована нафтобаза в</title>
+      <link>https://www.mandarinai.lt/post/95513</link>
+      <description>💥Успішно атакована нафтобаза в Ставропольському краї рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-09_01-19-34.mp4" length="819842" type="video/mp4"/>
+      <pubDate>Thu, 09 Jul 2026 01:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Твєрі теж палає нафтобаза п</title>
+      <link>https://www.mandarinai.lt/post/95514</link>
+      <description>🔥В Твєрі теж палає нафтобаза після прильотів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-09_01-23-43.mp4" length="165100" type="video/mp4"/>
+      <pubDate>Thu, 09 Jul 2026 01:23:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
