@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 20:30:09 +0000</lastBuildDate>
-    <item>
-      <title>Понад 300 рятувальників та 106</title>
-      <link>https://www.mandarinai.lt/post/95536</link>
-      <description>Понад 300 рятувальників та 106 одиниць техніки четверту добу поспіль безперервно ліквідовують наслідки ударів та потужної детонації в н.п. Вишневе біля Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0870.MP4" length="30586410" type="video/mp4"/>
-      <pubDate>Thu, 09 Jul 2026 14:31:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>✅🇧🇬🇺🇦 В Болгарії росіяни, які </title>
-      <link>https://www.mandarinai.lt/post/95537</link>
-      <description>✅🇧🇬🇺🇦 В Болгарії росіяни, які підтримують «Легіон Свобода Росії», передали 17 позашляховиків для потреб Сил оборони України.</description>
-      <pubDate>Thu, 09 Jul 2026 15:29:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 22:10:19 +0000</lastBuildDate>
     <item>
       <title>Просто зараз росія готує проти</title>
       <link>https://www.mandarinai.lt/post/95538</link>
@@ -121,6 +108,20 @@
       <description>По Херсонщині російські нелюди розкидають саморобні вибухові пристрої, замасковані під упаковки з вологими серветками</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_19-44-33.jpg" length="83422" type="image/jpeg"/>
       <pubDate>Thu, 09 Jul 2026 19:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅ Нападники на ТЦК у Львові за</title>
+      <link>https://www.mandarinai.lt/post/95552</link>
+      <description>✅ Нападники на ТЦК у Львові записали відеозвернення з вибаченням, а деякі оголосили, що вступають до лав Збройних Сил України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0884.MP4" length="24750013" type="video/mp4"/>
+      <pubDate>Thu, 09 Jul 2026 21:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Вибачаюся перед українським</title>
+      <link>https://www.mandarinai.lt/post/95553</link>
+      <description>💬 «Вибачаюся перед українським військом», - ще одне вибачення учасника брутальної атаки на патруль ТЦК у Львові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0885.MP4" length="9332875" type="video/mp4"/>
+      <pubDate>Thu, 09 Jul 2026 21:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
