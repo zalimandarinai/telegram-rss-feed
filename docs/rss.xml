@@ -6,40 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 18:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:10:14 +0000</lastBuildDate>
     <item>
       <title>❗️Китай та росія спільно готую</title>
-      <link>https://www.mandarinai.lt/post/95584</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️Китай та росія спільно готуються до світової війни із Заходом, — Der Spiegel</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-10_13-23-57.jpg" length="11484" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 13:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українські БПЛА долетіли до Си</title>
-      <link>https://www.mandarinai.lt/post/95585</link>
-      <description>Українські БПЛА долетіли до Сибіру та уразили НПЗ в Омську за 2,5 тисячі кілометрів від пускових позицій.
-
-За цей тиждень росії прилітало також в Саратовському, 
-Ростовському, 
-Тверському, 
-Ставропольському, Краснодарському регіонах, Татарстані,
-Башкортостані, 
-Твері,
-Московському, 
-Ленінградському
-Брянському регіонах.
-Воронежі
-
-Немає жодного російського НПЗ, до якого б не дістала українська зброя.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0922.MP4" length="7617289" type="video/mp4"/>
-      <pubDate>Fri, 10 Jul 2026 13:54:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Внаслідок атаки КАБами в Запор</title>
-      <link>https://www.mandarinai.lt/post/95586</link>
-      <description>Внаслідок атаки КАБами в Запоріжжі сьогодні загинула одна людина, ще четверо поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-10_15-06-51.jpg" length="175830" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 15:06:51 +0000</pubDate>
     </item>
     <item>
       <title>❗️ СБС уразили за сьогодні: 10</title>
@@ -70,6 +42,22 @@
       <description>Фото дня: Зеленський і Трамп на саміті НАТО в Анкарі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-10_16-08-30.jpg" length="86947" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 16:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Журналіст: Чи, на вашу думку, </title>
+      <link>https://www.mandarinai.lt/post/95598</link>
+      <description>Журналіст: Чи, на вашу думку, путін, опинившись у безвихідному становищі, коли-небудь застосує ядерну зброю?
+
+Президент Фінляндії Стубб: Два дні тому в мене на вечері у Фінляндії був міністр закордонних справ Китаю. Ми обговорювали ядерне питання. Китайці дуже наполегливо заявляють: «Ні, цього не станеться».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-10_19-16-30.mp4" length="5041706" type="video/mp4"/>
+      <pubDate>Fri, 10 Jul 2026 19:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Один з російських танкерів в А</title>
+      <link>https://www.mandarinai.lt/post/95600</link>
+      <description>Один з російських танкерів в Азовському морі після атаки Сил безпілотних систем</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0931.MP4" length="3408501" type="video/mp4"/>
+      <pubDate>Fri, 10 Jul 2026 19:47:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
