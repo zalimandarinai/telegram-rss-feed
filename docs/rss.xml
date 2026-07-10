@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 16:10:44 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Щойно росія атакувала КАБам</title>
-      <link>https://www.mandarinai.lt/post/95583</link>
-      <description>⚡️ Щойно росія атакувала КАБами центр Запоріжжя</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0921.MP4" length="241790" type="video/mp4"/>
-      <pubDate>Fri, 10 Jul 2026 13:07:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 18:14:05 +0000</lastBuildDate>
     <item>
       <title>❗️Китай та росія спільно готую</title>
       <link>https://www.mandarinai.lt/post/95584</link>
