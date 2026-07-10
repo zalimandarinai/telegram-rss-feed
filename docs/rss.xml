@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 23:55:30 +0000</lastBuildDate>
-    <item>
-      <title>Просто зараз росія готує проти</title>
-      <link>https://www.mandarinai.lt/post/95538</link>
-      <description>Просто зараз росія готує проти Польщі агресивні дії та провокації. 
-
-Варшава має достовірну інформацію про підготовку таких провокацій, заявив очільник МЗС Польщі.
-
-За словами Радослава Сікорського, публічне попередження має стримати Москву від реалізації цих планів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_16-23-40.jpg" length="21411" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 16:23:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 01:27:51 +0000</lastBuildDate>
     <item>
       <title>🔥Після атаки дронів 8 липня Са</title>
       <link>https://www.mandarinai.lt/post/95539</link>
@@ -122,6 +111,13 @@
       <description>💬 «Вибачаюся перед українським військом», - ще одне вибачення учасника брутальної атаки на патруль ТЦК у Львові</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0885.MP4" length="9332875" type="video/mp4"/>
       <pubDate>Thu, 09 Jul 2026 21:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ільській НПЗ в рф вночі атаку</title>
+      <link>https://www.mandarinai.lt/post/95554</link>
+      <description>💥Ільській НПЗ в рф вночі атакували дрони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-10_00-34-58.mp4" length="365470" type="video/mp4"/>
+      <pubDate>Fri, 10 Jul 2026 00:34:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
