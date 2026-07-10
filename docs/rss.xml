@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 01:27:51 +0000</lastBuildDate>
-    <item>
-      <title>🔥Після атаки дронів 8 липня Са</title>
-      <link>https://www.mandarinai.lt/post/95539</link>
-      <description>🔥Після атаки дронів 8 липня Саратовський НПЗ повністю зупинив роботу, – Reuters
-
-Тим часом у низці регіонів рф ціни на бензин уже сягають 200–300 рублів за літр.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_17-07-20.jpg" length="78766" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 17:07:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>На фоні слідчих дій ДБР, компа</title>
-      <link>https://www.mandarinai.lt/post/95541</link>
-      <description>На фоні слідчих дій ДБР, компанія «Vyriy Industries» провела конференцію для української оборонної індустрії.
-
-Зустріч зібрала близько 500 виробників дронів, комплектуючих до них і розробників технологій.
-
-Головним меседжем заходу стала необхідність конструктивної взаємодії оборонної індустрії з державою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_17-55-22.jpg" length="98124" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 17:55:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Кремлі вважають, що путін по</title>
-      <link>https://www.mandarinai.lt/post/95542</link>
-      <description>В Кремлі вважають, що путін посилить бойові дії, попри мирні зусилля Трампа, - пише Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_17-58-41.jpg" length="82211" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 17:58:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Поліція та СБУ затримали одног</title>
-      <link>https://www.mandarinai.lt/post/95543</link>
-      <description>Поліція та СБУ затримали одного з нападників на ТЦК у Львові.
-
-Може отримати 8 років.
-
-Як і решта нападників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-09_18-01-28.jpg" length="115991" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 18:01:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 05:48:42 +0000</lastBuildDate>
     <item>
       <title>❗️ У Вишневому був склад боєпр</title>
       <link>https://www.mandarinai.lt/post/95547</link>
@@ -118,6 +80,36 @@
       <description>💥Ільській НПЗ в рф вночі атакували дрони</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-10_00-34-58.mp4" length="365470" type="video/mp4"/>
       <pubDate>Fri, 10 Jul 2026 00:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Нафтобаза в російському Азові</title>
+      <link>https://www.mandarinai.lt/post/95555</link>
+      <description>🔥Нафтобаза в російському Азові зустрілась з демократичним дронами.
+
+Також в місті атакований оптико-механічний завод</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-10_04-01-40.mp4" length="68403" type="video/mp4"/>
+      <pubDate>Fri, 10 Jul 2026 04:01:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Таганрозі після прильотів </title>
+      <link>https://www.mandarinai.lt/post/95557</link>
+      <description>💥🔥У Таганрозі після прильотів пожежа у портовому терміналі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-10_04-19-46.jpg" length="77718" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 04:19:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одна людина загинула, ще 12 тр</title>
+      <link>https://www.mandarinai.lt/post/95558</link>
+      <description>Одна людина загинула, ще 12 травмовані внаслідок ворожих атак по Запоріжжю та передмістю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-10_04-51-01.jpg" length="322198" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 04:51:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅У Таганрозі розпочалася еваку</title>
+      <link>https://www.mandarinai.lt/post/95559</link>
+      <description>✅У Таганрозі розпочалася евакуація мешканців із небезпечної зони після атаки ЗСУ. - місцева влада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-10_05-43-08.jpg" length="213830" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 05:43:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
