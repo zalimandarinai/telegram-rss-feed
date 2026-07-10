@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 22:46:17 +0000</lastBuildDate>
-    <item>
-      <title>❗️Китай та росія спільно готую</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️Китай та росія спільно готуються до світової війни із Заходом, — Der Spiegel</description>
-      <pubDate>Fri, 10 Jul 2026 13:23:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 23:44:26 +0000</lastBuildDate>
     <item>
       <title>❗️ СБС уразили за сьогодні: 10</title>
       <link>https://www.mandarinai.lt/post/95592</link>
@@ -58,6 +52,15 @@
       <description>Один з російських танкерів в Азовському морі після атаки Сил безпілотних систем</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0931.MP4" length="3408501" type="video/mp4"/>
       <pubDate>Fri, 10 Jul 2026 19:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Хакерські групи з рф зламали </title>
+      <link>https://www.mandarinai.lt/post/95601</link>
+      <description>😐Хакерські групи з рф зламали камери відеоспостереження на військових маршрутах НАТО, щоб відстежувати поставки зброї в Україну, – розвідка Нідерландів.
+
+У ході розслідування, проведеного в Нідерландах, було встановлено, що багато камер не мали належного захисту і "часто використовували стандартні паролі, застаріле програмне забезпечення та стандартні налаштування".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-10_23-18-34.jpg" length="155938" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 23:18:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
