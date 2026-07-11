@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 15:41:44 +0000</lastBuildDate>
-    <item>
-      <title>«Що це? Вже не спецоперація, п</title>
-      <link>https://www.mandarinai.lt/post/95620</link>
-      <description>«Що це? Вже не спецоперація, повномасштабна війна», - голос путіна Песков
-
-Визнання Кремлем, практично офіційно, що рф в Україні веде повномасштабну війну, означає, що росія не збирається її закінчувати.
-
-І готується провести мобілізацію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0949.MP4" length="7850311" type="video/mp4"/>
-      <pubDate>Sat, 11 Jul 2026 09:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупаційна армія інтенсивніше </title>
-      <link>https://www.mandarinai.lt/post/95621</link>
-      <description>Окупаційна армія інтенсивніше тисне на логістику по дорогах біля Словʼянська.
-
-Зенітний ракетний дивізіон 10-ої ОГШБР «Едельвейс» за червень знищив 381 повітряну ціль противника. 
-
-Переважно це «Молнії», за допомогою яких ворог намагається встановити вогневий контроль над автомобільними трасами в районі Словʼянська та Краматорська.</description>
-      <pubDate>Sat, 11 Jul 2026 09:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Продовжують валити по Курщи</title>
-      <link>https://www.mandarinai.lt/post/95622</link>
-      <description>❗️ Продовжують валити по Курщині - бійці бригади ДПСУ «Сталевий кордон» уразили дві гармати, дві антени, комплекс «Муром», чотири укриття та автомобіль</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0951.MP4" length="20258627" type="video/mp4"/>
-      <pubDate>Sat, 11 Jul 2026 10:48:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 16:39:18 +0000</lastBuildDate>
     <item>
       <title>Через звірячий удар трьома КАБ</title>
       <link>https://www.mandarinai.lt/post/95624</link>
@@ -111,6 +83,31 @@
       <description>Естонія не надаватиме військовозобов'язаним українцям статус тимчасового захисту, якщо вони незаконно виїхали з України або нелегально перетнули кордон, – ERR.ee</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_14-43-01.jpg" length="86809" type="image/jpeg"/>
       <pubDate>Sat, 11 Jul 2026 14:43:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жахливий момент влучання КАБів</title>
+      <link>https://www.mandarinai.lt/post/95637</link>
+      <description>Жахливий момент влучання КАБів у Сумах зафіксований на камери. 
+
+Вже відомо про 5 загиблих, серед них одна дитина. Кількість постраждалих зросла до 30. Наразі 5 людей у важкому стані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-11_15-50-58.mp4" length="1169564" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 15:50:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Колишній офіцер спецслужб Італ</title>
+      <link>https://www.mandarinai.lt/post/95638</link>
+      <description>Колишній офіцер спецслужб Італії працював на російське ГРУ та полював на дані про ППО для України, — ЗМІ
+
+Слідство встановило, що зрадник Гавіно Пірас передавав російському військовому аташе секретні характеристики комплексів SAMP/T, CAMM-ER та далекобійних ракет Storm Shadow, отримуючи за це гроші від Кремля.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_16-05-06.jpg" length="95679" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 16:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Епічний удар по місцю скупченн</title>
+      <link>https://www.mandarinai.lt/post/95639</link>
+      <description>Епічний удар по місцю скупчення штурмових груп кацапів у Родинському</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-11_16-07-13.mp4" length="3622538" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 16:07:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
