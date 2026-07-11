@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 18:40:18 +0000</lastBuildDate>
-    <item>
-      <title>Літаки Су-27 Повітряних сил ат</title>
-      <link>https://www.mandarinai.lt/post/95628</link>
-      <description>Літаки Су-27 Повітряних сил атакували місце скупчення штурмових груп окупантів в населеному пункті Родинське поруч з Добропіллям</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0952.MP4" length="3619709" type="video/mp4"/>
-      <pubDate>Sat, 11 Jul 2026 13:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 19:56:09 +0000</lastBuildDate>
     <item>
       <title>💬 «Якщо я дєвочка, чому в мене</title>
       <link>https://www.mandarinai.lt/post/95629</link>
@@ -117,6 +110,27 @@
       <description>🎙️ Посадові особи відомі, кожен з них має бути притягнутий до відповідальності, — Зеленський щодо детонації у місті Вишневе біля Києва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0964.MP4" length="16473511" type="video/mp4"/>
       <pubDate>Sat, 11 Jul 2026 18:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Командиру 155-ої ОМБР, яког</title>
+      <link>https://www.mandarinai.lt/post/95644</link>
+      <description>⚡️ Командиру 155-ої ОМБР, якого в повідомленні вже називають «колишнім», а також ще кільком військовослужбовцям, повідомлено про підозру у незаконному позбавленні волі та вбивстві, - ВСП, фото те, яким ілюструють повідомлення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_19-30-19.jpg" length="30718" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 19:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Я погоджуюся з думкою більш</title>
+      <link>https://www.mandarinai.lt/post/95645</link>
+      <description>💬 «Я погоджуюся з думкою більшості чехів, що для завершення війни Україна мала б поступитися територіями, де історично живуть росіяни», — спікер Палати депутатів Чехії та голова проросійського руху «Свобода і пряма демократія» Томіо Окамура</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0973.MP4" length="2145982" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 19:32:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Сенатор Ліндсі Грем тримає </title>
+      <link>https://www.mandarinai.lt/post/95646</link>
+      <description>❗️ Сенатор Ліндсі Грем тримає в руках легендарний P1SUN, - на завершення напруженого інформаційного дня не завадить хоч трохи позитивних емоцій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_19-56-08.jpg" length="96049" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 19:56:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
