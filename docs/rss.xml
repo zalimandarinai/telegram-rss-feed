@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 12:45:15 +0000</lastBuildDate>
-    <item>
-      <title>Нафтобаза в Азові Ростовської </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Нафтобаза в Азові Ростовської області - захисні сітки не допомогли</description>
-      <pubDate>Sat, 11 Jul 2026 06:10:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️ Людина, в якої зараз беруть</title>
-      <link>https://www.mandarinai.lt/post/95615</link>
-      <description>🎙️ Людина, в якої зараз беруть інтервʼю журналісти, справжній герой.
-
-🏣 Його зовуть Сергій, і він мешканець столичної багатоповерхівки, яка опинилась під ударом російської ракети. 
-
-🔥 Під час ракетної та безпілотної атаки росіян по столиці він зайшов у палаючий будинок і організував безпечну евакуацію людей з верхніх поверхів.
-
-🤝 Саме завдяки йому сусіди залишилися живими. 
-
-🧯 Але він не просто героїчна людина, він без паніки «нарізав завдання» іншим чоловікам для допомоги сусідам, змусивши їх в умовах небезпеки діяти, як один рятувальний механізм. 
-
-⏯️ Сьогодні на ресурсах «1+1» можна буде побачити і послухати героя.
-
-✅ Можливо, це допоможе зрозуміти іншим, як контролювати страх і правильно діяти в критичній ситуації, отже, рекомендую.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0942.MP4" length="17746278" type="video/mp4"/>
-      <pubDate>Sat, 11 Jul 2026 09:07:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 14:15:19 +0000</lastBuildDate>
     <item>
       <title>💥Уражено 21 танкер, буксири, с</title>
       <link>https://www.mandarinai.lt/post/95619</link>
@@ -77,6 +52,41 @@
 Ще сімох поранених забрали «швидкі».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_12-42-47.jpg" length="191590" type="image/jpeg"/>
       <pubDate>Sat, 11 Jul 2026 12:42:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літаки Су-27 Повітряних сил ат</title>
+      <link>https://www.mandarinai.lt/post/95628</link>
+      <description>Літаки Су-27 Повітряних сил атакували місце скупчення штурмових груп окупантів в населеному пункті Родинське поруч з Добропіллям</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0952.MP4" length="3619709" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 13:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Якщо я дєвочка, чому в мене</title>
+      <link>https://www.mandarinai.lt/post/95629</link>
+      <description>💬 «Якщо я дєвочка, чому в мене це получилося, а в тебе ні?» - в 21 рік ця дівчина з позивним «Сапфір» командує батареєю артилерійської розвідки «Скеля» - повне відео: https://censor.net/ua/videonews/4012593/yakscho-ya-divchyna-chomu-meni-tse-vdalosya-a-tobi-ni-istoriya-21-richnoyi-komandyrky-artrozvidky-sa</description>
+      <pubDate>Sat, 11 Jul 2026 13:41:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Виробництво ракет для «Patriot</title>
+      <link>https://www.mandarinai.lt/post/95630</link>
+      <description>Виробництво ракет для «Patriot» може розпочатися в Україні після завершення війни, — Reuters
+
+Німеччина розробила внутрішній виробничий ланцюг для перехоплювачів PAC-2.
+
+Вона стати однією з країн, яка могла б допомогти Києву прискорити процес.
+
+Отже, нові перехоплювачі, ймовірно, будуть виготовлені в Німеччині чи в іншій європейській країні, де це безпечніше.
+
+Тільки після закінчення бойових дій виробництво може бути перенесено до України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_13-55-49.jpg" length="122851" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 13:55:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Авіаудар вигнав окупанта з йог</title>
+      <link>https://www.mandarinai.lt/post/95633</link>
+      <description>Авіаудар вигнав окупанта з його укриття на околиці Костянтинівки, на що й чекав безпілотник 156-ої ОМБР</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0954.MP4" length="10477193" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 14:09:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
