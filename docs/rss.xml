@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 04:49:47 +0000</lastBuildDate>
-    <item>
-      <title>❗️ СБС уразили за сьогодні: 10</title>
-      <link>https://www.mandarinai.lt/post/95592</link>
-      <description>❗️ СБС уразили за сьогодні: 10 танкерів, 1 суховантаж, 1 паром та 1 морський буксир.</description>
-      <pubDate>Fri, 10 Jul 2026 15:18:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Величений Стовп вогню в десят</title>
-      <link>https://www.mandarinai.lt/post/95593</link>
-      <description>🤬Величений Стовп вогню в десятки метрів посеред Кривого Рогу після влучання «Шахеда» — рашисти масовано обстрілюють місто.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-10_15-45-58.mp4" length="241084" type="video/mp4"/>
-      <pubDate>Fri, 10 Jul 2026 15:45:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 07:02:45 +0000</lastBuildDate>
     <item>
       <title>Сьогодні на каналі ЧОРНИЙ ЛЕБІ</title>
       <link>https://www.mandarinai.lt/post/95595</link>
@@ -84,6 +71,50 @@
 ▫️ внаслідок влучання сталася пожежа в складському приміщенні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0933.MP4" length="15392603" type="video/mp4"/>
       <pubDate>Sat, 11 Jul 2026 04:33:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Під ударом балістики було 5 </title>
+      <link>https://www.mandarinai.lt/post/95604</link>
+      <description>⚡️Під ударом балістики було 5 районів Києва. Місто затягує димом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_05-16-13.jpg" length="109959" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 05:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Триває геноцид російських та</title>
+      <link>https://www.mandarinai.lt/post/95606</link>
+      <description>👀 Триває геноцид російських танкерів: за ніч було уражено 29 суден</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_05-47-40.jpg" length="97462" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 05:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нафтобаза в Азові Ростовської </title>
+      <link>https://www.mandarinai.lt/post/95608</link>
+      <description>Нафтобаза в Азові Ростовської області - захисні сітки не допомогли</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0934.MP4" length="12837178" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 06:10:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уточнення від Повітряних Сил.
+</title>
+      <link>https://www.mandarinai.lt/post/95610</link>
+      <description>Уточнення від Повітряних Сил.
+
+По Києві випустили не 8, а 6 балістичних ракет
+
+Жодну не вдалося збити</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_06-14-32.jpg" length="80922" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 06:14:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Після ударів СБС в Азовському</title>
+      <link>https://www.mandarinai.lt/post/95611</link>
+      <description>🔥Після ударів СБС в Азовському морі російські порти припинили прийом зерна
+
+Порти Ростова, Азова та Таганрога  зупинили прийом пшениці та іншої аграрної продукції.
+
+Через зупинку роботи в портах утворилися величезні черги з вантажівок.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-11_06-24-33.mp4" length="396641" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 06:24:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
