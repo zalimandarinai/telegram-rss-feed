@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 09:12:42 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Під ударом балістики було 5 </title>
-      <link>https://www.mandarinai.lt/post/95604</link>
-      <description>⚡️Під ударом балістики було 5 районів Києва. Місто затягує димом.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_05-16-13.jpg" length="109959" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 05:16:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀 Триває геноцид російських та</title>
-      <link>https://www.mandarinai.lt/post/95606</link>
-      <description>👀 Триває геноцид російських танкерів: за ніч було уражено 29 суден</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_05-47-40.jpg" length="97462" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 05:47:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 10:50:20 +0000</lastBuildDate>
     <item>
       <title>Нафтобаза в Азові Ростовської </title>
       <link>https://www.mandarinai.lt/post/95608</link>
@@ -62,7 +48,7 @@
 
 🤝 Саме завдяки йому сусіди залишилися живими. 
 
-🧯 Але він не просто героїчна людина, він без паніки організував інших чоловіків для допомоги сусідам. 
+🧯 Але він не просто героїчна людина, він без паніки «нарізав завдання» іншим чоловікам для допомоги сусідам, змусивши їх в умовах небезпеки діяти, як один рятувальний механізм. 
 
 ⏯️ Сьогодні на ресурсах «1+1» можна буде побачити і послухати героя.
 
@@ -76,6 +62,34 @@
       <description>💥Уражено 21 танкер, буксири, суховантажі та інші плавзасоби противника в акваторії Азовського моря, - Генштаб</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_09-11-10.jpg" length="92226" type="image/jpeg"/>
       <pubDate>Sat, 11 Jul 2026 09:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Що це? Вже не спецоперація, п</title>
+      <link>https://www.mandarinai.lt/post/95620</link>
+      <description>«Що це? Вже не спецоперація, повномасштабна війна», - голос путіна Песков
+
+Визнання Кремлем, практично офіційно, що рф в Україні веде повномасштабну війну, означає, що росія не збирається її закінчувати.
+
+І готується провести мобілізацію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0949.MP4" length="7850311" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 09:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупаційна армія інтенсивніше </title>
+      <link>https://www.mandarinai.lt/post/95621</link>
+      <description>Окупаційна армія інтенсивніше тисне на логістику по дорогах біля Словʼянська.
+
+Зенітний ракетний дивізіон 10-ої ОГШБР «Едельвейс» за червень знищив 381 повітряну ціль противника. 
+
+Переважно це «Молнії», за допомогою яких ворог намагається встановити вогневий контроль над автомобільними трасами в районі Словʼянська та Краматорська.</description>
+      <pubDate>Sat, 11 Jul 2026 09:53:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Продовжують валити по Курщи</title>
+      <link>https://www.mandarinai.lt/post/95622</link>
+      <description>❗️ Продовжують валити по Курщині - бійці бригади ДПСУ «Сталевий кордон» уразили дві гармати, дві антени, комплекс «Муром», чотири укриття та автомобіль</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0951.MP4" length="20258627" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 10:48:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
