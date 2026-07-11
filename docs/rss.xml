@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 17:43:16 +0000</lastBuildDate>
-    <item>
-      <title>Через звірячий удар трьома КАБ</title>
-      <link>https://www.mandarinai.lt/post/95624</link>
-      <description>Через звірячий удар трьома КАБами по Сумах загинуло четверо людей, — ОВА 
-
-Серед загиблих водій маршрутки та люди, які були біля зупинки громадського транспорту.
-
-Ще сімох поранених забрали «швидкі».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_12-42-47.jpg" length="191590" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 12:42:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 18:40:18 +0000</lastBuildDate>
     <item>
       <title>Літаки Су-27 Повітряних сил ат</title>
       <link>https://www.mandarinai.lt/post/95628</link>
@@ -94,17 +83,17 @@
       <pubDate>Sat, 11 Jul 2026 15:50:58 +0000</pubDate>
     </item>
     <item>
-      <title>Комбриг 155-ої бригади підполк</title>
+      <title>❗️ Комбриг 155-ої бригади підп</title>
       <link>https://www.mandarinai.lt/post/95640</link>
-      <description>Комбриг 155-ої бригади підполковник Станіслав Лучанов пішов в СЗЧ, - ОК «Північ»
+      <description>❗️ Комбриг 155-ої бригади підполковник Станіслав Лучанов пішов в СЗЧ, - ОК «Північ»
 
-Офіцера розшукують після того, як 9 його бійців затримали за підозрою у викраденні двох братів на Київщині. 
+🔺 Офіцера розшукують після того, як 9 його бійців затримали за підозрою у викраденні двох братів на Київщині. 
 
-Видання «Українська правда» стверджує, що йдеться не лише про викрадення людей, а й вбивство. 
+🔺 Видання «Українська правда» стверджує, що йдеться не лише про викрадення людей, а й вбивство. 
 
-Нібито на ґрунті побутового конфлікту підполковник наказав підлеглим викрасти двох братів, яких потім вбили, заявляє УП.
+🔺 Нібито на ґрунті побутового конфлікту підполковник наказав підлеглим викрасти двох братів, яких потім вбили, заявляє УП.
 
-В ОК «Північ» наголошують, що особи, які фігурують в розслідуванні, відсторонені від виконання службових обов'язків і співпрацюють зі слідчими.</description>
+🔺 В ОК «Північ» наголошують, що особи, які фігурують в розслідуванні, відсторонені від виконання службових обов'язків і співпрацюють зі слідчими.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_16-52-14.jpg" length="60281" type="image/jpeg"/>
       <pubDate>Sat, 11 Jul 2026 16:52:14 +0000</pubDate>
     </item>
@@ -114,6 +103,20 @@
       <description>❗В Сумах після російського влучання палали транспортні засоби та багатоповерхівка, з якої рятувальники евакуювали 140 людей, зокрема, 20 дітей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0963.MP4" length="20827225" type="video/mp4"/>
       <pubDate>Sat, 11 Jul 2026 17:01:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗРК «Оса» збиває ворожі цілі в</title>
+      <link>https://www.mandarinai.lt/post/95642</link>
+      <description>ЗРК «Оса» збиває ворожі цілі в повітряному просторі України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0965.MP4" length="6304896" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 18:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️ Посадові особи відомі, коже</title>
+      <link>https://www.mandarinai.lt/post/95643</link>
+      <description>🎙️ Посадові особи відомі, кожен з них має бути притягнутий до відповідальності, — Зеленський щодо детонації у місті Вишневе біля Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0964.MP4" length="16473511" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 18:07:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
