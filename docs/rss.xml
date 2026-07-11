@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 16:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:43:16 +0000</lastBuildDate>
     <item>
       <title>Через звірячий удар трьома КАБ</title>
       <link>https://www.mandarinai.lt/post/95624</link>
@@ -65,7 +65,7 @@
     <item>
       <title>В Італії було затримано колишн</title>
       <link>https://www.mandarinai.lt/post/95635</link>
-      <description>В Італії було затримано колишнього співробітника італійських спецслужб, який передавав російській розвідці секретну інформацію щодо передачі та виробництва в Україні ракет CAMM-ER  для протиповітряної оборони.
+      <description>В Італії було затримано колишнього співробітника італійських спецслужб Гавіно Піраса, який передавав російській розвідці секретну інформацію щодо передачі та виробництва в Україні ракет CAMM-ER  для протиповітряної оборони.
 
 Про те, що Італія може передати такі ракети українським Повітряним Силам, раніше не повідомлялось. 
 
@@ -94,20 +94,26 @@
       <pubDate>Sat, 11 Jul 2026 15:50:58 +0000</pubDate>
     </item>
     <item>
-      <title>Колишній офіцер спецслужб Італ</title>
-      <link>https://www.mandarinai.lt/post/95638</link>
-      <description>Колишній офіцер спецслужб Італії працював на російське ГРУ та полював на дані про ППО для України, — ЗМІ
+      <title>Комбриг 155-ої бригади підполк</title>
+      <link>https://www.mandarinai.lt/post/95640</link>
+      <description>Комбриг 155-ої бригади підполковник Станіслав Лучанов пішов в СЗЧ, - ОК «Північ»
 
-Слідство встановило, що зрадник Гавіно Пірас передавав російському військовому аташе секретні характеристики комплексів SAMP/T, CAMM-ER та далекобійних ракет Storm Shadow, отримуючи за це гроші від Кремля.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_16-05-06.jpg" length="95679" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 16:05:06 +0000</pubDate>
+Офіцера розшукують після того, як 9 його бійців затримали за підозрою у викраденні двох братів на Київщині. 
+
+Видання «Українська правда» стверджує, що йдеться не лише про викрадення людей, а й вбивство. 
+
+Нібито на ґрунті побутового конфлікту підполковник наказав підлеглим викрасти двох братів, яких потім вбили, заявляє УП.
+
+В ОК «Північ» наголошують, що особи, які фігурують в розслідуванні, відсторонені від виконання службових обов'язків і співпрацюють зі слідчими.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_16-52-14.jpg" length="60281" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 16:52:14 +0000</pubDate>
     </item>
     <item>
-      <title>Епічний удар по місцю скупченн</title>
-      <link>https://www.mandarinai.lt/post/95639</link>
-      <description>Епічний удар по місцю скупчення штурмових груп кацапів у Родинському</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-11_16-07-13.mp4" length="3622538" type="video/mp4"/>
-      <pubDate>Sat, 11 Jul 2026 16:07:13 +0000</pubDate>
+      <title>❗В Сумах після російського влу</title>
+      <link>https://www.mandarinai.lt/post/95641</link>
+      <description>❗В Сумах після російського влучання палали транспортні засоби та багатоповерхівка, з якої рятувальники евакуювали 140 людей, зокрема, 20 дітей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0963.MP4" length="20827225" type="video/mp4"/>
+      <pubDate>Sat, 11 Jul 2026 17:01:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
