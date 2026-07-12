@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 08:54:06 +0000</lastBuildDate>
-    <item>
-      <title>🎙️ Посадові особи відомі, коже</title>
-      <link>https://www.mandarinai.lt/post/95643</link>
-      <description>🎙️ Посадові особи відомі, кожен з них має бути притягнутий до відповідальності, — Зеленський щодо детонації у місті Вишневе біля Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0964.MP4" length="16473511" type="video/mp4"/>
-      <pubDate>Sat, 11 Jul 2026 18:07:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 10:26:43 +0000</lastBuildDate>
     <item>
       <title>⚡️ Командиру 155-ої ОМБР, яког</title>
       <link>https://www.mandarinai.lt/post/95644</link>
@@ -126,6 +119,13 @@
       <description>Безпілотник FP-1 влучає в трубу Сизранського НПЗ за 900 км від кордону з Україною.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0981.MP4" length="1037228" type="video/mp4"/>
       <pubDate>Sun, 12 Jul 2026 08:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Є загроза, що рф відкриє нови</title>
+      <link>https://www.mandarinai.lt/post/95657</link>
+      <description>🔴Є загроза, що рф відкриє новий Чернігівський фронт восени (!) після проведення виборів, домовившись з Білоруссю, — секретар Комітету з нацбезпеки, оборони та розвідки Костенко зазначив, що тоді нам може не вистачити сил для протистояння</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-12_09-06-02.mp4" length="6007144" type="video/mp4"/>
+      <pubDate>Sun, 12 Jul 2026 09:06:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
