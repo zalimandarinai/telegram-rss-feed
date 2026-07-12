@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 18:38:17 +0000</lastBuildDate>
-    <item>
-      <title>🔴Свириденко більше не прем'єрк</title>
-      <link>https://www.mandarinai.lt/post/95661</link>
-      <description>🔴Свириденко більше не прем'єрка: вона очолить новий напрямок у відносинах з ключовим партнером, — Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_12-04-26.jpg" length="25201" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 12:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мобільні вогневі групи окупант</title>
-      <link>https://www.mandarinai.lt/post/95662</link>
-      <description>Мобільні вогневі групи окупантів навчилися літати</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0991.MP4" length="12700341" type="video/mp4"/>
-      <pubDate>Sun, 12 Jul 2026 13:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Вони ніколи не розкажуть ва</title>
-      <link>https://www.mandarinai.lt/post/95663</link>
-      <description>💬 «Вони ніколи не розкажуть вашій родині, що з вами», - для того, щоб найманець з Зімбабве, нарешті, прозрів щодо своїх російських роботодавців, потрібно було, щоб він потрапив в полон до українських військових</description>
-      <pubDate>Sun, 12 Jul 2026 13:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤝 В Німеччині секретно виробля</title>
-      <link>https://www.mandarinai.lt/post/95664</link>
-      <description>🤝 В Німеччині секретно виробляють легкі дрони з ШІ для України, — NYT
-
-Завод оборонного стартапу Helsing SE приховують через загрозу диверсій. Тисячі таких апаратів вартістю €17,5 тисяч кожен уже протестовані ЗСУ на фронті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_14-24-10.jpg" length="76666" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 14:24:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Польща передала Україні 5 раке</title>
-      <link>https://www.mandarinai.lt/post/95665</link>
-      <description>Польща передала Україні 5 ракет для Patriot. За це США пообіцяли їй 50 ракет, якщо вони знадобляться полякам в разі прямої загрози, – Defence 24.
-
-Що думаєте?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_14-33-46.jpg" length="332148" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 14:33:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 19:51:02 +0000</lastBuildDate>
     <item>
       <title>👀Посол України у США Ольга Сте</title>
       <link>https://www.mandarinai.lt/post/95666</link>
@@ -138,6 +100,20 @@
       <description>💥Момент ударів українських БПЛА по порту "Азов" в Ростовській області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-12_18-35-29.mp4" length="6459046" type="video/mp4"/>
       <pubDate>Sun, 12 Jul 2026 18:35:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Так сьогодні вранці палали ро</title>
+      <link>https://www.mandarinai.lt/post/95675</link>
+      <description>💥Так сьогодні вранці палали російські танкери в Азовському морі після атаки безпілотників</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-12_19-41-07.mp4" length="3329635" type="video/mp4"/>
+      <pubDate>Sun, 12 Jul 2026 19:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Влучання дрона у бпгатороверхі</title>
+      <link>https://www.mandarinai.lt/post/95677</link>
+      <description>Влучання дрона у бпгатороверхівку в Одесі: окупанти другу добу відправляють дрони на місто</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_19-44-15.jpg" length="188311" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 19:44:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
