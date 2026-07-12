@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 14:14:26 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Ще 14 російських танкерів у</title>
-      <link>https://www.mandarinai.lt/post/95650</link>
-      <description>⚡️ Ще 14 російських танкерів уражено Силами безпілотних систем протягом цієї ночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_05-37-07.jpg" length="65110" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 05:37:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Помер американський сенатор Лі</title>
-      <link>https://www.mandarinai.lt/post/95651</link>
-      <description>Помер американський сенатор Ліндсі Грем, — Clash Report
-
-Він постійно та системно допомагав Україні отримувати підтримку Сполучених Штатів.
-
-Співчуття родині, друзям і колегам політика.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_06-16-48.jpg" length="85698" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 06:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Одна ніч – мінус 10 танкерів,</title>
-      <link>https://www.mandarinai.lt/post/95652</link>
-      <description>🔥Одна ніч – мінус 10 танкерів, 4 поромів і НПЗ: Генштаб підсумував результати ударів по РФ
-
-Сили оборони уразили Сызранський НПЗ у Самарській області, 10 танкерів і 4 пороми в Азовському морі, а також ешелон з паливом біля окупованого Токмака.
-
-Окремо підтверджено пошкодження установки переробки нафти на комплексі «НОВАТЕК-Усть-Луга» після попередньої атаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_06-53-52.jpg" length="45287" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 06:53:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 15:18:49 +0000</lastBuildDate>
     <item>
       <title>Нафта не йде, Ормузька протока</title>
       <link>https://www.mandarinai.lt/post/95653</link>
@@ -132,6 +103,31 @@
       <link>https://www.mandarinai.lt/post/95663</link>
       <description>💬 «Вони ніколи не розкажуть вашій родині, що з вами», - для того, щоб найманець з Зімбабве, нарешті, прозрів щодо своїх російських роботодавців, потрібно було, щоб він потрапив в полон до українських військових</description>
       <pubDate>Sun, 12 Jul 2026 13:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Німеччині секретно виробляють</title>
+      <link>https://www.mandarinai.lt/post/95664</link>
+      <description>🤝Німеччині секретно виробляють легкі дрони з ШІ для України, — NYT
+
+Завод оборонного стартапу Helsing SE приховують через загрозу диверсій. Тисячі таких апаратів вартістю €17,5 тисяч кожен уже протестовані ЗСУ на фронті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_14-24-10.jpg" length="76666" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 14:24:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Польща передала Україні 5 раке</title>
+      <link>https://www.mandarinai.lt/post/95665</link>
+      <description>Польща передала Україні 5 ракет для Patriot. За це США пообіцяли їй 50 ракет, якщо вони знадобляться полякам в разі прямої загрози, – Defence 24.
+
+Що думаєте?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_14-33-46.jpg" length="332148" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 14:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Посол України у США Ольга Сте</title>
+      <link>https://www.mandarinai.lt/post/95666</link>
+      <description>👀Посол України у США Ольга Стефанішина звільняється з посади за власним бажанням, — джерела «Інтерфакс»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_14-53-15.jpg" length="26799" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 14:53:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
