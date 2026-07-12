@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 23:39:46 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Якщо я дєвочка, чому в мене</title>
-      <link>https://www.mandarinai.lt/post/95629</link>
-      <description>💬 «Якщо я дєвочка, чому в мене це получилося, а в тебе ні?» - в 21 рік ця дівчина з позивним «Сапфір» командує батареєю артилерійської розвідки «Скеля» - повне відео: https://censor.net/ua/videonews/4012593/yakscho-ya-divchyna-chomu-meni-tse-vdalosya-a-tobi-ni-istoriya-21-richnoyi-komandyrky-artrozvidky-sa</description>
-      <pubDate>Sat, 11 Jul 2026 13:41:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 01:20:31 +0000</lastBuildDate>
     <item>
       <title>Виробництво ракет для «Patriot</title>
       <link>https://www.mandarinai.lt/post/95630</link>
@@ -131,6 +125,17 @@
       <description>❗️ Сенатор Ліндсі Грем тримає в руках легендарний P1SUN, - на завершення напруженого інформаційного дня не завадить хоч трохи позитивних емоцій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_19-56-08.jpg" length="96049" type="image/jpeg"/>
       <pubDate>Sat, 11 Jul 2026 19:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬росія активно розбудовує так </title>
+      <link>https://www.mandarinai.lt/post/95647</link>
+      <description>🤬росія активно розбудовує так звані «дронопорти» — майданчики, з яких планує запускати нові ударні безпілотники
+
+Супутникові знімки свідчать, що на базі в Орловській області вже встановлено 11 стаціонарних пускових установок, ще п’ять наразі готують до введення в експлуатацію. Крім того, там зводять 29 нових складів, здатних вмістити до 750 дронів.
+
+Паралельно окупанти будують десятки додаткових ангарів і майданчиків для зберігання БпЛА. Загалом потужності бази зростуть приблизно на тисячу безпілотників у порівнянні з показниками лише місячної давнини.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_00-09-32.jpg" length="137647" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 00:09:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
