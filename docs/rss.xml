@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 06:42:53 +0000</lastBuildDate>
-    <item>
-      <title>Естонія не надаватиме військов</title>
-      <link>https://www.mandarinai.lt/post/95636</link>
-      <description>Естонія не надаватиме військовозобов'язаним українцям статус тимчасового захисту, якщо вони незаконно виїхали з України або нелегально перетнули кордон, – ERR.ee</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-11_14-43-01.jpg" length="86809" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 14:43:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 07:17:56 +0000</lastBuildDate>
     <item>
       <title>Жахливий момент влучання КАБів</title>
       <link>https://www.mandarinai.lt/post/95637</link>
@@ -115,6 +108,17 @@
 Співчуття родині, друзям і колегам політика.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_06-16-48.jpg" length="85698" type="image/jpeg"/>
       <pubDate>Sun, 12 Jul 2026 06:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Одна ніч – мінус 10 танкерів,</title>
+      <link>https://www.mandarinai.lt/post/95652</link>
+      <description>🔥Одна ніч – мінус 10 танкерів, 4 поромів і НПЗ: Генштаб підсумував результати ударів по РФ
+
+Сили оборони уразили Сызранський НПЗ у Самарській області, 10 танкерів і 4 пороми в Азовському морі, а також ешелон з паливом біля окупованого Токмака.
+
+Окремо підтверджено пошкодження установки переробки нафти на комплексі «НОВАТЕК-Усть-Луга» після попередньої атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_06-53-52.jpg" length="45287" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 06:53:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
