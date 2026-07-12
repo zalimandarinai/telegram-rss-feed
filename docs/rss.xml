@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 17:34:35 +0000</lastBuildDate>
-    <item>
-      <title>Світло на дві години, а потім </title>
-      <link>https://www.mandarinai.lt/post/95660</link>
-      <description>Світло на дві години, а потім десять годин темряви, - голова окупаційної адміністрації Алушти Галина Огнева повідомила, що «у зв'язку із серйозними пошкодженнями енергомереж у Криму» електроенергію в місті подаватимуть за графіком  2 години зі світлом через 10 годин без електропостачання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0989.MP4" length="16170339" type="video/mp4"/>
-      <pubDate>Sun, 12 Jul 2026 11:40:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 18:38:17 +0000</lastBuildDate>
     <item>
       <title>🔴Свириденко більше не прем'єрк</title>
       <link>https://www.mandarinai.lt/post/95661</link>
@@ -138,6 +131,13 @@
 Японські компанії дотримуються санкцій, але не можуть протидіяти російським агентам.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_17-07-15.jpg" length="101741" type="image/jpeg"/>
       <pubDate>Sun, 12 Jul 2026 17:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Момент ударів українських БПЛ</title>
+      <link>https://www.mandarinai.lt/post/95674</link>
+      <description>💥Момент ударів українських БПЛА по порту "Азов" в Ростовській області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-12_18-35-29.mp4" length="6459046" type="video/mp4"/>
+      <pubDate>Sun, 12 Jul 2026 18:35:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
