@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 12:38:08 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Зранку добрі дррни атакували</title>
-      <link>https://www.mandarinai.lt/post/95648</link>
-      <description>💥🔥Зранку добрі дррни атакували НПЗ в Сизрані</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_04-59-39.jpg" length="132611" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 04:59:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 13:18:16 +0000</lastBuildDate>
     <item>
       <title>⚡️ Ще 14 російських танкерів у</title>
       <link>https://www.mandarinai.lt/post/95650</link>
@@ -126,6 +119,13 @@
       <description>🔴Свириденко більше не прем'єрка: вона очолить новий напрямок у відносинах з ключовим партнером, — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_12-04-26.jpg" length="25201" type="image/jpeg"/>
       <pubDate>Sun, 12 Jul 2026 12:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мобільні вогневі групи окупант</title>
+      <link>https://www.mandarinai.lt/post/95662</link>
+      <description>Мобільні вогневі групи окупантів навчилися літати</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0991.MP4" length="12700341" type="video/mp4"/>
+      <pubDate>Sun, 12 Jul 2026 13:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
