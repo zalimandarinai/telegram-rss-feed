@@ -45,7 +45,7 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        git add docs/rss.xml docs/last_post.json docs/sent_to_make.json docs/last_sent.json
+        git add -A docs/ || echo "⚠️ git add nieko nerado"
         git commit -m "🔄 Auto-update RSS feed" || echo "No changes to commit"
         git push origin main || echo "❌ Git push failed!"
       env:
