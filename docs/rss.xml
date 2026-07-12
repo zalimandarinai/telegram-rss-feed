@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 19:51:02 +0000</lastBuildDate>
-    <item>
-      <title>👀Посол України у США Ольга Сте</title>
-      <link>https://www.mandarinai.lt/post/95666</link>
-      <description>👀Посол України у США Ольга Стефанішина звільняється з посади за власним бажанням, — джерела «Інтерфакс»
-
-Враховуючи, що, за словами Зеленського, «новий напрямок у відносинах з ключовим партнером» очолить Юлія Свириденко, то, ймовірно, саме премʼєрка, отримавши префікс «екс», поїде до Вашингтона. 
-
-Але це неточно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_14-53-15.jpg" length="26799" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 14:53:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дрон з гучномовцем взяв в поло</title>
-      <link>https://www.mandarinai.lt/post/95667</link>
-      <description>Дрон з гучномовцем взяв в полон трьох росіян, - 425-ий полк «Скеля»</description>
-      <pubDate>Sun, 12 Jul 2026 15:38:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 20:44:26 +0000</lastBuildDate>
     <item>
       <title>⚡️ Польща показала свій надвод</title>
       <link>https://www.mandarinai.lt/post/95668</link>
@@ -109,11 +92,25 @@
       <pubDate>Sun, 12 Jul 2026 19:41:07 +0000</pubDate>
     </item>
     <item>
-      <title>Влучання дрона у бпгатороверхі</title>
+      <title>Влучання дрона у багатороверхі</title>
       <link>https://www.mandarinai.lt/post/95677</link>
-      <description>Влучання дрона у бпгатороверхівку в Одесі: окупанти другу добу відправляють дрони на місто</description>
+      <description>Влучання дрона у багатороверхівку в Одесі: окупанти другу добу відправляють дрони на місто</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_19-44-15.jpg" length="188311" type="image/jpeg"/>
       <pubDate>Sun, 12 Jul 2026 19:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупанти на мотоциклах намагаю</title>
+      <link>https://www.mandarinai.lt/post/95680</link>
+      <description>Окупанти на мотоциклах намагаються проїхати ближче до Купʼянська, але кількість спалених російських автівок, які вони бачать по дорозі, їх не дуже мотивує.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1006.MP4" length="14347478" type="video/mp4"/>
+      <pubDate>Sun, 12 Jul 2026 20:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Щойно росіяни вдарили по ба</title>
+      <link>https://www.mandarinai.lt/post/95681</link>
+      <description>⚡️ Щойно росіяни вдарили по багатоповерхівці у Запоріжжі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1008.MP4" length="5327070" type="video/mp4"/>
+      <pubDate>Sun, 12 Jul 2026 20:19:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
