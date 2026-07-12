@@ -5,6 +5,7 @@ import logging
 import xml.etree.ElementTree as ET
 import datetime
 import email.utils
+import requests                                  # <<< NAUJA: webhook siuntimui
 from feedgen.feed import FeedGenerator
 from google.cloud import storage
 from google.oauth2 import service_account
@@ -12,16 +13,13 @@ from telethon import TelegramClient
 from telethon.sessions import StringSession
 
 # ====================================================================
-# LOGŲ KONFIGŪRACIJA:
-# Nustatome pranešimų lygį ir sukuriame logger'į, kuris fiksuos vykdymo informaciją.
+# LOGŲ KONFIGŪRACIJA
 # ====================================================================
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ====================================================================
-# TELEGRAM PRISIJUNGIMO DUOMENYS:
-# Gauname reikiamus duomenis (api_id, api_hash ir string_session) iš aplinkos kintamųjų,
-# kad galėtume prisijungti prie Telegram API.
+# TELEGRAM PRISIJUNGIMO DUOMENYS
 # ====================================================================
 api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
@@ -29,9 +27,7 @@ string_session = os.getenv("TELEGRAM_STRING_SESSION")
 client = TelegramClient(StringSession(string_session), api_id, api_hash)
 
 # ====================================================================
-# GOOGLE CLOUD STORAGE KONFIGŪRACIJA:
-# Gauname Google Cloud saugyklos (Storage) kredencialus ir inicijuojame klientą,
-# taip pat nustatome saugyklos pavadinimą.
+# GOOGLE CLOUD STORAGE KONFIGŪRACIJA
 # ====================================================================
 credentials_json = os.getenv("GCP_SERVICE_ACCOUNT_JSON")
 if not credentials_json:
@@ -43,20 +39,21 @@ bucket_name = "telegram-media-storage"
 bucket = storage_client.bucket(bucket_name)
 
 # ====================================================================
-# NUOLATINIAI KONSTANTAI:
-# LAST_POST_FILE: Failas, kuriame saugomas paskutinio apdoroto įrašo ID.
-# RSS_FILE: Failo kelias, kuriame bus išsaugotas sugeneruotas RSS srautas.
-# MAX_POSTS: Maksimalus įrašų skaičius RSS faile (visada 7 paskutiniai postai).
-# MAX_MEDIA_SIZE: Maksimalus leidžiamas medijos failo dydis (30 MB).
+# KONSTANTOS
 # ====================================================================
 LAST_POST_FILE = "docs/last_post.json"
 RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 7
 MAX_MEDIA_SIZE = 30 * 1024 * 1024
 
+# <<< NAUJA: Make webhook konfigūracija
+MAKE_WEBHOOK_URL = os.getenv("MAKE_WEBHOOK_URL")   # GitHub Secret
+SENT_FILE = "docs/sent_to_make.json"               # Kurie video jau nusiųsti į Make
+SENT_HISTORY_LIMIT = 200                           # Kad failas neaugtų be galo
+
+
 # ====================================================================
-# FUNKCIJA: Įkelti paskutinio įrašo ID iš failo.
-# Jei failas neegzistuoja, grąžiname numatytąją reikšmę.
+# FUNKCIJA: Įkelti paskutinio įrašo ID iš failo
 # ====================================================================
 def load_last_post():
     if os.path.exists(LAST_POST_FILE):
@@ -64,17 +61,56 @@ def load_last_post():
             return json.load(f)
     return {"id": 0}
 
+
 # ====================================================================
-# FUNKCIJA: Įrašyti paskutinio įrašo ID į failą.
+# FUNKCIJA: Įrašyti paskutinio įrašo ID į failą
 # ====================================================================
 def save_last_post(post_data):
     os.makedirs("docs", exist_ok=True)
     with open(LAST_POST_FILE, "w") as f:
         json.dump(post_data, f)
 
+
 # ====================================================================
-# FUNKCIJA: Nuskaityti esamo RSS failo įrašus.
-# Jei RSS failas neegzistuoja arba yra sugadintas, grąžiname tuščią sąrašą.
+# <<< NAUJA: Į Make jau nusiųstų video ID sąrašas
+# ====================================================================
+def load_sent_ids():
+    if os.path.exists(SENT_FILE):
+        try:
+            with open(SENT_FILE, "r") as f:
+                return list(json.load(f))
+        except Exception as e:
+            logger.error(f"❌ {SENT_FILE} sugadintas, kuriamas naujas: {e}")
+    return []
+
+
+def save_sent_ids(ids):
+    os.makedirs("docs", exist_ok=True)
+    with open(SENT_FILE, "w") as f:
+        json.dump(ids[-SENT_HISTORY_LIMIT:], f)
+
+
+# ====================================================================
+# <<< NAUJA: Vieno video išsiuntimas į Make webhook'ą
+# ====================================================================
+def send_to_make(payload):
+    if not MAKE_WEBHOOK_URL:
+        logger.warning("⚠️ MAKE_WEBHOOK_URL nenustatytas – webhook praleidžiamas")
+        return False
+    try:
+        r = requests.post(MAKE_WEBHOOK_URL, json=payload, timeout=30)
+        if 200 <= r.status_code < 300:
+            logger.info(f"📨 Nusiųsta į Make: post {payload['id']}")
+            return True
+        logger.error(f"❌ Make webhook atmetė ({r.status_code}): {r.text[:200]}")
+        return False
+    except Exception as e:
+        logger.error(f"❌ Nepavyko pasiekti Make webhook: {e}")
+        return False
+
+
+# ====================================================================
+# FUNKCIJA: Nuskaityti esamo RSS failo įrašus
 # ====================================================================
 def load_existing_rss():
     if not os.path.exists(RSS_FILE):
@@ -88,49 +124,41 @@ def load_existing_rss():
         logger.error(f"❌ RSS failas sugadintas, kuriamas naujas: {e}")
         return []
 
+
 # ====================================================================
-# FUNKCIJA: Konvertuoti datą į datetime objektą.
-# Jei data jau yra datetime, grąžiname ją, o jei tai string – konvertuojame.
+# FUNKCIJA: Konvertuoti datą į datetime objektą
 # ====================================================================
 def get_datetime(date_val):
     if isinstance(date_val, datetime.datetime):
         return date_val
     try:
-        # Konvertuojame RFC 822 formato datą į datetime objektą.
         return email.utils.parsedate_to_datetime(date_val)
     except Exception:
         return datetime.datetime.min
 
+
 # ====================================================================
-# FUNKCIJA: Generuoti naują RSS srautą.
+# FUNKCIJA: Generuoti naują RSS srautą
 # ====================================================================
 async def create_rss():
-    # Prisijungiame prie Telegram API.
     await client.connect()
     last_post = load_last_post()
-    
-    # Gauname paskutines 14 žinutes iš kanalo "Tsaplienko".
+
     messages = await client.get_messages('Tsaplienko', limit=14)
 
-    # Kintamasis albumo pranešimų tekstams:
-    # Jei žinutės priklauso vienam albumui, visoms bus naudojamas tas pats tekstas.
     grouped_texts = {}
-    valid_posts = []  # Čia saugosime įrašus, kurie turi tiek tekstą, tiek medijos failą.
+    valid_posts = []
 
-    # Iteruojame per gautas žinutes.
     for msg in messages:
-        # Patikriname, ar žinutėje yra tekstas (message arba caption).
         text = msg.message or getattr(msg, "caption", None)
         if not text:
             logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi teksto (title/description)")
             continue
 
-        # Tikriname, ar žinutėje yra medijos failas.
         if not msg.media:
             logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi medijos failo")
             continue
 
-        # Jei žinutė priklauso albumui, užtikriname, kad visoms žinutėms būtų naudojamas vienodas tekstas.
         if hasattr(msg.media, "grouped_id") and msg.media.grouped_id:
             if msg.media.grouped_id not in grouped_texts:
                 grouped_texts[msg.media.grouped_id] = text
@@ -139,17 +167,14 @@ async def create_rss():
 
         valid_posts.append((msg, text))
 
-    # Jei naujų tinkamų įrašų nerasta – paliekame esamą RSS nepakitusią.
     if not valid_posts:
         logger.info("Naujų validių postų nerasta, RSS liks nepakitęs.")
         return
 
-    # Jei validių įrašų yra mažiau nei MAX_POSTS, papildomai pridedame senesnius įrašus iš esamo RSS.
     if len(valid_posts) < MAX_POSTS:
         existing_items = load_existing_rss()
         additional_needed = MAX_POSTS - len(valid_posts)
         for item in existing_items[:additional_needed]:
-            # Sukuriame "fake" pranešimą, kad atitikčiau duomenų struktūrą.
             fake_msg = type("FakeMsg", (object,), {})()
             fake_msg.id = item.find("guid").text if item.find("guid") is not None else 0
             fake_msg.date = item.find("pubDate").text if item.find("pubDate") is not None else ""
@@ -158,36 +183,31 @@ async def create_rss():
             if len(valid_posts) >= MAX_POSTS:
                 break
 
-    # Rūšiuojame įrašus pagal datą mažėjimo tvarka – naujausi postai bus viršuje.
+    # Naujausi viršuje (feedgen prepend'ina, todėl XML'e išeis nuo seniausio)
     valid_posts.sort(key=lambda x: get_datetime(x[0].date), reverse=True)
 
-    # Pradedame generuoti naują RSS srautą su FeedGenerator.
     fg = FeedGenerator()
-    fg.title('Latest news')                           # Kanalas: pavadinimas.
-    fg.link(href='https://www.mandarinai.lt/')         # Kanalas: pagrindinė nuoroda.
-    fg.description('Naujienų kanalą pristato www.mandarinai.lt')  # Kanalas: aprašymas.
+    fg.title('Latest news')
+    fg.link(href='https://www.mandarinai.lt/')
+    fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
-    seen_media = set()  # Saugojame jau panaudotus medijos failų pavadinimus,
-                        # kad jų nebūtų dubliuota RSS įraše.
+    seen_media = set()
+    sent_ids = load_sent_ids()          # <<< NAUJA
+    new_videos = []                     # <<< NAUJA: kandidatai siuntimui į Make
 
-    # Iteruojame per kiekvieną validų įrašą.
     for msg, text in valid_posts:
-        fe = fg.add_entry()  # Pridedame naują įrašą į RSS srautą.
-        fe.title(text[:30] if text else "No Title")  # Įrašo pavadinimas (pirmos 30 simbolių).
-        fe.link(href=f"https://www.mandarinai.lt/post/{msg.id}")  # Pridedame individualią nuorodą į įrašą.
-        fe.description(text if text else "No Content")  # Įrašo aprašymas (pilnas tekstas).
-        fe.pubDate(msg.date)  # Įrašo paskelbimo data.
+        fe = fg.add_entry()
+        fe.title(text[:30] if text else "No Title")
+        fe.link(href=f"https://www.mandarinai.lt/post/{msg.id}")
+        fe.description(text if text else "No Content")
+        fe.pubDate(msg.date)
 
-        # Apdorojame medijos failą iš žinutės.
         try:
-            # Parsisiunčiame medijos failą į vietinę sistemą.
             media_path = await msg.download_media(file="./")
             if not media_path:
                 logger.warning(f"⚠️ Nepavyko parsisiųsti medijos iš post {msg.id}")
                 continue
 
-            # Jei žinutėje yra daugiau nei vienas medijos failas (pvz., albumas),
-            # pasirinkime mp4 failą, jei toks yra (naudojama .lower() tikrinimui).
             if isinstance(media_path, list):
                 mp4_files = [p for p in media_path if p.lower().endswith('.mp4')]
                 if mp4_files:
@@ -195,26 +215,20 @@ async def create_rss():
                 else:
                     media_path = media_path[0]
 
-            # Patikriname, ar medijos failo dydis neviršija nustatytos ribos.
             if os.path.getsize(media_path) > MAX_MEDIA_SIZE:
                 logger.info(f"❌ Didelis failas – {media_path}, praleidžiamas")
                 os.remove(media_path)
                 continue
 
-            # Nustatome medijos failo MIME tipą pagal reikalavimą:
-            # Jei failo plėtinys yra vienas iš nurodytų vaizdo įrašų plėtinių – laikome jį vaizdo įrašu,
-            # kitu atveju – nuotrauka.
             video_extensions = ['.mp4', '.mov', '.mkv', '.avi', '.wmv', '.flv', '.webm']
             if media_path.lower().endswith(tuple(video_extensions)):
                 content_type = 'video/mp4'
             else:
                 content_type = 'image/jpeg'
 
-            # Nustatome medijos failo pavadinimą ir paruošiame failą įkėlimui į Google Cloud Storage.
             blob_name = os.path.basename(media_path)
             blob = bucket.blob(blob_name)
 
-            # Jei failas dar nėra įkeltas į saugyklą, atliekame įkėlimą.
             if not blob.exists():
                 blob.upload_from_filename(media_path)
                 blob.content_type = content_type
@@ -222,32 +236,59 @@ async def create_rss():
             else:
                 logger.info(f"🔄 {blob_name} jau egzistuoja Google Cloud Storage")
 
-            # Pridedame medijos failą kaip RSS įrašo priedą (<enclosure> elementą).
+            media_url = f"https://storage.googleapis.com/{bucket_name}/{blob_name}"
+
             if blob_name not in seen_media:
                 seen_media.add(blob_name)
                 fe.enclosure(
-                    url=f"https://storage.googleapis.com/{bucket_name}/{blob_name}",
+                    url=media_url,
                     type=content_type,
-                    length=str(os.path.getsize(media_path))  # Nustatome failo dydį (baitu skaičius).
+                    length=str(os.path.getsize(media_path))
                 )
 
-            # Ištriname parsisiųstą medijos failą iš vietinės sistemos.
+            # ============================================================
+            # <<< NAUJA: jei tai VIDEO ir dar nesiųstas – į eilę Make'ui
+            # ============================================================
+            post_id = str(msg.id)
+            if content_type == 'video/mp4' and post_id not in sent_ids:
+                new_videos.append({
+                    "id": post_id,
+                    "description": text,
+                    "video_url": media_url,
+                    "link": f"https://www.mandarinai.lt/post/{msg.id}",
+                    "pubdate": str(msg.date),
+                    "_sort": get_datetime(msg.date),
+                })
+
             os.remove(media_path)
         except Exception as e:
             logger.error(f"❌ Klaida apdorojant mediją iš post {msg.id}: {e}")
 
-    # Išsaugome paskutinio įrašo ID, kad vėliau žinotume nuo kurio laiko ieškoti naujų žinučių.
     save_last_post({"id": valid_posts[0][0].id})
 
-    # Įrašome sugeneruotą RSS srautą į failą, naudodami gražų formatavimą.
     with open(RSS_FILE, "wb") as f:
         f.write(fg.rss_str(pretty=True))
 
     logger.info("✅ RSS atnaujintas sėkmingai!")
 
+    # ================================================================
+    # <<< NAUJA: siunčiame naujus video į Make – SENIAUSIAS PIRMAS,
+    # kad Facebook'e postai atsirastų chronologine tvarka.
+    # ================================================================
+    if new_videos:
+        new_videos.sort(key=lambda v: v["_sort"])          # seniausias -> naujausias
+        logger.info(f"🎬 Rasta {len(new_videos)} nauj(as/i) video, siunčiame į Make...")
+        for video in new_videos:
+            payload = {k: v for k, v in video.items() if k != "_sort"}
+            if send_to_make(payload):
+                sent_ids.append(video["id"])
+                save_sent_ids(sent_ids)                    # įrašom iškart po kiekvieno
+    else:
+        logger.info("🎬 Naujų video nerasta – Make nekviečiamas.")
+
+
 # ====================================================================
-# PAGRINDINIS PROGRAMOS PALEIDIMAS:
-# Paleidžiame asinkroninį pagrindinį ciklą, kuris generuoja RSS srautą.
+# PAGRINDINIS PROGRAMOS PALEIDIMAS
 # ====================================================================
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
