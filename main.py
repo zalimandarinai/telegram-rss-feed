@@ -1,11 +1,12 @@
 import asyncio
 import os
 import json
+import time
 import logging
 import xml.etree.ElementTree as ET
 import datetime
 import email.utils
-import requests                                  # <<< NAUJA: webhook siuntimui
+import requests
 from feedgen.feed import FeedGenerator
 from google.cloud import storage
 from google.oauth2 import service_account
@@ -46,14 +47,78 @@ RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 7
 MAX_MEDIA_SIZE = 30 * 1024 * 1024
 
-# <<< NAUJA: Make webhook konfigūracija
-MAKE_WEBHOOK_URL = os.getenv("MAKE_WEBHOOK_URL")   # GitHub Secret
-SENT_FILE = "docs/sent_to_make.json"               # Kurie video jau nusiųsti į Make
-SENT_HISTORY_LIMIT = 200                           # Kad failas neaugtų be galo
+# Make webhook
+MAKE_WEBHOOK_URL = os.getenv("MAKE_WEBHOOK_URL")
+SENT_FILE = "docs/sent_to_make.json"        # jau paskelbti video ID
+LAST_SENT_FILE = "docs/last_sent.json"      # kada paskutinį kartą siųsta
+SENT_HISTORY_LIMIT = 200
+
+# Postinimo dažnio riba: ne dažniau kaip 1 postas per valandą
+MIN_INTERVAL_SECONDS = 60 * 60
+
+# DeepSeek
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
+DEEPSEEK_MODEL = "deepseek-chat"
+
+SYSTEM_PROMPT = """You are a news editor for a Lithuanian-language Facebook news page. The user message contains ONE news item from a Ukrainian Telegram channel (Ukrainian or Russian). Turn it into one ready-to-publish Lithuanian Facebook post.
+
+A. CORE RULES
+1. Translate faithfully. Minimal creativity. Add no facts that are not in the source. Write only about what the source says.
+2. Begin with a short notice that this is the latest news from Ukraine.
+3. Editorial frame: Russia and its actions are aggression; Ukraine is the defending country, even when it strikes objects inside Russia. Never reproduce the aggressor's framing.
+4. Remove every link and URL. Add none. Do not invite readers to follow other channels.
+5. Keep emojis from the source and place them naturally.
+6. End with 3-5 Lithuanian hashtags.
+7. Output ONLY the final post text - no preamble, no explanation, no quotation marks, no alternatives, no notes about your choices. One single response.
+
+B. THE MOST IMPORTANT PART: WORDS YOU ARE NOT SURE ABOUT
+The source is written by soldiers and war reporters. It is full of military slang, allegory, euphemism, irony, abbreviations and typos. Translating such words literally produces nonsense. You will constantly meet words that are not in any glossary. The following procedure is mandatory and applies to EVERY word, not only to the examples in section C.
+
+STEP 1 - DETECT.
+Before writing any Lithuanian word, ask yourself:
+  (a) Is the literal meaning absurd or impossible in this context? (cotton exploding, an "arrival" that kills people, birds destroying tanks, someone being "two-hundredth")
+  (b) Would the literal translation produce a word that is not a real Lithuanian word, or a word an ordinary Lithuanian reader would not understand?
+  (c) Is it an abbreviation, a nickname, a unit name, a coarse or ironic expression?
+If the answer to ANY of these is yes, the word is SUSPECT. Do not translate it literally. Go to step 2.
+
+STEP 2 - RECOVER THE FACT.
+Ask: what physically happened? Who did what to whom, with what result? Ignore the image, the joke and the emotion. Extract the plain fact.
+
+STEP 3 - WRITE THE FACT, NOT THE WORD.
+State that fact in ordinary Lithuanian, using words that exist in a Lithuanian dictionary and that a person who does not follow the war would understand. The metaphor disappears; the fact stays.
+
+STEP 4 - IF YOU ARE NOT CERTAIN WHAT THE WORD MEANS.
+This is the rule that matters most. You are FORBIDDEN to guess. Do exactly one of the following, in this order of preference:
+  (a) Replace the term with a broader, safer word you are certain about (for example: a specific unknown weapon -> "karine technika", "ginkluote", "smugis", "iranga").
+  (b) If the news still makes sense without the term, leave the term out entirely.
+  (c) If the whole sentence depends on the term and you cannot recover its meaning, drop that sentence. A shorter, correct post is always better than a longer, wrong one.
+Never transliterate. Never invent a Lithuanian-looking word. Never keep the foreign word because it "sounds similar". Sound similarity is not translation.
+
+STEP 5 - FINAL CHECK BEFORE YOU ANSWER.
+Read your own text word by word and ask about each word:
+  - Is this a real Lithuanian word that exists in the dictionary?
+  - Would a Lithuanian who does not follow the war understand it?
+  - Did I copy an image or a construction from the original instead of saying what happened?
+If any answer is bad, rewrite that part using simpler words. Losing colour is acceptable. An invented or distorted word is NOT acceptable.
+
+The result must contain only plain, everyday spoken Lithuanian: no slang, no jargon, no neologisms, no calques. Short, simple sentences. The source may contain typos (e.g. "дррни" instead of "дрони") - infer the intended word from context.
+
+C. EXAMPLES OF THE PROCEDURE (illustrations only - the list is NOT complete, the procedure above always applies)
+прильот -> literally "an arrival" -> the fact: a missile or drone hit a target -> write: smūgis / antskrydis. NEVER "prilytimas".
+бавовна -> literally "cotton" -> the fact: explosions -> write: sprogimai.
+двохсотий / 300-й -> literally "two-hundredth" -> the fact: a person was killed / wounded -> write: žuvęs / sužeistas.
+«Птахи Мадяра» -> the fact: a Ukrainian drone unit -> write: Madiaro paukščiai (Ukrainos dronų dalinys). NEVER "Ptačių Madyaro komanda".
+ліквідовано -> the fact: destroyed (equipment) or killed (soldiers) -> write accordingly.
+орки, рашисти, кацапи -> the fact: Russian soldiers -> write: rusų kariai / okupantai. Never use insulting words.
+Шахед -> šachedas (never "šachidas"). БпЛА -> nepilotuojami orlaiviai (dronai). КАБ -> koreguojamoji aviacinė bomba. ЗРК -> priešlėktuvinių raketų sistema. ППО -> oro gynyba. ЗСУ -> Ukrainos ginkluotosios pajėgos.
+
+D. NEVER OUTPUT THESE (they appeared in earlier failed translations)
+"bojepripaiso", "antipersonines minas", "Ptačių Madyaro komanda", "šokiruojantis prilytimas", "šachidas"."""
 
 
 # ====================================================================
-# FUNKCIJA: Įkelti paskutinio įrašo ID iš failo
+# BŪSENOS FAILAI
 # ====================================================================
 def load_last_post():
     if os.path.exists(LAST_POST_FILE):
@@ -62,18 +127,12 @@ def load_last_post():
     return {"id": 0}
 
 
-# ====================================================================
-# FUNKCIJA: Įrašyti paskutinio įrašo ID į failą
-# ====================================================================
 def save_last_post(post_data):
     os.makedirs("docs", exist_ok=True)
     with open(LAST_POST_FILE, "w") as f:
         json.dump(post_data, f)
 
 
-# ====================================================================
-# <<< NAUJA: Į Make jau nusiųstų video ID sąrašas
-# ====================================================================
 def load_sent_ids():
     if os.path.exists(SENT_FILE):
         try:
@@ -90,12 +149,82 @@ def save_sent_ids(ids):
         json.dump(ids[-SENT_HISTORY_LIMIT:], f)
 
 
+def load_last_sent_ts():
+    if os.path.exists(LAST_SENT_FILE):
+        try:
+            with open(LAST_SENT_FILE, "r") as f:
+                return float(json.load(f).get("ts", 0))
+        except Exception:
+            return 0.0
+    return 0.0
+
+
+def save_last_sent_ts(ts):
+    os.makedirs("docs", exist_ok=True)
+    with open(LAST_SENT_FILE, "w") as f:
+        json.dump({"ts": ts, "utc": datetime.datetime.utcfromtimestamp(ts).isoformat()}, f)
+
+
 # ====================================================================
-# <<< NAUJA: Vieno video išsiuntimas į Make webhook'ą
+# PRANEŠIMAS Į TELEGRAM (Saved Messages)
+# ====================================================================
+async def notify(text):
+    logger.warning(text)
+    try:
+        await client.send_message("me", text)
+    except Exception as e:
+        logger.error(f"❌ Nepavyko išsiųsti pranešimo į Telegram: {e}")
+
+
+# ====================================================================
+# VERTIMAS SU DEEPSEEK
+# Grąžina (tekstas, ok). Nepavykus - ("", False).
+# ====================================================================
+def translate(text):
+    if not DEEPSEEK_API_KEY:
+        return "", False, "DEEPSEEK_API_KEY nenustatytas"
+
+    payload = {
+        "model": DEEPSEEK_MODEL,
+        "temperature": 0.2,
+        "top_p": 1,
+        "max_tokens": 1000,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": text},
+        ],
+    }
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+    }
+
+    # 2 bandymai - trumpi tinklo trikdžiai neturi kainuoti posto teksto
+    for attempt in (1, 2):
+        try:
+            r = requests.post(DEEPSEEK_URL, json=payload, headers=headers, timeout=90)
+            if r.status_code == 200:
+                content = r.json()["choices"][0]["message"]["content"].strip()
+                if content:
+                    return content, True, ""
+                reason = "DeepSeek grąžino tuščią atsakymą"
+            else:
+                reason = f"HTTP {r.status_code}: {r.text[:200]}"
+        except Exception as e:
+            reason = f"{type(e).__name__}: {e}"
+        logger.warning(f"⚠️ DeepSeek bandymas {attempt} nepavyko: {reason}")
+        if attempt == 1:
+            time.sleep(5)
+
+    return "", False, reason
+
+
+# ====================================================================
+# SIUNTIMAS Į MAKE
 # ====================================================================
 def send_to_make(payload):
     if not MAKE_WEBHOOK_URL:
-        logger.warning("⚠️ MAKE_WEBHOOK_URL nenustatytas – webhook praleidžiamas")
+        logger.warning("⚠️ MAKE_WEBHOOK_URL nenustatytas - webhook praleidžiamas")
         return False
     try:
         r = requests.post(MAKE_WEBHOOK_URL, json=payload, timeout=30)
@@ -110,7 +239,7 @@ def send_to_make(payload):
 
 
 # ====================================================================
-# FUNKCIJA: Nuskaityti esamo RSS failo įrašus
+# RSS PAGALBINĖS
 # ====================================================================
 def load_existing_rss():
     if not os.path.exists(RSS_FILE):
@@ -125,9 +254,6 @@ def load_existing_rss():
         return []
 
 
-# ====================================================================
-# FUNKCIJA: Konvertuoti datą į datetime objektą
-# ====================================================================
 def get_datetime(date_val):
     if isinstance(date_val, datetime.datetime):
         return date_val
@@ -138,7 +264,7 @@ def get_datetime(date_val):
 
 
 # ====================================================================
-# FUNKCIJA: Generuoti naują RSS srautą
+# PAGRINDINĖ FUNKCIJA
 # ====================================================================
 async def create_rss():
     await client.connect()
@@ -152,19 +278,16 @@ async def create_rss():
     for msg in messages:
         text = msg.message or getattr(msg, "caption", None)
         if not text:
-            logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi teksto (title/description)")
+            logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi teksto")
             continue
-
         if not msg.media:
             logger.warning(f"⚠️ Praleidžiamas postas {msg.id}, nes neturi medijos failo")
             continue
-
         if hasattr(msg.media, "grouped_id") and msg.media.grouped_id:
             if msg.media.grouped_id not in grouped_texts:
                 grouped_texts[msg.media.grouped_id] = text
             else:
                 text = grouped_texts[msg.media.grouped_id]
-
         valid_posts.append((msg, text))
 
     if not valid_posts:
@@ -183,7 +306,6 @@ async def create_rss():
             if len(valid_posts) >= MAX_POSTS:
                 break
 
-    # Naujausi viršuje (feedgen prepend'ina, todėl XML'e išeis nuo seniausio)
     valid_posts.sort(key=lambda x: get_datetime(x[0].date), reverse=True)
 
     fg = FeedGenerator()
@@ -192,8 +314,8 @@ async def create_rss():
     fg.description('Naujienų kanalą pristato www.mandarinai.lt')
 
     seen_media = set()
-    sent_ids = load_sent_ids()          # <<< NAUJA
-    new_videos = []                     # <<< NAUJA: kandidatai siuntimui į Make
+    sent_ids = load_sent_ids()
+    queue = []          # nepaskelbti video
 
     for msg, text in valid_posts:
         fe = fg.add_entry()
@@ -210,13 +332,10 @@ async def create_rss():
 
             if isinstance(media_path, list):
                 mp4_files = [p for p in media_path if p.lower().endswith('.mp4')]
-                if mp4_files:
-                    media_path = mp4_files[0]
-                else:
-                    media_path = media_path[0]
+                media_path = mp4_files[0] if mp4_files else media_path[0]
 
             if os.path.getsize(media_path) > MAX_MEDIA_SIZE:
-                logger.info(f"❌ Didelis failas – {media_path}, praleidžiamas")
+                logger.info(f"❌ Didelis failas - {media_path}, praleidžiamas")
                 os.remove(media_path)
                 continue
 
@@ -240,20 +359,14 @@ async def create_rss():
 
             if blob_name not in seen_media:
                 seen_media.add(blob_name)
-                fe.enclosure(
-                    url=media_url,
-                    type=content_type,
-                    length=str(os.path.getsize(media_path))
-                )
+                fe.enclosure(url=media_url, type=content_type,
+                             length=str(os.path.getsize(media_path)))
 
-            # ============================================================
-            # <<< NAUJA: jei tai VIDEO ir dar nesiųstas – į eilę Make'ui
-            # ============================================================
             post_id = str(msg.id)
             if content_type == 'video/mp4' and post_id not in sent_ids:
-                new_videos.append({
+                queue.append({
                     "id": post_id,
-                    "description": text,
+                    "raw_text": text,
                     "video_url": media_url,
                     "link": f"https://www.mandarinai.lt/post/{msg.id}",
                     "pubdate": str(msg.date),
@@ -272,23 +385,65 @@ async def create_rss():
     logger.info("✅ RSS atnaujintas sėkmingai!")
 
     # ================================================================
-    # <<< NAUJA: siunčiame naujus video į Make – SENIAUSIAS PIRMAS,
-    # kad Facebook'e postai atsirastų chronologine tvarka.
+    # POSTINIMAS: 1 video per paleidimą, ne dažniau kaip kartą per valandą,
+    # seniausias pirmas (kad Facebook'e tvarka liktų chronologinė).
     # ================================================================
-    if new_videos:
-        new_videos.sort(key=lambda v: v["_sort"])          # seniausias -> naujausias
-        logger.info(f"🎬 Rasta {len(new_videos)} nauj(as/i) video, siunčiame į Make...")
-        for video in new_videos:
-            payload = {k: v for k, v in video.items() if k != "_sort"}
-            if send_to_make(payload):
-                sent_ids.append(video["id"])
-                save_sent_ids(sent_ids)                    # įrašom iškart po kiekvieno
+    if not queue:
+        logger.info("🎬 Naujų video nėra - nieko nesiunčiam.")
+        return
+
+    queue.sort(key=lambda v: v["_sort"])   # seniausias -> naujausias
+    logger.info(f"🎬 Eilėje laukia {len(queue)} video.")
+
+    now = time.time()
+    last_sent = load_last_sent_ts()
+    elapsed = now - last_sent
+
+    if elapsed < MIN_INTERVAL_SECONDS:
+        wait_min = int((MIN_INTERVAL_SECONDS - elapsed) / 60)
+        logger.info(f"⏳ Nuo paskutinio posto praėjo tik {int(elapsed/60)} min. "
+                    f"Laukiam dar {wait_min} min. (riba: 1 postas/val.)")
+        return
+
+    video = queue[0]
+    logger.info(f"🚀 Skelbiam video {video['id']} ({video['pubdate']})")
+
+    lt_text, ok, reason = translate(video["raw_text"])
+
+    if not ok:
+        await notify(
+            "⚠️ DeepSeek vertimas NEPAVYKO\n\n"
+            f"Postas: {video['link']}\n"
+            f"Priežastis: {reason}\n\n"
+            "Video paskelbtas Facebook'e BE TEKSTO. "
+            "Tekstą reikės pridėti ranka arba ištrinti postą."
+        )
+
+    payload = {
+        "id": video["id"],
+        "description": lt_text,          # tuščias, jei vertimas nepavyko
+        "video_url": video["video_url"],
+        "link": video["link"],
+        "pubdate": video["pubdate"],
+        "translation_ok": ok,
+    }
+
+    if send_to_make(payload):
+        sent_ids.append(video["id"])
+        save_sent_ids(sent_ids)
+        save_last_sent_ts(now)
+        left = len(queue) - 1
+        logger.info(f"✅ Paskelbta. Eilėje liko {left} video (kitas ne anksčiau kaip po 1 val.)")
     else:
-        logger.info("🎬 Naujų video nerasta – Make nekviečiamas.")
+        await notify(
+            "🔴 Make webhook NEPASIEKIAMAS\n\n"
+            f"Postas: {video['link']}\n"
+            "Video NEPASKELBTAS. Bus bandoma dar kartą kito paleidimo metu."
+        )
 
 
 # ====================================================================
-# PAGRINDINIS PROGRAMOS PALEIDIMAS
+# PALEIDIMAS
 # ====================================================================
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
