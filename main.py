@@ -13,6 +13,8 @@ from google.oauth2 import service_account
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
+import translate_pipeline  # 3 pakopų vertimas + saugiklis
+
 # ====================================================================
 # LOGŲ KONFIGŪRACIJA
 # ====================================================================
@@ -47,74 +49,15 @@ RSS_FILE = "docs/rss.xml"
 MAX_POSTS = 7
 MAX_MEDIA_SIZE = 30 * 1024 * 1024
 
-# Make webhook
 MAKE_WEBHOOK_URL = os.getenv("MAKE_WEBHOOK_URL")
-SENT_FILE = "docs/sent_to_make.json"        # jau paskelbti video ID
-LAST_SENT_FILE = "docs/last_sent.json"      # kada paskutinį kartą siųsta
+SENT_FILE = "docs/sent_to_make.json"
+LAST_SENT_FILE = "docs/last_sent.json"
 SENT_HISTORY_LIMIT = 200
 
 # Postinimo dažnio riba: ne dažniau kaip 1 postas per valandą
 MIN_INTERVAL_SECONDS = 60 * 60
 
-# DeepSeek
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
-DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
-DEEPSEEK_MODEL = "deepseek-chat"
-
-SYSTEM_PROMPT = """You are a news editor for a Lithuanian-language Facebook news page. The user message contains ONE news item from a Ukrainian Telegram channel (Ukrainian or Russian). Turn it into one ready-to-publish Lithuanian Facebook post.
-
-A. CORE RULES
-1. Translate faithfully. Minimal creativity. Add no facts that are not in the source. Write only about what the source says.
-2. Begin with a short notice that this is the latest news from Ukraine.
-3. Editorial frame: Russia and its actions are aggression; Ukraine is the defending country, even when it strikes objects inside Russia. Never reproduce the aggressor's framing.
-4. Remove every link and URL. Add none. Do not invite readers to follow other channels.
-5. Keep emojis from the source and place them naturally.
-6. End with 3-5 Lithuanian hashtags.
-7. Output ONLY the final post text - no preamble, no explanation, no quotation marks, no alternatives, no notes about your choices. One single response.
-
-B. THE MOST IMPORTANT PART: WORDS YOU ARE NOT SURE ABOUT
-The source is written by soldiers and war reporters. It is full of military slang, allegory, euphemism, irony, abbreviations and typos. Translating such words literally produces nonsense. You will constantly meet words that are not in any glossary. The following procedure is mandatory and applies to EVERY word, not only to the examples in section C.
-
-STEP 1 - DETECT.
-Before writing any Lithuanian word, ask yourself:
-  (a) Is the literal meaning absurd or impossible in this context? (cotton exploding, an "arrival" that kills people, birds destroying tanks, someone being "two-hundredth")
-  (b) Would the literal translation produce a word that is not a real Lithuanian word, or a word an ordinary Lithuanian reader would not understand?
-  (c) Is it an abbreviation, a nickname, a unit name, a coarse or ironic expression?
-If the answer to ANY of these is yes, the word is SUSPECT. Do not translate it literally. Go to step 2.
-
-STEP 2 - RECOVER THE FACT.
-Ask: what physically happened? Who did what to whom, with what result? Ignore the image, the joke and the emotion. Extract the plain fact.
-
-STEP 3 - WRITE THE FACT, NOT THE WORD.
-State that fact in ordinary Lithuanian, using words that exist in a Lithuanian dictionary and that a person who does not follow the war would understand. The metaphor disappears; the fact stays.
-
-STEP 4 - IF YOU ARE NOT CERTAIN WHAT THE WORD MEANS.
-This is the rule that matters most. You are FORBIDDEN to guess. Do exactly one of the following, in this order of preference:
-  (a) Replace the term with a broader, safer word you are certain about (for example: a specific unknown weapon -> "karine technika", "ginkluote", "smugis", "iranga").
-  (b) If the news still makes sense without the term, leave the term out entirely.
-  (c) If the whole sentence depends on the term and you cannot recover its meaning, drop that sentence. A shorter, correct post is always better than a longer, wrong one.
-Never transliterate. Never invent a Lithuanian-looking word. Never keep the foreign word because it "sounds similar". Sound similarity is not translation.
-
-STEP 5 - FINAL CHECK BEFORE YOU ANSWER.
-Read your own text word by word and ask about each word:
-  - Is this a real Lithuanian word that exists in the dictionary?
-  - Would a Lithuanian who does not follow the war understand it?
-  - Did I copy an image or a construction from the original instead of saying what happened?
-If any answer is bad, rewrite that part using simpler words. Losing colour is acceptable. An invented or distorted word is NOT acceptable.
-
-The result must contain only plain, everyday spoken Lithuanian: no slang, no jargon, no neologisms, no calques. Short, simple sentences. The source may contain typos (e.g. "дррни" instead of "дрони") - infer the intended word from context.
-
-C. EXAMPLES OF THE PROCEDURE (illustrations only - the list is NOT complete, the procedure above always applies)
-прильот -> literally "an arrival" -> the fact: a missile or drone hit a target -> write: smūgis / antskrydis. NEVER "prilytimas".
-бавовна -> literally "cotton" -> the fact: explosions -> write: sprogimai.
-двохсотий / 300-й -> literally "two-hundredth" -> the fact: a person was killed / wounded -> write: žuvęs / sužeistas.
-«Птахи Мадяра» -> the fact: a Ukrainian drone unit -> write: Madiaro paukščiai (Ukrainos dronų dalinys). NEVER "Ptačių Madyaro komanda".
-ліквідовано -> the fact: destroyed (equipment) or killed (soldiers) -> write accordingly.
-орки, рашисти, кацапи -> the fact: Russian soldiers -> write: rusų kariai / okupantai. Never use insulting words.
-Шахед -> šachedas (never "šachidas"). БпЛА -> nepilotuojami orlaiviai (dronai). КАБ -> koreguojamoji aviacinė bomba. ЗРК -> priešlėktuvinių raketų sistema. ППО -> oro gynyba. ЗСУ -> Ukrainos ginkluotosios pajėgos.
-
-D. NEVER OUTPUT THESE (they appeared in earlier failed translations)
-"bojepripaiso", "antipersonines minas", "Ptačių Madyaro komanda", "šokiruojantis prilytimas", "šachidas"."""
 
 
 # ====================================================================
@@ -162,7 +105,8 @@ def load_last_sent_ts():
 def save_last_sent_ts(ts):
     os.makedirs("docs", exist_ok=True)
     with open(LAST_SENT_FILE, "w") as f:
-        json.dump({"ts": ts, "utc": datetime.datetime.utcfromtimestamp(ts).isoformat()}, f)
+        json.dump({"ts": ts,
+                   "utc": datetime.datetime.utcfromtimestamp(ts).isoformat()}, f)
 
 
 # ====================================================================
@@ -174,49 +118,6 @@ async def notify(text):
         await client.send_message("me", text)
     except Exception as e:
         logger.error(f"❌ Nepavyko išsiųsti pranešimo į Telegram: {e}")
-
-
-# ====================================================================
-# VERTIMAS SU DEEPSEEK
-# Grąžina (tekstas, ok). Nepavykus - ("", False).
-# ====================================================================
-def translate(text):
-    if not DEEPSEEK_API_KEY:
-        return "", False, "DEEPSEEK_API_KEY nenustatytas"
-
-    payload = {
-        "model": DEEPSEEK_MODEL,
-        "temperature": 0.2,
-        "top_p": 1,
-        "max_tokens": 1000,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": text},
-        ],
-    }
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
-    }
-
-    # 2 bandymai - trumpi tinklo trikdžiai neturi kainuoti posto teksto
-    for attempt in (1, 2):
-        try:
-            r = requests.post(DEEPSEEK_URL, json=payload, headers=headers, timeout=90)
-            if r.status_code == 200:
-                content = r.json()["choices"][0]["message"]["content"].strip()
-                if content:
-                    return content, True, ""
-                reason = "DeepSeek grąžino tuščią atsakymą"
-            else:
-                reason = f"HTTP {r.status_code}: {r.text[:200]}"
-        except Exception as e:
-            reason = f"{type(e).__name__}: {e}"
-        logger.warning(f"⚠️ DeepSeek bandymas {attempt} nepavyko: {reason}")
-        if attempt == 1:
-            time.sleep(5)
-
-    return "", False, reason
 
 
 # ====================================================================
@@ -315,7 +216,7 @@ async def create_rss():
 
     seen_media = set()
     sent_ids = load_sent_ids()
-    queue = []          # nepaskelbti video
+    queue = []
 
     for msg, text in valid_posts:
         fe = fg.add_entry()
@@ -385,19 +286,18 @@ async def create_rss():
     logger.info("✅ RSS atnaujintas sėkmingai!")
 
     # ================================================================
-    # POSTINIMAS: 1 video per paleidimą, ne dažniau kaip kartą per valandą,
-    # seniausias pirmas (kad Facebook'e tvarka liktų chronologinė).
+    # POSTINIMAS: 1 video per paleidimą, ne dažniau kaip 1 kartą per valandą,
+    # seniausias pirmas (FB tvarka lieka chronologinė).
     # ================================================================
     if not queue:
         logger.info("🎬 Naujų video nėra - nieko nesiunčiam.")
         return
 
-    queue.sort(key=lambda v: v["_sort"])   # seniausias -> naujausias
+    queue.sort(key=lambda v: v["_sort"])
     logger.info(f"🎬 Eilėje laukia {len(queue)} video.")
 
     now = time.time()
-    last_sent = load_last_sent_ts()
-    elapsed = now - last_sent
+    elapsed = now - load_last_sent_ts()
 
     if elapsed < MIN_INTERVAL_SECONDS:
         wait_min = int((MIN_INTERVAL_SECONDS - elapsed) / 60)
@@ -408,20 +308,29 @@ async def create_rss():
     video = queue[0]
     logger.info(f"🚀 Skelbiam video {video['id']} ({video['pubdate']})")
 
-    lt_text, ok, reason = translate(video["raw_text"])
+    lt_text, ok, report = translate_pipeline.translate(DEEPSEEK_API_KEY, video["raw_text"])
 
     if not ok:
         await notify(
-            "⚠️ DeepSeek vertimas NEPAVYKO\n\n"
+            "⚠️ VERTIMAS NEPAVYKO\n\n"
             f"Postas: {video['link']}\n"
-            f"Priežastis: {reason}\n\n"
-            "Video paskelbtas Facebook'e BE TEKSTO. "
-            "Tekstą reikės pridėti ranka arba ištrinti postą."
+            f"Priežastis: {report}\n\n"
+            "Video paskelbtas Facebook'e BE TEKSTO.\n"
+            "Originalas:\n"
+            f"{video['raw_text'][:500]}"
+        )
+    elif report and report != "ok":
+        await notify(
+            "🟡 Vertimas praėjo, bet su pastabomis\n\n"
+            f"Postas: {video['link']}\n"
+            f"Pastabos: {report}\n\n"
+            "Vertimas:\n"
+            f"{lt_text[:600]}"
         )
 
     payload = {
         "id": video["id"],
-        "description": lt_text,          # tuščias, jei vertimas nepavyko
+        "description": lt_text,
         "video_url": video["video_url"],
         "link": video["link"],
         "pubdate": video["pubdate"],
@@ -432,8 +341,8 @@ async def create_rss():
         sent_ids.append(video["id"])
         save_sent_ids(sent_ids)
         save_last_sent_ts(now)
-        left = len(queue) - 1
-        logger.info(f"✅ Paskelbta. Eilėje liko {left} video (kitas ne anksčiau kaip po 1 val.)")
+        logger.info(f"✅ Paskelbta. Eilėje liko {len(queue) - 1} video "
+                    f"(kitas ne anksčiau kaip po 1 val.)")
     else:
         await notify(
             "🔴 Make webhook NEPASIEKIAMAS\n\n"
