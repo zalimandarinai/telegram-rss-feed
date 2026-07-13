@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 01:14:26 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Польща показала свій надвод</title>
-      <link>https://www.mandarinai.lt/post/95668</link>
-      <description>⚡️ Польща показала свій надводний дрон «StormRider» на спільних навчаннях із фрегатом «Gen. T. Kościuszko» в Балтійському морі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_15-45-28.jpg" length="158915" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 15:45:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>⛽️ Новоросійськ показує прикла</title>
-      <link>https://www.mandarinai.lt/post/95669</link>
-      <description>⛽️ Новоросійськ показує приклад іншим російським регіонам, - тут очманілі без палива водії взяли в заручники бензовоз</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0998.MP4" length="21557002" type="video/mp4"/>
-      <pubDate>Sun, 12 Jul 2026 15:50:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Мені хотілося все там якнайшв</title>
-      <link>https://www.mandarinai.lt/post/95670</link>
-      <description>«Мені хотілося все там якнайшвидше закінчити, а він хотів воювати далі, але, в принципі, нам вдавалось порозумітися», - президент Трамп про свого соратника Ліндсі Грема телефоном</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0999.MP4" length="24830313" type="video/mp4"/>
-      <pubDate>Sun, 12 Jul 2026 16:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зеленський сьогодні зустрівся </title>
-      <link>https://www.mandarinai.lt/post/95671</link>
-      <description>Зеленський сьогодні зустрівся з Ігорем Тереховим.
-
-Меру Харкова пропонували посаду в уряді, враховуючи досвід організації функціонування міста в прифронтових умовах. 
-
-Терехов обрав залишитися мером.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-12_16-32-17.jpg" length="107229" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 16:32:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 04:50:03 +0000</lastBuildDate>
     <item>
       <title>Німеччина оплатить для України</title>
       <link>https://www.mandarinai.lt/post/95672</link>
@@ -111,6 +79,31 @@
       <description>⚡️ Щойно росіяни вдарили по багатоповерхівці у Запоріжжі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1008.MP4" length="5327070" type="video/mp4"/>
       <pubDate>Sun, 12 Jul 2026 20:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Епічне знищення запасів воро</title>
+      <link>https://www.mandarinai.lt/post/95682</link>
+      <description>💥🔥Епічне знищення запасів ворожого пального у Савропольському краї сьогодеі вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-13_01-36-51.mp4" length="1332051" type="video/mp4"/>
+      <pubDate>Mon, 13 Jul 2026 01:36:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українські БПЛА гучно нагадуют</title>
+      <link>https://www.mandarinai.lt/post/95683</link>
+      <description>Українські БПЛА гучно нагадують росіянам про заборону мореплавства в Азовському морі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1010.MP4" length="6420317" type="video/mp4"/>
+      <pubDate>Mon, 13 Jul 2026 04:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі США розпочали нову серію</title>
+      <link>https://www.mandarinai.lt/post/95685</link>
+      <description>Вночі США розпочали нову серію ударів по Ірану
+
+Американське угруповання вперше застосувало проти іранських військ морські дрони-камікадзе. 
+
+Мабуть, Трампу не сподобалося, що іранці готували на нього замах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1012.MP4" length="25662323" type="video/mp4"/>
+      <pubDate>Mon, 13 Jul 2026 04:45:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
