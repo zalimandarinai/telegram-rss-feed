@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 18:21:23 +0000</lastBuildDate>
-    <item>
-      <title>⛴️📈⛽️ Ось воно що: США відновл</title>
-      <link>https://www.mandarinai.lt/post/95713</link>
-      <description>⛴️📈⛽️ Ось воно що: США відновлюють морську блокаду Ірану та вводять 20%-ий збір на вантажі, які проходять Ормузькою протокою, заявляє Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-13_15-55-01.jpg" length="45382" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 15:55:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 19:57:49 +0000</lastBuildDate>
     <item>
       <title>❗️ Єлісейський палац та ще віс</title>
       <link>https://www.mandarinai.lt/post/95716</link>
@@ -68,6 +61,35 @@
       <description>⚡️ Україна отримала ліцензію на виготовлення зенітних ракет Aster-30 для SAMP/T, керованих авіабоєприпасів AASM Hammer та крилатих ракет SCALP, — Макрон</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1049.MP4" length="19496014" type="video/mp4"/>
       <pubDate>Mon, 13 Jul 2026 17:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Україна зараз має найсильні</title>
+      <link>https://www.mandarinai.lt/post/95727</link>
+      <description>❗️ Україна зараз має найсильніші позиції на фронті за весь час, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-13_18-32-52.jpg" length="67158" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 18:32:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Донецьку детонує склад боєпр</title>
+      <link>https://www.mandarinai.lt/post/95729</link>
+      <description>В Донецьку детонує склад боєприпасів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1053.MP4" length="650679" type="video/mp4"/>
+      <pubDate>Mon, 13 Jul 2026 19:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Українських дітей образили в  </title>
+      <link>https://www.mandarinai.lt/post/95730</link>
+      <description>Українських дітей образили в  польському транспорті.
+
+Чоловіка, який погрожував вигнати їх з Польщі, затримала поліція.
+
+Але набагато важливіше, ніж реакція поліції, реакція звичайних поляків.
+
+Коли пасажир почав агресивно говорити з дитиною, водій зупинив автобус і вигнав неадеквата.
+
+Переважна більшість поляків на стороні українців, і це потрібно цінувати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1055.MP4" length="5258291" type="video/mp4"/>
+      <pubDate>Mon, 13 Jul 2026 19:49:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
