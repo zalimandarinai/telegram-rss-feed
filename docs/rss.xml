@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 11:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:49:46 +0000</lastBuildDate>
     <item>
       <title>На території Молдови в районі </title>
       <link>https://www.mandarinai.lt/post/95691</link>
@@ -70,6 +70,28 @@
       <description>Жахливі кадри вибуху 3-тонної бомби, яку росіяни скинули на Оріхів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1033.MP4" length="7113640" type="video/mp4"/>
       <pubDate>Mon, 13 Jul 2026 10:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кремль, ймовірно, втратив здат</title>
+      <link>https://www.mandarinai.lt/post/95703</link>
+      <description>Кремль, ймовірно, втратив здатність підтримувати заплановані темпи поповнення армії, — Служба зовнішньої розвідки 
+
+Річний план Кремля 409 тис. рекрутів. На початок липня план контрактування виконано менш, ніж на 50%. 
+
+Законтрактовано близько 195 тис. осіб при планових 204,5 тис. рекрутів. 
+
+Поточні середньодобові темпи відбору контрактників до 1090 осіб є недостатніми для 100% виконання плану. 
+
+І це те, що відрізняє цьогорічну кампанію від кампаній 2025 та 2024 років, коли середньодобово підписували контракт  близько 1,2 тисяч людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-13_12-39-19.jpg" length="120504" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 12:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️В Україні продемонстрували п</title>
+      <link>https://www.mandarinai.lt/post/95704</link>
+      <description>❗️В Україні продемонстрували протиракетні ракети FP-7.x для української системи ППО Frejya.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1035.MP4" length="4693242" type="video/mp4"/>
+      <pubDate>Mon, 13 Jul 2026 13:12:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
