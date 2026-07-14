@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 17:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:47:44 +0000</lastBuildDate>
     <item>
       <title>🔥 11 російських суден в Азовсь</title>
       <link>https://www.mandarinai.lt/post/95743</link>
@@ -80,6 +80,24 @@
 До документа також можуть бути включені санкції проти Ірану та "Хезболли".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-14_17-15-14.mp4" length="2716125" type="video/mp4"/>
       <pubDate>Tue, 14 Jul 2026 17:15:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дев'ять країн Європи вимагають</title>
+      <link>https://www.mandarinai.lt/post/95754</link>
+      <description>Дев'ять країн Європи вимагають позбавити фінансування МОК та спортивні федерації, які допускають росіян і білорусів до змагань, — ERR
+
+Ініціатором такого радикального кроку виступила Естонія. Ідею вже підтримали Данія, Латвія, Литва, Нідерланди, Польща, Румунія, Фінляндія та Швеція.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_17-37-03.jpg" length="134858" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 17:37:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 росіяни атакували цивільні с</title>
+      <link>https://www.mandarinai.lt/post/95755</link>
+      <description>🤬 росіяни атакували цивільні судна під прапорами Танзанії та Ліберії в Чорному морі, — Одеська ОВА 
+
+Унаслідок атаки загинув капітан одного із суден. Екіпаж у складі 11 людей евакуйовано на берег, троє з них постраждали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_18-30-41.jpg" length="48052" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 18:30:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
