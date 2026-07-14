@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 08:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:11:28 +0000</lastBuildDate>
     <item>
       <title>Оператори українських дронів а</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -18,28 +18,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️рф вдарила чотири рази по Запоріжжю та району керованими авіабомбами, внаслідок чого поранення дістали семеро людей, серед них чотирирічна дівчинка.</description>
       <pubDate>Mon, 13 Jul 2026 17:46:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Донецьку детонує склад боєпр</title>
-      <link>https://www.mandarinai.lt/post/95729</link>
-      <description>В Донецьку детонує склад боєприпасів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1057.MP4" length="19470605" type="video/mp4"/>
-      <pubDate>Mon, 13 Jul 2026 19:28:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українських дітей образили в  </title>
-      <link>https://www.mandarinai.lt/post/95730</link>
-      <description>Українських дітей образили в  польському транспорті.
-
-Чоловіка, який погрожував вигнати їх з Польщі, затримала поліція.
-
-Але набагато важливіше, ніж реакція поліції, реакція звичайних поляків.
-
-Коли пасажир почав агресивно говорити з дитиною, водій зупинив автобус і вигнав неадеквата.
-
-Переважна більшість поляків на стороні українців, і це потрібно цінувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1055.MP4" length="5258291" type="video/mp4"/>
-      <pubDate>Mon, 13 Jul 2026 19:49:58 +0000</pubDate>
     </item>
     <item>
       <title>💥🔥В окупованому Луганську прил</title>
@@ -63,6 +41,24 @@
       <description>🤬Вночі рф знову била балістикою по столиці. Наслідки атаки зафіксували у двох районах Києва. Пожежі на складах. Люди не постраждали.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_05-03-21.jpg" length="131775" type="image/jpeg"/>
       <pubDate>Tue, 14 Jul 2026 05:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 11 російських суден в Азовсь</title>
+      <link>https://www.mandarinai.lt/post/95743</link>
+      <description>🔥 11 російських суден в Азовському морі було впольовано за одну ніч
+
+У межах операції «МоЛоЧКа» за 9 діб уражено 116 суден окупантів. Серед знищеного флоту — 5 танкерів, 5 суховантажів та буксир.
+
+Головною метою є виведення з ладу фідерного флоту рф. Саме ці судна ворог використовував для перевалки нафти та налагодження логістики, зокрема для постачання пального до тимчасово окупованого Криму.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-14_08-22-31.mp4" length="5033083" type="video/mp4"/>
+      <pubDate>Tue, 14 Jul 2026 08:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни вдарили по автостоян</title>
+      <link>https://www.mandarinai.lt/post/95744</link>
+      <description>⚡️росіяни вдарили по автостоянці в Одесі: горять десятки авто, — ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-14_10-06-26.mp4" length="530931" type="video/mp4"/>
+      <pubDate>Tue, 14 Jul 2026 10:06:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
