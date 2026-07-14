@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 10:11:28 +0000</lastBuildDate>
-    <item>
-      <title>Оператори українських дронів а</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Оператори українських дронів атакували машини окупантів в Луганській області та поранили командира 36-го мотострілецького полку Олександра Золіна за 89 км від лінії зіткнення, - «InformNapalm» дає більше фактів</description>
-      <pubDate>Mon, 13 Jul 2026 17:34:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф вдарила чотири рази по За</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️рф вдарила чотири рази по Запоріжжю та району керованими авіабомбами, внаслідок чого поранення дістали семеро людей, серед них чотирирічна дівчинка.</description>
-      <pubDate>Mon, 13 Jul 2026 17:46:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 11:45:11 +0000</lastBuildDate>
     <item>
       <title>💥🔥В окупованому Луганську прил</title>
       <link>https://www.mandarinai.lt/post/95734</link>
@@ -59,6 +47,28 @@
       <description>⚡️росіяни вдарили по автостоянці в Одесі: горять десятки авто, — ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-14_10-06-26.mp4" length="530931" type="video/mp4"/>
       <pubDate>Tue, 14 Jul 2026 10:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦⚓ВМС ЗС України знищили прик</title>
+      <link>https://www.mandarinai.lt/post/95745</link>
+      <description>🇺🇦⚓ВМС ЗС України знищили прикордонний корабель фсб рф «Ізумруд» 
+
+Українські військові моряки потопили прикордонний сторожовий корабель 2-го рангу морським безекіпажним комплексом Sargan-3000 неподалік Новоросійська. Серед екіпажу корабля є загиблі та поранені. 
+
+Саме «Ізумруд» 25 листопада 2018 року брав участь у нападі на кораблі ВМС України в Керченській протоці. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_11-24-01.jpg" length="103786" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 11:24:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Китай готується до заміни путі</title>
+      <link>https://www.mandarinai.lt/post/95746</link>
+      <description>Китай готується до заміни путіна та налагоджує зв'язки з майбутніми центрами рішень, — WSJ
+
+Пекін зміцнює контакти з чиновниками та представниками еліти, які можуть визначати курс рф після зміни російського диктатора.
+
+В рф часто ловлять китайську розвідку на вербуванні кремлівських функціонерів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_11-31-27.jpg" length="56822" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 11:31:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
