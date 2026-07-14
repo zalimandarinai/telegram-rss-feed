@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 16:13:14 +0000</lastBuildDate>
-    <item>
-      <title>🤬Вночі рф знову била балістико</title>
-      <link>https://www.mandarinai.lt/post/95739</link>
-      <description>🤬Вночі рф знову била балістикою по столиці. Наслідки атаки зафіксували у двох районах Києва. Пожежі на складах. Люди не постраждали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_05-03-21.jpg" length="131775" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 05:03:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 17:35:26 +0000</lastBuildDate>
     <item>
       <title>🔥 11 російських суден в Азовсь</title>
       <link>https://www.mandarinai.lt/post/95743</link>
@@ -78,6 +71,15 @@
       <description>В Чорному морі біля Одеси після атаки дронів палає судно</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1065.MP4" length="4368950" type="video/mp4"/>
       <pubDate>Tue, 14 Jul 2026 12:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Трамп заявив, що ймовірніст</title>
+      <link>https://www.mandarinai.lt/post/95753</link>
+      <description>🇺🇸 Трамп заявив, що ймовірність ухвалення законопроекту Ліндсі Грейма про нові санкції проти Росії "дуже висока".
+
+До документа також можуть бути включені санкції проти Ірану та "Хезболли".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-14_17-15-14.mp4" length="2716125" type="video/mp4"/>
+      <pubDate>Tue, 14 Jul 2026 17:15:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
