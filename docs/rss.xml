@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 11:45:11 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥В окупованому Луганську прил</title>
-      <link>https://www.mandarinai.lt/post/95734</link>
-      <description>💥🔥В окупованому Луганську прильоти ймовірно по автостоянці логістичного транспорту.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_01-05-45.jpg" length="56993" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 01:05:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥В росії цієї ночі під ударом</title>
-      <link>https://www.mandarinai.lt/post/95736</link>
-      <description>💥🔥В росії цієї ночі під ударом опинився ще один нафтопереробний завод
-
-Цього разу атакували НПЗ «Газпром нефтехим Салават», розташований приблизно за 1400 км від українського кордону. За повідомленнями місцевих жителів, на території підприємства пролунала серія вибухів, після чого спалахнула пожежа.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_04-38-59.jpg" length="56993" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 04:38:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 12:54:21 +0000</lastBuildDate>
     <item>
       <title>🤬Вночі рф знову била балістико</title>
       <link>https://www.mandarinai.lt/post/95739</link>
@@ -69,6 +53,31 @@
 В рф часто ловлять китайську розвідку на вербуванні кремлівських функціонерів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_11-31-27.jpg" length="56822" type="image/jpeg"/>
       <pubDate>Tue, 14 Jul 2026 11:31:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇧🇬🇺🇦 Болгарія виходить з «Коал</title>
+      <link>https://www.mandarinai.lt/post/95748</link>
+      <description>🇧🇬🇺🇦 Болгарія виходить з «Коаліції охочих», - новий прем'єр-міністр країни Румен Радев.
+
+В Кремлі, напевно, вже закінчилося шампанське.
+
+Втратили Орбана, зате придбали ще одного агента в ЄС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_11-58-37.jpg" length="89006" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 11:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦🤝🇫🇷 Вперше в історії: україн</title>
+      <link>https://www.mandarinai.lt/post/95749</link>
+      <description>🇺🇦🤝🇫🇷 Вперше в історії: українські військові пройшли парадом у Парижі з нагоди Дня взяття Бастилії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1064.MP4" length="17322960" type="video/mp4"/>
+      <pubDate>Tue, 14 Jul 2026 12:36:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Чорному морі біля Одеси післ</title>
+      <link>https://www.mandarinai.lt/post/95750</link>
+      <description>В Чорному морі біля Одеси після атаки дронів палає судно</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1065.MP4" length="4368950" type="video/mp4"/>
+      <pubDate>Tue, 14 Jul 2026 12:40:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
