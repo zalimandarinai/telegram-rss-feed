@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 00:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 03:33:09 +0000</lastBuildDate>
     <item>
       <title>Оператори українських дронів а</title>
       <link>https://www.mandarinai.lt/post/95721</link>
@@ -63,6 +63,13 @@
 Переважна більшість поляків на стороні українців, і це потрібно цінувати.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1055.MP4" length="5258291" type="video/mp4"/>
       <pubDate>Mon, 13 Jul 2026 19:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В окупованому Луганську прил</title>
+      <link>https://www.mandarinai.lt/post/95734</link>
+      <description>💥🔥В окупованому Луганську прильоти ймовірно по автостоянці логістичного транспорту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-14_01-05-45.jpg" length="56993" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 01:05:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
