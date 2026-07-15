@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 11:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:55:38 +0000</lastBuildDate>
     <item>
       <title>Через ранковий удар рф КАБами </title>
       <link>https://www.mandarinai.lt/post/95765</link>
@@ -68,6 +68,13 @@
       <description>Сьогодні під удар «шахеда» вперше потрапила заправка на Житомирщині. Відстань від кордону з росією 260 кілометрів. Тож радник міністра оборони «Флеш» вважає, що для коригування міг бути знову використаний ретранслятор в Білорусі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_10-23-28.jpg" length="190821" type="image/jpeg"/>
       <pubDate>Wed, 15 Jul 2026 10:23:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴росія готова найближчим часом</title>
+      <link>https://www.mandarinai.lt/post/95777</link>
+      <description>🔴росія готова найближчим часом підписати угоду та завершити війну в Україні, – Трамп.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_12-28-44.jpg" length="30025" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 12:28:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
