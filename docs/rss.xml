@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 10:23:24 +0000</lastBuildDate>
-    <item>
-      <title>На Київщині затримали чоловіка</title>
-      <link>https://www.mandarinai.lt/post/95761</link>
-      <description>На Київщині затримали чоловіка, який збирав для росіян координати розташування військових та об’єктів енергетики у Київській і Черкаській областях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_07-11-46.jpg" length="128609" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 07:11:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 11:58:07 +0000</lastBuildDate>
     <item>
       <title>Через ранковий удар рф КАБами </title>
       <link>https://www.mandarinai.lt/post/95765</link>
@@ -68,6 +61,13 @@
       <description>❗️ На трасі між Дніпром та Кривим Рогом «шахед» вдарив по цивільній вантажівці, є жертви та поранені</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1081.MP4" length="4685797" type="video/mp4"/>
       <pubDate>Wed, 15 Jul 2026 10:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні під удар «шахеда» впе</title>
+      <link>https://www.mandarinai.lt/post/95775</link>
+      <description>Сьогодні під удар «шахеда» вперше потрапила заправка на Житомирщині. Відстань від кордону з росією 260 кілометрів. Тож радник міністра оборони «Флеш» вважає, що для коригування міг бути знову використаний ретранслятор в Білорусі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_10-23-28.jpg" length="190821" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 10:23:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
