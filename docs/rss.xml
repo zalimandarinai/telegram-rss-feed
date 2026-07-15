@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 08:29:16 +0000</lastBuildDate>
-    <item>
-      <title>🔥 11 російських суден в Азовсь</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🔥 11 російських суден в Азовському морі було впольовано за одну ніч
-
-У межах операції «МоЛоЧКа» за 9 діб уражено 116 суден окупантів. Серед знищеного флоту — 5 танкерів, 5 суховантажів та буксир.
-
-Головною метою є виведення з ладу фідерного флоту рф. Саме ці судна ворог використовував для перевалки нафти та налагодження логістики, зокрема для постачання пального до тимчасово окупованого Криму.</description>
-      <pubDate>Tue, 14 Jul 2026 08:22:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росіяни вдарили по автостоян</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️росіяни вдарили по автостоянці в Одесі: горять десятки авто, — ЗМІ</description>
-      <pubDate>Tue, 14 Jul 2026 10:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Через ракетний удар ворога п</title>
-      <link>https://www.mandarinai.lt/post/95760</link>
-      <description>⚡️Через ракетний удар ворога по Одесі три людини загинули, щонайменше три поранені. 
-
-Є руйнування в семиповерховому житловому будинку. Також пошкоджена газова магістраль.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_06-45-13.jpg" length="213999" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 06:45:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 10:23:24 +0000</lastBuildDate>
     <item>
       <title>На Київщині затримали чоловіка</title>
       <link>https://www.mandarinai.lt/post/95761</link>
@@ -66,9 +41,33 @@
     <item>
       <title>🔥🔥 Епічне полювання за «Нічним</title>
       <link>https://www.mandarinai.lt/post/95771</link>
-      <description>🔥🔥 Епічне полювання за «Нічним мисливцем». Дроном збито гелікоптер Мі-28 в Білгородський області. Спрацювали оператори 427-го полку «Рарог».</description>
+      <description>🔥🔥 Епічне полювання за «Нічним мисливцем». Дроном збито гелікоптер Мі-28 в Білгородський області. Спрацювали оператори 427-го полку «Рарог».
+
+Один з найкращих російських гелікоптерів вартістю приблизно $16 млн. був збитий FPV «Shrike» за $400 від компанії SkyFall.
+
+Це вже другий російський вертоліт, знищений «Shrike», адже у вересні 2025 року бійці батальйону «Хижаки висот» таким самим дроном нейтралізували Мі-8.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-15_07-42-06.mp4" length="1836197" type="video/mp4"/>
       <pubDate>Wed, 15 Jul 2026 07:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Операція «Три дні та три но</title>
+      <link>https://www.mandarinai.lt/post/95772</link>
+      <description>❗️ Операція «Три дні та три ночі» проведена вдало: 475-ий полк «Code 9.2» знищив 107 одиниць ворожої техніки, серед яких північнокорейська САУ «Koksan»</description>
+      <pubDate>Wed, 15 Jul 2026 08:32:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺🪙🇨🇳 Україна зможе закуповува</title>
+      <link>https://www.mandarinai.lt/post/95773</link>
+      <description>🇪🇺🪙🇨🇳 Україна зможе закуповувати на європейські гроші китайські елементи для виробництва дронів, ЄС дав дозвіл, - Financial Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_08-54-56.jpg" length="69197" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 08:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ На трасі між Дніпром та Кри</title>
+      <link>https://www.mandarinai.lt/post/95774</link>
+      <description>❗️ На трасі між Дніпром та Кривим Рогом «шахед» вдарив по цивільній вантажівці, є жертви та поранені</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1081.MP4" length="4685797" type="video/mp4"/>
+      <pubDate>Wed, 15 Jul 2026 10:06:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
