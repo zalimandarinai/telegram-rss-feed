@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 13:55:38 +0000</lastBuildDate>
-    <item>
-      <title>Через ранковий удар рф КАБами </title>
-      <link>https://www.mandarinai.lt/post/95765</link>
-      <description>Через ранковий удар рф КАБами по Сумській громаді: вже 3 загиблих і 7 поранених. 
-
-Один із КАБів влучив поблизу медичних закладів – у районі з жвавим рухом людей і транспорту. Решта ударів, попередньо, по об’єктах інфраструктури. В епіцентрі одного з ударів перебували цивільні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_07-14-00.jpg" length="282856" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 07:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 15:26:03 +0000</lastBuildDate>
     <item>
       <title>На півночі росії з бойового че</title>
       <link>https://www.mandarinai.lt/post/95768</link>
@@ -75,6 +66,35 @@
       <description>🔴росія готова найближчим часом підписати угоду та завершити війну в Україні, – Трамп.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_12-28-44.jpg" length="30025" type="image/jpeg"/>
       <pubDate>Wed, 15 Jul 2026 12:28:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новим премʼєром буде Сергій Ко</title>
+      <link>https://www.mandarinai.lt/post/95778</link>
+      <description>Новим премʼєром буде Сергій Корецький, - повідомив Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_14-46-05.jpg" length="23637" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 14:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>По Одесі щойно запустили бараж</title>
+      <link>https://www.mandarinai.lt/post/95779</link>
+      <description>По Одесі щойно запустили баражуючий боєприпас S800 «Бандероль», - Повітряні Сили 
+
+Новітній боєприпас «Бандероль» це гібрид малогабаритної крилатої ракети та дрона-камікадзе. 
+
+Він здатний пролітати до 500 км, має бойову частину вагою понад 110 кг та активно маневрує під час підльоту до цілі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_15-13-50.jpg" length="66010" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 15:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Сили спеціальних операцій п</title>
+      <link>https://www.mandarinai.lt/post/95781</link>
+      <description>⚡️ Сили спеціальних операцій повідомили про ураження Балаклавської ТЕС в Севастополі
+
+Операцію провели в ніч на 14 липня провели підзєрозділи «Deep Strike» спільно з Рухом опору, як заявили ССО. 
+
+Пошкоджено машинний цех із системою охолодження турбіни Siemens SGT5-2000E.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_15-24-39.jpg" length="126399" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 15:24:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
