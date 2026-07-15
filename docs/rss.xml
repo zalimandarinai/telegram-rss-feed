@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 19:36:40 +0000</lastBuildDate>
-    <item>
-      <title>🇪🇺🪙🇨🇳 Україна зможе закуповува</title>
-      <link>https://www.mandarinai.lt/post/95773</link>
-      <description>🇪🇺🪙🇨🇳 Україна зможе закуповувати на європейські гроші китайські елементи для виробництва дронів, ЄС дав дозвіл, - Financial Times</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_08-54-56.jpg" length="69197" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 08:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ На трасі між Дніпром та Кри</title>
-      <link>https://www.mandarinai.lt/post/95774</link>
-      <description>❗️ На трасі між Дніпром та Кривим Рогом «шахед» вдарив по цивільній вантажівці, є жертви та поранені</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1081.MP4" length="4685797" type="video/mp4"/>
-      <pubDate>Wed, 15 Jul 2026 10:06:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 20:42:15 +0000</lastBuildDate>
     <item>
       <title>Під удар російського «шахеда» </title>
       <link>https://www.mandarinai.lt/post/95775</link>
@@ -99,6 +85,26 @@
 Раніше Лантратова, призначення якої з особистих причин лобіював Михалков, сама організовувала викрадення дітей з тимчасово окупованих територій України.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1091.MP4" length="2467251" type="video/mp4"/>
       <pubDate>Wed, 15 Jul 2026 19:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>В центрі Львова пікетувальники</title>
+      <link>https://www.mandarinai.lt/post/95788</link>
+      <description>В центрі Львова пікетувальники збираються на підтримку збереження Михайла Федорова на посаді міністра оборони.
+
+Прецедент для України. Раніше протести збиралися переважно з вимогами звільнити чиновників з посад, і, ймовірно, вперше, щоб топ-чиновника залишили на посаді.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_19-51-24.jpg" length="171275" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 19:51:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>За кілька днів Україна спалила</title>
+      <link>https://www.mandarinai.lt/post/95789</link>
+      <description>За кілька днів Україна спалила 116 російських кораблів в Азовському морі.
+
+Масштаби атак співставні або навіть перевищують взаємні удари під час так званої «танкерноі війни» між Іраном та Іраком.
+
+Газета «Financial Times» називає операції між Кримом та Кавказом найбільшою морською битвою за 50 років.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1096.MP4" length="4899713" type="video/mp4"/>
+      <pubDate>Wed, 15 Jul 2026 20:03:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
