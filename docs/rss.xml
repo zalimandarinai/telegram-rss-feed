@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 01:08:36 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Сили спеціальних операцій п</title>
-      <link>https://www.mandarinai.lt/post/95781</link>
-      <description>⚡️ Сили спеціальних операцій повідомили про ураження Балаклавської ТЕС в Севастополі
-
-Операцію провели в ніч на 14 липня провели підзєрозділи «Deep Strike» спільно з Рухом опору, як заявили ССО. 
-
-Пошкоджено машинний цех із системою охолодження турбіни Siemens SGT5-2000E.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_15-24-39.jpg" length="126399" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 15:24:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>📈 «Альфа» масштабує досвід вик</title>
-      <link>https://www.mandarinai.lt/post/95783</link>
-      <description>📈 «Альфа» масштабує досвід використання унікальних видів озброєння та пропонує добровольцям можливість долучитися до проведення спеціальних операцій.
-
-☎️ Детальніше про набір можна дізнатися за номером 4444 або знайти вакансію на alfa.ssu.gov.ua
-
-⏯️ Більше про спецоперації «Альфи» можна подивитися за цим посиланням https://m.youtube.com/watch?v=AIWP5PZ7Mdg&amp;ra=m і за цим https://m.youtube.com/watch?v=mfuYjv8rapE&amp;t=6s&amp;pp=0gcJCZQLAYcqIYzv&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1084.MP4" length="12184902" type="video/mp4"/>
-      <pubDate>Wed, 15 Jul 2026 18:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В день звільнення уряду 14 </title>
-      <link>https://www.mandarinai.lt/post/95785</link>
-      <description>⚡️ В день звільнення уряду 14 липня Україна провела випробування власної балістичної ракети, - вже колишній міністр оборони Михайло Федоров</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_19-06-27.jpg" length="103074" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 19:06:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Удар реактивного «шахеда» вчор</title>
-      <link>https://www.mandarinai.lt/post/95786</link>
-      <description>Удар реактивного «шахеда» вчора по заправці в Малині міг статися за використання ретрансляторів на території Білорусі, - нове відео від підписників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1089.MP4" length="4744134" type="video/mp4"/>
-      <pubDate>Wed, 15 Jul 2026 19:07:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 04:25:44 +0000</lastBuildDate>
     <item>
       <title>Новий блокбастер від режисерів</title>
       <link>https://www.mandarinai.lt/post/95787</link>
@@ -91,6 +55,22 @@
       <description>Пентагон розглядає можливість десантної операції на Кубі — CBS News</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-15_20-59-53.jpg" length="24685" type="image/jpeg"/>
       <pubDate>Wed, 15 Jul 2026 20:59:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Через нічний удар рф по Києв</title>
+      <link>https://www.mandarinai.lt/post/95796</link>
+      <description>⚡️Через нічний удар рф по Києву двоє загиблих, серед поранених — дитина
+
+ Під ударом опинилися Святошинський та Дарницький райони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_04-19-37.jpg" length="99763" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 04:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Зранку під атакою російській </title>
+      <link>https://www.mandarinai.lt/post/95800</link>
+      <description>💥Зранку під атакою російській Єнгельс, де розташований аеродром, з якого злітають російські бомбардувальники.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-16_04-24-21.mp4" length="320894" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 04:24:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
