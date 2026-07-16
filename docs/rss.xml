@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 19:07:29 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Федоров на брифінгу підсумо</title>
-      <link>https://www.mandarinai.lt/post/95812</link>
-      <description>⚡️ Федоров на брифінгу підсумовує свою діяльність:
-
-✅ Про мобілізаційний резерв. Ми не зможемо мобілізувати таку кількість, як росіяни. Потрібно перемагати асиметричними рішеннями.
-
-✅ Про командира полку «Code 9.2». Флінт нереальний професіонал, я стою тут заради нього.
-
-✅ Про Сирського. Він у 22-му врятував країну, ми не можемо недооцінювати такого командира. Але війна повністю змінилася: дрони змінюють архітектуру бойових дій.
-
-✅ Про стосунки з Зеленським. Серед оточення президента я, мабуть, найбільше ціную його довіру та ніколи не підводив ні його, ні вас.
-
-✅ Про мобілізацію і контракти. Неможливо вирішити дилему мобілізації без нового суспільного контракту. Українці вміють брати на себе відповідальність, їм не потрібна людина з палицею, яка згори заганятиме їх на фронт.
-
-✅ Про посаду міністра. Мені не потрібна посада міністра, щоб бути міністром. Мені потрібна ця посада, щоб перемогти у війні.
-
-☎️ Федоров заявив, що сьогодні мав телефонну розмову з Зеленським, попереду в них має відбутися зустріч.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1109.MP4" length="7815145" type="video/mp4"/>
-      <pubDate>Thu, 16 Jul 2026 10:55:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 20:11:58 +0000</lastBuildDate>
     <item>
       <title>Оператори ЦСП «Омега» знищили </title>
       <link>https://www.mandarinai.lt/post/95813</link>
@@ -104,6 +83,31 @@
       <description>⚡️ Безпілотний винищувач YFQ-44A Fury, розроблений компанією Anduril, уперше здійснив пуск ракети класу «повітря-повітря» AIM-120.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1121.MP4" length="2392701" type="video/mp4"/>
       <pubDate>Thu, 16 Jul 2026 18:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>💳 Наближені до Кремля олігархи</title>
+      <link>https://www.mandarinai.lt/post/95824</link>
+      <description>💳 Наближені до Кремля олігархи зараз почали масово і масштабно виводити з росії свої мільярді, — Bloomberg
+
+🪙 Вони переводять кошти у криптовалюту, золото, нерухомість за кордоном та інвестиційні фонди.
+
+🇦🇪🇨🇾🇹🇷🇸🇦 Основні напрямки інвестицій ОАЕ, Кіпр, Туреччина та Саудівська Аравія.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_19-42-46.jpg" length="78373" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 19:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Одесі влучання трьох ракет Х</title>
+      <link>https://www.mandarinai.lt/post/95825</link>
+      <description>В Одесі влучання трьох ракет Х-59 в районі житлової забудови, свідки побачили тіло жертви поруч з багатоповерхівкою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1123.MP4" length="10605393" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 19:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мітинг проти звільнення екс-мі</title>
+      <link>https://www.mandarinai.lt/post/95826</link>
+      <description>Мітинг проти звільнення екс-міністра оборони Федорова в Києві не розходиться</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1124.MP4" length="22857517" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 19:49:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
