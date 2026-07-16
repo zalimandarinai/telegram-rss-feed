@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 20:11:58 +0000</lastBuildDate>
-    <item>
-      <title>Оператори ЦСП «Омега» знищили </title>
-      <link>https://www.mandarinai.lt/post/95813</link>
-      <description>Оператори ЦСП «Омега» знищили бомбардувальник Су-24М на аеродромі в Саках, - командувач Нацгвардії Півненко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1110.MP4" length="2978111" type="video/mp4"/>
-      <pubDate>Thu, 16 Jul 2026 13:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>За вибухи на складах у Вишнево</title>
-      <link>https://www.mandarinai.lt/post/95814</link>
-      <description>За вибухи на складах у Вишневому СБУ затримала керівників одного з оборонних підприємств</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_13-03-55.jpg" length="113908" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 13:03:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 21:17:28 +0000</lastBuildDate>
     <item>
       <title>Український дрон збив російськ</title>
       <link>https://www.mandarinai.lt/post/95816</link>
@@ -108,6 +94,20 @@
       <description>Мітинг проти звільнення екс-міністра оборони Федорова в Києві не розходиться</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1124.MP4" length="22857517" type="video/mp4"/>
       <pubDate>Thu, 16 Jul 2026 19:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇬🇧 Велика Британія виділить €3</title>
+      <link>https://www.mandarinai.lt/post/95827</link>
+      <description>🇬🇧 Велика Британія виділить €300 млн на постачання Україні шведських винищувачів Gripen, - так красиво на «дємбєль» вирішив піти Стармер</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1125.MP4" length="17909257" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 20:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Бердянську дрони атакують ен</title>
+      <link>https://www.mandarinai.lt/post/95829</link>
+      <description>💥🔥Бердянську дрони атакують енергетичну інфраструктура</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_21-11-22.jpg" length="47191" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 21:11:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
