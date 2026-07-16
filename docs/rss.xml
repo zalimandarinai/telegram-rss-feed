@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 21:17:28 +0000</lastBuildDate>
-    <item>
-      <title>Український дрон збив російськ</title>
-      <link>https://www.mandarinai.lt/post/95816</link>
-      <description>Український дрон збив російський оперативно-тактичний безпілотник «Оріон», який запускає ракети S800 «Бандероль».
-
-Перехоплення здійснили оператори 115-ої бригади.
-
-Вже вдруге «Оріон» ведуть та збивають перехоплювачем.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1113.MP4" length="2959628" type="video/mp4"/>
-      <pubDate>Thu, 16 Jul 2026 13:13:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Верховна Рада затвердила оно</title>
-      <link>https://www.mandarinai.lt/post/95817</link>
-      <description>❗️Верховна Рада затвердила оновлений склад Кабінету Міністрів України, але в списку немає міністрів оборони та закордонних справ, - фактично, ключових міністрів в тих умовах, в яких перебуває Україна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_13-57-40.jpg" length="129733" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 13:57:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 22:29:16 +0000</lastBuildDate>
     <item>
       <title>Т.в.о. Міністра оборони буде в</title>
       <link>https://www.mandarinai.lt/post/95818</link>
@@ -108,6 +90,20 @@
       <description>💥🔥Бердянську дрони атакують енергетичну інфраструктура</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_21-11-22.jpg" length="47191" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 21:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Києві на площі Франка досі</title>
+      <link>https://www.mandarinai.lt/post/95830</link>
+      <description>⚡️У Києві на площі Франка досі перебувають мітингувальники, які виступають проти відставки Федорова та кадрових рішень</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-16_21-57-43.mp4" length="3561787" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 21:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під час атаки на Одесу загинул</title>
+      <link>https://www.mandarinai.lt/post/95831</link>
+      <description>Під час атаки на Одесу загинула жінка, яка гуляла в парку з дітьми</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_22-00-39.jpg" length="145744" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 22:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
