@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 17:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Морські дрони СБУ «Козак Мамай</title>
-      <link>https://www.mandarinai.lt/post/95809</link>
-      <description>Морські дрони СБУ «Козак Мамай» уразили танкери «тіньового флоту» рф «Louise 1» та «Banda» у Чорному морі
-
-Обидва були задіяні в перевезенні нафти в Балтійському морі, але потім маршрутизовані до порту Новоросійськ.
-
-Під час атаки ворожа розвідка виявила українські безекіпажні катери. Авіація противника їх обстрілювала з повітря, але безрезультатно. Ще в 2023-му році ми показували, чому ці морські безпілотники навіть після прямого ураження зберігають боєздатність https://m.youtube.com/watch?v=mfuYjv8rapE&amp;t=6s&amp;pp=0gcJCZQLAYcqIYzv&amp;ra=m на 05:37</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1108.MP4" length="28207220" type="video/mp4"/>
-      <pubDate>Thu, 16 Jul 2026 07:11:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 19:07:29 +0000</lastBuildDate>
     <item>
       <title>⚡️ Федоров на брифінгу підсумо</title>
       <link>https://www.mandarinai.lt/post/95812</link>
@@ -101,6 +90,20 @@
 Унаслідок атаки пошкоджені склади логістичної компанії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_17-30-50.jpg" length="61212" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 17:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Важливі цілі, уражені оператор</title>
+      <link>https://www.mandarinai.lt/post/95821</link>
+      <description>Важливі цілі, уражені операторами підрозділу ДПСУ «Фенікс» на Лиманському напрямку: два ворожі танки та артилерія противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1119.MP4" length="30047675" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 18:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Безпілотний винищувач YFQ-4</title>
+      <link>https://www.mandarinai.lt/post/95822</link>
+      <description>⚡️ Безпілотний винищувач YFQ-44A Fury, розроблений компанією Anduril, уперше здійснив пуск ракети класу «повітря-повітря» AIM-120.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1121.MP4" length="2392701" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 18:29:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
