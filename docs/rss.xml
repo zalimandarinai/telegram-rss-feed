@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 09:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:12:51 +0000</lastBuildDate>
     <item>
       <title>Новий блокбастер від режисерів</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -36,15 +36,6 @@
       <pubDate>Wed, 15 Jul 2026 20:03:37 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Через нічний удар рф по Києв</title>
-      <link>https://www.mandarinai.lt/post/95796</link>
-      <description>⚡️Через нічний удар рф по Києву двоє загиблих, серед поранених — дитина
-
- Під ударом опинилися Святошинський та Дарницький райони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_04-19-37.jpg" length="99763" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 04:19:37 +0000</pubDate>
-    </item>
-    <item>
       <title>💥Зранку під атакою російській </title>
       <link>https://www.mandarinai.lt/post/95802</link>
       <description>💥Зранку під атакою російській Єнгельс, де розташований аеродром, з якого злітають російські бомбардувальники..
@@ -70,6 +61,27 @@
 Під час атаки ворожа розвідка виявила українські безекіпажні катери. Авіація противника їх обстрілювала з повітря, але безрезультатно. Ще в 2023-му році ми показували, чому ці морські безпілотники навіть після прямого ураження зберігають боєздатність https://m.youtube.com/watch?v=mfuYjv8rapE&amp;t=6s&amp;pp=0gcJCZQLAYcqIYzv&amp;ra=m на 05:37</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1108.MP4" length="28207220" type="video/mp4"/>
       <pubDate>Thu, 16 Jul 2026 07:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Федоров на брифінгу підсумо</title>
+      <link>https://www.mandarinai.lt/post/95812</link>
+      <description>⚡️ Федоров на брифінгу підсумовує свою діяльність:
+
+✅ Про мобілізаційний резерв. Ми не зможемо мобілізувати таку кількість, як росіяни. Потрібно перемагати асиметричними рішеннями.
+
+✅ Про командира полку «Code 9.2». Флінт нереальний професіонал, я стою тут заради нього.
+
+✅ Про Сирського. Він у 22-му врятував країну, ми не можемо недооцінювати такого командира. Але війна повністю змінилася: дрони змінюють архітектуру бойових дій.
+
+✅ Про стосунки з Зеленським. Серед оточення президента я, мабуть, найбільше ціную його довіру та ніколи не підводив ні його, ні вас.
+
+✅ Про мобілізацію і контракти. Неможливо вирішити дилему мобілізації без нового суспільного контракту. Українці вміють брати на себе відповідальність, їм не потрібна людина з палицею, яка згори заганятиме їх на фронт.
+
+✅ Про посаду міністра. Мені не потрібна посада міністра, щоб бути міністром. Мені потрібна ця посада, щоб перемогти у війні.
+
+☎️ Федоров заявив, що сьогодні мав телефонну розмову з Зеленським, попереду в них має відбутися зустріч.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1109.MP4" length="7815145" type="video/mp4"/>
+      <pubDate>Thu, 16 Jul 2026 10:55:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
