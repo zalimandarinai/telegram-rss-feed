@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 16:41:20 +0000</lastBuildDate>
-    <item>
-      <title>В Києві мітинг з вимогами зали</title>
-      <link>https://www.mandarinai.lt/post/95806</link>
-      <description>В Києві мітинг з вимогами залишити Федорова на посаді міністра оборони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_06-30-55.jpg" length="196088" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 06:30:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 17:52:17 +0000</lastBuildDate>
     <item>
       <title>Морські дрони СБУ «Козак Мамай</title>
       <link>https://www.mandarinai.lt/post/95809</link>
@@ -92,6 +85,22 @@
 Інакше Верховній Раді доведеться міняти Закон України «Про національну безпеку України», адже згідно зі ст. 14 цього Закону, посада міністра оборони є цивільною.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_16-06-05.jpg" length="96324" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 16:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Павлограді затримали жінку, </title>
+      <link>https://www.mandarinai.lt/post/95819</link>
+      <description>В Павлограді затримали жінку, яка наводила російські удари на місто</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_16-50-05.jpg" length="79343" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 16:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни завдали удару по Дні</title>
+      <link>https://www.mandarinai.lt/post/95820</link>
+      <description>⚡️росіяни завдали удару по Дніпру, — ОВА
+
+Унаслідок атаки пошкоджені склади логістичної компанії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_17-30-50.jpg" length="61212" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 17:30:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
