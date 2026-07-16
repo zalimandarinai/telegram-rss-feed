@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 15:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:41:20 +0000</lastBuildDate>
     <item>
       <title>В Києві мітинг з вимогами зали</title>
       <link>https://www.mandarinai.lt/post/95806</link>
@@ -77,6 +77,21 @@
       <description>❗️Верховна Рада затвердила оновлений склад Кабінету Міністрів України, але в списку немає міністрів оборони та закордонних справ, - фактично, ключових міністрів в тих умовах, в яких перебуває Україна</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_13-57-40.jpg" length="129733" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 13:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Т.в.о. Міністра оборони буде в</title>
+      <link>https://www.mandarinai.lt/post/95818</link>
+      <description>Т.в.о. Міністра оборони буде в.о. Голови СБУ Євгеній Хмара.
+
+Логічно, що перший заступник голови СБУ Олександр Поклад піде на місце Хмари.
+
+«Після того як необхідні юридичні процедури будуть дотримані, буду звертатись до парламентарів за підтримкою Є.Хмари на посаду міністра оборони України», – заявив президент
+
+Можна припустити, що йдеться про те, що Хмара є діючим генералом, тож має звільнитися з військової служби.
+
+Інакше Верховній Раді доведеться міняти Закон України «Про національну безпеку України», адже згідно зі ст. 14 цього Закону, посада міністра оборони є цивільною.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_16-06-05.jpg" length="96324" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 16:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
