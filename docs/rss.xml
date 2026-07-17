@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 08:57:59 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥В Бердянську дрони атакують </title>
-      <link>https://www.mandarinai.lt/post/95829</link>
-      <description>💥🔥В Бердянську дрони атакують обʼєкти енергетичної інфраструктури.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_21-11-22.jpg" length="47191" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 21:11:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Києві на площі Франка досі</title>
-      <link>https://www.mandarinai.lt/post/95830</link>
-      <description>⚡️У Києві на площі Франка досі перебувають мітингувальники, які виступають проти відставки Федорова та кадрових рішень</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-16_21-57-43.mp4" length="3561787" type="video/mp4"/>
-      <pubDate>Thu, 16 Jul 2026 21:57:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Під час атаки на Одесу загинул</title>
-      <link>https://www.mandarinai.lt/post/95831</link>
-      <description>Під час атаки на Одесу загинула жінка, яка гуляла в парку з дітьми</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_22-00-39.jpg" length="145744" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 22:00:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 10:52:45 +0000</lastBuildDate>
     <item>
       <title>Сьогодні вночі було уражено ще</title>
       <link>https://www.mandarinai.lt/post/95832</link>
@@ -126,6 +105,41 @@ https://i.goit.global/yaAIb</description>
 Крім того, російські війська отримали вказівку активізувати удари по об’єктах цивільної інфраструктури.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_08-50-30.jpg" length="51741" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 08:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогоднішні ураження російськи</title>
+      <link>https://www.mandarinai.lt/post/95842</link>
+      <description>Сьогоднішні ураження російських танкерів, які, як каже Мадяр, ніхто топити не збирається, а намагається перетворити в сліпі нетранспортабельні баржі.</description>
+      <pubDate>Fri, 17 Jul 2026 09:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рейтинг Путіна впав до мінімум</title>
+      <link>https://www.mandarinai.lt/post/95843</link>
+      <description>Рейтинг Путіна впав до мінімуму від початку війни
+
+За даними провладного Центру вивчення громадської думки, він знизився до 65,1% — це найнижчий показник від початку війни.
+
+Рейтинг схвалення російського диктатора знижується вже четвертий тиждень поспіль на тлі паливної кризи. За місяць рівень схвалення зменшився на 5,3%.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-09-38.jpg" length="54372" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 10:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡У Польщі різко зросла кількіс</title>
+      <link>https://www.mandarinai.lt/post/95844</link>
+      <description>😡У Польщі різко зросла кількість нападів на українців через ксенофобію, — Rzeczpospolita
+
+У першій половині 2026 року 180 громадян України звернулися до поліції та заявили про злочини, скоєні на ґрунті ненависті. Це на 30% більше, ніж минулого року.
+
+До кінця 2026 року кількість звернень може зрости приблизно до 360 і це буде найвищим показником за останні роки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-16-32.jpg" length="115400" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 10:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Евакуація з Костянтинівки До</title>
+      <link>https://www.mandarinai.lt/post/95845</link>
+      <description>❗️Евакуація з Костянтинівки Донецької області стала неможливою. Врятуватися тепер можна лише пішки, — начальник відділу зв’язків із громадськістю поліції Донеччини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-20-14.jpg" length="71462" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 10:20:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
