@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 04:25:20 +0000</lastBuildDate>
-    <item>
-      <title>Т.в.о. Міністра оборони буде в</title>
-      <link>https://www.mandarinai.lt/post/95818</link>
-      <description>Т.в.о. Міністра оборони буде в.о. Голови СБУ Євгеній Хмара.
-
-Логічно, що перший заступник голови СБУ Олександр Поклад піде на місце Хмари.
-
-«Після того як необхідні юридичні процедури будуть дотримані, буду звертатись до парламентарів за підтримкою Є.Хмари на посаду міністра оборони України», – заявив президент
-
-Можна припустити, що йдеться про те, що Хмара є діючим генералом, тож має звільнитися з військової служби.
-
-Інакше Верховній Раді доведеться міняти Закон України «Про національну безпеку України», адже згідно зі ст. 14 цього Закону, посада міністра оборони є цивільною.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_16-06-05.jpg" length="96324" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 16:06:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Павлограді затримали жінку, </title>
-      <link>https://www.mandarinai.lt/post/95819</link>
-      <description>В Павлограді затримали жінку, яка наводила російські удари на місто</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_16-50-05.jpg" length="79343" type="image/jpeg"/>
-      <pubDate>Thu, 16 Jul 2026 16:50:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 06:37:59 +0000</lastBuildDate>
     <item>
       <title>⚡️росіяни завдали удару по Дні</title>
       <link>https://www.mandarinai.lt/post/95820</link>
@@ -71,13 +49,6 @@
       <pubDate>Thu, 16 Jul 2026 19:46:54 +0000</pubDate>
     </item>
     <item>
-      <title>Мітинг проти звільнення екс-мі</title>
-      <link>https://www.mandarinai.lt/post/95826</link>
-      <description>Мітинг проти звільнення екс-міністра оборони Федорова в Києві не розходиться</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1124.MP4" length="22857517" type="video/mp4"/>
-      <pubDate>Thu, 16 Jul 2026 19:49:50 +0000</pubDate>
-    </item>
-    <item>
       <title>🇬🇧 Велика Британія виділить €3</title>
       <link>https://www.mandarinai.lt/post/95827</link>
       <description>🇬🇧 Велика Британія виділить €300 млн на постачання Україні шведських винищувачів Gripen, - так красиво на «дємбєль» вирішив піти Стармер</description>
@@ -85,9 +56,9 @@
       <pubDate>Thu, 16 Jul 2026 20:12:47 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Бердянську дрони атакують ен</title>
+      <title>💥🔥В Бердянську дрони атакують </title>
       <link>https://www.mandarinai.lt/post/95829</link>
-      <description>💥🔥Бердянську дрони атакують енергетичну інфраструктура</description>
+      <description>💥🔥В Бердянську дрони атакують обʼєкти енергетичної інфраструктури.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_21-11-22.jpg" length="47191" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 21:11:22 +0000</pubDate>
     </item>
@@ -104,6 +75,22 @@
       <description>Під час атаки на Одесу загинула жінка, яка гуляла в парку з дітьми</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-16_22-00-39.jpg" length="145744" type="image/jpeg"/>
       <pubDate>Thu, 16 Jul 2026 22:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні вночі було уражено ще</title>
+      <link>https://www.mandarinai.lt/post/95832</link>
+      <description>Сьогодні вночі було уражено ще 12 танкерів "тіньового флоту" РФ.
+
+159 одиниць за 12 днів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_05-56-11.jpg" length="78277" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 05:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Пожежу на залізничній станції</title>
+      <link>https://www.mandarinai.lt/post/95833</link>
+      <description>💥Пожежу на залізничній станції в Керчі після атаки дронів зафіксував сервіс NASA FIRMS. Також повідрмляють про можливе ураження нафтобази.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-17_05-59-56.mp4" length="199735" type="video/mp4"/>
+      <pubDate>Fri, 17 Jul 2026 05:59:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
