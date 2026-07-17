@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 10:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Сьогодні вночі було уражено ще</title>
-      <link>https://www.mandarinai.lt/post/95832</link>
-      <description>Сьогодні вночі було уражено ще 12 танкерів "тіньового флоту" РФ.
-
-159 одиниць за 12 днів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_05-56-11.jpg" length="78277" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 05:56:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Пожежу на залізничній станції</title>
-      <link>https://www.mandarinai.lt/post/95833</link>
-      <description>💥Пожежу на залізничній станції в Керчі після атаки дронів зафіксував сервіс NASA FIRMS. Також повідрмляють про можливе ураження нафтобази.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-17_05-59-56.mp4" length="199735" type="video/mp4"/>
-      <pubDate>Fri, 17 Jul 2026 05:59:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 12:08:39 +0000</lastBuildDate>
     <item>
       <title>🛡 Оборонний IT відкриває тисяч</title>
       <link>https://www.mandarinai.lt/post/95835</link>
@@ -128,7 +112,7 @@ https://i.goit.global/yaAIb</description>
       <link>https://www.mandarinai.lt/post/95844</link>
       <description>😡У Польщі різко зросла кількість нападів на українців через ксенофобію, — Rzeczpospolita
 
-У першій половині 2026 року 180 громадян України звернулися до поліції та заявили про злочини, скоєні на ґрунті ненависті. Це на 30% більше, ніж минулого року.
+За 2026 рік 180 громадян України звернулися до поліції та заявили про злочини на ґрунті ненависті. Це на 30% більше, ніж минулоріч.
 
 До кінця 2026 року кількість звернень може зрости приблизно до 360 і це буде найвищим показником за останні роки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-16-32.jpg" length="115400" type="image/jpeg"/>
@@ -140,6 +124,24 @@ https://i.goit.global/yaAIb</description>
       <description>❗️Евакуація з Костянтинівки Донецької області стала неможливою. Врятуватися тепер можна лише пішки, — начальник відділу зв’язків із громадськістю поліції Донеччини</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-20-14.jpg" length="71462" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ знищила стратегічний бомба</title>
+      <link>https://www.mandarinai.lt/post/95846</link>
+      <description>СБУ знищила стратегічний бомбардувальник Ту-95 на військовому аеродромі «Енгельс»
+
+Далекобійні безпілотники СБУ подолали близько 800 кілометрів до цілі.
+
+За попередніми даними, літак зазнав критичних пошкоджень — у нього повністю відірвано хвостову частину. Саме цей борт систематично використовувався для масованих ракетних ударів по Україні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1141.MP4" length="3078497" type="video/mp4"/>
+      <pubDate>Fri, 17 Jul 2026 11:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Моторошні кадри, як діти босон</title>
+      <link>https://www.mandarinai.lt/post/95847</link>
+      <description>Моторошні кадри, як діти босоніж тікають від вибухів у Вишневому</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-17_11-49-44.mp4" length="1273149" type="video/mp4"/>
+      <pubDate>Fri, 17 Jul 2026 11:49:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
