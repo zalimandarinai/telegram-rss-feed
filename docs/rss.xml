@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 15:39:29 +0000</lastBuildDate>
-    <item>
-      <title>В Угорщині розпочали офіційне </title>
-      <link>https://www.mandarinai.lt/post/95840</link>
-      <description>В Угорщині розпочали офіційне розслідування щодо ймовірної державної зради колишнього міністра закордонних справ Петера Сіярто через його зв’язки з росією, - прем’єр-міністр Петер Мадяр</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_08-03-30.jpg" length="57667" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 08:03:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 16:47:11 +0000</lastBuildDate>
     <item>
       <title>🤬 путін наказав російським вій</title>
       <link>https://www.mandarinai.lt/post/95841</link>
@@ -109,6 +102,13 @@
       <description>Бійці 4-ї механізованої бригади ліквідували фортифікаційну споруду противника в Харківській області, «скидом» 120-мм міни від «Української бронетехніки». Боєприпас скинули  з висоти 150 метрів на дальності до 15 км від точки, де злетів безпілотник. Такі «скиди», перероблені з мінометних боєприпасів, досі залишаються ефективними, вважають в бригаді.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1151.MP4" length="4715635" type="video/mp4"/>
       <pubDate>Fri, 17 Jul 2026 14:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Терміново та примусово еваку</title>
+      <link>https://www.mandarinai.lt/post/95857</link>
+      <description>‼️Терміново та примусово евакуюють частину міста Херсона та області, — ОВА опублікувала список зон, з яких мають обов’язково переїхати місцеві жителі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_16-18-14.jpg" length="37658" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 16:18:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
