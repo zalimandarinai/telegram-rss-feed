@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 19:32:39 +0000</lastBuildDate>
-    <item>
-      <title>Моторошні кадри, як діти босон</title>
-      <link>https://www.mandarinai.lt/post/95847</link>
-      <description>Моторошні кадри, як діти босоніж тікають від вибухів у Вишневому</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-17_11-49-44.mp4" length="1273149" type="video/mp4"/>
-      <pubDate>Fri, 17 Jul 2026 11:49:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 20:32:56 +0000</lastBuildDate>
     <item>
       <title>Штурмовики 425-го полку «Скеля</title>
       <link>https://www.mandarinai.lt/post/95851</link>
@@ -99,6 +92,19 @@
       <description>⚡️Зеленський призначив Сергія "Флеша" Бескрестнова своїм радником з питань розвитку технологічних напрямів оборони.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_18-57-41.jpg" length="212568" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 18:57:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌російський фондовий ринок пер</title>
+      <link>https://www.mandarinai.lt/post/95866</link>
+      <description>👌російський фондовий ринок переживає найдовше падіння з 1997 року
+
+Індекс Мосбіржі знижується вже 18 тижнів поспіль – це найдовша серія падіння за всю історію спостережень. За підсумками тижня він опустився до 1958 пунктів, мінімуму з жовтня 2022 року, а з початку квітня втратив майже 30%.
+
+За останній місяць акції "Газпрому", ВТБ, "Норнікелю", МТС, "Аерофлоту" та інших найбільших компаній подешевшали на 20-50%. Аналітики вважають, що великі інвестори продовжують масово позбавлятися від російських активів.
+
+Раніше Bloomberg повідомляв, що російські мільярдери виводять капітал за кордон, побоюючись подальшого погіршення ситуації в економіці, проблем банківської системи та можливої конфіскації активів. За інформацією джерел агентства, мова йде про десятки мільярдів доларів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_19-59-48.jpg" length="76936" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 19:59:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
