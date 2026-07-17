@@ -6,47 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 18:05:09 +0000</lastBuildDate>
-    <item>
-      <title>Рейтинг Путіна впав до мінімум</title>
-      <link>https://www.mandarinai.lt/post/95843</link>
-      <description>Рейтинг Путіна впав до мінімуму від початку війни
-
-За даними провладного Центру вивчення громадської думки, він знизився до 65,1% — це найнижчий показник від початку війни.
-
-Рейтинг схвалення російського диктатора знижується вже четвертий тиждень поспіль на тлі паливної кризи. За місяць рівень схвалення зменшився на 5,3%.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-09-38.jpg" length="54372" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 10:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡У Польщі різко зросла кількіс</title>
-      <link>https://www.mandarinai.lt/post/95844</link>
-      <description>😡У Польщі різко зросла кількість нападів на українців через ксенофобію, — Rzeczpospolita
-
-За 2026 рік 180 громадян України звернулися до поліції та заявили про злочини на ґрунті ненависті. Це на 30% більше, ніж минулоріч.
-
-До кінця 2026 року кількість звернень може зрости приблизно до 360 і це буде найвищим показником за останні роки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-16-32.jpg" length="115400" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 10:16:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Евакуація з Костянтинівки До</title>
-      <link>https://www.mandarinai.lt/post/95845</link>
-      <description>❗️Евакуація з Костянтинівки Донецької області стала неможливою. Врятуватися тепер можна лише пішки, — начальник відділу зв’язків із громадськістю поліції Донеччини</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_10-20-14.jpg" length="71462" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>СБУ знищила стратегічний бомба</title>
-      <link>https://www.mandarinai.lt/post/95846</link>
-      <description>СБУ знищила стратегічний бомбардувальник Ту-95 на військовому аеродромі «Енгельс»
-
-Далекобійні безпілотники СБУ подолали близько 800 кілометрів до цілі.
-
-За попередніми даними, літак зазнав критичних пошкоджень — у нього повністю відірвано хвостову частину. Саме цей борт систематично використовувався для масованих ракетних ударів по Україні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1141.MP4" length="3078497" type="video/mp4"/>
-      <pubDate>Fri, 17 Jul 2026 11:05:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 19:32:39 +0000</lastBuildDate>
     <item>
       <title>Моторошні кадри, як діти босон</title>
       <link>https://www.mandarinai.lt/post/95847</link>
@@ -118,6 +78,27 @@
 Раніше Трамп заявляв, що може підписати законопроєкт на знак поваги до покійного сенатора Ліндсі Ґрема, який був одним з його ініціаторів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_18-02-22.jpg" length="57643" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 18:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅В більшості обласних центрів </title>
+      <link>https://www.mandarinai.lt/post/95861</link>
+      <description>✅В більшості обласних центрів України тривають акції проти звільнення Федоріва з посади міністра оборони</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-17_18-11-34.mp4" length="842381" type="video/mp4"/>
+      <pubDate>Fri, 17 Jul 2026 18:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Олександра Поклада призначили </title>
+      <link>https://www.mandarinai.lt/post/95864</link>
+      <description>Олександра Поклада призначили тимчасовим виконувачем обов'язків голови СБУ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_18-56-22.jpg" length="28542" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 18:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зеленський призначив Сергія </title>
+      <link>https://www.mandarinai.lt/post/95865</link>
+      <description>⚡️Зеленський призначив Сергія "Флеша" Бескрестнова своїм радником з питань розвитку технологічних напрямів оборони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_18-57-41.jpg" length="212568" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 18:57:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
