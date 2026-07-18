@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 15:55:27 +0000</lastBuildDate>
-    <item>
-      <title>В Польщі вперше кількість прот</title>
-      <link>https://www.mandarinai.lt/post/95881</link>
-      <description>В Польщі вперше кількість противників прийняття біженців з України перевищила кількість прихильників, - опитування Центру дослідження громадської думки CBOS
-
-На сьогодні 52% опитаних вважають, що Польща не має приймати біженців з України, і тільки 42% дотримуються протилежної думки.
-
-В 2022-му році 94% вважали, що Польща має надавати притулок українцям.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-18_08-32-35.jpg" length="30281" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 08:32:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Сумщині російські війська а</title>
-      <link>https://www.mandarinai.lt/post/95882</link>
-      <description>На Сумщині російські війська активізували спроби створити так звану «буферну зону» вздовж кордону, періодично просуваючись на окремих ділянках у прикордонних громадах. 
-
-Найбільший тиск та зміни фіксуються в районах Миропільської та Краснопільської громад, а також поблизу Грабовського. 
-
-Оператори 210-го штурмового полку, так само, як й інші підрозділи, намагаються зупинити російських піхотинців, які шукають різні можливості просочитися ближче до українських позицій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1161.MP4" length="6553045" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 08:48:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 16:57:13 +0000</lastBuildDate>
     <item>
       <title>Бійці роти наземних роботизова</title>
       <link>https://www.mandarinai.lt/post/95883</link>
@@ -107,6 +85,20 @@
       <description>Ворог завдав авіаударів по Запоріжжю: три людини травмовані, з них одна дитина</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-18_15-23-48.jpg" length="201218" type="image/jpeg"/>
       <pubDate>Sat, 18 Jul 2026 15:23:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії більшість офіційних ме</title>
+      <link>https://www.mandarinai.lt/post/95893</link>
+      <description>В росії більшість офіційних медіа ігнорують влучання по складах Wildberries: не показуючи відеокадри, вони обмежилися лише короткими повідомленнями про «інцидент».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1171.MP4" length="14545668" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 16:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️російські вбивці обстріляли </title>
+      <link>https://www.mandarinai.lt/post/95897</link>
+      <description>⚡️російські вбивці обстріляли Краматорськ – місто зазнало обстрілів авіабомбами. Внаслідок атаки загинули дві людини, ще одна отримала поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-18_16-30-32.jpg" length="301059" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 16:30:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
