@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 04:14:18 +0000</lastBuildDate>
-    <item>
-      <title>Штурмовики 425-го полку «Скеля</title>
-      <link>https://www.mandarinai.lt/post/95851</link>
-      <description>Штурмовики 425-го полку «Скеля» ліквідували спробу інфільтрації противника через державний кордон до села Козача Лопань.
-
-Також було повністю зачищено ділянку державного кордону поблизу населеного пункту Гранів.
-
-Мотогрупу очолив командир 4-го штурмового батальйону, який виїхав на передові позиції, щоб вивести своїх бійців.</description>
-      <pubDate>Fri, 17 Jul 2026 12:45:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫤Союзники вмовляють Грецію пер</title>
-      <link>https://www.mandarinai.lt/post/95855</link>
-      <description>🫤Союзники вмовляють Грецію передати Україні ракети для систем Patriot, — ЗМІ
-
-За даними грецьких ЗМІ, союзники по НАТО та ЄС посилили тиск на Афіни, добиваючись передачі Україні ракет для систем Patriot.
-
-Мова йде приблизно про 200 ракет PAC-2, які вже понад 20 років перебувають на озброєнні грецької армії.
-
-Раніше обговорювалася передача Україні батарей Patriot, але тоді Греція відмовилася. Зараз мова йде лише про ракети.
-
-Один із варіантів – продати їх Норвегії, яка потім передасть боєприпаси Києву. Однак, наразі Афіни не висловлюють готовності піти на цю угоду.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_13-32-27.jpg" length="68875" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 13:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці 4-ї механізованої бригад</title>
-      <link>https://www.mandarinai.lt/post/95856</link>
-      <description>Бійці 4-ї механізованої бригади ліквідували фортифікаційну споруду противника в Харківській області, «скидом» 120-мм міни від «Української бронетехніки». Боєприпас скинули  з висоти 150 метрів на дальності до 15 км від точки, де злетів безпілотник. Такі «скиди», перероблені з мінометних боєприпасів, досі залишаються ефективними, вважають в бригаді.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1151.MP4" length="4715635" type="video/mp4"/>
-      <pubDate>Fri, 17 Jul 2026 14:05:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 06:21:15 +0000</lastBuildDate>
     <item>
       <title>‼️Терміново та примусово еваку</title>
       <link>https://www.mandarinai.lt/post/95857</link>
@@ -105,6 +73,29 @@
 Раніше Bloomberg повідомляв, що російські мільярдери виводять капітал за кордон, побоюючись подальшого погіршення ситуації в економіці, проблем банківської системи та можливої конфіскації активів. За інформацією джерел агентства, мова йде про десятки мільярдів доларів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-17_19-59-48.jpg" length="76936" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 19:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Українські БПЛА атакували ло</title>
+      <link>https://www.mandarinai.lt/post/95868</link>
+      <description>💥🔥Українські БПЛА атакували логістичний центр Wildberries під Москвою.
+
+Цей склад обробляє близько 10% замовлень від загального обороту по рф.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_04-28-27.mp4" length="523079" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 04:28:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Дим від пожежі в атакованому </title>
+      <link>https://www.mandarinai.lt/post/95871</link>
+      <description>🔥Дим від пожежі в атакованому логістичному центрі дістався Москви</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_05-33-31.mp4" length="247342" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 05:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Також нафтобаза в Ногінську -</title>
+      <link>https://www.mandarinai.lt/post/95872</link>
+      <description>🔥Також нафтобаза в Ногінську - ключова для забезпечення Москви</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_05-35-16.mp4" length="699792" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 05:35:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
