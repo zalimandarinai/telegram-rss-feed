@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 14:50:43 +0000</lastBuildDate>
-    <item>
-      <title>«А хулі толку тут гасити?» - т</title>
-      <link>https://www.mandarinai.lt/post/95877</link>
-      <description>«А хулі толку тут гасити?» - так риторично запитує себе росіянин, дивлячись на підмосковний склад Wildberries</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1159.MP4" length="10675499" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 07:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Логістичний центр та нафтобаз</title>
-      <link>https://www.mandarinai.lt/post/95878</link>
-      <description>🔥Логістичний центр та нафтобаза під Москвою створили задимлення вихідного дня для москвичів і гостей столиці країни лайна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_07-30-04.mp4" length="1884518" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 07:30:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 15:55:27 +0000</lastBuildDate>
     <item>
       <title>В Польщі вперше кількість прот</title>
       <link>https://www.mandarinai.lt/post/95881</link>
@@ -107,6 +93,20 @@
       <description>В Москві і Московській області сьогодні хмарно без прояснень</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1165.MP4" length="4027194" type="video/mp4"/>
       <pubDate>Sat, 18 Jul 2026 14:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Професійно - український боєць</title>
+      <link>https://www.mandarinai.lt/post/95891</link>
+      <description>Професійно - український боєць першою чергою з ПКМ збиває російський FPV-дрон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1168.MP4" length="5644285" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 15:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог завдав авіаударів по Зап</title>
+      <link>https://www.mandarinai.lt/post/95892</link>
+      <description>Ворог завдав авіаударів по Запоріжжю: три людини травмовані, з них одна дитина</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-18_15-23-48.jpg" length="201218" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 15:23:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
