@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 19:11:47 +0000</lastBuildDate>
-    <item>
-      <title>В Москві і Московській області</title>
-      <link>https://www.mandarinai.lt/post/95889</link>
-      <description>В Москві і Московській області сьогодні хмарно без прояснень</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1165.MP4" length="4027194" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 14:07:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 20:08:30 +0000</lastBuildDate>
     <item>
       <title>Професійно - український боєць</title>
       <link>https://www.mandarinai.lt/post/95891</link>
@@ -69,6 +62,32 @@
       <description>💬 «Довго говорив сьогодні з Федоровим, а також із Сирським, рішення щодо армії будуть напрацьовані», — Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1183.MP4" length="1328364" type="video/mp4"/>
       <pubDate>Sat, 18 Jul 2026 18:49:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Федоров може очолити напрям </title>
+      <link>https://www.mandarinai.lt/post/95907</link>
+      <description>‼️Федоров може очолити напрям військових технологій, а Сирського планують замінити, — ЗМІ
+
+В Офісі Президента розглядають можливість призначення Михайла Федорова головним куратором сфери miltech, повідомляють джерела ZN.UA у Вашингтоні. 
+
+Західні партнери очікують, що ексміністр прийме пропозицію. 
+
+Неофіційна назва посади — «miltech czar» — означає високопоставленого координатора з широкими повноваженнями у стратегічному секторі оборонних технологій.
+
+Паралельно на Банковій обговорюють зміну Головнокомандувача ЗСУ Сирського. Хто саме може посісти його місце, наразі не повідомляється.
+
+Тим часом сам Федоров заявив, що є діалог з президентом.
+Зміни обовʼязково будуть. Вірю, що все вдасться.
+ 
+На відео: вечірні кадри акції проти відставки Федоріва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_19-07-23.mp4" length="4996838" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 19:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підраховані збитки після атаки</title>
+      <link>https://www.mandarinai.lt/post/95908</link>
+      <description>Підраховані збитки після атаки дронів на Wildberries: близько $1,2 млрд.</description>
+      <pubDate>Sat, 18 Jul 2026 20:01:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
