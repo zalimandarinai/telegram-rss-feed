@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 13:48:53 +0000</lastBuildDate>
-    <item>
-      <title>💔— Немає мами!
-— Не кажи так п</title>
-      <link>https://www.mandarinai.lt/post/95876</link>
-      <description>💔— Немає мами!
-— Не кажи так про маму.
-— Її більше немає! Все! Немає мами.
-
-Це страшні кадри після вчорашньої атаки в Одесі.
-
-Ракета вбила матір трьох дітей, коли вона разом із синами поспішала в укриття. Хлопчиків  поранено.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_07-19-39.mp4" length="5592038" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 07:19:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 14:50:43 +0000</lastBuildDate>
     <item>
       <title>«А хулі толку тут гасити?» - т</title>
       <link>https://www.mandarinai.lt/post/95877</link>
@@ -114,6 +100,13 @@
       <description>🔥Росія. Електросталь. Масштабування сво.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_12-54-20.mp4" length="652568" type="video/mp4"/>
       <pubDate>Sat, 18 Jul 2026 12:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Москві і Московській області</title>
+      <link>https://www.mandarinai.lt/post/95889</link>
+      <description>В Москві і Московській області сьогодні хмарно без прояснень</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1165.MP4" length="4027194" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 14:07:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
