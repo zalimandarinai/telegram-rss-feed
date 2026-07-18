@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 20:08:30 +0000</lastBuildDate>
-    <item>
-      <title>Професійно - український боєць</title>
-      <link>https://www.mandarinai.lt/post/95891</link>
-      <description>Професійно - український боєць першою чергою з ПКМ збиває російський FPV-дрон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1168.MP4" length="5644285" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 15:19:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 21:06:23 +0000</lastBuildDate>
     <item>
       <title>Ворог завдав авіаударів по Зап</title>
       <link>https://www.mandarinai.lt/post/95892</link>
@@ -88,6 +81,20 @@
       <link>https://www.mandarinai.lt/post/95908</link>
       <description>Підраховані збитки після атаки дронів на Wildberries: близько $1,2 млрд.</description>
       <pubDate>Sat, 18 Jul 2026 20:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок удару по багатоповер</title>
+      <link>https://www.mandarinai.lt/post/95909</link>
+      <description>Внаслідок удару по багатоповерхівці в Херсоні постраждали двоє дітей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-18_20-15-16.jpg" length="183973" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 20:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Є!» - 1210-ий зенітний ракетн</title>
+      <link>https://www.mandarinai.lt/post/95910</link>
+      <description>«Є!» - 1210-ий зенітний ракетний дивізіон збиває російський «шахед» на маршруті в глибину території України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1185.MP4" length="3361674" type="video/mp4"/>
+      <pubDate>Sat, 18 Jul 2026 20:42:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
