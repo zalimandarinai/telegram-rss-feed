@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 03:53:53 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Довго говорив сьогодні з Фе</title>
-      <link>https://www.mandarinai.lt/post/95906</link>
-      <description>💬 «Довго говорив сьогодні з Федоровим, а також із Сирським, рішення щодо армії будуть напрацьовані», — Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1183.MP4" length="1328364" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 18:49:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Федоров може очолити напрям </title>
-      <link>https://www.mandarinai.lt/post/95907</link>
-      <description>‼️Федоров може очолити напрям військових технологій, а Сирського планують замінити, — ЗМІ
-
-В Офісі Президента розглядають можливість призначення Михайла Федорова головним куратором сфери miltech, повідомляють джерела ZN.UA у Вашингтоні. 
-
-Західні партнери очікують, що ексміністр прийме пропозицію. 
-
-Неофіційна назва посади — «miltech czar» — означає високопоставленого координатора з широкими повноваженнями у стратегічному секторі оборонних технологій.
-
-Паралельно на Банковій обговорюють зміну Головнокомандувача ЗСУ Сирського. Хто саме може посісти його місце, наразі не повідомляється.
-
-Тим часом сам Федоров заявив, що є діалог з президентом.
-Зміни обовʼязково будуть. Вірю, що все вдасться.
- 
-На відео: вечірні кадри акції проти відставки Федоріва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-18_19-07-23.mp4" length="4996838" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 19:07:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 06:29:14 +0000</lastBuildDate>
     <item>
       <title>Підраховані збитки після атаки</title>
       <link>https://www.mandarinai.lt/post/95908</link>
@@ -100,6 +73,13 @@
       <description>💥🔥Ранковий пейзаж у Ставропольському краї рф після атаки дронів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_03-44-08.mp4" length="1411111" type="video/mp4"/>
       <pubDate>Sun, 19 Jul 2026 03:44:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Люди в Києві під час ворожої а</title>
+      <link>https://www.mandarinai.lt/post/95921</link>
+      <description>Люди в Києві під час ворожої атаки опинились заблокованими в укритті</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_04-10-12.mp4" length="1045046" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 04:10:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
