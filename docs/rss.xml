@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 12:36:50 +0000</lastBuildDate>
-    <item>
-      <title>👌На тлі шалених руйнувань на Л</title>
-      <link>https://www.mandarinai.lt/post/95937</link>
-      <description>👌На тлі шалених руйнувань на Лук'янівці, дивом вистояв перший український МакДональдс. Навіть вікна цілі!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_08-24-12.mp4" length="1409471" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 08:24:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 14:12:19 +0000</lastBuildDate>
     <item>
       <title>Ефектне влучання в ударний без</title>
       <link>https://www.mandarinai.lt/post/95938</link>
@@ -123,6 +116,32 @@
       <description>‼️ На Суми летіли КАБи, одна людина загинула, є поранені</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1207.MP4" length="20024218" type="video/mp4"/>
       <pubDate>Sun, 19 Jul 2026 11:32:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Район метро «Лукʼянівка» в Киє</title>
+      <link>https://www.mandarinai.lt/post/95952</link>
+      <description>Район метро «Лукʼянівка» в Києві зараз виглядає так.
+
+Загинула 89-річна жінка, 17 поранених.
+
+Внаслідок удару пошкоджені станція метро, багатоповерхівки, гуртожиток, магазини, аптека, адмінбудівлі, кінотеатр.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1209.MP4" length="4835475" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 13:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Противник вважає, що розкрив т</title>
+      <link>https://www.mandarinai.lt/post/95953</link>
+      <description>Противник вважає, що розкрив тактичне нововведення українських військових.
+
+Ворожий дрон зафіксував український коптер з НРК на зовнішній підвісці.
+
+Як заявляють росіяни, таким чином українські військові збільшують дальність застосування НРК.
+
+Заявлено, що в цьому випадку перевозився ARK-1, споряджений протитанковими мінами. 
+
+Таким чином, «камікадзе» планувалось застосувати для подальшої атаки російських позицій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_13-57-27.jpg" length="34537" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 13:57:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
