@@ -6,80 +6,89 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 06:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:55:37 +0000</lastBuildDate>
     <item>
-      <title>Підраховані збитки після атаки</title>
-      <link>https://www.mandarinai.lt/post/95908</link>
-      <description>Підраховані збитки після атаки дронів на Wildberries: близько $1,2 млрд.</description>
-      <pubDate>Sat, 18 Jul 2026 20:01:16 +0000</pubDate>
+      <title>Підземний перехід на Лукʼянівц</title>
+      <link>https://www.mandarinai.lt/post/95926</link>
+      <description>Підземний перехід на Лукʼянівці в Києві, схоже, зазнав прямого влучання: станція метро, яка знаходиться поруч, не працює</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1187.MP4" length="5531123" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 07:28:51 +0000</pubDate>
     </item>
     <item>
-      <title>Внаслідок удару по багатоповер</title>
-      <link>https://www.mandarinai.lt/post/95909</link>
-      <description>Внаслідок удару по багатоповерхівці в Херсоні постраждали двоє дітей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-18_20-15-16.jpg" length="183973" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 20:15:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Є!» - 1210-ий зенітний ракетн</title>
-      <link>https://www.mandarinai.lt/post/95910</link>
-      <description>«Є!» - 1210-ий зенітний ракетний дивізіон збиває російський «шахед» на маршруті в глибину території України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1185.MP4" length="3361674" type="video/mp4"/>
-      <pubDate>Sat, 18 Jul 2026 20:42:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Одна людина загинула,  ще 8 </title>
-      <link>https://www.mandarinai.lt/post/95911</link>
-      <description>⚡️Одна людина загинула,  ще 8 травмовано внаслідок нічної атаки на Київ
+      <title>❗️ Сьогоднішній обстріл: уточн</title>
+      <link>https://www.mandarinai.lt/post/95927</link>
+      <description>❗️ Сьогоднішній обстріл: уточнені дані по випущених та збитих ворожих цілях від Повітряних Сил
 
-Влучання та пожежі зафіксовано у 5 районах столиці.
+Збито:
 
-📍Солом’янський район: триває гасіння пожежі в офісній будівлі. Ліквідовано пожежу в житловому та нежитловому будинках.
+🔺 7 із 10 ракет «Циркон»; 
 
-📍Шевченківський район: ліквідовано загоряння автомобілів та триповерхової будівлі. Проводились роботи з деблокування людей.  Локалізовано пожежу в нежитловій будівлі. Виявлено загиблу особу.
+🔺 10 із 25 ракет «Іскандер-М»/С-400; 
 
-📍Святошинський район: пожежу на даху приватного житлового будинку ліквідовано. Врятовано чотирьох мешканців. 
+🔺 1 із 3 ракет Х-59/69; 
 
-📍Деснянський район: локалізовано пожежу на обох локаціях у нежитлових будівлях. 
+🔺 108 із 125 ударних БПЛА. 
 
-📍Дніпровський район: зафіксовано загоряння автомобілів, нежитлової будівлі та гуртожитку.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_02-48-59.jpg" length="249594" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 02:48:59 +0000</pubDate>
+Жодної з 3 протикорабельних ракет «Онікс» не збито.
+
+Зафіксовано влучання 23 ракет та 10 ударних БПЛА на 20 локаціях, падіння уламків збитих БпЛА на 18 локаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_07-39-49.jpg" length="89911" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 07:39:49 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Атакована нафтобаза в російс</title>
-      <link>https://www.mandarinai.lt/post/95914</link>
-      <description>💥🔥Атакована нафтобаза в російському Михайловську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_02-52-36.mp4" length="1476969" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 02:52:36 +0000</pubDate>
+      <title>🤬Кожну хвилину. російські виро</title>
+      <link>https://www.mandarinai.lt/post/95928</link>
+      <description>🤬Кожну хвилину. російські виродки випустили по Києву 41 ракету за 40 хвилин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_07-45-02.jpg" length="161478" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 07:45:02 +0000</pubDate>
     </item>
     <item>
-      <title>Дим від пожеж затягує небо Киє</title>
-      <link>https://www.mandarinai.lt/post/95916</link>
-      <description>Дим від пожеж затягує небо Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_03-01-44.mp4" length="929226" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 03:01:44 +0000</pubDate>
+      <title>Моторошні кадри прильотів по К</title>
+      <link>https://www.mandarinai.lt/post/95931</link>
+      <description>Моторошні кадри прильотів по Києву вночі, — APT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_07-46-48.mp4" length="12717301" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 07:46:48 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Через атаку ворога знову пош</title>
-      <link>https://www.mandarinai.lt/post/95918</link>
-      <description>⚡️Через атаку ворога знову пошкоджено вестибюль метро Лукьянівська. Станція наразі не працює.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_03-40-31.jpg" length="157005" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 03:40:31 +0000</pubDate>
+      <title>Ракетний удар знищив завод та </title>
+      <link>https://www.mandarinai.lt/post/95932</link>
+      <description>Ракетний удар знищив завод та склади української компанії UKRTAC, — директор з розвитку Северіон Дангадзе.
+
+Він назвав те, що сталося, найбільшою трагедією в історії компанії. На щастя, ніхто з працівників не постраждав.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_08-02-28.jpg" length="37509" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 08:02:28 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Ранковий пейзаж у Ставрополь</title>
-      <link>https://www.mandarinai.lt/post/95920</link>
-      <description>💥🔥Ранковий пейзаж у Ставропольському краї рф після атаки дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_03-44-08.mp4" length="1411111" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 03:44:08 +0000</pubDate>
+      <title>«Сьогодні точно не фінал. Заря</title>
+      <link>https://www.mandarinai.lt/post/95933</link>
+      <description>«Сьогодні точно не фінал. Заряджені та продовжуємо. Це вам не футбол». Так виродки з російського Міноборони  прокоментували інформацію про нічні удари по Києву та іншим українським містам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_08-08-44.jpg" length="38683" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 08:08:44 +0000</pubDate>
     </item>
     <item>
-      <title>Люди в Києві під час ворожої а</title>
-      <link>https://www.mandarinai.lt/post/95921</link>
-      <description>Люди в Києві під час ворожої атаки опинились заблокованими в укритті</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_04-10-12.mp4" length="1045046" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 04:10:12 +0000</pubDate>
+      <title>Біля кінотеатру «Київська Русь</title>
+      <link>https://www.mandarinai.lt/post/95934</link>
+      <description>Біля кінотеатру «Київська Русь» у Києві значні руйнування
+
+Найбільше постраждала будівля поруч із кінотеатром: вибухова хвиля зруйнувала частину другого поверху й дах.
+
+Також пошкоджена будівля прокуратури, житлові будинки навпроти й понад десять автомобілів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1194.MP4" length="4436518" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 08:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Момент влучання по нафтобазі</title>
+      <link>https://www.mandarinai.lt/post/95935</link>
+      <description>💥🔥Момент влучання по нафтобазі під російським Ставрополем</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_08-18-58.mp4" length="932554" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 08:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌На тлі шалених руйнувань на Л</title>
+      <link>https://www.mandarinai.lt/post/95937</link>
+      <description>👌На тлі шалених руйнувань на Лукьянівці, дивом вистояв перший український МакДональдс. Навіть вікна цілі!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_08-24-12.mp4" length="1409471" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 08:24:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
