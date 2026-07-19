@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 19:53:24 +0000</lastBuildDate>
-    <item>
-      <title>Українські прикордонники готую</title>
-      <link>https://www.mandarinai.lt/post/95969</link>
-      <description>Українські прикордонники готуються до можливого нападу з Білорусі та облаштовують на кордоні «кілзону», — ДПСУ.
-
-Для стримування ворога на північному напрямку наразі зводять протитанкові рови, загородження з колючого дроту та бетонні «зуби дракона».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_16-14-58.mp4" length="19344417" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 16:14:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 20:44:41 +0000</lastBuildDate>
     <item>
       <title>🤔 Громадян України призовного </title>
       <link>https://www.mandarinai.lt/post/95970</link>
@@ -80,11 +71,22 @@
       <pubDate>Sun, 19 Jul 2026 19:15:51 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Мітинг в Києві досі трває</title>
+      <title>⚡️Мітинг в Києві досі триває</title>
       <link>https://www.mandarinai.lt/post/95983</link>
-      <description>⚡️Мітинг в Києві досі трває</description>
+      <description>⚡️Мітинг в Києві досі триває</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_19-29-01.mp4" length="1248518" type="video/mp4"/>
       <pubDate>Sun, 19 Jul 2026 19:29:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️З невідомих причин здичавілі</title>
+      <link>https://www.mandarinai.lt/post/95986</link>
+      <description>‼️З невідомих причин здичавілі сьогодні завдали удару по складу Goodwine під Києвом.
+
+Goodwine, один з найбільших українських спеціалізованих ритейлерів вина, міцних напоїв та продуктів харчування, не має жодного відношення до військової продукції. 
+
+Єдине пояснення, чому вдарили сюди, дає «Флеш», який сьогодні написав, що росіянам потрібно залякувати Київ, тож завод чи склад, з їхньої точки зору, для цього якнайкраще підходить.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1232.MP4" length="2509364" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 20:24:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
