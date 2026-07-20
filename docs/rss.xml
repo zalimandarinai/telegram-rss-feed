@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 16:59:21 +0000</lastBuildDate>
-    <item>
-      <title>В Павлограді внаслідок російсь</title>
-      <link>https://www.mandarinai.lt/post/96013</link>
-      <description>В Павлограді внаслідок російської атаки загинули двоє людей, ще 13 дістали поранення, серед них дитина, - ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_08-52-03.jpg" length="331122" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 08:52:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Вулиці Запоріжжя затягують ат</title>
-      <link>https://www.mandarinai.lt/post/96015</link>
-      <description>😡Вулиці Запоріжжя затягують атидроновими сітками : рф майже безперервно атакує місто, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-20_10-02-23.mp4" length="3027056" type="video/mp4"/>
-      <pubDate>Mon, 20 Jul 2026 10:02:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 19:00:14 +0000</lastBuildDate>
     <item>
       <title>❗️росія готує плацдарм для нап</title>
       <link>https://www.mandarinai.lt/post/96016</link>
@@ -104,6 +90,46 @@
 Внаслідок обстрілу сталося загорання техніки, пошкоджено газову магістраль.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_14-50-07.jpg" length="58544" type="image/jpeg"/>
       <pubDate>Mon, 20 Jul 2026 14:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 Для мене було несподіванкою </title>
+      <link>https://www.mandarinai.lt/post/96027</link>
+      <description>📰 Для мене було несподіванкою дізнатися, що у нас із міністром Федоровим конфлікт, - Сирський для «Мілітарного».
+
+Головнокомандувач каже, йому нецікава медійна активність.
+
+💬 «Я не будую імідж і не маю політичних амбіцій. Я займаюся війною. 24/7. Саме тому я рідко даю інтерв’ю і майже ніколи не пишу колонок».
+
+Сирський вважає, що конфлікт між МО і ГШ міфологізований.
+
+💬 «Для мене було несподіванкою дізнатися, що у нас із паном міністром був конфлікт. Я сприймав наші відносини як робочі: зі складними питаннями, з різними позиціями».
+
+ГК вибачився перед екс-міністром.
+
+💬 «Якщо я когось чимось образив: Михайле Альбертовичу, вибачте. Буваю жорстким. Але прошу і вас, і всіх, хто зараз із захопленням стежить за цією історією: давайте фокусуватися не на особистому, а на глобальному. На перемозі.
+Бо є думка, важливіша за будь-які прізвища: Україна більша за Федорова, Сирського і будь-кого з нас. Україна вистоїть не тому, що в ній є незамінні люди, а тому, що в ній є армія, інституції та мільйони людей, які роблять свою роботу. Звести цю війну до протистояння двох персон — найбільша послуга, яку ми можемо зробити ворогу».
+
+Також ГК пояснив, що, з його точки зору, тільки дрони, без ракет, артилерії, авіації та інших засобів, не в змозі забезпечити перемогу на полі бою.
+
+💬 «Я не воюю з міністерством. Я воюю з росією», - в якості підсумків написав він.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_17-18-56.jpg" length="188420" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 17:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф вдарила реактивним дроном</title>
+      <link>https://www.mandarinai.lt/post/96028</link>
+      <description>⚡️рф вдарила реактивним дроном по багатоповерхівці у Сумах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_18-19-11.jpg" length="215988" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 18:19:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Завтра Зеленський зустрінеть</title>
+      <link>https://www.mandarinai.lt/post/96029</link>
+      <description>⚡️Завтра Зеленський зустрінеться з командирами корпусів. 
+
+Україна має максимально посилитися до серпня та підготуватися до можливих дій рф восени.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_18-49-30.jpg" length="167862" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 18:49:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
