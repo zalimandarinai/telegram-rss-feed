@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 11:06:36 +0000</lastBuildDate>
-    <item>
-      <title>🔥 Fire Point оприлюднила відео</title>
-      <link>https://www.mandarinai.lt/post/96005</link>
-      <description>🔥 Fire Point оприлюднила відео пуску ракети, без подробиць 😐</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-20_06-24-47.mp4" length="528776" type="video/mp4"/>
-      <pubDate>Mon, 20 Jul 2026 06:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Мінус ще один топовий склад </title>
-      <link>https://www.mandarinai.lt/post/96006</link>
-      <description>💥🔥Мінус ще один топовий склад Wildberries у підмосковному Домодедово</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-20_06-25-44.mp4" length="1195657" type="video/mp4"/>
-      <pubDate>Mon, 20 Jul 2026 06:25:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 13:17:02 +0000</lastBuildDate>
     <item>
       <title>Від початку липня російська ар</title>
       <link>https://www.mandarinai.lt/post/96008</link>
@@ -123,15 +109,40 @@
 
 🎯Ціль: 50 000.00 ₴
 
-🔗Посилання на Банку
-https://send.monobank.ua/jar/8Cx1uLVaKs
-
-💳Номер картки Банки
-4874 1000 3094 1275
+ЗБІР ЗАКРИТО! ДЯКУЮ, ДРУЗІ
 
 Вистоїмо тільки разом!</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1251.MP4" length="6666409" type="video/mp4"/>
       <pubDate>Mon, 20 Jul 2026 10:35:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Інформація щодо начебто звільн</title>
+      <link>https://www.mandarinai.lt/post/96019</link>
+      <description>Інформація щодо начебто звільнення Головнокомандувача ЗСУ генерала Олександра Сирського з посади не відповідає дійсності, — Генштаб
+
+Сирський продовжує виконувати свої обов’язки на посаді Головнокомандувача ЗС України.
+
+Начальник Генерального штабу ЗС України генерал-лейтенант Андрій Гнатов також продовжує виконувати свої функціональні обов’язки.
+
+Звільнення з цих посад відбувається на підставі Указу Президента України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_12-57-19.jpg" length="25503" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 12:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зеленський провів зустрічі з</title>
+      <link>https://www.mandarinai.lt/post/96020</link>
+      <description>⚡️Зеленський провів зустрічі з Драпатим та Білецьким
+Вже сьогодні о 16:30 на засіданні Ставки розглянуть кандидатуру нового Головнокомандувача ЗСУ, — нардепи.
+
+Серед претендентів обговорюють:
+командувача Об'єднаних сил ЗСУ Михайла Драпатого; 
+командира Третього армійського корпусу Сухопутних військ ЗСУ Андрія Білецького; 
+командувача Десантно-штурмових військ ЗСУ Олега Апостола; 
+командира корпусу Нацгвардії «Хартія» полковника Ігоря Оболенського.
+
+Загалом на посаду замість Сирського розглядають 11 кандидатур</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_13-01-05.jpg" length="152295" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 13:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
