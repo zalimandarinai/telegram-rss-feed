@@ -6,68 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 01:14:02 +0000</lastBuildDate>
-    <item>
-      <title>🤔 Громадян України призовного </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤔 Громадян України призовного віку можуть позбавити автоматичного захисту в Німеччині, — глава МВС Александер Добріндт.
-
-За новими правилами, спроба уникнення військової служби не повинна стати підставою для автоматичного надання захисту для українських чоловіків.
-
-Натомість таким заявникам запропонують стандартну процедуру отримання притулку з індивідуальним розглядом справи.
-
-Добриндт зазначив, що якщо така особа не отримає притулку, то, на його думку, вона повинна буде покинути Німеччину та повернутися в Україну.
-
-Водночас чиновник підкреслив, що вважає такий підхід виправданим, оскільки Німеччина надає Україні військову підтримку у великих масштабах.</description>
-      <pubDate>Sun, 19 Jul 2026 17:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У Києві та інших містах люди</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️У Києві та інших містах люди знову зібралися на протест, який триває вже четвертий день. 
-
-Вимоги такі ж самі. Повернути Федорова на посаду міністра оборони та звільнити головкома Сирського.</description>
-      <pubDate>Sun, 19 Jul 2026 17:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ «Цього разу росія завдавала</title>
-      <link>https://www.mandarinai.lt/post/95977</link>
-      <description>⚠️ «Цього разу росія завдавала ударів по підприємствах Києва, відомих ще з СРСР», - аналіз ситуації робить «Флеш» 
-
-💬 «Що потрібно розуміти.
-
-1. Якщо підприємство дійсно займається чимось критично важливим і військовим, це виробництво буде під землею. Атакувати його марно. Ворог це розуміє.
-
-2. Підприємства у нас в країні виживають за рахунок оренди. &lt;…&gt; У якомусь орендованому цеху розміром 10 на 20 метрів можуть робити щось дрібне на субпідряді. Якісь антени для РЕБ, пропелери для FPV. Керівництво заводу взагалі не знає про це.  Інформація витікає до ворога, і підприємство отримує удар.
-
-3. Інший варіант коли хтось використовує територію заводу як тимчасовий безкоштовний склад.
-
-4. Підприємство може взагалі нічого не робити, головне, що воно в Києві. Київ треба залякувати. Завод чудовий привід для цього.
-
-Треба розуміти, що агентура ворога працює, і нам потрібно бути дуже обережними та не допускати помилок».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1231.MP4" length="6725603" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 18:56:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Черговий акт тероризму на морі</title>
-      <link>https://www.mandarinai.lt/post/95978</link>
-      <description>Черговий акт тероризму на морі: РФ завдала ракетного удару по цивільному судну
-
-Трьома крилатими ракетами типу Х-59/Х-69 атакували завантажений зерном суховантаж GOLDEN LEO, який ішов під прапором Гвінеї-Бісау, власники судна з Туреччини.
-
-Внаслідок удару загинули п'ятеро людей. Ще п'ятеро членів екіпажу вважаються зниклими безвісти. Станом на 20:30 вісьмох людей евакуювали до однієї з лікарень Одеси.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-19_19-01-07.jpg" length="112304" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 19:01:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Завтра відбудеться Ставка. М</title>
-      <link>https://www.mandarinai.lt/post/95981</link>
-      <description>❗️Завтра відбудеться Ставка. Ми очікуємо, що президент почув суспільство і прийме правильне рішення, - ветеран медичної служби «Ульф» батальйону «Вовки да Вінчі» Козятинський.
-
-Він наголосив, що мітинги продовжаться допоки Зеленський не звільнить головкома Сирського та призначить Федорова міністром оборони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_19-15-51.mp4" length="1316610" type="video/mp4"/>
-      <pubDate>Sun, 19 Jul 2026 19:15:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 04:54:51 +0000</lastBuildDate>
     <item>
       <title>⚡️Мітинг в Києві досі триває</title>
       <link>https://www.mandarinai.lt/post/95983</link>
@@ -85,6 +24,47 @@ Goodwine, один з найбільших українських спеціал
 Єдине пояснення, чому вдарили сюди, дає «Флеш», який сьогодні написав, що росіянам потрібно залякувати Київ, тож завод чи склад, з їхньої точки зору, для цього якнайкраще підходить.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1232.MP4" length="2509364" type="video/mp4"/>
       <pubDate>Sun, 19 Jul 2026 20:24:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚽️ Іспанія чемпіон світу - ісп</title>
+      <link>https://www.mandarinai.lt/post/95989</link>
+      <description>⚽️ Іспанія чемпіон світу - іспанська збірна виграла в Аргентини фінальний матч чемпіонату світу з футболу 2026 з рахунком 1:0
+
+🥇 Вдруге в історії футболу іспанська збірна виграла Mundial.
+
+🇿🇦 Перший раз іспанці стали чемпіонами світу в 2010-му році в Південній Африці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-19_22-03-28.mp4" length="594702" type="video/mp4"/>
+      <pubDate>Sun, 19 Jul 2026 22:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>російський удар по Запоріжжю з</title>
+      <link>https://www.mandarinai.lt/post/95990</link>
+      <description>російський удар по Запоріжжю забрав життя 11-річної дівчинки, яка перебувала під завалами зруйнованого будинку
+
+Загалом жертвами атаки стали три людини. Ще 41 людина отримала поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-20_03-36-06.jpg" length="208216" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 03:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Ранковий двіж під Москвою. Р</title>
+      <link>https://www.mandarinai.lt/post/95991</link>
+      <description>💥🔥Ранковий двіж під Москвою. Результат уточнюється</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-20_03-38-54.mp4" length="472397" type="video/mp4"/>
+      <pubDate>Mon, 20 Jul 2026 03:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Нафтобаза в підмосковному По</title>
+      <link>https://www.mandarinai.lt/post/95995</link>
+      <description>💥🔥Нафтобаза в підмосковному Подольску приймає естафету</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-20_04-25-59.mp4" length="785036" type="video/mp4"/>
+      <pubDate>Mon, 20 Jul 2026 04:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Мінус ще один топовий склад </title>
+      <link>https://www.mandarinai.lt/post/95997</link>
+      <description>💥🔥Мінус ще один топовий склад Wildberries у підмосковному Домодедово</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-20_04-29-45.mp4" length="1195657" type="video/mp4"/>
+      <pubDate>Mon, 20 Jul 2026 04:29:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
