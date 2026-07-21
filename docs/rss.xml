@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 11:18:21 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Потужний приліт в окупованом</title>
-      <link>https://www.mandarinai.lt/post/96058</link>
-      <description>💥🔥Потужний приліт в окупованому Маріуполі — над містом гігантський стовп диму, спалахнула масштабна пожежа.  
-
-За характером займання, горять паливно-мастильні матеріали</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-21_08-07-42.mp4" length="848909" type="video/mp4"/>
-      <pubDate>Tue, 21 Jul 2026 08:07:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>📢По всій території Польщі луна</title>
-      <link>https://www.mandarinai.lt/post/96060</link>
-      <description>📢По всій території Польщі лунає тривога — жителів закликають негайно пройти в укриття та виконувати інструкції
-
-Так поляків готують до можливих військових дій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-21_08-42-34.mp4" length="1472511" type="video/mp4"/>
-      <pubDate>Tue, 21 Jul 2026 08:42:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 12:52:34 +0000</lastBuildDate>
     <item>
       <title>🔥Наш легендарний ударний дрон </title>
       <link>https://www.mandarinai.lt/post/96063</link>
@@ -78,6 +60,31 @@
       <description>Окупант покірно зустрів свою долю і згорів на роботі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1294.MP4" length="26350183" type="video/mp4"/>
       <pubDate>Tue, 21 Jul 2026 10:59:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Українські дрони уразили МіГ</title>
+      <link>https://www.mandarinai.lt/post/96074</link>
+      <description>💥🔥Українські дрони уразили МіГ-29 та ЗРГК «Панцир-С1» кацапів на аеродромі «Халіно» у Курській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-21_11-39-58.mp4" length="2865444" type="video/mp4"/>
+      <pubDate>Tue, 21 Jul 2026 11:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩В країні лайна відчайдушно за</title>
+      <link>https://www.mandarinai.lt/post/96075</link>
+      <description>💩В країні лайна відчайдушно заманюють громадян на убой, обіцяють службу виключно в тилових частинах🤡</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-21_12-42-06.mp4" length="4213372" type="video/mp4"/>
+      <pubDate>Tue, 21 Jul 2026 12:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новий перехоплювач P1-SUN JetK</title>
+      <link>https://www.mandarinai.lt/post/96076</link>
+      <description>Новий перехоплювач P1-SUN JetKiller здатний наздоганяти реактивні «шахеди» та інші швидкісні цілі, — Reuters
+
+Він розвиває швидкість до 370 км/год та знищив понад десять реактивних дронів. 
+
+Серійний випуск розпочнеться у серпні, а виробництво сягне 50 тис. перехоплювачів щомісяця.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-21_12-52-27.jpg" length="88185" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 12:52:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
