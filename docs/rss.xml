@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 15:03:22 +0000</lastBuildDate>
-    <item>
-      <title>⚡️російські вбивці прицільно в</title>
-      <link>https://www.mandarinai.lt/post/96066</link>
-      <description>⚡️російські вбивці прицільно вдарили КАБом по житловому кварталу в Запоріжжі.  Повідомляють про загиблих і поранених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-21_09-09-24.jpg" length="125648" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 09:09:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 16:41:04 +0000</lastBuildDate>
     <item>
       <title>🤬Момент удару російського шахе</title>
       <link>https://www.mandarinai.lt/post/96070</link>
@@ -104,6 +97,17 @@
 До складу російської делегації входили Валерій Фадєєв, який очолює Раду при президентові РФ з розвитку громадянського суспільства та прав людини, а також Віктор Зубков — колишній віцепрем'єр-міністр Росії, який нині є головою ради директорів державного енергетичного концерну «Газпром».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-21_14-10-55.jpg" length="104824" type="image/jpeg"/>
       <pubDate>Tue, 21 Jul 2026 14:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>За матеріалами СБУ отримав 15 </title>
+      <link>https://www.mandarinai.lt/post/96081</link>
+      <description>За матеріалами СБУ отримав 15 років за ґратами агент гру рф, який готував вибухові пристрої для терактів у Запоріжжі
+
+Наші джерела в правоохоронних органах повідомляють, що засудженого агента зовуть Євген Куковінець, і він збирав саморобні вибухові пристрої, підсилюючи їх болтами для більшої уражаючої дії.
+
+Готові СВП він мав заховати у схрони на території міста, а потім направити відповідні координати до рф своїм кураторам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-21_15-42-16.jpg" length="25098" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 15:42:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
