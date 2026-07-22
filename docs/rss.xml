@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 19:42:48 +0000</lastBuildDate>
-    <item>
-      <title>❗️путін має намір утворити «бу</title>
-      <link>https://www.mandarinai.lt/post/96112</link>
-      <description>❗️путін має намір утворити «буферну зону» в областях Харкова та Сум — Bloomberg
-
-Видання повідомляє, що неформальні угоди між Трампом і диктатором більше не діють, і він не хоче повертати Україні частину окупованих земель.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_12-12-57.jpg" length="63827" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 12:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Т.в.о. міністра оборони Євгені</title>
-      <link>https://www.mandarinai.lt/post/96113</link>
-      <description>Т.в.о. міністра оборони Євгеній Хмара повідомив, що домовилися з Драпатим бути чесними один з одним і всі розбіжності вирішувати в інтересах українських воїнів.
-
-Першими кроками стануть підтримка фронту, посилення допомоги партнерів та повернення війни на територію рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_13-56-31.jpg" length="149951" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 13:56:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 20:46:42 +0000</lastBuildDate>
     <item>
       <title>Намагався підірвати українсько</title>
       <link>https://www.mandarinai.lt/post/96114</link>
@@ -98,9 +80,32 @@
     <item>
       <title>Жахлива пожежа на АЗС у Сумах </title>
       <link>https://www.mandarinai.lt/post/96124</link>
-      <description>Жахлива пожежа на АЗС у Сумах — щойно туди вдарив ворожий дрон.</description>
+      <description>Жахлива пожежа на АЗС у Сумах — щойно туди вдарив ворожий дрон.
+
+Повідомляють, що в місті атаковано ще одну АЗС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-22_19-39-19.mp4" length="599967" type="video/mp4"/>
       <pubDate>Wed, 22 Jul 2026 19:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Смертність майже учетверо пере</title>
+      <link>https://www.mandarinai.lt/post/96125</link>
+      <description>Смертність майже учетверо перевищує народжуваність в Україні: за 6 місяців народилося 73,3 тис, а померло 259,8 тис, — Опендатабот</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_20-04-41.jpg" length="100914" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 20:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Частина Ялти і Алушти після </title>
+      <link>https://www.mandarinai.lt/post/96126</link>
+      <description>💥🔥Частина Ялти і Алушти після нічної атаки досі без світла, - місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-22_20-11-40.mp4" length="402776" type="video/mp4"/>
+      <pubDate>Wed, 22 Jul 2026 20:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Краснодарі палає склад Wildb</title>
+      <link>https://www.mandarinai.lt/post/96127</link>
+      <description>В Краснодарі палає склад Wildberries після візиту українських далекобійних санкцій</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1346.MP4" length="6772145" type="video/mp4"/>
+      <pubDate>Wed, 22 Jul 2026 20:28:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
