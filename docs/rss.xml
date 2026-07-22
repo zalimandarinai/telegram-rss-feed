@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 11:19:51 +0000</lastBuildDate>
-    <item>
-      <title>«Служіння Україні завжди було </title>
-      <link>https://www.mandarinai.lt/post/96096</link>
-      <description>«Служіння Україні завжди було для мене честю», - новий Головнокомандувач Драпатий подякував за довіру і призначення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-21_20-12-54.jpg" length="36620" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 20:12:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 12:57:18 +0000</lastBuildDate>
     <item>
       <title>Безпілотники продовжують нищит</title>
       <link>https://www.mandarinai.lt/post/96097</link>
@@ -88,6 +81,15 @@
 Протягом 21-22 липня дрони уразили 13 енерговузлів та електропідстанцій у Криму та на окупованих територіях</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-22_09-25-08.mp4" length="5687699" type="video/mp4"/>
       <pubDate>Wed, 22 Jul 2026 09:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️путін має намір утворити «бу</title>
+      <link>https://www.mandarinai.lt/post/96112</link>
+      <description>❗️путін має намір утворити «буферну зону» в областях Харкова та Сум — Bloomberg
+
+Видання повідомляє, що неформальні угоди між Трампом і диктатором більше не діють, і він не хоче повертати Україні частину окупованих земель.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_12-12-57.jpg" length="63827" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 12:12:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
