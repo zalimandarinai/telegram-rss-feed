@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 16:45:30 +0000</lastBuildDate>
-    <item>
-      <title>В ЄС не вдається узгодити 21-й</title>
-      <link>https://www.mandarinai.lt/post/96103</link>
-      <description>В ЄС не вдається узгодити 21-й пакет економічних санкцій проти росії, єдність блоку дає тріщини, пише FT.
-
-Представники півдюжини столиць вимагали виключень або заблокували окремі заходи, прагнучи захистити провідні компанії або національні економічні інтереси.
-
-Насамперед, це стосується імпорту російського зрідженого природного газу: заборона за довгостроковими контрактами набуває чинності 1 січня, і деякі країни, очевидно, прагнуть максимально збільшити обсяги імпорту до цієї дати.
-
-Посли країн ЄС зіберуться в сьогодні, щоб зробити останню спробу досягти консенсусу щодо нових санкцій до літніх канікул.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_07-25-37.jpg" length="137489" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 07:25:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 18:07:09 +0000</lastBuildDate>
     <item>
       <title>Українські морські дрони Magur</title>
       <link>https://www.mandarinai.lt/post/96106</link>
@@ -97,6 +84,23 @@
       <description>Зеленський поговорив з Віткоффом і Кушнером по телефону: тема для розмови - як відновити мирні переговори</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_16-35-13.jpg" length="85601" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 16:35:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Винищувачі, які Польща обіцяла</title>
+      <link>https://www.mandarinai.lt/post/96119</link>
+      <description>Винищувачі, які Польща обіцяла Україні, хоче забрати собі інша країна, - і, ймовірно, це Болгарія 
+
+Польща отримала запит від неназваної країни НАТО щодо винищувачів МіГ-29.
+
+Про це заявив заступник міністра національної оборони Польщі Павел Залевський.
+
+За його словами, пріоритетом для Польщі залишається передача цих винищувачів Україні.
+
+Залевський відмовився відповідати на пряме запитання журналіста, чи йдеться про Болгарію.
+
+Але в НАТО лише дві країни експлуатують МіГ-29, Польща і Болгарія.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_17-43-48.jpg" length="85586" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 17:43:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
