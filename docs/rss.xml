@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 03:45:47 +0000</lastBuildDate>
-    <item>
-      <title>✅Казахстан припиняє транспорту</title>
-      <link>https://www.mandarinai.lt/post/96085</link>
-      <description>✅Казахстан припиняє транспортування нафти до російського порту Новоросійськ через відмову танкерів ризикувати та заходити на термінал, -  Bloomberg</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-21_17-02-41.jpg" length="203229" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 17:02:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 06:26:50 +0000</lastBuildDate>
     <item>
       <title>🔴У Криму немає палива і не буд</title>
       <link>https://www.mandarinai.lt/post/96086</link>
@@ -80,6 +73,15 @@ Telegram-канал "ВЧК-ОГПУ" стверджує, що Коршенко 
       <description>💥🔥В Криму під атакою енергетичні об'єкти</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_00-37-30.jpg" length="114651" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 00:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Український F-16 вперше збив</title>
+      <link>https://www.mandarinai.lt/post/96100</link>
+      <description>🔥 Український F-16 вперше збив російський винищувач
+
+Американський генерал Ден Кейн під час слухань у Сенаті США повідомив, що український винищувач F-16 уперше знищив російський літак Су-35 у повітряному бою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_05-44-51.jpg" length="47797" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 05:44:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
