@@ -6,70 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 04:33:37 +0000</lastBuildDate>
-    <item>
-      <title>Намагався підірвати українсько</title>
-      <link>https://www.mandarinai.lt/post/96114</link>
-      <description>Намагався підірвати українського військового в Миколаєві, - контррозвідники СБУ затримали у Миколаєві агента російських спецслужб в той момент, коли він під автівку встановлював вибуховий пристрій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_15-01-29.jpg" length="91419" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 15:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>В ЄС затримали судно російсько</title>
-      <link>https://www.mandarinai.lt/post/96115</link>
-      <description>В ЄС затримали судно російського тіньового флоту «South Star» - йшли під прапором Камеруну, підняли його, не маючи на це прав</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_16-00-45.jpg" length="86441" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 16:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Постачання та виробництво раке</title>
-      <link>https://www.mandarinai.lt/post/96116</link>
-      <description>Постачання та виробництво ракет Patriot в Україні: до Києва на зустріч з Зеленським прибули посол США при НАТО Метью Вітакер та командувач Спеціальної місії НАТО з безпекової допомоги Україні генерал-лейтенант Кертіс Баззард</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1340.MP4" length="14090174" type="video/mp4"/>
-      <pubDate>Wed, 22 Jul 2026 16:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зеленський поговорив з Віткофф</title>
-      <link>https://www.mandarinai.lt/post/96117</link>
-      <description>Зеленський поговорив з Віткоффом і Кушнером по телефону: тема для розмови - як відновити мирні переговори</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_16-35-13.jpg" length="85601" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 16:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Винищувачі, які Польща обіцяла</title>
-      <link>https://www.mandarinai.lt/post/96119</link>
-      <description>Винищувачі, які Польща обіцяла Україні, хоче забрати собі інша країна, - і, ймовірно, це Болгарія 
-
-Польща отримала запит від неназваної країни НАТО щодо винищувачів МіГ-29.
-
-Про це заявив заступник міністра національної оборони Польщі Павел Залевський.
-
-За його словами, пріоритетом для Польщі залишається передача цих винищувачів Україні.
-
-Залевський відмовився відповідати на пряме запитання журналіста, чи йдеться про Болгарію.
-
-Але в НАТО лише дві країни експлуатують МіГ-29, Польща і Болгарія.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_17-43-48.jpg" length="85586" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 17:43:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Адміністрація Трампа відмовл</title>
-      <link>https://www.mandarinai.lt/post/96121</link>
-      <description>❗️Адміністрація Трампа відмовляється надавати Україні затверджену в бюджеті військову допомогу на суму $400 млн., — сенатор Дік Дурбін
-
-Виділення коштів було узгоджено ще восени минулого року, однак, кошти досі не були надані. 
-
-Рішення про витрату цих коштів буде приймати вже наступний президент США в 2029 році.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_18-21-43.jpg" length="82984" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 18:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Оточення путіна «сигналізує</title>
-      <link>https://www.mandarinai.lt/post/96122</link>
-      <description>⚡️ Оточення путіна «сигналізує» Україні та її партнерам про те, що вважає диктатора відповідальним за злочини агресії, - Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1343.MP4" length="2341037" type="video/mp4"/>
-      <pubDate>Wed, 22 Jul 2026 18:31:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 07:18:56 +0000</lastBuildDate>
     <item>
       <title>Реактивний дрон «Герань-4» ата</title>
       <link>https://www.mandarinai.lt/post/96123</link>
@@ -106,6 +43,42 @@
       <description>🔥Так в Краснодарі палав склад Wildberries після візиту українських далекобійних санкцій</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1346.MP4" length="6772145" type="video/mp4"/>
       <pubDate>Wed, 22 Jul 2026 20:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Вночі в Ульяновській області </title>
+      <link>https://www.mandarinai.lt/post/96130</link>
+      <description>🔥Вночі в Ульяновській області рф була атакована база скрапленого газу ТОВ "НС-Ойл"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-23_06-42-57.mp4" length="463555" type="video/mp4"/>
+      <pubDate>Thu, 23 Jul 2026 06:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зустріч Лаврова і Рубіо на Філ</title>
+      <link>https://www.mandarinai.lt/post/96133</link>
+      <description>Зустріч Лаврова і Рубіо на Філіппінах тривала всього 35 хвилин.
+
+В мзс рф заявили, що вони обговорили «широке коло питань».
+
+Хоча всім притомним людям зрозуміло, що за півгодини Лавров встиг хіба що повторити маячню про «Київський режим», а Рубіо вчергове подумати «Що я тут роблю?»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_06-52-13.jpg" length="140007" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 06:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дніпропетровщина: вночі російс</title>
+      <link>https://www.mandarinai.lt/post/96134</link>
+      <description>Дніпропетровщина: вночі російські війська атакували чотири райони області
+
+Під ударами опинився Нікополь і три громади поруч. 
+
+Горіли АЗС, багатоквартирний і приватний будинки, а також автомобілі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_07-06-09.jpg" length="176816" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 07:06:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В далекому російському Башки</title>
+      <link>https://www.mandarinai.lt/post/96139</link>
+      <description>💥🔥В далекому російському Башкиростані дрони атакували лінійну виробничо-диспетчерську станцію (ЛПДС) "Субханкулово". Це один з ключових об'єктів системи магістральних нафтопроводів АТ "Транснефть – Урал"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-23_07-12-26.mp4" length="329518" type="video/mp4"/>
+      <pubDate>Thu, 23 Jul 2026 07:12:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
