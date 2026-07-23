@@ -6,18 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 15:54:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 17:21:38 +0000</lastBuildDate>
     <item>
       <title>Україна може отримати лазерну </title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Україна може отримати лазерну зброю для боротьби з повітряними цілями вже через два-три місяці, — заступник головнокомандувача ЗСУ Лебеденко</description>
       <pubDate>Thu, 23 Jul 2026 07:38:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зранку ворог скинув 10 КАБів н</title>
-      <link>https://www.mandarinai.lt/post/96147</link>
-      <description>Зранку ворог скинув 10 КАБів на центр Херсона і на район «Корабел»</description>
-      <pubDate>Thu, 23 Jul 2026 11:22:26 +0000</pubDate>
     </item>
     <item>
       <title>💬 «Є кілька планів щодо закінч</title>
@@ -81,6 +75,31 @@
 
 Після чого російський розрахунок ППО помилково збив власний винищувач Су-57.</description>
       <pubDate>Thu, 23 Jul 2026 15:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Безкоштовно спробуйте AI-про</title>
+      <link>https://www.mandarinai.lt/post/96161</link>
+      <description>‼️Безкоштовно спробуйте AI-професію за 3 дні!
+
+Перейти в нову сферу складно: багато інформації, незрозуміло з чого почати, важко оцінити свої сили.
+
+🤖AI-напрям зараз один із найперспективніших — і водночас доступний навіть без технічного бекграунду.
+
+Тому ми запрошуємо вас на 3х денний інтенсив "АІ-автоматизація без програмування"
+
+⏺День1: Розберешся, хто такий AI-автоматизатор і за що йому платять. Почнеш створювати власного AI-асистента в n8n.
+
+⏺День2: Завершиш налаштування AI-асистента та протестуєш його в реальних сценаріях.
+
+⏺День3: Навчитесь монетизувати та розвивати отриманні навички 
+
+🎁 Бонус за реєстрацію: Гайд "Як інтегрувати АІ у своє життя"
+
+Скоріш реєструйся та безкоштовно спробуй себе у ролі АІ-фахівця
+
+https://i.goit.global/6aSvr</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_16-48-00.jpg" length="101696" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 16:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
