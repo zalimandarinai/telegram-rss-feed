@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 07:18:56 +0000</lastBuildDate>
-    <item>
-      <title>Реактивний дрон «Герань-4» ата</title>
-      <link>https://www.mandarinai.lt/post/96123</link>
-      <description>Реактивний дрон «Герань-4» атакував локомотив в Запорізькій області, поруч знаходились пасажири</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1344.MP4" length="2179208" type="video/mp4"/>
-      <pubDate>Wed, 22 Jul 2026 19:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Жахлива пожежа на АЗС у Сумах </title>
-      <link>https://www.mandarinai.lt/post/96124</link>
-      <description>Жахлива пожежа на АЗС у Сумах — щойно туди вдарив ворожий дрон.
-
-Повідомляють, що в місті атаковано ще одну АЗС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-22_19-39-19.mp4" length="599967" type="video/mp4"/>
-      <pubDate>Wed, 22 Jul 2026 19:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Смертність майже учетверо пере</title>
-      <link>https://www.mandarinai.lt/post/96125</link>
-      <description>Смертність майже учетверо перевищує народжуваність в Україні: за 6 місяців народилося 73,3 тис, а померло 259,8 тис, — Опендатабот</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-22_20-04-41.jpg" length="100914" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 20:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Частина Ялти і Алушти після </title>
-      <link>https://www.mandarinai.lt/post/96126</link>
-      <description>💥🔥Частина Ялти і Алушти після нічної атаки досі без світла, - місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-22_20-11-40.mp4" length="402776" type="video/mp4"/>
-      <pubDate>Wed, 22 Jul 2026 20:11:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 09:57:26 +0000</lastBuildDate>
     <item>
       <title>🔥Так в Краснодарі палав склад </title>
       <link>https://www.mandarinai.lt/post/96127</link>
@@ -74,11 +44,45 @@
       <pubDate>Thu, 23 Jul 2026 07:06:09 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥В далекому російському Башки</title>
-      <link>https://www.mandarinai.lt/post/96139</link>
-      <description>💥🔥В далекому російському Башкиростані дрони атакували лінійну виробничо-диспетчерську станцію (ЛПДС) "Субханкулово". Це один з ключових об'єктів системи магістральних нафтопроводів АТ "Транснефть – Урал"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-23_07-12-26.mp4" length="329518" type="video/mp4"/>
-      <pubDate>Thu, 23 Jul 2026 07:12:26 +0000</pubDate>
+      <title>Україна може отримати лазерну </title>
+      <link>https://www.mandarinai.lt/post/96141</link>
+      <description>Україна може отримати лазерну зброю для боротьби з повітряними цілями вже через два-три місяці, — заступник головнокомандувача ЗСУ Лебеденко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_07-38-07.jpg" length="33559" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 07:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В далекій російській Башкирі</title>
+      <link>https://www.mandarinai.lt/post/96142</link>
+      <description>💥🔥В далекій російській Башкирії дрони атакували лінійну виробничо-диспетчерську станцію (ЛПДС) "Субханкулово". Це один з ключових об'єктів системи магістральних нафтопроводів АТ "Транснефть – Урал"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-23_07-44-10.mp4" length="329518" type="video/mp4"/>
+      <pubDate>Thu, 23 Jul 2026 07:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Судна припинили заходити до </title>
+      <link>https://www.mandarinai.lt/post/96143</link>
+      <description>❗️Судна припинили заходити до портів України — власники суден ухвалили це рішення через атаки РФ, повідомляє міністр аграрної політики Тарас Висоцький.
+
+Через безперервні російські атаки «зерновим коридором» 22 липня не пройшло жодне судно.
+
+На іншому березні Чорного моря росіяни заборонили нічне судноплавство з порту Новоросійськ.
+
+Через це зростає ціна на пшеницю.
+
+Вартість вересневих ф'ючерсних контрактів на Паризькій біржі Euronext збільшилася на 3,9%, сягнувши 244 євро за тонну. 
+
+В США ціна пшениці зросла на 3,8%.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_07-45-55.jpg" length="65422" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 07:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Не помітив, щоб наша армія си</title>
+      <link>https://www.mandarinai.lt/post/96144</link>
+      <description>«Не помітив, щоб наша армія сильно просувалася», - 3-ій полк ССО взяв в полон трьох військовослужбовців противника.
+
+Група підрозділу «TRIARIUM» зафіксувала рух неподалік свого розташування, хоча ця зона вважалась безпечною. 
+
+Спецпризначенці змусили противника вийти на відкриту ділянку та здатися.</description>
+      <pubDate>Thu, 23 Jul 2026 08:30:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
