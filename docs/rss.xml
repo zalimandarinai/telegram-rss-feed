@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 11:53:23 +0000</lastBuildDate>
-    <item>
-      <title>Зустріч Лаврова і Рубіо на Філ</title>
-      <link>https://www.mandarinai.lt/post/96133</link>
-      <description>Зустріч Лаврова і Рубіо на Філіппінах тривала всього 35 хвилин.
-
-В мзс рф заявили, що вони обговорили «широке коло питань».
-
-Хоча всім притомним людям зрозуміло, що за півгодини Лавров встиг хіба що повторити маячню про «Київський режим», а Рубіо вчергове подумати «Що я тут роблю?»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_06-52-13.jpg" length="140007" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jul 2026 06:52:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дніпропетровщина: вночі російс</title>
-      <link>https://www.mandarinai.lt/post/96134</link>
-      <description>Дніпропетровщина: вночі російські війська атакували чотири райони області
-
-Під ударами опинився Нікополь і три громади поруч. 
-
-Горіли АЗС, багатоквартирний і приватний будинки, а також автомобілі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_07-06-09.jpg" length="176816" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jul 2026 07:06:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 13:54:24 +0000</lastBuildDate>
     <item>
       <title>Україна може отримати лазерну </title>
       <link>https://www.mandarinai.lt/post/96141</link>
@@ -86,6 +64,19 @@
       <link>https://www.mandarinai.lt/post/96147</link>
       <description>Зранку ворог скинув 10 КАБів на центр Херсона і на район «Корабел»</description>
       <pubDate>Thu, 23 Jul 2026 11:22:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Є кілька планів щодо закінч</title>
+      <link>https://www.mandarinai.lt/post/96148</link>
+      <description>💬 «Є кілька планів щодо закінчення війни», - Зеленський анонсував візит до США найближчими днями</description>
+      <pubDate>Thu, 23 Jul 2026 12:15:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Вже можна», - Сирський опублі</title>
+      <link>https://www.mandarinai.lt/post/96150</link>
+      <description>«Вже можна», - Сирський опублікував перший допис на Телеграмі після звільнення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_13-33-35.jpg" length="118567" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 13:33:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
