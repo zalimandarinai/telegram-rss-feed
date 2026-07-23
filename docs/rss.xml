@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 09:57:26 +0000</lastBuildDate>
-    <item>
-      <title>🔥Так в Краснодарі палав склад </title>
-      <link>https://www.mandarinai.lt/post/96127</link>
-      <description>🔥Так в Краснодарі палав склад Wildberries після візиту українських далекобійних санкцій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1346.MP4" length="6772145" type="video/mp4"/>
-      <pubDate>Wed, 22 Jul 2026 20:28:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Вночі в Ульяновській області </title>
-      <link>https://www.mandarinai.lt/post/96130</link>
-      <description>🔥Вночі в Ульяновській області рф була атакована база скрапленого газу ТОВ "НС-Ойл"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-23_06-42-57.mp4" length="463555" type="video/mp4"/>
-      <pubDate>Thu, 23 Jul 2026 06:42:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 11:53:23 +0000</lastBuildDate>
     <item>
       <title>Зустріч Лаврова і Рубіо на Філ</title>
       <link>https://www.mandarinai.lt/post/96133</link>
@@ -83,6 +69,23 @@
 
 Спецпризначенці змусили противника вийти на відкриту ділянку та здатися.</description>
       <pubDate>Thu, 23 Jul 2026 08:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Мінус ворожий Су-57 під Москв</title>
+      <link>https://www.mandarinai.lt/post/96146</link>
+      <description>🔥Мінус ворожий Су-57 під Москвою
+
+❌ Багатоцільовий винищувач окупантів не витримав тренувального польоту та перетворився на металобрухт. 
+
+Пілот, пишуть, встиг катапультуватися</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-23_10-59-21.jpg" length="256561" type="image/jpeg"/>
+      <pubDate>Thu, 23 Jul 2026 10:59:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зранку ворог скинув 10 КАБів н</title>
+      <link>https://www.mandarinai.lt/post/96147</link>
+      <description>Зранку ворог скинув 10 КАБів на центр Херсона і на район «Корабел»</description>
+      <pubDate>Thu, 23 Jul 2026 11:22:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
