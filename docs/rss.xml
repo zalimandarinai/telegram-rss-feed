@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 19:54:49 +0000</lastBuildDate>
-    <item>
-      <title>❗️рф вдарила по Київщині трьом</title>
-      <link>https://www.mandarinai.lt/post/96212</link>
-      <description>❗️рф вдарила по Київщині трьома балістичними ракетами Іскандер-М/С-400 з північного напрямку, — ПС. 
-
-Одну ракету вдалось перехопити. Зафіксовано влучання двох ракет в Бучанському районі на Київщині.
-
-Також росія атакувала Одещину двома протикорабельними ракетами «Онікс» з Криму, ракети цілей не досягли.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_15-35-22.jpg" length="89797" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 15:35:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Через балістичний удар в Буч</title>
-      <link>https://www.mandarinai.lt/post/96213</link>
-      <description>⚡️Через балістичний удар в Бучанському районі пошкоджено 27 приватних будинків та 44 транспортні засоби
-
-Тим часом речник ПС заявив, що удар прийшовся по приватному спорткомплексу, а не полігону. Також Ігнат наголосив, що цей об'єкт не має жодного стосунку до ЗСУ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-24_15-39-19.mp4" length="1735344" type="video/mp4"/>
-      <pubDate>Fri, 24 Jul 2026 15:39:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 21:01:40 +0000</lastBuildDate>
     <item>
       <title>🤬росія вдарила дроном по пасаж</title>
       <link>https://www.mandarinai.lt/post/96214</link>
@@ -92,6 +72,20 @@
 ➡️ По них одразу відпрацював БМ-21 «Град», знищивши окупантів ще до початку атаки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_18-44-14.jpg" length="36277" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 18:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кияни вже спускаються в метро </title>
+      <link>https://www.mandarinai.lt/post/96227</link>
+      <description>Кияни вже спускаються в метро через загрозу нічного удару</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-24_20-24-48.mp4" length="625033" type="video/mp4"/>
+      <pubDate>Fri, 24 Jul 2026 20:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Серія вибухів пролунала в Бєл</title>
+      <link>https://www.mandarinai.lt/post/96228</link>
+      <description>💥Серія вибухів пролунала в Бєлгороді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_20-25-33.jpg" length="75619" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 20:25:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
