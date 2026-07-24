@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 11:27:08 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Сусідом не назвеш, це нація</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💬 «Сусідом не назвеш, це нація, керівництво якої не має право на існування, нічого цивілізованого, нічого не змінилося», - головком Драпатий про росію та її керманичів</description>
-      <pubDate>Thu, 23 Jul 2026 20:05:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Найбільший склад Wildberries </title>
-      <link>https://www.mandarinai.lt/post/96189</link>
-      <description>🔥Найбільший склад Wildberries у Санкт-Петербурзі знищено</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-24_06-49-31.mp4" length="1215820" type="video/mp4"/>
-      <pubDate>Fri, 24 Jul 2026 06:49:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 12:59:53 +0000</lastBuildDate>
     <item>
       <title>В Одесі затримали коригувальни</title>
       <link>https://www.mandarinai.lt/post/96190</link>
@@ -62,11 +49,44 @@
       <pubDate>Fri, 24 Jul 2026 11:06:23 +0000</pubDate>
     </item>
     <item>
+      <title>⚡️6 загиблих та десятки постра</title>
+      <link>https://www.mandarinai.lt/post/96202</link>
+      <description>⚡️6 загиблих та десятки постраждалих, триває рятувальна операція, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_11-08-32.jpg" length="247891" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 11:08:32 +0000</pubDate>
+    </item>
+    <item>
       <title>⚠️ «Флеш» теж потрапив під уда</title>
       <link>https://www.mandarinai.lt/post/96203</link>
       <description>⚠️ «Флеш» теж потрапив під удар на виставці безпілотного озброєння</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_11-11-25.jpg" length="36734" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 11:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Шестеро людей загинули чере</title>
+      <link>https://www.mandarinai.lt/post/96204</link>
+      <description>‼️ Шестеро людей загинули через атаку рф на Київщину, десятки постраждалих, - Зеленський
+
+"Зараз триває рятувальна операція на Київщині після удару російських ракет. Станом на зараз відомо про десятки постраждалих. Відомо також, що, на жаль, шестеро людей загинули. Мої співчуття рідним і близьким. Продовжується з’ясування всіх обставин і долі людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_11-48-34.jpg" length="215660" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 11:48:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>П'ятеро людей загинули у Слов'</title>
+      <link>https://www.mandarinai.lt/post/96205</link>
+      <description>П'ятеро людей загинули у Слов'янську через авіаудар рф по місту. Понад 20 отримали поранення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-24_11-48-37.mp4" length="710130" type="video/mp4"/>
+      <pubDate>Fri, 24 Jul 2026 11:48:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кількість загиблих унаслідок у</title>
+      <link>https://www.mandarinai.lt/post/96206</link>
+      <description>Кількість загиблих унаслідок удару по Київщині зросла до 10, поранених щонайменше 100 людей, — заявив генпрокурор Кравченко. 
+
+Відкрито кримінальне провадження:
+Слідство встановить, хто ухвалював рішення про проведення заходу, хто погоджував місце, час і формат його проведення, які заходи безпеки були передбачені та чи були належним чином оцінені ризики в умовах воєнного стану.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_12-07-25.jpg" length="195608" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 12:07:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
