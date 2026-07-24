@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 12:59:53 +0000</lastBuildDate>
-    <item>
-      <title>В Одесі затримали коригувальни</title>
-      <link>https://www.mandarinai.lt/post/96190</link>
-      <description>В Одесі затримали коригувальника, який наводив ракети і дрони на інфраструктуру міста. 
-
-Як з’ясувало розслідування, серед пріоритетних завдань цього фігуранта був пошук і передача координат АЗС, пунктів дислокації вантажних ешелонів та бензовозів.
-
-Співробітники СБУ затримали зловмисника «на гарячому», коли він встановлював GPS-трекер на військовий бензовоз, щоб скоригувати по ньому ворожий удар.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_07-04-15.jpg" length="90785" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 07:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Масований танковий прорив прот</title>
-      <link>https://www.mandarinai.lt/post/96191</link>
-      <description>Масований танковий прорив противника в районі Добропілля: підрозділ «Фенікс» Держприкордонслужби зупинив наступ
-
-Одна з наймасштабніших за останній час спроб танкового прориву. 
-
-Підрозділ «Фенікс» знищив 9 танків, 2 бронемашини, 3 реактивні системи.</description>
-      <pubDate>Fri, 24 Jul 2026 07:11:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Польща закликає Україну та США</title>
-      <link>https://www.mandarinai.lt/post/96192</link>
-      <description>Польща закликає Україну та США спільно створити виробництво ракет PAC-3 для систем ППО Patriot, - заявила заступниця міністра оборони Магдалена Собковяк-Чарнецька у Вашингтоні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_07-47-30.jpg" length="99697" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 07:47:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 15:02:23 +0000</lastBuildDate>
     <item>
       <title>«Кому зміг - допоміг», - мій т</title>
       <link>https://www.mandarinai.lt/post/96196</link>
@@ -87,6 +59,33 @@
 Слідство встановить, хто ухвалював рішення про проведення заходу, хто погоджував місце, час і формат його проведення, які заходи безпеки були передбачені та чи були належним чином оцінені ризики в умовах воєнного стану.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_12-07-25.jpg" length="195608" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 12:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підрозділи 16-го армійського к</title>
+      <link>https://www.mandarinai.lt/post/96207</link>
+      <description>Підрозділи 16-го армійського корпусу та інших зʼєднань Сил оборони наклали безпілотні санкції на АЗС в Білгороді у відповідь на енергетичний терор з боку росії.
+
+Офіційно місцева влада не оприлюднює дані про атаки на АЗС.
+
+За неофіційними даними, в період з 19 по 23 липня у Білгороді та області безпілотники атакували 19 із 71 заправок, тобто, 26,7% від числа всіх заправок у місті та передмісті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1433.MP4" length="19866501" type="video/mp4"/>
+      <pubDate>Fri, 24 Jul 2026 13:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Румунія вдруге збила «шахед</title>
+      <link>https://www.mandarinai.lt/post/96208</link>
+      <description>❗️ Румунія вдруге збила «шахед» і вперше у своєму повітряному просторі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1434.MP4" length="3362473" type="video/mp4"/>
+      <pubDate>Fri, 24 Jul 2026 13:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Нової хвилі мобілізації в ро</title>
+      <link>https://www.mandarinai.lt/post/96209</link>
+      <description>❗️Нової хвилі мобілізації в росіі не буде, - член комітету російської держдуми з оборони Андрій Колесник 
+
+Всі так і повірили</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_15-01-03.jpg" length="116615" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 15:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
