@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 18:21:21 +0000</lastBuildDate>
-    <item>
-      <title>Безкоштовне навчання по трейди</title>
-      <link>https://www.mandarinai.lt/post/96211</link>
-      <description>Безкоштовне навчання по трейдингу по концепції: SMART MONEY 
-https://t.me/+m7oRn-iyPdhlMjI0
-
-- торгові сесії в команді кожен день + вечірні прямі трансляції в тік ток акаунті
-
-#реклама</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_15-17-26.jpg" length="62483" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 15:17:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 19:54:49 +0000</lastBuildDate>
     <item>
       <title>❗️рф вдарила по Київщині трьом</title>
       <link>https://www.mandarinai.lt/post/96212</link>
@@ -93,6 +81,17 @@ https://t.me/+m7oRn-iyPdhlMjI0
       <description>Внаслідок російського удару по місцю проведення виставки загинув співробітник польської оборонної компанії, – Defence 24</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_17-36-02.jpg" length="156010" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 17:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 «Град» зірвав підготовку вор</title>
+      <link>https://www.mandarinai.lt/post/96225</link>
+      <description>💥 «Град» зірвав підготовку ворожого штурму на Покровському напрямку, АрміяInform
+
+Розвідка 152-ї окремої єгерської бригади завчасно виявила скупчення російських штурмових груп, які готувалися до прориву. 
+
+➡️ По них одразу відпрацював БМ-21 «Град», знищивши окупантів ще до початку атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_18-44-14.jpg" length="36277" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 18:44:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
