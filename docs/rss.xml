@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 06:39:57 +0000</lastBuildDate>
-    <item>
-      <title>Внаслідок удару безпілотника в</title>
-      <link>https://www.mandarinai.lt/post/96230</link>
-      <description>Внаслідок удару безпілотника в  Сумах загинули двоє людей, ще троє поранені</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_21-24-42.jpg" length="78214" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 21:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Під час російської атаки на</title>
-      <link>https://www.mandarinai.lt/post/96231</link>
-      <description>⚡️ Під час російської атаки на Запоріжжя виникла пожежа, є постраждалі, — ЗОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-24_21-36-14.jpg" length="43267" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 21:36:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Jul 2026 08:50:56 +0000</lastBuildDate>
     <item>
       <title>В районі Новокуйбишевська неві</title>
       <link>https://www.mandarinai.lt/post/96232</link>
@@ -90,6 +76,24 @@
       <description>💥🔥Дрони вполювали склад Wildberries в далекому російському Екатеринбурзі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_06-08-44.jpg" length="93823" type="image/jpeg"/>
       <pubDate>Sat, 25 Jul 2026 06:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>росія вбила трьох водіїв «Ново</title>
+      <link>https://www.mandarinai.lt/post/96245</link>
+      <description>росія вбила трьох водіїв «Нової пошти» у Сумах, атакувавши об'єкт реактивним БпЛА
+
+Двох загиблих виявили на місці атаки, ще одного постраждалого з тяжкими пораненнями намагалися доправити до лікарні, але він помер дорогою.
+
+Через загрозу повторних ударів рятувальники не могли одразу повністю ліквідувати наслідки атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-25_07-56-45.mp4" length="2555704" type="video/mp4"/>
+      <pubDate>Sat, 25 Jul 2026 07:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Румунія вдруге за добу збила д</title>
+      <link>https://www.mandarinai.lt/post/96246</link>
+      <description>Румунія вдруге за добу збила дрон у своєму повітряному просторі, - схоже, в Бухаресті налаштовані діяти рішуче.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_08-28-15.jpg" length="17877" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jul 2026 08:28:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
