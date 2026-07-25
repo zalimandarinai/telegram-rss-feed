@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 20:16:00 +0000</lastBuildDate>
-    <item>
-      <title>Чоловік з Дніпра активував для</title>
-      <link>https://www.mandarinai.lt/post/96270</link>
-      <description>Чоловік з Дніпра активував для ворога понад 1000 систем Starlink, - СБУ затримала російського агента</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_16-36-23.jpg" length="140194" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 16:36:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ ЄС дозволив конфіскувати та</title>
-      <link>https://www.mandarinai.lt/post/96271</link>
-      <description>⚡️ ЄС дозволив конфіскувати та продавати російську нафту з затриманих танкерів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_16-46-24.jpg" length="100279" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 16:46:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬 русня хизується атаками на з</title>
-      <link>https://www.mandarinai.lt/post/96272</link>
-      <description>🤬 русня хизується атаками на заправки в Харкові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1470.MP4" length="16096027" type="video/mp4"/>
-      <pubDate>Sat, 25 Jul 2026 16:56:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Евакуація з Wildberries в урал</title>
-      <link>https://www.mandarinai.lt/post/96273</link>
-      <description>Евакуація з Wildberries в уральському місті Єкатеринбург після удару дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1471.MP4" length="9147732" type="video/mp4"/>
-      <pubDate>Sat, 25 Jul 2026 17:06:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡 Противник ударив по сортувал</title>
-      <link>https://www.mandarinai.lt/post/96274</link>
-      <description>😡 Противник ударив по сортувальному терміналу «Нової пошти» в Запоріжжі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_17-10-02.jpg" length="94184" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 17:10:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Jul 2026 21:24:45 +0000</lastBuildDate>
     <item>
       <title>❗️ Момент влучання ворожого бе</title>
       <link>https://www.mandarinai.lt/post/96275</link>
@@ -112,6 +77,20 @@ https://t.me/+vBYyeNTJBVswYzM0</description>
 Повне відео розмови тут: https://www.youtube.com/watch?v=Za9291FQ4go</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1478.MP4" length="30846662" type="video/mp4"/>
       <pubDate>Sat, 25 Jul 2026 20:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Приліт «Онікса» поруч з моторн</title>
+      <link>https://www.mandarinai.lt/post/96284</link>
+      <description>Приліт «Онікса» поруч з моторним човном, який віз людей - вижили дивом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1480.MP4" length="5362041" type="video/mp4"/>
+      <pubDate>Sat, 25 Jul 2026 20:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український МіГ-29 ефектно і ю</title>
+      <link>https://www.mandarinai.lt/post/96287</link>
+      <description>Український МіГ-29 ефектно і ювелірно збиває «шахед» ракетою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1482.MP4" length="15018654" type="video/mp4"/>
+      <pubDate>Sat, 25 Jul 2026 20:50:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
