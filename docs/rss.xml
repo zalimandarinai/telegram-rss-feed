@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 12:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 14:36:51 +0000</lastBuildDate>
     <item>
       <title>💥🔥В окупованому Луганську атак</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥В окупованому Луганську атакована енергетична інфраструктура</description>
       <pubDate>Sat, 25 Jul 2026 06:05:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Дрони демократії вполювали с</title>
-      <link>https://www.mandarinai.lt/post/96252</link>
-      <description>💥🔥Дрони демократії вполювали сьогодні зранку ще один НПЗ у далекій сибірській Тюмені</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_09-10-07.jpg" length="133059" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 09:10:07 +0000</pubDate>
     </item>
     <item>
       <title>У Запоріжжі — приліт КАБів по </title>
@@ -86,6 +79,17 @@
 ▫️ ракетний катер проєкту 12418 «Молнія».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_10-46-07.jpg" length="10156" type="image/jpeg"/>
       <pubDate>Sat, 25 Jul 2026 10:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Wall Street Journal опублі</title>
+      <link>https://www.mandarinai.lt/post/96265</link>
+      <description>The Wall Street Journal опублікував репортаж про роботу підрозділу Lasar's Group НГУ, який знищує російські «шахеди».
+
+Журналісти показали перехоплювачі P1-SUN, роботу ШІ, та систему віддаленого керування SkyFall, завдяки якій оператори можуть дистанційно працювати з одного пункту по цілях над усією територією України. 
+
+За словами військових, перехоплювачі дозволяють дешево знищувати до 90–95% цілей, а один підготовлений екіпаж здатен перехопити до 10 цілей за годину в інтенсивну атаку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-25_14-26-47.jpg" length="83097" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jul 2026 14:26:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
