@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 17:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 18:44:36 +0000</lastBuildDate>
     <item>
       <title>⚡️росія завдала удару по супер</title>
       <link>https://www.mandarinai.lt/post/96320</link>
@@ -67,9 +67,20 @@
       <link>https://www.mandarinai.lt/post/96330</link>
       <description>🇷🇺У рф відбувся парад на День флоту, але без самого флоту.
 
+Замість справжніх кораблів були величезні банери з їхніми фото.
+
 А чьто случілась?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-26_17-29-08.mp4" length="8666203" type="video/mp4"/>
       <pubDate>Sun, 26 Jul 2026 17:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ У Чернігові завершили лікві</title>
+      <link>https://www.mandarinai.lt/post/96331</link>
+      <description>❗️ У Чернігові завершили ліквідацію наслідків удару рф
+
+Рятувальники завершили роботи після російської атаки на Чернігів. Загинули двоє людей, серед них 9-річна дівчинка. Ще 25 осіб отримали поранення, зокрема троє дітей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_18-44-03.jpg" length="70618" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 18:44:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
