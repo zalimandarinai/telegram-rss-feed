@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 15:32:29 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Зустріч Зеленського з Трампо</title>
-      <link>https://www.mandarinai.lt/post/96311</link>
-      <description>⚡️Зустріч Зеленського з Трампом має відбутися 28 липня у Білому домі, — ABC News
-
-Окрім цього, український лідер планує бути присутнім на похороні сенатора Ліндсі Грема. </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_11-55-40.jpg" length="146560" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 11:55:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Генштаб опублікував посилан</title>
-      <link>https://www.mandarinai.lt/post/96312</link>
-      <description>‼️ Генштаб опублікував посилання на єдині офіційні сторінки Головнокомандувача Збройних Сил України, генерал-майора Михайла Драпатого:
-
-➡️ Facebook
-➡️ X
-➡️ Viber</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_12-13-16.jpg" length="25988" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 12:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 Понад 20% складів Wildberrie</title>
-      <link>https://www.mandarinai.lt/post/96313</link>
-      <description>💥 Понад 20% складів Wildberries зазнали пошкоджень після серії ударів
-
-▪️Атаковано логістичні комплекси в кількох містах рф, зокрема Котовську, Краснодарі, Воронежі та Єкатеринбурзі.
-
-▪️Попередньо, пошкоджено або знищено понад 1,15 млн м² складських площ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_12-38-25.jpg" length="122267" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 12:38:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 16:35:27 +0000</lastBuildDate>
     <item>
       <title>😡Харків</title>
       <link>https://www.mandarinai.lt/post/96314</link>
@@ -85,6 +54,31 @@
       <description>🤡🔴Ми не починали війну. Ми відповіли на дії України, яка розпочала бойові дії», — путін</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-26_15-15-58.mp4" length="7386722" type="video/mp4"/>
       <pubDate>Sun, 26 Jul 2026 15:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Поблизу Одеси після російсько</title>
+      <link>https://www.mandarinai.lt/post/96325</link>
+      <description>😡Поблизу Одеси після російської атаки тоне цивільне вантажне судно.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-26_15-41-55.mp4" length="866607" type="video/mp4"/>
+      <pubDate>Sun, 26 Jul 2026 15:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ця сцена повторюється в україн</title>
+      <link>https://www.mandarinai.lt/post/96326</link>
+      <description>Ця сцена повторюється в українських містах щодня: на вокзалах, у під'їздах, у машинах, на станціях. Тисячі маленьких «Тато!», щемливих прощань і найміцніших обіймів.
+
+Це ціна, яку платять українці, щоб надалі залишатися вільними.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-26_16-09-10.mp4" length="631825" type="video/mp4"/>
+      <pubDate>Sun, 26 Jul 2026 16:09:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💊Україна нібито втратить свої </title>
+      <link>https://www.mandarinai.lt/post/96327</link>
+      <description>💊Україна нібито втратить свої західні землі, що "подарував Сталін"  - пуйло
+
+За його словами, рф була "єдиним гарантом територіальної цілісності України", однак після того, як Київ "оголосив Москву ворогом", західні регіони "рано чи пізно" повернуться до Польщі, Угорщини та Румунії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-26_16-15-05.mp4" length="7879193" type="video/mp4"/>
+      <pubDate>Sun, 26 Jul 2026 16:15:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
