@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 11:17:50 +0000</lastBuildDate>
-    <item>
-      <title>Момент одного з прильотів по «</title>
-      <link>https://www.mandarinai.lt/post/96297</link>
-      <description>Момент одного з прильотів по «Епіцентру» в Кривому Розі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1485.MP4" length="2643655" type="video/mp4"/>
-      <pubDate>Sun, 26 Jul 2026 06:54:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 12:37:05 +0000</lastBuildDate>
     <item>
       <title>💥Вночі була атакована Таврійсь</title>
       <link>https://www.mandarinai.lt/post/96298</link>
@@ -90,11 +83,33 @@
       <pubDate>Sun, 26 Jul 2026 10:54:46 +0000</pubDate>
     </item>
     <item>
-      <title>Відеокамера зафіксувала російс</title>
+      <title>Моторошний момент влучання рак</title>
       <link>https://www.mandarinai.lt/post/96309</link>
-      <description>Відеокамера зафіксувала російський удар по приватному сектору Харкова о 08:59 сьогодні</description>
+      <description>Моторошний момент влучання ракети «Бандероль» у будинок у Харкові — на відео зафіксовано прицільний удар по мирних мешканцях.
+
+Прямо зараз рашисти розпочали масове «полювання» на людей, запускаючи рої (!) FPV-дронів на Харків. Вони продовжують один за одним летіти на місто.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1490.MP4" length="4062806" type="video/mp4"/>
       <pubDate>Sun, 26 Jul 2026 11:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зустріч Зеленського з Трампо</title>
+      <link>https://www.mandarinai.lt/post/96311</link>
+      <description>⚡️Зустріч Зеленського з Трампом має відбутися 28 липня у Білому домі, — ABC News
+
+Окрім цього, український лідер планує бути присутнім на похороні сенатора Ліндсі Грема. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_11-55-40.jpg" length="146560" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 11:55:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Генштаб опублікував посилан</title>
+      <link>https://www.mandarinai.lt/post/96312</link>
+      <description>‼️ Генштаб опублікував посилання на єдині офіційні сторінки Головнокомандувача Збройних Сил України, генерал-майора Михайла Драпатого:
+
+➡️ Facebook
+➡️ X
+➡️ Viber</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_12-13-16.jpg" length="25988" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 12:13:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
