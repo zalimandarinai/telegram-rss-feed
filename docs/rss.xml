@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 23:13:12 +0000</lastBuildDate>
-    <item>
-      <title>⚡️росія завдала удару по супер</title>
-      <link>https://www.mandarinai.lt/post/96320</link>
-      <description>⚡️росія завдала удару по супермаркету АТБ в Чернігові
-
- Наразі відомо про 2 загиблих та 3 поранених. Серед загиблих є дитина 10 років, — Чернігівська МВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_13-50-56.jpg" length="158525" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 13:50:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Від супермаркету залишилося з</title>
-      <link>https://www.mandarinai.lt/post/96321</link>
-      <description>😡Від супермаркету залишилося згарище: з’явилися фото наслідків удару по АТБ у Чернігові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_14-28-07.jpg" length="96505" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 14:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>👌Черги за пальним в рф нікуди </title>
-      <link>https://www.mandarinai.lt/post/96322</link>
-      <description>👌Черги за пальним в рф нікуди не зникли. Ситуація в Тюмені після атаки на НПЗ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-26_14-29-44.mp4" length="1347441" type="video/mp4"/>
-      <pubDate>Sun, 26 Jul 2026 14:29:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 00:14:04 +0000</lastBuildDate>
     <item>
       <title>🤡🔴Ми не починали війну. Ми від</title>
       <link>https://www.mandarinai.lt/post/96324</link>
@@ -90,6 +67,27 @@
 За словами керівника ОВА Кіпера, внаслідок удару загинули дев’ять членів екіпажу та український лоцман, ще вісьмох членів екіпажу евакуювали</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-26_18-45-31.jpg" length="17546" type="image/jpeg"/>
       <pubDate>Sun, 26 Jul 2026 18:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Прилетіло по будівлі ФСБ в </title>
+      <link>https://www.mandarinai.lt/post/96334</link>
+      <description>⚡️ Прилетіло по будівлі ФСБ в Бєлгороді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1511.MP4" length="6535126" type="video/mp4"/>
+      <pubDate>Sun, 26 Jul 2026 23:41:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Символічно на фоні українських</title>
+      <link>https://www.mandarinai.lt/post/96335</link>
+      <description>Символічно на фоні українських безпілотних атак: путін в день військово-морського флоту росіі прийняв парад з намальованим на стіні підводним човном</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1512.MP4" length="10923554" type="video/mp4"/>
+      <pubDate>Sun, 26 Jul 2026 23:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поки ви спите, користуючись хв</title>
+      <link>https://www.mandarinai.lt/post/96336</link>
+      <description>Поки ви спите, користуючись хвилиною спокою, в Бєлгороді горять автомобілі, як результат української атаки по будівлі кремлівської спецслужби</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1513.MP4" length="28961031" type="video/mp4"/>
+      <pubDate>Sun, 26 Jul 2026 23:51:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
