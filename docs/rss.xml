@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 11:19:09 +0000</lastBuildDate>
-    <item>
-      <title>Іран погрожує ударами по Украї</title>
-      <link>https://www.mandarinai.lt/post/96348</link>
-      <description>Іран погрожує ударами по Україні: нібито «Україна незабаром зрозуміє, що Ісламська Республіка не залишає борги несплаченими», -  голова комітету безпеки іранського парламенту Ебрахім Азізі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-27_08-04-15.jpg" length="19801" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 08:04:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 13:53:26 +0000</lastBuildDate>
     <item>
       <title>❌ Всі АЗС на ділянці траси від</title>
       <link>https://www.mandarinai.lt/post/96349</link>
@@ -109,6 +102,24 @@
 Ударів також завдали по складах у Криму й на Луганщині, базі в Кадіївці та терміналу в Ростові.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-27_11-16-38.jpg" length="128663" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 11:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Україна планує створити власн</title>
+      <link>https://www.mandarinai.lt/post/96360</link>
+      <description>🔥Україна планує створити власний протиракетний щит «Фрея» до середини 2027 року, — Reuters
+
+Система має стати дешевшою та масовішою альтернативою американським Patriot і зможе перехоплювати балістику.
+
+Проєкт також розглядається як прототип для загальноєвропейської системи ПРО, до розробки якої Україна вже закликає долучитися своїх союзників</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-27_12-21-12.jpg" length="244352" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 12:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зеленський прибув до Великої</title>
+      <link>https://www.mandarinai.lt/post/96361</link>
+      <description>⚡️Зеленський прибув до Великої Британії. У плані – зустрічі з новим прем’єр-міністром Енді Бернемом, також із нашими воїнами</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-27_12-39-36.mp4" length="950458" type="video/mp4"/>
+      <pubDate>Mon, 27 Jul 2026 12:39:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
