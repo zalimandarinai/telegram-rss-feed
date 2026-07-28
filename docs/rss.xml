@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 01:03:21 +0000</lastBuildDate>
-    <item>
-      <title>Іран може в теорії  атакувати </title>
-      <link>https://www.mandarinai.lt/post/96368</link>
-      <description>Іран може в теорії  атакувати Україну з власної території, - так вважають аналітики Defense Express
-
-В іранському арсеналі є балістичні ракети середньої дальності, які дозволяють з північних районів Ірану територію України. 
-
-Для таких ракет, як Ghadr, Emad та Sejjil дальність польоту оцінена у межах близько 2000 км, а найбільш далекобійною є Khorramshahr, яка довела можливість польоту на 4000 км.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-27_15-32-02.jpg" length="131795" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 15:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇬🇧🇺🇦 Британія передає Україні </title>
-      <link>https://www.mandarinai.lt/post/96369</link>
-      <description>🇬🇧🇺🇦 Британія передає Україні технології та засоби РЕБ для забезпечення польотів  українських дронів, - Зеленський  з новим британським Прем'єр-міністром Енді Бернемом на борту авіаносця HMS Queen Elizabeth</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1524.MP4" length="13431145" type="video/mp4"/>
-      <pubDate>Mon, 27 Jul 2026 15:50:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>💔🥀Липень став найкривавішим мі</title>
-      <link>https://www.mandarinai.lt/post/96370</link>
-      <description>💔🥀Липень став найкривавішим місяцем для цивільних від початку повномасштабної війни, — CNN
-
-За попередніми даними, через російські атаки загинули щонайменше 377 людей, ще 2 129 зазнали поранень.
-
-Масштаб ворожого терору лише за останній тиждень:
-▪️майже 1 700 дронів;
-▪️понад 1 630 КАБів;
-▪️понад 50 балістичних ракет.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-27_16-30-47.jpg" length="276708" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 16:30:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 04:28:14 +0000</lastBuildDate>
     <item>
       <title>Трамп запитає Путіна, чи перед</title>
       <link>https://www.mandarinai.lt/post/96371</link>
@@ -128,6 +96,17 @@
 Це може свідчити про пошук нових напрямків для обходу української ППО та ускладнення перехоплення повітряних цілей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-27_23-18-37.jpg" length="140048" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 23:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поки ви спали, дрони демократі</title>
+      <link>https://www.mandarinai.lt/post/96382</link>
+      <description>Поки ви спали, дрони демократії потурбували завод «Гідростатконструкція» в місті Чехов біля Москви.
+
+Після удару над підприємством здійнявся густий дим. 
+
+Тим часом мер Москви Собянін заявив, що російська ППО нібито вже збила понад 70 БПЛА в Московській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1537.MP4" length="1333049" type="video/mp4"/>
+      <pubDate>Tue, 28 Jul 2026 03:40:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
