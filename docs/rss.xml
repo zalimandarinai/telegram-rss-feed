@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 14:40:35 +0000</lastBuildDate>
-    <item>
-      <title>🔥Сили оборони уразили комбінат</title>
-      <link>https://www.mandarinai.lt/post/96391</link>
-      <description>🔥Сили оборони уразили комбінат "Пріоритет" в Удмуртії (1300 км від фронту) та склади ворога
-
-Серед уражених цілей:
-
-💥 Склад матеріально-технічних засобів та склад паливно-мастильних матеріалів у районі населеного пункту Ічкі (АР Крим).
-💥Склад безпілотних літальних апаратів окупантів у районі Червонопопівки Луганської області.
-💥Федеральна державна казенна установа (ФДКУ) комбінат "Пріоритет" у селищі Борок Удмуртської Республіки рф.
-
-Комбінат "Пріоритет" є стратегічним об'єктом закритого типу під воєнізованою охороною. Виконує функції великої нафтобази державного значення - призначений для довгострокового зберігання запасів палива, нафтопродуктів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-28_08-12-40.jpg" length="87095" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 08:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Двом військовим полку «Скеля</title>
-      <link>https://www.mandarinai.lt/post/96392</link>
-      <description>⚡️Двом військовим полку «Скеля» повідомили про підозру за жорстоке поводження з побратимами, — ДБР</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-28_09-30-06.jpg" length="32282" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 09:30:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 16:23:47 +0000</lastBuildDate>
     <item>
       <title>❗️Ворог знищив вже понад 160 А</title>
       <link>https://www.mandarinai.lt/post/96393</link>
@@ -128,7 +106,7 @@
     <item>
       <title>російській FPV-дрон щойно вдар</title>
       <link>https://www.mandarinai.lt/post/96405</link>
-      <description>російській FPV-дрон щойно вдарив по гіпермаркету "Епіцентр" в Запоріжжі, — місцеві ЗМІ</description>
+      <description>російській FPV-дрон щойно вдарив по гіпермаркету "METRO" в Запоріжжі, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-28_13-39-44.mp4" length="522446" type="video/mp4"/>
       <pubDate>Tue, 28 Jul 2026 13:39:44 +0000</pubDate>
     </item>
@@ -142,6 +120,20 @@
 Туск також закликав правоохоронців швидко затримувати винних у подібних інцидентах і притягувати їх до відповідальності.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-28_14-16-05.jpg" length="50967" type="image/jpeg"/>
       <pubDate>Tue, 28 Jul 2026 14:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Хороша зустріч із Трампом: об</title>
+      <link>https://www.mandarinai.lt/post/96407</link>
+      <description>🔴Хороша зустріч із Трампом: обговорили ліцензії на виробництво ракет для Patriot та інші важливі ідеї, — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-28_15-51-40.jpg" length="123147" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 15:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡рашисти знову атакували судно</title>
+      <link>https://www.mandarinai.lt/post/96408</link>
+      <description>😡рашисти знову атакували судно у Чорному морі: на місці влучання масштабна пожежа, – місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-28_15-52-42.jpg" length="102326" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 15:52:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
