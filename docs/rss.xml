@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 15:28:49 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Зеленський попросив в Трамп</title>
-      <link>https://www.mandarinai.lt/post/96426</link>
-      <description>⚡️ Зеленський попросив в Трампа 300 ракет Patriot, щоб захистити енергетику в зимовий період, - Axios</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_10-43-14.jpg" length="92402" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 10:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Росіяни намагаються створити щ</title>
-      <link>https://www.mandarinai.lt/post/96428</link>
-      <description>Росіяни намагаються створити ще одну «буферну зону» в районі Артільного на Харківщині.
-
-На відео — відбиття одного зі штурмів. 
-
-Цього разу росіяни проривалися до українських позицій групою з 10 піхотинців за підтримки ББМ. Цю групу розбили. Але ворог підготувався до більш масштабних дій.
-
-Що про наміри ворога відомо 16-му АК:
-
-З Сумського напрямку був передислоковано 34 бригаду, головна її ударна одиниця - розвідбат, командир якого, Станіслав Цвєтков, тільки 28 червня отримав звання «підполковник». 
-
-Крім того, на ділянці відмічена присутність розрахунків «Рубікону», що свідчить про серйозні наміри ворога. 
-
-Головна проблема - масове застосування КАБів. 
-
-Втрати росіян за минулий тиждень – 107 «двісті», 41 – «300».
-
-Загальні втрати ворога на ділянці за місяць:
-
-Вбито – 279
-Поранено – 178
-Здалось — 15
-
-Ворог, попри інфільтрацію окремих військових, поки не реалізував плани закріпитися західніше Артільного. Але він буде пробувати просуватися і далі за рахунок збільшення кількості сил та засобів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1579.MP4" length="20859776" type="video/mp4"/>
-      <pubDate>Wed, 29 Jul 2026 12:50:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 16:51:34 +0000</lastBuildDate>
     <item>
       <title>🛫 «Це не Wildberries, пролітай</title>
       <link>https://www.mandarinai.lt/post/96429</link>
@@ -106,6 +70,28 @@
 Дякуємо</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1582.MP4" length="12367244" type="video/mp4"/>
       <pubDate>Wed, 29 Jul 2026 15:01:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лора Лумер зустрілася з Білець</title>
+      <link>https://www.mandarinai.lt/post/96441</link>
+      <description>Лора Лумер зустрілася з Білецьким.
+
+Командир 3-го АК провів для наближеної до Трампа блогерки прогулянку містом — від університету до Римарської. 
+
+Саме тут у березні 2014 він разом з товаришами прийняв один із перших боїв проти російських бойовиків, які проникли до Харкова.
+
+Трамп поступово повертається обличчям до України.
+
+Саме в цьому контексті, безвідносно до особистості Лумер та її професійних якостей, треба розглядати візит MAGA-блогерки до України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_15-37-11.jpg" length="80185" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 15:37:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸🇫🇷 Розвідки США та Франції д</title>
+      <link>https://www.mandarinai.lt/post/96443</link>
+      <description>🇺🇸🇫🇷 Розвідки США та Франції допомагають Україні прокладати маршрути дронів вглиб російської території, - Financial Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_16-42-46.jpg" length="89368" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 16:42:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
