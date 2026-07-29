@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 21:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:38:45 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🇫🇷 Розвідки США та Франції д</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -15,19 +15,9 @@
     </item>
     <item>
       <title>Кияни уже починають готуватись</title>
-      <link>https://www.mandarinai.lt/post/96450</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Кияни уже починають готуватись до ночівлі в метро через високу ймовіреість масованої атаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-29_18-48-22.mp4" length="633761" type="video/mp4"/>
       <pubDate>Wed, 29 Jul 2026 18:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Повітряні сили ЗСУ повідомил</title>
-      <link>https://www.mandarinai.lt/post/96452</link>
-      <description>❗️Повітряні сили ЗСУ повідомили про втрату зв’язку з винищувачем F-16 під час виконання бойового завдання 29 липня. За попередніми даними, на борту виникла нештатна ситуація, через що пілот був змушений катапультуватися.
-
-Льотчика успішно евакуювали, він перебуває у безпеці та проходить обстеження в медичному закладі. На місці падіння літака працюють експерти й правоохоронці. За даними Повітряних сил, жертв серед цивільного населення та руйнувань немає, причини інциденту встановлюють.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_18-49-12.jpg" length="75285" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 18:49:12 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Херсон під російськими удар</title>
@@ -66,6 +56,13 @@
 Серед ліквідованих — командир і заступник командира 201-го окремого стрілецького полку 3-ї загальновійськової армії, начальник штабу того ж полку дістав поранення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0588.MOV" length="9893797" type="video/mp4"/>
       <pubDate>Wed, 29 Jul 2026 21:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Момент удару в Києві</title>
+      <link>https://www.mandarinai.lt/post/96467</link>
+      <description>❗️ Момент удару в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1597.MP4" length="1881249" type="video/mp4"/>
+      <pubDate>Wed, 29 Jul 2026 22:32:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
