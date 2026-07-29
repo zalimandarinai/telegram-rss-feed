@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 16:51:34 +0000</lastBuildDate>
-    <item>
-      <title>🛫 «Це не Wildberries, пролітай</title>
-      <link>https://www.mandarinai.lt/post/96429</link>
-      <description>🛫 «Це не Wildberries, пролітайте», - компанія Ozon на даху в Нижньому Новгороді розмістила послання українським дронам із благанням не бити по їхніх складах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_12-56-39.jpg" length="22887" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 12:56:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥛 Можливий дефіцит «молочки», </title>
-      <link>https://www.mandarinai.lt/post/96430</link>
-      <description>🥛 Можливий дефіцит «молочки», - росіяни фактично знищили Богодухівський молокозавод, написав його директор.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_12-58-55.jpg" length="221380" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 12:58:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️У ЗСУ розпочали перевірку ко</title>
-      <link>https://www.mandarinai.lt/post/96432</link>
-      <description>❗️У ЗСУ розпочали перевірку комплектування військових частин та справедливості розподілу людей, – Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_13-04-08.jpg" length="87042" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 13:04:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 18:05:57 +0000</lastBuildDate>
     <item>
       <title>💥 Сили оборони уразили Рязансь</title>
       <link>https://www.mandarinai.lt/post/96434</link>
@@ -92,6 +71,26 @@
       <description>🇺🇸🇫🇷 Розвідки США та Франції допомагають Україні прокладати маршрути дронів вглиб російської території, - Financial Times</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_16-42-46.jpg" length="89368" type="image/jpeg"/>
       <pubDate>Wed, 29 Jul 2026 16:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬В Польщі хвиля нападів на укр</title>
+      <link>https://www.mandarinai.lt/post/96445</link>
+      <description>🤬В Польщі хвиля нападів на українців - сьогодні молодики напали на 16-річного українця в потязі
+ Пасажири і кондуктор заступились за хлопця.
+Нападників затримала поліція.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-29_17-31-29.mp4" length="4042852" type="video/mp4"/>
+      <pubDate>Wed, 29 Jul 2026 17:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Спецпосланці США Віткофф і К</title>
+      <link>https://www.mandarinai.lt/post/96447</link>
+      <description>‼️Спецпосланці США Віткофф і Кушнер погодилися вперше відвідати Київ після вчорашньої зустрічі Зеленського з Трампом, — The Financial Times
+ 
+Учорашні перемовини знаменували різкий поворот від напружених раніше відносин між Києвом і Вашингтоном.
+ 
+При цьому, за даними видання, на до зміни поглядів Дональда Трампа на війну та перспективи України призвели місяці прямої взаємодії на рівні радників. Водночас, Володимир Зеленський завжди вважав, що він є найпереконливішою особою у спілкуванні з Трампом під час їхніх зустрічей, розповіли FT радники президента України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_17-33-42.jpg" length="138005" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 17:33:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
