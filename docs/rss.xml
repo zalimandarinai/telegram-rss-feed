@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 03:27:29 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Увага: шукаємо стажерів на </title>
-      <link>https://www.mandarinai.lt/post/96400</link>
-      <description>❗️ Увага: шукаємо стажерів на віддалену роботу в сфері 3D
-
-Потрібні люди без досвіду в 3D-візуалізації, ЗП від 2000$
-
-Студія Visual360 навчає людей для американських компаній. Через сильний дефіцит кадрів, компанії чекають на спеціалістів, тож новачки знаходять роботу одразу після навчання. 
-
-В залежності від проєктів, досвідчені 3D-візуалізатори заробляють 2000-5000$, працюючи вдома. 
-
-Як стати візуалізатором?
-
-📍 Необхідно відвідати безкоштовний урок завтра, о 18:00, де ви дізнаєтесь більше про професію, та отримаєте план як заробити 500$ зі старту. 
-
-✔️ Реєстрація на безкоштовний урок: https://cutt.ly/lyy6RhzP 
-
-Важливо: Visual360 проведе урок на прохання партнерів-роботодавців, щоб впоратися з великою кількістю замовлень.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-28_12-23-29.jpg" length="167287" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 12:23:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 06:14:43 +0000</lastBuildDate>
     <item>
       <title>Іще одна держава розігрує анти</title>
       <link>https://www.mandarinai.lt/post/96401</link>
@@ -128,6 +107,13 @@
 Поліція Кракова розпочала кримінальне провадження проти працівника компанії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-28_17-20-37.mp4" length="18584671" type="video/mp4"/>
       <pubDate>Tue, 28 Jul 2026 17:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Обвалення даху та масштабна </title>
+      <link>https://www.mandarinai.lt/post/96415</link>
+      <description>💥🔥Обвалення даху та масштабна пожежа після прильоту на складах WB в Рязані</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-29_05-02-22.mp4" length="706412" type="video/mp4"/>
+      <pubDate>Wed, 29 Jul 2026 05:02:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
