@@ -6,33 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 20:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:36:37 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🇫🇷 Розвідки США та Франції д</title>
-      <link>https://www.mandarinai.lt/post/96443</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🇺🇸🇫🇷 Розвідки США та Франції допомагають Україні прокладати маршрути дронів вглиб російської території, - Financial Times</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_16-42-46.jpg" length="89368" type="image/jpeg"/>
       <pubDate>Wed, 29 Jul 2026 16:42:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬В Польщі хвиля нападів на укр</title>
-      <link>https://www.mandarinai.lt/post/96445</link>
-      <description>🤬В Польщі хвиля нападів на українців - сьогодні молодики напали на 16-річного українця в потязі
- Пасажири і кондуктор заступились за хлопця.
-Нападників затримала поліція.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-29_17-31-29.mp4" length="4042852" type="video/mp4"/>
-      <pubDate>Wed, 29 Jul 2026 17:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Спецпосланці США Віткофф і К</title>
-      <link>https://www.mandarinai.lt/post/96447</link>
-      <description>‼️Спецпосланці США Віткофф і Кушнер погодилися вперше відвідати Київ після вчорашньої зустрічі Зеленського з Трампом, — The Financial Times
- 
-Учорашні перемовини знаменували різкий поворот від напружених раніше відносин між Києвом і Вашингтоном.
- 
-При цьому, за даними видання, на до зміни поглядів Дональда Трампа на війну та перспективи України призвели місяці прямої взаємодії на рівні радників. Водночас, Володимир Зеленський завжди вважав, що він є найпереконливішою особою у спілкуванні з Трампом під час їхніх зустрічей, розповіли FT радники президента України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-29_17-33-42.jpg" length="138005" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 17:33:42 +0000</pubDate>
     </item>
     <item>
       <title>Кияни уже починають готуватись</title>
@@ -71,6 +50,22 @@
 Крім того, супутникові знімки показують, що ЗСУ кілька разів атакують одне й те саме важливе обладнання до завершення ремонту, що перешкоджає відновленню роботи об'єктів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-29_19-31-05.mp4" length="454168" type="video/mp4"/>
       <pubDate>Wed, 29 Jul 2026 19:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Київське метро заповнено вщент</title>
+      <link>https://www.mandarinai.lt/post/96460</link>
+      <description>Київське метро заповнено вщент - люли готуються до чергової ночі російського терору</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-29_20-49-58.mp4" length="1481565" type="video/mp4"/>
+      <pubDate>Wed, 29 Jul 2026 20:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літаки українських Повітряних </title>
+      <link>https://www.mandarinai.lt/post/96463</link>
+      <description>Літаки українських Повітряних Сил атакували командний пункт окупантів в районі Лисичанська. В результаті удару російські війська зазнали 18 безповоротних втрат.
+
+Серед ліквідованих — командир і заступник командира 201-го окремого стрілецького полку 3-ї загальновійськової армії, начальник штабу того ж полку дістав поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_0588.MOV" length="9893797" type="video/mp4"/>
+      <pubDate>Wed, 29 Jul 2026 21:30:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
