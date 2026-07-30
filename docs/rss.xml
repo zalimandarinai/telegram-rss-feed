@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 15:26:05 +0000</lastBuildDate>
-    <item>
-      <title>Ми були готові збити ракету, я</title>
-      <link>https://www.mandarinai.lt/post/96504</link>
-      <description>Ми були готові збити ракету, якби вона летіла далі, — Туск про російську Х-101, яка пролетіла 80 кілометрів над Польщею.
-
-Куди ж далі? До Любліна?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_09-40-55.jpg" length="43067" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 09:40:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Якщо Іран вдарить ракетою п</title>
-      <link>https://www.mandarinai.lt/post/96505</link>
-      <description>❗️ Якщо Іран вдарить ракетою по Україні, в нас є засоби, які можуть долетіти та дозволять дати відповідь, — секретар Комітету ВР з нацбезпеки Костенко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1616.MP4" length="4888051" type="video/mp4"/>
-      <pubDate>Thu, 30 Jul 2026 09:51:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 17:00:26 +0000</lastBuildDate>
     <item>
       <title>Ефектне ураження російського ш</title>
       <link>https://www.mandarinai.lt/post/96506</link>
@@ -72,6 +56,26 @@
 Email: callcenter@ssu.gov.ua</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_15-12-26.jpg" length="73098" type="image/jpeg"/>
       <pubDate>Thu, 30 Jul 2026 15:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>В міноборони рф опублікували в</title>
+      <link>https://www.mandarinai.lt/post/96518</link>
+      <description>В міноборони рф опублікували відео з їхнім військовим біля стели «Дружківка», - ось що відповіли в Збройних Силах України
+
+Дружківка під повним контролем Сил оборони України, - так заявив речник угруповання військ «Схід» Григорій Шаповал.
+
+За його словами, так звані «флаговтики» окупантів зараз досить популярні. 
+
+«Це їх намагання показати «захоплення міста» і що «ми там працюємо». Вони вказали, що і «Костянтинівка захоплена», але це більше спрямовано на їх аудиторію, щоб показати якісь перемоги», – сказав речник УВ «Схід».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1636.MP4" length="3618566" type="video/mp4"/>
+      <pubDate>Thu, 30 Jul 2026 16:12:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна зуміла вивести з ладу </title>
+      <link>https://www.mandarinai.lt/post/96519</link>
+      <description>Україна зуміла вивести з ладу майже половину потужностей російської нафтопереробки завдяки цілеспрямованим операціям, — Financial Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_16-14-14.jpg" length="57807" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 16:14:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
