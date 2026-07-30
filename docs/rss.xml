@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 18:45:09 +0000</lastBuildDate>
-    <item>
-      <title>Ефектне ураження російського ш</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Ефектне ураження російського шахеда розрахунком перехоплювачів</description>
-      <pubDate>Thu, 30 Jul 2026 10:19:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 20:07:00 +0000</lastBuildDate>
     <item>
       <title>В міноборони рф опублікували в</title>
       <link>https://www.mandarinai.lt/post/96518</link>
@@ -59,15 +53,53 @@
       <pubDate>Thu, 30 Jul 2026 17:41:18 +0000</pubDate>
     </item>
     <item>
-      <title>Фото, від якого сльози наверта</title>
+      <title>Фото, від якого стискається се</title>
       <link>https://www.mandarinai.lt/post/96527</link>
-      <description>Фото, від якого сльози навертаються на очі.
+      <description>Фото, від якого стискається серце
 
 Військовий Данило Воронов  сьогодні втратив півторарічного сина, батьків, братів та сестер.
 
 Хоча це не вгамує його біль, але за злочин нелюди повинні  відповісти.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_18-10-44.jpg" length="180461" type="image/jpeg"/>
       <pubDate>Thu, 30 Jul 2026 18:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Рязанський НПЗ припинив перер</title>
+      <link>https://www.mandarinai.lt/post/96528</link>
+      <description>🔥Рязанський НПЗ припинив переробку нафти після атаки українських дронів, — Reuters
+
+За даними джерел агентства, на відновлення виробництва може знадобитися близько місяця. Завод входить до числа найбільших у рф: минулого року він переробив 13,1 млн тонн нафти – майже 5% від загального обсягу переробки нафти в країні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-30_19-21-10.mp4" length="2832889" type="video/mp4"/>
+      <pubDate>Thu, 30 Jul 2026 19:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Після падіння російської крила</title>
+      <link>https://www.mandarinai.lt/post/96529</link>
+      <description>Після падіння російської крилатої ракети Х-101 на своїй території Польща готова розглянути передачу Україні додаткових ракет для Patriot, - Туск 
+
+Після порушення польського повітряного простору в небо підняли два винищувачі F-16, літак-заправник Airbus A330, літак дальнього радіолокаційного виявлення Saab 440 AEW та гелікоптер Мі-24, але ракету не збили.
+
+За оцінкою Центру стратегічних і міжнародних досліджень (CSIS), у США залишилося менш ніж 1000 ракет-перехоплювачів для Patriot і менш ніж 250 — для систем THAAD.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1645.MP4" length="9250449" type="video/mp4"/>
+      <pubDate>Thu, 30 Jul 2026 19:44:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Німеччина готується до прот</title>
+      <link>https://www.mandarinai.lt/post/96530</link>
+      <description>⚡️ Німеччина готується до протидії проросійській «п'ятій колоні», яка може блокувати війська НАТО у разі нападу РФ, — The Telegraph.
+
+У Берліні побоюються, що посилення впливу проросійської партії «Альтернатива для Німеччини» на сході країни дозволить місцевій владі саботувати або блокувати перекидання союзних сил у разі російського вторгнення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_19-56-20.jpg" length="78511" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 19:56:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У липні українські дрони силь</title>
+      <link>https://www.mandarinai.lt/post/96531</link>
+      <description>💥У липні українські дрони сильно пошкодили або знищили більше 15% усіх складських площ Wildberries в рф.
+
+За місяць під удари потрапили 8 складів WB загальною площею близько 860 тисяч м².</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_19-59-17.jpg" length="137644" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 19:59:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
