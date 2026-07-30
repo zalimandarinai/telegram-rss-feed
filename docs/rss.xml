@@ -6,46 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 09:42:41 +0000</lastBuildDate>
-    <item>
-      <title>❗️ У Львові зниклими безвісті </title>
-      <link>https://www.mandarinai.lt/post/96491</link>
-      <description>❗️ У Львові зниклими безвісті вважаються двоє людей, постраждалих наразі 23, — Садовий
-
-🎥 «Радіо Свобода»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1606.MP4" length="10628912" type="video/mp4"/>
-      <pubDate>Thu, 30 Jul 2026 06:42:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Чули тривогу?»
-«Ну, а як же».</title>
-      <link>https://www.mandarinai.lt/post/96492</link>
-      <description>«Чули тривогу?»
-«Ну, а як же».
-«Не спускалися?»
-«Ні, хрестилася».
-
-Жінка зі зруйнованої багатоповерхівки у Львові.
-
-🎥 «Суспільне/Львів»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1607.MP4" length="1693629" type="video/mp4"/>
-      <pubDate>Thu, 30 Jul 2026 06:47:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Львові вже 31 постраждалий н</title>
-      <link>https://www.mandarinai.lt/post/96493</link>
-      <description>У Львові вже 31 постраждалий на цей момент, рятувальна операція триває - ОВА 
-
-Найстаршій постраждалій 93 роки, наймолодшому хлопчику 6 років. 
-
-Внаслідок удару загалом пошкоджено понад 20 житлових будинків, а також школу та два дитячі садки.
-
-Є пряме влучання в один з будинків, - Садовий
-
-Місцеві мешканці встигли зняти на відео влучання ракети в будинок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1609.MOV" length="14484809" type="video/mp4"/>
-      <pubDate>Thu, 30 Jul 2026 06:53:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 11:33:41 +0000</lastBuildDate>
     <item>
       <title>У передмісті Кривого Рогу «Іск</title>
       <link>https://www.mandarinai.lt/post/96495</link>
@@ -126,6 +87,27 @@
 Куди ж далі? До Любліна?</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_09-40-55.jpg" length="43067" type="image/jpeg"/>
       <pubDate>Thu, 30 Jul 2026 09:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Якщо Іран вдарить ракетою п</title>
+      <link>https://www.mandarinai.lt/post/96505</link>
+      <description>❗️ Якщо Іран вдарить ракетою по Україні, в нас є засоби, які можуть долетіти та дозволять дати відповідь, — секретар Комітету ВР з нацбезпеки Костенко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1616.MP4" length="4888051" type="video/mp4"/>
+      <pubDate>Thu, 30 Jul 2026 09:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ефектне ураження російського ш</title>
+      <link>https://www.mandarinai.lt/post/96506</link>
+      <description>Ефектне ураження російського шахеда розрахунком перехоплювачів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQM2Q5eQn8Z62SmEj5OUdJZP7Ohv5Chw76_IDpetFz_NXpCtmgKM9zuit3Yf7_5ld.mp4" length="13049279" type="video/mp4"/>
+      <pubDate>Thu, 30 Jul 2026 10:19:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Сьогодні вперше за довгий ч</title>
+      <link>https://www.mandarinai.lt/post/96507</link>
+      <description>⚡️ Сьогодні вперше за довгий час рф, ймовірно, застосувала північнокорейську балістичну ракету KN-23, — Юрій Ігнат</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-30_11-11-02.jpg" length="63835" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 11:11:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
