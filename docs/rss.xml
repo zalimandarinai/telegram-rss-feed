@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 09:32:53 +0000</lastBuildDate>
-    <item>
-      <title>🔥На росії горять комп'ютери, п</title>
-      <link>https://www.mandarinai.lt/post/96562</link>
-      <description>🔥На росії горять комп'ютери, планшети та смартфони: у Владивостоці — масштабна пожежа на складі мережі DNS
-
-Вогонь охопив одну з найбільших російських мереж магазинів цифрової, побутової та комп'ютерної техніки DNS</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-31_06-20-07.mp4" length="8820255" type="video/mp4"/>
-      <pubDate>Fri, 31 Jul 2026 06:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іспанія стягує війська та спец</title>
-      <link>https://www.mandarinai.lt/post/96563</link>
-      <description>Іспанія стягує війська та спецпризначенців до Сеути через беспрецедентну міграційну кризу
-
-За оцінками іспанської цивільної гвардії, на які посилається видання El Confidencial, близько 40 тисяч людей могли незаконно проникнути з Марокко до Сеути за останній місяці
-
-При цьому потік мігрантів не припинявся навіть вночі. Вони дістаються до узбережжя пішки, на надувних кругах і прориваються через прикордонні загородження.
-
-Сталося це після прийняття Мадридом більш лояльних міграційних законів.
-
- Сеута, а також в Мелілья, мають унікальний статус, оскількі ці іспанські міста знаходяться на Середземноморському узбережжі Африки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-31_06-26-22.mp4" length="3415707" type="video/mp4"/>
-      <pubDate>Fri, 31 Jul 2026 06:26:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 11:48:18 +0000</lastBuildDate>
     <item>
       <title>🔥путін спасібо красавчік - спа</title>
       <link>https://www.mandarinai.lt/post/96566</link>
@@ -98,7 +74,7 @@ https://t.me/+iU6FIbrRqb9kNzg6</description>
       <description>❗️Потужний вибух у Хмельницькому. Сигналу тривоги не було, – повідомляють місцеві ЗМІ.
 
 Наразі відбувається повторна детонація. Офіційної інформації поки що немає.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-31_09-13-36.jpg" length="92643" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1694.MP4" length="3002956" type="video/mp4"/>
       <pubDate>Fri, 31 Jul 2026 09:13:36 +0000</pubDate>
     </item>
     <item>
@@ -111,6 +87,25 @@ https://t.me/+iU6FIbrRqb9kNzg6</description>
 Повернутися можна лише із СЗЧ через «Армію+».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-31_09-14-52.jpg" length="137248" type="image/jpeg"/>
       <pubDate>Fri, 31 Jul 2026 09:14:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полонений і зачистка: робота о</title>
+      <link>https://www.mandarinai.lt/post/96580</link>
+      <description>Полонений і зачистка: робота операторів ССО
+
+Оператори групи "Ф" 1 загону 144 центру Сил спеціальних операцій здійснили спеціальні дії на одному з операційних напрямків. 
+
+Діючи приховано оператори ССО інфільтрувались в населений пункт для подальшого виконання завдання. 
+
+Завдяки скоординованим діям групи вдалось встановити контроль над визначеним сектором населеного пункту, взяти в полон військовослужбовця противника та провести зачистку території.</description>
+      <pubDate>Fri, 31 Jul 2026 11:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Костянтинівському напрямку </title>
+      <link>https://www.mandarinai.lt/post/96581</link>
+      <description>На Костянтинівському напрямку військовослужбовці мобільної вогневої групи 28-ої ОМБР виявили російського «мандрівника» і взяли його в полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1696.MP4" length="25935696" type="video/mp4"/>
+      <pubDate>Fri, 31 Jul 2026 11:47:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
