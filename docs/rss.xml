@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 00:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:43:23 +0000</lastBuildDate>
     <item>
       <title>Павло Дуров, засновник Telegra</title>
       <link>https://www.mandarinai.lt/post/96524</link>
@@ -94,6 +94,22 @@
       <description>Краматорськ під ударом, російські війська скинули чотири ФАБ-250 по спальному району, одна з бомб влучила в будинок.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1648.MP4" length="2264937" type="video/mp4"/>
       <pubDate>Thu, 30 Jul 2026 21:49:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф балістикою знищила у Києв</title>
+      <link>https://www.mandarinai.lt/post/96535</link>
+      <description>⚡️рф балістикою знищила у Києві завод американської компанії з виробництва дронів, — The Guardian
+
+Російські війська завдали ракетного удару по заводу, який належить американській корпорації Terminal Autonomy.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-31_00-57-02.jpg" length="38518" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jul 2026 00:57:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Мінус ще один склад WB в росі</title>
+      <link>https://www.mandarinai.lt/post/96536</link>
+      <description>🔥Мінус ще один склад WB в російському Волгограді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-31_01-00-21.mp4" length="1107188" type="video/mp4"/>
+      <pubDate>Fri, 31 Jul 2026 01:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
