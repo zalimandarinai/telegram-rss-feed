@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 00:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 03:49:38 +0000</lastBuildDate>
     <item>
       <title>🔴 Ніхто не хоче йти на поступк</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -22,25 +22,6 @@
       <pubDate>Fri, 31 Jul 2026 17:02:17 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ Рекорд просто неймовірний: </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️ Рекорд просто неймовірний: оператори 105-го загону ДПСУ перехопили ворожий ZALA Z-20 дроном STING на висоті 6 858 м.</description>
-      <pubDate>Fri, 31 Jul 2026 18:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>В липні вперше в історії украї</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>В липні вперше в історії український FPV-дрон уразив російський ЗРК C-300В, розташований в Луганській області, - користувач  kriegsforscherD в мережі X надає фотодоказ</description>
-      <pubDate>Fri, 31 Jul 2026 18:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Вибухи в окупованому Луганськ</title>
-      <link>https://www.mandarinai.lt/post/96606</link>
-      <description>💥Вибухи в окупованому Луганську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-31_20-50-36.mp4" length="192699" type="video/mp4"/>
-      <pubDate>Fri, 31 Jul 2026 20:50:36 +0000</pubDate>
-    </item>
-    <item>
       <title>❗️ На Київ летіло не менше 20 </title>
       <link>https://www.mandarinai.lt/post/96617</link>
       <description>❗️ На Київ летіло не менше 20 ракет: сильні пожежі на Відрадному і в Дарницькому районі, — місцеві ЗМІ</description>
@@ -53,6 +34,27 @@
       <description>В столиці троє загиблих, - мер Кличко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1714.MP4" length="3159481" type="video/mp4"/>
       <pubDate>Fri, 31 Jul 2026 23:47:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Він каже, що це приватна влас</title>
+      <link>https://www.mandarinai.lt/post/96620</link>
+      <description>«Він каже, що це приватна власність», - кияни зламали двері на паркінг в той час, коли його охоронець під час обстрілу відмовився пускати туди людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1716.MP4" length="28601851" type="video/mp4"/>
+      <pubDate>Sat, 01 Aug 2026 00:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зруйнований двір будинку в Киє</title>
+      <link>https://www.mandarinai.lt/post/96622</link>
+      <description>Зруйнований двір будинку в Києві після удару російської ракети</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1718.MP4" length="11452664" type="video/mp4"/>
+      <pubDate>Sat, 01 Aug 2026 00:45:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ще одна жахлива ніч: в Києві 9</title>
+      <link>https://www.mandarinai.lt/post/96623</link>
+      <description>Ще одна жахлива ніч: в Києві 9 загиблих й  щонайменше 23 постраждалих внаслідок атаки росії, - ДСНС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_03-19-35.jpg" length="211919" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 03:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
