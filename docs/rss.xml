@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 08:41:18 +0000</lastBuildDate>
-    <item>
-      <title>💥Ранкові влучання по НПЗ в рос</title>
-      <link>https://www.mandarinai.lt/post/96630</link>
-      <description>💥Ранкові влучання по НПЗ в російській Уфі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_06-18-30.jpg" length="102600" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 06:18:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Влучання по ворожих об'єктах </title>
-      <link>https://www.mandarinai.lt/post/96631</link>
-      <description>💥Влучання по ворожих об'єктах на окупованих територія Луганської, Донецької областей та в Криму</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_06-20-22.jpg" length="151130" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 06:20:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 10:22:27 +0000</lastBuildDate>
     <item>
       <title>⚡️ Уражено:
 
@@ -83,6 +69,32 @@
 🕯</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_08-20-37.jpg" length="95865" type="image/jpeg"/>
       <pubDate>Sat, 01 Aug 2026 08:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Момент влучання російського </title>
+      <link>https://www.mandarinai.lt/post/96643</link>
+      <description>⚡️Момент влучання російського дрона в житловий будинок в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-01_09-01-25.mp4" length="384719" type="video/mp4"/>
+      <pubDate>Sat, 01 Aug 2026 09:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Оператори ГУР успішно урази</title>
+      <link>https://www.mandarinai.lt/post/96644</link>
+      <description>❗️ Оператори ГУР успішно уразили три дороговартісні цілі російської окупаційної армії:
+ 
+✴️ зенітний ракетно-гарматний комплекс “Панцирь-С1” на ТОТ Херсонщини;
+✴️ катер проєкту 1100М “Сарган” у м. Керч, ТОТ АР Крим;
+✴️ наземну станцію управління БпЛА “Форпост” у м. Євпаторія, ТОТ АР Крим.</description>
+      <pubDate>Sat, 01 Aug 2026 09:35:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Перші кадри з місця удару безп</title>
+      <link>https://www.mandarinai.lt/post/96645</link>
+      <description>Перші кадри з місця удару безпілотника по території маркетплейсу в Броварах. Вже відомо про одного загиблого та 6 поранених людей.
+
+Пошкоджено більше десяти автомобілів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_10-18-38.jpg" length="149812" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 10:18:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
