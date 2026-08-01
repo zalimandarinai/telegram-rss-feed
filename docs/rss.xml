@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 22:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:06:10 +0000</lastBuildDate>
     <item>
       <title>🔴 Ніхто не хоче йти на поступк</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -29,32 +29,9 @@
     </item>
     <item>
       <title>В липні вперше в історії украї</title>
-      <link>https://www.mandarinai.lt/post/96598</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>В липні вперше в історії український FPV-дрон уразив російський ЗРК C-300В, розташований в Луганській області, - користувач  kriegsforscherD в мережі X надає фотодоказ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-31_18-14-39.jpg" length="51281" type="image/jpeg"/>
       <pubDate>Fri, 31 Jul 2026 18:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зникла безвісти дитина з Херсо</title>
-      <link>https://www.mandarinai.lt/post/96599</link>
-      <description>Зникла безвісти дитина з Херсонщини воює проти України, - саме такий випадок уперше встановила команда Back to Ukraine. 
-
-Олександр Мустяце із села Кринки досі перебуває в державному реєстрі «Діти війни» як зниклий безвісти, і він виявився військовослужбовцем російської армії.  
-
-На своїй сторінці він публікував фотографії у формі з символікою «Z», російським прапором та навіть з позицій, де воював проти України. 
-
-«Дивлячись на це все, мені важко позбутися думки, що росія могла спочатку відібрати в цього хлопця українське дитинство, а потім і саме життя. 
-
-Для багатьох це може виглядати як історія про особистий вибір. Але насправді вона показує, що відбувається з українськими дітьми, які роками залишаються під російською окупацією», - Микола Кулеба, керівник організації «Save Ukraine».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-31_18-54-56.jpg" length="137344" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 18:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Нижньокамськ, Республіка Тата</title>
-      <link>https://www.mandarinai.lt/post/96603</link>
-      <description>🔥Нижньокамськ, Республіка Татарстан, потужна пожежа в промзоні «Нижньокамськнафтохіму» після вибуху,</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-07-31_20-05-16.jpg" length="118382" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 20:05:16 +0000</pubDate>
     </item>
     <item>
       <title>💥Вибухи в окупованому Луганськ</title>
@@ -62,6 +39,20 @@
       <description>💥Вибухи в окупованому Луганську</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-07-31_20-50-36.mp4" length="192699" type="video/mp4"/>
       <pubDate>Fri, 31 Jul 2026 20:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ На Київ летіло не менше 20 </title>
+      <link>https://www.mandarinai.lt/post/96617</link>
+      <description>❗️ На Київ летіло не менше 20 ракет: сильні пожежі на Відрадному і в Дарницькому районі, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1712.MP4" length="1002096" type="video/mp4"/>
+      <pubDate>Fri, 31 Jul 2026 23:37:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>В столиці троє загиблих, - мер</title>
+      <link>https://www.mandarinai.lt/post/96618</link>
+      <description>В столиці троє загиблих, - мер Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1714.MP4" length="3159481" type="video/mp4"/>
+      <pubDate>Fri, 31 Jul 2026 23:47:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
