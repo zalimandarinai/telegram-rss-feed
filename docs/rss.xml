@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 19:56:40 +0000</lastBuildDate>
-    <item>
-      <title>Найбільше російських ударів по</title>
-      <link>https://www.mandarinai.lt/post/96662</link>
-      <description>Найбільше російських ударів по Києву в липні припалося на Дарницький район
-
-Моніторингові ресурси підрахували, що саме там було зафіксовано найбільшу кількість влучань, пожеж і падінь уламків. Далі йдуть Шевченківський і Деснянський райони.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_16-17-54.jpg" length="154845" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 16:17:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 20:55:19 +0000</lastBuildDate>
     <item>
       <title>👀 Іспанія будує морську «стіну</title>
       <link>https://www.mandarinai.lt/post/96664</link>
@@ -81,6 +72,24 @@ Balzi Rossi — елітний ресторан, де сьогодні прох�
 Також Федоров в інтервʼю The New York Times закликав людей змістити фокус із питання його посади на обговорення стратегії ведення війни.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_19-20-08.jpg" length="53396" type="image/jpeg"/>
       <pubDate>Sat, 01 Aug 2026 19:20:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вибуховий пристрій спрацював п</title>
+      <link>https://www.mandarinai.lt/post/96675</link>
+      <description>Вибуховий пристрій спрацював просто на терасі Balzi Rossi, внаслідок чого чоловікові відірвало кінцівки, — росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_19-57-43.jpg" length="120890" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 19:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛫 Авіація коригованими бомбами</title>
+      <link>https://www.mandarinai.lt/post/96676</link>
+      <description>🛫 Авіація коригованими бомбами GBU-39, JDAM-ER та AASM-250 HAMMER завдає ефективних ударів по місцях дислокації ворога на різних напрямках. 
+
+⏱️ Через 45 хвилин День Повітряних Сил ЗСУ. Не забудьте привітати знайомих пілотів, зенітників, авіатехників, фахівців радіотехнічної розвідки, операторів перехоплювачів.  
+
+🎥 UTAC team</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/FDownloader_Net_AQPDqdCGExS7x_8e_ZEdYo0BL6LNNwUdf6wp9qnOODt2ZLL.mp4" length="12057832" type="video/mp4"/>
+      <pubDate>Sat, 01 Aug 2026 20:17:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
