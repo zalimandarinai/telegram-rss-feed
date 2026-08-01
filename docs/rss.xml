@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 18:42:00 +0000</lastBuildDate>
-    <item>
-      <title>❗️ На Дніпропетровщині російсь</title>
-      <link>https://www.mandarinai.lt/post/96657</link>
-      <description>❗️ На Дніпропетровщині російський FPV-дрон прицільно атакував маршрутку. 
-
-Двоє людей перебувають у важкому стані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_14-37-33.jpg" length="158778" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 14:37:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Приліт балістичної ракети в Ки</title>
-      <link>https://www.mandarinai.lt/post/96659</link>
-      <description>Приліт балістичної ракети в Києві потрапив на камеру поліцейських.
-
-Кадри чергової ночі російського терору в столиці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-01_15-37-13.mp4" length="4231269" type="video/mp4"/>
-      <pubDate>Sat, 01 Aug 2026 15:37:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 19:56:40 +0000</lastBuildDate>
     <item>
       <title>Найбільше російських ударів по</title>
       <link>https://www.mandarinai.lt/post/96662</link>
@@ -87,9 +69,18 @@ Balzi Rossi — елітний ресторан, де сьогодні прох�
       <link>https://www.mandarinai.lt/post/96670</link>
       <description>За однією з версій, вибухівку до московського ресторану пронесла невідома особа, — росЗМІ.
 
-17 росіян перебувають у важкому стані в лікарнях москви</description>
+17 росіян перебувають у важкому стані в лікарнях москви, троє загинули</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-01_18-41-57.mp4" length="783513" type="video/mp4"/>
       <pubDate>Sat, 01 Aug 2026 18:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Федоров не перейде в опозицію </title>
+      <link>https://www.mandarinai.lt/post/96673</link>
+      <description>Федоров не перейде в опозицію до президента Зеленського і зустрічі з мітингувальниками у нього не плануються — сьогодні люди знову зібралися в Києві, проте масштаб дещо зменшився.
+
+Також Федоров в інтервʼю The New York Times закликав людей змістити фокус із питання його посади на обговорення стратегії ведення війни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_19-20-08.jpg" length="53396" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 19:20:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
