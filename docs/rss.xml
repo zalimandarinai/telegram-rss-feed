@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 10:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:42:26 +0000</lastBuildDate>
     <item>
       <title>⚡️ Уражено:
 
@@ -95,6 +95,22 @@
 Пошкоджено більше десяти автомобілів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_10-18-38.jpg" length="149812" type="image/jpeg"/>
       <pubDate>Sat, 01 Aug 2026 10:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ В Чорному морі затонув росі</title>
+      <link>https://www.mandarinai.lt/post/96647</link>
+      <description>❗️ В Чорному морі затонув російський контейнеровоз «Яніна».
+
+Судно атакували два українські морські дрони. Усіх 17 членів екіпажу було врятовано.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_10-25-13.jpg" length="22823" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 10:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⏯️ Відео з бортової камери мор</title>
+      <link>https://www.mandarinai.lt/post/96650</link>
+      <description>⏯️ Відео з бортової камери морського безпілотника, який уразив російський контейнеровоз, показав Зеленський.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1729.MP4" length="10279433" type="video/mp4"/>
+      <pubDate>Sat, 01 Aug 2026 11:05:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
