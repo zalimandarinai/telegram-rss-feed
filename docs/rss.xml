@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 03:49:38 +0000</lastBuildDate>
-    <item>
-      <title>🔴 Ніхто не хоче йти на поступк</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🔴 Ніхто не хоче йти на поступки, але і путін, і Зеленський будуть змушені погодитися на них, — Трамп</description>
-      <pubDate>Fri, 31 Jul 2026 16:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Києві триває масштабна про</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️У Києві триває масштабна протестна хода за реформи в обороні.  
-
-Учасники пройдуть від пам'ятника Шевченку до площі Івана Франка, де останні тижні проходив мітинг за повернення Михайла Федорова на посаду міністра оборони.</description>
-      <pubDate>Fri, 31 Jul 2026 17:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ На Київ летіло не менше 20 </title>
-      <link>https://www.mandarinai.lt/post/96617</link>
-      <description>❗️ На Київ летіло не менше 20 ракет: сильні пожежі на Відрадному і в Дарницькому районі, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1712.MP4" length="1002096" type="video/mp4"/>
-      <pubDate>Fri, 31 Jul 2026 23:37:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>В столиці троє загиблих, - мер</title>
-      <link>https://www.mandarinai.lt/post/96618</link>
-      <description>В столиці троє загиблих, - мер Кличко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1714.MP4" length="3159481" type="video/mp4"/>
-      <pubDate>Fri, 31 Jul 2026 23:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Він каже, що це приватна влас</title>
-      <link>https://www.mandarinai.lt/post/96620</link>
-      <description>«Він каже, що це приватна власність», - кияни зламали двері на паркінг в той час, коли його охоронець під час обстрілу відмовився пускати туди людей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1716.MP4" length="28601851" type="video/mp4"/>
-      <pubDate>Sat, 01 Aug 2026 00:43:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 06:28:02 +0000</lastBuildDate>
     <item>
       <title>Зруйнований двір будинку в Киє</title>
       <link>https://www.mandarinai.lt/post/96622</link>
@@ -55,6 +20,41 @@
       <description>Ще одна жахлива ніч: в Києві 9 загиблих й  щонайменше 23 постраждалих внаслідок атаки росії, - ДСНС</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_03-19-35.jpg" length="211919" type="image/jpeg"/>
       <pubDate>Sat, 01 Aug 2026 03:19:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жахливий київський ранок, спов</title>
+      <link>https://www.mandarinai.lt/post/96624</link>
+      <description>Жахливий київський ранок, сповнений болю від втрат та відразою до російських нелюдів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1720.MP4" length="12422500" type="video/mp4"/>
+      <pubDate>Sat, 01 Aug 2026 04:46:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Харкові росіяни спалили АЗС</title>
+      <link>https://www.mandarinai.lt/post/96625</link>
+      <description>В Харкові росіяни спалили АЗС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_05-19-59.jpg" length="99260" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 05:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Таким був Київ цієї ночі під у</title>
+      <link>https://www.mandarinai.lt/post/96626</link>
+      <description>Таким був Київ цієї ночі під ударами російських виродків</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_06-01-59.jpg" length="38780" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 06:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ранкові влучання по НПЗ в рос</title>
+      <link>https://www.mandarinai.lt/post/96630</link>
+      <description>💥Ранкові влучання по НПЗ в російській Уфі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_06-18-30.jpg" length="102600" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 06:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Влучання по ворожих об'єктах </title>
+      <link>https://www.mandarinai.lt/post/96631</link>
+      <description>💥Влучання по ворожих об'єктах на окупованих територія Луганської, Донецької областей та в Криму</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-01_06-20-22.jpg" length="151130" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 06:20:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
