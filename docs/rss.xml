@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 15:30:25 +0000</lastBuildDate>
-    <item>
-      <title>У Броварах під Києвом вдруге з</title>
-      <link>https://www.mandarinai.lt/post/96710</link>
-      <description>У Броварах під Києвом вдруге за добу атакували найбільший склад Rozetka, обійшлося без постраждалих
-
-Незважаючи на атаку, усі сервіси та пункти видачі компанії продовжують працювати у звичайному режимі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_09-47-32.jpg" length="84196" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 09:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>20-річна Віталіна Яровенко заг</title>
-      <link>https://www.mandarinai.lt/post/96711</link>
-      <description>20-річна Віталіна Яровенко загинула після того, як приїхала допомагати постраждалим від російської атаки на Київ.
-
-Віталіна була студенткою 4-го курсу факультету охорони здоров’я, соціальної роботи і психології НаУКМА та інструкторкою Військового вишколу академії. Вона також організовувала збори для підрозділів ЗСУ та брала участь в акціях на підтримку українських військовополонених.
-
-Дівчина вирушила на місце влучання як доброволиця, щоб рятувати людей, але її життя забрала російська атака.
-
-Щирі співчуття рідним, близьким і всім, хто знав Віталіну.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_10-05-42.jpg" length="145455" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 10:05:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Нова загроза: відомий на фро</title>
-      <link>https://www.mandarinai.lt/post/96712</link>
-      <description>⚡️Нова загроза: відомий на фронті безпілотник «Молнія» несе на собі ще й FPV-дрон, - Сергій Флеш</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_10-21-14.jpg" length="83090" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 10:21:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀Купання поруч зі збитими БпЛА</title>
-      <link>https://www.mandarinai.lt/post/96713</link>
-      <description>👀Купання поруч зі збитими БпЛА,  - нові реалії морського відпочинку в Одесі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_11-02-46.mp4" length="1112788" type="video/mp4"/>
-      <pubDate>Sun, 02 Aug 2026 11:02:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 16:36:55 +0000</lastBuildDate>
     <item>
       <title>А ось так збивають над морем б</title>
       <link>https://www.mandarinai.lt/post/96714</link>
@@ -143,6 +107,17 @@
       <description>🔥Наднизький проліт та маневр крилатої ракети FP-5 «Фламінго» на території рф. Дата та локація невідомі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_15-29-15.mp4" length="263165" type="video/mp4"/>
       <pubDate>Sun, 02 Aug 2026 15:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬У Польщі знову напад на украї</title>
+      <link>https://www.mandarinai.lt/post/96724</link>
+      <description>🤬У Польщі знову напад на українців - троє невідомих жорстоко побили двох чоловіків та жінку з України, — InPoland
+
+Перехожому не сподобалася музика, яка лунала з авто. Він вигукував образи, закликав повертатися в Україну, а потім викликав «підкріплення». Троє молодиків напали на українців. Усі постраждалі українці отримали травми голови, а також гематоми.
+
+Європа.  2026 рік..</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_16-04-22.jpg" length="96401" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 16:04:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
