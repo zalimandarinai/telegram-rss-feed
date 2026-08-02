@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 19:58:34 +0000</lastBuildDate>
-    <item>
-      <title>🤬У Польщі знову напад на украї</title>
-      <link>https://www.mandarinai.lt/post/96724</link>
-      <description>🤬У Польщі знову напад на українців - троє невідомих жорстоко побили двох чоловіків та жінку з України, — InPoland
-
-Перехожому не сподобалася музика, яка лунала з авто. Він вигукував образи, закликав повертатися в Україну, а потім викликав «підкріплення». Троє молодиків напали на українців. Усі постраждалі українці отримали травми голови, а також гематоми.
-
-Європа.  2026 рік..</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_16-04-22.jpg" length="96401" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 16:04:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 21:02:58 +0000</lastBuildDate>
     <item>
       <title>❗️ Наступ росіян на позиції «С</title>
       <link>https://www.mandarinai.lt/post/96730</link>
@@ -90,6 +79,32 @@
       <description>⚡️ Стрільця в Одесі затримали</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1759.MP4" length="6676881" type="video/mp4"/>
       <pubDate>Sun, 02 Aug 2026 19:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Сумщині окупанти спробували</title>
+      <link>https://www.mandarinai.lt/post/96742</link>
+      <description>На Сумщині окупанти спробували зробити «флаговтик» у Великій Писарівці за допомогою безпілотника.
+
+Ймовірно, потрібна була картинка на день вдв. 
+
+Але прапор підрозділу російських десантників простояв на даху багатоповерхової будівлі менше хвилини.
+
+Оператори 105-ої бригади тероборони 14-го АК підігнали власний дрон і швидко прибрали синій прапор вдв. 
+
+Схоже, «сінєва расплєскалась» по Великій Писарівці в буквальному сенсі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1760.MP4" length="29861357" type="video/mp4"/>
+      <pubDate>Sun, 02 Aug 2026 19:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ввечері рф розбила Черевківськ</title>
+      <link>https://www.mandarinai.lt/post/96743</link>
+      <description>Ввечері рф розбила Черевківський міст у Слов'янську на Донеччині
+
+Внаслідок влучання склався один проліт бетонної споруди. 
+
+В момент удару одна автівка злетіла з мосту та перекинулась.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1761.MP4" length="1639231" type="video/mp4"/>
+      <pubDate>Sun, 02 Aug 2026 20:09:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
