@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 17:44:20 +0000</lastBuildDate>
-    <item>
-      <title>🔥Безуспішні спробу росіян зага</title>
-      <link>https://www.mandarinai.lt/post/96720</link>
-      <description>🔥Безуспішні спробу росіян загасити атакований зранку склад WB тривають до вечора</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_14-36-22.mp4" length="645040" type="video/mp4"/>
-      <pubDate>Sun, 02 Aug 2026 14:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>росія вдарила КАБом по будинка</title>
-      <link>https://www.mandarinai.lt/post/96721</link>
-      <description>росія вдарила КАБом по будинках у Запоріжжі
-
-Дві людини загинули, двоє отримали поранення, ще одну жінку рятувальники живою дістали з-під завалів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_14-38-11.mp4" length="208015" type="video/mp4"/>
-      <pubDate>Sun, 02 Aug 2026 14:38:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 18:43:55 +0000</lastBuildDate>
     <item>
       <title>‼️Після удару рф по критичній </title>
       <link>https://www.mandarinai.lt/post/96722</link>
@@ -88,6 +72,24 @@
       <description>Колона російських бензовозів до Криму не доїхала</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_17-44-15.mp4" length="6789971" type="video/mp4"/>
       <pubDate>Sun, 02 Aug 2026 17:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ В Одесі чоловік відкрив стр</title>
+      <link>https://www.mandarinai.lt/post/96736</link>
+      <description>‼️ В Одесі чоловік відкрив стрілянину по працівниках ТЦК
+
+За попередніми даними, він вибіг із будинку та почав стріляти з пістолета. Поранення отримали четверо військовослужбовців.
+
+Місцеві ЗМІ повідомляють, що квартиру, де забарикадувався стрілець, намагаються штурмувати.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_18-12-14.mp4" length="1580159" type="video/mp4"/>
+      <pubDate>Sun, 02 Aug 2026 18:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Танкер «Toa Payoh» зі склад</title>
+      <link>https://www.mandarinai.lt/post/96738</link>
+      <description>⚡️ Танкер «Toa Payoh» зі складу «тіньового флоту» росії взяла на абордаж Військово-морська місія ЄС на чолі з Італією.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_18-22-04.jpg" length="49197" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 18:22:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
