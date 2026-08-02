@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 10:15:10 +0000</lastBuildDate>
-    <item>
-      <title>💥Момент атаки БПЛА на логістич</title>
-      <link>https://www.mandarinai.lt/post/96699</link>
-      <description>💥Момент атаки БПЛА на логістичний хаб Wildberries у Новосемейкиному.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_08-01-53.mp4" length="1038205" type="video/mp4"/>
-      <pubDate>Sun, 02 Aug 2026 08:01:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 11:36:29 +0000</lastBuildDate>
     <item>
       <title>На Wildberries не схоже, але т</title>
       <link>https://www.mandarinai.lt/post/96701</link>
@@ -76,6 +69,38 @@
 Щирі співчуття рідним, близьким і всім, хто знав Віталіну.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_10-05-42.jpg" length="145455" type="image/jpeg"/>
       <pubDate>Sun, 02 Aug 2026 10:05:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Нова загроза: відомий на фро</title>
+      <link>https://www.mandarinai.lt/post/96712</link>
+      <description>⚡️Нова загроза: відомий на фронті безпілотник «Молнія» несе на собі ще й FPV-дрон, - Сергій Флеш</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-02_10-21-14.jpg" length="83090" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 10:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Купання поруч зі збитими БпЛА</title>
+      <link>https://www.mandarinai.lt/post/96713</link>
+      <description>👀Купання поруч зі збитими БпЛА,  - нові реалії морського відпочинку в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_11-02-46.mp4" length="1112788" type="video/mp4"/>
+      <pubDate>Sun, 02 Aug 2026 11:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>А ось так збивають над морем б</title>
+      <link>https://www.mandarinai.lt/post/96714</link>
+      <description>А ось так збивають над морем безпілотники, які летять атакувати Одеську область.
+
+Екіпаж «Танго» 123-ої бригади встановив новий рекорд перехоплення - 53 кілометри до цілі, висота 2800 метрів
+
+Ворожий «шахед» був збитий в районі острова Зміїний.
+ 
+Підрозділ використав швидкісний перехоплювач Wovkulaka Spitfire. 
+
+Це засіб літакового типу, який є ефективним на великих відстанях. 
+
+Впродовж трьох місяців екіпаж «Танго» цим засобом ліквідував більше 15 ворожих цілей.
+
+🎥 https://www.facebook.com/share/v/1FgEiCSZCD/?mibextid=wwXIfr</description>
+      <pubDate>Sun, 02 Aug 2026 11:11:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
