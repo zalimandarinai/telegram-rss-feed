@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 10:55:36 +0000</lastBuildDate>
-    <item>
-      <title>💥В Белогороді атакован корпус </title>
-      <link>https://www.mandarinai.lt/post/96748</link>
-      <description>💥В Белогороді атакован корпус технічного університету, де розробляли і тестували безпілотники</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-03_01-22-38.mp4" length="1262486" type="video/mp4"/>
-      <pubDate>Mon, 03 Aug 2026 01:22:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wildberries біля російського В</title>
-      <link>https://www.mandarinai.lt/post/96752</link>
-      <description>Wildberries біля російського Владіміра. Харашо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-03_05-52-55.mp4" length="1715509" type="video/mp4"/>
-      <pubDate>Mon, 03 Aug 2026 05:52:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥 У Бєлгороді дрони знищили к</title>
-      <link>https://www.mandarinai.lt/post/96759</link>
-      <description>💥🔥 У Бєлгороді дрони знищили корпус БГТУ, де розробляли системи БПЛА
-
-За повідомленням OSINT-ерів, "Пепел Белгород" та агенції ASTRA, після атаки дронів у приміщенні спалахнула масштабна пожежа. У БГТУ проектували автоматизовану систему керування БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_07-03-39.jpg" length="178602" type="image/jpeg"/>
-      <pubDate>Mon, 03 Aug 2026 07:03:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 13:40:49 +0000</lastBuildDate>
     <item>
       <title>Морські безпілотники Magura но</title>
       <link>https://www.mandarinai.lt/post/96763</link>
@@ -82,6 +59,51 @@
       <description>Умєров керівник СЗР, Клименко секретар РНБО: Зеленський зробив нові призначення</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1774.MP4" length="14520898" type="video/mp4"/>
       <pubDate>Mon, 03 Aug 2026 10:39:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Захищаючи резиденцію путіна в</title>
+      <link>https://www.mandarinai.lt/post/96769</link>
+      <description>😐Захищаючи резиденцію путіна в Геленджику, російська ППО скерувала дрон просто на повний людей пляж.
+
+Повідомляють про щонайменше 3 загиблих і десятки поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1777.MP4" length="2429276" type="video/mp4"/>
+      <pubDate>Mon, 03 Aug 2026 10:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ російські тварі завдали уда</title>
+      <link>https://www.mandarinai.lt/post/96770</link>
+      <description>⚡️ російські тварі завдали удару по АЗС в Криворіжжі: загинули троє людей, пошкоджено АЗС та автомобілі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_11-03-47.jpg" length="177529" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 11:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇹🇷 Туреччина розпочала перші в</title>
+      <link>https://www.mandarinai.lt/post/96771</link>
+      <description>🇹🇷 Туреччина розпочала перші випробування власного тактичного літака 5-го покоління Kaan
+
+Прототип із кодовою назвою P1 прогнали по «рульожці», перевірили роботу двигунів, систем гальмування та керування польотом, а також інших критично важливих елементів.
+
+Через кілька місяців почнуться льотні випробування.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1776.MP4" length="30120253" type="video/mp4"/>
+      <pubDate>Mon, 03 Aug 2026 11:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні вранці російські війс</title>
+      <link>https://www.mandarinai.lt/post/96774</link>
+      <description>Сьогодні вранці російські війська атакували цивільний буксир. 
+
+По ньому завдав удару «шахед», внаслідок чого на борту спалахнула пожежа. 
+
+Першими на допомогу прибули екіпажі кораблів та катерів «Морської охорони» ДПСУ і врятували цивільних моряків.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_11-44-04.jpg" length="155684" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 11:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>У лавах ЗСУ виявили агента рос</title>
+      <link>https://www.mandarinai.lt/post/96776</link>
+      <description>У лавах ЗСУ виявили агента російського гру, який передавав координати АЗС на Полтавщині, — СБУ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_11-48-20.jpg" length="96803" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 11:48:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
