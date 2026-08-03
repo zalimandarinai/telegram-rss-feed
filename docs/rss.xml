@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 00:12:48 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Наступ росіян на позиції «С</title>
-      <link>https://www.mandarinai.lt/post/96730</link>
-      <description>❗️ Наступ росіян на позиції «Скелі» вдалося зупинити, - 425-ий полк</description>
-      <pubDate>Sun, 02 Aug 2026 17:12:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️До 21 зросла кількість поран</title>
-      <link>https://www.mandarinai.lt/post/96732</link>
-      <description>❗️До 21 зросла кількість поранених унаслідок масованого удару авіабомбами по Запоріжжю, — ОВА
-
-Під завалами будинку загинула 71-річна жінка</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-02_17-42-34.mp4" length="1402007" type="video/mp4"/>
-      <pubDate>Sun, 02 Aug 2026 17:42:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 03:56:22 +0000</lastBuildDate>
     <item>
       <title>‼️ Українська ППО знищила пона</title>
       <link>https://www.mandarinai.lt/post/96734</link>
@@ -105,6 +90,34 @@
 В момент удару одна автівка злетіла з мосту та перекинулась.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1761.MP4" length="1639231" type="video/mp4"/>
       <pubDate>Sun, 02 Aug 2026 20:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Бєлгороді пролунала серія в</title>
+      <link>https://www.mandarinai.lt/post/96746</link>
+      <description>💥В Бєлгороді пролунала серія вибухів
+ Є прильоти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_00-25-39.jpg" length="28602" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 00:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇸 До 88 загиблих: в іспанські</title>
+      <link>https://www.mandarinai.lt/post/96747</link>
+      <description>🇪🇸 До 88 загиблих: в іспанській Сеуті морг заповнений тілами мігрантів після штурму кордону, — El Pais
+
+За даними місцевої влади, у морзі анклаву перебувають вже 88 тіл (уряд Іспанії повідомляв про 72 загиблих). Як пишуть медіа, серед жертв багато підлітків та жінок.
+
+Люди гинули не лише у воді, а й у тисняві на пляжі та під час спроб перелізти через прикордонний хвилеріз. Тіла досі знаходять на узбережжі обидвох країн😰
+
+🛡Щоб зупинити нові хвилі штурму, Іспанія терміново встановила у морі 500-метровий плавучий бар'єр.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_01-20-52.jpg" length="125494" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 01:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В Белогороді атакован корпус </title>
+      <link>https://www.mandarinai.lt/post/96748</link>
+      <description>💥В Белогороді атакован корпус технологічного інституту, де розробляли і тестували безпілотники</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-03_01-22-38.mp4" length="1262486" type="video/mp4"/>
+      <pubDate>Mon, 03 Aug 2026 01:22:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
