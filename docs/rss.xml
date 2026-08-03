@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 19:57:15 +0000</lastBuildDate>
-    <item>
-      <title>🔴Стратегічно війна для Росії в</title>
-      <link>https://www.mandarinai.lt/post/96780</link>
-      <description>🔴Стратегічно війна для Росії вже давно в глухому куті, – голова ОП Буданов.
-
-Голова ОП анонсував продовження операції з примушення Росії до миру. Він заявив, що спеціальні заходи триватимуть "без конкретних термінів".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-03_14-26-48.mp4" length="4257316" type="video/mp4"/>
-      <pubDate>Mon, 03 Aug 2026 14:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Проєкт Freyja одна з найамб</title>
-      <link>https://www.mandarinai.lt/post/96781</link>
-      <description>💬 «Проєкт Freyja одна з найамбітніших ідей України», - так заявив Зеленський
-
-Однією з переваг проєкту Freyja стане перевірка бойових умовах.
-
-«Україна здатна виготовити саму ракету, здатна виготовити пускову установку. Але вирішальним чинником є співпраця з тими європейськими державами та компаніями, які мають радари, датчики й усе інше, що необхідне для ефективної системи протиракетної оборони», — Зеленський на нараді послів запросив до проєкту Freyja нових учасників. 
-
-Freyja умовна назва спільного антибалістичного захисту для Європи.
-
-Наразі його намагаються створити 10 країн: Україна, Данія, Франція, Німеччина, Італія, Нідерланди, Норвегія, Іспанія, Швеція, Велика Британія.</description>
-      <pubDate>Mon, 03 Aug 2026 14:48:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 21:07:10 +0000</lastBuildDate>
     <item>
       <title>🪖⚡️ Без балаклав і побиття: дл</title>
       <link>https://www.mandarinai.lt/post/96783</link>
@@ -93,6 +70,19 @@ Freyja умовна назва спільного антибалістичног
       <description>Фаєр-шоу з пусками, - оператори «Lasar’s Group» НГУ видовищно знищили БМ-27 «Ураган» в районі Новопавлівки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1788.MP4" length="12171194" type="video/mp4"/>
       <pubDate>Mon, 03 Aug 2026 18:26:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>92-а бригада поповнила обмінни</title>
+      <link>https://www.mandarinai.lt/post/96794</link>
+      <description>92-а бригада поповнила обмінний фонд ось таким полоненим, якого російські слідчі переконали підписати контракт.</description>
+      <pubDate>Mon, 03 Aug 2026 20:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Літак Mirage українських Повіт</title>
+      <link>https://www.mandarinai.lt/post/96796</link>
+      <description>Літак Mirage українських Повітряних Сил впевнено збиває російський «шахед»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQM4flPdQ72UjGQ_jK35cEjtsAsC1J4yEbdR6xBdT_NJdd5_70T3ZpExDvSkZiJ.mp4" length="1617323" type="video/mp4"/>
+      <pubDate>Mon, 03 Aug 2026 20:03:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
