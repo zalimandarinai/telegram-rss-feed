@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 01:06:15 +0000</lastBuildDate>
-    <item>
-      <title>🪖⚡️ Без балаклав і побиття: дл</title>
-      <link>https://www.mandarinai.lt/post/96783</link>
-      <description>🪖⚡️ Без балаклав і побиття: для ТЦК хочуть запровадити нові жорсткі правила
-
-До Верховної Ради внесли законопроєкт, який має кардинально змінити проведення мобілізаційних заходів.
-
-Що пропонують змінити:
-▪️Заборона носити балаклави під час перевірки документів та оповіщення.
-▪️Обов'язкова та безперервна відеофіксація з бодікамер від початку і до кінця чергування.
-▪️Камери всередині авто, якими перевозять військовозобов'язаних.
-▪️Працівники ТЦК мають діяти виключно на підставі наказу керівника.
-▪️Записи зберігатимуть щонайменше 90 днів. Якщо відео зникне або його не буде — всі подальші дії ТЦК вважатимуться неправомірними.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_14-59-51.jpg" length="57299" type="image/jpeg"/>
-      <pubDate>Mon, 03 Aug 2026 14:59:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Серед загиблих на заправці в Ш</title>
-      <link>https://www.mandarinai.lt/post/96784</link>
-      <description>Серед загиблих на заправці в Широкому на Криворіжжі – 42-річний рятувальник Едуард Разлог та його 8-річний син Максим. 
-
-З 2024 чоловік працював сержантом служби цивільного захисту ДСНС у Херсонській області. На Криворіжжі перебував у відпустці.
-
-🕯</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-03_15-51-19.jpg" length="322544" type="image/jpeg"/>
-      <pubDate>Mon, 03 Aug 2026 15:51:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 04:30:27 +0000</lastBuildDate>
     <item>
       <title>‼️Чоловіки за кордоном НЕ змож</title>
       <link>https://www.mandarinai.lt/post/96786</link>
@@ -83,6 +56,27 @@
       <description>Літак Mirage українських Повітряних Сил впевнено збиває російський «шахед»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQM4flPdQ72UjGQ_jK35cEjtsAsC1J4yEbdR6xBdT_NJdd5_70T3ZpExDvSkZiJ.mp4" length="1617323" type="video/mp4"/>
       <pubDate>Mon, 03 Aug 2026 20:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Серія вибухів в Броварах під К</title>
+      <link>https://www.mandarinai.lt/post/96797</link>
+      <description>Серія вибухів в Броварах під Києвом. Понад 10 БпЛА атакують, працює ППО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_02-13-28.jpg" length="126872" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 02:13:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російській Сизрані знову а</title>
+      <link>https://www.mandarinai.lt/post/96798</link>
+      <description>💥🔥В російській Сизрані знову атакований НПЗ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_02-14-14.jpg" length="139023" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 02:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Чехові, Московської області</title>
+      <link>https://www.mandarinai.lt/post/96799</link>
+      <description>🔥У Чехові, Московської області, пожежі після нічної атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-04_02-17-39.mp4" length="418440" type="video/mp4"/>
+      <pubDate>Tue, 04 Aug 2026 02:17:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
