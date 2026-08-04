@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 16:59:25 +0000</lastBuildDate>
-    <item>
-      <title>💥Сили оборони  завдали чергови</title>
-      <link>https://www.mandarinai.lt/post/96813</link>
-      <description>💥Сили оборони  завдали чергових відчутних ударів по об'єктах російських окупаційних військ:
-
-▪️ На Херсонщині у Щасливцевому уражено тимчасовий пункт дислокації підрозділу ФСБ.
-▪️ Знищується логістика: перебито автомобільний міст через річку Сейм у району Званого (Курська область рф) та залізничний міст через річку Молочна біля Світлодолинського (Запорізька область).
-▪️ Завдано ударів по ремонтних підрозділах ворога у Вовчанському на Запоріжжі та у Вільному на Донеччині.
-▪️ На бахмутському напрямку уражено пункт управління та вузол зв'язку.
-▪️ У Криму під удар потрапили пункт комунікації ретранслятора ударних БпЛА в Оленівці та вежа РЕБ в Артемівці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_11-09-49.jpg" length="65617" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 11:09:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ракетний комплекс «Сапсан» під</title>
-      <link>https://www.mandarinai.lt/post/96814</link>
-      <description>Ракетний комплекс «Сапсан» під час випробувань показав дуже високу точність, - Ірина Терех, гендиректор «Fire Point»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_11-48-00.jpg" length="113761" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 11:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Коли росіян відключили від Sta</title>
-      <link>https://www.mandarinai.lt/post/96816</link>
-      <description>Коли росіян відключили від Starlink, вони взялися за розвиток своєї системи супутникового звʼязку. На каналі ЧОРНИЙ ЛЕБІДЬ цікаво розібрали, як працює ця система, які регіони України вона покриває і що ми можемо їй протиставити. 
-
-До речі, ЧОРНИЙ ЛЕБІДЬ це якісний канал, що публікує багато крутої аналітики!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_13-01-53.jpg" length="79153" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 13:01:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 18:43:43 +0000</lastBuildDate>
     <item>
       <title>Тактична еволюція. Війна зміню</title>
       <link>https://www.mandarinai.lt/post/96817</link>
@@ -69,13 +40,15 @@
       <pubDate>Tue, 04 Aug 2026 15:02:26 +0000</pubDate>
     </item>
     <item>
-      <title>Саме на цього немолодого чолов</title>
+      <title>Я показував FPV-дрону овочі, а</title>
       <link>https://www.mandarinai.lt/post/96820</link>
-      <description>Саме на цього немолодого чоловіка сьогодні полював в Херсоні російський дрон, і кадри полювання на людей шокували українців.
+      <description>Я показував FPV-дрону овочі, а він почав летіти на мене, — чоловік, який дивом вижив після атаки у Херсоні
+
+Ці кадри полювання на цвільну людину шокували українців.
 
 Пану Юрію дуже пощастило - всі поранення мають непроникний характер.
 
-Він стверджує, що оператор безпілотника прекрасно бачив, що перед ним мирна людина.</description>
+На кадрах видно, як оператор безпілотника прекрасно бачить, що перед ним цивільрий, але холоднокровно наносить удар</description>
       <pubDate>Tue, 04 Aug 2026 15:17:15 +0000</pubDate>
     </item>
     <item>
@@ -151,6 +124,13 @@
 
 Позиції були доволі якісно облаштовані і замасковані.</description>
       <pubDate>Tue, 04 Aug 2026 16:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛩💥 Момент удару українського д</title>
+      <link>https://www.mandarinai.lt/post/96828</link>
+      <description>🛩💥 Момент удару українського дрону по пусковій установці системи ППО С-400 в окупованій Керчі, яка прикриває Кримський міст і паромні переправи від повітряних рейдів БпЛА і ракет.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1817.MP4" length="4169678" type="video/mp4"/>
+      <pubDate>Tue, 04 Aug 2026 17:39:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
