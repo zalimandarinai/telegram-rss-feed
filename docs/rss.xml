@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 18:43:43 +0000</lastBuildDate>
-    <item>
-      <title>Тактична еволюція. Війна зміню</title>
-      <link>https://www.mandarinai.lt/post/96817</link>
-      <description>Тактична еволюція. Війна змінюється. Застарілі схеми більше не працюють
- 
-Чому досвід 2022–2023 років під тотальним контролем FPV-дронів стає смертельною пасткою і як готувати бійців до бою сьогодні?
- 
-«Херсон», заступник командира 253-го ОШП «Арей», про реальну адаптацію полку, основу якого складають криворіжці
- 
-🔹 Інструктори щомісяця заступають на «нуль». Вони бачать зміни в тактиці ворога в реальному часі та одразу інтегрують цей досвід у вишкіл новобранців.
- 
-Жодної застарілої теорії чи паперових інструкцій. Лише актуальна практика прямо з переднього краю.
- 
-🎬 Дивитися повне інтерв'ю:
-👉https://t.me/arey253</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1802.MP4" length="6824678" type="video/mp4"/>
-      <pubDate>Tue, 04 Aug 2026 14:52:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ У Дніпрі проходять масштабн</title>
-      <link>https://www.mandarinai.lt/post/96818</link>
-      <description>❗️ У Дніпрі проходять масштабні обшуки та затримання працівників шахрайських кол-центрів, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_14-59-48.jpg" length="133913" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 14:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф готує вторгнення через Че</title>
-      <link>https://www.mandarinai.lt/post/96819</link>
-      <description>⚡️рф готує вторгнення через Чернігівщину: є інформація розвідки, — речник ДПСУ Демченко.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-04_15-02-26.mp4" length="1215079" type="video/mp4"/>
-      <pubDate>Tue, 04 Aug 2026 15:02:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 20:13:23 +0000</lastBuildDate>
     <item>
       <title>Я показував FPV-дрону овочі, а</title>
       <link>https://www.mandarinai.lt/post/96820</link>
@@ -131,6 +99,13 @@
       <description>🛩💥 Момент удару українського дрону по пусковій установці системи ППО С-400 в окупованій Керчі, яка прикриває Кримський міст і паромні переправи від повітряних рейдів БпЛА і ракет.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1817.MP4" length="4169678" type="video/mp4"/>
       <pubDate>Tue, 04 Aug 2026 17:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡рф знищила склад з товарами к</title>
+      <link>https://www.mandarinai.lt/post/96831</link>
+      <description>😡рф знищила склад з товарами компанії "Биосфера": Smile, PRO Service, Novita, Vortex, Eventa, "ЛайKit" та "Фрекен Бок".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_19-45-23.jpg" length="176657" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 19:45:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
