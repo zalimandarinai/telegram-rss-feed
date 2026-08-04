@@ -6,10 +6,10 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 21:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 22:44:44 +0000</lastBuildDate>
     <item>
       <title>💥 Уражено мости, пункт фсб та </title>
-      <link>https://www.mandarinai.lt/post/96822</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💥 Уражено мости, пункт фсб та вузли зв'язку окупантів — Генштаб ЗСУ
 
 У ніч на 4 серпня Сили оборони України уразили тимчасовий пункт дислокації підрозділу фсб на Херсонщині, два мости, які ворог використовує для військової логістики, а також низку інших важливих об'єктів.
@@ -21,12 +21,11 @@
 🔴ремонтні підрозділи окупантів;
 🔴пункт комунікації та живлення ретранслятора БпЛА «Герань»/«Гербера» і вежа з засобами РЕБ у Криму;
 🔴пункт управління та вузол зв'язку противника в Бахмуті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_15-35-22.jpg" length="43853" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 15:35:22 +0000</pubDate>
     </item>
     <item>
       <title>ℹ️ В тилу ворога уражено понад</title>
-      <link>https://www.mandarinai.lt/post/96823</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>ℹ️ В тилу ворога уражено понад 100 стратегічних об'єктів, - СБУ відзвітувала про результат так званої «40-денної операції впливу на рф»
 
 📍 Авіація та ППО противника, знищено та уражено:
@@ -46,12 +45,11 @@
 Танкери Blue, Louise 1, Banda, Avero, а також два вантажні судна.
 
 ➡️ Зеленський погодив очільнику СБУ Покладу нові операції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_16-04-09.jpg" length="29730" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 16:04:09 +0000</pubDate>
     </item>
     <item>
       <title>Такого полювання за «Молнією» </title>
-      <link>https://www.mandarinai.lt/post/96824</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Такого полювання за «Молнією» у зенітників 57-оі ОМПБР ще не було.
 
 Оператор ворожого безпілотника крутив «бочки», намагаючись втекти від зенітного дрона.
@@ -61,25 +59,7 @@
 Бійці 57-ої бригади його все ж таки змогли збити.
 
 Але цей безпілотний двобій свідчить про рівень підготовки ворожих підрозділів, які атакують Вовчанський напрямок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1813.MP4" length="11070620" type="video/mp4"/>
       <pubDate>Tue, 04 Aug 2026 16:18:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇫🇷❤️🇺🇦 «Slava Ukraine!» - фран</title>
-      <link>https://www.mandarinai.lt/post/96825</link>
-      <description>🇫🇷❤️🇺🇦 «Slava Ukraine!» - французи дякують українським вогнеборцям, які допомагали рятувати людей від масштабних пожеж у Франції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1815.MP4" length="9914916" type="video/mp4"/>
-      <pubDate>Tue, 04 Aug 2026 16:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бійці ССО пошепки розбудили ок</title>
-      <link>https://www.mandarinai.lt/post/96826</link>
-      <description>Бійці ССО пошепки розбудили окупантів і переконали їх здатися.
-
-На одному з напрямків у своєму тилу росіяни прокинулися і побачили впритул націлені стволи українських спецпризначенців.
-
-Позиції були доволі якісно облаштовані і замасковані.</description>
-      <pubDate>Tue, 04 Aug 2026 16:56:57 +0000</pubDate>
     </item>
     <item>
       <title>🛩💥 Момент удару українського д</title>
@@ -116,6 +96,13 @@
  
 На відео формування одного з перших батальйонів колишніх засуджених в 92-ій ОШБР. Деякі з них загинули в бою. Деякі за свої героїчні вчинки отримали державні нагороди.</description>
       <pubDate>Tue, 04 Aug 2026 20:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві загоряння багатоповерх</title>
+      <link>https://www.mandarinai.lt/post/96838</link>
+      <description>В Києві загоряння багатоповерховому житловому будинку внаслідок російської атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_22-22-51.jpg" length="32657" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 22:22:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
