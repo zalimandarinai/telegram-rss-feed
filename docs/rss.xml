@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 12:18:29 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥У Ленінградській області ата</title>
-      <link>https://www.mandarinai.lt/post/96801</link>
-      <description>💥🔥У Ленінградській області атаковано один з найбільших складів «Wildberries».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-04_05-08-04.mp4" length="944675" type="video/mp4"/>
-      <pubDate>Tue, 04 Aug 2026 05:08:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬російські воєнні злочинці ціл</title>
-      <link>https://www.mandarinai.lt/post/96804</link>
-      <description>🤬російські воєнні злочинці цілеспрямовано атакували беззбройного цивільного продавця фруктів в Херсоні. Так ці тварі розважаються, вбиваючи мирне населення. UPD. Поліція повідомляє, що продавець отримав важкі осколкові та вибухові травми.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6074.mp4" length="13313280" type="video/mp4"/>
-      <pubDate>Tue, 04 Aug 2026 05:20:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 15:00:17 +0000</lastBuildDate>
     <item>
       <title>Група українських диверсантів </title>
       <link>https://www.mandarinai.lt/post/96805</link>
@@ -118,6 +104,40 @@
       <description>Ракетний комплекс «Сапсан» під час випробувань показав дуже високу точність, - Ірина Терех, гендиректор «Fire Point»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_11-48-00.jpg" length="113761" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 11:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Коли росіян відключили від Sta</title>
+      <link>https://www.mandarinai.lt/post/96816</link>
+      <description>Коли росіян відключили від Starlink, вони взялися за розвиток своєї системи супутникового звʼязку. На каналі ЧОРНИЙ ЛЕБІДЬ цікаво розібрали, як працює ця система, які регіони України вона покриває і що ми можемо їй протиставити. 
+
+До речі, ЧОРНИЙ ЛЕБІДЬ це якісний канал, що публікує багато крутої аналітики!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_13-01-53.jpg" length="79153" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 13:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тактична еволюція. Війна зміню</title>
+      <link>https://www.mandarinai.lt/post/96817</link>
+      <description>Тактична еволюція. Війна змінюється. Застарілі схеми більше не працюють
+ 
+Чому досвід 2022–2023 років під тотальним контролем FPV-дронів стає смертельною пасткою і як готувати бійців до бою сьогодні?
+ 
+«Херсон», заступник командира 253-го ОШП «Арей», про реальну адаптацію полку, основу якого складають криворіжці
+ 
+🔹 Інструктори щомісяця заступають на «нуль». Вони бачать зміни в тактиці ворога в реальному часі та одразу інтегрують цей досвід у вишкіл новобранців.
+ 
+Жодної застарілої теорії чи паперових інструкцій. Лише актуальна практика прямо з переднього краю.
+ 
+🎬 Дивитися повне інтерв'ю:
+👉https://t.me/arey253</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1802.MP4" length="6824678" type="video/mp4"/>
+      <pubDate>Tue, 04 Aug 2026 14:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ У Дніпрі проходять масштабн</title>
+      <link>https://www.mandarinai.lt/post/96818</link>
+      <description>❗️ У Дніпрі проходять масштабні обшуки та затримання працівників шахрайських кол-центрів, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-04_14-59-48.jpg" length="133913" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 14:59:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
