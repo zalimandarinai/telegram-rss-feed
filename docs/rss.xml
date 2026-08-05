@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 20:07:44 +0000</lastBuildDate>
-    <item>
-      <title>Полювання на техніку противник</title>
-      <link>https://www.mandarinai.lt/post/96896</link>
-      <description>Полювання на техніку противника операторів 49-го ОШБ «Карпатська Січ».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1862.MP4" length="10281037" type="video/mp4"/>
-      <pubDate>Wed, 05 Aug 2026 16:10:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 21:32:03 +0000</lastBuildDate>
     <item>
       <title>11 «ждунів» за 4 години ліквід</title>
       <link>https://www.mandarinai.lt/post/96898</link>
@@ -84,6 +77,17 @@
       <description>🇲🇩 В Молдові знайшли уламки російського «шахеда»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-05_19-57-29.jpg" length="55325" type="image/jpeg"/>
       <pubDate>Wed, 05 Aug 2026 19:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Україні передають російськи</title>
+      <link>https://www.mandarinai.lt/post/96911</link>
+      <description>⚡️ Україні передають російський корабель.
+
+🇬🇳 Верховний суд Швеції ухвалив рішення передати Україні конфісковане судно «Caffa», яке входило до тіньового флоту росії та курсувало під прапором Гвинеї.
+
+🇸🇪 Шведські правоохоронці заарештували та конфіскували цей суховантаж ще у квітні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-05_20-29-06.jpg" length="43576" type="image/jpeg"/>
+      <pubDate>Wed, 05 Aug 2026 20:29:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
