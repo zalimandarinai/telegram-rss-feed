@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 10:46:14 +0000</lastBuildDate>
-    <item>
-      <title>⚡️В Одесі повідомляють про влу</title>
-      <link>https://www.mandarinai.lt/post/96872</link>
-      <description>⚡️В Одесі повідомляють про влучання ворожого дрону по
- укриттю з людьми.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-05_08-45-00.mp4" length="379354" type="video/mp4"/>
-      <pubDate>Wed, 05 Aug 2026 08:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 12:50:31 +0000</lastBuildDate>
     <item>
       <title>❗️росія планує розгорнути у Во</title>
       <link>https://www.mandarinai.lt/post/96873</link>
@@ -96,8 +88,26 @@
 За повідомленнями, Володимир Ткачук постраждав унаслідок вибуху автомобіля.
 
 Він перебуває в реанімації у важкому стані, пишуть ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-05_10-28-07.jpg" length="33501" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-05_10-28-07.jpg" length="11334" type="image/jpeg"/>
       <pubDate>Wed, 05 Aug 2026 10:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видовищне збиття «шахеда», як </title>
+      <link>https://www.mandarinai.lt/post/96887</link>
+      <description>Видовищне збиття «шахеда», як заявлено, виконав пілот українського Mirage французького виробництва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1844.MP4" length="1959050" type="video/mp4"/>
+      <pubDate>Wed, 05 Aug 2026 11:39:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Американські ЗРК MIM-23 HAWK л</title>
+      <link>https://www.mandarinai.lt/post/96888</link>
+      <description>Американські ЗРК MIM-23 HAWK ліквідують ворожі цілі на Півдні.
+
+Отримані Україною комплекси показали високу ефективність і проти крилатих ракет, і проти дронів.
+
+На рахунку ЗРК HAWK 201-ої бригади ЗРВ Повітряних Сил є збиті «шахеди», а також авіаційні та навіть крилаті ракети.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1845.MP4" length="4970568" type="video/mp4"/>
+      <pubDate>Wed, 05 Aug 2026 11:48:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
