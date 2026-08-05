@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 15:12:04 +0000</lastBuildDate>
-    <item>
-      <title>💥Оновлення списку знищених рос</title>
-      <link>https://www.mandarinai.lt/post/96881</link>
-      <description>💥Оновлення списку знищених російських WB. Доповнено сьогоднішнім логістичним хабом з Тульської області.
-
-Наразі пошкоджено або знищено до 28% логістичної інфраструктури компанії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-05_09-37-54.jpg" length="347534" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 09:37:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴До 100 балістичних ракет щомі</title>
-      <link>https://www.mandarinai.lt/post/96883</link>
-      <description>🔴До 100 балістичних ракет щомісяця може запускати рф по Україні, – радник Зеленського «Флеш».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-05_09-54-59.mp4" length="10474061" type="video/mp4"/>
-      <pubDate>Wed, 05 Aug 2026 09:54:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 16:54:00 +0000</lastBuildDate>
     <item>
       <title>В росії підірвали генерального</title>
       <link>https://www.mandarinai.lt/post/96884</link>
@@ -66,7 +50,7 @@
     <item>
       <title>❗️ Горить головний інститут «Р</title>
       <link>https://www.mandarinai.lt/post/96892</link>
-      <description>❗️ Горить головний інститут «Роскосмосу», Центральний науково-дослідний інститут машинобудування, розташований у місті Корольов Московської області</description>
+      <description>❗️ Горить головний інститут «Роскосмосу», Центральний науково-дослідний інститут машинобудування, розташований у місті Корольов біля Москви.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1856.MP4" length="4231260" type="video/mp4"/>
       <pubDate>Wed, 05 Aug 2026 13:58:02 +0000</pubDate>
     </item>
@@ -80,6 +64,20 @@
 Вони стверджують, що не бачили росіян ані в Костянтинівці, ані в Олексієво-Дружківці, ані в самій Дружківці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1857.MP4" length="17216185" type="video/mp4"/>
       <pubDate>Wed, 05 Aug 2026 14:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ В разі тривоги негайно зали</title>
+      <link>https://www.mandarinai.lt/post/96895</link>
+      <description>⚠️ В разі тривоги негайно залишайте «Епіцентр», є лише кілька хвилин, щоб відійти на безпечну відстань, — Сергій «Флеш».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1860.MP4" length="10656007" type="video/mp4"/>
+      <pubDate>Wed, 05 Aug 2026 15:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полювання на техніку противник</title>
+      <link>https://www.mandarinai.lt/post/96896</link>
+      <description>Полювання на техніку противника операторів 49-го ОШБ «Карпатська Січ».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1862.MP4" length="10281037" type="video/mp4"/>
+      <pubDate>Wed, 05 Aug 2026 16:10:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
