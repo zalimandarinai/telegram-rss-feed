@@ -6,48 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 07:25:25 +0000</lastBuildDate>
-    <item>
-      <title>🤬Момент удару шахеда по судну </title>
-      <link>https://www.mandarinai.lt/post/96907</link>
-      <description>🤬Момент удару шахеда по судну біля Одеси сьогодні ввечері</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-05_19-28-30.mp4" length="756615" type="video/mp4"/>
-      <pubDate>Wed, 05 Aug 2026 19:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇲🇩 В Молдові знайшли уламки ро</title>
-      <link>https://www.mandarinai.lt/post/96908</link>
-      <description>🇲🇩 В Молдові знайшли уламки російського «шахеда»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-05_19-57-29.jpg" length="55325" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 19:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Україні передають російськи</title>
-      <link>https://www.mandarinai.lt/post/96911</link>
-      <description>⚡️ Україні передають російський корабель.
-
-🇬🇳 Верховний суд Швеції ухвалив рішення передати Україні конфісковане судно «Caffa», яке входило до тіньового флоту росії та курсувало під прапором Гвинеї.
-
-🇸🇪 Шведські правоохоронці заарештували та конфіскували цей суховантаж ще у квітні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-05_20-29-06.jpg" length="43576" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 20:29:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Нафтопереробний завод в росі</title>
-      <link>https://www.mandarinai.lt/post/96916</link>
-      <description>🔥 Нафтопереробний завод в російському Ярославлі горить після атаки БПЛА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-06_03-40-22.mp4" length="309384" type="video/mp4"/>
-      <pubDate>Thu, 06 Aug 2026 03:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Вночі упродовж 8 хвилин армі</title>
-      <link>https://www.mandarinai.lt/post/96918</link>
-      <description>⚡️Вночі упродовж 8 хвилин армія агресора скинула 8 КАБів на центральну частини Сум
-
-Наразі  постраждали 13 людей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-06_04-40-39.jpg" length="236167" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 04:40:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 10:08:36 +0000</lastBuildDate>
     <item>
       <title>🔥НПЗ "Янос" після зустрічі з д</title>
       <link>https://www.mandarinai.lt/post/96922</link>
@@ -63,6 +22,102 @@
 Завдяки цьому українські удари далекобійними дронами та ракетами по території рф стали ефективнішими.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-06_06-42-07.jpg" length="148237" type="image/jpeg"/>
       <pubDate>Thu, 06 Aug 2026 06:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни влучили у вагон біля</title>
+      <link>https://www.mandarinai.lt/post/96925</link>
+      <description>⚡️росіяни влучили у вагон біля вокзалу Лозової на Харківщині: 2 залізничники загинули, троє поранено, — УЗ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-06_07-27-15.jpg" length="86083" type="image/jpeg"/>
+      <pubDate>Thu, 06 Aug 2026 07:27:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Компанія Bosch Україна повідом</title>
+      <link>https://www.mandarinai.lt/post/96927</link>
+      <description>Компанія Bosch Україна повідомила сьогодні що внаслідок російського удару була повністю знищена її продукція на складі логістичного партнера</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-06_07-43-11.jpg" length="152618" type="image/jpeg"/>
+      <pubDate>Thu, 06 Aug 2026 07:43:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ ЄС обмежив тимчасовий захис</title>
+      <link>https://www.mandarinai.lt/post/96928</link>
+      <description>⚡️ ЄС обмежив тимчасовий захист для українських військовозобовʼязаних чоловіків, - рішення опубліковано на офіційному сайті
+
+Відтепер чоловіки, які вперше оформлюють тимчасовий захист, мають підтвердити, що виїхали з України законно, інакше отримають відмову.
+
+Це правило стосується нових заявників і не поширюється на тих, хто вже користується тимчасовим захистом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-06_08-22-52.jpg" length="48055" type="image/jpeg"/>
+      <pubDate>Thu, 06 Aug 2026 08:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Зеленський підтвердив ураженн</title>
+      <link>https://www.mandarinai.lt/post/96929</link>
+      <description>💥Зеленський підтвердив ураження двох НПЗ: «Башнефть-Новойл» у Башкортостані та «Славнефть-Янос» у Ярославській області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1873.MP4" length="5555697" type="video/mp4"/>
+      <pubDate>Thu, 06 Aug 2026 08:26:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️💸 Екс-посла України у США Ст</title>
+      <link>https://www.mandarinai.lt/post/96930</link>
+      <description>⚡️💸 Екс-посла України у США Стефанішину підозрюють у незаконному збагаченні на понад 13,9 млн грн та недостовірному декларуванні: НАБУ розкрило деталі справи 
+
+Майно експосадовиці, яке вона не задекларувала👇
+
+❤️2 квартири у столичному ЖК "Файна Таун" (зареєстровані на подругу) за майже 11 млн грн.
+❤️квартира у столичному ЖК бізнес-класу "Львівська площа" (зареєстрована на матір);
+❤️паркомісце та кілька нежитлових приміщень у цьому ж ЖК (зареєстровані на батька);
+❤️автомобіль Mercedes-Benz GLC 220 d (зареєстрований на підлеглого).
+Суд призначив заставу - 6 млн гривень</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-06_08-45-55.mp4" length="12097707" type="video/mp4"/>
+      <pubDate>Thu, 06 Aug 2026 08:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>👩‍🎓👨‍🎓В університеті імені Пил</title>
+      <link>https://www.mandarinai.lt/post/96931</link>
+      <description>👩‍🎓👨‍🎓В університеті імені Пилипа Орлика зробили AI-навігатор для учасників бойових дій - абітурієнтів
+
+💛💙 Чи знаєте ви, які можливості відкриває навчання для учасників бойових дій? Які кар'єрні сходинки воно відкриває?
+
+AI-навігатор допоможе швидко знайти відповіді на найважливіші питання:
+👉вступ і навчання;
+👉державна допомога, пільги та знижки;
+👉ефективне поєднання спеціальностей;
+👉посади, які можна обіймати після закінчення  різних спеціальностей та рівнів навчання;
+👉багато іншого.
+
+📲Ми створили цей сервіс, щоб учасники бойових дій могли легко знайти свій шлях до освіти, нової професії та майбутнього.
+⏳️Спробуйте AI-навігатор вже сьогодні! Уся необхідна інформація -  в одному місці, 24/7.
+✅️ Переходьте за посиланням https://pk.mku.edu.ua/osvitnij-navigator-dlya-vijskovyh-ta-veteraniv/, ставте запитання та знаходьте відповіді за лічені секунди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-06_09-14-36.mp4" length="11850262" type="video/mp4"/>
+      <pubDate>Thu, 06 Aug 2026 09:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡 Павлоград на Дніпропетровщин</title>
+      <link>https://www.mandarinai.lt/post/96933</link>
+      <description>😡 Павлоград на Дніпропетровщині атакований КАБами. На місці одного з ударів спостерігається сильне задимлення</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-06_09-41-38.jpg" length="27254" type="image/jpeg"/>
+      <pubDate>Thu, 06 Aug 2026 09:41:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Країна виродків. Губернатор Пе</title>
+      <link>https://www.mandarinai.lt/post/96935</link>
+      <description>Країна виродків. Губернатор Пензенської області, людина з українським прізвищем Олег Мельниченко, передав так званому «Музею СВО» посвідчення та нашивки загиблих українських захисників, з тим, щоб відвідувачі ходили по них. І хтось сподівається, що в цих людях колись прокинеться співчуття.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1875.MP4" length="7522733" type="video/mp4"/>
+      <pubDate>Thu, 06 Aug 2026 09:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Німецькі спецслужби зірвали сп</title>
+      <link>https://www.mandarinai.lt/post/96936</link>
+      <description>Німецькі спецслужби зірвали спробу замаху на керівника компанії, яка постачає дрони Україні
+
+Керівник німецького оборонного стартапу Donaustahl Штефан Туманн став мішенню для росіян.
+
+За ним слідкував Сергій Н., громадянин України, повʼязаний з російським спецслужбами.
+
+Спочатку агента росіян затримали грудні 2025 року, коли той проводив розвідку поблизу будинку Туманна, але за браком доказів його відпустили. 
+
+Пізніше Сергія Н. зрештою вдалося затримати в Іспанії, також було встановлено та затримано його спільника з Румунії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-06_09-53-39.jpg" length="47228" type="image/jpeg"/>
+      <pubDate>Thu, 06 Aug 2026 09:53:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
