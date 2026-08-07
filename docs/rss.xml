@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 11:09:10 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Склад Wildberries в Єкатерин</title>
-      <link>https://www.mandarinai.lt/post/96963</link>
-      <description>💥🔥Склад Wildberries в Єкатеринбурзі сьогодні атакували українські БПЛА, - це близько 2000 км від стартових позицій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-07_05-58-17.mp4" length="6873684" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 05:58:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️путін готовий напасти на НАТ</title>
-      <link>https://www.mandarinai.lt/post/96966</link>
-      <description>‼️путін готовий напасти на НАТО вже восени, не чекаючи завершення війни в Україні – нові оцінки розвідки США зʼявилися на тлі браку у американської армії ракет великої дальності, тактичних ракетних комплексів і іншого озброєння, -WSJ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_06-25-16.jpg" length="141473" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 06:25:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 11:57:06 +0000</lastBuildDate>
     <item>
       <title>🤬рф створює бойові підрозділи </title>
       <link>https://www.mandarinai.lt/post/96967</link>
@@ -62,7 +48,7 @@
       <title>❗️Порт Ялти атакували українсь</title>
       <link>https://www.mandarinai.lt/post/96973</link>
       <description>❗️Порт Ялти атакували українські морські безпілотники</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_10-33-37.jpg" length="210546" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_10-33-37.jpg" length="114124" type="image/jpeg"/>
       <pubDate>Fri, 07 Aug 2026 10:33:37 +0000</pubDate>
     </item>
     <item>
@@ -71,6 +57,37 @@
       <description>В росіян на озброєнні зʼявився новий тип «гербери», більший за розміром, - Флеш</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_10-45-35.jpg" length="90679" type="image/jpeg"/>
       <pubDate>Fri, 07 Aug 2026 10:45:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відлітався, бо впіймався, - на</title>
+      <link>https://www.mandarinai.lt/post/96977</link>
+      <description>Відлітався, бо впіймався, - наглий російський дрон на оптоволокні був захоплений сіткою, яку вистрелив український безпілотник.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1907.MP4" length="4909367" type="video/mp4"/>
+      <pubDate>Fri, 07 Aug 2026 11:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Міномет неактуальний? Неправда</title>
+      <link>https://www.mandarinai.lt/post/96978</link>
+      <description>Міномет неактуальний? Неправда. Якщо є підземні тунелі, то вогнева позиція фактично схована в підземеллі, і ворог не розуміє, звідки так влучно прилітає, - доведено підрозділом «Щит» Держприкордонслужби.</description>
+      <pubDate>Fri, 07 Aug 2026 11:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Вони «хакнули» Кримський мі</title>
+      <link>https://www.mandarinai.lt/post/96979</link>
+      <description>❗️ Вони «хакнули» Кримський міст - рух опору «Свобода Росії» заявив, що його активістам вдалося відзняти та надіслати детальні відеокадри захисних споруд поруч з мостом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8589.MP4" length="5652465" type="video/mp4"/>
+      <pubDate>Fri, 07 Aug 2026 11:48:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Кремль може атакувати країн</title>
+      <link>https://www.mandarinai.lt/post/96980</link>
+      <description>⚠️ Кремль може атакувати країни НАТО до завершення війни з Україною, - WSJ з посиланням на розвідку США
+
+Американська розвідка ввжажає, що путін розглядає поширення бойових дій на територію Європи, щоб вирватися з безвиході у війні проти України.
+
+Хоча такий сценарій поки що вважається малоймовірним, оскільки він автоматично залучає статтю 5 НАТО про колективну оборону, проте аналітики зазначають, що в безвихідній ситуації Кремль може піти й на ризикованіші кроки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_11-53-01.jpg" length="90370" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 11:53:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
