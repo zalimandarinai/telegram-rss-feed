@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 17:23:06 +0000</lastBuildDate>
-    <item>
-      <title>В російському міноборони оголо</title>
-      <link>https://www.mandarinai.lt/post/96988</link>
-      <description>В російському міноборони оголосили про створення бригади з українських військовополонених та добровольців, які погодилися воювати на боці росії.
- 
-Ймовірно, що «бригада» існує лише на папері, адже до неї зігнали кілька нерегулярних груп, сформованих зі зрадників:
- 
-▫️  «Окремий батальйон Максима Кривоноса»,
-▫️ «Український добровольчий батальйон імені Олексія Береста»,
-▫️  «Загін імені Олександра Матросова»,
-▫️ «Окремий загін імені Мартина Пушкаря»,
-▫️ «Спеціальний Слобідський загін імені Воїна Селіфонтова».
-
-Вперше формування російськими військами бойових підрозділів із залученням українців зафіксували в 2022-му році.
- 
-А в у 2023 році росіяни спробували сформувати батальйон «Богдан Хмельницький» з українськими військовополоненими.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_13-53-15.jpg" length="94044" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 13:53:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 18:11:07 +0000</lastBuildDate>
     <item>
       <title>А ось і відео атаки на Ялтинсь</title>
       <link>https://www.mandarinai.lt/post/96989</link>
@@ -130,6 +111,13 @@
       <description>Окупований Мелітополь повертається «back to USSR», а ті, хто прийняв «триколор» окупантів, відтепер бадьоро лаються в черзі за місце біля зарядки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6120.MP4" length="15129411" type="video/mp4"/>
       <pubDate>Fri, 07 Aug 2026 17:09:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Багато хто каже, що я - один і</title>
+      <link>https://www.mandarinai.lt/post/97003</link>
+      <description>Багато хто каже, що я - один із найвеличніших президентів в історії, - скромно відповідає Трамп на запитання про можливі звинувачення, якщо майбутні вибори до Палати виграють демократи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8633.MP4" length="9662088" type="video/mp4"/>
+      <pubDate>Fri, 07 Aug 2026 17:41:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
