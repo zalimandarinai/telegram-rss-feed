@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 06:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:01:21 +0000</lastBuildDate>
     <item>
       <title>🌎 Близько 16 тисяч іноземних д</title>
       <link>https://www.mandarinai.lt/post/96954</link>
@@ -83,6 +83,13 @@
       <description>🤬росіяни атакували дроном людей на ринку в Сумській області: 10 постраждалих, з них двох — у важкому стані</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_06-41-43.jpg" length="177258" type="image/jpeg"/>
       <pubDate>Fri, 07 Aug 2026 06:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 "Нє віжу ніх*я": такий вигля</title>
+      <link>https://www.mandarinai.lt/post/96969</link>
+      <description>🔥 "Нє віжу ніх*я": такий вигляд нині має путінський "сухопутний коридор" до Криму.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-07_06-50-04.mp4" length="5828224" type="video/mp4"/>
+      <pubDate>Fri, 07 Aug 2026 06:50:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
