@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 13:10:52 +0000</lastBuildDate>
-    <item>
-      <title>«Пацани, там люто є@ашить», - </title>
-      <link>https://www.mandarinai.lt/post/96972</link>
-      <description>«Пацани, там люто є@ашить», - так ялтинські підлітки коментують атаку на порт</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1904.MP4" length="1696862" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 10:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Порт Ялти атакували українсь</title>
-      <link>https://www.mandarinai.lt/post/96973</link>
-      <description>❗️Порт Ялти атакували українські морські безпілотники</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_10-33-37.jpg" length="114124" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 10:33:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 14:19:03 +0000</lastBuildDate>
     <item>
       <title>В росіян на озброєнні зʼявився</title>
       <link>https://www.mandarinai.lt/post/96974</link>
@@ -90,6 +76,31 @@
       <description>🤬 русня атакувала стадіон «Чорноморець» в Одесі - є постраждалі.  Варто це надіслати МОК, який зняв загальну заборону на участь в Олімпійських іграх для російських спортсменів. Або до ФІФА, яка планує обговорити допуск збірних росії до турнірів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-07_12-51-37.mp4" length="1124368" type="video/mp4"/>
       <pubDate>Fri, 07 Aug 2026 12:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>В російському міноборони оголо</title>
+      <link>https://www.mandarinai.lt/post/96988</link>
+      <description>В російському міноборони оголосили про створення бригади з українських військовополонених та добровольців, які погодилися воювати на боці росії.
+ 
+Ймовірно, що «бригада» існує лише на папері, адже до неї зігнали кілька нерегулярних груп, сформованих зі зрадників:
+ 
+▫️  «Окремий батальйон Максима Кривоноса»,
+▫️ «Український добровольчий батальйон імені Олексія Береста»,
+▫️  «Загін імені Олександра Матросова»,
+▫️ «Окремий загін імені Мартина Пушкаря»,
+▫️ «Спеціальний Слобідський загін імені Воїна Селіфонтова».
+
+Вперше формування російськими військами бойових підрозділів із залученням українців зафіксували в 2022-му році.
+ 
+А в у 2023 році росіяни спробували сформувати батальйон «Богдан Хмельницький» з українськими військовополоненими.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_13-53-15.jpg" length="94044" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 13:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>А ось і відео атаки на Ялтинсь</title>
+      <link>https://www.mandarinai.lt/post/96989</link>
+      <description>А ось і відео атаки на Ялтинський порт з борту безпілотних платформ. Так оператори підрозділу «Group 13» Головного управління розвідки вирішили провесті морський парад до дня Ялти. В акваторію порту зайшли дрони «Magura», які нагадали окупантам, що Крим — це Україна</description>
+      <pubDate>Fri, 07 Aug 2026 14:04:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
