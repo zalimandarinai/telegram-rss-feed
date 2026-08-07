@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 14:19:03 +0000</lastBuildDate>
-    <item>
-      <title>В росіян на озброєнні зʼявився</title>
-      <link>https://www.mandarinai.lt/post/96974</link>
-      <description>В росіян на озброєнні зʼявився новий тип «гербери», більший за розміром, - Флеш</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_10-45-35.jpg" length="90679" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 10:45:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 15:25:22 +0000</lastBuildDate>
     <item>
       <title>Відлітався, бо впіймався, - на</title>
       <link>https://www.mandarinai.lt/post/96977</link>
@@ -101,6 +94,40 @@
       <link>https://www.mandarinai.lt/post/96989</link>
       <description>А ось і відео атаки на Ялтинський порт з борту безпілотних платформ. Так оператори підрозділу «Group 13» Головного управління розвідки вирішили провесті морський парад до дня Ялти. В акваторію порту зайшли дрони «Magura», які нагадали окупантам, що Крим — це Україна</description>
       <pubDate>Fri, 07 Aug 2026 14:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чим збивати балістику. Чи є ал</title>
+      <link>https://www.mandarinai.lt/post/96990</link>
+      <description>Чим збивати балістику. Чи є альтератива «Патріотам».
+ 
+Вперше командування українських Повітряних Сил майже у повному складі відверто відповідає на мої запитання, які хвилюють всіх:
+ 
+📍 Чому майже нічого не можуть зробити з балістикою?
+📍 Чому пускові установки «Patriot» стоять порожні?
+📍 Що протиставити російським загрозам?
+📍 Де знайти ракети до комплексів «Patriot»?
+📍 Як американські винищувачі можуть виграти повітряні битви в російських літаків?
+ 
+Співрозмовники:
+ 
+✅ Віталій Палагута - Командувач ЗРВ та ПРО, «головний по Патріотах».
+✅ Євгеній Каржау - заступник Командувача авіації Повітряних Сил, F-16 це його тема.
+✅ Євгеній Хлєбников - Командувач сил безпосереднього протиповітряного прикриття, відповідає за роботу дронів-перехоплювачів.
+✅ Анатолій Кривоножко - Командувач Повітряних Сил, Герой України.
+ 
+⏯️ Дивіться повне відео: https://www.youtube.com/watch?v=o7p8blS06kQ</description>
+      <pubDate>Fri, 07 Aug 2026 14:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Командування російського угруп</title>
+      <link>https://www.mandarinai.lt/post/96991</link>
+      <description>Командування російського угруповання «Сєвєр» зробило пафосні заяви про захоплення населених пунктів біля Вовчанська - Білого Колодязя, Юрченкового, Бакшеївки, Віровки. 
+
+Щоправда, цей військовополонений слова російського командування спростовує.
+
+Він здався наприкінці липня, значно північніше Білого Колодязя, просидівши півмісяця в бліндажі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1915.MP4" length="19382303" type="video/mp4"/>
+      <pubDate>Fri, 07 Aug 2026 14:54:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
