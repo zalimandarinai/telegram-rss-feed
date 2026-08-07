@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 18:11:07 +0000</lastBuildDate>
-    <item>
-      <title>А ось і відео атаки на Ялтинсь</title>
-      <link>https://www.mandarinai.lt/post/96989</link>
-      <description>А ось і відео атаки на Ялтинський порт з борту безпілотних платформ. Так оператори підрозділу «Group 13» Головного управління розвідки вирішили провесті морський парад до дня Ялти. В акваторію порту зайшли дрони «Magura», які нагадали окупантам, що Крим — це Україна</description>
-      <pubDate>Fri, 07 Aug 2026 14:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Чим збивати балістику. Чи є ал</title>
-      <link>https://www.mandarinai.lt/post/96990</link>
-      <description>Чим збивати балістику. Чи є альтератива «Патріотам».
- 
-Вперше командування українських Повітряних Сил майже у повному складі відверто відповідає на мої запитання, які хвилюють всіх:
- 
-📍 Чому майже нічого не можуть зробити з балістикою?
-📍 Чому пускові установки «Patriot» стоять порожні?
-📍 Що протиставити російським загрозам?
-📍 Де знайти ракети до комплексів «Patriot»?
-📍 Як американські винищувачі можуть виграти повітряні битви в російських літаків?
- 
-Співрозмовники:
- 
-✅ Віталій Палагута - Командувач ЗРВ та ПРО, «головний по Патріотах».
-✅ Євгеній Каржау - заступник Командувача авіації Повітряних Сил, F-16 це його тема.
-✅ Євгеній Хлєбников - Командувач сил безпосереднього протиповітряного прикриття, відповідає за роботу дронів-перехоплювачів.
-✅ Анатолій Кривоножко - Командувач Повітряних Сил, Герой України.
- 
-⏯️ Дивіться повне відео: https://www.youtube.com/watch?v=o7p8blS06kQ</description>
-      <pubDate>Fri, 07 Aug 2026 14:26:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 19:15:23 +0000</lastBuildDate>
     <item>
       <title>Командування російського угруп</title>
       <link>https://www.mandarinai.lt/post/96991</link>
@@ -106,18 +77,20 @@
       <pubDate>Fri, 07 Aug 2026 17:04:04 +0000</pubDate>
     </item>
     <item>
-      <title>Окупований Мелітополь повертає</title>
-      <link>https://www.mandarinai.lt/post/97002</link>
-      <description>Окупований Мелітополь повертається «back to USSR», а ті, хто прийняв «триколор» окупантів, відтепер бадьоро лаються в черзі за місце біля зарядки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6120.MP4" length="15129411" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 17:09:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Багато хто каже, що я - один і</title>
       <link>https://www.mandarinai.lt/post/97003</link>
       <description>Багато хто каже, що я - один із найвеличніших президентів в історії, - скромно відповідає Трамп на запитання про можливі звинувачення, якщо майбутні вибори до Палати виграють демократи</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8633.MP4" length="9662088" type="video/mp4"/>
       <pubDate>Fri, 07 Aug 2026 17:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Навроцький заявив, що вважає </title>
+      <link>https://www.mandarinai.lt/post/97007</link>
+      <description>🔴Навроцький заявив, що вважає за необхідне продовжувати підтримку Києва у боротьбі з російською агресією, тому що успіх України – у стратегічних інтересах Польщі, - ЄП
+
+"Нехай вбивають совєтів, які на них напали… У цьому вони завжди можуть розраховувати на нашу допомогу, тому що там, де б’ють московитів – Польща допомагає, навіть якщо безпосередньо не бере участі у війні. Це у стратегічних інтересах Польщі", – сказав польський президент.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-07_18-31-42.mp4" length="9371947" type="video/mp4"/>
+      <pubDate>Fri, 07 Aug 2026 18:31:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
