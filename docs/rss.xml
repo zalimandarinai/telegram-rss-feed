@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 11:05:47 +0000</lastBuildDate>
-    <item>
-      <title>🤬Ворог зранку атакував пасажир</title>
-      <link>https://www.mandarinai.lt/post/97032</link>
-      <description>🤬Ворог зранку атакував пасажирський потяг Суми-Київ, знищено локомотив.
-
-Укрзалізниця повідомляє, що бригада встигла евакуювати пасажирів на безпечну відстань завдяки своєчасному виявленню дрона.
-
-В результаті обійшлося без постраждалих, але згорів локомотив і пошкоджено один вагон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_07-39-49.jpg" length="110835" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 07:39:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 11:42:21 +0000</lastBuildDate>
     <item>
       <title>Дрон з вибухівкою, який був ви</title>
       <link>https://www.mandarinai.lt/post/97033</link>
@@ -117,6 +106,23 @@
       <description>⚡️ Диверсійна група росіян спробувала проникнути до Оріхова в Запорізькій області, але була ліквідована, загроз втрати міста немає, - речник 148-ої бригади ДШВ Сергій Колесниченко для ЦАПЛІЄНКО_UKRAINE FIGHTS</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1922.MP4" length="8431602" type="video/mp4"/>
       <pubDate>Sat, 08 Aug 2026 10:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Нарешті! 
+
+Сполучені Штати щ</title>
+      <link>https://www.mandarinai.lt/post/97049</link>
+      <description>❗️Нарешті! 
+
+Сполучені Штати щомісячно забезпечуватимуть Україну ракетами-перехоплювачами для систем Patriot - домовленість досягнута.
+
+Про це заявив Зеленський.
+
+Але треба визнати, що стовідсоткового абсолютного захисту від балістики не буде, бо постачання не зможуть перекрити дефіцит ракет до Patriot.
+
+Для того, щоб зрозуміти, чому так, ще раз пропоную подивитися відео моїх розмов з командувачем Повітряних Сил та його заступниками https://m.youtube.com/watch?v=o7p8blS06kQ&amp;ra=m</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1956.MP4" length="3823479" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 11:06:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
