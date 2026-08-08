@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 17:28:25 +0000</lastBuildDate>
-    <item>
-      <title>Генерала, який відповідав за д</title>
-      <link>https://www.mandarinai.lt/post/97044</link>
-      <description>Генерала, який відповідав за допомогу Україні, зняли.
-
-🇺🇸 Пентагон несподівано звільнив генерал-лейтенанта Чарльза Костанца, командира 5-го корпусу, який знаходиться в Польщі. 
-
-Його підрозділи координують військові операції в Європі, а командування відіграє ключову роль у підтримці України з боку США.
-
-Нещодавно Костанца сказав, коментуючи свої завдання: «Самовіддана служба ось для чого ми тут, і це щось більше за нас самих».
-
-Новим командувачем має стати генерал-майор Томас Фелти, колишній командир 1-ої дивізії.</description>
-      <pubDate>Sat, 08 Aug 2026 10:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Захоплення ворогом села Зірниц</title>
-      <link>https://www.mandarinai.lt/post/97046</link>
-      <description>Захоплення ворогом села Зірниця в Запорізькій області це брехня та інформаційна спецоперація, стверджують бійці 142-ої бригади. Вони показали того самого окупанта, який махав триколором перед російським дроном. Його захопили в полон на околиці Зірниці, і зараз в 9-му армійському корпусі з ним вже працюють контррозвідники.</description>
-      <pubDate>Sat, 08 Aug 2026 10:39:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Продовжує горіти судно біля ро</title>
-      <link>https://www.mandarinai.lt/post/97047</link>
-      <description>Продовжує горіти судно біля російського Геленджика, кажуть, воно зазнало повторного удару дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_10-43-42.jpg" length="108241" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 10:43:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 17:59:20 +0000</lastBuildDate>
     <item>
       <title>⚡️ Диверсійна група росіян спр</title>
       <link>https://www.mandarinai.lt/post/97048</link>
@@ -132,6 +105,28 @@
       <description>⚡️ Україна придбала в Туреччини 70 тактичних балістичних ракет M39 ATACMS, 12 реактивних систем залпового вогню M270, які використовують ракети GMLRS і ATACMS, а також десятки тисяч касетних боєприпасів, - протокол роботи Конгресу США</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_17-04-56.jpg" length="51480" type="image/jpeg"/>
       <pubDate>Sat, 08 Aug 2026 17:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Ми прийшли. Не ви прийшли. </title>
+      <link>https://www.mandarinai.lt/post/97059</link>
+      <description>💬 «Ми прийшли. Не ви прийшли. Я, якщо чесно, не заслуговую на життя», - так говорить Володимир, тракторист з інвалідністю, який приїхав воювати з Новосибірської області, і якого взяла в полон 110-а бригада.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1961.MP4" length="9099077" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 17:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Україна придбала в Туреччини </title>
+      <link>https://www.mandarinai.lt/post/97061</link>
+      <description>🔥Україна придбала в Туреччини пакет американського озброєння, – Держдеп США. 
+
+Він включає: 
+🔻12 пускових установок M270 MLRS;
+🔻70 балістичних ракет M39 ATACMS;
+🔻2524 некеровані 227-мм реактивні снаряди M26 із касетними бойовими частинами DPICM;
+🔻47 000 касетних артилерійських снарядів M509A1 калібру 203 мм для самохідних гармат 2С7 «Пион».
+
+Передача розпочнеться після схвалення Конгресом, її здійснюватимуть через турецькі, болгарські та американські оборонні й логістичні компанії-спецекспортери</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_17-51-30.jpg" length="111932" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 17:51:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
