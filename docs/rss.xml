@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 11:42:21 +0000</lastBuildDate>
-    <item>
-      <title>Дрон з вибухівкою, який був ви</title>
-      <link>https://www.mandarinai.lt/post/97033</link>
-      <description>Дрон з вибухівкою, який був виявлений в момент підготовки атаки на Ан-124 в аеропорту Лейпцига, належав російській спецслужбі, - Капітан «Очевидність» представник розвідки США в коментарі для The Wall Street Journal</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_08-03-28.jpg" length="46914" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 08:03:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 12:03:08 +0000</lastBuildDate>
     <item>
       <title>Смілянська міська рада повідом</title>
       <link>https://www.mandarinai.lt/post/97034</link>
@@ -120,9 +113,16 @@
 
 Але треба визнати, що стовідсоткового абсолютного захисту від балістики не буде, бо постачання не зможуть перекрити дефіцит ракет до Patriot.
 
-Для того, щоб зрозуміти, чому так, ще раз пропоную подивитися відео моїх розмов з командувачем Повітряних Сил та його заступниками https://m.youtube.com/watch?v=o7p8blS06kQ&amp;ra=m</description>
+Для того, щоб зрозуміти, чому так, ще раз пропоную подивитися відео мого інтерв'ю з командувачем Повітряних Сил та його заступниками https://m.youtube.com/watch?v=o7p8blS06kQ&amp;ra=m</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1956.MP4" length="3823479" type="video/mp4"/>
       <pubDate>Sat, 08 Aug 2026 11:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Ось так «Нова пошта» відпра</title>
+      <link>https://www.mandarinai.lt/post/97050</link>
+      <description>⚡️ Ось так «Нова пошта» відправляє посилки, які пережили обстріли рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_11-59-10.jpg" length="232718" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 11:59:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
