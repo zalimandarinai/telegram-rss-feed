@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 16:12:41 +0000</lastBuildDate>
-    <item>
-      <title>Fire Point анонсувала виробниц</title>
-      <link>https://www.mandarinai.lt/post/97042</link>
-      <description>Fire Point анонсувала виробництво системи ПРО до кінця місяця
-
-Компанія повідомила про завершення першого етапу розробки системи протиракетної оборони Freyja та про готовність почати масове виробництво ракети-перехоплювача FP-7X вже в серпні, щойно отримає інфрачервоні головки самонаведення німецького виробництва від Diehl Defence. До оборонного проєкту приєдналися європейські оборонні гіганти, зокрема Eurosam, Leonardo, Thales і Saab, кількість європейських промислових партнерів може зрости до 20.
-
-Проєкт передбачає поєднання української ракети-перехоплювача з радарними та оптико-електронними системами європейського виробництва і в Fire Point намагаються за пару років закінчити програму яка зазвичай займає 20-30 років. 
-
-За словами гендиректорки Ірини Терех, компанія перебуває на найскладнішому етапі об'єднання всіх компонентів, радарів спостереження, систем стеження та головок самонаведення, і планує здійснити перше успішне перехоплення балістичної цілі до середини 2027 року. У Fire Point розраховують, що вартість однієї ракети-перехоплювача не перевищуватиме €1 млн, а наразі проведено щонайменше п'ять випробувань ракети.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_10-04-44.jpg" length="21044" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 10:04:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 16:53:16 +0000</lastBuildDate>
     <item>
       <title>💥В російському Геленджику луна</title>
       <link>https://www.mandarinai.lt/post/97043</link>
@@ -134,6 +121,17 @@
       <description>🤡Я гранатометник, — Олександр Лукашенко</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-08_15-08-12.mp4" length="711966" type="video/mp4"/>
       <pubDate>Sat, 08 Aug 2026 15:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇧🇬 В Болгарії вважають, що без</title>
+      <link>https://www.mandarinai.lt/post/97057</link>
+      <description>🇧🇬 В Болгарії вважають, що безпілотник, який залетів у країну, був українським 
+
+❗️ Міноборони Болгарії повідомило, що, згідно з попереднім аналізом уламків дрона, що впав, ймовірно, це був безпілотник-приманка «Майя». 
+
+➡️ Там також зазначили, що на даний момент «немає підстав вважати, що інцидент був навмисним».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_16-35-02.jpg" length="107106" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 16:35:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
