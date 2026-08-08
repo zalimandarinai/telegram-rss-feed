@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 08:01:47 +0000</lastBuildDate>
-    <item>
-      <title>Вночі росіяни атакували Україн</title>
-      <link>https://www.mandarinai.lt/post/97017</link>
-      <description>Вночі росіяни атакували Україну 6 балістичними ракетами «Іскандер-М» та С-400, - їх збити не вдалося. 
-
-Також летів 151 БПЛА.
-
-Збито 135 дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_06-05-58.jpg" length="70272" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 06:05:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 08:59:50 +0000</lastBuildDate>
     <item>
       <title>Тварі вдарили по Пухівці біля </title>
       <link>https://www.mandarinai.lt/post/97018</link>
@@ -98,6 +87,13 @@
 В результаті обійшлося без постраждалих, але згорів локомотив і пошкоджено один вагон.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_07-39-49.jpg" length="110835" type="image/jpeg"/>
       <pubDate>Sat, 08 Aug 2026 07:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрон з вибухівкою, який був ви</title>
+      <link>https://www.mandarinai.lt/post/97033</link>
+      <description>Дрон з вибухівкою, який був виявлений в момент підготовки атаки на Ан-124 в аеропорту Лейпцига, належав російській спецслужбі, - Капітан «Очевидність» представник розвідки США в коментарі для The Wall Street Journal</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_08-03-28.jpg" length="46914" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 08:03:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
