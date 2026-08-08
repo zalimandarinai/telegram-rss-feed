@@ -6,24 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 10:31:12 +0000</lastBuildDate>
-    <item>
-      <title>Чотири(!) шахеди влучили у жит</title>
-      <link>https://www.mandarinai.lt/post/97027</link>
-      <description>Чотири(!) шахеди влучили у житловий будинок у Броварському районі
-
-Внаслідок загинув майже 4-річний хлопчик з його бабусею та дідусем. 
-Батьки дитини перебувають у лікарні в стані середньої тяжкості, ще один хлопчик із родини – у реанімації</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-08_07-24-42.mp4" length="6287050" type="video/mp4"/>
-      <pubDate>Sat, 08 Aug 2026 07:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Порожні полиці у "Сільпо" та "</title>
-      <link>https://www.mandarinai.lt/post/97029</link>
-      <description>Порожні полиці у "Сільпо" та "Фора" після ударів ворога по складах продуктових мереж</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_07-34-56.jpg" length="182832" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 07:34:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 11:05:47 +0000</lastBuildDate>
     <item>
       <title>🤬Ворог зранку атакував пасажир</title>
       <link>https://www.mandarinai.lt/post/97032</link>
@@ -114,6 +97,26 @@
 
 Новим командувачем має стати генерал-майор Томас Фелти, колишній командир 1-ої дивізії.</description>
       <pubDate>Sat, 08 Aug 2026 10:23:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Захоплення ворогом села Зірниц</title>
+      <link>https://www.mandarinai.lt/post/97046</link>
+      <description>Захоплення ворогом села Зірниця в Запорізькій області це брехня та інформаційна спецоперація, стверджують бійці 142-ої бригади. Вони показали того самого окупанта, який махав триколором перед російським дроном. Його захопили в полон на околиці Зірниці, і зараз в 9-му армійському корпусі з ним вже працюють контррозвідники.</description>
+      <pubDate>Sat, 08 Aug 2026 10:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Продовжує горіти судно біля ро</title>
+      <link>https://www.mandarinai.lt/post/97047</link>
+      <description>Продовжує горіти судно біля російського Геленджика, кажуть, воно зазнало повторного удару дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_10-43-42.jpg" length="108241" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 10:43:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Диверсійна група росіян спр</title>
+      <link>https://www.mandarinai.lt/post/97048</link>
+      <description>⚡️ Диверсійна група росіян спробувала проникнути до Оріхова в Запорізькій області, але була ліквідована, загроз втрати міста немає, - речник 148-ої бригади ДШВ Сергій Колесниченко для ЦАПЛІЄНКО_UKRAINE FIGHTS</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1922.MP4" length="8431602" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 10:52:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
