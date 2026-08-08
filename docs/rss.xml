@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 16:53:16 +0000</lastBuildDate>
-    <item>
-      <title>💥В російському Геленджику луна</title>
-      <link>https://www.mandarinai.lt/post/97043</link>
-      <description>💥В російському Геленджику лунають потужні вибухи. Місто, біля якого розташований палац путіна, перебуває під атакою дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_10-07-29.jpg" length="34129" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 10:07:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 17:28:25 +0000</lastBuildDate>
     <item>
       <title>Генерала, який відповідав за д</title>
       <link>https://www.mandarinai.lt/post/97044</link>
@@ -132,6 +125,13 @@
 ➡️ Там також зазначили, що на даний момент «немає підстав вважати, що інцидент був навмисним».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_16-35-02.jpg" length="107106" type="image/jpeg"/>
       <pubDate>Sat, 08 Aug 2026 16:35:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Україна придбала в Туреччин</title>
+      <link>https://www.mandarinai.lt/post/97058</link>
+      <description>⚡️ Україна придбала в Туреччини 70 тактичних балістичних ракет M39 ATACMS, 12 реактивних систем залпового вогню M270, які використовують ракети GMLRS і ATACMS, а також десятки тисяч касетних боєприпасів, - протокол роботи Конгресу США</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_17-04-56.jpg" length="51480" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 17:04:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
