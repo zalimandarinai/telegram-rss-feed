@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 18:50:35 +0000</lastBuildDate>
-    <item>
-      <title>Невідомий безпілотник, який пр</title>
-      <link>https://www.mandarinai.lt/post/97051</link>
-      <description>Невідомий безпілотник, який прилетів з боку Румунії, вибухнув у Болгарії поблизу газопроводу, — Associated Press.
-
-Інцидент стався в районі транснаціонального газопроводу — приблизно за кілометр від болгарської компресорної станції. Маршрут безпілотника поки невідомий.
-
-Раніше ЦПД попереджали, що рф готує провокації у країнах ЄС, використовуючи захоплені українські БпЛА.
-
-Схоже, русня знову випробовує НАТО на міцність</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_12-28-16.jpg" length="126811" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 12:28:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Співробітник російського посол</title>
-      <link>https://www.mandarinai.lt/post/97052</link>
-      <description>Співробітник російського посольства в Канаді щодня зайнятий тим, що лопає на вулиці повітряні кульки в кольорах українського прапора
-
-Синьо-жовті повітряні кульки регулярно з’являються біля будівлі російського посольства - і щоразу біля них зʼявляється дипломат, який дістає голку та методично їх знищує.
-
-Журналіст Христо Грозєв стверджує, що на відео 34-річний Іван Даниленков, дипломат російського посольства. 
-
-За даними журналіста, раніше він працював у ФСБ, а саме в Прикордонній службі росії. 
-
-І тепер мзс Лаврова довірив йому дуже важливу функцію - протикати голкою кульки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1957.MP4" length="3112212" type="video/mp4"/>
-      <pubDate>Sat, 08 Aug 2026 12:43:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 19:28:25 +0000</lastBuildDate>
     <item>
       <title>❗️ Туреччина заборонила деяким</title>
       <link>https://www.mandarinai.lt/post/97053</link>
@@ -112,6 +84,24 @@
 "Волна Купол Гарант" – це російський комплекс РЕБ, призначений для придушення супутникового зв'язку Starlink. Комплекс створює спрямовані радіопомехи в бік супутника, перешкоджаючи йому приймати сигнали від наземних терміналів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_18-15-08.jpg" length="91495" type="image/jpeg"/>
       <pubDate>Sat, 08 Aug 2026 18:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>росіяни знищили вщент ТЦ у Пав</title>
+      <link>https://www.mandarinai.lt/post/97066</link>
+      <description>росіяни знищили вщент ТЦ у Павлограді на Дніпропетровщині — на зараз відомо про 5 поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1963.MP4" length="11204765" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 18:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Історична операція: в Україні </title>
+      <link>https://www.mandarinai.lt/post/97068</link>
+      <description>Історична операція: в Україні вперше пересадили легені дитині
+
+Операція тривала близько восьми годин і пройшла успішно, повідомив кардіохірург Борис Тодуров.
+
+Дякуємо лікарям, які залишаються в Україні і рятують українців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1965.MP4" length="21641067" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 19:16:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
