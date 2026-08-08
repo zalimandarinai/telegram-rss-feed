@@ -6,51 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 07:14:14 +0000</lastBuildDate>
-    <item>
-      <title>Біля Геленджика горить корабел</title>
-      <link>https://www.mandarinai.lt/post/97009</link>
-      <description>Біля Геленджика горить корабель, ймовірно, в результаті влучання дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_19-35-10.jpg" length="106232" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 19:35:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Поруч з Новоросійськом корабел</title>
-      <link>https://www.mandarinai.lt/post/97010</link>
-      <description>Поруч з Новоросійськом корабель теж горить після зустрічі з дронами.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1921.MOV" length="234195" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 20:03:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Щось змінюється в Белграді? Зе</title>
-      <link>https://www.mandarinai.lt/post/97011</link>
-      <description>Щось змінюється в Белграді? Зеленський обіймається з Вучичем, який публічно називав раніше путіна другом Сербії. На честь Україні найвищий хмарочос Сербії підсвічений кольорами українського прапора.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_20-10-38.jpg" length="116420" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 20:10:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Троє людей загинули внаслідок </title>
-      <link>https://www.mandarinai.lt/post/97013</link>
-      <description>Троє людей загинули внаслідок ворожого обстрілу Київщини
-
-Серед загиблих у Броварському районі – дитина 2022 року народження</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_02-20-28.jpg" length="20736" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 02:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Під атакою НПЗ в Самарській о</title>
-      <link>https://www.mandarinai.lt/post/97014</link>
-      <description>💥Під атакою НПЗ в Самарській області і Краснодарському краї рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_03-08-52.jpg" length="66246" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 03:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>В магазинах мережі «Фора» нест</title>
-      <link>https://www.mandarinai.lt/post/97016</link>
-      <description>В магазинах мережі «Фора» нестача товарів через знищення складів компанії внаслідок атаки рф, — пресслужба</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_05-43-26.jpg" length="143814" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 05:43:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 08:01:47 +0000</lastBuildDate>
     <item>
       <title>Вночі росіяни атакували Україн</title>
       <link>https://www.mandarinai.lt/post/97017</link>
@@ -66,7 +22,7 @@
       <title>Тварі вдарили по Пухівці біля </title>
       <link>https://www.mandarinai.lt/post/97018</link>
       <description>Тварі вдарили по Пухівці біля Києва. Троє людей загинуло, серед них є дитина. Ще троє отримали поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_06-11-30.jpg" length="105429" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_06-11-30.jpg" length="145080" type="image/jpeg"/>
       <pubDate>Sat, 08 Aug 2026 06:11:30 +0000</pubDate>
     </item>
     <item>
@@ -88,6 +44,60 @@
       <description>💥Ранковий пейзаж в Самарській області рф. До Сизранського НПЗ вночі завітали дрони.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-08_06-55-04.mp4" length="692418" type="video/mp4"/>
       <pubDate>Sat, 08 Aug 2026 06:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Під Вовчанськом двоє піхотинці</title>
+      <link>https://www.mandarinai.lt/post/97022</link>
+      <description>Під Вовчанськом двоє піхотинців батальйону «Воля» 57-ї бригади взяли в полон окупанта. 
+
+Під час зачистки бліндажу поблизу населеного пункту Цегельне наші бійці потрапили під ворожий обстріл і були змушені самостійно відходити до суміжних позицій. 
+
+Повертаючись, бійці виявили та взяли у полон ворожого піхотинця, якому вдалося інфільтруватися через наші позиції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1940.MP4" length="13670095" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 07:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пухівка, де росіяни сьогодні в</title>
+      <link>https://www.mandarinai.lt/post/97023</link>
+      <description>Пухівка, де росіяни сьогодні вбили маленьку дитину, зараз виглядає так</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_07-19-44.jpg" length="195392" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 07:19:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Жодної балістичної ракети не </title>
+      <link>https://www.mandarinai.lt/post/97026</link>
+      <description>😡Жодної балістичної ракети не було збито вночі, — ПС
+Ворог застосував шість Іскандер-М та С-400.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_07-21-09.jpg" length="136282" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 07:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чотири(!) шахеди влучили у жит</title>
+      <link>https://www.mandarinai.lt/post/97027</link>
+      <description>Чотири(!) шахеди влучили у житловий будинок у Броварському районі
+
+Внаслідок загинув майже 4-річний хлопчик з його бабусею та дідусем. 
+Батьки дитини перебувають у лікарні в стані середньої тяжкості, ще один хлопчик із родини – у реанімації</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-08_07-24-42.mp4" length="6287050" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 07:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Порожні полиці у "Сільпо" та "</title>
+      <link>https://www.mandarinai.lt/post/97029</link>
+      <description>Порожні полиці у "Сільпо" та "Фора" після ударів ворога по складах продуктових мереж</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_07-34-56.jpg" length="182832" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 07:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Ворог зранку атакував пасажир</title>
+      <link>https://www.mandarinai.lt/post/97032</link>
+      <description>🤬Ворог зранку атакував пасажирський потяг Суми-Київ, знищено локомотив.
+
+Укрзалізниця повідомляє, що бригада встигла евакуювати пасажирів на безпечну відстань завдяки своєчасному виявленню дрона.
+
+В результаті обійшлося без постраждалих, але згорів локомотив і пошкоджено один вагон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_07-39-49.jpg" length="110835" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 07:39:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
