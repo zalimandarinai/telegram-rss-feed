@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 05:25:34 +0000</lastBuildDate>
-    <item>
-      <title>🇰🇵 Кім Чен Ин накопив $22 млрд</title>
-      <link>https://www.mandarinai.lt/post/96999</link>
-      <description>🇰🇵 Кім Чен Ин накопив $22 млрд. готівкою, починаючи з 2022 року, через постачання озброєнь та військових путіну на війну до України, — Bloomberg
-
-За 4 роки доходи КНДР зросли в 4 рази. Це призвело до різкого збагачення диктатора.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_17-01-35.jpg" length="68805" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 17:01:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 06:05:57 +0000</lastBuildDate>
     <item>
       <title>💥У Донецькому аеропорту знищен</title>
       <link>https://www.mandarinai.lt/post/97000</link>
@@ -77,6 +68,13 @@
       <description>💥Під атакою НПЗ в Самарській області і Краснодарському краї рф</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_03-08-52.jpg" length="66246" type="image/jpeg"/>
       <pubDate>Sat, 08 Aug 2026 03:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>В магазинах мережі «Фора» нест</title>
+      <link>https://www.mandarinai.lt/post/97016</link>
+      <description>В магазинах мережі «Фора» нестача товарів через знищення складів компанії внаслідок атаки рф, — пресслужба</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_05-43-26.jpg" length="143814" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 05:43:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
