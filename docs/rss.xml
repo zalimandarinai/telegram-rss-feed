@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 06:05:57 +0000</lastBuildDate>
-    <item>
-      <title>💥У Донецькому аеропорту знищен</title>
-      <link>https://www.mandarinai.lt/post/97000</link>
-      <description>💥У Донецькому аеропорту знищено реактивний безпілотник "шахед" на пусковій установці та автомобіль МВГ ЗС РФ.
-
-Робота ЦСО "А" СБУ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-07_17-04-04.mp4" length="1500866" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 17:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Багато хто каже, що я - один і</title>
-      <link>https://www.mandarinai.lt/post/97003</link>
-      <description>Багато хто каже, що я - один із найвеличніших президентів в історії, - скромно відповідає Трамп на запитання про можливі звинувачення, якщо майбутні вибори до Палати виграють демократи</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_8633.MP4" length="9662088" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 17:41:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Навроцький заявив, що вважає </title>
-      <link>https://www.mandarinai.lt/post/97007</link>
-      <description>🔴Навроцький заявив, що вважає за необхідне продовжувати підтримку Києва у боротьбі з російською агресією, тому що успіх України – у стратегічних інтересах Польщі, - ЄП
-
-"Нехай вбивають совєтів, які на них напали… У цьому вони завжди можуть розраховувати на нашу допомогу, тому що там, де б’ють московитів – Польща допомагає, навіть якщо безпосередньо не бере участі у війні. Це у стратегічних інтересах Польщі", – сказав польський президент.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-07_18-31-42.mp4" length="9371947" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 18:31:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 07:14:14 +0000</lastBuildDate>
     <item>
       <title>Біля Геленджика горить корабел</title>
       <link>https://www.mandarinai.lt/post/97009</link>
@@ -75,6 +50,44 @@
       <description>В магазинах мережі «Фора» нестача товарів через знищення складів компанії внаслідок атаки рф, — пресслужба</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_05-43-26.jpg" length="143814" type="image/jpeg"/>
       <pubDate>Sat, 08 Aug 2026 05:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі росіяни атакували Україн</title>
+      <link>https://www.mandarinai.lt/post/97017</link>
+      <description>Вночі росіяни атакували Україну 6 балістичними ракетами «Іскандер-М» та С-400, - їх збити не вдалося. 
+
+Також летів 151 БПЛА.
+
+Збито 135 дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_06-05-58.jpg" length="70272" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 06:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тварі вдарили по Пухівці біля </title>
+      <link>https://www.mandarinai.lt/post/97018</link>
+      <description>Тварі вдарили по Пухівці біля Києва. Троє людей загинуло, серед них є дитина. Ще троє отримали поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_06-11-30.jpg" length="105429" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 06:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знищення «шахеда» прямо на пус</title>
+      <link>https://www.mandarinai.lt/post/97019</link>
+      <description>Знищення «шахеда» прямо на пусковій установці в окупованому Донецькому аеропорту. Також знищено автомобіль мобільної вогневої групи росіян. Вона мала прикривати пуски.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1935.MP4" length="18115808" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 06:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ще 12 кораблів «тіньового флот</title>
+      <link>https://www.mandarinai.lt/post/97020</link>
+      <description>Ще 12 кораблів «тіньового флоту» рф уразили СБС з в Чорному та Азовському морях від початку серпня</description>
+      <pubDate>Sat, 08 Aug 2026 06:48:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Ранковий пейзаж в Самарській </title>
+      <link>https://www.mandarinai.lt/post/97021</link>
+      <description>💥Ранковий пейзаж в Самарській області рф. До Сизранського НПЗ вночі завітали дрони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-08_06-55-04.mp4" length="692418" type="video/mp4"/>
+      <pubDate>Sat, 08 Aug 2026 06:55:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
