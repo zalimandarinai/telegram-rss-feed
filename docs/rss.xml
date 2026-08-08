@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 02:02:33 +0000</lastBuildDate>
-    <item>
-      <title>Нацгвардійці XIII Легіону «Оме</title>
-      <link>https://www.mandarinai.lt/post/96996</link>
-      <description>Нацгвардійці XIII Легіону «Омеги» влупили дві броньовані машини та вантажівку, яка використовувалася для забезпечення підрозділів окупантів у Донецькій області.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1908.MP4" length="11886480" type="video/mp4"/>
-      <pubDate>Fri, 07 Aug 2026 16:22:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Українські дрони влучили в сан</title>
-      <link>https://www.mandarinai.lt/post/96997</link>
-      <description>Українські дрони влучили в санаторій «Беня House» у Щасливцевому на окупованій частині Херсонщини, — «Мадяр»
-
-Відомо, що в цьому пансіонаті розміщалися офіцери ФСБ.
- 
-Також там знаходилося кілька співробітників МВС окупантів.
-
-За словами командувача СБС, за 48 годин дрони також уразили:
-
-2 танкери та 4 інших судна в Чорному та Азовському морях;
-8 пунктів дислокації окупантів;
-2 склади з пальним і боєприпасами;
-2 комплекси РЛС та ЗРК «Бук»;
-локомотиви, паливозаправники, мобільні вогневі групи;
-3 ретрансляційні системи «шахедів»;
-5 комунікаційних веж.</description>
-      <pubDate>Fri, 07 Aug 2026 16:43:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 03:43:09 +0000</lastBuildDate>
     <item>
       <title>🇰🇵 Кім Чен Ин накопив $22 млрд</title>
       <link>https://www.mandarinai.lt/post/96999</link>
@@ -88,6 +61,22 @@
       <description>Щось змінюється в Белграді? Зеленський обіймається з Вучичем, який публічно називав раніше путіна другом Сербії. На честь Україні найвищий хмарочос Сербії підсвічений кольорами українського прапора.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-07_20-10-38.jpg" length="116420" type="image/jpeg"/>
       <pubDate>Fri, 07 Aug 2026 20:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Троє людей загинули внаслідок </title>
+      <link>https://www.mandarinai.lt/post/97013</link>
+      <description>Троє людей загинули внаслідок ворожого обстрілу Київщини
+
+Серед загиблих у Броварському районі – дитина 2022 року народження</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_02-20-28.jpg" length="20736" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 02:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Під атакою НПЗ в Самарській о</title>
+      <link>https://www.mandarinai.lt/post/97014</link>
+      <description>💥Під атакою НПЗ в Самарській області і Краснодарському краї рф</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_03-08-52.jpg" length="66246" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 03:08:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
