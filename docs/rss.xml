@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 04:46:20 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Ми прийшли. Не ви прийшли. </title>
-      <link>https://www.mandarinai.lt/post/97059</link>
-      <description>💬 «Ми прийшли. Не ви прийшли. Я, якщо чесно, не заслуговую на життя», - так говорить Володимир, тракторист з інвалідністю, який приїхав воювати з Новосибірської області, і якого взяла в полон 110-а бригада.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1961.MP4" length="9099077" type="video/mp4"/>
-      <pubDate>Sat, 08 Aug 2026 17:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Україна придбала в Туреччини </title>
-      <link>https://www.mandarinai.lt/post/97061</link>
-      <description>🔥Україна придбала в Туреччини пакет американського озброєння, – Держдеп США. 
-
-Він включає: 
-🔻12 пускових установок M270 MLRS;
-🔻70 балістичних ракет M39 ATACMS;
-🔻2524 некеровані 227-мм реактивні снаряди M26 із касетними бойовими частинами DPICM;
-🔻47 000 касетних артилерійських снарядів M509A1 калібру 203 мм для самохідних гармат 2С7 «Пион».
-
-Передача розпочнеться після схвалення Конгресом, її здійснюватимуть через турецькі, болгарські та американські оборонні й логістичні компанії-спецекспортери</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_17-51-30.jpg" length="111932" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 17:51:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 05:45:36 +0000</lastBuildDate>
     <item>
       <title>⚡️росіяни атакували середмістя</title>
       <link>https://www.mandarinai.lt/post/97063</link>
@@ -92,6 +70,22 @@
 Наразі відомо про 6 постражлалих</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_04-05-46.jpg" length="383984" type="image/jpeg"/>
       <pubDate>Sun, 09 Aug 2026 04:05:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Харкові влучання ворожого </title>
+      <link>https://www.mandarinai.lt/post/97078</link>
+      <description>⚡️У Харкові влучання ворожого дрону у 10-поверховий житловий будинок. Наразі відомо про двох загиблих.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-09_05-36-53.mp4" length="667358" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 05:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Вночі в Одеській області не б</title>
+      <link>https://www.mandarinai.lt/post/97079</link>
+      <description>🤬Вночі в Одеській області не було збито жодної(!)ракети
+
+Повітряні сили повідомили, що росіяни атакували регіон ракетами "Іскандер", "Онікс", "Циркон" та Х-31П. При цьому точна кількість не називається.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_05-38-02.jpg" length="295314" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 05:38:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
