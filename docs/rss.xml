@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 21:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:29:10 +0000</lastBuildDate>
     <item>
       <title>🙄Трамп готовий завершити війну</title>
       <link>https://www.mandarinai.lt/post/97104</link>
@@ -118,6 +118,13 @@
 Раніше організатори передали польському уряду та МВС петицію з понад 11 тисячами підписів із вимогою рішуче реагувати на напади. Приводом стали побиття української пари у Вроцлаві, напад із бейсбольною битою у Гливицях та образи українських дітей в автобусі у Бельсько-Бялій</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_18-57-57.jpg" length="191365" type="image/jpeg"/>
       <pubDate>Sun, 09 Aug 2026 18:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Дуже потужний вибух на логі</title>
+      <link>https://www.mandarinai.lt/post/97123</link>
+      <description>❗️ Дуже потужний вибух на логістичному маршруті в тилу противника - на окупованій трасі Маріуполь-Джанкой стає дедалі більше спалених бензовозів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2008.MP4" length="5797613" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 21:59:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
