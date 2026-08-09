@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 03:21:04 +0000</lastBuildDate>
-    <item>
-      <title>🇧🇬 В Болгарії вважають, що без</title>
-      <link>https://www.mandarinai.lt/post/97057</link>
-      <description>🇧🇬 В Болгарії вважають, що безпілотник, який залетів у країну, був українським 
-
-❗️ Міноборони Болгарії повідомило, що, згідно з попереднім аналізом уламків дрона, що впав, ймовірно, це був безпілотник-приманка «Майя». 
-
-➡️ Там також зазначили, що на даний момент «немає підстав вважати, що інцидент був навмисним».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_16-35-02.jpg" length="107106" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 16:35:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Україна придбала в Туреччин</title>
-      <link>https://www.mandarinai.lt/post/97058</link>
-      <description>⚡️ Україна придбала в Туреччини 70 тактичних балістичних ракет M39 ATACMS, 12 реактивних систем залпового вогню M270, які використовують ракети GMLRS і ATACMS, а також десятки тисяч касетних боєприпасів, - протокол роботи Конгресу США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_17-04-56.jpg" length="51480" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 17:04:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 04:46:20 +0000</lastBuildDate>
     <item>
       <title>💬 «Ми прийшли. Не ви прийшли. </title>
       <link>https://www.mandarinai.lt/post/97059</link>
@@ -91,9 +73,25 @@
     <item>
       <title>Частина киян вже облаштувалася</title>
       <link>https://www.mandarinai.lt/post/97070</link>
-      <description>Частина киян вже облаштувалася в метро - чекати на милосердя по відношенню до цивільних від росіян немає сенсу, вони люди без емпатії</description>
+      <description>Частина киян вже облаштувалася в метро - чекати на милосердя по відношенню до цивільних від росіян немає сенсу</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/-1001305722586_226754_124157b3a9c0441ba9dd0d93e20738af.mp4" length="5309000" type="video/mp4"/>
       <pubDate>Sat, 08 Aug 2026 20:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Вночі в Бєлгороді лунали пот</title>
+      <link>https://www.mandarinai.lt/post/97074</link>
+      <description>💥🔥Вночі в Бєлгороді лунали потужні вибухи</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_04-03-35.jpg" length="93528" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 04:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Центр Одеси у вогні. За 2 го</title>
+      <link>https://www.mandarinai.lt/post/97075</link>
+      <description>⚡️Центр Одеси у вогні. За 2 години регіон атакували понад 70 «Шахедів» та ~20 ракет балістичних і крилатих ракет
+
+Наразі відомо про 6 постражлалих</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_04-05-46.jpg" length="383984" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 04:05:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
