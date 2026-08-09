@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 17:13:51 +0000</lastBuildDate>
-    <item>
-      <title>❤️‍🩹 У Харкові 1 людина загину</title>
-      <link>https://www.mandarinai.lt/post/97098</link>
-      <description>❤️‍🩹 У Харкові 1 людина загинула, ще 37 постраждали, — мер Ігор Терехов 
-
-За даними ДСНС, сталося влучання у 10-поверхівку, зруйноване перекриття між 7-м та 10-м поверхами. За іншою адресою — влучання у 3-поверхову складську будівлю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-09_10-57-31.mp4" length="2268049" type="video/mp4"/>
-      <pubDate>Sun, 09 Aug 2026 10:57:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 17:49:28 +0000</lastBuildDate>
     <item>
       <title>💵Через знищення складів деякі </title>
       <link>https://www.mandarinai.lt/post/97099</link>
@@ -131,6 +122,19 @@
       <description>«А тепер повний газ», - в Криму час від часу продовжують горіти російські фури після зустрічі з дронами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1995.MP4" length="22922556" type="video/mp4"/>
       <pubDate>Sun, 09 Aug 2026 16:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝«Моя Польща не б'є і не ображ</title>
+      <link>https://www.mandarinai.lt/post/97112</link>
+      <description>🤝«Моя Польща не б'є і не ображає»: по всій країні поляки організували акції проти ненависті щодо українців, — RMF24
+
+Маніфестації під гаслом «Не будь байдужим» організував Комітет захисту демократії у відповідь на зростання кількості словесних і фізичних нападів через походження, мову або зовнішність людей.
+
+Акції проходять, зокрема, у Варшаві, Кракові, Гданську, Познані, Вроцлаві, Катовицях, Жешуві, Любліні, Лодзі та Щецині. Учасники роздають наліпки для магазинів, закладів і автомобілів, які мають показати українцям, що там вони можуть отримати допомогу та почуватися безпечно.
+
+Раніше організатори передали польському уряду та МВС петицію з понад 11 тисячами підписів із вимогою рішуче реагувати на напади. Приводом стали побиття української пари у Вроцлаві, напад із бейсбольною битою у Гливицях та образи українських дітей в автобусі у Бельсько-Бялій</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_17-37-16.jpg" length="148956" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 17:37:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
