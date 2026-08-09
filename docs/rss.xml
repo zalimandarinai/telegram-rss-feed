@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 10:52:06 +0000</lastBuildDate>
-    <item>
-      <title>Дуже рідкісний кадр – член екі</title>
-      <link>https://www.mandarinai.lt/post/97083</link>
-      <description>Дуже рідкісний кадр – член екіпажу турецького контейнеровозу LDR YAŞAR зняв момент удару безпілотника після того, як судно вийшло з порту Новоросійськ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Turkish_owned_containership_LDR_YAŞAR_was_struck_by_a_drone_in_the.mp4" length="4717641" type="video/mp4"/>
-      <pubDate>Sun, 09 Aug 2026 06:52:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Триває евакуація людей зі зруй</title>
-      <link>https://www.mandarinai.lt/post/97085</link>
-      <description>Триває евакуація людей зі зруйнованої ударом безпілотника багатоповерхівки в Харкові.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_7858.MP4" length="14402227" type="video/mp4"/>
-      <pubDate>Sun, 09 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 11:27:17 +0000</lastBuildDate>
     <item>
       <title>🤬Після нічного обстрілу великі</title>
       <link>https://www.mandarinai.lt/post/97086</link>
@@ -87,7 +73,7 @@
       <link>https://www.mandarinai.lt/post/97094</link>
       <description>⚡️У Харкові зі зруйнованого рашистами вночі  будинку вдалося врятувати сімох мешканців верхніх поверхів. Деякі люди були заблоковані, інших дістали з-під завалів.
 
-За останніми даними, кількість постраждалих зросла до 27. Відомо також про двох загиблих.</description>
+За останніми даними, кількість постраждалих зросла до 27. Відомо також про одного загиблого</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-09_08-52-09.mp4" length="1046861" type="video/mp4"/>
       <pubDate>Sun, 09 Aug 2026 08:52:09 +0000</pubDate>
     </item>
@@ -117,6 +103,22 @@
 По Одесі щойно було випущено не менше десяти таких боєприпасів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_10-13-53.jpg" length="37476" type="image/jpeg"/>
       <pubDate>Sun, 09 Aug 2026 10:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❤️‍🩹 У Харкові 1 людина загину</title>
+      <link>https://www.mandarinai.lt/post/97098</link>
+      <description>❤️‍🩹 У Харкові 1 людина загинула, ще 37 постраждали, — мер Ігор Терехов 
+
+За даними ДСНС, сталося влучання у 10-поверхівку, зруйноване перекриття між 7-м та 10-м поверхами. За іншою адресою — влучання у 3-поверхову складську будівлю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-09_10-57-31.mp4" length="2268049" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 10:57:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>💵Через знищення складів деякі </title>
+      <link>https://www.mandarinai.lt/post/97099</link>
+      <description>💵Через знищення складів деякі товари в Україні можуть подорожчати на 20%, — Liga.net</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_11-02-57.jpg" length="201264" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 11:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
