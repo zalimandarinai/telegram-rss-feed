@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 16:33:01 +0000</lastBuildDate>
-    <item>
-      <title>Уражене дронами російське судн</title>
-      <link>https://www.mandarinai.lt/post/97096</link>
-      <description>Уражене дронами російське судно «Nadezhda» якось дошкандибадо до турецького порту Самсун.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1969.MP4" length="11319820" type="video/mp4"/>
-      <pubDate>Sun, 09 Aug 2026 10:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Одеса прямо зараз відбивається</title>
-      <link>https://www.mandarinai.lt/post/97097</link>
-      <description>Одеса прямо зараз відбивається від «Бандеролей»
-
-Так називається російський гібрид малогабаритної крилатої ракети та реактивного дрона, який розвиває швидкість до 500 км/год.
-
-По Одесі щойно було випущено не менше десяти таких боєприпасів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_10-13-53.jpg" length="37476" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 10:13:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 17:13:51 +0000</lastBuildDate>
     <item>
       <title>❤️‍🩹 У Харкові 1 людина загину</title>
       <link>https://www.mandarinai.lt/post/97098</link>
@@ -142,6 +124,13 @@
 На відео - удари по російських піхотинцях проводить 210-ий штурмовий полк.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1991.MP4" length="9125386" type="video/mp4"/>
       <pubDate>Sun, 09 Aug 2026 15:45:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>«А тепер повний газ», - в Крим</title>
+      <link>https://www.mandarinai.lt/post/97110</link>
+      <description>«А тепер повний газ», - в Криму час від часу продовжують горіти російські фури після зустрічі з дронами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1995.MP4" length="22922556" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 16:44:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
