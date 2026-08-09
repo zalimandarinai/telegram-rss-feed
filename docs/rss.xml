@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 05:45:36 +0000</lastBuildDate>
-    <item>
-      <title>⚡️росіяни атакували середмістя</title>
-      <link>https://www.mandarinai.lt/post/97063</link>
-      <description>⚡️росіяни атакували середмістя Павлограду. Зайнялися приватний будинок та авто. Двоє людей отримали поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-08_18-13-56.jpg" length="20849" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 18:13:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 06:53:48 +0000</lastBuildDate>
     <item>
       <title>💥У Геленджику знищено російськ</title>
       <link>https://www.mandarinai.lt/post/97064</link>
@@ -68,13 +61,13 @@
       <description>⚡️Центр Одеси у вогні. За 2 години регіон атакували понад 70 «Шахедів» та ~20 ракет балістичних і крилатих ракет
 
 Наразі відомо про 6 постражлалих</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_04-05-46.jpg" length="383984" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/WhatsApp Video 2026-08-09 at 08.13.23.mp4" length="5734094" type="video/mp4"/>
       <pubDate>Sun, 09 Aug 2026 04:05:46 +0000</pubDate>
     </item>
     <item>
       <title>⚡️У Харкові влучання ворожого </title>
       <link>https://www.mandarinai.lt/post/97078</link>
-      <description>⚡️У Харкові влучання ворожого дрону у 10-поверховий житловий будинок. Наразі відомо про двох загиблих.</description>
+      <description>⚡️У Харкові влучання ворожого дрону у 10-поверховий житловий будинок на Салтівці. Наразі відомо про двох загиблих і 12 постраждалих. Триває рятувальна операція.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-09_05-36-53.mp4" length="667358" type="video/mp4"/>
       <pubDate>Sun, 09 Aug 2026 05:36:53 +0000</pubDate>
     </item>
@@ -86,6 +79,27 @@
 Повітряні сили повідомили, що росіяни атакували регіон ракетами "Іскандер", "Онікс", "Циркон" та Х-31П. При цьому точна кількість не називається.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_05-38-02.jpg" length="295314" type="image/jpeg"/>
       <pubDate>Sun, 09 Aug 2026 05:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Так вночі десятки українськ</title>
+      <link>https://www.mandarinai.lt/post/97080</link>
+      <description>❗️ Так вночі десятки українських БПЛА атакували цілі в Бєлгороді.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNsrT_F_VwTPSolrKEK0la_ta25yZqocd4ikCxOwP1WMxm9H935QlORxiqP0LD.mp4" length="8758960" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 05:57:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Геленджик, російські курортник</title>
+      <link>https://www.mandarinai.lt/post/97082</link>
+      <description>Геленджик, російські курортники спостерігають за тим, як українські безпілотники знищують систему ППО С-400</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQMNmOyDELv2V8eTSuz3n61P5lEDz_zbxaLKBlnur_DHd5m88XScZqBvOpAh_yO.mp4" length="2030337" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 06:30:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дуже рідкісний кадр – член екі</title>
+      <link>https://www.mandarinai.lt/post/97083</link>
+      <description>Дуже рідкісний кадр – член екіпажу турецького контейнеровозу LDR YAŞAR зняв момент удару безпілотника після того, як судно вийшло з порту Новоросійськ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Turkish_owned_containership_LDR_YAŞAR_was_struck_by_a_drone_in_the.mp4" length="4717641" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 06:52:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
