@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 09:22:50 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Так вночі десятки українськ</title>
-      <link>https://www.mandarinai.lt/post/97080</link>
-      <description>❗️ Так вночі десятки українських БПЛА атакували цілі в Бєлгороді.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNsrT_F_VwTPSolrKEK0la_ta25yZqocd4ikCxOwP1WMxm9H935QlORxiqP0LD.mp4" length="8758960" type="video/mp4"/>
-      <pubDate>Sun, 09 Aug 2026 05:57:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 10:04:47 +0000</lastBuildDate>
     <item>
       <title>Геленджик, російські курортник</title>
       <link>https://www.mandarinai.lt/post/97082</link>
@@ -113,6 +106,13 @@
 💬 «У нас приблизно 2 мільйони ухилянтів. Вони «не на радарі». Треба створити умови, щоб вони максимально потрапили на радар. А вже потім дивитися мобілізаційний ресурс, розуміти, хто має бронювання, хто відстрочку і так далі».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_09-03-04.jpg" length="38517" type="image/jpeg"/>
       <pubDate>Sun, 09 Aug 2026 09:03:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уражене дронами російське судн</title>
+      <link>https://www.mandarinai.lt/post/97096</link>
+      <description>Уражене дронами російське судно «Nadezhda» якось дошкандибадо до турецького порту Самсун.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_1969.MP4" length="11319820" type="video/mp4"/>
+      <pubDate>Sun, 09 Aug 2026 10:01:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
