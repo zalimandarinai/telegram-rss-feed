@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 11:59:06 +0000</lastBuildDate>
-    <item>
-      <title>❗️ «Регіон скоро залишиться бе</title>
-      <link>https://www.mandarinai.lt/post/97142</link>
-      <description>❗️ «Регіон скоро залишиться без заправок», на сьогодні росія знищила всі АЗС в Опішнянській громаді на Полтавщині, - голова громади Резник.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2012.MP4" length="3697501" type="video/mp4"/>
-      <pubDate>Mon, 10 Aug 2026 07:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>За годину на позицію операторі</title>
-      <link>https://www.mandarinai.lt/post/97144</link>
-      <description>За годину на позицію операторів підрозділу «Гострі Картузи» прилетіло 4 FPV-дрони - відбились від усіх</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2009.MP4" length="23392237" type="video/mp4"/>
-      <pubDate>Mon, 10 Aug 2026 07:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Камери на надводних дронах пер</title>
-      <link>https://www.mandarinai.lt/post/97145</link>
-      <description>Камери на надводних дронах передавали секретні дані до Китаю, - скандал в Британії.
-
-Камери спостереження на морських дронах K3 Scout, які використовують бійці елітного підрозділу Спеціальної човнової служби та Королівської морської піхоти, таємно передавали дані на китайську IP-адресу.
-
-Британія закупила 12 таких безпілотних катерів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_08-10-08.jpg" length="112520" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 08:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Україна стала полігоном для ви</title>
-      <link>https://www.mandarinai.lt/post/97147</link>
-      <description>Україна стала полігоном для випробування найновіших зразків військової техніки: так працює установка Skynex українських Повітряних Сил</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2015.MP4" length="4938206" type="video/mp4"/>
-      <pubDate>Mon, 10 Aug 2026 08:26:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 13:27:08 +0000</lastBuildDate>
     <item>
       <title>😎💥 Бійці ГУР спалили дві пуско</title>
       <link>https://www.mandarinai.lt/post/97148</link>
@@ -121,6 +89,31 @@
 🧪 Спецслужби росії намагались його отруїти за допомогою «Новачка».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_11-48-39.jpg" length="139578" type="image/jpeg"/>
       <pubDate>Mon, 10 Aug 2026 11:48:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛰️ Москва будує аналог Starlin</title>
+      <link>https://www.mandarinai.lt/post/97156</link>
+      <description>🛰️ Москва будує аналог Starlink, випереджаючи навіть власні плани, - Скібіцький
+
+💬 «В березні 2026-го росія вже вивела на навколоземну орбіту 16 супутників, далі запускатимуть інші, щоби створити угруповання загальною кількістю 292 супутники у 2027 році та довести його до 924 супутників у 2035 році».
+
+⚠️ Треба думати про протидію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_12-00-13.jpg" length="48413" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 12:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Біля Новоросійська атаковано </title>
+      <link>https://www.mandarinai.lt/post/97157</link>
+      <description>🔥Біля Новоросійська атаковано вантажне судно</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_13-09-07.jpg" length="46360" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 13:09:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Тобольск. Після атаки палає н</title>
+      <link>https://www.mandarinai.lt/post/97158</link>
+      <description>🔥Тобольск. Після атаки палає нафтопереробний завод. Харашо</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_13-10-36.jpg" length="103006" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 13:10:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
