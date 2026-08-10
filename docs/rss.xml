@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 03:30:10 +0000</lastBuildDate>
-    <item>
-      <title>🙄Трамп готовий завершити війну</title>
-      <link>https://www.mandarinai.lt/post/97104</link>
-      <description>🙄Трамп готовий завершити війну з Іраном навіть без ядерної угоди, але Тегеран різко підвищив ціну за відкриття Ормузької протоки, - WSJ
-
-Як пише видання, Трамп останніми тижнями все більше зосереджується не на новій ядерній угоді, а на повному відкритті Ормузької протоки. Він навіть обговорював з радниками варіант оголосити перемогу та вийти з конфлікту, якщо комерційне судноплавство відновиться.
-
-Однак Іран висунув максималістські умови: постійне припинення війни, виведення американських військ з регіону, зняття морської блокади та санкцій, розмороження активів, виплату мільярдних репарацій і припинення ударів по союзниках Тегерана.
-
-Водночас у Білому домі вважають, що після минулорічних ударів по трьом ключовим ядерним об'єктах Іран навряд чи зможе швидко відновити ядерну програму, а розвідка помітить спроби зробити це. Тому для Трампа зараз головне питання - не атомна угода, а вільний прохід нафти та газу через Ормуз.
-
-Але саме тут у Тегерана сильний важіль: періодичні атаки дронами та ракетами вже зірвали нормальне судноплавство та підняли ціни на нафту та бензин у США. WSJ пише, що Іран бачить, наскільки сильно Трамп хоче вийти з війни, і тому грає жорстко.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_14-22-16.jpg" length="112808" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 14:22:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇽🇰🙄 Тим часом у Косово образил</title>
-      <link>https://www.mandarinai.lt/post/97105</link>
-      <description>🇽🇰🙄 Тим часом у Косово образились на Зеленського — і на знак протесту зняли великий синьо-жовтий стяг.
-
-Прапор на знак солідарності з Україною висів у центрі Пріштіни від початку війни і до сьогодні.
-
-Приводом стали слова президента в Белграді: Україна й далі не визнає незалежність Косова🤷🏻‍♀️</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-09_14-50-14.mp4" length="212882" type="video/mp4"/>
-      <pubDate>Sun, 09 Aug 2026 14:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>КНДР відправляє до росії не ті</title>
-      <link>https://www.mandarinai.lt/post/97106</link>
-      <description>КНДР відправляє до росії не тільки ракети та спецпризначенців  — на допомогу Кремлю прибувають бригади північнокорейських жінок-робітниць
-
-Їх працевлаштовують на конвеєри, швейні фабрики, кухні та ферми, обіцяючи зарплату від $6
-за годину.
-
-Працівники з КНДР перебувають під жорстким контролем, можливості пересування обмежені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-09_14-57-08.jpg" length="103744" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 14:57:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 05:07:19 +0000</lastBuildDate>
     <item>
       <title>В Запорізькій області станом н</title>
       <link>https://www.mandarinai.lt/post/97109</link>
@@ -125,6 +87,13 @@
       <description>❗️ Дуже потужний вибух на логістичному маршруті в тилу противника - на окупованій трасі Маріуполь-Джанкой стає дедалі більше спалених бензовозів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2008.MP4" length="5797613" type="video/mp4"/>
       <pubDate>Sun, 09 Aug 2026 21:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Добрі дрони підпалили НПЗ у </title>
+      <link>https://www.mandarinai.lt/post/97124</link>
+      <description>💥🔥Добрі дрони підпалили НПЗ у Нижньокамську.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_05-02-57.jpg" length="91768" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 05:02:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
