@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 17:36:33 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Україна нібито вдарила по с</title>
-      <link>https://www.mandarinai.lt/post/97162</link>
-      <description>❗️ Україна нібито вдарила по споряджених балістичними ракетами установках в Курській та Брянській областях, — так обговорюють військові у соцмережах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_15-18-04.jpg" length="89081" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 15:18:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 18:34:00 +0000</lastBuildDate>
     <item>
       <title>🥴рф планує удари по дамбах, ел</title>
       <link>https://www.mandarinai.lt/post/97164</link>
@@ -80,9 +73,45 @@
 
 Причиною стали начебто порушення авторських прав, неофіційне фінансування реклами в соцмережах та ознаки «екстремізму» в матеріалах і позиції партії.
 
- Молодь спробувала організувати мирний мітинг, який розігнали за кілька хвилин🤷‍♂</description>
+ Молодь спробувала організувати мирний мітинг, який розігнали за кілька хвилин🤷‍♂
+
+💬 «У вас є 2–3 хвилини, щоб розійтися. Якщо ні — не ображайтеся. І забирати вас із військкоматів, молоді люди, ніхто не буде».
+
+При цьому на карателів в поліцейській формі, російська антивоєнна молодь не кидається, а слухняно розходиться.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-10_17-29-06.mp4" length="602816" type="video/mp4"/>
       <pubDate>Mon, 10 Aug 2026 17:29:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Втрачено МіГ-29, пілот катапул</title>
+      <link>https://www.mandarinai.lt/post/97176</link>
+      <description>Втрачено МіГ-29, пілот катапультувався, - Повітряні Сили
+
+❗️Увечері 10 серпня 2026 року, під час виконання бойового завдання втрачено винищувач МіГ-29.
+
+Льотчик виконував бойове завдання зі знищення повітряних цілей противника на Одещині. 
+
+За попередніми даними під час пуску авіаційної ракети сталась нештатна ситуація, внаслідок чого літак загорівся і пілот втратив керування, хоч і намагався врятувати машину.
+
+Льотчик успішно катапультувався, його евакуйовано до шпиталю.
+
+Причини встановлюються.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_17-47-15.jpg" length="77924" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 17:47:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Зараз центральні райони Хер</title>
+      <link>https://www.mandarinai.lt/post/97177</link>
+      <description>❗️ Зараз центральні райони Херсона закидують КАБами, пишуть в чатах місцеві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2099.MP4" length="475912" type="video/mp4"/>
+      <pubDate>Mon, 10 Aug 2026 17:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>З'явились кадри падіння МіГ-29</title>
+      <link>https://www.mandarinai.lt/post/97178</link>
+      <description>З'явились кадри падіння МіГ-29 на Одещині.
+Пілот живий.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-10_18-09-48.mp4" length="1642247" type="video/mp4"/>
+      <pubDate>Mon, 10 Aug 2026 18:09:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
