@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 20:24:01 +0000</lastBuildDate>
-    <item>
-      <title>🥴рф планує удари по дамбах, ел</title>
-      <link>https://www.mandarinai.lt/post/97164</link>
-      <description>🥴рф планує удари по дамбах, електростанціях та газосховищах Польщі та країн Балтії очікує латвійська розвідка, пише Reuters.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_15-34-33.jpg" length="211372" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 15:34:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 21:11:55 +0000</lastBuildDate>
     <item>
       <title>👌В окупованому Севастополі з 1</title>
       <link>https://www.mandarinai.lt/post/97165</link>
@@ -112,6 +105,20 @@
 Пілот живий.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-10_18-09-48.mp4" length="1642247" type="video/mp4"/>
       <pubDate>Mon, 10 Aug 2026 18:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Латвії знайшли, чим збивати </title>
+      <link>https://www.mandarinai.lt/post/97180</link>
+      <description>В Латвії знайшли, чим збивати «шахеди» - через український досвід країна розглядає можливість закупівлі бразильських штурмовиків A-29 Super Tucano від компанії Embraer, - місцеве видання SARGS.
+
+Командування Повітряних сил Латвії це обговорювало на конференції Global Air &amp; Space Chiefs у Лондоні.
+
+Такі літаки мають спеціальну систему наведення Gunslinger для боротьби з  «шахедами».
+
+Не тільки Латвія зацікавилася Super Tucano. 
+
+Разом із нею інші країни НАТО оцінюють A-29 як один із варіантів протидії безпілотним загрозам.</description>
+      <pubDate>Mon, 10 Aug 2026 20:56:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
