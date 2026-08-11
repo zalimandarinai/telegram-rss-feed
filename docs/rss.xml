@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 04:01:21 +0000</lastBuildDate>
-    <item>
-      <title>Заявлене, як кадри падіння МіГ</title>
-      <link>https://www.mandarinai.lt/post/97178</link>
-      <description>Заявлене, як кадри падіння МіГ-29 на Одещині.
-Пілот живий.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-10_18-09-48.mp4" length="1642247" type="video/mp4"/>
-      <pubDate>Mon, 10 Aug 2026 18:09:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 05:28:29 +0000</lastBuildDate>
     <item>
       <title>В Латвії знайшли, чим збивати </title>
       <link>https://www.mandarinai.lt/post/97180</link>
@@ -63,6 +55,14 @@
       <description>🔥У Воронежі після атаки дронів згорів логістичний хаб.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-11_02-38-43.mp4" length="712459" type="video/mp4"/>
       <pubDate>Tue, 11 Aug 2026 02:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російському Орську атакова</title>
+      <link>https://www.mandarinai.lt/post/97197</link>
+      <description>💥🔥В російському Орську атаковано два заводи:
+Орський нафтопереробний завод та механічний завод.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-11_04-39-18.mp4" length="440097" type="video/mp4"/>
+      <pubDate>Tue, 11 Aug 2026 04:39:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
