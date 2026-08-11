@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 11:47:26 +0000</lastBuildDate>
-    <item>
-      <title>Внаслідок ударів в Києві - дві</title>
-      <link>https://www.mandarinai.lt/post/97199</link>
-      <description>Внаслідок ударів в Києві - дві вирви на території дитячої лікарні</description>
-      <pubDate>Tue, 11 Aug 2026 06:23:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 12:59:56 +0000</lastBuildDate>
     <item>
       <title>⚡️ Готував новий обстріл ворог</title>
       <link>https://www.mandarinai.lt/post/97200</link>
@@ -86,6 +80,20 @@
 В Білому домі підтвердили, що зняті кадри є справжніми</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_10-01-21.jpg" length="226985" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 10:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Величезна колона російськог</title>
+      <link>https://www.mandarinai.lt/post/97213</link>
+      <description>❗️ Величезна колона російського транспорту була повністю спалена дронами за 20 кілометрів до лінії зіткнення, - бригада «Азов»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2164.MP4" length="3840547" type="video/mp4"/>
+      <pubDate>Tue, 11 Aug 2026 12:05:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Склад Wildberries під Воронеже</title>
+      <link>https://www.mandarinai.lt/post/97214</link>
+      <description>Склад Wildberries під Воронежем досі потужно коптить, забруднюючи навколишнє середовище</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2165.MP4" length="1866769" type="video/mp4"/>
+      <pubDate>Tue, 11 Aug 2026 12:46:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
