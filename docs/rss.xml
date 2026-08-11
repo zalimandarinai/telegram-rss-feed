@@ -6,33 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 12:59:56 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Готував новий обстріл ворог</title>
-      <link>https://www.mandarinai.lt/post/97200</link>
-      <description>⚡️ Готував новий обстріл ворога по нафтобазах та електростанціях у центрі України, - в Кропивницькому СБУ затримала агента росіян, виявився ухилянтом з проросійськими поглядами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_07-08-22.jpg" length="125183" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 07:08:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Кремль готує масштабну атак</title>
-      <link>https://www.mandarinai.lt/post/97201</link>
-      <description>⚡️ Кремль готує масштабну атаку на енергетичну інфраструктуру Києва найближчими тижнями, — оцінка ISW
-
-Мета: завадити Україні підготувати енергетику до нового опалювального сезону. 
-
-Планують зробити це, поки існує дефіцит ракет-перехоплювачів для ППО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_07-11-28.jpg" length="87374" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 07:11:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥В російському Орську атакова</title>
-      <link>https://www.mandarinai.lt/post/97202</link>
-      <description>💥🔥В російському Орську атаковано два заводи:
-Орський нафтопереробний завод та механічний завод.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_07-21-49.jpg" length="37337" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 07:21:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 14:23:02 +0000</lastBuildDate>
     <item>
       <title>Спецслужби Швеції зірвали шпиг</title>
       <link>https://www.mandarinai.lt/post/97204</link>
@@ -94,6 +68,27 @@
       <description>Склад Wildberries під Воронежем досі потужно коптить, забруднюючи навколишнє середовище</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2165.MP4" length="1866769" type="video/mp4"/>
       <pubDate>Tue, 11 Aug 2026 12:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>⛽️ Тренд на черги за пальним з</title>
+      <link>https://www.mandarinai.lt/post/97215</link>
+      <description>⛽️ Тренд на черги за пальним з росії перемістився і до Абхазії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_13-30-03.jpg" length="90659" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 13:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Окупант фатально застряг у </title>
+      <link>https://www.mandarinai.lt/post/97216</link>
+      <description>❗️ Окупант фатально застряг у розбитому вікні та полегшив завдання оператору українського безпілотника, - на Сумщині для росіян навіть руїни максимально негостинні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2167.MP4" length="4500730" type="video/mp4"/>
+      <pubDate>Tue, 11 Aug 2026 13:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Одещині «шахед» влучив в ка</title>
+      <link>https://www.mandarinai.lt/post/97217</link>
+      <description>На Одещині «шахед» влучив в кабіну вантажівки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2168.MP4" length="3383861" type="video/mp4"/>
+      <pubDate>Tue, 11 Aug 2026 14:04:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
