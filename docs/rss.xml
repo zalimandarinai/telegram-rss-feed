@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 18:26:11 +0000</lastBuildDate>
-    <item>
-      <title>Трампа під час гри в гольф охо</title>
-      <link>https://www.mandarinai.lt/post/97210</link>
-      <description>Трампа під час гри в гольф охороняв ЗРК Avenger
-
-Ракетна установка знаходилася прямо на території гольф-клубу в Нью-Джерсі.
-
-В Білому домі підтвердили, що зняті кадри є справжніми</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_10-01-21.jpg" length="226985" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 10:01:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Величезна колона російськог</title>
-      <link>https://www.mandarinai.lt/post/97213</link>
-      <description>❗️ Величезна колона російського транспорту була повністю спалена дронами за 20 кілометрів до лінії зіткнення, - бригада «Азов»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2164.MP4" length="3840547" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 12:05:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 19:34:54 +0000</lastBuildDate>
     <item>
       <title>Склад Wildberries під Воронеже</title>
       <link>https://www.mandarinai.lt/post/97214</link>
@@ -104,6 +86,20 @@
 Цей персонаж розпочинав свій політичний шлях серед демократів, але захотів бути ближче до годівниці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2174.MP4" length="7327080" type="video/mp4"/>
       <pubDate>Tue, 11 Aug 2026 17:36:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Окупанти атакували обʼєкт г</title>
+      <link>https://www.mandarinai.lt/post/97226</link>
+      <description>‼️ Окупанти атакували обʼєкт газовидобутку ДТЕК Нафтогаз на Полтавщині, його робота зупинена</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_19-15-11.jpg" length="99550" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 19:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Найбільший у росії завод з ви</title>
+      <link>https://www.mandarinai.lt/post/97227</link>
+      <description>🔥Найбільший у росії завод з виробництва зрідженого нафтового газу у Тюменській області закрили на невизначений термін після сьогоднішньої атаки БПЛА, - Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_19-17-01.jpg" length="85657" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 19:17:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
