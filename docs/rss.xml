@@ -6,19 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 17:27:36 +0000</lastBuildDate>
-    <item>
-      <title>🔥Уражено ЗРК "Бук-М3" на Луган</title>
-      <link>https://www.mandarinai.lt/post/97209</link>
-      <description>🔥Уражено ЗРК "Бук-М3" на Луганщині та командно-спостережний пункт росіян на Бєлгородщині, — Генштаб 
-
-Також було уражено: 
-
-❤️склади матеріально-технічних засобів на Луганщині; 
-❤️6 пунктів управління БпЛА на Донеччині, Курщині та Запоріжжі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_09-45-05.jpg" length="156522" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 09:45:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 18:26:11 +0000</lastBuildDate>
     <item>
       <title>Трампа під час гри в гольф охо</title>
       <link>https://www.mandarinai.lt/post/97210</link>
@@ -98,6 +86,24 @@
 Внаслідок удару спалахнула пожежа — вогонь охопив вантажівку та легковий автомобіль, який перебував поруч.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_16-53-06.jpg" length="123510" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 16:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Ви вбивали людей?»
+«Так».
+«На</title>
+      <link>https://www.mandarinai.lt/post/97224</link>
+      <description>«Ви вбивали людей?»
+«Так».
+«На сво?»
+«Так».
+«А з цим не складно потім жити?»
+«Ні».
+
+Депутат Держдуми Віталій Мілонов зізнався, що він вбивця та воєнний злочинець.
+
+Цей персонаж розпочинав свій політичний шлях серед демократів, але захотів бути ближче до годівниці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2174.MP4" length="7327080" type="video/mp4"/>
+      <pubDate>Tue, 11 Aug 2026 17:36:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
