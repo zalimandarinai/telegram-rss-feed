@@ -6,31 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 02:27:18 +0000</lastBuildDate>
-    <item>
-      <title>Втрачено МіГ-29, пілот катапул</title>
-      <link>https://www.mandarinai.lt/post/97176</link>
-      <description>Втрачено МіГ-29, пілот катапультувався, - Повітряні Сили
-
-❗️Увечері 10 серпня 2026 року, під час виконання бойового завдання втрачено винищувач МіГ-29.
-
-Льотчик виконував бойове завдання зі знищення повітряних цілей противника на Одещині. 
-
-За попередніми даними під час пуску авіаційної ракети сталась нештатна ситуація, внаслідок чого літак загорівся і пілот втратив керування, хоч і намагався врятувати машину.
-
-Льотчик успішно катапультувався, його евакуйовано до шпиталю.
-
-Причини встановлюються.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_17-47-15.jpg" length="77924" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 17:47:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Зараз центральні райони Хер</title>
-      <link>https://www.mandarinai.lt/post/97177</link>
-      <description>❗️ Зараз центральні райони Херсона закидують КАБами, пишуть в чатах місцеві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2099.MP4" length="475912" type="video/mp4"/>
-      <pubDate>Mon, 10 Aug 2026 17:57:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 04:01:21 +0000</lastBuildDate>
     <item>
       <title>Заявлене, як кадри падіння МіГ</title>
       <link>https://www.mandarinai.lt/post/97178</link>
@@ -73,6 +49,20 @@
       <description>⚡️П'ятеро людей загинули, ще 20 поранені: зростає кількість постраждалих через російську атаку на Запоріжжя</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_01-21-27.jpg" length="116456" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 01:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Комсомольську -на-Амурі (Ха</title>
+      <link>https://www.mandarinai.lt/post/97189</link>
+      <description>🔥У Комсомольську -на-Амурі (Хабаровський край) раптово спалахнула пожежа на місцевому нафтопереробному заводі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_02-35-37.jpg" length="163420" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 02:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Воронежі після атаки дронів</title>
+      <link>https://www.mandarinai.lt/post/97193</link>
+      <description>🔥У Воронежі після атаки дронів згорів логістичний хаб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-11_02-38-43.mp4" length="712459" type="video/mp4"/>
+      <pubDate>Tue, 11 Aug 2026 02:38:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
