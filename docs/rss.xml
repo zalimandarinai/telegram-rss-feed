@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 05:28:29 +0000</lastBuildDate>
-    <item>
-      <title>В Латвії знайшли, чим збивати </title>
-      <link>https://www.mandarinai.lt/post/97180</link>
-      <description>В Латвії знайшли, чим збивати «шахеди» - через український досвід країна розглядає можливість закупівлі бразильських штурмовиків A-29 Super Tucano від компанії Embraer, - місцеве видання SARGS.
-
-Командування Повітряних сил Латвії це обговорювало на конференції Global Air &amp; Space Chiefs у Лондоні.
-
-Такі літаки мають спеціальну систему наведення Gunslinger для боротьби з  «шахедами».
-
-Не тільки Латвія зацікавилася Super Tucano. 
-
-Разом із нею інші країни НАТО оцінюють A-29 як один із варіантів протидії безпілотним загрозам.</description>
-      <pubDate>Mon, 10 Aug 2026 20:56:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 06:29:37 +0000</lastBuildDate>
     <item>
       <title>Пожежі в Києві та Запоріжжі пі</title>
       <link>https://www.mandarinai.lt/post/97185</link>
@@ -63,6 +49,12 @@
 Орський нафтопереробний завод та механічний завод.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-11_04-39-18.mp4" length="440097" type="video/mp4"/>
       <pubDate>Tue, 11 Aug 2026 04:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Внаслідок ударів в Києві - дві</title>
+      <link>https://www.mandarinai.lt/post/97199</link>
+      <description>Внаслідок ударів в Києві - дві вирви на території дитячої лікарні</description>
+      <pubDate>Tue, 11 Aug 2026 06:23:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
