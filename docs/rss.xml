@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 09:58:43 +0000</lastBuildDate>
-    <item>
-      <title>⚡️П'ятеро людей загинули, ще 2</title>
-      <link>https://www.mandarinai.lt/post/97188</link>
-      <description>⚡️П'ятеро людей загинули, ще 20 поранені: зростає кількість постраждалих через російську атаку на Запоріжжя</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_01-21-27.jpg" length="116456" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 01:21:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥У Комсомольську -на-Амурі (Ха</title>
-      <link>https://www.mandarinai.lt/post/97189</link>
-      <description>🔥У Комсомольську -на-Амурі (Хабаровський край) раптово спалахнула пожежа на місцевому нафтопереробному заводі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_02-35-37.jpg" length="163420" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 02:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥У Воронежі після атаки дронів</title>
-      <link>https://www.mandarinai.lt/post/97193</link>
-      <description>🔥У Воронежі після атаки дронів згорів логістичний хаб.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-11_02-38-43.mp4" length="712459" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 02:38:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 10:57:31 +0000</lastBuildDate>
     <item>
       <title>Внаслідок ударів в Києві - дві</title>
       <link>https://www.mandarinai.lt/post/97199</link>
@@ -96,6 +75,17 @@
 ❤️6 пунктів управління БпЛА на Донеччині, Курщині та Запоріжжі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_09-45-05.jpg" length="156522" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 09:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Трампа під час гри в гольф охо</title>
+      <link>https://www.mandarinai.lt/post/97210</link>
+      <description>Трампа під час гри в гольф охороняв ЗРК Avenger
+
+Ракетна установка знаходилася прямо на території гольф-клубу в Нью-Джерсі.
+
+В Білому домі підтвердили, що зняті кадри є справжніми</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_10-01-21.jpg" length="226985" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 10:01:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
