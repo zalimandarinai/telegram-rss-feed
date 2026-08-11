@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 00:06:09 +0000</lastBuildDate>
-    <item>
-      <title>👌В окупованому Севастополі з 1</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>👌В окупованому Севастополі з 11 серпня знову продаватимуть бензин і дизель за QR-кодами, заявив гауляйтер Развожаєв, - Радіо Свобода
-
-За його словами, обмеження будуть, доки запаси пального не дозволять повернутися до вільного продажу.</description>
-      <pubDate>Mon, 10 Aug 2026 16:41:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>💩росія встановила антидронові </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💩росія встановила антидронові сітки на підводні човни у Тихому океані за 7000 км від України, — супутникові знімки
-
-У розвідці Британії зазначають, що такі захисні конструкції над субмаринами є превентивною реакцією росіян на посилення здатності України завдавати ударів на наддалеких відстанях.</description>
-      <pubDate>Mon, 10 Aug 2026 16:44:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 02:27:18 +0000</lastBuildDate>
     <item>
       <title>Втрачено МіГ-29, пілот катапул</title>
       <link>https://www.mandarinai.lt/post/97176</link>
@@ -75,6 +59,20 @@
       <description>Пожежі в Києві та Запоріжжі після російських ударів - деталі згодом</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-10_21-51-59.jpg" length="26343" type="image/jpeg"/>
       <pubDate>Mon, 10 Aug 2026 21:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Жах зараз в Запоріжжі: місто</title>
+      <link>https://www.mandarinai.lt/post/97187</link>
+      <description>❗️Жах зараз в Запоріжжі: місто під масованим обстрілом артилерії, авіабомб та балістики.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-10_21-53-38.mp4" length="488820" type="video/mp4"/>
+      <pubDate>Mon, 10 Aug 2026 21:53:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️П'ятеро людей загинули, ще 2</title>
+      <link>https://www.mandarinai.lt/post/97188</link>
+      <description>⚡️П'ятеро людей загинули, ще 20 поранені: зростає кількість постраждалих через російську атаку на Запоріжжя</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_01-21-27.jpg" length="116456" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 01:21:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
