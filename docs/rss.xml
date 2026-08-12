@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 11:10:30 +0000</lastBuildDate>
-    <item>
-      <title>В Броварах на Київщині сильна </title>
-      <link>https://www.mandarinai.lt/post/97237</link>
-      <description>В Броварах на Київщині сильна пожежа після атаки дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_07-25-33.jpg" length="51270" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 07:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Зерновий термінал у Новоросі</title>
-      <link>https://www.mandarinai.lt/post/97238</link>
-      <description>🔥 Зерновий термінал у Новоросійську припинив роботу після української атаки, - Reuters
-
-Власник об'єкта, компанія Demetra Holding, підтвердила, що термінал зазнав пошкоджень. Зараз роботи призупинено, проводиться оцінка збитків.
-
-Раніше OSINT-аналітики повідомляли про влучання у зерновий елеватор та подальшу пожежу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_07-55-50.mp4" length="555461" type="video/mp4"/>
-      <pubDate>Wed, 12 Aug 2026 07:55:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 11:58:02 +0000</lastBuildDate>
     <item>
       <title>❗️ По базі чф рф в Новоросійсь</title>
       <link>https://www.mandarinai.lt/post/97239</link>
@@ -93,6 +75,24 @@
       <description>🔥Так падає збитий на підльоті до Києва шахед</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_10-58-50.mp4" length="616593" type="video/mp4"/>
       <pubDate>Wed, 12 Aug 2026 10:58:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪖🇺🇦 Скандал із виснаженими бій</title>
+      <link>https://www.mandarinai.lt/post/97252</link>
+      <description>🪖🇺🇦 Скандал із виснаженими бійцями 121-ї бригади: в Силах оборони "Півдня" заявили про підготовку ротації "в найстисліші терміни".
+
+"Ситуація на безпосередньому контролі Командування. Головним пріоритетом залишається збереження життя та здоров’я військовослужбовців. Ротацію буде проведено одразу, як тільки це дозволить безпекова ситуація, аби не наражати особовий склад на критичний ризик під час перегрупування", — йдеться у зверненні.
+
+Нагадаємо, командир взводу 121-ї бригади ТрО Анатолій Сащук записав відеозвернення, через критичну ситуацію у його підрозділі — майже чотири місяці на позиціях і перебої з постачанням їжі, води та ліків.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_11-22-10.mp4" length="13607432" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 11:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌російський НПЗ  "Орскнефтеорг</title>
+      <link>https://www.mandarinai.lt/post/97254</link>
+      <description>👌російський НПЗ  "Орскнефтеоргсинтез" в Орську припинив роботу після атаки дронів, - Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_11-32-36.jpg" length="49899" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 11:32:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
