@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 20:41:28 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Кампанія проти «Wildberries</title>
-      <link>https://www.mandarinai.lt/post/97258</link>
-      <description>❗️ Кампанія проти «Wildberries» обрушила фінансову піраміду на 1,3 трлн. рублів, – підрахувала Служба зовнішньої розвідки України
-
-▫️ В результаті ударів вигоріло щонайменше 14 хабів «Wildberries», знищено понад 20% складських потужностей. 
-
-▫️ Прямі збитки можуть перевищити 100 млрд.  рублів, а потреба у фінансуванні аж 1,3 трлн.
-
-▫️ Продавці масово залишають платформу, оборот впав щонайменше на чверть. 
-
-▫️ Бізнес-модель маркетплейсу, що ґрунтувалася на постійному зростанні обороту та відтермінованих виплатах продавцям, опинилася під загрозою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_15-24-51.jpg" length="24113" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 15:24:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 21:28:40 +0000</lastBuildDate>
     <item>
       <title>🎙️ З січня по серпень ДШВ та і</title>
       <link>https://www.mandarinai.lt/post/97260</link>
@@ -105,6 +90,17 @@
 Також ворога відкинуто у Новопавлівці, Новогеоргіївці,  Новомиколаївці, Новогригорівцi, Запорізькому та Привільному.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_19-20-49.jpg" length="170647" type="image/jpeg"/>
       <pubDate>Wed, 12 Aug 2026 19:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Румунія знищила два російські </title>
+      <link>https://www.mandarinai.lt/post/97273</link>
+      <description>Румунія знищила два російські безпілотники, проте, не в повітрі, а на воді.
+
+Дрони «Гербера» дрейфували біля газової платформи «Neptun Deep» в Чорному морі.
+
+Їх виявив один із кораблів, які несли чергування поруч.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2195.MP4" length="446634" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 21:08:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
