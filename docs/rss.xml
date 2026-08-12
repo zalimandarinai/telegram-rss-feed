@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 15:38:27 +0000</lastBuildDate>
-    <item>
-      <title>❗️Депортацію українських чолов</title>
-      <link>https://www.mandarinai.lt/post/97243</link>
-      <description>❗️Депортацію українських чоловіків без легальної роботи підтримують понад 67%  респондентів, проти – 23,4%. Rzeczpospoluta</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_09-12-29.jpg" length="144981" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 09:12:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 16:36:34 +0000</lastBuildDate>
     <item>
       <title>❗️путін "підлизується" до Трам</title>
       <link>https://www.mandarinai.lt/post/97245</link>
@@ -110,6 +103,13 @@
 ▫️ Бізнес-модель маркетплейсу, що ґрунтувалася на постійному зростанні обороту та відтермінованих виплатах продавцям, опинилася під загрозою.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_15-24-51.jpg" length="24113" type="image/jpeg"/>
       <pubDate>Wed, 12 Aug 2026 15:24:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️ З січня по серпень ДШВ та і</title>
+      <link>https://www.mandarinai.lt/post/97260</link>
+      <description>🎙️ З січня по серпень ДШВ та інші підрозділи Сил оборони під час контрнаступу на Олександрівському напрямку звільнили 26 сіл та 745 км² території України, — доповідь Головкома Драпатого</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2191.MP4" length="20228838" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 15:57:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
