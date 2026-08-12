@@ -6,44 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 04:27:51 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Окупант фатально застряг у </title>
-      <link>https://www.mandarinai.lt/post/97216</link>
-      <description>❗️ Окупант фатально застряг у розбитому вікні та полегшив завдання оператору українського безпілотника, - на Сумщині для росіян навіть руїни максимально негостинні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2167.MP4" length="4500730" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 13:58:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>На Одещині «шахед» влучив в ка</title>
-      <link>https://www.mandarinai.lt/post/97217</link>
-      <description>На Одещині «шахед» влучив в кабіну вантажівки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2168.MP4" length="3383861" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 14:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Україна втричі наростила дале</title>
-      <link>https://www.mandarinai.lt/post/97218</link>
-      <description>💥Україна втричі наростила далекобійні удари по росії, але до цілей долітають лише 5-9% ракет і дронів, — AP
-
-Основні цілі — нафтова інфраструктура, оборонні підприємства, російська ППО та радари.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_15-44-06.jpg" length="128239" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 15:44:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>😲 Двоє російських полонених пр</title>
-      <link>https://www.mandarinai.lt/post/97219</link>
-      <description>😲 Двоє російських полонених провели на позиції з українськими бійцями 14-ої бригади більше двох місяців</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2169.MP4" length="30520248" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 16:26:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️росіяни почали ставити на «ш</title>
-      <link>https://www.mandarinai.lt/post/97220</link>
-      <description>❗️росіяни почали ставити на «шахеди» РЕБ, який глушить відеосигнал перехоплювачів, - «Флеш»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2170.MP4" length="728456" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 16:35:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 05:58:26 +0000</lastBuildDate>
     <item>
       <title>❗️Двоє людей загинули, ще троє</title>
       <link>https://www.mandarinai.lt/post/97221</link>
@@ -100,6 +63,34 @@
       <description>💥У Новоросійську "нічна дискотека" в районі порту</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_00-23-28.mp4" length="1612276" type="video/mp4"/>
       <pubDate>Wed, 12 Aug 2026 00:23:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Влучання в багатоповерхівку і </title>
+      <link>https://www.mandarinai.lt/post/97232</link>
+      <description>Влучання в багатоповерхівку і пожежа в «Епіцентрі» - що зруйнував ворог за цю ніч:
+
+▪️ Запоріжжя. Повністю згорів «Епіцентр». Також без електропостачання залишаються близько 1200 сімей.
+
+▪️ Одеса. Приліт в житловий будинок, внаслідок чого згоріла квартира. Без постраждалих. 
+
+▪️ Полтавська область. Через російський обстріл загорілося одне з промислових підприємств. Рятувальники, попри загрозу повторного удару,  оперативно ліквідували пожежу. Загиблих і травмованих немає.
+
+▪️ Дніпропетровська область. Прильоти дронів та ракети.
+
+У Дніпровському районі виникла пожежа. 
+
+В районі Нікополя пошкоджено лікарню, культурно-спортивний комплекс, магазин, багатоквартирні будинки та автомобіль.
+
+В Криворізькому районі внаслідок атаки пошкоджено приватний будинок.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2178.MP4" length="10853993" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 05:38:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У порту Новоросійська палає </title>
+      <link>https://www.mandarinai.lt/post/97234</link>
+      <description>💥🔥У порту Новоросійська палає і димить після нічної атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_05-43-59.jpg" length="73922" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 05:43:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
