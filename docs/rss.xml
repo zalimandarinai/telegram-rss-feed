@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 07:40:25 +0000</lastBuildDate>
-    <item>
-      <title>«Ви вбивали людей?»
-«Так».
-«На</title>
-      <link>https://www.mandarinai.lt/post/97224</link>
-      <description>«Ви вбивали людей?»
-«Так».
-«На сво?»
-«Так».
-«А з цим не складно потім жити?»
-«Ні».
-
-Депутат Держдуми Віталій Мілонов зізнався, що він вбивця та воєнний злочинець.
-
-Цей персонаж розпочинав свій політичний шлях серед демократів, але захотів бути ближче до годівниці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2174.MP4" length="7327080" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 17:36:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 08:51:09 +0000</lastBuildDate>
     <item>
       <title>‼️ Окупанти атакували обʼєкт г</title>
       <link>https://www.mandarinai.lt/post/97226</link>
@@ -85,8 +67,28 @@
       <title>В Броварах на Київщині сильна </title>
       <link>https://www.mandarinai.lt/post/97237</link>
       <description>В Броварах на Київщині сильна пожежа після атаки дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_07-25-33.mp4" length="265718" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_07-25-33.jpg" length="51270" type="image/jpeg"/>
       <pubDate>Wed, 12 Aug 2026 07:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Зерновий термінал у Новоросі</title>
+      <link>https://www.mandarinai.lt/post/97238</link>
+      <description>🔥 Зерновий термінал у Новоросійську припинив роботу після української атаки, - Reuters
+
+Власник об'єкта, компанія Demetra Holding, підтвердила, що термінал зазнав пошкоджень. Зараз роботи призупинено, проводиться оцінка збитків.
+
+Раніше OSINT-аналітики повідомляли про влучання у зерновий елеватор та подальшу пожежу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_07-55-50.mp4" length="555461" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 07:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ По базі чф рф в Новоросійсь</title>
+      <link>https://www.mandarinai.lt/post/97239</link>
+      <description>❗️ По базі чф рф в Новоросійську відпрацювали реактивні дрони «Паляниця», ракети «Нептун» та морські безпілотники, - Зеленський
+
+Операцію військові вважають унікальною. Чітка координація різних видів озброєння під час її проведення свідчить про високий рівень організації та обізнаності Сил оборони України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2183.MP4" length="5463155" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 08:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
