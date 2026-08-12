@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 05:58:26 +0000</lastBuildDate>
-    <item>
-      <title>❗️Двоє людей загинули, ще троє</title>
-      <link>https://www.mandarinai.lt/post/97221</link>
-      <description>❗️Двоє людей загинули, ще троє постраждали внаслідок удару російських терористів по Одеській області — ОВА
-
-Окупанти атакували вантажівку з цистерною, у якій знаходилися залишки олії. 
-
-Внаслідок удару спалахнула пожежа — вогонь охопив вантажівку та легковий автомобіль, який перебував поруч.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_16-53-06.jpg" length="123510" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 16:53:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 07:40:25 +0000</lastBuildDate>
     <item>
       <title>«Ви вбивали людей?»
 «Так».
@@ -91,6 +80,13 @@
       <description>💥🔥У порту Новоросійська палає і димить після нічної атаки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_05-43-59.jpg" length="73922" type="image/jpeg"/>
       <pubDate>Wed, 12 Aug 2026 05:43:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Броварах на Київщині сильна </title>
+      <link>https://www.mandarinai.lt/post/97237</link>
+      <description>В Броварах на Київщині сильна пожежа після атаки дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_07-25-33.mp4" length="265718" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 07:25:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
