@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 10:02:03 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥У порту Новоросійська палає </title>
-      <link>https://www.mandarinai.lt/post/97234</link>
-      <description>💥🔥У порту Новоросійська палає і димить після нічної атаки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_05-43-59.jpg" length="73922" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 05:43:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 11:10:30 +0000</lastBuildDate>
     <item>
       <title>В Броварах на Київщині сильна </title>
       <link>https://www.mandarinai.lt/post/97237</link>
@@ -73,6 +66,33 @@
 А їхні священнослужителі, які благословили цей злочин, насправді служать не Христу, а злочинцю в Кремлі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2184.MP4" length="18822258" type="video/mp4"/>
       <pubDate>Wed, 12 Aug 2026 09:47:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Серія вибухів пролунала в Ки</title>
+      <link>https://www.mandarinai.lt/post/97248</link>
+      <description>⚡️Серія вибухів пролунала в Києві, в місті працює ППО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_10-25-47.mp4" length="712093" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 10:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀У липні внаслідок російсько-у</title>
+      <link>https://www.mandarinai.lt/post/97249</link>
+      <description>👀У липні внаслідок російсько-української війни загинули щонайменше 634 цивільних осіб – це рекорд за останні 2,5 роки, - – Conflict Intelligence Team (CIT). 
+
+У липні 2026 року внаслідок обстрілів цивільної інфраструктури  загинули щонайменше 634 цивільних осіб, ще щонайменше 4590 людей отримали поранення різного ступеня тяжкості, 
+
+Це найвищий місячний показник як з початку 2026 року, так і щонайменше за останні 2,5 роки
+
+За перші сім місяців 2026 року, за оцінками CIT, внаслідок взаємних обстрілів загинули щонайменше 2491 цивільна особа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-12_10-54-27.jpg" length="223941" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 10:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Так падає збитий на підльоті </title>
+      <link>https://www.mandarinai.lt/post/97251</link>
+      <description>🔥Так падає збитий на підльоті до Києва шахед</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_10-58-50.mp4" length="616593" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 10:58:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
