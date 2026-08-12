@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 23:59:33 +0000</lastBuildDate>
-    <item>
-      <title>Склад Wildberries під Воронеже</title>
-      <link>https://www.mandarinai.lt/post/97214</link>
-      <description>Склад Wildberries під Воронежем досі потужно коптить, забруднюючи навколишнє середовище</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2165.MP4" length="1866769" type="video/mp4"/>
-      <pubDate>Tue, 11 Aug 2026 12:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>⛽️ Тренд на черги за пальним з</title>
-      <link>https://www.mandarinai.lt/post/97215</link>
-      <description>⛽️ Тренд на черги за пальним з росії перемістився і до Абхазії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_13-30-03.jpg" length="90659" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 13:30:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 02:34:33 +0000</lastBuildDate>
     <item>
       <title>❗️ Окупант фатально застряг у </title>
       <link>https://www.mandarinai.lt/post/97216</link>
@@ -100,6 +86,20 @@
       <description>🔥Найбільший у росії завод з виробництва зрідженого нафтового газу у Тюменській області закрили на невизначений термін після сьогоднішньої атаки БПЛА, - Reuters</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-11_19-17-01.jpg" length="85657" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 19:17:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Запоріжжі після ворожого у</title>
+      <link>https://www.mandarinai.lt/post/97229</link>
+      <description>⚡️У Запоріжжі після ворожого удару палає торговельний центр — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_00-21-59.mp4" length="950376" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 00:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У Новоросійську "нічна дискот</title>
+      <link>https://www.mandarinai.lt/post/97230</link>
+      <description>💥У Новоросійську "нічна дискотека" в районі порту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-12_00-23-28.mp4" length="1612276" type="video/mp4"/>
+      <pubDate>Wed, 12 Aug 2026 00:23:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
