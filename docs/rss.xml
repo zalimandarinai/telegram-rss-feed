@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 08:51:29 +0000</lastBuildDate>
-    <item>
-      <title>🔥Контрнаступ ЗСУ на Олександрі</title>
-      <link>https://www.mandarinai.lt/post/97275</link>
-      <description>🔥Контрнаступ ЗСУ на Олександрівському напрямку - 745 кв. км звільненої української землі!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_01-53-31.mp4" length="20855411" type="video/mp4"/>
-      <pubDate>Thu, 13 Aug 2026 01:53:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Окупований Маріуполь під ата</title>
-      <link>https://www.mandarinai.lt/post/97276</link>
-      <description>💥🔥Окупований Маріуполь під атакою ударних дронів
-
-У Бердянську, Мелітополі, Генічеську та Севастополі (Крим) сталися відключення світла</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_01-55-48.jpg" length="29206" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 01:55:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зранку прилетіло по НПЗ в міст</title>
-      <link>https://www.mandarinai.lt/post/97277</link>
-      <description>Зранку прилетіло по НПЗ в місті Салават в Башкирії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_05-42-35.jpg" length="59847" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 05:42:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 10:03:41 +0000</lastBuildDate>
     <item>
       <title>Також в Башкирії під ударом др</title>
       <link>https://www.mandarinai.lt/post/97278</link>
@@ -95,6 +72,22 @@
       <description>👀Збитий шахед впав просто поміж їдучих авто на трасі під Києвом</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_08-10-54.mp4" length="379837" type="video/mp4"/>
       <pubDate>Thu, 13 Aug 2026 08:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Сьогодні у Севастополі підір</title>
+      <link>https://www.mandarinai.lt/post/97291</link>
+      <description>⚡️Сьогодні у Севастополі підірвали зрадника України, екскомандира українського підводного човна «Запоріжжя» Роберта Шагеєва
+
+У 2014 році він перейшов на бік окупантів та сприяв військовому вторгненню рф до України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_09-07-17.jpg" length="194159" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 09:07:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬русня вдруге за добу вдарила </title>
+      <link>https://www.mandarinai.lt/post/97293</link>
+      <description>🤬русня вдруге за добу вдарила по пасажирському потягу. Відео влучання на станції в Одесі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_09-30-40.mp4" length="1501502" type="video/mp4"/>
+      <pubDate>Thu, 13 Aug 2026 09:30:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
