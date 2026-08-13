@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 15:41:22 +0000</lastBuildDate>
-    <item>
-      <title>💥Момент сьогоднішньої атаки на</title>
-      <link>https://www.mandarinai.lt/post/97289</link>
-      <description>💥Момент сьогоднішньої атаки на черговий російській логістичний хаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_08-05-29.mp4" length="2396957" type="video/mp4"/>
-      <pubDate>Thu, 13 Aug 2026 08:05:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 16:35:52 +0000</lastBuildDate>
     <item>
       <title>👀Збитий шахед впав просто помі</title>
       <link>https://www.mandarinai.lt/post/97290</link>
@@ -129,6 +122,17 @@
 👉 Реєстрація: https://i.goit.global/IaGbQ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_15-23-12.jpg" length="219581" type="image/jpeg"/>
       <pubDate>Thu, 13 Aug 2026 15:23:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мінус $100 млн. у рашистів: ЗС</title>
+      <link>https://www.mandarinai.lt/post/97303</link>
+      <description>Мінус $100 млн. у рашистів: ЗСУ знищили дорожезну російську РЛС «Небо-У» у Севастополі
+
+Ця станція виявляла повітряні цілі, зокрема ракети та літаки, на великих відстанях. 
+
+Тепер «сліпа зона» окупантів у Криму стала ще більшою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_16-12-56.jpg" length="93374" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 16:12:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
