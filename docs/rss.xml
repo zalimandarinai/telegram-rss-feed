@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 10:03:41 +0000</lastBuildDate>
-    <item>
-      <title>Також в Башкирії під ударом др</title>
-      <link>https://www.mandarinai.lt/post/97278</link>
-      <description>Також в Башкирії під ударом дронів опинився логістичний хаб Wildberries</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2199.MP4" length="20068596" type="video/mp4"/>
-      <pubDate>Thu, 13 Aug 2026 05:44:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Противник розпочав використову</title>
-      <link>https://www.mandarinai.lt/post/97279</link>
-      <description>Противник розпочав використовувати новий дрон невідомого типу, який несе дві протитанкові міни, - «Флеш», радник президента з питань розвитку технологічних напрямів оборони.
-
-Дрон схожий на «Молнію». Він має раму з двох балок та апаратний відсік з батареєю в центральній частині.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_06-41-11.jpg" length="65912" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 06:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️ Детально про українське про</title>
-      <link>https://www.mandarinai.lt/post/97280</link>
-      <description>🎙️ Детально про українське просування на південному фронті спеціально для ЦАПЛІЄНКО_UKRAINE FIGHTS, - речник 148-ої бригади ДШВ Сергій Колесниченко</description>
-      <pubDate>Thu, 13 Aug 2026 06:45:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 11:11:07 +0000</lastBuildDate>
     <item>
       <title>⚡️росіяни вдарили по локомотив</title>
       <link>https://www.mandarinai.lt/post/97281</link>
@@ -88,6 +66,22 @@
       <description>🤬русня вдруге за добу вдарила по пасажирському потягу. Відео влучання на станції в Одесі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_09-30-40.mp4" length="1501502" type="video/mp4"/>
       <pubDate>Thu, 13 Aug 2026 09:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Сили оборони рознесли важлив</title>
+      <link>https://www.mandarinai.lt/post/97294</link>
+      <description>💥 Сили оборони рознесли важливі військові обʼєкти окупантів у Криму. 
+
+Вгатили по диспетчерській вежі аеродрому "Саки" в районі Новофедорівки та ретранслятору для управління ударними БпЛА типу "Герань"/"Гербера", —  повідомили у Генштабі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_10-53-59.jpg" length="115535" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 10:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Якщо США продасть нам 10% зап</title>
+      <link>https://www.mandarinai.lt/post/97295</link>
+      <description>🔴Якщо США продасть нам 10% запасів Patriot, Україна знищить всі російські балістичні ракети, –  Зеленський в інтервʼю CNN</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_11-05-24.jpg" length="85396" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 11:05:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
