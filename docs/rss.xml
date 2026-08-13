@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 11:11:07 +0000</lastBuildDate>
-    <item>
-      <title>⚡️росіяни вдарили по локомотив</title>
-      <link>https://www.mandarinai.lt/post/97281</link>
-      <description>⚡️росіяни вдарили по локомотиву пасажирського потяга на Одещині, — Укрзалізниця
-
-Загинули машиніст та його помічник. Із потяга евакуювали 340 пасажирів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_06-57-28.mp4" length="3530193" type="video/mp4"/>
-      <pubDate>Thu, 13 Aug 2026 06:57:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 11:59:47 +0000</lastBuildDate>
     <item>
       <title>💥Так зараз виглядає зерновий т</title>
       <link>https://www.mandarinai.lt/post/97282</link>
@@ -82,6 +73,15 @@
       <description>🔴Якщо США продасть нам 10% запасів Patriot, Україна знищить всі російські балістичні ракети, –  Зеленський в інтервʼю CNN</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_11-05-24.jpg" length="85396" type="image/jpeg"/>
       <pubDate>Thu, 13 Aug 2026 11:05:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌🫠 Орський НПЗ на Росії повніс</title>
+      <link>https://www.mandarinai.lt/post/97297</link>
+      <description>❌🫠 Орський НПЗ на Росії повністю зупинив роботу після успішного удару ЗСУ.
+
+Влада визнає, відновлення буде тривалим — не менше 6 місяців, бо обладнання імпортне, тож готуються до найгіршого сценарію. Паливо планують завозити "ззовні", бо наразі працюють лише 80% АЗС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_11-45-16.mp4" length="2558312" type="video/mp4"/>
+      <pubDate>Thu, 13 Aug 2026 11:45:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
