@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 13:35:53 +0000</lastBuildDate>
-    <item>
-      <title>💥Так зараз виглядає зерновий т</title>
-      <link>https://www.mandarinai.lt/post/97282</link>
-      <description>💥Так зараз виглядає зерновий термінал у Новоросійську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_06-59-57.jpg" length="190098" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 06:59:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Паливна криза знову накриває </title>
-      <link>https://www.mandarinai.lt/post/97285</link>
-      <description>🔥Паливна криза знову накриває російські регіони. В чергах на АЗС доводиться буквально жити.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_07-23-57.mp4" length="1219513" type="video/mp4"/>
-      <pubDate>Thu, 13 Aug 2026 07:23:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 14:43:44 +0000</lastBuildDate>
     <item>
       <title>🔥Wildberries в Башкірії - хай </title>
       <link>https://www.mandarinai.lt/post/97287</link>
@@ -82,6 +68,26 @@
 Влада визнає, відновлення буде тривалим — не менше 6 місяців, бо обладнання імпортне, тож готуються до найгіршого сценарію. Паливо планують завозити "ззовні", бо наразі працюють лише 80% АЗС.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_11-45-16.mp4" length="2558312" type="video/mp4"/>
       <pubDate>Thu, 13 Aug 2026 11:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Європа збільшила допомогу Укра</title>
+      <link>https://www.mandarinai.lt/post/97298</link>
+      <description>Європа збільшила допомогу Україні після припинення підтримки з боку США
+ 
+Європейські країни у травні та червні збільшили обсяги підтримки України приблизно до 11 мільярдів євро, повідомляє Інститут світової економіки в Кілі (IfW). З цієї суми 4,3 мільярда євро було спрямовано на військову допомогу, а ще 6,7 мільярдів – на фінансову та гуманітарну підтримку.
+ 
+Водночас, США протягом цього періоду, за даними IfW, не надавали нових поставок допомоги Україні. Однак, американська зброя продовжує надходити на український фронт через європейських союзників: лише за першу половину 2026 року країни Європи закупили у США озброєння на суму щонайменше 3 мільярди євро.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_13-53-13.jpg" length="83700" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 13:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ДСНС публікує кадри після уд</title>
+      <link>https://www.mandarinai.lt/post/97299</link>
+      <description>⚡️ДСНС публікує кадри після удару по пасажирському потягу на Одещині
+
+Постраждала дитина.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_14-10-49.mp4" length="11919637" type="video/mp4"/>
+      <pubDate>Thu, 13 Aug 2026 14:10:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
