@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 23:57:48 +0000</lastBuildDate>
-    <item>
-      <title>🎙️ З січня по серпень ДШВ та і</title>
-      <link>https://www.mandarinai.lt/post/97260</link>
-      <description>🎙️ З січня по серпень ДШВ та інші підрозділи Сил оборони під час контрнаступу на Олександрівському напрямку звільнили 26 сіл та 745 км² території України, — доповідь Головкома Драпатого</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2191.MP4" length="20228838" type="video/mp4"/>
-      <pubDate>Wed, 12 Aug 2026 15:57:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 02:23:34 +0000</lastBuildDate>
     <item>
       <title>⚡️ В порту Новоросійськ уражен</title>
       <link>https://www.mandarinai.lt/post/97263</link>
@@ -101,6 +94,31 @@
 Їх виявив один із кораблів, які несли чергування поруч.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2195.MP4" length="446634" type="video/mp4"/>
       <pubDate>Wed, 12 Aug 2026 21:08:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Окупований Маріуполь під ата</title>
+      <link>https://www.mandarinai.lt/post/97274</link>
+      <description>💥🔥Окупований Маріуполь під атакою ударних дронів
+
+У Бердянську, Мелітополі, Генічеську та Севастополі (Крим) сталися відключення світла</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_01-45-54.jpg" length="29206" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 01:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Контрнаступ ЗСУ на Олександрі</title>
+      <link>https://www.mandarinai.lt/post/97275</link>
+      <description>🔥Контрнаступ ЗСУ на Олександрівському напрямку - 745 кв. км звільненої української землі!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_01-53-31.mp4" length="20855411" type="video/mp4"/>
+      <pubDate>Thu, 13 Aug 2026 01:53:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Окупований Маріуполь під ата</title>
+      <link>https://www.mandarinai.lt/post/97276</link>
+      <description>💥🔥Окупований Маріуполь під атакою ударних дронів
+
+У Бердянську, Мелітополі, Генічеську та Севастополі (Крим) сталися відключення світла</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_01-55-48.jpg" length="29206" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 01:55:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
