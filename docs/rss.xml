@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 20:23:11 +0000</lastBuildDate>
-    <item>
-      <title>Мінус $100 млн. у рашистів: ЗС</title>
-      <link>https://www.mandarinai.lt/post/97303</link>
-      <description>Мінус $100 млн. у рашистів: ЗСУ знищили дорожезну російську РЛС «Небо-У» у Севастополі
-
-Ця станція виявляла повітряні цілі, зокрема ракети та літаки, на великих відстанях. 
-
-Тепер «сліпа зона» окупантів у Криму стала ще більшою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_16-12-56.jpg" length="93374" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 16:12:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 21:14:07 +0000</lastBuildDate>
     <item>
       <title>❗️Україна запропонувала росії </title>
       <link>https://www.mandarinai.lt/post/97304</link>
@@ -102,6 +91,13 @@
       <description>🔥В окупованому Єнакієво після зустрічі з дронами мінус ТЦ «Галактика»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_20-11-25.mp4" length="629365" type="video/mp4"/>
       <pubDate>Thu, 13 Aug 2026 20:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни вдарили авіабомбою п</title>
+      <link>https://www.mandarinai.lt/post/97320</link>
+      <description>⚡️росіяни вдарили авіабомбою по багатоповерхівці в Краматорську: є загиблий та щонайменше 15 поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_20-27-09.mp4" length="1005356" type="video/mp4"/>
+      <pubDate>Thu, 13 Aug 2026 20:27:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
