@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 18:51:32 +0000</lastBuildDate>
-    <item>
-      <title>«Альфа» СБУ показала, як перер</title>
-      <link>https://www.mandarinai.lt/post/97351</link>
-      <description>«Альфа» СБУ показала, як перерізає логістичні артерії ворога
-
-За місяць спецпризначенці знищили та уразили майже 2400 автомобілів, командно-штабних машин та спецтехніки противника.
-
-Колишній очільник «Альфи», а нині міністр оборони Євгеній Хмара, обіцяє зміну стратегії deep-strike і поширення її по всій російській території.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2252.MP4" length="28836268" type="video/mp4"/>
-      <pubDate>Fri, 14 Aug 2026 11:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Прямо зараз росія завдає ударі</title>
-      <link>https://www.mandarinai.lt/post/97353</link>
-      <description>Прямо зараз росія завдає ударів малогабаритними крилатими ракетами «Бандероль» по Одещині, українська авіація намагається їх збивати</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2255.MP4" length="827416" type="video/mp4"/>
-      <pubDate>Fri, 14 Aug 2026 11:57:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 19:46:50 +0000</lastBuildDate>
     <item>
       <title>Наприкінці минулого року путін</title>
       <link>https://www.mandarinai.lt/post/97354</link>
@@ -147,6 +129,21 @@ NYT також зазначає, що за підтримки Москви в М
 Угода на стадії фіналізації</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_17-28-57.jpg" length="45130" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 17:28:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛻 Ми з вами зробили це, друзі.</title>
+      <link>https://www.mandarinai.lt/post/97367</link>
+      <description>🛻 Ми з вами зробили це, друзі. 
+
+🇩🇰 Щойно ми передали іще один пікап Nissan Navara Силам оборони України в рамках нашої спільної датсько-української ініціативи. 
+
+🇺🇦 Але ви, шановні підписники, допомогли цю машину відремонтувати і підготувати для роботи на передовій. 
+
+✅ Цей Nissan отримала 17-а механізована бригада. 
+
+🤝 Вистоїмо тільки разом!</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2269.MP4" length="7631734" type="video/mp4"/>
+      <pubDate>Fri, 14 Aug 2026 19:29:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
