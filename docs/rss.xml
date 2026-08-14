@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 20:58:41 +0000</lastBuildDate>
-    <item>
-      <title>🔥 В Москві невідомі спалили ав</title>
-      <link>https://www.mandarinai.lt/post/97358</link>
-      <description>🔥 В Москві невідомі спалили автозак Росгвардії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2259.MP4" length="19265056" type="video/mp4"/>
-      <pubDate>Fri, 14 Aug 2026 13:41:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 21:32:03 +0000</lastBuildDate>
     <item>
       <title>⚡️рф може не окупувати Донбас </title>
       <link>https://www.mandarinai.lt/post/97359</link>
@@ -110,6 +103,23 @@ NYT також зазначає, що за підтримки Москви в М
       <description>Пекельні пожежі охопили Хорватію. Вогонь блискавично розповсюджується в бік відомих курортів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_20-16-09.jpg" length="145564" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 20:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Цю жінку росіяни звинувачують </title>
+      <link>https://www.mandarinai.lt/post/97373</link>
+      <description>Цю жінку росіяни звинувачують у вбивстві зрадника, колишнього командира єдиного українського підводного човна «Запоріжжя».
+
+Її зовуть Маргарита Реут.
+
+На запитання слідчого, чи розкаюється вона у скоєному, Реут нібито відповіла: «Ні».
+
+В лютому 2026 року дівчина опублікувала в соцмережах хештег про те, що їй соромно бути росіянкою. Публікація з’явилася після генетичного тесту, який показав 98% її належності до росіян.
+
+Наприкінці липня 2025 року Реут оштрафували за те, що в потязі Самара-Адлер вона вигукнула «Так вам і треба, росіяни!» після повідомлення про атаку БПЛА в Ростовській області.
+
+Після замаху на зрадника Реут планувала виїхати за кордон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_20-59-02.jpg" length="11024" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 20:59:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
