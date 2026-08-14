@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 10:42:30 +0000</lastBuildDate>
-    <item>
-      <title>9-річний хлопчик та його мама </title>
-      <link>https://www.mandarinai.lt/post/97327</link>
-      <description>9-річний хлопчик та його мама загинули внаслідок подвійного удару рф по Сумщині, — ОВА
-
-росіяни двома реактивними БпЛА атакували приватний будинок у Буринській громаді.
-
-Батько та бабуся хлопчика з важкими опіками перебувають у лікарні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_06-12-49.jpg" length="226681" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 06:12:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 11:29:42 +0000</lastBuildDate>
     <item>
       <title>💥🔥В Ленінградській області ата</title>
       <link>https://www.mandarinai.lt/post/97328</link>
@@ -107,6 +96,13 @@
 Насправді просування біля Вовчанська добре показує це відео прикордонників, на якому вони знищують дві малі штурмові групи противника.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2242.MP4" length="14637959" type="video/mp4"/>
       <pubDate>Fri, 14 Aug 2026 10:25:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зігріємося вогнем російських Н</title>
+      <link>https://www.mandarinai.lt/post/97344</link>
+      <description>Зігріємося вогнем російських НПЗ, - в ЗСУ відповіли на погрозі російських військових заморозити українців</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_11-05-44.jpg" length="60768" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 11:05:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
