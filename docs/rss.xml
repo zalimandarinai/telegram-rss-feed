@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 09:45:17 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Один загиблий, 17 поранених,</title>
-      <link>https://www.mandarinai.lt/post/97324</link>
-      <description>⚡️Один загиблий, 17 поранених, зруйнована багатоповерхівквка внаслідок нічного удару рф по Краматорську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_06-05-53.jpg" length="205533" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 06:05:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 10:42:30 +0000</lastBuildDate>
     <item>
       <title>9-річний хлопчик та його мама </title>
       <link>https://www.mandarinai.lt/post/97327</link>
@@ -84,6 +77,36 @@
       <link>https://www.mandarinai.lt/post/97339</link>
       <description>🗾 З тих 745 квадратних кілометрів, над якими вдалось відновити контроль на Олександрівському напрямку, підрозділи 425-го окремого штурмового полку відбили в противника 126 км², - полк «Скеля»</description>
       <pubDate>Fri, 14 Aug 2026 09:43:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇵🇱 Вперше за російським замовл</title>
+      <link>https://www.mandarinai.lt/post/97340</link>
+      <description>🇵🇱 Вперше за російським замовленням вирішили здійснити замах на громадянина США на території іншої країни НАТО, - Дональд Туск про кілера, якого вдалось затримати в Варшаві.
+
+ℹ️ Що відомо:
+
+▫️ потенційний кілер, громадянин росії, який мав здійснити замах, був виявлений польськими спецслужбами;
+
+▫️ потенційна жертва, громадянин США українського походження, має бізнес в сфері оборони;
+
+▫️ операцію із затримання поляки проводили у співпраці з американськими спецслужбами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_10-00-40.jpg" length="120528" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 10:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії міністерство оборони о</title>
+      <link>https://www.mandarinai.lt/post/97341</link>
+      <description>В росії міністерство оборони офіційно відзвітувало про «захоплення» села Щербаківка в Харківській області. 
+
+Але цього села насправді не існує вже майже 30 років. 
+
+Населений пункт був офіційно ліквідований ще у 1997 році, коли звідти виїхали останні мешканці. 
+
+Кремлівська пропаганда регулярно використовує назви вигаданих або давно ліквідованих сіл, щоб створити в медіапросторі ілюзію безперервного успішного просування.
+
+Насправді просування біля Вовчанська добре показує це відео прикордонників, на якому вони знищують дві малі штурмові групи противника.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2242.MP4" length="14637959" type="video/mp4"/>
+      <pubDate>Fri, 14 Aug 2026 10:25:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
