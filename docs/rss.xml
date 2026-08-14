@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 07:22:49 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Жертви серед цивільних в Ук</title>
-      <link>https://www.mandarinai.lt/post/97313</link>
-      <description>⚡️ Жертви серед цивільних в Україні у липні сягнули піку з 2022 року, - ООН
-
-За даними місії, у липні 2026 року в Україні загинули щонайменше 437 цивільних, ще 2610 дістали поранень.
-
-Це на 30% більше, ніж у червні: 298 загиблих і 2041 поранений, і на 70% більше, ніж у липні 2025 року: 312 загиблих і 1482 поранених.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_18-12-52.jpg" length="51919" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 18:12:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Польща може найближчими дням</title>
-      <link>https://www.mandarinai.lt/post/97314</link>
-      <description>‼️Польща може найближчими днями передати Україні нові ракети до систем Patriot, — Interia
-
-Заступниця міністра оборони Польщі Магдалена Собковяк-Чарнецька заявила, що рішення ухвалюватимуть на найвищому рівні з урахуванням безпеки поляків.
-
-За її словами, міністр оборони Владислав Косіняк-Камиш схиляється до надання Україні нової партії ракет.
-
-Він вважає за краще, щоб таку ракету збили над територією України, а не щоб вона залетіла до нас, — пояснила заступниця міністра.
-У липні Польща вже передала Україні кілька ракет до систем Patriot. Рішення критикували опозиція та президент Кароль Навроцький</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_18-16-21.jpg" length="178510" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 18:16:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 08:44:41 +0000</lastBuildDate>
     <item>
       <title>🔥В окупованому Єнакієво після </title>
       <link>https://www.mandarinai.lt/post/97318</link>
@@ -90,6 +65,24 @@
       <description>💥🔥В Ленінградській області атаковані термінали компаній "Новатек" та "Єврохім".</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_06-45-29.jpg" length="157291" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 06:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬росія цинічно анонсує нові уд</title>
+      <link>https://www.mandarinai.lt/post/97330</link>
+      <description>🤬росія цинічно анонсує нові удари по енергетиці України на фоні пропозиції Києва щодо припинення атак.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_07-59-32.jpg" length="74600" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 07:59:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 ГУР знищило ешелон з півніко</title>
+      <link>https://www.mandarinai.lt/post/97331</link>
+      <description>🔥 ГУР знищило ешелон з півнікокорейськими ракетами в Сибіру – на відстані 6000 км від України.
+
+За даними військового Кирила Сазонова, потяг з ракетами KN-23/KN-24 та боєприпасами було підірвано на Транссибірській магістралі.
+
+Чекаємо на офіційне підтвердження від ГУР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_08-08-04.jpg" length="178883" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 08:08:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
