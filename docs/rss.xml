@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 15:50:10 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Ракетний удар сьогодні вран</title>
-      <link>https://www.mandarinai.lt/post/97346</link>
-      <description>❗️ Ракетний удар сьогодні вранці по навчальному закладу в Балаклії на Харківщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_11-30-18.jpg" length="187833" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 11:30:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 16:50:24 +0000</lastBuildDate>
     <item>
       <title>«Альфа» СБУ показала, як перер</title>
       <link>https://www.mandarinai.lt/post/97351</link>
@@ -88,6 +81,22 @@
       <description>🔥 В Москві невідомі спалили автозак Росгвардії</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2259.MP4" length="19265056" type="video/mp4"/>
       <pubDate>Fri, 14 Aug 2026 13:41:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф може не окупувати Донбас </title>
+      <link>https://www.mandarinai.lt/post/97359</link>
+      <description>⚡️рф може не окупувати Донбас навіть і в 2027 році — Київ передав таку оцінку адміністрації Трампа, — Kyiv Independent</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_16-04-37.jpg" length="69582" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 16:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌У Познані затримали неадекват</title>
+      <link>https://www.mandarinai.lt/post/97360</link>
+      <description>👌У Познані затримали неадекватну польку після нападу на українців
+
+МВС Польщі заявило, що не відмовляється від політики нульової толерантності до агресії та проявів ненависті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-14_16-29-16.mp4" length="5234052" type="video/mp4"/>
+      <pubDate>Fri, 14 Aug 2026 16:29:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
