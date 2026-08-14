@@ -6,67 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 11:29:42 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥В Ленінградській області ата</title>
-      <link>https://www.mandarinai.lt/post/97328</link>
-      <description>💥🔥В Ленінградській області атаковані термінали компаній "Новатек" та "Єврохім".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_06-45-29.jpg" length="157291" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 06:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬росія цинічно анонсує нові уд</title>
-      <link>https://www.mandarinai.lt/post/97330</link>
-      <description>🤬росія цинічно анонсує нові удари по енергетиці України на фоні пропозиції Києва щодо припинення атак.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_07-59-32.jpg" length="74600" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 07:59:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Втік з навчального центру З</title>
-      <link>https://www.mandarinai.lt/post/97333</link>
-      <description>❗️ Втік з навчального центру ЗСУ і став агентом росіян, - СБУ затримала ухилянта, який наводив удари по Нікополю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_08-53-23.jpg" length="91571" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 08:53:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇷🇺Порожні вулиці і збанкрутіли</title>
-      <link>https://www.mandarinai.lt/post/97334</link>
-      <description>🇷🇺Порожні вулиці і збанкрутіли магазини - так виглядають топові російські курорти Сочі і Адлер у пік сезону.
-
-А чьто случілась?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-14_09-05-23.mp4" length="2010673" type="video/mp4"/>
-      <pubDate>Fri, 14 Aug 2026 09:05:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Збитки мережі Wildberries мож</title>
-      <link>https://www.mandarinai.lt/post/97336</link>
-      <description>🔥Збитки мережі Wildberries можуть сягати 800 мільярдів рублів через удари дронів, — Forbes
-
-За оцінками аналітиків, компанія вже могла втратити близько 20% складських площ.
-
-На відновлення складів та інфраструктури маркетплейсу може знадобитися до 279 мільярдів рублів. Якщо знадобиться повний демонтаж пошкоджених об'єктів, вивезення сміття та рекультивація територій, витрати зростуть у рази.
-
-А сьогодні дрони знову дістали до складу Wildberries у Тверській області (на фото ☝🏻). Правда, цього разу російським пощастило – постраждала лише стіна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_09-06-09.jpg" length="137687" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 09:06:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇨🇦🇺🇦 Канадці вирішили додати р</title>
-      <link>https://www.mandarinai.lt/post/97337</link>
-      <description>🇨🇦🇺🇦 Канадці вирішили додати роботи співробітнику російського посольства, який щодня лопав українські кульки
-
-Маленькі синьо-жовті кульки хтось регулярно вивішував на стовпі біля російського посольства, а дипломат займався тим, що методично їх протикав.
-
-Місцеві гарно потролили борця з повітряними кульками і повісили біля посольства цілу синьо-жовту гірлянду — отже, тепер дипломат має витратити значно більше часу на своє завдання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2241.MP4" length="4241150" type="video/mp4"/>
-      <pubDate>Fri, 14 Aug 2026 09:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🗾 З тих 745 квадратних кіломет</title>
-      <link>https://www.mandarinai.lt/post/97339</link>
-      <description>🗾 З тих 745 квадратних кілометрів, над якими вдалось відновити контроль на Олександрівському напрямку, підрозділи 425-го окремого штурмового полку відбили в противника 126 км², - полк «Скеля»</description>
-      <pubDate>Fri, 14 Aug 2026 09:43:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 12:24:39 +0000</lastBuildDate>
     <item>
       <title>🇵🇱 Вперше за російським замовл</title>
       <link>https://www.mandarinai.lt/post/97340</link>
@@ -103,6 +43,57 @@
       <description>Зігріємося вогнем російських НПЗ, - в ЗСУ відповіли на погрозі російських військових заморозити українців</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_11-05-44.jpg" length="60768" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 11:05:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Ракетний удар сьогодні вран</title>
+      <link>https://www.mandarinai.lt/post/97346</link>
+      <description>❗️ Ракетний удар сьогодні вранці по навчальному закладу в Балаклії на Харківщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_11-30-18.jpg" length="187833" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 11:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Альфа» СБУ показала, як перер</title>
+      <link>https://www.mandarinai.lt/post/97351</link>
+      <description>«Альфа» СБУ показала, як перерізає логістичні артерії ворога
+
+За місяць спецпризначенці знищили та уразили майже 2400 автомобілів, командно-штабних машин та спецтехніки противника.
+
+Колишній очільник «Альфи», а нині міністр оборони Євгеній Хмара, обіцяє зміну стратегії deep-strike і поширення її по всій російській території.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2252.MP4" length="28836268" type="video/mp4"/>
+      <pubDate>Fri, 14 Aug 2026 11:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прямо зараз росія завдає ударі</title>
+      <link>https://www.mandarinai.lt/post/97353</link>
+      <description>Прямо зараз росія завдає ударів малогабаритними крилатими ракетами «Бандероль» по Одещині, українська авіація намагається їх збивати</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2255.MP4" length="827416" type="video/mp4"/>
+      <pubDate>Fri, 14 Aug 2026 11:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наприкінці минулого року путін</title>
+      <link>https://www.mandarinai.lt/post/97354</link>
+      <description>Наприкінці минулого року путін зібрав найближче оточення на секретну зустріч, щоб сформулювати завдання на 2026 рік, «розпад НАТО та ЄС зсередини», — The New York Times
+
+Однією з точок прикладання зусиль стане Молдова. 
+
+«Ми виграли битву. Але ми не виграли війну», - Міхай Лупашку, директор Агентства кібербезпеки Молдови.
+
+В Кремлі все ще сподівається захопити частину південної України, щоб створити сухопутний міст від росії до Молдови.
+
+Ймовірно, Молдову розглядають як зручний плацдарм для подальшої агресії, пише американська газета</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_12-04-28.jpg" length="97270" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 12:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Генштаб щойно заявив про ур</title>
+      <link>https://www.mandarinai.lt/post/97355</link>
+      <description>⚡️ Генштаб щойно заявив про ураження комплексу «Новатек-Усть-Луга»
+
+Він знаходиться за 870 км від України в Слободці Ленінградської області рф.
+
+ℹ️ «Новатек-Усть-Луга» – виробничо-перевалочний комплекс. Він призначений для переробки газового конденсату. Потужність – майже 8 млн тонн сировини на рік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_12-11-20.jpg" length="61428" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 12:11:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
