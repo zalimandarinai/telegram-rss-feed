@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 04:24:13 +0000</lastBuildDate>
-    <item>
-      <title>❗️Україна запропонувала росії </title>
-      <link>https://www.mandarinai.lt/post/97304</link>
-      <description>❗️Україна запропонувала росії взаємно припинити удари по цивільних об'єктах у Чорному морі, - Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-13_17-06-22.jpg" length="119009" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 17:06:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Літаки Су-27 коригованими б</title>
-      <link>https://www.mandarinai.lt/post/97305</link>
-      <description>❗️ Літаки Су-27 коригованими бомбами завдали сьогодні ударів по будівлі, де окупанти накопичували штурмовиків, - тож штурма не вийшло</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2227.MP4" length="12422722" type="video/mp4"/>
-      <pubDate>Thu, 13 Aug 2026 17:10:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 05:55:36 +0000</lastBuildDate>
     <item>
       <title>⚡️ Балаклавська ТЕС, яка живит</title>
       <link>https://www.mandarinai.lt/post/97306</link>
@@ -98,6 +84,24 @@
       <description>⚡️росіяни вдарили авіабомбою по багатоповерхівці в Краматорську: є загиблий та щонайменше 15 поранених</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-13_20-27-09.mp4" length="1005356" type="video/mp4"/>
       <pubDate>Thu, 13 Aug 2026 20:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Збито за ніч 90 БПЛА, однак,</title>
+      <link>https://www.mandarinai.lt/post/97321</link>
+      <description>❗️Збито за ніч 90 БПЛА, однак, нажаль, є ворожі влучання на 11 локаціях, - Повітряні Сили</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_05-31-43.jpg" length="56725" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 05:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>9-річний хлопчик та його мама </title>
+      <link>https://www.mandarinai.lt/post/97322</link>
+      <description>9-річний хлопчик та його мама загинули внаслідок подвійного удару рф по Сумщині, — ОВА
+
+росіяни двома реактивними БпЛА атакували приватний будинок у Буринській громаді.
+
+Батько та бабуся хлопчика з важкими опіками перебувають у лікарні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_05-42-36.jpg" length="226681" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 05:42:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
