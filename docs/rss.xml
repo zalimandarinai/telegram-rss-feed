@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 11:18:31 +0000</lastBuildDate>
-    <item>
-      <title>💥Момент прильоту в районі авіа</title>
-      <link>https://www.mandarinai.lt/post/97390</link>
-      <description>💥Момент прильоту в районі авіазаводу у російській Самарі сьогодні вночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_07-25-55.mp4" length="3376912" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 07:25:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛳️🕸️ Танкери російського «тінь</title>
-      <link>https://www.mandarinai.lt/post/97391</link>
-      <description>🛳️🕸️ Танкери російського «тіньового флоту» вже почали затягувати в антидронові сітки: один з таких кораблів під назвою «Caruzo» побачили з сіткою в той момент, коли він проходив Босфор</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_07-43-55.jpg" length="142632" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 07:43:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 11:44:09 +0000</lastBuildDate>
     <item>
       <title>В Україні проходять бойові вип</title>
       <link>https://www.mandarinai.lt/post/97393</link>
@@ -102,6 +88,28 @@
 Зафіксовані також пошкодження нафтового об’єкта на території населеного пункту Усть-Луга. Відстань - понад 800 кілометрів від кордону.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_10-41-15.mp4" length="1843018" type="video/mp4"/>
       <pubDate>Sat, 15 Aug 2026 10:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Що виробляє самарський «ЦСК</title>
+      <link>https://www.mandarinai.lt/post/97404</link>
+      <description>❗️ Що виробляє самарський «ЦСКБ-Прогресс», по якому ЗСУ завдали ракетного удару вночі.
+
+▫️ Щороку центр «Прогрес» запускає близько двох десятків ракет «Союз-2» з Байконура, Плесецька та Східного.
+
+▫️ Окрім ракет-носіїв «Союз-2», «Союз 2-1В», «Союз-5», завод також виробляє космічні супутники «Ресурс-П» , призначені для моніторингу Землі.
+
+▫️ Також підприємство має безстрокові ліцензії на сервісне обслуговування озброєння та військової техніки та дозволи на ліцензування розробки, виробництва, випробування і ремонту авіаційної техніки.
+
+📝 Про це пишуть журналісти BBC News.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2296.MP4" length="9070838" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 11:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Паливна криза повернулась в р</title>
+      <link>https://www.mandarinai.lt/post/97405</link>
+      <description>🔥Паливна криза повернулась в російські регіони разом з мордобрями на АЗС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_11-22-56.mp4" length="484344" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 11:22:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
