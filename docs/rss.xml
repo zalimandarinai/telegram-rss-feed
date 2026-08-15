@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 13:53:36 +0000</lastBuildDate>
-    <item>
-      <title>рф  вдарила по Павлограду, на </title>
-      <link>https://www.mandarinai.lt/post/97395</link>
-      <description>рф  вдарила по Павлограду, на місці пожежа, повідомляє ОВА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_09-22-16.jpg" length="36902" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 09:22:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 14:20:05 +0000</lastBuildDate>
     <item>
       <title>Броневик Austin і містерія зі </title>
       <link>https://www.mandarinai.lt/post/97397</link>
@@ -119,6 +112,13 @@
       <description>❗️ Ворог скинув на Херсон протипіхотні міни типу «пелюстка», одну знайшли на залізничному мосту на Корабел</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_12-33-48.jpg" length="241913" type="image/jpeg"/>
       <pubDate>Sat, 15 Aug 2026 12:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇰🇷🇰🇵 Південна Корея запропонув</title>
+      <link>https://www.mandarinai.lt/post/97409</link>
+      <description>🇰🇷🇰🇵 Південна Корея запропонувала КНДР переговори про завершення війни, яка триває формально вже понад 70 років.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_14-11-02.jpg" length="45600" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 14:11:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
