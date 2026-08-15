@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 01:08:04 +0000</lastBuildDate>
-    <item>
-      <title>⚡️рф може не окупувати Донбас </title>
-      <link>https://www.mandarinai.lt/post/97359</link>
-      <description>⚡️рф може не окупувати Донбас навіть і в 2027 році — Київ передав таку оцінку адміністрації Трампа, — Kyiv Independent</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_16-04-37.jpg" length="69582" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 16:04:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>👌У Познані затримали неадекват</title>
-      <link>https://www.mandarinai.lt/post/97360</link>
-      <description>👌У Познані затримали неадекватну польку після нападу на українців
-
-МВС Польщі заявило, що не відмовляється від політики нульової толерантності до агресії та проявів ненависті.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-14_16-29-16.mp4" length="5234052" type="video/mp4"/>
-      <pubDate>Fri, 14 Aug 2026 16:29:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 02:19:21 +0000</lastBuildDate>
     <item>
       <title>🤬 Ворог змінив підступну такти</title>
       <link>https://www.mandarinai.lt/post/97361</link>
@@ -120,6 +104,13 @@ NYT також зазначає, що за підтримки Москви в М
 Після замаху на зрадника Реут планувала виїхати за кордон.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-14_20-59-02.jpg" length="11024" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 20:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Самарі щойно вночі був потуж</title>
+      <link>https://www.mandarinai.lt/post/97374</link>
+      <description>В Самарі щойно вночі був потужний приліт - заявлене, як «Фламінго»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2272.MP4" length="1430423" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 01:10:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
