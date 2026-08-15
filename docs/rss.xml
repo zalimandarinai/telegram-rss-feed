@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 07:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:26:16 +0000</lastBuildDate>
     <item>
       <title>Підприємство в Самарі, яке зар</title>
       <link>https://www.mandarinai.lt/post/97379</link>
@@ -64,6 +64,13 @@
       <description>🛳️🕸️ Танкери російського «тіньового флоту» вже почали затягувати в антидронові сітки: один з таких кораблів під назвою «Caruzo» побачили з сіткою в той момент, коли він проходив Босфор</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_07-43-55.jpg" length="142632" type="image/jpeg"/>
       <pubDate>Sat, 15 Aug 2026 07:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Україні проходять бойові вип</title>
+      <link>https://www.mandarinai.lt/post/97393</link>
+      <description>В Україні проходять бойові випробування реактивні дрони, створені для перехоплення російських реактивних «шахедів», вони здатні розвивати швидкість понад 600 км/год, - колишній міністр оборони Федоров</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2285.MP4" length="4959396" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 08:10:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
