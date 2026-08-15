@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 09:50:06 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Сильні вибухи та пожежа фікс</title>
-      <link>https://www.mandarinai.lt/post/97381</link>
-      <description>💥🔥Сильні вибухи та пожежа фіксувалися на аеродромі Саваслейка, де базуються МіГ-31К, які запускають «кинджали».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_06-32-18.jpg" length="229977" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 06:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тримісячний хлопчик загинув, щ</title>
-      <link>https://www.mandarinai.lt/post/97383</link>
-      <description>Тримісячний хлопчик загинув, ще 11 людей постраждали внаслідок російського удару по Марганцю на Дніпропетровщині, – ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_06-34-59.jpg" length="96187" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 06:34:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 10:20:36 +0000</lastBuildDate>
     <item>
       <title>⚡️Сили спеціальних операцій за</title>
       <link>https://www.mandarinai.lt/post/97388</link>
@@ -67,6 +53,33 @@
       <description>рф  вдарила по Павлограду, на місці пожежа, повідомляє ОВА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_09-22-16.jpg" length="36902" type="image/jpeg"/>
       <pubDate>Sat, 15 Aug 2026 09:22:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Броневик Austin і містерія зі </title>
+      <link>https://www.mandarinai.lt/post/97397</link>
+      <description>Броневик Austin і містерія зі смолоскипами, - Білецький очолив церемонію прощання з полковником Коновальцем
+ 
+В Патріаршому соборі в Києві попрощалися із Євгеном Коновальцем. 
+
+Церемонію очолив командир 3-го АК Білецький.
+ 
+На почесну варту до храму Коновалець прибув на легендарному броньовику Austin часів Української революції, який відреставрували бійці Третього корпусу.
+ 
+До броньовика прикріпили артилерійський лафет і тридюймову гармату — оригінальний зразок 1917 року, яка була на озброєнні дивізії Січових стрільців під командуванням Коновальця.
+
+Євген Коновалець - командир Січових Стрільців та перший очільник ОУН. 
+ </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2294.MP4" length="6113182" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 10:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌Супутникові знімки стану залі</title>
+      <link>https://www.mandarinai.lt/post/97398</link>
+      <description>👌Супутникові знімки стану залізничного мосту в Сиваші між Херсонською областю та Кримом після ударів ЗСУ 1 серпня.
+
+Судячи з них, міст зазнав критичних пошкоджень з обваленням основної частини прольотів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_10-17-47.jpg" length="18385" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 10:17:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
