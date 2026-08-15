@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 15:18:15 +0000</lastBuildDate>
-    <item>
-      <title>👌Супутникові знімки стану залі</title>
-      <link>https://www.mandarinai.lt/post/97398</link>
-      <description>👌Супутникові знімки стану залізничного мосту в Сиваші між Херсонською областю та Кримом після ударів ЗСУ 1 серпня.
-
-Судячи з них, міст зазнав критичних пошкоджень з обваленням основної частини прольотів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_10-17-47.jpg" length="18385" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 10:17:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 15:45:21 +0000</lastBuildDate>
     <item>
       <title>🤡росія готується оголосити жур</title>
       <link>https://www.mandarinai.lt/post/97399</link>
@@ -119,6 +110,15 @@
 Водночас у NYT не уточнюють можливі напрямки чи масштаби зимового наступу. росія, як і раніше, прагне встановити повний контроль над Донбасом. Якщо їй не вдасться досягти цього до осені 2027 року, ймовірність переговорів, на думку чиновників та аналітиків, зросте.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_15-18-02.jpg" length="232847" type="image/jpeg"/>
       <pubDate>Sat, 15 Aug 2026 15:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤯Під час останніх атак РФ укра</title>
+      <link>https://www.mandarinai.lt/post/97413</link>
+      <description>🤯Під час останніх атак РФ українські Patriot стояли порожніми через вичерпання запасів ракет, — FT
+
+Україна повністю використала надані США перехоплювачі, через що на початку серпня не вдалося збити жодної балістичної ракети над столицею</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_15-29-25.jpg" length="97576" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 15:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
