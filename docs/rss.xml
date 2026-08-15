@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 17:18:56 +0000</lastBuildDate>
-    <item>
-      <title>🤡росія готується оголосити жур</title>
-      <link>https://www.mandarinai.lt/post/97399</link>
-      <description>🤡росія готується оголосити журналіста німецької газети FAZ в міжнародний розшук через запитання Зеленському про «вбивство росіян»
-
-Проти кореспондента німецької газети Frankfurter Allgemeine Zeitung Міхаеля Мартенса в рф відкрили кримінальну справу за нібито «розпалювання ненависті», повідомляє DW. Російська влада також розгляє його арешт та оголошення в міжнародний розшук.
-
-Приводом стало запитання, яке журналіст поставив Зеленському на пресконференції в Белграді 8 серпня:
-
-Що можуть зробити європейці, аби допомогти Україні вбити більше росіян? Російських солдатів, звісно, — сказав Мартенс, одразу уточнивши формулювання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_10-22-03.mp4" length="5514013" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 10:22:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 17:44:48 +0000</lastBuildDate>
     <item>
       <title>❗️ Краще, якщо українці швидко</title>
       <link>https://www.mandarinai.lt/post/97400</link>
@@ -119,6 +106,13 @@
 Україна повністю використала надані США перехоплювачі, через що на початку серпня не вдалося збити жодної балістичної ракети над столицею</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_15-29-25.jpg" length="97576" type="image/jpeg"/>
       <pubDate>Sat, 15 Aug 2026 15:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Під ударом партизан опинилися</title>
+      <link>https://www.mandarinai.lt/post/97414</link>
+      <description>💥Під ударом партизан опинилися залізничні цистерни з газом і бензином в Оренбурзькій області - дистанційним підривом було знищено цистерни безпосередньо на залізничних коліях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_17-31-10.mp4" length="116410" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 17:31:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
