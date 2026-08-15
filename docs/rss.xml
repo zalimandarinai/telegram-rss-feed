@@ -6,17 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 06:52:21 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Ворог змінив підступну такти</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🤬 Ворог змінив підступну тактику застосування «ждунів», - Сергій «Флеш»
-
-Відтепер на такі дрони можуть встановлюватися мікрофони для виявлення транспорту.
-
-«Дрон–ждун» ховається поза полем зору водія та через мікрофон фіксує проїзд машин.</description>
-      <pubDate>Fri, 14 Aug 2026 17:06:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 07:28:46 +0000</lastBuildDate>
     <item>
       <title>Зранку самарський губернатор п</title>
       <link>https://www.mandarinai.lt/post/97376</link>
@@ -54,13 +44,6 @@
       <pubDate>Sat, 15 Aug 2026 06:34:59 +0000</pubDate>
     </item>
     <item>
-      <title>💥Момент прильоту в районі авіа</title>
-      <link>https://www.mandarinai.lt/post/97387</link>
-      <description>💥Момент прильоту в районі авіазаводу у російській Самарі сьогодні вночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_06-38-54.mp4" length="3376912" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 06:38:54 +0000</pubDate>
-    </item>
-    <item>
       <title>⚡️Сили спеціальних операцій за</title>
       <link>https://www.mandarinai.lt/post/97388</link>
       <description>⚡️Сили спеціальних операцій захопили трьох російських полонених.
@@ -69,6 +52,22 @@
 
 Несподівано бійцям довелось рятувати оленятко, яке опинилося в зоні проведення операції.</description>
       <pubDate>Sat, 15 Aug 2026 06:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️рф силою та шантажем вербує </title>
+      <link>https://www.mandarinai.lt/post/97389</link>
+      <description>❗️рф силою та шантажем вербує близько тисячі контрактників на день, щоб покрити щомісячні втрати у 30 тисяч осіб, — The Guardian
+
+На винагороди вербувальникам вже витратили $96 млн, проте експерти переконані, що без нової хвилі мобілізації покрити дефіцит людей не вдасться</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_07-25-09.jpg" length="164495" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 07:25:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Момент прильоту в районі авіа</title>
+      <link>https://www.mandarinai.lt/post/97390</link>
+      <description>💥Момент прильоту в районі авіазаводу у російській Самарі сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_07-25-55.mp4" length="3376912" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 07:25:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
