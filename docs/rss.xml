@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 19:02:47 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Що виробляє самарський «ЦСК</title>
-      <link>https://www.mandarinai.lt/post/97404</link>
-      <description>❗️ Що виробляє самарський «ЦСКБ-Прогресс», по якому ЗСУ завдали ракетного удару вночі.
-
-▫️ Щороку центр «Прогрес» запускає близько двох десятків ракет «Союз-2» з Байконура, Плесецька та Східного.
-
-▫️ Окрім ракет-носіїв «Союз-2», «Союз 2-1В», «Союз-5», завод також виробляє космічні супутники «Ресурс-П» , призначені для моніторингу Землі.
-
-▫️ Також підприємство має безстрокові ліцензії на сервісне обслуговування озброєння та військової техніки та дозволи на ліцензування розробки, виробництва, випробування і ремонту авіаційної техніки.
-
-📝 Про це пишуть журналісти BBC News.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2296.MP4" length="9070838" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 11:21:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 19:33:29 +0000</lastBuildDate>
     <item>
       <title>🔥Паливна криза повернулась в р</title>
       <link>https://www.mandarinai.lt/post/97405</link>
@@ -109,6 +94,13 @@
 🎥 14-ий АК</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2303.MP4" length="16149714" type="video/mp4"/>
       <pubDate>Sat, 15 Aug 2026 18:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Кадри нещодавніх запусків кри</title>
+      <link>https://www.mandarinai.lt/post/97420</link>
+      <description>🔥Кадри нещодавніх запусків крилатих ракет "Фламінго" по ворожих об'єктах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_19-24-13.mp4" length="449237" type="video/mp4"/>
+      <pubDate>Sat, 15 Aug 2026 19:24:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
