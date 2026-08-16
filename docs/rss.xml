@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 20:19:40 +0000</lastBuildDate>
-    <item>
-      <title>🔴Українські балістичні ракети </title>
-      <link>https://www.mandarinai.lt/post/97450</link>
-      <description>🔴Українські балістичні ракети можуть уразити цілі в росії вже за 3-6 місяців, — Федоров
-
-В інтерв'ю CBS News ексміністр оборони Михайло Федоров заявив, що саме в такі строки очікує бойового застосування української балістичної ракети. Таку швидкість він пояснив необхідністю діяти швидко, щоб перемогти.
-
-Одна з українських компаній уже провела випробування балістичної ракети. Федоров також наголосив, що війна стала технологічною і Україна має випереджати Росію в кожному циклі розвитку технологій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-16_11-52-02.mp4" length="10417747" type="video/mp4"/>
-      <pubDate>Sun, 16 Aug 2026 11:52:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 20:47:01 +0000</lastBuildDate>
     <item>
       <title>Склад Wildberries під Москвою </title>
       <link>https://www.mandarinai.lt/post/97451</link>
@@ -136,6 +125,15 @@
 Частина співрозмовників NYT очікують проведення мобілізації в росії, але лише після парламентських виборів у вересні. Ще частина побоюється, що путін, відчувши себе загнаним у кут, «може спробувати ескалувати війну та перевірити солідарність НАТО, вийшовши за межі гібридних атак у Європі».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_19-15-09.jpg" length="216984" type="image/jpeg"/>
       <pubDate>Sun, 16 Aug 2026 19:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Суми зараз під масованою ата</title>
+      <link>https://www.mandarinai.lt/post/97464</link>
+      <description>🤬 Суми зараз під масованою атакою безпілотників
+
+Фіксуються пожежі в місцях ударів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_20-45-43.jpg" length="31621" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 20:45:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
