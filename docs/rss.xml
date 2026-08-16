@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 17:58:19 +0000</lastBuildDate>
-    <item>
-      <title>🔥Сили оборони України завдали </title>
-      <link>https://www.mandarinai.lt/post/97442</link>
-      <description>🔥Сили оборони України завдали удару по російському підприємству, яке виробляє ракетне паливо для "Смерчів", "Ураганів" та "Торнадо-С".
-
-Цієї ночі українські військові уразили "Кам'янський комбінат" у Ростовській області. На території підприємства зафіксовано пожежу.
-
-Також встановлено, що після атаки 10 серпня припинив роботу "Запсибнефтехім" у Тобільську – один з найбільших нафтохімічних комплексів росії. Підприємство виробляє базові полімери та близько 6 мільйонів тонн зрідженого вуглеводневого газу на рік – приблизно 40% усього російського виробництва.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_10-03-37.jpg" length="68538" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 10:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Уламки збитого російського </title>
-      <link>https://www.mandarinai.lt/post/97443</link>
-      <description>⚡️ Уламки збитого російського «шахеда» впали у Великій Димерці біля Києва</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_10-44-53.jpg" length="235834" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 10:44:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 18:37:29 +0000</lastBuildDate>
     <item>
       <title>❗️ Зачистка логістичних шляхів</title>
       <link>https://www.mandarinai.lt/post/97444</link>
@@ -120,6 +102,28 @@
       <description>В Києві знову масштабна хода проти відставки Федорова з посади міністра оборони</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-16_17-56-35.mp4" length="1033342" type="video/mp4"/>
       <pubDate>Sun, 16 Aug 2026 17:56:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>З нових звітів міноборони рф в</title>
+      <link>https://www.mandarinai.lt/post/97457</link>
+      <description>З нових звітів міноборони рф виходить, що Україна майже вдвічі збільшила застосування ракет «Фламінго» по російській території.
+
+На початку червня росіяни заявили про перехоплення 57 ракет «Фламінго».
+
+За період лютий-травень була перехоплена 31 ракета.
+
+Тільки за два тижні серпня міноборони відзвітувало про 25 збитих ракет. 
+
+За літо підтверджувалися як мінімум чотири удари «Фламінго» по підприємствах у Чебоксарах, Волгограді, Кірові та Самарі, в той час, коли загальна кількість пусків Україною не повідомляється.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2325.MP4" length="1082853" type="video/mp4"/>
+      <pubDate>Sun, 16 Aug 2026 18:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Поруч з відпочивальниками н</title>
+      <link>https://www.mandarinai.lt/post/97458</link>
+      <description>❗️ Поруч з відпочивальниками на Ланжероні в Одесі стався вибух, причина невідома</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2326.MOV" length="3548270" type="video/mp4"/>
+      <pubDate>Sun, 16 Aug 2026 18:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
