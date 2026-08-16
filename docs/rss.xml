@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 09:02:45 +0000</lastBuildDate>
-    <item>
-      <title>👀Дрон щойно влупив, а тут чиче</title>
-      <link>https://www.mandarinai.lt/post/97415</link>
-      <description>👀Дрон щойно влупив, а тут чичері-чичері: у Затоці на Одещині після атаки продовжують відпочивати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_18-40-07.mp4" length="1266871" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 18:40:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Лише 9 класів та 18 років, а в</title>
-      <link>https://www.mandarinai.lt/post/97418</link>
-      <description>Лише 9 класів та 18 років, а він вже має статус учасника бойових дій.
-
-Боєць 22-ої окремої механізованої бригади на позивний «Веном» менше року тому прийняв тверде рішення піти служити. 
-
-Рідні були категорично проти, але хлопець підписав контракт «18-24» і став оператором наземних роботизованих комплексів.
-
-За плечима бійця кілька успішних бойових місій.
-
-Ймовірно, він є наймолодшим українським військовим серед тих, хто служить за контрактом.
-
-🎥 14-ий АК</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2303.MP4" length="16149714" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 18:54:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Кадри нещодавніх запусків кри</title>
-      <link>https://www.mandarinai.lt/post/97420</link>
-      <description>🔥Кадри нещодавніх запусків крилатих ракет "Фламінго" по ворожих об'єктах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-15_19-24-13.mp4" length="449237" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 19:24:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 09:41:54 +0000</lastBuildDate>
     <item>
       <title>🔴  Ворог застосував близько 8 </title>
       <link>https://www.mandarinai.lt/post/97421</link>
@@ -127,6 +96,28 @@
       <description>🔥Горить один з найбільших складів WB під москвою - центральний логістичний хаб Wildberries площею 229 500 м²</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_08-58-55.jpg" length="202485" type="image/jpeg"/>
       <pubDate>Sun, 16 Aug 2026 08:58:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇬🇧 Британські безпілотники впе</title>
+      <link>https://www.mandarinai.lt/post/97437</link>
+      <description>🇬🇧 Британські безпілотники вперше були застосовані для ударів по цілях у глибині росії, включно з нафтопереробними заводами в Москві, Ярославлі та Волгограді, - The Sunday Times
+
+Також вони завдавали ударів по цілях в Білгороді.
+
+Через удари реактивних дронів типу Nyan від BAE Systems росія зазнала значних економічних збитків, тож аналітики розглядають такі системи як альтернативу західним ракетам.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_09-17-36.jpg" length="43221" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 09:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>📚рф вщент знищила найбільший к</title>
+      <link>https://www.mandarinai.lt/post/97439</link>
+      <description>📚рф вщент знищила найбільший книжковий ринок у Києві
+
+«Книжковий Ринок Почайна — все. 3 ракети в ятки. Цього разу — історію закінчено», – написав гендиректор видавництва «Фоліо» Красовицький
+
+Власниця одного з книжкових магазинів розповіла: «Немає нічого. Ні в кого нічого не залишилося… Усе згоріло. Продавала підручники з іноземної мови для школярів. Чекали вересня, щоб усі були з підручниками… Але сталося, що сталося».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_09-29-04.jpg" length="100865" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 09:29:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
