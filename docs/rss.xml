@@ -6,52 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 10:58:45 +0000</lastBuildDate>
-    <item>
-      <title>Ця людина здійснила подвиг. 
-
-</title>
-      <link>https://www.mandarinai.lt/post/97424</link>
-      <description>Ця людина здійснила подвиг. 
-
-Владислав Польський, командир штурмової роти 475-го полку «Code 9.2».
-
-Зверніть увагу на посаду. Це важливо.
-
-Двоє штурмовиків полку провели успішну атаку ворожих позицій. Але пізніше їх самих атакували дрони «Молнія». Обидва бійця отримують серйозні поранення. За хлопцями їде роботизована платформа. Під час евакуації НРК атакує ворожий дрон, і платформа з нерухомими бійцями залишається, як на долоні. 
-
-Їх може добити наступний дрон. На КСП думають, що робити. Як евакуювати бійців з відкритої місцевості під ворожим вогнем!
-
-І в цей момент аеророзвідка фіксує на дорозі  пікап, що мчить в бік поранених.
-
-Виявилося, що комроти Владислав Польський, навіть не вдягнувши «бронік», стрибнув в автівку і несеться на порятунок.
-
-Ризикуючи життям, Владислав підскочив до підбитого НРК, самотужки перевантажив бійців і вивіз до своїх.
-
-Врятував.
-
-Командира 475-го ОШП «Флінта» запитують, чому його люди йдуть на штурм тоді, коли інші відмовляються.
-
-Відповідь на відео: тому бійці знають, що їхні командири не відсижуються за спинами солдатів, а готові зробити все, щоб врятувати людей. 
-
-Комроти Польський має отримати звання Героя.</description>
-      <pubDate>Sun, 16 Aug 2026 06:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іспанські військові вперше зби</title>
-      <link>https://www.mandarinai.lt/post/97428</link>
-      <description>Іспанські військові вперше збили російський дрон.
-
-В ніч на 16 серпня в повітряний простір Румунії з боку Молдови зайшов безпілотник.
-
-Іспанський винищувач F-18, який несе службу в Румунії, отримав дозвіл на ураження цілі.
-
-О 05:01 безпілотник був збитий іспанським винищувачем.
-
-Місце падіння уламків дрона було виявлено неподалік Галаца.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_07-57-05.jpg" length="153411" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 07:57:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 11:27:25 +0000</lastBuildDate>
     <item>
       <title>Вночі уражено стартові позиції</title>
       <link>https://www.mandarinai.lt/post/97429</link>
@@ -122,6 +77,27 @@
       <description>⚡️ Уламки збитого російського «шахеда» впали у Великій Димерці біля Києва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_10-44-53.jpg" length="235834" type="image/jpeg"/>
       <pubDate>Sun, 16 Aug 2026 10:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Зачистка логістичних шляхів</title>
+      <link>https://www.mandarinai.lt/post/97444</link>
+      <description>❗️ Зачистка логістичних шляхів від російських «ждунів» - так починається кожний ранок прикордонників бригади «Форпост» на півночі Харківської області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2312.MP4" length="18772794" type="video/mp4"/>
+      <pubDate>Sun, 16 Aug 2026 11:05:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Україна вивела з ладу 7 із 10</title>
+      <link>https://www.mandarinai.lt/post/97445</link>
+      <description>🔥Україна вивела з ладу 7 із 10 найбільших логістичних центрів Wildberries, - Міноборони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_11-05-19.jpg" length="291190" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 11:05:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф атакувала "Епіцентр" в Од</title>
+      <link>https://www.mandarinai.lt/post/97446</link>
+      <description>⚡️рф атакувала "Епіцентр" в Одесі, – повідомляють місцеві Telegram-канали.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-16_11-09-17.mp4" length="1607737" type="video/mp4"/>
+      <pubDate>Sun, 16 Aug 2026 11:09:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
