@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 18:37:29 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Зачистка логістичних шляхів</title>
-      <link>https://www.mandarinai.lt/post/97444</link>
-      <description>❗️ Зачистка логістичних шляхів від російських «ждунів» - так починається кожний ранок прикордонників бригади «Форпост» на півночі Харківської області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2312.MP4" length="18772794" type="video/mp4"/>
-      <pubDate>Sun, 16 Aug 2026 11:05:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Україна вивела з ладу 7 із 10</title>
-      <link>https://www.mandarinai.lt/post/97445</link>
-      <description>🔥Україна вивела з ладу 7 із 10 найбільших логістичних центрів Wildberries, - Міноборони.
-
-🎥 Відео з російських соцмереж</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2320.MP4" length="13641624" type="video/mp4"/>
-      <pubDate>Sun, 16 Aug 2026 11:05:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 19:02:05 +0000</lastBuildDate>
     <item>
       <title>⚡️рф атакувала "Епіцентр" в Од</title>
       <link>https://www.mandarinai.lt/post/97446</link>
@@ -124,6 +108,26 @@
       <description>❗️ Поруч з відпочивальниками на Ланжероні в Одесі стався вибух, причина невідома</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2326.MOV" length="3548270" type="video/mp4"/>
       <pubDate>Sun, 16 Aug 2026 18:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Українську балістичну ракет</title>
+      <link>https://www.mandarinai.lt/post/97459</link>
+      <description>⚡️ Українську балістичну ракету FP-9 представили в Данії на виставці зброї
+
+Її дальність сягатиме 855 км, а вага бойової частини — 800 кг. Перші удари балістикою по росії обіцяють вже восени</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_18-41-28.jpg" length="69988" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 18:41:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ескортниця з Ярославля підірва</title>
+      <link>https://www.mandarinai.lt/post/97460</link>
+      <description>Ескортниця з Ярославля підірвала українського зрадника і офіцера ВМФ рф у Севастополі, — NYP.
+
+32-річну Маргариту Реут взяли під варту за звинуваченням у тероризмі, яка під час затримання заявила, що не шкодує про свій вчинок, сміливо відповівши «ні» на запитання силовиків.
+
+Реут й раніше заарештовували після вигукувань «Так вам і треба, росіяни!» у громадському поїзді після того, як українські БпЛА атакували залізничну станцію в Ростовській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_18-44-04.jpg" length="101505" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 18:44:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
