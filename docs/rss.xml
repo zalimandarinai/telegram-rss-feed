@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 07:37:02 +0000</lastBuildDate>
-    <item>
-      <title>🇰🇷🇰🇵 Південна Корея запропонув</title>
-      <link>https://www.mandarinai.lt/post/97409</link>
-      <description>🇰🇷🇰🇵 Південна Корея запропонувала КНДР переговори про завершення війни, яка триває формально вже понад 70 років.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_14-11-02.jpg" length="45600" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 14:11:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇵🇱 Польська армія найближчим ч</title>
-      <link>https://www.mandarinai.lt/post/97410</link>
-      <description>🇵🇱 Польська армія найближчим часом стане найбільшою в Європі, тож, майбутнє регіону буде визначати саме вона, — обіцяє Туск.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2300.MP4" length="6533153" type="video/mp4"/>
-      <pubDate>Sat, 15 Aug 2026 14:23:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Узимку рф може розпочати нов</title>
-      <link>https://www.mandarinai.lt/post/97411</link>
-      <description>⚡️Узимку рф може розпочати новий наступ і посилити удари по цивільній інфраструктурі, — The New York Times
-
-За даними видання, Україна при цьому може зіткнутися з гострою нестачею засобів ППО. Також не виключають, що після парламентських виборів у вересні путін оголосить обмежену мобілізацію.
-
-Водночас у NYT не уточнюють можливі напрямки чи масштаби зимового наступу. росія, як і раніше, прагне встановити повний контроль над Донбасом. Якщо їй не вдасться досягти цього до осені 2027 року, ймовірність переговорів, на думку чиновників та аналітиків, зросте.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_15-18-02.jpg" length="232847" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 15:18:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 07:59:55 +0000</lastBuildDate>
     <item>
       <title>🤯Під час останніх атак рф укра</title>
       <link>https://www.mandarinai.lt/post/97413</link>
@@ -122,6 +97,28 @@
 
 Комроти Польський має отримати звання Героя.</description>
       <pubDate>Sun, 16 Aug 2026 06:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Горить один з найбільших скла</title>
+      <link>https://www.mandarinai.lt/post/97426</link>
+      <description>🔥Горить один з найбільших складів WB під москвою - центральний логістичний хаб Wildberries площею 229 500 м²</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_07-55-46.jpg" length="202642" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 07:55:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Іспанські військові вперше зби</title>
+      <link>https://www.mandarinai.lt/post/97428</link>
+      <description>Іспанські військові вперше збили російський дрон.
+
+В ніч на 16 серпня в повітряний простір Румунії з боку Молдови зайшов безпілотник.
+
+Іспанський винищувач F-18, який несе службу в Румунії, отримав дозвіл на ураження цілі.
+
+О 05:01 безпілотник був збитий іспанським винищувачем.
+
+Місце падіння уламків дрона було виявлено неподалік Галаца.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_07-57-05.jpg" length="153411" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 07:57:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
