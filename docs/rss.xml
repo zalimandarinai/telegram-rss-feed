@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 06:02:31 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Ворог скинув на Херсон прот</title>
-      <link>https://www.mandarinai.lt/post/97408</link>
-      <description>❗️ Ворог скинув на Херсон протипіхотні міни типу «пелюстка»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-15_12-33-48.jpg" length="241913" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 12:33:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 06:58:31 +0000</lastBuildDate>
     <item>
       <title>🇰🇷🇰🇵 Південна Корея запропонув</title>
       <link>https://www.mandarinai.lt/post/97409</link>
@@ -99,6 +92,36 @@
       <description>🔥Московська область зустрічає недільний ранок після нічної атаки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-16_01-35-47.mp4" length="1026822" type="video/mp4"/>
       <pubDate>Sun, 16 Aug 2026 01:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ця людина здійснила подвиг. 
+
+</title>
+      <link>https://www.mandarinai.lt/post/97424</link>
+      <description>Ця людина здійснила подвиг. 
+
+Владислав Польський, командир штурмової роти 475-го полку «Code 9.2».
+
+Зверніть увагу на посаду. Це важливо.
+
+Двоє штурмовиків полку провели успішну атаку ворожих позицій. Але їх атакували дрони «Молнія». У обидвох - відкриті переломи. За хлопцями їде НРК. Під час евакуації робота атакує FPV, і платформа з нерухомими бійцями залишається, як на долоні. 
+
+Їх може добити наступний дрон. На КСП думають, що робити.
+
+І в цей момент аеророзвідка бачить якийсь пікап.
+
+Виявилося, що комроти Владислав Польський, навіть не вдягнувши «бронік», стрибнув в автівку і щосили натиснув на газ. 
+
+Ризикуючи життям, Владислав підскочив до підбитого НРК, самотужки перевантажив бійців і вивіз до своїх.
+
+Врятував.
+
+Командира 475-го ОШП «Флінта» запитують, чому його люди йдуть на штурм тоді, коли інші відмовляються.
+
+Відповідь на відео: тому бійці знають, що їхні командири не відсижуються за спинами солдатів, а готові зробити все, щоб врятувати людей. 
+
+Комроти Польський має отримати звання Героя.</description>
+      <pubDate>Sun, 16 Aug 2026 06:45:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
