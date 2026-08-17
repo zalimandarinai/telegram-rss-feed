@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 04:39:49 +0000</lastBuildDate>
-    <item>
-      <title>Склад Wildberries під Москвою </title>
-      <link>https://www.mandarinai.lt/post/97451</link>
-      <description>Склад Wildberries під Москвою сьогодні виглядає так</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2317.MP4" length="4313026" type="video/mp4"/>
-      <pubDate>Sun, 16 Aug 2026 11:53:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Донецьку вночі загорівся тор</title>
-      <link>https://www.mandarinai.lt/post/97452</link>
-      <description>В Донецьку вночі загорівся торговельний центр «Галактика». Причина невідома. За даними OSINT-аналітиків, за серпень це вже третій випадок займання в торговельних центрах цієї мережі на окупованій території.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2318.MP4" length="3016527" type="video/mp4"/>
-      <pubDate>Sun, 16 Aug 2026 12:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Ефектний «double-strike» укр</title>
-      <link>https://www.mandarinai.lt/post/97453</link>
-      <description>⚡️Ефектний «double-strike» українських прикордонників - один дрон бригади «Сталевий кордон» знаходить бензобак російського тягача, а другий точно влітає в гармату, яку він буксирує.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2314.MP4" length="26280056" type="video/mp4"/>
-      <pubDate>Sun, 16 Aug 2026 12:19:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 05:21:01 +0000</lastBuildDate>
     <item>
       <title>🤬росіяни вдарили по відділенню</title>
       <link>https://www.mandarinai.lt/post/97454</link>
@@ -134,6 +113,17 @@
 Фіксуються пожежі в місцях ударів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-16_20-45-43.jpg" length="31621" type="image/jpeg"/>
       <pubDate>Sun, 16 Aug 2026 20:45:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ росія побудувала десятки пу</title>
+      <link>https://www.mandarinai.lt/post/97465</link>
+      <description>❗️ росія побудувала десятки пускових майданчиків для далекобійних БПЛА, які можуть атакувати НАТО, — The Telegraph
+
+🇧🇾🇺🇦 Біля кордонів із Білоруссю та Україною зафіксували щонайменше 59 нових пускових позицій. Пункти управління БПЛА побудовані на території військових баз,  цивільних аеропортів, а також і в сільській місцевості.
+
+ℹ️ Разом з цим ГУР МО повідомляє, що рф щомісяця випускає близько 3000 дронів «Герань-4/5» із реактивними двигунами та приблизно 2800 БПЛА «Герань-2» з двигунами внутрішнього згоряння.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_05-20-32.jpg" length="53103" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 05:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
