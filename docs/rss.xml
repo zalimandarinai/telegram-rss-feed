@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 08:54:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:39:06 +0000</lastBuildDate>
     <item>
       <title>В Києві знову масштабна хода п</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -32,17 +32,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ Поруч з відпочивальниками на Ланжероні в Одесі стався вибух, причина невідома</description>
       <pubDate>Sun, 16 Aug 2026 18:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ росія побудувала десятки пу</title>
-      <link>https://www.mandarinai.lt/post/97465</link>
-      <description>❗️ росія побудувала десятки пускових майданчиків для далекобійних БПЛА, які можуть атакувати НАТО, — The Telegraph
-
-🇧🇾🇺🇦 Біля кордонів із Білоруссю та Україною зафіксували щонайменше 59 нових пускових позицій. Пункти управління БПЛА побудовані на території військових баз,  цивільних аеропортів, а також і в сільській місцевості.
-
-ℹ️ Разом з цим ГУР МО повідомляє, що рф щомісяця може випускати близько 3000 дронів «Герань-4/5» із реактивними двигунами та приблизно 2800 БПЛА «Герань-2» з двигунами внутрішнього згоряння.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_05-20-32.jpg" length="53103" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 05:20:32 +0000</pubDate>
     </item>
     <item>
       <title>Внаслідок удару рф по Сумах за</title>
@@ -74,6 +63,17 @@
 Сама виконавиця з Житомира, була маршрутизована до Одеси після вербування.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_08-48-04.jpg" length="78628" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 08:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Корпус «Азов» заявляє, що пере</title>
+      <link>https://www.mandarinai.lt/post/97480</link>
+      <description>Корпус «Азов» заявляє, що перерізав паливну артерію окупантів у Донецькій області. 
+
+Операція точкового полювання на логістику ворога тривала близько місяця, в результаті чого десятки баз ПММ були ліквідовані.
+
+В «Азові» наголошують, що, на відміну від російських військ, не завдають ударів по цивільних АЗС і не атакують мирне населення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2347.MP4" length="15153244" type="video/mp4"/>
+      <pubDate>Mon, 17 Aug 2026 09:13:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
