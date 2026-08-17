@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 11:23:40 +0000</lastBuildDate>
-    <item>
-      <title>Внаслідок удару рф по Сумах за</title>
-      <link>https://www.mandarinai.lt/post/97470</link>
-      <description>Внаслідок удару рф по Сумах загинули дві людини, — ОВА
-
-Про це повідомив керівник міської військової адміністрації Сергій Кривошеєнко. Також поранену отримала ще одна мешканка. Зруйновано два приватні будинки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_08-04-03.jpg" length="148671" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 08:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Москві знову закінчилося пал</title>
-      <link>https://www.mandarinai.lt/post/97471</link>
-      <description>В Москві знову закінчилося пальне, скаржаться росіяни</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2333.MP4" length="9027380" type="video/mp4"/>
-      <pubDate>Mon, 17 Aug 2026 08:04:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 11:50:14 +0000</lastBuildDate>
     <item>
       <title>«Но тот владелец машины умрет,</title>
       <link>https://www.mandarinai.lt/post/97474</link>
@@ -76,6 +60,35 @@
 Також під удар потрапили станція керування БпЛА «Оріон» у Новофедорівці, ретранслятор для «Гераней» і «Гербер» в Оленівці та пункт зв’язку на Тендрівській косі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_10-55-54.jpg" length="123094" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 10:55:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Попіл та руїна в Коледіно. На</title>
+      <link>https://www.mandarinai.lt/post/97484</link>
+      <description>🔥Попіл та руїна в Коледіно. Найбільший хаб і один з ключових вузлів Wildberries після зіткнення з українськими безпілотниками.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_11-35-41.jpg" length="320291" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 11:35:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡Binance передала росії дані п</title>
+      <link>https://www.mandarinai.lt/post/97485</link>
+      <description>😡Binance передала росії дані про криптопожертви на ЗСУ для звинувачення IT-фахівця у «тероризмі»
+
+Мова йде про Юрія Бєлєнького (має посвідку на проживання в Болгарії). Зібрані матеріали використали як доказ для обвинувачення його в «фінансуванні тероризму» через перекази $700 на підтримку ЗСУ та бригади «Азов», повідомляє Reuters.
+
+У 2023 році Binance заявила про згортання бізнесу в росії. Попри це, за запитом Слідчого комітету рф компанія надіслала з офіційної пошти дані про перекази Бєлєнького, скани паспортів, номер телефону та адресу. Оскільки Бєлєнький є резидентом Болгарії (країна ЄС), Binance не мала на це права.
+
+У Binance відмовилися коментувати ситуацію за запитом ЗМІ.
+
+ 49-річний Бєлєнький тепер перебуває під вартою в росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_11-39-00.jpg" length="39572" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 11:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Вийти з ТЦК коштує $10-15 тис</title>
+      <link>https://www.mandarinai.lt/post/97486</link>
+      <description>🤬Вийти з ТЦК коштує $10-15 тис, а щоб потрапити на посаду керівника районного військомату — треба заплатити $50 тис, на обласного — $150 тис, — нардеп Олександр Качура</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_11-46-56.mp4" length="9397882" type="video/mp4"/>
+      <pubDate>Mon, 17 Aug 2026 11:46:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
