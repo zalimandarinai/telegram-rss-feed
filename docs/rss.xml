@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 18:14:15 +0000</lastBuildDate>
-    <item>
-      <title>Корпус «Азов» заявляє, що пере</title>
-      <link>https://www.mandarinai.lt/post/97480</link>
-      <description>Корпус «Азов» заявляє, що перерізав паливну артерію окупантів у Донецькій області. 
-
-Операція точкового полювання на логістику ворога тривала близько місяця, в результаті чого десятки баз ПММ були ліквідовані.
-
-В «Азові» наголошують, що, на відміну від російських військ, не завдають ударів по цивільних АЗС і не атакують мирне населення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2347.MP4" length="15153244" type="video/mp4"/>
-      <pubDate>Mon, 17 Aug 2026 09:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Домодедово росіяни пропустил</title>
-      <link>https://www.mandarinai.lt/post/97481</link>
-      <description>В Домодедово росіяни пропустили безпілотник, і логістичний центр перетворився на запальний контент для українських соцмереж.</description>
-      <pubDate>Mon, 17 Aug 2026 09:39:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 У Ростовській області в ніч </title>
-      <link>https://www.mandarinai.lt/post/97482</link>
-      <description>🔥 У Ростовській області в ніч на знищено цехи з виробництва палива для російських ракет 
-
-Під удар потрапив комбінат «Каменський». 
-
-Підтверджено знищення двох та пошкодження ще чотирьох цехів, де виготовляли вибухові речовини та порох. 
-
-Це підприємство російського ВПК виробляло тверде паливо для РСЗВ «Ураган», «Смерч», «Торнадо-С» та авіаційних засобів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_10-18-12.jpg" length="153837" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 10:18:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 18:59:59 +0000</lastBuildDate>
     <item>
       <title>🔥ЗСУ уразили об’єкти, пов’язан</title>
       <link>https://www.mandarinai.lt/post/97483</link>
@@ -123,6 +93,34 @@
 Українські удари по важливих промислових об'єктах росії практично припинилися.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_17-35-43.jpg" length="46513" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 17:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>До Кишинева не долетіла і впал</title>
+      <link>https://www.mandarinai.lt/post/97494</link>
+      <description>До Кишинева не долетіла і впала посеред поля з кукурудзою</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2351.MP4" length="14181333" type="video/mp4"/>
+      <pubDate>Mon, 17 Aug 2026 18:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 збитих дронів «Молнія» за т</title>
+      <link>https://www.mandarinai.lt/post/97495</link>
+      <description>14 збитих дронів «Молнія» за три доби - такий результат одного з розрахунків 425-го полку «Скеля»
+
+Саме такі безпілотники атакували штурмовиків, яких врятував командир роти з «Code 9.2»</description>
+      <pubDate>Mon, 17 Aug 2026 18:45:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤷‍♂Грецький танкер Skiros зазн</title>
+      <link>https://www.mandarinai.lt/post/97496</link>
+      <description>🤷‍♂Грецький танкер Skiros зазнав нападу в Чорному морі після завантаження нафти російського походження на терміналі Каспійського нафтопроводу (КТК) поблизу Новоросійська, повідомляє Bloomberg 
+
+Напад стався в районі морського терміналу КТК. Як зазначає Bloomberg, це перший подібний інцидент за майже три тижні з судном, яке прямувало до терміналу.
+
+Раніше в серпні повідомлялось про домовленість України не атакувати інфраструктуру КТК і судна з неросійською нафтою, однак виняток становлять судна, які перебувають під українськими санкціями, і які перевозять російську нафту.
+
+КТК в основному експортує казахстанську нафту, однак, за даними Bloomberg, вантаж на борту Skiros мав російське походження. Російська нафта становить близько 5-10% загального обсягу експорту через КТК, зазначає агентство.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_18-55-39.jpg" length="43578" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 18:55:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
