@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 13:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:02:16 +0000</lastBuildDate>
     <item>
       <title>«Но тот владелец машины умрет,</title>
       <link>https://www.mandarinai.lt/post/97474</link>
@@ -89,6 +89,17 @@
       <description>🤬Вийти з ТЦК коштує $10-15 тис, а щоб потрапити на посаду керівника районного військомату — треба заплатити $50 тис, на обласного — $150 тис, — нардеп Олександр Качура</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_11-46-56.mp4" length="9397882" type="video/mp4"/>
       <pubDate>Mon, 17 Aug 2026 11:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🚀 В Україні зʼявився власний </title>
+      <link>https://www.mandarinai.lt/post/97487</link>
+      <description>💥🚀 В Україні зʼявився власний КАБ із назвою "Вирівнювач": його вже випробували і почали закуповувати для ЗСУ. 
+
+Вітчизняна авіабомба призначена для ураження цілей у глибокому тилу противника, має дальність польоту від 10 до 130 км і бойову частину масою 250 кг, — повідомив начальник відділу Центрального управління інновацій ЗСУ Владислав Волошин.
+
+Крім того, зараз розробляються ще близько 10 перспективних зразків високоточного авіаційного озброєння, щоб зменшити перевагу Росії у застосуванні КАБів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_13-34-31.mp4" length="2529919" type="video/mp4"/>
+      <pubDate>Mon, 17 Aug 2026 13:34:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
