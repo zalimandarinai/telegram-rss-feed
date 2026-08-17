@@ -6,38 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 18:59:59 +0000</lastBuildDate>
-    <item>
-      <title>🔥ЗСУ уразили об’єкти, пов’язан</title>
-      <link>https://www.mandarinai.lt/post/97483</link>
-      <description>🔥ЗСУ уразили об’єкти, пов’язані з запуском ударних дронів в окупованому Криму.
-
-Також під удар потрапили станція керування БпЛА «Оріон» у Новофедорівці, ретранслятор для «Гераней» і «Гербер» в Оленівці та пункт зв’язку на Тендрівській косі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_10-55-54.jpg" length="123094" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 10:55:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Попіл та руїна в Коледіно. На</title>
-      <link>https://www.mandarinai.lt/post/97484</link>
-      <description>🔥Попіл та руїна в Коледіно. Найбільший хаб і один з ключових вузлів Wildberries після зіткнення з українськими безпілотниками.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_11-35-41.jpg" length="320291" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 11:35:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Binance передала росії дані п</title>
-      <link>https://www.mandarinai.lt/post/97485</link>
-      <description>😡Binance передала росії дані про криптопожертви на ЗСУ для звинувачення IT-фахівця у «тероризмі»
-
-Мова йде про Юрія Бєлєнького (має посвідку на проживання в Болгарії). Зібрані матеріали використали як доказ для обвинувачення його в «фінансуванні тероризму» через перекази $700 на підтримку ЗСУ та бригади «Азов», повідомляє Reuters.
-
-У 2023 році Binance заявила про згортання бізнесу в росії. Попри це, за запитом Слідчого комітету рф компанія надіслала з офіційної пошти дані про перекази Бєлєнького, скани паспортів, номер телефону та адресу. Оскільки Бєлєнький є резидентом Болгарії (країна ЄС), Binance не мала на це права.
-
-У Binance відмовилися коментувати ситуацію за запитом ЗМІ.
-
- 49-річний Бєлєнький тепер перебуває під вартою в росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_11-39-00.jpg" length="39572" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 11:39:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 19:34:51 +0000</lastBuildDate>
     <item>
       <title>🤬Вийти з ТЦК коштує $10-15 тис</title>
       <link>https://www.mandarinai.lt/post/97486</link>
@@ -121,6 +90,21 @@
 КТК в основному експортує казахстанську нафту, однак, за даними Bloomberg, вантаж на борту Skiros мав російське походження. Російська нафта становить близько 5-10% загального обсягу експорту через КТК, зазначає агентство.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_18-55-39.jpg" length="43578" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 18:55:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️путін готує напад на Литву т</title>
+      <link>https://www.mandarinai.lt/post/97497</link>
+      <description>❗️путін готує напад на Литву та інші країни! НАТО терміново розробили план відповідь на вторгнення РФ до країн Балтії, який передбачає три етапи, — Bild.
+
+Спочатку сили Альянсу мають знищити російські ракетні комплекси та ППО, зокрема в Калінінграді.
+
+На кордонах із РФ і Білоруссю планують створити «автономну зону», де наступ стримуватимуть дрони та роботизована техніка без розміщення військових НАТО.
+
+Далі удари по військовій інфраструктурі РФ — аеродромах, базах, оборонних підприємствах, мостах і залізницях — завдаватимуть спецпризначенці та безпілотники.
+
+Мета Альянсу — не захоплення територій РФ, а відкидання російських військ до кордону.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_19-30-35.mp4" length="132350" type="video/mp4"/>
+      <pubDate>Mon, 17 Aug 2026 19:30:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
