@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 10:50:44 +0000</lastBuildDate>
-    <item>
-      <title>В Києві знову масштабна хода п</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>В Києві знову масштабна хода проти відставки Федорова з посади міністра оборони</description>
-      <pubDate>Sun, 16 Aug 2026 17:56:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 11:23:40 +0000</lastBuildDate>
     <item>
       <title>Внаслідок удару рф по Сумах за</title>
       <link>https://www.mandarinai.lt/post/97470</link>
@@ -64,7 +58,7 @@
     <item>
       <title>🔥 У Ростовській області в ніч </title>
       <link>https://www.mandarinai.lt/post/97482</link>
-      <description>🔥 У Ростовській області в ніч на 16 серпня знищено цехи з виробництва палива для російських ракет 
+      <description>🔥 У Ростовській області в ніч на знищено цехи з виробництва палива для російських ракет 
 
 Під удар потрапив комбінат «Каменський». 
 
@@ -73,6 +67,15 @@
 Це підприємство російського ВПК виробляло тверде паливо для РСЗВ «Ураган», «Смерч», «Торнадо-С» та авіаційних засобів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_10-18-12.jpg" length="153837" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 10:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥ЗСУ уразили об’єкти, пов’язан</title>
+      <link>https://www.mandarinai.lt/post/97483</link>
+      <description>🔥ЗСУ уразили об’єкти, пов’язані з запуском ударних дронів в окупованому Криму.
+
+Також під удар потрапили станція керування БпЛА «Оріон» у Новофедорівці, ретранслятор для «Гераней» і «Гербер» в Оленівці та пункт зв’язку на Тендрівській косі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_10-55-54.jpg" length="123094" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 10:55:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
