@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 06:41:47 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ЗСУ відновили контроль над с</title>
-      <link>https://www.mandarinai.lt/post/97491</link>
-      <description>⚡️ЗСУ відновили контроль над селом Андріївка-Клевцове (Іскра) на Донеччині.
-
-🔥Близько 30 російських військових взяли в полон.
-
-➡️ Задум українського командування вдало реалізували спецпризначенці 3-го полку ССО, але певну роль у відновленні контролю над селом зіграв один з центрів психологічних операцій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_15-56-45.jpg" length="83444" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 15:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️росія зараз збиває майже всі</title>
-      <link>https://www.mandarinai.lt/post/97493</link>
-      <description>‼️росія зараз збиває майже всі українські крилаті ракети "Фламінго", — німецьке видання Focus.
-
-За останні тижні з 11 запущених ракет ціль досягли лише одна-дві. Ситуацію змінило використання російськими ВКС літаків ДРЛО А-50У, які заздалегідь виявляють ракети та прогнозують їхній маршрут.
-
-Українські удари по важливих промислових об'єктах росії практично припинилися.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-17_17-35-43.jpg" length="46513" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 17:35:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 07:24:39 +0000</lastBuildDate>
     <item>
       <title>До Кишинева не долетіла і впал</title>
       <link>https://www.mandarinai.lt/post/97494</link>
@@ -85,6 +63,15 @@
       <description>Сильна пожежа після прильоту в Броварах на Київщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_05-50-52.mp4" length="288553" type="video/mp4"/>
       <pubDate>Tue, 18 Aug 2026 05:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рашисти завдали ракетного уд</title>
+      <link>https://www.mandarinai.lt/post/97512</link>
+      <description>⚡️рашисти завдали ракетного удару по Печенігам на Харківщині, загинуло 10 людей, - ОВА
+
+Ще вісім людей постраждали. Через удар пошкоджено 10 приватних будинків, кафе, пошту, магазин і автівки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_06-58-00.mp4" length="463699" type="video/mp4"/>
+      <pubDate>Tue, 18 Aug 2026 06:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
