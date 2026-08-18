@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 15:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:28:55 +0000</lastBuildDate>
     <item>
       <title>⚠️ Збори на ЗСУ. 
 
@@ -85,7 +85,7 @@
       <link>https://www.mandarinai.lt/post/97536</link>
       <description>Посольство рф погрожує Великій Британії за постачання дронів Україні.
 
-«Дії Лондона неминуче матимуть наслідки, за які йому доведеться відповісти», – йдеться в заяві посольства.
+«Дії Лондона неминуче матимуть наслідки, за які йому доведеться відповісти», – лякає посольство.
 
 Чим сильніше Лондон допомагатиме Україні, «тим вищою буде ціна, яку він заплатить», скаженіють представники Кремля.
 
@@ -94,6 +94,13 @@
 «У росії не повинно бути сумнівів в рішучості нашого уряду протистояти російській агресії в Україні», – йдеться в заяві представника</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2377.MP4" length="7859889" type="video/mp4"/>
       <pubDate>Tue, 18 Aug 2026 15:43:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡російський реактивний дрон сь</title>
+      <link>https://www.mandarinai.lt/post/97538</link>
+      <description>😡російський реактивний дрон сьогодні вперше долетів до Рівненщини, він подолав близько 900 км – через Тернопільщину, Хмельниччину, Вінниччину, Одещину та Миколаївщину. Ворог успішно модернізує швидкісні шахеди.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_16-26-05.jpg" length="157707" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 16:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
