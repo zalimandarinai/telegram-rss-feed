@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 13:30:21 +0000</lastBuildDate>
-    <item>
-      <title>❗️Селище Печеніги атакували сь</title>
-      <link>https://www.mandarinai.lt/post/97518</link>
-      <description>❗️Селище Печеніги атакували сьогодні дві крилаті ракети типу  «Бандероль», - 57-а бригада
-
-Удари прийшлися на район магазинів, пошти та кафе.
-
-Станом на 12:00 відомо про 10 загиблих та 20 постраждалих, однак ці цифри неостаточні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_10-13-50.jpg" length="169951" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 10:13:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 14:16:22 +0000</lastBuildDate>
     <item>
       <title>⚠️ Збори на ЗСУ. 
 
@@ -73,6 +62,13 @@
       <description>💬 «Україна обов’язково відповість», - Зеленський відреагував на атаку рф по Печенігах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_12-51-55.jpg" length="128677" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 12:51:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не тільки бензин. В Якутії деф</title>
+      <link>https://www.mandarinai.lt/post/97533</link>
+      <description>Не тільки бензин. В Якутії дефіцит газу на заправках. При тому, що цей російський регіон просто сидить на газі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2372.MP4" length="15544852" type="video/mp4"/>
+      <pubDate>Tue, 18 Aug 2026 14:03:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
