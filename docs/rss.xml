@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 10:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:46:10 +0000</lastBuildDate>
     <item>
       <title>До Кишинева не долетіла і впал</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -15,7 +15,7 @@
     </item>
     <item>
       <title>❗️путін готує напад на Литву т</title>
-      <link>https://www.mandarinai.lt/post/97497</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️путін готує напад на Литву та інші країни! НАТО терміново розробили план відповідь на вторгнення РФ до країн Балтії, який передбачає три етапи, — Bild.
 
 Спочатку сили Альянсу мають знищити російські ракетні комплекси та ППО, зокрема в Калінінграді.
@@ -25,22 +25,13 @@
 Далі удари по військовій інфраструктурі РФ — аеродромах, базах, оборонних підприємствах, мостах і залізницях — завдаватимуть спецпризначенці та безпілотники.
 
 Мета Альянсу — не захоплення територій РФ, а відкидання російських військ до кордону.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_19-30-35.mp4" length="132350" type="video/mp4"/>
       <pubDate>Mon, 17 Aug 2026 19:30:35 +0000</pubDate>
     </item>
     <item>
       <title>💥🔥Під Москвою після нічної ата</title>
-      <link>https://www.mandarinai.lt/post/97500</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥Під Москвою після нічної атаки горять НПЗ та склади Wildberries</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_04-38-01.mp4" length="1341232" type="video/mp4"/>
       <pubDate>Tue, 18 Aug 2026 04:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сильна пожежа після прильоту в</title>
-      <link>https://www.mandarinai.lt/post/97503</link>
-      <description>Сильна пожежа після прильоту в Броварах на Київщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_05-50-52.mp4" length="288553" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 05:50:52 +0000</pubDate>
     </item>
     <item>
       <title>⚡️рашисти завдали ракетного уд</title>
@@ -58,11 +49,11 @@
 
 Лідер Китаю прибуде до США 23 вересня. Наступного дня він зустрінеться з президентом Дональдом Трампом у Білому домі.
 
- Сі Цзіньпін востаннє ✅ Сі Цзіньпін відвідає США, але пропустить Генасамблею ООН, — Politico
+Сі Цзіньпін відвідає США, але пропустить Генасамблею ООН, — Politico
 
 Лідер Китаю прибуде до США 23 вересня. Наступного дня він зустрінеться з президентом Дональдом Трампом у Білому домі.
 
- Сі Цзіньпін востаннє особисто відвідував США у 2015 році. Тоді він також виступив на Генасамблеї ООН. Тоді він також виступив на Генасамблеї ООН. У 2021 році китайський лідер звертався до Генасамблеї дистанційно</description>
+ Сі Цзіньпін востаннє особисто відвідував США у 2015 році. Тоді він також виступив на Генасамблеї ООН. Тоді він також виступив на Генасамблеї ООН. У 2021 році китайський лідер звертався до Генасамблеї дистанційно.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_08-17-12.jpg" length="70705" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 08:17:12 +0000</pubDate>
     </item>
@@ -74,6 +65,17 @@
 Пожежу ще гасять, тож наразі неможливо оцінити збитки. У компанії попередили, що деяких товарів може тимчасово не бути у частині магазинів, а окремі інтернет-замовлення можуть затриматись. Попередньо, люди не постраждали.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_08-51-45.jpg" length="110295" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 08:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Селище Печеніги атакували сь</title>
+      <link>https://www.mandarinai.lt/post/97518</link>
+      <description>❗️Селище Печеніги атакували сьогодні дві крилаті ракети типу  «Бандероль», - 57-а бригада
+
+Удари прийшлися на район магазинів, пошти та кафе.
+
+Станом на 12:00 відомо про 10 загиблих та 20 постраждалих, однак ці цифри неостаточні.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_10-13-50.jpg" length="169951" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 10:13:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
