@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 18:55:42 +0000</lastBuildDate>
-    <item>
-      <title>Не тільки бензин. В Якутії деф</title>
-      <link>https://www.mandarinai.lt/post/97533</link>
-      <description>Не тільки бензин. В Якутії дефіцит газу на заправках. При тому, що цей російський регіон просто сидить на газі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2372.MP4" length="15544852" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 14:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Відбито атаку російської штурм</title>
-      <link>https://www.mandarinai.lt/post/97535</link>
-      <description>Відбито атаку російської штурмової групи під Вовчанськом.
-
-Окупанти спробували прослизнути до українських позицій, зробити фото з триколором та відзвітувати про успіх.
-
-Але бійці бригади ДПСУ «Форпост» встигли спрацювати на випередження.</description>
-      <pubDate>Tue, 18 Aug 2026 15:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Посольство рф погрожує Великій</title>
-      <link>https://www.mandarinai.lt/post/97536</link>
-      <description>Посольство рф погрожує Великій Британії за постачання дронів Україні.
-
-«Дії Лондона неминуче матимуть наслідки, за які йому доведеться відповісти», – лякає посольство.
-
-Чим сильніше Лондон допомагатиме Україні, «тим вищою буде ціна, яку він заплатить», скаженіють представники Кремля.
-
-На погрози уже відповів представник британського Міністерства оборони, заявивши, що Великої Британії «пліч-о-пліч» з Україною.
-
-«У росії не повинно бути сумнівів в рішучості нашого уряду протистояти російській агресії в Україні», – йдеться в заяві представника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2377.MP4" length="7859889" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 15:43:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 19:26:38 +0000</lastBuildDate>
     <item>
       <title>😡російський реактивний дрон сь</title>
       <link>https://www.mandarinai.lt/post/97538</link>
@@ -80,6 +48,33 @@
       <description>⛽️ В Болгарії паливозаправник з лого компанії «Лукойл» заправляє пальним український транспортний літак Ан-124, який, ймовірно, перевозить зброю для України, - фото, яке зіпсувало настрій в  російських соцмережах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_18-46-24.jpg" length="80364" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 18:46:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>За навмисні підпали в Хорватії</title>
+      <link>https://www.mandarinai.lt/post/97548</link>
+      <description>За навмисні підпали в Хорватії затримано четверо - громадянка Польщі та три серба з паспортами Хорватії.
+
+Якщо слідство встановить, що підпали четвірка здійснювала за чиїмось завданням, то справу перекваліфікують в тероризм.
+
+Під час однієї з пожеж вигоріло 1000 гектарів лісу, є майже цілковито спалені села навколо хорватських курортів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_18-55-47.jpg" length="139026" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 18:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф масовано вдарила по одній</title>
+      <link>https://www.mandarinai.lt/post/97549</link>
+      <description>⚡️рф масовано вдарила по одній з ТЕС ДТЕК
+
+Через удар генерацію електроенергії було зупинено</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_19-08-01.jpg" length="81175" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 19:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лавров почав лякати Велику Бри</title>
+      <link>https://www.mandarinai.lt/post/97551</link>
+      <description>Лавров почав лякати Велику Британію тим, що росія буде розглядати постачання зброї Україні як участь у війні, «з усіма відповідними наслідками», - але, зауважте, яке в нього самого перекошене і перелякане обличчя</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2390.MP4" length="26528079" type="video/mp4"/>
+      <pubDate>Tue, 18 Aug 2026 19:15:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
