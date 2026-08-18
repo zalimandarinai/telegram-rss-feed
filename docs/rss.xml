@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 18:02:14 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Рекорд висоти для перехоплю</title>
-      <link>https://www.mandarinai.lt/post/97530</link>
-      <description>⚡️ Рекорд висоти для перехоплювачів  - дрон Sting ліквідував російський БПЛА на висоті 7472 метри.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2374.MP4" length="1130868" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 12:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Спроба проїхати на фурі до оку</title>
-      <link>https://www.mandarinai.lt/post/97531</link>
-      <description>Спроба проїхати на фурі до окупованого Кримського півострова коштувала водію його машини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2368.MP4" length="28997658" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 12:47:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Україна обов’язково відпові</title>
-      <link>https://www.mandarinai.lt/post/97532</link>
-      <description>💬 «Україна обов’язково відповість», - Зеленський відреагував на атаку рф по Печенігах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_12-51-55.jpg" length="128677" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 12:51:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 18:55:42 +0000</lastBuildDate>
     <item>
       <title>Не тільки бензин. В Якутії деф</title>
       <link>https://www.mandarinai.lt/post/97533</link>
@@ -87,6 +66,20 @@
 🏆 24 серпня бот випадковим чином визначить 14 переможців, які отримають свої подарунки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_17-00-29.jpg" length="162810" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Владислав Польський, командир </title>
+      <link>https://www.mandarinai.lt/post/97545</link>
+      <description>Владислав Польський, командир роти 475-го полку «Code 9.2», який врятував двох своїх поранених бійців: детальна розмова журналіста з героєм за посиланням https://m.youtube.com/watch?v=lywoA2-ojO8&amp;t=289s&amp;pp=0gcJCRMMAYcqIYzv&amp;ra=m</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_18-28-09.jpg" length="114797" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 18:28:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>⛽️ В Болгарії паливозаправник </title>
+      <link>https://www.mandarinai.lt/post/97547</link>
+      <description>⛽️ В Болгарії паливозаправник з лого компанії «Лукойл» заправляє пальним український транспортний літак Ан-124, який, ймовірно, перевозить зброю для України, - фото, яке зіпсувало настрій в  російських соцмережах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_18-46-24.jpg" length="80364" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 18:46:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
