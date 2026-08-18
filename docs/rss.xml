@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 05:27:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:55:54 +0000</lastBuildDate>
     <item>
       <title>CNN показав кадри пустих украї</title>
       <link>https://www.mandarinai.lt/post/97490</link>
@@ -87,6 +87,13 @@
       <description>💥🔥Під Москвою після нічної атаки горять НПЗ та склади Wildberries</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_04-38-01.mp4" length="1341232" type="video/mp4"/>
       <pubDate>Tue, 18 Aug 2026 04:38:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сильна пожежа після прильоту в</title>
+      <link>https://www.mandarinai.lt/post/97503</link>
+      <description>Сильна пожежа після прильоту в Броварах на Київщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_05-50-52.mp4" length="288553" type="video/mp4"/>
+      <pubDate>Tue, 18 Aug 2026 05:50:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
