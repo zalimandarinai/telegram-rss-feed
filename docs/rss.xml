@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 10:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:23:18 +0000</lastBuildDate>
     <item>
       <title>До Кишинева не долетіла і впал</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -26,21 +26,6 @@
 
 Мета Альянсу — не захоплення територій РФ, а відкидання російських військ до кордону.</description>
       <pubDate>Mon, 17 Aug 2026 19:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Під Москвою після нічної ата</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>💥🔥Під Москвою після нічної атаки горять НПЗ та склади Wildberries</description>
-      <pubDate>Tue, 18 Aug 2026 04:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рашисти завдали ракетного уд</title>
-      <link>https://www.mandarinai.lt/post/97512</link>
-      <description>⚡️рашисти завдали ракетного удару по Печенігам на Харківщині, загинуло 10 людей, - ОВА
-
-Ще вісім людей постраждали. Через удар пошкоджено 10 приватних будинків, кафе, пошту, магазин і автівки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_06-58-00.mp4" length="463699" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 06:58:00 +0000</pubDate>
     </item>
     <item>
       <title>✅ Сі Цзіньпін відвідає США, ал</title>
@@ -76,6 +61,30 @@
 Станом на 12:00 відомо про 10 загиблих та 20 постраждалих, однак ці цифри неостаточні.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_10-13-50.jpg" length="169951" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 10:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Збори на ЗСУ. 
+
+📉 На жаль, </title>
+      <link>https://www.mandarinai.lt/post/97525</link>
+      <description>⚠️ Збори на ЗСУ. 
+
+📉 На жаль, зараз обсяги донатів значно зменшилися, і, не в останню чергу, через велику кількість шахраїв, які використовують щире бажання українців допомогти своїй армії. 
+
+💿 Кіберфахівці Національної поліції дають правильний алгоритм, як відрізнити доброчесних волонтерів від шахраїв, і переконатися, що ваші гроші пішли на оборону України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2356.MP4" length="22026506" type="video/mp4"/>
+      <pubDate>Tue, 18 Aug 2026 11:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ На Харківщині після сьогодн</title>
+      <link>https://www.mandarinai.lt/post/97526</link>
+      <description>⚡️ На Харківщині після сьогоднішнього російського обстрілу перекрито рух машин трасою Т-21-11 «Чугуїв-Печеніги-Великий Бурлук» від АЗС «Маршал»
+
+Дорога закрита для всіх видів транспорту.
+
+Організовано тимчасовий об’їзд.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_11-22-23.jpg" length="77089" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 11:22:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
