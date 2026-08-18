@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 04:09:10 +0000</lastBuildDate>
-    <item>
-      <title>🤬Вийти з ТЦК коштує $10-15 тис</title>
-      <link>https://www.mandarinai.lt/post/97486</link>
-      <description>🤬Вийти з ТЦК коштує $10-15 тис, а щоб потрапити на посаду керівника районного військомату — треба заплатити $50 тис, на обласного — $150 тис, — нардеп Олександр Качура</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_11-46-56.mp4" length="9397882" type="video/mp4"/>
-      <pubDate>Mon, 17 Aug 2026 11:46:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🚀 В Україні зʼявився власний </title>
-      <link>https://www.mandarinai.lt/post/97487</link>
-      <description>💥🚀 В Україні зʼявився власний КАБ із назвою "Вирівнювач": його вже випробували і почали закуповувати для ЗСУ. 
-
-Вітчизняна авіабомба призначена для ураження цілей у глибокому тилу противника, має дальність польоту від 10 до 130 км і бойову частину масою 250 кг, — повідомив начальник відділу Центрального управління інновацій ЗСУ Владислав Волошин.
-
-Крім того, зараз розробляються ще близько 10 перспективних зразків високоточного авіаційного озброєння, щоб зменшити перевагу Росії у застосуванні КАБів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_13-34-31.mp4" length="2529919" type="video/mp4"/>
-      <pubDate>Mon, 17 Aug 2026 13:34:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Ракета Х-31П влучила в житло</title>
-      <link>https://www.mandarinai.lt/post/97488</link>
-      <description>❗️Ракета Х-31П влучила в житловий будинок у Чорноморську на Одещині, – місцеві ЗМІ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_14-20-57.mp4" length="1089130" type="video/mp4"/>
-      <pubDate>Mon, 17 Aug 2026 14:20:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 04:51:08 +0000</lastBuildDate>
     <item>
       <title>CNN показав кадри пустих украї</title>
       <link>https://www.mandarinai.lt/post/97490</link>
@@ -105,6 +80,13 @@
 Мета Альянсу — не захоплення територій РФ, а відкидання російських військ до кордону.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-17_19-30-35.mp4" length="132350" type="video/mp4"/>
       <pubDate>Mon, 17 Aug 2026 19:30:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Під Москвою після нічної ата</title>
+      <link>https://www.mandarinai.lt/post/97500</link>
+      <description>💥🔥Під Москвою після нічної атаки горять НПЗ та склади Wildberries</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-18_04-38-01.mp4" length="1341232" type="video/mp4"/>
+      <pubDate>Tue, 18 Aug 2026 04:38:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
