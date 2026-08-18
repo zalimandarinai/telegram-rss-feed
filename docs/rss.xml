@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 16:59:17 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ На Харківщині після сьогодн</title>
-      <link>https://www.mandarinai.lt/post/97526</link>
-      <description>⚡️ На Харківщині після сьогоднішнього російського обстрілу перекрито рух автомобілів трасою Т-21-11 «Чугуїв-Печеніги-Великий Бурлук» від АЗС «Маршал»
-
-Дорога закрита для всіх видів транспорту.
-
-Організовано тимчасовий об’їзд.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_11-22-23.jpg" length="77089" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 11:22:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Москві загинув заступник гол</title>
-      <link>https://www.mandarinai.lt/post/97527</link>
-      <description>В Москві загинув заступник голови правління російського «Генбанку» Дмитро Ларін, - ЗМІ
-
-Він їхав на мотоциклі, і його збила карета швидкої допомоги, яка виїхала на зустрічну смугу.
-
-Після анексії Криму «Генбанк» використовувався для фінансових операцій із півостровом, його центральний офіс розташовувався в Сімферополі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2367.MP4" length="2447181" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 11:45:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 17:34:52 +0000</lastBuildDate>
     <item>
       <title>⚡️ Рекорд висоти для перехоплю</title>
       <link>https://www.mandarinai.lt/post/97530</link>
@@ -88,6 +66,27 @@
       <description>😡російський реактивний дрон сьогодні вперше долетів до Рівненщини, він подолав близько 900 км – через Тернопільщину, Хмельниччину, Вінниччину, Одещину та Миколаївщину. Ворог успішно модернізує швидкісні шахеди.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_16-26-05.jpg" length="157707" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 16:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 Даруємо Apple до Дня Незале</title>
+      <link>https://www.mandarinai.lt/post/97542</link>
+      <description>🇺🇦 Даруємо Apple до Дня Незалежності України! 🇺🇦
+
+До головного свята України топові Telegram-канали об'єдналися, щоб провести наймасштабніший розіграш цього літа для своїх підписників! 
+
+🎁 14 переможців отримають техніку Apple: MacBook Air 15 M5, iPhone 17 Pro Max, AirPods Max та AirPods Pro 3.
+
+👉 Щоб взяти участь, потрібно виконати лише декілька простих умов:
+
+1. Підписатися на INSIDER UA
+2. Підписатися на Україна Online
+3. Підписатися на НОВИНА 🇺🇦
+4. Підписатися на НЕВІДОМИЙ
+5. Натиснути нижче кнопку «Взяти участь» 
+
+🏆 24 серпня бот випадковим чином визначить 14 переможців, які отримають свої подарунки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-18_17-00-29.jpg" length="162810" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 17:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
