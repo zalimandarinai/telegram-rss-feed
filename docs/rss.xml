@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 09:03:36 +0000</lastBuildDate>
-    <item>
-      <title>Лавров почав лякати Велику Бри</title>
-      <link>https://www.mandarinai.lt/post/97551</link>
-      <description>Лавров почав лякати Велику Британію тим, що росія буде розглядати постачання зброї Україні як участь у війні, «з усіма відповідними наслідками», - але, зауважте, яке в нього самого перекошене і перелякане обличчя</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2390.MP4" length="26528079" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 19:15:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кияни вже облаштовуються в мет</title>
-      <link>https://www.mandarinai.lt/post/97552</link>
-      <description>Кияни вже облаштовуються в метро на фоні повідомлення про ракетні загрози</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2391.MP4" length="4716009" type="video/mp4"/>
-      <pubDate>Tue, 18 Aug 2026 20:57:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 09:49:00 +0000</lastBuildDate>
     <item>
       <title>⚡️В Запоріжжі одна людина заги</title>
       <link>https://www.mandarinai.lt/post/97553</link>
@@ -99,6 +85,13 @@
 Тегеран також розглядав можливість ударів по підводних оптоволоконних кабелях в Ормузькій протоці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_08-33-21.jpg" length="125278" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 08:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ В Херсоні четверо загиблих </title>
+      <link>https://www.mandarinai.lt/post/97570</link>
+      <description>❗️ В Херсоні четверо загиблих в маршрутці, яку атакував російський дрон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2404.MP4" length="7169664" type="video/mp4"/>
+      <pubDate>Wed, 19 Aug 2026 09:11:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
