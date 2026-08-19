@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 09:49:00 +0000</lastBuildDate>
-    <item>
-      <title>⚡️В Запоріжжі одна людина заги</title>
-      <link>https://www.mandarinai.lt/post/97553</link>
-      <description>⚡️В Запоріжжі одна людина загинула, 6 поранено внаслідок нічної атаки рф.
-
-Зранку ворог атакував місто КАБами, зруйновано приватне подвір'я - під завалами можуть бути люди</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-19_03-38-07.mp4" length="376516" type="video/mp4"/>
-      <pubDate>Wed, 19 Aug 2026 03:38:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 10:26:42 +0000</lastBuildDate>
     <item>
       <title>❗️ росія вдарила по центрально</title>
       <link>https://www.mandarinai.lt/post/97555</link>
@@ -92,6 +83,24 @@
       <description>❗️ В Херсоні четверо загиблих в маршрутці, яку атакував російський дрон</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2404.MP4" length="7169664" type="video/mp4"/>
       <pubDate>Wed, 19 Aug 2026 09:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Хорватії затримали другого п</title>
+      <link>https://www.mandarinai.lt/post/97571</link>
+      <description>У Хорватії затримали другого підозрюваного у підриві «Північного потоку» — це громадянин України
+
+Федеральна прокуратура Німеччини повідомила про арешт ще одного підозрюваного, причетного до вибухів, які пошкодили газопроводи «Північний потік» і «Північний потік-2» у Балтійському морі у вересні 2022 року.
+
+Відомство назвало затриманого громадянином України Володимиром З. Його затримали в Хорватії, у місті Пула, на підставі європейського ордера на арешт.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_09-58-53.jpg" length="40794" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 09:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️РСЗВ «Ураган» окупантів морп</title>
+      <link>https://www.mandarinai.lt/post/97572</link>
+      <description>❗️РСЗВ «Ураган» окупантів морпіхи спалили FPV-дроном, - 426-ий полк безпілотних систем ВМС України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2406.MP4" length="23646662" type="video/mp4"/>
+      <pubDate>Wed, 19 Aug 2026 10:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
