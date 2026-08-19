@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 17:30:36 +0000</lastBuildDate>
-    <item>
-      <title>❗️ В Херсоні четверо загиблих </title>
-      <link>https://www.mandarinai.lt/post/97570</link>
-      <description>❗️ В Херсоні четверо загиблих в маршрутці, яку атакував російський дрон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2404.MP4" length="7169664" type="video/mp4"/>
-      <pubDate>Wed, 19 Aug 2026 09:11:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 17:58:36 +0000</lastBuildDate>
     <item>
       <title>У Хорватії затримали другого п</title>
       <link>https://www.mandarinai.lt/post/97571</link>
@@ -98,6 +91,21 @@
       <description>🤬Момент влучання «Бандеролі» по ГУ Нацполіції в Житомирі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-19_15-01-42.mp4" length="307425" type="video/mp4"/>
       <pubDate>Wed, 19 Aug 2026 15:01:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Владислав Польський - Герой Ук</title>
+      <link>https://www.mandarinai.lt/post/97586</link>
+      <description>Владислав Польський - Герой України. 
+
+Щойно президент присвоїв командиру штурмової роти 475-го полку «Code 9.2» це високе звання. 
+
+Честь!
+
+Якщо б всі командири були такі, як Владислав, в нас би не було дефіциту кадрів в Збройних Силах.
+
+І, напевно, не було б ганебних практик «бусифікації» ухилянтів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_17-48-00.jpg" length="113197" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 17:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
