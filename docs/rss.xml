@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 10:55:26 +0000</lastBuildDate>
-    <item>
-      <title>👀Операція "Форест Гамп": НАБУ </title>
-      <link>https://www.mandarinai.lt/post/97561</link>
-      <description>👀Операція "Форест Гамп": НАБУ опублікувало перші записи розмов фігурантів нової спецоперації
-
-Бюро показало короткі фрагменти перехоплених розмов у рамках розслідування, за яким зараз проводяться обшуки у чиновників.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-19_07-13-35.mp4" length="1160165" type="video/mp4"/>
-      <pubDate>Wed, 19 Aug 2026 07:13:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 11:23:16 +0000</lastBuildDate>
     <item>
       <title>путінські виродки атакували ма</title>
       <link>https://www.mandarinai.lt/post/97562</link>
@@ -108,6 +99,13 @@
       <description>‼️Офіційно. Рада призначила Євгена Хмару міністром оборони</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_10-38-14.jpg" length="146596" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 10:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Збити «шахед» з кулемета то</title>
+      <link>https://www.mandarinai.lt/post/97576</link>
+      <description>❗️ Збити «шахед» з кулемета то завдання не з легких. Тому кожен такий збитий дрон це неймовірні емоції, - Сергій «Капітошка», командир кулеметного взводу зенітної батареї 114-ої окремої бригади ТРО</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2407.MP4" length="29801866" type="video/mp4"/>
+      <pubDate>Wed, 19 Aug 2026 11:01:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
