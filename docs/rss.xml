@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 19:40:51 +0000</lastBuildDate>
-    <item>
-      <title>❗️Відбувся обмін військовополо</title>
-      <link>https://www.mandarinai.lt/post/97573</link>
-      <description>❗️Відбувся обмін військовополоненими: 103 особи на 103 особи між Україною та рф, — Зеленський.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_10-28-24.jpg" length="108464" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 10:28:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 19:59:39 +0000</lastBuildDate>
     <item>
       <title>‼️Офіційно. Рада призначила Єв</title>
       <link>https://www.mandarinai.lt/post/97574</link>
@@ -97,6 +90,13 @@
 Наразі нема офіційного підтвердження</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_18-47-39.jpg" length="98605" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 18:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Екс-міністр оборони Федоров р</title>
+      <link>https://www.mandarinai.lt/post/97589</link>
+      <description>👀Екс-міністр оборони Федоров розглядає можливість візиту до США з метою заручитися підтримкою американців, - The Guardian.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_19-50-52.jpg" length="66785" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 19:50:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
