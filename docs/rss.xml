@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 14:17:28 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥В російській Башкірії знову </title>
-      <link>https://www.mandarinai.lt/post/97567</link>
-      <description>💥🔥В російській Башкірії знову палає НПЗ після влучання дронів.
-
-Місцева влада Уфи заявила, що атака відбулась на установку, яку намагались відремонтувати після минулих атак.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-19_08-21-31.mp4" length="157844" type="video/mp4"/>
-      <pubDate>Wed, 19 Aug 2026 08:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Іран готується розширити війну</title>
-      <link>https://www.mandarinai.lt/post/97568</link>
-      <description>Іран готується розширити війну на територію Європи
-
-За даними Financial Times, іранські військові розглядали можливість атак на американські об’єкти в Болгарії та на Кіпрі, якщо конфлікт продовжить загострюватися.
-
-Тегеран також розглядав можливість ударів по підводних оптоволоконних кабелях в Ормузькій протоці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_08-33-21.jpg" length="125278" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 08:33:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 15:01:32 +0000</lastBuildDate>
     <item>
       <title>❗️ В Херсоні четверо загиблих </title>
       <link>https://www.mandarinai.lt/post/97570</link>
@@ -95,6 +75,22 @@
       <description>😡Унаслідок масованої атаки російських дронів-ракет «Бандероль» по Житомиру є багато поранених, - місцеві канали</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_13-28-27.jpg" length="88407" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 13:28:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Українські військові атакувал</title>
+      <link>https://www.mandarinai.lt/post/97583</link>
+      <description>💥Українські військові атакували одразу три склади БпЛА росіян, — Генштаб
+
+Також уражено російський наземний ретранслятор для управління БпЛА у т.о. Криму.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_14-31-46.jpg" length="105351" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 14:31:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️У Житомирі рашисти вбили дво</title>
+      <link>https://www.mandarinai.lt/post/97584</link>
+      <description>❗️У Житомирі рашисти вбили двох поліцейських, ще 20 людей поранено, внаслідок масованої ракетної атаки посеред дня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_14-51-33.jpg" length="200576" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 14:51:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
