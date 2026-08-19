@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 19:59:39 +0000</lastBuildDate>
-    <item>
-      <title>‼️Офіційно. Рада призначила Єв</title>
-      <link>https://www.mandarinai.lt/post/97574</link>
-      <description>‼️Офіційно. Рада призначила Євгена Хмару міністром оборони</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_10-38-14.jpg" length="146596" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 10:38:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Збити «шахед» з кулемета то</title>
-      <link>https://www.mandarinai.lt/post/97576</link>
-      <description>❗️ Збити «шахед» з кулемета то завдання не з легких. Тому кожен такий збитий дрон це неймовірні емоції, - Сергій «Капітошка», командир кулеметного взводу зенітної батареї 114-ої окремої бригади ТРО</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2407.MP4" length="29801866" type="video/mp4"/>
-      <pubDate>Wed, 19 Aug 2026 11:01:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 20:37:34 +0000</lastBuildDate>
     <item>
       <title>Бійці «Карпатської Січі» склал</title>
       <link>https://www.mandarinai.lt/post/97578</link>
@@ -97,6 +83,22 @@
       <description>👀Екс-міністр оборони Федоров розглядає можливість візиту до США з метою заручитися підтримкою американців, - The Guardian.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_19-50-52.jpg" length="66785" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 19:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ США непублічно відкрили зах</title>
+      <link>https://www.mandarinai.lt/post/97590</link>
+      <description>⚡️ США непублічно відкрили захищений коридор для танкерів в Ормузькій протоці, — Axios
+
+Щоночі цим маршрутом під прикриттям американських винищувачів проходить 15–20 танкерів (~10 млн барелів нафти на добу). Після нещодавніх ударів США розвідка Ірану має обмежену видимість коридору і не може ефективно перешкоджати судноплавству.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-19_20-02-57.jpg" length="89376" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 20:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дотягнулися FPV-дроном до росі</title>
+      <link>https://www.mandarinai.lt/post/97591</link>
+      <description>Дотягнулися FPV-дроном до російських військових біля стели на вʼїзді до Донецька, - 3-ій батальйон 93-ої бригади</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2418.MP4" length="13515723" type="video/mp4"/>
+      <pubDate>Wed, 19 Aug 2026 20:14:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
