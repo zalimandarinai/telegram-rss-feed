@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 11:53:20 +0000</lastBuildDate>
-    <item>
-      <title>Сьогодні загинуло 12 киян від </title>
-      <link>https://www.mandarinai.lt/post/97601</link>
-      <description>Сьогодні загинуло 12 киян від російських ударів, - ДСНС</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_06-07-27.jpg" length="137414" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 06:07:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 12:44:17 +0000</lastBuildDate>
     <item>
       <title>Завтра у столиці оголосили Ден</title>
       <link>https://www.mandarinai.lt/post/97607</link>
@@ -87,6 +80,22 @@
 https://i.goit.global/9aHUr</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_11-21-34.jpg" length="101696" type="image/jpeg"/>
       <pubDate>Thu, 20 Aug 2026 11:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Військовозобов’язаним україн</title>
+      <link>https://www.mandarinai.lt/post/97617</link>
+      <description>‼️Військовозобов’язаним українським жінкам доведеться підтверджувати виконання військового обов’язку: лише за цієї умови вони зможуть отримати тимчасовий захист у ЄС, — Єврокомісія
+
+У відомстві підкреслити, що рішення стосується всіх і базується на принципах гендерної рівності</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_11-59-26.jpg" length="114620" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 11:59:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬рф вдарила «Шахедом» по магаз</title>
+      <link>https://www.mandarinai.lt/post/97618</link>
+      <description>🤬рф вдарила «Шахедом» по магазину «Аврора» з людьми всередині у Слов’янську — магазин повністю згорів, є багато поранених, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-20_12-36-05.mp4" length="979043" type="video/mp4"/>
+      <pubDate>Thu, 20 Aug 2026 12:36:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
