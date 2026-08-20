@@ -6,47 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 16:32:48 +0000</lastBuildDate>
-    <item>
-      <title>Небо над Борисполем сьогодні. </title>
-      <link>https://www.mandarinai.lt/post/97610</link>
-      <description>Небо над Борисполем сьогодні. російська атака на Київ та область триває</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_06-13-47.jpg" length="166168" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 06:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Борисполі росіяни вдарили по</title>
-      <link>https://www.mandarinai.lt/post/97611</link>
-      <description>В Борисполі росіяни вдарили по продуктових складах - вони хочуть створити гуманітарну кризу в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2434.MP4" length="11810508" type="video/mp4"/>
-      <pubDate>Thu, 20 Aug 2026 07:35:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Крилаті ракети ми збиваємо май</title>
-      <link>https://www.mandarinai.lt/post/97612</link>
-      <description>Крилаті ракети ми збиваємо майже всі.
-
-Ворог запустив по Україні, переважно по столиці, 36 крилатих ракет Х-101/Іскандер-К/Х-59
-
-Збито: 31
-
-З тих 8-ми «Калібрів», які запустили з кораблів в Чорному морі, українські Повітряні Сили збили всі 8 ракет.
-
-Також летіло дві «Бандеролі» - обидві збиті
-
-Балістика залишається найбільшою загрозою для Києва.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_07-44-55.jpg" length="82955" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 07:44:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳🔥 На Київщині мобільна вогнев</title>
-      <link>https://www.mandarinai.lt/post/97613</link>
-      <description>😳🔥 На Київщині мобільна вогнева група з кулемета знищила крилату ракету, яка прямувала у бік столиці, — ДПСУ
-
-Збита ціль впала поза межами населених пунктів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-20_10-35-09.mp4" length="1563864" type="video/mp4"/>
-      <pubDate>Thu, 20 Aug 2026 10:35:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 17:06:53 +0000</lastBuildDate>
     <item>
       <title>‼️Безкоштовно спробуйте AI-про</title>
       <link>https://www.mandarinai.lt/post/97615</link>
@@ -105,6 +65,20 @@ https://i.goit.global/9aHUr</description>
       <description>🔴Сьогодні в столиці був цілеспрямовано атакований обʼєкт критичної інфраструктури, – Кличко.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_16-02-19.jpg" length="95663" type="image/jpeg"/>
       <pubDate>Thu, 20 Aug 2026 16:02:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Краматорську росіяни авіауда</title>
+      <link>https://www.mandarinai.lt/post/97624</link>
+      <description>В Краматорську росіяни авіаударом розбили супермаркет</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2443.MP4" length="2484404" type="video/mp4"/>
+      <pubDate>Thu, 20 Aug 2026 16:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Міграційна» зброя вже задіяна</title>
+      <link>https://www.mandarinai.lt/post/97625</link>
+      <description>«Міграційна» зброя вже задіяна проти Іспанії - швидкісні човни підходять до іспанських пляжів, з бортів на узбережжя десантуються нелегальні мігранти, і потім вони повертають до Африки за наступними групами.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2444.MP4" length="5543261" type="video/mp4"/>
+      <pubDate>Thu, 20 Aug 2026 16:44:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
