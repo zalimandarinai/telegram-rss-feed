@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 19:03:10 +0000</lastBuildDate>
-    <item>
-      <title>🔴Сьогодні в столиці був цілесп</title>
-      <link>https://www.mandarinai.lt/post/97623</link>
-      <description>🔴Сьогодні в столиці був цілеспрямовано атакований обʼєкт критичної інфраструктури, – Кличко.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_16-02-19.jpg" length="95663" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 16:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Краматорську росіяни авіауда</title>
-      <link>https://www.mandarinai.lt/post/97624</link>
-      <description>В Краматорську росіяни авіаударом розбили супермаркет</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2443.MP4" length="2484404" type="video/mp4"/>
-      <pubDate>Thu, 20 Aug 2026 16:37:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 19:45:22 +0000</lastBuildDate>
     <item>
       <title>«Міграційна» зброя вже задіяна</title>
       <link>https://www.mandarinai.lt/post/97625</link>
@@ -75,6 +61,22 @@
       <description>⚡️В Києві вже відомо про двох загиблих</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-20_18-14-19.mp4" length="992382" type="video/mp4"/>
       <pubDate>Thu, 20 Aug 2026 18:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡російські удари по портам Оде</title>
+      <link>https://www.mandarinai.lt/post/97637</link>
+      <description>😡російські удари по портам Одеси можуть коштувати Україні майже 2% ВВП цього року, - Bloomberg
+
+Через атаки експорт зерна через порти Одеси та області, на які припадало близько 90% поставок, практично зупинився. З початку серпня Україна експортувала лише близько 500 тисяч тонн зерна, що становить приблизно п'яту частину можливого обсягу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_19-40-24.jpg" length="128515" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 19:40:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Розвідка попереджає, що росія</title>
+      <link>https://www.mandarinai.lt/post/97638</link>
+      <description>🔴Розвідка попереджає, що росія може атакувати західні регіони в найближчі дні — заявив мер Івано-Франківськ Марцінків та додав, що до удару можуть бути залучені реактивні «Шахеди».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_19-43-36.jpg" length="70258" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 19:43:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
