@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 10:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:46:38 +0000</lastBuildDate>
     <item>
       <title>❗️У Житомирі рашисти вбили дво</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️У Житомирі рашисти вбили двох поліцейських, ще 20 людей поранено, внаслідок масованої ракетної атаки посеред дня.</description>
       <pubDate>Wed, 19 Aug 2026 14:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пуск «Калібрів» з порту Новоро</title>
-      <link>https://www.mandarinai.lt/post/97597</link>
-      <description>Пуск «Калібрів» з порту Новоросійськ по Україні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2424.MP4" length="4985457" type="video/mp4"/>
-      <pubDate>Wed, 19 Aug 2026 21:50:11 +0000</pubDate>
     </item>
     <item>
       <title>Сьогодні загинуло 12 киян від </title>
@@ -66,6 +59,15 @@
 Балістика залишається найбільшою загрозою для Києва.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_07-44-55.jpg" length="82955" type="image/jpeg"/>
       <pubDate>Thu, 20 Aug 2026 07:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>😳🔥 На Київщині мобільна вогнев</title>
+      <link>https://www.mandarinai.lt/post/97613</link>
+      <description>😳🔥 На Київщині мобільна вогнева група з кулемета знищила крилату ракету, яка прямувала у бік столиці, — ДПСУ
+
+Збита ціль впала поза межами населених пунктів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-20_10-35-09.mp4" length="1563864" type="video/mp4"/>
+      <pubDate>Thu, 20 Aug 2026 10:35:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
