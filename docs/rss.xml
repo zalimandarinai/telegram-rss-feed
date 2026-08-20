@@ -6,34 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 07:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:06:06 +0000</lastBuildDate>
     <item>
       <title>❗️У Житомирі рашисти вбили дво</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️У Житомирі рашисти вбили двох поліцейських, ще 20 людей поранено, внаслідок масованої ракетної атаки посеред дня.</description>
       <pubDate>Wed, 19 Aug 2026 14:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Владислав Польський - Герой Ук</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Владислав Польський - Герой України. 
-
-Щойно президент присвоїв командиру штурмової роти 475-го полку «Code 9.2» це високе звання. 
-
-Честь!
-
-Якщо б всі командири були такі, як Владислав, в нас би не було дефіциту кадрів в Збройних Силах.
-
-І, напевно, не було б ганебних практик «бусифікації» ухилянтів.</description>
-      <pubDate>Wed, 19 Aug 2026 17:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Двоє російських військових </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️ Двоє російських військових втекли з колонії на Харківщині та вбили воїна ЗСУ — вони вкрали зброю та авто українського військового, і можуть перебувати будь-де, — місцеві ЗМІ.
-
-Наразі нема офіційного підтвердження</description>
-      <pubDate>Wed, 19 Aug 2026 18:47:39 +0000</pubDate>
     </item>
     <item>
       <title>Пуск «Калібрів» з порту Новоро</title>
@@ -64,6 +42,30 @@
       <description>Небо над Борисполем сьогодні. російська атака на Київ та область триває</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_06-13-47.jpg" length="166168" type="image/jpeg"/>
       <pubDate>Thu, 20 Aug 2026 06:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Борисполі росіяни вдарили по</title>
+      <link>https://www.mandarinai.lt/post/97611</link>
+      <description>В Борисполі росіяни вдарили по продуктових складах - вони хочуть створити гуманітарну кризу в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2434.MP4" length="11810508" type="video/mp4"/>
+      <pubDate>Thu, 20 Aug 2026 07:35:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Крилаті ракети ми збиваємо май</title>
+      <link>https://www.mandarinai.lt/post/97612</link>
+      <description>Крилаті ракети ми збиваємо майже всі.
+
+Ворог запустив по Україні, переважно по столиці, 36 крилатих ракет Х-101/Іскандер-К/Х-59
+
+Збито: 31
+
+З тих 8-ми «Калібрів», які запустили з кораблів в Чорному морі, українські Повітряні Сили збили всі 8 ракет.
+
+Також летіло дві «Бандеролі» - обидві збиті
+
+Балістика залишається найбільшою загрозою для Києва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_07-44-55.jpg" length="82955" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 07:44:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
