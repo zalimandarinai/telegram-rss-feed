@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 13:32:42 +0000</lastBuildDate>
-    <item>
-      <title>рф розгорнув біля кордону шіст</title>
-      <link>https://www.mandarinai.lt/post/97657</link>
-      <description>рф розгорнув біля кордону шість пускових установок для важких північнокорейських ракет KN-30, — ISW 
-
-Вони можуть забезпечити запуск до 120 ракет, здатних із Воронезької області досягати Києва та семи областей України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_09-54-52.jpg" length="107817" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 09:54:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇵🇱 Прем’єр-міністр Польщі Дона</title>
-      <link>https://www.mandarinai.lt/post/97658</link>
-      <description>🇵🇱 Прем’єр-міністр Польщі Дональд Туск закликав не засуджувати підозрюваних у підриві газопроводів «Північний потік» у 2022 році в Балтійському морі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_09-55-19.jpg" length="74019" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 09:55:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Українській МіГ-29 знищує ру</title>
-      <link>https://www.mandarinai.lt/post/97659</link>
-      <description>💥🔥Українській МіГ-29 знищує руснявий шахед</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_10-45-03.mp4" length="1017934" type="video/mp4"/>
-      <pubDate>Fri, 21 Aug 2026 10:45:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Понад 300 АЗС в Україні зру</title>
-      <link>https://www.mandarinai.lt/post/97660</link>
-      <description>‼️ Понад 300 АЗС в Україні зруйновані або уражені за пів року, — Денис Шмигаль</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_11-17-41.jpg" length="205308" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 11:17:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 14:19:01 +0000</lastBuildDate>
     <item>
       <title>💥🔥В окупованому Донецьку повід</title>
       <link>https://www.mandarinai.lt/post/97661</link>
@@ -105,6 +75,27 @@
 Вона має має назву «Центр експериментальної  фізиології», і з 2023 року акваторія довкола острова повністю закрита.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_13-16-13.jpg" length="39233" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 13:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни вдарили по ТРЦ у Кри</title>
+      <link>https://www.mandarinai.lt/post/97670</link>
+      <description>⚡️росіяни вдарили по ТРЦ у Кривому Розі: багато постраждалих, поранені діти</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_13-42-40.mp4" length="328944" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 13:42:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Є загиблі і тяжкопоранені.  </title>
+      <link>https://www.mandarinai.lt/post/97671</link>
+      <description>⚡️Є загиблі і тяжкопоранені.  У найбільшому ТЦ Кривого Рогу в момент російської атаки було багато людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_13-58-59.mp4" length="791218" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 13:58:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Виродки вдруге вдарили по ТЦ </title>
+      <link>https://www.mandarinai.lt/post/97674</link>
+      <description>🤬Виродки вдруге вдарили по ТЦ у Кривому Розі,  коли рятувальники надавали допомогу десяткам поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_14-01-40.mp4" length="840115" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 14:01:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
