@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 11:52:27 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Атакований один з найбільших</title>
-      <link>https://www.mandarinai.lt/post/97651</link>
-      <description>💥🔥Атакований один з найбільших НПЗ в рф - «Лукойл-Пермнефтеоргсинтез», потужність його — 13,1 млн тонн нафти на рік.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_07-27-00.jpg" length="119157" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 07:27:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 12:42:37 +0000</lastBuildDate>
     <item>
       <title>❗️ На одну АЗС менше в Валуйка</title>
       <link>https://www.mandarinai.lt/post/97654</link>
@@ -79,6 +72,24 @@
 Обидва безпілотники спостерігали один за одним без активних дій.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2461.MP4" length="13106359" type="video/mp4"/>
       <pubDate>Fri, 21 Aug 2026 11:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀У Луцьку близько 30 людей нап</title>
+      <link>https://www.mandarinai.lt/post/97666</link>
+      <description>👀У Луцьку близько 30 людей напали на працівників ТЦК: двох військових побили та розбили бус — речниця Волинського ОТЦК
+
+За її словами, конфлікт почався після того, як чоловік відмовився показати документи та спробував утекти</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_11-59-40.mp4" length="2936135" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 11:59:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝До Києва прибув колишній посл</title>
+      <link>https://www.mandarinai.lt/post/97667</link>
+      <description>🤝До Києва прибув колишній посланець Трампа, друг України Кіт Келлог
+
+Цей політик отримав прізвисько "найкраща ППО", адже під час його попередніх візитів рф завжди утримувалась від обстрілів Києва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_12-26-30.jpg" length="181030" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 12:26:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
