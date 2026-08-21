@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 21:22:20 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Вже відомо про шість загибли</title>
-      <link>https://www.mandarinai.lt/post/97679</link>
-      <description>⚡️Вже відомо про шість загиблих і більше 100 поранених через удар російських вбивць по ТЦ в Кривому Розі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_16-25-24.jpg" length="177030" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 16:25:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 21:48:44 +0000</lastBuildDate>
     <item>
       <title>Кількість загиблих у Кривому Р</title>
       <link>https://www.mandarinai.lt/post/97682</link>
@@ -36,7 +29,7 @@
       <title>Відео удару БПЛА по ТЦ в Криво</title>
       <link>https://www.mandarinai.lt/post/97685</link>
       <description>Відео удару БПЛА по ТЦ в Кривому Розі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2489.MP4" length="7091139" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2497.MP4" length="6846859" type="video/mp4"/>
       <pubDate>Fri, 21 Aug 2026 20:42:09 +0000</pubDate>
     </item>
     <item>
@@ -63,6 +56,13 @@
 Внаслідок удару четверо загиблих: двоє 11-річних хлопчиків та 13-річний хлопець, а також один дорослий чоловік, одна жінка отримала поранення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_20-54-19.jpg" length="149125" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 20:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Склад за склад - в сховищах бі</title>
+      <link>https://www.mandarinai.lt/post/97693</link>
+      <description>Склад за склад - в сховищах біля Таганрога під вечір спалахнула масштабна пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2498.MP4" length="21742520" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 21:33:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
