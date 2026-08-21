@@ -6,36 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 20:28:05 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Є загиблі і тяжкопоранені.  </title>
-      <link>https://www.mandarinai.lt/post/97671</link>
-      <description>⚡️Є загиблі і тяжкопоранені.  У найбільшому ТЦ Кривого Рогу в момент російської атаки було багато людей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_13-58-59.mp4" length="791218" type="video/mp4"/>
-      <pubDate>Fri, 21 Aug 2026 13:58:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬російські виродки вдруге вдар</title>
-      <link>https://www.mandarinai.lt/post/97674</link>
-      <description>🤬російські виродки вдруге вдарили по ТЦ у Кривому Розі,  коли рятувальники надавали допомогу десяткам поранених</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_14-01-40.mp4" length="840115" type="video/mp4"/>
-      <pubDate>Fri, 21 Aug 2026 14:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Словенська президентка може ма</title>
-      <link>https://www.mandarinai.lt/post/97675</link>
-      <description>Словенська президентка може мати звʼязки з російською розвідкою, - комітет парламенту Словенії звернувся з проханням до Словенського агентства розвідки та безпеки (SOVA) для отримання звіту про можливі зв’язки між Наташею Пірц Мусар та російською розвідкою.
-
-Словенський депутат Жан Махніч закликав уряд припинити надавати розвідувальні та безпекові звіти президентці.
-
-Ця перевірка стала наслідком повідомлень про давню подругу Пірц Мусар Вікторію Криволуцьку, громадянку Словенії російського походження.
-
-Криволуцька була в стосунках з Романом Єглічем, колишнім співробітником словенської розвідки, який втік до росії.
-
-Нинішня президентка Словенії сім разів відвідувала росію разом з подругою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_15-46-25.jpg" length="40487" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 15:46:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 20:51:49 +0000</lastBuildDate>
     <item>
       <title>68-а бригада знищила рідкісну </title>
       <link>https://www.mandarinai.lt/post/97676</link>
@@ -87,6 +58,27 @@
 Підійшов максимально близько до «шахеда» і змусив його впасти повітряним потоком.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2486.MP4" length="2310175" type="video/mp4"/>
       <pubDate>Fri, 21 Aug 2026 18:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Відео удару БПЛА по ТЦ в Криво</title>
+      <link>https://www.mandarinai.lt/post/97685</link>
+      <description>Відео удару БПЛА по ТЦ в Кривому Розі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2489.MP4" length="7091139" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 20:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Тварі продовжують свій теро</title>
+      <link>https://www.mandarinai.lt/post/97686</link>
+      <description>❗️ Тварі продовжують свій терор, - під вечір атакували «маршрутку» з цивільними в Запоріжжі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2490.MP4" length="2822607" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 20:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Поблизу порту Новоросійськ </title>
+      <link>https://www.mandarinai.lt/post/97689</link>
+      <description>⚡️ Поблизу порту Новоросійськ у Чорному морі безпілотники уразили контейнеровоз RMS TEAM, - турецька компанія Akkon Lines</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_20-49-02.jpg" length="109048" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 20:49:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
