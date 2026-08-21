@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 11:24:01 +0000</lastBuildDate>
-    <item>
-      <title>❗️рф провела ракетні випробува</title>
-      <link>https://www.mandarinai.lt/post/97646</link>
-      <description>❗️рф провела ракетні випробування біля Курильських островів, — Kyodo News та Bloomberg
-
-Крейсер «Варяг» та атомний підводний човен «Омськ» умовно уразили цілі на відстані 300 км. Навчання відбулися після візиту Путіна на Ітуруп, що викликало протест Японії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_07-09-39.jpg" length="59774" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 07:09:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>📞🇪🇺Після розмови з Драпатим ві</title>
-      <link>https://www.mandarinai.lt/post/97650</link>
-      <description>📞🇪🇺Після розмови з Драпатим військовий комітет НАТО планує візит до України — вперше за вісім років.
-
-Із адміралом НАТО Джузеппе Каво Драгоне обговорили обстановку та пріоритети на фронті — далекобійні удари, гнучку тактику піхоти, роботизацію передової, і окремо нашу ППО, — написав Головком.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_07-25-53.jpg" length="121665" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 07:25:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 11:52:27 +0000</lastBuildDate>
     <item>
       <title>💥🔥Атакований один з найбільших</title>
       <link>https://www.mandarinai.lt/post/97651</link>
@@ -75,6 +57,28 @@
       <description>💥🔥В окупованому Донецьку повідомляють про атаку і влучання.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_11-21-47.jpg" length="160597" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 11:21:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Офіцер спецпідрозділу НГУ вияв</title>
+      <link>https://www.mandarinai.lt/post/97663</link>
+      <description>Офіцер спецпідрозділу НГУ виявився агентом російських спецслужб.
+
+Викрила «крота» СБУ за сприяння командування Нацгвардії.
+
+Цінність агента для росіян була в тому, що він командував однією з груп спецпризначенців, а отже мав доступ до важливої інформації щодо проведення операцій Нацгвардії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_11-30-27.jpg" length="117513" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 11:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Датський морський дрон Stormbo</title>
+      <link>https://www.mandarinai.lt/post/97664</link>
+      <description>Датський морський дрон Stormborn натрапив на російський корвет біля острова Борнгольм.
+
+З борта російського корабля злетів FPV в сторону морського дрона. 
+
+Обидва безпілотники спостерігали один за одним без активних дій.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2461.MP4" length="13106359" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 11:42:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
