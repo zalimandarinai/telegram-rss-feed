@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 10:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:48:56 +0000</lastBuildDate>
     <item>
       <title>⚡️Двоє людей постраждали внасл</title>
       <link>https://www.mandarinai.lt/post/97642</link>
@@ -72,6 +72,13 @@
       <description>🇵🇱 Прем’єр-міністр Польщі Дональд Туск закликав не засуджувати підозрюваних у підриві газопроводів «Північний потік» у 2022 році в Балтійському морі.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_09-55-19.jpg" length="74019" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 09:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Українській МіГ-29 знищує ру</title>
+      <link>https://www.mandarinai.lt/post/97659</link>
+      <description>💥🔥Українській МіГ-29 знищує руснявий шахед</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_10-45-03.mp4" length="1017934" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 10:45:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
