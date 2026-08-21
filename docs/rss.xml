@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 10:48:56 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Двоє людей постраждали внасл</title>
-      <link>https://www.mandarinai.lt/post/97642</link>
-      <description>⚡️Двоє людей постраждали внаслідок нічної атаки рф на Суми, — ОВА
-
-росіяни вдарили по місту щонайменше на чотирьох локаціях. 
-
-Один із дронів влучив у двоповерховий житловий будинок — там значні пошкодження.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_02-01-46.jpg" length="168869" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 02:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ росія почала атакувати пунк</title>
-      <link>https://www.mandarinai.lt/post/97643</link>
-      <description>❗️ росія почала атакувати пункти пропуску - безпілотник вдарив по КПП «Табаки» на кордоні з Молдовою, наразі рух через нього перекритий</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_06-59-26.jpg" length="129607" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 06:59:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 11:24:01 +0000</lastBuildDate>
     <item>
       <title>❗️рф провела ракетні випробува</title>
       <link>https://www.mandarinai.lt/post/97646</link>
@@ -79,6 +61,20 @@
       <description>💥🔥Українській МіГ-29 знищує руснявий шахед</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_10-45-03.mp4" length="1017934" type="video/mp4"/>
       <pubDate>Fri, 21 Aug 2026 10:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Понад 300 АЗС в Україні зру</title>
+      <link>https://www.mandarinai.lt/post/97660</link>
+      <description>‼️ Понад 300 АЗС в Україні зруйновані або уражені за пів року, — Денис Шмигаль</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_11-17-41.jpg" length="205308" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 11:17:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В окупованому Донецьку повід</title>
+      <link>https://www.mandarinai.lt/post/97661</link>
+      <description>💥🔥В окупованому Донецьку повідомляють про атаку і влучання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_11-21-47.jpg" length="160597" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 11:21:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
