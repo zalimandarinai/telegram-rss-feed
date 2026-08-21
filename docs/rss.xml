@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 08:08:30 +0000</lastBuildDate>
-    <item>
-      <title>😡російські удари по портам Оде</title>
-      <link>https://www.mandarinai.lt/post/97637</link>
-      <description>😡російські удари по портам Одеси можуть коштувати Україні майже 2% ВВП цього року, - Bloomberg
-
-Через атаки експорт зерна через порти Одеси та області, на які припадало близько 90% поставок, практично зупинився. З початку серпня Україна експортувала лише близько 500 тисяч тонн зерна, що становить приблизно п'яту частину можливого обсягу.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_19-40-24.jpg" length="128515" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 19:40:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 08:58:04 +0000</lastBuildDate>
     <item>
       <title>🔴Розвідка попереджає, що росія</title>
       <link>https://www.mandarinai.lt/post/97638</link>
@@ -83,6 +74,13 @@
       <description>💥🔥Атакований один з найбільших НПЗ в рф - «Лукойл-Пермнефтеоргсинтез», потужність його — 13,1 млн тонн нафти на рік.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_07-27-00.jpg" length="119157" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 07:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ На одну АЗС менше в Валуйка</title>
+      <link>https://www.mandarinai.lt/post/97654</link>
+      <description>❗️ На одну АЗС менше в Валуйках на Білгородщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2456.MP4" length="2435626" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 08:54:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
