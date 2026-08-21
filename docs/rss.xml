@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 01:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 02:37:07 +0000</lastBuildDate>
     <item>
       <title>❗️Знову влучання  в Голосіївсь</title>
       <link>https://www.mandarinai.lt/post/97629</link>
@@ -88,6 +88,17 @@
       <description>🤬Моторошне відео серії вибухів у Києві минулої ночі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-20_20-58-53.mp4" length="4665849" type="video/mp4"/>
       <pubDate>Thu, 20 Aug 2026 20:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Двоє людей постраждали внасл</title>
+      <link>https://www.mandarinai.lt/post/97642</link>
+      <description>⚡️Двоє людей постраждали внаслідок нічної атаки рф на Суми, — ОВА
+
+росіяни вдарили по місту щонайменше на чотирьох локаціях. 
+
+Один із дронів влучив у двоповерховий житловий будинок — там значні пошкодження.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_02-01-46.jpg" length="168869" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 02:01:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
