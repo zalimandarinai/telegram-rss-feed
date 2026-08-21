@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 09:42:20 +0000</lastBuildDate>
-    <item>
-      <title>🙄 Мати померла, батька відправ</title>
-      <link>https://www.mandarinai.lt/post/97639</link>
-      <description>🙄 Мати померла, батька відправили служити: до ЗСУ мобілізували батька-одинака, — Лубінець. 
-
-За словами омбудсмана, чоловіка мобілізували у травні. Діти — 2019 та 2022 років народження — майже на два місяці залишилися без єдиного опікуна та жили у бабусі. 
-
-У червні батько подав рапорт на звільнення з військової служби, але його розгляд затягнувся. Чоловіка переводили з однієї військової частини до іншої. Чоловіка звільнили лише після втручання омбудсмана.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-20_20-55-59.jpg" length="115479" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 20:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Моторошне відео серії вибухів</title>
-      <link>https://www.mandarinai.lt/post/97640</link>
-      <description>🤬Моторошне відео серії вибухів у Києві минулої ночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-20_20-58-53.mp4" length="4665849" type="video/mp4"/>
-      <pubDate>Thu, 20 Aug 2026 20:58:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 10:12:34 +0000</lastBuildDate>
     <item>
       <title>⚡️Двоє людей постраждали внасл</title>
       <link>https://www.mandarinai.lt/post/97642</link>
@@ -74,6 +56,22 @@
       <description>❗️ На одну АЗС менше в Валуйках на Білгородщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2456.MP4" length="2435626" type="video/mp4"/>
       <pubDate>Fri, 21 Aug 2026 08:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>рф розгорнув біля кордону шіст</title>
+      <link>https://www.mandarinai.lt/post/97657</link>
+      <description>рф розгорнув біля кордону шість пускових установок для важких північнокорейських ракет KN-30, — ISW 
+
+Вони можуть забезпечити запуск до 120 ракет, здатних із Воронезької області досягати Києва та семи областей України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_09-54-52.jpg" length="107817" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 09:54:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇵🇱 Прем’єр-міністр Польщі Дона</title>
+      <link>https://www.mandarinai.lt/post/97658</link>
+      <description>🇵🇱 Прем’єр-міністр Польщі Дональд Туск закликав не засуджувати підозрюваних у підриві газопроводів «Північний потік» у 2022 році в Балтійському морі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_09-55-19.jpg" length="74019" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 09:55:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
