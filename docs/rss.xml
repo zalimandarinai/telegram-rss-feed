@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 18:14:28 +0000</lastBuildDate>
-    <item>
-      <title>😱 В росії створюють біологічну</title>
-      <link>https://www.mandarinai.lt/post/97669</link>
-      <description>😱 В росії створюють біологічну зброю, - ГУР
-
-Лабораторія на острові Лисячий експериментує з небезпечними вірусами - посеред Вишньоводоцького водосховища у тверській області.
-
-Вона має має назву «Центр експериментальної  фізиології», і з 2023 року акваторія довкола острова повністю закрита.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_13-16-13.jpg" length="39233" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 13:16:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росіяни вдарили по ТРЦ у Кри</title>
-      <link>https://www.mandarinai.lt/post/97670</link>
-      <description>⚡️росіяни вдарили по ТРЦ у Кривому Розі: багато постраждалих, поранені діти</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-21_13-42-40.mp4" length="328944" type="video/mp4"/>
-      <pubDate>Fri, 21 Aug 2026 13:42:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 18:59:19 +0000</lastBuildDate>
     <item>
       <title>⚡️Є загиблі і тяжкопоранені.  </title>
       <link>https://www.mandarinai.lt/post/97671</link>
@@ -94,6 +76,17 @@
       <description>Кількість загиблих у Кривому Розі зросла до 14 та до 121 кількість постраждалих, — ОВА.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_17-07-05.jpg" length="130587" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 17:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пілот українського МіГ-29 збив</title>
+      <link>https://www.mandarinai.lt/post/97684</link>
+      <description>Пілот українського МіГ-29 збиває ворожий «шахед» без жодного пострілу.
+
+На борту не залишилося боєприпасів, тому він пішов на ризикований маневр.
+
+Підійшов максимально близько до «шахеда» і змусив його впасти повітряним потоком.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2486.MP4" length="2310175" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 18:30:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
