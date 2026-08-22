@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 08:57:37 +0000</lastBuildDate>
-    <item>
-      <title>Склад за склад - в сховищах бі</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Склад за склад - в сховищах біля Таганрога під вечір спалахнула масштабна пожежа</description>
-      <pubDate>Fri, 21 Aug 2026 21:33:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 09:31:00 +0000</lastBuildDate>
     <item>
       <title>💥🔥Момент сьогоднішнього "контр</title>
       <link>https://www.mandarinai.lt/post/97704</link>
@@ -62,6 +56,17 @@
       <description>❗️ Вночі росія знищила ТЦ в Херсоні</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2507.MP4" length="4422057" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 08:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ліквідація дронів-«ждунів» на </title>
+      <link>https://www.mandarinai.lt/post/97717</link>
+      <description>Ліквідація дронів-«ждунів» на оптоволокні - батарея артилерійської розвідки ARES зачищає шлях для бійців 57-ої бригади біля Вовчанська
+
+Як правило, це роблять «скидами» з коптерів - максимально безпечно і швидко.
+
+Без попередньої зачистки дороги не обходиться жоден виїзд техніки або висування піхоти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2509.MP4" length="25510526" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 09:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
