@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 05:53:06 +0000</lastBuildDate>
-    <item>
-      <title>Кількість загиблих у Кривому Р</title>
-      <link>https://www.mandarinai.lt/post/97682</link>
-      <description>Кількість загиблих у Кривому Розі зросла до 14 та до 121 кількість постраждалих, — ОВА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_17-07-05.jpg" length="130587" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 17:07:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пілот українського МіГ-29 збив</title>
-      <link>https://www.mandarinai.lt/post/97684</link>
-      <description>Пілот українського МіГ-29 збиває ворожий «шахед» без жодного пострілу.
-
-На борту не залишилося боєприпасів, тому він пішов на ризикований маневр.
-
-Підійшов максимально близько до «шахеда» і змусив його впасти повітряним потоком.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2486.MP4" length="2310175" type="video/mp4"/>
-      <pubDate>Fri, 21 Aug 2026 18:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Відео удару БПЛА по ТЦ в Криво</title>
-      <link>https://www.mandarinai.lt/post/97685</link>
-      <description>Відео удару БПЛА по ТЦ в Кривому Розі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2497.MP4" length="6846859" type="video/mp4"/>
-      <pubDate>Fri, 21 Aug 2026 20:42:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Тварі продовжують свій теро</title>
-      <link>https://www.mandarinai.lt/post/97686</link>
-      <description>❗️ Тварі продовжують свій терор, - під вечір атакували «маршрутку» з цивільними в Запоріжжі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2490.MP4" length="2822607" type="video/mp4"/>
-      <pubDate>Fri, 21 Aug 2026 20:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 06:36:32 +0000</lastBuildDate>
     <item>
       <title>⚡️ Поблизу порту Новоросійськ </title>
       <link>https://www.mandarinai.lt/post/97689</link>
@@ -70,6 +38,27 @@
       <description>💥🔥Сили оборони України завдали удару по логістичному хабу маркетплейсу Ozon у місті Чапаєвськ Самарської області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_04-19-37.mp4" length="1451354" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 04:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росія вночі знову атакувала </title>
+      <link>https://www.mandarinai.lt/post/97696</link>
+      <description>⚡️росія вночі знову атакувала залізницю: у Києві внаслідок балістичного удару загинув працівник "Укрзалізниці", на Одещині сильно пошкоджено вокзал станції "Роздільна"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_05-56-16.jpg" length="5654" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 05:56:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кривий Ріг. Вже відомо про 16 </title>
+      <link>https://www.mandarinai.lt/post/97698</link>
+      <description>Кривий Ріг. Вже відомо про 16 загиблих внаслідок удару рф. Ще 9 людей вважаються зниклими безвісти, серед них — 2 дітей, — ДСНС.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_06-11-44.jpg" length="187271" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 06:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Дрони атакували порт у росій</title>
+      <link>https://www.mandarinai.lt/post/97701</link>
+      <description>💥🔥Дрони атакували порт у російському Ейську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_06-14-06.jpg" length="211810" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 06:14:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
