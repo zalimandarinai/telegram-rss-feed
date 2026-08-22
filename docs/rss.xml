@@ -6,27 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 07:54:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:26:46 +0000</lastBuildDate>
     <item>
       <title>Склад за склад - в сховищах бі</title>
-      <link>https://www.mandarinai.lt/post/97693</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Склад за склад - в сховищах біля Таганрога під вечір спалахнула масштабна пожежа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2498.MP4" length="21742520" type="video/mp4"/>
       <pubDate>Fri, 21 Aug 2026 21:33:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Сили оборони України завдали</title>
-      <link>https://www.mandarinai.lt/post/97694</link>
-      <description>💥🔥Сили оборони України завдали удару по логістичному хабу маркетплейсу Ozon у місті Чапаєвськ Самарської області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_04-19-37.mp4" length="1451354" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 04:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росія вночі знову атакувала </title>
-      <link>https://www.mandarinai.lt/post/97696</link>
-      <description>⚡️росія вночі знову атакувала залізницю: у Києві внаслідок балістичного удару загинув працівник "Укрзалізниці", на Одещині сильно пошкоджено вокзал станції "Роздільна"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_05-56-16.jpg" length="5654" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 05:56:16 +0000</pubDate>
     </item>
     <item>
       <title>Кривий Ріг. Вже відомо про 16 </title>
@@ -59,6 +44,24 @@
 Іл-20 - літак радіоелектронної розвідки, обладнаний РЛС бічного огляду, ІЧ-сканером та іншими датчиками.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_07-48-46.jpg" length="85246" type="image/jpeg"/>
       <pubDate>Sat, 22 Aug 2026 07:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔞 У Львові вночі неадекват нож</title>
+      <link>https://www.mandarinai.lt/post/97706</link>
+      <description>🔞 У Львові вночі неадекват ножем вбив представника ТЦК.
+
+Після нападу вбивцю затримали поліцейські, простреливши йому ногу. 
+
+В той час, коли ворог вбиває українців на фронті і в тилу, військові гинуть ще й від рук українських ухилянтів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_08-06-47.jpg" length="141888" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 08:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Генштаб ЗСУ підтвердив ураже</title>
+      <link>https://www.mandarinai.lt/post/97709</link>
+      <description>💥🔥Генштаб ЗСУ підтвердив ураження нафтопереробного заводу "Новокуйбишевськ" у Самарській області сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_08-24-37.jpg" length="67307" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 08:24:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
