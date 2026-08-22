@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 19:47:58 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Троє загиблих та 15 травмова</title>
-      <link>https://www.mandarinai.lt/post/97728</link>
-      <description>⚡️Троє загиблих та 15 травмованих – армія путіна завдала сім ударів по Запорізькому району, - ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_14-21-42.jpg" length="109099" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 14:21:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 20:20:11 +0000</lastBuildDate>
     <item>
       <title>⚡️ТЕРМІНОВИЙ ЗБІР ⚡️
 
@@ -155,6 +148,17 @@
 Щодо жінок та батьків трьох і більше дітей - змін цього року він не очікує.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_19-39-50.mp4" length="1727260" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 19:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зверніть увагу на захист від і</title>
+      <link>https://www.mandarinai.lt/post/97744</link>
+      <description>Зверніть увагу на захист від іранських дронів, який встановили в Еміратах.
+
+Навколо нафтосховищ побудували масивні металеві конструкції, які значно ефективніше сіток.
+
+Причому побудували їх в стислі терміни.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2527.MP4" length="5560951" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 20:10:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
