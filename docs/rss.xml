@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 18:27:41 +0000</lastBuildDate>
-    <item>
-      <title>🔥Сили оборони уразили російськ</title>
-      <link>https://www.mandarinai.lt/post/97724</link>
-      <description>🔥Сили оборони уразили російський військовий аеродром «Приморсько-Ахтарськ» у Краснодарському краї, - Генштаб
-
-На аеродромі уражено радіолокаційну станцію «Ніобій» та склади з безпілотниками.
-
-«Приморсько-Ахтарськ» використовується росіянами для базування та застосування ударних БПЛА по території України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_13-01-53.jpg" length="40493" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 13:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪Німеччина готує ракетний арсе</title>
-      <link>https://www.mandarinai.lt/post/97725</link>
-      <description>💪Німеччина готує ракетний арсенал на €12 млрд для стримування Росії, - Politico</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_13-10-27.jpg" length="71157" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 13:10:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 18:59:16 +0000</lastBuildDate>
     <item>
       <title>🔥Чоловік на сапі в Одесі вилов</title>
       <link>https://www.mandarinai.lt/post/97726</link>
@@ -126,6 +108,38 @@
       <description>Приходить вечір, і 1-ий центр Сил Безпилотних Систем запускає свої дрони з ракетними прискорювачами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2531.MP4" length="6799002" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 18:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окупант Чінгіс Оюн з Республік</title>
+      <link>https://www.mandarinai.lt/post/97738</link>
+      <description>Окупант Чінгіс Оюн з Республіки Тива, яка знаходиться майже за 3500 кілометрів від України, вирішив поїхати на фронт, щоб не сісти до тюрми і підзаробити.    
+
+Але при першій же нагоді втік з частини та два роки переховувався вдома. 
+
+Згодом був затриманий і знову потрапив на фронт.   
+
+Подальша доля окупанта склалася цілком передбачувано – йому видали зброю, спорядження і відправили в один кінець. 
+
+Через кілька тижнів без їжі та води Чінгіс здався у полон бійцям 46-ої окремої аеромобільної Подільської бригади ДШВ.</description>
+      <pubDate>Sat, 22 Aug 2026 18:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Краса! Момент запуску ударних</title>
+      <link>https://www.mandarinai.lt/post/97740</link>
+      <description>🔥Краса! Момент запуску ударних безпілотників FP-1/2 операторами Сил безпілотних систем</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_18-47-30.mp4" length="2247007" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 18:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Оголошенр підозру директору</title>
+      <link>https://www.mandarinai.lt/post/97741</link>
+      <description>‼️ Оголошенр підозру директору супермаркету після удару рф по торговельному центру у Кривому Розі, — Вигівський. 
+
+За даними слідства, магазин продовжував працювати попри попередження місцевої влади про необхідність припиняти роботу під час повітряної тривоги. Саме там виявили значну кількість загиблих. 
+
+Поліція почала розслідувати, чи могли дії відповідальних за роботу ТРЦ вплинути на кількість жертв. Слідчі також перевірять, чи попередили людей про небезпеку, чи вчасно оголосили евакуацію та чи не були заблоковані двері до укриття.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_18-51-46.mp4" length="25707363" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 18:51:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
