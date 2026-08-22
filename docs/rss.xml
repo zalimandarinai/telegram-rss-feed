@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 07:18:24 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Поблизу порту Новоросійськ </title>
-      <link>https://www.mandarinai.lt/post/97689</link>
-      <description>⚡️ Поблизу порту Новоросійськ у Чорному морі безпілотники уразили контейнеровоз RMS TEAM, - турецька компанія Akkon Lines</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_20-49-02.jpg" length="109048" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 20:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кремлівські терористи вбили 3 </title>
-      <link>https://www.mandarinai.lt/post/97690</link>
-      <description>Кремлівські терористи вбили 3 дітей і 30-річного чоловіка на Миколаївщині, — ДСНС
-
-Окупанти вдарили «шахедом» по магазину та поштовому відділенню в Токарівці.
-
-Внаслідок удару четверо загиблих: двоє 11-річних хлопчиків та 13-річний хлопець, а також один дорослий чоловік, одна жінка отримала поранення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-21_20-54-19.jpg" length="149125" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 20:54:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 07:54:05 +0000</lastBuildDate>
     <item>
       <title>Склад за склад - в сховищах бі</title>
       <link>https://www.mandarinai.lt/post/97693</link>
@@ -59,6 +41,24 @@
       <description>💥🔥Дрони атакували порт у російському Ейську</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_06-14-06.jpg" length="211810" type="image/jpeg"/>
       <pubDate>Sat, 22 Aug 2026 06:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Момент сьогоднішнього "контр</title>
+      <link>https://www.mandarinai.lt/post/97704</link>
+      <description>💥🔥Момент сьогоднішнього "контрольного" удару по складах російського логістичного гіганта "Ozon"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_07-23-29.mp4" length="14134919" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 07:23:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Російський розвідувальний літа</title>
+      <link>https://www.mandarinai.lt/post/97705</link>
+      <description>Російський розвідувальний літак Іл-20 порушив повітряний простір Фінляндії, — YLE
+
+Літак пролетів на 8,7 км углиб території країни.
+
+Іл-20 - літак радіоелектронної розвідки, обладнаний РЛС бічного огляду, ІЧ-сканером та іншими датчиками.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_07-48-46.jpg" length="85246" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 07:48:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
