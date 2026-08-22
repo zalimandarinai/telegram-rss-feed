@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 11:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:35:17 +0000</lastBuildDate>
     <item>
       <title>💥🔥Генштаб ЗСУ підтвердив ураже</title>
       <link>https://www.mandarinai.lt/post/97709</link>
@@ -67,6 +67,20 @@
       <description>❗️ РСЗВ залишається ефективною зброєю: БМ-12 бригади ДПСУ «Помста» накрила окупантів пакетом 128-мм ракет в Харківській області</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2513.MP4" length="12985282" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 11:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Україна готова купувати ракет</title>
+      <link>https://www.mandarinai.lt/post/97721</link>
+      <description>🔴Україна готова купувати ракети-перехоплювачі для Patriot, які залишаються критично важливими для проходження зими, - Зеленський на зустрічі з Келлогом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_12-28-32.mp4" length="1032593" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 12:28:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚧 Так виглядає будівництво зав</title>
+      <link>https://www.mandarinai.lt/post/97722</link>
+      <description>🚧 Так виглядає будівництво заводу Fire Point в Данії, де будуть виробляти тверде пальне для ракетного озброєння.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2521.MP4" length="18722621" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 12:31:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
