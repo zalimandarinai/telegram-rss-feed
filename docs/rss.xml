@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 12:35:17 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥Генштаб ЗСУ підтвердив ураже</title>
-      <link>https://www.mandarinai.lt/post/97709</link>
-      <description>💥🔥Генштаб ЗСУ підтвердив ураження нафтопереробного заводу "Новокуйбишевськ" у Самарській області сьогодні вночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_08-24-37.jpg" length="67307" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 08:24:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 «Данунах, що, сюди хіба він </title>
-      <link>https://www.mandarinai.lt/post/97712</link>
-      <description>💬 «Данунах, що, сюди хіба він летить?» - емоційна реакція народних кореспондентів на український безпілотник, який залетів вглиб росії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2506.MP4" length="8067638" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 08:36:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 13:18:32 +0000</lastBuildDate>
     <item>
       <title>❗️ Вночі росія знищила ТЦ в Хе</title>
       <link>https://www.mandarinai.lt/post/97713</link>
@@ -81,6 +67,31 @@
       <description>🚧 Так виглядає будівництво заводу Fire Point в Данії, де будуть виробляти тверде пальне для ракетного озброєння.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2521.MP4" length="18722621" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 12:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Сили оборони уразили російськ</title>
+      <link>https://www.mandarinai.lt/post/97724</link>
+      <description>🔥Сили оборони уразили російський військовий аеродром «Приморсько-Ахтарськ» у Краснодарському краї, - Генштаб
+
+На аеродромі уражено радіолокаційну станцію «Ніобій» та склади з безпілотниками.
+
+«Приморсько-Ахтарськ» використовується росіянами для базування та застосування ударних БПЛА по території України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_13-01-53.jpg" length="40493" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 13:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪Німеччина готує ракетний арсе</title>
+      <link>https://www.mandarinai.lt/post/97725</link>
+      <description>💪Німеччина готує ракетний арсенал на €12 млрд для стримування Росії, - Politico</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_13-10-27.jpg" length="71157" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 13:10:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Чоловік на сапі в Одесі вилов</title>
+      <link>https://www.mandarinai.lt/post/97726</link>
+      <description>🔥Чоловік на сапі в Одесі виловив російський дрон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_13-11-40.mp4" length="873067" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 13:11:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
