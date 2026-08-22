@@ -6,26 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 08:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:57:37 +0000</lastBuildDate>
     <item>
       <title>Склад за склад - в сховищах бі</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Склад за склад - в сховищах біля Таганрога під вечір спалахнула масштабна пожежа</description>
       <pubDate>Fri, 21 Aug 2026 21:33:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кривий Ріг. Вже відомо про 16 </title>
-      <link>https://www.mandarinai.lt/post/97698</link>
-      <description>Кривий Ріг. Вже відомо про 16 загиблих внаслідок удару рф. Ще 9 людей вважаються зниклими безвісти, серед них — 2 дітей, — ДСНС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_06-11-44.jpg" length="187271" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 06:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Дрони атакували порт у росій</title>
-      <link>https://www.mandarinai.lt/post/97701</link>
-      <description>💥🔥Дрони атакували порт у російському Ейську</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_06-14-06.jpg" length="211810" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 06:14:06 +0000</pubDate>
     </item>
     <item>
       <title>💥🔥Момент сьогоднішнього "контр</title>
@@ -62,6 +48,20 @@
       <description>💥🔥Генштаб ЗСУ підтвердив ураження нафтопереробного заводу "Новокуйбишевськ" у Самарській області сьогодні вночі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_08-24-37.jpg" length="67307" type="image/jpeg"/>
       <pubDate>Sat, 22 Aug 2026 08:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Данунах, що, сюди хіба він </title>
+      <link>https://www.mandarinai.lt/post/97712</link>
+      <description>💬 «Данунах, що, сюди хіба він летить?» - емоційна реакція народних кореспондентів на український безпілотник, який залетів вглиб росії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2506.MP4" length="8067638" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 08:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Вночі росія знищила ТЦ в Хе</title>
+      <link>https://www.mandarinai.lt/post/97713</link>
+      <description>❗️ Вночі росія знищила ТЦ в Херсоні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2507.MP4" length="4422057" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 08:39:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
