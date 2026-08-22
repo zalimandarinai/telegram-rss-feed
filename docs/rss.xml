@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 19:28:39 +0000</lastBuildDate>
-    <item>
-      <title>🔥Чоловік на сапі в Одесі вилов</title>
-      <link>https://www.mandarinai.lt/post/97726</link>
-      <description>🔥Чоловік на сапі в Одесі виловив російський дрон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_13-11-40.mp4" length="873067" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 13:11:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 19:47:58 +0000</lastBuildDate>
     <item>
       <title>⚡️Троє загиблих та 15 травмова</title>
       <link>https://www.mandarinai.lt/post/97728</link>
@@ -140,6 +133,28 @@
 Поліція почала розслідувати, чи могли дії відповідальних за роботу ТРЦ вплинути на кількість жертв. Слідчі також перевірять, чи попередили людей про небезпеку, чи вчасно оголосили евакуацію та чи не були заблоковані двері до укриття.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_18-51-46.mp4" length="25707363" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 18:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Вперше в сучасній історії п</title>
+      <link>https://www.mandarinai.lt/post/97742</link>
+      <description>⚡️ Вперше в сучасній історії представники народів Кавказу та Закавказзя обʼєдналися разом в одному підрозділі проти російського ворога.
+
+🎙️ Про це оголосив Ладо Гамсахурдіа, командир спецпідрозділу «Кавказький Легіон».
+
+🇦🇲🇦🇿⛰️ Вірменський та азербайджанський прапори разом з символікою інших кавказьких національностей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2534.MP4" length="11320013" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 19:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Міноборони готує зміни у при</title>
+      <link>https://www.mandarinai.lt/post/97743</link>
+      <description>‼️Міноборони готує зміни у призовному віці та радикальні заходи, — секретар Комітету ВР з нацбезпеки Костенко
+
+Костенко не уточнив, чи йдеться про підвищення або зниження призовного віку - про рішення мають повідомити Міноборони або Генштаб.
+
+Щодо жінок та батьків трьох і більше дітей - змін цього року він не очікує.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_19-39-50.mp4" length="1727260" type="video/mp4"/>
+      <pubDate>Sat, 22 Aug 2026 19:39:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
