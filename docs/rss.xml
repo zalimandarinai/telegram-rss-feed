@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 10:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:59:24 +0000</lastBuildDate>
     <item>
       <title>Думати про припинення вогню не</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -26,16 +26,6 @@
 
 🫶 Дякуємо вам, військово-медичний центр</description>
       <pubDate>Sat, 22 Aug 2026 21:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Над Чорним морем замайорів вел</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Над Чорним морем замайорів величезний синьо-жовтий прапор розміром 12 на 6 метрів.
-
-Стяг підняли прикордонники Одеського загону за допомогою безпілотника.
-
-23-го серпня - День Державного Прапора України</description>
-      <pubDate>Sun, 23 Aug 2026 07:21:13 +0000</pubDate>
     </item>
     <item>
       <title>🤝До України прибули лідери Дан</title>
@@ -68,6 +58,15 @@
 💬 «Сьогодні у нас є ще один успіх. Багато деталей через чутливість операції дати не можемо, але факт є факт. Ми уразили пускову установку «Іскандер» поблизу наших кордонів».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_09-59-37.jpg" length="114522" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 09:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡росія не має наміру домовляти</title>
+      <link>https://www.mandarinai.lt/post/97770</link>
+      <description>🤡росія не має наміру домовлятися з Заходом, - Лавров
+
+«Усі західні держави, які оголосили нам війну руками та тілами нацистського режиму у Києві, довгі роки сподівалися, що ми прийдемо до них домовлятися. Не прийдемо ми до них домовлятися. Домовлятися в нинішній Європі нема з ким»,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_10-59-07.jpg" length="81141" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 10:59:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
