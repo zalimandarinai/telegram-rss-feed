@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 06:38:32 +0000</lastBuildDate>
-    <item>
-      <title>Окупант Чінгіс Оюн з Республік</title>
-      <link>https://www.mandarinai.lt/post/97738</link>
-      <description>Окупант Чінгіс Оюн з Республіки Тива, яка знаходиться майже за 3500 кілометрів від України, вирішив поїхати на фронт, щоб не сісти до тюрми і підзаробити.    
-
-Але при першій же нагоді втік з частини та два роки переховувався вдома. 
-
-Згодом був затриманий і знову потрапив на фронт.   
-
-Подальша доля окупанта склалася цілком передбачувано – йому видали зброю, спорядження і відправили в один кінець. 
-
-Через кілька тижнів без їжі та води Чінгіс здався у полон бійцям 46-ої окремої аеромобільної Подільської бригади ДШВ.</description>
-      <pubDate>Sat, 22 Aug 2026 18:33:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 07:20:19 +0000</lastBuildDate>
     <item>
       <title>🔥Краса! Момент запуску ударних</title>
       <link>https://www.mandarinai.lt/post/97740</link>
@@ -125,9 +111,20 @@
       <link>https://www.mandarinai.lt/post/97752</link>
       <description>⚡️Реактивний шахед влучив у пасажирський потяг №147 Житомир — Одеса
 
-На борту було 593 пасажири, з них 15 дітей. "Укрзалізниця" заздалегідь оголосила евакуацію, потяг терміново зупинили і пасажирів евакуювпли.</description>
+На борту було 593 пасажири, з них 15 дітей. "Укрзалізниця" заздалегідь оголосила евакуацію, потяг терміново зупинили і пасажирів евакуювали.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_06-36-58.jpg" length="48506" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 06:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>На проммайданчику біля Петербу</title>
+      <link>https://www.mandarinai.lt/post/97753</link>
+      <description>На проммайданчику біля Петербурга загорівся склад маркетплейса Ozon. 
+
+Повітряної тривоги та попередження про безпілотники не було. 
+
+Але Ozon зараз також палає і в Оренбурзі, причому тут під час нічної атаки дронів місцева влада спробувала ввести план «Ковер».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2537.MP4" length="2510836" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 06:45:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
