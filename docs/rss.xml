@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 17:18:44 +0000</lastBuildDate>
-    <item>
-      <title>Український безпілотник неквап</title>
-      <link>https://www.mandarinai.lt/post/97767</link>
-      <description>Український безпілотник неквапливо обирає, куди влупити АЗС на Білгородщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2550.MP4" length="10378785" type="video/mp4"/>
-      <pubDate>Sun, 23 Aug 2026 09:55:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Сили оборони уразили пусков</title>
-      <link>https://www.mandarinai.lt/post/97768</link>
-      <description>⚡️ Сили оборони уразили пускову установку ракетного комплексу «Іскандер-М» на території росії, - Зеленський.
-
-💬 «Сьогодні у нас є ще один успіх. Багато деталей через чутливість операції дати не можемо, але факт є факт. Ми уразили пускову установку «Іскандер» поблизу наших кордонів».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_09-59-37.jpg" length="114522" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 09:59:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 17:45:12 +0000</lastBuildDate>
     <item>
       <title>🤡росія не має наміру домовляти</title>
       <link>https://www.mandarinai.lt/post/97770</link>
@@ -115,6 +99,27 @@
  Зруйновано приміщення підприємства та поранено двох працівників.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_16-56-11.jpg" length="212566" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 16:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В росії розпочались навчанн</title>
+      <link>https://www.mandarinai.lt/post/97781</link>
+      <description>⚡️ В росії розпочались навчання з мобілізації, Кремль тестує готовність російського суспільства до примусового поповнення армії, - The Wall Street Journal</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_17-23-44.jpg" length="111465" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 17:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 Морпіхи 34-ої бригади зухва</title>
+      <link>https://www.mandarinai.lt/post/97782</link>
+      <description>🇺🇦 Морпіхи 34-ої бригади зухвало підняли державний прапор на тимчасово окупованій території Херсонщини, над Голою Пристанню та Великою Кардашинкою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2576.MP4" length="9712070" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 17:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Жахливі руїни, на які перет</title>
+      <link>https://www.mandarinai.lt/post/97783</link>
+      <description>❗️ Жахливі руїни, на які перетворився найбільший ТЦ в Кривому Розі - десятки поранених залишаються в лікарнях міста</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2577.MP4" length="7775191" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 17:41:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
