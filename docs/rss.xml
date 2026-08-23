@@ -6,47 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 07:20:19 +0000</lastBuildDate>
-    <item>
-      <title>🔥Краса! Момент запуску ударних</title>
-      <link>https://www.mandarinai.lt/post/97740</link>
-      <description>🔥Краса! Момент запуску ударних безпілотників FP-1/2 операторами Сил безпілотних систем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_18-47-30.mp4" length="2247007" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 18:47:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️ Оголошено підозру директору</title>
-      <link>https://www.mandarinai.lt/post/97741</link>
-      <description>‼️ Оголошено підозру директору супермаркету після удару рф по торговельному центру у Кривому Розі, — Вигівський. 
-
-За даними слідства, магазин продовжував працювати попри попередження місцевої влади про необхідність припиняти роботу під час повітряної тривоги. Саме там виявили значну кількість загиблих. 
-
-Поліція почала розслідувати, чи могли дії відповідальних за роботу ТРЦ вплинути на кількість жертв. Слідчі також перевірять, чи попередили людей про небезпеку, чи вчасно оголосили евакуацію та чи не були заблоковані двері до укриття.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_18-51-46.mp4" length="25707363" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 18:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Вперше в сучасній історії п</title>
-      <link>https://www.mandarinai.lt/post/97742</link>
-      <description>⚡️ Вперше в сучасній історії представники народів Кавказу та Закавказзя обʼєдналися разом в одному підрозділі проти російського ворога.
-
-🎙️ Про це оголосив Ладо Гамсахурдіа, командир спецпідрозділу «Кавказький Легіон».
-
-🇦🇲🇦🇿⛰️ Вірменський та азербайджанський прапори разом з символікою інших кавказьких національностей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2534.MP4" length="11320013" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 19:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Міноборони готує зміни у при</title>
-      <link>https://www.mandarinai.lt/post/97743</link>
-      <description>‼️Міноборони готує зміни у призовному віці та радикальні заходи, — секретар Комітету ВР з нацбезпеки Костенко
-
-Костенко не уточнив, чи йдеться про підвищення або зниження призовного віку - про рішення мають повідомити Міноборони або Генштаб.
-
-Щодо жінок та батьків трьох і більше дітей - змін цього року він не очікує.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_19-39-50.mp4" length="1727260" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 19:39:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 07:55:54 +0000</lastBuildDate>
     <item>
       <title>Зверніть увагу на захист від і</title>
       <link>https://www.mandarinai.lt/post/97744</link>
@@ -125,6 +85,24 @@
 Але Ozon зараз також палає і в Оренбурзі, причому тут під час нічної атаки дронів місцева влада спробувала ввести план «Ковер».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2537.MP4" length="2510836" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 06:45:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Над Чорним морем замайорів вел</title>
+      <link>https://www.mandarinai.lt/post/97754</link>
+      <description>Над Чорним морем замайорів величезний синьо-жовтий прапор розміром 12 на 6 метрів.
+
+Стяг підняли прикордонники Одеського загону за допомогою безпілотника.
+
+23-го серпня - День Державного Прапора України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2538.MP4" length="16076553" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 07:21:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Паливна криза в росії все ще т</title>
+      <link>https://www.mandarinai.lt/post/97755</link>
+      <description>Паливна криза в росії все ще триває, а путін війну зупиняти і не думає</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2539.MP4" length="11704203" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 07:27:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
