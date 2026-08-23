@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 01:53:56 +0000</lastBuildDate>
-    <item>
-      <title>🤬росія готова до діалогу про м</title>
-      <link>https://www.mandarinai.lt/post/97732</link>
-      <description>🤬росія готова до діалогу про мир з Україною лише на основі реалій, що існують на землі, — путін
-
-Диктатор назвав неприйнятними для росії та "екзотичними" пропозиції, що зараз надходять щодо українського врегулювання.
-
-Просто послухайте, що воно морозить</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-22_15-22-24.mp4" length="2193966" type="video/mp4"/>
-      <pubDate>Sat, 22 Aug 2026 15:22:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 03:00:32 +0000</lastBuildDate>
     <item>
       <title>❗️ Увага: шукаємо стажерів на </title>
       <link>https://www.mandarinai.lt/post/97733</link>
@@ -150,6 +139,16 @@
 🫶 Дякуємо вам, військово-медичний центр</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2536.MP4" length="10661230" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 21:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥У Колпіно під Санкт-Петербург</title>
+      <link>https://www.mandarinai.lt/post/97747</link>
+      <description>🔥У Колпіно під Санкт-Петербургом палає Іжорський проммайданчик
+
+Це велика промислова зона, де працюють підприємства важкого машинобудування.
+Також там виробляють обладнання для енергетичної та атомної галузей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-23_02-44-58.mp4" length="1455125" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 02:44:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
