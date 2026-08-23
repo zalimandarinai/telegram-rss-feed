@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 09:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:59:34 +0000</lastBuildDate>
     <item>
       <title>Думати про припинення вогню не</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -26,26 +26,6 @@
 
 🫶 Дякуємо вам, військово-медичний центр</description>
       <pubDate>Sat, 22 Aug 2026 21:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Реактивний шахед влучив у па</title>
-      <link>https://www.mandarinai.lt/post/97752</link>
-      <description>⚡️Реактивний шахед влучив у пасажирський потяг №147 Житомир — Одеса
-
-На борту було 593 пасажири, з них 15 дітей. "Укрзалізниця" заздалегідь оголосила евакуацію, потяг терміново зупинили і пасажирів евакуювали.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_06-36-58.jpg" length="48506" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 06:36:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>На проммайданчику біля Петербу</title>
-      <link>https://www.mandarinai.lt/post/97753</link>
-      <description>На проммайданчику біля Петербурга загорівся склад маркетплейса Ozon. 
-
-Повітряної тривоги та попередження про безпілотники не було. 
-
-Але Ozon зараз також палає і в Оренбурзі, причому тут під час нічної атаки дронів місцева влада спробувала ввести план «Ковер».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2537.MP4" length="2510836" type="video/mp4"/>
-      <pubDate>Sun, 23 Aug 2026 06:45:35 +0000</pubDate>
     </item>
     <item>
       <title>Над Чорним морем замайорів вел</title>
@@ -73,6 +53,20 @@
 Високі гості беруть участь в урочистостях до Дня державного прапора</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_09-12-13.jpg" length="164727" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 09:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Момент ранкового удару по ск</title>
+      <link>https://www.mandarinai.lt/post/97766</link>
+      <description>💥🔥Момент ранкового удару по складу Ozon в російському Оренбурзі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-23_09-43-41.mp4" length="624019" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 09:43:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Український безпілотник неквап</title>
+      <link>https://www.mandarinai.lt/post/97767</link>
+      <description>Український безпілотник неквапливо обирає, куди влупити АЗС на Білгородщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2550.MP4" length="10378785" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 09:55:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
