@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 19:34:24 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Дрон атакував електричку Ло</title>
-      <link>https://www.mandarinai.lt/post/97773</link>
-      <description>⚡️ Дрон атакував електричку Лозова-Харків: загинула жінка, шестеро поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_13-33-45.jpg" length="66181" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 13:33:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 19:55:50 +0000</lastBuildDate>
     <item>
       <title>🇩🇪 Міністр закордонних справ Н</title>
       <link>https://www.mandarinai.lt/post/97774</link>
@@ -114,6 +107,13 @@
 Вистоїмо тільки разом</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-23_19-07-48.mp4" length="13186654" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 19:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇰 Прем’єр Данії Метте Фредері</title>
+      <link>https://www.mandarinai.lt/post/97787</link>
+      <description>🇩🇰 Прем’єр Данії Метте Фредеріксен заявила, що західні країни можуть передати Україні додаткові системи ППО Patriot.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_19-51-40.jpg" length="23026" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 19:51:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
