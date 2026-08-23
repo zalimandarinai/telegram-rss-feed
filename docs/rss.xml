@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 13:53:41 +0000</lastBuildDate>
-    <item>
-      <title>🤝До України прибули лідери Дан</title>
-      <link>https://www.mandarinai.lt/post/97760</link>
-      <description>🤝До України прибули лідери Данії, Естонії, Фінляндії, Латвії, Литви та Норвегії.
-
-Високі гості беруть участь в урочистостях до Дня державного прапора</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_09-12-13.jpg" length="164727" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 09:12:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 14:20:56 +0000</lastBuildDate>
     <item>
       <title>💥🔥Момент ранкового удару по ск</title>
       <link>https://www.mandarinai.lt/post/97766</link>
@@ -67,6 +58,28 @@
       <description>⚡️ Дрон атакував електричку Лозова-Харків: загинула жінка, шестеро поранені.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_13-33-45.jpg" length="66181" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 13:33:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Міністр закордонних справ Н</title>
+      <link>https://www.mandarinai.lt/post/97774</link>
+      <description>🇩🇪 Міністр закордонних справ Німеччини приїхав до Києва і очікує поразки путіна
+
+🎙️ Йоганн Вадефуль заявив, що Україна явно перебуває на шляху до перемоги.
+
+💬 «Тож путін має знати: разом зі своїми прихильниками Україна має більшу витривалість на шляху до головної мети — нарешті досягти миру», — сказав Вадефуль у Києві.
+
+🇪🇺 За його словами, завершення війни визначить майбутнє Європи.
+
+💬 «Вона має закінчитися так, щоб не утвердилося право сильного, а утвердилася сила права».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_13-56-26.jpg" length="82048" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 13:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворожі оператори відзвітували </title>
+      <link>https://www.mandarinai.lt/post/97775</link>
+      <description>Ворожі оператори відзвітували про свій воєнний злочин - атаку «ждуна» на чоловіка в цивільному одязі, який їхав на велосипеді</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2566.MP4" length="8038410" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 14:11:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
