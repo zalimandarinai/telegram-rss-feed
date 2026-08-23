@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 09:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:32:27 +0000</lastBuildDate>
     <item>
       <title>Думати про припинення вогню не</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -29,21 +29,13 @@
     </item>
     <item>
       <title>Над Чорним морем замайорів вел</title>
-      <link>https://www.mandarinai.lt/post/97754</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Над Чорним морем замайорів величезний синьо-жовтий прапор розміром 12 на 6 метрів.
 
 Стяг підняли прикордонники Одеського загону за допомогою безпілотника.
 
 23-го серпня - День Державного Прапора України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2538.MP4" length="16076553" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 07:21:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Паливна криза в росії все ще т</title>
-      <link>https://www.mandarinai.lt/post/97755</link>
-      <description>Паливна криза в росії все ще триває, а путін війну зупиняти і не думає</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2539.MP4" length="11704203" type="video/mp4"/>
-      <pubDate>Sun, 23 Aug 2026 07:27:57 +0000</pubDate>
     </item>
     <item>
       <title>🤝До України прибули лідери Дан</title>
@@ -67,6 +59,15 @@
       <description>Український безпілотник неквапливо обирає, куди влупити АЗС на Білгородщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2550.MP4" length="10378785" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 09:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Сили оборони уразили пусков</title>
+      <link>https://www.mandarinai.lt/post/97768</link>
+      <description>⚡️ Сили оборони уразили пускову установку ракетного комплексу «Іскандер-М» на території росії, - Зеленський.
+
+💬 «Сьогодні у нас є ще один успіх. Багато деталей через чутливість операції дати не можемо, але факт є факт. Ми уразили пускову установку «Іскандер» поблизу наших кордонів».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_09-59-37.jpg" length="114522" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 09:59:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
