@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 19:03:55 +0000</lastBuildDate>
-    <item>
-      <title>СБС уразили винищувачі Су-30СМ</title>
-      <link>https://www.mandarinai.lt/post/97772</link>
-      <description>СБС уразили винищувачі Су-30СМ і МіГ-29, а також БПЛА «Оріон» в Краснодарському краї.</description>
-      <pubDate>Sun, 23 Aug 2026 13:30:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 19:34:24 +0000</lastBuildDate>
     <item>
       <title>⚡️ Дрон атакував електричку Ло</title>
       <link>https://www.mandarinai.lt/post/97773</link>
@@ -111,6 +105,15 @@
       <description>🔥 «путін — ху*ло»: у Харкові тисячі людей гучно відзначають День міста та День Державного прапора, — місцеві ЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-23_18-36-18.mp4" length="1133078" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 18:36:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Неймовірні кадри Батьківщини-м</title>
+      <link>https://www.mandarinai.lt/post/97786</link>
+      <description>Неймовірні кадри Батьківщини-матері
+
+Вистоїмо тільки разом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-23_19-07-48.mp4" length="13186654" type="video/mp4"/>
+      <pubDate>Sun, 23 Aug 2026 19:07:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
