@@ -6,17 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 08:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:35:36 +0000</lastBuildDate>
     <item>
       <title>Думати про припинення вогню не</title>
-      <link>https://www.mandarinai.lt/post/97745</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Думати про припинення вогню не варто: зупинка війни проти України без знищення українського суверенітету було би «зрадою» предків рашистів, - так Сергій Лавров несе маячню в інтерв’ю російським пропагандистам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-22_20-45-31.jpg" length="52963" type="image/jpeg"/>
       <pubDate>Sat, 22 Aug 2026 20:45:31 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Сильні кадри порятунку воїн</title>
-      <link>https://www.mandarinai.lt/post/97746</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ Сильні кадри порятунку воїна з камер спостереження Харківського військового шпиталю.
 
 🚑 Тут дійсно бʼються за життя кожного з наших важкопоранених бійців. На жаль, лікарі не в змозі врятувати всіх. Але на цих кадрах ви бачите: тут роблять все можливе - і неможливе також. 
@@ -26,34 +25,7 @@
 🎥 Саме Дмитра можна бачити на цьому відео — за непрямим масажем серця на каталці з пацієнтом.
 
 🫶 Дякуємо вам, військово-медичний центр</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2536.MP4" length="10661230" type="video/mp4"/>
       <pubDate>Sat, 22 Aug 2026 21:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥У Колпіно під Санкт-Петербург</title>
-      <link>https://www.mandarinai.lt/post/97747</link>
-      <description>🔥У Колпіно під Санкт-Петербургом палає Іжорський проммайданчик
-
-Це велика промислова зона, де працюють підприємства важкого машинобудування.
-Також там виробляють обладнання для енергетичної та атомної галузей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-23_02-44-58.mp4" length="1455125" type="video/mp4"/>
-      <pubDate>Sun, 23 Aug 2026 02:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Львові вибух в аптеці , дв</title>
-      <link>https://www.mandarinai.lt/post/97748</link>
-      <description>⚡️У Львові вибух в аптеці , двоє людей загинули.
-
-Попередньо сталося загоряння зовнішньої реклами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_06-13-44.jpg" length="70216" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 06:13:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Внаслідок російської атаки у</title>
-      <link>https://www.mandarinai.lt/post/97749</link>
-      <description>⚡️Внаслідок російської атаки у Харкові пожежі у приватному секторі, постраждали 8 людей, серед них – дитина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_06-34-28.jpg" length="195616" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 06:34:28 +0000</pubDate>
     </item>
     <item>
       <title>⚡️Реактивний шахед влучив у па</title>
@@ -92,6 +64,15 @@
       <description>Паливна криза в росії все ще триває, а путін війну зупиняти і не думає</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2539.MP4" length="11704203" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 07:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝До України прибули лідери Дан</title>
+      <link>https://www.mandarinai.lt/post/97760</link>
+      <description>🤝До України прибули лідери Данії, Естонії, Фінляндії, Латвії, Литви та Норвегії.
+
+Високі гості беруть участь в урочистостях до Дня державного прапора</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_09-12-13.jpg" length="164727" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 09:12:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
