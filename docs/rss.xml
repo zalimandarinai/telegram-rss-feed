@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 14:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:49:07 +0000</lastBuildDate>
     <item>
       <title>💥🔥Момент ранкового удару по ск</title>
       <link>https://www.mandarinai.lt/post/97766</link>
@@ -80,6 +80,25 @@
       <description>Ворожі оператори відзвітували про свій воєнний злочин - атаку «ждуна» на чоловіка в цивільному одязі, який їхав на велосипеді</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2566.MP4" length="8038410" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 14:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Щойно уражено позицію ЗРК С-</title>
+      <link>https://www.mandarinai.lt/post/97776</link>
+      <description>🔥 Щойно уражено позицію ЗРК С-400 біля Геленджика, - 413-ий полк СБС «Рейд»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_14-24-05.jpg" length="151731" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 14:24:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вибухи на європейських заводах</title>
+      <link>https://www.mandarinai.lt/post/97777</link>
+      <description>Вибухи на європейських заводах, які виробляють боєприпаси: росія запустила нову хвилю диверсій, - The Telegraph
+
+Кремль все частіше використовує місцеві злочинні угруповання для атак на підприємства, щоб формально не перейти межу, 
+після якої країни можуть задіяти Статтю №5 про колективну оборону Договору НАТО.
+
+Підозрілі пожежі та вибухи сталися на оборонних підприємствах в Естонії, Чехії, Болгарії та Італії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_14-32-25.jpg" length="99769" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 14:32:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
