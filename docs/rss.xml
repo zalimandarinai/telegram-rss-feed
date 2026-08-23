@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 13:19:51 +0000</lastBuildDate>
-    <item>
-      <title>Думати про припинення вогню не</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Думати про припинення вогню не варто: зупинка війни проти України без знищення українського суверенітету було би «зрадою» предків рашистів, - так Сергій Лавров несе маячню в інтерв’ю російським пропагандистам.</description>
-      <pubDate>Sat, 22 Aug 2026 20:45:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 13:53:41 +0000</lastBuildDate>
     <item>
       <title>🤝До України прибули лідери Дан</title>
       <link>https://www.mandarinai.lt/post/97760</link>
@@ -50,7 +44,7 @@
       <link>https://www.mandarinai.lt/post/97770</link>
       <description>🤡росія не має наміру домовлятися з Заходом, - Лавров
 
-«Усі західні держави, які оголосили нам війну руками та тілами нацистського режиму у Києві, довгі роки сподівалися, що ми прийдемо до них домовлятися. Не прийдемо ми до них домовлятися. Домовлятися в нинішній Європі нема з ким»,</description>
+«Усі західні держави, які оголосили нам війну руками та тілами нацистського режиму у Києві, довгі роки сподівалися, що ми прийдемо до них домовлятися. Не прийдемо ми до них домовлятися. Домовлятися в нинішній Європі нема з ким».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_10-59-07.jpg" length="81141" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 10:59:07 +0000</pubDate>
     </item>
@@ -60,6 +54,19 @@
       <description>🇺🇦 Український прапор встановили в Курській області, - 118-а бригада</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2560.MP4" length="4525099" type="video/mp4"/>
       <pubDate>Sun, 23 Aug 2026 13:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБС уразили винищувачі Су-30СМ</title>
+      <link>https://www.mandarinai.lt/post/97772</link>
+      <description>СБС уразили винищувачі Су-30СМ і МіГ-29, а також БПЛА «Оріон» в Краснодарському краї.</description>
+      <pubDate>Sun, 23 Aug 2026 13:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Дрон атакував електричку Ло</title>
+      <link>https://www.mandarinai.lt/post/97773</link>
+      <description>⚡️ Дрон атакував електричку Лозова-Харків: загинула жінка, шестеро поранені.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_13-33-45.jpg" length="66181" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 13:33:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
