@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 18:58:52 +0000</lastBuildDate>
-    <item>
-      <title>🇭🇺 Винищувач JAS 39 Gripen заз</title>
-      <link>https://www.mandarinai.lt/post/97809</link>
-      <description>🇭🇺 Винищувач JAS 39 Gripen зазнав аварії в Угорщині неподалік міста Сольнок, пілот катапультувався.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_11-02-56.jpg" length="48743" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 11:02:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 19:35:41 +0000</lastBuildDate>
     <item>
       <title>🏅 Командир роти 475-го полку «</title>
       <link>https://www.mandarinai.lt/post/97810</link>
@@ -42,7 +35,9 @@
     <item>
       <title>❗️В Україні слід запровадити м</title>
       <link>https://www.mandarinai.lt/post/97816</link>
-      <description>❗️В Україні слід запровадити мобілізацію жінок. Вони воюють не гірше за чоловіків, — заявив колишній спецпредставник США Кіт Келлог, додавши, що його донька також воювала в Афганістані.</description>
+      <description>❗️В Україні слід запровадити мобілізацію жінок. Вони воюють не гірше за чоловіків, — заявив колишній спецпредставник США Кіт Келлог, додавши, що його донька також воювала в Афганістані.
+
+Повне відео https://m.youtube.com/watch?si=Zv4OGItfEQg5dRrd&amp;v=HcDo6iOlxKM&amp;feature=youtu.be</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_15-05-58.mp4" length="3031756" type="video/mp4"/>
       <pubDate>Mon, 24 Aug 2026 15:05:58 +0000</pubDate>
     </item>
@@ -59,6 +54,12 @@
       <description>💥Пермський НПЗ припинив роботу після українського удару, — Reuters</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_16-32-28.mp4" length="517118" type="video/mp4"/>
       <pubDate>Mon, 24 Aug 2026 16:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ В Києві сьогодні був унікал</title>
+      <link>https://www.mandarinai.lt/post/97823</link>
+      <description>❗️ В Києві сьогодні був унікальний парад: Хрещатиком та Майданом Незалежності їхали НРК та морські дрони, а над ними літали повітряні безпілотники</description>
+      <pubDate>Mon, 24 Aug 2026 19:28:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
