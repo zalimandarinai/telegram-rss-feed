@@ -6,48 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 23:46:42 +0000</lastBuildDate>
-    <item>
-      <title>🇩🇪 Міністр закордонних справ Н</title>
-      <link>https://www.mandarinai.lt/post/97774</link>
-      <description>🇩🇪 Міністр закордонних справ Німеччини приїхав до Києва і очікує поразки путіна
-
-🎙️ Йоганн Вадефуль заявив, що Україна явно перебуває на шляху до перемоги.
-
-💬 «Тож путін має знати: разом зі своїми прихильниками Україна має більшу витривалість на шляху до головної мети — нарешті досягти миру», — сказав Вадефуль у Києві.
-
-🇪🇺 За його словами, завершення війни визначить майбутнє Європи.
-
-💬 «Вона має закінчитися так, щоб не утвердилося право сильного, а утвердилася сила права».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_13-56-26.jpg" length="82048" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 13:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ворожі оператори відзвітували </title>
-      <link>https://www.mandarinai.lt/post/97775</link>
-      <description>Ворожі оператори відзвітували про свій воєнний злочин - атаку «ждуна» на чоловіка в цивільному одязі, який їхав на велосипеді</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2566.MP4" length="8038410" type="video/mp4"/>
-      <pubDate>Sun, 23 Aug 2026 14:11:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Щойно уражено позицію ЗРК С-</title>
-      <link>https://www.mandarinai.lt/post/97776</link>
-      <description>🔥 Щойно уражено позицію ЗРК С-400 біля Геленджика, - 413-ий полк СБС «Рейд»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_14-24-05.jpg" length="151731" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 14:24:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вибухи на європейських заводах</title>
-      <link>https://www.mandarinai.lt/post/97777</link>
-      <description>Вибухи на європейських заводах, які виробляють боєприпаси: росія запустила нову хвилю диверсій, - The Telegraph
-
-Кремль все частіше використовує місцеві злочинні угруповання для атак на підприємства, щоб формально не перейти межу, 
-після якої країни можуть задіяти Статтю №5 про колективну оборону Договору НАТО.
-
-Підозрілі пожежі та вибухи сталися на оборонних підприємствах в Естонії, Чехії, Болгарії та Італії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_14-32-25.jpg" length="99769" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 14:32:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 01:10:51 +0000</lastBuildDate>
     <item>
       <title>Екзотичний полонений поповнив </title>
       <link>https://www.mandarinai.lt/post/97778</link>
@@ -114,6 +73,20 @@
       <description>🇩🇰 Прем’єр Данії Метте Фредеріксен заявила, що західні країни можуть передати Україні додаткові системи ППО Patriot.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_19-51-40.jpg" length="23026" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 19:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Після атаки горить склад в Кр</title>
+      <link>https://www.mandarinai.lt/post/97788</link>
+      <description>🔥Після атаки горить склад в Краснодарі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_00-08-54.jpg" length="57882" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 00:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атаковані і палають склади O</title>
+      <link>https://www.mandarinai.lt/post/97789</link>
+      <description>💥🔥Атаковані і палають склади Ozon в Ставропольському та Краснодарському краї</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_00-16-11.mp4" length="907429" type="video/mp4"/>
+      <pubDate>Mon, 24 Aug 2026 00:16:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
