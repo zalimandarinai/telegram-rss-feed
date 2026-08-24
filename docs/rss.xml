@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 15:21:58 +0000</lastBuildDate>
-    <item>
-      <title>‼️🤝Велика Британія дозволила п</title>
-      <link>https://www.mandarinai.lt/post/97800</link>
-      <description>‼️🤝Велика Британія дозволила передати секретні дані для складання ракет SCALP в Україні
-
-Оборонна компанія MBDA може розкрити інформацію про британські компоненти ракет. Це має допомогти налагодити їхнє складання на українських підприємствах.
-
-SCALP є французькою версією ракети Storm Shadow, а обидві розробки базуються на спільних британсько-французьких технологіях.
-
-Безпека України — це наша безпека. Ми не відступимо, доки не буде справедливого й тривалого миру.
-
-Рішення оголосили напередодні першого закордонного візиту прем’єр-міністра Великої Британії Енді Бернема. 24 серпня він прибув до Києва, де візьме участь у заходах до Дня Незалежності</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_05-50-27.jpg" length="33235" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 05:50:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇪🇺 Єврокомісія виділяє €6,1 мл</title>
-      <link>https://www.mandarinai.lt/post/97803</link>
-      <description>🇪🇺 Єврокомісія виділяє €6,1 млрд для України на закупівлю систем ППО, ракет, боєприпасів та радарів, Радіо Свобода</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_07-30-39.jpg" length="101806" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 07:30:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 16:03:42 +0000</lastBuildDate>
     <item>
       <title>⚡️ Реактивний шахед влучив у б</title>
       <link>https://www.mandarinai.lt/post/97806</link>
@@ -90,6 +68,13 @@ SCALP є французькою версією ракети Storm Shadow, а о�
       <description>❗️В Україні слід запровадити мобілізацію жінок. Вони воюють не гірше за чоловіків, — заявив колишній спецпредставник США Кіт Келлог, додавши, що його донька також воювала в Афганістані.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_15-05-58.mp4" length="3031756" type="video/mp4"/>
       <pubDate>Mon, 24 Aug 2026 15:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сьогодні Незалежність України </title>
+      <link>https://www.mandarinai.lt/post/97817</link>
+      <description>Сьогодні Незалежність України це її армія. Сотні тисяч чоловіків та жінок, на чиїх плечах тримається фронт. Вони платять найвищу ціну за свободу кожного, хто святкує сьогодні День Незалежності.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2618.MP4" length="15286295" type="video/mp4"/>
+      <pubDate>Mon, 24 Aug 2026 15:25:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
