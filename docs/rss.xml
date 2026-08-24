@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 17:29:02 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Реактивний шахед влучив у б</title>
-      <link>https://www.mandarinai.lt/post/97806</link>
-      <description>⚡️ Реактивний шахед влучив у багатоповерхівку в Чернігові. 
-
-Міська влада повідомляє про пожежу на місці удару. Атака сталася просто посеред дня.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_09-15-20.mp4" length="694523" type="video/mp4"/>
-      <pubDate>Mon, 24 Aug 2026 09:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦 Український прапор встановл</title>
-      <link>https://www.mandarinai.lt/post/97807</link>
-      <description>🇺🇦 Український прапор встановлено в російському селі Козинка - так сьогодні 14-ий армійський корпус пропонує росіянам згадати про День Незалежності України</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2605.MP4" length="9095817" type="video/mp4"/>
-      <pubDate>Mon, 24 Aug 2026 09:47:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 18:00:47 +0000</lastBuildDate>
     <item>
       <title>💫 Сьогодні Кирило Верес отрима</title>
       <link>https://www.mandarinai.lt/post/97808</link>
@@ -80,7 +64,7 @@
       <title>💥Пермський НПЗ припинив роботу</title>
       <link>https://www.mandarinai.lt/post/97819</link>
       <description>💥Пермський НПЗ припинив роботу після українського удару, — Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_16-32-28.jpg" length="78089" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_16-32-28.mp4" length="517118" type="video/mp4"/>
       <pubDate>Mon, 24 Aug 2026 16:32:28 +0000</pubDate>
     </item>
   </channel>
