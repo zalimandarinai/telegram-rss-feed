@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 12:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:50:23 +0000</lastBuildDate>
     <item>
       <title>⚡️рф масовано атакує ракетами </title>
       <link>https://www.mandarinai.lt/post/97799</link>
@@ -74,6 +74,35 @@ SCALP є французькою версією ракети Storm Shadow, а о�
       <description>🏅 Командир роти 475-го полку «Code 9.2», який врятував поранених побратимів, сьогодні отримав Золоту Зірку Героя України - напевно, в історії нагороджень цим званням це один з найкоротших періодів між здійсненням героїчного вчинку і врученням нагороди</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2612.MP4" length="13556394" type="video/mp4"/>
       <pubDate>Mon, 24 Aug 2026 11:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Ростові АЗС припиняють працю</title>
+      <link>https://www.mandarinai.lt/post/97812</link>
+      <description>В Ростові АЗС припиняють працювати під час повітряної тривоги</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2613.MP4" length="10204140" type="video/mp4"/>
+      <pubDate>Mon, 24 Aug 2026 12:47:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Майже повністю вигорів: супу</title>
+      <link>https://www.mandarinai.lt/post/97813</link>
+      <description>🔥 Майже повністю вигорів: супутник зафіксував, що залишилось від складу OZON на півдні рф.
+
+Це один із найбільших складів маркетплейса площею понад 130 тисяч квадратних метрів, збудований торік. На тлі сьогоднішніх атак акції OZON на Московській біржі вранці стрімко обвалились.
+
+Кадри: Радіо Свобода</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_12-48-14.mp4" length="195907" type="video/mp4"/>
+      <pubDate>Mon, 24 Aug 2026 12:48:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️У Генштабі ЗСУ обговорюють з</title>
+      <link>https://www.mandarinai.lt/post/97815</link>
+      <description>‼️У Генштабі ЗСУ обговорюють зниження мобілізаційного віку до 50-55 років, — Роман Костенко
+У Генеральному штабі обговорюють можливість зміни підходів до мобілізації з урахуванням віку, зокрема обмеження призову громадян старше 50 або 55 років, окрім військовозобов'язаних, які мають дефіцитні або критично необхідні для війська спеціальності. Остаточного рішення немає.
+Секретар комітету Верховної Ради з питань нацбезпеки, оборони і розвідки також уточнив, що для зниження мобілізаційного віку не обов'язково вносити зміни до законодавства — «достатньо відповідного управлінського рішення».
+
+ Наразі мобілізаційний вік в Україні — від 25 до 60 років. При цьому зниження мобілізаційного віку нижче 25 років наразі не розглядається</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_13-07-55.jpg" length="112092" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 13:07:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
