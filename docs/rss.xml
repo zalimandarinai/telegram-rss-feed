@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 09:04:43 +0000</lastBuildDate>
-    <item>
-      <title>🇩🇰 Прем’єр Данії Метте Фредері</title>
-      <link>https://www.mandarinai.lt/post/97787</link>
-      <description>🇩🇰 Прем’єр Данії Метте Фредеріксен заявила, що західні країни можуть передати Україні додаткові системи ППО Patriot.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-23_19-51-40.jpg" length="23026" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 19:51:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Після атаки горить склад в Кр</title>
-      <link>https://www.mandarinai.lt/post/97788</link>
-      <description>🔥Після атаки горить склад в Краснодарі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_00-08-54.jpg" length="57882" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 00:08:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 10:03:29 +0000</lastBuildDate>
     <item>
       <title>💥🔥Атаковані і палають склади O</title>
       <link>https://www.mandarinai.lt/post/97789</link>
@@ -67,6 +53,22 @@ SCALP є французькою версією ракети Storm Shadow, а о�
       <description>🇪🇺 Єврокомісія виділяє €6,1 млрд для України на закупівлю систем ППО, ракет, боєприпасів та радарів, Радіо Свобода</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_07-30-39.jpg" length="101806" type="image/jpeg"/>
       <pubDate>Mon, 24 Aug 2026 07:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Реактивний шахед влучив у б</title>
+      <link>https://www.mandarinai.lt/post/97806</link>
+      <description>⚡️ Реактивний шахед влучив у багатоповерхівку в Чернігові. 
+
+Міська влада повідомляє про пожежу на місці удару. Атака сталася просто посеред дня.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_09-15-20.mp4" length="694523" type="video/mp4"/>
+      <pubDate>Mon, 24 Aug 2026 09:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 Український прапор встановл</title>
+      <link>https://www.mandarinai.lt/post/97807</link>
+      <description>🇺🇦 Український прапор встановлено в російському селі Козинка - так сьогодні 14-ий армійський корпус пропонує росіянам згадати про День Незалежності України</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2605.MP4" length="9095817" type="video/mp4"/>
+      <pubDate>Mon, 24 Aug 2026 09:47:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
