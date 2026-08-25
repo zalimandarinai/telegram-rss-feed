@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 17:29:47 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Бійці 23-го штурмового полк</title>
-      <link>https://www.mandarinai.lt/post/97852</link>
-      <description>⚡️ Бійці 23-го штурмового полку Р.У.Г корпусу «Хартія» звільнили лісовий масив на Купʼянщині
-
-🇺🇦 Під час операції іноземні військовослужбовці Сил оборони України зачистили ділянку місцевості південно-західніше Дворічної та взяли під контроль північну частину населеного пункту Западне.
-
-⏯️ Повне відео штурмової операції https://m.youtube.com/watch?v=SkBnIxxdcSg&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2636.MP4" length="5668430" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 12:20:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 17:59:48 +0000</lastBuildDate>
     <item>
       <title>❗️10 вибухів за 10 хвилин прол</title>
       <link>https://www.mandarinai.lt/post/97853</link>
@@ -111,6 +100,17 @@
 🎥 «Соняшник»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2652.MP4" length="4926654" type="video/mp4"/>
       <pubDate>Tue, 25 Aug 2026 17:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Директор ЦРУ Джон Реткліфф п</title>
+      <link>https://www.mandarinai.lt/post/97866</link>
+      <description>❗️Директор ЦРУ Джон Реткліфф прилітав до москви, щоб відмовити путіна від проведення загальної мобілізації, — WSJ
+
+Також журналіст Міхаель Вайс повідомляє, що що завдання Реткліффа — відмовити путіна від нападу на Європу.
+
+Водночас є версії, що директор ЦРУ спробував переконати кремль завершити бойові дії у 2026 році</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_17-30-00.jpg" length="136312" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 17:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
