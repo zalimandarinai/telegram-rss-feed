@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 13:14:37 +0000</lastBuildDate>
-    <item>
-      <title>💥В День Незалежності України, </title>
-      <link>https://www.mandarinai.lt/post/97839</link>
-      <description>💥В День Незалежності України, силами спротиву Мелітополя, за допомогою FPV-дрона, було вражено регіональне відділення партії «єдіная россія». 
-
-Гауляйтер Баліцкій підтвердив руйнування в офісі партії путіна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_08-49-11.mp4" length="2397675" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 08:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Новошахтинський НПЗ в Ростовсь</title>
-      <link>https://www.mandarinai.lt/post/97842</link>
-      <description>Новошахтинський НПЗ в Ростовській області призупинив роботу після нічної атаки БПЛА.
-
-Проєктна потужність Новошахтинського заводу становить 7,5 млн тонн нафти на рік. 
-
-Цей НПЗ уже зазнавав українських ударів у серпні 2025 року.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2629.MP4" length="841742" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 08:50:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 14:07:08 +0000</lastBuildDate>
     <item>
       <title>🤬 На Миколаївщині російський д</title>
       <link>https://www.mandarinai.lt/post/97846</link>
@@ -115,6 +95,31 @@
 🤡В Кремлі клоуни кажуть, що нічого не знають про американський літак</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_12-39-55.mp4" length="1676917" type="video/mp4"/>
       <pubDate>Tue, 25 Aug 2026 12:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝Норвегія підтвердила $9 млрд </title>
+      <link>https://www.mandarinai.lt/post/97856</link>
+      <description>🤝Норвегія підтвердила $9 млрд фінансування для України на 2027 рік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_13-28-32.jpg" length="40930" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 13:28:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️ Під час загадкового візиту </title>
+      <link>https://www.mandarinai.lt/post/97857</link>
+      <description>🎙️ Під час загадкового візиту американців до Москви кремлівська верхівка робить зухвалі заяви 
+
+🤡 Речник путіна Пєсков: Кремль відкидає ідею створення буферної зони на Донбасі, бо москва вважає окуповані українські території нібито частиною рф. 
+
+🤡 Радник путіна Кобяков: Україна планувала вторгнення до рф 8 березня 2022 року, тому росія випередила Україну на два тижні і розпочала агресію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_13-58-30.jpg" length="86083" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 13:58:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Понад 100 людей отримали по</title>
+      <link>https://www.mandarinai.lt/post/97858</link>
+      <description>⚡️ Понад 100 людей отримали поранення через вибух на Амурському газохімічному комплексі, - росЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2640.MP4" length="695917" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 14:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
