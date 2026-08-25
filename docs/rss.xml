@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 15:05:09 +0000</lastBuildDate>
-    <item>
-      <title>🤬 На Миколаївщині російський д</title>
-      <link>https://www.mandarinai.lt/post/97846</link>
-      <description>🤬 На Миколаївщині російський дрон влучив у приміський поїзд</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_09-04-02.jpg" length="63060" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 09:04:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 15:59:41 +0000</lastBuildDate>
     <item>
       <title>🤔Американський військово-транс</title>
       <link>https://www.mandarinai.lt/post/97847</link>
@@ -120,6 +113,21 @@
       <description>⚡️ Понад 100 людей отримали поранення через вибух на Амурському газохімічному комплексі, - росЗМІ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2640.MP4" length="695917" type="video/mp4"/>
       <pubDate>Tue, 25 Aug 2026 14:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Ось воно що: до Москви прил</title>
+      <link>https://www.mandarinai.lt/post/97859</link>
+      <description>🇺🇸 Ось воно що: до Москви прилетів директор ЦРУ Джон Реткліфф, - поділилась новиною Дженніфер Джейкобс, журналіст CBS New
+
+🚫 США просить цими днями не бити по Москві.
+
+🇺🇦 Реткліфф, на відміну від деяких наближених до Трампа персонажів, активно підтримує Україну, тож щодо того, про що він говорить з кремлівськими можновладцями, на цей момент можна лише здогадуватися.
+
+1️⃣ Версія №1: йде обговорення щодо умов припинення вогню.
+
+2️⃣ Версія №2: йде підготовка до обміну полоненими або засудженими росіянами та американцями.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_15-17-42.jpg" length="106417" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 15:17:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
