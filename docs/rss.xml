@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 18:50:27 +0000</lastBuildDate>
-    <item>
-      <title>❗️10 вибухів за 10 хвилин прол</title>
-      <link>https://www.mandarinai.lt/post/97853</link>
-      <description>❗️10 вибухів за 10 хвилин пролунали у Чернігові: росія атакує обʼєкти енергетики міста – прямо зараз фіксують масові відключення світла. Обстріл триває.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_12-35-46.mp4" length="233463" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 12:35:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀Кортеж з американськими дипло</title>
-      <link>https://www.mandarinai.lt/post/97854</link>
-      <description>👀Кортеж з американськими дипломатами помітили в Москві після приземлення літака США у Внуково.
-
-🤡В Кремлі клоуни кажуть, що нічого не знають про американський літак</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_12-39-55.mp4" length="1676917" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 12:39:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 19:30:06 +0000</lastBuildDate>
     <item>
       <title>🤝Норвегія підтвердила $9 млрд </title>
       <link>https://www.mandarinai.lt/post/97856</link>
@@ -111,6 +95,20 @@
 Водночас є версії, що директор ЦРУ спробував переконати кремль завершити бойові дії у 2026 році</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_17-30-00.jpg" length="136312" type="image/jpeg"/>
       <pubDate>Tue, 25 Aug 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Момент сильного вибуху в Піщ</title>
+      <link>https://www.mandarinai.lt/post/97867</link>
+      <description>🤬 Момент сильного вибуху в Піщанці на Дніпропетровщині потрапив на відео.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_19-00-49.mp4" length="236961" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 19:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В тимчасово окупованому Луг</title>
+      <link>https://www.mandarinai.lt/post/97868</link>
+      <description>⚡️ В тимчасово окупованому Луганську хтось потужно запалює, - схоже, приліт</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2653.MP4" length="3287980" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 19:25:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
