@@ -6,35 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 06:43:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:31:21 +0000</lastBuildDate>
     <item>
       <title>🏅 Командир роти 475-го полку «</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>🏅 Командир роти 475-го полку «Code 9.2», який врятував поранених побратимів, сьогодні отримав Золоту Зірку Героя України - напевно, в історії нагороджень цим званням це один з найкоротших періодів між здійсненням героїчного вчинку і врученням нагороди</description>
       <pubDate>Mon, 24 Aug 2026 11:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️В Україні слід запровадити м</title>
-      <link>https://www.mandarinai.lt/post/97816</link>
-      <description>❗️В Україні слід запровадити мобілізацію жінок. Вони воюють не гірше за чоловіків, — заявив колишній спецпредставник США Кіт Келлог, додавши, що його донька також воювала в Афганістані.
-
-Повне відео https://m.youtube.com/watch?si=Zv4OGItfEQg5dRrd&amp;v=HcDo6iOlxKM&amp;feature=youtu.be</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_15-05-58.mp4" length="3031756" type="video/mp4"/>
-      <pubDate>Mon, 24 Aug 2026 15:05:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сьогодні Незалежність України </title>
-      <link>https://www.mandarinai.lt/post/97817</link>
-      <description>Сьогодні Незалежність України це її армія. Сотні тисяч чоловіків та жінок, на чиїх плечах тримається фронт. Вони платять найвищу ціну за свободу кожного, хто святкує сьогодні День Незалежності.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2618.MP4" length="15286295" type="video/mp4"/>
-      <pubDate>Mon, 24 Aug 2026 15:25:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Пермський НПЗ припинив роботу</title>
-      <link>https://www.mandarinai.lt/post/97819</link>
-      <description>💥Пермський НПЗ припинив роботу після українського удару, — Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-24_16-32-28.mp4" length="517118" type="video/mp4"/>
-      <pubDate>Mon, 24 Aug 2026 16:32:28 +0000</pubDate>
     </item>
     <item>
       <title>❗️ В Києві сьогодні був унікал</title>
@@ -55,6 +32,33 @@
       <description>⚡️ рф вдарила дронами по міжнародному пункту пропуску «Виноградівка — Вулканешти» на кордоні України та Молдови: він тимчасово закритий, — ДПСУ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_06-08-30.jpg" length="114866" type="image/jpeg"/>
       <pubDate>Tue, 25 Aug 2026 06:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Уражено Афіпський НПЗ - один</title>
+      <link>https://www.mandarinai.lt/post/97833</link>
+      <description>💥🔥Уражено Афіпський НПЗ - один з найбільших на півдні рф. Нещодавно росіяни відремонтували завод після попередніх атак</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_06-46-02.mp4" length="1148543" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 06:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Фотку сделай».
+💬 «Буду идти</title>
+      <link>https://www.mandarinai.lt/post/97834</link>
+      <description>💬 «Фотку сделай».
+💬 «Буду идти, сделаю. В 20:00», - СБУ затримала у Львові агента рф, який проводив розвідку об’єктів для підготовки ударів по залізничній інфраструктурі, адмінбудівлях державних і військових установ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_07-06-45.jpg" length="115225" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 07:06:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Біля аеропорту Лейпцига знай</title>
+      <link>https://www.mandarinai.lt/post/97836</link>
+      <description>❗️Біля аеропорту Лейпцига знайшли ще один безпілотник з вибухівкою
+
+Там було 50 грамів гексагену, потужної бойової речовини.
+
+Ще один дрон, як вважають слідчі, тієї ж ночі міг зіткнутися з вантажним літаком DHL — згодом на його хвостовій частині виявили пошкодження.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_07-15-46.jpg" length="140969" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 07:15:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
