@@ -6,26 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 08:22:54 +0000</lastBuildDate>
-    <item>
-      <title>🏅 Командир роти 475-го полку «</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>🏅 Командир роти 475-го полку «Code 9.2», який врятував поранених побратимів, сьогодні отримав Золоту Зірку Героя України - напевно, в історії нагороджень цим званням це один з найкоротших періодів між здійсненням героїчного вчинку і врученням нагороди</description>
-      <pubDate>Mon, 24 Aug 2026 11:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ В Києві сьогодні був унікал</title>
-      <link>https://www.mandarinai.lt/post/97823</link>
-      <description>❗️ В Києві сьогодні був унікальний парад: Хрещатиком та Майданом Незалежності їхали НРК та морські дрони, а над ними літали повітряні безпілотники</description>
-      <pubDate>Mon, 24 Aug 2026 19:28:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф атакувала Дніпро «Бандеро</title>
-      <link>https://www.mandarinai.lt/post/97826</link>
-      <description>⚡️рф атакувала Дніпро «Бандеролями»: дрон вибухнув біля ТЦ, спалахнула пожежа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-24_21-18-55.jpg" length="111984" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 21:18:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 09:07:34 +0000</lastBuildDate>
     <item>
       <title>⚡️ рф вдарила дронами по міжна</title>
       <link>https://www.mandarinai.lt/post/97831</link>
@@ -59,6 +40,40 @@
 Ще один дрон, як вважають слідчі, тієї ж ночі міг зіткнутися з вантажним літаком DHL — згодом на його хвостовій частині виявили пошкодження.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_07-15-46.jpg" length="140969" type="image/jpeg"/>
       <pubDate>Tue, 25 Aug 2026 07:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🔥На Амурському газохімічному </title>
+      <link>https://www.mandarinai.lt/post/97837</link>
+      <description>🔥🔥На Амурському газохімічному комплексі рф після «невідомих хлопків» спалахнула масштабна пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_08-42-46.mp4" length="2108106" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 08:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥В День Незалежності України, </title>
+      <link>https://www.mandarinai.lt/post/97839</link>
+      <description>💥В День Незалежності України, силами спротиву Мелітополя, за допомогою FPV-дрона, було вражено регіональне відділення партії «єдіная россія». 
+
+Гауляйтер Баліцкій підтвердив руйнування в офісі партії путіна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_08-49-11.mp4" length="2397675" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 08:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новошахтинський НПЗ в Ростовсь</title>
+      <link>https://www.mandarinai.lt/post/97842</link>
+      <description>Новошахтинський НПЗ в Ростовській області призупинив роботу після нічної атаки БПЛА.
+
+Проєктна потужність Новошахтинського заводу становить 7,5 млн тонн нафти на рік. 
+
+Цей НПЗ уже зазнавав українських ударів у серпні 2025 року.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2629.MP4" length="841742" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 08:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 На Миколаївщині російський д</title>
+      <link>https://www.mandarinai.lt/post/97846</link>
+      <description>🤬 На Миколаївщині російський дрон влучив у приміський поїзд</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_09-04-02.jpg" length="63060" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 09:04:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
