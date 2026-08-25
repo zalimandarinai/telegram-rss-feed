@@ -6,47 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 19:30:06 +0000</lastBuildDate>
-    <item>
-      <title>🤝Норвегія підтвердила $9 млрд </title>
-      <link>https://www.mandarinai.lt/post/97856</link>
-      <description>🤝Норвегія підтвердила $9 млрд фінансування для України на 2027 рік.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_13-28-32.jpg" length="40930" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 13:28:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎙️ Під час загадкового візиту </title>
-      <link>https://www.mandarinai.lt/post/97857</link>
-      <description>🎙️ Під час загадкового візиту американців до Москви кремлівська верхівка робить зухвалі заяви 
-
-🤡 Речник путіна Пєсков: Кремль відкидає ідею створення буферної зони на Донбасі, бо москва вважає окуповані українські території нібито частиною рф. 
-
-🤡 Радник путіна Кобяков: Україна планувала вторгнення до рф 8 березня 2022 року, тому росія випередила Україну на два тижні і розпочала агресію.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_13-58-30.jpg" length="86083" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 13:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Понад 100 людей отримали по</title>
-      <link>https://www.mandarinai.lt/post/97858</link>
-      <description>⚡️ Понад 100 людей отримали поранення через вибух на Амурському газохімічному комплексі, - росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2640.MP4" length="695917" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 14:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸 Ось воно що: до Москви прил</title>
-      <link>https://www.mandarinai.lt/post/97859</link>
-      <description>🇺🇸 Ось воно що: до Москви прилетів директор ЦРУ Джон Реткліфф, - поділилась новиною Дженніфер Джейкобс, журналіст CBS New
-
-🚫 США просить цими днями не бити по Москві.
-
-🇺🇦 Реткліфф, на відміну від деяких наближених до Трампа персонажів, активно підтримує Україну, тож щодо того, про що він говорить з кремлівськими можновладцями, на цей момент можна лише здогадуватися.
-
-1️⃣ Версія №1: йде обговорення щодо умов припинення вогню.
-
-2️⃣ Версія №2: йде підготовка до обміну полоненими або засудженими росіянами та американцями.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_15-17-42.jpg" length="106417" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 15:17:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 19:57:34 +0000</lastBuildDate>
     <item>
       <title>Запрошуємо відвідати лекцію Фі</title>
       <link>https://www.mandarinai.lt/post/97862</link>
@@ -109,6 +69,20 @@
       <description>⚡️ В тимчасово окупованому Луганську хтось потужно запалює, - схоже, приліт</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2653.MP4" length="3287980" type="video/mp4"/>
       <pubDate>Tue, 25 Aug 2026 19:25:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Словацьке підприємство Skyeton</title>
+      <link>https://www.mandarinai.lt/post/97870</link>
+      <description>Словацьке підприємство Skyeton, де виробляють дрони, намагались підпалити диверсанти, - поліція Словаччини затримала трьох іноземців</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_19-34-24.jpg" length="137648" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 19:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ путін підписав три секретні</title>
+      <link>https://www.mandarinai.lt/post/97874</link>
+      <description>⚡️ путін підписав три секретні укази після зустрічі з директором ЦРУ та скасував важливий захід задля цієї зустрічі, — «Moscow Times»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_19-43-51.jpg" length="85584" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 19:43:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
