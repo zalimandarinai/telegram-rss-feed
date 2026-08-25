@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 10:30:47 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ рф вдарила дронами по міжна</title>
-      <link>https://www.mandarinai.lt/post/97831</link>
-      <description>⚡️ рф вдарила дронами по міжнародному пункту пропуску «Виноградівка — Вулканешти» на кордоні України та Молдови: він тимчасово закритий, — ДПСУ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_06-08-30.jpg" length="114866" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 06:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Уражено Афіпський НПЗ - один</title>
-      <link>https://www.mandarinai.lt/post/97833</link>
-      <description>💥🔥Уражено Афіпський НПЗ - один з найбільших на півдні рф. Нещодавно росіяни відремонтували завод після попередніх атак</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_06-46-02.mp4" length="1148543" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 06:46:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 11:04:13 +0000</lastBuildDate>
     <item>
       <title>💬 «Фотку сделай».
 💬 «Буду идти</title>
@@ -85,6 +71,41 @@
 Причини візиту американського військового борту до москви наразі невідомі. Це може свідчити про проведення непублічних контактів або переговорів.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_09-46-17.jpg" length="89235" type="image/jpeg"/>
       <pubDate>Tue, 25 Aug 2026 09:46:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Вчора підрозділи Сил оборони</title>
+      <link>https://www.mandarinai.lt/post/97848</link>
+      <description>🔥 Вчора підрозділи Сил оборони України влаштували ворогу комплексний розгром сил та засобів на ТОТ України і на території самої рф, -АрміяІнформ
+
+🛩 Ростовська область (аеродром «Міллерово»): офіційно підтверджено пошкодження російського винищувача МіГ-29.
+
+Луганськ: уражено спеціалізований комплекс радіоелектронної боротьби «Пересвет-М»📡 
+
+🛰 Крим (селище Мирне): прилетіло по ворожій станції радіоелектронного подавлення супутникового зв’язку Starlink 
+
+Бердянськ: винесли склад паливно-мастильних матеріалів і боєприпасів противника 💣 
+
+💥 Приморськ (Запорізька область): уражено склади МТЗ одного з підрозділів окупаційних військ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_10-42-26.jpg" length="74189" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 10:42:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴рф намагається логістично та </title>
+      <link>https://www.mandarinai.lt/post/97849</link>
+      <description>🔴рф намагається логістично та економічно ізолювати Одещину: після ударів по Маякському мосту та блокування моря росіяни атакують пункти пропуску на кордоні з Молдовою.
+
+Наземна операція в області наразі малоймовірна через відсутність у ворога необхідних сил, зазначає військово-політичний оглядач Олександр Коваленко.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_10-44-08.jpg" length="46412" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 10:44:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬Українські військові уразили </title>
+      <link>https://www.mandarinai.lt/post/97850</link>
+      <description>💬Українські військові уразили Афіпський НПЗ у Краснодарському краї та Астраханський газопереробний завод у рф, - Генштаб 
+
+На Афіпському НПЗ, який, як стверджується, постачає паливо армії рф, після атаки спалахнула пожежа. Також підтверджено ураження двох установок сепарації газу на Астраханському ГПЗ, продукція якого використовується для потреб зс рф і виробництва вибухівки, додали в командуванні, - повідомляє Радіо Свобода</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_10-47-45.mp4" length="200093" type="video/mp4"/>
+      <pubDate>Tue, 25 Aug 2026 10:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
