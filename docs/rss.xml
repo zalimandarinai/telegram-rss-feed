@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 11:43:14 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Фотку сделай».
-💬 «Буду идти</title>
-      <link>https://www.mandarinai.lt/post/97834</link>
-      <description>💬 «Фотку сделай».
-💬 «Буду идти, сделаю. В 20:00», - СБУ затримала у Львові агента рф, який проводив розвідку об’єктів для підготовки ударів по залізничній інфраструктурі, адмінбудівлях державних і військових установ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_07-06-45.jpg" length="115225" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 07:06:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 12:15:17 +0000</lastBuildDate>
     <item>
       <title>❗️Біля аеропорту Лейпцига знай</title>
       <link>https://www.mandarinai.lt/post/97836</link>
@@ -106,6 +97,15 @@
 На Афіпському НПЗ, який, як стверджується, постачає паливо армії рф, після атаки спалахнула пожежа. Також підтверджено ураження двох установок сепарації газу на Астраханському ГПЗ, продукція якого використовується для потреб зс рф і виробництва вибухівки, додали в командуванні, - повідомляє Радіо Свобода</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-25_10-47-45.mp4" length="200093" type="video/mp4"/>
       <pubDate>Tue, 25 Aug 2026 10:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Є шанс збивати балістичні раке</title>
+      <link>https://www.mandarinai.lt/post/97851</link>
+      <description>Є шанс збивати балістичні ракети: Україна нещодавно отримала певну кількість ракет Patriot, ракети AIM для систем NASAMS, а також підтвердження щодо декількох систем ППО Crotale і ракет до них.
+
+«Надійшло небагато ракет Patriot. Скільки — сказати не можу, але небагато. Потрібно більше», - Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_12-09-43.jpg" length="86786" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 12:09:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
