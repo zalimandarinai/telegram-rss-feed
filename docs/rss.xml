@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 01:50:41 +0000</lastBuildDate>
-    <item>
-      <title>В Запоріжжі горять машини: рос</title>
-      <link>https://www.mandarinai.lt/post/97864</link>
-      <description>В Запоріжжі горять машини: росія щойно завдала удару по житловій забудові</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2651.MP4" length="560785" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 17:24:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>МіГ-29 завдали удар по територ</title>
-      <link>https://www.mandarinai.lt/post/97865</link>
-      <description>МіГ-29 завдали удар по території Білгородщини і уразили позиції операторів БПЛА
-
-🎥 «Соняшник»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2652.MP4" length="4926654" type="video/mp4"/>
-      <pubDate>Tue, 25 Aug 2026 17:27:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Директор ЦРУ Джон Реткліфф п</title>
-      <link>https://www.mandarinai.lt/post/97866</link>
-      <description>❗️Директор ЦРУ Джон Реткліфф прилітав до москви, щоб відмовити путіна від проведення загальної мобілізації, — WSJ
-
-Також журналіст Міхаель Вайс повідомляє, що що завдання Реткліффа — відмовити путіна від нападу на Європу.
-
-Водночас є версії, що директор ЦРУ спробував переконати кремль завершити бойові дії у 2026 році</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-25_17-30-00.jpg" length="136312" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 17:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 03:03:05 +0000</lastBuildDate>
     <item>
       <title>🤬 Момент сильного вибуху в Піщ</title>
       <link>https://www.mandarinai.lt/post/97867</link>
@@ -68,6 +41,20 @@
       <description>💥🔥В Тамбовській області рф після атаки дронів палає сортувальний центр Wildberries</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_01-25-37.jpg" length="47097" type="image/jpeg"/>
       <pubDate>Wed, 26 Aug 2026 01:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥НПЗ "Лукойл" в Ніжєгородской </title>
+      <link>https://www.mandarinai.lt/post/97878</link>
+      <description>🔥НПЗ "Лукойл" в Ніжєгородской області палає після нічної атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_02-20-45.jpg" length="92195" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 02:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Котовськ. Тамбовшина. Традиці</title>
+      <link>https://www.mandarinai.lt/post/97881</link>
+      <description>🔥Котовськ. Тамбовшина. Традиційне вже ранкове задимлення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_02-35-35.jpg" length="58942" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 02:35:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
