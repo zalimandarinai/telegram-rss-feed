@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 07:58:41 +0000</lastBuildDate>
-    <item>
-      <title>🔥НПЗ "Лукойл" в Ніжєгородской </title>
-      <link>https://www.mandarinai.lt/post/97878</link>
-      <description>🔥НПЗ "Лукойл" в Ніжєгородской області палає після нічної атаки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_02-20-45.jpg" length="92195" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 02:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Котовськ. Тамбовшина. Традиці</title>
-      <link>https://www.mandarinai.lt/post/97881</link>
-      <description>🔥Котовськ. Тамбовшина. Традиційне вже ранкове задимлення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_02-35-35.jpg" length="58942" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 02:35:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росія завдала удару по Черні</title>
-      <link>https://www.mandarinai.lt/post/97882</link>
-      <description>⚡️росія завдала удару по Чернігову, є жертви: загинули жінка та 4-річна дівчинка, ще одну дитину поранено</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_04-40-17.jpg" length="124980" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 04:40:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 08:53:52 +0000</lastBuildDate>
     <item>
       <title>⚠️Глава ЦРУ Реткліфф, який вчо</title>
       <link>https://www.mandarinai.lt/post/97886</link>
@@ -81,9 +60,32 @@
       <link>https://www.mandarinai.lt/post/97893</link>
       <description>За Starlink. Ілона Маска нагороджено орденом Свободи України, — указ Зеленського.
 
-Як тобі таке, Ілон Маск?</description>
+Ряд джепел повдомляє, що останніми днями президент Зеленський та Ілон Маск ведуть переговори щодо допомоги Україні та завершення війни. А нагорода Маску може бути знаком позитивної комунікації.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_07-55-36.jpg" length="66608" type="image/jpeg"/>
       <pubDate>Wed, 26 Aug 2026 07:55:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>СБУ знайшла російського «крота</title>
+      <link>https://www.mandarinai.lt/post/97894</link>
+      <description>СБУ знайшла російського «крота» у підрозділі ЗСУ на Одещині, він коригував удари ворога по півдню області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_08-04-13.jpg" length="112268" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 08:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬❗️ У Києві уламки реактивного</title>
+      <link>https://www.mandarinai.lt/post/97896</link>
+      <description>🤬❗️ У Києві уламки реактивного "шахеда" ("Герань-4") розлетілись лісопарковою зоною у Голосіївському районі. 
+
+На місці збитого БпЛА загорілась трава і дерева,</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-26_08-22-23.mp4" length="911338" type="video/mp4"/>
+      <pubDate>Wed, 26 Aug 2026 08:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🔥WB у Котовську та НПЗ в Ксто</title>
+      <link>https://www.mandarinai.lt/post/97899</link>
+      <description>🔥🔥WB у Котовську та НПЗ в Кстово, - ранковий вайб СВО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-26_08-26-29.mp4" length="681806" type="video/mp4"/>
+      <pubDate>Wed, 26 Aug 2026 08:26:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
