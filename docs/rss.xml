@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 12:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:33:26 +0000</lastBuildDate>
     <item>
       <title>‼️ Білорусь будує залізницю дл</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -26,15 +26,6 @@
 
 Ми так і подумали.</description>
       <pubDate>Wed, 26 Aug 2026 06:57:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>За Starlink. Ілона Маска нагор</title>
-      <link>https://www.mandarinai.lt/post/97893</link>
-      <description>За Starlink. Ілона Маска нагороджено орденом Свободи України, — указ Зеленського.
-
-Ряд джепел повдомляє, що останніми днями президент Зеленський та Ілон Маск ведуть переговори щодо допомоги Україні та завершення війни. А нагорода Маску може бути знаком позитивної комунікації.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_07-55-36.jpg" length="66608" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 07:55:36 +0000</pubDate>
     </item>
     <item>
       <title>СБУ знайшла російського «крота</title>
@@ -65,6 +56,17 @@
       <description>425-ий полк «Скеля» захопив полоненого з Зімбабве. Все, що вони говорять, нагадує вербальний конструктор «Lego». Різні начебто історії, складені зі стандартних блоків про те, чому пішов воювати.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2663.MP4" length="14320813" type="video/mp4"/>
       <pubDate>Wed, 26 Aug 2026 09:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Білорусь привела свою армію</title>
+      <link>https://www.mandarinai.lt/post/97906</link>
+      <description>⚡️ Білорусь привела свою армію у підвищену бойову готовність, триває залучення резервістів, яке схоже на мобілізацію.
+
+Біля кордону з Україною добудовують залізницю для прийому військових ешелонів і розвантаження техніки. 
+
+Там, де триває будівництво, розташована 37-а бригада спецоперацій білоруської армії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-26_12-31-39.jpg" length="102335" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 12:31:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
