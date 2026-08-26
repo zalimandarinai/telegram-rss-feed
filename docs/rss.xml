@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 04:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:33:35 +0000</lastBuildDate>
     <item>
       <title>🤬 Момент сильного вибуху в Піщ</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -15,9 +15,8 @@
     </item>
     <item>
       <title>⚡️ В тимчасово окупованому Луг</title>
-      <link>https://www.mandarinai.lt/post/97868</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️ В тимчасово окупованому Луганську хтось потужно запалює, - схоже, приліт</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2653.MP4" length="3287980" type="video/mp4"/>
       <pubDate>Tue, 25 Aug 2026 19:25:09 +0000</pubDate>
     </item>
     <item>
