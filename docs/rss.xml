@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 23:36:24 +0000</lastBuildDate>
-    <item>
-      <title>❗️Екстрені служби гасять покрі</title>
-      <link>https://www.mandarinai.lt/post/97973</link>
-      <description>❗️Екстрені служби гасять покрівлю 4–поверхового будинку в Подільському районі столиці.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-27_16-33-13.mp4" length="124098" type="video/mp4"/>
-      <pubDate>Thu, 27 Aug 2026 16:33:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬 путін точно не збирається на</title>
-      <link>https://www.mandarinai.lt/post/97974</link>
-      <description>💬 путін точно не збирається нападати на НАТО, — Трамп. Інфа 100%</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/video_2026-08-27_20-38-06.mp4" length="1705195" type="video/mp4"/>
-      <pubDate>Thu, 27 Aug 2026 17:36:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇲🇩 «Поки Україна бореться на с</title>
-      <link>https://www.mandarinai.lt/post/97975</link>
-      <description>🇲🇩 «Поки Україна бореться на сході, Молдова може спати спокійно», - Санду нагородила Зеленського найвищою державною нагородою Молдови</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/дизайн_Санду_Молдова.mp4" length="14157008" type="video/mp4"/>
-      <pubDate>Thu, 27 Aug 2026 17:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ «Укрпошта» в Білозерці на Х</title>
-      <link>https://www.mandarinai.lt/post/97976</link>
-      <description>❗️ «Укрпошта» в Білозерці на Херсонщині після російського обстрілу повністю вигоріла</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6996.MP4" length="5850658" type="video/mp4"/>
-      <pubDate>Thu, 27 Aug 2026 17:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦 Українські військові пройшл</title>
-      <link>https://www.mandarinai.lt/post/97977</link>
-      <description>🇺🇦 Українські військові пройшлися на параді з нагоди Дня Незалежності Молдови - ведучий проголосив «Слава Героям!»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2717.MP4" length="2941367" type="video/mp4"/>
-      <pubDate>Thu, 27 Aug 2026 18:21:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 07:04:43 +0000</lastBuildDate>
     <item>
       <title>🤦‍♂️ Трамп лютує: офіційно пер</title>
       <link>https://www.mandarinai.lt/post/97978</link>
@@ -90,6 +55,41 @@
 Поїзди затримуються до 15 годин, вокзал повністю переповнений пасажирами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-27_19-58-02.jpg" length="240933" type="image/jpeg"/>
       <pubDate>Thu, 27 Aug 2026 19:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Горить ТЕЦ в місті Щастя Луга</title>
+      <link>https://www.mandarinai.lt/post/97987</link>
+      <description>🔥Горить ТЕЦ в місті Щастя Луганської області після атаки бпла</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-28_02-09-08.jpg" length="140689" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 02:09:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Атаковано військовий аеродром</title>
+      <link>https://www.mandarinai.lt/post/97988</link>
+      <description>💥Атаковано військовий аеродром "Єнгельс-2". Імовірно, горить літак</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-28_02-09-53.mp4" length="220271" type="video/mp4"/>
+      <pubDate>Fri, 28 Aug 2026 02:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>В місті Вишневе горять автомоб</title>
+      <link>https://www.mandarinai.lt/post/97989</link>
+      <description>В місті Вишневе горять автомобілі після ранкового удару по Київщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2719.MP4" length="15267508" type="video/mp4"/>
+      <pubDate>Fri, 28 Aug 2026 04:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни влучили у склади "Но</title>
+      <link>https://www.mandarinai.lt/post/97990</link>
+      <description>⚡️росіяни влучили у склади "Нової пошти" та пошкодили виробництво на Київщині.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-28_04-56-57.jpg" length="116991" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 04:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Сили оборони уразили Ярославс</title>
+      <link>https://www.mandarinai.lt/post/97991</link>
+      <description>🔥Сили оборони уразили Ярославський НПЗ — ключове підприємство-постачальник палива для всієї Москвської агломераціх</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-28_05-08-49.mp4" length="97061" type="video/mp4"/>
+      <pubDate>Fri, 28 Aug 2026 05:08:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
