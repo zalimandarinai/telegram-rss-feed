@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 14:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:54:14 +0000</lastBuildDate>
     <item>
       <title>Пожежа на Київщині після росій</title>
       <link>https://www.mandarinai.lt/post/98052</link>
@@ -87,6 +87,43 @@
 🟢Сувалкський коридор — наступ із Білорусі в напрямку Калінінграда, щоб сухопутно відрізати країни Балтії від решти НАТО.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-29_14-08-24.jpg" length="209563" type="image/jpeg"/>
       <pubDate>Sat, 29 Aug 2026 14:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Він свідомо вирушив на війну п</title>
+      <link>https://www.mandarinai.lt/post/98065</link>
+      <description>Він свідомо вирушив на війну проти України.
+
+Згодом зрозумів, що протистояння українському війську — це самогубство. 
+
+Тоді він утік і понад рік переховувався в росії.
+
+Після цього його знову повернули до російської армії та одразу відправили на найскладнішу ділянку фронту — Костянтинівський напрямок.
+
+Коли його укриття оточили українські військові 49-го ОШБ «Карпатська Січ», він зробив правильний вибір — прийняв пропозицію здатися в полон.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2749.MP4" length="20251693" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 15:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Траса на Одещині вся в потроще</title>
+      <link>https://www.mandarinai.lt/post/98066</link>
+      <description>Траса на Одещині вся в потрощених російською атакою зерновозах і фурах</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2750.MP4" length="11881627" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 17:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>З окупованої території повідом</title>
+      <link>https://www.mandarinai.lt/post/98067</link>
+      <description>З окупованої території повідомляють, що було підірвано автомобіль заступника начальника Оленівської в’язниці.
+
+Інформація потребує верифікації 
+
+Офіційно Дмитро Неєлов визнаний причетним до катувань, побиття та приниження українських військовополонених, а також цивільних заручників.
+
+Служба безпеки України та Офіс Генерального прокурора заочно повідомили йому про підозру у вчиненні воєнних злочинів. 
+
+В якому стані Неєлов, поки що невідомо.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2751.MP4" length="477968" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 17:35:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
