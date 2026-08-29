@@ -6,35 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 20:26:09 +0000</lastBuildDate>
-    <item>
-      <title>Пожежа на Київщині після росій</title>
-      <link>https://www.mandarinai.lt/post/98052</link>
-      <description>Пожежа на Київщині після російської атаки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6661.MP4" length="5150279" type="video/mp4"/>
-      <pubDate>Sat, 29 Aug 2026 11:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Російський дрон знищив авто Ук</title>
-      <link>https://www.mandarinai.lt/post/98053</link>
-      <description>Російський дрон знищив авто Укрпошти біля Краматорська</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/0829 (4).mp4" length="4210059" type="video/mp4"/>
-      <pubDate>Sat, 29 Aug 2026 11:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎖️ Нашим пілотам немає рівних </title>
-      <link>https://www.mandarinai.lt/post/98054</link>
-      <description>🎖️ Нашим пілотам немає рівних в світі. Є серед них Герої, в яких по 400 і навіть по 500 бойових вильотів. 
-
-🛫 Сьогодні День української авіації. 
-
-✈️ Ми щиро вітаємо весь авіаційний персонал наших Повітряних Сил. І сподіваємся, що крила їхніх літаків врятують нашу землю від російських ударів. 
-
-⏯️ Готуємо великий матеріал про нове повітряне озброєння і нові структурні зміни в українській тактичній авіації, які зроблять її сильнішою. 
-
-📡 Завтра, в програмі «ТСН Тиждень», о 20:00, в ефірі «1+1».</description>
-      <pubDate>Sat, 29 Aug 2026 12:16:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 22:44:20 +0000</lastBuildDate>
     <item>
       <title>Відео повторного влучання в ск</title>
       <link>https://www.mandarinai.lt/post/98055</link>
@@ -119,6 +91,26 @@
 Екстрені служби  працюють на місці.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_19-24-43.mp4" length="667428" type="video/mp4"/>
       <pubDate>Sat, 29 Aug 2026 19:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вибух в селі Мила зняли пасажи</title>
+      <link>https://www.mandarinai.lt/post/98069</link>
+      <description>Вибух в селі Мила зняли пасажири маршрутки, яка їхала по Житомирській трасі</description>
+      <pubDate>Sat, 29 Aug 2026 21:06:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Приліт по Трухановому остров</title>
+      <link>https://www.mandarinai.lt/post/98070</link>
+      <description>⚡️Приліт по Трухановому острові в Києві: на місці сильна пожежа, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_21-24-31.mp4" length="794727" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 21:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Нічний двіж в російському Бря</title>
+      <link>https://www.mandarinai.lt/post/98071</link>
+      <description>💥Нічний двіж в російському Брянську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_21-38-43.mp4" length="340191" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 21:38:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
