@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 17:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:26:09 +0000</lastBuildDate>
     <item>
       <title>Пожежа на Київщині після росій</title>
       <link>https://www.mandarinai.lt/post/98052</link>
@@ -89,21 +89,6 @@
       <pubDate>Sat, 29 Aug 2026 14:08:24 +0000</pubDate>
     </item>
     <item>
-      <title>Він свідомо вирушив на війну п</title>
-      <link>https://www.mandarinai.lt/post/98065</link>
-      <description>Він свідомо вирушив на війну проти України.
-
-Згодом зрозумів, що протистояння українському війську — це самогубство. 
-
-Тоді він утік і понад рік переховувався в росії.
-
-Після цього його знову повернули до російської армії та одразу відправили на найскладнішу ділянку фронту — Костянтинівський напрямок.
-
-Коли його укриття оточили українські військові 49-го ОШБ «Карпатська Січ», він зробив правильний вибір — прийняв пропозицію здатися в полон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2749.MP4" length="20251693" type="video/mp4"/>
-      <pubDate>Sat, 29 Aug 2026 15:45:51 +0000</pubDate>
-    </item>
-    <item>
       <title>Траса на Одещині вся в потроще</title>
       <link>https://www.mandarinai.lt/post/98066</link>
       <description>Траса на Одещині вся в потрощених російською атакою зерновозах і фурах</description>
@@ -124,6 +109,16 @@
 В якому стані Неєлов, поки що невідомо.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2751.MP4" length="477968" type="video/mp4"/>
       <pubDate>Sat, 29 Aug 2026 17:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Оболонському районі столиці </title>
+      <link>https://www.mandarinai.lt/post/98068</link>
+      <description>В Оболонському районі столиці БпЛА впав на територію між житловими будинками, — Кличко.
+
+У 12-поверховому будинку на Оболоні загоряння з другого по пʼятий поверхи. 
+Екстрені служби  працюють на місці.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_19-24-43.mp4" length="667428" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 19:24:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
