@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 19:26:06 +0000</lastBuildDate>
-    <item>
-      <title>Запуск твердопаливної міжконти</title>
-      <link>https://www.mandarinai.lt/post/98013</link>
-      <description>Запуск твердопаливної міжконтинентальної балістичної ракети мобільного базування на космодромі «Плесецьк».
-
-Офіційно мета пуску:  підтвердження тактико-технічних та льотних характеристик ракетного комплексу.  
-
-Неофіційно: спроба налякати європейців та американців після візиту Реткліффа.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Пуск МБР на космодроме Плесецк.mp4" length="19775587" type="video/mp4"/>
-      <pubDate>Fri, 28 Aug 2026 14:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Атакований будівельний гіперм</title>
-      <link>https://www.mandarinai.lt/post/98014</link>
-      <description>🤬Атакований будівельний гіпермаркет у Павлограді, Дніпропетровської області: почалася сильна пожежа, є постраждалі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-28_14-33-32.mp4" length="535251" type="video/mp4"/>
-      <pubDate>Fri, 28 Aug 2026 14:33:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 02:22:23 +0000</lastBuildDate>
     <item>
       <title>В Україні тестують нові бойові</title>
       <link>https://www.mandarinai.lt/post/98015</link>
@@ -59,7 +41,7 @@
     <item>
       <title>⚡️Стовп диму після вибуху в Об</title>
       <link>https://www.mandarinai.lt/post/98020</link>
-      <description>⚡️Стовп диму після вибуху в Оболонськлму районі Києва</description>
+      <description>⚡️Стовп диму після вибуху в Оболонському районі Києва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-28_17-42-03.mp4" length="421793" type="video/mp4"/>
       <pubDate>Fri, 28 Aug 2026 17:42:03 +0000</pubDate>
     </item>
@@ -96,6 +78,20 @@
 На місці працюють рятувальники та екстрені служби. Інформація про постраждалих та масштаби руйнувань уточнюється.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-28_19-15-32.mp4" length="626634" type="video/mp4"/>
       <pubDate>Fri, 28 Aug 2026 19:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Києві частково обмежуєтьс</title>
+      <link>https://www.mandarinai.lt/post/98027</link>
+      <description>⚡️ В Києві частково обмежується рух усіх транспортних засобів проспектом Берестейським та Великою Кільцевою дорогою у напрямку Житомира</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-28_19-45-11.jpg" length="176393" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 19:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві загорілась багатоповер</title>
+      <link>https://www.mandarinai.lt/post/98029</link>
+      <description>В Києві загорілась багатоповерхівка після падіння уламків безпілотника</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2737.MP4" length="2397998" type="video/mp4"/>
+      <pubDate>Fri, 28 Aug 2026 22:50:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
