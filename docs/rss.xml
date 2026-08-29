@@ -6,83 +6,87 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 09:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:37:47 +0000</lastBuildDate>
     <item>
-      <title>🤬Так зараз виглядає перекрита </title>
-      <link>https://www.mandarinai.lt/post/98025</link>
-      <description>🤬Так зараз виглядає перекрита ділянка траси «Київ — Чоп» — пожежа перекинулася на ліс</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-28_19-12-17.mp4" length="628098" type="video/mp4"/>
-      <pubDate>Fri, 28 Aug 2026 19:12:17 +0000</pubDate>
+      <title>Пожежа на Київщині після росій</title>
+      <link>https://www.mandarinai.lt/post/98052</link>
+      <description>Пожежа на Київщині після російської атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_6661.MP4" length="5150279" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 11:47:43 +0000</pubDate>
     </item>
     <item>
-      <title>Офіційно: у Бучанському районі</title>
-      <link>https://www.mandarinai.lt/post/98026</link>
-      <description>Офіційно: у Бучанському районі після атаки рф горять складські приміщення, пожежа супроводжується вибухами, - ОВА.
+      <title>Російський дрон знищив авто Ук</title>
+      <link>https://www.mandarinai.lt/post/98053</link>
+      <description>Російський дрон знищив авто Укрпошти біля Краматорська</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/0829 (4).mp4" length="4210059" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 11:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎖️ Нашим пілотам немає рівних </title>
+      <link>https://www.mandarinai.lt/post/98054</link>
+      <description>🎖️ Нашим пілотам немає рівних в світі. Є серед них Герої, в яких по 400 і навіть по 500 бойових вильотів. 
 
-На місці працюють рятувальники та екстрені служби. Інформація про постраждалих та масштаби руйнувань уточнюється.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-28_19-15-32.mp4" length="626634" type="video/mp4"/>
-      <pubDate>Fri, 28 Aug 2026 19:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В Києві частково обмежуєтьс</title>
-      <link>https://www.mandarinai.lt/post/98027</link>
-      <description>⚡️ В Києві частково обмежується рух усіх транспортних засобів проспектом Берестейським та Великою Кільцевою дорогою у напрямку Житомира</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-28_19-45-11.jpg" length="176393" type="image/jpeg"/>
-      <pubDate>Fri, 28 Aug 2026 19:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Києві загорілась багатоповер</title>
-      <link>https://www.mandarinai.lt/post/98029</link>
-      <description>В Києві загорілась багатоповерхівка після падіння уламків безпілотника</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2737.MP4" length="2397998" type="video/mp4"/>
-      <pubDate>Fri, 28 Aug 2026 22:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Атаковано склади в Ростові т</title>
-      <link>https://www.mandarinai.lt/post/98030</link>
-      <description>💥🔥Атаковано склади в Ростові та Ростовській області рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_02-31-36.mp4" length="422695" type="video/mp4"/>
-      <pubDate>Sat, 29 Aug 2026 02:31:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬 Третю добу поспіль росіяни н</title>
-      <link>https://www.mandarinai.lt/post/98032</link>
-      <description>🤬 Третю добу поспіль росіяни намагаються паралізувати Київ реактивними безпілотниками
+🛫 Сьогодні День української авіації. 
 
-Дрони підходять до міста невеликими групами один за одним, змушуючи цивільних перебувати в укриттях, а сили ППО — працювати у безперервному бойовому режимі.
+✈️ Ми щиро вітаємо весь авіаційний персонал наших Повітряних Сил. І сподіваємся, що крила їхніх літаків врятують нашу землю від російських ударів. 
 
-Лише за останню добу (з 08:00 вчора до 08:00 сьогодні) у столиці 11 разів лунала тривога. Загальний час — більше 11 годин.
+⏯️ Готуємо великий матеріал про нове повітряне озброєння і нові структурні зміни в українській тактичній авіації, які зроблять її сильнішою. 
 
-Наразі на Київщину знову прямує нова група ворожих дронів. Не виключено, що сьогодні теж цілий день буде тривога</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_05-28-26.mp4" length="874573" type="video/mp4"/>
-      <pubDate>Sat, 29 Aug 2026 05:28:26 +0000</pubDate>
+📡 Завтра, в програмі «ТСН Тиждень», о 20:00, в ефірі «1+1».</description>
+      <pubDate>Sat, 29 Aug 2026 12:16:50 +0000</pubDate>
     </item>
     <item>
-      <title>🤬Сильна пожежа після вчорашньо</title>
-      <link>https://www.mandarinai.lt/post/98033</link>
-      <description>🤬Сильна пожежа після вчорашньої атаки досі триває на Київщині
-
-Понад 200 людей евакуйовано в Бучанському районі, серед них діти. Також є загиблі, — ОВА
-
-ㅤ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_05-34-54.mp4" length="1719822" type="video/mp4"/>
-      <pubDate>Sat, 29 Aug 2026 05:34:54 +0000</pubDate>
+      <title>Відео повторного влучання в ск</title>
+      <link>https://www.mandarinai.lt/post/98055</link>
+      <description>Відео повторного влучання в склад на Київщині, - «5-ий канал»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2748.MP4" length="14007027" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 12:39:11 +0000</pubDate>
     </item>
     <item>
-      <title>‼️Райони Києва та області, які</title>
-      <link>https://www.mandarinai.lt/post/98035</link>
-      <description>‼️Райони Києва та області, які за ранок облітали дрони.
+      <title>👀 Обстановка у метро Києва під</title>
+      <link>https://www.mandarinai.lt/post/98056</link>
+      <description>👀 Обстановка у метро Києва під постійними тривогами. 
 
-Під час тривоги мешканцям цих районів радять уникати ТРЦ та інших місць із великим скупченням людей.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-29_06-30-42.jpg" length="102286" type="image/jpeg"/>
-      <pubDate>Sat, 29 Aug 2026 06:30:42 +0000</pubDate>
+Переповнені станції, затримки та тисячі людей.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_13-42-50.mp4" length="971162" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 13:42:50 +0000</pubDate>
     </item>
     <item>
-      <title>💔 Жахливі кадри поруч з епіцен</title>
-      <link>https://www.mandarinai.lt/post/98038</link>
-      <description>💔 Жахливі кадри поруч з епіцентром вчорашнього вибуху в Бучанському районі публікують місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_08-00-15.mp4" length="755440" type="video/mp4"/>
-      <pubDate>Sat, 29 Aug 2026 08:00:15 +0000</pubDate>
+      <title>😵‍💫путін уже навіть не прихову</title>
+      <link>https://www.mandarinai.lt/post/98057</link>
+      <description>😵‍💫путін уже навіть не приховує, наскільки викривлено він сприймає світ. Просто тварина.
+
+Російський диктатор порівняв війну проти України з «харчовим ланцюгом», де косатки зграєю розривають білих ведмедів. І заявив, що про це треба розповідати дітям, щоб вони розуміли, «у якому світі ми живемо».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-29_13-48-20.mp4" length="2874400" type="video/mp4"/>
+      <pubDate>Sat, 29 Aug 2026 13:48:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Перше влучання було в місце з</title>
+      <link>https://www.mandarinai.lt/post/98061</link>
+      <description>🔴Перше влучання було в місце зберігання боєприпасів, якого там точно не повинно було бути – складів СОУ. Сталася детонація снарядів, мін, інших боєприпасів і дронів, — Зеленський.
+
+Станом на цей час уже відомо про 40 загиблих. Завали продовжують розбирати, тому, на жаль, кількість загиблих може збільшитися.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-29_13-52-54.jpg" length="298827" type="image/jpeg"/>
+      <pubDate>Sat, 29 Aug 2026 13:52:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>👉Диверсія, "зелені чоловічки",</title>
+      <link>https://www.mandarinai.lt/post/98063</link>
+      <description>👉Диверсія, "зелені чоловічки", удар блискавки — сценарії нападу рф на країни НАТО проаналізувало німецьке видання Bild
+
+Потенційні сценарії:
+
+🟢Диверсії під водою — пошкодження кабелів, трубопроводів та іншої критичної інфраструктури на морському дні.
+
+🟢«Пастка Нарви» — поява озброєних людей в естонській Нарві з подальшим запереченням Москвою своєї причетності.
+
+🟢 Захоплення Готланду — спроба встановити контроль над стратегічним островом, щоб ускладнити перекидання сил НАТО до Балтії.
+
+🟢Шпіцберген — Москва може використати захист російського населення як привід для провокації або захоплення стратегічних позицій.
+
+🟢Сувалкський коридор — наступ із Білорусі в напрямку Калінінграда, щоб сухопутно відрізати країни Балтії від решти НАТО.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-29_14-08-24.jpg" length="209563" type="image/jpeg"/>
+      <pubDate>Sat, 29 Aug 2026 14:08:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
