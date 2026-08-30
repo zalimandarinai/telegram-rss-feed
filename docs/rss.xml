@@ -6,18 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Aug 2026 19:27:31 +0000</lastBuildDate>
-    <item>
-      <title>У Києві горять офіси Novartis,</title>
-      <link>https://www.mandarinai.lt/post/98096</link>
-      <description>У Києві горять офіси Novartis, Nivea, Watsons та інших міжнародних компаній.
-
-Масштабна пожежа спалахнула у бізнес-центрі SP Hall.
-
-Новий табун шахедів заходить з півночі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-08-30_12-02-58.mp4" length="995644" type="video/mp4"/>
-      <pubDate>Sun, 30 Aug 2026 12:02:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 21:59:04 +0000</lastBuildDate>
     <item>
       <title>🇵🇪 Біля російського посольства</title>
       <link>https://www.mandarinai.lt/post/98097</link>
@@ -99,6 +88,20 @@
       <description>Вибухи в Погребах неподалік від Києва</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2777.MP4" length="803654" type="video/mp4"/>
       <pubDate>Sun, 30 Aug 2026 19:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уламок російського дрона пошко</title>
+      <link>https://www.mandarinai.lt/post/98109</link>
+      <description>Уламок російського дрона пошкодив дах складу Auchan в Києві, — сьогоднішня заява компанії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-08-30_20-14-54.jpg" length="49927" type="image/jpeg"/>
+      <pubDate>Sun, 30 Aug 2026 20:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ До Оріхова, стратегічно важ</title>
+      <link>https://www.mandarinai.lt/post/98110</link>
+      <description>⚡️ До Оріхова, стратегічно важливого міста для наших військових на сході Запорізької області, спробувала зайти російська диверсійна група, - так заявив речник 148-ої бригади ДШВ Сергій Колесниченко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2779.MP4" length="8254184" type="video/mp4"/>
+      <pubDate>Sun, 30 Aug 2026 20:33:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
