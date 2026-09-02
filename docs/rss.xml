@@ -6,77 +6,24 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 17:35:56 +0000</lastBuildDate>
-    <item>
-      <title>Бессент: «Ми зараз відчуваємо </title>
-      <link>https://www.mandarinai.lt/post/98246</link>
-      <description>Бессент: «Ми зараз відчуваємо енергетичний шок. Україна вирішила, що хоче знищити російські енергетичні об'єкти».
-
-За словами міністра фінансів США, українські удари по рф та війна в Ірані тиснуть на світові ціни на енергоносії. 
-
-При цьому ситуація навколо Ірану впливає на зростання цін сильніше через перекриту Ормузьку протоку, тоді як удари по російських нафтооб'єктах урізають військовий бюджет Кремля.
-
-Переклад Pravda Getashchenko</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2857.MP4" length="9375950" type="video/mp4"/>
-      <pubDate>Wed, 02 Sep 2026 15:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти хизуються тим, що ски</title>
-      <link>https://www.mandarinai.lt/post/98247</link>
-      <description>Окупанти хизуються тим, що скидають КАБ на центр Херсона</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2858.MP4" length="1634750" type="video/mp4"/>
-      <pubDate>Wed, 02 Sep 2026 15:52:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Ми на ньому сидимо! Ми зверху</title>
-      <link>https://www.mandarinai.lt/post/98248</link>
-      <description>«Ми на ньому сидимо! Ми зверху на «Гербері», підриваємось!»
-
-Операторам 26-го Одеського загону Держприкордонслужби вдалось посадити свій перехоплювач на російський БПЛА «Гербера».
-
-Трохи покатавшись на ній, український перехоплювач спрацював і підірвав ворожий дрон.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2859.MP4" length="11497443" type="video/mp4"/>
-      <pubDate>Wed, 02 Sep 2026 16:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>США ведуть переговори з Україн</title>
-      <link>https://www.mandarinai.lt/post/98249</link>
-      <description>США ведуть переговори з Україною щодо ліцензій на виробництво ракет для Patriot, - Марко Рубіо телефоном в ефірі The Brian Kilmeade Show.
-
-Відповідаючи на запитання, чи не проти він надати ліцензії на власне виробництво перехоплювачів, Рубіо підтвердив, що це питання наразі перебуває в стадії перемовин.
-
-За його словами, це не вирішить питання в короткостроковій перспективі – навіть після отримання ліцензії розгортання виробництва складного озброєння може тривати кілька років.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2860.MP4" length="22780483" type="video/mp4"/>
-      <pubDate>Wed, 02 Sep 2026 16:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Реактивних «Шахедів» летітиме </title>
-      <link>https://www.mandarinai.lt/post/98250</link>
-      <description>Реактивних «Шахедів» летітиме ще більше: тепер їх виготовлення вартує вдвічі менше, - The Economist
-
-В рф тепер є 3D-прінтери для деталей  реактивних турбін, тому вартість БПЛА знизилась до $70 тисяч.
-
-Також росія пришвидшила темпи виробництва балістики і вже «випускає» до 100 ракет на місяць, стверджує видання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_16-34-12.jpg" length="126172" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 16:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️В Німеччнині два ймовірні ди</title>
-      <link>https://www.mandarinai.lt/post/98251</link>
-      <description>⚡️В Німеччнині два ймовірні диверсійні акти проти енергетичної інфраструктури в Бранденбурзі та Бергхаймі.
-
-Вчора зранку біля підстанції в Бранденбурзі було виявлено пошкодження високовольтної лінії, а також більше 20 саморобних піротехнічних ракетних пристроїв, якими намагалися викликати коротке замикання.
-
-Ввечері 20:00 на підстанції в Бергхаймі сталося коротке замикання, а прибулі правоохоронці виявили 6 аналогічних пускових пристроїв для запуску піротехнічних зарядів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_16-36-53.jpg" length="159970" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 16:36:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 20:06:33 +0000</lastBuildDate>
     <item>
       <title>Окупанти атакували Житомир БпЛ</title>
       <link>https://www.mandarinai.lt/post/98256</link>
       <description>Окупанти атакували Житомир БпЛА: пошкоджена цивільна інфраструктура, — ОВА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2863.MP4" length="1983488" type="video/mp4"/>
       <pubDate>Wed, 02 Sep 2026 17:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Сьогоднішня ситуація між окре</title>
+      <link>https://www.mandarinai.lt/post/98257</link>
+      <description>🔴Сьогоднішня ситуація між окремими підрозділами СБУ та ГУР, яка сталася в Києві, – абсолютно ганебна, — Зеленський. 
+
+Президент заявив, що будуть перевірені всі свідчення та заяви учасників цієї історії, вся ситуація покроково. Має бути відповідальність, в тому числі кадрові рішення керівників спецслужб щодо учасників того, що сталося, та мають бути внутрішні розслідування в обох службах.
+
+Стріляти тут, в Україні, можна тільки в російських окупантів для захисту України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2867.MP4" length="11514178" type="video/mp4"/>
+      <pubDate>Wed, 02 Sep 2026 17:29:44 +0000</pubDate>
     </item>
     <item>
       <title>🔥Казахстанські НПЗ відмовилися</title>
@@ -88,9 +35,71 @@
     <item>
       <title>💥Пілот МіГ-29 з близької диста</title>
       <link>https://www.mandarinai.lt/post/98259</link>
-      <description>💥Пілот МіГ-29 з близької дистанції збиває російську  «Бандероль» ракетою Р-60.</description>
+      <description>💥Пілот МіГ-29 з близької дистанції збиває російську  «Бандероль» ракетою Р-60.
+
+🎥 «Соняшник»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-02_17-33-18.mp4" length="542409" type="video/mp4"/>
       <pubDate>Wed, 02 Sep 2026 17:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 Де-факто це війна проти НАТО</title>
+      <link>https://www.mandarinai.lt/post/98260</link>
+      <description>💬 Де-факто це війна проти НАТО: у Європі зафіксували вже 497 диверсій, підпалів та кібератак, за якими стоять спецслужби рф і Білорусі, — Malcontent News.
+
+Мета Кремля — виснажити європейські держави, зруйнувати інфраструктуру та перевірити межі дозволеного без прямого збройного зіткнення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_18-52-14.jpg" length="37630" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 18:52:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Репортер: В Україні чоловіків</title>
+      <link>https://www.mandarinai.lt/post/98261</link>
+      <description>🔴Репортер: В Україні чоловіків хапають просто на вулицях. Їхніх матерів і дружин кидають на землю та розпалюють їм в обличчя перцевий газ. Чи бачили ви ці відео?  
+
+Трамп: Я знаю про ці відео. Я дуже багато про них чув.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-02_19-04-52.mp4" length="2695595" type="video/mp4"/>
+      <pubDate>Wed, 02 Sep 2026 19:04:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>😨Зʼявилось відео перестрілки м</title>
+      <link>https://www.mandarinai.lt/post/98262</link>
+      <description>😨Зʼявилось відео перестрілки між співробітниками СБУ та ГУР, унаслідок якої поранено трьох співробітників ГУР
+
+Нема слів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-02_19-05-43.mp4" length="1719457" type="video/mp4"/>
+      <pubDate>Wed, 02 Sep 2026 19:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴 У Хмельницькому спалахнула м</title>
+      <link>https://www.mandarinai.lt/post/98263</link>
+      <description>🔴 У Хмельницькому спалахнула масштабна пожежа після удару реактивним БпЛА, — місцеві канали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_19-30-43.jpg" length="167672" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 19:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Німеччині ще один теракт, ць</title>
+      <link>https://www.mandarinai.lt/post/98266</link>
+      <description>В Німеччині ще один теракт, цього разу на вокзалі в місті Аугсбург.
+
+Поранено двоє молодих українців. 
+
+Офіційно причина невідома, але якщо в Європі будуть продовжувати так ставитись до терактів, за якими очевидно стирчать російські вуха, то одного дня Євросоюз може просто розвалитися і стати минулою історією.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_19-54-18.jpg" length="73875" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 19:54:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇳🇴🇺🇦Норвегія заарештувала і за</title>
+      <link>https://www.mandarinai.lt/post/98267</link>
+      <description>🇳🇴🇺🇦Норвегія заарештувала і затримала російське судно «Професор Молчанов» на запит України, — Reuters
+
+В 2023-му році арбітражний суд у Гаазі зобов’язав рф виплатити «Нафтогазу» $4,22 млрд. в якості компенсації  за активи, втрачені компанією внаслідок окупації Кримського півострова, однак москва цього не зробила.
+
+Рішення про конфіскацію корабля було ухвалено окружним судом Норд-Тромс і Сеня 31 серпня. 
+
+Судно «Професор Молчанов» належало росії та використовувалося для комерційних експедиційних круїзів.
+
+Воно ходило до норвезького архіпелагу Шпіцберген, де зараз і затримано.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_20-00-23.jpg" length="35569" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 20:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
