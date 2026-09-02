@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 20:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:38:32 +0000</lastBuildDate>
     <item>
       <title>Окупанти атакували Житомир БпЛ</title>
       <link>https://www.mandarinai.lt/post/98256</link>
@@ -82,7 +82,7 @@
 
 Поранено двоє молодих українців. 
 
-Офіційно причина невідома, але якщо в Європі будуть продовжувати так ставитись до терактів, за якими очевидно стирчать російські вуха, то одного дня Євросоюз може просто розвалитися і стати минулою історією.</description>
+Офіційно причина невідома, але якщо в Європі будуть продовжувати бездіяльно ставитись до терактів, за якими очевидно стирчать російські вуха, то одного дня Євросоюз може просто розвалитися і стати минулою історією.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_19-54-18.jpg" length="73875" type="image/jpeg"/>
       <pubDate>Wed, 02 Sep 2026 19:54:18 +0000</pubDate>
     </item>
@@ -100,6 +100,28 @@
 Воно ходило до норвезького архіпелагу Шпіцберген, де зараз і затримано.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_20-00-23.jpg" length="35569" type="image/jpeg"/>
       <pubDate>Wed, 02 Sep 2026 20:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Німеччина вперше з часів Др</title>
+      <link>https://www.mandarinai.lt/post/98268</link>
+      <description>🇩🇪 Німеччина вперше з часів Другої світової випробувала балістичну ракету, — ЗМІ
+
+ВМС Німеччини таємно запустили ізраїльську балістичну ракету LORA у Північній Атлантиці. 
+
+Запуск провели з німецького фрегата біля Ісландії, до того німці запускали лише «V-2» в 1945 році. 
+
+Ракета має дальність понад 500 км і призначена для високоточних ударів.
+
+Підготовку до випробування тримали в секреті.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-02_20-15-22.jpg" length="85844" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 20:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заява командира «Спецпідрозділ</title>
+      <link>https://www.mandarinai.lt/post/98269</link>
+      <description>Заява командира «Спецпідрозділу Тимура» щодо перестрілки між співробітниками СБУ та ГУР.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2880.MP4" length="19162756" type="video/mp4"/>
+      <pubDate>Wed, 02 Sep 2026 21:47:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
