@@ -6,62 +6,18 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 17:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:31:30 +0000</lastBuildDate>
     <item>
       <title>«Єb@ть!» - Народний кореспонде</title>
-      <link>https://www.mandarinai.lt/post/98306</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>«Єb@ть!» - Народний кореспондент емоційно коментує влучання надводного безпілотника в Сочі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2908.MP4" length="15997013" type="video/mp4"/>
       <pubDate>Thu, 03 Sep 2026 12:55:16 +0000</pubDate>
     </item>
     <item>
       <title>🤬Приліт дрону біля ЖК «Славути</title>
-      <link>https://www.mandarinai.lt/post/98307</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🤬Приліт дрону біля ЖК «Славутич» у Києві: в небо піднявся густий стовп диму</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-03_13-37-11.jpg" length="77086" type="image/jpeg"/>
       <pubDate>Thu, 03 Sep 2026 13:37:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Стався приліт дронів біля ЖК «</title>
-      <link>https://www.mandarinai.lt/post/98309</link>
-      <description>Стався приліт дронів біля ЖК «Славутич» у Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-03_13-40-03.jpg" length="62471" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 13:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>На автомобіль впали уламки БПЛ</title>
-      <link>https://www.mandarinai.lt/post/98312</link>
-      <description>На автомобіль впали уламки БПЛА біля станції метро «Славутич» в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2910.MP4" length="2850885" type="video/mp4"/>
-      <pubDate>Thu, 03 Sep 2026 14:18:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Броварському районі, ймовірн</title>
-      <link>https://www.mandarinai.lt/post/98314</link>
-      <description>В Броварському районі, ймовірно, удар припав по заводу Coca-Cola, може виникнути дефіцит продукції</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2912.MP4" length="1948720" type="video/mp4"/>
-      <pubDate>Thu, 03 Sep 2026 14:25:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Відірваний уламок безпілотника</title>
-      <link>https://www.mandarinai.lt/post/98315</link>
-      <description>Відірваний уламок безпілотника падає між висотними будинками в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2913.MP4" length="1320509" type="video/mp4"/>
-      <pubDate>Thu, 03 Sep 2026 14:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Києві горить девʼятиповерхів</title>
-      <link>https://www.mandarinai.lt/post/98316</link>
-      <description>В Києві горить девʼятиповерхівка внаслідок атаки російських терористів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2915.MP4" length="4568486" type="video/mp4"/>
-      <pubDate>Thu, 03 Sep 2026 16:32:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>На відео дрон влучає в багатоп</title>
-      <link>https://www.mandarinai.lt/post/98317</link>
-      <description>На відео дрон влучає в багатоповерховий будинок</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2916.MP4" length="1428311" type="video/mp4"/>
-      <pubDate>Thu, 03 Sep 2026 16:34:07 +0000</pubDate>
     </item>
     <item>
       <title>Індустріальний прорив: Крамато</title>
@@ -82,6 +38,35 @@
 «Сьогодні росіяни своїм дроном ударили по заводу Coca-Cola. Вже і Coca-Cola для них такий ворог, якщо вони спалюють її своїми «шахедами». Чіткий російський сигнал Америці, росіяни не можуть не знати, що це американське підприємство. Будуть і наші асиметричні операції у відповідь на цю тактику. Де б не ховалися російські злочинці, їх знайдуть. І сьогодні є чергове підтвердження цього факту на території Саратовської області».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2919.MP4" length="9090260" type="video/mp4"/>
       <pubDate>Thu, 03 Sep 2026 17:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬У Києві  уламки «шахеда» впал</title>
+      <link>https://www.mandarinai.lt/post/98327</link>
+      <description>🤬У Києві  уламки «шахеда» впали біля одного з магазинів, є постраждалі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-03_18-41-41.mp4" length="627359" type="video/mp4"/>
+      <pubDate>Thu, 03 Sep 2026 18:41:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Три людини поранено, 25 вдал</title>
+      <link>https://www.mandarinai.lt/post/98328</link>
+      <description>⚡️Три людини поранено, 25 вдалося евакуювати -  наслідки влучання рф у Голосіївському районі Києва.
+
+Для мешканців розгорнули штаб допомоги, який працюватиме до 23:00. 
+
+Там можна подати документи на матеріальну допомогу та компенсацію за пошкоджене житло, та отримати іншу необхідну підтримку.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-03_18-57-39.jpg" length="128413" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 18:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 Диверсії в Німеччині триваю</title>
+      <link>https://www.mandarinai.lt/post/98335</link>
+      <description>🇩🇪 Диверсії в Німеччині тривають.
+
+На високовольтних лініях в NRW, тобто, Північному Рейні-Вестфалія, диверсанти змогли влаштувати коротке замикання. 
+
+Розглядають версії іноземного втручання і лівого екстремізму, хоча й «лівий екстремізм» може бути зручним прикриттям.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-03_19-40-59.jpg" length="102410" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 19:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
