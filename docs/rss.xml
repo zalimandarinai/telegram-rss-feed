@@ -6,39 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 17:36:00 +0000</lastBuildDate>
-    <item>
-      <title>Через російський обстріл пошко</title>
-      <link>https://www.mandarinai.lt/post/98359</link>
-      <description>Через російський обстріл пошкоджено пекарню «Завертайло», розташовану неподалік Софійської площі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-04_13-02-25.jpg" length="139973" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 13:02:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️російський дрон вдарив по бу</title>
-      <link>https://www.mandarinai.lt/post/98360</link>
-      <description>❗️російський дрон вдарив по будівлі СБУ в центрі Києва поблизу станції метро Золоті Ворота. - УП</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-04_13-09-55.jpg" length="152560" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 13:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Приліт дрона стався у кабінет </title>
-      <link>https://www.mandarinai.lt/post/98361</link>
-      <description>Приліт дрона стався у кабінет т.в.о. голови СБУ Олександра Поклада, — Зеленський
-
-На момент удару генерала в кабінеті не було.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-04_13-18-26.jpg" length="176951" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 13:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже відомо про 7 постраждалих </title>
-      <link>https://www.mandarinai.lt/post/98362</link>
-      <description>Вже відомо про 7 постраждалих у Шевченківському районі, — Кличко. 
-
-Шестеро поранених — у стаціонарах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-04_13-39-29.jpg" length="180597" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 13:39:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 19:52:07 +0000</lastBuildDate>
     <item>
       <title>Полонені росіяни тягнули поран</title>
       <link>https://www.mandarinai.lt/post/98363</link>
@@ -116,6 +84,24 @@
       <description>На околиці Києва в Софіївський Борщагівці горять склади з продуктами</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2950.MP4" length="3885451" type="video/mp4"/>
       <pubDate>Fri, 04 Sep 2026 17:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️  Віткофф і Кушнер їдуть до </title>
+      <link>https://www.mandarinai.lt/post/98374</link>
+      <description>⚡️  Віткофф і Кушнер їдуть до Москви та Києва з пропозицією щодо завершення війни, — Трамп
+
+Журналісти запитали президента США, чи матимуть його представники нові пропозиції під час майбутніх візитів.
+
+Трамп заявив, що вони передадуть конкретний план, спрямований на припинення російсько-української війни. Деталей пропозиції він розкрив.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-04_19-09-00.mp4" length="1723540" type="video/mp4"/>
+      <pubDate>Fri, 04 Sep 2026 19:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Боєць ГУР МО збиває російський</title>
+      <link>https://www.mandarinai.lt/post/98375</link>
+      <description>Боєць ГУР МО збиває російський дрон на підльоті за кілька метрів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2954.MP4" length="4041392" type="video/mp4"/>
+      <pubDate>Fri, 04 Sep 2026 19:34:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
