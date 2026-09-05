@@ -6,43 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 00:05:51 +0000</lastBuildDate>
-    <item>
-      <title>НАБУ і САП затримали Сергія Кр</title>
-      <link>https://www.mandarinai.lt/post/98369</link>
-      <description>НАБУ і САП затримали Сергія Кропиву, начальника кібердепартаменту Офісу Генпрокурора, - медіа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-04_17-11-22.jpg" length="21576" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 17:11:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡 На найдовшому в столиці Бере</title>
-      <link>https://www.mandarinai.lt/post/98370</link>
-      <description>😡 На найдовшому в столиці Берестейському проспекті Києва утворилися кілометрові затори внвслідок постійних атак рф</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-04_17-18-48.mp4" length="436689" type="video/mp4"/>
-      <pubDate>Fri, 04 Sep 2026 17:18:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Гібридні заходи проти України </title>
-      <link>https://www.mandarinai.lt/post/98371</link>
-      <description>Гібридні заходи проти України продовжують діяти.
-
-Марін Ле Пен закликала провести міжнародну конференцію для врегулювання війни в Україні
-
-Вона заявила, що Франція мала б ініціювати масштабну мирну конференцію, щоб сприяти дипломатичному завершенню війни, а не її подальшому затягуванню - тобто, не мала б постачати Україні зброю.
-
-В самої Ле Пен, нажаль, всі шанси очолити Францію з сьогоднішнім рейтингом 35%.
-
-В цілому, в Європі стає дуже популярним ізоляціонизм та бажання замиритися з росією, щоб отримувати дешеві енергоносії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-04_17-19-48.jpg" length="143124" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 17:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>На околиці Києва в Софіївський</title>
-      <link>https://www.mandarinai.lt/post/98372</link>
-      <description>На околиці Києва в Софіївський Борщагівці горять склади з продуктами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_2950.MP4" length="3885451" type="video/mp4"/>
-      <pubDate>Fri, 04 Sep 2026 17:34:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 04:28:14 +0000</lastBuildDate>
     <item>
       <title>⚡️  Віткофф і Кушнер їдуть до </title>
       <link>https://www.mandarinai.lt/post/98374</link>
@@ -81,6 +45,22 @@
       <description>✅Режим припинення вогню вводиться з 00:00 5 вересня до 23:59 8 вересня. Підрозділи нібито отримали відповідний наказ, — так стверджує УП</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-04_20-28-16.jpg" length="142516" type="image/jpeg"/>
       <pubDate>Fri, 04 Sep 2026 20:28:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Шахед влучив в житловий буди</title>
+      <link>https://www.mandarinai.lt/post/98383</link>
+      <description>⚡️Шахед влучив в житловий будинок у Борисполі на Київщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-05_03-43-55.jpg" length="208914" type="image/jpeg"/>
+      <pubDate>Sat, 05 Sep 2026 03:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Чотири людини загинули, ще п</title>
+      <link>https://www.mandarinai.lt/post/98386</link>
+      <description>‼️Чотири людини загинули, ще пʼятеро дістали поранень через атаку росіян на Камʼянське.
+
+Троє постраждалих у лікарні. Серед них - 30-річна жінка, яка перебуває у реанімації.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-05_03-46-20.mp4" length="1315242" type="video/mp4"/>
+      <pubDate>Sat, 05 Sep 2026 03:46:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
