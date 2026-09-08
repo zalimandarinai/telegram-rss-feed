@@ -6,43 +6,24 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 00:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:16:18 +0000</lastBuildDate>
     <item>
       <title>💥В Криму уражено російський лі</title>
-      <link>https://www.mandarinai.lt/post/98509</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💥В Криму уражено російський літак
 
 За попередніми даними, йдеться про фронтовий бомбардувальник Су-24.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-07_14-26-41.mp4" length="626843" type="video/mp4"/>
       <pubDate>Mon, 07 Sep 2026 14:26:41 +0000</pubDate>
     </item>
     <item>
       <title>Білецький шукає росіян біля Ла</title>
-      <link>https://www.mandarinai.lt/post/98510</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>Білецький шукає росіян біля Лаври в Святогірську і не знаходить їх 
 
 Командир 3-го АК спростовує заяву путіна: Святогірськ — під контролем Третього армійського корпусу
 
 «Я хочу звернутися до російського військового та військово-політичного керівництва. Знімайте свої клоунські носи та різнокольорові перуки. Не виглядайте дурнями. 60-та механізована бригада Третього армійського корпусу повністю контролює місто. Фактично це наша тилова зона».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3041.MP4" length="31132350" type="video/mp4"/>
       <pubDate>Mon, 07 Sep 2026 14:52:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ На центр Краматорська скину</title>
-      <link>https://www.mandarinai.lt/post/98511</link>
-      <description>❗️ На центр Краматорська скинули чотири авіабомби</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3042.MP4" length="6436594" type="video/mp4"/>
-      <pubDate>Mon, 07 Sep 2026 16:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Знову наші захопили екзотичног</title>
-      <link>https://www.mandarinai.lt/post/98513</link>
-      <description>Знову наші захопили екзотичного полоненого на Харківщині.
-
-Маркос Науель Касарес Богадо, громадянин Парагваю, потрапив у полон до бійців 119-ої бригади.
-
-В 14-му армійському корпусі щойно поспілкувались з парагвайцем і почули він нього історію, яка нібито під копірку повторює розповіді більшості іноземних найманців - їхав до росії працювати охоронцем, а опинився в армії, і жодного разу ні в кого не стріляв, вибачте, більше не буду, хочу до батьківщини.</description>
-      <pubDate>Mon, 07 Sep 2026 17:08:05 +0000</pubDate>
     </item>
     <item>
       <title>😍 Анджеліна Джолі разом із син</title>
@@ -69,6 +50,34 @@
 
 Відремонтували авто завдяки підтримці всіх підписників нашого телеграм-каналу ЦАПЛІЄНКО_UKRAINE FIGHTS</description>
       <pubDate>Mon, 07 Sep 2026 20:32:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ В Києві після нічної атаки </title>
+      <link>https://www.mandarinai.lt/post/98523</link>
+      <description>❗️ В Києві після нічної атаки 2 загиблих, 7 поранених і 13 врятованих
+
+Руйнування та пожежі зафіксовано у п’яти районах міста.
+
+▪️ Голосіївський: на рівні 23-го поверху пошкоджено 26-поверховий висотний будинок. У 16-поверховому будинку через пошкоджені двері люди опинилися заблокованими у квартирі — рятувальники вивели двох людей на свіже повітря. Також загорівся гараж, вогонь перекинувся на нежитлову будівлю та бізнес-центр.
+
+▪️ Солом’янський: у п’ятиповерхівці мешканці опинилися заблокованими — врятовано 10 людей, одну людину госпіталізували.
+
+▪️ Дарницький: горів гараж у приватному секторі.
+
+▪️ Подільський: пожежі на складі, а також у гаражних боксах, горять автомобілі.
+
+▪️ Дніпровський: рятувальники гасять гаражі, що горять.
+
+🎥 Yan Dobronosov/Telegraf</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3052.MP4" length="8269877" type="video/mp4"/>
+      <pubDate>Tue, 08 Sep 2026 04:27:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Ще наслідки атаки на Київ сьо</title>
+      <link>https://www.mandarinai.lt/post/98529</link>
+      <description>🤬Ще наслідки атаки на Київ сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_05-00-20.jpg" length="192287" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 05:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
