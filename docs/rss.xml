@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 17:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:49:15 +0000</lastBuildDate>
     <item>
       <title>Дим і вогонь. Світанок над сто</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -19,21 +19,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️рф атакувала «Епіцентр» у Прилуках на Чернігівщині</description>
       <pubDate>Tue, 08 Sep 2026 07:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Район станції метро «Ім.Тараса</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Район станції метро «Ім.Тараса Шевченка» в руїнах, в Повітряних Силах кажуть, з усіх балістичних ракет, що летіли, вдалося збити дві</description>
-      <pubDate>Tue, 08 Sep 2026 07:39:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Момент цілеспрямованого російс</title>
-      <link>https://www.mandarinai.lt/post/98556</link>
-      <description>Момент цілеспрямованого російського удару по офісу телеканалу «Ми-Україна»
-
-Відомо про 6 постраждалих працівників медіа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-08_15-34-57.mp4" length="502701" type="video/mp4"/>
-      <pubDate>Tue, 08 Sep 2026 15:34:57 +0000</pubDate>
     </item>
     <item>
       <title>Кількість загиблих унаслідок с</title>
@@ -59,6 +44,20 @@
       <description>⚡️росія атакувала приміський поїзд біля Сум: вже відомо про 10 поранених, сильна пожежа у вагонах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-08_17-09-13.mp4" length="627540" type="video/mp4"/>
       <pubDate>Tue, 08 Sep 2026 17:09:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Війна в Україні може тривати </title>
+      <link>https://www.mandarinai.lt/post/98570</link>
+      <description>🔴Війна в Україні може тривати ще роками: потрібно готуватися до затяжного конфлікту та тривалої підтримки України, — Пентагон</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-08_19-07-03.mp4" length="4205318" type="video/mp4"/>
+      <pubDate>Tue, 08 Sep 2026 19:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росія атакувала одну з ТЕС у</title>
+      <link>https://www.mandarinai.lt/post/98571</link>
+      <description>⚡️росія атакувала одну з ТЕС у кілька хвиль — станція зупинила генерацію електроенергії, — ДТЕК</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_19-16-10.jpg" length="78556" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 19:16:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
