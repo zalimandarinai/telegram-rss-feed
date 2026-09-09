@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 01:15:04 +0000</lastBuildDate>
-    <item>
-      <title>Дим і вогонь. Світанок над сто</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>Дим і вогонь. Світанок над столицею після чергової російської атаки.
-Відео: UNITED24</description>
-      <pubDate>Tue, 08 Sep 2026 07:21:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф атакувала «Епіцентр» у Пр</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️рф атакувала «Епіцентр» у Прилуках на Чернігівщині</description>
-      <pubDate>Tue, 08 Sep 2026 07:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росія атакувала приміський п</title>
-      <link>https://www.mandarinai.lt/post/98564</link>
-      <description>⚡️росія атакувала приміський поїзд біля Сум: вже відомо про 10 поранених, сильна пожежа у вагонах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-08_17-09-13.mp4" length="627540" type="video/mp4"/>
-      <pubDate>Tue, 08 Sep 2026 17:09:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 06:03:13 +0000</lastBuildDate>
     <item>
       <title>🔴Війна в Україні може тривати </title>
       <link>https://www.mandarinai.lt/post/98570</link>
@@ -49,11 +29,43 @@
       <pubDate>Tue, 08 Sep 2026 23:53:26 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Атаковано термінал в порту Н</title>
+      <title>💥🔥Атаковано портову інфраструк</title>
       <link>https://www.mandarinai.lt/post/98573</link>
-      <description>💥🔥Атаковано термінал в порту Новоросійська</description>
+      <description>💥🔥Атаковано портову інфраструктуру Новоросійська</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_23-55-57.jpg" length="123150" type="image/jpeg"/>
       <pubDate>Tue, 08 Sep 2026 23:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️рф вночі атакувала пункт про</title>
+      <link>https://www.mandarinai.lt/post/98579</link>
+      <description>⚡️рф вночі атакувала пункт пропуску з Молдовою  «Старокозаче», що в Одеській області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_05-18-52.jpg" length="212933" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 05:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Києві влучання БпЛА в 16-п</title>
+      <link>https://www.mandarinai.lt/post/98582</link>
+      <description>⚡️У Києві влучання БпЛА в 16-поверховий будинок: екстрені служби прямують на місце, — Кличко</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_05-24-57.mp4" length="1357475" type="video/mp4"/>
+      <pubDate>Wed, 09 Sep 2026 05:24:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Новоросійську вночі влучан</title>
+      <link>https://www.mandarinai.lt/post/98583</link>
+      <description>💥🔥У Новоросійську вночі влучання по зерновому і мазутному терміналам</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_05-32-19.mp4" length="493218" type="video/mp4"/>
+      <pubDate>Wed, 09 Sep 2026 05:32:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Українські чоловіки призовног</title>
+      <link>https://www.mandarinai.lt/post/98585</link>
+      <description>🔴Українські чоловіки призовного віку, які зараз перебувають у Німеччині, мають повернутися додому, — очільник МЗС країни Йоганн Вадефуль
+
+Німеччина готова допомогти Україні ідентифікувати військовозобов’язаних чоловіків, які перебувають на її території, зокрема передати відповідні дані українській стороні.
+
+Як заявив Вадефуль, на підставі цієї інформації український уряд зможе звертатися до чоловіків із вимогою з’явитися</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_05-36-21.jpg" length="55683" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 05:36:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
