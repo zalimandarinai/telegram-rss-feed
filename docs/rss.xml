@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 23:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:15:04 +0000</lastBuildDate>
     <item>
       <title>Дим і вогонь. Світанок над сто</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -19,24 +19,6 @@
       <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️рф атакувала «Епіцентр» у Прилуках на Чернігівщині</description>
       <pubDate>Tue, 08 Sep 2026 07:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кількість загиблих унаслідок с</title>
-      <link>https://www.mandarinai.lt/post/98558</link>
-      <description>Кількість загиблих унаслідок сьогоднішньої російської атаки на Київ зросла до пʼяти, — Кличко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_15-40-22.jpg" length="193244" type="image/jpeg"/>
-      <pubDate>Tue, 08 Sep 2026 15:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Феєрверк із двох Буків: спільн</title>
-      <link>https://www.mandarinai.lt/post/98559</link>
-      <description>Феєрверк із двох Буків: спільна робота бригади «К-2». 45 -ої ОАБр та 3-го АК.
-
-Аеророзвідка «К-2» стежила за цілями кілька місяців: фіксувала переміщення комплексів, збирала інформацію та передавала дані для подальшого ураження.
-
-Після підтвердження цілей суміжники з 45-ї окремої артилерійської бригади відпрацювали по обох комплексах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3068.MP4" length="14194635" type="video/mp4"/>
-      <pubDate>Tue, 08 Sep 2026 15:48:33 +0000</pubDate>
     </item>
     <item>
       <title>⚡️росія атакувала приміський п</title>
@@ -58,6 +40,20 @@
       <description>⚡️росія атакувала одну з ТЕС у кілька хвиль — станція зупинила генерацію електроенергії, — ДТЕК</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_19-16-10.jpg" length="78556" type="image/jpeg"/>
       <pubDate>Tue, 08 Sep 2026 19:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Пункт пропуску «Старокозаче»</title>
+      <link>https://www.mandarinai.lt/post/98572</link>
+      <description>⚡️Пункт пропуску «Старокозаче» на Одещині, що знаходиться на кордоні з Молдовою, атакували реактивні дрони рф — після влучань спалахнула пожежа, горять автомобілі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-08_23-53-26.mp4" length="476988" type="video/mp4"/>
+      <pubDate>Tue, 08 Sep 2026 23:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атаковано термінал в порту Н</title>
+      <link>https://www.mandarinai.lt/post/98573</link>
+      <description>💥🔥Атаковано термінал в порту Новоросійська</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_23-55-57.jpg" length="123150" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 23:55:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
