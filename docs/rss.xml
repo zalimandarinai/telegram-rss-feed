@@ -6,42 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 06:03:13 +0000</lastBuildDate>
-    <item>
-      <title>🔴Війна в Україні може тривати </title>
-      <link>https://www.mandarinai.lt/post/98570</link>
-      <description>🔴Війна в Україні може тривати ще роками: потрібно готуватися до затяжного конфлікту та тривалої підтримки України, — Пентагон</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-08_19-07-03.mp4" length="4205318" type="video/mp4"/>
-      <pubDate>Tue, 08 Sep 2026 19:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росія атакувала одну з ТЕС у</title>
-      <link>https://www.mandarinai.lt/post/98571</link>
-      <description>⚡️росія атакувала одну з ТЕС у кілька хвиль — станція зупинила генерацію електроенергії, — ДТЕК</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_19-16-10.jpg" length="78556" type="image/jpeg"/>
-      <pubDate>Tue, 08 Sep 2026 19:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Пункт пропуску «Старокозаче»</title>
-      <link>https://www.mandarinai.lt/post/98572</link>
-      <description>⚡️Пункт пропуску «Старокозаче» на Одещині, що знаходиться на кордоні з Молдовою, атакували реактивні дрони рф — після влучань спалахнула пожежа, горять автомобілі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-08_23-53-26.mp4" length="476988" type="video/mp4"/>
-      <pubDate>Tue, 08 Sep 2026 23:53:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Атаковано портову інфраструк</title>
-      <link>https://www.mandarinai.lt/post/98573</link>
-      <description>💥🔥Атаковано портову інфраструктуру Новоросійська</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-08_23-55-57.jpg" length="123150" type="image/jpeg"/>
-      <pubDate>Tue, 08 Sep 2026 23:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф вночі атакувала пункт про</title>
-      <link>https://www.mandarinai.lt/post/98579</link>
-      <description>⚡️рф вночі атакувала пункт пропуску з Молдовою  «Старокозаче», що в Одеській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_05-18-52.jpg" length="212933" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 05:18:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 11:22:23 +0000</lastBuildDate>
     <item>
       <title>⚡️У Києві влучання БпЛА в 16-п</title>
       <link>https://www.mandarinai.lt/post/98582</link>
@@ -66,6 +31,76 @@
 Як заявив Вадефуль, на підставі цієї інформації український уряд зможе звертатися до чоловіків із вимогою з’явитися</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_05-36-21.jpg" length="55683" type="image/jpeg"/>
       <pubDate>Wed, 09 Sep 2026 05:36:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Після ранкового удару по київс</title>
+      <link>https://www.mandarinai.lt/post/98586</link>
+      <description>Після ранкового удару по київській висотці 5 постраждалих, трьох з них госпіталізовано.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_06-25-22.jpg" length="90030" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 06:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Момент прямого попадання шахе</title>
+      <link>https://www.mandarinai.lt/post/98587</link>
+      <description>🤬Момент прямого попадання шахеда у багатоповерхівку в Дарницькому районі Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_07-11-10.mp4" length="892560" type="video/mp4"/>
+      <pubDate>Wed, 09 Sep 2026 07:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Після атаки в порту Новоросі</title>
+      <link>https://www.mandarinai.lt/post/98589</link>
+      <description>💥🔥Після атаки в порту Новоросійська палає резервуар з мазутом</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_07-13-36.mp4" length="313355" type="video/mp4"/>
+      <pubDate>Wed, 09 Sep 2026 07:13:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Біля північного кордону з Укра</title>
+      <link>https://www.mandarinai.lt/post/98590</link>
+      <description>Біля північного кордону з Україною оператори 114-ої бригади ТрО знищили російську самохідну артилерійську установку 2С19 «Мста-С».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3083.MP4" length="7937254" type="video/mp4"/>
+      <pubDate>Wed, 09 Sep 2026 07:18:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Чернігівщині  внаслідок рос</title>
+      <link>https://www.mandarinai.lt/post/98592</link>
+      <description>На Чернігівщині  внаслідок російських обстрілів загинув чоловік у Новгород-Сіверському районі, на місці удару знищено приватний будинок.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_07-50-04.jpg" length="73840" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 07:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Зробимо Німеччину знову велик</title>
+      <link>https://www.mandarinai.lt/post/98593</link>
+      <description>«Зробимо Німеччину знову великою».
+
+Так Трамп відреагував на перемогу «Альтернативи для Німеччини» в Саксонії-Ангальт, згадавши, що успіх проросійському політичному утворенню принесла антимігрантська риторика.
+
+«Ого! Популістська партія в Німеччині щойно провела справді дуже успішну ніч. Їм нарешті набридли абсолютно жахливі імміграційні правила та норми, які завдали Німеччині значної шкоди. Вони на підйомі й більше не збираються це терпіти!»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_08-23-56.jpg" length="80183" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 08:23:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Так виглядає той самий дрон «Х</title>
+      <link>https://www.mandarinai.lt/post/98594</link>
+      <description>Так виглядає той самий дрон «Хорнет», якими руйнується логістика росіян. 
+
+Саме такі унікальні дрони десятками запускає по ворожих цілях полк безпілотних систем «Лава» 2-го корпусу НГУ «Хартія».
+
+Ми, ймовірно, одні з перших журналістів, які побачили, як «Лава» перетворює безпілотники зі штучним інтелектом на озброєння масового застосування.
+
+В цьому і полягає концепція компанії колишнього CEO Google Еріка Шмідта, яка виробляє БПЛА «Хорнет» - зробити дешевий, але ефективний крилатий боєприпас, керований ШІ, який стане масовим засобом стримування агресорів.
+
+В росіян такого немає. 
+
+В неділю о 20:00 в програмі «ТСН Тиждень» ми покажемо, як працює «Хорнетами» полк «Лава».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3087.MOV" length="23589297" type="video/mp4"/>
+      <pubDate>Wed, 09 Sep 2026 08:45:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Близько 10:00  росіяни атаку</title>
+      <link>https://www.mandarinai.lt/post/98595</link>
+      <description>⚡️Близько 10:00  росіяни атакували «шахедом» потяг «Харків-Ізюм» поблизу села Іскра</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_09-53-14.jpg" length="181593" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 09:53:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
