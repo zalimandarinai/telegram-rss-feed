@@ -6,76 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 01:18:23 +0000</lastBuildDate>
-    <item>
-      <title>🔥Новий рекорд: щойно українськ</title>
-      <link>https://www.mandarinai.lt/post/98606</link>
-      <description>🔥Новий рекорд: щойно українські дрони вперше (!) атакували Новий Уренгой (ЯНАО), подолавши майже 3000 км</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_14-35-14.jpg" length="74481" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 14:35:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Уточнення! На рекордній відст</title>
-      <link>https://www.mandarinai.lt/post/98607</link>
-      <description>🔥Уточнення! На рекордній відстані 2890 км українські дрони уразили Новоуренгойський завод газового конденсату Ямало-Ненецькому АО рф.
-
-Підприємство є одним із ключових об’єктів газоконденсатної інфраструктури регіону. Проєктна потужність —  близько 19,5 млн тонн сировини на рік.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_14-38-40.mp4" length="697082" type="video/mp4"/>
-      <pubDate>Wed, 09 Sep 2026 14:38:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Під час тренувань лавина накр</title>
-      <link>https://www.mandarinai.lt/post/98608</link>
-      <description>🔥Під час тренувань лавина накрила групу російських спецпризначенців У Кабардино-Балкарії: загинули 13 військових Центру «Вітязь»
-
-Цей елітний підрозділ росгвардії брав участь у вторгненні в Україну, зокрема у боях за Київщину.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_16-45-54.mp4" length="3735881" type="video/mp4"/>
-      <pubDate>Wed, 09 Sep 2026 16:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мерц скасував розмову з Трампо</title>
-      <link>https://www.mandarinai.lt/post/98609</link>
-      <description>Мерц скасував розмову з Трампом після того, як той підтримав АдГ, — The Guardian
-
-Канцлер Німеччини скасував запланований дзвінок після того, як Трамп привітав АдГ з перемогою на виборах у землі Саксонія-Ангальт.
-
-Представник Мерца відмовився назвати причину скасування розмови, однак заявив, що вона не була пов'язана з проблемами з розкладом.
-
-Водночас, на хвилі успіху в Саксонії, лідерка партії "Альтернатива для Німеччини" Аліса Вайдель з трибуни Бундестагу звинуватила чинні німецькі власті в тому, що вони "таємно дозволили українцям підірвати газопроводи "Північний потік" і продовжують виплачувати мільярди Києву, замість того, щоб поповнювати запаси газу в країні".
-
-За даними останнього дослідження соціологічної служби Forsa, на сході Німеччини 45% виборців підтримують АдГ, тоді як партію Мерца ХДС – лише 12%.
-
-При цьому, лише 7% жителів колишньої НДР позитивно оцінюють діяльність Мерца. Незадоволені ним 91% жителів східної Німеччини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_16-46-11.jpg" length="127270" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 16:46:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Атака по території ТРЦ у Сум</title>
-      <link>https://www.mandarinai.lt/post/98610</link>
-      <description>❗️Атака по території ТРЦ у Сумах: наразі відомо про двох загиблих. 
-
-Двоє людей поранені.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_17-36-25.jpg" length="177965" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 17:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перші хвилини після удару по Т</title>
-      <link>https://www.mandarinai.lt/post/98611</link>
-      <description>Перші хвилини після удару по ТРЦ в Сумах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_17-55-05.mp4" length="4223429" type="video/mp4"/>
-      <pubDate>Wed, 09 Sep 2026 17:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥🔥ЗСУ повідомляють про ураженн</title>
-      <link>https://www.mandarinai.lt/post/98612</link>
-      <description>🔥🔥ЗСУ повідомляють про ураження газових заводів в Новому Уренгої - майже 3000 км від кордону України
-
-ССО заявили, що їхні підрозділи Deep Strike уразили заводи з переробки газового конденсату в Ямало-Ненецькому автономному окрузі РФ. Дрони подолали понад 3000 км, кажуть в ССО.
-
-Генштаб окремо підтвердив ураження Новоуренгойського заводу. Там заявили, що масштаби пошкоджень оцінюють. Підприємство має потужність близько 19,5 млн тонн сировини на рік, виробляє, зокрема, стабілізований газовий конденсат та дизельне паливо</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-09_18-12-32.jpg" length="233981" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 18:12:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 06:21:22 +0000</lastBuildDate>
     <item>
       <title>💥💥Порт в Сочі під атакою дроні</title>
       <link>https://www.mandarinai.lt/post/98615</link>
@@ -90,7 +21,7 @@
 
 Все, що робить і говорить президент Трамп, варто сприймати в контексті так званих проміжних виборів.
 
-У США триває активна підготовка до проміжних виборів до Конгресу (midterm elections), які заплановані на 3 листопада 2026 року. 
+У США триває активна підготовка до проміжних виборів до Конгресу, «midterm elections», які заплановані на 3 листопада 2026 року. 
 
 Ці вибори стануть першим серйозним електоральним випробуванням для другого президентського терміну Дональда Трампа, оскільки на них переобиратимуть увесь склад Палати представників, 435 місць, та 35 зі 100 місць у Сенаті.
 
@@ -113,6 +44,47 @@
       <description>🔥🔥Ще кадри гарячого оксамитового сезону на топ курорті рашкі</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_19-36-12.mp4" length="292346" type="video/mp4"/>
       <pubDate>Wed, 09 Sep 2026 19:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російські Махачкалі після </title>
+      <link>https://www.mandarinai.lt/post/98622</link>
+      <description>💥🔥В російські Махачкалі після атаки пожежа в районі порту</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-10_03-02-13.mp4" length="2828426" type="video/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 03:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Четверо рятувальників травмо</title>
+      <link>https://www.mandarinai.lt/post/98623</link>
+      <description>⚡️Четверо рятувальників травмовано під час ліквідації наслідків обстрілу Хмельницького, — ОВП</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-10_04-27-15.jpg" length="194964" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 04:27:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️  Глава ЦРУ Реткліфф може пе</title>
+      <link>https://www.mandarinai.lt/post/98624</link>
+      <description>⚡️  Глава ЦРУ Реткліфф може перебрати на себе переговори США з рф та Україною замість Віткоффа, — FT
+
+Білий дім розглядає можливість зменшити роль Стіва Віткоффа та Джареда Кушнера у перемовинах.
+
+За даними видання, Реткліфф може активніше долучитися до «човникової дипломатії» між Києвом і москвою та підтримувати контакти з розвідками обох країн.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-10_04-33-03.jpg" length="50763" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 04:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Нічна атака дронів на порт в</title>
+      <link>https://www.mandarinai.lt/post/98625</link>
+      <description>💥🔥Нічна атака дронів на порт в Дагестані
+
+Махачкалинський міжнародний морський торговельний порт — це єдиний незамерзаючий глибоководний порт росії на Каспійському морі. Він є стратегічно важливим транспортним вузлом, що працює цілий рік.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-10_04-36-01.mp4" length="269564" type="video/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 04:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Зараз росіяни атакують Дніп</title>
+      <link>https://www.mandarinai.lt/post/98628</link>
+      <description>⚡️ Зараз росіяни атакують Дніпро - стовп диму піднімається над містом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3109.MP4" length="614353" type="video/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 06:19:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
