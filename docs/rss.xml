@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 06:21:22 +0000</lastBuildDate>
-    <item>
-      <title>💥💥Порт в Сочі під атакою дроні</title>
-      <link>https://www.mandarinai.lt/post/98615</link>
-      <description>💥💥Порт в Сочі під атакою дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-09_18-58-11.mp4" length="385777" type="video/mp4"/>
-      <pubDate>Wed, 09 Sep 2026 18:58:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 11:39:37 +0000</lastBuildDate>
     <item>
       <title>🥴🔴путін хоче укласти угоду, ві</title>
       <link>https://www.mandarinai.lt/post/98617</link>
@@ -85,6 +78,35 @@
       <description>⚡️ Зараз росіяни атакують Дніпро - стовп диму піднімається над містом.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3109.MP4" length="614353" type="video/mp4"/>
       <pubDate>Thu, 10 Sep 2026 06:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дональд Трамп пообіцяв в разі </title>
+      <link>https://www.mandarinai.lt/post/98629</link>
+      <description>Дональд Трамп пообіцяв в разі перемоги республіканців на виборах, що кожен повнолітній американець отримає по $5000 
+
+Враховуючи, що повнолітніх більше 250 мільйонів, то реалізація цієї обіцянки коштуватиме понад $1,25 трлн.  
+
+Така виплата може спровокувати інфляцію всередині найбільш потужної країни.
+
+Вибори до Конгресу відбудуться 3 листопада 2026 року.  
+
+Гроші, які обіцяє Трамп, можуть стати найбільшим передвиборчим підкупом в історії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3110.MP4" length="7442634" type="video/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 06:29:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Приліт по АЗС у Києві непода</title>
+      <link>https://www.mandarinai.lt/post/98630</link>
+      <description>⚡️Приліт по АЗС у Києві неподалік ТРЦ Республіка Парк, — місцеві ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-10_07-29-23.mp4" length="245690" type="video/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 07:29:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Просто жах», - очевидці підтв</title>
+      <link>https://www.mandarinai.lt/post/98631</link>
+      <description>«Просто жах», - очевидці підтвердили приліт по звичайній заправці біля ТРЦ «Республіка»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3111.MP4" length="3416197" type="video/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 09:38:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
