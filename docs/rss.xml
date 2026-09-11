@@ -6,48 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 23:10:19 +0000</lastBuildDate>
-    <item>
-      <title>🔥Сили оборони уразили три кора</title>
-      <link>https://www.mandarinai.lt/post/98636</link>
-      <description>🔥Сили оборони уразили три кораблі рф у Новоросійську
-
-▪️Пошкоджено малий ракетний корабель «Буян-М» — носій крилатих ракет «Калібр» та «Онікс»;
-▪️фрегат-ракетоносець «Адмірал Ессен». 
-▪️повторно уражено фрегат «Адмірал Макаров».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-10_12-30-33.jpg" length="111470" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 12:30:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вдруге за день атаковано завод</title>
-      <link>https://www.mandarinai.lt/post/98637</link>
-      <description>Вдруге за день атаковано завод з виробництво олії «Олейна» в місті Дніпро: внаслідок атаки двоє загиблих та двоє постраждалих внаслідок удару, повідомили в ОВА, завод тимчасово не працює.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3121.MP4" length="5510459" type="video/mp4"/>
-      <pubDate>Thu, 10 Sep 2026 13:43:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Ворожий БпЛА влучив по житло</title>
-      <link>https://www.mandarinai.lt/post/98638</link>
-      <description>⚡️Ворожий БпЛА влучив по житловому будинку в Запоріжжі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-10_14-16-35.mp4" length="1044541" type="video/mp4"/>
-      <pubDate>Thu, 10 Sep 2026 14:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Влучання в районі ТЦ "Гуллівер</title>
-      <link>https://www.mandarinai.lt/post/98639</link>
-      <description>Влучання в районі ТЦ "Гуллівер" в Павлограді
-
-Відомо про щонайменше 2 загиблих та 18 поранених.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-10_14-19-45.mp4" length="6141899" type="video/mp4"/>
-      <pubDate>Thu, 10 Sep 2026 14:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пропагандистські медіа опублік</title>
-      <link>https://www.mandarinai.lt/post/98640</link>
-      <description>Пропагандистські медіа опублікували відео ударів противника по локаціях в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3128.MP4" length="11235825" type="video/mp4"/>
-      <pubDate>Thu, 10 Sep 2026 15:07:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 01:05:24 +0000</lastBuildDate>
     <item>
       <title>До трьох зросла кількість заги</title>
       <link>https://www.mandarinai.lt/post/98641</link>
@@ -111,6 +70,22 @@
       <description>⚡️Сильна пожежа в Гостомелі після ударів БпЛА</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-10_19-37-48.jpg" length="39719" type="image/jpeg"/>
       <pubDate>Thu, 10 Sep 2026 19:37:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Нью-Йорку 2977 дронів відтво</title>
+      <link>https://www.mandarinai.lt/post/98650</link>
+      <description>У Нью-Йорку 2977 дронів відтворили зруйновані терористами Вежі-близнюки в повному масштабі.
+
+11 вересня — 25 років від дня теракту, під час якого  загинуло саме 2977  людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-10_23-11-46.jpg" length="210483" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 23:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атаковано нафтопереробний за</title>
+      <link>https://www.mandarinai.lt/post/98653</link>
+      <description>💥🔥Атаковано нафтопереробний завод в Саратові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-10_23-33-55.jpg" length="143295" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 23:33:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
