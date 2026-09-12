@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 10:46:58 +0000</lastBuildDate>
-    <item>
-      <title>🤬 Момент прильоту ракети по жи</title>
-      <link>https://www.mandarinai.lt/post/98728</link>
-      <description>🤬 Момент прильоту ракети по житловому будинку в Одесі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3183.MP4" length="859570" type="video/mp4"/>
-      <pubDate>Sat, 12 Sep 2026 06:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Евакуація на НРК є часто єд</title>
-      <link>https://www.mandarinai.lt/post/98730</link>
-      <description>❗️ Евакуація на НРК є часто єдиним способом вирватися з міста - наземний безпілотник батальйону «Alter Ego» 93-ої бригади вивозить цивільних з Дружківки разом із песиком.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3185.MP4" length="26879663" type="video/mp4"/>
-      <pubDate>Sat, 12 Sep 2026 06:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥В російському Таганрозі досі </title>
-      <link>https://www.mandarinai.lt/post/98733</link>
-      <description>🔥В російському Таганрозі досі палає після нічної атаки українських дронів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-12_07-42-07.mp4" length="633847" type="video/mp4"/>
-      <pubDate>Sat, 12 Sep 2026 07:42:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 13:53:03 +0000</lastBuildDate>
     <item>
       <title>🤯У Дніпрі двигун збитого дрона</title>
       <link>https://www.mandarinai.lt/post/98734</link>
@@ -90,6 +69,56 @@ AI здається перспективним. Data — цікавим. У ма
 👉 Приєднатися безкоштовно: GoIT Birthday Week</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_10-31-51.jpg" length="130619" type="image/jpeg"/>
       <pubDate>Sat, 12 Sep 2026 10:31:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ Ворог знову атакував Одесу:</title>
+      <link>https://www.mandarinai.lt/post/98741</link>
+      <description>‼️ Ворог знову атакував Одесу: пошкоджена інфраструктура, — МВА
+
+Тим часом до 38 зросла кількість постраждалих унаслідок ранкової атаки РФ, повідомили у поліції. На відео — наслідки атаки в одній з квартир.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-12_11-34-13.mp4" length="1801807" type="video/mp4"/>
+      <pubDate>Sat, 12 Sep 2026 11:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Альфа» СБУ №1 з ураження сил </title>
+      <link>https://www.mandarinai.lt/post/98742</link>
+      <description>«Альфа» СБУ №1 з ураження сил і техніки противника
+
+Спецпризначенці Центру спеціальних операцій шостий місяць поспіль продовжують утримувати перше місце за кількістю уражених цілей.
+
+В серпні 2026 року «Альфа» знешкодила майже 6000 окупантів.
+
+Також було уражено:
+
+▪️ 9142 БпЛА та НРК;
+▪️ 2977 автомобілів;
+▪️ 2791 антену та вузол зв’язку;
+▪️ 1183 фортифікаційні споруди;
+▪️ 756 розрахунків БПЛА;
+▪️ 222 склади з БК;
+▪️ 48 артсистем;
+▪️ 46 одиниць броньованої техніки;
+▪️ з них 13 танків та 33 ББМ;
+▪️ 26 засобів РЛС/РЕБ;
+▪️ 23 РСЗВ;
+▪️ 20 одиниць водного транспорту;
+▪️ 17 засобів ППО;
+▪️ 4 одиниці авіаційної техніки.</description>
+      <pubDate>Sat, 12 Sep 2026 12:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрон атакував пасажирський пот</title>
+      <link>https://www.mandarinai.lt/post/98743</link>
+      <description>Дрон атакував пасажирський потяг у Луцьку на вокзалі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3210.MP4" length="3920971" type="video/mp4"/>
+      <pubDate>Sat, 12 Sep 2026 12:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Влучання в Звягелі на зупинці </title>
+      <link>https://www.mandarinai.lt/post/98746</link>
+      <description>Влучання в Звягелі на зупинці поруч з АЗС</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3211.MP4" length="2840099" type="video/mp4"/>
+      <pubDate>Sat, 12 Sep 2026 13:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
