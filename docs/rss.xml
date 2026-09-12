@@ -6,22 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 21:19:14 +0000</lastBuildDate>
-    <item>
-      <title>Перший в історії бій морських </title>
-      <link>https://www.mandarinai.lt/post/98748</link>
-      <description>Перший в історії бій морських безекіпажних катерів. 
-
-Український Sargan знищив російський МБеК
-
-ВМС у взаємодії з ГУР провели у Чорному морі успішну операцію.
-
-Ціль виявив підрозділ ГУР.
-
-Морський безекіпажний катер ВМС Sargan 3000 уразив її з турелі RWS «Protector».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3213.MP4" length="7298974" type="video/mp4"/>
-      <pubDate>Sat, 12 Sep 2026 15:27:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 23:09:12 +0000</lastBuildDate>
     <item>
       <title>Через російську атаку частково</title>
       <link>https://www.mandarinai.lt/post/98749</link>
@@ -80,6 +65,15 @@
 Українські фахівці навчають бійців у Малі застосовувати дрони проти російських сил, а також працюють у Судані та Лівії. У відповідь Київ отримує боєприпаси, безпекові угоди та новий бойовий досвід.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_18-26-23.jpg" length="88611" type="image/jpeg"/>
       <pubDate>Sat, 12 Sep 2026 18:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Епічне збиття «шахеда» екіпа</title>
+      <link>https://www.mandarinai.lt/post/98763</link>
+      <description>🔥 Епічне збиття «шахеда» екіпажем військового гелікоптера 18-ої бригади армійської авіації
+
+🎥 Максим Чайка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQN1vL7W4lZsrOZYYChpG5kBXEOSNxKTMkjCGN8pzU9qq3wuNY_cBM0gLf4bTlU.mp4" length="1894987" type="video/mp4"/>
+      <pubDate>Sat, 12 Sep 2026 22:16:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
