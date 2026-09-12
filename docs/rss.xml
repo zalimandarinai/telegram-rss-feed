@@ -6,80 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 01:25:07 +0000</lastBuildDate>
-    <item>
-      <title>🎖️ Окупанти надіслали Герою Ук</title>
-      <link>https://www.mandarinai.lt/post/98701</link>
-      <description>🎖️ Окупанти надіслали Герою України особисте послання.
-
-❗️ Старший сержант підрозділу «Срібна Трійка» бригади ДПСУ «Помста» Ростислав Варданян, який має позивний «Армані», перехопив російський дрон з написом «Армані - чорт». 
-
-📡 За що боєць отримав таке визнання з боку ворога, розкажемо у неділю, о 20:00, в «ТСН Тиждень» на «1+1».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-11_14-25-20.jpg" length="160986" type="image/jpeg"/>
-      <pubDate>Fri, 11 Sep 2026 14:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Третій армійський корпус запус</title>
-      <link>https://www.mandarinai.lt/post/98702</link>
-      <description>Третій армійський корпус запускає програму «AB3.HUMANITARIAN», тобто, окремий напрям роботи для евакуації цивільних з території, де ведуться бойові дії.
-
-В зоні бойових дій досі залишаються тисячі цивільних. 
-
-На найнебезпечніших ділянках дістатися до них волонтерам і державним службам уже неможливо, тож евакуацію беруть на себе військові. 
-
-Штабний фонд 3-го АК відкриває фінансування на техніку та обладнання для евакуаційних груп.
-
-Для роботи на складних маршрутах бійці використовують НРК, броньовики, моторні човни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3157.MP4" length="15948951" type="video/mp4"/>
-      <pubDate>Fri, 11 Sep 2026 14:59:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️В Києві втретє за сьогодні р</title>
-      <link>https://www.mandarinai.lt/post/98703</link>
-      <description>❗️В Києві втретє за сьогодні росіяни спробували ударити по АЗС, наслідки уточнюються</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3163.MOV" length="4000804" type="video/mp4"/>
-      <pubDate>Fri, 11 Sep 2026 15:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупантів з передової вивезли </title>
-      <link>https://www.mandarinai.lt/post/98705</link>
-      <description>Окупантів з передової вивезли українським  наземним дроном. 
-
-Двох росіян взяли в полон військовослужбовці 253-го полку «Арей» біля Оріхова. 
-
-Місію з їхнього транспортування в тил вперше провели бійці роти НРК «Асгард» 153-ї окремої механізованої бригади, і тривала вона близько шести годин.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3164.MP4" length="11216117" type="video/mp4"/>
-      <pubDate>Fri, 11 Sep 2026 16:05:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Нелюди в російській формі с</title>
-      <link>https://www.mandarinai.lt/post/98706</link>
-      <description>❗️ Нелюди в російській формі стратили двох полонених нацгвардійців поблизу Добропілля, - прокуратура повідомила про ще один воєнний злочин росіян</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-11_16-23-33.jpg" length="102304" type="image/jpeg"/>
-      <pubDate>Fri, 11 Sep 2026 16:23:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Керівник ГУР Олег Іващенко для</title>
-      <link>https://www.mandarinai.lt/post/98708</link>
-      <description>Керівник ГУР Олег Іващенко для The Times: 
-
-До 2028 року у росії закінчаться ресурси для таких темпів бойових дій.
-
-Щодня росія набирає 1-1,2 тисячі людей. Втрачає вбитими й пораненими близько 1,5 тисячі.
-
-Моральний дух в російській армії дуже низький, ніхто не хоче воювати.
-
-Після виборів путін хоче мобілізувати ще 800 тисяч, але зс рф одночасно можуть прийняти, одягнути, нагодувати, навчити й інтегрувати максимум 500 тисяч. 
-
-На фронті російський солдат у середньому живе 20–30 хвилин.
-
-У росії немає нормального аналога Starlink. Відео бойових дій росіяни передають через так звану mesh-мережу і ретранслятори. Шість таких ретрансляторів стоять у Білорусі.
-буде.
-
-Кремль постійно отримує потрібні для індустрії компоненти з Європи, США, Японії та Тайваню. Ми знаємо, звідки вони йдуть, і разом із партнерами намагаємося це зупинити.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-11_17-22-27.jpg" length="83117" type="image/jpeg"/>
-      <pubDate>Fri, 11 Sep 2026 17:22:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 06:10:49 +0000</lastBuildDate>
     <item>
       <title>В пропагандистів наступає проз</title>
       <link>https://www.mandarinai.lt/post/98709</link>
@@ -121,6 +48,42 @@
       <description>💬 «В Саратовському та Волгоградському регіонах уражено підприємство та обʼєкт нафтової промисловості. У Чорному морі теж є результати. Застосовувались українські далекобійні санкції і по цілях в Дагестані, Удмуртії, Тульському, Нижньогородському, Пермському та Самарському регіонах», - Зеленський</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3174.MP4" length="10669662" type="video/mp4"/>
       <pubDate>Fri, 11 Sep 2026 20:37:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російському Тольятті атако</title>
+      <link>https://www.mandarinai.lt/post/98715</link>
+      <description>💥🔥В російському Тольятті атакований каучуковий завод групи "Татнефть"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_02-13-22.jpg" length="28455" type="image/jpeg"/>
+      <pubDate>Sat, 12 Sep 2026 02:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Одесі після ракетного уда</title>
+      <link>https://www.mandarinai.lt/post/98719</link>
+      <description>⚡️ В Одесі після ракетного удару загорілась багатоповерхівка</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_04-02-29.jpg" length="90629" type="image/jpeg"/>
+      <pubDate>Sat, 12 Sep 2026 04:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі росія атакувала Кривий Р</title>
+      <link>https://www.mandarinai.lt/post/98720</link>
+      <description>Вночі росія атакувала Кривий Ріг, Запоріжжя та Одесу - є загиблі й постраждалі:
+
+▪️ Кривий Ріг: ворог атакував місто балістичними ракетами з кількох напрямків. Попередньо на місто летіли 4 північнокорейські KN-23. Одна людина загинула, ще двоє отримали поранення. 
+
+▪️ Запоріжжя: росіяни вдарили по житлових будинках. В приватному секторі загинули двоє, ще одна людина отримала поранення.
+
+▪️ Одеса: близько 05:30 по місту почали летіти крилаті ракети «Калібр». Внаслідок атаки пошкоджено багатоповерховий житловий будинок. Відомо про трьох поранених.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_04-12-03.jpg" length="42695" type="image/jpeg"/>
+      <pubDate>Sat, 12 Sep 2026 04:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Зруйнувано декілька поверхів</title>
+      <link>https://www.mandarinai.lt/post/98721</link>
+      <description>⚡️Зруйнувано декілька поверхів після прильоту в ЖК «44 Перлина» в Одесі. Також ворог атакував готель в Чорноморську
+
+Відомо про 16 постраждалих, серед них немовля.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_05-43-24.jpg" length="143040" type="image/jpeg"/>
+      <pubDate>Sat, 12 Sep 2026 05:43:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
