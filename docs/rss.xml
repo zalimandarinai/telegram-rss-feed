@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 01:00:15 +0000</lastBuildDate>
-    <item>
-      <title>Через російську атаку частково</title>
-      <link>https://www.mandarinai.lt/post/98749</link>
-      <description>Через російську атаку частково знеструмлено місто Дубно та Рівненський район, — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_16-05-55.jpg" length="59033" type="image/jpeg"/>
-      <pubDate>Sat, 12 Sep 2026 16:05:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В Україні тестують систему,</title>
-      <link>https://www.mandarinai.lt/post/98750</link>
-      <description>⚡️ В Україні тестують систему, яка автоматично попереджатиме АЗС про наближення дронів рф, — премʼєр Корецький</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_16-39-50.jpg" length="212036" type="image/jpeg"/>
-      <pubDate>Sat, 12 Sep 2026 16:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Біля Сочі атаковано судно.</title>
-      <link>https://www.mandarinai.lt/post/98751</link>
-      <description>💥Біля Сочі атаковано судно.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-12_16-41-37.jpg" length="37991" type="image/jpeg"/>
-      <pubDate>Sat, 12 Sep 2026 16:41:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥🔥Таким був сьогодні день міст</title>
-      <link>https://www.mandarinai.lt/post/98754</link>
-      <description>🔥🔥Таким був сьогодні день міста в російськлму Таганрозі.
-
-Палає підприємство, пов'язане з виробництаом ракетного палива</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-12_18-01-16.mp4" length="700295" type="video/mp4"/>
-      <pubDate>Sat, 12 Sep 2026 18:01:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 05:57:18 +0000</lastBuildDate>
     <item>
       <title>⚡️У Ковелі на Волині ворожі «Ш</title>
       <link>https://www.mandarinai.lt/post/98757</link>
@@ -74,6 +44,31 @@
 🎥 Максим Чайка</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQN1vL7W4lZsrOZYYChpG5kBXEOSNxKTMkjCGN8pzU9qq3wuNY_cBM0gLf4bTlU.mp4" length="1894987" type="video/mp4"/>
       <pubDate>Sat, 12 Sep 2026 22:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Вибухи пролунали в Житомирсь</title>
+      <link>https://www.mandarinai.lt/post/98769</link>
+      <description>⚡️Вибухи пролунали в Житомирській, Івано-Франківській областях та Одесі.
+
+Майже добу ворожі дрони намагаються прорватися на західні території України.
+
+Вночі оголошували тривогу навіть у Польщі – у містах Хелм і Люблін.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-13_04-42-35.jpg" length="28594" type="image/jpeg"/>
+      <pubDate>Sun, 13 Sep 2026 04:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атаковано енергетичні об'єкт</title>
+      <link>https://www.mandarinai.lt/post/98770</link>
+      <description>💥🔥Атаковано енергетичні об'єкти рф: у Ніжнєкамську та Слов'янську на Кубані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-13_04-46-26.mp4" length="1097159" type="video/mp4"/>
+      <pubDate>Sun, 13 Sep 2026 04:46:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Шахеди» вдарили по заправці б</title>
+      <link>https://www.mandarinai.lt/post/98774</link>
+      <description>«Шахеди» вдарили по заправці біля пункту пропуску Ягодин на кордоні з Польщею</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3216.MP4" length="6564076" type="video/mp4"/>
+      <pubDate>Sun, 13 Sep 2026 05:35:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
