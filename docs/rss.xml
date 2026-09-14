@@ -6,13 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 20:45:07 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Агресори вдарили сьогодні п</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️ Агресори вдарили сьогодні по центру Прилук на Чернігівщині, - щонайменше троє людей загинуло, ще семеро дістали поранення.</description>
-      <pubDate>Mon, 14 Sep 2026 09:02:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 23:32:01 +0000</lastBuildDate>
     <item>
       <title>💬 «Якщо ти зараз не піднімеш р</title>
       <link>https://www.mandarinai.lt/post/98839</link>
@@ -59,6 +53,13 @@
       <description>⚡️ Бійці бригади НГУ «Спартан» знищили російський ЗРК «Тор-М1» за $25 млн. біля окупованого Вугледара</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3265.MP4" length="12024897" type="video/mp4"/>
       <pubDate>Mon, 14 Sep 2026 20:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ путін відмовився укладати д</title>
+      <link>https://www.mandarinai.lt/post/98848</link>
+      <description>❗️ путін відмовився укладати домовленість щодо припинення вогню по українській енергетиці до зими, — пише видання Financial Times</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_20-47-37.jpg" length="7968" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 20:47:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
