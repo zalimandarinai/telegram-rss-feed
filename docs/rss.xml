@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 00:44:00 +0000</lastBuildDate>
-    <item>
-      <title>🔥Тим часом на нафтопереробному</title>
-      <link>https://www.mandarinai.lt/post/98793</link>
-      <description>🔥Тим часом на нафтопереробному заводі в Славянську-на-Кубані тривають пожежі після нічної атаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-13_14-37-29.mp4" length="174553" type="video/mp4"/>
-      <pubDate>Sun, 13 Sep 2026 14:37:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Так сьогодні згорають гроші п</title>
-      <link>https://www.mandarinai.lt/post/98795</link>
-      <description>🔥Так сьогодні згорають гроші путіна на війну.
-
- Натомість Трамп підкидає Кремлю нові мільярди, завдяки війні з Іраном</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-13_15-13-35.jpg" length="174190" type="image/jpeg"/>
-      <pubDate>Sun, 13 Sep 2026 15:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Понад 28 тисяч іноземних найма</title>
-      <link>https://www.mandarinai.lt/post/98796</link>
-      <description>Понад 28 тисяч іноземних найманців завербувала росія від початку агресії, — керівник ГУР Іващенко</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-13_15-46-16.jpg" length="152560" type="image/jpeg"/>
-      <pubDate>Sun, 13 Sep 2026 15:46:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>На заправках «‎Укрнафта» встан</title>
-      <link>https://www.mandarinai.lt/post/98797</link>
-      <description>На заправках «‎Укрнафта» встановлюють захисні габіони по периметру станцій</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-13_15-48-46.jpg" length="182506" type="image/jpeg"/>
-      <pubDate>Sun, 13 Sep 2026 15:48:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 05:29:33 +0000</lastBuildDate>
     <item>
       <title>😐У разі нападу росії ми досить</title>
       <link>https://www.mandarinai.lt/post/98798</link>
@@ -110,6 +80,27 @@
 
 Повна версія тут https://m.youtube.com/watch?v=2KEbKqSsM2k&amp;t=4s</description>
       <pubDate>Sun, 13 Sep 2026 20:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Дрони атакували Краснодарськ</title>
+      <link>https://www.mandarinai.lt/post/98810</link>
+      <description>💥🔥Дрони атакували Краснодарський край: вибухи лунали в Сочі та Дагомисі, — монітори</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-14_04-19-22.mp4" length="4544802" type="video/mp4"/>
+      <pubDate>Mon, 14 Sep 2026 04:19:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Паливна криза дісталась до рі</title>
+      <link>https://www.mandarinai.lt/post/98811</link>
+      <description>🔥Паливна криза дісталась до рідного міста путіна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-14_04-26-21.mp4" length="3769962" type="video/mp4"/>
+      <pubDate>Mon, 14 Sep 2026 04:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥На військовому аеродромі в Т</title>
+      <link>https://www.mandarinai.lt/post/98814</link>
+      <description>💥🔥На військовому аеродромі в Таганрозі досі палає після суботньої атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-14_04-29-42.mp4" length="695399" type="video/mp4"/>
+      <pubDate>Mon, 14 Sep 2026 04:29:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
