@@ -6,89 +6,63 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 10:55:50 +0000</lastBuildDate>
-    <item>
-      <title>Наш репортаж з позицій БПЛА «H</title>
-      <link>https://www.mandarinai.lt/post/98808</link>
-      <description>Наш репортаж з позицій БПЛА «Hornet», які за допомогою ШІ розбирають логістику противника на Білгородщині.
-
-Дрони «Hornet» один з багатьох засобів, які сконструйовані для того, щоб спробувати змінити хід війни на користь України
-
-Повна версія тут https://m.youtube.com/watch?v=2KEbKqSsM2k&amp;t=4s</description>
-      <pubDate>Sun, 13 Sep 2026 20:09:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Дрони атакували Краснодарськ</title>
-      <link>https://www.mandarinai.lt/post/98810</link>
-      <description>💥🔥Дрони атакували Краснодарський край: вибухи лунали в Сочі та Дагомисі, — монітори</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-14_04-19-22.mp4" length="4544802" type="video/mp4"/>
-      <pubDate>Mon, 14 Sep 2026 04:19:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Паливна криза дісталась до рі</title>
-      <link>https://www.mandarinai.lt/post/98811</link>
-      <description>🔥Паливна криза дісталась до рідного міста путіна</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-14_04-26-21.mp4" length="3769962" type="video/mp4"/>
-      <pubDate>Mon, 14 Sep 2026 04:26:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥На військовому аеродромі в Т</title>
-      <link>https://www.mandarinai.lt/post/98814</link>
-      <description>💥🔥На військовому аеродромі в Таганрозі досі палає після суботньої атаки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-14_04-29-42.mp4" length="695399" type="video/mp4"/>
-      <pubDate>Mon, 14 Sep 2026 04:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Генеральний прокурор Руслан Кр</title>
-      <link>https://www.mandarinai.lt/post/98816</link>
-      <description>Генеральний прокурор Руслан Кравченко сьогодні вночі виїхав за кордон, — УП
-
-Голосування за його відставку відбудеться завтра вьраді</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_06-45-11.jpg" length="161040" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 06:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти біля міста Лиман на Д</title>
-      <link>https://www.mandarinai.lt/post/98817</link>
-      <description>Окупанти біля міста Лиман на Донеччині, ймовірно, опинилися в оточенні, - за оцінками ISW, а також аналітика Клемана Молена та Rochan Consulting, росія втратила близько 240 км² і фактично позбулася плацдарму, з якого планувала тиснути на Слов’янськ та Краматорськ з півночі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_06-56-22.jpg" length="126375" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 06:56:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>👉росіяни активніше тікають за </title>
-      <link>https://www.mandarinai.lt/post/98818</link>
-      <description>👉росіяни активніше тікають за кордон через страх мобілізації, паливну кризу та інтернет-обмеження
-​
-Організація «Ковчег», яка допомагає росіянам облаштуватися за кордоном, у серпні отримала майже у 8 разів більше звернень, ніж у травні, повідомляє Associated Press.
-​
-Хвиля паніки почалась  із середини липня. Серед причин — побоювання нового призову, дефіцит пального та обмеження доступу до інтернету. Співрозмовники AP також згадують економічний спад, репресії й невизначеність щодо майбутнього.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_07-15-34.jpg" length="180831" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 07:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Вибухова пробіжка по нічному </title>
-      <link>https://www.mandarinai.lt/post/98819</link>
-      <description>🔥Вибухова пробіжка по нічному Сочі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-14_07-26-38.mp4" length="2442004" type="video/mp4"/>
-      <pubDate>Mon, 14 Sep 2026 07:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>33-тя бригада взяла у полон од</title>
-      <link>https://www.mandarinai.lt/post/98820</link>
-      <description>33-тя бригада взяла у полон одразу 5 колумбійських найманців, які воювали проти України в російській армії.
-
-Спочатку українці захопили окупанта, який виявився громадянином Колумбії. В російській армії також служив його старший брат. Після цього родичі попросили старшого брата здатися у полон, і він переконав ще чотирьох співвітчизників також скласти зброю.
-
-В червні 3-ій батальйон 33-ої бригади зміг вивести безпечно цю групу на українські позиції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNeNayZU2jkU98rcwYxDN09pnok19Gtggxg5kQi6GReLBZ5NDpHJw1DobeThxs.mp4" length="14534204" type="video/mp4"/>
-      <pubDate>Mon, 14 Sep 2026 08:59:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 16:48:04 +0000</lastBuildDate>
     <item>
       <title>⚡️ Агресори вдарили сьогодні п</title>
       <link>https://www.mandarinai.lt/post/98821</link>
       <description>⚡️ Агресори вдарили сьогодні по центру Прилук на Чернігівщині, - щонайменше троє людей загинуло, ще семеро дістали поранення.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_9150.MP4" length="14957479" type="video/mp4"/>
       <pubDate>Mon, 14 Sep 2026 09:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ СБУ затримала коригувальниц</title>
+      <link>https://www.mandarinai.lt/post/98823</link>
+      <description>❗️ СБУ затримала коригувальницю росіян, яка готувала удар по центру Дніпра</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_11-21-03.jpg" length="119501" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 11:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Окупанти атакували Павлогра</title>
+      <link>https://www.mandarinai.lt/post/98824</link>
+      <description>⚡️ Окупанти атакували Павлоград на Дніпропетровщині: одна людина загинула, ще п’ятеро дістали поранення спалахнула пожежа, горять автомобілі, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_11-22-18.jpg" length="28495" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 11:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Момент удару «шахеда» в Павлог</title>
+      <link>https://www.mandarinai.lt/post/98825</link>
+      <description>Момент удару «шахеда» в Павлограді потрапив на відеореєстратор автомобіля</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3248.MP4" length="1848223" type="video/mp4"/>
+      <pubDate>Mon, 14 Sep 2026 12:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>💫 «Розумна» автоматична турель</title>
+      <link>https://www.mandarinai.lt/post/98827</link>
+      <description>💫 «Розумна» автоматична турель підрозділу «Оберіг» бригади ДПСУ «Помста» збиває «шахед» на межі Харківщини та Донеччини - більше тут https://m.youtube.com/watch?v=2KEbKqSsM2k&amp;t=4s</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3103.MP4" length="1114467" type="video/mp4"/>
+      <pubDate>Mon, 14 Sep 2026 12:19:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️В Одесі рф знищила сортуваль</title>
+      <link>https://www.mandarinai.lt/post/98829</link>
+      <description>❗️В Одесі рф знищила сортувальний центр мережі EVA</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_13-41-23.jpg" length="140718" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 13:41:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Друг начальника охорони російс</title>
+      <link>https://www.mandarinai.lt/post/98833</link>
+      <description>Друг начальника охорони російського диктатора частково оплачував весільні витрати сина Трампа, - стверджує видання розслідувань ProPublica 
+
+Глава Міжнародної асоціації боксу IBA Умар Кремлев був гостем на весіллі Дональда Трампа-мол. та Беттіни Андерсон, він оплатив оренду одного з приватних островів, феєрверк та великі витрати на сотні тисяч доларів, стверджують журналісти.
+
+Представник Трампа-мол. не став це заперечувати, назвавши Кремлева особистим другом сина Трампа.
+
+У вересні 25-го Трамп-мол. разом із Кремлевим взяв участь у боксерській конференції IBA у Стамбулі.
+
+Кремлев близький до Кремля. До 2010-го року його прізвище було Лутфуллоєв, але він його змінив на більш промовисте. Він входив до путінського байкерського клубу «Нічні вовки». Через клуб Кремлев зблизився з Олексієм Рубежним, очільником Служби безпеки володимира путіна. У 2017 році Рубежной допоміг Кремльову очолити Федерацію боксу росії, а згодом бізнесмен став президентом IBA, яка отримала фінансування від держкорпорації «Газпром».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_16-23-57.jpg" length="133284" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 16:23:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
