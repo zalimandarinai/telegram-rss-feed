@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 20:21:52 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Фінляндія терміново надає У</title>
-      <link>https://www.mandarinai.lt/post/98876</link>
-      <description>⚡️ Фінляндія терміново надає Україні €290 млн. військової  допомоги, - міноборони країни</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-15_13-29-06.jpg" length="87724" type="image/jpeg"/>
-      <pubDate>Tue, 15 Sep 2026 13:29:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 23:02:40 +0000</lastBuildDate>
     <item>
       <title>❗️ В Києві після удару дрона г</title>
       <link>https://www.mandarinai.lt/post/98877</link>
@@ -68,9 +61,9 @@
       <pubDate>Tue, 15 Sep 2026 17:53:24 +0000</pubDate>
     </item>
     <item>
-      <title>Окупанти почули двигун, але вж</title>
+      <title>Окупанти почули двигун, але тр</title>
       <link>https://www.mandarinai.lt/post/98886</link>
-      <description>Окупанти почули двигун, але вже запізно, - оператори підрозділу «Фенікс» бригади ДПСУ «Помста» вважають, що безпілотник «Vampire» не втратив своєї актуальності на полі бою</description>
+      <description>Окупанти почули двигун, але трохи запізно, - оператори підрозділу «Фенікс» бригади ДПСУ «Помста» вважають, що безпілотник «Vampire» не втратив своєї актуальності на полі бою</description>
       <pubDate>Tue, 15 Sep 2026 18:05:04 +0000</pubDate>
     </item>
     <item>
@@ -101,6 +94,13 @@
       <description>💫 Бабуся доволі професійно знешкоджує FPV-дрон, - ймовірно, пройшла курс Victory Drones, припускає Сергій «Флеш»)</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3310.MP4" length="1347846" type="video/mp4"/>
       <pubDate>Tue, 15 Sep 2026 20:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Від побаченого гастарбайтер </title>
+      <link>https://www.mandarinai.lt/post/98891</link>
+      <description>👀 Від побаченого гастарбайтер може передумати підписувати контракт з російською армією</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3311.MP4" length="3431704" type="video/mp4"/>
+      <pubDate>Tue, 15 Sep 2026 20:31:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
