@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 23:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:54:41 +0000</lastBuildDate>
     <item>
       <title>💬 «Якщо ти зараз не піднімеш р</title>
       <link>https://www.mandarinai.lt/post/98839</link>
@@ -60,6 +60,13 @@
       <description>❗️ путін відмовився укладати домовленість щодо припинення вогню по українській енергетиці до зими, — пише видання Financial Times</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-14_20-47-37.jpg" length="7968" type="image/jpeg"/>
       <pubDate>Mon, 14 Sep 2026 20:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В Таганрозі приліт. Попередн</title>
+      <link>https://www.mandarinai.lt/post/98849</link>
+      <description>💥🔥В Таганрозі приліт. Попередньо, ракети могли вдарити по Таганрозькому авіаційному науково-технічному комплексу імені Г. М. Берієва, де ремонтують та модернізують військові літаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-15_01-52-44.mp4" length="2009708" type="video/mp4"/>
+      <pubDate>Tue, 15 Sep 2026 01:52:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
