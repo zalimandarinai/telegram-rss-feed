@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 19:34:57 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Готував 10-кілограмову вибу</title>
-      <link>https://www.mandarinai.lt/post/98913</link>
-      <description>⚡️ Готував 10-кілограмову вибухівку для підриву в Ізмаїлі - на Одещині контррозвідники СБУ затримали агента росіян</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-16_12-46-22.jpg" length="95762" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 12:46:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Палата представників в Конг</title>
-      <link>https://www.mandarinai.lt/post/98916</link>
-      <description>⚡️ Палата представників в Конгресі США почала дебати щодо законопроєкту Грема про так звані «‎пекельні санкції» проти росії, під час презентації закону республіканці назвали цей законопроєкт таким, що змусить путіна сісти за стіл переговорів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-16_13-59-08.jpg" length="123784" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 13:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Несподівана операція в «кіл-зо</title>
-      <link>https://www.mandarinai.lt/post/98917</link>
-      <description>Несподівана операція в «кіл-зоні» на Харківщини, - бійцям 57-ої ОМБР довелося рятувати косулю.
-
-Тварина заплуталась в антидроновій сітці над дорогою.
-
-Але порятунок надійшов швидко: оператори батареї артилерійської розвідки «Арес», ризикуючи потрапити під дрон, зупинилися і звільнили козулю з сітки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3329.MP4" length="22909646" type="video/mp4"/>
-      <pubDate>Wed, 16 Sep 2026 14:14:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 22:20:30 +0000</lastBuildDate>
     <item>
       <title>Сили РЕБ зірвали близько 20000</title>
       <link>https://www.mandarinai.lt/post/98918</link>
@@ -117,6 +92,37 @@
       <description>🇵🇱 Польські «Леопарди» кудись їдуть. Хтось би підказав танкістам, що без сіток, систем РЕБ, гарних «Чуйок» та ще й в колоні вони, якщо буде потрібно,  до кордону з Калінінградською областю не доїдуть. А так красива демонстрація присутності і мотивація для польських громадян.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3340.MP4" length="2139805" type="video/mp4"/>
       <pubDate>Wed, 16 Sep 2026 18:54:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Україна та США готують зустр</title>
+      <link>https://www.mandarinai.lt/post/98928</link>
+      <description>‼️Україна та США готують зустріч Зеленського і Трампа наступного тижня в Нью-Йорку, — речник МЗС Георгій Тихий
+
+Вона має відбутися на Генасамблеї ООН.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-16_19-50-54.jpg" length="57753" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 19:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️❗️❗️ Голод в окупованих Олеш</title>
+      <link>https://www.mandarinai.lt/post/98929</link>
+      <description>❗️❗️❗️ Голод в окупованих Олешках на Херсонщині, росіяни перетворили місто на «смертельну пастку» і не погоджують евакуацію цивільних, - омбудсмен Лубінець
+
+За його даними, список людей для евакуації вже був погоджений, а Міжнародний Комітет Червоного Хреста висловив готовність долучитися до гуманітарної місії. 
+
+Однак російська сторона після переговорів тривалий час не підтверджує її проведення.
+
+В Олешках та поруч з містом, ймовірно, залишаються понад 6 тисяч людей, в тому числі, сотні дітей.
+
+Ситуація настільки критична, що люди намагаються самостійно виходити через мінні поля з ризиком потрапити під обстріл або атаку дронів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-16_20-00-06.jpg" length="20059" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 20:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💫 Реактивний «шахед» наближаєт</title>
+      <link>https://www.mandarinai.lt/post/98932</link>
+      <description>💫 Реактивний «шахед» наближається до Одеси, і раптом його збиває перехоплювач</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3346.MP4" length="4265564" type="video/mp4"/>
+      <pubDate>Wed, 16 Sep 2026 20:59:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
