@@ -6,65 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 10:28:08 +0000</lastBuildDate>
-    <item>
-      <title>⚠️рф вдарила по об'єктах "Київ</title>
-      <link>https://www.mandarinai.lt/post/98950</link>
-      <description>⚠️рф вдарила по об'єктах "Київводоканалу
-
-Частково не було води на лівому березі столиці, а на правому був низький тиск. Фахівці вже відновили роботу об’єктів — все працює в звичному режимі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-17_05-50-05.jpg" length="133294" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 05:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Вибухи і детонація лунали на</title>
-      <link>https://www.mandarinai.lt/post/98951</link>
-      <description>💥🔥Вибухи і детонація лунали на аеродромі в Ростовіі післі нічної атаки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-17_05-53-11.mp4" length="655671" type="video/mp4"/>
-      <pubDate>Thu, 17 Sep 2026 05:53:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Трамп планує підписати щойно у</title>
-      <link>https://www.mandarinai.lt/post/98953</link>
-      <description>Трамп планує підписати щойно ухвалений закон про санкції проти рф, — WSJ
-
-Він дає Трампу право запроваджувати мита до 100% проти країн, які купують російську нафту та газ. 
-
-Але, від моменту підписання, впровадження чи не-впровадження санкцій буде залежати одноосібно від бажання президента.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3352.MP4" length="6530855" type="video/mp4"/>
-      <pubDate>Thu, 17 Sep 2026 07:21:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Зеленський підтвердив удар </title>
-      <link>https://www.mandarinai.lt/post/98954</link>
-      <description>❗️ Зеленський підтвердив удар по військовому аеродрому в Ростові: уражено літак Ан-12, два Ан-26 та три гелікоптери</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3354.MP4" length="7815824" type="video/mp4"/>
-      <pubDate>Thu, 17 Sep 2026 07:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Для того, щоб переконати Захід</title>
-      <link>https://www.mandarinai.lt/post/98955</link>
-      <description>Для того, щоб переконати Захід здати Україну путіну, включилися всі сили, на які він має вплив.
-
-Зараз Марін Ле Пен залякує французів тим, що немає альтернативи.
-
-Або НАТО має вступити у російсько-українську війну, і це буде Третя світова, або ми станемо свідками столітньої війни росії та України, — заявила кандидатка у президенти Франції на каналі LCI.
-
-Підтекст: або французам доведеться гинути, або вони будуть змушені фінансувати Україну сто років - тож чи не краще віддати її путіну та повернутись до status quo?
-
-Дуже грамотна маніпуляція</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3356.MP4" length="10346853" type="video/mp4"/>
-      <pubDate>Thu, 17 Sep 2026 08:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Вирва на місці падіння збит</title>
-      <link>https://www.mandarinai.lt/post/98956</link>
-      <description>❗️ Вирва на місці падіння збитої ракети в Києві 
-
-🎥 Ольга Кашпор</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQOcheComrSsb4lMeVRcDxbEwERmt3pzF_MGV61iv9qqFdD7MHDO5fvRohpTd0pz.mp4" length="8264944" type="video/mp4"/>
-      <pubDate>Thu, 17 Sep 2026 08:22:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 15:14:42 +0000</lastBuildDate>
     <item>
       <title>Операція «Vivaldi»: полк KRAKE</title>
       <link>https://www.mandarinai.lt/post/98958</link>
@@ -100,6 +42,69 @@
       <link>https://www.mandarinai.lt/post/98961</link>
       <description>❗️ Сьогодні повністю знищено «Епіцентр» в Харкові внаслідок російської атаки</description>
       <pubDate>Thu, 17 Sep 2026 10:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛫 Той, хто запускає «Хорнети».</title>
+      <link>https://www.mandarinai.lt/post/98964</link>
+      <description>🛫 Той, хто запускає «Хорнети». 
+
+📲 Дрон «Хорнет», яким керує ШІ, створений спеціально для України колишнім CEO «Google» Еріком Шмідтом. 
+
+🎙 «Хорнет» один з тих зразків сучасної та дешевої зброї, яка створена для того, щоб спробувати змінити хід війни. Про це вперше в таких деталях нам розповів командир полку «Лава» Володимир Мірчук. 
+
+📊 Впродовж літа Україна застосувала близько 10000 «Хорнетів», які донедавна залишались секретними.
+
+⏯️ Повністю розмову з тим, хто запускає «Хорнети», можна подивитись за цим посиланням https://www.youtube.com/watch?v=hyKp3TNFjeg&amp;t=692s</description>
+      <pubDate>Thu, 17 Sep 2026 10:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бійці бригади ДПСУ «Форпост» з</title>
+      <link>https://www.mandarinai.lt/post/98965</link>
+      <description>Бійці бригади ДПСУ «Форпост» збили два «шахеди», розвідувальний безпілотник ZALA, кілька «Ланцетів» і дрон «Кощей».
+
+Збиваючи «шахеди» на кордоні Харківщини, вони намагаються закрити той канал, яким заходять дрони з росії.
+
+Потім вони розходяться над Україною по різних маршрутах, і їх складніше знешкодити.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3359.MP4" length="7903351" type="video/mp4"/>
+      <pubDate>Thu, 17 Sep 2026 11:10:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жах навколо і всередині. Дівчи</title>
+      <link>https://www.mandarinai.lt/post/98967</link>
+      <description>Жах навколо і всередині. Дівчинка тремтить під обстрілом.
+
+Дівчинку на вокзалі в Києві зняла грузинська журналістка Ані Чхіквадзе.
+
+«Коли я вже думала, що гірше бути не може, о другій годині ночі прилетіли балістичні ракети. Повсюди гриміли потужні вибухи. 
+
+Дівчинка поруч зі мною не може перестати тремтіти. Заради бога, дайте цим людям ППО».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3362.MP4" length="1848571" type="video/mp4"/>
+      <pubDate>Thu, 17 Sep 2026 13:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>В росії змогли залучити до вир</title>
+      <link>https://www.mandarinai.lt/post/98969</link>
+      <description>В росії змогли залучити до виробництва дронів близько 25 тисяч робітників з Північної Кореї, - Bloomberg 
+
+КНДР за це отримує сотні мільйонів доларів та ракетні технології, а росія можливість кошмарити дронами українців.
+
+Тих, хто працюватиме на «Алабузі», завозять до росії під виглядом студентів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-17_13-46-58.jpg" length="104880" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 13:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жах ❗️ росія атакувала автобус</title>
+      <link>https://www.mandarinai.lt/post/98970</link>
+      <description>Жах ❗️ росія атакувала автобус, повний людей, в Запоріжжі, відомо про трьох поранених</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3367.MP4" length="1380476" type="video/mp4"/>
+      <pubDate>Thu, 17 Sep 2026 14:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 В російському Петербурзі за</title>
+      <link>https://www.mandarinai.lt/post/98971</link>
+      <description>🇩🇪 В російському Петербурзі закрили генконсульство Німеччини і зняли з нього державні прапори</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3368.MP4" length="3844203" type="video/mp4"/>
+      <pubDate>Thu, 17 Sep 2026 15:07:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
