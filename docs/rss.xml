@@ -6,68 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 13:52:05 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Ми знаємо насправді, ким ти</title>
-      <link>https://www.mandarinai.lt/post/98997</link>
-      <description>💬 «Ми знаємо насправді, ким ти є, володимире путін. Твоя економіка знаходиться у жалюгідному стані. Ми задушимо твою військову машину. Китаю та Індії: вам би краще виправити свою поведінку. Купуйте нафту й газ в інших місцях. Умиротворення це не стратегія. Американському народу: дякуємо за те, що ви стоїте на боці України та визнаєте, що боротьба України це і наша боротьба. Мова не тільки про їхню свободу та незалежність, а й про нашу також», - сенатор Річард Блюменталь</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3395.MP4" length="10485882" type="video/mp4"/>
-      <pubDate>Fri, 18 Sep 2026 10:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Обстріли Краматорська кориг</title>
-      <link>https://www.mandarinai.lt/post/98998</link>
-      <description>⚡️ Обстріли Краматорська коригували продавчиня та різноробочий, - їх вже затримали контррозвідники Служби Безпеки України.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_10-18-43.jpg" length="135261" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 10:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Значна кількість російських чи</title>
-      <link>https://www.mandarinai.lt/post/98999</link>
-      <description>Значна кількість російських чиновників намагаються перевести за кордон свої великі гроші на фоні чуток про мобілізацію, - Bloomberg 
-
-Вони навіть радять своїм родичам покидати росію якнайшвидше.
-
-Втім, на думку видання, мобілізація буде прихованою, для чого вже підготували профільні установи та обрізали відмовникам потенційні шляхи до втечі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_10-30-10.jpg" length="204258" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 10:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Литва готує евакуацію свого на</title>
-      <link>https://www.mandarinai.lt/post/99000</link>
-      <description>Литва готує евакуацію свого населення до Польщі на випадок військової загрози
-
-Один із трьох основних маршрутів евакуації жителів Вільнюса, який розташований за 30 кілометрів від Білорусі, веде до кордону з Польщею. Інші два — до Каунаса і Клайпеди.
-
-Польща вже готує Підляське воєводство як транзитний коридор для жителів країн Балтії.
-
-Парадокс - Євросоюз, в якому живе 600 мільйонів людей, готується відступати у разі вторгнення росії з населенням 140 мільйонів і з економікою менше, ніж в Італії. 
-
-Також дивно прозвучала заява президента Польщі, який сказав, що поляки можуть втратити територію, але ніколи не втратять національну ідентичність.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_10-49-06.jpg" length="42735" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 10:49:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Операція «Vivaldi»: ураженн</title>
-      <link>https://www.mandarinai.lt/post/99001</link>
-      <description>❗️ Операція «Vivaldi»: ураженнями з РСЗВ і важкими бомберами підрозділи 3-ого АК знищили точки скупчення особового складу армії рф, ворожу переправу, склад боєприпасів, розрахунок БпЛА, гармату та РСЗВ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3401.MP4" length="19655647" type="video/mp4"/>
-      <pubDate>Fri, 18 Sep 2026 11:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В районі Новофедорівки на а</title>
-      <link>https://www.mandarinai.lt/post/99002</link>
-      <description>⚡️ В районі Новофедорівки на аеродромі «Саки» в Криму уражено наземну станцію управління БПЛА «Оріон», - Генштаб</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_11-18-58.jpg" length="164107" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 11:18:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Влучання по російській брон</title>
-      <link>https://www.mandarinai.lt/post/99003</link>
-      <description>❗️ Влучання по російській бронемашині «Тигр» на трасі біля Шебекиного на території росії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3402.MP4" length="9141101" type="video/mp4"/>
-      <pubDate>Fri, 18 Sep 2026 11:43:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 17:30:01 +0000</lastBuildDate>
     <item>
       <title>Між Україною та Польщею є скла</title>
       <link>https://www.mandarinai.lt/post/99004</link>
@@ -79,7 +18,7 @@
       <title>🔥Одна з двох знищених ЗРК С-40</title>
       <link>https://www.mandarinai.lt/post/99005</link>
       <description>🔥Одна з двох знищених ЗРК С-400 у Брянській області, яка донедавна обстрілювала Київ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_12-29-06.jpg" length="404176" type="image/jpeg"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_12-29-06.jpg" length="49226" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 12:29:06 +0000</pubDate>
     </item>
     <item>
@@ -105,9 +44,40 @@
     <item>
       <title>Пара українських гелікоптерів </title>
       <link>https://www.mandarinai.lt/post/99010</link>
-      <description>Пара українських гелікоптерів випускає ракети по позиціях ворога методом карбування</description>
+      <description>Пара українських гелікоптерів робить пуски ракет по позиціях ворога методом карбування, - після пострілів машини випускають феєрверк теплових пасток, щоб «обманути» головки наведення на ворожих ракетах</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3412.MP4" length="6257279" type="video/mp4"/>
       <pubDate>Fri, 18 Sep 2026 13:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Прорвали оточення і вивели </title>
+      <link>https://www.mandarinai.lt/post/99011</link>
+      <description>⚡️ Прорвали оточення і вивели з нього бійців 159-ої бригади, - так 425-ий полк «Скеля» провів дуже сміливу операцію.
+
+💫 Бійці 159-ї бригади, частина з яких провела на позиціях до 11 місяців, опинилися в оточенні й звернулися по допомогу до «Скелі». 
+
+➡️ Для їхнього порятунку штурмовики прорвалися через російські позиції та розчистили шлях для евакуації. 
+
+✅ В результаті операції з оточення вивели 21-го українського військовослужбовця, евакуювали двох цивільних і взяли в полон 9 російських військових.
+
+⏯️ Повне відео за посиланням https://www.youtube.com/watch?v=IWYm0hf28xY</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3413.MP4" length="4181416" type="video/mp4"/>
+      <pubDate>Fri, 18 Sep 2026 14:15:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Реактивна система «Град» за</title>
+      <link>https://www.mandarinai.lt/post/99013</link>
+      <description>❗️ Реактивна система «Град» завдає удар по району зосередження особового складу противника, оператори дронів нейтралізують «ждуна», а штурмовики ліквідують російських диверсантів, - так 210-ий полк проводить операції на Донеччині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3415.MP4" length="10588264" type="video/mp4"/>
+      <pubDate>Fri, 18 Sep 2026 14:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅Трамп сьогодні підпише законо</title>
+      <link>https://www.mandarinai.lt/post/99018</link>
+      <description>✅Трамп сьогодні підпише законопроєкт про санкції проти росії, підтвердив Білий дім, передає кореспондент Радіо Свобода у Вашингтоні Алекс Рауфоглу.
+
+Підписання заплановане на 16:30 за вашингтонським часом (23:30 за Києвом).</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_17-02-37.jpg" length="61288" type="image/jpeg"/>
+      <pubDate>Fri, 18 Sep 2026 17:02:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
