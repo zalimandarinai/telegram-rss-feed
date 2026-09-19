@@ -6,75 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 04:56:49 +0000</lastBuildDate>
-    <item>
-      <title>✅Трамп сьогодні підпише законо</title>
-      <link>https://www.mandarinai.lt/post/99018</link>
-      <description>✅Трамп сьогодні підпише законопроєкт про санкції проти росії, підтвердив Білий дім, передає кореспондент Радіо Свобода у Вашингтоні Алекс Рауфоглу.
-
-Підписання заплановане на 16:30 за вашингтонським часом (23:30 за Києвом).</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_17-02-37.jpg" length="61288" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 17:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Спробували обхитрити українськ</title>
-      <link>https://www.mandarinai.lt/post/99019</link>
-      <description>Спробували обхитрити український дрон і розмалювали тягач з ракетами в яскраві кольори. Але дрон виявився зі штучним інтелектом і швидко розібрався, що машина не цивільна. Так батальйон «SIGNUM» 59-ї бригади СБС зіпсував доставку боєприпасів для РСЗВ на Донеччині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3419.MP4" length="7661389" type="video/mp4"/>
-      <pubDate>Fri, 18 Sep 2026 17:40:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Зафіксовано повне знищення дв</title>
-      <link>https://www.mandarinai.lt/post/99020</link>
-      <description>🔥Зафіксовано повне знищення двох вертольотів Мі-8, Ан-12 та Ан-26 в результаті атаки на аеропорт «Ростов-Центральний»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_18-22-12.jpg" length="205403" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 18:22:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬КАБ влучив у багатоповерхівку</title>
-      <link>https://www.mandarinai.lt/post/99023</link>
-      <description>🤬КАБ влучив у багатоповерхівку в Сумах. Під завалами люди</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_18-44-51.jpg" length="175004" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 18:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Приліт по лікарні в Павлогр</title>
-      <link>https://www.mandarinai.lt/post/99025</link>
-      <description>⚡️ Приліт по лікарні в Павлограді, вона охоплена вогнем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_20-03-49.jpg" length="55727" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 20:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Сумах загинуло двоє людей пі</title>
-      <link>https://www.mandarinai.lt/post/99026</link>
-      <description>В Сумах загинуло двоє людей після удару КАБів. 
-
-Поранено, на цей момент, семеро людей, у тому числі 13-річна дівчинка. 
-
-Троє з поранених, як повідомляє військова адміністрація, перебувають у важкому стані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_20-07-44.jpg" length="243625" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 20:07:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Трамп-молодший поверне гроші з</title>
-      <link>https://www.mandarinai.lt/post/99027</link>
-      <description>Трамп-молодший поверне гроші за весілля російському олігарху Кремльову, на які той орендував два острови, - президент США</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3424.MP4" length="8159258" type="video/mp4"/>
-      <pubDate>Fri, 18 Sep 2026 20:47:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наслідки російського удару в  </title>
-      <link>https://www.mandarinai.lt/post/99028</link>
-      <description>Наслідки російського удару в  Сумах, який стався кілька годин тому
-
-Загиблі: чоловік та жінка, працівники Сумської міської ради. 
-
-Поранення отримали 8 мешканців багатоповерхівки, серед яких двоє дітей 7 та 13 років. 
-
-Семеро постраждалих перебувають у медичних закладах.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_20-52-12.jpg" length="158083" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 20:52:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 09:15:34 +0000</lastBuildDate>
     <item>
       <title>🔴росія вже атакувала союзників</title>
       <link>https://www.mandarinai.lt/post/99030</link>
@@ -92,6 +24,66 @@
 Крім того, він передбачає санкції щодо російських оборонних, енергетичних та фінансових організацій, тіньового флоту росії, а також проти практично всього складу російського керівництва.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_22-41-29.jpg" length="80787" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 22:41:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Ворог знову вдарив по адмінб</title>
+      <link>https://www.mandarinai.lt/post/99033</link>
+      <description>⚡️Ворог знову вдарив по адмінбудівлі на Одещині, яку атакував напередодні. 
+
+Також пошкоджено два житлові будинки, будівлю освітнього закладу та автомобілі.
+
+Понад 180 тисяч абонентів залишились бех електрики</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_07-14-28.jpg" length="120132" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 07:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️  США схвалили продаж Україн</title>
+      <link>https://www.mandarinai.lt/post/99035</link>
+      <description>⚡️  США схвалили продаж Україні пакета протиповітряної оборони на $2,68 млрд
+
+До нього увійдуть системи ППО збільшеної дальності, мобільні пускові установки, радари для виявлення дронів, запасні частини, програмне забезпечення та технічна підтримка.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_07-18-12.jpg" length="50021" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 07:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Операція «Vivaldi»: інфільтрац</title>
+      <link>https://www.mandarinai.lt/post/99037</link>
+      <description>Операція «Vivaldi»: інфільтрація ворога в населений пункт Ярова провалилася.
+
+«Азік», командир одного з підрозділів 10-го загону ДПСУ «ДОЗОР», особисто керував операцією з ліквідації позицій противника
+
+Група «Азіка», працюючи в смузі 3-го АК, брала під контроль периметр з укриттями ворога і заходила в будівлі після того, як по них відпрацьовувала артилерія.
+
+З «Азіком» ми познайомились на острові Зміїний.
+
+Він один з тих українських офіцерів-спецпризначенців, якими може пишатися країна.</description>
+      <pubDate>Sat, 19 Sep 2026 07:47:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ В пакеті ППО, який нададуть</title>
+      <link>https://www.mandarinai.lt/post/99039</link>
+      <description>❗️ В пакеті ППО, який нададуть нам Сполучені Штати, є один дуже цікавий вид озброєння: ракети, позначені у документах, як S-300 Clone.
+
+✅ Йдеться про ракети для радянських комплексів С-300, тільки виготовлені в США.
+
+✅ Вперше про роботи над новими боєприпасами до старого зенітного комплексу ще у вересні 2024 року заявив тодішній міністр оборони США Ллойд Остін.
+
+💬 «За підтримки кількох європейських компаній Сполучені Штати працюють разом з Україною над розробкою та виготовленням заміни для зенітного комплексу С-300».
+
+✅ До початку повномасштабного вторгнення Україна мала близько 25 дивізіонів С-300, але запаси боєприпасів до них вичерпані, тож нові американські ракети суттєво підсилять можливості протиповітряної оборони.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_08-15-04.jpg" length="77674" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 08:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Балістика з КНДР – фахівці ГУР</title>
+      <link>https://www.mandarinai.lt/post/99040</link>
+      <description>Балістика з КНДР – фахівці ГУР МО показали японській делегації компоненти ракети, зробленої в КНДР
+
+Серед учасників делегації спікер Палати представників парламенту Японії Ейсуке Морі.
+
+Огляд компонентів дає змогу оцінити можливості військової промисловості Північної Кореї, що критично важливо для сусідньої Японії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_09-06-29.jpg" length="60160" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 09:06:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
