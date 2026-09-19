@@ -6,46 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 18:56:12 +0000</lastBuildDate>
-    <item>
-      <title>💬 «Єдина росія одразу йде на х</title>
-      <link>https://www.mandarinai.lt/post/99059</link>
-      <description>💬 «Єдина росія одразу йде на х*й», - принаймні в одного російського громадянина вистачило сміливості висловитись чесно на виборах до Держдуми</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3451.MP4" length="6014484" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 15:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Двоє людей поранені: ворог в</title>
-      <link>https://www.mandarinai.lt/post/99061</link>
-      <description>⚡️Двоє людей поранені: ворог вдарив по торгівельному центру «Новий континент» у Дніпрі, — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3452.MP4" length="8416687" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 16:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Оператори ГУР МОУ виявили ск</title>
-      <link>https://www.mandarinai.lt/post/99062</link>
-      <description>💥🔥Оператори ГУР МОУ виявили склад із паливно-мастильними матеріалами та боєприпасами.  
-
-🔥 Під час наступного вильоту весь цей стратегічний запас перетворився на дуже гучну і феєричну подію. </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-19_16-10-46.mp4" length="18130227" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 16:10:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇪🇺ЄС спрямує мінімум €10 млрд </title>
-      <link>https://www.mandarinai.lt/post/99063</link>
-      <description>🇪🇺ЄС спрямує мінімум €10 млрд на спільні оборонно-промислові ініціативи з Україною
-
-Єврокомісія запустить нову програму спільних оборонно-промислових проєктів з Україною, використовуючи залишки коштів програми SAFE. Мінімальна сума – €10 млрд.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_16-18-55.jpg" length="45282" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 16:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Ось як виглядає ТЦ «Новий Кон</title>
-      <link>https://www.mandarinai.lt/post/99065</link>
-      <description>😡Ось як виглядає ТЦ «Новий Континент» у Дніпрі після атаки рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3453.MP4" length="266155" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 16:42:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 21:19:43 +0000</lastBuildDate>
     <item>
       <title>❗️ Наші хлопці відзняли прильо</title>
       <link>https://www.mandarinai.lt/post/99068</link>
@@ -104,6 +65,46 @@
 «Тож ви цього хочете?!» - звернувся міністр до опозиції.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3459.MP4" length="16532590" type="video/mp4"/>
       <pubDate>Sat, 19 Sep 2026 18:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️В Одесі сильна пожежа після </title>
+      <link>https://www.mandarinai.lt/post/99074</link>
+      <description>⚡️В Одесі сильна пожежа після російської атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_18-58-42.jpg" length="276883" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 18:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ США попередили союзників пр</title>
+      <link>https://www.mandarinai.lt/post/99076</link>
+      <description>⚡️ США попередили союзників про можливі затримки з постачанням ракет, які можуть тривати до п’яти років, — Bloomberg</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_19-53-21.jpg" length="101423" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 19:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Нацгвардії створено «Цент</title>
+      <link>https://www.mandarinai.lt/post/99077</link>
+      <description>⚡️ В Нацгвардії створено «Центр рекрутингу іноземців та осіб без громадянства».
+
+В основі рішення – досвід іноземних добровольців полку «Р.У.Г» корпусу НГУ «Хартія».
+
+Центр дозволить збільшити кількість іноземців у штурмових підрозділах і зменшити потребу в мобілізації українців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_19-54-40.jpg" length="194381" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 19:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 В Німеччині 18-річних чолов</title>
+      <link>https://www.mandarinai.lt/post/99080</link>
+      <description>🇩🇪 В Німеччині 18-річних чоловіків будуть примусово викликати на медкомісію і ставити на військовий облік.
+
+✅ Всі 18-річні громадяни Німеччини чоловічої статі мають заповнити військові анкети. 
+
+✅ Навіть якщо вони не хочуть служити в Бундесвері, їх викличуть на обов’язковий медичний огляд.
+
+✅ Німеччина планує створити 24 центри для проведення медкомісій.
+
+✅ Такі центрі мають повністю запрацювати в 2027 році.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_20-11-13.jpg" length="89127" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 20:11:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
