@@ -6,45 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 09:15:34 +0000</lastBuildDate>
-    <item>
-      <title>🔴росія вже атакувала союзників</title>
-      <link>https://www.mandarinai.lt/post/99030</link>
-      <description>🔴росія вже атакувала союзників України. Вони атакують українських союзників приблизно п'ять років, — Трамп про країни Європи.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-18_21-15-27.mp4" length="1213312" type="video/mp4"/>
-      <pubDate>Fri, 18 Sep 2026 21:15:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Трамп все ж підписав закон </title>
-      <link>https://www.mandarinai.lt/post/99031</link>
-      <description>⚡️ Трамп все ж підписав закон про «пекельні» санкції проти росії.
-
-Закон дає президенту США право вводити 100%-ве мито проти п'яти найбільших покупців російських енергоресурсів. 
-
-Крім того, він передбачає санкції щодо російських оборонних, енергетичних та фінансових організацій, тіньового флоту росії, а також проти практично всього складу російського керівництва.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_22-41-29.jpg" length="80787" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 22:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Ворог знову вдарив по адмінб</title>
-      <link>https://www.mandarinai.lt/post/99033</link>
-      <description>⚡️Ворог знову вдарив по адмінбудівлі на Одещині, яку атакував напередодні. 
-
-Також пошкоджено два житлові будинки, будівлю освітнього закладу та автомобілі.
-
-Понад 180 тисяч абонентів залишились бех електрики</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_07-14-28.jpg" length="120132" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 07:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️  США схвалили продаж Україн</title>
-      <link>https://www.mandarinai.lt/post/99035</link>
-      <description>⚡️  США схвалили продаж Україні пакета протиповітряної оборони на $2,68 млрд
-
-До нього увійдуть системи ППО збільшеної дальності, мобільні пускові установки, радари для виявлення дронів, запасні частини, програмне забезпечення та технічна підтримка.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_07-18-12.jpg" length="50021" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 07:18:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 13:13:00 +0000</lastBuildDate>
     <item>
       <title>Операція «Vivaldi»: інфільтрац</title>
       <link>https://www.mandarinai.lt/post/99037</link>
@@ -84,6 +46,68 @@
 Огляд компонентів дає змогу оцінити можливості військової промисловості Північної Кореї, що критично важливо для сусідньої Японії.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_09-06-29.jpg" length="60160" type="image/jpeg"/>
       <pubDate>Sat, 19 Sep 2026 09:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Логістика для угруповання прот</title>
+      <link>https://www.mandarinai.lt/post/99045</link>
+      <description>Логістика для угруповання противника біля Лимана вибивається за 120 кілометрів до лінії бойового зіткнення: розрахунки 3-го ОРБ, Paskuda batallion 21-го ОПБпС KRAKEN та ББС 3-ої ОШБР</description>
+      <pubDate>Sat, 19 Sep 2026 09:53:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬На території «Алабуги» будуют</title>
+      <link>https://www.mandarinai.lt/post/99046</link>
+      <description>🤬На території «Алабуги» будують підземні цехи для виробництва «шахедів», - Dnipro Osint
+
+Вже збудовано близько 42000 м² підземель, - виробництво закопується під землю. Помітно, наскільки швидко росіяни розгортають будівництво.
+
+Така підземна інфраструктура значною мірою копіює підхід Ірану, який, через значну повітряну загрозу з боку США та Ізраїлю, переніс багато своїх виробничих цехів і баз зберігання під землю.
+
+З часом виробництво російських «шахедів» стає дедалі складнішим для ураження українськими засобами.
+
+Готуються воювати довго. А ми готуємося?</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_10-53-44.jpg" length="165957" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 10:53:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В СБУ створили дрон для пер</title>
+      <link>https://www.mandarinai.lt/post/99047</link>
+      <description>⚡️ В СБУ створили дрон для перехоплення реактивних «шахедів», - Зеленський
+
+💬 «Доповідь керівника СБУ Олександра Поклада. Є хороший результат військової контррозвідки Служби безпеки у протидії реактивним «шахедам». Створений і вже успішно застосований новий дрон-перехоплювач».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3444.MP4" length="17204896" type="video/mp4"/>
+      <pubDate>Sat, 19 Sep 2026 12:10:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ А що, як у вересні 2027 рок</title>
+      <link>https://www.mandarinai.lt/post/99048</link>
+      <description>‼️ А що, як у вересні 2027 року ви прокинетесь уже з іншою професією?
+
+Не з думкою «треба колись щось змінити», а з новими навичками, новими задачами та зовсім іншими можливостями для роботи.
+
+Звучить як велика зміна. Але починається вона набагато простіше — з рішення, який напрям спробувати сьогодні.
+
+⚡️ AI, Data Analytics, Development, QA, Design — GoIT зібрав різні професійні напрями, щоб можна було знайти те, що справді відгукується.
+
+І зараз є ще один привід не відкладати старт:
+🔥 −30% на навчання
+🎁 + другий курс безкоштовно
+
+Через рік все одно настане вересень. Питання лише в тому, що за цей рік зміниться у вас.
+
+👉 Обрати напрям і почати зміни: https://i.goit.global/NaLg6</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_12-31-22.jpg" length="159245" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 12:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>З окупації повернули ще 15 укр</title>
+      <link>https://www.mandarinai.lt/post/99049</link>
+      <description>З окупації повернули ще 15 українців, — Лубінець 
+
+Серед врятованих — люди похилого віку. 
+
+Найстаршій жінці 96 років.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_13-02-56.jpg" length="144072" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 13:02:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
