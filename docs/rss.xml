@@ -6,25 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 21:19:43 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Наші хлопці відзняли прильо</title>
-      <link>https://www.mandarinai.lt/post/99068</link>
-      <description>❗️ Наші хлопці відзняли прильоти чотирьох коригованих бомб просто поруч зі своєю позицією
-
-🎥 https://t.me/Thelifeofthefree</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3455.MP4" length="16572241" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 17:46:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Сьогодні вже друге успішне за</title>
-      <link>https://www.mandarinai.lt/post/99069</link>
-      <description>💥Сьогодні вже друге успішне застосування нового українського дрона-перехоплювача, — Зеленський.
-
-Бійці військової контррозвідки СБУ знищили російський реактивний дрон «Герань-5».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-19_17-46-53.mp4" length="646024" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 17:46:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 23:19:55 +0000</lastBuildDate>
     <item>
       <title>🚑 Сьогодні День хірурга
 
@@ -74,6 +56,13 @@
       <pubDate>Sat, 19 Sep 2026 18:58:42 +0000</pubDate>
     </item>
     <item>
+      <title>⚡️Мати та двоє маленьких дітей</title>
+      <link>https://www.mandarinai.lt/post/99075</link>
+      <description>⚡️Мати та двоє маленьких дітей загинули, інша жінка та її дитина поранені внаслідок російських атак у Київській області, – ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_19-17-27.jpg" length="268031" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 19:17:27 +0000</pubDate>
+    </item>
+    <item>
       <title>⚡️ США попередили союзників пр</title>
       <link>https://www.mandarinai.lt/post/99076</link>
       <description>⚡️ США попередили союзників про можливі затримки з постачанням ракет, які можуть тривати до п’яти років, — Bloomberg</description>
@@ -105,6 +94,20 @@
 ✅ Такі центрі мають повністю запрацювати в 2027 році.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_20-11-13.jpg" length="89127" type="image/jpeg"/>
       <pubDate>Sat, 19 Sep 2026 20:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Влучання у багатоповерхівку </title>
+      <link>https://www.mandarinai.lt/post/99082</link>
+      <description>⚡️Влучання у багатоповерхівку у Боярці на Київщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-19_22-44-22.mp4" length="906526" type="video/mp4"/>
+      <pubDate>Sat, 19 Sep 2026 22:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Московська область під атакою</title>
+      <link>https://www.mandarinai.lt/post/99083</link>
+      <description>💥Московська область під атакою дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-19_23-14-05.mp4" length="914561" type="video/mp4"/>
+      <pubDate>Sat, 19 Sep 2026 23:14:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
