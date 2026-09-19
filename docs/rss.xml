@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 22:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:29:36 +0000</lastBuildDate>
     <item>
       <title>✅Трамп сьогодні підпише законо</title>
       <link>https://www.mandarinai.lt/post/99018</link>
@@ -81,6 +81,17 @@
       <description>🔴росія вже атакувала союзників України. Вони атакують українських союзників приблизно п'ять років, — Трамп про країни Європи.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-18_21-15-27.mp4" length="1213312" type="video/mp4"/>
       <pubDate>Fri, 18 Sep 2026 21:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Трамп все ж підписав закон </title>
+      <link>https://www.mandarinai.lt/post/99031</link>
+      <description>⚡️ Трамп все ж підписав закон про «пекельні» санкції проти росії.
+
+Закон дає президенту США право вводити 100%-ве мито проти п'яти найбільших покупців російських енергоресурсів. 
+
+Крім того, він передбачає санкції щодо російських оборонних, енергетичних та фінансових організацій, тіньового флоту росії, а також проти практично всього складу російського керівництва.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-18_22-41-29.jpg" length="80787" type="image/jpeg"/>
+      <pubDate>Fri, 18 Sep 2026 22:41:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
