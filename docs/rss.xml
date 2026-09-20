@@ -6,108 +6,57 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 01:23:35 +0000</lastBuildDate>
-    <item>
-      <title>🚑 Сьогодні День хірурга
-
-✅ Точ</title>
-      <link>https://www.mandarinai.lt/post/99070</link>
-      <description>🚑 Сьогодні День хірурга
-
-✅ Точна загальна кількість хірургічних операцій на фронті є засекреченою державною таємницею. Але за даними самих військових, лише на одному напрямку може проводитися від 100 до 150 операцій за день.
-
-✅ Одне передове хірургічне відділення в період активних боїв оперує за день в середньому до 10–15 важкопоранених пацієнтів і до 60 бійців з середніми та легкими пораненнями. 
-
-✅ Під час бойових дій українські хірурги розробили чимало унікальних методик, описаних в 24-ох монографіях, - ось лише одна з них, яка щойно вийшла в АМН України
-
-📗 https://amnu.gov.ua/unikalna-seriya-naukovo-praktychnyh-robit-z-uzagalnennya-dosvidu-medychnogo-zabezpechennya-zbrojnyh-syl-ukrayiny-pid-chas-bojovyh-dij-popovnylas-novym-vydannyam/
-
-🧡🩵 Дякуємо!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_18-07-45.jpg" length="130201" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 18:07:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Друзі, нещодавно ворог розб</title>
-      <link>https://www.mandarinai.lt/post/99072</link>
-      <description>❗️ Друзі, нещодавно ворог розбив пункт управління БПЛА батальйону «Сила Свободи», який входить в УВ «Азов» і веде оборону Добропілля.
-
-✅ Завдяки вашій фінансовій допомозі, яка дуже мотивувала бійців, вони змогли швидко придбати необхідне  обладнання замість втраченого і відновити боєздатність. 
-
-❤️ Тож нацгвардійці 4-го батальйону 4-ої бригади «Рубіж» дякують всім небайдужим, хто долучився до збору коштів на критично важливе обладнання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3458.MP4" length="3266580" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 18:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Хочете, щоб російські дрони л</title>
-      <link>https://www.mandarinai.lt/post/99073</link>
-      <description>«Хочете, щоб російські дрони летіли до Польщі? Тоді продовжуйте цькувати українців!» — голова Міноборони Польщі емоційно вибухнув у Сеймі 
-
-Владислав Косиняк-Камиш заявив, що якщо Україна залишиться без ППО та боєприпасів, російські безпілотники зможуть пролітати до Польщі. 
-
-«Тож ви цього хочете?!» - звернувся міністр до опозиції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3459.MP4" length="16532590" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 18:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️В Одесі сильна пожежа після </title>
-      <link>https://www.mandarinai.lt/post/99074</link>
-      <description>⚡️В Одесі сильна пожежа після російської атаки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_18-58-42.jpg" length="276883" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 18:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Мати та двоє маленьких дітей</title>
-      <link>https://www.mandarinai.lt/post/99075</link>
-      <description>⚡️Мати та двоє маленьких дітей загинули, інша жінка та її дитина поранені внаслідок російських атак у Київській області, – ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_19-17-27.jpg" length="268031" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 19:17:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ США попередили союзників пр</title>
-      <link>https://www.mandarinai.lt/post/99076</link>
-      <description>⚡️ США попередили союзників про можливі затримки з постачанням ракет, які можуть тривати до п’яти років, — Bloomberg</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_19-53-21.jpg" length="101423" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 19:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В Нацгвардії створено «Цент</title>
-      <link>https://www.mandarinai.lt/post/99077</link>
-      <description>⚡️ В Нацгвардії створено «Центр рекрутингу іноземців та осіб без громадянства».
-
-В основі рішення – досвід іноземних добровольців полку «Р.У.Г» корпусу НГУ «Хартія».
-
-Центр дозволить збільшити кількість іноземців у штурмових підрозділах і зменшити потребу в мобілізації українців.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_19-54-40.jpg" length="194381" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 19:54:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇩🇪 В Німеччині 18-річних чолов</title>
-      <link>https://www.mandarinai.lt/post/99080</link>
-      <description>🇩🇪 В Німеччині 18-річних чоловіків будуть примусово викликати на медкомісію і ставити на військовий облік.
-
-✅ Всі 18-річні громадяни Німеччини чоловічої статі мають заповнити військові анкети. 
-
-✅ Навіть якщо вони не хочуть служити в Бундесвері, їх викличуть на обов’язковий медичний огляд.
-
-✅ Німеччина планує створити 24 центри для проведення медкомісій.
-
-✅ Такі центрі мають повністю запрацювати в 2027 році.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-19_20-11-13.jpg" length="89127" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 20:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Влучання у багатоповерхівку </title>
-      <link>https://www.mandarinai.lt/post/99082</link>
-      <description>⚡️Влучання у багатоповерхівку у Боярці на Київщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-19_22-44-22.mp4" length="906526" type="video/mp4"/>
-      <pubDate>Sat, 19 Sep 2026 22:44:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 06:40:56 +0000</lastBuildDate>
     <item>
       <title>💥Московська область під атакою</title>
       <link>https://www.mandarinai.lt/post/99083</link>
       <description>💥Московська область під атакою дронів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-19_23-14-05.mp4" length="914561" type="video/mp4"/>
       <pubDate>Sat, 19 Sep 2026 23:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥На півдні Москви успішно ата</title>
+      <link>https://www.mandarinai.lt/post/99084</link>
+      <description>💥🔥На півдні Москви успішно атакованй і яскраво палає нафтопереробний завод.
+
+НПЗ«Газпромнефть-МНПЗ» потужністю близько 11 млн тонн нафти на рік. Він забезпечує значну частину паливного ринку Москви та регіону.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-20_05-11-45.mp4" length="1239239" type="video/mp4"/>
+      <pubDate>Sun, 20 Sep 2026 05:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>💩Тим часом на виборах в російс</title>
+      <link>https://www.mandarinai.lt/post/99087</link>
+      <description>💩Тим часом на виборах в російську Госдуму триває ось таке "чесне" голосування за партію путіна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-20_05-25-15.mp4" length="2552561" type="video/mp4"/>
+      <pubDate>Sun, 20 Sep 2026 05:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍒російські виборці під звуки в</title>
+      <link>https://www.mandarinai.lt/post/99088</link>
+      <description>🍒російські виборці під звуки вибухів цікавляться, "каму ета вайна нужна"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-20_05-28-02.mp4" length="908826" type="video/mp4"/>
+      <pubDate>Sun, 20 Sep 2026 05:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥русня стверджує, що знайшла </title>
+      <link>https://www.mandarinai.lt/post/99092</link>
+      <description>💥🔥русня стверджує, що знайшла біля палаючого Московського НПЗ "слєди" Фламінго</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-20_05-45-24.mp4" length="10802752" type="video/mp4"/>
+      <pubDate>Sun, 20 Sep 2026 05:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇫🇷 Франція вже вступає у гібри</title>
+      <link>https://www.mandarinai.lt/post/99097</link>
+      <description>🇫🇷 Франція вже вступає у гібридну війну та проводить непублічні військові заходи у відповідь на російські гібридні атаки, – Le Monde.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-20_06-08-02.jpg" length="140603" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 06:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>В лікарні померла ще одна дити</title>
+      <link>https://www.mandarinai.lt/post/99098</link>
+      <description>В лікарні померла ще одна дитина, яка вчора дістала тяжкі поранення під час ворожої атаки по Київській області.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-20_06-39-33.jpg" length="145775" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 06:39:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
