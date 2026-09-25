@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 19:49:48 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ В Києві удар по ще одному б</title>
-      <link>https://www.mandarinai.lt/post/99424</link>
-      <description>⚡️ В Києві удар по ще одному бізнес-центру в районі вулиці Протасів Яр, - ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3657.MP4" length="1015139" type="video/mp4"/>
-      <pubDate>Fri, 25 Sep 2026 15:34:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Також пожежа в Києві після </title>
-      <link>https://www.mandarinai.lt/post/99425</link>
-      <description>❗️ Також пожежа в Києві після прильоту біля стації метро «Олімпійська»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-25_15-41-51.jpg" length="60896" type="image/jpeg"/>
-      <pubDate>Fri, 25 Sep 2026 15:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Дрон влучив у бізнес-центр "</title>
-      <link>https://www.mandarinai.lt/post/99426</link>
-      <description>⚡️Дрон влучив у бізнес-центр "Протасов" в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-25_15-49-37.mp4" length="328561" type="video/mp4"/>
-      <pubDate>Fri, 25 Sep 2026 15:49:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 23:05:33 +0000</lastBuildDate>
     <item>
       <title>❗️ В Європі вважають, що рф по</title>
       <link>https://www.mandarinai.lt/post/99428</link>
@@ -64,7 +43,7 @@
       <title>В Оболонському районі Києва па</title>
       <link>https://www.mandarinai.lt/post/99436</link>
       <description>В Оболонському районі Києва падіння БпЛА на двоповерхову будівлю. Попередньо постраждав дитсадок. Екстрені служби прямують на місце.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3665.MP4" length="8277285" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-25_19-02-10.mp4" length="402774" type="video/mp4"/>
       <pubDate>Fri, 25 Sep 2026 19:02:10 +0000</pubDate>
     </item>
     <item>
@@ -73,6 +52,22 @@
       <description>Момент прильоту по офісній будівлі в столиці</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3666.MP4" length="1501076" type="video/mp4"/>
       <pubDate>Fri, 25 Sep 2026 19:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Нафтопереробний завод "Лукойл</title>
+      <link>https://www.mandarinai.lt/post/99439</link>
+      <description>🔥Нафтопереробний завод "Лукойл-Пермнефтеоргсинтез" припинив роботу після атаки безпілотника вранці 25 вересня, повідомляє Reuters. Це четвертий нафтопереробний завод у РФ, який припинив роботу менш ніж за тиждень
+
+"Пермський нафтопереробний завод, сьомий за обсягом переробки нафти в Росії, припинив роботу після атаки українських безпілотників, яка в п'ятницю призвела до пожежі та пошкодження трубопроводів, сховищ і технологічного обладнання, повідомили два джерела в галузі"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-25_20-03-53.mp4" length="523509" type="video/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 20:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>росія знає про порушення прав </title>
+      <link>https://www.mandarinai.lt/post/99441</link>
+      <description>росія знає про порушення прав російськомовного населення в країнах Балтії – ми вже знаємо, як на це реагувати, – путін.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-25_20-36-00.mp4" length="2115310" type="video/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 20:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
