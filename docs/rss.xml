@@ -6,48 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 00:51:19 +0000</lastBuildDate>
-    <item>
-      <title>🤯 Загинув священник: українець</title>
-      <link>https://www.mandarinai.lt/post/99364</link>
-      <description>🤯 Загинув священник: українець напав на людей у монастирі в польському Ярославі
-
-Поранено п’ятьох людей, серед них троє священників. Один із них згодом помер, ще двоє постраждалих перебувають у тяжкому стані. Зловмисника затримали, у нього вилучили ніж.
-
-Зеленський засудив напад і заявив, що це жахливий злочин і винний має понестт покарання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-24_15-51-09.jpg" length="194909" type="image/jpeg"/>
-      <pubDate>Thu, 24 Sep 2026 15:51:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уночі російська балістична рак</title>
-      <link>https://www.mandarinai.lt/post/99366</link>
-      <description>Уночі російська балістична ракета «Іскандер-М» впала у дворі житлового будинку в Києві. І не здетонувала. 
-
-Сапери ДСНС за допомогою важкої піротехнічної машини і маніпулятора вилучили бойову частину ракети та перевезли її для подальшого знешкодження.</description>
-      <pubDate>Thu, 24 Sep 2026 15:59:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Франція більше не може надава</title>
-      <link>https://www.mandarinai.lt/post/99367</link>
-      <description>😡Франція більше не може надавати Україні фінансову допомогу. Шкода, але у нас більше немає таких можливостей, — Ле Пен, яка може перемогти на виборах у Франції у 2027 році</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-24_16-03-08.mp4" length="4405807" type="video/mp4"/>
-      <pubDate>Thu, 24 Sep 2026 16:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Перше у світі бойове десантува</title>
-      <link>https://www.mandarinai.lt/post/99370</link>
-      <description>Перше у світі бойове десантування НРК у глибокий тил, - унікальна тактика підрозділу «NC13» 3-ої ОШБР названа на честь загиблого героя.
-
-Бійці підрозділу ударних НРК «NC13» 3-го АК назвали свою технологію «Грифон».  Побратим з таким позивним відзначився в Андріївці і зник безвісті в 2023-му році.
-
-Концепція полягає в десантуванні НРК-камікадзе за допомогою важких бомберів у глибокий тил противника для подальшого ураження ключових обʼєктів та деморалізації ворога.
-
-За короткий час підрозділ не лише впровадив цю тактику, а й перевів її у системний бойовий підхід, реалізувавши серію успішних диверсійних операцій.
-
-Під час диверсій НРК діяли у глибокому тилу противника до 15-20 кілометрів від лінії бойового зіткнення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3632.MP4" length="8639622" type="video/mp4"/>
-      <pubDate>Thu, 24 Sep 2026 17:46:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 05:50:01 +0000</lastBuildDate>
     <item>
       <title>🇵🇱Вчора в Польщі горіла наземн</title>
       <link>https://www.mandarinai.lt/post/99372</link>
@@ -108,6 +67,27 @@ Short Tucano компанії Short Brothers
       <description>🔥В ТЦ окупованого Луганська пожежа після прильоту</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-24_20-45-59.jpg" length="93815" type="image/jpeg"/>
       <pubDate>Thu, 24 Sep 2026 20:45:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Лукойл. Пермьнефтеоргсінтез. </title>
+      <link>https://www.mandarinai.lt/post/99384</link>
+      <description>💥Лукойл. Пермьнефтеоргсінтез. Палає після атаки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-25_04-36-39.mp4" length="1465660" type="video/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 04:36:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атакований завод "Іскра" в р</title>
+      <link>https://www.mandarinai.lt/post/99387</link>
+      <description>💥🔥Атакований завод "Іскра" в російському Ульяновську</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-25_04-42-14.mp4" length="2626606" type="video/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 04:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вранці реактивний дрон вдарив </title>
+      <link>https://www.mandarinai.lt/post/99389</link>
+      <description>Вранці реактивний дрон вдарив по багатоповерхівці в Печерському районі Києва</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3641.MP4" length="2732598" type="video/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 05:44:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
