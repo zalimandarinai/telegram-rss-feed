@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 15:49:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:00:44 +0000</lastBuildDate>
     <item>
       <title>«Ваша війна - без нас» і «Росі</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -19,16 +19,9 @@
     </item>
     <item>
       <title>💥🔥Момент удару по Азовському о</title>
-      <link>https://www.mandarinai.lt/post/99471</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥Момент удару по Азовському оптико-механічному заводу, що виробляє компоненти російських ракет</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-26_10-57-35.mp4" length="1332667" type="video/mp4"/>
       <pubDate>Sat, 26 Sep 2026 10:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>«KRAKEN» проводить зачистку на</title>
-      <link>https://www.mandarinai.lt/post/99472</link>
-      <description>«KRAKEN» проводить зачистку населеного пункту, куди противнику вдалося інфільтруватися.</description>
-      <pubDate>Sat, 26 Sep 2026 12:13:31 +0000</pubDate>
     </item>
     <item>
       <title>❗️Світ на межі глобальної нафт</title>
@@ -67,6 +60,15 @@
 Компанія поступово відновлює сервіси та усуває наслідки атаки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_15-26-56.jpg" length="222613" type="image/jpeg"/>
       <pubDate>Sat, 26 Sep 2026 15:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ путіну легко завершити війн</title>
+      <link>https://www.mandarinai.lt/post/99487</link>
+      <description>‼️ путіну легко завершити війну, достатньо оголосити про перемогу і забратися додому, — Кіт Келлог
+
+Він не може захопити всю Україну. Він лише завдає ударів по населених пунктах, але українці не збираються здаватися. Вони мають чудову бойову силу.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-26_16-48-12.mp4" length="3822236" type="video/mp4"/>
+      <pubDate>Sat, 26 Sep 2026 16:48:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
