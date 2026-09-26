@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 01:33:34 +0000</lastBuildDate>
-    <item>
-      <title>❗️ В Європі вважають, що рф по</title>
-      <link>https://www.mandarinai.lt/post/99428</link>
-      <description>❗️ В Європі вважають, що рф почала операцію по відключенню України від інтернету, путін нібито віддав наказ, — Neue Zürcher Zeitung</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-25_16-52-15.jpg" length="79888" type="image/jpeg"/>
-      <pubDate>Fri, 25 Sep 2026 16:52:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Застосування гармати «Богдана»</title>
-      <link>https://www.mandarinai.lt/post/99430</link>
-      <description>Застосування гармати «Богдана» 210-им штурмовим полком</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3661.MP4" length="7805138" type="video/mp4"/>
-      <pubDate>Fri, 25 Sep 2026 17:49:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Президент Франції Емманюель Ма</title>
-      <link>https://www.mandarinai.lt/post/99432</link>
-      <description>Президент Франції Емманюель Макрон вважає реалістичним сценарій нової масштабної мобілізації в росії. 
-
-За його словами, йдеться приблизно про 300 тисяч людей.
-
-Фрагмент інтерв’ю Макрона телеканалам TF1 та France 2, сюжет NEXTA</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3664.MP4" length="1444822" type="video/mp4"/>
-      <pubDate>Fri, 25 Sep 2026 18:57:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 06:37:20 +0000</lastBuildDate>
     <item>
       <title>⚡️рашисти обстріляли школу в І</title>
       <link>https://www.mandarinai.lt/post/99435</link>
@@ -68,6 +43,40 @@
       <description>росія знає про порушення прав російськомовного населення в країнах Балтії – ми вже знаємо, як на це реагувати, – путін.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-25_20-36-00.mp4" length="2115310" type="video/mp4"/>
       <pubDate>Fri, 25 Sep 2026 20:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Солом’янському районі Києва </title>
+      <link>https://www.mandarinai.lt/post/99443</link>
+      <description>У Солом’янському районі Києва через падіння дрона загорівся 5-поверховий будинок і магазин на першому поверсі, — Кличко.
+
+Із будинку врятували 20 людей. Попередньо, є двоє постраждалих. Пошуково-рятувальна операція триває.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_04-46-45.jpg" length="51121" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 04:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Ільський НПЗ палає після віз</title>
+      <link>https://www.mandarinai.lt/post/99444</link>
+      <description>💥🔥Ільський НПЗ палає після візиту українських повітряних санкцій</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_04-48-46.jpg" length="81625" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 04:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝‼️14 сенаторів США закликали </title>
+      <link>https://www.mandarinai.lt/post/99448</link>
+      <description>🤝‼️14 сенаторів США закликали Трампа відкликати запрошення путіну на саміт G20
+
+Сенатори від обох партій направили Трампу лист із закликом не допускати путіна та інших підсанкційних російських посадовців до заходів G20 у США.
+
+Саміт відбудеться 14–15 грудня в Маямі. На думку законодавців, участь путіна може легітимізувати російську владу на тлі війни проти України.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_05-53-39.jpg" length="218050" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 05:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Вибухи в Києві. Знову влучан</title>
+      <link>https://www.mandarinai.lt/post/99450</link>
+      <description>⚡️Вибухи в Києві. Знову влучання по бізнес-центру "Протасов"</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_05-56-38.jpg" length="173114" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 05:56:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
