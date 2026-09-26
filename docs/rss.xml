@@ -6,78 +6,67 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 11:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:49:05 +0000</lastBuildDate>
     <item>
       <title>«Ваша війна - без нас» і «Росі</title>
-      <link>https://www.mandarinai.lt/post/99456</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>«Ваша війна - без нас» і «Росія не наш ворог», - в десятках населених пунктів Німеччини пройшла хвиля протестів школярів проти призову до армії.
 
 Від початку 2026-го  року для молодих чоловіків у Німеччині запровадили обов’язкові допризовні медичні огляди.
 
 Кремль радіє, поки проросійська AfD впевнено дивиться на своє майбутнє електоральне поле.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3675.MP4" length="19923303" type="video/mp4"/>
       <pubDate>Sat, 26 Sep 2026 07:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Атаковано три «далекобійні» </title>
-      <link>https://www.mandarinai.lt/post/99461</link>
-      <description>⚡️Атаковано три «далекобійні» автівки на дорозі в Одеській області</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_07-45-47.jpg" length="69863" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 07:45:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ворог продовжує тероризувати с</title>
-      <link>https://www.mandarinai.lt/post/99462</link>
-      <description>Ворог продовжує тероризувати столицю.
-
-Летіло на Солом'янський район, внаслідок атаки виникла пожежа у 5-поверхівці. 
-
-Вогнем охопило квартири та продуктовий магазин на першому поверсі, четверо постраждалих, ще двадцять вдалось врятувати.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_07-51-06.jpg" length="142528" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 07:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Офіційно! Уражено Ільський Н</title>
-      <link>https://www.mandarinai.lt/post/99465</link>
-      <description>🔥 Офіційно! Уражено Ільський НПЗ у Краснодарському краї рф, — СБС
-
-Це одне з найбільших нафтопереробних підприємств півдня росії. Потужність заводу становить близько 6,6 млн тонн нафти на рік. Підприємство виробляє бензин, дизельне пальне та інші нафтопродукти й задіяне в забезпеченні російської армії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_08-05-32.jpg" length="116819" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 08:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Німеччині на території підпр</title>
-      <link>https://www.mandarinai.lt/post/99467</link>
-      <description>В Німеччині на території підприємства MAN поблизу Магдебурга згоріли три військові вантажівки Бундесверу. Такі атаки систематично і планово здійснюють російські агенти на замовлення Москви. Вони дають наляканим пацифістам логічні підстави казати, що, якби Німеччина не підтримувала Україну, то й цих диверсій Москва б не проводила. Так створюється потрібний фон для голосування за проросійських політиків. Нажаль, значна кількість виборців вважає, що краще замиритися з Москвою та віддати їй Україну, аніж підсилювати безпеку Німеччини.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_08-29-19.jpg" length="151595" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 08:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Телеканал "Новини LIVE" тимч</title>
-      <link>https://www.mandarinai.lt/post/99468</link>
-      <description>⚡️Телеканал "Новини LIVE" тимчасово призупинив роботу через удари по столичним дата-центрам.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_08-51-46.jpg" length="28660" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 08:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сили оборони України уразили А</title>
-      <link>https://www.mandarinai.lt/post/99469</link>
-      <description>Сили оборони України уразили Азовський оптико-механічний завод, який виробляє системи для російських ракет і артилерії.
-
-За попередніми даними, пошкоджено об'єкти оптичного та ливарного виробництв, збірно-складальний цех, гальванічний цех та цех друкованих плат.
-
-Підприємство входить до числа ключових оптико-електронних підприємств російської корпорації "Тактичне ракетне озброєння". Завод виробляє головки самонаведення для керованих ракет, тепловізійні прилади та електронні системи для високоточної артилерії.
-
-Також підтверджено удар по Ільському нафтопереробному заводу в Краснодарському краї. А в Ростовській області – по зенітно-ракетному комплексу "Панцир-С2".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-26_10-40-04.mp4" length="281180" type="video/mp4"/>
-      <pubDate>Sat, 26 Sep 2026 10:40:04 +0000</pubDate>
     </item>
     <item>
       <title>💥🔥Момент удару по Азовському о</title>
       <link>https://www.mandarinai.lt/post/99471</link>
-      <description>💥🔥Момент удару по Азовському оптико-механічному заводу, що виробояє компоненти російських ракет</description>
+      <description>💥🔥Момент удару по Азовському оптико-механічному заводу, що виробляє компоненти російських ракет</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-26_10-57-35.mp4" length="1332667" type="video/mp4"/>
       <pubDate>Sat, 26 Sep 2026 10:57:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>«KRAKEN» проводить зачистку на</title>
+      <link>https://www.mandarinai.lt/post/99472</link>
+      <description>«KRAKEN» проводить зачистку населеного пункту, куди противнику вдалося інфільтруватися.</description>
+      <pubDate>Sat, 26 Sep 2026 12:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Світ на межі глобальної нафт</title>
+      <link>https://www.mandarinai.lt/post/99476</link>
+      <description>❗️Світ на межі глобальної нафтової кризи через війну з Іраном, —JPMorgan
+
+Подальша ескалація призведе до різкого зростання цін на нафту, бензин і дизель у всьому світі. Деякі країни можуть зіткнутися з дефіцитом палива. США вже розглядають можливість відновлення ударів по Ірану після проміжних виборів у листопаді. 
+
+Країни G7 планують терміново обговорити ситуацію. Головне завдання — не допустити перебоїв із постачанням палива.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_13-45-05.jpg" length="92386" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 13:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>😡росіяни почали копіювати укра</title>
+      <link>https://www.mandarinai.lt/post/99478</link>
+      <description>😡росіяни почали копіювати українські дрони-перехоплювачі P1-SUN для захисту від БПЛА, — WSJ
+
+Для захисту своїх об'єктів російський бізнес почав наймати інженерів «оборонки», намагаючись відтворити український дрон-перехоплювач P1-SUN від SkyFall. Також компанії щомісяця сплачують міноборони рф за оренду військових установок ППО та інструкторів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_14-06-38.jpg" length="126797" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 14:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Ваша війна — без нас: у Німе</title>
+      <link>https://www.mandarinai.lt/post/99482</link>
+      <description>❗️Ваша війна — без нас: у Німеччині понад 45 тисяч школярів вийшли на протести проти призову в армію</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-26_15-25-40.mp4" length="19908185" type="video/mp4"/>
+      <pubDate>Sat, 26 Sep 2026 15:25:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌ Дата-центр COSMONOVA припини</title>
+      <link>https://www.mandarinai.lt/post/99483</link>
+      <description>❌ Дата-центр COSMONOVA припинив свою роботу через сьогоднішній удар рф по Києву. 
+
+Через пошкодження виникли збої у роботі «Суспільного», «Армія TV», «Ми-Україна» та «Новини.Live».
+
+Компанія поступово відновлює сервіси та усуває наслідки атаки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-26_15-26-56.jpg" length="222613" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 15:26:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
