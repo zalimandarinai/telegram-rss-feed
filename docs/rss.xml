@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 19:16:59 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Ка🐐пи оприлюднили відео мом</title>
-      <link>https://www.mandarinai.lt/post/99536</link>
-      <description>❗️ Ка🐐пи оприлюднили відео моменту удару по бізнес-центру «Інком» у Києві 25 вересня</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3704.MP4" length="617558" type="video/mp4"/>
-      <pubDate>Sun, 27 Sep 2026 14:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬 російські уй@бки щойно атаку</title>
-      <link>https://www.mandarinai.lt/post/99537</link>
-      <description>🤬 російські уй@бки щойно атакували дитячий садок Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-27_14-52-44.mp4" length="321985" type="video/mp4"/>
-      <pubDate>Sun, 27 Sep 2026 14:52:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Sep 2026 22:27:11 +0000</lastBuildDate>
     <item>
       <title>В Дарницькому районі російськи</title>
       <link>https://www.mandarinai.lt/post/99538</link>
@@ -93,10 +79,23 @@
     <item>
       <title>🤬Жахливі кадри. Перші хвилини </title>
       <link>https://www.mandarinai.lt/post/99550</link>
-      <description>🤬Жахливі кадри. Перші хвилини після удару русні по ринку "Столичний"
-Є загиблі.</description>
+      <description>🤬Жахливі кадри. Перші хвилини після удару русні по ринку «Столичний». Тіла людей на місці російської атаки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-27_18-55-23.mp4" length="1802069" type="video/mp4"/>
       <pubDate>Sun, 27 Sep 2026 18:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Щойно був приліт в будинок на </title>
+      <link>https://www.mandarinai.lt/post/99551</link>
+      <description>Щойно був приліт в будинок на Виноградарі, — столичні ЗМІ</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3710.MP4" length="8570772" type="video/mp4"/>
+      <pubDate>Sun, 27 Sep 2026 19:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Операція «Vivaldi»: спецпри</title>
+      <link>https://www.mandarinai.lt/post/99552</link>
+      <description>❗️ Операція «Vivaldi»: спецпризначенці підрозділу ДПСУ «ДОЗОР» зачистили великий лісовий масив біля Лимана та взяли в полон значну кількість іноземних найманців - деталі за посиланням https://m.youtube.com/watch?v=pkQB4UKwgI4&amp;t=309s&amp;ra=m</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3718.MOV" length="23452182" type="video/mp4"/>
+      <pubDate>Sun, 27 Sep 2026 20:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
