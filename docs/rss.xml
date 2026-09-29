@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 18:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:50:09 +0000</lastBuildDate>
     <item>
       <title>🤔Німеччина та ще п'ять країн Є</title>
       <link>https://www.mandarinai.lt/post/99657</link>
@@ -99,6 +99,13 @@
       <description>⚡️ В Брянській області 29 вересня невідомі пошкодили залізничні колії під час руху потяга зі Смоленська, - місцева влада вже заявила, що це зробили українські диверсанти</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-29_18-50-36.jpg" length="47763" type="image/jpeg"/>
       <pubDate>Tue, 29 Sep 2026 18:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ ЗМІ пишуть, що уламки від б</title>
+      <link>https://www.mandarinai.lt/post/99671</link>
+      <description>❗️ ЗМІ пишуть, що уламки від безпілотника «Герань-5» впали на Південний міст в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5317.MP4" length="4973144" type="video/mp4"/>
+      <pubDate>Tue, 29 Sep 2026 19:29:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
