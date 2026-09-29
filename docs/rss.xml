@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 00:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:45:55 +0000</lastBuildDate>
     <item>
       <title>Люди намагаються врятуватись з</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -23,24 +23,6 @@
 
 За цими короткими кадрами — важкі бої, безсонні ночі, злагоджена робота і мужність українських воїнів.</description>
       <pubDate>Mon, 28 Sep 2026 15:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ рф обмежує польоти над полі</title>
-      <link>https://www.mandarinai.lt/post/99608</link>
-      <description>⚠️ рф обмежує польоти над полігоном «Капустін Яр» із 28 вересня до 3 жовтня.
-
-Небо закриватимуть щодня з 09:00 до 19:00. Подібне вже робили перед запусками «Орєшніка». 
-
-Проте наразі русня заявляє, що проводить балістичні випробування</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-28_17-18-19.jpg" length="75260" type="image/jpeg"/>
-      <pubDate>Mon, 28 Sep 2026 17:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Київ. Один день</title>
-      <link>https://www.mandarinai.lt/post/99609</link>
-      <description>Київ. Один день</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-28_17-42-40.jpg" length="158269" type="image/jpeg"/>
-      <pubDate>Mon, 28 Sep 2026 17:42:40 +0000</pubDate>
     </item>
     <item>
       <title>Жахливий день в Києві. І будут</title>
@@ -98,6 +80,27 @@
       <description>🤬Приліт дрона у двір житлового будинку на Шулявці у Києві, – місцеві канали</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-28_21-00-03.mp4" length="454226" type="video/mp4"/>
       <pubDate>Mon, 28 Sep 2026 21:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вночі рф атакувала Україну рак</title>
+      <link>https://www.mandarinai.lt/post/99622</link>
+      <description>Вночі рф атакувала Україну ракетами «Циркон» або «Онікс», балістичними ракетами та 152 ударними дронами
+
+Знищено або подавлено:
+▪️1 ракету «Циркон»/«Онікс»;
+▪️2 балістичні ракети;
+▪️106 БПЛА.
+
+Зафіксовано влучання на 24 локаціях та уламки на 16 локаціях</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-29_05-24-20.jpg" length="52501" type="image/jpeg"/>
+      <pubDate>Tue, 29 Sep 2026 05:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Вночі прилетіло по пункту про</title>
+      <link>https://www.mandarinai.lt/post/99623</link>
+      <description>🔥Вночі прилетіло по пункту пропуску на кордоні білорусі та росії</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-29_06-30-51.mp4" length="95964" type="video/mp4"/>
+      <pubDate>Tue, 29 Sep 2026 06:30:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
