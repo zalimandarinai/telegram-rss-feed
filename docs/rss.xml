@@ -6,28 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 19:50:50 +0000</lastBuildDate>
-    <item>
-      <title>🤬Ворог вдарив по лініях електр</title>
-      <link>https://www.mandarinai.lt/post/99708</link>
-      <description>🤬Ворог вдарив по лініях електропередачі у Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-30_14-39-23.mp4" length="331128" type="video/mp4"/>
-      <pubDate>Wed, 30 Sep 2026 14:39:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡Майже третина киян залишилися</title>
-      <link>https://www.mandarinai.lt/post/99709</link>
-      <description>😡Майже третина киян залишилися без світла, найбільше постраждала група 6.1. У області також є перебої.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-30_15-06-57.mp4" length="591820" type="video/mp4"/>
-      <pubDate>Wed, 30 Sep 2026 15:06:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Електротранспорт у столиці ч</title>
-      <link>https://www.mandarinai.lt/post/99711</link>
-      <description>⚡️Електротранспорт у столиці частково зупинився після російського обстрілу. Почались екстрені відключення.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-30_15-42-43.mp4" length="280548" type="video/mp4"/>
-      <pubDate>Wed, 30 Sep 2026 15:42:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 23:29:15 +0000</lastBuildDate>
     <item>
       <title>❗️ Десятки полонених окупантів</title>
       <link>https://www.mandarinai.lt/post/99712</link>
@@ -72,6 +51,27 @@
 Завдяки тому, що росія замість дорогих ракет активно запускає реактивні безпілотники, їй вдалося зберегти запаси крилатого і балістичного озброєння.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-30_19-41-36.jpg" length="87438" type="image/jpeg"/>
       <pubDate>Wed, 30 Sep 2026 19:41:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Дрон впав і вибухнув за 50 </title>
+      <link>https://www.mandarinai.lt/post/99722</link>
+      <description>⚡️ Дрон впав і вибухнув за 50 км від Кишинева</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3836.MP4" length="775542" type="video/mp4"/>
+      <pubDate>Wed, 30 Sep 2026 20:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Тварі вдарили по бізнес-цен</title>
+      <link>https://www.mandarinai.lt/post/99723</link>
+      <description>❗️ Тварі вдарили по бізнес-центру в Одесі, спалахнула пожежа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3840.MOV" length="1519755" type="video/mp4"/>
+      <pubDate>Wed, 30 Sep 2026 20:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ На Відрадному в Києві впали</title>
+      <link>https://www.mandarinai.lt/post/99724</link>
+      <description>⚡️ На Відрадному в Києві впали уламки безпілотника, загорівся паркувальний майданчик.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3838.MP4" length="1010195" type="video/mp4"/>
+      <pubDate>Wed, 30 Sep 2026 20:25:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
