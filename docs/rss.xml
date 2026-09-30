@@ -6,115 +6,81 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 01:50:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:00:02 +0000</lastBuildDate>
     <item>
-      <title>🛫 Дрони з ШІ, якими віртуозно </title>
-      <link>https://www.mandarinai.lt/post/99661</link>
-      <description>🛫 Дрони з ШІ, якими віртуозно керує 475-ий полк «Code 9.2», майже в промислових масштабах розбирають бронеавтомобілі російської армії, навіть не дозволяючи їм доїхати до кордону з Харківщиною</description>
-      <pubDate>Tue, 29 Sep 2026 16:27:29 +0000</pubDate>
+      <title>‼️ У Києві надзвичайно густий </title>
+      <link>https://www.mandarinai.lt/post/99677</link>
+      <description>‼️ У Києві надзвичайно густий туман: в ДСНС пояснили причину
+
+Це наслідки попередніх обстрілів. Залишки диму й сажі піднялися у верхні шари атмосфери, а антициклон тимчасово притискає їх до землі. Вітру зараз майже немає, тому повітря не продувається
+
+Що варто зробити зараз:
+🧡Зачиніть вікна та кватирки (особливо жителям Подолу, Лук'янівки, Шевченківського району та Борщагівки).
+🧡Утримайтеся від провітрювання.
+🧡За наявності увімкніть очищувач повітря або зробіть вологе прибирання.
+🧡Водіям: вмикайте протитуманні фари та тримайте дистанцію</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-30_06-00-19.jpg" length="172481" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 06:00:19 +0000</pubDate>
     </item>
     <item>
-      <title>Три танки за один захід: опера</title>
-      <link>https://www.mandarinai.lt/post/99662</link>
-      <description>Три танки за один захід: операція «Lasar’s Group» НГУ в глибокому тилу противника
+      <title>Орієнтовний маршрут ракет та д</title>
+      <link>https://www.mandarinai.lt/post/99679</link>
+      <description>Орієнтовний маршрут ракет та дронів під час атаки по Україні цієї ночі: терористи били, зокрема "Оніксами", "Цирконами" та "Іскандерами". 
 
-Ворожі танки стали великою рідкістю на полі бою. 
-
-З 2022 року лише силами  «Lasar’s Group» нейтралізовано понад 2400 одиниць цієї техніки. 
-
-Яскравий приклад роботи
-проти танків — підрозділ демонструє просто зараз. 
-
-Окупанти замаскували техніку на дистанції 65 кілометрів від лінії боєзіткнення на Олександрівському напрямку. 
-
-Вони вкопали її та спорудили укриття від дронів.
-
-На основі розвідки суміжних підрозділів та їхньої інформації нацгвардійці оперативно здійснили виліт ударних бортів та збільшили ще на три танки список знищеної бронетехніки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3794.MP4" length="26488794" type="video/mp4"/>
-      <pubDate>Tue, 29 Sep 2026 17:14:58 +0000</pubDate>
+Основний напрямок удару — Київщина. Сили ППО знешкодили 160 ворожих цілей, серед них — пʼять балістичних ракет. На жаль, є влучання на 18 локаціях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-30_06-03-33.jpg" length="259246" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 06:03:33 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️ Затвердили наші далекобійні</title>
-      <link>https://www.mandarinai.lt/post/99663</link>
-      <description>⚡️ Затвердили наші далекобійні операції на жовтень із Міноборони, військовими та виробниками зброї, — Зеленський
+      <title>⚡️Внаслідок нічного ворожого у</title>
+      <link>https://www.mandarinai.lt/post/99681</link>
+      <description>⚡️Внаслідок нічного ворожого удару по Вишгороду загинула дитина. У Києві наразі відомо про двох загиблих через атаку росіян.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-30_06-09-00.mp4" length="3090758" type="video/mp4"/>
+      <pubDate>Wed, 30 Sep 2026 06:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Молдові приліт безпілотника,</title>
+      <link>https://www.mandarinai.lt/post/99682</link>
+      <description>В Молдові приліт безпілотника, який порушив повітряний простір країни під час масованої атаки рф по Україні.
 
-Також визначили напрямки постачання для українських F-16 до кінця року. За словами президента, Україна домовляється з конкретними країнами про авіаційні пакети, найближчим часом очікується посилення.
+Безпілотник вибухнув о 05:56 вранці
 
-Окремо визначили перші прототипи систем протидії реактивним «Шахедам». Для їхнього виробництва вже є конкретні строки, фінансування та заплановані обсяги.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-29_17-17-38.jpg" length="190713" type="image/jpeg"/>
-      <pubDate>Tue, 29 Sep 2026 17:17:38 +0000</pubDate>
+Подія зафіксована поблизу села Гирбовець в Аненій-Нойському районі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-30_06-23-42.mp4" length="332932" type="video/mp4"/>
+      <pubDate>Wed, 30 Sep 2026 06:23:42 +0000</pubDate>
     </item>
     <item>
-      <title>🔴Велика помилка вважати російс</title>
-      <link>https://www.mandarinai.lt/post/99664</link>
-      <description>🔴Велика помилка вважати російські дрони біля кордонів НАТО «випадковістю», — командувач СБС «Мадяр»
+      <title>⚡️Ворог буде намагатись завдат</title>
+      <link>https://www.mandarinai.lt/post/99683</link>
+      <description>⚡️Ворог буде намагатись завдати ударів по обʼєктах генерації та передачі електроенергії. Мета рф — відключити українські АЕС від об'єднаної мережі, - монітори
 
-Роберт Бровді в інтерв’ю The Telegraph зазначив, що спроби пояснити ці випадки виглядають як спосіб відтермінувати ухвалення серйозних рішень і працюють проти НАТО.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-29_17-50-21.mp4" length="9822316" type="video/mp4"/>
-      <pubDate>Tue, 29 Sep 2026 17:50:21 +0000</pubDate>
+Сьогодні вночі ворог атакував енергетику на Київщині – цілями стали ТЕЦ, ТЕС, ГЕС та підстанції.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-30_06-36-25.jpg" length="91925" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 06:36:25 +0000</pubDate>
     </item>
     <item>
-      <title>🤝Канцлер Німеччини особисто ве</title>
-      <link>https://www.mandarinai.lt/post/99666</link>
-      <description>🤝Канцлер Німеччини особисто веде перемовини для посилення ППО України до зими
- 
-Про це Фрідріх Мерц заявив на спільній прескоференції з президентом Казахстану Касимом-Жомартом Токаєвим у Берліні:
- 
-Ми говоримо про те, щоб використати всі можливості для покращення ППО. Це один із найбільших викликів, з якими зараз стикається Україна. Я намагаюся вести особисті переговори з цілою низкою світових лідерів, щоб забезпечити належні поставки для ППО України.
- 
-Мерц висловив сподівання, що союзникам вдасться підготувати Україну до майбутньої зими, включно з енергопостачанням.
- 
-Відео: Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-29_17-59-07.mp4" length="2582804" type="video/mp4"/>
-      <pubDate>Tue, 29 Sep 2026 17:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🗿Я вважаю путіна видатним держ</title>
-      <link>https://www.mandarinai.lt/post/99667</link>
-      <description>🗿Я вважаю путіна видатним державним діячем. Як лідер рф, він є найбільш прийнятною фігурою для Європи та світу, – Токаєв на пресконференції з канцлером Мерцем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-29_18-03-39.mp4" length="2168451" type="video/mp4"/>
-      <pubDate>Tue, 29 Sep 2026 18:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окупанти влаштували собі неймо</title>
-      <link>https://www.mandarinai.lt/post/99669</link>
-      <description>Окупанти влаштували собі неймовірне фаєр-шоу, а операторам дронів підрозділу «Булава» 72-ої Білоцерківської бригади залишилося лише спостерігати за видовищем</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3796.MP4" length="14794253" type="video/mp4"/>
-      <pubDate>Tue, 29 Sep 2026 18:14:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ В Брянській області 29 вере</title>
-      <link>https://www.mandarinai.lt/post/99670</link>
-      <description>⚡️ В Брянській області 29 вересня невідомі пошкодили залізничні колії під час руху потяга зі Смоленська, - місцева влада вже заявила, що це зробили українські диверсанти</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-29_18-50-36.jpg" length="47763" type="image/jpeg"/>
-      <pubDate>Tue, 29 Sep 2026 18:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ ЗМІ пишуть, що уламки від б</title>
-      <link>https://www.mandarinai.lt/post/99671</link>
-      <description>❗️ ЗМІ пишуть, що уламки від безпілотника «Герань-5» впали на Південний міст в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5317.MP4" length="4973144" type="video/mp4"/>
-      <pubDate>Tue, 29 Sep 2026 19:29:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Святошинському районі Києв</title>
-      <link>https://www.mandarinai.lt/post/99673</link>
-      <description>⚡️У Святошинському районі Києва горять приватні будинки після ракетного удару рф, — КМВА
+      <title>😱Можливе захоплення літака тер</title>
+      <link>https://www.mandarinai.lt/post/99684</link>
+      <description>😱Можливе захоплення літака терористами. 
 
-У Голосіївському районі сталося загоряння складської будівлі. В Оболонському районі горить магазин.
+Boeing 737 авіакомпанії Flydubai, який прямував з Дубаї до Тель-Авіва, був перенаправлений до Саудівської Аравії.
 
- Після опівночі по Києву було запущено понад 10 балістичних ракет.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-30_00-37-12.mp4" length="146726" type="video/mp4"/>
-      <pubDate>Wed, 30 Sep 2026 00:37:12 +0000</pubDate>
+За півтори години до посадки в Ізраїлі літак передав загальний сигнал лиха.
+Після цього було відправлено код 7500, який означає "незаконне втручання", що є кодом для позначення викрадення.
+
+Відтоді не вдалося встановити зв'язок з літаком.
+В Ізраїлі про цей інцидент відомо вже близько півгодини.
+
+На борту перебуває близько 160 пасажирів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-30_06-43-10.jpg" length="151075" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 06:43:10 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Ворог атакував щонайменше 4 </title>
-      <link>https://www.mandarinai.lt/post/99674</link>
-      <description>⚡️Ворог атакував щонайменше 4 енергообʼєкта столиці.
-
-Почалися перебої світлом і водопостачанням в деяких районах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-09-30_00-44-20.mp4" length="1425501" type="video/mp4"/>
-      <pubDate>Wed, 30 Sep 2026 00:44:20 +0000</pubDate>
+      <title>⚠️ На Трипільській ТЕС та ТЕЦ-</title>
+      <link>https://www.mandarinai.lt/post/99688</link>
+      <description>⚠️ На Трипільській ТЕС та ТЕЦ-5 зараз спостерігаються пожежі після атаки росіян, — повідомляє моніторинг активних пожеж NASA</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-09-30_07-04-48.jpg" length="164940" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 07:04:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
