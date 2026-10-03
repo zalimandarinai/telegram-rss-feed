@@ -6,62 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 01:27:35 +0000</lastBuildDate>
-    <item>
-      <title>‼️На Київщині влучання по скла</title>
-      <link>https://www.mandarinai.lt/post/99826</link>
-      <description>‼️На Київщині влучання по складах, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-02_16-38-48.mp4" length="2780489" type="video/mp4"/>
-      <pubDate>Fri, 02 Oct 2026 16:38:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вони щиро вважають, що залишат</title>
-      <link>https://www.mandarinai.lt/post/99827</link>
-      <description>Вони щиро вважають, що залишаться непокараними, - посібники вбивці показують йому знаряддя для нових воєнних злочинів, дрони «Герань-4» і «Герань-5» з реактивними двигунами</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3931.MP4" length="17271812" type="video/mp4"/>
-      <pubDate>Fri, 02 Oct 2026 16:58:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Під ударом рф багатоповерхів</title>
-      <link>https://www.mandarinai.lt/post/99828</link>
-      <description>⚡️Під ударом рф багатоповерхівка у Дніпрі, на місці велика пожежа, люди заблоковані в квартирах — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-02_17-31-26.mp4" length="168757" type="video/mp4"/>
-      <pubDate>Fri, 02 Oct 2026 17:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>😱 Київ паралізували затори: лю</title>
-      <link>https://www.mandarinai.lt/post/99830</link>
-      <description>😱 Київ паралізували затори: люди переходять мости пішки, — Суспільне
-
-Якщо мости вийдуть з ладу. У Раді пропоеують замінити мости через Дніпро разі серйозних ушкоджень понтонними переправами, паромами та велосипедними хабами, - Telegraf
-
-• Пороми першої необхідності — для вантажівок із продуктами, ліками та іншими товарами;
-• Пороми для пасажирів — один із можливих маршрутів – від району «Славутич» до Поштової площі, де пасажири зможуть пересісти на метро;
-• Понтонні переправи – також розглядаються як тимчасова альтернатива, хоча повністю замінити мости вони не зможуть;
-• Запровадження реверсивного руху та впровадження більшої кількості автобусів — кількість смуг на переправах, що залишилися, пропонують змінювати залежно від потоку, зберігаючи пріоритет для громадського транспорту та екстрених служб;
-• Велосипедні хаби — пропонують розмістити біля «Славутича», «Видубичів», «Арсенальної» та «Лівобережної», щоб частина людей могла перетинати проблемні ділянки без автомобілів;
-• Система «парних та непарних годин» для автомобілів — за останньою цифрою номера машини визначали б час проїзду через мости.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-02_17-45-15.jpg" length="178698" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 17:45:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>😳Посольства західних країн пер</title>
-      <link>https://www.mandarinai.lt/post/99831</link>
-      <description>😳Посольства західних країн перенесуть з Києва у Львів, або у Польщу — це станеться у випадку погіршення ситуації чи атак рф на дипустанови, — The Guardian. 
-
-План вже розробили, хоча публічно дипломати заявляють, що залишаться в Києві
-
-"Очевидно, ситуація швидко погіршується", — заявив один із дипломатів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-02_18-25-35.jpg" length="178278" type="image/jpeg"/>
-      <pubDate>Fri, 02 Oct 2026 18:25:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Кадри сьогоднішньої пожежі н</title>
-      <link>https://www.mandarinai.lt/post/99833</link>
-      <description>💥🔥Кадри сьогоднішньої пожежі на ЛДПС "Самара" – найбільшому резервуарному парку в Європі, частині системи "Транснефть" – після атаки ЗСУ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-02_18-30-55.mp4" length="1122495" type="video/mp4"/>
-      <pubDate>Fri, 02 Oct 2026 18:30:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 06:57:26 +0000</lastBuildDate>
     <item>
       <title>Український літак Mirage 2000-</title>
       <link>https://www.mandarinai.lt/post/99835</link>
@@ -101,6 +46,40 @@
       <description>💥В окупованому Донецьку атака дронів на енергетичні об'єкти.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-02_23-19-42.mp4" length="505373" type="video/mp4"/>
       <pubDate>Fri, 02 Oct 2026 23:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬Ворог вдарив дроном по Північ</title>
+      <link>https://www.mandarinai.lt/post/99841</link>
+      <description>🤬Ворог вдарив дроном по Північному мосту у Києві, — мер 
+
+Рух перекрито: низка автобусів і тролейбусів затримується.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-03_05-10-46.mp4" length="484862" type="video/mp4"/>
+      <pubDate>Sat, 03 Oct 2026 05:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ймовірно, це була малогабаритн</title>
+      <link>https://www.mandarinai.lt/post/99844</link>
+      <description>Ймовірно, це була малогабаритна крилата ракета «Герань-5»: вона вдарила по Південному мосту, коли ним ішли люди, - «Frontliner»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_3951.MP4" length="3184084" type="video/mp4"/>
+      <pubDate>Sat, 03 Oct 2026 06:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Орловській області рф уражен</title>
+      <link>https://www.mandarinai.lt/post/99845</link>
+      <description>В Орловській області рф уражено один з найбільших пунктів запуску реактивних дронів «Цимбулово», звідки  запускають БПЛА по Київщині та західних регіонах, - там зафіксовано пожежу, підтверджує NASA FIRMS.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-03_06-22-25.jpg" length="103295" type="image/jpeg"/>
+      <pubDate>Sat, 03 Oct 2026 06:22:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Зі 157 дронів, які вночі та</title>
+      <link>https://www.mandarinai.lt/post/99848</link>
+      <description>❗️ Зі 157 дронів, які вночі та вранці летіли по Україні, 45 реактивні.
+
+✅ З них збито або подавлено 131 безпілотник.
+
+ℹ️ Дані на 09:00, - Повітряні Сили</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-03_06-28-36.jpg" length="40652" type="image/jpeg"/>
+      <pubDate>Sat, 03 Oct 2026 06:28:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
