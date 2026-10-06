@@ -6,14 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 19:42:59 +0000</lastBuildDate>
-    <item>
-      <title>Ворожий FPV-дрон намагався ата</title>
-      <link>https://www.mandarinai.lt/post/99978</link>
-      <description>Ворожий FPV-дрон намагався атакувати український НРК, але його перехопила антидронова сітка, встановлена на платформі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4077.MP4" length="1508694" type="video/mp4"/>
-      <pubDate>Mon, 05 Oct 2026 16:16:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 00:58:19 +0000</lastBuildDate>
     <item>
       <title>В Києві встановлені 12 автомат</title>
       <link>https://www.mandarinai.lt/post/99979</link>
@@ -67,11 +60,18 @@
       <pubDate>Mon, 05 Oct 2026 18:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>У Києві відбивають атаки реакт</title>
+      <title>▶️❌У Києві відбивають атаки ре</title>
       <link>https://www.mandarinai.lt/post/99989</link>
-      <description>У Києві відбивають атаки реактивних «Шахедів» за допомогою ШІ-турелей, які під час масованого нальоту знищували до шести цілей за ніч.</description>
+      <description>▶️❌У Києві відбивають атаки реактивних «Шахедів» за допомогою ШІ-турелей, які під час масованого нальоту знищували до шести цілей за ніч.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-05_19-41-57.mp4" length="1547357" type="video/mp4"/>
       <pubDate>Mon, 05 Oct 2026 19:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Ми не можемо продовжувати с</title>
+      <link>https://www.mandarinai.lt/post/99992</link>
+      <description>💬 «Ми не можемо продовжувати спільний політичний шлях через ідеологічні розбіжності», - «ЄС» заявила про те, що виключає Олексія Гончаренка зі складу парламентської фракції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-05_19-56-10.jpg" length="89083" type="image/jpeg"/>
+      <pubDate>Mon, 05 Oct 2026 19:56:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
