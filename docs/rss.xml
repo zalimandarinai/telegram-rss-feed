@@ -6,65 +6,16 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 00:58:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 07:24:27 +0000</lastBuildDate>
     <item>
       <title>В Києві встановлені 12 автомат</title>
-      <link>https://www.mandarinai.lt/post/99979</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>В Києві встановлені 12 автоматичних турелей, одна з яких, як стверджує Юрій Ігнат, вже збила реактивний гібрид дрона і ракети «Герань-5».
 
 Назву турелі речник Повітряних Сил не оголошує, але, ймовірно, йдеться про установки «Sky Sentinel» з елементами ШІ, які непогано себе показали, прикриваючи Запоріжжя.
 
 Повний матеріал на YouTube «ТСН Тиждень»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4079.MP4" length="25548036" type="video/mp4"/>
       <pubDate>Mon, 05 Oct 2026 17:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸 США не евакуюють посольство</title>
-      <link>https://www.mandarinai.lt/post/99980</link>
-      <description>🇺🇸 США не евакуюють посольство з Києва попри погрози рф, — Рубіо
-
-🏛️ Вашингтон не планує змінювати формат роботи посольства, каже він.
-
-💬 «Ми щодня аналізуємо безпекову ситуацію навколо кожної дипмісії у світі. Якщо виникне загроза, яка, на нашу думку, вимагатиме зміни формату роботи, ми це зробимо. Але поки що там ми такого не робили».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4080.MP4" length="12136495" type="video/mp4"/>
-      <pubDate>Mon, 05 Oct 2026 17:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вже відомо про 59 постраждалих</title>
-      <link>https://www.mandarinai.lt/post/99981</link>
-      <description>Вже відомо про 59 постраждалих через російську атаку на Харків, — ОВА
-
-Троє людей загинули</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-05_17-16-44.jpg" length="310822" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 17:16:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Бурхлива дискусія навколо «Лан</title>
-      <link>https://www.mandarinai.lt/post/99985</link>
-      <description>Бурхлива дискусія навколо «Ланцета», який щойно заплутався в антидронній сітці</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4081.MP4" length="2128170" type="video/mp4"/>
-      <pubDate>Mon, 05 Oct 2026 17:32:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️В Україну постачатимуть німе</title>
-      <link>https://www.mandarinai.lt/post/99986</link>
-      <description>⚡️В Україну постачатимуть німецькі газові турбіни та інші технології – це має підвищити надійність енергетичної інфраструктури попри намагання рф атакувати нафтогазові обʼєкти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-05_17-37-00.jpg" length="85542" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 17:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️У Харкові знайшли ще одного </title>
-      <link>https://www.mandarinai.lt/post/99988</link>
-      <description>⚡️У Харкові знайшли ще одного загиблого після удару рф, повідомляє влада. Кількість жертв атаки зросла до шести.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-05_18-57-57.jpg" length="237455" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 18:57:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>▶️❌У Києві відбивають атаки ре</title>
-      <link>https://www.mandarinai.lt/post/99989</link>
-      <description>▶️❌У Києві відбивають атаки реактивних «Шахедів» за допомогою ШІ-турелей, які під час масованого нальоту знищували до шести цілей за ніч.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-05_19-41-57.mp4" length="1547357" type="video/mp4"/>
-      <pubDate>Mon, 05 Oct 2026 19:41:57 +0000</pubDate>
     </item>
     <item>
       <title>💬 «Ми не можемо продовжувати с</title>
@@ -72,6 +23,51 @@
       <description>💬 «Ми не можемо продовжувати спільний політичний шлях через ідеологічні розбіжності», - «ЄС» заявила про те, що виключає Олексія Гончаренка зі складу парламентської фракції</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-05_19-56-10.jpg" length="89083" type="image/jpeg"/>
       <pubDate>Mon, 05 Oct 2026 19:56:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Нафтобаза в Московській облас</title>
+      <link>https://www.mandarinai.lt/post/99993</link>
+      <description>🔥Нафтобаза в Московській області горить після атаки БпЛА
+
+ЛПДС «Володарська» — це лінійна виробничо-диспетчерська станція, яка є ключовим вузлом нафтопроводів у Московському регіоні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-06_02-32-38.mp4" length="811295" type="video/mp4"/>
+      <pubDate>Tue, 06 Oct 2026 02:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Цієї ночі рф атакувала міст </title>
+      <link>https://www.mandarinai.lt/post/99996</link>
+      <description>⚡️Цієї ночі рф атакувала міст через Дніпро у Запоріжжі, є поранені, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-06_05-10-49.jpg" length="220112" type="image/jpeg"/>
+      <pubDate>Tue, 06 Oct 2026 05:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атакована вночі нафтобаза "В</title>
+      <link>https://www.mandarinai.lt/post/99998</link>
+      <description>💥🔥Атакована вночі нафтобаза "Володарська", постачає паливо до ключових аеропортів столиці терористів — Внуково, Домодєдово та Шереметьєво.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-06_05-24-06.mp4" length="597536" type="video/mp4"/>
+      <pubDate>Tue, 06 Oct 2026 05:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Після атаки росіян припинив</title>
+      <link>https://www.mandarinai.lt/post/99999</link>
+      <description>⚡️ Після атаки росіян припинив роботу київський дата-центр «Омега Телеком».
+
+ℹ️ Що таке дата-центри, і чому росія їх атакує.
+
+🛜 Дата-центр - це місце, де стоять сервери та системи зберігання даних, і від них залежить робота сайтів, застосунків, інтернет-провайдерів та онлайн-торгівлі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-06_06-59-56.jpg" length="26598" type="image/jpeg"/>
+      <pubDate>Tue, 06 Oct 2026 06:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Сили Оборони відкинули росіян</title>
+      <link>https://www.mandarinai.lt/post/100004</link>
+      <description>🔥Сили Оборони відкинули росіян біля Вовчанська та зачистили територію, - ISW.
+
+Українські військові звільнили близько 10 квадратних кілометрів лісу на північний схід від Вовчанських Хуторів на Харківщині. 
+
+➡️ За даними аналітиків, ситуація на цьому напрямку залишається "змінною", а армія Путіна і далі намагається пролізти, зокрема, у північно-східній частині Вовчанська.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-06_07-08-42.jpg" length="118537" type="image/jpeg"/>
+      <pubDate>Tue, 06 Oct 2026 07:08:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
