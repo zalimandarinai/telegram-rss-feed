@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 23:17:20 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Вперше за час повномасштабн</title>
-      <link>https://www.mandarinai.lt/post/100037</link>
-      <description>❗️ Вперше за час повномасштабної агресії підтверджено ураження рідкісної техніки рф, ТЗМ 9Т243М, транспортно-заряджальної машини до ЗРК «БУК-М3», - 3-ій АК</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4109.MP4" length="12598701" type="video/mp4"/>
-      <pubDate>Tue, 06 Oct 2026 17:45:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>😞Так зараз виглядає столиця, д</title>
-      <link>https://www.mandarinai.lt/post/100040</link>
-      <description>😞Так зараз виглядає столиця, де діють графіки відключень світла.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-06_18-44-56.jpg" length="45558" type="image/jpeg"/>
-      <pubDate>Tue, 06 Oct 2026 18:44:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 02:35:33 +0000</lastBuildDate>
     <item>
       <title>В Україні розпочали зйомки пов</title>
       <link>https://www.mandarinai.lt/post/100043</link>
@@ -68,6 +54,13 @@
       <description>☣️ Американське посольство в росії попередило громадян США про загрозу чуми та закликало їх негайно залишити територію російської федерації</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-06_20-59-19.jpg" length="117296" type="image/jpeg"/>
       <pubDate>Tue, 06 Oct 2026 20:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сильна пожежа в Києві після уд</title>
+      <link>https://www.mandarinai.lt/post/100057</link>
+      <description>Сильна пожежа в Києві після удару балістикою, — місцеві канали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-07_02-32-05.mp4" length="2055294" type="video/mp4"/>
+      <pubDate>Wed, 07 Oct 2026 02:32:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
