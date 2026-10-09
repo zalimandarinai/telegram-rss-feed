@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 19:40:18 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ Ярослава Бондаренка, операт</title>
-      <link>https://www.mandarinai.lt/post/100210</link>
-      <description>⚡️ Ярослава Бондаренка, оператора, з яким знімає Михайло Ткач, відпустила австрійська поліція, - на цей момент, поки без деталей</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-09_15-01-41.jpg" length="140638" type="image/jpeg"/>
-      <pubDate>Fri, 09 Oct 2026 15:01:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Новий набір засобів навігаці</title>
-      <link>https://www.mandarinai.lt/post/100212</link>
-      <description>❗️Новий набір засобів навігації «шахедів» - Сергій «Флеш» с антенами супутникової навігації на 32 елементи, які встановлюють росіяни, щоб обходити українські засоби радіоелектронної боротьби.
-
-💬 «Що це означає. 
-«шахед» може знаходити ціль або в режимі радіоуправління оператором (через Mesh модем), або за сигналами супутникової навігації (GPS та інше). 
-
-Щоб боротися з наведенням по GPS «шахедів», ми створюємо перешкоди на частотах супутникової навігації засобами РЕБ. У свою чергу, противник встановлює на «шахеді» спеціальні CRPA антени, які можуть нейтралізувати сигнали від нашого РЕБ. 
-
-Чим більше елементів, тим більше джерел сигналів від РЕБ може придушити антена. 
-
-До цього нам умовно потрібно було зробити так, щоб навколо «шахеда» завжди було 16 джерел РЕБ, а тепер умовно потрібно, щоб їх стало вдвічі більше. Збільшувати кількість елементів на антені ворогу простіше, ніж нам додавати точок РЕБ».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-09_15-35-07.jpg" length="62258" type="image/jpeg"/>
-      <pubDate>Fri, 09 Oct 2026 15:35:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 23:30:56 +0000</lastBuildDate>
     <item>
       <title>І так знову розіграш, де нічог</title>
       <link>https://www.mandarinai.lt/post/100214</link>
@@ -97,6 +74,22 @@
       <description>А індекс Мосбіржи різко злетів на тлі новин про постачання дизеля</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-09_19-04-10.jpg" length="48904" type="image/jpeg"/>
       <pubDate>Fri, 09 Oct 2026 19:04:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 Будь-яке послаблення санкцій</title>
+      <link>https://www.mandarinai.lt/post/100227</link>
+      <description>💬 Будь-яке послаблення санкцій проти росії без чіткої та тривалої деескалаційної домовленості з росією – це очевидна слабкість, — Зеленський відреагував на дозвіл рф продавати нафтопродукти. 
+
+Це грає на росію, на те, що вона вбиватиме більше, воюватиме довше, ще менше буде поважати Америку і завдасть ще більше втрат і збитків світу, наголошує президент.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/1.mp4" length="21101953" type="video/mp4"/>
+      <pubDate>Fri, 09 Oct 2026 20:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Бути на боці росіян в цьому</title>
+      <link>https://www.mandarinai.lt/post/100230</link>
+      <description>💬 «Бути на боці росіян в цьому конкретному конфлікті ганьба для нас», - Francis Fukuyama, професор Стенфордського університету, американський  філософ, політичний економіст і публіцист японського походження</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQMgQp9C7_mk4FhemDoMdDKYw4O8hvMXJa1OsCYzdQg7OMmTQG2h4RFfy7GQwLI.mp4" length="8703924" type="video/mp4"/>
+      <pubDate>Fri, 09 Oct 2026 20:51:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
