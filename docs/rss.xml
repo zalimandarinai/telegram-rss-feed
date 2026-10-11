@@ -6,30 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 22:57:08 +0000</lastBuildDate>
-    <item>
-      <title>🔴Я сподіваюся, що Штати не дад</title>
-      <link>https://www.mandarinai.lt/post/100284</link>
-      <description>🔴Я сподіваюся, що Штати не дадуть росії Patriot для захисту НПЗ, — український чиновник після переговорів</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-10_18-20-42.jpg" length="79654" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 18:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥«Нафтоналивний термінал НЗНП»</title>
-      <link>https://www.mandarinai.lt/post/100285</link>
-      <description>🔥«Нафтоналивний термінал НЗНП» у Ростові-на-Дону, який було атаковано сьогодні вночі, продовжує горіти і ввечері.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-10_18-22-38.jpg" length="82044" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 18:22:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>11-річний хлопчик загинув на Д</title>
-      <link>https://www.mandarinai.lt/post/100287</link>
-      <description>11-річний хлопчик загинув на Дніпропетровщині через скидання боєприпасу з дрона.
-
-Ще двох дітей поранено.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-10_18-25-08.jpg" length="223245" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 18:25:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 01:40:30 +0000</lastBuildDate>
     <item>
       <title>🔴Треба підтримати Україну, щоб</title>
       <link>https://www.mandarinai.lt/post/100288</link>
@@ -79,6 +56,27 @@
 «Він втягнув усіх у війну з Іраном, війну без виходу, і продає нас, щоб отримати тимчасовий перепочинок на кілька місяців перед виборами», — заявив український представник.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-10_19-40-37.jpg" length="63284" type="image/jpeg"/>
       <pubDate>Sat, 10 Oct 2026 19:40:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Гучна ніч в російських Брянсь</title>
+      <link>https://www.mandarinai.lt/post/100300</link>
+      <description>💥Гучна ніч в російських Брянську і Сочі. Результат уточнюється</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_00-35-33.mp4" length="928236" type="video/mp4"/>
+      <pubDate>Sun, 11 Oct 2026 00:35:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Влучання по ключовому мосту в</title>
+      <link>https://www.mandarinai.lt/post/100302</link>
+      <description>💥Влучання по ключовому мосту в Ростові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_00-53-42.jpg" length="33286" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 00:53:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У російському Владімірє атако</title>
+      <link>https://www.mandarinai.lt/post/100303</link>
+      <description>💥У російському Владімірє атаковано дата-центр Яндекса</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_01-16-18.mp4" length="241293" type="video/mp4"/>
+      <pubDate>Sun, 11 Oct 2026 01:16:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
