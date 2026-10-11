@@ -6,31 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 19:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:55:03 +0000</lastBuildDate>
     <item>
       <title>❗️❗️З цього моменту у війні мі</title>
-      <link>https://www.mandarinai.lt/post/100334</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️❗️З цього моменту у війні між Росією та Україною оголошується "ЕНЕРГЕТИЧНЕ ПЕРЕМИР'Я". Обидві сторони дали на це згоду. Не порушуйте його, — Трамп</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_14-29-57.jpg" length="61460" type="image/jpeg"/>
       <pubDate>Sun, 11 Oct 2026 14:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴🔴Зеленський заявив, що вперше</title>
-      <link>https://www.mandarinai.lt/post/100337</link>
-      <description>🥴🔴Зеленський заявив, що вперше почув про припинення ударів по енергетичній інфраструктурі, про яке оголосив Трамп, — Axios.
-
-Водночас, Україна готова погодитися на енергетичне перемир'я, якщо росія також припинить удари.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_15-24-32.jpg" length="134692" type="image/jpeg"/>
-      <pubDate>Sun, 11 Oct 2026 15:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥А поки нам своє робити. Діпст</title>
-      <link>https://www.mandarinai.lt/post/100338</link>
-      <description>💥А поки нам своє робити. Діпстрайки наразі наша козирна карта в цій війні.
-
-Дивіться сьогодні о 20:00 в «ТСН Тиждень» на «1+1».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4233.MP4" length="5644782" type="video/mp4"/>
-      <pubDate>Sun, 11 Oct 2026 15:58:53 +0000</pubDate>
     </item>
     <item>
       <title>⚡️росіяни масовано атакували Х</title>
@@ -59,6 +40,20 @@
       <description>Жахлиий удар  по продуктовому магазину в Пісочині на Харківщині</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_17-16-57.mp4" length="1109647" type="video/mp4"/>
       <pubDate>Sun, 11 Oct 2026 17:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬 Момент влучання «Бандеролі» </title>
+      <link>https://www.mandarinai.lt/post/100351</link>
+      <description>🤬 Момент влучання «Бандеролі» сьогодні на Харківщині</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4234.MP4" length="5888358" type="video/mp4"/>
+      <pubDate>Sun, 11 Oct 2026 19:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎈 Повітряні кульки зависають н</title>
+      <link>https://www.mandarinai.lt/post/100353</link>
+      <description>🎈 Повітряні кульки зависають над Московською областю і блокують роботу аеропортів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4237.MP4" length="2283897" type="video/mp4"/>
+      <pubDate>Sun, 11 Oct 2026 20:51:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
