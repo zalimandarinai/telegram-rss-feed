@@ -6,64 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 01:40:30 +0000</lastBuildDate>
-    <item>
-      <title>🔴Треба підтримати Україну, щоб</title>
-      <link>https://www.mandarinai.lt/post/100288</link>
-      <description>🔴Треба підтримати Україну, щоб вона перетворила російські НПЗ на руїни, — заявив прем'єр Естонії</description>
-      <pubDate>Sat, 10 Oct 2026 18:56:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дані OSINT показують, що до бе</title>
-      <link>https://www.mandarinai.lt/post/100290</link>
-      <description>Дані OSINT показують, що до берегів США зараз підходить танкер тіньового флоту росії MINERVA ZEN з 275-280 тисячами барелів дизельного пального
-
-Танкер вийшов з Петербурга ще 22 вересня і весь час прямував в бік США. Можливо, домовленість була досягнута непублічно або угода про постачання російського дизеля укладена ще раніше. 
-
-По суті, Трамп поклав з прибором на указ свого попередника від 8 березня 2022 року та на федеральний закон США №117-109, які забороняють купувати нафту та нафтопродукти в рф. 
-
-Для відміни цих законів президент має письмово запевнити Конгрес, що росія припинила війну і вивела війська з території України, а також більше не становить загрози країнам НАТО.
-
-Ані першого, ані другого не буде, а, натомість, українцям будуть погрожувати тим, що припинять надавати розвіддані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-10_19-00-14.jpg" length="71984" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 19:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Новоросійській гавані дрон п</title>
-      <link>https://www.mandarinai.lt/post/100292</link>
-      <description>В Новоросійській гавані дрон проривається крізь протиповітряну оборону і атакує військовий корабель</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4215.MP4" length="3113206" type="video/mp4"/>
-      <pubDate>Sat, 10 Oct 2026 19:23:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уряд Японії уклав контракт на </title>
-      <link>https://www.mandarinai.lt/post/100295</link>
-      <description>Уряд Японії уклав контракт на закупівлю перехоплювачів української компанії SkyFall. 
-
-Про це заявив міністр оборони Японії Сіндзіро Коїдзумі.
-
-«Токіо працює над тим, щоб забезпечити їх постачання якомога швидше», — повідомив міністр, окремо відзначивши український досвід розробки та швидкого вдосконалення оборонних технологій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4217.MP4" length="4337976" type="video/mp4"/>
-      <pubDate>Sat, 10 Oct 2026 19:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Виглядало, як пастка. Учора н</title>
-      <link>https://www.mandarinai.lt/post/100296</link>
-      <description>«Виглядало, як пастка. Учора на переговорах зі США була не лише наша делегація, а й європейська. І всі сиділи як дурні», — The Kyiv Independent.
-
-Американці заявили, що Трамп готовий скасувати санкції, і українцям було важко повірити у почуте.
-
-«Він втягнув усіх у війну з Іраном, війну без виходу, і продає нас, щоб отримати тимчасовий перепочинок на кілька місяців перед виборами», — заявив український представник.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-10_19-40-37.jpg" length="63284" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 19:40:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥Гучна ніч в російських Брянсь</title>
-      <link>https://www.mandarinai.lt/post/100300</link>
-      <description>💥Гучна ніч в російських Брянську і Сочі. Результат уточнюється</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_00-35-33.mp4" length="928236" type="video/mp4"/>
-      <pubDate>Sun, 11 Oct 2026 00:35:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 07:50:01 +0000</lastBuildDate>
     <item>
       <title>💥Влучання по ключовому мосту в</title>
       <link>https://www.mandarinai.lt/post/100302</link>
@@ -74,9 +17,79 @@
     <item>
       <title>💥У російському Владімірє атако</title>
       <link>https://www.mandarinai.lt/post/100303</link>
-      <description>💥У російському Владімірє атаковано дата-центр Яндекса</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_01-16-18.mp4" length="241293" type="video/mp4"/>
+      <description>💥У російському Владімірє атаковано дата-центр Яндекса
+
+Yandex повідомив про масштабний збій та перебої з електропостачанням у зоні, яка фізично розміщена в дата-центрі у Володимирі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_01-16-18.jpg" length="201604" type="image/jpeg"/>
       <pubDate>Sun, 11 Oct 2026 01:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>12 загиблих і більше 300 поран</title>
+      <link>https://www.mandarinai.lt/post/100305</link>
+      <description>12 загиблих і більше 300 поранених: хусити атакували аеропорт Ер-Ріяда в Саудівській Аравії
+
+Ракета влучила в комплекс між терміналами. Серед загиблих — четверо саудівців та восьмеро іноземців, зокрема американець. Частина поранених перебуває в критичному стані.
+
+Це вже третя атака на аеропорт за тиждень.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_06-17-11.mp4" length="2132327" type="video/mp4"/>
+      <pubDate>Sun, 11 Oct 2026 06:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️ У Конгресі США намагаються </title>
+      <link>https://www.mandarinai.lt/post/100306</link>
+      <description>‼️ У Конгресі США намагаються заблокувати нафтову угоду Трампа з путіним
+
+Республіканець Браян Фіцпатрік разом із колегами з обох партій планує внести законопроєкт про повну заборону закупівель російської нафти. Документ назвуть Ronald Reagan Peace Through Strength Act — «Закон імені Рональда Рейгана про мир через силу».
+
+Фіцпатрік заявив, що домагатиметься голосування в Палаті представників через спеціальну петицію, яка дає змогу обійти спікера та профільний комітет. Для цього потрібно зібрати щонайменше 218 підписів конгресменів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_06-21-05.jpg" length="36768" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 06:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴Зеленський зайшов надто далек</title>
+      <link>https://www.mandarinai.lt/post/100307</link>
+      <description>🔴Зеленський зайшов надто далеко, — Ілон Маск.
+
+Так він підтримав критику Трампа про удари України по російських НПЗ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_06-24-01.jpg" length="123357" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 06:24:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Сочі після атаки дронів заго</title>
+      <link>https://www.mandarinai.lt/post/100308</link>
+      <description>В Сочі після атаки дронів загорілася позиція ППО, - NASA FIRMS</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_06-36-25.jpg" length="123245" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 06:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Вночі під ударами українських</title>
+      <link>https://www.mandarinai.lt/post/100309</link>
+      <description>🔥Вночі під ударами українських сил опинився дата-центр "Яндекс" у Володимирській області. Його робота повністю зупинена, — ЗМІ 
+
+Через атаку припинили роботу сервіси "Яндекс Дом", "Яндекс Музика", "Телемост", а також повний спектр хмарної інфраструктури Yandex Cloud. </description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_06-37-19.jpg" length="86849" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 06:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴путін мені сказав, що хотів б</title>
+      <link>https://www.mandarinai.lt/post/100314</link>
+      <description>🔴путін мені сказав, що хотів би бачити врегулювання війни. Президент путін дуже хоче бачити мир, – Трамп
+
+путін робить багато для того, щоб забезпечити світ нафтою, зрозуміло? Це добре.
+І, до речі, за дуже низькою ціною.
+
+Я думаю, що Зеленський повинен провести вибори, і він міг би вирішити це питання багато разів, і він повинен провести вибори</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_06-48-44.mp4" length="554654" type="video/mp4"/>
+      <pubDate>Sun, 11 Oct 2026 06:48:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>У Запоріжжі завершили пошуково</title>
+      <link>https://www.mandarinai.lt/post/100315</link>
+      <description>У Запоріжжі завершили пошуково-рятувальні роботи на місці удару рф по житловому будинку, - ДСНС
+
+Загинули 20 людей, серед них - 4 дитини. Ще 17 постраждали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_07-46-48.jpg" length="278928" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 07:46:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
