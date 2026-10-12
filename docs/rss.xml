@@ -6,54 +6,80 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 02:03:52 +0000</lastBuildDate>
-    <item>
-      <title>❗️❗️З цього моменту у війні мі</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️❗️З цього моменту у війні між Росією та Україною оголошується "ЕНЕРГЕТИЧНЕ ПЕРЕМИР'Я". Обидві сторони дали на це згоду. Не порушуйте його, — Трамп</description>
-      <pubDate>Sun, 11 Oct 2026 14:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росіяни масовано атакували Х</title>
-      <link>https://www.mandarinai.lt/post/100341</link>
-      <description>⚡️росіяни масовано атакували Харків «бандеролями»! Пожежі в дворах багатоповерхівок, 6 людей постраждали, серед яких дитина.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_17-09-32.jpg" length="114851" type="image/jpeg"/>
-      <pubDate>Sun, 11 Oct 2026 17:09:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️рф вдарила по супермаркету н</title>
-      <link>https://www.mandarinai.lt/post/100343</link>
-      <description>⚡️рф вдарила по супермаркету на Харківщині, наразі відомо про трьох загиблих</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_17-12-16.mp4" length="322940" type="video/mp4"/>
-      <pubDate>Sun, 11 Oct 2026 17:12:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 Сили оборони з початку верес</title>
-      <link>https://www.mandarinai.lt/post/100344</link>
-      <description>🔥 Сили оборони з початку вересня знищили 3 російські пускові установки балістичних ракет і пошкодили ще 5, — міністр оборони Хмара</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-11_17-15-23.jpg" length="121675" type="image/jpeg"/>
-      <pubDate>Sun, 11 Oct 2026 17:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Жахлиий удар  по продуктовому </title>
-      <link>https://www.mandarinai.lt/post/100345</link>
-      <description>Жахлиий удар  по продуктовому магазину в Пісочині на Харківщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-11_17-16-57.mp4" length="1109647" type="video/mp4"/>
-      <pubDate>Sun, 11 Oct 2026 17:16:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬 Момент влучання «Бандеролі» </title>
-      <link>https://www.mandarinai.lt/post/100351</link>
-      <description>🤬 Момент влучання «Бандеролі» сьогодні на Харківщині</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4234.MP4" length="5888358" type="video/mp4"/>
-      <pubDate>Sun, 11 Oct 2026 19:48:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 09:11:38 +0000</lastBuildDate>
     <item>
       <title>🎈 Повітряні кулі зависають над</title>
       <link>https://www.mandarinai.lt/post/100353</link>
       <description>🎈 Повітряні кулі зависають над Московською областю і блокують роботу аеропортів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4237.MP4" length="2283897" type="video/mp4"/>
       <pubDate>Sun, 11 Oct 2026 20:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇨🇳 Китай нервує через загрозу </title>
+      <link>https://www.mandarinai.lt/post/100355</link>
+      <description>🇨🇳 Китай нервує через загрозу чуми з росії.
+
+☣️ Хоча російська влада заперечує спалах чуми в регіоні, кілька китайських центрів із контролю та профілактики захворювань почали публікувати ось такі попередження щодо заходів безпеки.
+
+🧪 В одному з регіонів на кордоні з росією відбулася нарада з оцінювання ризиків поширення чуми, і на ній було прямо зазначено, що ризик занесення інфекції через кордон залишається актуальним.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-12_04-53-33.jpg" length="105787" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 04:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇸🇦 Єменські хусити повторно ат</title>
+      <link>https://www.mandarinai.lt/post/100356</link>
+      <description>🇸🇦 Єменські хусити повторно атакували аеропорт Ер-Ріяда в Саудівській Аравії: одна людина загинула, 11 поранені
+
+За інформацією Reuters і саудівської коаліції, снаряд влучив у четвертий термінал міжнародного аеропорту імені короля Халіда, спричинивши пожежу. 
+
+Протиповітряна оборона встигла також перехопити крилату ракету та безпілотник.
+
+За даними саудівської влади, підтримуване Іраном угруповання взяло на себе відповідальність за удар 10 жовтня по аеропорту імені короля Халіда в Ер-Ріяді.
+
+Тоді загинуло 13 людей, а понад 300 отримали поранення.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4239.MP4" length="3985160" type="video/mp4"/>
+      <pubDate>Mon, 12 Oct 2026 04:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅ Гарний початок дня: українсь</title>
+      <link>https://www.mandarinai.lt/post/100358</link>
+      <description>✅ Гарний початок дня: український зенітник збиває реактивний «шахед» з ПЗРК «Ігла»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4240.MP4" length="1418572" type="video/mp4"/>
+      <pubDate>Mon, 12 Oct 2026 05:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Зеленський ризикує зіпсувати</title>
+      <link>https://www.mandarinai.lt/post/100360</link>
+      <description>❗️Зеленський ризикує зіпсувати відносини з Трампом, який розглядає війну передусім через вплив на ціни на енергоносії, — Bloomberg</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-12_06-23-32.jpg" length="93486" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 06:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Поки Трамп везе до США росій</title>
+      <link>https://www.mandarinai.lt/post/100361</link>
+      <description>👀 Поки Трамп везе до США російський дизель, в Ормузькій протоці на морській міні підірвався танкер з 750 тисяч барелів нафти на борту
+
+За словами Трампа, на ціни на нафту впливають удари України по російських НПЗ, а ситуація в Ормузі начебто ні на що не впливає😐</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-12_06-39-49.mp4" length="544916" type="video/mp4"/>
+      <pubDate>Mon, 12 Oct 2026 06:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Тварі скинули на Словʼянськ</title>
+      <link>https://www.mandarinai.lt/post/100363</link>
+      <description>⚡️ Тварі скинули на Словʼянськ три КАБи і розвалили багатоповерховий будинок</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4243.MP4" length="6930057" type="video/mp4"/>
+      <pubDate>Mon, 12 Oct 2026 07:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬❗️У Рівному агент рф намагавс</title>
+      <link>https://www.mandarinai.lt/post/100365</link>
+      <description>🤬❗️У Рівному агент рф намагався підірвати автобус із бійцями ЗСУ під час відправлення до пункту постійної дислокації, — СБУ
+
+Силовики затримали завербованого студента з Києва, який заклав саморобну бомбу під автобус з українськими воїнами. Вибухівка була підсилена двома пляшками із горючою рідиною для збільшення уражаючої дії. 
+
+Нині молодик, який пішов на теракт у пошуках легких грошей, під вартою. Йому загрожує до 12 років позбавлення волі з конфіскацією майна</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-12_08-27-00.jpg" length="186941" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 08:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
