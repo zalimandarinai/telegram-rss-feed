@@ -6,23 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 00:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:11:28 +0000</lastBuildDate>
     <item>
       <title>Оператори 210-го полку відстеж</title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>Оператори 210-го полку відстежили місця накопичення російських піхотних груп на Донеччині і ліквідували загрозу, не допустивши подальшого просування</description>
       <pubDate>Tue, 13 Oct 2026 10:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>‼️Телеграм-канал про те, що сп</title>
-      <link>https://www.mandarinai.lt/post/100442</link>
-      <description>‼️Телеграм-канал про те, що справді важливо: фронт, удари по Росії, політика, мобілізація, рішення влади, міжнародні події, які впливають на нас. 
-
-І головне, багато інформації безпосередньо від військових та людей, які знають, що відбувається на фронті. Багато аналітики про події саме на фронті. 
-
-Підписуйтеся на Telegram Цензор.НЕТ https://t.me/censor_net</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-13_15-00-51.jpg" length="23182" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 15:00:51 +0000</pubDate>
     </item>
     <item>
       <title>рф всього за місяць облаштувал</title>
@@ -62,6 +51,13 @@
       <description>🤬Горять автомобілі внаслідок атаки рф. Місцеві канали пишуть, що удар стався по трасі під час руху автівок</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-13_20-51-26.mp4" length="630819" type="video/mp4"/>
       <pubDate>Tue, 13 Oct 2026 20:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Балаково, Саратовська обл, М</title>
+      <link>https://www.mandarinai.lt/post/100456</link>
+      <description>⚡️Балаково, Саратовська обл, Момент прильоту ударного БПЛА Сил Оборони, місто тривалий час під атакою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-14_03-12-01.jpg" length="139108" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 03:12:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
