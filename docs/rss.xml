@@ -6,37 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 00:46:37 +0000</lastBuildDate>
-    <item>
-      <title>Директор ФБР іронічно натякає,</title>
-      <link>https://www.mandarinai.lt/post/100511</link>
-      <description>Директор ФБР іронічно натякає, що він не в москві, а в Лінчбурзі, штат Вірджинія</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-14_18-06-25.jpg" length="7260" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 18:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️По «гарячих слідах» вдалося </title>
-      <link>https://www.mandarinai.lt/post/100512</link>
-      <description>❗️По «гарячих слідах» вдалося затримати вбивцю п’ятьох військових ЗСУ на Харківщині, - УСБУ в Харківській області
-
-Зловмисником виявився 36-річний російський військовий родом з Санкт-Петербурга.
-
-Він військовослужбовець 1009 мотострілецького полку зс рф. 
-
-Раніше був засуджений на території держави-агресора за вчинення злочину.
-
-Нагадаємо, чоловік відкрив вогонь по 5 військовослужбовцях, які перебували у житловому будинку. 
-Від отриманих поранень вони загинули</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-14_18-07-20.jpg" length="117836" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 18:07:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔴Робота Starlink на швидкості </title>
-      <link>https://www.mandarinai.lt/post/100513</link>
-      <description>🔴Робота Starlink на швидкості до 160 км/год відновлюється: ударні дрони та дрони-перехоплювачі можуть працювати по цілях, — Федоров</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-14_18-11-23.jpg" length="69826" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 18:11:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 05:34:01 +0000</lastBuildDate>
     <item>
       <title>❤️‍🩹 Поранення — не вирок, - т</title>
       <link>https://www.mandarinai.lt/post/100514</link>
@@ -119,6 +89,22 @@
       <description>💥У російському  Борисоглібську вибухи і районі аеропорту</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-14_21-37-47.mp4" length="2195972" type="video/mp4"/>
       <pubDate>Wed, 14 Oct 2026 21:37:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️США розглядають можливість п</title>
+      <link>https://www.mandarinai.lt/post/100529</link>
+      <description>⚡️США розглядають можливість пом'якшення санкцій проти "тіньового флоту" Росії, щоб додатково знизити ціни на нафту, – Reuters</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-15_01-47-48.jpg" length="216676" type="image/jpeg"/>
+      <pubDate>Thu, 15 Oct 2026 01:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Україні потрібно відновити н</title>
+      <link>https://www.mandarinai.lt/post/100530</link>
+      <description>❗️Україні потрібно відновити необмежену швидкість роботи Starlink, а щонайменше – підвищити ліміт до 450 км/год, повідомили джерела Радіо Свобода
+
+За даними джерел журналіста Радіо Свобода Алекса Рауфоглу, нинішнє обмеження у 160 км/год недостатнє для протидії реактивним дронам типу Shahed. Контракт на послугу діє до квітня 2027 року, а платить за неї Німеччина.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-15_02-52-42.jpg" length="73678" type="image/jpeg"/>
+      <pubDate>Thu, 15 Oct 2026 02:52:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
