@@ -6,26 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 18:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:30:22 +0000</lastBuildDate>
     <item>
       <title>💥На росії вночі вибухи лунали </title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>💥На росії вночі вибухи лунали під Москвою, в Рязані та у Владісірє. Результат уточнюється.</description>
       <pubDate>Fri, 16 Oct 2026 06:05:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️Горять фури на парковці у Ко</title>
-      <link>https://www.mandarinai.lt/post/100585</link>
-      <description>⚡️Горять фури на парковці у Ковелі на Волині після атаки дрона.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-16_13-46-27.mp4" length="517976" type="video/mp4"/>
-      <pubDate>Fri, 16 Oct 2026 13:46:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥У далекому Сургуті після ата</title>
-      <link>https://www.mandarinai.lt/post/100593</link>
-      <description>💥🔥У далекому Сургуті після атаки БПЛА горить завод "Газпрому"</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-16_15-43-16.mp4" length="463377" type="video/mp4"/>
-      <pubDate>Fri, 16 Oct 2026 15:43:16 +0000</pubDate>
     </item>
     <item>
       <title>🤬росія розпочала масовані удар</title>
@@ -62,6 +48,23 @@
 Потужність Рязанського НПЗ становить близько 340 тисяч барелів нафти на добу. Завод виробляє бензин і дизельне паливо, зокрема для Москви.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-16_17-52-41.jpg" length="42466" type="image/jpeg"/>
       <pubDate>Fri, 16 Oct 2026 17:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬За останню годину Харків атак</title>
+      <link>https://www.mandarinai.lt/post/100604</link>
+      <description>🤬За останню годину Харків атакували понад 
+10 «Бандеролей»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-16_19-52-19.mp4" length="167568" type="video/mp4"/>
+      <pubDate>Fri, 16 Oct 2026 19:52:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Україна очікує на поставку в</title>
+      <link>https://www.mandarinai.lt/post/100606</link>
+      <description>⚡️Україна очікує на поставку винищувачів Gripen найближчим часом,- Зеленський.
+
+За словами Зеленського, вони займатимуться боротьбою з реактивними безпілотниками</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-16_20-36-18.jpg" length="71523" type="image/jpeg"/>
+      <pubDate>Fri, 16 Oct 2026 20:36:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
