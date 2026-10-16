@@ -6,40 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 09:48:25 +0000</lastBuildDate>
-    <item>
-      <title>🔴Лідери країн ЄС заявили, що т</title>
-      <link>https://www.mandarinai.lt/post/100565</link>
-      <description>🔴Лідери країн ЄС заявили, що тиск для припинення російської війни необхідно спрямовувати на росію, а не на Україну, - Голос Америки
-
-Києву радять не погоджуватись на односторонні поступки Москві.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-15_22-23-31.mp4" length="5088160" type="video/mp4"/>
-      <pubDate>Thu, 15 Oct 2026 22:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Vivaldi» набирає обертів.
-
-Си</title>
-      <link>https://www.mandarinai.lt/post/100568</link>
-      <description>«Vivaldi» набирає обертів.
-
-Синьо-жовті прапори здійняли у звільнених селах Липове, Зелена Долина і Колодязі
-
-Ще три населені пункти повністю деокуповано під час четвертого сезону операції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4371.MP4" length="18076086" type="video/mp4"/>
-      <pubDate>Fri, 16 Oct 2026 05:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Україні залишилося лише кіль</title>
-      <link>https://www.mandarinai.lt/post/100569</link>
-      <description>В Україні залишилося лише кілька ракет до системи Patriot, - WP
-
-"Станом на 7 жовтня, залишалося лише 10 ракет; вони були використані під час атак. Наразі залишилося лише кілька штук", - повідомив український чиновник виданню.
-
-Водночас, за даними CNN, майже всі балістичні ракети під час останньої російської атаки не були перехоплені через нестачу ракет для системи Patriot.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-16_05-58-17.jpg" length="47837" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 05:58:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 14:32:19 +0000</lastBuildDate>
     <item>
       <title>💥На росії вночі вибухи лунали </title>
       <link>https://www.mandarinai.lt/post/100571</link>
@@ -120,11 +87,18 @@ GoIT створили короткий безкоштовний тест: 3 хв
       <pubDate>Fri, 16 Oct 2026 08:35:07 +0000</pubDate>
     </item>
     <item>
-      <title>🔴Президент Зеленський готовий </title>
-      <link>https://www.mandarinai.lt/post/100581</link>
-      <description>🔴Президент Зеленський готовий на 100 днів зупинити удари по НПЗ, якщо українським дронам дозволять використовувати Starlink на 300 км углиб рф — WSJ пише, що таку угоду Україні запропонували республіканці на минулому тижні</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-16_09-13-25.jpg" length="69327" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 09:13:25 +0000</pubDate>
+      <title>🔥В Рязані триває пожежа в райо</title>
+      <link>https://www.mandarinai.lt/post/100583</link>
+      <description>🔥В Рязані триває пожежа в районі НПЗ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-16_10-36-06.jpg" length="128543" type="image/jpeg"/>
+      <pubDate>Fri, 16 Oct 2026 10:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Горять фури на парковці у Ко</title>
+      <link>https://www.mandarinai.lt/post/100585</link>
+      <description>⚡️Горять фури на парковці у Ковелі на Волині після атаки дрона.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-16_13-46-27.mp4" length="517976" type="video/mp4"/>
+      <pubDate>Fri, 16 Oct 2026 13:46:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
