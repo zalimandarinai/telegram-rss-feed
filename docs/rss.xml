@@ -6,19 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 23:53:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:03:58 +0000</lastBuildDate>
     <item>
       <title>💥На росії вночі вибухи лунали </title>
       <link>https://www.mandarinai.lt/post/0</link>
       <description>💥На росії вночі вибухи лунали під Москвою, в Рязані та у Владісірє. Результат уточнюється.</description>
       <pubDate>Fri, 16 Oct 2026 06:05:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬росія розпочала масовані удар</title>
-      <link>https://www.mandarinai.lt/post/100596</link>
-      <description>🤬росія розпочала масовані удари по об’єктах енергетики України, — начальник Генштабу Збройних сил рф Герасимов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-16_16-02-55.mp4" length="878098" type="video/mp4"/>
-      <pubDate>Fri, 16 Oct 2026 16:02:55 +0000</pubDate>
     </item>
     <item>
       <title>Журналіст: Ви хочете, щоб Зеле</title>
@@ -65,6 +58,13 @@
 За словами Зеленського, вони займатимуться боротьбою з реактивними безпілотниками</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-16_20-36-18.jpg" length="71523" type="image/jpeg"/>
       <pubDate>Fri, 16 Oct 2026 20:36:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️росіяни вдарили балістикою п</title>
+      <link>https://www.mandarinai.lt/post/100608</link>
+      <description>⚡️росіяни вдарили балістикою по житловому будинку у Запоріжжі, відомо про щонайменше 2 постраждалих, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-17_02-30-29.jpg" length="244209" type="image/jpeg"/>
+      <pubDate>Sat, 17 Oct 2026 02:30:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
