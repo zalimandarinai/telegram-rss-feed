@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 21:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:29:03 +0000</lastBuildDate>
     <item>
       <title>💥🔥Ця палаюча путінська нафта т</title>
       <link>https://www.mandarinai.lt/post/100675</link>
@@ -84,6 +84,13 @@
 Два роки тому він міг укласти вигіднішу угоду, ніж зараз. Його країна лежить у руїнах, більшу частину її території втрачено, його океани й моря зникли, а чоловіче населення скоротилося через поранення та загибель людей.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-18_20-47-37.jpg" length="211568" type="image/jpeg"/>
       <pubDate>Sun, 18 Oct 2026 20:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нічним ударом балістичної раке</title>
+      <link>https://www.mandarinai.lt/post/100688</link>
+      <description>Нічним ударом балістичної ракети пошкоджено в Києві навчальний заклад</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4458.MP4" length="4042934" type="video/mp4"/>
+      <pubDate>Sun, 18 Oct 2026 21:44:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
