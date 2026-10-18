@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 13:16:46 +0000</lastBuildDate>
-    <item>
-      <title>⚡️Одесу атакують «шахеди» на н</title>
-      <link>https://www.mandarinai.lt/post/100660</link>
-      <description>⚡️Одесу атакують «шахеди» на низьких висотах і врізаються у звичайні будинки.
-
-Тим часом ворог доставив на пускові рубежі понад 500 «шахедів», серед них сотні реактивних.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-18_09-23-09.mp4" length="1449067" type="video/mp4"/>
-      <pubDate>Sun, 18 Oct 2026 09:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥 У Fire Point підтвердили ура</title>
-      <link>https://www.mandarinai.lt/post/100663</link>
-      <description>🔥 У Fire Point підтвердили ураження дата-центру "ВКонтакте" під Санкт-Петербургом 
-
-Влучання сталося у н. п. Новосергіївка. Комплекс налічував понад 20 тисяч серверів і 640 серверних стійок. Користувачі "ВКонтакте" повідомляють про збої в роботі соцмережі.
-
-💥Також уражено Петербурзький нафтовий термінал, який є одним із найбільших нафтоналивних комплексів регіону.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-18_09-54-44.jpg" length="137760" type="image/jpeg"/>
-      <pubDate>Sun, 18 Oct 2026 09:54:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Oct 2026 16:41:40 +0000</lastBuildDate>
     <item>
       <title>❗️ Що горить в Петербурзі, крі</title>
       <link>https://www.mandarinai.lt/post/100666</link>
@@ -77,6 +57,41 @@
       <description>⚡️ В Білгороді палає підстанція</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-18_13-14-00.jpg" length="38753" type="image/jpeg"/>
       <pubDate>Sun, 18 Oct 2026 13:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️ Віце-президент США Вэнс роз</title>
+      <link>https://www.mandarinai.lt/post/100673</link>
+      <description>🎙️ Віце-президент США Вэнс розхвалює путіна і називає «дуже вдумливою розсудливою людиною», відповідаючи на запитання журналіста в ефірі FOX News
+
+💬 «Думаю, насправді він дбає про інтереси росії так, як сам їх розуміє. Одна з причин, чому він поважає президента Трампа, полягає в тому, що він розуміє, що президент дбає про інтереси народу США».
+
+➡️ Більше компліментів масовому вбивці роздають хіба що азійські диктатори з авторитарних країн.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4442.MP4" length="18070305" type="video/mp4"/>
+      <pubDate>Sun, 18 Oct 2026 13:28:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Ця палаюча путінська нафта т</title>
+      <link>https://www.mandarinai.lt/post/100675</link>
+      <description>💥🔥Ця палаюча путінська нафта точно не стане трампівським дизелем. В Пітері продовжуюь горіти кремлівські гроші на війну.
+
+🔥росЗМІ повідомили, що тривають пожежі на двох різних об’єктах паливної інфраструктури рф: морському терміналі, через який відвантажують нафтопродукти на експорт, і нафтобазі для зберігання та внутрішніх відвантажень пального.
+
+Один об’єкт пов’язаний із морським експортом. Інший — із логістикою бензину й дизеля.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-18_14-56-24.jpg" length="136521" type="image/jpeg"/>
+      <pubDate>Sun, 18 Oct 2026 14:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥👀 No Kings: у всіх 50 штатах </title>
+      <link>https://www.mandarinai.lt/post/100677</link>
+      <description>🔥👀 No Kings: у всіх 50 штатах США відбулися багатотисячні протести проти Трампа</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-18_15-46-11.mp4" length="715958" type="video/mp4"/>
+      <pubDate>Sun, 18 Oct 2026 15:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Операція «Vivaldi»: наземні ро</title>
+      <link>https://www.mandarinai.lt/post/100678</link>
+      <description>Операція «Vivaldi»: наземні роботизовані комплекси покосили кулеметами ворожу піхоту, яка спробувала просунутися в термоізоляційних плащах, - спрацювали оператори підрозділу NC13, вони в кадрі, керують рухом роботів</description>
+      <pubDate>Sun, 18 Oct 2026 16:15:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
