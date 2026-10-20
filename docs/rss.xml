@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 17:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:15:54 +0000</lastBuildDate>
     <item>
       <title>😡Приліт по ТЦ «Епіцентр» в Дуб</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -14,19 +14,6 @@
 
 Нагадаємо, вчора реактивний «шахед» знищив «Епіцентр» в Ковелі.</description>
       <pubDate>Tue, 20 Oct 2026 09:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️29 полонених, 108 ліквідован</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>❗️29 полонених, 108 ліквідованих окупантів і понад 1100 уражених цілей, - перші деталі спецоперації на Сумщині бійців «GROUP 10» Департаменту активних дій ГУР.</description>
-      <pubDate>Tue, 20 Oct 2026 09:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>📰 Британська жовта газета «The</title>
-      <link>https://www.mandarinai.lt/post/100780</link>
-      <description>📰 Британська жовта газета «The Sun» написала, що північнокорейського диктатора Кім Чен Ина госпіталізували до Пекіна, - режим Північної Кореї замість відповіді опублікував фотографії диктатора з виставки одягу та текстилю</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-20_15-28-40.jpg" length="116796" type="image/jpeg"/>
-      <pubDate>Tue, 20 Oct 2026 15:28:40 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Реактивний «шахед» влучив у</title>
@@ -73,6 +60,22 @@
 Також росіяни атакували машини рятувальників. Обійшлося без постраждалих.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-20_17-49-34.jpg" length="98433" type="image/jpeg"/>
       <pubDate>Tue, 20 Oct 2026 17:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Віткофф запропонує завтра п</title>
+      <link>https://www.mandarinai.lt/post/100794</link>
+      <description>⚡️ Віткофф запропонує завтра путіну провести особисті переговори з Зеленським і Трампом, – Politico</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-20_19-51-40.jpg" length="83910" type="image/jpeg"/>
+      <pubDate>Tue, 20 Oct 2026 19:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙄 Хегсет запевняє, що США не о</title>
+      <link>https://www.mandarinai.lt/post/100795</link>
+      <description>🙄 Хегсет запевняє, що США не обмежували роботу Starlink, а просто Україна могла порушити умови використання.
+
+«Ми нічого не обмежували. Існують умови надання послуг, яких потрібно дотримуватися, і в рамках цих умов компанія Starlink має право приймати відповідні рішення. Однак, з нашої точки зору, нічого не змінилося. Ми не давали жодних директив чи чогось подібного. І, звичайно, ми бажаємо українцям успіхів», — заявив глава Пентагону.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-20_20-56-00.mp4" length="1400341" type="video/mp4"/>
+      <pubDate>Tue, 20 Oct 2026 20:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
