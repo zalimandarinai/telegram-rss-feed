@@ -6,65 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 18:56:22 +0000</lastBuildDate>
-    <item>
-      <title>Зараз, після атаки, будівля ко</title>
-      <link>https://www.mandarinai.lt/post/100807</link>
-      <description>Зараз, після атаки, будівля компанії «Лугаком» виглядає ось так.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4557.MP4" length="24611083" type="video/mp4"/>
-      <pubDate>Wed, 21 Oct 2026 08:50:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸🇷🇺 Розпочалась зустріч спецп</title>
-      <link>https://www.mandarinai.lt/post/100808</link>
-      <description>🇺🇸🇷🇺 Розпочалась зустріч спецпредставника Трампа Віткоффа з воєнним злочинцем путіним, — повідомляють росЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-21_09-06-53.jpg" length="30623" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 09:06:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Новий вимір війни - вона йде в</title>
-      <link>https://www.mandarinai.lt/post/100809</link>
-      <description>Новий вимір війни - вона йде вже й під землею.
-
-Корпус «Хартія» разом з іншими підрозділами Сил оборони проводить підземну операцію «Велес».
-
-Нацгвардійці 2-го корпусу активно готувались саме до такої війни 
-
-«У нас унікальні люди, ми непереможна нація», – підкреслює героїзм і винахідливість наших бійців командир корпусу бригадний генерал Ігор «Корнет» Оболєнський.
-
-Далі буде більше</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4558.MP4" length="12561783" type="video/mp4"/>
-      <pubDate>Wed, 21 Oct 2026 10:02:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤡Посланець Трампа Віткофф — пу</title>
-      <link>https://www.mandarinai.lt/post/100810</link>
-      <description>🤡Посланець Трампа Віткофф — путіну:
-
-Ви так багато говорите про те, що президент Трамп — гуманіст. 
-
-Ви теж гуманіст, пане, і я це високо ціную. Я висловлюю вам свою повагу. Дякую ще раз.
-
-Треба це пережити, друзі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-21_11-47-10.mp4" length="1946384" type="video/mp4"/>
-      <pubDate>Wed, 21 Oct 2026 11:47:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>✈️🔥 російський винищувач Су-30</title>
-      <link>https://www.mandarinai.lt/post/100812</link>
-      <description>✈️🔥 російський винищувач Су-30СМ розбився у Калінінградській області, — росЗМІ.
-
-Літак рухнув біля кладовища, де в цей час ховали російського військового. Символічно вийшло.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-21_12-46-37.mp4" length="405276" type="video/mp4"/>
-      <pubDate>Wed, 21 Oct 2026 12:46:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️В Рівне реактивний дрон атак</title>
-      <link>https://www.mandarinai.lt/post/100814</link>
-      <description>❗️В Рівне реактивний дрон атакував гіпермаркет "Metro", – ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-21_12-54-07.jpg" length="235538" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 12:54:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 22:10:03 +0000</lastBuildDate>
     <item>
       <title>⚡️У кацапів мінус ще один Су-3</title>
       <link>https://www.mandarinai.lt/post/100819</link>
@@ -90,15 +32,81 @@
       <pubDate>Wed, 21 Oct 2026 17:52:18 +0000</pubDate>
     </item>
     <item>
-      <title>‼️ Росія погодилася на тристор</title>
+      <title>‼️ росія погодилася на тристор</title>
       <link>https://www.mandarinai.lt/post/100821</link>
-      <description>‼️ Росія погодилася на тристоронню зустріч делегацій України, США та рф. Американці пропонують провести її якомога швидше, — Зеленський
+      <description>‼️ росія погодилася на тристоронню зустріч делегацій України, США та рф. Американці пропонують провести її якомога швидше, — Зеленський
 
 За словами президента, Україна розраховує на переговори на початку листопада, однак остаточна дата поки що не узгоджена.
 
 Головна мета зустрічі — підготувати переговори Трампа, Зеленського та путіна на рівні лідерів. Також планується обговорити припинення вогню, зокрема удари по енергетичній інфраструктурі, обмін полоненими та гарантії безпеки.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-21_18-36-28.jpg" length="27280" type="image/jpeg"/>
       <pubDate>Wed, 21 Oct 2026 18:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Бракує слів. Цей чоловік [п</title>
+      <link>https://www.mandarinai.lt/post/100823</link>
+      <description>💬 «Бракує слів. Цей чоловік [путін] — убивця-загарбник, а ця нікчемна людина [Віткофф] робить йому дипломатичний аналог мінета!» - так колишній британський міністр торгівлі та член парламенту Великої Британії сер Конор Бернс реагує на те, що Віткофф публічно назвав путіна «гуманістом».
+
+Інші реакції політиків, які не мають страху і не втратили совість
+
+Сенатор США Том Тілліс:
+
+💬 «Якого хріна, Стіве? Заглянь у словник і подивися визначення слова «гуманіст». Тобі варто поїхати в Україну й запитати родини тих дітей, яких Путін викрав і вбив».
+
+Сенатор США Дік Дурбін:
+
+💬 «Називати воєнного злочинця Володимира Путіна «гуманістом» — це плювок в обличчя десяткам тисяч українських військових і мирних жителів, убитих Путіним під час його жорстокої війни».
+
+Британський політик Том Тугендгат:
+
+💬 «Путін — убивця. Його солдати використовують зґвалтування як зброю. Сьогоднішня Росія — це те, що президент Рейган цілком справедливо називав імперією зла».
+
+Сенатор США Джон Корнин:
+
+💬 «Ні, путін холоднокровний убивця».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-21_19-04-33.jpg" length="46418" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 19:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Щонайменше 6 балістичних рак</title>
+      <link>https://www.mandarinai.lt/post/100824</link>
+      <description>⚡️Щонайменше 6 балістичних ракет прилетіло по Києву. Вибухи лунають й надалі.
+
+UPD: Над Києвом по ракетами чисто. Пролунало 8 вибухів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-21_19-14-56.mp4" length="413257" type="video/mp4"/>
+      <pubDate>Wed, 21 Oct 2026 19:14:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Жителі Олешок змушені їсти т</title>
+      <link>https://www.mandarinai.lt/post/100826</link>
+      <description>‼️Жителі Олешок змушені їсти траву та кажуть, що помруть від голоду та холоду, якщо їх не визволять до зими, — Sky News</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-21_19-36-29.mp4" length="6851828" type="video/mp4"/>
+      <pubDate>Wed, 21 Oct 2026 19:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Ми як ніколи близькі до заве</title>
+      <link>https://www.mandarinai.lt/post/100827</link>
+      <description>⚡️Ми як ніколи близькі до завершення війни в Україні, — Трамп. 
+
+Президент США під час масштабної балістичної атаки на Київ заявив, що врегулювання війни путіна проти України зараз може бути ближчим, ніж будь-коли раніше.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-21_19-48-15.mp4" length="1672791" type="video/mp4"/>
+      <pubDate>Wed, 21 Oct 2026 19:48:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️США готують евакуацію співро</title>
+      <link>https://www.mandarinai.lt/post/100828</link>
+      <description>⚡️США готують евакуацію співробітників посольств і членів їхніх сімей із країн Перської затоки через загрозу поновлення бойових дій, — Reuters
+
+За даними американських посадовців, виїзд може охопити весь персонал дипломатичної місії США в Саудівській Аравії. Причиною стали побоювання нових атак єменських хуситів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-21_19-55-08.jpg" length="131355" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 19:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Київ і кияни під атакою конч</title>
+      <link>https://www.mandarinai.lt/post/100829</link>
+      <description>⚡️Київ і кияни під атакою конченої русні</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-21_20-00-26.mp4" length="1315102" type="video/mp4"/>
+      <pubDate>Wed, 21 Oct 2026 20:00:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
