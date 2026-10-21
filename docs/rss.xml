@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 21:15:54 +0000</lastBuildDate>
-    <item>
-      <title>😡Приліт по ТЦ «Епіцентр» в Дуб</title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>😡Приліт по ТЦ «Епіцентр» в Дубно на Рівненщині – рятувальнки намагаються загасити пожежу
-
-Нагадаємо, вчора реактивний «шахед» знищив «Епіцентр» в Ковелі.</description>
-      <pubDate>Tue, 20 Oct 2026 09:25:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 00:01:13 +0000</lastBuildDate>
     <item>
       <title>❗️ Реактивний «шахед» влучив у</title>
       <link>https://www.mandarinai.lt/post/100784</link>
@@ -76,6 +68,13 @@
 «Ми нічого не обмежували. Існують умови надання послуг, яких потрібно дотримуватися, і в рамках цих умов компанія Starlink має право приймати відповідні рішення. Однак, з нашої точки зору, нічого не змінилося. Ми не давали жодних директив чи чогось подібного. І, звичайно, ми бажаємо українцям успіхів», — заявив глава Пентагону.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-20_20-56-00.mp4" length="1400341" type="video/mp4"/>
       <pubDate>Tue, 20 Oct 2026 20:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ В Луцьку масштабна пожежа п</title>
+      <link>https://www.mandarinai.lt/post/100796</link>
+      <description>⚡️ В Луцьку масштабна пожежа після атаки дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4555.MP4" length="1513538" type="video/mp4"/>
+      <pubDate>Tue, 20 Oct 2026 22:27:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
