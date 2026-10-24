@@ -6,29 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 14:04:52 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Для України розробили малог</title>
-      <link>https://www.mandarinai.lt/post/100913</link>
-      <description>❗️ Для України розробили малогабаритну крилату ракету «Rusty Dagger» та адаптували її для запуску з наземної установки, - компанія «Zone 5 Technologies»
-
-▫️ Версія «Rusty Dagger Block 40» може нести бойові частини масою від 45 до 112 кг. 
-
-▫️ Боєприпас також можна запускати з літаків.
-
-▫️ Для запуску з наземних або морських платформ у хвостовій частині ракети встановлюють твердопаливний стартовий прискорювач.
-
-▫️ Дальність авіаційної «Rusty Dagger» становить близько 556 км, якщо робити пуск з малої висоти, та близько 926 км, якщо на середній висоті зі швидкісних літаків; проте, дальність наземної конфігурації «Block 40» не розголошують.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-24_08-18-33.jpg" length="22979" type="image/jpeg"/>
-      <pubDate>Sat, 24 Oct 2026 08:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>✅У анексованому Севастополі пр</title>
-      <link>https://www.mandarinai.lt/post/100917</link>
-      <description>✅У анексованому Севастополі припинено роботу тролейбусів, зникло електропостачання та зв'язок після атаки БПЛА на ключовий вузол енергомосту, що з'єднує півострів з росією.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-24_08-42-19.jpg" length="128145" type="image/jpeg"/>
-      <pubDate>Sat, 24 Oct 2026 08:42:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 17:27:15 +0000</lastBuildDate>
     <item>
       <title>💥🔥Генштаб ЗСУ підтвердив атаку</title>
       <link>https://www.mandarinai.lt/post/100918</link>
@@ -87,18 +65,45 @@
       <pubDate>Sat, 24 Oct 2026 11:02:55 +0000</pubDate>
     </item>
     <item>
-      <title>Красиво збили «шахед». Дякуємо</title>
-      <link>https://www.mandarinai.lt/post/100924</link>
-      <description>Красиво збили «шахед». Дякуємо екіпажам гелікоптерів. Раніше ми робили сюжет про те, як одна з бригад армійської авіації полює за російськими безпілотниками https://m.youtube.com/watch?v=8PILfBdNnWQ&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4637.MP4" length="3614017" type="video/mp4"/>
-      <pubDate>Sat, 24 Oct 2026 11:21:49 +0000</pubDate>
-    </item>
-    <item>
       <title>💥🔥Після влучання в Омську спал</title>
       <link>https://www.mandarinai.lt/post/100926</link>
       <description>💥🔥Після влучання в Омську спалахнула масштабна пожежа.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-24_13-38-47.mp4" length="154662" type="video/mp4"/>
       <pubDate>Sat, 24 Oct 2026 13:38:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>До Конгресу США внесли законоп</title>
+      <link>https://www.mandarinai.lt/post/100930</link>
+      <description>До Конгресу США внесли законопроєкт про скасування дизельної угоди з росією, який анулює ліцензію Мінфіну та забороняє нові дозволи на імпорт енергоносіїв</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-24_14-11-55.jpg" length="75953" type="image/jpeg"/>
+      <pubDate>Sat, 24 Oct 2026 14:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Глибокий тил рф під ударом. В</title>
+      <link>https://www.mandarinai.lt/post/100931</link>
+      <description>🔥Глибокий тил рф під ударом. В місті Омськ під атакований нафтохімічний завод «Омський каучук». 
+
+Після влучання на території підприємства спалахнула масштабна пожежа.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-24_14-12-49.mp4" length="1416351" type="video/mp4"/>
+      <pubDate>Sat, 24 Oct 2026 14:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Харків під атакою російськи</title>
+      <link>https://www.mandarinai.lt/post/100932</link>
+      <description>❗️ Харків під атакою російських окупантів, удар по торговому центру в місті, — Терехов.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4639.MP4" length="177317" type="video/mp4"/>
+      <pubDate>Sat, 24 Oct 2026 17:14:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥У російському Омську дрони ат</title>
+      <link>https://www.mandarinai.lt/post/100934</link>
+      <description>💥У російському Омську дрони атакували хімзавод «Омський каучук» і логістичний хаб маркетплейсу Ozon
+
+За даними місцевої влади, безпілотники дісталися північного промислового вузла міста. В Ozon підтвердили атаку на логістичний центр
+
+Після атаки на об’єктах виникла пожежа. Українські військові наразі не коментували удар.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-24_17-23-53.mp4" length="812963" type="video/mp4"/>
+      <pubDate>Sat, 24 Oct 2026 17:23:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
