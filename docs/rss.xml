@@ -6,78 +6,83 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 13:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:24:14 +0000</lastBuildDate>
     <item>
       <title>❗️ Тотальне знищення мережі: л</title>
-      <link>https://www.mandarinai.lt/post/100980</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ Тотальне знищення мережі: лише за добу росіяни атакували «Епіцентр» у Харкові, Запоріжжі, Вінниці та Полтаві, - заява компанії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_10-54-12.jpg" length="50698" type="image/jpeg"/>
       <pubDate>Sun, 25 Oct 2026 10:54:12 +0000</pubDate>
     </item>
     <item>
       <title>💥🔥Ракети атакують завод «Енерг</title>
-      <link>https://www.mandarinai.lt/post/100981</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>💥🔥Ракети атакують завод «Енергія» в Єльці Липецької області.
 
 Підприємство працює на ВПК рф, виробляє батареї та акумулятори для ракетних комплексів, авіації та іншої військової техніки.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_11-15-20.jpg" length="115830" type="image/jpeg"/>
       <pubDate>Sun, 25 Oct 2026 11:15:20 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ Приліт по автівці з окупант</title>
-      <link>https://www.mandarinai.lt/post/100982</link>
-      <description>❗️ Приліт по автівці з окупантами в тилу далеко від лінії фронту був для них дуже несподіваним, - 77-а ОАЕМБР</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4653.MP4" length="14365946" type="video/mp4"/>
-      <pubDate>Sun, 25 Oct 2026 11:39:20 +0000</pubDate>
+      <title>❗️ Наземні камікадзе підрозділ</title>
+      <link>https://www.mandarinai.lt/post/101008</link>
+      <description>❗️ Наземні камікадзе підрозділу «NC13» стали одним з несподіваних факторів успіху операції «Vivaldi»: вони масово підривали укриття з піхотою і на передовій, і в тилу, наводячи жах на окупантів.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4671.MP4" length="16141725" type="video/mp4"/>
+      <pubDate>Sun, 25 Oct 2026 15:40:55 +0000</pubDate>
     </item>
     <item>
-      <title>Канадська компанія Telesat пла</title>
-      <link>https://www.mandarinai.lt/post/100983</link>
-      <description>Канадська компанія Telesat планує надати Україні альтернативу Starlink, починаючи створювати власну низькоорбітальну супутникову мережу Lightspeed - на початку 2028 року вона почне працювати.
+      <title>🤔Масові протести дедалі більше</title>
+      <link>https://www.mandarinai.lt/post/101009</link>
+      <description>🤔Масові протести дедалі більше охоплюють Європу, акції протесту вже пройшли у 12 країнах, і в низці випадків поліції довелося застосовувати силу.
 
-В Канаді не приховують, що причиною відмовитись від Starlink було рішення уряду США тимчасово обмежити використання Україною системи Starshield, що порушило оборонні операції країни і залишило українців ще більш вразливими до безперервних російських атак.
+Головні причини — зростання цін, дорожче житло й пальне, низькі зарплати та невдоволення політикою влади.
 
-Це також змусило союзників США, які все частіше мають розбіжності з адміністрацією Дональда Трампа, переосмислити свою залежність від американських технологій.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_12-03-13.jpg" length="110573" type="image/jpeg"/>
-      <pubDate>Sun, 25 Oct 2026 12:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥Повідомляють про щонайменше </title>
-      <link>https://www.mandarinai.lt/post/100988</link>
-      <description>💥🔥Повідомляють про щонайменше 4 влучання Storm Shadow по заводу «Енергія» в Ліпецькій області рф. На військовому підприємстві путіна сильна пожежа</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_12-09-17.jpg" length="97481" type="image/jpeg"/>
-      <pubDate>Sun, 25 Oct 2026 12:09:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Четверо російських окупанті</title>
-      <link>https://www.mandarinai.lt/post/100992</link>
-      <description>❗️ Четверо російських окупантів здаються українським військовим під землею біля Купʼянська в трубі</description>
-      <pubDate>Sun, 25 Oct 2026 12:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>З прапорами в руках і сльозами</title>
-      <link>https://www.mandarinai.lt/post/100993</link>
-      <description>З прапорами в руках і сльозами на очах, - пілот Мі-24 з позивним «Air Davy» зняв, як на Харківщині зустрічають його гелікоптер в той момент, коли він повертається з бойового завдання.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4661.MP4" length="12804714" type="video/mp4"/>
-      <pubDate>Sun, 25 Oct 2026 13:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬Значних пошкоджень зазнав «Еп</title>
-      <link>https://www.mandarinai.lt/post/100994</link>
-      <description>🤬Значних пошкоджень зазнав «Епіцентр» у Полтаві внаслідок російської атаки.
+🟡 У Франції за даними профспілки на вулиці вийшли майже 800 тисяч,  поліція називає майже вдвічі менше цифру. Влада залучила 70 тисяч співробітників сил безпеки.
 
-Менш ніж за добу росіяни атакували чотири  торговельних центра мережі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_13-22-00.jpg" length="202124" type="image/jpeg"/>
-      <pubDate>Sun, 25 Oct 2026 13:22:00 +0000</pubDate>
+🟡 Італія: протести в Мілані, Римі й Турині супроводжувалися сутичками з поліцією.
+
+🟡 Албанія: у Тирані протестувальники підпалили вхід до Міністерства сільського господарства. Поліція застосувала газ і водомети.
+
+🟡 Іспанія: у Мадриді протестували близько 25 тисяч людей. Вимоги стосувалися пенсій і соціального захисту.
+
+🟡 Бельгія та Португалія: люди виступили проти скорочення соціальних видатків і житлової кризи. У деяких випадках відбулися сутички з поліцією.
+
+🟡 Сербія: студентські протести тривають із вимогами боротьби з корупцією та політичних змін.
+
+Акції також відбувалися в Німеччині, Австрії, Греції, Ірландії та Нідерландах.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-25_16-03-36.mp4" length="1213774" type="video/mp4"/>
+      <pubDate>Sun, 25 Oct 2026 16:03:36 +0000</pubDate>
     </item>
     <item>
-      <title>💥Момент атаки крилатих ракет S</title>
-      <link>https://www.mandarinai.lt/post/100996</link>
-      <description>💥Момент атаки крилатих ракет Storm Shadow по цехах заводу «Енергія» в Липецькій області.
+      <title>💥🔥У російському Єльці внаслідо</title>
+      <link>https://www.mandarinai.lt/post/101014</link>
+      <description>💥🔥У російському Єльці внаслідок удару фактично знищено виробничий корпус заводу "Енергія", - моніторингові канали
 
-Підприємство «Енергія» виробляє елементи живлення для ракетних комплексів та БпЛА.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-25_13-33-51.mp4" length="4751481" type="video/mp4"/>
-      <pubDate>Sun, 25 Oct 2026 13:33:51 +0000</pubDate>
+На кадрах об'єктивного контролю видно масштабну пожежу, сильне задимлення та серйозні пошкодження будівлі на всіх поверхах – як фасаду, так і внутрішніх приміщень.
+
+Судячи з характеру руйнувань, подальше використання цього корпусу за призначенням неможливе.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_16-12-18.jpg" length="193471" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 16:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>😵 Ми повинні проявити співчутт</title>
+      <link>https://www.mandarinai.lt/post/101016</link>
+      <description>😵 Ми повинні проявити співчуття й до бідних російських призовників — у цих хлопців немає іншого вибору, як воювати й гинути під ударами БПЛА. Різанина між рф і Україною має припинитися— Ілон Маск.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_16-13-41.jpg" length="129656" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 16:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Військові цілі путіна в Укр</title>
+      <link>https://www.mandarinai.lt/post/101017</link>
+      <description>💬 «Військові цілі путіна в Україні не в захопленні територій, а у встановленні повного контролю над нею. Адже росія завжди існувала, як імперія», - пояснює французький історик і дослідник росії Ніколя Верт.
+
+🎙️ Він заявив, що російський режим як був, так і залишається імперіалістичним.
+
+⚠️ Ані російське суспільство, ані Кремль поки що досі не змирилися з розпадом СРСР. 
+
+➡️ Тому війна в Україні, на думку Ніколя Верта, йде за відновлення повного російського контролю над Києвом.
+
+💬 «По суті, Ленін ще у 1918 році заявляв: «Якщо ми втратимо Україну, ми програємо!». Тому що Україна була найбільш квітучою та економічно найбагатшою у новому Радянському Союзі. Сталін говорив те саме. І путін, і росія сьогодні повторюють те саме — нам потрібна Україна - те, що казав Сталін, те, що казав Ленін», - зазначив історик</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4673.MP4" length="7230451" type="video/mp4"/>
+      <pubDate>Sun, 25 Oct 2026 16:57:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
