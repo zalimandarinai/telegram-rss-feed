@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 00:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:19:26 +0000</lastBuildDate>
     <item>
       <title>💥🔥У російському Єльці внаслідо</title>
       <link>https://www.mandarinai.lt/post/101014</link>
@@ -108,6 +108,13 @@
 За даними видання, Орбан також зацікавлений у цій пропозиції, але сумнівається у перемозі. Очікується, що Трамп і Джей Ді Венс публічно підтримають його кандидатуру після проміжних виборів у США.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-25_23-53-27.jpg" length="166468" type="image/jpeg"/>
       <pubDate>Sun, 25 Oct 2026 23:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥Воронеж під атакою дронів вже</title>
+      <link>https://www.mandarinai.lt/post/101028</link>
+      <description>💥Воронеж під атакою дронів вже кілька годин</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-26_04-02-39.jpg" length="91174" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 04:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
