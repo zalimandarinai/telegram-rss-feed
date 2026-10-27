@@ -6,27 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 21:52:35 +0000</lastBuildDate>
-    <item>
-      <title>🔴Україна завершила свою частин</title>
-      <link>https://www.mandarinai.lt/post/101050</link>
-      <description>🔴Україна завершила свою частину робіт над спільною європейською протибалістичною ракетою Freyja, — Зеленський
-
-Те, що мають зробити партнери, - участь беруть 10 країн - перебуває в процесі, додав він.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-26_13-49-58.jpg" length="210895" type="image/jpeg"/>
-      <pubDate>Mon, 26 Oct 2026 13:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Під час операції «Велес» корпу</title>
-      <link>https://www.mandarinai.lt/post/101052</link>
-      <description>Під час операції «Велес» корпус «Хартія» взяв в полон понад 30 російських бійців, які перебували в трубі газогону на Куп’янщині.
-
-Одну з груп вдалося відрізати від основних сил загарбників – і після тривалих боїв частина росіян здалась у полон. 
-
-Полонені дали згоду на розмову – розповіли про місяці в ізоляції, російську логістику та підземний побут, штурми та комунікації, рішення здатися в полон і те, як їх прийняли хартійці https://m.youtube.com/watch?v=w6G6jIDkgQ4&amp;pp=iggCQAE%3D&amp;ra=m</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4695.MOV" length="29075760" type="video/mp4"/>
-      <pubDate>Mon, 26 Oct 2026 13:57:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 01:08:40 +0000</lastBuildDate>
     <item>
       <title>❗️ Історія робиться просто на </title>
       <link>https://www.mandarinai.lt/post/101053</link>
@@ -71,6 +51,38 @@
       <description>⚡️Внаслідок атаки рф є загиблі і поранені в районі одного з гуртожитків Державного торговельно-економічного університету в Києві, – повідомляють місцеві ЗМІ.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-26_21-06-18.mp4" length="1070361" type="video/mp4"/>
       <pubDate>Mon, 26 Oct 2026 21:06:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кадри торгового центру «Auchan</title>
+      <link>https://www.mandarinai.lt/post/101063</link>
+      <description>Кадри торгового центру «Auchan» після ударів по столиці</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4700.MP4" length="5184791" type="video/mp4"/>
+      <pubDate>Mon, 26 Oct 2026 22:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог вдарив по центральній ча</title>
+      <link>https://www.mandarinai.lt/post/101065</link>
+      <description>Ворог вдарив по центральній частині міста Лозова в Харківській області</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-26_23-17-40.jpg" length="99824" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 23:17:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Курс нового керівництва Сербії</title>
+      <link>https://www.mandarinai.lt/post/101066</link>
+      <description>Курс нового керівництва Сербії може стати неприємним сюрпризом: Белград вже обіцяє перекрити постачання зброї Україні
+
+Новий уряд Сербії пообіцяв припинити будь-який експорт зброї в зони бойових дій, зокрема постачання західним посередникам, які потім передають озброєння Україні.
+
+Також «Студентський список» заявив, що не відмовиться від російського газу і не буде вводити санкції проти росії, оскільки вона для Белграда  є важливим партнером, - про це повідомляє Reuters.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-26_23-18-28.jpg" length="65309" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 23:18:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Момент ударів по Державному</title>
+      <link>https://www.mandarinai.lt/post/101067</link>
+      <description>❗️ Момент ударів по Державному торговельно-економічному університету в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4703.MP4" length="5138854" type="video/mp4"/>
+      <pubDate>Mon, 26 Oct 2026 23:21:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
