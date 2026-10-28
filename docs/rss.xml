@@ -6,60 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 01:35:15 +0000</lastBuildDate>
-    <item>
-      <title>⚡️🔥ЗСУ відкинули ворога на Хар</title>
-      <link>https://www.mandarinai.lt/post/101107</link>
-      <description>⚡️🔥ЗСУ відкинули ворога на Харківщині! Підземна операція «Велес» на Куп'янському напрямку: 2-й корпус НГУ «Хартія»  знищив понад сто окупантів і взяв у полон понад тридцять. Просування під землею становить понад 15 кілометрів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-27_16-52-30.mp4" length="7871768" type="video/mp4"/>
-      <pubDate>Tue, 27 Oct 2026 16:52:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥺Вперше за майже 5 років повно</title>
-      <link>https://www.mandarinai.lt/post/101108</link>
-      <description>🥺Вперше за майже 5 років повномасштабної війни в Херсоні стало відчутно тихо, пише "Суспільне".
-
-Уповноважений з прав людини Дмитро Лубінець підтвердив, що Україна та росія з ночі дотримуються домовленостей про режим тиші на територіях, пов'язаних з гуманітарною місією в Олешках.
-
-Перемир'я триватиме до 1 листопада.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-27_17-44-37.jpg" length="127569" type="image/jpeg"/>
-      <pubDate>Tue, 27 Oct 2026 17:44:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪖🗣 Українські війська зараз ут</title>
-      <link>https://www.mandarinai.lt/post/101112</link>
-      <description>🪖🗣 Українські війська зараз утримують найсильніші позиції на фронті за тривалий період війни, — Зеленський
-
-Президент розповів про три важливі операції ЗСУ у 2026 році:
-
-▪️ДШВ — звільнили понад 800 км² території.
-▪️«Вівальді» — повернули під контроль понад 200 км² на Донеччині.
-▪️«Велес» — операція корпусу НГУ «Хартія», яка зміцнює українські позиції під Куп’янськом.
-
-💥Зеленський додав, що більша підтримка партнерів, особливо постачання Patriot та інших систем ППО, дозволила б Україні значно посилити й дипломатичні позиції.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-27_18-37-04.jpg" length="272837" type="image/jpeg"/>
-      <pubDate>Tue, 27 Oct 2026 18:37:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Усі охочі зможуть виїхати з ок</title>
-      <link>https://www.mandarinai.lt/post/101113</link>
-      <description>Усі охочі зможуть виїхати з окупованих Олешок на підконтрольну Україні територію, — омбудсмен Дмитро Лубінець
-
-За його словами, режим тиші дотримується, порушень і спроб просування російських військ не зафіксовано. Після розмінування дороги та доставки гуманітарного вантажу до міста прибудуть представники трьох країн.
-
-Лубінець наголосив, що допомогу отримають усі, хто її потребує. За його словами, організувати гуманітарну місію вдалося за участі Меланії Трамп.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-27_18-37-11.mp4" length="7847052" type="video/mp4"/>
-      <pubDate>Tue, 27 Oct 2026 18:37:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤬російські нафтопереробні заво</title>
-      <link>https://www.mandarinai.lt/post/101114</link>
-      <description>🤬російські нафтопереробні заводи збільшили обсяги переробки нафти на 25% після припинення атак БПЛА на тлі оголошеного Трампом "енергетичного перемир'я", - Reuters
-
- Це сталося на тлі припинення атак українських безпілотників на російські нафтозаводи. Остання атака була 16 жовтня</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-27_18-55-28.jpg" length="20335" type="image/jpeg"/>
-      <pubDate>Tue, 27 Oct 2026 18:55:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 07:26:18 +0000</lastBuildDate>
     <item>
       <title>💥 Україна збиває до 80% реакти</title>
       <link>https://www.mandarinai.lt/post/101115</link>
@@ -93,6 +40,29 @@
       <description>💥🔥Пожежа після атаки на металургійному комбінаті в Ліпецьку</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-27_21-11-25.jpg" length="50707" type="image/jpeg"/>
       <pubDate>Tue, 27 Oct 2026 21:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Хімзавод "Азот" у Новомосков</title>
+      <link>https://www.mandarinai.lt/post/101121</link>
+      <description>💥🔥Хімзавод "Азот" у Новомосковську атакували українські сили</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-28_06-20-39.jpg" length="87065" type="image/jpeg"/>
+      <pubDate>Wed, 28 Oct 2026 06:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Незабаром відбудеться зустріч </title>
+      <link>https://www.mandarinai.lt/post/101125</link>
+      <description>Незабаром відбудеться зустріч з президентом путіним і президентом Зеленським. Я вважаю, що ми досягаємо значного прогресу на шляху до закінчення війни, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-28_06-29-56.mp4" length="1211145" type="video/mp4"/>
+      <pubDate>Wed, 28 Oct 2026 06:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Тульській області палає ат</title>
+      <link>https://www.mandarinai.lt/post/101126</link>
+      <description>💥🔥У Тульській області палає атакований вночі хімічний завод "Азот" 
+
+Це підприємство є одним із найбільших виробників азотних добрив у росії. Воно забезпечує завод імені Свердлова в Дзержинську азотною кислотою, який виробляє вибухові речовини</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-28_06-34-07.mp4" length="570932" type="video/mp4"/>
+      <pubDate>Wed, 28 Oct 2026 06:34:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
