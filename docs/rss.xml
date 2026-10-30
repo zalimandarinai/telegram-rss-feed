@@ -6,16 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 21:18:11 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Попередньо, росія втратила </title>
-      <link>https://www.mandarinai.lt/post/101188</link>
-      <description>❗️ Попередньо, росія втратила два винищувачі Су-34 на аеродромі «Мариновка» у Волгоградській області, - монітори
-
-Перевіряємо інформацію</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-29_15-01-19.jpg" length="37624" type="image/jpeg"/>
-      <pubDate>Thu, 29 Oct 2026 15:01:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 01:14:28 +0000</lastBuildDate>
     <item>
       <title>Терор Дніпра триває сьогодні м</title>
       <link>https://www.mandarinai.lt/post/101190</link>
@@ -91,6 +82,19 @@ UPD.
       <description>🤬Київ під час сьогоднішньої балістичної атаки</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-29_21-14-50.mp4" length="712342" type="video/mp4"/>
       <pubDate>Thu, 29 Oct 2026 21:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>📌росія може готувати наступ на</title>
+      <link>https://www.mandarinai.lt/post/101203</link>
+      <description>📌росія може готувати наступ на Херсон під час перемир'я в Олешках, - Bild
+
+російські війська, ймовірно, готують масштабний наступ на Херсон, використовуючи тимчасове припинення вогню в окупованих Олешках для перекидання техніки та військовослужбовців. Про це BILD повідомили українські військові: вони стверджують, що зафіксували на відео активне переміщення російських підрозділів. За їхньою оцінкою, наступ може розпочатися після завершення перемир'я 1 листопада. Проте, незалежного підтвердження цих планів поки що немає.
+
+Один з українських військових розповів BILD, що російські вантажівки КамАЗ безперервно перевозять бойові підрозділи, а промислову зону Каховки облаштовують протидроновими сітками. За його словами, в лісі біля села Раденськ російські війська розмістили велику кількість реактивних систем залпового вогню "Град", там же вони укріплюють укриття та вирубують дерева.
+
+Про пересування численних російських військових вантажівок також повідомляють жителі Голої Пристані. Інший український військовий заявив BILD, що російські підрозділи безпілотників переміщуються ближче до Дніпра. Він не виключив спроби російських військ форсувати річку після закінчення перемир'я.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-29_22-33-52.jpg" length="145959" type="image/jpeg"/>
+      <pubDate>Thu, 29 Oct 2026 22:33:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
