@@ -6,88 +6,91 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 08:39:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:45:59 +0000</lastBuildDate>
     <item>
-      <title>🤯Колони поліції з інших регіон</title>
-      <link>https://www.mandarinai.lt/post/101266</link>
-      <description>🤯Колони поліції з інших регіонів Польщі рухаються на Варшаву. Ситуація загострюється.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-30_21-40-17.mp4" length="5570573" type="video/mp4"/>
-      <pubDate>Fri, 30 Oct 2026 21:40:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Навроцький прибув на місце под</title>
-      <link>https://www.mandarinai.lt/post/101267</link>
-      <description>Навроцький прибув на місце подій у столиці Польщі
+      <title>🔥 У Ростовській області уражен</title>
+      <link>https://www.mandarinai.lt/post/101285</link>
+      <description>🔥 У Ростовській області уражено комбінат «Каменський», який виготовляє паливо та вибухівку для РСЗВ і ППО рф, — АНД
 
-Як повідомляють польські ЗМІ, президентський кортеж заїхав на територію президентського палацу у Варшаві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-30_21-41-27.mp4" length="2719548" type="video/mp4"/>
-      <pubDate>Fri, 30 Oct 2026 21:41:27 +0000</pubDate>
+Сили оборони України завдали по підприємству комбінованого удару, зокрема ракетами «Нептун». Внаслідок цього пошкоджено щонайменше чотири цехи та спалахнув склад.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_10-38-38.jpg" length="261714" type="image/jpeg"/>
+      <pubDate>Sat, 31 Oct 2026 10:38:38 +0000</pubDate>
     </item>
     <item>
-      <title>🔴Україна навчилася завдавати у</title>
-      <link>https://www.mandarinai.lt/post/101269</link>
-      <description>🔴Україна навчилася завдавати ударів по рф без Starlink
+      <title>💩русня вже звинувачує Україну </title>
+      <link>https://www.mandarinai.lt/post/101286</link>
+      <description>💩русня вже звинувачує Україну у порушенні режиму тиші в Олешках</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_11-07-05.jpg" length="130694" type="image/jpeg"/>
+      <pubDate>Sat, 31 Oct 2026 11:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Біля резиденції Трампа в штаті</title>
+      <link>https://www.mandarinai.lt/post/101287</link>
+      <description>Біля резиденції Трампа в штаті Флорида помітили дві системи ППО.
 
-Українська компанія Fire Point розробила технології, які дозволяють її далекобійним системам виконувати бойові завдання без супутникового зв'язку SpaceX. Йдеться про удари по цілях у росії та на окупованих територіях. Про це заявила глава компанії Ірина Терех в інтерв'ю Reuters.
+Дві системи Avenger встановлені на баржі неподалік маєтку президента США у Мар-а-Лаго.
 
-За її словами, системи спочатку були спроєктовані так, щоб завершувати місію без зовнішнього сигналу, використовуючи автономну навігацію:
+Йдеться про зенітні ракетні комплекси AN/TWQ-1 на базі бронеавтомобіля Humvee.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_11-12-23.jpg" length="233131" type="image/jpeg"/>
+      <pubDate>Sat, 31 Oct 2026 11:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В московському Шереметьєво за</title>
+      <link>https://www.mandarinai.lt/post/101288</link>
+      <description>🔥В московському Шереметьєво загоряння на території аеропорту поруч розташована нафтобаза "Роснефть"
 
-«Ми знайшли спосіб технологічно подолати цю проблему, але це, ймовірно, охоплює лише 15-20% того, що ми могли б зробити, якби Starlink працював над Росією», — сказала Терех в інтерв'ю під час візиту до Лондона цього місяця.
+Балерина Волочкова скаржитися, що замерзає в літаку, який 6 годин чекає на виліт</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_11-25-23.jpg" length="247828" type="image/jpeg"/>
+      <pubDate>Sat, 31 Oct 2026 11:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Оператори ЦСО «Альфа» СБУ з</title>
+      <link>https://www.mandarinai.lt/post/101291</link>
+      <description>❗️ Оператори ЦСО «Альфа» СБУ знешкодили 3198 російських військових за тиждень.
 
-Глава Fire Point також повідомила, що цього місяця Україна вперше застосувала в бою тактичну балістичну ракету FP-7 компанії Fire Point з дальністю близько 300 км, яка може використовуватися для знищення російських пускових установок "Іскандер": вони здатні змінити позицію раніше, ніж до них дістануться більш повільні ударні дрони. За словами Терех, це дешевше, ніж використання перехоплювачів Patriot.
+➡️ За верифікованими даними спецпідрозділу:
 
-«Ми хочемо союзу з Америкою, в якому правила будуть відомі заздалегідь, щоб питання про те, чи дозволено нам захищатися, не виникало кожні кілька тижнів залежно від настрою когось», — додала Терех.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_05-55-09.jpg" length="72390" type="image/jpeg"/>
-      <pubDate>Sat, 31 Oct 2026 05:55:09 +0000</pubDate>
+🔻 2146 окупантів — ліквідовано;
+🔻 1052 — поранено.</description>
+      <pubDate>Sat, 31 Oct 2026 11:30:40 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥В російській Уфі пожежа післ</title>
-      <link>https://www.mandarinai.lt/post/101270</link>
-      <description>💥🔥В російській Уфі пожежа після атаки дронів на НПЗ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_05-57-01.jpg" length="88383" type="image/jpeg"/>
-      <pubDate>Sat, 31 Oct 2026 05:57:01 +0000</pubDate>
+      <title>Спецпризначенці 1-го окремого </title>
+      <link>https://www.mandarinai.lt/post/101292</link>
+      <description>Спецпризначенці 1-го окремого загону ЦСП «ОМЕГА» провели контрдиверсійні заходи на Донеччині.
+
+Військовослужбовці 1-го окремого загону Центру спеціального призначення «ОМЕГА» провели комплекс контрдиверсійних заходів із виявлення та нейтралізації противника.
+
+Під час виконання завдання спецпризначенці встановили контроль над позиціями противника та захопили в полон російських військовослужбовців.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4872.MP4" length="16600117" type="video/mp4"/>
+      <pubDate>Sat, 31 Oct 2026 12:12:37 +0000</pubDate>
     </item>
     <item>
-      <title>✅Німеччина продовжила тимчасов</title>
-      <link>https://www.mandarinai.lt/post/101272</link>
-      <description>✅Німеччина продовжила тимчасовий захист українців до 2028 року, але новоприбулим чоловікам призовного віку можуть відмовити, якщо вони не доведуть, що законно виїхали з України та не підлягають мобілізації, — МВС країни</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_07-03-50.jpg" length="86279" type="image/jpeg"/>
-      <pubDate>Sat, 31 Oct 2026 07:03:50 +0000</pubDate>
+      <title>⚡️ «Мить, на яку ми всі чекали</title>
+      <link>https://www.mandarinai.lt/post/101293</link>
+      <description>⚡️ «Мить, на яку ми всі чекали! Жителі Олешок перетнули кордон. Гуманітарна місія завершилась успішно», - Лубінець</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4873.MP4" length="9167076" type="video/mp4"/>
+      <pubDate>Sat, 31 Oct 2026 13:29:42 +0000</pubDate>
     </item>
     <item>
-      <title>🔥🔥🔥На нафтоперобному заводі в </title>
-      <link>https://www.mandarinai.lt/post/101273</link>
-      <description>🔥🔥🔥На нафтоперобному заводі в Уфі після атаки українських сил палає вже в трьох локаціях!</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-31_07-31-12.mp4" length="1809973" type="video/mp4"/>
-      <pubDate>Sat, 31 Oct 2026 07:31:12 +0000</pubDate>
+      <title>💬 «Справжнє диво», - родина Па</title>
+      <link>https://www.mandarinai.lt/post/101294</link>
+      <description>💬 «Справжнє диво», - родина Паліїв з Олешків нарешті воззʼєдналася.
+
+🎥ТСН</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4874.MP4" length="7800506" type="video/mp4"/>
+      <pubDate>Sat, 31 Oct 2026 13:35:03 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Українці, евакуйовані з Олеш</title>
-      <link>https://www.mandarinai.lt/post/101275</link>
-      <description>⚡️Українці, евакуйовані з Олешок, вже в Гомелі і за кілька годин повернуться на підконтрольну Україні територію</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-31_08-28-39.mp4" length="1318771" type="video/mp4"/>
-      <pubDate>Sat, 31 Oct 2026 08:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇵🇱 Міністр юстиції Польщі Валь</title>
-      <link>https://www.mandarinai.lt/post/101277</link>
-      <description>🇵🇱 Міністр юстиції Польщі Вальдемар Журек заявив про стабілізацію ситуації в Конституційному трибуналі після нічного протистояння.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_08-34-00.jpg" length="135177" type="image/jpeg"/>
-      <pubDate>Sat, 31 Oct 2026 08:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>😐Затверджені США ракети  «Patr</title>
-      <link>https://www.mandarinai.lt/post/101278</link>
-      <description>😐Затверджені США ракети  «Patriot» для України нові, тож поставки почнуться лише після 2030 року, -«Радіо Свобода».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_08-36-15.jpg" length="48347" type="image/jpeg"/>
-      <pubDate>Sat, 31 Oct 2026 08:36:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Тим часм на НПЗ в Уфі після п</title>
-      <link>https://www.mandarinai.lt/post/101279</link>
-      <description>🔥Тим часм на НПЗ в Уфі після прильотів палає вже на 5 локаціях</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_08-38-41.jpg" length="205347" type="image/jpeg"/>
-      <pubDate>Sat, 31 Oct 2026 08:38:41 +0000</pubDate>
+      <title>«Думаю, що ми наближаємося до </title>
+      <link>https://www.mandarinai.lt/post/101295</link>
+      <description>«Думаю, що ми наближаємося до укладення угоди по Україні. Раніше я цього не говорив. Але тепер можу сказати», — Трамп
+
+Згідно з підрахунками американських ЗМІ, зокрема за даними «factchecking» від CNN на основі Factbase, Дональд Трамп щонайменше 53 рази публічно заявляв або обіцяв, що зможе завершити війну в Україні за 24 години.
+
+Крім того, під час своєї президентської кампанії та після повернення на посаду президента США у 2025 році він регулярно говорив про близькість мирної угоди або пропозиції врегулювання.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4875.MP4" length="9052790" type="video/mp4"/>
+      <pubDate>Sat, 31 Oct 2026 13:56:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
