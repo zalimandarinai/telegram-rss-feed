@@ -6,82 +6,69 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 07:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:44:39 +0000</lastBuildDate>
     <item>
-      <title>👀 Під вечір в деяких містах Ні</title>
-      <link>https://www.mandarinai.lt/post/101312</link>
-      <description>👀 Під вечір в деяких містах Німеччини почалися підпали та зіткенення з поліцією</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-31_18-12-50.mp4" length="787864" type="video/mp4"/>
-      <pubDate>Sat, 31 Oct 2026 18:12:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Києвом рухається велика колона</title>
-      <link>https://www.mandarinai.lt/post/101314</link>
-      <description>Києвом рухається велика колона «швидких» із сиренами: до лікарень везуть звільнених жителів Олешок
+      <title>⚡️ БПЛА «герань» сьогодні вран</title>
+      <link>https://www.mandarinai.lt/post/101331</link>
+      <description>⚡️ БПЛА «герань» сьогодні вранці атакував Чернівці.
 
-У столиці госпіталізують евакуйованих людей з окупованого міста. Серед них є травмовані, поранені, маломобільні громадяни, а також ті, хто потребує термінового медичного нагляду.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-31_19-14-15.mp4" length="1716913" type="video/mp4"/>
-      <pubDate>Sat, 31 Oct 2026 19:14:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>😡росія використовує густу хмар</title>
-      <link>https://www.mandarinai.lt/post/101316</link>
-      <description>😡росія використовує густу хмарність над Україною, щоб запускати десятки звичайних «Шахедів», — радник президента «Флеш»
+Деталі: 
 
-Через хмари українським екіпажам дронів-перехоплювачів буде складніше виявляти ворожі цілі.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-10-31_20-41-50.jpg" length="149846" type="image/jpeg"/>
-      <pubDate>Sat, 31 Oct 2026 20:41:50 +0000</pubDate>
+Близько 11:00 стало відомо про атаку на енергетичну інфраструктуру на заході України. ОВА попередила: ворожий БпЛА рухається в напрямку Кіцманя, Заставни та сусідніх громад, мешканців закликали перебувати в безпечних місцях. За кілька хвилин з’явилося уточнення: дрон тримає курс на обласний центр. Приблизно о 11:45 над містом помітили дим.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/Chernivci2.mp4" length="7395617" type="video/mp4"/>
+      <pubDate>Sun, 01 Nov 2026 11:14:28 +0000</pubDate>
     </item>
     <item>
-      <title>🔴росія хоче показати себе ряті</title>
-      <link>https://www.mandarinai.lt/post/101317</link>
-      <description>🔴росія хоче показати себе рятівницею Олешок, які сама окупувала й зруйнувала, — NEWSMAX
-​
-Москва використовує гуманітарну операцію в Олешках для пропаганди та контролює, що саме журналістам дозволяють побачити. Про це кореспондентка Шелбі Вальдер заявила в ефірі NEWSMAX.
-​
-За словами журналістки, Росія залучила численні власні медіа, тоді як американський телеканал там лише один. Через обмежений доступ команда не зможе отримати повну картину життя під окупацією, а люди, з якими дозволять поспілкуватися, можуть перебувати під тиском.
-​
-Вальдер наголосила, що це необхідно враховувати, оцінюючи кадри та репортажі з Олешок.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-31_20-54-44.mp4" length="6662913" type="video/mp4"/>
-      <pubDate>Sat, 31 Oct 2026 20:54:44 +0000</pubDate>
+      <title>❗️ Ворожий БПЛА з бойовою част</title>
+      <link>https://www.mandarinai.lt/post/101332</link>
+      <description>❗️ Ворожий БПЛА з бойовою частиною знайшли під час роботи на полі неподалік від Києва в Бориспільському районі, - його знешкодила група вибухотехніків</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-01_11-40-13.jpg" length="188577" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 11:40:13 +0000</pubDate>
     </item>
     <item>
-      <title>😡Київ знову у темряві, але з г</title>
-      <link>https://www.mandarinai.lt/post/101318</link>
-      <description>😡Київ знову у темряві, але з гумором</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-10-31_21-01-48.mp4" length="113438" type="video/mp4"/>
-      <pubDate>Sat, 31 Oct 2026 21:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥🔥 Атаковано один із найбільши</title>
-      <link>https://www.mandarinai.lt/post/101319</link>
-      <description>💥🔥 Атаковано один із найбільших нафтопереробних заводів РФ — Кстовський НПЗ «ЛУКОЙЛ-Нижегороднефтеоргсинтез». Потужність підприємства — 17 млн тонн нафти на рік</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4891.MP4" length="3468109" type="video/mp4"/>
-      <pubDate>Sun, 01 Nov 2026 06:53:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Авіаударом росіяни зруйнува</title>
-      <link>https://www.mandarinai.lt/post/101322</link>
-      <description>❗️ Авіаударом росіяни зруйнували будівлю міськвиконкому Краматорська в центрі міста
+      <title>⚡️рф готує масований ракетний </title>
+      <link>https://www.mandarinai.lt/post/101333</link>
+      <description>⚡️рф готує масований ракетний удар по Україні вже цієї ночі, – Ваньок.
 
-🎥 Iryna Rybakova/93-я ОМБР</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4890.MP4" length="8862688" type="video/mp4"/>
-      <pubDate>Sun, 01 Nov 2026 07:02:53 +0000</pubDate>
+За його словами, зараз російські "Гербери" та "Шахеди" атакують підстанції, що відповідають за електропостачання та тепло, а також тягові підстанції залізниці.
+
+На відео – приліт дрона у Чернівцях.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-01_12-08-58.mp4" length="390239" type="video/mp4"/>
+      <pubDate>Sun, 01 Nov 2026 12:08:58 +0000</pubDate>
     </item>
     <item>
-      <title>Трамп заявив, що запросить Зел</title>
-      <link>https://www.mandarinai.lt/post/101323</link>
-      <description>Трамп заявив, що запросить Зеленського на саміт G20, який відбудеться в грудні у Маямі
-"Так, я б із задоволенням. Без проблем", - відповів президент США на питання журналістів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-01_07-18-25.mp4" length="1004798" type="video/mp4"/>
-      <pubDate>Sun, 01 Nov 2026 07:18:25 +0000</pubDate>
+      <title>«Підбили, горю, намагаюсь відч</title>
+      <link>https://www.mandarinai.lt/post/101334</link>
+      <description>«Підбили, горю, намагаюсь відчепитися», - будні російських водіїв на «сухопутному коридорі» біля Мелітополя</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4907.MP4" length="5349545" type="video/mp4"/>
+      <pubDate>Sun, 01 Nov 2026 12:50:07 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥Так після нічної атаки палаю</title>
-      <link>https://www.mandarinai.lt/post/101324</link>
-      <description>💥🔥Так після нічної атаки палають путінські гроші на війну. НПЗ Лукойл в Ніжєгородській області рф має вже щонайменше 5 локацій горіння. Харашо.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-01_07-22-06.jpg" length="41285" type="image/jpeg"/>
-      <pubDate>Sun, 01 Nov 2026 07:22:06 +0000</pubDate>
+      <title>❗️ На окупованій частині Херсо</title>
+      <link>https://www.mandarinai.lt/post/101338</link>
+      <description>❗️ На окупованій частині Херсонщини рф накопичила зброю та боєприпаси, а, отже, «в рази» готується посилити обстріли після того, як сьогодні, о 22:59, завершиться режим припинення вогню, — ОВА</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4910.MP4" length="22822234" type="video/mp4"/>
+      <pubDate>Sun, 01 Nov 2026 13:45:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⛴️ Корабель HAV DOLPHIN, який </title>
+      <link>https://www.mandarinai.lt/post/101340</link>
+      <description>⛴️ Корабель HAV DOLPHIN, який підозрювали в причетності до російських розвідувальних операцій затримала і обстежила шведська поліція, відправивши групу спецпризначенців на борт суховантажного судна.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-01_14-08-57.jpg" length="119794" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 14:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 Німеччину теж охопили масові</title>
+      <link>https://www.mandarinai.lt/post/101342</link>
+      <description>👀 Німеччину теж охопили масові заворушення — радикали громлять і грабують магазини, щонайменше 100 поліцейських постраждали у Франкфурті-на-Майні.
+
+54 людини затримали. У Франкфурті-на-Майні учасники заворушень громили 17 магазинів, п’ять із них пограбували. У сутичках брали участь близько 1–1,5 тисячі схильних до насильства людей.
+
+Затриманим — від 13 до 29 років, більшість мають німецьке громадянство.
+
+Протести 31 жовтня відбулися більш ніж у 30 містах Німеччини. У Берліні постраждали 27 поліцейських, а в Гамбурзі підпалювали барикади. У Кельні правоохоронці застосували водомети.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-01_14-15-22.mp4" length="2540423" type="video/mp4"/>
+      <pubDate>Sun, 01 Nov 2026 14:15:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
