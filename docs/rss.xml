@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 19:14:00 +0000</lastBuildDate>
-    <item>
-      <title>❗️ На окупованій частині Херсо</title>
-      <link>https://www.mandarinai.lt/post/101338</link>
-      <description>❗️ На окупованій частині Херсонщини рф накопичила зброю та боєприпаси, а, отже, «в рази» готується посилити обстріли після того, як сьогодні, о 22:59, завершиться режим припинення вогню, — ОВА</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_4910.MP4" length="22822234" type="video/mp4"/>
-      <pubDate>Sun, 01 Nov 2026 13:45:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>⛴️ Корабель HAV DOLPHIN, який </title>
-      <link>https://www.mandarinai.lt/post/101340</link>
-      <description>⛴️ Корабель HAV DOLPHIN, який підозрювали в причетності до російських розвідувальних операцій затримала і обстежила шведська поліція, відправивши групу спецпризначенців на борт суховантажного судна.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-01_14-08-57.jpg" length="119794" type="image/jpeg"/>
-      <pubDate>Sun, 01 Nov 2026 14:08:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Nov 2026 22:52:09 +0000</lastBuildDate>
     <item>
       <title>👀 Німеччину теж охопили масові</title>
       <link>https://www.mandarinai.lt/post/101342</link>
@@ -72,6 +58,29 @@
 "Чийого нападу вони бояться? Нашого?", — запитав президент, наголосивши, що гарантій потребує саме Україна, на яку напали.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-01_17-59-40.mp4" length="995457" type="video/mp4"/>
       <pubDate>Sun, 01 Nov 2026 17:59:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤕Українська армія здатна захоп</title>
+      <link>https://www.mandarinai.lt/post/101352</link>
+      <description>🤕Українська армія здатна захопити території Угорщини, Польщі, Румунії та Молдови, а сили НАТО взагалі не зможуть її зупинити, — Соловйов</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-01_20-31-39.mp4" length="1312738" type="video/mp4"/>
+      <pubDate>Sun, 01 Nov 2026 20:31:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кандидатка, яка виступає проти</title>
+      <link>https://www.mandarinai.lt/post/101353</link>
+      <description>Кандидатка, яка виступає проти військової допомоги Україні, з 19,6% відривом перемагає на президентських виборах у Болгарії
+​
+Іліяна Йотова отримує 58,2% голосів у другому турі президентських виборів, а її проєвропейський суперник Андрей Гюров — 38,6%. Такі дані паралельного підрахунку агенції «Мяра» оприлюднив болгарський суспільний мовник БНТ.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-01_20-34-08.jpg" length="78972" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 20:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>‼️Увага! Додаток «Повітряна тр</title>
+      <link>https://www.mandarinai.lt/post/101354</link>
+      <description>‼️Увага! Додаток «Повітряна тривога» піддався ворожому впливу. Жодної радіаційної загрози немає! Зберігайте спокій, — Повітряні Сили.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-01_21-07-19.jpg" length="46916" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 21:07:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
