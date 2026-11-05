@@ -6,59 +6,88 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 10:54:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:31:51 +0000</lastBuildDate>
     <item>
-      <title>❗️По 30 тисяч гривень щомісяця</title>
-      <link>https://www.mandarinai.lt/post/101508</link>
-      <description>❗️По 30 тисяч гривень щомісяця отримуватимуть енергетики, комунальники і залізничники, що відновлюють об’єкти критичної інфраструктури після російських атак в осінньо-зимовий період, — міністр енергетики Шмигаль.
+      <title>❗️ До 43 зросла кількість заги</title>
+      <link>https://www.mandarinai.lt/post/101530</link>
+      <description>❗️ До 43 зросла кількість загиблих у Комишувасі на Запоріжжі. Ще десятки людей можуть залишатися під завалами, — Зеленський 
 
-Малувато за таку важку роботу на холоді</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-04_18-59-55.jpg" length="177048" type="image/jpeg"/>
-      <pubDate>Wed, 04 Nov 2026 18:59:55 +0000</pubDate>
+Одну людину, яка вважалася зниклою безвісти, сьогодні вдалося знайти живою.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_13-12-37.mp4" length="7506617" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 13:12:37 +0000</pubDate>
     </item>
     <item>
-      <title>Ось так виглядає одна з ТЕС ДТ</title>
-      <link>https://www.mandarinai.lt/post/101509</link>
-      <description>Ось так виглядає одна з ТЕС ДТЕК після масованої атаки, — ДТЕК. 
+      <title>🤔Ворог опублікував відео перех</title>
+      <link>https://www.mandarinai.lt/post/101531</link>
+      <description>🤔Ворог опублікував відео перехоплення "Герань-5" невідомим українським реактивним дроном-перехоплювачем, який за розміром і способом запуску є приблизно аналогічним до  "Герані".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_13-17-10.mp4" length="11850536" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 13:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍟 McDonald’s можливо буде прац</title>
+      <link>https://www.mandarinai.lt/post/101536</link>
+      <description>🍟 McDonald’s можливо буде працювати в жовту тривогу: новий режим роботи вже тестують у Полтаві та Чернігові.
 
-Одраз три теплоелектростанції припинили свою роботу вчора через масштабні руйнування.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-04_19-25-01.jpg" length="268545" type="image/jpeg"/>
-      <pubDate>Wed, 04 Nov 2026 19:25:01 +0000</pubDate>
+Якщо поблизу закладу немає прямої загрози, обслуговування відвідувачів продовжуватимуть.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-05_14-26-50.jpg" length="152078" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 14:26:50 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ В Орлі горить маслозавод</title>
-      <link>https://www.mandarinai.lt/post/101512</link>
-      <description>❗️ В Орлі горить маслозавод</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5045.MP4" length="22549336" type="video/mp4"/>
-      <pubDate>Wed, 04 Nov 2026 20:30:11 +0000</pubDate>
+      <title>На Білгородщині в селі Казинка</title>
+      <link>https://www.mandarinai.lt/post/101537</link>
+      <description>На Білгородщині в селі Казинка український безпілотник уразив «Град». Його буксирував тягач вглиб російської території. Припаркуватися край дороги було поганим рішенням, і воно коштувало російському міністерству оборони обидвох одиниць техніки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5055.MP4" length="13580929" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 14:29:20 +0000</pubDate>
     </item>
     <item>
-      <title>На Київщині спалахнула масштаб</title>
-      <link>https://www.mandarinai.lt/post/101515</link>
-      <description>На Київщині спалахнула масштабна пожежа після атаки БпЛА, — місцеві ЗМІ</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5044.MP4" length="3662137" type="video/mp4"/>
-      <pubDate>Wed, 04 Nov 2026 21:45:14 +0000</pubDate>
+      <title>В Сибіру на магістральному газ</title>
+      <link>https://www.mandarinai.lt/post/101538</link>
+      <description>В Сибіру на магістральному газопроводі сталися потужний вибух і пожежа.
+
+За попередньою інформацією причиною хлопка стала нібито розгерметизація газопроводу. 
+
+Журналісти намагаються уточнити, чи могла бути причиною вибуху диверсія.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5056.MP4" length="334849" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 14:33:18 +0000</pubDate>
     </item>
     <item>
-      <title>США можуть поновити допомогу У</title>
-      <link>https://www.mandarinai.lt/post/101520</link>
-      <description>США можуть поновити допомогу Україні попри спротив Трампа, якщо демократи контролюватимуть обидві палати в Конгресі, — Reuters</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-05_06-26-11.jpg" length="101427" type="image/jpeg"/>
-      <pubDate>Thu, 05 Nov 2026 06:26:11 +0000</pubDate>
+      <title>❗️ Новітня ракетна установка «</title>
+      <link>https://www.mandarinai.lt/post/101539</link>
+      <description>❗️ Новітня ракетна установка «Изделие 347» була розроблена росією спеціально для Ірану, полегшуючи йому ведення обстрілів кораблів в Ормузькій протоці, - так свідчать документи, зібрані «Dallas Analytics»
+
+Система оснащена ракетами ЛМУР, які також установлені на іранських гелікоптерах Мі-28 російського виробництва.
+
+Раніше Дональд Трамп писав в соцмережах, що не вірить повідомленням про російську допомогу режиму в Тегерані.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5062.MP4" length="12025709" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 15:11:17 +0000</pubDate>
     </item>
     <item>
-      <title>💥🔥У Рязані після атаки дронів </title>
-      <link>https://www.mandarinai.lt/post/101521</link>
-      <description>💥🔥У Рязані після атаки дронів спалахнув НПЗ «Роснєфті», також горить логістичний склад Wildberries</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_06-26-37.mp4" length="215806" type="video/mp4"/>
-      <pubDate>Thu, 05 Nov 2026 06:26:37 +0000</pubDate>
+      <title>💥🔥В результаті атак українськи</title>
+      <link>https://www.mandarinai.lt/post/101541</link>
+      <description>💥🔥В результаті атак українських сил 15(!) з 38 стратегічних російських НПЗ були виведені з експлуатації, ще 12 — скоротили обсяги виробництва нафтопродуктів, - ГУР
+
+Унаслідок цього загальні обсяги нафтопереробки на цих підприємствах зменшилися на 55,4% порівняно з початком року
+
+На відео: Ярославскій НПЗ "Славнефть-ЯНОС" після атаки 03.11.26 палає на 5(!) локаціях</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_15-58-36.mp4" length="7560532" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 15:58:36 +0000</pubDate>
     </item>
     <item>
-      <title>❗️ Ефектне влучання в «шахед»:</title>
-      <link>https://www.mandarinai.lt/post/101524</link>
-      <description>❗️ Ефектне влучання в «шахед»: бортовий стрілець на Як-52 збиває ворожий дрон зі звичайної штурмової гвинтівки, - 11-а бригада армійської авіації «Херсон»</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5049.MP4" length="20331761" type="video/mp4"/>
-      <pubDate>Thu, 05 Nov 2026 07:17:12 +0000</pubDate>
+      <title>​🚨 Шукаєте робочі поради та св</title>
+      <link>https://www.mandarinai.lt/post/101543</link>
+      <description>​🚨 Шукаєте робочі поради та свіжі звіти з осінньої риболовлі? 🐟👇
+
+​На каналі РИБАЛЬСЬКИЙ ДЗЕН рибалки діляться тим, що реально працює на осінніх водоймах 🌊:
+
+​📍 На що зараз активно бере хижак (щука, окунь, судак) та де шукати мирну рибу перед зимою 
+
+​🛠️ Робочі осінні монтажі, вибір снастей і перевірені принади для холодної води
+
+​📸 Свіжі фото-звіти, результати виїздів та розбори успішних риболовних сесій 🏆📊
+
+Ніякого клікбейту — тільки реальний досвід, осінні секрети та дружня атмосфера🤝🔥</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_16-32-08.mp4" length="2277155" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 16:32:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
