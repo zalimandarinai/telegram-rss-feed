@@ -6,23 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 18:31:51 +0000</lastBuildDate>
-    <item>
-      <title>❗️ До 43 зросла кількість заги</title>
-      <link>https://www.mandarinai.lt/post/101530</link>
-      <description>❗️ До 43 зросла кількість загиблих у Комишувасі на Запоріжжі. Ще десятки людей можуть залишатися під завалами, — Зеленський 
-
-Одну людину, яка вважалася зниклою безвісти, сьогодні вдалося знайти живою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_13-12-37.mp4" length="7506617" type="video/mp4"/>
-      <pubDate>Thu, 05 Nov 2026 13:12:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤔Ворог опублікував відео перех</title>
-      <link>https://www.mandarinai.lt/post/101531</link>
-      <description>🤔Ворог опублікував відео перехоплення "Герань-5" невідомим українським реактивним дроном-перехоплювачем, який за розміром і способом запуску є приблизно аналогічним до  "Герані".</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_13-17-10.mp4" length="11850536" type="video/mp4"/>
-      <pubDate>Thu, 05 Nov 2026 13:17:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 23:50:56 +0000</lastBuildDate>
     <item>
       <title>🍟 McDonald’s можливо буде прац</title>
       <link>https://www.mandarinai.lt/post/101536</link>
@@ -88,6 +72,45 @@
 Ніякого клікбейту — тільки реальний досвід, осінні секрети та дружня атмосфера🤝🔥</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_16-32-08.mp4" length="2277155" type="video/mp4"/>
       <pubDate>Thu, 05 Nov 2026 16:32:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>І таке буває: цивільний росіян</title>
+      <link>https://www.mandarinai.lt/post/101545</link>
+      <description>І таке буває: цивільний росіянин сам навів безпілотник на військових армії противника.
+
+Оператори 14-го АК шукали цілі на російській території. 
+
+На околиці одного з прикордонних сіл місцевий цивільний мотоцикліст, побачивши український безпілотник, без вагань вказав напрямок руху машини з російськими військовими.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5063.MP4" length="22066021" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 18:39:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві частковий «блекаут», в</title>
+      <link>https://www.mandarinai.lt/post/101547</link>
+      <description>В Києві частковий «блекаут», в темряву занурилися чотири райони столиці, - «UKRINFORM»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_18-47-59.mp4" length="8771250" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 18:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️Є ймовірність проведення в У</title>
+      <link>https://www.mandarinai.lt/post/101548</link>
+      <description>⚡️Є ймовірність проведення в Україні онлайн-виборів, для цього парламент має знайти рішення, – Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_19-43-05.mp4" length="686111" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 19:43:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ворог нарахував 28 наземних ро</title>
+      <link>https://www.mandarinai.lt/post/101551</link>
+      <description>Ворог нарахував 28 наземних роботів, які вирушили на штурм російських позицій. Українці спробували провести наступ на Лиманському напрямку виключно роботизованими системами. Можливо, зараз перша така масована спроба не принесла потрібних результатів, але далі такі штурми точно відбуватимуться з більшим успіхом.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5066.MP4" length="15284725" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 19:57:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥴Скоро буде досягнуто угоду. Ц</title>
+      <link>https://www.mandarinai.lt/post/101553</link>
+      <description>🥴Скоро буде досягнуто угоду. Це буде велика угода, і вона зачепить не лише Україну. Я можу навіть сказати, що вона може охоплювати всю Європу. Це буде велика, чудова угода. Усі будуть у захваті, — Трамп</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-05_21-55-26.mp4" length="1626223" type="video/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 21:55:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
