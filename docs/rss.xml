@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 23:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:18:26 +0000</lastBuildDate>
     <item>
       <title>Жодна сторона не перемагає у в</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -25,7 +25,7 @@
     </item>
     <item>
       <title>🔴путін погрожує знищити україн</title>
-      <link>https://www.mandarinai.lt/post/101585</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>🔴путін погрожує знищити українську інфраструктуру до наступного року, — FT
 
 За даними Financial Times, джерела видання переказують позицію диктатора так: рф продовжуватиме руйнувати українську інфраструктуру, доки Київ не погодиться на умови москви.
@@ -33,32 +33,21 @@
 До наступного року Україна може залишитися без інфраструктури: мости, порти та електростанції будуть зруйновані, цитує видання погрози путіна
 
 Перспективи домовленості про перемир’я під час переговорів в Абу-Дабі наступного тижня оцінюють як малоймовірні.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-06_18-49-04.jpg" length="137434" type="image/jpeg"/>
       <pubDate>Fri, 06 Nov 2026 18:49:04 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Краматорськ перетворюється </title>
-      <link>https://www.mandarinai.lt/post/101586</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>❗️ Краматорськ перетворюється на руїни - російська армія підійшла до нього на відстань до десяти кілометрів, але, не маючи можливості захопити його, вона просто знищує місто
 
 🎥 Ян Доброносов</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5119.MP4" length="10357186" type="video/mp4"/>
       <pubDate>Fri, 06 Nov 2026 19:08:13 +0000</pubDate>
     </item>
     <item>
       <title>«Ми зараз маємо інформацію від</title>
-      <link>https://www.mandarinai.lt/post/101587</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>«Ми зараз маємо інформацію від розвідки, що готується новий удар, по енергетиці, по наших мостах через Дніпро, по цивільній інфраструктурі. Повітряні Сили та Збройні Сили України загалом готуються до захисту. Це непросто», - Зеленський</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5121.MP4" length="1892083" type="video/mp4"/>
       <pubDate>Fri, 06 Nov 2026 19:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>80% американців не любить путі</title>
-      <link>https://www.mandarinai.lt/post/101588</link>
-      <description>80% американців не любить путіна – експосол США в росії Макфол
-Демократична більшість у Конгресі не дозволить Трампу робити кроки назустріч Кремлю, вважає дипломат. Вже підготовлено низку законопроєктів про допомогу Україні та санкції проти російських компаній.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/09.mp4" length="1151683" type="video/mp4"/>
-      <pubDate>Fri, 06 Nov 2026 19:54:16 +0000</pubDate>
     </item>
     <item>
       <title>⚡️ Прилетіло по заводу «Протон</title>
@@ -74,6 +63,13 @@
 Воно виготовляє компоненти для комплексів «Іскандер-М» та ракетно-гарматних комплексів «Панцир-С1»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-06_22-41-52.jpg" length="97224" type="image/jpeg"/>
       <pubDate>Fri, 06 Nov 2026 22:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Атакований НПЗ в Саратові</title>
+      <link>https://www.mandarinai.lt/post/101600</link>
+      <description>💥🔥Атакований НПЗ в Саратові</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-07_01-40-55.mp4" length="1074140" type="video/mp4"/>
+      <pubDate>Sat, 07 Nov 2026 01:40:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
