@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 19:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 02:32:37 +0000</lastBuildDate>
     <item>
       <title>❗️ Якщо нам будуть погрожувати</title>
       <link>https://www.mandarinai.lt/post/101734</link>
@@ -96,6 +96,24 @@
 💬 «Такі звірства є діями, які визначаються, як геноцид, і всі вони чітко викладені в статті 2 Конвенції про геноцид».</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/IMG_5205.MP4" length="2694024" type="video/mp4"/>
       <pubDate>Mon, 09 Nov 2026 18:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>📃 Україна та її союзники обгов</title>
+      <link>https://www.mandarinai.lt/post/101749</link>
+      <description>📃 Україна та її союзники обговорюють гарантії безпеки, аналогічні статті №5 Хартії НАТО, яка передбачає, що напад на одного з членів Альянсу розглядається як напад на всіх його членів, - PBS</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-09_20-10-08.jpg" length="141276" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 20:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇻🇮 В Конгресі США намагаються </title>
+      <link>https://www.mandarinai.lt/post/101750</link>
+      <description>🇻🇮 В Конгресі США намагаються розпочати процедуру імпічменту проти міністра оборони США.
+
+➡️ Республіканець Томас Массі представив вісім статей імпічменту проти Піта Гегсета. 
+
+📑 Серед звинувачень - ведення війни всупереч резолюціям Конгресу, позасудові вбивства в результаті ударів по човнах у Карибському морі, а також придушення свободи слова через переслідування сенатора Марка Келлі, колишнього астронавта та ветерана військової служби.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-09_20-24-38.jpg" length="36160" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 20:24:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
