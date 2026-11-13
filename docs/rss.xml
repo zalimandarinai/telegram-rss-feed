@@ -6,15 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 18:04:34 +0000</lastBuildDate>
-    <item>
-      <title>Україна знищила 12 (!) пускови</title>
-      <link>https://www.mandarinai.lt/post/101972</link>
-      <description>Україна знищила 12 (!) пускових балістичних установок рф, які бомбили наші міста, – міністр оборони Євгеній Хмара також заявив, що Міноборони домовились за 20-мм боєприпаси для F-16 від Норвегії та Нідерландів 
- </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-13_11-19-17.jpg" length="142739" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 11:19:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 23:32:15 +0000</lastBuildDate>
     <item>
       <title>росіяни вдарили по житловій пʼ</title>
       <link>https://www.mandarinai.lt/post/101973</link>
@@ -66,6 +58,39 @@
       <description>Противник вже за допомогою різних FPV-дронів доправляє на позиції драбини, - втім, цю росіянам довезти не вдалось, бо довелось перетнутися з бригадою НГУ «Рубіж»</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQO_sFZqYxV5ZSKAZRfDCvoNjIGLGgL_gXhEbn0tURdHkFcoWjsRIDQ1RVzFFu3Xqx.mp4" length="871546" type="video/mp4"/>
       <pubDate>Fri, 13 Nov 2026 16:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎞️ Бої в Запорізькій області: </title>
+      <link>https://www.mandarinai.lt/post/101986</link>
+      <description>🎞️ Бої в Запорізькій області: російська пропаганда спеціально монтує відео, щоб створити ефект просування, - на цьому пропагандистів впіймав 253-ій ОШП.
+
+📍 42-а дивізія противника ще в серпні опублікувала матеріали нібито загибелі двох і втечі трьох бійців 253-го полку в районі міста Оріхів.
+
+➡️ https://t.me/ZS42MSD/8855
+
+📍 В якості доказів окупанти показали відеокадри, зняті з безпілотника. 
+
+📍 Матеріал миттєво перепостили інші канали пула російського міноборони.
+
+➡️ https://t.me/wargonzo/36528
+
+✅ 253-ій полк почекав трохи і довів, що перехоплений стрім навмисно був перемонтований так, щоб створити відчуття відступу.
+
+✅ І показав своїх бійців, яких ворог записав в українські втрати: вони живі, здорові і продовжують навалювати росіянам на тому ж самому місці.
+
+➡️ Тож, росканали точно не найкраще джерело інформації, нагадує «Капітан Очевидність».</description>
+      <pubDate>Fri, 13 Nov 2026 18:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Польща не буде переказувати гр</title>
+      <link>https://www.mandarinai.lt/post/101987</link>
+      <description>Польща не буде переказувати гроші до програми PURL, за якою європейські країни закуповують зброю та обладнання в США для передачі Україні.
+
+Про це заявив прем’єр-міністр Польщі Дональд Туск.
+
+Причиною є бюджетний дефіцит і великі витрати Польщі на власні оборонні потреби.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/ScreenRecording_11-13-2026 22-16-39_1.mp4" length="7294962" type="video/mp4"/>
+      <pubDate>Fri, 13 Nov 2026 20:22:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
