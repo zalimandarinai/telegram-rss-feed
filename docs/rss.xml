@@ -6,72 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 16:52:49 +0000</lastBuildDate>
-    <item>
-      <title>💥🔥 Дрони СБУ вдарили по одному</title>
-      <link>https://www.mandarinai.lt/post/102003</link>
-      <description>💥🔥 Дрони СБУ вдарили по одному з ключових нафтових вузлів рф у Самарській області.
-
-Уражено станцію «Самара» та резервуар із нафтою. 
-
-Там готують експортну нафту Urals, на яку припадає до 50% нафтового експорту рф.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-14_10-26-36.jpg" length="201044" type="image/jpeg"/>
-      <pubDate>Sat, 14 Nov 2026 10:26:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Бійці підрозділу ДПСУ «DEST</title>
-      <link>https://www.mandarinai.lt/post/102005</link>
-      <description>❗️ Бійці підрозділу ДПСУ «DESTRUCTION TEAM» попрацювали на території росії та в прикордонні на Харківщині: знищили антени зв’язку та управління БпЛА, РЕР, РЕБ, автомобілі, безпілотники типу «молнія» та «ждун», а також локацію підготовки  FPV-дронів.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/tg_URAJENNYA.mp4" length="16819146" type="video/mp4"/>
-      <pubDate>Sat, 14 Nov 2026 11:36:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Думав, що помру. Дякую, дядю </title>
-      <link>https://www.mandarinai.lt/post/102006</link>
-      <description>«Думав, що помру. Дякую, дядю поліцейський», - в Глухові правоохоронець закрив собою дитину під час повторної російської атаки
-
-Прибувши на місце ворожого прильоту, поліцейські побачили палаючий будинок і дізналися, що 54-річна жінка з дитиною лежать у дворі. В жінки була сильна кровотеча. 
-
-Поліцейський надавав допомогу і почув звук безпілотника, що наближався. 
-
-Не гаючи ні секунди, він накрив собою 8-річного хлопчика, намагаючись захистити його від безпілотника.
-
-Внаслідок повторної атаки поліцейський та жінка отримали тілесні ушкодження. 
-
-Дитина постраждала лише від першого удару.
-
-Усіх потерпілих терміново доправили до лікарні. 
-
-Коли чуєш такі слова від пораненої дитини, то починаєш ставити запитання, - а що ж в росіян замість серця?
-
-Але, може, варто запитати, що замість серця у американців, які відключають Старлінк?
-
-Або в деяких європейських лідерів, які один за одним заявляють, що відмовляються підтримувати українців?</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/-5531061697543534139.mp4" length="15879902" type="video/mp4"/>
-      <pubDate>Sat, 14 Nov 2026 11:59:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>✅В Києві вже почали будувати п</title>
-      <link>https://www.mandarinai.lt/post/102007</link>
-      <description>✅В Києві вже почали будувати понтонні мости, завершити роботи планують за 3–4 місяці, — нардеп Крейденко.
-
-Також рух зеленою гілкою метро між берегами столиці, ймовірно, не відновлять до початку наступного року.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-14_11-59-50.jpg" length="182690" type="image/jpeg"/>
-      <pubDate>Sat, 14 Nov 2026 11:59:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥴Масові протести досягли і Кан</title>
-      <link>https://www.mandarinai.lt/post/102008</link>
-      <description>🥴Масові протести досягли і Канади: у Монреалі поліція розганяла студентів сльозогінним газом.
-
-CBS повідомляє, що студенти вийшли на демонстрацію проти зростання вартості освіти, житла та продуктів. Вони вимагають збільшити фінансування коледжів та університетів.
-
-Акція швидко переросла у зіткнення з поліцією. Протестувальники кидали в поліцейських різні предмети, а ті застосували сльозогінний газ.
-
-Є постраждалі і затримані.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_13-04-32.mp4" length="897385" type="video/mp4"/>
-      <pubDate>Sat, 14 Nov 2026 13:04:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 21:06:05 +0000</lastBuildDate>
     <item>
       <title>Кацапські ЗМІ заявили, що ніби</title>
       <link>https://www.mandarinai.lt/post/102011</link>
@@ -96,6 +31,66 @@ CBS повідомляє, що студенти вийшли на демонст
 Також на аеродром «Липецьк-2» — уражено ангар зі спецтехнікою для обслуговування літаків, резервуар з авіаційним пальним і центральний командно-диспетчерський пункт.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_13-55-42.mp4" length="3420235" type="video/mp4"/>
       <pubDate>Sat, 14 Nov 2026 13:55:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Віткофф і Кушнер спрацювали на</title>
+      <link>https://www.mandarinai.lt/post/102015</link>
+      <description>Віткофф і Кушнер спрацювали на Кремль, - The Financial Times 
+
+Посланці Трампа розширили порядок денний переговорів із росією, включивши до нього загальні обриси європейської безпеки, а це те, чого хотів путін.
+
+Але європейські лідери наполягають на тому, що обговорювати такі питання слід лише після припинення бойових дій в Україні.
+
+За оцінкою Financial Times, це дозволить росіянам вплинути на ускладнення підтримки України, адже створює додатковий тиск на європейців. 
+
+Крім того, це може посилити розбіжності між США та Європою в той час, коли Вашингтон планує скоротити свою участь в обороні європейських держав.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-14_17-16-39.jpg" length="73543" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 17:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤡«Еб*ні, с*ка, українці»: біло</title>
+      <link>https://www.mandarinai.lt/post/102017</link>
+      <description>🤡«Еб*ні, с*ка, українці»: білоруська тенісистка Соболенко не стримала емоцій після поразки від Еліни Світоліної
+
+Пишуть, що саме цю фразу вимовила «нейтральна» спортсменка після програшу українці. У мережі вже закликають Жіночу тенісну асоціацію (WTA) відреагувати на інцидент.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_18-08-02.mp4" length="227831" type="video/mp4"/>
+      <pubDate>Sat, 14 Nov 2026 18:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Літак Повітряних Сил Україн</title>
+      <link>https://www.mandarinai.lt/post/102018</link>
+      <description>❗️ Літак Повітряних Сил України перехоплює реактивний БПЛА «Герань-4» під час нічної атаки по українських містах, - 204-а бригада тактичної авіації</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQOY92I90efqt2eV9qww7hssiPIMrU5QqS84zsC7BHRCaMFCcf0aWs9JPnFGZQMMhLC.mp4" length="846509" type="video/mp4"/>
+      <pubDate>Sat, 14 Nov 2026 18:34:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀Поблизу Яготина на трасі Харк</title>
+      <link>https://www.mandarinai.lt/post/102019</link>
+      <description>👀Поблизу Яготина на трасі Харків — Київ спалахнула масштабна пожежа. Рух транспорту повністю перекрито</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_19-32-54.mp4" length="612299" type="video/mp4"/>
+      <pubDate>Sat, 14 Nov 2026 19:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇫🇮Фінляндія, за словами мініст</title>
+      <link>https://www.mandarinai.lt/post/102021</link>
+      <description>🇫🇮Фінляндія, за словами міністра оборони Антті Хекканена, відмовилась вийти з НАТО на вимоги російських переговорників, — Bloomberg</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-14_20-04-46.jpg" length="118011" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 20:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚙 Сьогодні ми передали бійцям </title>
+      <link>https://www.mandarinai.lt/post/102022</link>
+      <description>🚙 Сьогодні ми передали бійцям Сталевої Волинської бригади позашляховик «Mercedes Benz» 164 ML 320 CDI, на який ви, друзі, збирали кошти. 
+
+📉 Треба визнати, що зараз збори на потреби Сил оборони впали.
+
+💳 Причини зрозумілі.
+
+📈 Але на цей позашляховик ми змогли зібрати потрібну суму дуже оперативно.
+
+✅ Тож військові дуже дякують всім, хто долучився і хто не втратив мотивацію допомагати українській армії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/podiaka.mov" length="22432818" type="video/mp4"/>
+      <pubDate>Sat, 14 Nov 2026 20:35:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
