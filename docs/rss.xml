@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 01:01:47 +0000</lastBuildDate>
-    <item>
-      <title>Кацапські ЗМІ заявили, що ніби</title>
-      <link>https://www.mandarinai.lt/post/102011</link>
-      <description>Кацапські ЗМІ заявили, що нібито кремлівський Радбез дозволив ліквідацію Зеленського. 
-
-Нажаль, росія це невиліковна хвороба. Злоякісна пухлина планети.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-14_13-45-24.jpg" length="9333" type="image/jpeg"/>
-      <pubDate>Sat, 14 Nov 2026 13:45:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>рф завдала удару по медичному </title>
-      <link>https://www.mandarinai.lt/post/102012</link>
-      <description>рф завдала удару по медичному закладу в Харкові, — мер</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_13-48-03.mp4" length="282022" type="video/mp4"/>
-      <pubDate>Sat, 14 Nov 2026 13:48:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Нафтоперекачувальна станція у</title>
-      <link>https://www.mandarinai.lt/post/102013</link>
-      <description>🔥Нафтоперекачувальна станція у Самарі продовжує планове горіння після нічної зустрічі з дронами
-
-Також на аеродром «Липецьк-2» — уражено ангар зі спецтехнікою для обслуговування літаків, резервуар з авіаційним пальним і центральний командно-диспетчерський пункт.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_13-55-42.mp4" length="3420235" type="video/mp4"/>
-      <pubDate>Sat, 14 Nov 2026 13:55:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Nov 2026 07:51:11 +0000</lastBuildDate>
     <item>
       <title>Віткофф і Кушнер спрацювали на</title>
       <link>https://www.mandarinai.lt/post/102015</link>
@@ -83,7 +58,7 @@
       <description>🚙 Сьогодні ми передали бійцям Сталевої Волинської бригади позашляховик «Mercedes Benz» 164 ML 320 CDI, на який ви, друзі, збирали кошти. 
 
 Військові дякують всім, хто долучився і хто не втратив мотивацію допомагати українській армії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_20-35-48.mp4" length="3295586" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/podiaka.mov" length="6259561" type="video/mp4"/>
       <pubDate>Sat, 14 Nov 2026 20:35:48 +0000</pubDate>
     </item>
     <item>
@@ -99,6 +74,20 @@
       <description>💥🔥В окупованому Луганську після серії вибухів спалахнула пожежа на автостоянці з технікою окупантів</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_21-51-38.mp4" length="539699" type="video/mp4"/>
       <pubDate>Sat, 14 Nov 2026 21:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥У Татарстані після атаки пал</title>
+      <link>https://www.mandarinai.lt/post/102025</link>
+      <description>💥🔥У Татарстані після атаки палає один із найбільших нафтохімічних заводів рф — «Нижньокамськнафтохім»</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-15_05-08-33.mp4" length="2978397" type="video/mp4"/>
+      <pubDate>Sun, 15 Nov 2026 05:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В російському Таганрозі атак</title>
+      <link>https://www.mandarinai.lt/post/102028</link>
+      <description>💥🔥В російському Таганрозі атаковані міст та дві електропідстанції</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-15_07-20-30.jpg" length="186424" type="image/jpeg"/>
+      <pubDate>Sun, 15 Nov 2026 07:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
