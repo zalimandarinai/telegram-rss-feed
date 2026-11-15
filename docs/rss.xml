@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 21:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:01:47 +0000</lastBuildDate>
     <item>
       <title>Кацапські ЗМІ заявили, що ніби</title>
       <link>https://www.mandarinai.lt/post/102011</link>
@@ -82,15 +82,23 @@
       <link>https://www.mandarinai.lt/post/102022</link>
       <description>🚙 Сьогодні ми передали бійцям Сталевої Волинської бригади позашляховик «Mercedes Benz» 164 ML 320 CDI, на який ви, друзі, збирали кошти. 
 
-📉 Треба визнати, що зараз збори на потреби Сил оборони впали.
-
-💳 Причини зрозумілі.
-
-📈 Але на цей позашляховик ми змогли зібрати потрібну суму дуже оперативно.
-
-✅ Тож військові дуже дякують всім, хто долучився і хто не втратив мотивацію допомагати українській армії.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/podiaka.mov" length="22432818" type="video/mp4"/>
+Військові дякують всім, хто долучився і хто не втратив мотивацію допомагати українській армії.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_20-35-48.mp4" length="3295586" type="video/mp4"/>
       <pubDate>Sat, 14 Nov 2026 20:35:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>рф масовано атакує КАБами Запо</title>
+      <link>https://www.mandarinai.lt/post/102023</link>
+      <description>рф масовано атакує КАБами Запоріжжя: є влучання у житлові будинки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_21-39-18.mp4" length="353515" type="video/mp4"/>
+      <pubDate>Sat, 14 Nov 2026 21:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥В окупованому Луганську післ</title>
+      <link>https://www.mandarinai.lt/post/102024</link>
+      <description>💥🔥В окупованому Луганську після серії вибухів спалахнула пожежа на автостоянці з технікою окупантів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-14_21-51-38.mp4" length="539699" type="video/mp4"/>
+      <pubDate>Sat, 14 Nov 2026 21:51:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
