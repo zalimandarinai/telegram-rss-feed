@@ -6,20 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 00:14:46 +0000</lastBuildDate>
-    <item>
-      <title>⚡️ В Чорному морі біля дельти </title>
-      <link>https://www.mandarinai.lt/post/0</link>
-      <description>⚡️ В Чорному морі біля дельти Дунаю дрони атакували три комерційні судна, — прем’єр Румунії</description>
-      <pubDate>Sun, 15 Nov 2026 16:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Не пройшло й 5-ти років: Br</title>
-      <link>https://www.mandarinai.lt/post/102057</link>
-      <description>❗️ Не пройшло й 5-ти років: Brave1 заявляє про випробування українських аналогів дронів Mavic</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-15_18-02-40.jpg" length="28775" type="image/jpeg"/>
-      <pubDate>Sun, 15 Nov 2026 18:02:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Nov 2026 06:42:20 +0000</lastBuildDate>
     <item>
       <title>«Вагнерівець» у полоні в 92-ої</title>
       <link>https://www.mandarinai.lt/post/102061</link>
@@ -64,6 +51,27 @@
 ➡️ Що ж, не забудемо про це.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-15_21-26-42.jpg" length="135998" type="image/jpeg"/>
       <pubDate>Sun, 15 Nov 2026 21:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Горить нафтобаза в Ростовсь</title>
+      <link>https://www.mandarinai.lt/post/102074</link>
+      <description>❗️ Горить нафтобаза в Ростовській області після сьогоднішнього прильоту дронів</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/-108135623047471659.mp4" length="678901" type="video/mp4"/>
+      <pubDate>Mon, 16 Nov 2026 06:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ Удар безпілотника по проїжд</title>
+      <link>https://www.mandarinai.lt/post/102075</link>
+      <description>⚡️ Удар безпілотника по проїжджій частині вулиці сьогодні вранці в Дніпрі - є постраждалі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/-2628405716373720267.mp4" length="328960" type="video/mp4"/>
+      <pubDate>Mon, 16 Nov 2026 06:27:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️Сьогодні Україна вдарила по </title>
+      <link>https://www.mandarinai.lt/post/102076</link>
+      <description>❗️Сьогодні Україна вдарила по Кримському мосту - рух по ньому перекрито</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/-2018755804317777279.mp4" length="1089388" type="video/mp4"/>
+      <pubDate>Mon, 16 Nov 2026 06:29:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
