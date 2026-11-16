@@ -6,24 +6,12 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 20:28:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:14:46 +0000</lastBuildDate>
     <item>
       <title>⚡️ В Чорному морі біля дельти </title>
-      <link>https://www.mandarinai.lt/post/102055</link>
+      <link>https://www.mandarinai.lt/post/0</link>
       <description>⚡️ В Чорному морі біля дельти Дунаю дрони атакували три комерційні судна, — прем’єр Румунії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-15_16-52-58.jpg" length="86269" type="image/jpeg"/>
       <pubDate>Sun, 15 Nov 2026 16:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ Борис Джонсон заявив, що єд</title>
-      <link>https://www.mandarinai.lt/post/102056</link>
-      <description>⚡️ Борис Джонсон заявив, що єдиний спосіб закінчити війну це вступ України до НАТО
-
-💬 «Єдиний спосіб закінчити цю війну - це, щоб путін зрозумів, чого насправді хоче Захід. Єдине, що працює, - це Україна в НАТО», - наголосив Джонсон.
-
-✅ Нарешті хоч хтось знайшовся дорослий в спільному європейському домі</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-15_17-59-53.jpg" length="40916" type="image/jpeg"/>
-      <pubDate>Sun, 15 Nov 2026 17:59:53 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Не пройшло й 5-ти років: Br</title>
@@ -65,6 +53,17 @@
       <description>🔥Внаслідок ударів 11 листопада по порту Усть-Луга в Ленінградській області повністю згоріли 5 резервуарів з нафтопродуктами.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-15_19-11-43.mp4" length="537194" type="video/mp4"/>
       <pubDate>Sun, 15 Nov 2026 19:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Дві країни вирішили, що їм </title>
+      <link>https://www.mandarinai.lt/post/102071</link>
+      <description>❗️ Дві країни вирішили, що їм ОК бути співучасницями у вбивстві українців.
+
+🇬🇭🇨🇩 Уряди Гани і ДР Конго підписали угоди зі спеціальною економічною зоною «Алабуга», яка виробляє «шахеди», щодо працевлаштування і підготовки персоналу на підприємстві, повідомляє Fox News.
+
+➡️ Що ж, не забудемо про це.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-15_21-26-42.jpg" length="135998" type="image/jpeg"/>
+      <pubDate>Sun, 15 Nov 2026 21:26:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
