@@ -6,63 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 17:45:21 +0000</lastBuildDate>
-    <item>
-      <title>Момент сьогоднішньої атаки кри</title>
-      <link>https://www.mandarinai.lt/post/102176</link>
-      <description>Момент сьогоднішньої атаки крилатими ракетами по Дніпру. 
-Момент сьогоднішньої атаки крилатими ракетами по Дніпру.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_13-02-25.mp4" length="3585167" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 13:02:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️Двоє людей загинуло, ще одна</title>
-      <link>https://www.mandarinai.lt/post/102177</link>
-      <description>❗️Двоє людей загинуло, ще одна постраждала внаслідок атаки РФ по Оболонському району Києва. Там пошкоджена нежитлова будівля, — ДСНС </description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-17_13-10-04.jpg" length="221201" type="image/jpeg"/>
-      <pubDate>Tue, 17 Nov 2026 13:10:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇬🇧 Літак радіоелектронної розв</title>
-      <link>https://www.mandarinai.lt/post/102178</link>
-      <description>🇬🇧 Літак радіоелектронної розвідки Королівських повітряних Сил Великої Британії RC-135W Rivet Joint, який, за версією російської пропаганди, наводив українські ракети на Кримський міст</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/ScreenRecording_11-17-2026 15-02-16_1.mp4" length="17397668" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 13:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>💥 СБУ показала серію влучань п</title>
-      <link>https://www.mandarinai.lt/post/102179</link>
-      <description>💥 СБУ показала серію влучань по Кримському мосту, які призвели до руйнування його конструкцій
-
-За даними спецслужби, бійці «Альфи» завдали ударів по автомобільній частині мосту ракето-дронами «Паляниця». Унаслідок цього одне з перекриттів обвалилося у воду</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_13-33-51.mp4" length="4281626" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 13:33:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>В росіян щось впало біля Кемер</title>
-      <link>https://www.mandarinai.lt/post/102180</link>
-      <description>В росіян щось впало біля Кемерового</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/6643478103175731480.mp4" length="6729262" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 14:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полювання на реактивні «Шахеди</title>
-      <link>https://www.mandarinai.lt/post/102181</link>
-      <description>Полювання на реактивні «Шахеди»: в Україні вдосконалили дрон-перехоплювач SPYS
-
-Українські інженери модернізували швидкісний дрон-перехоплювач SPYS, створений для знищення російських реактивних безпілотників «Герань-4» та «Герань-5». Розробники з Quantum WIY Industries (QWI) вдосконалюють перехоплювач з урахуванням досвіду реального бойового застосування та відгуків військових. SPYS здатний розвивати швидкість до 500 км/год, а наведення на фінальному етапі польоту здійснюється автоматично. Що саме змінили в SPYS — у матеріалі «Мілітарного»: https://militarnyi.com/uk/news/myslyvets-na-shahedy-spys-onovyly/</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_15-01-56.mp4" length="9912570" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 15:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Біля російського Кемерово роз</title>
-      <link>https://www.mandarinai.lt/post/102182</link>
-      <description>🔥Біля російського Кемерово розбився військлвий АН-12, на борту було 17 військовослужбовців, — російські пабліки
-
-Один з двигунів літака загорівся прямо в повітрі, після чого борт різко почав пікірувати, спрямовуючись носом вниз.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_15-32-34.mp4" length="1747377" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 15:32:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 00:33:03 +0000</lastBuildDate>
     <item>
       <title>👀Над столицею Молдови Кишинево</title>
       <link>https://www.mandarinai.lt/post/102183</link>
@@ -111,6 +55,54 @@
       <description>🔥 Запуск трьох ракет FP-5 «Фламінго» по Кримському мосту</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_17-35-29.mp4" length="3666470" type="video/mp4"/>
       <pubDate>Tue, 17 Nov 2026 17:35:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Момент драматичного падіння</title>
+      <link>https://www.mandarinai.lt/post/102190</link>
+      <description>❗️ Момент драматичного падіння безпілотника на автівку в місті Рівне</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/ScreenRecording_11-17-2026 19-43-14_1.mp4" length="1563817" type="video/mp4"/>
+      <pubDate>Tue, 17 Nov 2026 17:45:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кремлівський диктатор путін пр</title>
+      <link>https://www.mandarinai.lt/post/102191</link>
+      <description>Кремлівський диктатор путін прибув до Китаю для зустрічі з Дональдом Трампом і Сі Цзіньпіном, яка відбудеться 19 листопада</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/-4195656209414610731.mp4" length="11862975" type="video/mp4"/>
+      <pubDate>Tue, 17 Nov 2026 18:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 «Будуть й інші наші операції</title>
+      <link>https://www.mandarinai.lt/post/102192</link>
+      <description>💬 «Будуть й інші наші операції у відповідь», — Зеленський</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/-905401226623515090.mp4" length="2990221" type="video/mp4"/>
+      <pubDate>Tue, 17 Nov 2026 18:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Україна атакувала Кримський мі</title>
+      <link>https://www.mandarinai.lt/post/102194</link>
+      <description>Україна атакувала Кримський міст без Starlink та Starshield, — The Times. 
+
+Для операції розробили власну систему зв’язку. 
+
+Дрони передавали сигнал ракетам, які наводилися на цілі в ручному режимі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_18-57-53.mp4" length="5650939" type="video/mp4"/>
+      <pubDate>Tue, 17 Nov 2026 18:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤦‍♂️ У Міноборони США розкрити</title>
+      <link>https://www.mandarinai.lt/post/102195</link>
+      <description>🤦‍♂️ У Міноборони США розкритикували Україну за удар по Кримському мосту
+
+Заступник міністра оборони США Елбрідж Колбі заявив, що така атака може спровокувати росію на подальшу ескалацію.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-17_20-15-24.jpg" length="223039" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 20:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥Момент обвалу арки на Кримськ</title>
+      <link>https://www.mandarinai.lt/post/102197</link>
+      <description>🔥Момент обвалу арки на Кримському мосту.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_20-19-13.mp4" length="2635891" type="video/mp4"/>
+      <pubDate>Tue, 17 Nov 2026 20:19:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
