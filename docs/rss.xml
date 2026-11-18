@@ -6,32 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 00:33:03 +0000</lastBuildDate>
-    <item>
-      <title>👀Над столицею Молдови Кишинево</title>
-      <link>https://www.mandarinai.lt/post/102183</link>
-      <description>👀Над столицею Молдови Кишиневом щойно пролетів російській шахед.
-
-Люди побігли в укриття. Молдова закрила повітряний простір країни.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_15-39-37.mp4" length="844066" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 15:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥«Ми тільки починаємо»: мініст</title>
-      <link>https://www.mandarinai.lt/post/102185</link>
-      <description>🔥«Ми тільки починаємо»: міністр оборони Хмара про удар по Керченському мосту
-
-Євгеній Хмара дав коментар Радіо Свобода перед своїм першим засіданням у форматі «Рамштайн». Свій настрій перед зустріччю він назвав «бойовим».</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_15-41-30.mp4" length="1542692" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 15:41:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️росія атакувала центр Вінниц</title>
-      <link>https://www.mandarinai.lt/post/102187</link>
-      <description>⚡️росія атакувала центр Вінниці: приліт стався в одну із будівель — на щастя, без постраждалих, — мер міста</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_16-33-30.mp4" length="207288" type="video/mp4"/>
-      <pubDate>Tue, 17 Nov 2026 16:33:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 07:56:57 +0000</lastBuildDate>
     <item>
       <title>⚡️Епоха Трампа добігає кінця, </title>
       <link>https://www.mandarinai.lt/post/102188</link>
@@ -103,6 +78,20 @@
       <description>🔥Момент обвалу арки на Кримському мосту.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-17_20-19-13.mp4" length="2635891" type="video/mp4"/>
       <pubDate>Tue, 17 Nov 2026 20:19:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>😐Залізнична частина Кримського</title>
+      <link>https://www.mandarinai.lt/post/102199</link>
+      <description>😐Залізнична частина Кримського мосту наразі вціліла тимчасово, зруйновано лише автомобільний проліт.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-18_07-11-10.mp4" length="1120756" type="video/mp4"/>
+      <pubDate>Wed, 18 Nov 2026 07:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Ільській НПЗ в Краснодарсько</title>
+      <link>https://www.mandarinai.lt/post/102200</link>
+      <description>💥🔥Ільській НПЗ в Краснодарському краї був атакований сьогодні вночі</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-18_07-12-39.jpg" length="230062" type="image/jpeg"/>
+      <pubDate>Wed, 18 Nov 2026 07:12:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
