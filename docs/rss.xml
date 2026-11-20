@@ -6,68 +6,142 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 10:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:57:44 +0000</lastBuildDate>
     <item>
-      <title>😡Траєкторія ракет і БпЛА над У</title>
-      <link>https://www.mandarinai.lt/post/102325</link>
-      <description>😡Траєкторія ракет і БпЛА над Україною під час сьогоднішньої атаки</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_06-26-57.jpg" length="352750" type="image/jpeg"/>
-      <pubDate>Fri, 20 Nov 2026 06:26:57 +0000</pubDate>
+      <title>🤡путін випадково запустив у По</title>
+      <link>https://www.mandarinai.lt/post/102346</link>
+      <description>🤡путін випадково запустив у Польщу кілька дронів і кілька невеликих ракет.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_13-14-36.mp4" length="1522064" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 13:14:36 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️Сильна пожежа після атаки рф</title>
-      <link>https://www.mandarinai.lt/post/102326</link>
-      <description>⚡️Сильна пожежа після атаки рф у Подільському районі Києва, – місцеві ЗМІ.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_06-29-53.jpg" length="101413" type="image/jpeg"/>
-      <pubDate>Fri, 20 Nov 2026 06:29:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Польщі зафіксували влучання </title>
-      <link>https://www.mandarinai.lt/post/102328</link>
-      <description>У Польщі зафіксували влучання ракети поблизу міста Хмілек (понад 40 км від кордону з Україною)</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_06-39-50.mp4" length="2139804" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 06:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Двоє людей загинули внаслідок </title>
-      <link>https://www.mandarinai.lt/post/102329</link>
-      <description>Двоє людей загинули внаслідок російської атаки на Львів, — ОВА
+      <title>👀 86 відгуків на одну Front-en</title>
+      <link>https://www.mandarinai.lt/post/102347</link>
+      <description>👀 86 відгуків на одну Front-end вакансію. А в Defense Tech — у середньому близько 9.
 
-Ворог бив по залізничній станції «Скнилів» у Львові.
+І це привід придивитися до сфери, якщо ви думаєте, куди рухатися далі.
 
-Посеред однієї з вулиць Львова виявили уламки ракети.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_06-54-46.mp4" length="443398" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 06:54:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Унаслідок нічної атаки росіян </title>
-      <link>https://www.mandarinai.lt/post/102330</link>
-      <description>Унаслідок нічної атаки росіян на Київ загинули троє людей, ще 11 дістали поранення</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_07-23-20.jpg" length="210467" type="image/jpeg"/>
-      <pubDate>Fri, 20 Nov 2026 07:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>У Львові удар був по залізничн</title>
-      <link>https://www.mandarinai.lt/post/102333</link>
-      <description>У Львові удар був по залізничній станції Скнілів. Саме там загинули люди.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_07-24-10.mp4" length="335507" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 07:24:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚀 Сьогодні була одна з найпоту</title>
-      <link>https://www.mandarinai.lt/post/102335</link>
-      <description>🚀 Сьогодні була одна з найпотужніших атак. Попередньо, рф запустила понад 80 крилатих ракет та до 20 балістичних, - Ігнат 
+Поки в класичному IT конкуренція залишається високою, MilTech набирає обертів: з’являються нові команди, продукти та технології — а разом із ними потрібні нові спеціалісти.
 
-Також в атаці було близько 400 дронів різних типів (з них близько 120 - реактивні)</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_07-39-28.jpg" length="39743" type="image/jpeg"/>
-      <pubDate>Fri, 20 Nov 2026 07:39:28 +0000</pubDate>
+І далеко не тільки розробники 👇
+→ Project та Product Managers
+→ QA-фахівці
+→ Hardware та Embedded спеціалісти
+→ аналітики та інші tech-фахівці
+
+Тож MilTech може стати тим самим напрямом, куди варто зайти зараз, а не тоді, коли про нього говоритимуть уже всі.
+
+А який напрям у MilTech може підійти саме вам?
+MiltechSchool створили короткий безкоштовний тест: 3 хвилини — і ви дізнаєтесь свій MilTech-напрям, його потенціал та отримаєте рекомендацію, з чого почати.
+
+👉 Пройти тест: https://cutt.ly/3yASiV6c</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_13-16-15.mp4" length="479654" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 13:16:15 +0000</pubDate>
     </item>
     <item>
-      <title>Відео з бортової камери російс</title>
-      <link>https://www.mandarinai.lt/post/102336</link>
-      <description>Відео з бортової камери російського безпілотника в момент удару по будівлі Запорізької ОВА - нуль військового сенсу, тільки психологічний тиск та банальне залякування</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/9075951610549469058.mp4" length="1932949" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 08:01:42 +0000</pubDate>
+      <title>❗️ На місці падіння безпілотни</title>
+      <link>https://www.mandarinai.lt/post/102349</link>
+      <description>❗️ На місці падіння безпілотника в Харкові - китайський реактивний двигун</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/7746528739503844202.mp4" length="3136857" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 13:46:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уламки російського дрона горят</title>
+      <link>https://www.mandarinai.lt/post/102353</link>
+      <description>Уламки російського дрона горять біля Андріївської церкви в Києві</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNHTxbAun7hzj19Av4b0ICLBvIpx9ryazBBqvK2boLLt6JUeHE1Fwk69ZYP7Ai.mp4" length="17668344" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 13:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️ «Ведмежий капкан» - іще одн</title>
+      <link>https://www.mandarinai.lt/post/102354</link>
+      <description>⚡️ «Ведмежий капкан» - іще одна успішна операція ЗСУ, про яку стало відомо тільки сьогодні.
+
+✅ Повернуто під контроль України 204 км² в Харківській області.
+
+✅ Звільнено 14 населених пунктів.
+
+✅ Операція «Ведмежий капкан» проходила в режимі інформаційної тиші.
+
+Хоча окремі її елементи висвітлювалися медіа, в тому числі, і нашою групою, про загальний задум відомо було одиницям.
+
+✅ Ядром унікальної операції став 475-ий полк «Code 9.2».
+
+Як тільки ворог заявив, що реалізує план під назвою «Ведмежий кут» зі створення плацдарму на північний схід від Харкова, полк «Code 9.2» запропонував зустрічну наступальну операцію «Ведмежий капкан».
+
+✅ Бронетехніка у взаємодії з дронами проривалася вперед, українські штурмові групи зʼявлялися нібито нізвідки, була налагоджена система повітряної евакуації поранених - все працювало на результат.
+
+⏯️ Як його змогли досягти силами полку «Code 9.2», дивіться в цьому фільмі https://m.youtube.com/watch?si=d-l2n-Ev3rDNizSI&amp;v=8eP2VG3zqVE&amp;feature=youtu.be</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/db82a229-5fca-4e6a-a851-b7f826ce487b.mp4" length="24069197" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 14:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🔥Подивіться, як гарно німецьк</title>
+      <link>https://www.mandarinai.lt/post/102356</link>
+      <description>💥🔥Подивіться, як гарно німецький ЗРК IRIS-T відбивав сьогоднішню масовану ракетно-дронову атаку рф.
+
+IRIS-T – один із найсучасніших комплексів ППО, що стоїть на озброєнні України. Він може збивати російські крилаті ракети Х-101, "Калібр", "Іскандер-К", а також "Шахеди", літаки та вертольоти.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_15-25-00.mp4" length="1227434" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 15:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>😱Європа заплатила росії за ене</title>
+      <link>https://www.mandarinai.lt/post/102358</link>
+      <description>😱Європа заплатила росії за енергоресурси більше, ніж виділила на підтримку України, - Bild
+
+Згідно з відповіддю Єврокомісії на запит депутата Європарламенту від партії "Зелені" Моріца Кернера, Євросоюз та його країни-члени з 2022 року і до середини жовтня 2026 року виділили на підтримку України в цілому близько 231,5 мільярда євро. За цей же період з ЄС до росії надійшло 232,05 мільярда євро, зокрема на оплату газу.
+
+Кернер розкритикував політику ЄС щодо росії та назвав цю ситуацію "свідченням повного провалу європейської послідовності в діях".
+
+«Європа платить за енергетичну економіку путіна стільки ж, скільки за опір йому. А потім дивується, чому війна не припиняється», — заявив Кернер у Twitter (X).
+
+Деякі країни заплатили агресору значно більше, ніж надали Україні. Наприклад, Франція заплатила рф близько 40 мільярдів євро, але виділила Україні лише близько 16 мільярдів євро. Аналогічна невідповідність спостерігається в Італії.
+
+«Поки ЄС дозволяє мільярдам євро надходити до військової казни росії і водночас надає Україні лише нерішучу підтримку, він сам сприяє тому, що ця війна триває нескінченно», — сказав Кернер журналу "Шпігель".</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_15-35-25.jpg" length="66063" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 15:35:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️⚡️ЗСУ звільнили 14(!) Населе</title>
+      <link>https://www.mandarinai.lt/post/102359</link>
+      <description>⚡️⚡️ЗСУ звільнили 14(!) Населених пунктів, повернули майже 200 кв. км території в Харківській області під час операції "Ведмежий капкан", — BBC News Україна
+
+Деталі:
+▪️ російські війська наприкінці червня прорвали кордон і просунулися на 12-20 км углиб Харківської області, створивши загрозу оточення ЗСУ в районі Приколотного.
+▪️ Українські військові розпочали операцію, щоб запобігти оточенню своїх сил і ліквідувати російський виступ біля Ольховатки.
+▪️ Замість лобових атак, ЗСУ завдали ударів з флангів, знищили резерви противника і взяли його угруповання в оточення. За три тижні вдалося звільнити майже 200 кв. км території та 14 населених пунктів. Втрати росіян склали близько 800 військових і майже 400 одиниць техніки.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_15-46-43.jpg" length="57580" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 15:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Києві застосовують лазерну с</title>
+      <link>https://www.mandarinai.lt/post/102361</link>
+      <description>В Києві застосовують лазерну систему для боротьби з дронами, комплекс здатний уражати цілі лазером на відстані до 1 км, - BBC</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_17-04-27.jpg" length="18242" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 17:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Мирна угода між Україною та</title>
+      <link>https://www.mandarinai.lt/post/102363</link>
+      <description>❗️ Мирна угода між Україною та рф має бути укладена до січня 2027-го, так хотіла би адміністрація Трампа, – FT</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_18-10-13.jpg" length="112117" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 18:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Запитання: «Ви сказали, що пут</title>
+      <link>https://www.mandarinai.lt/post/102364</link>
+      <description>Запитання: «Ви сказали, що путін – ваш друг. Росія є найбільшим союзником Ірану. Чи вважаєте ви, що путін друг Америки?»
+
+Трамп: «Я не можу говорити від імені Америки. Я спілкувався з путіним під час афери «росія-росія-росія», яку затіяли демократи, чим допомогли мені виграти вибори (мабуть, дід має на увазі втручання у вибори в 2016 році). Вважаю, в мене з путіним хороші відносини».</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/-1160786022472493298.mp4" length="13040926" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 18:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️У Кривому Розі балістика вда</title>
+      <link>https://www.mandarinai.lt/post/102365</link>
+      <description>⚡️У Кривому Розі балістика вдарила по багатоповерхівці, - місцеві канали</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_18-39-46.mp4" length="274496" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 18:39:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
