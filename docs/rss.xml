@@ -6,82 +6,14 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 18:57:44 +0000</lastBuildDate>
-    <item>
-      <title>🤡путін випадково запустив у По</title>
-      <link>https://www.mandarinai.lt/post/102346</link>
-      <description>🤡путін випадково запустив у Польщу кілька дронів і кілька невеликих ракет.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_13-14-36.mp4" length="1522064" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 13:14:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀 86 відгуків на одну Front-en</title>
-      <link>https://www.mandarinai.lt/post/102347</link>
-      <description>👀 86 відгуків на одну Front-end вакансію. А в Defense Tech — у середньому близько 9.
-
-І це привід придивитися до сфери, якщо ви думаєте, куди рухатися далі.
-
-Поки в класичному IT конкуренція залишається високою, MilTech набирає обертів: з’являються нові команди, продукти та технології — а разом із ними потрібні нові спеціалісти.
-
-І далеко не тільки розробники 👇
-→ Project та Product Managers
-→ QA-фахівці
-→ Hardware та Embedded спеціалісти
-→ аналітики та інші tech-фахівці
-
-Тож MilTech може стати тим самим напрямом, куди варто зайти зараз, а не тоді, коли про нього говоритимуть уже всі.
-
-А який напрям у MilTech може підійти саме вам?
-MiltechSchool створили короткий безкоштовний тест: 3 хвилини — і ви дізнаєтесь свій MilTech-напрям, його потенціал та отримаєте рекомендацію, з чого почати.
-
-👉 Пройти тест: https://cutt.ly/3yASiV6c</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_13-16-15.mp4" length="479654" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 13:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ На місці падіння безпілотни</title>
-      <link>https://www.mandarinai.lt/post/102349</link>
-      <description>❗️ На місці падіння безпілотника в Харкові - китайський реактивний двигун</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/7746528739503844202.mp4" length="3136857" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 13:46:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уламки російського дрона горят</title>
-      <link>https://www.mandarinai.lt/post/102353</link>
-      <description>Уламки російського дрона горять біля Андріївської церкви в Києві</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNHTxbAun7hzj19Av4b0ICLBvIpx9ryazBBqvK2boLLt6JUeHE1Fwk69ZYP7Ai.mp4" length="17668344" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 13:50:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ «Ведмежий капкан» - іще одн</title>
-      <link>https://www.mandarinai.lt/post/102354</link>
-      <description>⚡️ «Ведмежий капкан» - іще одна успішна операція ЗСУ, про яку стало відомо тільки сьогодні.
-
-✅ Повернуто під контроль України 204 км² в Харківській області.
-
-✅ Звільнено 14 населених пунктів.
-
-✅ Операція «Ведмежий капкан» проходила в режимі інформаційної тиші.
-
-Хоча окремі її елементи висвітлювалися медіа, в тому числі, і нашою групою, про загальний задум відомо було одиницям.
-
-✅ Ядром унікальної операції став 475-ий полк «Code 9.2».
-
-Як тільки ворог заявив, що реалізує план під назвою «Ведмежий кут» зі створення плацдарму на північний схід від Харкова, полк «Code 9.2» запропонував зустрічну наступальну операцію «Ведмежий капкан».
-
-✅ Бронетехніка у взаємодії з дронами проривалася вперед, українські штурмові групи зʼявлялися нібито нізвідки, була налагоджена система повітряної евакуації поранених - все працювало на результат.
-
-⏯️ Як його змогли досягти силами полку «Code 9.2», дивіться в цьому фільмі https://m.youtube.com/watch?si=d-l2n-Ev3rDNizSI&amp;v=8eP2VG3zqVE&amp;feature=youtu.be</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/db82a229-5fca-4e6a-a851-b7f826ce487b.mp4" length="24069197" type="video/mp4"/>
-      <pubDate>Fri, 20 Nov 2026 14:09:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 00:42:07 +0000</lastBuildDate>
     <item>
       <title>💥🔥Подивіться, як гарно німецьк</title>
       <link>https://www.mandarinai.lt/post/102356</link>
       <description>💥🔥Подивіться, як гарно німецький ЗРК IRIS-T відбивав сьогоднішню масовану ракетно-дронову атаку рф.
 
 IRIS-T – один із найсучасніших комплексів ППО, що стоїть на озброєнні України. Він може збивати російські крилаті ракети Х-101, "Калібр", "Іскандер-К", а також "Шахеди", літаки та вертольоти.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_15-25-00.mp4" length="1227434" type="video/mp4"/>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/cIh9YWNuhHjiTNJu.mp4" length="901802" type="video/mp4"/>
       <pubDate>Fri, 20 Nov 2026 15:25:00 +0000</pubDate>
     </item>
     <item>
@@ -114,11 +46,15 @@ IRIS-T – один із найсучасніших комплексів ППО,
       <pubDate>Fri, 20 Nov 2026 15:46:43 +0000</pubDate>
     </item>
     <item>
-      <title>В Києві застосовують лазерну с</title>
-      <link>https://www.mandarinai.lt/post/102361</link>
-      <description>В Києві застосовують лазерну систему для боротьби з дронами, комплекс здатний уражати цілі лазером на відстані до 1 км, - BBC</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_17-04-27.jpg" length="18242" type="image/jpeg"/>
-      <pubDate>Fri, 20 Nov 2026 17:04:27 +0000</pubDate>
+      <title>🇩🇰 російського військового ата</title>
+      <link>https://www.mandarinai.lt/post/102362</link>
+      <description>🇩🇰 російського військового аташе в Данії оголошено персоною нон ґрата, - глава МЗС Расмуссен.
+
+Про вислання російського аташе Расмуссен оголосив на пресконференції, присвяченій справі про замах на вбивство українського репера «Київстонера», Альберта Васильєва.
+
+Затримано двох громадян Данії; слідство вважає, що вони діяли за завданням російських спецслужб.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_17-39-43.jpg" length="63723" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 17:39:43 +0000</pubDate>
     </item>
     <item>
       <title>❗️ Мирна угода між Україною та</title>
@@ -142,6 +78,54 @@ IRIS-T – один із найсучасніших комплексів ППО,
       <description>⚡️У Кривому Розі балістика вдарила по багатоповерхівці, - місцеві канали</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_18-39-46.mp4" length="274496" type="video/mp4"/>
       <pubDate>Fri, 20 Nov 2026 18:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жахливі наслідки удару балісти</title>
+      <link>https://www.mandarinai.lt/post/102366</link>
+      <description>Жахливі наслідки удару балістикою по центру Кривого Рогу: зруйновано ресторан, багато поранених,— місцеві пабліки</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_19-18-11.mp4" length="4380319" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 19:18:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️7-річний хлопчик у важкому с</title>
+      <link>https://www.mandarinai.lt/post/102367</link>
+      <description>⚡️7-річний хлопчик у важкому стані: ворожий удар по Кривому Рогу поранив 20 людей</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_19-21-08.jpg" length="249607" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 19:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤬русня повторно атакували «шах</title>
+      <link>https://www.mandarinai.lt/post/102368</link>
+      <description>🤬русня повторно атакували «шахедом» місце в Кривому Розі, яке раніше обстріляли балістичними ракетами, де рятувальники намагались допомогти пораненим</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_19-35-54.mp4" length="220697" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 19:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>💊В російському єбанаріумі пам'</title>
+      <link>https://www.mandarinai.lt/post/102369</link>
+      <description>💊В російському єбанаріумі пам'ятники вбивцям зі СВО почали відкривати в дитячих садках</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_19-49-44.mp4" length="3316396" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 19:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥В Києві застосовують лазерну </title>
+      <link>https://www.mandarinai.lt/post/102370</link>
+      <description>🔥В Києві застосовують лазерну систему для боротьби з дронами, комплекс "Блиск" здатний уражати цілі лазером на відстані до 1 км, - BBC
+
+Компанія-розробник SkyFortress заявляє, що лазерний комплекс вже перебуває на бойовому чергуванні з листопада 2026 року. Лазер потужністю 4 кВт здатний уражати дрони на відстані до 1 км, а для пробивання корпусу "Герані" потрібно кілька секунд.
+
+Недоліком комплексу є залежність від погодних умов – туманна та хмарна погода роблять його малоефективним. Перевагою є низька вартість ураження окремої цілі.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-20_20-01-41.jpg" length="21681" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 20:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>росія продовжує вбивати україн</title>
+      <link>https://www.mandarinai.lt/post/102371</link>
+      <description>росія продовжує вбивати українських дітей. У реанімації в Кривому Розі помер 7-річний хлопчик, який потрапив сьогодні під удар російської балістики
+
+Також через удар рф загинула 20-річна дівчина, яка була фельдшером швидкої</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-20_20-29-19.mp4" length="11738107" type="video/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 20:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
