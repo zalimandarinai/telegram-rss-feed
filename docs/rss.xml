@@ -6,7 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 21:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:18:46 +0000</lastBuildDate>
     <item>
       <title>Шок: російський солдат штурмув</title>
       <link>https://www.mandarinai.lt/post/0</link>
@@ -16,15 +16,6 @@
 
 Детальніше про полк «Арей» в «ТСН Тиждень» в неділю о 20:00 на «1+1»</description>
       <pubDate>Sat, 21 Nov 2026 10:08:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀У Калінінградській області(ро</title>
-      <link>https://www.mandarinai.lt/post/102402</link>
-      <description>👀У Калінінградській області(російський анклав між Польщею і Литвою) лунають сирени тривоги.
-
-Напередодні пропагандисти волали, що вороги намагатимуться відрізати Калінінград від росії</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-21_17-33-25.mp4" length="718440" type="video/mp4"/>
-      <pubDate>Sat, 21 Nov 2026 17:33:25 +0000</pubDate>
     </item>
     <item>
       <title>👀 Численні вибухи та робота ПП</title>
@@ -49,9 +40,9 @@
       <pubDate>Sat, 21 Nov 2026 18:51:48 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️ Великобританія розпочне вир</title>
+      <title>⚡️ Велика Британія розпочне ви</title>
       <link>https://www.mandarinai.lt/post/102410</link>
-      <description>⚡️ Великобританія розпочне виробництво українських дронів середньої та великої дальності для ЗСУ, — Міноборони</description>
+      <description>⚡️ Велика Британія розпочне виробництво українських дронів середньої та великої дальності для ЗСУ, — Міноборони</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-21_19-42-38.jpg" length="121231" type="image/jpeg"/>
       <pubDate>Sat, 21 Nov 2026 19:42:38 +0000</pubDate>
     </item>
@@ -68,6 +59,15 @@
       <description>🤬Кадри моторошного удару російської ракети  по залізничній станції «Скнилів» у Львові, який стався в метрі від проїжджаючих автівок –  Chanel 4 News</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-21_20-20-17.mp4" length="810779" type="video/mp4"/>
       <pubDate>Sat, 21 Nov 2026 20:20:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мій друг», - написав Трамп ве</title>
+      <link>https://www.mandarinai.lt/post/102418</link>
+      <description>«Мій друг», - написав Трамп великими літерами в соцмережі Truth Social і розмістив таку картинку з путіним 
+
+Вже не болісно і не смішно. Вже просто огидно</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-22_00-10-03.jpg" length="111827" type="image/jpeg"/>
+      <pubDate>Sun, 22 Nov 2026 00:10:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
