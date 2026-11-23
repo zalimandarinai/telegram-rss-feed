@@ -6,21 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 22:03:43 +0000</lastBuildDate>
-    <item>
-      <title>😐В Одесі через блекаут люди по</title>
-      <link>https://www.mandarinai.lt/post/102438</link>
-      <description>😐В Одесі через блекаут люди почали розпалювати вогнища та готувати собі їжу просто на балконах</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-22_15-47-34.mp4" length="639743" type="video/mp4"/>
-      <pubDate>Sun, 22 Nov 2026 15:47:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥Момент перехоплення російсько</title>
-      <link>https://www.mandarinai.lt/post/102440</link>
-      <description>🔥Момент перехоплення російського реактивного безпілотника-камікадзе "Герань-4" українським пілотом винищувача Mirage 2000 вогнем з 30-мм гармати</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-22_16-24-16.mp4" length="1328563" type="video/mp4"/>
-      <pubDate>Sun, 22 Nov 2026 16:24:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 02:44:38 +0000</lastBuildDate>
     <item>
       <title>❤️‍🩹🙏🏻 Живу дитину дістали з-п</title>
       <link>https://www.mandarinai.lt/post/102441</link>
@@ -120,6 +106,24 @@
 🎥 81-а окрема аеромобільна бригада, 7-й корпус ДШВ</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/8209967052309911536.mp4" length="4131510" type="video/mp4"/>
       <pubDate>Sun, 22 Nov 2026 22:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Логістичний транспорт не доїха</title>
+      <link>https://www.mandarinai.lt/post/102454</link>
+      <description>Логістичний транспорт не доїхав до Кримського півострова.
+
+Водій машини, в яку влучив безпілотник, явно пошкодував, що спробував трасу «Новоросія».
+
+Але варіантів немає, після того, як завалився Керченський міст.</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQM6RxFxfwd_BMLGAX5UXTpX_vcU7ePxC8LdFjOKHhErbsJYwP6AWBqvByL6znr.mp4" length="5799705" type="video/mp4"/>
+      <pubDate>Sun, 22 Nov 2026 22:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Інший ракурс ураження біля Лів</title>
+      <link>https://www.mandarinai.lt/post/102455</link>
+      <description>Інший ракурс ураження біля Лівії корабля, який перевозив російську зброю</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNt4uevVEPSie5p32tAdAaKL6kNsgrwdzYxa_Ac2byPPTMAcb3wvKwW_bYUvtqAyuNfwEnvWoY.mp4" length="414383" type="video/mp4"/>
+      <pubDate>Sun, 22 Nov 2026 23:33:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
