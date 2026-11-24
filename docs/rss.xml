@@ -6,34 +6,7 @@
     <description>Naujienų kanalą pristato www.mandarinai.lt</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 22:49:15 +0000</lastBuildDate>
-    <item>
-      <title>🤝ЄС презентував проєкт 22-го п</title>
-      <link>https://www.mandarinai.lt/post/102487</link>
-      <description>🤝ЄС презентував проєкт 22-го пакета санкцій проти РФ: заборона в'їзд до ЄС росіянам, які брали участь у війні, відключення близько 60 російських банків від SWIFT, нові обмеження щодо криптовалют і платіжних мереж та заборону європейським компаніям працювати в російській енергетичній інфраструктурі.
-
-Також до списків планують внести понад 70 суден тіньового флоту і не допускати російських спортсменів до змагань в ЄС.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/document_2026-11-23_15-54-17.mp4" length="3136881" type="video/mp4"/>
-      <pubDate>Mon, 23 Nov 2026 15:54:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>❗️ Авіація закинула дві високо</title>
-      <link>https://www.mandarinai.lt/post/102488</link>
-      <description>❗️ Авіація закинула дві високоточні бомби на територію «Вовчанського  олійноекстракційного заводу», і в противника там відтепер на дві позиції операторів дронів менше</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/AQNTtPJlK4gmY59duiRzu14PtJRw9ITXXhoIInnJxdFyQOgw8OpyaIvqo3ztWjlsoniutC.mp4" length="11852107" type="video/mp4"/>
-      <pubDate>Mon, 23 Nov 2026 16:43:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ Кацапи знову скинули протип</title>
-      <link>https://www.mandarinai.lt/post/102489</link>
-      <description>⚠️ Кацапи знову скинули протипіхотні міни на Херсон.
-
-Вибухові пристрої помітили в районі перехрестя Університетської з проспектом Текстильників.
-
-Поліція закликає оминати цей район, адже територія можливого мінування може бути більшою.</description>
-      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-23_17-25-21.jpg" length="272017" type="image/jpeg"/>
-      <pubDate>Mon, 23 Nov 2026 17:25:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 06:45:44 +0000</lastBuildDate>
     <item>
       <title>🔴Екс-командувач армією США в Є</title>
       <link>https://www.mandarinai.lt/post/102491</link>
@@ -131,6 +104,20 @@
 Безпілотник зміг розігнатися до 520 км/год з бойовою частиною і до 527,5 км/год без неї.</description>
       <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-23_21-32-39.jpg" length="21781" type="image/jpeg"/>
       <pubDate>Mon, 23 Nov 2026 21:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇵🇱 Польща вирішила не збивати </title>
+      <link>https://www.mandarinai.lt/post/102503</link>
+      <description>🇵🇱 Польща вирішила не збивати російський безпілотник в своєму повітряному просторі, оскільки збиття становило загрозу для мирного населення, адже він змінив курс і став повертатися до України, - оперативне командування</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/photo_2026-11-24_06-38-45.jpg" length="119558" type="image/jpeg"/>
+      <pubDate>Tue, 24 Nov 2026 06:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Підбитий дроном корабель «Spar</title>
+      <link>https://www.mandarinai.lt/post/102504</link>
+      <description>Підбитий дроном корабель «Sparta II» відтягнули до Петербурга і там, в порту, вже продовжували гасити</description>
+      <enclosure url="https://storage.googleapis.com/telegram-media-storage/7238028300160271009.mp4" length="6959462" type="video/mp4"/>
+      <pubDate>Tue, 24 Nov 2026 06:41:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
